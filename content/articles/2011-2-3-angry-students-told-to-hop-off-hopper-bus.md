@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102031914-ks607-hopperbu.jpg"
 image_caption: >
 
-image_width: "2560"
-image_height: "1920"
 image_attribution: "Katherine Bettany"
 image_attribution_link: ""
 video_url: ""

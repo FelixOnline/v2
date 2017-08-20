@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201406130403-jal08-screen-shot-2014-06-13-at-04.03.26.png"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

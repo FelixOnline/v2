@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702101409-felix-14496866427_82e07994f0_o.jpg"
 image_caption: >
 
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Pabak Sarkar"
 image_attribution_link: ""
 video_url: ""

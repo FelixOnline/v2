@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105261937-felix-imperialcampus-313.jpg"
 image_caption: >
   Eastside will lose three subwardens
-image_width: "3043"
-image_height: "2036"
 image_attribution: "Dave Guttridge/Imperial College London"
 image_attribution_link: ""
 video_url: ""

@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201309110142-jal08-dangerous-democracy-1.png"
 image_caption: >
   Is democracy just a pretty illusion?
-image_width: "0"
-image_height: "0"
 image_attribution: "www.illuminati-news.com"
 image_attribution_link: "http://www.illuminati-news.com"
 video_url: ""
@@ -60,7 +58,6 @@ A form of democracy with religious inclinations has also emerged in a large sect
 I came across an essay by the CNN reporter Fareed Zakaria that calls such a phenomenon ‘illiberal democracy’. He states how democracy is thriving in the world but liberty is not. The idea of self-ownership and freedom from oppression is falling in the democratic world.
 
 In fact, even western democracy seems to provide misrepresentation but of a different kind. In countries such as the US and the UK, the political parties rely on funding from a small group of people for their election campaigns (0.05% of the population for the US). A number of these donors tend to have a personal agenda in funding these parties. They can have a strong say in what bills are brought forward in parliament. As a result, rather than the will of the general population being heard, a tiny minority affects the democratic process.
-TODO: image from
 Furthermore, there is growing concern about the government gaining access to our personal information. A BBC report stated that the NSA whistleblower, Edward Snowden, leaked information about the US and UK ‘cracking online encryption’. This issue acts as another example of misrepresentation- about how invading our privacy, without our prior consent, might not be what we want. The morality of this issue, however, is for another editorial.
 
 Every citizen of a democracy needs to be equally represented by his or her elected leaders. We may not be able to deal with misrepresentation across the world but we can deal with misrepresentation at home. So if you have any suggestion about how we can go about dealing with such problems, please comment below. Let’s not become a democracy where we have the freedom to elect our own dictators.

@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611251420-felix-Camus.jpg"
 image_caption: >
 
-image_width: "804"
-image_height: "1050"
 image_attribution: "Robert Edwards"
 image_attribution_link: ""
 video_url: ""

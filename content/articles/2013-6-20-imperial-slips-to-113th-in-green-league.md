@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201306210033-tna08-green-league.png"
 image_caption: >
   Wahay! We’re finally equal with Cambridge at something. Oh, wait. DAMMIT!
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

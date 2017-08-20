@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411061918-cj914-5792312_orig.png"
 image_caption: >
   The contestants at the Jamboree in Boston, USA. Imperial won a number of awards at the event.
-image_width: "0"
-image_height: "0"
 image_attribution: "iGEM"
 image_attribution_link: ""
 video_url: ""

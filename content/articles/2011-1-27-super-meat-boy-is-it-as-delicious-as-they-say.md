@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101281253-sjw209-SuperMea.jpg"
 image_caption: >
 
-image_width: "1334"
-image_height: "1200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152110-ig711-russian.jpg"
 image_caption: >
   The semi finals. From left to right – Alexey Denisov, Alexander Bukharin, Oksana Iamshanova, Egor Sa
-image_width: "941"
-image_height: "627"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

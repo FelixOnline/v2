@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611111258-ajp15-bataclan.jpg"
 image_caption: >
 
-image_width: "3375"
-image_height: "2248"
 image_attribution: "ParisSharing"
 image_attribution_link: ""
 video_url: ""

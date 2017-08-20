@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191224-felix-firewatch.jpg"
 image_caption: >
   In the wilderness, no one can hear you scream.
-image_width: "3000"
-image_height: "1688"
 image_attribution: "Firewatch, Campo Santo"
 image_attribution_link: ""
 video_url: ""

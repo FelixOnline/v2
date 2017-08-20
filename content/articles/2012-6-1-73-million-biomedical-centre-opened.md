@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206011254-mc4509-08_ictem_buildingmisc_60.jpg"
 image_caption: >
   The Imperial Centre for Translational and Experimental Medicine is located on Hammersmith Campus
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

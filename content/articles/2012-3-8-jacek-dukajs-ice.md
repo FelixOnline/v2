@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203082038-ams111-lod.jpg"
 image_caption: >
   Let me guess, this novel is set in Imperial Russia?
-image_width: "1057"
-image_height: "1551"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

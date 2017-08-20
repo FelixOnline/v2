@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104191806-felix-file-|-dation-a-copper-mine-in-kolwezi,-katanga,-dr-congo.jpeg"
 image_caption: >
   A copper mine in the Congo
-image_width: "595"
-image_height: "300"
 image_attribution: "onlinenigeria.com"
 image_attribution_link: "http://news2.onlinenigeria.com/news/general/63673-Genuine-restitution-for-sports.txt"
 video_url: ""

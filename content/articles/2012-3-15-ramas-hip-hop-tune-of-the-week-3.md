@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152119-ams111-shad-alt.jpg"
 image_caption: >
   This will turn your world upside-down
-image_width: "1000"
-image_height: "1000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

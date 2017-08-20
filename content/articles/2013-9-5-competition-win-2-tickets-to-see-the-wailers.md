@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201309051049-jal08-wailers.png"
 image_caption: >
   #Winning!
-image_width: "0"
-image_height: "0"
 image_attribution: "Felix Music"
 image_attribution_link: "https://www.facebook.com/ICFelixMusic?fref=ts"
 video_url: ""

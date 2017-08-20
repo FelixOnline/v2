@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702031734-felix-3473758739_9ae204f630_o.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "768"
 image_attribution: "Andrew Ell"
 image_attribution_link: ""
 video_url: ""

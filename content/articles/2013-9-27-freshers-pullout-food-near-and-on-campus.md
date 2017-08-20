@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201309280031-jal08-icl_catering_104.jpg"
 image_caption: >
   The library café at non-peak times
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: "http://www3.imperial.ac.uk/eatinganddrinking"
 video_url: ""

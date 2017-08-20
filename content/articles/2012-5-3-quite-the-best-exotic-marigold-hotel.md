@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205031916-ams111-best_exotic_marigold11.jpg"
 image_caption: >
   Must find Bond, must find Bond, must find Bond, must find Bond...
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

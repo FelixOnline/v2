@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606031131-felix-IMG_2262.jpg"
 image_caption: >
   Choux trious!
-image_width: "1936"
-image_height: "1936"
 image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""

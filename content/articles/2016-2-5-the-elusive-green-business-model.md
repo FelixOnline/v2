@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051208-felix-Adobe_HQ.jpg"
 image_caption: >
   The Adobe headquarters in San Jose, California.
-image_width: "3072"
-image_height: "2154"
 image_attribution: "Wikimedia"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110140040-felix-fatherson-holy-ghost-album-cover.jpg"
 image_caption: >
 
-image_width: "1006"
-image_height: "1006"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

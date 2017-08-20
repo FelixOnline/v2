@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103031934-nm1010-fooodfoo.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "690"
 image_attribution: "flickr/foodieguide"
 image_attribution_link: "http://www.flickr.com/photos/helenyuetlingpang/"
 video_url: ""

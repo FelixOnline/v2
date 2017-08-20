@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601290848-felix-elecs.jpg"
 image_caption: >
   Where was the FELIX editor? Already working, probably.
-image_width: "2048"
-image_height: "1366"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""

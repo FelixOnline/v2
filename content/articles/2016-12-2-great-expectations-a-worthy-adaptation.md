@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021502-felix-15220217_10154159183271365_7284543474375567080_n.jpg"
 image_caption: >
 
-image_width: "960"
-image_height: "648"
 image_attribution: "Guildhall School | Clive Barda 2016"
 image_attribution_link: ""
 video_url: ""

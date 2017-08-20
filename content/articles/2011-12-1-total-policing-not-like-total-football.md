@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012129-pk1811-anonymous.jpg"
 image_caption: >
   Some people just can’t do anything right...
-image_width: "2751"
-image_height: "4142"
 image_attribution: "Andrew Fok"
 image_attribution_link: ""
 video_url: ""

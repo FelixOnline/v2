@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011112111-ks607-berlusco.jpg"
 image_caption: >
 
-image_width: "1600"
-image_height: "1085"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

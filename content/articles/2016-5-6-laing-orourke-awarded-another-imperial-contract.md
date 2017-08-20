@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061044-felix-west.jpg"
 image_caption: >
   It’s looks alright, I guess.
-image_width: "1440"
-image_height: "579"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

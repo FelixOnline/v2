@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201512061351-ff712-3207.jpg"
 image_caption: >
 
-image_width: "620"
-image_height: "372"
 image_attribution: "Allstar"
 image_attribution_link: ""
 video_url: ""

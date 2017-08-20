@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111181010-felix-mark_davies.jpg"
 image_caption: >
   Mark Davies, Chief Executive of Imperial College Healthcare NHS Trust
-image_width: "2904"
-image_height: "3676"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201007010212-jn104-JapanRug.jpg"
 image_caption: >
 
-image_width: "2334"
-image_height: "1530"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

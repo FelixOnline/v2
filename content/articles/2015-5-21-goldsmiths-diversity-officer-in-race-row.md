@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505212105-kmw13-screen-shot-2015-05-21-at-18.52.00.png"
 image_caption: >
   Diversity Officer Ms Mustafa shown here taking her job very seriously
-image_width: "0"
-image_height: "0"
 image_attribution: "Facebook"
 image_attribution_link: ""
 video_url: ""

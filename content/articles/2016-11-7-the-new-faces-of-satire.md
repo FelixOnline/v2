@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611071341-felix-Sequence-02.00_00_00_15.Still001.jpg"
 image_caption: >
 
-image_width: "1280"
-image_height: "720"
 image_attribution: "TBS"
 image_attribution_link: ""
 video_url: ""

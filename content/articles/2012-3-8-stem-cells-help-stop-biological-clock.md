@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203082008-ams111-biological_clock243-940x626.jpg"
 image_caption: >
   Time might not be running out, after all
-image_width: "940"
-image_height: "626"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

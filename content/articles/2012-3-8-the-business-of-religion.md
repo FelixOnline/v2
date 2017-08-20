@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203082110-ams111-dscf2614.jpg"
 image_caption: >
   The relationship between religious traditions and business could provide a new angle to Occupy
-image_width: "2000"
-image_height: "1329"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

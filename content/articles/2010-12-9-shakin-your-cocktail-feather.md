@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201012091950-ac1507-cocktail.jpg"
 image_caption: >
 
-image_width: "372"
-image_height: "640"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

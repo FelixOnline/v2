@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203081918-ams111-streptococcus.jpg"
 image_caption: >
   Inspiring: Streptococcus pyogenes
-image_width: "1443"
-image_height: "1259"
 image_attribution: "Centres for Disease Control and Prevention"
 image_attribution_link: ""
 video_url: ""

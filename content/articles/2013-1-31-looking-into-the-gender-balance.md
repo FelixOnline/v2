@@ -40,8 +40,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201302041012-tna08-gender-balance-rgb.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -52,7 +50,6 @@ Male undergraduates continue to outnumber females by nearly two to one as reveal
 The (unsurprising) revelation came to light after the department revealed that for the previous academic year a mere 3,116undergraduates out of 9,080 were female. Some postulate that this is a particular facet of Imperial College but research into other UK universities, conducted by Felix, reveals otherwise. The statistics highlight a strong affinity of the male population with STEM (Science, Technology, Engineering & Mathematics) subjects.
 ## United Kingdom Statistics
 ‘Oxbridge’, Durham University and University College London exhibit more balanced male: female ratios, with the latter having a 2% female majority overall. Delving deeper into the statistics shows a pivotal change in the ratio for the STEM subjects. The University of Oxford shows that male undergraduates outweigh their female counterparts by a sizeable 22%. Building upon this a mere 33.4% of science undergraduates at the University of Cambridge enrolled for equivalent 2011/2012 academic year were female. The trend for Durham was less polarised but reiterated the correlation. Taken with a pinch of salt these findings demonstrate that the phenomenon is far from localised to Imperial College (being a focus for higher technical education alone), which instead reflects a more generalised third level STEM trend otherwise obscured in different institutions by humanities departments.
-TODO: image from
 ## Global Statistics
 Further investigation conducted by Felix presented the observed male: female ratios as a global trend, extending into Europe, the United States of America and the Far East. Starting off in close proximity to the UK (and closer to my heart – Eoghan) the skewed ratio is observed in Dublin institutions. Out of the 11,844 undergraduates enrolled at Trinity College Dublin for the 2010/2011 academic year 4,856 (41%) were male. On the contrary this does not extend to any of the niche STEM disciplines. The starkest contrast to the college-wide ratio arises within Theoretical Physics; one in thirty scholars are said to be female.
 

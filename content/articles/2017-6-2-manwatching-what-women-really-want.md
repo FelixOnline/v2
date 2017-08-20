@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706021518-felix-201705251403-im1413-helenmurray-Manwatching-Royal-Court-1.jpg"
 image_caption: >
   Manwatching- "written by an anonymous woman, performed by a unprepared man"
-image_width: "700"
-image_height: "455"
 image_attribution: "Helen Murray"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232142-pk1811-200562_10150445878495018_639375017_17427864_7710888_n.jpg"
 image_caption: >
   Raincatcher Imperial took over Metric last year as well
-image_width: "720"
-image_height: "540"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

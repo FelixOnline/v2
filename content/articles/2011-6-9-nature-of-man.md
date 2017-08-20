@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106092050-felix-moniqueho.jpg"
 image_caption: >
 
-image_width: "3544"
-image_height: "2356"
 image_attribution: "Monique Ho"
 image_attribution_link: ""
 video_url: ""

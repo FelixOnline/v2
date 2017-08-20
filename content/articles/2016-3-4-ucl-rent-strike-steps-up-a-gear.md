@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603041125-felix-128cl rent19344_487411581443165_5745645532743636195_o.jpg"
 image_caption: >
   Fight the power!
-image_width: "2048"
-image_height: "1513"
 image_attribution: "UCL, Cut the rent"
 image_attribution_link: ""
 video_url: ""

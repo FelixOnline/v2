@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102031951-ks607-icradiod.jpg"
 image_caption: >
 
-image_width: "200"
-image_height: "256"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

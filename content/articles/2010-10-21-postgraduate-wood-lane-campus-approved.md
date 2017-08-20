@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104200958-felix-69903710.jpg"
 image_caption: >
   An artist's impression of the development
-image_width: "540"
-image_height: "379"
 image_attribution: "Imperial College London"
 image_attribution_link: "http://www3.imperial.ac.uk/newcampus/images/artistimpressions"
 video_url: ""

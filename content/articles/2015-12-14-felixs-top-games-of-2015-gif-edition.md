@@ -31,14 +31,8 @@ featured: true
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
-image_width: ""
-image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 ---
 
-TODO: image from
-TODO: image from
-TODO: image from
-TODO: image from

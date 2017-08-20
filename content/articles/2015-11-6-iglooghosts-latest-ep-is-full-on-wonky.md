@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511061418-ygr12-tniy.jpg"
 image_caption: >
   Nü, nutty, noncomformist.
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

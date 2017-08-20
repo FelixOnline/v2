@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102242029-dr910-bottlema.jpg"
 image_caption: >
 
-image_width: "606"
-image_height: "532"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

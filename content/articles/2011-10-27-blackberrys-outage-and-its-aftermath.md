@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110272335-felix-rim-holds-developers-conference-blackberry-devcon2010-15.jpg"
 image_caption: >
   Mike Lazaridis, founder and co-CEO of RIM, the creators and manufacturers of the BlackBerry
-image_width: "980"
-image_height: "1409"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

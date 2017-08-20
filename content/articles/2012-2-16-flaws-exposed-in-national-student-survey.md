@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202201456-felix-nss.jpg"
 image_caption: >
   Information gained from the TeachDB database includes name, CID, and year
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Alexander Karapetian"
 image_attribution_link: ""
 video_url: ""

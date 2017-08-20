@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191222-felix-tumblr_mt6jj9UTQa1rgam01o1_1280.jpg"
 image_caption: >
   Huey and Riley, partners in crime and brothers at odds.
-image_width: "1885"
-image_height: "1080"
 image_attribution: "Adult Swim"
 image_attribution_link: ""
 video_url: ""

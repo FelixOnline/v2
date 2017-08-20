@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106281225-felix-chance-meeting-front.jpg"
 image_caption: >
 
-image_width: "923"
-image_height: "932"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

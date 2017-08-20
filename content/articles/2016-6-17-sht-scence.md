@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606171119-felix-19735677646_3f2b02c34f_o.jpg"
 image_caption: >
   A fitting tribute to the wackiest of fictional scientists.
-image_width: "2964"
-image_height: "2019"
 image_attribution: "Heather Paul"
 image_attribution_link: ""
 video_url: ""

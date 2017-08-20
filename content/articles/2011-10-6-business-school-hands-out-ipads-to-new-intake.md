@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110071533-felix-ipad1.jpg"
 image_caption: >
   Strategic Marketing students receiving their new iPads
-image_width: "3456"
-image_height: "2304"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

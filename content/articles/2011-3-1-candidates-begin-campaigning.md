@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103012043-ks607-election.jpg"
 image_caption: >
   Candidates listen carefully to the rules
-image_width: "3888"
-image_height: "2592"
 image_attribution: "Afonso Campos"
 image_attribution_link: ""
 video_url: ""

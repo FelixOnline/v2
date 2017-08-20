@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092322-pk1811-fall-2010-c.jpg"
 image_caption: >
   Christian Dior Fall 2010 Couture
-image_width: "710"
-image_height: "992"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

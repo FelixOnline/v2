@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104181235-felix-4973119165_b97d1b7550_o.jpg"
 image_caption: >
 
-image_width: "1717"
-image_height: "1146"
 image_attribution: "Jonathan Cole"
 image_attribution_link: "http://www.flickr.com/photos/bisgovuk/4973119165/"
 video_url: ""

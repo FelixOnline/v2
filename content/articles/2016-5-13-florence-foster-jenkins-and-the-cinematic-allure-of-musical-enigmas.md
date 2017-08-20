@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131108-felix-5_TSL_Shot_04_174.jpg"
 image_caption: >
   The Space Lady.
-image_width: "1000"
-image_height: "1429"
 image_attribution: "Upset the Rhythm"
 image_attribution_link: ""
 video_url: ""

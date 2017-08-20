@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103032015-ks607-wheresth.jpg"
 image_caption: >
 
-image_width: "5016"
-image_height: "3588"
 image_attribution: "Hamish Muir"
 image_attribution_link: ""
 video_url: ""

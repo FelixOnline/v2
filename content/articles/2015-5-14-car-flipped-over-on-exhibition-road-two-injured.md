@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505142317-cj914-unknown.jpeg"
 image_caption: >
   An Imperial medic caught a picture of the incident
-image_width: "0"
-image_height: "0"
 image_attribution: "Twitter/ samir_afzal"
 image_attribution_link: ""
 video_url: ""

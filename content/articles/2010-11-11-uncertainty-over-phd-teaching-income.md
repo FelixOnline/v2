@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011112207-ks607-EEEEEEE.jpg"
 image_caption: >
 
-image_width: "2592"
-image_height: "3888"
 image_attribution: "Kadhim Shubber"
 image_attribution_link: "http://www.felixonline.co.uk/?user=ks607"
 video_url: ""

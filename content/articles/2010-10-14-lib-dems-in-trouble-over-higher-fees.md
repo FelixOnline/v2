@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010142017-ks607-nickcleg.jpg"
 image_caption: >
   "Oh dear! Did I promise that?"
-image_width: "800"
-image_height: "1216"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

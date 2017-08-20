@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106021932-felix-sadnesscmyk.jpg"
 image_caption: >
   Don’t cry, there are drugs to help you forget just how bad that film actually was
-image_width: "1800"
-image_height: "1350"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

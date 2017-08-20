@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702101555-felix-Aaron_Paul_by_Gage_Skidmore_2.jpg"
 image_caption: >
 
-image_width: "2616"
-image_height: "3054"
 image_attribution: "Gage Skidmore"
 image_attribution_link: ""
 video_url: ""

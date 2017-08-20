@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232322-felix-nicolasmassie.jpg"
 image_caption: >
   Deputy President (Welfare) Nicolas Massie
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Matthew Colvin"
 image_attribution_link: ""
 video_url: ""

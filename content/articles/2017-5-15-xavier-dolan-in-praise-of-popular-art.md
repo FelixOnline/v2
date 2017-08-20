@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705151918-felix-image.jpg"
 image_caption: >
   Xavier Dolan’s Mommy, a festival hit, finds the director flexing his directorial muscles, expanding his technique
-image_width: "3000"
-image_height: "2091"
 image_attribution: "Allstar"
 image_attribution_link: ""
 video_url: ""
@@ -48,7 +46,6 @@ This is just me exaggerating since at least two of his movies – I Killed My Mo
 The most obvious theme that runs through all six features, at least partly, is the way a son is seen by a mother, whether the mother is his own – most notably in I Killed my Mother and Mommy, depicted through everyday relationships – or of a friend’s (all the others). Funnily enough, the recurrent figure of the mother is played by the same actresses: Anne Dorval in three movies, and Nathalie Baye in two others. What other themes? Homosexuality, obviously: it’s explicitly present his first two movies, I Killed My Mother and Heartbeats, and in Tom at the Farm where he himself plays one of the main characters; but it’s also a thin backdrop in It’s Only the End of the World, although it is not explicit in the Jean-Luc Lagarce text from which the movie is adapted. However, I do not believe these themes explain why his movies are polarising.
 
 
-TODO: image from
 Instead, what I think is responsible for such reactions is another feature his movies have in common: they are meant to touch people, to change them, make them feel emotions. No surprise from a director whose favourite movie is Titanic. He even says it explicitly: “Au cinéma, j’ai besoin d’être ému” (“In cinema, I need to be moved”). But, more importantly, I believe this goes back to his young age and early acclaim: within his personality and his movies there is an urgency to touch, to say what he has to say and make people remember him, in a constant race against the clock. This urgency means emotions are not expressed in the subtlest of ways, and I think that is where the accusations of sentimentality originate. But where does this sentimentality come from?
 The first part of the answer is that he conveys emotions through stories. As such, the stories he tells must be general – or to use another, blurrier, word: popular – enough for everyone to identify with, or at least be immersed; that is why his movies are dramas, even spilling over into melodrama. Mommy is the perfect example, depicting the tumultuous relation between Steve and his mother, one that we know doomed since the very first shots of the movie: indeed, what is more popular than (family) relations?
 
@@ -65,4 +62,3 @@ In the end, I think these four elements (and combinations thereof) are what make
 
 Is that really what it is? While I felt this way the first time I watched one of his movies, Mommy, I slowly came to realise it is in fact the opposite. Dolan is young and has many things to say, so much that he must say them before it is too late. And this accumulation of effects is, I think, the way he chooses to do this: he saturates the picture with effects in order to saturate it with emotions; with his repetitive use of slow motion, he literally slows down the time; there is always this urgency to say the most in the least amount of time, to move us, to make us remember. To do so, he uses popular themes to touch as many people as possible, to make us as close as possible to what is happening on the screen. He says it himself: all his characters “have the same identity problems. They’re looking for themselves, for a place in society. They’re misfits trying to fit in. They often love someone who doesn’t love them back.”
 Some people think Dolan is trying too hard at this, with everything so thoroughly constructed to move us that the result is we do not wish to be moved anymore. But what if we chose to let him move us? And to me, this is what popular art is about: to reference Dolan’s favourite movie, Titanic, what would it be without Céline Dion’s (in)famous song ‘My Heart Will Go On’? Would it have the same fame? Probably not, and I this is what makes it beautiful. This is what Dolan is trying to achieve with his extremely popular art, and I think he succeeds. The truth is, Xavier Dolan’s movies are to cinema what pop is to music. And that is amazing.
-TODO: image from

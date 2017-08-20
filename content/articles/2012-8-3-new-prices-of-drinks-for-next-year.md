@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201208031242-felix-felix-drowns-sorrow.jpg"
 image_caption: >
   First a bad lab report mark, then pennied by 240 people. Welcome to cat versus booze
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

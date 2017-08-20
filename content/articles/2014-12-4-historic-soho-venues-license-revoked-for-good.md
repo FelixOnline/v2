@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412041921-cj914-alex.jpg"
 image_caption: >
   Dev Hynes and Alex Turner share the White Heat stage way back in 2008 for the Falling Off Lavender B
-image_width: "0"
-image_height: "0"
 image_attribution: "Emir Shad"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205250016-mc4509-self-checkout.jpg"
 image_caption: >
   I refuse to use self checkout. I’m basically temping for free by PLEASE REMOVE ITEM FROM BAGGING ARE
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

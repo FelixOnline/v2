@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122301-felix-rory-dub-sequence.jpg"
 image_caption: >
 
-image_width: "4272"
-image_height: "2848"
 image_attribution: "Simon Federer"
 image_attribution_link: ""
 video_url: ""

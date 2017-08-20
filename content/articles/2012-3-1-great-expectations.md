@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203012244-cac111-4-14-hine-breakerboys-01139u11.jpg"
 image_caption: >
   Not exactly an upbeat revolution
-image_width: "5000"
-image_height: "3523"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

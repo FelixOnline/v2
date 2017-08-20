@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082143-pk1811-frugal_xmas_wine-1.jpg"
 image_caption: >
 
-image_width: "600"
-image_height: "399"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

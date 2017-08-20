@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102102-pk1811-40-60-0699-1324_4.jpg"
 image_caption: >
   The laser target chamber in the National Ignition Facility in California, US.
-image_width: "2000"
-image_height: "1500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

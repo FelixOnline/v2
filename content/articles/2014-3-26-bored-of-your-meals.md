@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201403261410-jal08-screen-shot-2014-03-26-at-14.09.44.png"
 image_caption: >
   The risotto with chicken, leek and mushrooms, with added bacon and frozen vegetables!
-image_width: "0"
-image_height: "0"
 image_attribution: "MICHAEL YAT KIT CHUNG"
 image_attribution_link: ""
 video_url: ""

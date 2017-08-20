@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105121939-felix-08_globe-with-devastation-overlay-over-arctic-or-antarctic-(2050).jpg"
 image_caption: >
   All you need to be a world leader is to be able to use Google Earth
-image_width: "1920"
-image_height: "1080"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

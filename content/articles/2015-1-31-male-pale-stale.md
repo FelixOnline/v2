@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201501311838-ff712-zadie-smith-nw-2012-use-c-dominique-nabokov-2012.jpg"
 image_caption: >
   British author Zadie Smith, whose work has been consistently critically acclaimed.
-image_width: "0"
-image_height: "0"
 image_attribution: "Dominique Nabokov"
 image_attribution_link: ""
 video_url: ""

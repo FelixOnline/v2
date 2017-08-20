@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011112217-nm1010-students.jpg"
 image_caption: >
 
-image_width: "2535"
-image_height: "3704"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

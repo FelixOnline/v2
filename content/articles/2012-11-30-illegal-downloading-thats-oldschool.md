@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201211301139-jp1409-torrent-websites.png"
 image_caption: >
   The fallen torrenting giants, well mostly
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

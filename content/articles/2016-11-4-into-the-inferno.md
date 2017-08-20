@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611041531-aib116-into-the-inferno-image.jpg"
 image_caption: >
 
-image_width: "1554"
-image_height: "777"
 image_attribution: "Netflix "
 image_attribution_link: ""
 video_url: ""

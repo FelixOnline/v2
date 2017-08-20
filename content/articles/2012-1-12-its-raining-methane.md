@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122154-cac111-titan_multi_spectral_overlay.jpg"
 image_caption: >
   Titan as seen by Cassini in ultraviolet and infrared wavelengths
-image_width: "576"
-image_height: "583"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

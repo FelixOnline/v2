@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505151351-cj914-eeyore-quotes-hd-wallpaper-23.jpg"
 image_caption: >
   A group of kind committed friends can bring even an old grey grumpy donkey to a smile
-image_width: "0"
-image_height: "0"
 image_attribution: "hdwallpapersdesktop"
 image_attribution_link: ""
 video_url: ""

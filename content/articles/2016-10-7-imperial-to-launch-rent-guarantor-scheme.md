@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610071852-felix-69729963_a737132ad6_o.jpg"
 image_caption: >
   200pw cause South Ken is fancy af
-image_width: "1600"
-image_height: "1200"
 image_attribution: "TS Pakhrin"
 image_attribution_link: ""
 video_url: ""

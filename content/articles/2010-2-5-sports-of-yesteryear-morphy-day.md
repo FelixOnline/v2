@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201002051725-rsp07-morphyda.jpg"
 image_caption: >
 
-image_width: "896"
-image_height: "537"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

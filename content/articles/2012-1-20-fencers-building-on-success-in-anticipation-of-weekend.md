@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201201205-felix-img_8922.jpg"
 image_caption: >
   Off-target! Such a rare occurence in foil
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Indy Leclercq"
 image_attribution_link: ""
 video_url: ""

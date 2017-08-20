@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201211222254-tna08-qt-view.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -57,7 +55,6 @@ __The Queen’s Tower event__
 A big thank you to all of the OSC Executive committee who made it possible together with the college itself!” – Wasim Khouri, OSC Chair.
 
 __Cyprus Hospitality Night__
-TODO: image from
 “As part of the first International Week at Imperial, the Imperial College Cypriot Society organized a special event for everyone at Imperial to get to know more about Cyprus, its hospitable people and also the amazing Cypriot cuisine, defined by a splendid mixture of Mediterranean and Middle-Eastern food. Theevent, named ‘Cyprus Hospitality Night’ was an excellent opportunity for people to taste the local starters of “pitta” bread with “taramosalata”(made from smoked cods roe), “houmous” and “lountza” (delicious smoked and marinated loin of pork). Of course, the famous Cypriot cheese, “halloumi”, couldn’t be missed from the event and it was actually served grilled which made it even tastier! Moreover, attendees had the chance to try some of the island’s finest traditional deserts such as ‘Cyprus delights’ or Cypriot “loukoumia”, “soutzioukos” (made of grape must, nuts and flour) and the semolina variety of “halvas”. The event turned out to be very successful and all the food and deserts were consumed very quickly, leaving everybody amazed by the Cypriot flavours! Finally, everyone left satisfied by the friendliness of Cypriot people and enjoyed the Cypriot hospitality. “ – Ioannis Kourouklides, Cypriot society. (See Food, page 44)
 
 __Hellenic Society traditional cuisine day__
@@ -67,7 +64,6 @@ __Hellenic Society traditional cuisine day__
 The event lasted for two hours, during the lunch break that is, and was enjoyed by a very large number of Imperial students as well as members of staff. The food was also accompanied by modern Greek popular music that resulted in a feast of Greek dancing!” – Michael Dinalexi, Hellenic society
 
 __The OSC World cup__
-TODO: image from
 “Saturday the 17th November saw the 4th Annual OSC World Cup tournament take place at Imperial College with over 100 players representing 16 countries, fighting it out to get their name on the famous OSC World cup and create a legacy at the College.
 
 Imperial’s largest international sports event is a chance for students from different cultures within the university to come together and play for their countries in what is many students’ last chance to fulfill their dream of playing in a World Cup final. The day did not disappoint.

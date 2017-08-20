@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201009151806-ck806-willaim.jpg"
 image_caption: >
 
-image_width: "4727"
-image_height: "3152"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

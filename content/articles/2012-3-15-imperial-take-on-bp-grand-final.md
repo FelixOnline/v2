@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152138-pk1811-bp-petrol-station-in-king-001.jpg"
 image_caption: >
 
-image_width: "460"
-image_height: "276"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

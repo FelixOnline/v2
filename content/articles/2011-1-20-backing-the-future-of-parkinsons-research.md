@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101201924-ks607-backtoth.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1080"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

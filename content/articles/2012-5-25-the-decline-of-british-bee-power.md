@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205251941-mc4509-s4.jpg"
 image_caption: >
   97% of wildflower meadows have been lost over the past 60 years, adding to the decline of bees
-image_width: "0"
-image_height: "0"
 image_attribution: "Muhammad Mahdi Karim"
 image_attribution_link: ""
 video_url: ""

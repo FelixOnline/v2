@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603041131-felix-TBL_BIG_ELECTIONS_2015_22h50m48sa_0.jpg"
 image_caption: >
   The beautiful people.
-image_width: "2994"
-image_height: "1146"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""

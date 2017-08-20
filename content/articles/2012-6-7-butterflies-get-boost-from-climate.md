@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206071956-pk1811-brown-argus-(jim-asher).png"
 image_caption: >
   Brown Argus butterfly is one species that has benefited from climate change
-image_width: "0"
-image_height: "0"
 image_attribution: "Jim Asher"
 image_attribution_link: ""
 video_url: ""

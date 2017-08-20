@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705151819-felix-17492802_233236447143022_5206466482755991129_o.jpg"
 image_caption: >
   'The Wipers Times' Play by Ian Hislop and Nick Newman performed
-image_width: "2048"
-image_height: "1463"
 image_attribution: "Arts Theatre, London"
 image_attribution_link: ""
 video_url: ""

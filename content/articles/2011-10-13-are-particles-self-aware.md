@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110132256-felix-white-noise.png"
 image_caption: >
   The white noise spectrum, random peaks over all frequencies without clear correlation... trippy, yo
-image_width: "1791"
-image_height: "1276"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

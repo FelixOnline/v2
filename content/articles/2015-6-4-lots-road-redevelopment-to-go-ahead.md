@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506050019-cj914-chelsea-waterfront-cropped.jpg"
 image_caption: >
   The project has an estimated completion date of 2019, but the first set of houses will go on sale in the next few weeks
-image_width: "0"
-image_height: "0"
 image_attribution: "The Spaces"
 image_attribution_link: ""
 video_url: ""

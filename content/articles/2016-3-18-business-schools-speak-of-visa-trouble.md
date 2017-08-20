@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603181132-felix-Business-School--tojpeg_1416490828419_x2.jpg"
 image_caption: >
   Someone in there disagrees with a Tory policy.
-image_width: "1934"
-image_height: "764"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

@@ -33,14 +33,11 @@ featured: true
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
-image_width: ""
-image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 ---
 
-TODO: image from
 [Credit: Tim Richards](http://)
 
 The BUCS 4s and 8s Head on the River Nene in Peterborough never fails to be a challenging race for all involved and 2012 was no exception. In a weekend of two halves, the gales of Saturday played havoc with the beginner crews as many failed to complete the course whereas the relative calm of Sunday delivered more medals and BUCS points for ICBC’s seniors, both men and women, heavyweight and lightweight.

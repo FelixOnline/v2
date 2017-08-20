@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103032018-ks607-varsityv.jpg"
 image_caption: >
   Last year's JPR Williams Cup
-image_width: "1024"
-image_height: "680"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

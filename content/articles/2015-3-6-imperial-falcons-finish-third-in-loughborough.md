@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503061406-kmw13-10405400_10152583315671604_8888381870642720679_n.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "IC Baseball"
 image_attribution_link: ""
 video_url: ""

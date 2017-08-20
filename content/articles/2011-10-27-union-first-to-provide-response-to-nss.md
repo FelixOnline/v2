@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110272007-felix-img_6764.jpg"
 image_caption: >
   Imperial College Union aim to combat Imperial’s low ranking for assessment and feedback in the NSS
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Matthew Colvin"
 image_attribution_link: ""
 video_url: ""

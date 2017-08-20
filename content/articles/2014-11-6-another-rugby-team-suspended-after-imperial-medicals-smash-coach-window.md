@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411062211-snb11-s2010008-copy.jpg"
 image_caption: >
   The window was smashed from the inside, allegedly with an emergency hammer.
-image_width: "0"
-image_height: "0"
 image_attribution: "Blogspot"
 image_attribution_link: ""
 video_url: ""

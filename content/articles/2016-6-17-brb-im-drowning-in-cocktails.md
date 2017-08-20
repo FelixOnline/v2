@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606171141-felix-IMG_4680.jpg"
 image_caption: >
   The four summer-themed cocktails available at Shoryu Soho.
-image_width: "1111"
-image_height: "1111"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

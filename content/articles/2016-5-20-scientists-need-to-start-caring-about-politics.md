@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605201055-felix-J Trudeau quantum.jpg"
 image_caption: >
   Justin Trudeau's basic explanation of quantum computers shouldn't be an exception to the norm.
-image_width: "1280"
-image_height: "720"
 image_attribution: "Youtube"
 image_attribution_link: ""
 video_url: ""

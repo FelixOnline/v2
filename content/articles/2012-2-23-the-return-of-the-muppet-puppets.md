@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232027-pk1811-muppetsmovie.jpg"
 image_caption: >
   Clearly you’re never too old to love The Muppets – he’s 32 and she’s 37
-image_width: "600"
-image_height: "316"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

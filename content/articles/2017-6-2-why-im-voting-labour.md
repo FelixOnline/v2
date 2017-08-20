@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706021615-felix-jezspeaker.jpg"
 image_caption: >
 
-image_width: "675"
-image_height: "1200"
 image_attribution: "twcuddleston"
 image_attribution_link: ""
 video_url: ""

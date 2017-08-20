@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152223-ams111-boris-hand1.jpg"
 image_caption: >
   Just a persona? Boris in action
-image_width: "800"
-image_height: "600"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

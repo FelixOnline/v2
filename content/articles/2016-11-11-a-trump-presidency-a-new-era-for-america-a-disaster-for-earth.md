@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611111552-felix-microscope-149816_1280.png"
 image_caption: >
 
-image_width: "840"
-image_height: "1280"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

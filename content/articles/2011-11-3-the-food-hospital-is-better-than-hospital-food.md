@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032030-pk1811-hospital-food.jpg"
 image_caption: >
   Yeah, that’ll make you better love
-image_width: "500"
-image_height: "375"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

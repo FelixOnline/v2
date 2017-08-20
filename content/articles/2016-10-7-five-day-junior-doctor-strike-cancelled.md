@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610071854-felix-8951458366_3db3138084_o.jpg"
 image_caption: >
   Insert evil laugh
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Ted Eytan"
 image_attribution_link: ""
 video_url: ""

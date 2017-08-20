@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122014-cac111-picture0231.jpg"
 image_caption: >
   The guy on the left obviously tried it a bit too hard
-image_width: "2048"
-image_height: "1536"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703101338-felix-d5b2dfddb267cab40a3247c4f233661d.jpg"
 image_caption: >
 
-image_width: "1881"
-image_height: "1032"
 image_attribution: "BFI"
 image_attribution_link: ""
 video_url: ""

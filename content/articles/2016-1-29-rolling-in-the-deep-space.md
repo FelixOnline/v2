@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601291006-felix-tharsis2.jpg"
 image_caption: >
   Those are some pretty dice.
-image_width: "1920"
-image_height: "1080"
 image_attribution: "Choice Provisions"
 image_attribution_link: ""
 video_url: ""

@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011182052-ks607-jamesbon.jpg"
 image_caption: >
 
-image_width: "4800"
-image_height: "2700"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

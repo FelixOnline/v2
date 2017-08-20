@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152137-ams111-blue_sea_parting.jpg"
 image_caption: >
   Personally, I’m getting memories of Bognor Regis
-image_width: "600"
-image_height: "452"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

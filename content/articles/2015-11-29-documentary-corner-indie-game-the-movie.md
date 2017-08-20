@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511291623-ff712-indiegamemovie_05.jpg"
 image_caption: >
   Jonathan Blow, god of indie games
-image_width: "0"
-image_height: "0"
 image_attribution: "Indie Game: The Movie PR"
 image_attribution_link: ""
 video_url: ""

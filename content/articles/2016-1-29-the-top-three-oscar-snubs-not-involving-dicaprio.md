@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601290912-felix-EZlFQPT.gif"
 image_caption: >
   Better luck next time, hun.
-image_width: "500"
-image_height: "280"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

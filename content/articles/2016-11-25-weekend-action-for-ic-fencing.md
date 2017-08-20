@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611251453-felix-fencing picture .jpg"
 image_caption: >
 
-image_width: "400"
-image_height: "212"
 image_attribution: "Blade Fencing Equipment"
 image_attribution_link: ""
 video_url: ""

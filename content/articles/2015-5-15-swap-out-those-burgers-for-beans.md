@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505151300-cj914-phaseolus_beans.jpg"
 image_caption: >
   New research from a team of scientists, involving some from Imperial College London, suggests that a Western diet, high in protein and fat, can lead to an increased risk of colon cancer compared to one high in starch
-image_width: "0"
-image_height: "0"
 image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505291309-js5913-drivepastmyhouseposterweb.jpg"
 image_caption: >
   Summer Camp's zine cover
-image_width: "0"
-image_height: "0"
 image_attribution: "Julia Scheele"
 image_attribution_link: ""
 video_url: ""

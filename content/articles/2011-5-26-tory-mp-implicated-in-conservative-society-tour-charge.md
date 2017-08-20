@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105261955-felix-_49091996_-25.jpeg"
 image_caption: >
   Greg Hands MP
-image_width: "512"
-image_height: "288"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""

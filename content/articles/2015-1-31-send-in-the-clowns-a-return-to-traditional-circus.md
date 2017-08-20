@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201501311917-ff712-chinese-chair,-picture-credit-owen-carey-a.jpg"
 image_caption: >
   Chinese Chair at Cirque du Soleil's Kooza
-image_width: "0"
-image_height: "0"
 image_attribution: "Owen Carey"
 image_attribution_link: ""
 video_url: ""

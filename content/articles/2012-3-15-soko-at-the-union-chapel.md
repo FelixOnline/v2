@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152128-ig711-img_0271.jpg"
 image_caption: >
   Kudos to Soko: this hat is hard to pull off
-image_width: "1459"
-image_height: "2179"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

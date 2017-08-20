@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610141135-felix-AB9A1979-01.jpeg"
 image_caption: >
 
-image_width: "2880"
-image_height: "1920"
 image_attribution: "Christian Buus"
 image_attribution_link: ""
 video_url: ""
@@ -56,7 +54,6 @@ Preceding Monday’s letter in the Guardian, over 40,000 people signed an online
 Speaking to _felix_, Dr. Stephen Webster, Director of Imperial College’s science communication unit, said that “[He understands] the Science Museum needs funds. But linking a childrens’ play space to an oil company? When above all we want our children to grow up in a safe and clean environment? I bet a popular place like _Wonderlab_ could find a more acceptable sponsor.”
 
 He also described how sponsorship and funding from oil and gas companies can affect science communication: “If there’s any hint that scientists, or science institutions, are in it for themselves, science communication is in immediate trouble. Research becomes viewed with suspicion and innovation is resisted. Science has to pick its way through a maze of ideals and financial need. If we keep too singular a gaze on money, and get lazy about ideals, we’ll soon be lost.”
-TODO: image from
 Controversy surrounding sponsorship is nothing new for the Science Museum; a deal with Shell ended in December of last year after the company provided funds for a climate-change exhibition, which internal documents show Shell had tried to influence. In February, BP sponsored a Cosmonaut Late at the museum which was met with a theatrical performance based protest.
 
 Beyond the Science Museum, a number of campaign groups have been set up in recent years, including the Art Not Oil coalition involved in Tuesday evening’s protest. The group regularly stages performances at publicly funded institutions in attempt to engage with the public. Liberate Tate, a member of the coalition, claims that BP’s decision to end a sponsorship deal with the Tate in 2017 after 26 years, came as “the result of increasing public concern about climate change”, despite the firm blaming an “extremely challenging business environment.”

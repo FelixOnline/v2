@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706091834-felix-IMG_7818.JPG"
 image_caption: >
   Quality coverage from your fave paper
-image_width: "3264"
-image_height: "2448"
 image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""

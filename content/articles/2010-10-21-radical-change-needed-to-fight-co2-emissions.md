@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104201423-felix-rug1.jpeg"
 image_caption: >
 
-image_width: "537"
-image_height: "250"
 image_attribution: "NEL Colectivo"
 image_attribution_link: "http://www.nanimarquina.com/en/designers/nel-colectivo"
 video_url: ""

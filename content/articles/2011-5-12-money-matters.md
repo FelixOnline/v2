@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105122015-felix-comment-illustration-12th-may-2011-benjamin-kennedy.jpg"
 image_caption: >
 
-image_width: "2538"
-image_height: "1634"
 image_attribution: "Ben Kennedy"
 image_attribution_link: ""
 video_url: ""

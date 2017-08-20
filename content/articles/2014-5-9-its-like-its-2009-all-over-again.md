@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201405091600-jal08-faris-badwan-the-horrors.jpg"
 image_caption: >
   Horrors frontman Faris Badwan doing, something, with his fringe
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

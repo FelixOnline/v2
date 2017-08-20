@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102102055-dr910-meredith.jpg"
 image_caption: >
 
-image_width: "494"
-image_height: "500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

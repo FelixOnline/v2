@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110202149-felix-taricha_t_torosa_1979-08_1.jpg"
 image_caption: >
   A frog-in-hand situation
-image_width: "2559"
-image_height: "1716"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603041154-felix-Boat club paris.JPG"
 image_caption: >
   The Boat Club took on Paris in a blistering ride in aid of charity.
-image_width: "5984"
-image_height: "3366"
 image_attribution: "ICSM Boat Club"
 image_attribution_link: ""
 video_url: ""

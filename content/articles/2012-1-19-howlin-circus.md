@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192045-ams111-howlin-circus.jpg"
 image_caption: >
   Gothic architecture makes a singular appearance in the Wild West
-image_width: "3816"
-image_height: "2554"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

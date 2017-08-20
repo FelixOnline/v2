@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310250052-felix-lbt_seip.jpg"
 image_caption: >
   The Large Binocular Telescope, one of the world’s most advanced, saw first light in 2005
-image_width: "0"
-image_height: "0"
 image_attribution: "Stefan Seip (TWAN)"
 image_attribution_link: ""
 video_url: ""

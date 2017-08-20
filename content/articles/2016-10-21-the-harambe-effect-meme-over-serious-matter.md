@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610211434-ajp15-Screen Shot 2016-10-21 at 14.34.36.png"
 image_caption: >
 
-image_width: "499"
-image_height: "448"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

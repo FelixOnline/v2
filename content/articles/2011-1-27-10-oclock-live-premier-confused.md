@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101272009-ks607-10clockl.jpg"
 image_caption: >
 
-image_width: "625"
-image_height: "352"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

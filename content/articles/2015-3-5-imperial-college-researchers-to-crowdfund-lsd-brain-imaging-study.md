@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503052007-cj914-lsd-brain-scan-hat.jpg"
 image_caption: >
   One of the study's participants prepares for a brain scan
-image_width: "0"
-image_height: "0"
 image_attribution: "The Beckley Foundation"
 image_attribution_link: ""
 video_url: ""

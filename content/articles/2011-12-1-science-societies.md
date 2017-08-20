@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112011950-ams111-img_4084.jpg"
 image_caption: >
   Sir Paul Nurse spoke at the dinner
-image_width: "1280"
-image_height: "854"
 image_attribution: "Raphael Scheps"
 image_attribution_link: ""
 video_url: ""

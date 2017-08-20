@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192043-pk1811-6a00e54efa4f9788330162fe1cbae1970d-800wi.jpg"
 image_caption: >
   Time to play casting-director!
-image_width: "601"
-image_height: "375"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

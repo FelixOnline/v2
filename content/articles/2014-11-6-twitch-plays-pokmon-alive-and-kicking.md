@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411062043-snb11-tpp_homage-(1).jpg"
 image_caption: >
   The team that conquered all...you will never be forgotten! ALL HAIL LORD HELIX
-image_width: "0"
-image_height: "0"
 image_attribution: "Joystiq"
 image_attribution_link: ""
 video_url: ""

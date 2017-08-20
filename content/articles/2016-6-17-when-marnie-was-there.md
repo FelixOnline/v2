@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606171137-felix-f01falmxnfjslhlvx8h4 (1).jpg"
 image_caption: >
   When Marnie Was There, apparently the 'last' of the Studio Ghibli films.
-image_width: "2048"
-image_height: "1108"
 image_attribution: "Studio Ghibli"
 image_attribution_link: ""
 video_url: ""

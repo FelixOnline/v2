@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201002011632-rsp07-rikkinor.jpg"
 image_caption: >
 
-image_width: "1365"
-image_height: "530"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

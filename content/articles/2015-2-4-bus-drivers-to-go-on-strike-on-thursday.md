@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502041332-kmw13-bus10.jpg"
 image_caption: >
   Commuters wait for a bus during last month's strikes
-image_width: "0"
-image_height: "0"
 image_attribution: "Glenn Copus"
 image_attribution_link: ""
 video_url: ""

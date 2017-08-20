@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203090052-felix-fashion-people.jpg"
 image_caption: >
   First row: Slimane, Pilati, Sander, Simons Second row: Jacobs, Kane, Ackermann, Galliano
-image_width: "563"
-image_height: "642"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

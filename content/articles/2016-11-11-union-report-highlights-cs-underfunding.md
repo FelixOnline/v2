@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611111314-so515-background2.JPG"
 image_caption: >
 
-image_width: "1600"
-image_height: "1068"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""

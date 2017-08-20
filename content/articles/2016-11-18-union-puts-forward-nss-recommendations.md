@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611181425-felix-background2.JPG"
 image_caption: >
 
-image_width: "1600"
-image_height: "1068"
 image_attribution: "ICU"
 image_attribution_link: ""
 video_url: ""

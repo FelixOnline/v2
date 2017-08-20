@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112011944-ams111-479480a-f1.2.jpg"
 image_caption: >
   Cross section showing the inside the Earth.
-image_width: "946"
-image_height: "1173"
 image_attribution: "Nature"
 image_attribution_link: ""
 video_url: ""

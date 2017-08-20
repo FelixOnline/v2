@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201306210125-tna08-bullet-to-the-head02.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -54,7 +52,6 @@ No one else truly matters here: the bad guys consist of Adewale Akinnuoye-Agbaje
 Bodies stack up, chaos ensues, and there’s plenty of carnage. And Stallone shows he’s still got it at the age of 60+. Director Walter Hill, known for his male-dominated action, churns out yet another competent but not at all special feature that serves well as a highly entertaining, mindless but stupidly fun ride. – 3 Stars
 
 __The Last Stand__
-TODO: image from
 Arnold Schwarzenegger returns to the big screen in a lead role and he does exactly what he does best: he uncomfortably mumbles through his dialogue (which has been restricted to the minimum), his thick accent is still there, but when the villains dare to disturb the peaceful town where he’s the head sheriff, Arnie gets his kit in gear, and starts running them down with his truck. That’s right, he said he’ll be back, and he is.
 
 The FBI is in a state of panic when notoriously dangerous drug lord Gabriel Cortez (Eduardo Noriega) escapes their rather flimsy custody. With an incredibly fast car, this skilled driver is heading for the Mexican border, to resume his usual practices and lead his cartel once more.

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503192347-cj914-research-plane.png"
 image_caption: >
   A research plane flies over Totten Glacier
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

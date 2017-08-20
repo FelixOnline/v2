@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701131413-felix-display-dummy-915135_1920.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1343"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

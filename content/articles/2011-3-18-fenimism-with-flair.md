@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103180827-ks607-fenwoman.jpg"
 image_caption: >
   Katharine Burford as Val
-image_width: "2000"
-image_height: "1333"
 image_attribution: "Paul Toeman"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605271054-felix-17239166460_c05ee29b0b_o.jpg"
 image_caption: >
   Welcome Images
-image_width: "4256"
-image_height: "2858"
 image_attribution: "Thousands of glass fermentation vessels like this one were used in Glaxo (now GlaxoSmithKline) laboratories to produce penicillin. "
 image_attribution_link: ""
 video_url: ""

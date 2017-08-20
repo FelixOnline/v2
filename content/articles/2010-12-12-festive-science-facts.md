@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201012121351-ks607-familych.jpg"
 image_caption: >
 
-image_width: "600"
-image_height: "420"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

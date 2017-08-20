@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505081857-jr2514-leaders_3227668b.jpg"
 image_caption: >
   What a difference a day makes. Miliband, Clegg and Farage all resign as Cameron wins a 12 seat majority
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

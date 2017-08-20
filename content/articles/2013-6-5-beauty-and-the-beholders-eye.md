@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201306052000-tna08-file_193_11.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -86,7 +84,6 @@ J: I think it will do,because it’s more first-hand isn’t it? The fact that I
 __M: How do you start a painting?__
 
 J: I look at the image for quite a long time. I will absorb the colours straight away, I will immediately know my colour palette. As you can see I use a lot of tones of the same colour. I like to add depth to give the image some kind of story, it adds a personality to the model, there is a story behind her, sort of paralysed by perfection. You can see they are pensive, or thinking. There is this kind off destructive self. That is what I am thinking while I am painting which is why you get this challenging aspect to the painting.
-TODO: image from
 __M: So thereis an element of empathising with the subject, even through so many layers of paint and another persons lens?__
 
 J: Absolutely! What is she really thinking? What does she really fee? Does she like people staring at her? Doe she like walking out of home and seeing a million cameras? I’m thinking about how it would be for her to be in the subject of the gaze.

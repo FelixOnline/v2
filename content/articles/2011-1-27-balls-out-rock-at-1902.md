@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101272036-ks607-felixmus.jpg"
 image_caption: >
 
-image_width: "1372"
-image_height: "1372"
 image_attribution: "Luke Tomlin"
 image_attribution_link: ""
 video_url: ""

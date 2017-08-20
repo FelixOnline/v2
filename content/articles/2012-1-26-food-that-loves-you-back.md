@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262146-ams111-pic-of-food-boat.jpg"
 image_caption: >
   And it's healthy to boot, nice
-image_width: "4224"
-image_height: "2408"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

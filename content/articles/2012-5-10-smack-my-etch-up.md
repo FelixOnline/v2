@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205102124-pk1811-1_picasso_seatedmodel.jpg"
 image_caption: >
   Dave’s sculpting method was unorthodox to say the least
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

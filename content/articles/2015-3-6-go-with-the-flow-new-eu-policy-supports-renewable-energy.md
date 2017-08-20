@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503061705-cj914-shutterstock_81466396---photoshop.jpg"
 image_caption: >
   Uniting gas and electricity markets, a new challenge for the Energy Union Strategic Framework.
-image_width: "0"
-image_height: "0"
 image_attribution: "Shutterstock"
 image_attribution_link: ""
 video_url: ""

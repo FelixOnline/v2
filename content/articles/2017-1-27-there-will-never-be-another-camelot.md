@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701271644-felix-jackie-film-review.jpg"
 image_caption: >
 
-image_width: "2465"
-image_height: "1643"
 image_attribution: "20th Century Fox"
 image_attribution_link: ""
 video_url: ""

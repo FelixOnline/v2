@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606171053-felix-Orlando flags.jpg"
 image_caption: >
   The Orlando shooting is a harrowing reminder of the bigotry LGBTQ+ people face.
-image_width: "1024"
-image_height: "759"
 image_attribution: "eonline.com"
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051250-felix-stress.jpg"
 image_caption: >
   Stress balls are only part of the solution.
-image_width: "960"
-image_height: "640"
 image_attribution: "Mentality"
 image_attribution_link: ""
 video_url: ""

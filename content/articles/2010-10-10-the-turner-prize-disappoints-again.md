@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010101622-ks607-TurnerPr.jpg"
 image_caption: >
   Angela de la Cruz's "sawn-up and deformed canvasses"
-image_width: "464"
-image_height: "261"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

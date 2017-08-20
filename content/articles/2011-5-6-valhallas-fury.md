@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105061350-felix-thor02.jpg"
 image_caption: >
   Odin never regretted trading his eye for wisdom, look at his bitchin’ patch!
-image_width: "1200"
-image_height: "800"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

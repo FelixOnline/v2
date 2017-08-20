@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310040132-jal08-sci_photonmolecule.jpg"
 image_caption: >
   Photonic Molecule
-image_width: "0"
-image_height: "0"
 image_attribution: "MIKHAIL LUKIN, VLADAN VULETIC/NATURE Mikhail D. Lukin & Vladan Vuletić"
 image_attribution_link: ""
 video_url: ""

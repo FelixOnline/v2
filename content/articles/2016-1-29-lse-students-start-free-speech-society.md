@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601290846-felix-LSE_main_entrance.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "768"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""

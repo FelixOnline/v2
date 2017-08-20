@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201006031614-srg03-Android2.jpg"
 image_caption: >
 
-image_width: "611"
-image_height: "648"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

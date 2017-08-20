@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152216-pk1811-judo.jpg"
 image_caption: >
 
-image_width: "416"
-image_height: "312"
 image_attribution: "Chung-yiu Yi"
 image_attribution_link: ""
 video_url: ""

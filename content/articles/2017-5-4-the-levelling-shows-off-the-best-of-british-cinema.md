@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705041029-ff712-BFILFFTheLevellingReview.jpg"
 image_caption: >
   Ellie Kendrick as Clover in The Levelling
-image_width: "1600"
-image_height: "1065"
 image_attribution: "Peccadillo Pictures"
 image_attribution_link: ""
 video_url: ""

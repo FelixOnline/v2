@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105221403-felix-img_0467.jpg"
 image_caption: >
   Baroness Eliza Manningham-Buller
-image_width: "2696"
-image_height: "2589"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

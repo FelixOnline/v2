@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701131511-felix-7885846128_19f61ed706_o.jpg"
 image_caption: >
 
-image_width: "4592"
-image_height: "3056"
 image_attribution: "Kiran Foster"
 image_attribution_link: ""
 video_url: ""

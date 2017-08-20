@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702172156-ff712-02.jpg"
 image_caption: >
   Schaubühne Berlin, Richard III, Lars Eidinger and Jenny König
-image_width: "2832"
-image_height: "4256"
 image_attribution: "Arno Declair"
 image_attribution_link: ""
 video_url: ""

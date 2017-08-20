@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201201208-felix-img_7960.jpg"
 image_caption: >
   Don’t mess with the guy with the sabre
-image_width: "3456"
-image_height: "5184"
 image_attribution: "Indy Leclercq"
 image_attribution_link: ""
 video_url: ""

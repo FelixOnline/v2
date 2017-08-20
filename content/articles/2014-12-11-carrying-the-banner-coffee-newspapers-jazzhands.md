@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412112123-cj914-mtsoc.jpg"
 image_caption: >
   The cast relax during a break in rehearsal.
-image_width: "0"
-image_height: "0"
 image_attribution: "Shankho Chaudhuri"
 image_attribution_link: ""
 video_url: ""

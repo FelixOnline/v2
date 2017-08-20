@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172138-pk1811-getthumbimage.asp.jpeg"
 image_caption: >
   Putting superglue on his hand was bad, but the fly swat was too far
-image_width: "425"
-image_height: "425"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

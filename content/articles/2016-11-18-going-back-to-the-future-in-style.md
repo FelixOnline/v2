@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611181454-felix-5274270428_c4dff8b634_b.jpg"
 image_caption: >
 
-image_width: "900"
-image_height: "350"
 image_attribution: "renatodantasc"
 image_attribution_link: ""
 video_url: ""

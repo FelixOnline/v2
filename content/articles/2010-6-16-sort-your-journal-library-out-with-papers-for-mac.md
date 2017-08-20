@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201006162036-srg03-Papers.jpg"
 image_caption: >
 
-image_width: "1387"
-image_height: "672"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

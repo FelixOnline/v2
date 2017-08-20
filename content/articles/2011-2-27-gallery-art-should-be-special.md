@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102271920-ks607-modernar.jpg"
 image_caption: >
 
-image_width: "4968"
-image_height: "3546"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

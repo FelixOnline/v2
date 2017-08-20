@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702031701-felix-unnamed.jpg"
 image_caption: >
 
-image_width: "1097"
-image_height: "1417"
 image_attribution: "Alison Peters PR"
 image_attribution_link: ""
 video_url: ""

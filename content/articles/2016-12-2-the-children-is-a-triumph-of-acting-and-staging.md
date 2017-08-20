@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021456-felix-RCTchildrenProd2016JP_00345_WEB.jpg"
 image_caption: >
 
-image_width: "1000"
-image_height: "667"
 image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""

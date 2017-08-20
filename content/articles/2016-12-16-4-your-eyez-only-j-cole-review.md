@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612161458-felix-4_Your_Eyes_Only.jpg"
 image_caption: >
 
-image_width: "680"
-image_height: "680"
 image_attribution: "Dreamville Records"
 image_attribution_link: ""
 video_url: ""

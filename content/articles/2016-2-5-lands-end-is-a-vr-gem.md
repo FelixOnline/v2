@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051242-felix-landsend1.jpg"
 image_caption: >
   Land’s End, the first good game about somewhere in Cornwall (kinda).
-image_width: "2560"
-image_height: "1100"
 image_attribution: "Ustwo"
 image_attribution_link: ""
 video_url: ""

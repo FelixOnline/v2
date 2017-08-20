@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201012022107-ac1507-norman.jpg"
 image_caption: >
 
-image_width: "972"
-image_height: "648"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

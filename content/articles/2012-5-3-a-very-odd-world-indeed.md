@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205031945-ams111-0000004887.1024x768.jpg"
 image_caption: >
   Oddworld: Abe’s Exoddus still holds up today
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

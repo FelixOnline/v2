@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201707222141-ff712-frantz_03-h_2016.jpg"
 image_caption: >
   Franz is a film
-image_width: "1296"
-image_height: "730"
 image_attribution: "Artificial Eye"
 image_attribution_link: ""
 video_url: ""

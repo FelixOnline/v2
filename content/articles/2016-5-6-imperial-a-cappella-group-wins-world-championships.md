@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061044-felix-JMP_8002.jpg"
 image_caption: >
   The lads performed songs by British artists.
-image_width: "2500"
-image_height: "1669"
 image_attribution: "Joe Martinez"
 image_attribution_link: ""
 video_url: ""

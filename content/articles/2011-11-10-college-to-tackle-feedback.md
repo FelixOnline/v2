@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111110109-felix-mfk_sirkeitho_nions_012yo.jpg"
 image_caption: >
   Rector Sir Keith O'Nions is developing a plan with Heads of Department against feedback
-image_width: "2912"
-image_height: "2372"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

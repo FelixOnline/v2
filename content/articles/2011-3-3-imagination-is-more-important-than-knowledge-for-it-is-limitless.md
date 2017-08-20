@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103032049-nm1010-johhhhnn.jpg"
 image_caption: >
 
-image_width: "1316"
-image_height: "1652"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110132334-felix-294860_293805273969259_117467601603028_1419823_631754619_n.jpg"
 image_caption: >
   Note: not in-game footage
-image_width: "960"
-image_height: "640"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

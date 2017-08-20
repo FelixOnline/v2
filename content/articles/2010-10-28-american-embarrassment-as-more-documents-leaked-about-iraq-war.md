@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010282035-ks607-wikileak.jpg"
 image_caption: >
 
-image_width: "400"
-image_height: "922"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

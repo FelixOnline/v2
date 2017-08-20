@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106092053-felix-walmsley.jpg"
 image_caption: >
 
-image_width: "3008"
-image_height: "2000"
 image_attribution: "Christopher Walmsley"
 image_attribution_link: ""
 video_url: ""

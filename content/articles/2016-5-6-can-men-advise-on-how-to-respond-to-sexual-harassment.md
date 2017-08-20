@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061050-felix-Meghan-Trainor-NO_01.jpg"
 image_caption: >
   Sometimes “no” isn’t all you gotta say.
-image_width: "1920"
-image_height: "1080"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

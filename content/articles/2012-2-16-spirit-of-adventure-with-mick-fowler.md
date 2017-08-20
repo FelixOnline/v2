@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162126-pk1811-dsc_2242.jpg"
 image_caption: >
   Mick Fowler, not your conventional tax office resident
-image_width: "4608"
-image_height: "3072"
 image_attribution: "Arnaud Sors"
 image_attribution_link: ""
 video_url: ""

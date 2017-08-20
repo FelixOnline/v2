@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152006-ig711-l1010502.jpg"
 image_caption: >
   The cost-cutting decision to construct open toilets in one corner of the exhbition was not widely we
-image_width: "755"
-image_height: "504"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

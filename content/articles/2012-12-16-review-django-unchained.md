@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201212161521-mc4509-071712-celebs-django-unchained-jamie-foxx.jpg"
 image_caption: >
   Christoph Waltz as Schultz and Jamie Foxx as Django
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

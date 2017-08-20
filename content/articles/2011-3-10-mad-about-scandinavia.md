@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103102056-ks607-madsenma.jpg"
 image_caption: >
 
-image_width: "682"
-image_height: "1024"
 image_attribution: "Audrey Chew "
 image_attribution_link: ""
 video_url: ""

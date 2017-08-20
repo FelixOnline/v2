@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201604291106-felix-o-PETER-CAPALDI-facebook.jpg"
 image_caption: >
   Fictional head of communications, Malcolm Tucker.
-image_width: "1536"
-image_height: "1021"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""

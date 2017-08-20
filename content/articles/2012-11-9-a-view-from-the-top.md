@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201211091146-tna08-amanda-rgb.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -97,4 +95,3 @@ Women don’t push as hard, we don’t have conversations with our bosses about 
 
 Read more at:
 [www.title-mag.com](http://title-mag.com/amanda-brumpton/)
-TODO: image from

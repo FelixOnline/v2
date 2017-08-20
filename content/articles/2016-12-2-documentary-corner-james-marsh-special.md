@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021446-felix-philippe-petit-man-on-wire.jpg"
 image_caption: >
 
-image_width: "5999"
-image_height: "3957"
 image_attribution: "Jean-Louis Blondeau - Polaris Images"
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262218-ams111-your-sadness-is-drunk---003.jpg"
 image_caption: >
   ‘Your Sadness is Drunk’
-image_width: "610"
-image_height: "480"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

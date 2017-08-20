@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106091858-felix-oilandwater.jpg"
 image_caption: >
 
-image_width: "3425"
-image_height: "4370"
 image_attribution: "Christopher Walmsley"
 image_attribution_link: "http://christopherwalmsley.com/"
 video_url: ""

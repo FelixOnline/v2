@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121137-felix-gravityrush3.jpg"
 image_caption: >
   Fuck gravity.
-image_width: "1184"
-image_height: "1950"
 image_attribution: "Sony Computer Entertainment"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201306140038-tna08-black-rock-review-1.jpg"
 image_caption: >
   Hold on to your ovaries girls...Man of Steel lands today
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

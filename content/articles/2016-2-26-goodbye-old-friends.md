@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261213-felix-IMG_8900.JPG"
 image_caption: >
   Everybody through the tunnel.
-image_width: "3264"
-image_height: "2448"
 image_attribution: "Imperial Immortals"
 image_attribution_link: ""
 video_url: ""

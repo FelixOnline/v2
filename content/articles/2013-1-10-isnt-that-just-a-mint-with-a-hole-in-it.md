@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201301102313-csw09-pb210925.jpg"
 image_caption: >
   Felix’s latest My Little Pony feature
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103102008-ks607-rainbowf.jpg"
 image_caption: >
 
-image_width: "3008"
-image_height: "2000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

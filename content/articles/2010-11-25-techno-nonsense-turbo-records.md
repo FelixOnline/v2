@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011252043-nm1010-Turboooo.jpg"
 image_caption: >
 
-image_width: "465"
-image_height: "310"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

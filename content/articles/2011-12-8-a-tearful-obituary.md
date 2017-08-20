@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082117-pk1811-pr.jpg"
 image_caption: >
   The band thought it was time to take an indefinitely extended nap
-image_width: "1310"
-image_height: "874"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

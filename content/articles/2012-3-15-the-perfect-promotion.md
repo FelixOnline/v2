@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152213-pk1811-cimg2810.png"
 image_caption: >
 
-image_width: "1000"
-image_height: "750"
 image_attribution: "IC RUGBY"
 image_attribution_link: ""
 video_url: ""

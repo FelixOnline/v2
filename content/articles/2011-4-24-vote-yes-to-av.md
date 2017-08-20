@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104241235-felix-av-vote-007.jpeg"
 image_caption: >
 
-image_width: "460"
-image_height: "276"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

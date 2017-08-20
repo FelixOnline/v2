@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201407160407-kmw13-greg-clark_2005852c.jpg"
 image_caption: >
   Greg Clark replaces David Willetts as Universities Minister
-image_width: "0"
-image_height: "0"
 image_attribution: "Christopher Pledger"
 image_attribution_link: ""
 video_url: ""

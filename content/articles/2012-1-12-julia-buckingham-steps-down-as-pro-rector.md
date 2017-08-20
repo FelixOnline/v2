@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122153-felix-professor_julia_buckingham__xd.jpg"
 image_caption: >
 
-image_width: "4268"
-image_height: "2661"
 image_attribution: "Mike Finn-Kelcey"
 image_attribution_link: ""
 video_url: ""

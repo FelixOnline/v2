@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105261926-felix-img_4457.jpg"
 image_caption: >
   A section of a new undergraduate teaching lab.
-image_width: "3456"
-image_height: "5184"
 image_attribution: "Kadhim Shubber"
 image_attribution_link: ""
 video_url: ""

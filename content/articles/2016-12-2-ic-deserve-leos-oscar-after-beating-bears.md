@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021648-felix-3rdgamepicfelix.jpg"
 image_caption: >
 
-image_width: "1500"
-image_height: "1028"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

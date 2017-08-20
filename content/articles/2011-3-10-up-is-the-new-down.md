@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103102005-ks607-skyillus.jpg"
 image_caption: >
 
-image_width: "2806"
-image_height: "2994"
 image_attribution: "Benjamin Kennedy"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705151751-felix-32514422900_c9365314fa_o.jpg"
 image_caption: >
   This generation is soooooo entitled
-image_width: "2500"
-image_height: "2000"
 image_attribution: "Eloise Acuna"
 image_attribution_link: ""
 video_url: ""

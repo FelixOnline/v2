@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011041840-ma1307-happyppl.jpg"
 image_caption: >
 
-image_width: "3072"
-image_height: "2304"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

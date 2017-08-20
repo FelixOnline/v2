@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603041139-felix-1280px-Perissodus_microlepis_juvenile_in_aquarium.jpg"
 image_caption: >
 
-image_width: "1280"
-image_height: "944"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""

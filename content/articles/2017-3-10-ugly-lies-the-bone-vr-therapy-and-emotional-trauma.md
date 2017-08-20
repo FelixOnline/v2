@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703101343-felix-Ugly Lies the Bone at the National Theatre. Kate Fleetwood (Jess).Photo by Mark Douet _D4A1319.jpg"
 image_caption: >
 
-image_width: "4800"
-image_height: "3200"
 image_attribution: "Mark Douet "
 image_attribution_link: ""
 video_url: ""

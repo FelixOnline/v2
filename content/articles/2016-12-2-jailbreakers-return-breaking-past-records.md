@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021341-felix-15233636_10211602484240783_1082226068_o.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1440"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -50,7 +48,6 @@ But Brownian Motion weren’t the only team to achieve impressive distances this
 In not so close but equally astonishing second place, rip harambe travelled an impressive 4,515 km, managing to reach Gambia in the process. Team rip harambe, consisting of first year medic Benjamin Jones and his climbing partner, second year Southampton computing student Samuel Law, achieved their mission by identifying the destination with the best distance to price ratio the night before. (“Our dreams of Kazakhstan were dashed by a long stopover in Moscow”).
 
 2016’s Jailbreak challenge went a lot smoother this time round. Last year, one of IC RAG’s Jailbreak teams got pulled off a flight to Turkey after terror suspicions (it was all a misunderstanding). Despite the lack of drama this year, there were still surprises. “I spent £36 on 3G sending a Snapchat, which was fun”, says Jones of team rip harambe, who we hope will think twice next time he enables data roaming in Gambia.
-TODO: image from
 Though Jailbreak is often criticised when donation money is spent on travelling expenses, teams are expected to pay for their journeys back and they usually also acquire sponsorship per mile travelled, so in the end, despite travel costs, the fundraiser yields significant proceeds. RAG chair, Cynfelyn Nancarrow-Lei, said “ [We tried] to create a per-mile sponsorship form prior to the Jailbreak, so that you raise more for Charity after the Jailbreak (when you know how many miles you have travelled) than you do for flights during the event. I really pushed that this year in the presentation I gave and in emails and social media. Unfortunately the winning team didn’t adopt this method. If they did they could be raising a hell of a lot more. Most other teams will however did take our advice.”
 
 The top two teams (distance-wise), Brownian Motion and rip harambe, have so far raised £355 and £435 respectively. In total this year’s jailbreak has raised £10,000 so far but is expecting to raise somewhere between £15,000 and £20,000 by the end of term. Donations will be split equally between ActionAid, The British Heart Foundation, Cancer Research UK, and Noah’s Ark Children’s Hospice.

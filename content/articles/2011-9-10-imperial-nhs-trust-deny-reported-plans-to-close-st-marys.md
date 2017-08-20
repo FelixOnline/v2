@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201109101650-felix-st_mary_s.jpg"
 image_caption: >
   St Mary's Hospital, located in Paddington
-image_width: "750"
-image_height: "500"
 image_attribution: "Jan Chlebik"
 image_attribution_link: ""
 video_url: ""

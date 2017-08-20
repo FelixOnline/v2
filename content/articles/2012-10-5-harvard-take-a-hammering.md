@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210051427-felix-556974_10151243526406341_500544924_n.jpg"
 image_caption: >
   Ably watched by his teammates, Olisa charges on.
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

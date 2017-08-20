@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242232-pk1811-screen-shot-2011-11-23-at-12.25.47-pm.png"
 image_caption: >
   Greg clocked up his sixth failed marriage proposal this year
-image_width: "717"
-image_height: "477"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

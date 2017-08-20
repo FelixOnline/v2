@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601290930-felix-american-movie.jpg"
 image_caption: >
   “Coven, man, we gotta get this sucker done, though.”
-image_width: "1920"
-image_height: "1080"
 image_attribution: "American Movie PR"
 image_attribution_link: ""
 video_url: ""

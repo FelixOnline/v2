@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010080759-ks607-AnishKap.jpg"
 image_caption: >
 
-image_width: "4000"
-image_height: "2666"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

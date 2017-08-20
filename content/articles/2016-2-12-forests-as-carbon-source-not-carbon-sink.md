@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121128-felix-John_Deere_2054_DHSP_forestry_swing_machine,_Kaibab_National_Forest_1.jpg"
 image_caption: >
   Human forest management – a waste of time?
-image_width: "1920"
-image_height: "1241"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""

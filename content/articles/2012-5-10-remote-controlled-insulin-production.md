@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205102110-ams111-4ceb4db26f1f3ff8370a5128df9beb06.gif"
 image_caption: >
   ... but only in mice, so far
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

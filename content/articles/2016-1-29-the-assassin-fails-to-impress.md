@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601290929-felix-Assassin3.jpg"
 image_caption: >
   Shu Qi as Nie Yinniang, the titular assassin.
-image_width: "4134"
-image_height: "2756"
 image_attribution: "The Assasin PR"
 image_attribution_link: ""
 video_url: ""

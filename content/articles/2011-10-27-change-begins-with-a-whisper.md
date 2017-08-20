@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110272240-felix-11-ffilm1.jpg"
 image_caption: >
   Come on UCAS – did I get into Imperial College, or not?!
-image_width: "500"
-image_height: "332"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

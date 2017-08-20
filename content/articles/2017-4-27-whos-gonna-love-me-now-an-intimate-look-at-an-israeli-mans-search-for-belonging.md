@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201704271737-ff712-201609577_1_IMG_FIX_700x700.jpg"
 image_caption: >
 
-image_width: "700"
-image_height: "394"
 image_attribution: "Peccadillo Pictures"
 image_attribution_link: ""
 video_url: ""

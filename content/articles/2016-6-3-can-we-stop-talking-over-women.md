@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606031103-felix-Brooklyn-Nine-Nine-Pilot-Pictures.jpg"
 image_caption: >
   Terry Crews doesn't have time for your hypermasculinity bullcrap.
-image_width: "653"
-image_height: "451"
 image_attribution: "NBC"
 image_attribution_link: ""
 video_url: ""

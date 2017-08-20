@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702031708-felix-justice-league-action.jpg"
 image_caption: >
 
-image_width: "1145"
-image_height: "819"
 image_attribution: "Warner Bros. Television"
 image_attribution_link: ""
 video_url: ""

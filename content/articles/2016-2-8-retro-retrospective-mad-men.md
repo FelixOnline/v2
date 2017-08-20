@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602081741-sa8713-madmen1-1024x576.jpeg"
 image_caption: >
 
-image_width: "1024"
-image_height: "576"
 image_attribution: "AMC"
 image_attribution_link: ""
 video_url: ""

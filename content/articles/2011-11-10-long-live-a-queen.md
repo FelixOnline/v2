@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102017-pk1811-2ndclassstamp---large.jpg"
 image_caption: >
   Not willing to say anything incriminatory – so here’s a picture of the Queen
-image_width: "3872"
-image_height: "2592"
 image_attribution: "flickr/incurable_hippie"
 image_attribution_link: ""
 video_url: ""

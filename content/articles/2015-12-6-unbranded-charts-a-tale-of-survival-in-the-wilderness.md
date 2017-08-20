@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201512061359-ff712-home-slider-slide-1.jpg"
 image_caption: >
 
-image_width: "1200"
-image_height: "675"
 image_attribution: "Unbranded PR"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210051257-nn1209-nl-2012-02796f_0005.jpeg"
 image_caption: >
   Peak absorbance around natural light increases efficiency
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251233-ff712-rvngnl24_pic_print_0021a.jpg"
 image_caption: >
   Experimental composer Holly Herndon, renowned for her combination of the synthetic and organic
-image_width: "0"
-image_height: "0"
 image_attribution: "RVNG Intl"
 image_attribution_link: ""
 video_url: ""

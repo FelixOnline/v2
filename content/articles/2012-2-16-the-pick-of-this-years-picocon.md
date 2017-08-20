@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232222-pk1811-201202162121-cac111-real.jpg"
 image_caption: >
 
-image_width: "510"
-image_height: "777"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -59,7 +57,6 @@ Add to this the identity issues inherent in a 21 year old who’s been rebuilt w
 
 _Keeping it Real _has all the elements needed for an enthralling read and delivered in a humorous and effortless manner I’d really recommend it. The series, now onto its fifth book, has been extremely successful and I look forwards to finding some time to consume those that I haven’t gotten round to.
 _--Alex Savell_
-TODO: image from
 ### _Silver Screen _by Justina Robson
 
 Anjuli O’Connor is having a tough time – her oldest friend has just died after trying to upload his consciousness to the internet. She is being forced by her company to testify at a court case that will determine the legal rights of artificial intelligences and various extremist groups would like nothing better than to see her dead. Welcome to the world of _Silver Screen _– Justina Robson’s cyberpunk masterpiece.
@@ -67,7 +64,6 @@ Anjuli O’Connor is having a tough time – her oldest friend has just died aft
 At its core this book is a fascinating journey of discovery as both Anjuli and 901, the AI she works with, struggle to find their place in the world. This naturally leads on to the compelling theme of what is consciousness as the book asks: how do we define a human being?
 
 It’s also refreshing that, instead of the default cyberpunk setting of a sprawling megacity, much of the action in _Silver Screen_ takes place in an England that is not to unrecognisable from the country today. It took a bit of getting used to high stakes intrigue playing out in places like Manchester, an unusual setting for this kind of literature, but it certainly added a sense of intimacy to the story, and a feeling that the situations it described could really happen. _--Maciej Matuszewski_
-TODO: image from
 ### _Empire in Black and Gold _by Adrian Tchaikovsky
 
 _Empire in Black and Gold_ is the first book in Adrian Tchaikovsky’s long running _Shadows of the Apt _series. The series is set in an intriguing universe populated by a number of different humanoid races – each named after, and sharing certain characteristic (such as wings) with, a specific insect or arachnid species. This is a world were magic and relatively advanced technology, such as ornithopters and steam power, coexist – an interesting idea that gives a very attractive, almost steampunk-like, feel to the novels.

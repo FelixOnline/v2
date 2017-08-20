@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702241512-felix-eagles_of_death_metal-_nos_amis_our_friends_still.jpg"
 image_caption: >
 
-image_width: "1296"
-image_height: "730"
 image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""

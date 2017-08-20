@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191231-felix-IMG_20160217_154920.jpg"
 image_caption: >
 
-image_width: "4023"
-image_height: "2783"
 image_attribution: "IC Waterpolo"
 image_attribution_link: ""
 video_url: ""

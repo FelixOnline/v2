@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101201921-nm1010-scaaaaaa.jpg"
 image_caption: >
 
-image_width: "5029"
-image_height: "3542"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

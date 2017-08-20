@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206142040-ams111-comment3.jpg"
 image_caption: >
   Think about it. If you donate an organ you could become part of a rock star or Nobel laureate. Or if
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

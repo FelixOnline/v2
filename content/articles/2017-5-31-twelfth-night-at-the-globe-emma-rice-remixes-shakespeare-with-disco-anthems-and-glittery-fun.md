@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706010049-im1413-big.jpg"
 image_caption: >
   Le Gateau Chocolat as Feste in Twelfth Night at the Shakespeare's Globe. Photo: The Shakespeare's Globe
-image_width: "730"
-image_height: "330"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102032026-ks607-couchpot.jpg"
 image_caption: >
   This guy need less TV, more exercise, and a perm. That's right...
-image_width: "350"
-image_height: "526"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

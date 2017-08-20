@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201704090056-im1413-Sebastiano_del_Piombo,_The_Raising_of_Lazarus.jpg"
 image_caption: >
   Detail from Sebastiano del Piombo, incorporating designs by Michelangelo, ‘The Raising of Lazarus’, 1517–19 | The National Gallery
-image_width: "1200"
-image_height: "1593"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

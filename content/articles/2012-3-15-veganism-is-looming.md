@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152059-ig711-img-20120207-00363.jpg"
 image_caption: >
   “And we’re back in the game!”
-image_width: "2592"
-image_height: "1944"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

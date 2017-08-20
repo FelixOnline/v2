@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110211144-felix-frieze1.jpg"
 image_caption: >
   They thought the complete Stairway to Heaven was a bit too expensive
-image_width: "1024"
-image_height: "681"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

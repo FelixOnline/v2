@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110210020-sjw209-anum-cutout.jpg"
 image_caption: >
 
-image_width: "272"
-image_height: "416"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

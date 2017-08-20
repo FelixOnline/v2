@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201012091957-ac1507-ipadipad.jpg"
 image_caption: >
   If you're really pushing the boat out, get an iPad
-image_width: "955"
-image_height: "1299"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

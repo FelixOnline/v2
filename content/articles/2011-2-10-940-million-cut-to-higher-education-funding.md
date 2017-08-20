@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104222236-felix-4624547316_9fb7da38c0_b.jpeg"
 image_caption: >
   The universities minister, David Willetts, has called on universities to adapt to a new environment
-image_width: "1024"
-image_height: "683"
 image_attribution: "flickr/bisgovuk"
 image_attribution_link: "http://www.flickr.com/photos/bisgovuk/4624547316/"
 video_url: ""

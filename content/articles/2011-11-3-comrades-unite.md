@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032109-pk1811-redolution.jpg"
 image_caption: >
   M&M’s Red is actually a soviet double agent, who intends to destroy capitalism from within
-image_width: "300"
-image_height: "419"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

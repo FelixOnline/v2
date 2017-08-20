@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104230143-felix-kindle-2-front1.jpeg"
 image_caption: >
   Do e-book readers make it harder to protect freedom of speech?
-image_width: "1300"
-image_height: "1300"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

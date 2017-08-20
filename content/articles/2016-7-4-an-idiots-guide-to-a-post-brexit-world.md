@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201607041151-felix-sadcorbyn.jpg"
 image_caption: >
   Feeling as lost as sad Corbyn on a night bus? Fear not, FELIX is here to explain what happens next.
-image_width: "600"
-image_height: "800"
 image_attribution: "Stuart Low"
 image_attribution_link: ""
 video_url: ""

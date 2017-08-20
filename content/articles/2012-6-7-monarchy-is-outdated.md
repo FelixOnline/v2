@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206072045-pk1811-prince-william.png"
 image_caption: >
   Maybe you don’t want the monarchy to exist when it’s his time to be King, but we can all agree that
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

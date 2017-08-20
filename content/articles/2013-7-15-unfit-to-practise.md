@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201307151714-jal08-thilanga-kasun-iddamalgoda.jpg"
 image_caption: >
   Dr. Thilanga Iddamalgoda - a rather blurry fellow
-image_width: "0"
-image_height: "0"
 image_attribution: "LinkedIn"
 image_attribution_link: ""
 video_url: ""

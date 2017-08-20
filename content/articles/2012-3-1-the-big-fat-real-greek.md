@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203012148-ams111-header.jpg"
 image_caption: >
   A glass of Ouzo and plenty of mezes make the crisis fade away
-image_width: "550"
-image_height: "309"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

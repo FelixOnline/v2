@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201302142118-tna08-nss.jpg"
 image_caption: >
   NSS. Inset is the list given out by the Business School on Blackboard
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201012092124-ac1507-nativity.jpg"
 image_caption: >
 
-image_width: "1250"
-image_height: "951"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

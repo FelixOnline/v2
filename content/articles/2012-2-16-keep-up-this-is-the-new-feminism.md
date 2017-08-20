@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162201-ams111-natasha-walter.-001.jpg"
 image_caption: >
   Natasha Walter, author of Living Dolls: The Return of Sexism
-image_width: "460"
-image_height: "276"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

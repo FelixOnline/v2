@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505291300-js5913-never-mind.jpg"
 image_caption: >
   A typical line up for Never Mind the Buzzcocks during one of its guest host phases. I know who some of hese people are, honest.
-image_width: "0"
-image_height: "0"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""

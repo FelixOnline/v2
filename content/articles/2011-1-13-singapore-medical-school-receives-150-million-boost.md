@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101132151-ks607-singapor.jpg"
 image_caption: >
 
-image_width: "2500"
-image_height: "1010"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

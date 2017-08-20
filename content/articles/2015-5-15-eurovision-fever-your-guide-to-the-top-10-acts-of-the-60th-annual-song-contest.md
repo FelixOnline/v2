@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505151324-cj914-electro2.jpg"
 image_caption: >
   Nil points! The British entry are practising their game faces.
-image_width: "0"
-image_height: "0"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""

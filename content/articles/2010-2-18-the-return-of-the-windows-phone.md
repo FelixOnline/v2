@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201002181331-srg03-WindowsP.jpg"
 image_caption: >
 
-image_width: "450"
-image_height: "320"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

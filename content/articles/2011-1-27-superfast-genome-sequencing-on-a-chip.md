@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101271848-ks607-dnadnadn.jpg"
 image_caption: >
 
-image_width: "657"
-image_height: "1395"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

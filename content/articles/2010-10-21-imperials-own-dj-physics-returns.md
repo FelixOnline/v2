@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010212036-ks607-martinar.jpg"
 image_caption: >
 
-image_width: "500"
-image_height: "415"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092208-cac111-untitled.png"
 image_caption: >
   The early plans for the Central Line extension were quick to be shelved
-image_width: "941"
-image_height: "968"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

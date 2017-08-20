@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106022009-felix-radko-mladic_1.jpg"
 image_caption: >
 
-image_width: "800"
-image_height: "1145"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

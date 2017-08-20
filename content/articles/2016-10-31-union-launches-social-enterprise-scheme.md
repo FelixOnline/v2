@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610311339-felix-9681101370_f839b54a70_o.jpg"
 image_caption: >
 
-image_width: "600"
-image_height: "469"
 image_attribution: "OTA Photos"
 image_attribution_link: ""
 video_url: ""

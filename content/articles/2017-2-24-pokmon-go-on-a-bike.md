@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702241516-felix-28273454351_9d19590316_o.jpg"
 image_caption: >
 
-image_width: "3840"
-image_height: "2560"
 image_attribution: "Jill Carlson"
 image_attribution_link: ""
 video_url: ""

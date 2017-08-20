@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011041833-ks607-warpaint.jpg"
 image_caption: >
 
-image_width: "500"
-image_height: "331"
 image_attribution: "Warpaint"
 image_attribution_link: "http://www.warpaintwarpaint.com/"
 video_url: ""

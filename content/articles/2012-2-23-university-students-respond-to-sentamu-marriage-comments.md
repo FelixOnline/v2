@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232301-felix-img_0107.jpg"
 image_caption: >
   Selwyn College, Cambridge, gave Archbishop Sentamu’s views a cold reception following his statement
-image_width: "3264"
-image_height: "2448"
 image_attribution: "James Mottram"
 image_attribution_link: ""
 video_url: ""

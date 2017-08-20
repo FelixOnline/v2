@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705121812-felix-18318799_10206484846959786_1979038611_o.jpg"
 image_caption: >
   Almost there?
-image_width: "852"
-image_height: "1136"
 image_attribution: "Matt Johnston"
 image_attribution_link: ""
 video_url: ""

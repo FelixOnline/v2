@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105062334-sjw209-hacker.jpg"
 image_caption: >
   Police are reportedly looking for this man
-image_width: "357"
-image_height: "357"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

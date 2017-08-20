@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110140057-sjw209-wafflemeister.jpg"
 image_caption: >
   I want it all... and I want it now
-image_width: "1600"
-image_height: "1063"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

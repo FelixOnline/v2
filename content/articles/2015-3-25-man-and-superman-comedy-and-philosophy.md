@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251318-ff712-jpeg-9a.jpg"
 image_caption: >
   Don Juan (Ralph Fiennes) in Bernard Shaw’s Man and Superman.
-image_width: "0"
-image_height: "0"
 image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411062127-snb11-screen-shot-2014-11-05-at-14.25.45.png"
 image_caption: >
   Vanity Fair, 1st February, 1924
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

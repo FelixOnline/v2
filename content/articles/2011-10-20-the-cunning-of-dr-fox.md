@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110202257-felix-e47cb8eaf1245a16fb0e6a706700f8d7_2.jpg"
 image_caption: >
   A whirlwind of business cards and political bust ups for Dr Liam Fox
-image_width: "4494"
-image_height: "3264"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

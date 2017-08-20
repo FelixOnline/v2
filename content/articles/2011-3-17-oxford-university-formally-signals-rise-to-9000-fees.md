@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104212139-felix-bodleian-library---radcliffe-camera---oxford-university---oxford-weekend-city-break-travel-guide.jpeg"
 image_caption: >
   Oxford's Bodleian Library
-image_width: "666"
-image_height: "445"
 image_attribution: "Craig Moore"
 image_attribution_link: "http://www.moorewallpaper.com/holiday-travel-tips-Oxford-University-city-break.htm"
 video_url: ""

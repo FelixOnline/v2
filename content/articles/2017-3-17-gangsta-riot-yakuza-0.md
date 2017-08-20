@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703171730-felix-yakuza-zero-ps4-review-5.jpg"
 image_caption: >
   Talk to the racecar, the face ain’t listening
-image_width: "1920"
-image_height: "1080"
 image_attribution: "Sega"
 image_attribution_link: ""
 video_url: ""

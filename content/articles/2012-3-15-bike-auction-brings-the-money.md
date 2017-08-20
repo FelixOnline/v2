@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152120-pk1811-photo.png"
 image_caption: >
   The auction spinning into action
-image_width: "1142"
-image_height: "857"
 image_attribution: "Afonso Campos"
 image_attribution_link: ""
 video_url: ""

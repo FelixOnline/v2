@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310121330-jal08-comment_gta.jpg"
 image_caption: >
   Seriously starting to wonder if the GTA is actually Jack Black...
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

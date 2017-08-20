@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505151304-cj914-girlhood-cmyk.jpg"
 image_caption: >
   Director Celine Sciamma employed street-casting to bring her characters to life
-image_width: "0"
-image_height: "0"
 image_attribution: "Celine Sciamma/Studiocanal"
 image_attribution_link: ""
 video_url: ""

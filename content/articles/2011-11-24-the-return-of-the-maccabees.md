@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242217-felix-maccabees.jpg"
 image_caption: >
   Waiting in line at the hairdresser or posing for the waiting room magazines?
-image_width: "1600"
-image_height: "1067"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

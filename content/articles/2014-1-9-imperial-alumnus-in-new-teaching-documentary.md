@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201401091800-jal08-p01nr9v3.jpg"
 image_caption: >
   Six Teach First Grads take on children in the real world
-image_width: "0"
-image_height: "0"
 image_attribution: "BBC"
 image_attribution_link: "http://http://www.bbc.co.uk/programmes/b03plzvt"
 video_url: ""

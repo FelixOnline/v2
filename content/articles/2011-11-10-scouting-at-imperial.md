@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102210-pk1811-ssago-picture.jpg"
 image_caption: >
   Better than Titanic
-image_width: "376"
-image_height: "462"
 image_attribution: "Jonathan Peek"
 image_attribution_link: ""
 video_url: ""

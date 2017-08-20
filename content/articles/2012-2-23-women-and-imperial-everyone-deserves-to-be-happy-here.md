@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202231943-ams111-ali-g.jpg"
 image_caption: >
   Is it called Welfare coz he iz well fair innit?
-image_width: "1037"
-image_height: "576"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

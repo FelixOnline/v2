@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191107-felix-guardianadvert4palestine-finalv2-page-001.jpg"
 image_caption: >
   Several Imperial academics signed this boycott in 2015.
-image_width: "3378"
-image_height: "5197"
 image_attribution: "The Guardian"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201512061414-ff712-01d9f6d1-e423-4ead-a849-2e2566035050-620x372.jpeg"
 image_caption: >
 
-image_width: "620"
-image_height: "372"
 image_attribution: "Black Mass PR"
 image_attribution_link: ""
 video_url: ""

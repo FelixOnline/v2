@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206080926-mc4509-news1.jpg"
 image_caption: >
   The earliest possible meeting of the planning committee is 10 July
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

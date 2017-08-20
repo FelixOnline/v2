@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205040214-felix-depression.jpg"
 image_caption: >
   Email icu-disabilities@imperial.ac.uk if you would like to share your anonymous experiences
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

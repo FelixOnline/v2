@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706091700-ea3211-30512519164_41c34909fe_b.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "551"
 image_attribution: "David Holt"
 image_attribution_link: ""
 video_url: ""

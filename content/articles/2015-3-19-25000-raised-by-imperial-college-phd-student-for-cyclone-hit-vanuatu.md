@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503192339-cj914-rachel-1.jpg"
 image_caption: >
   Rachel with a group of Tanbok islanders
-image_width: "0"
-image_height: "0"
 image_attribution: "Rachel Brooks, Tanbok Project"
 image_attribution_link: ""
 video_url: ""

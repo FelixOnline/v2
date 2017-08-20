@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510231218-ygr12-the-apprentice---only-her-011.jpg"
 image_caption: >
   The Apprentice did beer once, remember? This is not the same at all.
-image_width: "0"
-image_height: "0"
 image_attribution: "BBC / Boundless"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610311621-felix-2937458980_131b711609_o.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "768"
 image_attribution: "marsroverdriver"
 image_attribution_link: ""
 video_url: ""

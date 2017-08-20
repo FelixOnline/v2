@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011041842-jk708-Piggies.jpg"
 image_caption: >
   Cute, but deadly...
-image_width: "3003"
-image_height: "2010"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

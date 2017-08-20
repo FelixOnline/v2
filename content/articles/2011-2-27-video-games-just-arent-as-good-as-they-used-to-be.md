@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102271233-ks607-jigglypu.jpg"
 image_caption: >
   Oh Jigglypuff, so many memories...
-image_width: "1000"
-image_height: "1000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

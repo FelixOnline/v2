@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201305091300-tna08-leon_vanstone_famelabwinner2013.jpg"
 image_caption: >
   Also winner of “fastest phone spinner in the UK”
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

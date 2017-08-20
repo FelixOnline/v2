@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032053-pk1811-opmidclim-uncrop.jpg"
 image_caption: >
   Operation Midnight Climax    getting BONED at the last Felix Music Night in June
-image_width: "1024"
-image_height: "680"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

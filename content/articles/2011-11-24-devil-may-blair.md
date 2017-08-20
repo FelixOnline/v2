@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242230-pk1811-phillippa-wilson-john-hodgkinson-hywel-morgan-tracy-gillman-and-jim-kitson-in-a-walk-on-part.jpg"
 image_caption: >
   The judges weren’t impressed by Matt’s offering for the village talent show
-image_width: "1600"
-image_height: "1067"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201501161249-ps3110-screen-shot-2015-01-16-at-12.50.07.png"
 image_caption: >
   A selection of photographs taken by the photobooth before the damage was done. These were not the im
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

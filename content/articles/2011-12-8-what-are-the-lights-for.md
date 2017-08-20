@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082218-felix-hohoho.jpg"
 image_caption: >
   Yeah, he thinks he has a lot of work around this time of year. Slacker
-image_width: "4744"
-image_height: "4080"
 image_attribution: "Lizzy Griffiths"
 image_attribution_link: ""
 video_url: ""

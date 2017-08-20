@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506050034-cj914-bondage.jpg"
 image_caption: >
   On brand.
-image_width: "0"
-image_height: "0"
 image_attribution: "Mel Hattie"
 image_attribution_link: ""
 video_url: ""

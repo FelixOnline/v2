@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201302281741-txl11-dualshock-4-controller-800x600.jpg"
 image_caption: >
   Maybe not the final thing, but it sure does look nice.
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603181200-felix-grimes3.jpg"
 image_caption: >
   Claire Boucher and her crew.
-image_width: "5312"
-image_height: "2988"
 image_attribution: "Cale Tilford"
 image_attribution_link: ""
 video_url: ""

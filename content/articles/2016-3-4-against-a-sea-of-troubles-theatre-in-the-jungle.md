@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603041146-felix-5832.jpg"
 image_caption: >
   The Globe to Globe tour perform Hamlet at the Jungle camp in Calais
-image_width: "1920"
-image_height: "1152"
 image_attribution: "The Guardian"
 image_attribution_link: ""
 video_url: ""

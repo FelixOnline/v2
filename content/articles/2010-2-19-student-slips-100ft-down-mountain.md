@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201002191040-felix-snowdon.jpg"
 image_caption: >
 
-image_width: "1280"
-image_height: "960"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

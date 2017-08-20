@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103101911-nm1010-asteroid.jpg"
 image_caption: >
   An artist's impression of the Lib Dems' chances at the next general election...
-image_width: "1278"
-image_height: "696"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210051233-felix-prison-architect-preview-2.jpeg"
 image_caption: >
   Soap-dropping expansions out Q2 2013. Pre-order NOW...
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

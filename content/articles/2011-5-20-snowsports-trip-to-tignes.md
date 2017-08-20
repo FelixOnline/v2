@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105200408-felix-4-1.jpg"
 image_caption: >
 
-image_width: "2592"
-image_height: "1936"
 image_attribution: "Lizzy Griffiths"
 image_attribution_link: ""
 video_url: ""
@@ -54,4 +52,3 @@ Competition-wise it was a successful trip for us, notably Chris Wyatt who put in
 In great Imperial tradition, most of the committee (current and elected for next year) as well as the keenest club members spent the majority of the trip dressed as animals/morons. Think “tight, bright, and shiny” and of course “cow vs croc” - keep an eye on the ICSC Snowsports page for high speed video evidence of the latter. As always BUSC laid on endless great nights out, perhaps the best being the Funicular party – a 10 min train (!) ride up the mountain for a 3500m/6 h rave to natty riddumz and dirty beetz, with Lizzy Griffiths pushing the skank meter up to 11 all night long!
 
 Another incredible Imperial snowsports trip, and so a big thanks to all the people who came along to make this possible. Special mention goes to next year’s Snowsports chair, our very own sugar cougar and trip organiser Beth Burks for making all our dreams a beautiful and boozy reality! As the snow melts for the summer, and we count down the hours to the ICSC January trip (see you there!), we praise the almighty God of Snow for looking over us this season, and letting us come home in one piece. In the words of the often late and rarely great current Snowsports chairman, “it’s like the Black Eyed Peas say...it’s all about the boom boom pow”.
-TODO: image from

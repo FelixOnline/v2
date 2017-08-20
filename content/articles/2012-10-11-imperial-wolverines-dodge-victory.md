@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210112218-csw09-action%20shot%201.jpg"
 image_caption: >
   Amazing Fresher Talent
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

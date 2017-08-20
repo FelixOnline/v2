@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103032010-ks607-stoicliv.jpg"
 image_caption: >
   The panel: Jenny Wilson, presenter Elizabeth Skrzypiec, Alex Kendall, and Dan Wan
-image_width: "3888"
-image_height: "2592"
 image_attribution: "Kadhim Shubber"
 image_attribution_link: ""
 video_url: ""

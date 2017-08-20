@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012108-pk1811-james-blake-live.jpg"
 image_caption: >
   Under the sea, where the octopuses live
-image_width: "3648"
-image_height: "2736"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

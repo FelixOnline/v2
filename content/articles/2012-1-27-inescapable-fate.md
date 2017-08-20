@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201271237-felix-inescpaablefate-logo.jpg"
 image_caption: >
   Spikey metal logo replaced with baroque oil painting
-image_width: "640"
-image_height: "413"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

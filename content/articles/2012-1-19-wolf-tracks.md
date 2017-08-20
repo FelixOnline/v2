@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192114-cac111-wolf-tracks.jpg"
 image_caption: >
   Wolves are only ever this friendly on National Geographic
-image_width: "960"
-image_height: "640"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

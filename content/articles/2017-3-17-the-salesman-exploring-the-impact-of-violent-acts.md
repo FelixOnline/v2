@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703171707-felix-Salesman.jpg"
 image_caption: >
   Shahab Hosseini and Taraneh Alidooti play the couple at the heart of Asghar Farhadi’s latest film
-image_width: "2681"
-image_height: "1508"
 image_attribution: "Cannes film festival"
 image_attribution_link: ""
 video_url: ""

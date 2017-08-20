@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606101015-felix-mappi.jpg"
 image_caption: >
   The street where the flat supposedly was.
-image_width: "645"
-image_height: "430"
 image_attribution: "mappio.net"
 image_attribution_link: ""
 video_url: ""

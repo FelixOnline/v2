@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111180005-sjw209-god.jpg"
 image_caption: >
 
-image_width: "836"
-image_height: "663"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

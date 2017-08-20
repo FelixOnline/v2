@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105060047-felix-5588442875_55120c11d4_o.jpg"
 image_caption: >
   Headliner Laura Marling
-image_width: "1929"
-image_height: "1848"
 image_attribution: "flickr/rowl images"
 image_attribution_link: "http://www.flickr.com/photos/rowlimages/5588442875/"
 video_url: ""

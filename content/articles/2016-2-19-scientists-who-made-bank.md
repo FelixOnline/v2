@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191121-felix-800px-Thomas_Phillips_-_Mary_Fairfax,_Mrs_William_Somerville,_1780_-_1872._Writer_on_science_-_Google_Art_Project.jpg"
 image_caption: >
   Mary Somerville, a scientific badass in astronomy and mathematics, proposed to be the new face of the Scottish £10.
-image_width: "800"
-image_height: "973"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""

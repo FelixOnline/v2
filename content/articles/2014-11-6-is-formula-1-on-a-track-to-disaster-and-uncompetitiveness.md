@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411061938-cj914-1414711932818_wps_108_file_photo_marussia_f1_te.jpg"
 image_caption: >
   Marussia and Caterham have gone into administration. Could more follow them?
-image_width: "0"
-image_height: "0"
 image_attribution: "James Moy/PA"
 image_attribution_link: ""
 video_url: ""

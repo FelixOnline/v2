@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
-image_width: ""
-image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -71,4 +69,3 @@ Again IC weren’t troubled by the poor quality of nightlife - we knew how to ma
 Sunday arrived and IC departed, making it back in time to catch the last ¾ of Super Sunday with heads full of memories of a successful domination of Bristol.
 
 ICUAFC is sponsored by:
-TODO: image from

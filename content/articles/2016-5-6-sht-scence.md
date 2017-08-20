@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061054-felix-10012397964_b7278948d2_k.jpg"
 image_caption: >
 
-image_width: "2048"
-image_height: "1151"
 image_attribution: "Noodles and Beef"
 image_attribution_link: ""
 video_url: ""

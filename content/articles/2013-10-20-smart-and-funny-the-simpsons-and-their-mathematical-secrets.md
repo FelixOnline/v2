@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310200225-jal08-81pfazijnpl._sl1500_.jpg"
 image_caption: >
   The Simpsons and their Mathematical Secrets
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110071348-felix-downton_abbey_season_2.jpg"
 image_caption: >
   It's cloudier than last year at Downton Abbey, but Sybil and Mary have become more bang tidy
-image_width: "1280"
-image_height: "1137"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

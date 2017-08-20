@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/"
 image_caption: >
   Milo Yiannopoulos was banned from Manchester SU because his views could “incite hatred”.
-image_width: ""
-image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

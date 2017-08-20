@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201211292257-tna08-vaccines.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -46,7 +44,6 @@ Wandering around the large and looming Alexandra Palace, simultaneuosly trying t
 Although now stepping out onto a huge stage as darlings of the mainstream, The Vaccines still have punk attitudes somewhere in their heart. Their choice of seminal Canadian hardcore band Fucked Up to be main support for this massive date confused and scared the swelling crowds in equal measures. Their was little continuity between the Beach Boy guitar pop which would soon bring the venue to its knees and the brutal hollerings of a semi-naked sweaty punk icon but I enjoyed the surprise nevertheless.
 
 There have been countless articles predicting that The Vaccines can be saviours of the guitar, drag modern indie out of its current rut andgive it a new heart. From my very enviable position in the front row, I could properly appreciate these outlandish claims. This is the first band since The Libertines I have witnessed who inspired such devotion. The ten thousand tickets for this show sold out in the flash of an eye and by the number of disappointed fans outside I think they could have easily filled another night.
-TODO: image from
 Opening with newie “No Hope” the cheers, which went up around me, drowned out Justin’s drawling chorus celebrating antithapy and selfishness. As the masses of gleeful faces settled down, a large number of hits from the first album What Did You Expect From The Vaccines turn the Ally Pally into a sloshy mess of hormones and spilled lager.
 
 It was, however, one of the best tracks of the new album Come of Age that caught my attention. “Teenage Icon” is a sweet three minute piece of surf pop perfection. The lyrics are not deep and it might be slightly predictable in the formula used, but boy does it leave you dumbstruck. The Vaccines show that you do not have to reinvent the wheel, you just have to make it look cool and drop some Strokes-lite fuzz on it.

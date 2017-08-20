@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706021446-felix-IMG_7788.JPG"
 image_caption: >
   “Wait. How much did library doors cost?!”
-image_width: "3264"
-image_height: "2448"
 image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""

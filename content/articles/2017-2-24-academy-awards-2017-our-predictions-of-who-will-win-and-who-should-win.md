@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702241420-felix-BarryJenkins_WPC.jpg"
 image_caption: >
 
-image_width: "2400"
-image_height: "3106"
 image_attribution: "Wikimedia"
 image_attribution_link: ""
 video_url: ""

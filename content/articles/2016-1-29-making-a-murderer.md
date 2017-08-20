@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601291000-felix-682_1696611477252575_2592152650070458839_n.jpg"
 image_caption: >
   Who is responsible when an innocent man is sent to prison?
-image_width: "843"
-image_height: "403"
 image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""

@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201405020159-jal08-11depression.jpg"
 image_caption: >
   A demonstration of how not to help a friend who is suffering with depression.
-image_width: "0"
-image_height: "0"
 image_attribution: "Hyperbole and a half (2013)"
 image_attribution_link: ""
 video_url: ""

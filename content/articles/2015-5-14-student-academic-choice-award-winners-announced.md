@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505142332-cj914-tbl_sacas_18h42m37s-copy.jpg"
 image_caption: >
   Pascal Loåose, left, hosted the evening
-image_width: "0"
-image_height: "0"
 image_attribution: "Ben Lester/Through Ben’s Lens"
 image_attribution_link: ""
 video_url: ""

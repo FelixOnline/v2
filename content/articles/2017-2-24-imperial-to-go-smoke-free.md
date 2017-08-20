@@ -35,14 +35,11 @@ featured: true
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
-image_width: ""
-image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 ---
 
-TODO: image from
 It’s official: Imperial will implement a smoking ban on all College campuses and properties starting the 1st of August.
 
 The move which has been in the making for quite some time now, is a result of various lengthy consultations including a ‘referendum’ that took place earlier last term.

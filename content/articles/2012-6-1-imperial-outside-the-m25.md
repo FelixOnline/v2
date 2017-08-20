@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206011336-mc4509-silwood.jpg"
 image_caption: >
   Don’t worry, they’ve put a new facade on Mech Eng so it now looks as good as this...
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

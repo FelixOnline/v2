@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502021424-bwh12-dsc_0898_by_tlim.jpg"
 image_caption: >
   Scenes from a newsroom's mind.
-image_width: "0"
-image_height: "0"
 image_attribution: "Thomas Lim"
 image_attribution_link: ""
 video_url: ""

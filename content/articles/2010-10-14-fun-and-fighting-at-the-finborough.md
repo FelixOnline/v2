@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104200938-felix-finboroughfront2008creditmatthewturner.jpg"
 image_caption: >
 
-image_width: "1944"
-image_height: "2592"
 image_attribution: "Matthew Turner"
 image_attribution_link: ""
 video_url: ""

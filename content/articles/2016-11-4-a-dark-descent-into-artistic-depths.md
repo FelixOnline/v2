@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611041414-aib116-nocturnal-animals-amy-adams-image.jpg"
 image_caption: >
 
-image_width: "4500"
-image_height: "2995"
 image_attribution: "FOCUS"
 image_attribution_link: ""
 video_url: ""

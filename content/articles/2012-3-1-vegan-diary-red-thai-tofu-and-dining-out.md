@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203012158-ams111-dsc_0008.gif"
 image_caption: >
   It’s getting better every week!
-image_width: "2000"
-image_height: "1333"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

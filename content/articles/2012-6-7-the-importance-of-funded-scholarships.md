@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206072049-pk1811-money.png"
 image_caption: >
   Disappointingly, they transfer the money into your account, and don’t just give a massive pile
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103101949-ks607-mirpurar.jpg"
 image_caption: >
 
-image_width: "4176"
-image_height: "2784"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

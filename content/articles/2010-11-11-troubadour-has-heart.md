@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011112112-nm1010-troubado.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "751"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

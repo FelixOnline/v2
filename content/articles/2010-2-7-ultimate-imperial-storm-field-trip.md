@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201002070321-ak6309-Ultimate.jpg"
 image_caption: >
 
-image_width: "1801"
-image_height: "2120"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

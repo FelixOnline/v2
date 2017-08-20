@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411211319-ps3110-screen-shot-2014-11-20-at-20.28.52.png"
 image_caption: >
   Last week's issue of the paper
-image_width: "0"
-image_height: "0"
 image_attribution: "Gair Rhydd"
 image_attribution_link: ""
 video_url: ""

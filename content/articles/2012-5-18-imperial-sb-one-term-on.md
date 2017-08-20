@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205181727-felix-daniel-hyde---cradle-carve-taken-by-ed-brial-at-victoria-park.jpg"
 image_caption: >
   Daniel Hyde - Cradle Carve at Victoria Park
-image_width: "0"
-image_height: "0"
 image_attribution: "Ed Brial"
 image_attribution_link: ""
 video_url: ""

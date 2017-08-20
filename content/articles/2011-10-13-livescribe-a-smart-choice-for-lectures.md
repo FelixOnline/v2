@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110140000-sjw209-pen_full.jpg"
 image_caption: >
   Who needs friends when you have a pen that talks?
-image_width: "1200"
-image_height: "800"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

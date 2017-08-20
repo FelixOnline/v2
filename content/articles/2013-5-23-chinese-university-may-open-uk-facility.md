@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201305232325-tna08-impnewcampus.jpg"
 image_caption: >
   Looks like they rejected my pink marble tower with two side structure design. Wonder why...
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

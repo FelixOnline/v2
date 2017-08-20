@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122223-felix-dusk003.jpg"
 image_caption: >
   The proposals would see new care housing at Evelyn Gardens
-image_width: "4368"
-image_height: "2912"
 image_attribution: "Simon Kreitem"
 image_attribution_link: ""
 video_url: ""

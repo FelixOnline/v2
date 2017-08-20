@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201012022018-ks607-rareexpo.jpg"
 image_caption: >
 
-image_width: "610"
-image_height: "300"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 image_caption: >
 
-image_width: "400"
-image_height: "320"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

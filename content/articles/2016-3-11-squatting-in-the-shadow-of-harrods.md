@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111121-felix-12833275_971574509558882_307790599_n.jpg"
 image_caption: >
   Fight the power! Then pop to Pret for lunch.
-image_width: "960"
-image_height: "720"
 image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: "https://www.youtube.com/watch?v=Y_X-hL5bhKg&feature=youtu.be"

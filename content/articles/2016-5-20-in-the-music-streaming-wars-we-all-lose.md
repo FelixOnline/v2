@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605201114-felix-streaming.jpg"
 image_caption: >
   So much choice (thanks capitalism).
-image_width: "640"
-image_height: "313"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

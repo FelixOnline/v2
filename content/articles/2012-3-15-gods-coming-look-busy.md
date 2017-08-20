@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152106-pk1811-second-coming.jpg"
 image_caption: >
 
-image_width: "310"
-image_height: "500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205251911-mc4509-screen-shot-2012-05-23-at-9.10.03-pm.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Ioanna Kalogeraki"
 image_attribution_link: ""
 video_url: ""

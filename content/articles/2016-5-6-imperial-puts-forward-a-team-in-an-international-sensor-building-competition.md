@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061118-felix-12698176_216110085402467_4463194750077487305_o.jpg"
 image_caption: >
 
-image_width: "2048"
-image_height: "1536"
 image_attribution: "SensUs Imperial"
 image_attribution_link: ""
 video_url: ""

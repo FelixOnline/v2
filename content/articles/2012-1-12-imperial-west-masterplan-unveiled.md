@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122231-felix-01141_imperial_vbuilddbase_2011-11-15_a_full.jpg"
 image_caption: >
   Imperial West will provide accommodation from autumn 2012
-image_width: "2858"
-image_height: "3543"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

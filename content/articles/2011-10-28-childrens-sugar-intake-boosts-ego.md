@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110281416-felix-sugar.jpg"
 image_caption: >
   Making up for something?
-image_width: "610"
-image_height: "335"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201309111202-mtm10-johnson2.jpg"
 image_caption: >
   Journalist and editor Rachel Johnson returns to lead one of the teams in the Classics Quiz
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

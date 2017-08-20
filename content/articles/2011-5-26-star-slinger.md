@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105262039-felix-denim_large.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "686"
 image_attribution: "Dazed and Confused"
 image_attribution_link: "http://www.dazeddigital.com/music/article/8280/1/star-slingers-unique-beats"
 video_url: ""

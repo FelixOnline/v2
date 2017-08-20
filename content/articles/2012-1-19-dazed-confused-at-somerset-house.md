@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192117-pk1811-dazed-and-confused-exhibition-at-somerset-house-london.jpg"
 image_caption: >
   Dazed? Confused? Our caption writers are
-image_width: "750"
-image_height: "563"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

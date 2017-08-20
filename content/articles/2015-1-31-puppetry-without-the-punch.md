@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201501311721-ps3110-rsz_basil_twist_dogugaeshi_gold_foxes_©_richard_termine_2.jpg"
 image_caption: >
   Gold Foxes in Basil Twist's Dogugaeshi
-image_width: "0"
-image_height: "0"
 image_attribution: "Richard Termine"
 image_attribution_link: ""
 video_url: ""

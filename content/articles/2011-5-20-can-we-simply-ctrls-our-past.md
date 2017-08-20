@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105200657-felix-doomsday.jpg"
 image_caption: >
 
-image_width: "595"
-image_height: "394"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

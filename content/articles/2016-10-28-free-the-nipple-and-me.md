@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610311256-felix-RR4.jpg"
 image_caption: >
 
-image_width: "2991"
-image_height: "4315"
 image_attribution: "Joe O'Connell-Danes"
 image_attribution_link: ""
 video_url: ""
@@ -54,7 +52,6 @@ The campaign, whilst focusing on nipples, is about so much more. It is about equ
 And it is for these reasons I am so passionate about freeing the nipple – it represents true equality for women in our society. If women are able to vote, lead nations and go to space, why on earth must they hide their nipples? Exposure of the male nipple, which is the vestigial twin of the female nipple, has not caused the world to burst into flames, so why are we so afraid that women’s nipples might?
 
 Having said all that, after leaving the shoot I started having doubts. What is the law surrounding this issue? Can it impact my future or my ability to do my job? Will it cause me ridicule and shame? Will people think my boobs are bad or ugly or that I don’t have the right body for public exposure?
-TODO: image from
 The fact that I was so vulnerable to such thoughts infuriates me because nipples should not be criminalised, they should not impact my career and they should not be a cause for shame. Yet because I am a woman they are. If I had a penis I wouldn’t think twice about whipping my top off for a centrefold, so why should my vagina cause me to do so? Western society denounces Sharia Law for censoring women’s bodies then continues to do the same.
 
 Fundamentally, censorship of nipples is no different to censorship of faces, but somehow society fails to realise this. Moreover, my body is not an item to be judged on its appearance. It should not have to look a certain way to be beautiful; the sheer fact that it is a vehicle for my being makes it both beautiful and worthy of respect. For this reason, I resolved with myself that I would not backtrack on my commitment to this centrefold. It is because of the stigma surrounding women’s nipples that I decided to bare all in the first place. Deciding to back out simply adds to the idea that women’s bodies must look a certain way and that breasts and nipples are shameful and need to be hidden. Unless of course they are both perfectly plump and perky, and on the pages of Playboy for the pleasure of men.

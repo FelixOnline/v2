@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261122-felix-Screen Shot 2016-02-25 at 17.42.05.png"
 image_caption: >
   Brexit-er Boris out on Exhibition Road.
-image_width: "1470"
-image_height: "835"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

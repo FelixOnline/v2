@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703031554-felix-theVideoGameGallery_26725_1920x1200.jpg"
 image_caption: >
          Boy’s best friend, a weird, Griffin-like monster
-image_width: "1920"
-image_height: "1200"
 image_attribution: "genDESIGN and Sony Interactive Entertainment"
 image_attribution_link: ""
 video_url: ""

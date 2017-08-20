@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702101403-felix-goat-1596880_1920.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1359"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

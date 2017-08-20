@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201405160235-jal08-1576_news_tbl_sacas-1_web.jpg"
 image_caption: >
   The Student Academic Choice Awards
-image_width: "0"
-image_height: "0"
 image_attribution: "Through Ben's Lens / Benjamin Lester"
 image_attribution_link: "http://throughbenslens.co.uk"
 video_url: ""

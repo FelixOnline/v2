@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505151349-cj914-sitting.png"
 image_caption: >
   GoPros abound as José and some friends take a much needed break.
-image_width: "0"
-image_height: "0"
 image_attribution: "José Estiveira"
 image_attribution_link: ""
 video_url: ""

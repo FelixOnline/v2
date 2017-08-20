@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122033-cac111-imgp9182.jpg"
 image_caption: >
   Well, you can tell it’s the indoor nationals
-image_width: "3008"
-image_height: "2000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

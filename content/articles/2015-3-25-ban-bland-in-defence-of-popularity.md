@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251245-ff712-middleton_full_0111.jpg"
 image_caption: >
   Kate Middleton’s first official portrait, by Paul Emsely, which was described as ‘pretty ordinary’
-image_width: "0"
-image_height: "0"
 image_attribution: "National Portrait Gallery"
 image_attribution_link: ""
 video_url: ""

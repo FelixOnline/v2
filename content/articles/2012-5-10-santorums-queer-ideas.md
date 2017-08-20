@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205102107-pk1811-rick-santorum.jpg"
 image_caption: >
   Just be glad we didn’t put a picture of the Wiktionary definition up...
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610141218-so515-TOS.png"
 image_caption: >
   In the future no one cares about your awkward grins.
-image_width: "2500"
-image_height: "1667"
 image_attribution: "CBS"
 image_attribution_link: ""
 video_url: ""

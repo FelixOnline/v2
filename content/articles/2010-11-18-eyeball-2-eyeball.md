@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011182007-ks607-eyeballb.jpg"
 image_caption: >
 
-image_width: "1142"
-image_height: "964"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

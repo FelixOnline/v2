@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505131518-ps3110-fiona_kimm_as_ellipsis_paul_curievici_as_eames_david_stout_as_selby_robyn_allegra_parton_as_peg_0-photo-credit-fiona-kimm.jpg"
 image_caption: >
   David Stout, Fiona Kimm, Robyn Allegra Parton and Paul Curievici in the Royal Opera House’s production of The Virtues of Things
-image_width: "0"
-image_height: "0"
 image_attribution: "Stephen Cummiskey"
 image_attribution_link: ""
 video_url: ""

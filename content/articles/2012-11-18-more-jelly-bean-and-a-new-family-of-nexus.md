@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201211181322-jp1409-nexus-4,-7-10.png"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -53,7 +51,6 @@ Android 4.2 is a new version of Android, still called Jelly Bean (after Google�
 If you’ve ever seen those Google Street View cars ply along the roads taking sneaky photos of unsuspecting pedestrians for publication on Google Maps, you might be glad to know that you can also do that now in Android 4.2.
 > you can use the same technology that powers the Street View cameras in your phone
 Dubbed “Photo Sphere”, you can use the same technology that powers the Street View cameras in your phone to take 360 degrees panorama shots worthy of your non-Android friends’ envy. If you count yourself as an expert photographer, you can even upload them to Google Maps for sharing with the rest of the world. The camera interface has received a new interface that allows you quick access to camera settings. Of course, this new update also comes with the obligatory increase in the number of filters available that allow people to further “instagram-ise” their photos without needing to use Instagram.
-TODO: image from
 ###
 
 ####  Usability Enchancements

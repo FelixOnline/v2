@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102172031-dr910-seahorse.jpg"
 image_caption: >
 
-image_width: "3370"
-image_height: "1117"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

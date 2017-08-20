@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611041533-felix-somerset_house_hair_29.jpg"
 image_caption: >
 
-image_width: "730"
-image_height: "469"
 image_attribution: "Somerset House"
 image_attribution_link: ""
 video_url: ""

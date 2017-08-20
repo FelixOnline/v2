@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702031701-felix-La Traviata-13-01-17-ROH-1094 JOYCE EL-KHOURY AS VIOLETTA VALÉRY © ROH. PHOTO BY TRISTRAM KENTON.jpg"
 image_caption: >
 
-image_width: "3651"
-image_height: "5106"
 image_attribution: "Tristram Kenton"
 image_attribution_link: ""
 video_url: ""

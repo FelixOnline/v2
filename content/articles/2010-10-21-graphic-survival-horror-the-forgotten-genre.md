@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010212030-ks607-hidingaw.jpg"
 image_caption: >
   Damn it's dark, where's that flashlight?
-image_width: "1599"
-image_height: "900"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

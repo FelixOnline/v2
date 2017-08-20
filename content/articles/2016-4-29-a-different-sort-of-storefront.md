@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201604291155-felix-itch.jpg"
 image_caption: >
   The only indie game store where you can go on hot dates with pugs.
-image_width: "2136"
-image_height: "1071"
 image_attribution: "Itch.io"
 image_attribution_link: ""
 video_url: ""

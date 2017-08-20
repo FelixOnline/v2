@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605201045-felix-lib copy2.jpg"
 image_caption: >
 
-image_width: "5312"
-image_height: "2988"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110281213-felix-noel-1.jpg"
 image_caption: >
   Noel takes particular care when framing his shots
-image_width: "1060"
-image_height: "843"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

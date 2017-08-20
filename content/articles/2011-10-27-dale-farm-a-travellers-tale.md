@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110280043-sjw209-dale-farm-pic.jpg"
 image_caption: >
   Is nobody going to comment on the great tiling of the street?
-image_width: "300"
-image_height: "200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

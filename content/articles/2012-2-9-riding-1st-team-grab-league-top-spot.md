@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092316-pk1811-photo.jpg"
 image_caption: >
   Insert horse-related joke here
-image_width: "2592"
-image_height: "1936"
 image_attribution: "IC Riding"
 image_attribution_link: ""
 video_url: ""

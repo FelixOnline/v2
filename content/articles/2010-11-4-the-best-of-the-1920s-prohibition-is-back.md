@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104210905-felix-screen-shot-2011-04-21-at-09.02.02.png"
 image_caption: >
 
-image_width: "355"
-image_height: "532"
 image_attribution: "Prohibition 1920s"
 image_attribution_link: "http://www.prohibition1920s.com"
 video_url: ""

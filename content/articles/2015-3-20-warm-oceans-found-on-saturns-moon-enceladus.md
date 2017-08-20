@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503200053-cj914-enceladus-geysers.jpg"
 image_caption: >
   This cutaway image shows an artist's impression of the ocean under Enceladus' icy crust
-image_width: "0"
-image_height: "0"
 image_attribution: "NASA/JPL"
 image_attribution_link: ""
 video_url: ""

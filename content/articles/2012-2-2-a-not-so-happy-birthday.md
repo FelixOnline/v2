@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202021951-ams111-happy-birthday-cake.jpg"
 image_caption: >
   Here's to another ten years...?
-image_width: "618"
-image_height: "411"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

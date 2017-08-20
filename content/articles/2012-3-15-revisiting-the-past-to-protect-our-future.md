@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152104-ig711-levy.jpg"
 image_caption: >
   JSoc in Lithuania
-image_width: "276"
-image_height: "138"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

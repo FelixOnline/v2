@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603181148-felix-3753445507_ef06cbe8d7_o.jpg"
 image_caption: >
   I don’t care who told you steak is rich in vitamin B. If you come near me, I will cut you.
-image_width: "3888"
-image_height: "2600"
 image_attribution: "Beatrice Murch"
 image_attribution_link: ""
 video_url: ""

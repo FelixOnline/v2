@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111137-felix-8189896503_377474128d_o.jpg"
 image_caption: >
   Regardless of what coffee does or does not do, we love it and can’t live without it.
-image_width: "2700"
-image_height: "1807"
 image_attribution: "Olga Filonenko"
 image_attribution_link: ""
 video_url: ""

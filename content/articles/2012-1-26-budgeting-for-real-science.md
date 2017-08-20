@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262218-pk1811-snake-mouth.jpg"
 image_caption: >
   Oopssss... Lookssss like sssssomeone dropped the ssssoap...
-image_width: "1024"
-image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

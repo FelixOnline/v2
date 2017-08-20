@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205040116-felix-vote_ballot_paper.jpg"
 image_caption: >
   GSA elections were online, mainly because this is what the ballot paper would have looked like. Grim
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

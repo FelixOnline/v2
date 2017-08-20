@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505010008-ps3110-newseventsimages.jpeg"
 image_caption: >
   Stefan Grimm, professor of toxiology at Imperial, was struggling to acquire funding
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

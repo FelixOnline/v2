@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162156-pk1811-bonnie-prince-billy.jpg"
 image_caption: >
   How you doin’?
-image_width: "300"
-image_height: "443"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606031124-felix-love1.jpg"
 image_caption: >
   Fast food is the way to a person’s heart.
-image_width: "1920"
-image_height: "1080"
 image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""

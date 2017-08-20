@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201403070448-jal08-hiv-infected-h9-t-cell-1024x576.jpg"
 image_caption: >
   HIV, coloured yellow, attacking a T cell
-image_width: "0"
-image_height: "0"
 image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""

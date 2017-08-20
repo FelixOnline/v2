@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131102-felix-1789243636_7987f706f5_o.jpg"
 image_caption: >
 
-image_width: "1536"
-image_height: "2048"
 image_attribution: "Simon Thomas"
 image_attribution_link: ""
 video_url: ""

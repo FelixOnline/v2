@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202031112-sjw209-stones-throw.jpg"
 image_caption: >
 
-image_width: "630"
-image_height: "630"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

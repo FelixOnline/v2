@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511131430-cet13-grimes.jpg"
 image_caption: >
   Grimes returns three-eyed and chirpy.
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

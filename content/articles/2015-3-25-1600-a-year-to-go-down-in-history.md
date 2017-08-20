@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251239-ff712-rome_statue_giordano_bruno_campo_dei_fiori.jpg"
 image_caption: >
   The Statue of Giordano Bruno, Campo dei Fiori, Rome
-image_width: "0"
-image_height: "0"
 image_attribution: "Creative Commons/Remi Jouan"
 image_attribution_link: ""
 video_url: ""

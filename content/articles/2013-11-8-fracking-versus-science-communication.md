@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201311080922-felix-screen-shot-2013-11-08-at-09.22.14.png"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "MotherEarthNews"
 image_attribution_link: "http://www.motherearthnews.com"
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203012200-cac111-img_9836.jpg"
 image_caption: >
   2 Girls 1 Cup received the usual response
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Simon Worthington"
 image_attribution_link: ""
 video_url: ""

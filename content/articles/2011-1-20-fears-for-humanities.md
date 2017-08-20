@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101202056-ks607-humanini.jpg"
 image_caption: >
   Students protesting cuts to the Humanities Department in 2009
-image_width: "3072"
-image_height: "2304"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

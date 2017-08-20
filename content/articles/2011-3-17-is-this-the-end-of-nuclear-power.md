@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103172123-ks607-nucleare.jpg"
 image_caption: >
   An explosion at one of the reactors at Fukushima nuclear power plant
-image_width: "2048"
-image_height: "1445"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

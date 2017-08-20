@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511291640-ff712-gueros.jpg"
 image_caption: >
   With its black and white cinematography, Güeros oozes charm
-image_width: "0"
-image_height: "0"
 image_attribution: "Güeros PR"
 image_attribution_link: ""
 video_url: ""

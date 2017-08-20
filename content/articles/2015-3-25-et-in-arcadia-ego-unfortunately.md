@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251254-ff712-tom-stoppard.-photo-by-amie-stamp..jpg"
 image_caption: >
   Tom Stoppard, the writer of Arcadia
-image_width: "0"
-image_height: "0"
 image_attribution: "Amie Stamp"
 image_attribution_link: ""
 video_url: ""

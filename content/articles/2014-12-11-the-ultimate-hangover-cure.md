@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412112017-cj914-beer-guy.jpg"
 image_caption: >
   A new drug could reduce the impact of alcohol on the brain.
-image_width: "0"
-image_height: "0"
 image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""

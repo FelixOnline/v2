@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701201528-felix-16129186_10210543447195334_431990530_o.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1080"
 image_attribution: "2014 Handle Productions"
 image_attribution_link: ""
 video_url: ""

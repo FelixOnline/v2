@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032103-pk1811-occupy_snow.jpg"
 image_caption: >
   Temperatures plummet in Zuccotti park, and a full-time Occupier warms his hands while pondering whic
-image_width: "560"
-image_height: "375"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

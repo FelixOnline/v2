@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205250001-mc4509-luso-meeting-29jan12-006.jpg"
 image_caption: >
   The LUSO 2012 organising committee
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

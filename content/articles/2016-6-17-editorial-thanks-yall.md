@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606171135-felix-d4126c656252607aeaa7b870e3f241f9.jpg"
 image_caption: >
   Me, right now, thinking about all you guys.
-image_width: "736"
-image_height: "459"
 image_attribution: "Orlando PR"
 image_attribution_link: ""
 video_url: ""

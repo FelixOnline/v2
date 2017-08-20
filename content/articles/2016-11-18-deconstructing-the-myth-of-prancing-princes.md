@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611181510-felix-7822736186_817e702bde_o.jpg"
 image_caption: >
 
-image_width: "3456"
-image_height: "5184"
 image_attribution: "Michel e Carlo"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701271411-felix-141112_imp_careers_046--tojpeg_1453133537311_x1.jpg"
 image_caption: >
 
-image_width: "453"
-image_height: "290"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

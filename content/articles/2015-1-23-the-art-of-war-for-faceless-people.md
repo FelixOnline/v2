@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201501231807-jyg11-screen-shot-2015-01-23-at-18.07.11.png"
 image_caption: >
   From left to right: James Franco and Seth Rogen pick a poor time to announce their bromance, someone's getting sacked in the morning at US Central Command and people commemorating the victims of the Charlie Hebdo attacks
-image_width: "0"
-image_height: "0"
 image_attribution: "filmschoolrejects, ITV, The New Yorker"
 image_attribution_link: ""
 video_url: ""

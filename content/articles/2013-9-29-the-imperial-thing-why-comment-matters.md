@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201309291504-tna08-parthenon.jpg"
 image_caption: >
   Not quite, but Comment is nearly as good
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

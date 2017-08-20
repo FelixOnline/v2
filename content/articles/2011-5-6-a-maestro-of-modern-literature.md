@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105061412-felix-mitchell-crjpg-3e1995e4fd89b57a.jpg"
 image_caption: >
 
-image_width: "2048"
-image_height: "1727"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

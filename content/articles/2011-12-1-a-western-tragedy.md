@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112011943-pk1811-map.jpg"
 image_caption: >
   A seismic map of Europe produced as part of the Global Seismic Hazard Assessment Project
-image_width: "501"
-image_height: "361"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

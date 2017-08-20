@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202030027-sjw209-dsc_6912.jpg"
 image_caption: >
   “Exquisite, my parents don’t let me use scissors at home!”
-image_width: "4288"
-image_height: "2848"
 image_attribution: "Jonathan Peek"
 image_attribution_link: ""
 video_url: ""

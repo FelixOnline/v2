@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310182248-jal08-artsauctionhouse.jpg"
 image_caption: >
   No, it's the picture over there!
-image_width: "0"
-image_height: "0"
 image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""

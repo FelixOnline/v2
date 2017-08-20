@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082203-felix-grinch.jpg"
 image_caption: >
   He hates Christmas, I hate writing witty captions to please the masses
-image_width: "4984"
-image_height: "4080"
 image_attribution: "Lizzy Griffiths"
 image_attribution_link: ""
 video_url: ""

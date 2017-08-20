@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411211311-ps3110-website-picture-version.jpg"
 image_caption: >
   The change in the bursaries funds from 2016
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

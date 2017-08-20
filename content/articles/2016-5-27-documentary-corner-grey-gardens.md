@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605271100-felix-grey-gardens1.jpg"
 image_caption: >
   S-T-A-U-N-C-H
-image_width: "929"
-image_height: "595"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

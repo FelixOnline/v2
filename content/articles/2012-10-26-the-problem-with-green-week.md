@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210291842-tna08-institution_full_510_imperial_college_london_south_kensington_campus_at_night20120906-2-1khskiw.jpeg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

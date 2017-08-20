@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505131521-ps3110-image-2.-meiko-laughing-2005.jpg"
 image_caption: >
   Kodak Three Point Reflection Guide (Meiko laughing) by Christopher Williams.
-image_width: "0"
-image_height: "0"
 image_attribution: "Galerie Gisela Capitain and David Zwirner"
 image_attribution_link: ""
 video_url: ""

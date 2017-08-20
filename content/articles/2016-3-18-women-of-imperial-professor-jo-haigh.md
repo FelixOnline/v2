@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603181153-felix-12528563_10156595569485394_223107068_o.jpg"
 image_caption: >
   Professor Joanna Haigh.
-image_width: "1365"
-image_height: "2048"
 image_attribution: "Natasha Khaleeq"
 image_attribution_link: ""
 video_url: ""

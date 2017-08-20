@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201512111532-felix-crowded-trains-2372669.jpg"
 image_caption: >
 
-image_width: "2197"
-image_height: "1463"
 image_attribution: "mirror.co.uk"
 image_attribution_link: ""
 video_url: ""

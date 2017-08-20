@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510231248-ygr12-witheredoak.jpg"
 image_caption: >
   A withered oak tree – the only thing that truly understands you.
-image_width: "0"
-image_height: "0"
 image_attribution: "Old Oak School of Dao"
 image_attribution_link: ""
 video_url: ""

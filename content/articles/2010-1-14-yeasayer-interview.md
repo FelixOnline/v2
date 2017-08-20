@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201001141423-ks607-OddBlood.jpg"
 image_caption: >
 
-image_width: "1425"
-image_height: "1425"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

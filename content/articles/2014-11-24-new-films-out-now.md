@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411241246-ps3110-my-old-lady-cmyk.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Photo: Israel Horovitz/BBC Films"
 image_attribution_link: ""
 video_url: ""

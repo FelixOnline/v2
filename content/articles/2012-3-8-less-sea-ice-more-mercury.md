@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203082010-ams111-bearours3.jpg"
 image_caption: >
   This guy is on a mission to find the lost Arctic sea ice
-image_width: "2288"
-image_height: "1712"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

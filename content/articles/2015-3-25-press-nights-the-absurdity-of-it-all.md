@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251244-ff712-untitled.jpg"
 image_caption: >
   Statler and Waldorf from The Muppet Show.
-image_width: "0"
-image_height: "0"
 image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""

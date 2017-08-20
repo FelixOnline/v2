@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705121814-felix-newseventsimages.jpeg"
 image_caption: >
   Man of the hour
-image_width: "700"
-image_height: "484"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

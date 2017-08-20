@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702031733-felix-15262595018_46811ca672_b.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "673"
 image_attribution: "Benjamin Esham"
 image_attribution_link: ""
 video_url: ""

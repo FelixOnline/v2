@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201311010934-felix-science-snake.jpg"
 image_caption: >
   A new species of snake, Chironius challenger
-image_width: "0"
-image_height: "0"
 image_attribution: "Philippe Kok"
 image_attribution_link: ""
 video_url: ""

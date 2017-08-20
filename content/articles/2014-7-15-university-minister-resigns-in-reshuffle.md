@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201407150351-kmw13-david_willetts_13031_450.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Times Higher Education"
 image_attribution_link: ""
 video_url: ""

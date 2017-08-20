@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603301649-jc7413-10. Strange and Familiar. Cas Oorthuys.jpg"
 image_caption: >
   An old man blows bubbles in London, 1953.
-image_width: "5160"
-image_height: "5174"
 image_attribution: "Cas Oorthuys, 1953."
 image_attribution_link: ""
 video_url: ""

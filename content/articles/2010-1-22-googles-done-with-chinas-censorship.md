@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201001221902-rsp07-technolo.jpg"
 image_caption: >
 
-image_width: "1594"
-image_height: "1190"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

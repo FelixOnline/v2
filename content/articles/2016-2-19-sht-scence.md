@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191117-felix-2230227893_04ecb82581_o.jpg"
 image_caption: >
   Be free little buddy.
-image_width: "3872"
-image_height: "2592"
 image_attribution: "Oliver.dodd"
 image_attribution_link: ""
 video_url: ""

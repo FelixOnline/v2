@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703171300-felix-soundproofing.jpg"
 image_caption: >
   Rising complaints shut down the J&R space
-image_width: "1024"
-image_height: "381"
 image_attribution: "Iggyshoot"
 image_attribution_link: ""
 video_url: ""

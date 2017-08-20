@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010101634-ks607-GeorgeCl.jpg"
 image_caption: >
 
-image_width: "512"
-image_height: "256"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

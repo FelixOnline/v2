@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201704082251-im1413-a_scene_from_consent_photo_by_sarah_lee.jpg"
 image_caption: >
   The cast of Consent | Sarah Lee
-image_width: "1289"
-image_height: "720"
 image_attribution: "Sarah Lee"
 image_attribution_link: ""
 video_url: ""

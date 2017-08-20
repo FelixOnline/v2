@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102102049-ks607-jobsgate.jpg"
 image_caption: >
 
-image_width: "3872"
-image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

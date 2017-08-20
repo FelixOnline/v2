@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111031820-fa608-android-beam-video-sharing.jpg"
 image_caption: >
 
-image_width: "1366"
-image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011182209-nm1010-angrygee.jpg"
 image_caption: >
 
-image_width: "385"
-image_height: "261"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

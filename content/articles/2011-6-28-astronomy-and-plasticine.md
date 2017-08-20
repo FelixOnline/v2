@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106281206-felix-i_am_kloot_1118542a.jpg"
 image_caption: >
   Apparently these guys are Kloot...
-image_width: "682"
-image_height: "460"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

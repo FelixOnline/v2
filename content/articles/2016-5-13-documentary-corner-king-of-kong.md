@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131109-felix-2007_the_king_of_kong_005.jpg"
 image_caption: >
   “Well maybe they’d like it if I’d lose. Maybe I should try losing sometime.” – Billy Mitchell.
-image_width: "964"
-image_height: "678"
 image_attribution: "King of Kong PR"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105270048-felix-globe.jpg"
 image_caption: >
 
-image_width: "2402"
-image_height: "1598"
 image_attribution: "John Tramper"
 image_attribution_link: ""
 video_url: ""

@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611041529-felix-9711287531_b213d493da_o.jpg"
 image_caption: >
 
-image_width: "1497"
-image_height: "2000"
 image_attribution: "Tabercil"
 image_attribution_link: ""
 video_url: ""

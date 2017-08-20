@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106161958-felix-img.jpg"
 image_caption: >
   Court Chair Hamish Common (left) ruled that Kendall had not acted inappropriately
-image_width: "5184"
-image_height: "2202"
 image_attribution: "Kadhim Shubber"
 image_attribution_link: ""
 video_url: ""

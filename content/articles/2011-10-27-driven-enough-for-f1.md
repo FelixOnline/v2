@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110280038-felix-2011-09-01_0044_edited-1.jpg"
 image_caption: >
   Lotus test their 2011 car in Cambridgeshire
-image_width: "3668"
-image_height: "2445"
 image_attribution: "James Cronshaw"
 image_attribution_link: ""
 video_url: ""

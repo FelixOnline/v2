@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191110-felix-Umbrella_Revolution_in_Admiralty_Night_View_20141010.jpg"
 image_caption: >
   The 2014 Hong Kong protests.
-image_width: "3456"
-image_height: "4608"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310250129-felix-mus_sstudio.jpg"
 image_caption: >
   Tim Hecker and Oneohtrix Point Never
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082128-felix-iranian_military_parade_september_2007_005.jpg"
 image_caption: >
 
-image_width: "900"
-image_height: "597"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

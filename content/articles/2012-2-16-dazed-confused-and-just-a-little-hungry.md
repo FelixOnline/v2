@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162141-ams111-9780847836925.jpg"
 image_caption: >
   Dazed & Confused: Making It Up As We Go Along Written by Jefferson Hack, Edited by Jo-Ann Furniss
-image_width: "342"
-image_height: "450"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131134-felix-FullSizeRender.jpg"
 image_caption: >
   I mean, whoever thought this looked like a ballerina had clearly never actually seen one.
-image_width: "2569"
-image_height: "2448"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

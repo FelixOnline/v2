@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092248-pk1811-4.jpg"
 image_caption: >
   What’s the time, Mr. Wolf? I don’t have a bloody clue
-image_width: "2736"
-image_height: "3648"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -63,7 +61,6 @@ Yeah, they’re cute; get over it and tuck in. You’d expect it to taste a bit 
 __5. Burn money__
 
 It seems like a common theme among Nordic countries that the price of everything is as if they’re using the notes to fuel a smelter to melt the coins into model reindeer. A simple reindeer burger will set you back €5, while a proper meal is a “good deal” at about €13. You may want to pack your suitcase with food to make things more affordable, which has surprisingly little shame to it given how much you‘ll save. Oh, and if you want to get festive bring a bottle - there’s a monopoly on the Finnish spirit industry pushing a litre of vodka up to about £40.
-TODO: image from
 __6. See the Northern Lights__
 
 Strictly speaking, you don’t need to go to Finland, or even Northern Europe for this. On occasion there’s enough solar activity to make the Aurora Borealis visible as far south as Newcastle, which is somewhat galling for anyone who travelled specifically to see them. Nevertheless, they are pretty much what you expect them to be: green, wispy cloud-like formations that dance across the sky that take your breath away if the -20°C air doesn’t do that already. If you book more than a week in advance it suddenly becomes a bit of a lottery whether you see them owing to weather conditions. Thankfully, Saariselkä has enough to offer to make the trip worth it in the event clouds do ruin your day, as if they’ve sensed that you’ve come from England.
@@ -71,7 +68,6 @@ Strictly speaking, you don’t need to go to Finland, or even Northern Europe fo
 __7. Buy racistly-advertised child toys__
 
 Good luck working out what emotion that facial expression (bottom right image) is meant to convey. The racism isn’t immediately evident until you notice the chain round his neck which either implies he’s too poor to afford even a gold-plated one (damn you, Finnish income tax!) or that he’s meant to be a slave. What we can definitely infer though is that Finnish children get mad amounts of pocket money: you need at least €20 to get all ten grills.
-TODO: image from
 __8. Throw your circadian rhythm into chaos__
 
 The good thing about long nights during winter is that you get a huge window to see the Northern Lights. The bad thing is that the day lasts maybe four hours in January which means that the Sun pops up slowly, only to come back down before it has a chance to go from red to yellow. The result is looking up at the sky and having no idea whether it’s sunrise or sunset, and when you’re out hiking in the wilderness constantly wondering whether you’ve wandered past the border into Russia, it’s easy to lose all sense of time.

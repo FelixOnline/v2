@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201405090309-jal08-blood.jpg"
 image_caption: >
   Stephanie Meyer called, she wants her sexual aphrodisiac back
-image_width: "0"
-image_height: "0"
 image_attribution: "sikhanswers.com"
 image_attribution_link: ""
 video_url: ""

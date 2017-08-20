@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310250139-felix-mus_reflektor.jpg"
 image_caption: >
   Arcade Fire - Reflektor
-image_width: "0"
-image_height: "0"
 image_attribution: "Arcade Fire"
 image_attribution_link: ""
 video_url: ""

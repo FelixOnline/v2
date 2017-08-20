@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111135-felix-Harpoceras_&_Ichtyosaure_(p).jpg"
 image_caption: >
 
-image_width: "2862"
-image_height: "2934"
 image_attribution: "Wikimedia"
 image_attribution_link: ""
 video_url: ""

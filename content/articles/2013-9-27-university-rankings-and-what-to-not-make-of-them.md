@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201309280038-jal08-rankingstable.png"
 image_caption: >
   Imperial College - A day at the rankings!
-image_width: "0"
-image_height: "0"
 image_attribution: "Shiladitya Ghosh"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605271053-felix-8382308336_d80b1d49bb_o.jpg"
 image_caption: >
   Antarctica
-image_width: "1279"
-image_height: "854"
 image_attribution: "Chrisopher Michel"
 image_attribution_link: ""
 video_url: ""

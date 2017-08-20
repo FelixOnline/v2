@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202031035-sjw209-the-bee-2.jpg"
 image_caption: >
   Is it a guy? Is it a girl? One way to find out!
-image_width: "1438"
-image_height: "958"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

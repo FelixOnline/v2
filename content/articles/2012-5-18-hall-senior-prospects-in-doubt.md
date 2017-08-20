@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205180650-felix-252_5289.jpg"
 image_caption: >
   Wilson House, Paddington
-image_width: "0"
-image_height: "0"
 image_attribution: "Neville Miles"
 image_attribution_link: ""
 video_url: ""

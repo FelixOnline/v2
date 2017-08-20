@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606031038-felix-Screen Shot 2016-05-19 at 11.36.17.jpg"
 image_caption: >
   Yes, this is our Brexit picture. Deal with it.
-image_width: "1100"
-image_height: "690"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

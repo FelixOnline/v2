@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111031956-pk1811-dna-istock-rustycloud-1.jpg"
 image_caption: >
   A virus carrying modified DNA is injected into the patient’s eye
-image_width: "1600"
-image_height: "1200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

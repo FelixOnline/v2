@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105121936-felix-pate.jpg"
 image_caption: >
   Oh sweet delicious meat fruit...
-image_width: "1024"
-image_height: "768"
 image_attribution: "flickr/laissez fare"
 image_attribution_link: "http://www.flickr.com/photos/laissezfare/5596124134/in/set-72157626443593584"
 video_url: ""

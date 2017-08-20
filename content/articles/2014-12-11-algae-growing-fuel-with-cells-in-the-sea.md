@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412112029-cj914-algae.jpg"
 image_caption: >
   Algae could be used to produce renewable energy without the negative impacts of conventional biofuel
-image_width: "0"
-image_height: "0"
 image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""

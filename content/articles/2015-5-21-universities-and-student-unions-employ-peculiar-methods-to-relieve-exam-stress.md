@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505212137-kmw13-petting-zoo.jpeg"
 image_caption: >
   Students enjoy a few moments away from the stress of revision
-image_width: "0"
-image_height: "0"
 image_attribution: "Dan Addison"
 image_attribution_link: ""
 video_url: ""

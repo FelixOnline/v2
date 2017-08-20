@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601291003-felix-tdc.jpg"
 image_caption: >
   Waiting for bad news
-image_width: "1920"
-image_height: "1080"
 image_attribution: "Numinous Games"
 image_attribution_link: ""
 video_url: ""

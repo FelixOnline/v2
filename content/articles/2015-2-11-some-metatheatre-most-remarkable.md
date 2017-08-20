@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502112223-ps3110-03.jpg"
 image_caption: >
   Théâtre de la Ville – Paris, Six Characters in Search of an Author.
-image_width: "0"
-image_height: "0"
 image_attribution: "JL Fernandez"
 image_attribution_link: ""
 video_url: ""

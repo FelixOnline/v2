@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202021946-ams111-sam_0575.jpg"
 image_caption: >
   How red is too red?
-image_width: "4000"
-image_height: "3000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

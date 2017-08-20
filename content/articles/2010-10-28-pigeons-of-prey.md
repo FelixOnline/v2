@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104201812-felix-cartoonpigeon1.jpg"
 image_caption: >
   London's pigeons are ruthless and evil, with possible fascist sympathies. Beware
-image_width: "2105"
-image_height: "2279"
 image_attribution: "Mitesh Patel"
 image_attribution_link: ""
 video_url: ""

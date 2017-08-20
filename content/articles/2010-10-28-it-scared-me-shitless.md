@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010282035-ks607-Deansol.jpg"
 image_caption: >
   Pah, easy...
-image_width: "682"
-image_height: "1024"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

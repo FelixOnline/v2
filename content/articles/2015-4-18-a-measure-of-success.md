@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201504180904-ff712-alexander-matrosov-peter-rykov-alexander-arsentyev.-photographer-johan-persson.jpg"
 image_caption: >
   Alexander Matrosov, Peter Rykov, Alexander Arsentyev in Measure for Measure, Barbican, London.
-image_width: "0"
-image_height: "0"
 image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""

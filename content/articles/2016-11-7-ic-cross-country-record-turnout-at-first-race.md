@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611071321-felix-Robpoint.jpeg"
 image_caption: >
 
-image_width: "1280"
-image_height: "854"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201401170343-jal08-arts-moon.jpg"
 image_caption: >
   Republic of the Moon, London, presented by The Arts Catalyst
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

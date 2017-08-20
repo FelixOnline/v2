@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110281206-felix-bassface_mampiswift15_7.jpg"
 image_caption: >
   Man is pained at sight of giant lemon
-image_width: "700"
-image_height: "467"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

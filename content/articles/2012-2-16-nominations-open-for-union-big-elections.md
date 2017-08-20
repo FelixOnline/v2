@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162251-sjw209-screen-shot-2012-02-16-at-16.52.12.jpg"
 image_caption: >
 
-image_width: "993"
-image_height: "521"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

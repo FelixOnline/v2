@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191209-felix-Exit-Through-Gift-Shop.jpeg"
 image_caption: >
   Super-cool 'artist' Banksy.
-image_width: "1920"
-image_height: "1080"
 image_attribution: "Exit Through the Gift Shop PR"
 image_attribution_link: ""
 video_url: ""

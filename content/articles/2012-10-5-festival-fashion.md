@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210051303-felix-img_5668.jpg"
 image_caption: >
   Katy B. Microphones are for losers, and talanted people – BURRRN
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

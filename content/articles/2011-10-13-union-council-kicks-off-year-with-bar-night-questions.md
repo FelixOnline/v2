@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110132119-felix-smith.jpg"
 image_caption: >
   David Smith takes the chair this year
-image_width: "2016"
-image_height: "1638"
 image_attribution: "Matthew Colvin"
 image_attribution_link: ""
 video_url: ""

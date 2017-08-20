@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502071903-ps3110-fc-onegin-thiago-soares-marianela-nunez-knees_1000.jpg"
 image_caption: >
   Thiago Soares and Marianela Nunez in Onegin
-image_width: "0"
-image_height: "0"
 image_attribution: "oteini Christofilopoulou"
 image_attribution_link: ""
 video_url: ""

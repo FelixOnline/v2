@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202031047-sjw209-tumblr_l7nkdx3cmw1qcy0nqo1_500.jpg"
 image_caption: >
   Ahmed Mater’s Magnetism
-image_width: "500"
-image_height: "333"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

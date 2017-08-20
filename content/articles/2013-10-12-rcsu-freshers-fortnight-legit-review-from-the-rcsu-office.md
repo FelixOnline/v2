@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310121307-jal08-1262887_10153350302710195_651778061_o.jpg"
 image_caption: >
   RCSU @ Freshers Fair
-image_width: "0"
-image_height: "0"
 image_attribution: "RCSU"
 image_attribution_link: "https://www.facebook.com/RCSUnion/photos_albums"
 video_url: ""
@@ -60,7 +58,6 @@ __RCSU Tea Party:__
 The second week of Freshers started off in a truly British manner with the RCSU Tea Party. There were various types of tea on offer which were procured from a specialised tea house. With free scones and cakes on offer it was of no surprise that there was a great anticipation amongst students. In fact, a queue built up before the start of the party and hoards of scientists piled in as soon as the doors were open. Union jacks were flying high and the tea kept flowing as people relaxed after a day of lectures. Even if they weren’t awake for lectures, the tea ensured their evening got off to a good start.
 
 __RCSU Autumn Ball:__
-TODO: image from
 Perhaps the most prized event of them all was the RCSU Autumn Ball which took place on Tuesday at Ruby Blue in Leicester Square. There were 3 free double mixers on offer alongside a scoop of nitrogen ice cream. The Ball managed to sell out a day in advance and there was great anguish amongst the people who missed out on the tickets. But for the people who managed to grab hold of one before time ran out, they were in for a treat. The nitrogen ice cream proved to be very successful as evident by the long queues that were forming. Some would say that the ice cream was so good, it made them completely forget about the hardships of grinding a degree out of Imperial. Priced competitively at £12, the ball was organized to ensure it doesn’t cut a deep hole in people’s pockets. Student drink prices were in full flow to ensure that even the hard boozers were kept satisfied. It was a perfect night for the awkward one night stands during freshers to turn into a full blown romance. Near the end, Black Eyed Peas showed up and started singing. Maybe.
 
 _“Iʼve had the time of my life

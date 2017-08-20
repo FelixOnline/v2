@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202030340-ak6309-sfft4.png"
 image_caption: >
   Fourier Transforms are highly useful for signal processing
-image_width: "1143"
-image_height: "794"
 image_attribution: "MIT"
 image_attribution_link: ""
 video_url: ""

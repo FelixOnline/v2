@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104192031-felix-keynote_sxsw_099_zuck_optim.jpeg"
 image_caption: >
   The youngest self-made billionaire ever, Mark Zuckerberg still lives in a rented house
-image_width: "3888"
-image_height: "2592"
 image_attribution: "Jim Merithew/Wired.com"
 image_attribution_link: "http://www.wired.com/epicenter/2010/05/zuckerberg-speaks/"
 video_url: ""

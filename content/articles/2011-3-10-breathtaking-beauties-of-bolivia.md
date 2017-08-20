@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103102044-nm1010-bolivibo.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "681"
 image_attribution: "Christopher Walmsley"
 image_attribution_link: "http://christopherwalmsley.tumblr.com"
 video_url: ""

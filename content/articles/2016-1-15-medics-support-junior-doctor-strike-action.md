@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601151118-felix-thumb_IMG_0005_1024.jpg"
 image_caption: >
   Students and junior doctors hand out flyers and stickers outside South Kensington on Tuesday.
-image_width: "1086"
-image_height: "724"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110132351-felix-fresh-meat-launch-image_a2.jpg"
 image_caption: >
   Fresh Meat – does it deserve the rave reviews?
-image_width: "412"
-image_height: "232"
 image_attribution: "Channel 4"
 image_attribution_link: "http://www.channel4.com/media/images/CorporatePortal/Benji/Fresh%20Meat/Fresh%20Meat%20Launch%20Imag"
 video_url: ""

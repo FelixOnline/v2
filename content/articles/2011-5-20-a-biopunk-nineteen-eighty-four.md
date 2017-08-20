@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105200636-felix-the-windup-girl-pb.jpg"
 image_caption: >
 
-image_width: "1018"
-image_height: "1600"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

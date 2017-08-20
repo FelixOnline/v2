@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082147-felix-puss-in-bootas.jpg"
 image_caption: >
   If it’s good enough for him, it’s good enough for me
-image_width: "699"
-image_height: "457"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

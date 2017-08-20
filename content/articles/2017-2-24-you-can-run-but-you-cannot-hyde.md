@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702241533-felix-hyde park run.jpg"
 image_caption: >
 
-image_width: "2048"
-image_height: "1356"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

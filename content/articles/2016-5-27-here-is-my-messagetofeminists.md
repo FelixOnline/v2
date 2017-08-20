@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605271045-felix-isthisaheadshot.jpg"
 image_caption: >
   A conservative, a feminist and a comedian walk into a bar – and talk about political correctness.
-image_width: "1280"
-image_height: "616"
 image_attribution: "Youtube"
 image_attribution_link: ""
 video_url: ""

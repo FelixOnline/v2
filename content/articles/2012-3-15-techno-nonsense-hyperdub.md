@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152133-ig711-hyperdub.jpg"
 image_caption: >
   Honey for the bears of the future.
-image_width: "500"
-image_height: "500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

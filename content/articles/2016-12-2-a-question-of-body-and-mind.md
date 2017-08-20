@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021358-felix-3792906411_ea1e22d31f_o.jpg"
 image_caption: >
 
-image_width: "3220"
-image_height: "2261"
 image_attribution: "Neil Conway"
 image_attribution_link: ""
 video_url: ""

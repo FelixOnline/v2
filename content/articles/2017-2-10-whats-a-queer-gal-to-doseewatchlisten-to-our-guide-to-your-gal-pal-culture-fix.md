@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702101536-felix-appropriate-behavior-still.jpg"
 image_caption: >
 
-image_width: "2000"
-image_height: "1334"
 image_attribution: "Peccadillo Pictures"
 image_attribution_link: ""
 video_url: ""
@@ -52,27 +50,22 @@ video_url: ""
 Desiree Akhavan directs and stars in this comedy about an American-Iranian bisexual going through a breakup. It’ll make you feel worse about your recent breakup but then, strangely, better. It’s pretty funny and feels quite real. The protagonist also struggles with coming out to her conservative family as bisexual, which is cool because when does that ever happen in film and TV? Almost never. Even Orange is the New Black managed to fuck up their bisexual storyline, dancing around the subject and throwing out buzzwords like “Kinsey” but never actually saying “BISEXUAL”.
 
 Available on Netflix
-TODO: image from
 **But I'm a Cheerleader**
 
 I watched this film the day after I came out to my family. I managed to unashamedly-ish sit on the sofa on my laptop, while the rest of my family roamed around near enough to catch a glimpse of what I was watching. It was the first time I felt near enough comfortable watching a blatantly queer-appealing thing openly near my family – But I’m a Cheerleader has some pretty sentimental value.
 
 This film really resonated with me at the time. It might have been the aesthetically pleasing pastels. It might have been the comparison that I subconsciously drew between Natasha Lyonne’s character getting sent to conversion therapy camp and my mum telling me liking girls was a phase that therapy would fix it. Or it might just have been seeing RuPaul playing a “heterosexual”.
 ## Music
-TODO: image from
 **Angel Haze**
 
 A very cool agender pansexual rapper/poet that grew up in a cult, Angel Haze’s combination of rap and spoken-word poetry about love will take you through all the forms of heartbreak you’ve ever experienced. Also, they dated Alec Baldwin’s daughter – say no more.
-TODO: image from
 **Tegan and Sara**
 
 The gay Canadian twins. You know the ones. They’re playing at the Roundhouse the day before Valentine’s day. Go!
-TODO: image from
 **The Internet**
 
 Really good music and better music videos with non-gimmicky queer representation. Syd Tha Kid (the singer) is unashamedly really gay. There was no big publicity stunt when she came out. It went along the lines of “well look at me, of course I’m gay”.
 ## TV
-TODO: image from
 **Gaycation**
 
 We can all agree that Ellen Page is who we all want to be. This show will make you want to be her even more. It will also make you want to travel all over the world, and after watching Gaycation you’ll know where all the underground queer experiences are, as well as the different anti-gay elements within different countries. Watch if you enjoy any of the following:
@@ -83,7 +76,6 @@ Ellen Page wearing cargo shorts
 Ellen Page wearing oversized shirts
 
 Gaycation is available online at Viceland
-TODO: image from
 **Jane the Virgin**
 
 Like the love-child of a telenovela and Pushing Dasies, this Netflix comedy centres around Jane, a Latina woman who is accidentally artificially inseminated, and then has to decide between the father of her child or her boyfriend. Will she choose Raphael or the other one? I don’t care! I’m watching this show for the Latina lesbian gynaecologist who accidently dates her drug-lord step mum. Highly representative of the messy complicated relationships us queer girls always seem to find ourselves in.
@@ -102,7 +94,6 @@ One Day at a Time is available on Netflix
 SO QUEER. I’ve had a range of experiences here, all of which have been pretty great. There are about six acts per night, and each is super different. You’ll get drag queens, drag kings, non-binary monarchs(?), stand-up, and musicians all in one night, and all fairly-to-extremely gender-bending. Don’t go expecting RuPaul-esque drag: some will take their clothes off and reveal a lot of glitter – it’s messy, political, unpolished, arty queerness.
 
 Queer Cabaret is on every Tuesday at the Royal Vauxhall Tavern
-TODO: image from
 **GRRRL ZINE FAIR**
 
 Not explicitly queer – but inherently so – this event has a great community feel to it, and it’s an eary way to make friends. Support zines! Meet cool feminists! Read and buy cool zines. Make your own zines and prints! Watch weird bands!

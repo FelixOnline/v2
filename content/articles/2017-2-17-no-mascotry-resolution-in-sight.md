@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702171421-felix-theta.jpg"
 image_caption: >
   That thermometer reportedly cost £10,000
-image_width: "620"
-image_height: "381"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

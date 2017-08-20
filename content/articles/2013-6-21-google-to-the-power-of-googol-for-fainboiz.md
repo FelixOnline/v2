@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201306210132-tna08-jparticle.jpg"
 image_caption: >
   From left to right: Google Glass, the world-champion for horseshoeing is a big fan of Google’s garde
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

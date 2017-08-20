@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205181218-felix-ca1-20080107-mosaicj_crop.jpg"
 image_caption: >
   A pyrimidal neuron and dendrites
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

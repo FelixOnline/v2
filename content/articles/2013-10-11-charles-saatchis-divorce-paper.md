@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310120058-jal08-artssaatchi4.jpg"
 image_caption: >
   Couch for a long time (2009) by Jessica Jackson Hutchins
-image_width: "0"
-image_height: "0"
 image_attribution: "SAM DRAKE/SAATCHI GALLERY"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201301242051-mc4509-582338_475646429159024_478191972_n.jpg"
 image_caption: >
   Rugby didn’t give us any pictures so we dug this up from Facebook
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

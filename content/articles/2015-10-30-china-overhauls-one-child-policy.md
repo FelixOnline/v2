@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510301230-ygr12-i-wish-i-was-making-this-up.png"
 image_caption: >
   China also announced its latest five year plan, through this stunning video
-image_width: "0"
-image_height: "0"
 image_attribution: "New China TV"
 image_attribution_link: ""
 video_url: ""

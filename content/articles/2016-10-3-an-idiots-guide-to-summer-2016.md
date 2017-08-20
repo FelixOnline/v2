@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610031844-felix-6996026717_86a05ac440_o.jpg"
 image_caption: >
 
-image_width: "4128"
-image_height: "2753"
 image_attribution: "BackBorris2012 Campaign Team"
 image_attribution_link: ""
 video_url: ""
@@ -54,7 +52,6 @@ When this will all happen is a mystery to all of us and maybe even to the Govern
 It’s all a bit cloak and daggers at the moment, apparently so that the other EU nations don’t get the upper hand in negotiations but probably because nobody has a clue. As for what is going to happen with the EU land border in Northern Ireland, the situation with Gibraltar and whether Scotland decide to hold another referendum, your guess is as good as mine.
 
 How does this all affect international students/Erasmus/your InterRailing holiday? Only time will tell, it’s an ever changing landscape.
-TODO: image from
 ## Government reshuffling
 Just hours after the result of the referendum David Cameron decided that enough was enough and he fancied changing his job and moving house, a rather large mid-life crisis when you’re the PM.
 

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104181128-felix-nietzsche_colour_2.jpg"
 image_caption: >
   Get some opinions, and stick to them no matter what!
-image_width: "1181"
-image_height: "1656"
 image_attribution: "Gareth Southwell"
 image_attribution_link: "http://philosophyonline.co.uk"
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131054-felix-web.jpg"
 image_caption: >
   This is not worthy of a death sentence.
-image_width: "1440"
-image_height: "683"
 image_attribution: "The 100"
 image_attribution_link: ""
 video_url: ""

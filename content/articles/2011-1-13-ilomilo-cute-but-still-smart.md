@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101131953-ks607-imolio.jpg"
 image_caption: >
 
-image_width: "1280"
-image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702171515-felix-ROMEO&JULIET17_0534.jpg"
 image_caption: >
 
-image_width: "4961"
-image_height: "3307"
 image_attribution: "Ludovic des Cognets"
 image_attribution_link: ""
 video_url: ""

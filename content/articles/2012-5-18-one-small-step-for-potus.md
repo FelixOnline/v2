@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205181223-felix-271855-obama.jpg"
 image_caption: >
   Seriously, there’s a moth behind you! I’m just lookin’ out for you...
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

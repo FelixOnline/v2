@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104240246-jk708-rhys-davies.jpg"
 image_caption: >
 
-image_width: "1728"
-image_height: "2218"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

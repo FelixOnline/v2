@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103102118-nm1010-wakeywak.jpg"
 image_caption: >
   That's going to hurt...
-image_width: "3504"
-image_height: "2336"
 image_attribution: "Rosie Caulfield"
 image_attribution_link: ""
 video_url: ""

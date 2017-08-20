@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203111614-mc4509-bruce.jpg"
 image_caption: >
   Bruce wants to know why you haven’t bought the album. It was out March 5th!
-image_width: "494"
-image_height: "343"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051144-felix-2000px-Circle_Line.svg.png"
 image_caption: >
   The circle line, but not as we know it.
-image_width: "2000"
-image_height: "1036"
 image_attribution: "TfL"
 image_attribution_link: ""
 video_url: ""

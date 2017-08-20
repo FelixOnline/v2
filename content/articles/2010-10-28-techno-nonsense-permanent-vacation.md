@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010282033-ma1307-technooo.jpg"
 image_caption: >
 
-image_width: "742"
-image_height: "721"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

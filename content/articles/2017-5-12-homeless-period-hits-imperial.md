@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705121823-felix-17039277_1275990769149131_8994981921398345635_o.jpg"
 image_caption: >
   The Homeless Period Imperial week
-image_width: "1152"
-image_height: "2048"
 image_attribution: "Manuel Martinv"
 image_attribution_link: ""
 video_url: ""

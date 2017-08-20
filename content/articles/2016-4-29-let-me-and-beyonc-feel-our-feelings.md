@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201604291111-felix-beyonce-lemonade.jpg"
 image_caption: >
   What’s worse, lookin’ jealous or crazy?
-image_width: "1024"
-image_height: "538"
 image_attribution: "Beyoncé"
 image_attribution_link: ""
 video_url: ""

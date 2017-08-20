@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172026-pk1811-crowd.jpg"
 image_caption: >
   ICU President Scott Heath and a few Imperial students posing with the students from Palestine.
-image_width: "4640"
-image_height: "2576"
 image_attribution: "Rajat Jain"
 image_attribution_link: ""
 video_url: ""

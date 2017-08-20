@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011112156-ks607-zooniver.jpg"
 image_caption: >
 
-image_width: "3888"
-image_height: "2592"
 image_attribution: "Tom Welch"
 image_attribution_link: ""
 video_url: ""

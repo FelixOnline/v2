@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172207-felix-brettratner__111109014817.jpg"
 image_caption: >
 
-image_width: "278"
-image_height: "400"
 image_attribution: "deadline.com"
 image_attribution_link: "http://www-deadline-com.vimg.net/wp-content/uploads/2011/11/brettratner__111109014817.jpg"
 video_url: ""

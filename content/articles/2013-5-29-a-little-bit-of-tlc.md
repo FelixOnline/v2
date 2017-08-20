@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201305291826-tna08-telecare.jpg"
 image_caption: >
   Before (left) and after (right) telecare. We’re not kidding.
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

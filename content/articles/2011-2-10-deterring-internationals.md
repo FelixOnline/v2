@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102102005-ks607-visavisa.jpg"
 image_caption: >
 
-image_width: "2048"
-image_height: "1536"
 image_attribution: "Antony Theobald"
 image_attribution_link: "http://www.flickr.com/photos/antphotos/"
 video_url: ""

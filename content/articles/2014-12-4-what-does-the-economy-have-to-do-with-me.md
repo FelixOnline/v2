@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412041831-cj914-jobcentre-plus.jpeg"
 image_caption: >
   Unemployment perpetuates unemployment.
-image_width: "0"
-image_height: "0"
 image_attribution: "dailyrecord"
 image_attribution_link: ""
 video_url: ""

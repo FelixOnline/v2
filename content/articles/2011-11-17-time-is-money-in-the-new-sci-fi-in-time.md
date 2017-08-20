@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172152-pk1811-normal_002.jpg"
 image_caption: >
   Gimme Gimme Gimme some time (feat. Justin Timberlake)
-image_width: "400"
-image_height: "266"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

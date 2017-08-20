@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262200-ams111-romneygingrichpaul.jpg"
 image_caption: >
   A tough choice for Republicans: behold the diverse range of old, rich white men
-image_width: "4896"
-image_height: "3227"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

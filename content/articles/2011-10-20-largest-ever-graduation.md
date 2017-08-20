@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110202017-felix-img_6530.jpg"
 image_caption: >
   Graduates gather outside the Royal Albert Hall
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Jonathan Peek"
 image_attribution_link: ""
 video_url: ""

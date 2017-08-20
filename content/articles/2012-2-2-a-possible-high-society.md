@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202022326-sjw209-drugs-arebad.jpg"
 image_caption: >
 
-image_width: "719"
-image_height: "504"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

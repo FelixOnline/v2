@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011261042-ks607-protests.jpg"
 image_caption: >
 
-image_width: "2351"
-image_height: "2519"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612152346-felix-Screen Shot 2016-12-15 at 16.03.13.png"
 image_caption: >
 
-image_width: "1093"
-image_height: "1156"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

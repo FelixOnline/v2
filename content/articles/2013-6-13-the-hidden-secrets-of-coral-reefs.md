@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201306132347-tna08-coral.jpg"
 image_caption: >
   A fishy free-for-all at the O.K. Corral
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

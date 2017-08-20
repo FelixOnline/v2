@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605201117-felix-Lobby_Lounge_High_Tea.JPG"
 image_caption: >
   This is almost good enough for mother.
-image_width: "2418"
-image_height: "3000"
 image_attribution: "Wikicommons"
 image_attribution_link: ""
 video_url: ""

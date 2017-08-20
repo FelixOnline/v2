@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505261414-js5913-everyman.jpg"
 image_caption: >
   A scene from the National Theatre’s current production of Everyman, for which Ian MacNeil designed the set.
-image_width: "0"
-image_height: "0"
 image_attribution: "Richard Hubert Smith/National Theatre"
 image_attribution_link: ""
 video_url: ""

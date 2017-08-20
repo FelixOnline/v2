@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192239-felix-aimg_0620.jpg"
 image_caption: >
   (Left to right) Peter Lacy, Lord Robert Winston, and Pallab Ghosh
-image_width: "4272"
-image_height: "2848"
 image_attribution: "Maria Veiga"
 image_attribution_link: ""
 video_url: ""

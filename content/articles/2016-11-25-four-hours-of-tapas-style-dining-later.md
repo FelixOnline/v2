@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611251434-felix-IMG_4120.jpg"
 image_caption: >
 
-image_width: "3408"
-image_height: "3408"
 image_attribution: "Cristy Lam"
 image_attribution_link: ""
 video_url: ""
@@ -53,7 +51,6 @@ The evening started off with me being late again, sprinting down Baker Street on
 
 Cocktails are always the best introduction to any restaurant. Yosma’s cocktail menu comprised of a handful of unique cocktails, all inspired by Turkish culturewith names taken from love poems. My favourite was the Sil Bastan, a sweet cocktail with yoghurt gin, Manuka honey, milk acid, egg white and lemon. Yoghurt-flavoured foam floated on top of the bittersweet mixture, strong enough to deflate the stress from a long day. The other one worth mentioning was Yosma, a fruity, bitter, red number with Turkish apple tea vodka, pomegranate,
 vermouth and raki spices.
-TODO: image from
 With everyone comfortably seated and the shy handshakes transformed into intimate conversations, we were introduced to the heart of meyhane: raki.
 
 Raki is a strong Turkish, anise spirit, served to pair with the many plates of mezze and to accompany the hours of delightful laughter that followed. To start off, we took a sip of the clear, strong-smelling liquid from the specially-designed glasses. That was a powerful hit to my system. Then, following the traditions, we diluted the remaining with water and ice, looking on in wonderment as the alcohol turned opaque in contact with water. Salgam, a sour turnip juice that tasted rather like pickle juice, was handed around to cleanse the palette from raki.
@@ -63,8 +60,6 @@ The Kavun was more than just melon and feta. Take a bite of melon, a sip of raki
 
 If you thought that was the end of the meal, you’d be very, very wrong indeed. Turkish cuisine is known for its generosity, meaning more than enough food to satisfy your stomach at appetisers already – with the mains still cooking in the kitchen. So, when the mains were announced it almost felt like an anticlimax, which instantly turned into surprised exclamations as the humongous, monstrous, barbequed whole fish arrived steaming hot on its silver platter, its thick, charcoal-coloured skin scored to reveal the pearly-white flesh beneath. The meat was tender, fell from the bone with a slight nudge with a fork, oozing with its natural juices with every mouthful. This fish, supposedly meant for two people, was more than a family feast.
 The salads that came with the fish did not lack in effort and helped to add a layer back into the food triangle: the Yesil Salata was a simple salad with rocca, a tougher version of our usual rocket leaves, while the Gavurdag was a refreshing mixture of green and red tomatoes with walnuts and mint.
-TODO: image from
 A dinner party cannot end without a sweet note. A selection of desserts was served, along with strong Turkish coffee and Turkish delights. Apart from spending a good amount of time trying to decrypt our futures from the sludge of coffee grinds at the bottom of our cups, we took care to enjoy the traditional desserts. The kunefe definitely had substantial wow-factor with its crispy, golden yellow Kadoyif pastry and its incredible white cheese strings, temporarily silencing our worries for our hips. The Sambali was a chunk of fluffy semolina cake, served with mastic (a fragrant plant resin used in Turkish desserts) ice cream, reminiscent of the lunchtime sponge cakes from my school days. The Armut Pismaniye comprised of half a poached pear balanced on top of a perfect sphere of ice cream, with a cloud of cotton candy and a generous handful of walnuts.
 
 Satisfied after almost four hours of non-stop feasting, talk and laughter, we called an end to the meet-up, exchanged eager hugs that matured from the raki and headed home to rest our bellies for the next day.
-TODO: image from

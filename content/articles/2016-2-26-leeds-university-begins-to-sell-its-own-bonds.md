@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261126-felix-580_inside_Brotherton_library_uni_leeds20120906-2-cfwtmt.jpg"
 image_caption: >
   They have bonds, and arguably a nicer library.
-image_width: "1280"
-image_height: "460"
 image_attribution: "Which? University"
 image_attribution_link: ""
 video_url: ""

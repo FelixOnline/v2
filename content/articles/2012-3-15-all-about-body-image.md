@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152141-pk1811-phillippa-diedrichs.jpg"
 image_caption: >
   Dr. Phillippa Diedrichs delivers a talk at Imperial on Monday 19 March
-image_width: "621"
-image_height: "1022"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

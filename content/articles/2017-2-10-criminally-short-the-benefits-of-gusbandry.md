@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702101556-felix-3d30460412b0d093783b8c413b698813.jpg"
 image_caption: >
 
-image_width: "2048"
-image_height: "1024"
 image_attribution: "The Benefits of Gusbandry LLC"
 image_attribution_link: ""
 video_url: ""

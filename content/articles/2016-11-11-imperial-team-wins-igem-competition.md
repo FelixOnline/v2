@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611111140-so515-newseventsimages.jpeg"
 image_caption: >
   Wooh! Science!
-image_width: "700"
-image_height: "484"
 image_attribution: "The iGem Foundation and Justin Knight"
 image_attribution_link: ""
 video_url: ""

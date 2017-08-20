@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104280941-ma1307-dont_scare_the_hare.jpg"
 image_caption: >
   The Hare in question, looking suitably worried.
-image_width: "607"
-image_height: "912"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""

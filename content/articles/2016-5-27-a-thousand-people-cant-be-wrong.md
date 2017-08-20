@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605271509-felix-2222.jpg"
 image_caption: >
 
-image_width: "2670"
-image_height: "3837"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""

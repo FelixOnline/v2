@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131059-felix-jurassicpark_fordsurveillance01.jpg"
 image_caption: >
 
-image_width: "1681"
-image_height: "911"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203082219-ams111-soul-calibur-iv-screenshot-ivy-big-boobs-1.jpg"
 image_caption: >
   Explain to me why someone would wear armour vulnerable to a pair of blunt scissors
-image_width: "1280"
-image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611041430-aib116-102016HightideHouseRoyalCourtHarrogateProduction-1-0033.jpg"
 image_caption: >
 
-image_width: "3284"
-image_height: "2293"
 image_attribution: "Richard Lakos"
 image_attribution_link: ""
 video_url: ""

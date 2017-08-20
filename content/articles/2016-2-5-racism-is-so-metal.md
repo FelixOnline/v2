@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051238-felix-philsalute.jpg"
 image_caption: >
   Moments after Anselmo raises his right hand.
-image_width: "811"
-image_height: "1272"
 image_attribution: "Youtube / Chris R"
 image_attribution_link: ""
 video_url: ""

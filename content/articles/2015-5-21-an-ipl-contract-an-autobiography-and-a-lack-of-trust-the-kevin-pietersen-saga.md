@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505212124-kmw13-kevin-pietersen3.jpg"
 image_caption: >
   Pietersen walks off after his 355*
-image_width: "0"
-image_height: "0"
 image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""

@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206011320-mc4509-daviddeply.jpg"
 image_caption: >
   David Delpy, CEO of the EPSRC and Gordon Brown
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103101916-ks607-lectures.jpg"
 image_caption: >
 
-image_width: "3004"
-image_height: "2218"
 image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""

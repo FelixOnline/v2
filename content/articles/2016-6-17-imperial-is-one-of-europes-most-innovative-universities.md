@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606171052-felix-Imperial_West,_Launching_The_Vision,_Innovation_Sign.jpg"
 image_caption: >
   Mmm, innovation.
-image_width: "3840"
-image_height: "5760"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

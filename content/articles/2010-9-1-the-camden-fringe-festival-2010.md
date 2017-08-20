@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201009011705-ks607-blonde.jpg"
 image_caption: >
 
-image_width: "3521"
-image_height: "2848"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601290842-felix-ambassadors-bloomsbury.jpg"
 image_caption: >
   The swanky hotel in Bloomsbury where the rowers had their party
-image_width: "550"
-image_height: "367"
 image_attribution: "Tripadvisor"
 image_attribution_link: ""
 video_url: ""

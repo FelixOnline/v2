@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205242344-mc4509-jpdpe.jpg"
 image_caption: >
   The ‘value added’ score in the rankings have been criticised by Jason Parmar
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

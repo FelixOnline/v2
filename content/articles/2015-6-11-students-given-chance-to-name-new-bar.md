@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506112316-cj914-ri_victoria_rd_bar_c01a.jpg"
 image_caption: >
   An artist’s impression of the new bar, and you have a chance to help decide its name.
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""

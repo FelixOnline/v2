@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201002181633-lh106-Stephani.jpg"
 image_caption: >
 
-image_width: "1800"
-image_height: "1421"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

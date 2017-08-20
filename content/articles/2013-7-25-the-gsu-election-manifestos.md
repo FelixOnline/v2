@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201307250631-jal08-screen-shot-2013-07-25-at-6.31.18-am.png"
 image_caption: >
   The GSU Summer Elections, are we sure they exist?
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
@@ -52,7 +50,6 @@ P.S. It's really easy, there's not much to read...
 __Position: President__
 
 _Candidate #1: Andreas Thomik_
-TODO: image from
 _Candidate #2: RON - Re-Open Nominations_
 
 If you think this lot are rubbish, vote for me!
@@ -60,7 +57,6 @@ If you think this lot are rubbish, vote for me!
 __Position: Deputy President (Representation)__
 
 _Candidate #1: Boshuo Guo_
-TODO: image from
 _Candidate #2: RON - Re-Open Nominations_
 
 If you think this lot are rubbish, vote for me!

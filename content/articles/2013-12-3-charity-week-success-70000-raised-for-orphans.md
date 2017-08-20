@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201312031545-jal08-news_charity_week.jpg"
 image_caption: >
   Volunteers at Imperial's Charity Week
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College Charity Week 2013"
 image_attribution_link: "https://www.facebook.com/photo.php?fbid=603209396413273&set=a.603097656424447.1073741832.58202667186"
 video_url: ""

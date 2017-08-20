@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310061114-jal08-tv-atlantis2-copy.jpg"
 image_caption: >
   A friendly conversation takes a sudden turn for the worst when Pythagoras gets asked to find the squ
-image_width: "0"
-image_height: "0"
 image_attribution: "BBC"
 image_attribution_link: "http://www.BBC.co.uk"
 video_url: ""

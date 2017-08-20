@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612091600-felix-0015-1709.2L.jpg"
 image_caption: >
 
-image_width: "1936"
-image_height: "1936"
 image_attribution: "rubylane.com"
 image_attribution_link: ""
 video_url: ""

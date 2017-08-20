@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201302220236-tna08-fair-trade-water-well-sign.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -62,13 +60,11 @@ In practice, this means that farmers form co-operative organisations to collecti
 So how did Fairtrade become as big as it is now? The first Fairtrade organisation was set up in 1987 in the Netherlands under the name ‘Max Havelaar’ and focussed on supporting Mexican coffee growers. From this, the movement spread, and slowly across Europe similar organisations sprouted with the UK’s Fairtrade Foundation being in 1992. However still they were very independent and it took a further five years before the Fairtrade Labelling Organisation was created so as to “unite the labelling initiatives under one umbrella and establish worldwide standards and certification.” From here, the movement has flourished and evolved beyond just food and textiles. You can now pamper your loved ones with Fairtrade cosmetics, as sold by Lush (who will be visiting us during Fairtrade Fortnight) and wear Fairtrade jewellery made from Fairtrade gold. Believe it or not, you can even have Fairtrade sex using Fairtrade condoms!
 
 Slowly the Fairtrade certification process is moving towards certifying entire companies as Fairtrade rather than focussing on solitary products – something that has been helped by companies such as Cadbury’s and Ben & Jerry’s committing to achieve Fairtrade status. This means that all products made by a Fairtrade company contain 100% Fairtrade materials. In addition, towns and universities (including our very own Imperial College) are also earning the right to call themselves ‘Fairtrade’ by virtue of the suppliers they use. There still remains a way to go in the quest to reduce wealth disparity in the world, but by going Fairtrade we choose to use a fair system making us one step closer to eradicating poverty. – _Aditya Narayanan_
-TODO: image from
 We go to a Fairtrade university
 
 Imperial is one of only a few universities in the U.K with its own student led Fairtrade society. Back in 2007 Imperial became one of the first universities to gain Fairtrade university status showing a clear demonstration of student support for ethics in the trade system. Meeting the goals for this involved setting up a Fairtradepolicy within the university, ensuring Fairtrade products are available at all outlets and events, setting up a Fairtrade steering group with representatives from across the college to influence change and running events aimed at raising awareness through the university. I hope you see where we fit in!
 
 Although the status was lost many years ago, this year we have reclaimed it and as a society we are working hard to ensure that we do not lose it again! In the past we have been involved in the steering group, achieving Fairtrade status and a push to get Fairtrade products into the union shops. The imperial catering departmentis especially supportive in our activities providing much of what we need for our events. We are eternally grateful to them for this.
-TODO: image from
 Year on year ICU Fairtrade has had a growing member base and our presence is being felt more strongly as time passes, we hope you too have felt this. Although we aim to spread events across the year, the main focus of our campaign lies in the next 2 weeks, Fairtrade Fortnight, where we make sure that all of you know everything that we are all about.
 
 Last year many of you may remember the ambitious plans to hold an event on every single day for the whole two weeks. Through the gruelling efforts of a committed team, Fairtrade fortnight 2012 was an incredible success and will stick in the memories of everyone involved. This year however, we take a different tack: focusing specifically on quality rather than quantity, learning through our past experiences of what works (see [www.icufairtrade.org.uk/private/wiki](http://www.icufairtrade.org.uk/private/wiki)) and adding some new variations. We are also spreading efforts wider that before by collaborating with as many other societies as possible to get everybody involved. With all of our efforts, we hope to pull off the best Fairtrade fortnight yet!
@@ -88,4 +84,3 @@ Last year many of you may remember the ambitious plans to hold an event on every
 I hope you are looking forwrd to the next two weeks as much as we are. Please do get involved, you may even win a 1kg bar of Fairtrade chocolate just for doing so! We will be selling Fairtrade ICU Fairtrade society T-shirts over the coming weeks which can be purchased from the union website.
 
 Finally, a special thanks to our sponsors who provide us with many of the essentials ingredients for our events: Divine chocolate, Peros, Epona clothing, qi teas, cafe direct and LUSH. –_Nicholas Greenwood_
-TODO: image from

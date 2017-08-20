@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611041446-felix-Screen Shot 2016-11-04 at 14.45.50.png"
 image_caption: >
 
-image_width: "1737"
-image_height: "872"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -62,7 +60,6 @@ First, I’ll establish the fact that by ruling out the Donald and the Hilldog, 
 The problem with voting for one of these candidates is that there are considerable flaws in both, which was nicely highlighted in John Oliver’s Last Week Tonight in October. Johnson, when asked by a reporter, couldn’t name a foreign world leader off the top of his head. Stein thinks that when the government bailed out Wall Street, that it was done through a “magic trick” known as quantitative easing. News flash: that easing isn’t a trick, it’s actually an advanced monetary tool that has been extensively studied in the world of academia.
 
 And yet, they both seem like much better options than what the Democratic and Republican parties have produced. Both Johnson and Stein agree that marijuana should be legalised. In America, that drug is currently classified as Schedule I. In other words, it’s somehow as dangerous as heroin.
-TODO: image from
 They also believe in prison reform and police brutality as severe issues, at a time where those topics have generated a lot of news and debate in the states.
 
 It’s been very interesting to witness this election season from over 3000 miles away, and I’ve been pleasantly surprised at how informed British people are about it. But as my professor here has told us, the United States impacts Europe severely, especially economically.

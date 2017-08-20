@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612161514-felix-the-crown.jpg"
 image_caption: >
 
-image_width: "1331"
-image_height: "2000"
 image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""

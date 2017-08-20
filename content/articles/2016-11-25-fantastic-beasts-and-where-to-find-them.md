@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611251353-felix-Screen Shot 2016-11-23 at 15.54.53.png"
 image_caption: >
 
-image_width: "904"
-image_height: "429"
 image_attribution: "Warner Bros - Allstar"
 image_attribution_link: ""
 video_url: ""

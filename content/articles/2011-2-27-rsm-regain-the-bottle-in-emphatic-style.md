@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102271951-ks607-bottlema.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "683"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

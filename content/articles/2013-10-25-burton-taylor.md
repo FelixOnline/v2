@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310250154-felix-tv_drama_signs_off_on_bbc4_with_1_17m_watching_burton_and_taylor_biopic.jpg"
 image_caption: >
   Burton & Taylor
-image_width: "0"
-image_height: "0"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""

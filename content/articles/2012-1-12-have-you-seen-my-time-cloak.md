@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122212-cac111-student_sleeping_in_lecture_theatre_is0266n4p.jpg"
 image_caption: >
   Still the best way to escape from truly awful lectures
-image_width: "650"
-image_height: "453"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

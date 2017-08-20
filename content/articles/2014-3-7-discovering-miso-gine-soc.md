@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201403070430-jal08-screenshot-2014-03-07-04.29.33.png"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Joe Letts/Felix"
 image_attribution_link: ""
 video_url: ""

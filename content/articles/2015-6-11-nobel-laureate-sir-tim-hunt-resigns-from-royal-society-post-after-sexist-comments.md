@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506112322-cj914-tim-hunt-2.jpg"
 image_caption: >
   Sir Tim Hunt apparently now recognises that his comments were unacceptable.
-image_width: "0"
-image_height: "0"
 image_attribution: "Huffington Post"
 image_attribution_link: ""
 video_url: ""

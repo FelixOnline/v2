@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201501231830-jyg11-screen-shot-2015-01-23-at-18.30.33.png"
 image_caption: >
   "But Caz, why are you so angry with that Italian chef?" "It's fusilli reasons."
-image_width: "0"
-image_height: "0"
 image_attribution: "Felix Food"
 image_attribution_link: ""
 video_url: ""

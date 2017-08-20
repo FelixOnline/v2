@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606171054-felix-DJ-Makes.jpg"
 image_caption: >
   These guys don't want Simon & Garfunkel.
-image_width: "2048"
-image_height: "1223"
 image_attribution: "themrbenagency.co.uk"
 image_attribution_link: ""
 video_url: ""

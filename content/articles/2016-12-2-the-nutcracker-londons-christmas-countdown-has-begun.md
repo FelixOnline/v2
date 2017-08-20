@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021459-felix-23602280866_31701f4877_b.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "683"
 image_attribution: "The Royal Opera House © 2015 ROH // Photograph by Tristram Kenton"
 image_attribution_link: ""
 video_url: ""

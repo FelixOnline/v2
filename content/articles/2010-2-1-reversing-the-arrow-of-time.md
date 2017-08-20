@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201002011648-rsp07-arrowtim.jpg"
 image_caption: >
 
-image_width: "3386"
-image_height: "918"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

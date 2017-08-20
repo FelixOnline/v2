@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105081428-felix-protest.jpg"
 image_caption: >
 
-image_width: "800"
-image_height: "520"
 image_attribution: "Leuvis/MundoReal.org"
 image_attribution_link: "http://1mundoreal.org/"
 video_url: ""

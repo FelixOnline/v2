@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703031516-felix-Twelfth Night - Tamsin Greig as Malvolia, image by Marc Brenner.jpg"
 image_caption: >
   Twelfth Night – Tamsin Greig as Malvolia
-image_width: "4465"
-image_height: "2977"
 image_attribution: "Marc Brenner"
 image_attribution_link: ""
 video_url: ""

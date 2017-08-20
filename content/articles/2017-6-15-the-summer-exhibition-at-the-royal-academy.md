@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706151710-im1413-20170608_125006.jpg"
 image_caption: >
   Assorted works the The Summer Exhibition | Photo: Indira Mallik
-image_width: "2018"
-image_height: "1703"
 image_attribution: "Indira Mallik"
 image_attribution_link: ""
 video_url: ""

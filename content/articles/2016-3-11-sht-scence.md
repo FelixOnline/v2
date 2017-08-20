@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111141-felix-10031394203_74bfbeb927_o.jpg"
 image_caption: >
   Just a typical day out in Quebec apparently.
-image_width: "1229"
-image_height: "1517"
 image_attribution: "Ed Bierman"
 image_attribution_link: ""
 video_url: ""

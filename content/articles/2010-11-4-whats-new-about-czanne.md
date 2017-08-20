@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011041804-ks607-cezanne.jpg"
 image_caption: >
   'Man with a pipe'
-image_width: "2574"
-image_height: "3157"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

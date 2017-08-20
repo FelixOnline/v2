@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010211950-nm1010-admiring.jpg"
 image_caption: >
 
-image_width: "4320"
-image_height: "3240"
 image_attribution: "Christopher Richardson"
 image_attribution_link: "http://felixonline.co.uk/user/cr709/"
 video_url: ""

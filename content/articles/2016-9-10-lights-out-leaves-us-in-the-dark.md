@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201609101851-ff712-lightsout_sc01.png"
 image_caption: >
   Martin, Sophie's son, is one of the casualties pushed away by her sinister companion 'Diana'.
-image_width: "1360"
-image_height: "565"
 image_attribution: "YouTube"
 image_attribution_link: ""
 video_url: ""
@@ -48,7 +46,6 @@ Our villain’s origin is uncovered when Rebecca chances upon a file containing 
 _Lights Out_ tries to present itself as a psychological horror film, a title it barely deserves. There is real harm in the actions of Diana which rules it out from being a pure ‘all in the mind’ thriller, unlike the delusional, self-harming Nina at the centre of Darren Aronovsky’s _Black Swan_. Sandberg’s effort at intertwining mental illness and the haunting of a scary personage propounds the idea that ‘Diana’ is to Sophie as ‘the black dog’ was to Churchill – a fascinating idea that loses a bit of its ingenuity in the final product of first-time director Sandberg. Sophie’s family is torn apart by Diana, who vows to eliminate those closest to Sophie. The clawed silhouette antagonist’s triumphs include making sure Sophie renounces her medication (or ‘vitamins’ as Martin calls them), and driving away her only pillars of support– her children. It is at this point that things begin to sound a lot like the oft swept-under-the-carpet effects of acute, untreated mental illness: breakdown of support networks and isolation of ill individuals. “There is no you without me”, remarks Sophie to her depressive parallel Diana, is a perilous statement if misconstrued and taken to heart; which raises the question to Sandberg on his directorial decision at the end of the film: what message is he sending, if he is trying to send one at all? Perhaps, after all, it is best not to dig too deep.
 
 
-TODO: image from
 The film is spattered with misjudgments and mistakes on both sides: from Sophie ditching her meds, to the sibling pair leaving their mother to fend off her ‘demon’ alone, only offering help when it is too late, _Lights Out_ brings to the fore a moral dilemma where compromises have to be made either way. Whilst it is easier (and nobler) to claim the moral high ground, convincing oneself that the course of things would have been better handled in one’s own hands is easier said than done – actions often speak louder than words.
 > > _Lights Out_ tries to present itself as a psychological horror film, a title it barely deserves.
 _Lights Out_ is highly entertaining and slightly terrifying with its B-grade villain that seems to have gotten more help from the make-up team than the CGI department. The serious and broody atmosphere of the film is interspersed with creative use of light sources in scaring away Diana, sometimes beckoning laughter and applause from the audience. Maria Bello, Teresa Palmer, and Gabriel Bateman create a believably dysfunctional family in which each player has their own faults, making it difficult to empathise with any of them (perhaps excluding the pre-pubescent Martin). _Lights Out_ is one-part poignant family drama, one-part cheesy horror movie, where the premise is plain and simple: turn the lights off, scary shit ensues.

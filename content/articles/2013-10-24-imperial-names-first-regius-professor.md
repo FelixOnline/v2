@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310250028-felix-prof_tomz_imperial.jpeg"
 image_caption: >
   Regius Professor of Enginering, Professor Toumazou
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: "http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_23-10-2013-15-55-42"
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101132006-ks607-sweets.jpg"
 image_caption: >
 
-image_width: "4368"
-image_height: "2912"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

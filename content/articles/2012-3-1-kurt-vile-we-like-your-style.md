@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203012322-cac111-kurtv.jpg"
 image_caption: >
   Kurt Vile, what a man!
-image_width: "341"
-image_height: "512"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

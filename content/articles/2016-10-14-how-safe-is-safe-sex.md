@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610141302-so515-3268160011_f75ba2e782_o.jpg"
 image_caption: >
 
-image_width: "2048"
-image_height: "1536"
 image_attribution: "Sarah C"
 image_attribution_link: ""
 video_url: ""

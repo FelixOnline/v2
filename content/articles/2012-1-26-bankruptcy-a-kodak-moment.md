@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262155-pk1811-screen-shot-2012-01-25-at-08.09.02.jpg"
 image_caption: >
   Could Kodak have a shot at survival?
-image_width: "505"
-image_height: "599"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

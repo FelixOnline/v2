@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612152340-felix-pastedImage (2).png"
 image_caption: >
 
-image_width: "1600"
-image_height: "1600"
 image_attribution: "Islamic Society"
 image_attribution_link: ""
 video_url: ""

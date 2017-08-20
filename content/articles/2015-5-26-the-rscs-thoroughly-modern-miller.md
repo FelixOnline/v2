@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505261344-js5913-death-of-a-salesman.jpg"
 image_caption: >
   L-R – Alex Hassell (Biff), Harriet Walter (Linda Loman), Antony Sher (Willy Loman), and Sam Marks (Happy) in the RCS’s Death of a Salesman
-image_width: "0"
-image_height: "0"
 image_attribution: "Ellie Kurttz"
 image_attribution_link: ""
 video_url: ""

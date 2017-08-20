@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105121728-felix-mken.jpg"
 image_caption: >
   These parasitic worms didn’t have the backbone to stand up to the toxic Muc5ac mucin
-image_width: "1181"
-image_height: "839"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

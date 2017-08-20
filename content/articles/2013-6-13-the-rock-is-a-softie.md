@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201306140035-tna08-snitch-2013-wallpapers.jpg"
 image_caption: >
   What does that title say? Say that to my face
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -49,7 +47,6 @@ Perhaps The Rock could be seen as a bit of a miscast here – anyone who messes 
  Help is at hand however, as John reaches out to an ex-convict employee of his who has a history of drug dealing. Wanting to stay clean, start over, and avoid his third strike, Daniel (Jon Bernthal) reluctantly agrees, not fully aware of John’s true intentions. John will also receive tactical support from Agent Cooper (Barry Pepper), and so the dangerous assignment begins.
 
 Essentially the message that is repeatedly used throughout is the fact that fathers are willing to do anything for the benefit of their families. And we see several examples of fathers doing whatever is necessary – the most obvious one here is John, Daniel also has a son and wife to support, the same goes for the drug kingpin they’re trying to take down, Juan Carlos “El Topo” Pintera (a very well-cast Benjamin Bratt). Very little time is spent on Pintera, the antagonist, and it’s all about the “good” guys put in impossible situations, getting in way over their heads.
-TODO: image from
 There are tonal inconsistencies largely due to the film not quite being able to balance the thriller side to the more grounded drama aspect. It’s better in giving us the tense excitement even with a relatively tight budget – the inevitable final highway chase involving a shootout is on a small scale, with very little gimmick and yet is able to deliver some quality action. The many stand-offs between the good guys and bad also have effective input in working towards a climax, more so since we’ve already seen just how vulnerable John is in this unpredictable criminal world.
 
 Less well done is the film’s focus on the individual characters themselves. Even though the ensemble doesn’t look at all crowded, the film struggles to throw in a variety and the running theme becomes very tiresome and repetitive. Yes, yes, the fathers are doing this amazing thing, but what we don’t need is a constant reminder of the struggling children who we start to feel less and less sorry for the more we see them take up the screen time.

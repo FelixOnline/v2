@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506201255-ff712-rsz_01.jpg"
 image_caption: >
   Robert Wilson in Krapp's Last Tape
-image_width: "0"
-image_height: "0"
 image_attribution: "Lucie Jansch"
 image_attribution_link: ""
 video_url: ""

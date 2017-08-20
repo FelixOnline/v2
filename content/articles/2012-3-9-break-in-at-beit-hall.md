@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203090114-felix-fjg-imperial_college-2613.jpg"
 image_caption: >
 
-image_width: "3888"
-image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601290943-felix-Vault_2015_9.jpg"
 image_caption: >
 
-image_width: "4240"
-image_height: "2832"
 image_attribution: "We Are Full Fat PR"
 image_attribution_link: ""
 video_url: ""

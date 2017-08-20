@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206031653-felix-quecumbar-big.jpg"
 image_caption: >
   Bohemian levels are currently through the roof
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610281639-felix-UnionCouncil.jpg"
 image_caption: >
 
-image_width: "1280"
-image_height: "853"
 image_attribution: "Cem Hurrell"
 image_attribution_link: ""
 video_url: ""

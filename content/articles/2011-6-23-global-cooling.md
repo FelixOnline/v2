@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106232107-felix-sun-blue.jpg"
 image_caption: >
   A false colour image of the Sun
-image_width: "1800"
-image_height: "1800"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

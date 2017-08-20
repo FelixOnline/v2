@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201211012242-csw09-hurricane-sandy.jpg"
 image_caption: >
   A visual metaphor for Mit Romney's campaign
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

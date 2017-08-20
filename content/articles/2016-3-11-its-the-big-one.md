@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111212-felix-12495942_985531444829230_8102301807300184292_o.jpg"
 image_caption: >
   Ice Hockey – that notoriously friendly game.
-image_width: "2048"
-image_height: "1183"
 image_attribution: "Ice Hockey"
 image_attribution_link: ""
 video_url: ""

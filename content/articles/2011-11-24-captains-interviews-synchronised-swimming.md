@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242357-felix-rgb.jpg"
 image_caption: >
   Left to right: Delphine Rolando, Carla Canturri-Gispert and Zara Ganase
-image_width: "5184"
-image_height: "3456"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

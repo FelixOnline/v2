@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502221743-ps3110-5_mark_strong_and_phoebe_fox_in_a_view_from_the_bridge_at_the_young_vic_-28--jan-versweyveld.jpg"
 image_caption: >
   Mark Strong and Phoebe Fox in A View from the Bridge at Wyndham’s Theatre.
-image_width: "0"
-image_height: "0"
 image_attribution: "Jan Versweyveld"
 image_attribution_link: ""
 video_url: ""

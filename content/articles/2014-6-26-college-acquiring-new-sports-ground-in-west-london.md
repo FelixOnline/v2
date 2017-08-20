@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201406261415-jal08-concorde_club.jpg"
 image_caption: >
   A view of the new grounds
-image_width: "0"
-image_height: "0"
 image_attribution: "baclubs.com/British Airways"
 image_attribution_link: ""
 video_url: ""

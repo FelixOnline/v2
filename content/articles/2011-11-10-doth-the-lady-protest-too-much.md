@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102023-pk1811-comment-student-protest.jpg"
 image_caption: >
   This banner only rhymes with certain accents. Just wanted to put it out there
-image_width: "3648"
-image_height: "2736"
 image_attribution: "Tommy Allieri"
 image_attribution_link: ""
 video_url: ""

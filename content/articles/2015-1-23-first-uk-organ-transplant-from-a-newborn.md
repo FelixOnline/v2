@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201501231746-jyg11-screen-shot-2015-01-23-at-17.46.00.png"
 image_caption: >
   Hammersmith hospital: Two patients received tissues from the donor, a baby girl who died six days after birth
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial"
 image_attribution_link: ""
 video_url: ""

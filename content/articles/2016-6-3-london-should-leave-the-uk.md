@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606031056-felix-car.jpg"
 image_caption: >
   Stop trying to get in on all the nice stuff we have.
-image_width: "1000"
-image_height: "628"
 image_attribution: "driven.co.nz"
 image_attribution_link: ""
 video_url: ""

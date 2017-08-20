@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606171125-felix-ra5.jpg"
 image_caption: >
   Last year’s coordinator Michael Craig-Martin has his work on display.
-image_width: "875"
-image_height: "656"
 image_attribution: "Stephen White"
 image_attribution_link: ""
 video_url: ""

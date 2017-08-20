@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011112107-nm1010-broadway.jpg"
 image_caption: >
 
-image_width: "669"
-image_height: "450"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

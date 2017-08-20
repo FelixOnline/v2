@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021647-felix-29744232501_feac4b3d06_b.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "683"
 image_attribution: "Kentaro Iemoto"
 image_attribution_link: ""
 video_url: ""

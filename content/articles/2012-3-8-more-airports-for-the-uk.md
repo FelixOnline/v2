@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203082052-ams111-thames_hub_vision22-1.jpg"
 image_caption: >
   Promo shots for the latest Grand Theft Auto game were met with a lukewarm critical response
-image_width: "2000"
-image_height: "1415"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

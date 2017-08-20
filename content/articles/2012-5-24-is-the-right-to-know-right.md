@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205250013-mc4509-capitol-building-washington.jpg"
 image_caption: >
   The question of whether or not Congress should dictate morality is key
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

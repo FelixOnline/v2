@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103172054-mc4509-74296-handout-satellite-image-of-fukushima-daiichi-nuclear-plant-after-earth.jpg"
 image_caption: >
   Satellite image of Fukushima nuclear plant
-image_width: "950"
-image_height: "642"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

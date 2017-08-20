@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511201404-ff712-3296.jpg"
 image_caption: >
   Maggie Smith and Alex Jennings in The Lady in the Van
-image_width: "0"
-image_height: "0"
 image_attribution: "Snap Stills"
 image_attribution_link: ""
 video_url: ""

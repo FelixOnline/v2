@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201212070148-tna08-fashion-1.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -55,7 +53,6 @@ More explicitly put, in their attempt to attract more buyers with their diminish
 Once again, I state my case: the definition and success of luxury rests on prestige and unobtainability. Once this is dissipated, it will not be long before we see an erosion in sales, and consequently profits.
 
 Whilst of course there is a chance that I may be proven horrendously wrong, but, the way I see it, the trend towards fast fashion may be spelling out the final demise of certain brands. These brands are such that they are inaccessible enough at the moment to be termed ‘luxury’, yet are not quite topping the stable mountains of high fashion.
-TODO: image from
 On top of this, there is also the issue of designers themselves. Peter Copping, in taking on 6 lines a year for Nina Ricci, may not be adding too much to his work load, but what about Alexander Wang who at the young age of 28 will now be designing 32 collections a year?
 
 I kid you not, fashion’s favourite newbie, on being awarded the job of creative designer at Balenciaga, is now faced with designing more lines per annum than years he’s lived – four womenswear and two menswear for BOTH Alexander Wang and T by Alexander Wang; four womens and two mens lines for the bulk of his new job at Balenciaga; and 14 other lines (seven collections twice a year) making up the rest of the PPR-owned house. On top of that, there are also swim lines, lingerie, shoes, bags and jewellery to consider.

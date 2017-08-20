@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612161431-felix-27677265152_7061229a73_o.jpg"
 image_caption: >
 
-image_width: "5150"
-image_height: "3270"
 image_attribution: "Jeremy Segrott"
 image_attribution_link: ""
 video_url: ""

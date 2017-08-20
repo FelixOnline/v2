@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611041528-felix-pacifists-guide-2578x1128-nott.jpg"
 image_caption: >
 
-image_width: "1289"
-image_height: "564"
 image_attribution: "National Theatre"
 image_attribution_link: ""
 video_url: ""

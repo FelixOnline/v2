@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201302220259-tna08-food-survey.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

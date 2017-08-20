@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092239-pk1811-cimg2023.gif"
 image_caption: >
   Can’t spell cheesecake without ‘eese’. As in ‘ease’? Yeah? Thought not
-image_width: "2000"
-image_height: "1500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

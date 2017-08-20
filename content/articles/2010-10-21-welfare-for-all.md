@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010212004-nm1010-osborne.jpg"
 image_caption: >
   Jeez, get a new bag bro!
-image_width: "900"
-image_height: "697"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

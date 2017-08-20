@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201309291443-tna08-banknote.jpg"
 image_caption: >
   My mind on my money and my money on my mind
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -46,7 +44,6 @@ Hopefully anyone who is eligible has already applied for Student Finance England
 ####  Why open a student account?
 
 With the start of university, the most important preparation you should be doing is to ‘Sort out your finances’. The first step to achieve this is to open a student account at the right bank. There are many banks out there, each and every one of them offering a variety of different services and freebies. The most important thing you should be considering is cost-free borrowing (interest free overdraft). This is the crucial difference between student accounts and standard accounts. Student accounts also offer the same functions such as internet/mobile banking, direct debit facilities, contactless etc. These accounts are designed for people who are attending higher education, so open your account now!
-TODO: image from
 ####  Interest Free Overdraft:
 
 This is the most important factor you should be considering, as you may be feeling financial constraints later on in the year. The larger the Interest Free Overdraft the better, as some banks could charge you more to increase your borrowing. Many students also use overdraft to add funds to an ISA, this is a savings account with a favourable tax status, thereby earning you interest on free borrowed money. Currently the banks which offer the best interest free overdrafts with up to £3000 are HSBC and Halifax. Beware that borrowing past the free overdraft limit will incur you heavy charges, along with interest rates of up to 24% AER.

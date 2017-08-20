@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206011310-mc4509-bpgrads_andrew-tham-claire-madden-charles-archbold--london-2.jpg"
 image_caption: >
   BP graduates at the Olympic Stadium, including Claire Madden, but not including Kelly Holmes
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110211239-ak6309-kina5w.jpg"
 image_caption: >
 
-image_width: "4184"
-image_height: "3342"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

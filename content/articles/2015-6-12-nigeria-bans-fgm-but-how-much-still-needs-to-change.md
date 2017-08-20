@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506121334-cj914-140327-fgm-somalia_8848dfa4754b4ff1bec6ead22b1b2e8c.jpg"
 image_caption: >
   In some parts of the world, FGM is the norm, but while it is seen as so horrific in the UK, it is rarely mentioned.
-image_width: "0"
-image_height: "0"
 image_attribution: "flipboard.com"
 image_attribution_link: ""
 video_url: ""

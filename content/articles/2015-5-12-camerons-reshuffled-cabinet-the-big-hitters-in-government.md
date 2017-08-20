@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505121006-jr2514-cabinet_01-593eeac0d8b01457f1e24d784107305a277187402740917ff1f23d94adab6905.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

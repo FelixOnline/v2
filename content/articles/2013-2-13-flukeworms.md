@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201302131643-tna08-la-foto.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -65,4 +63,3 @@ As I write, some paintings are still in the making and the prints are coming tom
 If you as curious about the end of this story as me, the show opens next week There will be wine and you can meet all those that put the show together by pulling it out of a spin dive at the last minute.
 
 _Opening party on Febuary 19th 8pm, Blythe Gallery, Sherfield Level 5._
-TODO: image from

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251158-ff712-tessmunster.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Girlie Show Photography"
 image_attribution_link: ""
 video_url: ""

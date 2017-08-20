@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606101035-felix-watchdogs.jpg"
 image_caption: >
   It’s not just the rents that are high.
-image_width: "2048"
-image_height: "1360"
 image_attribution: "Ubisoft"
 image_attribution_link: ""
 video_url: ""

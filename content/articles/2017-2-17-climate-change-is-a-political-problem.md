@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702171432-felix-9031727127_a9187349c0_o.jpg"
 image_caption: >
 
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Policy Exchange"
 image_attribution_link: ""
 video_url: ""

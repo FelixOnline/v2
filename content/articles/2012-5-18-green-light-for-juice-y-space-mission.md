@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205181219-felix-20060729061958!europa-moon.jpg"
 image_caption: >
   JUICE will visit Europa (pictured) along with Ganymede and Calisto
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

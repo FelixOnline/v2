@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192152-felix-clayponds.jpg"
 image_caption: >
   Clayponds is located in South Ealing, and houses over 300 postgraduate students
-image_width: "3648"
-image_height: "2736"
 image_attribution: "Tommy Allieri"
 image_attribution_link: ""
 video_url: ""

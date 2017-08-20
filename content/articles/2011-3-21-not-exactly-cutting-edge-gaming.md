@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103211156-ks607-surgerys.jpg"
 image_caption: >
   I think I'll perform this triple bypass with the rubber glove and a long black cloak...
-image_width: "1680"
-image_height: "1050"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

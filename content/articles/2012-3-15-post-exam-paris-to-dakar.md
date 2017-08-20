@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152103-ams111-p2d_groupphoto.jpg"
 image_caption: >
   Sure, it’s all smiles now, but there are camels to face
-image_width: "960"
-image_height: "859"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

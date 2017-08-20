@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105060939-felix-royal-wedding-london.jpeg"
 image_caption: >
 
-image_width: "468"
-image_height: "341"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

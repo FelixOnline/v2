@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092310-ams111-star-wars-poster.jpg"
 image_caption: >
   Even the great Yoda cannot escape this 3D craze – his force clearly wasn’t strong enough
-image_width: "1317"
-image_height: "764"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

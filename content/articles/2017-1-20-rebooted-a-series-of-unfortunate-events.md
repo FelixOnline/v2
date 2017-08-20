@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701201517-felix-maxresdefault (4).jpg"
 image_caption: >
 
-image_width: "1280"
-image_height: "720"
 image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""
@@ -54,4 +52,3 @@ This show also really flourishes on world-building and the style really makes ea
 It honestly does not matter if you’ve never read any of the books filled with Unfortunate Events. This Netflix series is extremely welcoming to newcomers, opening its mystery box of encapsulating despair from the first episode and layering it with performances, writing and direction that keep you riveted until the end. An ongoing mystery keeps you coming back for more; even if you are a book reader, there’s something new as an intriguing new subplot is added not seen in the books.
 
 At this point, any Netflix adaptation is bound to be good and this show is no exception. While the plot may get a bit repetitive, the charming cast and lingering mysteries are consistently engaging and just plain fun, for lack of a better word. Though Lemony Snicket may constantly protest, you’d be doing yourself a disservice if you don’t watch this show.
-TODO: image from

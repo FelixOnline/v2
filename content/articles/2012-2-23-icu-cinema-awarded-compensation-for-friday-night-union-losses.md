@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232316-felix-photo-1.jpg"
 image_caption: >
   ICU Cinema operates out of the Union Concert Hall
-image_width: "2448"
-image_height: "3264"
 image_attribution: "Philip Kent"
 image_attribution_link: ""
 video_url: ""

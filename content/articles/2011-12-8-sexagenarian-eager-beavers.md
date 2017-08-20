@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082102-pk1811-roundheeled.jpg"
 image_caption: >
   Sexy at sixty-seven
-image_width: "1537"
-image_height: "1025"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412041917-cj914-simon-reeve.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""

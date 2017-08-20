@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201501212222-ps3110-rsz_24_simon_norfolk_former_soviet-era_palace_of_culture_kabul_2001-02_courtesy_simon_norfolk.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

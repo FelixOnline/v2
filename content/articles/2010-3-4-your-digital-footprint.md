@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201003041217-srg03-Hacker.jpg"
 image_caption: >
 
-image_width: "1698"
-image_height: "1131"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

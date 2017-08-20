@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011261501-ks607-wrestlin.jpg"
 image_caption: >
 
-image_width: "5120"
-image_height: "2880"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

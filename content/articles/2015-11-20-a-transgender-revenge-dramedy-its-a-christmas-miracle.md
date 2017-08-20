@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511201407-ff712-tangerine_011-1600x900-c-default.jpg"
 image_caption: >
   Tangerine breaks new ground with its depiction of transgender sex workers
-image_width: "0"
-image_height: "0"
 image_attribution: "Radium/AP"
 image_attribution_link: ""
 video_url: ""

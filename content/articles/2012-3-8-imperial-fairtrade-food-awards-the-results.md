@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203082208-ams111-muffin.jpg"
 image_caption: >
   The winner: gooey fibre and mango infused blackberry muffins
-image_width: "700"
-image_height: "523"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

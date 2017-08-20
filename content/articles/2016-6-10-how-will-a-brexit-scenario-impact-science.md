@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606101025-felix-8706453607_706e29d981_o 2.jpg"
 image_caption: >
 
-image_width: "3236"
-image_height: "1888"
 image_attribution: "Hernan Pinera"
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106162205-felix-jpr_2744.jpg"
 image_caption: >
 
-image_width: "803"
-image_height: "1200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

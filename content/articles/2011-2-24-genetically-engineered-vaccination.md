@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102242014-nm1010-kidvacci.jpg"
 image_caption: >
 
-image_width: "413"
-image_height: "293"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

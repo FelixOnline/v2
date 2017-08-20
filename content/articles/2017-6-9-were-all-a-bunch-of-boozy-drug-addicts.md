@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706091836-felix-Screen Shot 2017-06-09 at 18.36.00.png"
 image_caption: >
   LADSLADSLADSLADSLADS
-image_width: "2160"
-image_height: "1237"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

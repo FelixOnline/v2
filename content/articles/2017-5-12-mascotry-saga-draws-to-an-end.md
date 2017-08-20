@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705121829-felix-spanner.jpg"
 image_caption: >
   Look mom! I found a giant... tool!
-image_width: "620"
-image_height: "381"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""

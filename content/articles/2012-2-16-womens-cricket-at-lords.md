@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162333-sjw209-cricket.jpg"
 image_caption: >
   The ladies in front of the pavillion end... Howzat!
-image_width: "502"
-image_height: "355"
 image_attribution: "IC Cricket"
 image_attribution_link: ""
 video_url: ""

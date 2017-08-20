@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503130040-cj914-ferrybridge-powerstation---photoshopped-.jpg"
 image_caption: >
   Ferrybridge Powerstation, UK, where the experiments took place
-image_width: "0"
-image_height: "0"
 image_attribution: "3.aba.com"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505151309-cj914-screen-shot-2015-05-15-at-13.08.47.png"
 image_caption: >
   He'll be back! (in the latest reboot of the Terminator series)
-image_width: "0"
-image_height: "0"
 image_attribution: "Alan Taylor/Paramount"
 image_attribution_link: ""
 video_url: ""

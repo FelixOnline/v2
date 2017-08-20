@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010211945-nm1010-andersan.jpg"
 image_caption: >
   Landey Patton and Alexander Ford are planning to traverse the length of New Zealand
-image_width: "2448"
-image_height: "3264"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

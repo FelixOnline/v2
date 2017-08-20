@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412041828-cj914-ferguson-mike-brown.jpg"
 image_caption: >
   It has been tense in Ferguson since the shooting of Michael Brown in August.
-image_width: "0"
-image_height: "0"
 image_attribution: "ibtimes"
 image_attribution_link: ""
 video_url: ""

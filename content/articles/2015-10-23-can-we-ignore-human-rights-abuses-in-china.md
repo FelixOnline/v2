@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510231257-cj914-president-of-china.jpg"
 image_caption: >
   Xi Jinping is in the UK as a guest of the Queen.
-image_width: "0"
-image_height: "0"
 image_attribution: "AOL"
 image_attribution_link: ""
 video_url: ""

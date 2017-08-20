@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505121704-jr2514-_82891092_027131722-1.jpg"
 image_caption: >
   Hundreds took to the streets just two days after the general election
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

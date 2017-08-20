@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505151354-cj914-life-on-foot-jill-tate-08-copy.jpg"
 image_caption: >
   Pelotas shoes aligned at ‘Life on Foot’ at the Design Museum
-image_width: "0"
-image_height: "0"
 image_attribution: "Jill Tate"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201271225-felix-glassjawlive2.jpg"
 image_caption: >
 
-image_width: "400"
-image_height: "317"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

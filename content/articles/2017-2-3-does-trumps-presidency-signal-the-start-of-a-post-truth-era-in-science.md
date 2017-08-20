@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702031636-felix-Oxford dictionaries.jpg"
 image_caption: >
 
-image_width: "315"
-image_height: "190"
 image_attribution: "Missy"
 image_attribution_link: ""
 video_url: ""

@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061123-felix-13116016_10100539315795845_4258963349234723363_o-1024x576.jpg"
 image_caption: >
   Quick get a parking space.
-image_width: "1024"
-image_height: "576"
 image_attribution: "Triathalon"
 image_attribution_link: ""
 video_url: ""

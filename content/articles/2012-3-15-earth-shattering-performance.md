@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152122-ams111-earth.jpg"
 image_caption: >
   Samurai Jack rides an antelope for the Day of the Dead
-image_width: "720"
-image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101132135-ks607-dailymai.jpg"
 image_caption: >
 
-image_width: "2236"
-image_height: "1588"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

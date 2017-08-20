@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703231635-ff712-ENO Partenope Patricia Bardon, Matthew Durkan, Stephanie Windsor-Lewis (c) Donald Cooper.jpg"
 image_caption: >
   Patricia Bardon, Matthew Durkan, and Stephanie Windsor-Lewis in ENO's Partenope
-image_width: "3608"
-image_height: "2321"
 image_attribution: "Donald Cooper"
 image_attribution_link: ""
 video_url: ""

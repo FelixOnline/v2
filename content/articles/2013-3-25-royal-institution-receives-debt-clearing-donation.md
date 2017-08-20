@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201303261816-pk1811-royal_institution.jpg"
 image_caption: >
   The Royal Institution's home is located near Green Park
-image_width: "0"
-image_height: "0"
 image_attribution: "Mike Peel"
 image_attribution_link: "http://www.mikepeel.net/"
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210051315-felix-killing_them_softly-filmszene.jpg"
 image_caption: >
   I told you not to touch my fucking test tube again. I’d JUST washed it
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

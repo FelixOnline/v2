@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701201452-felix-16129638_10211985078284307_220271556_o.jpg"
 image_caption: >
 
-image_width: "1334"
-image_height: "1000"
 image_attribution: "Simran Kukran"
 image_attribution_link: ""
 video_url: ""

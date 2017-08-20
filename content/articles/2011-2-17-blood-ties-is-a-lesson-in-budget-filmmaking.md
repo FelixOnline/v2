@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102172028-ks607-bloodtie.jpg"
 image_caption: >
 
-image_width: "552"
-image_height: "420"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

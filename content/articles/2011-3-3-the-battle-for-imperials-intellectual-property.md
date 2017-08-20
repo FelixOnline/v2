@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103032022-ks607-harrietg.jpg"
 image_caption: >
   Harriet Gliddon explains her campaign
-image_width: "3888"
-image_height: "2592"
 image_attribution: "Kadhim Shubber"
 image_attribution_link: ""
 video_url: ""

@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701272037-felix-Screen Shot 2017-01-26 at 15.24.07.png"
 image_caption: >
   A page from the 2013-16 strategy
-image_width: "1591"
-image_height: "795"
 image_attribution: "ICU"
 image_attribution_link: ""
 video_url: ""
@@ -53,7 +51,6 @@ The strategy might look nice on paper, however there is not much information on 
 This becomes particularly obvious when comparing the new strategy to the previous one. Although the 2013-16 strategy had very similar aims, each aim had not only more objectives but objectives which were much more tangible. For example to improve the student experience, the 2013-16 strategy clearly and concisely outlined eight measures to be adopted by 2016 such as “ensure that the Union delivers at least three key contributors to the College’s Graduate Attributes project” or “increase the number of students employed by the Union in each year of the plan”.
 
 Similarly to build the student community the union would try to “publish an annual ‘Advocacy to Action’ Report” and “develop, publish and deliver a Campus Outreach Plan” by 2016. These are parts from two specific proposed actions from a list of seven.
-TODO: image from
 The new strategy on the other hand aims to “enhance the enjoyment and talents of our members” (i.e. enhance student experience in 2013 lingo) by “[providing] systems, staff support and funding for volunteers to enable them to maximise the impact of their Roles” and “[being] recognised as leaders for the value that our activities add to students’ personal and professional development”. These are two full objectives from a list of three and quite literally amount to almost a fifth of the strategy.
 
 “The 2013-16 and 2017-20 strategies are intentionally very different in their style and composition,” says Andriopoulos. “The 2013-16 strategy, Our Plan, had the task of transforming Imperial College Union after a challenging period, and it did so by setting specific, measurable targets – consolidating our strengths (such as Clubs, Societies &amp; Projects), creating specific new initiatives (such as the Student Academic Choice Awards, Imperial Plus, and Give It A Go), and focusing on financial viability.” Andriopoulos refers to the disastrous 2011 Summer Ball which made a loss of over £100,000, effectively bankrupting the Union.

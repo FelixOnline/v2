@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201604291204-felix-hipster.jpg"
 image_caption: >
   The males of the species can often be identified by their facial hair, and are commonly found in East London.
-image_width: "1280"
-image_height: "800"
 image_attribution: "New Statesman"
 image_attribution_link: ""
 video_url: ""

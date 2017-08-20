@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110071423-ks607-tumblr_lniuaig37f1qbd529o1_r1_500.jpeg"
 image_caption: >
 
-image_width: "500"
-image_height: "500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

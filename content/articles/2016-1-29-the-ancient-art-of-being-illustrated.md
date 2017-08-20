@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601290938-felix-Maud_Stevens_Wagner.jpg"
 image_caption: >
   Maud Wagner, the first known female tattooist in the US 1911.
-image_width: "3115"
-image_height: "4382"
 image_attribution: "Margot Mifflin"
 image_attribution_link: ""
 video_url: ""

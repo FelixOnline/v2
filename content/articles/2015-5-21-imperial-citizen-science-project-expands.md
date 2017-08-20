@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505212057-kmw13-buttercup.jpg"
 image_caption: >
   More than 850,000 have taken part in the OPAL project
-image_width: "0"
-image_height: "0"
 image_attribution: "Natural History Museum"
 image_attribution_link: ""
 video_url: ""

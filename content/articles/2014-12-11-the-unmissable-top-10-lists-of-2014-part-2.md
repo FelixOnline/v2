@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412112105-cj914-under-the-skin-cmyk.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "theverge.com"
 image_attribution_link: ""
 video_url: ""

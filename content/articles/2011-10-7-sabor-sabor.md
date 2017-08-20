@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110071119-felix-l-2.jpg"
 image_caption: >
   Ozy Shyne
-image_width: "600"
-image_height: "400"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

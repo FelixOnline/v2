@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011182042-nm1010-littlecr.jpg"
 image_caption: >
 
-image_width: "468"
-image_height: "352"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

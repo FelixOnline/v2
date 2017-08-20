@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412041843-cj914-1409564461000-isis-militants.jpg"
 image_caption: >
   Extremists mask the true meaning of Islam.
-image_width: "0"
-image_height: "0"
 image_attribution: "gannett-cdn.com"
 image_attribution_link: ""
 video_url: ""

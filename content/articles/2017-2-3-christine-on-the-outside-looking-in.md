@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702031648-felix-christine-movie-image.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1080"
 image_attribution: "Allstar - Great Point Media"
 image_attribution_link: ""
 video_url: ""

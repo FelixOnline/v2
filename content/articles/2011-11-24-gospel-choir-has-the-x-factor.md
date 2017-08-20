@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242226-pk1811-390369_10150407884083984_503413983_8343546_1103376120_n.jpg"
 image_caption: >
   The Gospel Choirs performing alongside contestant Marcus Collins
-image_width: "960"
-image_height: "540"
 image_attribution: "ITV"
 image_attribution_link: ""
 video_url: ""

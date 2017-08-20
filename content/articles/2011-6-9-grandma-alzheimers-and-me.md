@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106092234-felix-neur.jpg"
 image_caption: >
   Alzheimer’s causes neurons like these to become tangled by proteins, killing them
-image_width: "652"
-image_height: "540"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

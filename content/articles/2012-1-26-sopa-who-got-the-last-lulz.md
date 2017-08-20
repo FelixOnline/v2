@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262259-ak6309-karapetian-banner.jpg"
 image_caption: >
   Sorry, we know some of you are so street the sight of feds is terrifying
-image_width: "640"
-image_height: "480"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201270004-felix-img_0050.jpg"
 image_caption: >
   Professor Burland has worked on constructions at Westminster underground station
-image_width: "3264"
-image_height: "2448"
 image_attribution: "Philip Kent"
 image_attribution_link: ""
 video_url: ""

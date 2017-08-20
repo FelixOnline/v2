@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210191345-mc4509-icfctour.png"
 image_caption: >
   Light blue is soooo in this year
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -63,7 +61,6 @@ Come half time E-Garten had managed to net again and some substitutions were nee
 Sadly the theme of shabby football continued throughout the game and a third and fourth goal were soon conceded. After a shot from an E-Garten forward rebounded off the post it was clear that Kony (Bolly), having dived to his left to try and save the shot, was not going to get up. Unfortunately, lying face down in the goalmouth was not a strategy that stopped another E-Gartner tapping in the rebound.
 
 Small consolation did come in the final minutes though when Fett und Kahl played a delectable spread to Gump (Chris Neilsen), who received, went on a mazy run, beat multiple players and finally put it on a plate for club captain Fry-sexual (Tom Fryatt) to slot home. Despite the day’s losses, the last night in Munich descended into havoc. Kony introduced some primal box to the night’s delights with Dry Nights setting a new record for how long it took him to get put to bed.
-TODO: image from
 The final leg of tour was in Prague – a much more walkable city. On the way, The Airborne Rangers entertained themselves for the 7 hour coach journey with nothing but a microphone and their own wit.
  The first night in Prague produced an event of epic proportion: the impromptu 3 hour IC football dance off. Debate still rages on about which side actually won but in my opinion when it comes to dance-offs it really is the taking part that counts.
 

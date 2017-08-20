@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101202058-ks607-sportssp.jpg"
 image_caption: >
 
-image_width: "2259"
-image_height: "1900"
 image_attribution: "David Murray"
 image_attribution_link: "http://Imperial train with the England team in 2008"
 video_url: ""

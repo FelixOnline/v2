@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102056-pk1811-drought_wetland.jpg"
 image_caption: >
   Environmental factors such as drought are influencing migration
-image_width: "1920"
-image_height: "1200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

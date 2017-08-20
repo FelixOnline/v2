@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102242020-nm1010-claypond.jpg"
 image_caption: >
 
-image_width: "2000"
-image_height: "1333"
 image_attribution: "David Robertson"
 image_attribution_link: ""
 video_url: ""

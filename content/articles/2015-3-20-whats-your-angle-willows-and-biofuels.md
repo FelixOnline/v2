@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503200049-cj914-newseventsimages.png"
 image_caption: >
   CT scan of willow showing fibre (brown) and vessels (blue)
-image_width: "0"
-image_height: "0"
 image_attribution: "BMC Plant Biology "
 image_attribution_link: ""
 video_url: ""

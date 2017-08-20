@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201407081207-jal08-tdf_london_image.jpg"
 image_caption: >
   #CyclistsOnTour
-image_width: "0"
-image_height: "0"
 image_attribution: "Joe Letts / Felix"
 image_attribution_link: ""
 video_url: ""

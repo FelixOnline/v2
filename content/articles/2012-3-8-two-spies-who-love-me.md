@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203082152-ams111-reesethismeanswar.jpg"
 image_caption: >
   I spy...with my little eye...something beginning with H...
-image_width: "620"
-image_height: "412"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

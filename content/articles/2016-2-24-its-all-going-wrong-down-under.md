@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602241835-ff712-mule-0-2000-0-1125-crop.jpg"
 image_caption: >
   Angus Simpson as Ray, in the somewhat confused film The Smuggler
-image_width: "2000"
-image_height: "1125"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

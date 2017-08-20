@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232046-pk1811-blueberrycobbler.jpg"
 image_caption: >
   Blood-red cobblers with a touch of booze
-image_width: "960"
-image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

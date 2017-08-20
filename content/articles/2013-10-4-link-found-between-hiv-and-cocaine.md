@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310040135-jal08-sci_hiv-copy.jpg"
 image_caption: >
   HIV Molecule
-image_width: "0"
-image_height: "0"
 image_attribution: "forcollegeandcommunity"
 image_attribution_link: ""
 video_url: ""

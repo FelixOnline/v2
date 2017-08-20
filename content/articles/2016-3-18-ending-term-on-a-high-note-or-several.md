@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603181205-felix-IMG_6385.JPG"
 image_caption: >
   The PhotoSoc Exhibition up in Blyth.
-image_width: "3264"
-image_height: "2448"
 image_attribution: "Abigail de Bruin"
 image_attribution_link: ""
 video_url: ""

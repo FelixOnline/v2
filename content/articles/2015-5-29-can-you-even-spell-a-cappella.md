@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505291153-js5913-pitch-perfect-2-2.png"
 image_caption: >
   I wrote this caption before I found the picture, which is why what I'm writing has no relevance at all to what you're seeing. You know you love it. (I even had to find a different picture for the web, this caption just keeps on giving)
-image_width: "0"
-image_height: "0"
 image_attribution: "Elizabeth Banks/Universal"
 image_attribution_link: ""
 video_url: ""

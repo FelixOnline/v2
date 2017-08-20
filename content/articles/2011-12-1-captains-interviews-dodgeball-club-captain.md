@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012116-ams111-sportinterview.jpg"
 image_caption: >
 
-image_width: "5184"
-image_height: "3456"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

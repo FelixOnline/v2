@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110140024-sjw209-dishoom2.jpg"
 image_caption: >
   Makes a change from KFC
-image_width: "600"
-image_height: "371"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

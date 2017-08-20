@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511131442-ygr12-12236867_917274504988883_1675332240_o.jpg"
 image_caption: >
   Behold the glorious mole rat. This lovable creature may hold the secrets to curing cancer.
-image_width: "0"
-image_height: "0"
 image_attribution: "Roman Klementschitz"
 image_attribution_link: ""
 video_url: ""

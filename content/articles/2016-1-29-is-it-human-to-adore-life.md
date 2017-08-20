@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601290936-felix-adorelife.jpeg"
 image_caption: >
   Defiant.
-image_width: "1035"
-image_height: "1035"
 image_attribution: "Matador"
 image_attribution_link: ""
 video_url: ""

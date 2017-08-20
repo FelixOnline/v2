@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610311542-felix-8059921247_20283e39d7_o.jpg"
 image_caption: >
 
-image_width: "4097"
-image_height: "2539"
 image_attribution: "Jon Bunting"
 image_attribution_link: ""
 video_url: ""

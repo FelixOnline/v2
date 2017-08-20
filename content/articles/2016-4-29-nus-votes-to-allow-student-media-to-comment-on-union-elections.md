@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201604291105-felix-makeicu.jpg"
 image_caption: >
 
-image_width: "2472"
-image_height: "1786"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""

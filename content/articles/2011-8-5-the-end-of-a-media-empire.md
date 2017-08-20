@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201108051427-ma1307-kadhimandfamily.jpg"
 image_caption: >
   Happier times
-image_width: "1266"
-image_height: "970"
 image_attribution: "Vanity Fair"
 image_attribution_link: "http://en.wikipedia.org/wiki/File:Rupert_Murdoch_Wendi_Murdoch_2011_Shankbone.JPG"
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201001141741-felix-LordMand.jpg"
 image_caption: >
 
-image_width: "594"
-image_height: "396"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

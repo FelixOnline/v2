@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152025-ams111-2011_hobo_with_a_shotgun_002.jpg"
 image_caption: >
   Boris Johnson is getting serious about winning his London Mayor campaign
-image_width: "1600"
-image_height: "685"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

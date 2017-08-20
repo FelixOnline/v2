@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051257-felix-12615319_10208435310861198_4970862720359336288_o.jpg"
 image_caption: >
   Run, Anna, run!
-image_width: "1013"
-image_height: "939"
 image_attribution: "Triathalon"
 image_attribution_link: ""
 video_url: ""

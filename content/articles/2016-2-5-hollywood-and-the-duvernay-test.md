@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051226-felix-Ava_DuVernay_2015.jpg"
 image_caption: >
 
-image_width: "861"
-image_height: "1196"
 image_attribution: "Wikimedia"
 image_attribution_link: ""
 video_url: ""

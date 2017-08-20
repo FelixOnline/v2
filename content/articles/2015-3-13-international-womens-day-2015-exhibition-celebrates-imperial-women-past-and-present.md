@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503130120-cj914-women@imperial-3rd-try.jpg"
 image_caption: >
   Women@Imperial comprises a series of events honouring academic and professional women of the College
-image_width: "0"
-image_height: "0"
 image_attribution: "Twitter"
 image_attribution_link: ""
 video_url: ""

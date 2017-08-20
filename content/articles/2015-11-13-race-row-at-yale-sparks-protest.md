@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511131416-ygr12-screen-shot-2015-11-11-at-20.53.32.png"
 image_caption: >
   Students protesting on Monday
-image_width: "0"
-image_height: "0"
 image_attribution: "Twitter / @hannuhmontanuhh"
 image_attribution_link: ""
 video_url: ""

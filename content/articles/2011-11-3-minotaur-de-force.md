@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032204-felix-mino3.jpg"
 image_caption: >
   Few people know he was actually half-man-half-bull-half-butcher
-image_width: "1600"
-image_height: "1200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

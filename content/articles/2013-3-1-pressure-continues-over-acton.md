@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201303010117-tna08-acton-drawing.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Lizzy Griffiths"
 image_attribution_link: ""
 video_url: ""

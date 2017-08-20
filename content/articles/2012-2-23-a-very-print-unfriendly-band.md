@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232109-ams111-anal-cunt.jpg"
 image_caption: >
   Featuring the ballad, ‘I Respect Your Feelings as a Woman and a Human’
-image_width: "500"
-image_height: "500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

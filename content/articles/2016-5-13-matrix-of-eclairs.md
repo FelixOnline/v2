@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131133-felix-thumb_IMG_2809_1024.jpg"
 image_caption: >
   I wonder if he leaves chocolate squares wherever he goes.
-image_width: "1024"
-image_height: "1024"
 image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""

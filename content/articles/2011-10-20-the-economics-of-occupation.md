@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110202239-felix-340469_388631624959_512764959_1479651_1393739666_o.jpg"
 image_caption: >
   Julian Assange addressing eager protestors at St Paul’s Cathedral. Where’s Julian?
-image_width: "2048"
-image_height: "1366"
 image_attribution: "Kadhim Shubber"
 image_attribution_link: ""
 video_url: ""

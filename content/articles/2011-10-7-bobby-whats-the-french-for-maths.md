@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110071130-felix-patti-smith.jpg"
 image_caption: >
   Patti Smith thinking about Poincaré homology spheres. Probably
-image_width: "1586"
-image_height: "1600"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

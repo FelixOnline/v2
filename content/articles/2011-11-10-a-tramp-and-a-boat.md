@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102109-felix-shoesandsocksoffshoesandtoby-pola.jpg"
 image_caption: >
   Does that title say I’m a tramp?! Is that what people think of me? I never knew...
-image_width: "1392"
-image_height: "1692"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

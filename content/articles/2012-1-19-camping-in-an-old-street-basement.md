@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192103-cac111-camp-inigo.jpg"
 image_caption: >
   Redrum in the basement
-image_width: "1632"
-image_height: "1224"
 image_attribution: "igo Martínez de Rituerto"
 image_attribution_link: ""
 video_url: ""

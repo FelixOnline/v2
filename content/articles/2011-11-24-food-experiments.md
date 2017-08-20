@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242133-pk1811-eggsperimentsrsc-lowres.jpg"
 image_caption: >
   I know you’ve had it with eggscruciating yolks
-image_width: "1417"
-image_height: "906"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

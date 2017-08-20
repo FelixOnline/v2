@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706151743-im1413-TELEMMGLPICT000124419172-large_trans_NvBQzQNjv4Bq2UT24tysUNS89v637bWo7qefKdEupUtQvEb0ay-H710.jpeg"
 image_caption: >
   Sappho and Erinna in a Garden at Mytilene ( 1864), by Simeon Solomon. Photo: TATE/PURCHASED 1980
-image_width: "720"
-image_height: "450"
 image_attribution: "Photo: TATE/PURCHASED 1980"
 image_attribution_link: ""
 video_url: ""

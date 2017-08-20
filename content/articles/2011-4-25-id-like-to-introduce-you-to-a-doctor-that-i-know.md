@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104252256-felix-amy-pond.jpeg"
 image_caption: >
   If that smoking hot blue box doesn't make you want to watch Doctor Who, then I don't know what will
-image_width: "946"
-image_height: "532"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""

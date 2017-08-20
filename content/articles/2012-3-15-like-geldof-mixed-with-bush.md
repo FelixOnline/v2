@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203160128-felix-532652699.jpg"
 image_caption: >
   Africa finally gets what its always needed: a bunch of trigger-happy white American students
-image_width: "600"
-image_height: "399"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

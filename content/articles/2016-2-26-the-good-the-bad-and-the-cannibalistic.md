@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261142-felix-Bone-Tomahawk-kurt-russell.jpg"
 image_caption: >
   Kurt Russell, stealing scenes as the town sheriff, in the bloody, brutal Bone Tomahawk.
-image_width: "1920"
-image_height: "1080"
 image_attribution: "Shutterstock"
 image_attribution_link: ""
 video_url: ""

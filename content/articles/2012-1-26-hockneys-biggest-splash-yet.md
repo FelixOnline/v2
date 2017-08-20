@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262209-ams111-hockney-key-41.jpg"
 image_caption: >
   Winter Timber 2009 – Blue Wood
-image_width: "4428"
-image_height: "1995"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

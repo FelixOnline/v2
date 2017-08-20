@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701271634-felix-fruit-fly7.jpg"
 image_caption: >
 
-image_width: "650"
-image_height: "421"
 image_attribution: "stoppestinfo"
 image_attribution_link: ""
 video_url: ""

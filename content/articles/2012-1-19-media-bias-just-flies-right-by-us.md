@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192036-cac111-zooey-comment.jpg"
 image_caption: >
   Zooey Deschanel? Relevant as she’s standing in front of the famously unbiased Fox’s logo
-image_width: "306"
-image_height: "800"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201306140007-tna08-yale-university.jpg"
 image_caption: >
   Yale... How grand. Are you overcompensating for something?
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

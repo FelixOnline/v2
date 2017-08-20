@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205181215-felix-colorized_transmission_electron_micrograph_of_avian_influenza_a_h5n1_viruses.jpg"
 image_caption: >
   Pretty deadly: a transmission electron micrograph of the H5N1 virus (gold)
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

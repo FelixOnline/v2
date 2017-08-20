@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606031116-felix-Website_Beagle2-UCL-SRR.jpg"
 image_caption: >
   Super resolution imaging technology gives us views of Mars that may not be breathtaking, but are most certainly very detailed.
-image_width: "1000"
-image_height: "750"
 image_attribution: "Yu Tao and Jan-Peter Muller, UCL"
 image_attribution_link: ""
 video_url: ""

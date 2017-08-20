@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611251452-felix-Second_game felix.jpg"
 image_caption: >
 
-image_width: "1536"
-image_height: "1169"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

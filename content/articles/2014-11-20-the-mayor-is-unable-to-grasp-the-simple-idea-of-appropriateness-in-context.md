@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411202119-cj914-shirtgate.jpg"
 image_caption: >
   The concept of context is apparently lost on these people
-image_width: "0"
-image_height: "0"
 image_attribution: "Imgur"
 image_attribution_link: ""
 video_url: ""

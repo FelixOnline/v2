@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010101637-ks607-ScottPil.jpg"
 image_caption: >
 
-image_width: "535"
-image_height: "299"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

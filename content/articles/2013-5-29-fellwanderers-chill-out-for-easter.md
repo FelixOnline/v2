@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201305291643-tna08-155.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -46,7 +44,6 @@ We set off bright and early from Imperial College Union meeting at 7am on Saturd
 The Bothy (constructed ‘on a budget’ with solid stone walls and a meagre hardwood ceiling beneath sheet metal to ensure efficient heat loss) nestles itself on the shores of Little Loch Broom, in the wee village of Badrallach, which was comfortably enjoying a sub-zero yet sunny and dry climate.
 
 Sunday morning we rose early munching granola and drinking tea, with a tantalising view of the snow capped An Tealach massif across the Loch basking in sun. We walked from the Bothy climbing the ridge immediately behind us which formed a peninsula spiking towards the Atlantic ocean. We summited both Cnoc a’ Bhaid-rallach (544m) and Beinn Ghobhlach (635m), escaping the harsh winds to enjoy a sandwich picnic huddled between some rocks. We strolled down to Scoraig Village, which is accessed by boat across the Loch (no road); some 50 people live there, with well-drawn water, electricity from windmills, and neat little houses where phone and TV signals do not reach… a real contrast to London. We wandered back around the coast to our new home for a slice of Hello Kitty cake and then a classic cheesy chorizo pasta meal with a few beers. There was a good sized table and chairs to eat around but we were a bit cosy with 15 squeezed in, though the comfy sofa and roaring fire kept us happy. After hot showers it was time for bed, where two sleeping bags was the only way to keep warm!
-TODO: image from
 Monday we were hungry to enter the mountains, hiking from Camusnagul up to Glas Mheall Mor (979m Munro Top) with a snowy scramble to the summit, then epic views to the spikes of the Munros beyond. We crossed the valley before heading up Sail Mhor (767m) with panoramic views of the mountains behind and the islands and sea in front. Thai green stir-fry and cherry pie for dinner. Tuesday we journeyed inland to Iverlael Bridge (on A835) climbing the snowy ridge up to the white-out that was Eididh nan Clach Geala (927m Munro), slowly picking our way down the icy decent we had lunch by the frozen fords and then retreated down the valley via Loch an Chnapalch. A delicious beef curry with rice and naan was prepared at the bothy and much fun was had.
 
 Wednesday was a rest day for most, some basked in the sun with books at the bothy, others made a tour of the highlands, visiting gorges, waterfalls, distilleries, the glorious Morray Firth suspension bridge and picking up some shopping in the bleak city of Inverness. Others took a walk from nr. Loch a Bhrucin (on A832) up to Meall a’ Chrasgaidh (934m Munro) and Carn na Criche (961m tour high point), with spectacular views of Sgurr nan Clach Gaela (1093m), before heading back down via Coire Breabig after bailing on Sgurr Mor (1108m) summit attempt. Theminibus journey back passed by many wild peat fires, caused by the strong sun and dry conditions, with flames and smoke filling the valley. A delicious pork and dumplings meal was prepared with trifle for dessert over which many tales of old where told.

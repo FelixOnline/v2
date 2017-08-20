@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191140-felix-deadpool-movie-image-reynolds.jpg"
 image_caption: >
   Ryan Reynolds as wise-cracking, fourth-wall-breaking, uninspiring Deadpool
-image_width: "3000"
-image_height: "1999"
 image_attribution: "20th Century Fox"
 image_attribution_link: ""
 video_url: ""

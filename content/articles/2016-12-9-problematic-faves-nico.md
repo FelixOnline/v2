@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612091541-felix-Nico1.jpg"
 image_caption: >
 
-image_width: "3000"
-image_height: "2000"
 image_attribution: "GanMed6"
 image_attribution_link: ""
 video_url: ""

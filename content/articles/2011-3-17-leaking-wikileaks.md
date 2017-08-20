@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103172126-ks607-danielan.jpg"
 image_caption: >
   Assange and Domscheit-Berg
-image_width: "660"
-image_height: "532"
 image_attribution: "Jacob Appelbaum"
 image_attribution_link: ""
 video_url: ""

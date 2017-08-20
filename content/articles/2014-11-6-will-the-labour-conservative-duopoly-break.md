@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411061846-snb11-nigel-farage.jpg"
 image_caption: >
   Do all views fall in the middle of the political spectrum?
-image_width: "0"
-image_height: "0"
 image_attribution: "IBTimes"
 image_attribution_link: ""
 video_url: ""

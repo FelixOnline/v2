@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503192337-cj914-college-buildings.jpg"
 image_caption: >
   Imperial was the 3rd highest ranked UK university after Cambridge and Oxford
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

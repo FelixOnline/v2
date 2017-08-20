@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122233-cac111-the-iron-lady-2011.jpg"
 image_caption: >
   January blues and then some
-image_width: "413"
-image_height: "600"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

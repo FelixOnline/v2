@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611251407-felix-11._Gaybashers_Come_and_Get_It_1.jpg"
 image_caption: >
 
-image_width: "2170"
-image_height: "1500"
 image_attribution: "Courtesy of Blanca Garcia"
 image_attribution_link: ""
 video_url: ""

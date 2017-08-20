@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502122255-jyg11-screen-shot-2015-02-12-at-22.55.38.png"
 image_caption: >
   The rivalry between India and Pakistan is fierce
-image_width: "0"
-image_height: "0"
 image_attribution: "Asia Cup"
 image_attribution_link: ""
 video_url: ""

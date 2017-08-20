@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101132115-ks607-princeph.jpg"
 image_caption: >
 
-image_width: "300"
-image_height: "505"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

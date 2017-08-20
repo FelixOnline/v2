@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242127-pk1811-david_cameron_and_barack_obama_at_the_g20_summit_in_toronto.jpg"
 image_caption: >
   I hope you don’t mind a bit of London Pride?
-image_width: "4096"
-image_height: "2731"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

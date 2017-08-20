@@ -34,11 +34,8 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106092125-felix-gaunt.jpg"
 image_caption: >
   Gaunt
-image_width: "1292"
-image_height: "1200"
 image_attribution: "Luke Tomlin"
 image_attribution_link: ""
 video_url: ""
 ---
 
-TODO: image from

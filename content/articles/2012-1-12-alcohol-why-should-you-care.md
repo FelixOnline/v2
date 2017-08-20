@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122115-cac111-fjg-imperial_college-2637.jpg"
 image_caption: >
 
-image_width: "3888"
-image_height: "2592"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310040140-jal08-us_government_shutdown.jpg"
 image_caption: >
   Wow, who feeds the ducks?
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605201100-felix-20160518_121524.jpg"
 image_caption: >
   Their website looks legit, but this is all about to become really illegal.
-image_width: "4400"
-image_height: "2988"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
@@ -85,4 +83,3 @@ Jennie Watson, the DPW, told FELIX: “No Imperial student should feel they have
 “I’d urge students using drugs to enhance academic performance to consider the fact there is very little evidence of benefit and that the long term effects are broadly unknown.”
 
 Make up your own mind, but if you’ve really not revised, it’s unlikely a Ritalin dose will save you.
-TODO: image from

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203151952-ams111-apis_mellifera_flying.jpg"
 image_caption: >
   On his way back from an adventure
-image_width: "1754"
-image_height: "1169"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

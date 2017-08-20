@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203151934-ams111-img_3382-1.jpg"
 image_caption: >
   Pine trees are used to produce biofuels
-image_width: "1080"
-image_height: "1440"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

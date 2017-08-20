@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110280048-felix-bottles-of-drink.jpg"
 image_caption: >
   It might be “bizarre beliefs” that make you act like an idiot, not all that alcohol...
-image_width: "1918"
-image_height: "1536"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

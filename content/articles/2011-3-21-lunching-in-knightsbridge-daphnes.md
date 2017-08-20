@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103211143-ks607-daphnesk.jpg"
 image_caption: >
 
-image_width: "534"
-image_height: "380"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201212070057-tna08-before-and-after-mech-eng.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -58,7 +56,6 @@ Revitalising the services within the Mechanical Engineering building.
 The Mechanical Engineering building was the first to be noticeably changing. The services within it have reached the end of their working life and are increasing the risk associated with operations inside the building. Mr Howe said that “numerous elements and services are approaching the end of their life expectancy” and mentioned the “pressing need to renew the areas to meet the current requirement for a world leading engineering research and teaching facility”. The AMP gives the opportunity to meet current health and safety standards as well as energy standards.
 
 During the project there will be an almost musical chairs required to complete it. The optimum phasing has been found by representatives from the departments involved agreeing them. The phasing of the project, which is to say the practicality of where and how it is done, has been agreed on a “room by room” basis. Mr Howe also said that “particular requirements for teaching, research or support functions” have been recognised, hence the room by room analysis.
-TODO: image from
 Discussing the project, Mr Howe said that “the AMP projects provides for the collocation of the Department of Aeronautics into the existing Mechanical Engineering Annexe and Skempton Buildings and, at the same time, refurbish the remainder of the Mechanical Engineering Building”. He went on to say that the project “aims to refurbish the buildings in a way that ensures their long-term sustainability but which avoids the cost of radical restructuring.” At the same time, the project will address the fact that some buildings are over 40 years old. How said that it will address “the backlog of maintenance issues, the external fabric of the building and the services, plant and infrastructure”. The project will also free up space, which is currently occupied by the Roderick Hill and ACEX buildings.
 
 With respect to the new facade of the Mechanical Engineering building, construction of which was completed in early summer of this year, there has been some response from those involved. Plans for the works on the building, situated in the South East corner of the South Kensington Campus, were proposed in 2010, when the College was informed bylocal authorities of the full extent of their plans for improvements to Exhibition Road. Plans for the £1.19 million project were approved in 2011, with the initial plans being produced by regular College architects Sheppard Robson and further design, as well as the final construction, carried out by D&B Facades.

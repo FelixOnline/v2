@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201109301305-felix-314_1404.jpg"
 image_caption: >
   Freshers' Fair can wait...
-image_width: "750"
-image_height: "500"
 image_attribution: "Neville Miles"
 image_attribution_link: ""
 video_url: ""

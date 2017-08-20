@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205181210-felix-screen-shot-2012-05-15-at-5.57.22-pm.jpg"
 image_caption: >
   Nerve cells captured with Amos’ mesolens
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110132323-felix-quake_4_by_id_software.jpg"
 image_caption: >
   Let's take a step back
-image_width: "1024"
-image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

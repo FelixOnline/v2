@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201305081738-tna08-army.mil-57569-2009-12-01-061217.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -57,7 +55,6 @@ Why are they interesting? For devices, I see there to be two key interesting fea
 Because they’re not flat how they pack in the solid state is somewhat different to common OLED materials, which are flat. How molecules pack together in the solid state is important, with ramifications on light emission.
 
 But also, because helicenes are helical they’re also chiral, and can therefore come in left- and right-handed forms. We were interested in how this chirality could potentially be exploited in organic devices.
-TODO: image from
 Putting these features together we wanted to explore the idea of using helicenes as the organic emissive material in OLEDs. It’s an interesting new class of molecule in their own right, but also have the potential to directly generate polarised light.
 
 Light can be polarised in certain ways. One form is circularly polarised (CP) light, where the light wave traverses as a helix, which also comes in left- and right-handed forms. Standard OLEDs produce unpolarised light, which needs to be specially filtered to generate CP light. We wondered whether you could use these chiral helicenes to generate a certain handedness of CP light.
@@ -75,7 +72,6 @@ MF: There are a few different directions we’re heading in. One angle is more f
 Academically, we want to further study what is happening, what the helicene is doing to the polymer. How does that relate to the effect? Helicenes are fully conjugated molecules, which can carry charge and emit and absorb light on their own. Potentially you could further tune the helicene to improve the performance of the device in terms of conductivity or light emission.
 
 Beyond that, OLEDs are one example of plastic electronics. This encompasses a whole range of OLED devices, such as organic transistors, organic solar cells and so on. Do helicenes have applicability with other devices? Do they have any advantage, with their chiral property? Again, we still don’t know just yet.
-TODO: image from
 __LP: Has much research been carried out with helicenes before?__
 
 MF: There are some patents out there that claim novelty over the use of helicenes in OLEDs. None of them however have claimed the chirality of helicenes, as they use the racemic mixture, a mix of left- and right- handed molecules. Their claims of novelty stem from the helicene’s thermal stability properties.

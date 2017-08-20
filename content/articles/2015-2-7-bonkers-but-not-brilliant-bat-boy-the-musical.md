@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502071925-ps3110-lauren-ward-as-meredith-parker-and-rob-compton-as-bat-boy-in-bat-boy.-photo-credit-garry-lake-a.jpg"
 image_caption: >
   Lauren Ward as Meredith Parker and Rob Compton as Bat Boy
-image_width: "0"
-image_height: "0"
 image_attribution: "Garry Lake"
 image_attribution_link: ""
 video_url: ""

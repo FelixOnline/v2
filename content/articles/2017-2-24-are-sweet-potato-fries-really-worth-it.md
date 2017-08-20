@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702241338-felix-fivesixeightlogo.jpg"
 image_caption: >
 
-image_width: "760"
-image_height: "288"
 image_attribution: "ICU"
 image_attribution_link: ""
 video_url: ""

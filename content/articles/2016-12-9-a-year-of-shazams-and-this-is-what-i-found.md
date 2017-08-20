@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612091542-felix-4606875546_68657f5f23_o.jpg"
 image_caption: >
 
-image_width: "320"
-image_height: "480"
 image_attribution: "Sean Lucas - Shazam"
 image_attribution_link: ""
 video_url: ""

@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103180838-ks607-blackkit.jpg"
 image_caption: >
   Black Kites (1997)
-image_width: "2427"
-image_height: "3627"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

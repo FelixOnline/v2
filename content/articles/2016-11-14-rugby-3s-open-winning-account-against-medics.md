@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611141423-felix-rugby.jpg"
 image_caption: >
 
-image_width: "1470"
-image_height: "897"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

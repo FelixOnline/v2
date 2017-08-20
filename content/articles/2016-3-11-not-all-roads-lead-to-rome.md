@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111150-felix-3231 (1).jpg"
 image_caption: >
   George Clooney as Baird Whitlock, in the Coen brothers' latest comedy outing, Hail, Caesar!
-image_width: "3231"
-image_height: "1942"
 image_attribution: "Universal Pictures/EPA"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102102101-ks607-mubarakb.jpg"
 image_caption: >
 
-image_width: "2306"
-image_height: "1675"
 image_attribution: "Benjamin Kennedy"
 image_attribution_link: ""
 video_url: ""

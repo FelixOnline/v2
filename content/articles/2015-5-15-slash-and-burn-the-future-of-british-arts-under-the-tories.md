@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505151359-cj914-portfolio-barbican-arts-centre-01.jpg"
 image_caption: >
   The Barbican Centre, above, one of London's best cultural centres, will be one of the hardest hit, with an ACE cut of 20%
-image_width: "0"
-image_height: "0"
 image_attribution: "Mindseye Lighting"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701201548-felix-20170115_123752.jpg"
 image_caption: >
 
-image_width: "4032"
-image_height: "3024"
 image_attribution: "Daw"
 image_attribution_link: ""
 video_url: ""

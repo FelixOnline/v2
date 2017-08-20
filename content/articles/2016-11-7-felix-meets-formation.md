@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611071737-felix-Screen Shot 2016-11-02 at 13.48.29.png"
 image_caption: >
 
-image_width: "1251"
-image_height: "641"
 image_attribution: "Instagram @formationmusic"
 image_attribution_link: ""
 video_url: ""

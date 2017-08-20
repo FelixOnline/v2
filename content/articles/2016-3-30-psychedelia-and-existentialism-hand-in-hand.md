@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603301938-jc7413-Denise Gough (Emma)&company in People,Places&Things by JohanPersson.jpg"
 image_caption: >
   Denise Gough as Emma, and the ensemble
-image_width: "1500"
-image_height: "1000"
 image_attribution: "Johan Persson for NT"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261143-felix-Revenan Oscar.jpg"
 image_caption: >
   Give that bear an Oscar!
-image_width: "450"
-image_height: "936"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -85,7 +83,6 @@ Bookies have Kate Winslet down as the likely winner, following her performance i
 
 Will Win: _Kate Winslet (Steve Jobs)_
 Should Win: _Rooney Mara (Carol)_
-TODO: image from
 Best Original Screnplay
 
 Out of the five nominees for this award, only two have come up with truly inventive ideas: _Ex Machina_ and _Inside Out_ both tell completely original tales, one looking to our childhood past, the other to a potential future. The others all take on real-life happenings: Cold War counter-intelligence swapping in _Bridge of Spies_; the Catholic church molestation scandal in _Spotlight_; and the rise and fall of N.W.A. in _Straight Outta Compton_. However, while it is tricky creating something out of nothing, it is arguably more difficult to tackle a historical event and afford it the required gravitas and respect. This is exactly what Tom McCarthy and Josh Singer have done with _Spotlight_, which manages to present an immensely complex and controversial topic without a sense of dumbing things down for the audience.

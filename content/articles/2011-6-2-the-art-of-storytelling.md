@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106022110-felix-valentin_paul_writing1800x1337.jpg"
 image_caption: >
   Valentin Paul being an absolute boss, we wouldn’t expect any less
-image_width: "1800"
-image_height: "1337"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

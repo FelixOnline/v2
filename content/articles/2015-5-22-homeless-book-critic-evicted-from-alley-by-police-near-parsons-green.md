@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505221207-cj914-homeless-mcgee.jpg"
 image_caption: >
   Mark Burns has been warned to move on from his regular reading spot or face jail time.
-image_width: "0"
-image_height: "0"
 image_attribution: "Facebook"
 image_attribution_link: ""
 video_url: ""

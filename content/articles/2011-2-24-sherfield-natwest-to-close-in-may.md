@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102241938-ks607-natwestn.jpg"
 image_caption: >
   NatWest declined to comment
-image_width: "3264"
-image_height: "4928"
 image_attribution: "Robert Bishop"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502122227-jyg11-startline.jpg"
 image_caption: >
   The start line of the men's race
-image_width: "0"
-image_height: "0"
 image_attribution: "IC Cross Country"
 image_attribution_link: ""
 video_url: ""

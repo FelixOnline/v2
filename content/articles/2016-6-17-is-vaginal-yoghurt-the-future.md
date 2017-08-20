@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606171110-felix-12234690843_bb05dd31dc_o.jpg"
 image_caption: >
 
-image_width: "2272"
-image_height: "1704"
 image_attribution: "Mark Freeth"
 image_attribution_link: ""
 video_url: ""

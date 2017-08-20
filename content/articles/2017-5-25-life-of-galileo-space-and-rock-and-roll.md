@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705251441-im1413-Billy Howle in Life of Galileo at the Young Vic. Photo by Johan Persson..jpg"
 image_caption: >
   Billy Howle in the Life of Galileo at the Young Vic | Photo: Johan Persson
-image_width: "6720"
-image_height: "4480"
 image_attribution: "Photo: Johan Persson"
 image_attribution_link: ""
 video_url: ""

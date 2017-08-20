@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206150818-mc4509-hub.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -69,7 +67,6 @@ The Imperial Hub has arrived on campus and is here to revamp the image of studen
 In October we’ll be welcoming the first set of students paying fees of £9000 a year through our doors. The pressure to perform academically will be greater than ever before. However, this shouldn’t mean the quality of student life is compromised. Universities have a vital role to play in supporting social, intellectual and cultural life of students, alongside their academic studies.
 
 Student activism has been the life-blood of organic change in our society and it’s down to us to make sure this continues. So whilst you’re lazing on a beach this summer, why not take 10 minutes to think about how you can get involved in some kind of socially beneficial activity next year? Let’s send a resounding message to the incoming freshers of 2012 that here at Imperial students are about more than just the science.
-TODO: image from
 __History of the Student Hub__
 
 Student Hubs was founded in 2007, originally in Oxford, by a group of students who had become frustrated at the lack of support for student volunteering and social action. A network of student groups formed, each focussing on different social and environmental issues – such as climate change, development, poverty, education, and homelessness.

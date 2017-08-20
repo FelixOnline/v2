@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705191705-felix-32765504523_a5a54eaecf_o.jpg"
 image_caption: >
 
-image_width: "6000"
-image_height: "4000"
 image_attribution: "Kevin Simmons"
 image_attribution_link: ""
 video_url: ""

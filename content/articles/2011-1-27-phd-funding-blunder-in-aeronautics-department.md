@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101280841-ks607-roderich.jpg"
 image_caption: >
 
-image_width: "5344"
-image_height: "4008"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612091606-felix-8485649953_12890f4009_o.jpg"
 image_caption: >
 
-image_width: "4272"
-image_height: "2848"
 image_attribution: "Pauli Marttinen"
 image_attribution_link: ""
 video_url: ""

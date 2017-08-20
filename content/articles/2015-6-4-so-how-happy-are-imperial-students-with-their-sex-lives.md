@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506050032-cj914-imperial.jpg"
 image_caption: >
   It’s like a giant game of Where’s Wanker?
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

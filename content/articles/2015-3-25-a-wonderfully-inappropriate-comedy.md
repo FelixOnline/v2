@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251151-ff712-desiree-in-approriate-behaviour-credit-gravitas-ventures.jpeg"
 image_caption: >
   Desiree Akhavan in Appropriate Behaviour, which chronicles a bisexual Iranian woman’s life in Brooklyn
-image_width: "0"
-image_height: "0"
 image_attribution: "Gravitas Ventures"
 image_attribution_link: ""
 video_url: ""

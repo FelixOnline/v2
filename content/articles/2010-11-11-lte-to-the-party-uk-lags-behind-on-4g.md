@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011112033-ks607-3g3g33g3.jpg"
 image_caption: >
   Now that's what I call 'fast'
-image_width: "397"
-image_height: "397"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

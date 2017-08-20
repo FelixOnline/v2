@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201405091649-jal08-food_pedestrian.jpg"
 image_caption: >
   Someone left their breakfast on Bayswater Road #FELIXFOOD
-image_width: "0"
-image_height: "0"
 image_attribution: "Michael Y K Chung"
 image_attribution_link: ""
 video_url: ""

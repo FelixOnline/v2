@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703171731-felix-screen-shot-2016-10-20-at-10-07-34-am.jpg"
 image_caption: >
   Technology: helping to put people either with each other or against each other
-image_width: "1170"
-image_height: "658"
 image_attribution: "Nintendo"
 image_attribution_link: ""
 video_url: ""

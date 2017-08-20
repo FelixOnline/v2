@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104072208-ks607-pr-siegelman.jpg"
 image_caption: >
   Professor Siegelman in his office at Johns Hopkins
-image_width: "3072"
-image_height: "2304"
 image_attribution: "Suha Bachir"
 image_attribution_link: ""
 video_url: ""

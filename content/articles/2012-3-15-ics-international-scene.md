@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152225-pk1811-london-fireworks_1515810c.jpg"
 image_caption: >
   Does the international scene need to reach explosive new heights?
-image_width: "460"
-image_height: "288"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

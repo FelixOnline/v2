@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205251528-mc4509-s3.jpg"
 image_caption: >
   Part of the ribbon diagram for an X-ray crystal structure
-image_width: "0"
-image_height: "0"
 image_attribution: "Nature"
 image_attribution_link: ""
 video_url: ""

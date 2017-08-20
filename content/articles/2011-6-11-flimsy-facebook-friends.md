@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106111828-felix-unfrined.jpg"
 image_caption: >
 
-image_width: "489"
-image_height: "224"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162057-pk1811-007-in-licence-to-kill-wallpapers_15457_1280x960.jpg"
 image_caption: >
   Look at those blue eyes... swoon...
-image_width: "1280"
-image_height: "960"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

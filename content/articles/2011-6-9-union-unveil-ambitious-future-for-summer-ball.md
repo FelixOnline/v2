@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106092223-felix-petergillings.jpg"
 image_caption: >
   'Dem kidz' getting down at last year's Ball
-image_width: "5083"
-image_height: "3389"
 image_attribution: "Peter Gillings"
 image_attribution_link: ""
 video_url: ""

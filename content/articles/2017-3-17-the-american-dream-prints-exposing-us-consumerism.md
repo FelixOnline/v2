@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703171709-felix-Jackie.jpg"
 image_caption: >
   Andy Warhol, Jackie II (Jacqueline Kennedy II), from 11 Pop Artists, vol. II, 1965, published 1966, colour screenprint
-image_width: "9621"
-image_height: "7824"
 image_attribution: "2016 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists Rights Society (ARS), New York and DACS, London"
 image_attribution_link: ""
 video_url: ""

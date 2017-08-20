@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503061322-ff712-ntn645.jpg"
 image_caption: >
   The cast of award-winning musical Next To Normal
-image_width: "0"
-image_height: "0"
 image_attribution: "Craig Schwartz"
 image_attribution_link: ""
 video_url: ""

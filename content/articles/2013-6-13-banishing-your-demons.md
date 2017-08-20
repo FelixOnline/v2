@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201306132350-tna08-idichotic.jpg"
 image_caption: >
   Members of the Bergen fMRI group. Dr Kristiina Kompus (Second from left), Josef Bless (Middle)
-image_width: "0"
-image_height: "0"
 image_attribution: "Alex Craven"
 image_attribution_link: "http://dichoticlistening.com/about-us"
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505142321-cj914-amazon-lockers-cmyk.jpg"
 image_caption: >
   The new lockers on the walkway
-image_width: "0"
-image_height: "0"
 image_attribution: "John Winters"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201303072124-jal08-graphenei.jpg"
 image_caption: >
   We have been reliably informed that this funky image is science-related
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

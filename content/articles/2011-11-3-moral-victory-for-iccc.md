@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032216-sjw209-somepeople.jpg"
 image_caption: >
   The cricketeers gather
-image_width: "600"
-image_height: "429"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

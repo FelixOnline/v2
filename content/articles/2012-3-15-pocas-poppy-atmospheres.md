@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152112-ams111-poca-keyboard.jpg"
 image_caption: >
   You can’t read my P-P-P-P-POCA face
-image_width: "2048"
-image_height: "1443"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

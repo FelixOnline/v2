@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201002251548-egk08-Micmacs.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "699"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

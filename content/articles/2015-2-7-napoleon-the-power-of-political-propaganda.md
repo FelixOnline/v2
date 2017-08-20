@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502071908-ps3110-7.jpg"
 image_caption: >
   The Plumb-pudding in Danger, 1805, James Gillray
-image_width: "0"
-image_height: "0"
 image_attribution: "British Museum"
 image_attribution_link: ""
 video_url: ""

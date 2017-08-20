@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412041931-cj914-se1.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Space Engine, Jamie Dutton"
 image_attribution_link: ""
 video_url: ""

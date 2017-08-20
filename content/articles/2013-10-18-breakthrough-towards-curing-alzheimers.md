@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310182211-jal08-pet-scan-of-lnormal-brain-r-alzheimers.jpg"
 image_caption: >
   PET scan of brains (l. normal, r. Alzheimers)
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

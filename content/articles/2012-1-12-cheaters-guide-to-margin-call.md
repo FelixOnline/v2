@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122241-cac111-zachary-quinto-margin-call.jpg"
 image_caption: >
   Must work to “live long and prosper!”
-image_width: "590"
-image_height: "393"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

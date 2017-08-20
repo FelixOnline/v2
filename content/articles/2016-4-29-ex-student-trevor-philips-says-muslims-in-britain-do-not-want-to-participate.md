@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201604291103-felix-1700.jpg"
 image_caption: >
   Any first year statistician would think this poll was dodgy.
-image_width: "1225"
-image_height: "735"
 image_attribution: "Richard Ansett/Publicity image"
 image_attribution_link: ""
 video_url: ""

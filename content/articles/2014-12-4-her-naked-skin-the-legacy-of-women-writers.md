@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412042015-cj914-her-naked-skin-1.jpg"
 image_caption: >
   Charlie Bate, Rebecca Lee, Amber James, Alice Winslow, Lily Sacofsky, Elaine Fellos, and Emily-Celin
-image_width: "0"
-image_height: "0"
 image_attribution: "Clive Barda"
 image_attribution_link: ""
 video_url: ""

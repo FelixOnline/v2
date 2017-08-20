@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611141416-felix-adam_gillen_-_wolfgang_amadeus_mozart_background_sarah_amankwah_hammed_animashaun_as_venticelli_image_by_marc_brenner1.jpg"
 image_caption: >
 
-image_width: "1289"
-image_height: "720"
 image_attribution: "Marc Brenner"
 image_attribution_link: ""
 video_url: ""

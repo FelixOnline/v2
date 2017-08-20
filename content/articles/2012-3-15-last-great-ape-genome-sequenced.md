@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203151957-ams111-120307-science-kamilah2-1205p.jpg"
 image_caption: >
   Kamilah the gorrila
-image_width: "1000"
-image_height: "838"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

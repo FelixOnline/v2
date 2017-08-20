@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412030056-ps3110-img_0007.jpg"
 image_caption: >
   Those in attendance of the meeting
-image_width: "0"
-image_height: "0"
 image_attribution: "P. Skett"
 image_attribution_link: ""
 video_url: ""

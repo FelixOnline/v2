@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111215-felix-synchro 3.JPG"
 image_caption: >
   Gotham City has a new swim group.
-image_width: "1091"
-image_height: "718"
 image_attribution: "Syncronised Swimming"
 image_attribution_link: ""
 video_url: ""

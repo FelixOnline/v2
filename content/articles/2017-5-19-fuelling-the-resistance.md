@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705191703-felix-33551761313_d7461ff5bb_o.jpg"
 image_caption: >
 
-image_width: "1500"
-image_height: "1000"
 image_attribution: "Mark Dixon"
 image_attribution_link: ""
 video_url: ""

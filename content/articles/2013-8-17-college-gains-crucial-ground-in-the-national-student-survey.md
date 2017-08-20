@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201308190610-jal08-66355719.png"
 image_caption: >
   Are our students really more satisfied?
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: "http://www3.imperial.ac.uk/media/photogallery"
 video_url: ""

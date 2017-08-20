@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102110159-sjw209-pssuite.jpg"
 image_caption: >
 
-image_width: "610"
-image_height: "350"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

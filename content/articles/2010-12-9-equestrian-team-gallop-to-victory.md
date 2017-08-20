@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201012092008-ac1507-equestri.jpg"
 image_caption: >
 
-image_width: "1551"
-image_height: "1035"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102171952-ks607-borisjoh.jpg"
 image_caption: >
   Easy now Boris...
-image_width: "1600"
-image_height: "1063"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

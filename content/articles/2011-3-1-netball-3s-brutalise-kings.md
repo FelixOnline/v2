@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103012127-ks607-netballt.jpg"
 image_caption: >
 
-image_width: "2100"
-image_height: "1400"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

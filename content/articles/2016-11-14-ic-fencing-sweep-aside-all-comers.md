@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611141422-felix-fencing.PNG"
 image_caption: >
 
-image_width: "555"
-image_height: "417"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

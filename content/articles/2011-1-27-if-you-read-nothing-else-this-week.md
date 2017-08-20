@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101272032-ks607-zainabbo.jpg"
 image_caption: >
 
-image_width: "306"
-image_height: "500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

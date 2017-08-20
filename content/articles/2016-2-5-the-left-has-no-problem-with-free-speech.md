@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051156-felix-k Hopkins.jpg"
 image_caption: >
   Katie Hopkins’ hate speech goes unpunished.
-image_width: "2183"
-image_height: "1227"
 image_attribution: "Wales online"
 image_attribution_link: ""
 video_url: ""

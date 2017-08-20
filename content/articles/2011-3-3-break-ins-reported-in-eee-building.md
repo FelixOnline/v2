@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103030544-ks607-electric.jpg"
 image_caption: >
 
-image_width: "3786"
-image_height: "2592"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

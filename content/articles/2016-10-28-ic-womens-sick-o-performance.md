@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610281744-aib116-SICKO INDOOR TEAM PICTURE.jpg"
 image_caption: >
 
-image_width: "3758"
-image_height: "2860"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

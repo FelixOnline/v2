@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706021423-felix-12890613635_810847494e_o.jpg"
 image_caption: >
 
-image_width: "3128"
-image_height: "2346"
 image_attribution: "Hey Paul Studios"
 image_attribution_link: ""
 video_url: ""

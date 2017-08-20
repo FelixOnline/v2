@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102049-pk1811-1280px-glasshouse_and_fountain_at_lalbagh.jpg"
 image_caption: >
   Lal Bagh, amongst others, gives Bangalore its nice nickname, but it also has a more sinister side...
-image_width: "1280"
-image_height: "804"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

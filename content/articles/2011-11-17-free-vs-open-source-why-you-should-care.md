@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172137-pk1811-press_richard_stallman2.jpg"
 image_caption: >
 
-image_width: "2700"
-image_height: "1801"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261150-felix-100club.jpg"
 image_caption: >
   One of the many clubs at risk of shutting down.
-image_width: "1968"
-image_height: "3253"
 image_attribution: "100 club"
 image_attribution_link: ""
 video_url: ""

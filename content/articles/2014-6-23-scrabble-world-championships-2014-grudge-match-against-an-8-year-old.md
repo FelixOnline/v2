@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201406231407-jal08-1581_features_scrabble_lewis-copy.jpg"
 image_caption: >
   Will playing New Zealand’s Lewis Hawkins, aged 8.
-image_width: "0"
-image_height: "0"
 image_attribution: "Felix / Maximilian Hunter"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201309280015-jal08-screen-shot-2013-09-12-at-23.27.05.png"
 image_caption: >
   Uncle Rory and the rest of his floor during Freshers’ Week. Sorry Rory! (Ed.)
-image_width: "0"
-image_height: "0"
 image_attribution: "Greg James/Youtube"
 image_attribution_link: "http://www.youtube.com/watch?v=q4kCgq0h0Ck"
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242125-pk1811-imported-photos-00047.jpg"
 image_caption: >
   One of the long term refugee camps situated in Algeria
-image_width: "3456"
-image_height: "2592"
 image_attribution: "Benjamin Lindsey"
 image_attribution_link: ""
 video_url: ""

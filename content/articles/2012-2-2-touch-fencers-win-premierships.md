@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202022309-sjw209-2nd-premiere-weekend-062.jpg"
 image_caption: >
   Singing rowdy songs all together after a match
-image_width: "3888"
-image_height: "2592"
 image_attribution: "Charlotte Levin"
 image_attribution_link: ""
 video_url: ""

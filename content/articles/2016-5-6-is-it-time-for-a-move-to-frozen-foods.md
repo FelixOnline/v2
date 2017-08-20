@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061056-felix-167845726_b65bdfaacb_b.jpg"
 image_caption: >
   Eat your frozen veggies kids.
-image_width: "1024"
-image_height: "768"
 image_attribution: "Rosana Prada"
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201405191441-jal08-sport_pitch_teams.png"
 image_caption: >
   The top and top flop players of the season
-image_width: "0"
-image_height: "0"
 image_attribution: "Kunal Wagle, Jonny Pratt / Felix"
 image_attribution_link: ""
 video_url: ""

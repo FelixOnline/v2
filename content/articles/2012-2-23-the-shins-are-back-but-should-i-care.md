@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232104-pk1811-the-shins-port-of-morrow.jpg"
 image_caption: >
   Everything looks better in the dark
-image_width: "608"
-image_height: "607"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -49,4 +47,3 @@ There are certain times, however, when the songs fail to hit the mark, including
 [___Subpop___](http://www.subpop.com/), which the band used to be on, are one of my favourite ever labels. The Seattle record label which has had everything from [__Nirvana__](http://www.nirvana.com/) to [__Fleet Foxes__](http://fleetfoxes.com/) on is normally a sure-thing for me if I am ever in need of some bands to get me through the day. I was therefore disappointed to hear that The Shins would not be releasing on ___Subpop___, as it seemed to me to be a marriage made in heaven. It strikes me now though, after listening to the album as a whole, that by self-releasing, The Shins have been able to produce a more mature and polished album. It may not reach the heights of _Wincing the Night Away_ but _Port of Morrer_ does bring a freshness which was sorely missing in 2012. The lolloping indie pop that was once plastered wall to wall at the beginning of the new millennium is now only done well by a few bands and this album shows that Mercer and co deserve to be considered contenders.
 
 _The latest album from The Shins, Port of Morrer is released on March 19._
-TODO: video from RoLTPcD1S4Q

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202030006-sjw209-img_9118.jpg"
 image_caption: >
   Academics have voiced their disapproval with Elsevier’s methods
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Alexander Karapetian"
 image_attribution_link: ""
 video_url: ""

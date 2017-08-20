@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210112154-felix-fashiongirlfrontrgb.jpg"
 image_caption: >
   “Oh girl that Prada fox stole is from like, before I was born. Not chic.”
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

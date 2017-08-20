@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502131526-bwh12-pict3.jpg"
 image_caption: >
   Rhys Tyers in a passage at –820m
-image_width: "0"
-image_height: "0"
 image_attribution: "IC Caving Club"
 image_attribution_link: ""
 video_url: ""

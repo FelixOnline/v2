@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012026-ams111-383296_989134434870_36900750_46857382_815343506_n.jpg"
 image_caption: >
   Rupert Grint turned up to the workshop in ‘costume’
-image_width: "960"
-image_height: "640"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

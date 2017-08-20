@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606101021-felix-cr3735100057.jpg"
 image_caption: >
   Stunning.
-image_width: "5344"
-image_height: "4008"
 image_attribution: "Christian Richters"
 image_attribution_link: ""
 video_url: ""

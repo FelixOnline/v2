@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201405160312-jal08-food_underground.jpg"
 image_caption: >
   London’s underground farm looking a bit purple
-image_width: "0"
-image_height: "0"
 image_attribution: "wired.co.uk"
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110070149-felix-5169407837_8dc7a09ffb-(1).jpg"
 image_caption: >
   A genuine police warrant card also features imprinted braille
-image_width: "500"
-image_height: "375"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

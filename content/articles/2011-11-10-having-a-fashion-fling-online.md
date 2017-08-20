@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102209-felix-6a00e5508e95a98833015436ab5821970c-700wi.jpg"
 image_caption: >
   Susanna Lau
-image_width: "700"
-image_height: "1050"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

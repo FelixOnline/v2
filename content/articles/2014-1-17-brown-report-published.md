@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201401170317-jal08-news_lab_mouse_mg_3263.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Wikimedia"
 image_attribution_link: ""
 video_url: ""

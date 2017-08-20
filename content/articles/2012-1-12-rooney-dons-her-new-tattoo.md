@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122245-cac111-rooney-mara-the-girl-with-the-dragon-tattoo-review-2011.jpg"
 image_caption: >
   Let’s take this to the bed shall we, Agent Salacious-- I mean, Salander?
-image_width: "520"
-image_height: "340"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

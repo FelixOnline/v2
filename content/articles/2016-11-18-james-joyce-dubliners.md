@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611181512-felix-img_15671.jpg"
 image_caption: >
 
-image_width: "4752"
-image_height: "3168"
 image_attribution: "creativecapture.wordpress.com"
 image_attribution_link: ""
 video_url: ""

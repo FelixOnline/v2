@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106022133-felix-p1000151.jpg"
 image_caption: >
   Imperial women’s co-captain, Priya Patel sharing the runner’s up trophy with Hampstead’s captain
-image_width: "1536"
-image_height: "2048"
 image_attribution: "Priya Shah"
 image_attribution_link: ""
 video_url: ""

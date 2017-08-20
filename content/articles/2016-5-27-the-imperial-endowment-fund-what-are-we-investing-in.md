@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605271043-felix-huell money breaking bad.jpeg"
 image_caption: >
 
-image_width: "1200"
-image_height: "676"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

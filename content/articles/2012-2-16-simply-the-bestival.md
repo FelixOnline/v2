@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202170831-ks607-301154_10150808972130397_628070396_20687585_1117883165_n-1.jpg"
 image_caption: >
   Ooo-err!
-image_width: "960"
-image_height: "637"
 image_attribution: "James Mossahebi"
 image_attribution_link: ""
 video_url: ""

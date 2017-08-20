@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611181702-felix-snowsports 1.jpg"
 image_caption: >
 
-image_width: "1365"
-image_height: "2048"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

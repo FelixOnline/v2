@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612091556-felix-2777ashm_042 NAJMIDDIN MAVLYANOV AS MANRICO, MARIA AGRESTA AS LEONORA (C) ROH. PHOTOGRAPHER CATHERINE ASHMORE.jpg"
 image_caption: >
 
-image_width: "3888"
-image_height: "2592"
 image_attribution: "Catherine Ashmore"
 image_attribution_link: ""
 video_url: ""

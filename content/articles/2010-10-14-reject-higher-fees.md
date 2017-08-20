@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010142104-ks607-aaronpor.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "681"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

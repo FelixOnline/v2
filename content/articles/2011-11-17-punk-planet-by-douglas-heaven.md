@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172134-pk1811-high+dependency+unit+promo3.jpg"
 image_caption: >
 
-image_width: "500"
-image_height: "193"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

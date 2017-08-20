@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210112150-felix-gem-bar-mc-hammerrgb.jpg"
 image_caption: >
   A quick panoramic view of the venue
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

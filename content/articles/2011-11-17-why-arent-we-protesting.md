@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172112-pk1811-img_8346.jpg"
 image_caption: >
   Last Wednesday’s protests attracted thousands of students from across the country
-image_width: "3648"
-image_height: "2736"
 image_attribution: "Tommy Allieri"
 image_attribution_link: ""
 video_url: ""

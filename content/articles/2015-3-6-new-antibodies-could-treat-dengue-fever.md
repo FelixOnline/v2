@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503061707-cj914-aedes_aegypti_biting_human-copy.jpg"
 image_caption: >
   The Aedes aegypti mosquito: dengue fever causes severe flu-like symptoms, but no vaccine currently exists.
-image_width: "0"
-image_height: "0"
 image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""

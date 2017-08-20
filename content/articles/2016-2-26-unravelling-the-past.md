@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261156-felix-unravel.jpg"
 image_caption: >
   Look at that swagger.
-image_width: "1920"
-image_height: "1080"
 image_attribution: "Unravel, Electronic Arts"
 image_attribution_link: ""
 video_url: ""

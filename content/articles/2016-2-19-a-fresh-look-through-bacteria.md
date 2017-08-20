@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191127-felix-7629005292_920e1dd8d1_o.png"
 image_caption: >
   Bacteria or eyes? Synechocystis elicit a primitive version of ‘sight’.
-image_width: "1000"
-image_height: "656"
 image_attribution: "BASF"
 image_attribution_link: ""
 video_url: ""

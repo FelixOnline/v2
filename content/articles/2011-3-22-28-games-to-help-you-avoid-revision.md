@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103230951-ks607-nanaca-crash.jpg"
 image_caption: >
   You may regret reading this article...
-image_width: "699"
-image_height: "398"
 image_attribution: "tinyurl.com/nanaca"
 image_attribution_link: "http://tinyurl.com/nanaca"
 video_url: ""

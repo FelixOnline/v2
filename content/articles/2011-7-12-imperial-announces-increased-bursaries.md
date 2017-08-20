@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103172006-ks607-img_2989.jpg"
 image_caption: >
   Financial support will be provided for households earning up to £60,000
-image_width: "5125"
-image_height: "3422"
 image_attribution: "Kadhim Shubber"
 image_attribution_link: "http://www.felixonline.co.uk/?user=ks607"
 video_url: ""

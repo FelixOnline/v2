@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232053-cac111-cms.jpg"
 image_caption: >
   Are we on a collision course with the Higgs boson?
-image_width: "1169"
-image_height: "863"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

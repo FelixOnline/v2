@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010020005-ks607-Consoles.jpg"
 image_caption: >
   Let's get those machines online!
-image_width: "256"
-image_height: "162"
 image_attribution: "blog.toggle.com"
 image_attribution_link: "http://blog.toggle.com/playstation-xbox-and-wii-which-one%E2%80%99s-the-best/"
 video_url: ""

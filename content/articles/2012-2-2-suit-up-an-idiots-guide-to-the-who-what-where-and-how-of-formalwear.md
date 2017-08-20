@@ -40,8 +40,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202081511-pk1811-dg-db.jpg"
 image_caption: >
   Dolce & Gabbana
-image_width: "440"
-image_height: "663"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -64,7 +62,6 @@ __The Catwalk__
 
 Almost ubiquitous at the menswear shows this season, the smart, gentlemanly double-breasted suit was pervasive especially amongst the Italian designers, with a subtle aubergine hue proving a favourite at Prada and Ferragamo. Colour and textural variation in general was prominent, with dark blues at Gucci, pinstripes at Alexander McQueen and wider stripes at Canali. The vibe overall was modern and young, reviving the traditional Bogartian DB with a spring in its swaggering step. -SV
 ## Three-Button Suit
-TODO: image from
 __The Man__
 
 The three-button suit is generally the seen as the more traditionally elegant of the suits with its buttons spanning a larger area of the torso. Resulting from its top button resting higher up on the chest than its other single-breasted cousins, the three-button suit draws attention to said area, increasing the width of its appearance – this is not a suit for those with highly-developed pectorals, or conversely (tragically?), man boobs. Ideal for taller men, particularly those over 6ft, the three-button is a classic, worn by ex-Bond Pierce Brosnan and increasingly popular with rising stars seeking extra style points and adult recognition including Robert Pattinson.
@@ -81,7 +78,6 @@ __The Catwalk__
 
 Protect from the cold whilst journeying to and from the office by adding winter accessories to your three-buttoned suit. Burberry Prorsum opted to liven up their grey suits with subtly patterned gloves and scarves layered under bulging puffa jackets and leather coats inspired by the great British countryside, whilst at Viktor & Rolf the models tackled the weather by layering fur over their chocolate suits matched with the warmer alternative of leather trousers. -AY
 ## Two-Button Suit
-TODO: image from
 __The Man__
 
 Arguably the easiest of the suits to wear, the two-button suit makes the best of almost any figure. A favourite of suit-wearing icons including John F. Kennedy, Cary Grant and Frank Sinatra, this is a choice that is almost idiot-proof in its ability to bring the inner suave, sophisticated gentleman out of the most dishevelled and hopeless of men. Provided the suit fits properly, and is combined with a well-chosen shirt and tie, you will find yourself transformed – at once elegant, effortless, and perfectly refined.
@@ -98,7 +94,6 @@ __The Catwalk__
 
 Seen in almost every combination of tone, pattern and texture, the two-button suit also seems to have succumbed to the theme of certain striking colour choices. A jewel-toned velvet incarnation with contrasting trousers was seen at Burberry Prorsum, Prince of Wales check at Alexander McQueen, contrasting lapels at Louis Vuitton, and vivid, solid colour in an incredibly flattering slim cut at Gucci – it has to be said, Frida Giannini cuts a wicked suit. -SV
 ## One-Button Suit
-TODO: image from
 __The Man__
 
 More of a stylists’ pick than a business must, the single button suit is a wardrobe staple for any image-conscious man. Its slimming lines make for a smooth modern look, and the appearance of a stretched torso is particularly flattering for those more vertically challenged. Effortless and perfectly dapper, this single buttoned garment is a red carpet favourite including Benedict Cumberbatch and Mark Ronson – such wearers carry themselves with pride in the full knowledge that they are turning heads and sending hearts a-flutter.

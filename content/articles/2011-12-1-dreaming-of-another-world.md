@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112011934-ams111-animal_0050.jpg"
 image_caption: >
   You should have seen this guy last night... he’s going to have to nap for a very long time
-image_width: "1600"
-image_height: "1200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

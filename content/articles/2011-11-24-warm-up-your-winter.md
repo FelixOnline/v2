@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242134-pk1811-spiegel-saloon-(1).jpg"
 image_caption: >
   Everyone’s obviously too busy watching the latest John Lewis Christmas advert
-image_width: "1800"
-image_height: "1198"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

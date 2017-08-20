@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703031555-felix-IMG_7992.jpg"
 image_caption: >
 
-image_width: "3219"
-image_height: "3219"
 image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""

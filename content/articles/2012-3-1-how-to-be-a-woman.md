@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203012135-ams111-caitlin_moran_5048.jpg"
 image_caption: >
   Caitlin Moran is an acclaimed broadcaster and columnist at The Times
-image_width: "909"
-image_height: "1152"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

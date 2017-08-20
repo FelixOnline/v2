@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510231231-ygr12-steak.jpg"
 image_caption: >
   You don’t have to serve it on a slate, but it does help.
-image_width: "0"
-image_height: "0"
 image_attribution: "weeklygravy.com"
 image_attribution_link: ""
 video_url: ""

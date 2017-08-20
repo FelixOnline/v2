@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701271630-felix-kale-1775809_1920.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1440"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411061951-cj914-10329043_676863819077942_4752931591311584292_n.jpg"
 image_caption: >
   A good start to the season for the Women's Rugby Team
-image_width: "0"
-image_height: "0"
 image_attribution: "IC Women's Rugby"
 image_attribution_link: ""
 video_url: ""

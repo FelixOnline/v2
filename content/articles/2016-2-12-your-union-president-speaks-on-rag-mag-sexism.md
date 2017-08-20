@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121119-felix-aaa.png"
 image_caption: >
   Nobody banned anything.
-image_width: "798"
-image_height: "960"
 image_attribution: "RAG"
 image_attribution_link: ""
 video_url: ""

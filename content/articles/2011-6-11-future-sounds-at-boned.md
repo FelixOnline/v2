@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106111837-felix-becoming-real.jpg"
 image_caption: >
 
-image_width: "600"
-image_height: "397"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

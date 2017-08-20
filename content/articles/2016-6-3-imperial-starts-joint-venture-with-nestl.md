@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606031030-felix-wpid-article-1268907555465-08c3d1bb000005dc-370448_466x310.jpg"
 image_caption: >
 
-image_width: "466"
-image_height: "310"
 image_attribution: "Metro"
 image_attribution_link: ""
 video_url: ""

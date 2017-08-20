@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122136-cac111-mortar-board.jpg"
 image_caption: >
   MCap – Master of Captions. £9000
-image_width: "400"
-image_height: "300"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

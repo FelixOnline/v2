@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606101018-felix-tsi_erasmus_logo.jpg"
 image_caption: >
   This could be us but you're voting out.
-image_width: "1202"
-image_height: "800"
 image_attribution: "TSI"
 image_attribution_link: ""
 video_url: ""

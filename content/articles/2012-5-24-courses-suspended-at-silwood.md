@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205242335-mc4509-cr37351200035.jpg"
 image_caption: >
   Academic campus Silwood Park is situated near Ascot
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705151933-felix-140094.jpg"
 image_caption: >
   A Coolabah forest in the Pilbara region of Western Australia
-image_width: "5184"
-image_height: "3456"
 image_attribution: "TERN Ausplots"
 image_attribution_link: ""
 video_url: ""

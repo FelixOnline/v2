@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703171657-felix-9550850672_5144bdc8f9_o (1).jpg"
 image_caption: >
   Get your own raisins. Oh wait.
-image_width: "2048"
-image_height: "1365"
 image_attribution: "Barney Moss"
 image_attribution_link: ""
 video_url: ""

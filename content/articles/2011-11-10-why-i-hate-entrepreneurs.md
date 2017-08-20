@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102026-pk1811-alan-sugar-comment.jpg"
 image_caption: >
   “I’m the spoonful of sugar that makes your medicine go down, baby” - Lord Sugar's best chatup line
-image_width: "1944"
-image_height: "1460"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

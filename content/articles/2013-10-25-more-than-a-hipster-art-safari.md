@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310250125-felix-arts-frieze-web.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "LINDA NYLAND © FRIEZE"
 image_attribution_link: ""
 video_url: ""

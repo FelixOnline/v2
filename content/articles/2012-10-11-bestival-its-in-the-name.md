@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210112227-felix-bestival.jpg"
 image_caption: >
   This photo makes me hate the fact  it is not summer anymore...
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

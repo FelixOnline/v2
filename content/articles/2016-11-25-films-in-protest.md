@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611251352-felix-nascita-di-una-nazione-the-birth-of-a-nation-1915-david-wark-griffith-01.jpg"
 image_caption: >
 
-image_width: "1440"
-image_height: "780"
 image_attribution: "Epoch Producing Corporation"
 image_attribution_link: ""
 video_url: ""

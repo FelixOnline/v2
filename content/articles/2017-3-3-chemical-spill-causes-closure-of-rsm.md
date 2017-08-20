@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703031845-felix-IMG_7179.JPG"
 image_caption: >
   The Royal Schoo of Mines
-image_width: "3264"
-image_height: "2448"
 image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""

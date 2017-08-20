@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101271859-ks607-skatedog.jpg"
 image_caption: >
 
-image_width: "580"
-image_height: "361"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

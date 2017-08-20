@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702031700-felix-Joseph Quinn as Dean Carmody and Erin Doherty as Tamsin Carmody in WISH LIST Photo Jonathan Keenan (2).jpg"
 image_caption: >
 
-image_width: "3000"
-image_height: "2000"
 image_attribution: "Jonathan Keenan "
 image_attribution_link: ""
 video_url: ""

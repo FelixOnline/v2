@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201311080913-felix-screen-shot-2013-11-08-at-09.13.11.png"
 image_caption: >
   Top: Boris under questioning Bottom: Boris doing 'the creep'
-image_width: "0"
-image_height: "0"
 image_attribution: "Joseph Letts"
 image_attribution_link: ""
 video_url: ""

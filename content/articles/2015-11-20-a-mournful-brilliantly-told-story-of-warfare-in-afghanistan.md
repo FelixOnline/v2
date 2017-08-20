@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511201412-ff712-1874.jpg"
 image_caption: >
   Scared, tired and alone in the fight. Tell Spring paints an intimately grim picture of the lives of these Afghan soldiers
-image_width: "0"
-image_height: "0"
 image_attribution: "Tell Spring Not to Come This Year PR"
 image_attribution_link: ""
 video_url: ""

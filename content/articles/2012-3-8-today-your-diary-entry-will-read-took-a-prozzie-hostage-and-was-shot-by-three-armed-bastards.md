@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203082131-ams111-a2a.jpg"
 image_caption: >
   Fire up the quattro
-image_width: "1589"
-image_height: "1133"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

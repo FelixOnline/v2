@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701252252-ff712-Shappi-Khorsandi-HI-RES-2016.jpg"
 image_caption: >
   Shappi Khorsdani, whose new show Oh My Country! is on at the Soho Theatre
-image_width: "1394"
-image_height: "2048"
 image_attribution: "Shappi Khorsandi PR"
 image_attribution_link: ""
 video_url: ""

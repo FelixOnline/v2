@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111208-felix-lovepasta.jpg"
 image_caption: >
   Let’s face it, no one ever chose the kid’s size and was happy with it.
-image_width: "5312"
-image_height: "2988"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201001221324-rsp07-comment.jpg"
 image_caption: >
 
-image_width: "585"
-image_height: "388"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121158-felix-brain_dissection.jpg"
 image_caption: >
   Ew... We mean, ooh!
-image_width: "1217"
-image_height: "913"
 image_attribution: "Azmi Rahman"
 image_attribution_link: ""
 video_url: ""

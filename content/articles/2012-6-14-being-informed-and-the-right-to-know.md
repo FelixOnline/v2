@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206142033-ams111-comment2.jpg"
 image_caption: >
   An ultrasound image of a baby in a womb
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

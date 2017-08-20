@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106091850-felix-gate.jpg"
 image_caption: >
   'Gate'
-image_width: "1728"
-image_height: "2304"
 image_attribution: "Luca Modenese"
 image_attribution_link: ""
 video_url: ""

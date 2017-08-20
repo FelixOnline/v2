@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032209-sjw209-p1010118.jpg"
 image_caption: >
   We’re not entirely sure what the giant mound of earth is for
-image_width: "600"
-image_height: "377"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

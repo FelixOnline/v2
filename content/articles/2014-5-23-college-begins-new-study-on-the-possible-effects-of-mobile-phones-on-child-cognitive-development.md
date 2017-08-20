@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201405231524-jal08-1577_news_phone_ellen_mathieson.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Joe Letts / Ellen Mathieson / Felix"
 image_attribution_link: ""
 video_url: ""

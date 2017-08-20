@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092318-ams111-a-dangerous-method-5.jpg"
 image_caption: >
   You may be a sex addicted, metal-controlling psychopath – but I will always love you...
-image_width: "1400"
-image_height: "889"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

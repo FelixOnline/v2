@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110071455-felix-cells.jpg"
 image_caption: >
   Wanted for murder – have you seen this NK cell?
-image_width: "1876"
-image_height: "1876"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

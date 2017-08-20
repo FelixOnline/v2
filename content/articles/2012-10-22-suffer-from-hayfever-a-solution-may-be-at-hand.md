@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210221618-tna08-science-web-picture.jpg"
 image_caption: >
   High Pollen days per region. Yellow = Birch. Brown = Grass. Red = Nettle.
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -75,7 +73,6 @@ If this applies to you, at least aim to use plants such as butterbur (a girly li
 
 However, as with all herbal medicines, you run the risk of suffering from adverse side effects and potentially high toxicity exposure, alongside pharmacological interactions with other drugs that may be taken that are still not understood.
 ## What is PollenLITE?
-TODO: image from
 PollenLITE is a new type of vaccine aiming to prevent hay fever symptoms triggered during grass pollen season. Instead of treating the symptoms, like the over-the-counter anti-histamines found in your local pharmacist, pollenLITE prevents these symptoms in the first place by “turning off” the allergic reaction.
 
 The potential for a vaccine like pollenLITE was first hinted at in a study published in 2011, where researchers at Imperial discovered that long-term tolerance to grass pollen is accompanied by special “blocking” antibodies remaining in the body.

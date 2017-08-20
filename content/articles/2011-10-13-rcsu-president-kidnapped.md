@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110132149-felix-luke-kanczes.jpg"
 image_caption: >
   An image of the captured RCSU President Luke Kanczes, provided by RAG
-image_width: "1831"
-image_height: "1899"
 image_attribution: "Jack Hewitt"
 image_attribution_link: ""
 video_url: ""

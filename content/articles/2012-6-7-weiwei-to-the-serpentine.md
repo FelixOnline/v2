@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206071946-ams111-arts1.gif"
 image_caption: >
   I’m like Jamiroquai, going deeper underground
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -44,7 +42,6 @@ video_url: ""
 Walking up from College, along West Carriage Drive through Hyde Park, it’s easy to miss __The Serpentine Gallery__’s latest pavilion. Contained underground, it will quickly become West London’s coolest summer hangout. But what makes this installation particularly interesting is the story behind it and the extraordinary collaboration of artists that have designed it.
 
 This installation by Ai Weiwei and architects Herzog & de Meuron is the twelfth in the series of summer Pavilions on the site outside the Serpentine Gallery. Being underground, this year’s Pavilion is more discrete than previous years, though this does not make it any less impressive. Visitors are initially greeted with a floating round surface covered in rainwater, which perfectly reflects the changing skies above – a parallel to (or blatant copy of – you can be the judge) Anish Kapoor’s mirror sculptures that featured through Kensington Gardens only two years ago. This platform, however, has one up on Kapoor’s mirrors as the water can be drained and the area can be transformed into a dance floor for the Serpentine Gallery’s Park Nights events. Against the backdrop of the traditional Serpentine Gallery building, it really is striking.
-TODO: image from
 You can then explore underneath this surface, where you enter into an underground den, cladded with cork. Weiwei and the architects designed the pavilion from an archaeological approach, digging into the ground and finding the remnants of pavilions from the past 12 years. Using these previous foundations and floor plans as their inspiration for the layout, the area is formed by an abstract layering of shapes and levels. Like any good piece of art, it stands alone as an beautiful piece; made only more interesting when you realise the story and journey behind it; and with the wettest April in 100 years, it’s nothing short of a miracle that this structure was finished in time.
 > The pavilion is the creative vision of Ai Weiwei... Chinese activist artist
 The pavilion is the creative vision of Ai Weiwei, a Chinese political activist artist who specialises in sculpture and installations, using mass production as his inspiration for his latest pieces. His most significant recent work was Sunflower Seeds: set in the __Tate Modern__’s Turbine Room, the 100 million porcelain pieces were each painstakingly hand painted. Working alongside Weiwei is the award winning Swiss architecture company Herzog & de Meuron. Founded by two classmates they are most famously known in Britain for their conversion of the Bankside Power Station in to the Tate Modern in 2000, and are now working on the extension, ‘Tate 2’. Though this is their first collaboration in the UK, Weiwei and the architects are not strangers, having worked together on several projects, including the iconic ‘Bird’s Nest’ stadium of the Beijing Olympics – making this installation a nice link from the 2008 Olympics to this summer’s event in London.

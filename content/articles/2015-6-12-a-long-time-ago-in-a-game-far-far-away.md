@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506121337-cj914-star-wars-battlefront.jpeg"
 image_caption: >
   A childhood dream come true?
-image_width: "0"
-image_height: "0"
 image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""

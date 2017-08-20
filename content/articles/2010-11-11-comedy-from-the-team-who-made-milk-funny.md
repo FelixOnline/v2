@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011112047-nm1010-townpani.jpg"
 image_caption: >
 
-image_width: "3008"
-image_height: "1960"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

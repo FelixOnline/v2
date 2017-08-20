@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412112341-cj914-200501.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""

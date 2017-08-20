@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511200923-ygr12-2.jpg"
 image_caption: >
   The brutal eye-slicing scene of Un Chien Andalou, which remains one of the most iconic scenes of modern experimental cinema.
-image_width: "0"
-image_height: "0"
 image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""

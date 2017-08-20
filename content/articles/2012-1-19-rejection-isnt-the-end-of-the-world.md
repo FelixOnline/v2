@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192317-felix-interview.jpg"
 image_caption: >
 
-image_width: "900"
-image_height: "658"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

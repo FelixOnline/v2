@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706021425-felix-2856055608_a39cc50456_o.jpg"
 image_caption: >
 
-image_width: "2496"
-image_height: "1664"
 image_attribution: "wonderferret"
 image_attribution_link: ""
 video_url: ""

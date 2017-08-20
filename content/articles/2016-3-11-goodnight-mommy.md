@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111152-felix-goodnight-mommy-1-credit-courtesy-of-radius.jpg"
 image_caption: >
   What lies behind the bandages? Susanne Wuest in chilly horror Goodnight Mommy.
-image_width: "1826"
-image_height: "764"
 image_attribution: "RADiUS"
 image_attribution_link: ""
 video_url: ""

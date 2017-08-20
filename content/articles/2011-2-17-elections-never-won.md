@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102172020-dr910-election.jpg"
 image_caption: >
 
-image_width: "610"
-image_height: "418"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

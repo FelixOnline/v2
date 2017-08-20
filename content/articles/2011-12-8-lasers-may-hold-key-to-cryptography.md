@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082053-pk1811-green-laser-pointer-diode-dpss-beam-show-(10)-1.jpg"
 image_caption: >
   The Diffie-Hellman Key Exchange system relies on random numbers
-image_width: "2000"
-image_height: "1456"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

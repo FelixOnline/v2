@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503192343-cj914-tbl_varsity_quick_set_21h42m27s.jpg"
 image_caption: >
   IC run through to score one of their three tries on the night
-image_width: "0"
-image_height: "0"
 image_attribution: "Ben Lester ThroughBensLens.co.uk"
 image_attribution_link: ""
 video_url: ""

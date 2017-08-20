@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102271923-ks607-untether.jpg"
 image_caption: >
 
-image_width: "5616"
-image_height: "3744"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

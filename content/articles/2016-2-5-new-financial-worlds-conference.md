@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051252-felix-The_City_London.jpg"
 image_caption: >
   Does this life appeal to you? You should probably apply then.
-image_width: "4370"
-image_height: "2383"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""

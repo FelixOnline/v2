@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122248-felix-ssp.jpg"
 image_caption: >
   Ever heard of ScarletSnowPrelude? – No! Because they didn’t sell out... or they suck?
-image_width: "600"
-image_height: "398"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

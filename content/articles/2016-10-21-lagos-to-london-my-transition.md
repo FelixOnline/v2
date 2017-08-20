@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610211219-so515-Daniel Ogbonna.jpg"
 image_caption: >
   Writer, Daniel Ogbonna
-image_width: "1280"
-image_height: "850"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

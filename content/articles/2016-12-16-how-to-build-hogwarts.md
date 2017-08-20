@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612161557-felix-15181381_10209879786924407_2702047499125047172_n.jpg"
 image_caption: >
 
-image_width: "960"
-image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -44,17 +42,14 @@ video_url: ""
 We weren’t ambitious. We built a cute little gingerbread house. It only took one batch of gingerbread and a few sweets for decoration, and it disappeared remarkably quickly. How things were to change!
 ## 2010 | The castle
 This took two whole batches of gingerbread. We wanted to top the previous year, and this seemed like the obvious next step. We were so impressed at the time with the four towers, complete with crenelations.
-TODO: image from
 ## 2011 | The bridge
 This used gingercake to create a valley and gingerbread created the suspension bridge spanning the gap. The first creation that required significant architectural planning, although decoration was less exciting.
 ## 2012 | The train
 We had to scale down the production during baking because we hadn’t considered that the size of the oven was a limiting factor. Still, we produced a three-carriage train with a single piece cylindrical body for the engine. Unfortunately, there was a roof collapse in one of the carriages, causing the creation to have a plot line of being invaded by alien mice.
-TODO: image from
 ## 2013 | St Basil’s Cathedral (which is not the Kremlin, FYI)
 The first of the truly ambitious biscuit architecture. Consisting of eight towers, each topped with an onion dome, with colours and patterns carefully reproduced to match the original. It weighed 40kg, and it was beautiful. Decorative Easter eggs included an homage to Petr Pavlensky, who nailed his scrotum to Red Square, and a LGBT+ pride mural on the outer walls.
 ## 2015 | La Sagrada Familia (completed design)
 Some said it was stupid to attempt to recreate (to scale) a building that has been under construction for 134 years and isn’t even half built. It was a titan of modular construction, weighing in at around 70kg, with more than 500 individual pieces. Each of the eighteen towers were built to scale, and the main body of the cathedral was complete with stained glass. Unfortunately, we ran out of time to finish the facades, but it was by far the most impressive creation so far.
-TODO: image from
 ## 2016 | Hogwarts
 We’d tried scaling up, and we couldn’t keep adding towers, so this was the year of technical baking. The challenge: build all the towers as cylindrical and conical pieces. With several towers of different sizes, halls, courtyards, and even an owlery, we spent weeks ahead of time drawing blueprints and crafting moulds. As an added challenge, we gave the whole thing a base of cake to add landscape, and the decorative attention to detail included a quidditch pitch, a somewhat questionable Dark Mark, and a student who may or may not be escaping from the Giant Squid. This creation weighed in at more than 100kg, and posed new challenges of confectionery distribution, as cake really doesn’t keep as long as gingerbread.
 ## How to start your first gingerbread construction
@@ -103,7 +98,6 @@ To make the buttercreams, beat together all of the ingredients and mix until smo
  - ¼ tsp fine salt
  - 3 tbsp lukewarm water
 ## Some notes on structural baking
-TODO: image from
 When building things out of gingerbread, some level of care and precision is required. As you scale up the operation, the importance of this increases, and several other factors come into play. As the engineers out there may have identified, these problems include (1) the swelling of the gingerbread during the bake, (2) the strength and weightbearing requirements of the individual pieces, and (3) the choice between flat and curved pieces.
 
 **The gingerbread growth problem**
@@ -118,4 +112,3 @@ By doing this, as well as applying some basic engineering principles such as usi
 If constructing a building out of flat, rectangular pieces is like first year, baking solid 3D shapes successfully is worth a PhD. We’ve spent years working on a seamless gingerbread curve, and we’ve learnt that getting it right means requires constant attention, fairly serious burns, and carefully thought out moulds. Moulds should be as solid as possible, easy to place the gingerbread on to, and very easy to take the gingerbrad off. Ideally, allow airflow within the mould for an even bake.
 
 Bake it low and slow, but watch out that the gingerbread doesn’t stretch too much during the baking. You may need to reshape and touch up the piece when it’s in the oven. Trim where needed, and if any cracks appear, you can patch them with dough within the first eight minutes or so.
-TODO: image from

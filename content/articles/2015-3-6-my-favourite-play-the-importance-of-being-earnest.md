@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503061405-ff712-oscar_wilde_by_napoleon_sarony_(1821-1896)_number_18_ba.jpg"
 image_caption: >
   Portrait of Oscar Wilde, Napoléon Sarony, 1882
-image_width: "0"
-image_height: "0"
 image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""

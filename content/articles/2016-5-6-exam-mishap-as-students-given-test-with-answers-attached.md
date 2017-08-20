@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061040-felix-THE ONE.jpg"
 image_caption: >
 
-image_width: "2988"
-image_height: "5312"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

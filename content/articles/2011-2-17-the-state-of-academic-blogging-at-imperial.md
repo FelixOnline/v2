@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102172048-dr910-tyoewrit.jpg"
 image_caption: >
 
-image_width: "900"
-image_height: "892"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

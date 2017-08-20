@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201211091252-tna08-untitled-7.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -58,7 +56,6 @@ On the Thursday there will be a live stream of the opening SVC2UK conference hel
 Capitalists (eg. Raj Kapoor, Mayfield Fund), Founders and Chief Officers (e.g. Renaud Visage, Eventbrite) and Educators (Bobbi Kurshan, Executive Director of Academic Innovation & Senior Fellow in Education).
 
 On that same day at SVC2Imperial there will also be a CEO & Investor Workshop and Networking Dinner. CEOs from some of the most promising start-ups in our ecosystem, which are in the process of scaling up, are invited to attend a workshop with successful local entrepreneurs and Silicon Valley CEOs and executives, where facilitators will share their experiences and participants can troubleshoot any current issues. It provides a unique opportunity for start-up CEOs to learn from the best in the business. The purpose is to bring together like-minded people in hope of increasing the interaction amongst the entrepreneurship community not only in Imperial College London but in the whole of London.
-TODO: image from
 The Saturday will mainly consist of a conference running from 10am till 5pm. The day will be split into three parts: Masterclass, Company Showcase and Keynote Lectures. In the Masterclass, there will be workshops and panel discussions run by successful entrepreneurs, industrialists, authors and
 > SVC2Imperial encompasses three free events over two days, held on Thursday 15th and Saturday 17th of November 2012
 businesses. Students will get the chance to hear from leaders from the local ecosystems on a range of entrepreneurship topics; from lean start-up methodologies to why you should join/start start-ups and how it differs from a corporate career.

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511200913-ygr12-screen-shot-2015-05-18-at-07.31.11.jpg"
 image_caption: >
   Michael Fassbender as the dictatorial genius in a turtleneck, in Danny Boyle’s Steve Jobs.
-image_width: "0"
-image_height: "0"
 image_attribution: "Universal Pictures"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206142028-ams111-comment1.jpg"
 image_caption: >
   It seems like everyone suffers from the thoughtless acts of a minority. By which it is meant the poo
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

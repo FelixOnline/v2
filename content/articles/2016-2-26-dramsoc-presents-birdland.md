@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261207-felix-mattoscar.jpg"
 image_caption: >
 
-image_width: "2048"
-image_height: "1370"
 image_attribution: "DramSoc"
 image_attribution_link: ""
 video_url: ""

@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202022331-sjw209-ricky_gervais_1017585a.jpg"
 image_caption: >
   Yep, he may offend people, but consider this: without him, no Karl Pilkington
-image_width: "682"
-image_height: "460"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

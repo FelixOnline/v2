@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201211230001-tna08-2012-11-21-12.54.31.jpg"
 image_caption: >
   Photo by Benjamin Lester
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201504241501-ff712-josh-taylor-&-clare-holman-in-each-his-own-wilderness_orange-tree-theatre_image-richard-hubert-smith_press-image.jpg"
 image_caption: >
   Josh Taylor & Clare Holman in Each His Own Wilderness
-image_width: "0"
-image_height: "0"
 image_attribution: "Richard Hubert Smith"
 image_attribution_link: ""
 video_url: ""

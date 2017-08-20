@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201301242107-mc4509-6737_19_unstoppable_gorg_release_date_price_and_a_new_platform_announced_for_orbital_tower_defense_game_full.jpg"
 image_caption: >
   Imagine a mixture of Sins of a Solar Empire, and this...
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

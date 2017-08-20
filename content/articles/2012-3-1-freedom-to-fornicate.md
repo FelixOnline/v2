@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203012102-cac111-world-map-page-001.jpg"
 image_caption: >
   Imperial doesn’t seem so bad now, does it?
-image_width: "6304"
-image_height: "3286"
 image_attribution: "Lizzy Griffiths"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112011949-pk1811-screen-shot-2011-11-30-at-09.31.03.jpg"
 image_caption: >
   Rural scences depicted in The Harvest (1882) by Camille Pissarro, who also kept an eye on Capitalism
-image_width: "422"
-image_height: "575"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

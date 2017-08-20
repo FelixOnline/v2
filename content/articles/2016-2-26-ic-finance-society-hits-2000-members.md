@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261209-felix-DSC 2-8310.jpg"
 image_caption: >
   The gang.
-image_width: "4563"
-image_height: "3028"
 image_attribution: "Abhishek Mukherjee"
 image_attribution_link: ""
 video_url: ""

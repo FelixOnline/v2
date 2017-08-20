@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102282107-ks607-malcolmg.jpg"
 image_caption: >
   Malcolm Grant, UCL Provost, chaired the group behind the report
-image_width: "2000"
-image_height: "3000"
 image_attribution: "University College London"
 image_attribution_link: "http://www.ucl.ac.uk/"
 video_url: ""

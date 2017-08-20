@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203012227-ams111-billy-crystal-kevin-winter.jpg"
 image_caption: >
   Nine-time host Billy Crystal
-image_width: "2000"
-image_height: "1399"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

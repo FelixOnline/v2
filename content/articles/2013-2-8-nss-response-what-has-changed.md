@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201302080113-tna08-assessment-and-feedback.jpg"
 image_caption: >
   Assessment and Feedback page from the NSS Response
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

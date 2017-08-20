@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505081320-jyg11-harley-quinn.jpg"
 image_caption: >
   Margot Robbie on set as Harley Quinn
-image_width: "0"
-image_height: "0"
 image_attribution: "David Ayer/Warner"
 image_attribution_link: ""
 video_url: ""

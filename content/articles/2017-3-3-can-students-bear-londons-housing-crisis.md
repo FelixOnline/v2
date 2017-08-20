@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703031418-felix-31924312876_df1d6e2825_o.jpg"
 image_caption: >
   Khan Sadiq solve the housing crisis?
-image_width: "1280"
-image_height: "800"
 image_attribution: "Dionisos Olympian"
 image_attribution_link: ""
 video_url: ""
@@ -54,7 +52,6 @@ So what is the long-term solution? Somebody with the most basic grasp of economi
 As the nation desperately grapples with the need to chase the increasing levels of demand through huge infrastructure developments, the only solution for people on low incomes is to seek social housing – the only option left available at a reasonable price. But with 1.8 million people currently on the waiting lists for social housing and local authorities allocating it with a needs-based approach, students are very rarely included in such schemes. This leaves only the private sector.
 
 But for students in particular, the private rented sector can present unique challenges and be daunting in its complexity. The astronomical fees that letting agents charge, frankly odious conditions some landlords expect you to live in purely on account of being a student, and trouble of finding a guarantor for your tenancy agreement can all burden people with unnecessary levels of stress as they house-hunt. In London especially, where the costs are so inflated and continue to soar even now, it feels increasingly like we have no control or voice.
-TODO: image from
 Schemes such as Share and Care and Homeshare UK have popped up in recent years – their aim being to match people looking for affordable accommodation with elderly people in need of support and company. Increasing numbers of students are turning to them as a solution to see them through their studies.
 
 At Imperial specifically, last year College announced its plans to act as a guarantor for international students seeking accommodation from second year onwards – preventing them from having to pay three to six months of rent in advance. Last year, a large group of Imperial students attended a massive event as part of the London Mayoral Election in association with CitizensUK to quiz candidates on their pledges for students going forward.

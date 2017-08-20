@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102122-pk1811-financial-planning-audit-reporting.jpg"
 image_caption: >
   Oonly four professional service firms perform the majority of audits for companies
-image_width: "1300"
-image_height: "950"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101202050-ks607-studentp.jpg"
 image_caption: >
 
-image_width: "2535"
-image_height: "3603"
 image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""

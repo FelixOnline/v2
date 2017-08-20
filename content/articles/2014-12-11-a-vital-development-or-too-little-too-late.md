@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412112039-cj914-mount_storm_power_plant,_areial2-copy.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""

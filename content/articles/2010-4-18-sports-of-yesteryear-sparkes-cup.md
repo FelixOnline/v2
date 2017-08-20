@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201004181803-jn104-GuildsRu.jpg"
 image_caption: >
 
-image_width: "604"
-image_height: "250"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203051133-felix-jason-katz-hi-res.jpg"
 image_caption: >
   Lolkatz: He haz ur private equity financial expertise
-image_width: "4038"
-image_height: "2544"
 image_attribution: "Bob Xu"
 image_attribution_link: ""
 video_url: ""

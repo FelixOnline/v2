@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206011343-mc4509-pinky-and-the-brain.jpg"
 image_caption: >
   Don’t blame the genetic modification for Brain’s insanity
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

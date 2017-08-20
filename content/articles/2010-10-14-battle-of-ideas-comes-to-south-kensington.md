@@ -40,8 +40,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010142008-ks607-clairefo.jpg"
 image_caption: >
   Claire Fox says there's a "climate of distrust" in the UK
-image_width: "4272"
-image_height: "2848"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

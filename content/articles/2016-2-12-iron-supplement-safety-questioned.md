@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121127-felix-Lucky_Iron_Fish_package.jpg"
 image_caption: >
   A ‘lucky iron fish’,  a cast iron fish to cook with that is meant to enrich food with iron, claiming to successfully helping against iron deficiency and iron deficiency anaemia.
-image_width: "2560"
-image_height: "1920"
 image_attribution: "Wikimedia"
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
-image_width: ""
-image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -66,7 +64,6 @@ __Ingredients__
  A few turns of fresh pepper
 
 * You can buy ready stock however I usually add 1 chicken and 1 beef cube into 750 ml of boiling water and mix to dissolve the cubes.
-TODO: image from
 __Recipe__
 
 Slice the onions into medium sized chunks. (Try your best not to cry – mission impossible!)
@@ -105,7 +102,6 @@ __Ingredients__
  3 tbsp white wine
  3 tbsp red chilli powder
  2 tbsp dried basil
-TODO: image from
 __Recipe__
 
 First, hard boil the eggs. We shall return to these later.
@@ -126,7 +122,6 @@ A slab of pork belly
  Sesame oil
  Herbes de Provence
  Rosemary herbs
-TODO: image from
 __Recipe__
 
 Preheat the oven at 200°C for 15min. Rinse the pork belly, dab dry the pork belly, especially the skin.

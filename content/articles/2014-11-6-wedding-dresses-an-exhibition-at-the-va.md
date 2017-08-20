@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411062059-snb11-wedding_dresses_1775-2014_3.jpg"
 image_caption: >
   John Galliano wedding gown, worn by Kate Moss
-image_width: "0"
-image_height: "0"
 image_attribution: "Victoria and Albert Museum"
 image_attribution_link: ""
 video_url: ""

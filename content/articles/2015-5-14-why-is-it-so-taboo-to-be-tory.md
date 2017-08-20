@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505142335-cj914-a-labour-supporter-wearin-009.jpg"
 image_caption: >
   You probably have though, admit it
-image_width: "0"
-image_height: "0"
 image_attribution: "Guardian"
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511271147-ygr12-online.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Cale Tilford"
 image_attribution_link: ""
 video_url: ""

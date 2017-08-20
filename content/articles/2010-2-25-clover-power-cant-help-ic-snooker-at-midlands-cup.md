@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201002251840-mb506-ICSnooke.jpg"
 image_caption: >
 
-image_width: "3264"
-image_height: "2448"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

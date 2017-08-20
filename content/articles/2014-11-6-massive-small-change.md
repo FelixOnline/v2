@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411062055-cj914-some-of-the-deeper-questions-in-life-which-we-address.jpg"
 image_caption: >
   EWB answers the big questions.
-image_width: "0"
-image_height: "0"
 image_attribution: "Engineers Without Borders"
 image_attribution_link: ""
 video_url: ""

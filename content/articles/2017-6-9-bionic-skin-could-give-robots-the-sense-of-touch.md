@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706091703-ea3211-94356751warwick1_original.jpg"
 image_caption: >
 
-image_width: "961"
-image_height: "631"
 image_attribution: "Kevin Warwick, the “living cyborg” with his wife"
 image_attribution_link: ""
 video_url: ""

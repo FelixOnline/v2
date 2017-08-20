@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510261257-ygr12-queues.jpg"
 image_caption: >
   View of the queue this morning outside Beit.
-image_width: "0"
-image_height: "0"
 image_attribution: "Grace Rahman"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611111706-felix-Felix Food 161110NM Nearly done.jpg"
 image_caption: >
 
-image_width: "3766"
-image_height: "3766"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606031036-felix-bidnez.jpg"
 image_caption: >
   What does go on in that tube?
-image_width: "1280"
-image_height: "505"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

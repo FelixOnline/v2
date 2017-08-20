@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103211037-ks607-burgerbu.jpg"
 image_caption: >
 
-image_width: "1600"
-image_height: "1167"
 image_attribution: "Lost in Cheeseland"
 image_attribution_link: "http://www.lostincheeseland.com/2010/08/good-eats-in-london.html"
 video_url: ""

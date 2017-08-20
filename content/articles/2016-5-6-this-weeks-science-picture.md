@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061055-felix-8584486151_0b2d72876e_o.jpg"
 image_caption: >
   A long exposure shot of a meteor shower from Groningen.
-image_width: "3861"
-image_height: "2574"
 image_attribution: "Eddie Yip"
 image_attribution_link: ""
 video_url: ""

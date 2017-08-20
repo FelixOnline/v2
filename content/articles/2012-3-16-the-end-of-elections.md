@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203160140-felix-screen-shot-2012-03-15-at-23.58.05.jpg"
 image_caption: >
   Procrastination tool of the now: the Elections statistics website
-image_width: "708"
-image_height: "576"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203012316-cac111-blakfish.gif"
 image_caption: >
 
-image_width: "500"
-image_height: "250"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

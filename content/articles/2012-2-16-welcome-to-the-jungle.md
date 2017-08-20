@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162111-ams111-elephant.gif"
 image_caption: >
   A revitalising coconut scrub after a rough day at the office
-image_width: "2000"
-image_height: "1500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

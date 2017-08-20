@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201211292318-tna08-football.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -65,4 +63,3 @@ Having seen the incompetence of Canterbury’s penalties already, Imperial were 
 Garner was voted man of the match but everyone grafted well and showed good character to recover from going behind for the first time this season. Imperial 1s remain unbeaten after 7 games and hope to have wrapped up the BUCS league title when they travel to Canterbury for the last game of the season.
 
 Conclusions: Henry has shown (experimentally) that he both saves and scores penalties, both in vivo and ex vivo. Despite a strong body of literature suggestingotherwise (Euro ’96), Marius Wedermeyer does not.
-TODO: image from

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611111701-felix-NintendoSwitch03.jpg"
 image_caption: >
 
-image_width: "1500"
-image_height: "500"
 image_attribution: "Nintendo"
 image_attribution_link: ""
 video_url: ""

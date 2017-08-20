@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411280051-kmw13-ferguson-10.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Charlie Riedel/Associated Press"
 image_attribution_link: ""
 video_url: ""

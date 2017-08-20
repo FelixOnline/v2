@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104181033-felix-technology-based-life1.jpg"
 image_caption: >
   In the year 3025, moisturiser is a 'must'
-image_width: "2716"
-image_height: "1810"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

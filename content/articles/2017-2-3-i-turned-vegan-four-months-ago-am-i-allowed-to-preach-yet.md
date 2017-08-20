@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702031610-felix-14103703882_289d8d6bc6_o.jpg"
 image_caption: >
 
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Helen Alfvegren"
 image_attribution_link: ""
 video_url: ""

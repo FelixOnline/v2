@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251242-ff712-51a.jpg"
 image_caption: >
   About Yellow, Bridget Riley, 2013-2014, Oil on linen
-image_width: "0"
-image_height: "0"
 image_attribution: "Bridget Riley"
 image_attribution_link: ""
 video_url: ""

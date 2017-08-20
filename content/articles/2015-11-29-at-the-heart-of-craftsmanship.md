@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511291645-ff712-1102.jpg"
 image_caption: >
   Who wouldn't want a large bronze dog in their house...
-image_width: "0"
-image_height: "0"
 image_attribution: "Hand Gestures PR"
 image_attribution_link: ""
 video_url: ""

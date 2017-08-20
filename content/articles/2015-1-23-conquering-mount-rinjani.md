@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201501231907-jyg11-rtc---mount-lombok-crater-lake-3.jpg"
 image_caption: >
   An extra day brings you to the gorgeous lakeside completened with hot spring
-image_width: "0"
-image_height: "0"
 image_attribution: "Chris Richardson"
 image_attribution_link: ""
 video_url: ""

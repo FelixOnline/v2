@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612161505-felix-4724.jpg"
 image_caption: >
 
-image_width: "1225"
-image_height: "735"
 image_attribution: "Jan Versweyveld"
 image_attribution_link: ""
 video_url: ""

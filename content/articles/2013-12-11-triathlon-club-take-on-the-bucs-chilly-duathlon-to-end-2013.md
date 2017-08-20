@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201312110041-jal08-triathlon-bucs-duath.png"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "ICU Triathlon"
 image_attribution_link: ""
 video_url: ""
@@ -51,4 +49,3 @@ After a quick race and with pain faces a thing of the past, Weatherspoons provid
 
 Next term sees the start of the Triathlon session for 2014, and some big events, including BUCS sprint and Olympic triathlons, as well as an Easter tour to Paris and a Summer tour of England. Bring on 2014!
  Thanks again to our sponsors, Jaguar Land Rover
-TODO: image from

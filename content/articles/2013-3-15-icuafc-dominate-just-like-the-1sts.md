@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201303150159-tna08-footy1s.png"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -58,4 +56,3 @@ With Medics continuing to assert pressure, Sami Dabbagh was lucky not to be give
 With tension increasing, Myles Jarvis decided to step up to the plate, giving the Medic right back a torrid time, sprinting down the left wing before sending a low cross to the back stick, where a gambling Rob Maizonnier converted for his second of the game. 3-1 IC. “It’s still 0-0” screamed Nugent, and, taking this on board, Jarvis decided to once again burst past his opponent, earning an IC corner. From a Rob Maizonnier corner, Dom Affron caressed the ball with his right testicle into the back of the net. There were mutterings of disbelief, as approximately no one knew Affron possessed a right testicle. 4-1 IC, game over.
 
 With the rest of the match playing out at a tepid tempo, the final whistle was blown, the ref proving his maverick tendencies by turning the whistle upside down before blowing. In truth, 4-1 flattered Imperial 2s, but the win was definitely deserved. MOTM to Myles Jarvis, who started his university football career playing for the Medics, closely followed by an impressive Rob Maizonnier.
-TODO: image from

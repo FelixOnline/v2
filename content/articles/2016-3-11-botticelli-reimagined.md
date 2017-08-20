@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111200-felix-botti.jpg"
 image_caption: >
   ‘Rebirth of Venus’ by David LaChapelle, 2009.
-image_width: "1280"
-image_height: "720"
 image_attribution: "Studio LaChapelle"
 image_attribution_link: ""
 video_url: ""

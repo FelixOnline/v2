@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412041849-cj914-_mg_5196.jpg"
 image_caption: >
   Imperial Hub have hosted the London Climate forum for three years now.
-image_width: "0"
-image_height: "0"
 image_attribution: "Ziyaun Mao"
 image_attribution_link: ""
 video_url: ""

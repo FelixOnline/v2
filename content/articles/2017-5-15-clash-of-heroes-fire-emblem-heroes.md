@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705151829-felix-Heroes-Illustration-2.jpg"
 image_caption: >
 
-image_width: "3000"
-image_height: "2227"
 image_attribution: "Nintendo"
 image_attribution_link: ""
 video_url: ""

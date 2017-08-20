@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612121553-felix-TAN13890 (1)_captioned.jpg"
 image_caption: >
 
-image_width: "6015"
-image_height: "4400"
 image_attribution: "Steve Tanner"
 image_attribution_link: ""
 video_url: ""

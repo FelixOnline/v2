@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201406060347-jal08-arts-embroidered_silk_satin_wedding_dress_designed_by_norman_hartnell_1933_given_and_worn_by_margaret_duchess_of_argyll_cillustrated_london_news_ltd-mary_evans_jpg_610x610_q85.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Illustrated London News Ltd/Mary Evans"
 image_attribution_link: ""
 video_url: ""

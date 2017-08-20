@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610031901-felix-freethenight.jpg"
 image_caption: >
   The night is free, just like your social calendar
-image_width: "1679"
-image_height: "944"
 image_attribution: "TFL"
 image_attribution_link: ""
 video_url: ""

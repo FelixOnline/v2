@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701131443-felix-1480701024-sherlock-season-4.jpg"
 image_caption: >
 
-image_width: "1142"
-image_height: "1200"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""

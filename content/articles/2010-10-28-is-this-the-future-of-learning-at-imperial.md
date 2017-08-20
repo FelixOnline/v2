@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010282053-ks607-ahdhdfh.jpg"
 image_caption: >
   Students answering questions on their phones
-image_width: "4000"
-image_height: "3000"
 image_attribution: "Marie Chkaiban"
 image_attribution_link: "http://felixonline.co.uk/preview/user/ec610/"
 video_url: ""

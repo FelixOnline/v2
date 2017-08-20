@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702171513-felix-16735690_10210796834809866_1593581991_o.jpg"
 image_caption: >
   David Hockney, Portrait of an Artist with Two Figures
-image_width: "2048"
-image_height: "1446"
 image_attribution: "David Hockney, Private Collection"
 image_attribution_link: ""
 video_url: ""

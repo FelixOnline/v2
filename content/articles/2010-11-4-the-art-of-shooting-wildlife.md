@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011041810-ks607-wildlife.jpg"
 image_caption: >
   'A marvel of ants'
-image_width: "2480"
-image_height: "1624"
 image_attribution: "Bence Máté"
 image_attribution_link: ""
 video_url: ""

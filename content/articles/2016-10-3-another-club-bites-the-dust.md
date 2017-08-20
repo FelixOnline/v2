@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610031909-felix-Screen Shot 2016-10-03 at 19.08.50.png"
 image_caption: >
 
-image_width: "2311"
-image_height: "1064"
 image_attribution: "Fabric"
 image_attribution_link: ""
 video_url: ""

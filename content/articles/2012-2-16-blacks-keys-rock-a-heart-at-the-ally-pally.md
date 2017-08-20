@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202272116-sh1207-theblackkeys_gq_14feb12_rex_b.jpg"
 image_caption: >
 
-image_width: "642"
-image_height: "390"
 image_attribution: "Rex Features"
 image_attribution_link: ""
 video_url: ""

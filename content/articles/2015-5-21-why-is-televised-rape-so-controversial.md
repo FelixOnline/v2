@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505212355-cj914-game-of-thrones.jpg"
 image_caption: >
   This is not the first time Game of Thrones has been criticised for the way it features rape and sexual violence.
-image_width: "0"
-image_height: "0"
 image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""

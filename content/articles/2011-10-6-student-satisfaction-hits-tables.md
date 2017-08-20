@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110070159-felix-league-tables.jpg"
 image_caption: >
   Mixed fortunes for Imperial in league table results
-image_width: "750"
-image_height: "581"
 image_attribution: "Sean Gallagher"
 image_attribution_link: ""
 video_url: ""

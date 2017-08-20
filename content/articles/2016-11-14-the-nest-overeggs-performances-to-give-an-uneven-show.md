@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611141417-felix-Caoilfhionn Dunne in The Nest at the Young Vic. Photo by David Sandison. (2).jpg"
 image_caption: >
 
-image_width: "5616"
-image_height: "3744"
 image_attribution: "David Sandison"
 image_attribution_link: ""
 video_url: ""

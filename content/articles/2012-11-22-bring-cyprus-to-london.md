@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201211222313-tna08-people.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -50,7 +48,6 @@ The guests had an opportunity to try traditional Cypriot sweets like loukoumia (
 I’m not going to lie to you, the beverages were not for the faint hearted. The drinks on offer were zivania and commandaria, and they were very popoular. They were deceptively sweet – masking the large alcohol content.
 
 We loved it, so why not cook something inpsired by Cyprus in your kitchen? Or head out to somewhere where they’ll cook it for you?
-TODO: image from
 __Cypriot restaurants in London__
 
 Don’t feel like cooking? Why not try a Cypriot restaurant in London?

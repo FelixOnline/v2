@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105060928-felix-img_0001.jpg"
 image_caption: >
   Musn't... use... as... coaster!
-image_width: "2560"
-image_height: "1707"
 image_attribution: "Sorin Cioban"
 image_attribution_link: ""
 video_url: ""

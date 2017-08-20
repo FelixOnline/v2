@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201001142226-rsp07-Welshpho.jpg"
 image_caption: >
 
-image_width: "604"
-image_height: "401"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

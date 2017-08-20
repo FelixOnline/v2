@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611251319-felix-3350863019_0bcbef53e8_o.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "768"
 image_attribution: "Nick Mehlert"
 image_attribution_link: ""
 video_url: ""

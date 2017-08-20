@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201604291136-felix-beyonce3.jpg"
 image_caption: >
 
-image_width: "1397"
-image_height: "786"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

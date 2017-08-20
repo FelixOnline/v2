@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201501231756-jyg11-anthropocene_europe.jpg"
 image_caption: >
   The Anthropocene is defined by mankind's effect on the global environment
-image_width: "0"
-image_height: "0"
 image_attribution: "climatica.org.uk"
 image_attribution_link: ""
 video_url: ""

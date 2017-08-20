@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251207-ff712-3840x2400.jpg"
 image_caption: >
   Hugh Laurie, who stars as the title star in the long-running series House, which bowed out at the end of its eighth series in 2012.
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: "http://FOX"
 video_url: ""

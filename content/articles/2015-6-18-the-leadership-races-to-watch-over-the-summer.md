@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506182045-jyg11-borisjohnson.jpg"
 image_caption: >
   Could this muppet be the next leader of the Conservative party?
-image_width: "0"
-image_height: "0"
 image_attribution: "RothCPA"
 image_attribution_link: ""
 video_url: ""

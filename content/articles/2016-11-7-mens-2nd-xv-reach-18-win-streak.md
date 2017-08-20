@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611071316-felix-rugby men 2nds.JPG"
 image_caption: >
 
-image_width: "6000"
-image_height: "4000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

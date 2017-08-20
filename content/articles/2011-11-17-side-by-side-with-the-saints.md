@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172034-pk1811-saintsrowthethirdbox.jpg"
 image_caption: >
 
-image_width: "1479"
-image_height: "1221"
 image_attribution: "THQ"
 image_attribution_link: "http://www.saintsrow.com/"
 video_url: ""
@@ -56,7 +54,6 @@ There is already a lot of havoc that can be wrecked on foot. Running up to peopl
 Naturally, the designs are just as ludicrous when it comes to vehicles. Fighter jets with heat seeking missiles are casually parked in allotments and, at some point, you can drive a moon buggy through the streets. However, my favourite has to be the Specter: flashy, high-speed hover bikes with machine guns that can barrel roll, a Godsend in such a large setting. The vehicles are also much sturdier than their GTA counterparts, encouraging a more aggressive driving style. Whilst there are occasional traction issues the overall handling is tight and easy to pick up.
 
 The insane amount of character customisation is also on show. Enter a plastic surgery parlour and its possible to change every part of your body and clothing, with the character models good enough to make this exercise worthwhile. In addition, choosing to wear outlandish costumes can earn you Respect, the game’s XP equivalent.
-TODO: image from
 After having fun, earning Respect and money is the next priority. The former can be spent on upgrading your skills, the latter on purchasing property, weapons and character modifiers. Both can be earned through completing various Activities and Diversions, which number one fewer than Heinz has varieties, guaranteeing that the chances of getting bored is slim. Respect can also be earned by doing what you like; yes, running down pedestrians on your hover bike is commended.
 
 The setting this time is Steelport, a fictional city based on Chicago and Detroit, where the Saints are top of the food chain: they even having their own mascots and a line of energy drinks. This fame allows the player to get away with all sorts of hijinks. In fact, this unconventional initial scenario is an excuse for making a lot of items and, by implication, fun, accessible before completing missions.

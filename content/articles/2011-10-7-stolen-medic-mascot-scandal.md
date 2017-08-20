@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110071538-felix-img_5902.jpg"
 image_caption: >
   ICSMSU President Suzie Rayner (right) outside the RCSU office
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Alexander Karapetian"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102125-pk1811-human-genome-ten-years-in_17889_600x450.jpg"
 image_caption: >
   A man stands silhouetted agains a digital representation of the human genome
-image_width: "600"
-image_height: "338"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

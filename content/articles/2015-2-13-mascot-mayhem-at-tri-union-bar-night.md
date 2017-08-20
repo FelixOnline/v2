@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502131510-bwh12-10830587_1582178332005457_388081142789157972_o.jpg"
 image_caption: >
   Why is he wearing that cloak?!
-image_width: "0"
-image_height: "0"
 image_attribution: "Facebook"
 image_attribution_link: ""
 video_url: ""

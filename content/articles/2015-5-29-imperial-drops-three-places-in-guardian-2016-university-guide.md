@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505290206-ps3110-screen-shot-2015-05-29-at-02.05.12.png"
 image_caption: >
   Criteria weighting for the Times Higher Education World University Rankings.
-image_width: "0"
-image_height: "0"
 image_attribution: "Times Higher Education"
 image_attribution_link: ""
 video_url: ""

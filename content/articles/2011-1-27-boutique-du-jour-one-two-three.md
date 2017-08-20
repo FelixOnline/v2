@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101271930-nm1010-12333123.jpg"
 image_caption: >
 
-image_width: "977"
-image_height: "1559"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082114-pk1811-bwminutemen.jpg"
 image_caption: >
   Minute as in small, not as in time
-image_width: "2400"
-image_height: "1500"
 image_attribution: "Martin Lyon"
 image_attribution_link: ""
 video_url: ""

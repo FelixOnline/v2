@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172148-felix-catsandbabies.jpg"
 image_caption: >
   The only thing terrifying about this whole situation is that yarn ball. Dang
-image_width: "3167"
-image_height: "3646"
 image_attribution: "Lizzy Griffiths"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103010939-ks607-gamesmik.jpg"
 image_caption: >
 
-image_width: "482"
-image_height: "516"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

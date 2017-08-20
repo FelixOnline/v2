@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101271921-nm1010-ObamaOba.jpg"
 image_caption: >
 
-image_width: "634"
-image_height: "497"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

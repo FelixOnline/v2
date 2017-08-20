@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705151924-felix-super_8.jpg"
 image_caption: >
   J.J. Abram’s love letter to the films of his childhood centres around a group of early-teens making home movies and investigating mysteries
-image_width: "2000"
-image_height: "833"
 image_attribution: "aramount Pictures"
 image_attribution_link: ""
 video_url: ""

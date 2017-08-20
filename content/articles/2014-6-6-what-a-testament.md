@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201406060346-jal08-arts-mary2.jpeg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Brigitte Lacombe"
 image_attribution_link: ""
 video_url: ""

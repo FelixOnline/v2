@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242058-pk1811-mag_cover_v02-1.jpg"
 image_caption: >
   Europa’s ‘Great Lake’ – scientists speculate that many more exist throughout the moon
-image_width: "3960"
-image_height: "4096"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

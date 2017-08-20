@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510231243-cj914-graduation.jpg"
 image_caption: >
   Angry Grad (not pictured) looked peng.
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

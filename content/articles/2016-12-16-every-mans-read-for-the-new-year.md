@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612161502-felix-Everyman_dj.jpg"
 image_caption: >
 
-image_width: "329"
-image_height: "500"
 image_attribution: "Houghton Mifflin"
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705121848-felix-11596490914_955791a7e2_o.jpg"
 image_caption: >
   That guy's crying after spending so much money just to hear his name being called out in a two hour ceremony at the Royal Albert Hall
-image_width: "3359"
-image_height: "1879"
 image_attribution: "Jinx McCombs"
 image_attribution_link: ""
 video_url: ""

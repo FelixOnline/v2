@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152117-ig711-010.jpg"
 image_caption: >
   The clue’s in the name
-image_width: "3872"
-image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

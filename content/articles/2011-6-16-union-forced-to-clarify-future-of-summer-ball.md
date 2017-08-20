@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106161945-felix-timsmith.jpg"
 image_caption: >
   Last year's Summer Ball
-image_width: "5616"
-image_height: "3744"
 image_attribution: "Imperial College London/Tim Smith"
 image_attribution_link: ""
 video_url: ""

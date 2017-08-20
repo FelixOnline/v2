@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261152-felix-gogopenguin.jpg"
 image_caption: >
   The band named themself after a stuffed penguin.
-image_width: "1024"
-image_height: "1021"
 image_attribution: "GoGo Penguin"
 image_attribution_link: ""
 video_url: ""

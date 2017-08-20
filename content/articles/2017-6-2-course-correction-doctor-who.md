@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706021521-felix-dw.jpg"
 image_caption: >
   This is why you always wear a seatbelt
-image_width: "1600"
-image_height: "900"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""

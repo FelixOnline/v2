@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201211301126-jp1409-music-players.png"
 image_caption: >
     Google comes into a pretty competitive market against these badass’ of digital music
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

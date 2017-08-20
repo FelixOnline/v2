@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105200640-felix-outlook-festival.jpg"
 image_caption: >
 
-image_width: "580"
-image_height: "386"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

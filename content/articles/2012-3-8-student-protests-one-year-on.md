@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203082120-ams111-student-protest-in-london-001.jpg"
 image_caption: >
   No ifs, no buts...
-image_width: "717"
-image_height: "480"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

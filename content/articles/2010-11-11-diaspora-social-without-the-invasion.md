@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011112030-ks607-diaspora.jpg"
 image_caption: >
 
-image_width: "643"
-image_height: "427"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

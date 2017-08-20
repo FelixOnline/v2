@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603041150-felix-516d9b42-ba71-43ae-9e4a-b8e39591143a.jpg"
 image_caption: >
   Director Kurt Kuenne (left), at the graduation of friend Andrew Bagby, the subject of the film.
-image_width: "1800"
-image_height: "1411"
 image_attribution: "Mongrel Media"
 image_attribution_link: ""
 video_url: ""

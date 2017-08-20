@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703101412-felix-2613191889_c976de0412_o.jpg"
 image_caption: >
 
-image_width: "800"
-image_height: "533"
 image_attribution: "icanteachyouhowtodoit"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232131-ams111-the-count.jpg"
 image_caption: >
   I vant to sack your Courvoisier
-image_width: "300"
-image_height: "344"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

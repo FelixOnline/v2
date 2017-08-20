@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122123-cac111-medicss.jpg"
 image_caption: >
   Last year's Daily Mail article
-image_width: "618"
-image_height: "264"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702241414-felix-p047xqbh.jpg"
 image_caption: >
   Alex Hibbert and Mahershala Ali are phenomenal in Moonlight
-image_width: "1280"
-image_height: "640"
 image_attribution: "Alamy"
 image_attribution_link: ""
 video_url: ""

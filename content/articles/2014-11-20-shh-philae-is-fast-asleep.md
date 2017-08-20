@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411202042-cj914-rosetta_s_philae_lander_on_comet_nucleus.jpg"
 image_caption: >
   Plucky Philae settles on the surface of comet 67P
-image_width: "0"
-image_height: "0"
 image_attribution: "ESA"
 image_attribution_link: ""
 video_url: ""

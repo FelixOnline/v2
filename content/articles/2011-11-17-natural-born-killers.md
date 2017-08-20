@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172026-pk1811-battle_royale.jpg"
 image_caption: >
   How quickly would you turn to killing your friends in order to live?
-image_width: "1600"
-image_height: "900"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

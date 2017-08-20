@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706151724-im1413-anatomy-of-a-suicide.jpg"
 image_caption: >
   Hattie Morahan, Kate O’Flynn and Adelle Leonce in Anatomy of a Suicide | Photo: Stephen Cummiskey
-image_width: "670"
-image_height: "377"
 image_attribution: "Stephen Cummiskey"
 image_attribution_link: ""
 video_url: ""

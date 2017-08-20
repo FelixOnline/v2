@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201012022144-ks607-cartoonp.jpg"
 image_caption: >
 
-image_width: "5906"
-image_height: "2466"
 image_attribution: "Mitesh Patel"
 image_attribution_link: ""
 video_url: ""

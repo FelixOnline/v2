@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261157-felix-1590.jpg"
 image_caption: >
   The Death of Sardanapalus, the reduced 1846 version, by Delacroix
-image_width: "1920"
-image_height: "1152"
 image_attribution: "Philadelphia Museum of Art"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603231423-jc7413-queenvictoria.jpg"
 image_caption: >
   Nigerian wood carving of Queen Victoria herself.
-image_width: "525"
-image_height: "702"
 image_attribution: "Collection of Michael Graham-Stewart"
 image_attribution_link: ""
 video_url: ""

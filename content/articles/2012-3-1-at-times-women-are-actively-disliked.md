@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203012253-ams111-frankie-boyle-006.jpg"
 image_caption: >
   Frankie Boyle couldn’t get away with Tramadol Nights not being that good
-image_width: "460"
-image_height: "276"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

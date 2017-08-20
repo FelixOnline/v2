@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051238-felix-mtv"
 image_caption: >
 
-image_width: "2048"
-image_height: "1536"
 image_attribution: "Aiden Langan"
 image_attribution_link: ""
 video_url: ""

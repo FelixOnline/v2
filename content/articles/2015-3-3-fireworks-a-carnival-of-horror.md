@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503031411-ps3110-shakira-riddell--morales-(lubna)-and-yusuf-hofri-(khalil)-in-fireworks-at-the-royal-court-theatre.-credit-helen-maybanks..jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -40,8 +40,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111031936-pk1811-img_6818.jpg"
 image_caption: >
   Council – not only three hours of serious debate, but three hours of arm exercise too
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Alexander Karapetian"
 image_attribution_link: ""
 video_url: ""

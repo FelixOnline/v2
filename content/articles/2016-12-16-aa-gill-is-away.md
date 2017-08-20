@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612161552-felix-AA Gill (c.Peter Marlow).jpg"
 image_caption: >
 
-image_width: "1600"
-image_height: "1143"
 image_attribution: "Peter Marlow"
 image_attribution_link: ""
 video_url: ""

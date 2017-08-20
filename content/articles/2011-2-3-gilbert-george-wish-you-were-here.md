@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102031935-nm1010-gilbertg.jpg"
 image_caption: >
 
-image_width: "3489"
-image_height: "2504"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

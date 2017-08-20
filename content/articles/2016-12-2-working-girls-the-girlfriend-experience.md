@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021507-felix-15-girlfriend-experience-4.w750.h560.2x.jpg"
 image_caption: >
 
-image_width: "1200"
-image_height: "896"
 image_attribution: "Starz"
 image_attribution_link: ""
 video_url: ""

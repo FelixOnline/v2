@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605271059-felix-uncharted42.jpg"
 image_caption: >
   Uncharted 4 and chill.
-image_width: "1913"
-image_height: "1072"
 image_attribution: "Naughty Dog"
 image_attribution_link: ""
 video_url: ""

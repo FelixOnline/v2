@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261127-felix-bungee.jpg"
 image_caption: >
   Each to their own.
-image_width: "3456"
-image_height: "2802"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203151946-pk1811-dragons-den.jpg"
 image_caption: >
   The Felix artist’s impression of the judging panel
-image_width: "682"
-image_height: "400"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

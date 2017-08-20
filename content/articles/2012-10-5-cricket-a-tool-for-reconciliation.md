@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210051359-felix-sri-lankan-army.jpeg"
 image_caption: >
   Caption in here please! What if this just stays in by accident. What if it’s not an accident/ Yeah,
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701131351-felix-15991967_10210299606259628_23172809_o.jpg"
 image_caption: >
 
-image_width: "1334"
-image_height: "1000"
 image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
@@ -48,4 +46,3 @@ Imperial College students appeared mesmerised by the red shiny fire engines.
 When it was verified that there was no fire, only an alarm malfunction, Imperial College security opened the Falmouth Gate onto Queen’s Gate to help the firefighter squads get out. The gate is only supposed to be opened for the Queen.
 
 This is already the second time in 2017 that Exhibition Road gets packed with swarms of evacuated museum-goers. About a week earlier, visitors had to be evacuated due to a bomb threat directed at the neighbouring Victoria and Albert museum. The threat turned out to be a hoax.
-TODO: image from

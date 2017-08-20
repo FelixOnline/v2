@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021401-felix-Clara.jpg"
 image_caption: >
 
-image_width: "320"
-image_height: "240"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702031500-felix-8067362171_f0f9422e23_o.jpg"
 image_caption: >
 
-image_width: "4288"
-image_height: "2848"
 image_attribution: "Global 2000"
 image_attribution_link: ""
 video_url: ""

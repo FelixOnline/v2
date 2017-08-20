@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201309291710-tna08-sniperzombie-1.jpg"
 image_caption: >
   Thankfully that didn’t ruin my shirt!
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192031-ams111-pirate-flag-1024x819.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "819"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -57,7 +55,6 @@ The question remains however: if piracy is something to be combated, but SOPA an
 DRM (Digital Rights Management) is often used by media distribution companies such as game publishers to protect their property from being pirated. Put simply, DRM is an umbrella term applied to any technique that stops films, music and games from being copied (or ‘ripped’) and distributed freely. The problem is that it’s not all that effective at what it’s supposed to do.
 
 As mentioned previously people are clever. Pirates have found, and will continue to find ways around DRM restrictions, forcing companies to continually upgrade their protection if they want to stay ahead of the game. ‘Cracking’ DRM protection costs time – updating it costs both time and money and forces companies into a battle that they cannot possibly win. Another issue with DRM lies with format and standard changes. DRM-restricted content is not always perfect, and often content that the owner has paid for is lost in the changeover. It’s just not a good anti-piracy system, as proved by the now infamous game _Spore_.
-TODO: image from
 _Spore_, a single player God-game, was released in 2008 by EA Games. The game featured an overly Draconian DRM system, requiring internet activation and a limit of only three installations. Any more than that and you had to contact EA for an added activation, which they were not obliged to grant you. The result? Hilariously, with over half a million downloads across various BitTorrent sites, _Spore_ became one the most pirated game in history. As if to rub salt on the wound _Spore_ also became one of the lowest rated games on Amazon, mostly down to its DRM system. If there’s ever a case for aggressive DRM failing to do its job, _Spore_ is the one.
 
 One solution to piracy comes from Gabe Newell, cofounder and CEO of Valve, the company responsible for the digital distribution platform Steam. Newell claims that piracy is predominantly “a service problem and not a pricing problem,” and has to be combated by providing a better service than the pirates. A pirate, who can provide a copy of a game 24/7, globally and digitally, is going to be taken up on his offer far more often than a company who requires you only buy it from a store, three months after its main-region release. By providing such a well thought-out service such as Steam, giving users access to regular updates, chat functions and achievements amongst other features, Valve has reached the point where piracy is “basically a non-issue.” Regular readers may have noticed my slight bias towards Valve in the past. This bias is not without good reason.

@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261201-felix-2016.02.17_RFH_Ishiguro_and_Mitchell_Kazuo Ishiguro_credit_Jeff Cottenden.jpg"
 image_caption: >
 
-image_width: "3333"
-image_height: "5000"
 image_attribution: "Jeff Cottenden"
 image_attribution_link: ""
 video_url: ""

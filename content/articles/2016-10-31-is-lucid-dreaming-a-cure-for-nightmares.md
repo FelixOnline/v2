@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610311601-felix-2265926543_7b57b63571_o.jpg"
 image_caption: >
 
-image_width: "850"
-image_height: "434"
 image_attribution: "masha krasnova-shabaeva"
 image_attribution_link: ""
 video_url: ""

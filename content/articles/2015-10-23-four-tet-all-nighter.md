@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510231254-ygr12-fourtet2.jpg"
 image_caption: >
   The dark can be fun and exciting – the Four Tet All Nighter was neither.
-image_width: "0"
-image_height: "0"
 image_attribution: "Crack Magazine"
 image_attribution_link: ""
 video_url: ""

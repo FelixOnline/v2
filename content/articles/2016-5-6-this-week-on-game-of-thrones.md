@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061116-felix-game-of-thrones-episode-2-4-810x539.jpg"
 image_caption: >
   That awkward moment when you’re older than your father.
-image_width: "810"
-image_height: "539"
 image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261120-felix-IMG_7506.JPG"
 image_caption: >
 
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Matt Johnston"
 image_attribution_link: ""
 video_url: ""

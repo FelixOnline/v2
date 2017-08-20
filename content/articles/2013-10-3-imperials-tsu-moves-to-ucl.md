@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310032359-jal08-news_students.jpg"
 image_caption: >
   The move to UCL comes despite continued petitions by TSU students which were supported by the Union
-image_width: "0"
-image_height: "0"
 image_attribution: "Google Plus"
 image_attribution_link: ""
 video_url: ""

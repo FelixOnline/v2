@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261125-felix-final.jpg"
 image_caption: >
   Over FELIX’s dead body.
-image_width: "3840"
-image_height: "2160"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""

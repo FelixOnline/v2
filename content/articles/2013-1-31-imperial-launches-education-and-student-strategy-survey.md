@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201301312250-tna08-ed_1.png"
 image_caption: >
   A screen shot of the survey, including a quick entry from Felix...
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

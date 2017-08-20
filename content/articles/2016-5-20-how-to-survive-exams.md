@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605201124-felix-lib.jpg"
 image_caption: >
   Real talk.
-image_width: "4375"
-image_height: "2665"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""

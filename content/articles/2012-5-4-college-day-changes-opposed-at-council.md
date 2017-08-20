@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205040221-felix-dsc_2345.jpg"
 image_caption: >
   Heath opposed the extension of teaching on Wednesday until 1pm on the grounds of students having to
-image_width: "0"
-image_height: "0"
 image_attribution: "Thomas Lim"
 image_attribution_link: ""
 video_url: ""

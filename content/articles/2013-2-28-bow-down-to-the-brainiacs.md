@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201302281752-txl11-connectome2.jpg"
 image_caption: >
   One of the images already produced of connections in the brain
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

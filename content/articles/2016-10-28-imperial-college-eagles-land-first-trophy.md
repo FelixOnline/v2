@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610281741-aib116-handball.jpg"
 image_caption: >
 
-image_width: "2048"
-image_height: "1536"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

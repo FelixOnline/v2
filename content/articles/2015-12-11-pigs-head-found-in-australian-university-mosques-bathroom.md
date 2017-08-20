@@ -37,14 +37,11 @@ featured: true
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
-image_width: ""
-image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 ---
 
-TODO: image from
 Last weekend, a student at the University of Western Australia discovered a decapitated pig’s head in the toilets adjacent the University’s Muslim prayer rooms.
 
 Majdi Fal, a Tunisian PhD student, came across the gruesome object when preparing for prayer in the bathrooms near the prayer rooms. He photographed the pig’s head, which had been left face down in the bowl of a squat toilet, and posted it to Facebook, adding “If this happened at a university, then THINGS ARE ESCALATING”. The post has since been removed.

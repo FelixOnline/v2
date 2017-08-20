@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606171136-felix-Embrace-of-the-Serpent-2_0.jpg"
 image_caption: >
   Embrace of the Serpent offers up a visual, inellectual, and metaphysical feast.
-image_width: "1920"
-image_height: "1244"
 image_attribution: "Alamy"
 image_attribution_link: ""
 video_url: ""

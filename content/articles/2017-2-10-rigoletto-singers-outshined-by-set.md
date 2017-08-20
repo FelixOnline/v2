@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702101551-felix-ENO-Rigoletto-c-Alastair-Muir-4.jpg"
 image_caption: >
 
-image_width: "2000"
-image_height: "1200"
 image_attribution: "Alastair Muir"
 image_attribution_link: ""
 video_url: ""

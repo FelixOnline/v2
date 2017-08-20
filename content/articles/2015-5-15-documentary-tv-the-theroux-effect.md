@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505151328-cj914-louis-theroux-cmyk-copy.jpg"
 image_caption: >
   Louis Theroux and Camille, in the BBC Two documentary Transgender Kids, broadcast last month, which sparked a debate about transgender issues in childhood
-image_width: "0"
-image_height: "0"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""

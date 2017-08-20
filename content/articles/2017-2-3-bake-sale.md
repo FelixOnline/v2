@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702031707-felix-16102649867_82aee2042a_o.jpg"
 image_caption: >
 
-image_width: "3072"
-image_height: "2304"
 image_attribution: "Mosaic Marketing"
 image_attribution_link: ""
 video_url: ""

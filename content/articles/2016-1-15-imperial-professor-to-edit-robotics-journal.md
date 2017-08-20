@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601151122-felix-Screen Shot 2016-01-13 at 14.57.36.png"
 image_caption: >
   Professor Yang
-image_width: "374"
-image_height: "430"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

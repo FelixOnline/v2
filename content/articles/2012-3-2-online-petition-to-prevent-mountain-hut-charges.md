@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203020058-felix-420593_222175751212310_222174437879108_412468_1709240345_n.jpg"
 image_caption: >
   The St Mary’s mountain hut
-image_width: "640"
-image_height: "480"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

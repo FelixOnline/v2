@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201401311718-jal08-silver-3.jpg"
 image_caption: >
   The contents of your pants could one day look like this
-image_width: "0"
-image_height: "0"
 image_attribution: "images-of-elements.com"
 image_attribution_link: "http://www.images-of-elements.com"
 video_url: ""

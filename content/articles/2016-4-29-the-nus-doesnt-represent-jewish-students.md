@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201604291118-felix-Screen Shot 2016-04-28 at 13.25.55.jpg"
 image_caption: >
 
-image_width: "997"
-image_height: "642"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

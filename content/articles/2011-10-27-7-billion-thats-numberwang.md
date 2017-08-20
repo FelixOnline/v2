@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110272358-felix-world.jpg"
 image_caption: >
 
-image_width: "1275"
-image_height: "618"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

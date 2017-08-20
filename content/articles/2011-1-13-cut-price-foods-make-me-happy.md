@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101132107-ks607-omaromar.jpg"
 image_caption: >
 
-image_width: "604"
-image_height: "403"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

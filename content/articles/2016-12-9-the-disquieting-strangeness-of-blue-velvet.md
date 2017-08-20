@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612091550-felix-6bfb4bda9934d113f85f5ddd17a4491c.png"
 image_caption: >
 
-image_width: "1600"
-image_height: "900"
 image_attribution: "Warner Bros"
 image_attribution_link: ""
 video_url: ""

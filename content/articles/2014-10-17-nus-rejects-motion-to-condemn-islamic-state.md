@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201410171548-kmw13-alan-henning-isis.jpg"
 image_caption: >
   A video purporting to show the beheading of Alan Henning was released 2 weeks ago
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

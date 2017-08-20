@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011041901-jk708-Research.jpg"
 image_caption: >
   Visa restrictions could hamper Imperial's ability to attract talented researchers
-image_width: "3888"
-image_height: "2592"
 image_attribution: "Kadhim Shubber"
 image_attribution_link: "http://www.felixonline.co.uk/?user=ks607"
 video_url: ""

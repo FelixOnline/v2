@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110132115-felix-img_0322.jpg"
 image_caption: >
   There were way more girls there, honestly
-image_width: "4752"
-image_height: "3168"
 image_attribution: "Alexander Karapetian"
 image_attribution_link: ""
 video_url: ""

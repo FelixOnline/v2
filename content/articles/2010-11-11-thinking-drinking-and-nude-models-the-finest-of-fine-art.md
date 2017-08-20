@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011112017-nm1010-drinking.jpg"
 image_caption: >
   Felix staff doing their best impression of arty people discussing literachacha...
-image_width: "3888"
-image_height: "2592"
 image_attribution: "Tom Welch"
 image_attribution_link: ""
 video_url: ""

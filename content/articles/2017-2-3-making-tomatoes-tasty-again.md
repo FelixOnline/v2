@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702031637-felix-3036852901_801fd59122_b.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "683"
 image_attribution: "Missy"
 image_attribution_link: ""
 video_url: ""

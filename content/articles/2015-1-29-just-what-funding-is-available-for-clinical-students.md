@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201501292355-ps3110-icl_ntu_047.jpg"
 image_caption: >
   Hospitals trusts, such as Imperial College Healthcare, will soon have to chase up foreign nationals for payment
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

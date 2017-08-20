@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172020-pk1811-pic.jpg"
 image_caption: >
   Autofluorescent roots (blue) of Arabidopsis thaliana and E.coli expressing superfolder GFP (green)
-image_width: "968"
-image_height: "585"
 image_attribution: "Imperial College iGEM 2011"
 image_attribution_link: ""
 video_url: ""

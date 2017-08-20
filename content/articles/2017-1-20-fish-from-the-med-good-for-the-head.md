@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701201513-felix-fish-1768103_1280.png"
 image_caption: >
 
-image_width: "1280"
-image_height: "905"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

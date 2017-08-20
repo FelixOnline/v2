@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201406231556-jal08-n_polytope_berlin_016.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Inigo Martinez de Rituerto"
 image_attribution_link: ""
 video_url: ""

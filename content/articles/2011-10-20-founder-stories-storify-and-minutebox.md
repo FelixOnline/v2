@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110202352-felix-xavierdamman.png"
 image_caption: >
   Xavier Damman, founder of Storify, discusses his move to Silicon Valley
-image_width: "496"
-image_height: "371"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

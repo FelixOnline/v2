@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701271703-felix-Aziz_Anzari_December_2011.jpg"
 image_caption: >
   Change rarely comes from where you expect it
-image_width: "4000"
-image_height: "2559"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -44,7 +42,6 @@ Last Saturday, Aziz Ansari continued his meteoric rise to prominence by being th
 South Asians especially have traditionally been under-represented in media, and whether by chance or for cultural reasons, any distinct South Asian voice has been virtually non-existent in the zeitgeist. With Trump’s building assault on Islam and the inevitable swell of suspicion and racism that follows, it is increasingly important for there to be prominent brown voices in the mainstream.
 
 Fortunately, this seems to be changing as of late, with the increasing popularity of shows like Master of None, and The Night Of. These are shows that explore the South Asian voice with grace, subtlety and, most importantly, reserved ferocity. For the longest time, any defences of ‘brown’ culture had to be made timidly, as if making the defence itself was some sort of indication of guilt. Those like Ansari and Riz Ahmed, however, are no longer afraid to flaunt their identities. Following the paths laid down by people like M.I.A, Ansari and Ahmed speak boisterously, unafraid to hold society to account.
-TODO: image from
 Ansari’s Master of None, hopefully returning for its second season this year, deals with his difficulty getting work as an Indian actor, and the way western media tends to reduce them to stereotypes. Similarly, The Night Of deals with the uphill struggle young Muslim men face just to not be presumed guilty. To his credit, Ahmed has long been producing work that explores alternative minority narratives, such as Four Lions and The Road to Guantanamo. Unfortunately, these didn’t have anywhere near as much attention as they deserved. Ahmed’s participation in Rogue One and the hip-hop duo Swet Shop Boys seems to be changing all that.
 
 Hip-Hop was conceived as a triumphant voice of rebellion. There is no need to be timid or defensive, and it demands the full embrace of any culture that uses it as a voice. If any medium would lend itself to the protest we need, it is this. Thankfully, Riz Ahmed and Heems, of Das Racist fame, have seen fit to give us exactly that. Swet Shop Boys fuses and covers every niche of South Asian culture, and flamboyantly flaunts them.

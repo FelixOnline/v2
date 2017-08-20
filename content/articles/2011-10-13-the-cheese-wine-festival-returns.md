@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110140033-sjw209-wine-and-cheese-medium.jpg"
 image_caption: >
   A whole festival based around cheese and wine? Better brie-lieve it
-image_width: "1698"
-image_height: "1131"
 image_attribution: "Travelmaven - Wordpress"
 image_attribution_link: "http://travelmaven.files.wordpress.com/2011/01/wine-and-cheese-medium.jpg"
 video_url: ""

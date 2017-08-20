@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605271101-felix-LIFT 2016 M.jpg"
 image_caption: >
 
-image_width: "1160"
-image_height: "653"
 image_attribution: "Manuel Abramovich, Tony Fanning, Cyclone A, Maria Baranova"
 image_attribution_link: ""
 video_url: ""

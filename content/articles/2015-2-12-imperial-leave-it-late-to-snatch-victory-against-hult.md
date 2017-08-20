@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502122259-jyg11-js30759917.jpg"
 image_caption: >
   An artist's impression of the challenging conditions the 7th XI faced at the weekend
-image_width: "0"
-image_height: "0"
 image_attribution: "Steve Porter"
 image_attribution_link: ""
 video_url: ""

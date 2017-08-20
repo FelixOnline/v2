@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201305281542-tna08-sickness_performing_in_rrrecords.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -69,7 +67,6 @@ RL: Most labels put out cassette after cassette of the same people – I wanted 
 I no longer ask the artist to make their master based on recycling/remixing – I’m happy to accept new original material – I no longer ask well known and successful artists to participate in the series, I try to only release the unknown, unloved, unaccomplished – the new recruits, those who are just beginning their noise journey – I see no reason to support those who are already successful, they already have their support mechanism in place – the unknown, unloved have no one who cares and that’s why I want to use this series as a support mechanism for the new recruits
 
 There was a time when the noise scene didn’t exist, everyone was unloved and unaccomplished – but when we found each other, we knew we had to support each other – now the noise scene exists but it sill has the unloved and unaccomplished – they get my full support, I remember what it was like when no one cared.
-TODO: image from
 __RA: How do you feel the noise scene has evolved since the beginning and is it for better or for worse?__
 
 RL: Well, the big difference is the noise scene actually exists now – there was a time when only the artists knew each other and the information was hard to get out, now the information is easy to get out, it happens every second of every day – and now there are so many people who listen to noise for their own personal pleasure, it no longer revolves around those with the NEED to make noise – it has become an acceptable form of expression and because of that, you have to take the good and the bad.

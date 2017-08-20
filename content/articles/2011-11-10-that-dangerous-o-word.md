@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102226-pk1811-gta1.jpg"
 image_caption: >
   Claims that games like GTA IV negatively impact on one’s mental state need to be supported
-image_width: "1280"
-image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

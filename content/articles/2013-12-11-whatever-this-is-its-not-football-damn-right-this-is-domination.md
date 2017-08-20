@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
-image_width: ""
-image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -76,4 +74,3 @@ So there you have it, IC 1s returned to the Union to celebrate their progression
 Smittthyyyyyyyy, what do you wanna be?
 
 ICUAFC is sponsored by:
-TODO: image from

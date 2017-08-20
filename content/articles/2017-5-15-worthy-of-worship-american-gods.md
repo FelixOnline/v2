@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705151913-felix-26-american-gods-4.w710.h473.2x.jpg"
 image_caption: >
 
-image_width: "1116"
-image_height: "744"
 image_attribution: "Starz, Amazon"
 image_attribution_link: ""
 video_url: ""

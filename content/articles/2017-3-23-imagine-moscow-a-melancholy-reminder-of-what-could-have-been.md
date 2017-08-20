@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703231640-ff712-Valentina Kulagina.jpeg"
 image_caption: >
   Valentina Kulagina, Front cover design
-image_width: "2760"
-image_height: "3617"
 image_attribution: "Ne Boltai! Collection"
 image_attribution_link: ""
 video_url: ""

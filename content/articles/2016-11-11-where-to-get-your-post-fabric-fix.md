@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611111831-felix-XOYO.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "683"
 image_attribution: "Rob Searle"
 image_attribution_link: ""
 video_url: ""
@@ -49,7 +47,6 @@ This behemoth  of everything dance music has  been a flagship of London nightlif
 Taking us further South of the river - it’s worth it, trust me -  Phonox occupies the space previously held by Brixton favourite Plan B. This relatively new addition to the scene pulls in the crowds. Recently launching their Sunday night sessions with the likes of Gilles Peterson and Daniel Avery, they keep the format refreshing. Fridays see a regular lineup of heavyweights, this venue more than makes up for the journey.
 ## CLF Art Cafe
 Our last entry in South London, this multi-purpose arts venue is located in the imposing industrial architecture of the former warehouse Bussey Building, Peckham.  It never fails to deliver. Three stories, each with its own dance floor and unique selectors. The vibes vary greatly on each floor and each day of the weekend, blasting disco, soul, house and techno.
-TODO: image from
 ## XOYO
 Student favourite XOYO has earned its reputation through consistently putting on fantastic nights. Situated in Shoreditch, this reknowned nightclub provides for more than just hipsters. Its large floors normally play contrasting music on club nights, giving something for everyone to enjoy.
 ## Studio Spaces
@@ -58,4 +55,3 @@ Stark photographic studio by day, when the sun goes down this space becomes a go
 Opened in 2010, this Dalston club is now a stalwart of the London nightlife scene. A capacity of 350 still draws in big-hitters from across the underground electronic scene. A favourite with locals, the focus is always firmly on the music. The long, narrow format of the club means you can really find a spot to dance and lose yourself in the moment.
 ## Oval Space
 Stunningly beautiful, a wall of windows gives venue-goers a view of the decomissioned gasworks of Bethnal Green. You’ll never forget your nights out here, with listings ranging from live music to giants of electronic dance music. Everyone should visit at least once.
-TODO: image from

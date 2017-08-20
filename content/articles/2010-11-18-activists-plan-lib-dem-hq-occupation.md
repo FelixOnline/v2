@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011182149-ks607-millbank.jpg"
 image_caption: >
   Protestors at Millbank Tower
-image_width: "2389"
-image_height: "3584"
 image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""

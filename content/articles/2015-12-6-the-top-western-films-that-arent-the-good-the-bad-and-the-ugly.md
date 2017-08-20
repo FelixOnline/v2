@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201512061434-ff712-The-Good-the-Bad-and-the-Ugly.jpg"
 image_caption: >
 
-image_width: "620"
-image_height: "414"
 image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""

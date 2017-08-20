@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106021858-felix-imrankhan.jpg"
 image_caption: >
   CaSE director Imran Khan, an Imperial alumnus, called the decision “mystifying”
-image_width: "1154"
-image_height: "1452"
 image_attribution: "CaSE"
 image_attribution_link: "http://sciencecampaign.org.uk/"
 video_url: ""

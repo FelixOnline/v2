@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111031954-pk1811-anopheles_albimanus_mosquito.jpg"
 image_caption: >
   I’m afraid there were no cute pictures of mosquitoes...
-image_width: "2466"
-image_height: "1629"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106162057-felix-ur_multimedia_341218.jpeg"
 image_caption: >
   Martin Saar
-image_width: "300"
-image_height: "225"
 image_attribution: "University of Minnesota"
 image_attribution_link: "http://www1.umn.edu/news/news-releases/2011/UR_CONTENT_341216.html"
 video_url: ""

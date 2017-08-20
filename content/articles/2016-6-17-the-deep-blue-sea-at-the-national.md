@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606171129-felix-deepbluesea.jpg"
 image_caption: >
   Dark Passions – Tom Burke and Helen McCrory in The Deep Blue Sea.
-image_width: "1919"
-image_height: "1152"
 image_attribution: "Richard Hubert Smith"
 image_attribution_link: ""
 video_url: ""

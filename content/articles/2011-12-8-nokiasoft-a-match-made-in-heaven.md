@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112081952-cac111-nokia.jpg"
 image_caption: >
   deadmau5 helped to launch the Nokia Lumia 800 at Millbank Tower in late November
-image_width: "940"
-image_height: "397"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -62,7 +60,6 @@ __Integration__
 The integration of several separate applications into one phone is one of the main successes. I’ll quickly give you two of many examples. The first is games: all games go through a very slick Xbox Live interface which, if you have an Xbox, is made even better. The other is social networking integration: if you click on a group of contacts, e.g. “Chemistry” on “what’s new” there is a feed of all your friends’ updates, Facebook, Twitter, Live Messenger, Google+ and even LinkedIn.
 
 Even with messaging it integrates social networking; imagine if text, MSN, Facebook Chat were all in one thread – on this they are. You can be messaging one of your friends using Facebook and, when they go offline, you just tap a button and you can send them the message as a text, it’s all part of the same interface.
-TODO: image from
 __Productivity__
 
 This phone isn’t only great on a personal use level, it’s great for work. Microsoft Office has OneNote, Excel, Powerpoint and Word so that you can edit all your documents from your SkyDrive offline or online, on the go – great for some last minute edits to your lab reports.

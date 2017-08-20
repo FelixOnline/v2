@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162326-sjw209-dsc_0020.jpg"
 image_caption: >
 
-image_width: "4288"
-image_height: "2848"
 image_attribution: "IC Taekwondo"
 image_attribution_link: ""
 video_url: ""

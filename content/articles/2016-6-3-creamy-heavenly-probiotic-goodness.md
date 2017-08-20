@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606031111-felix-6853278652_e1f3517207_o.jpg"
 image_caption: >
   Yoghurt, bitches.
-image_width: "1874"
-image_height: "1865"
 image_attribution: "Jules"
 image_attribution_link: ""
 video_url: ""

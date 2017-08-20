@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606101033-felix-2016 Wellcome shortlisted authors.jpg"
 image_caption: >
 
-image_width: "600"
-image_height: "400"
 image_attribution: "FMCM Associates"
 image_attribution_link: ""
 video_url: ""

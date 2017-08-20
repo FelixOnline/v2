@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201002181646-lh106-Jerusale.jpg"
 image_caption: >
 
-image_width: "2362"
-image_height: "1546"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

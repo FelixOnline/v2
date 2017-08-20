@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110272309-felix-4935940784_52aac8bd66_b.jpg"
 image_caption: >
   Sized apples move through an apple packing plant at one of the California Apple Commision’s factorie
-image_width: "1024"
-image_height: "683"
 image_attribution: "flickr/Anthony Dunn Photography"
 image_attribution_link: "http://www.flickr.com/photos/adunnphoto/4935940784/"
 video_url: ""

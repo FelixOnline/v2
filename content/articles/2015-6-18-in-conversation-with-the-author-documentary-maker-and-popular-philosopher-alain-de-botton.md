@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506182133-jyg11-features-1610.jpg"
 image_caption: >
   “The gap between what we want the world to be and what it is should be filled with laughter.” – Alain de Botton talking at a TEDx Conference in Oxford.
-image_width: "0"
-image_height: "0"
 image_attribution: "FT"
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172058-pk1811-groupon.jpg"
 image_caption: >
   Groupon must take on Google and Facebook if it is to triumph
-image_width: "553"
-image_height: "369"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

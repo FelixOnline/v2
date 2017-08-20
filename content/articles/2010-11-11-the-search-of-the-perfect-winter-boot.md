@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011112034-nm1010-winterug.jpg"
 image_caption: >
 
-image_width: "1155"
-image_height: "1507"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

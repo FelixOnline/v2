@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251218-ff712-maxresdefault.jpg"
 image_caption: >
   The steamy, sensual video for FKA twigs' Two Weeks, from 2014's LP1
-image_width: "0"
-image_height: "0"
 image_attribution: "YouTube"
 image_attribution_link: ""
 video_url: ""

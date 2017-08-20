@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506112313-cj914-blast-centre.jpg"
 image_caption: >
   Prince Harry opened the Centre for Blast Injury Studies in 2013.
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

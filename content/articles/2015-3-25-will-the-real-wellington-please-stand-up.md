@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251331-ff712-npg_896_1340_arthurwellesle.jpg"
 image_caption: >
   Arthur Wellesley, 1st Duke of Wellingtonm (detail) by Francisco de Goya, 1812-14
-image_width: "0"
-image_height: "0"
 image_attribution: "The National Gallery, London"
 image_attribution_link: ""
 video_url: ""

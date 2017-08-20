@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502201114-cj914-o-asthma-sleep-apnea-facebook.jpg"
 image_caption: >
   Asthma affects millions of people
-image_width: "0"
-image_height: "0"
 image_attribution: "Zoombaa"
 image_attribution_link: ""
 video_url: ""

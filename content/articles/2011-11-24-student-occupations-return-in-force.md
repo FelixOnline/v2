@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242207-pk1811-148130-a-levels-accused-of-being-too-easy.jpg"
 image_caption: >
   Universities Minister David Willetts
-image_width: "950"
-image_height: "1318"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -54,7 +52,6 @@ Further occupations have been reported at universities across the UK. Students h
 Birmingham University said in a statement: “Students and staff have the right to protest peacefully but the safety of students and staff must remain our priority.”
 
 Up to 100 students have taken part in a protest at the University of Warwick. University spokesman Peter Dunn said he was not concerned by the occupation, organised by the [National Campaign Against Fees and Cuts](http://anticuts.com/) (NCAFC), stating: “We’ve had occupations before. This is another one and I’m sure we’ll have occupations in the future.”
-TODO: image from
 The latest call to occupy universities across the country comes approximately one year after sit-ins at the University of Manchester and the University of Sussex. Students occupied a building at the University of Manchester, demanding access to the institution’s accounts to find out how cuts are likely affect their studies. Students at the University of Sussex in Brighton occupied a campus building in protest over proposed plans to cut 115 jobs and create 20 new posts.
 > [The student movement in the UK] may well be closer to winning than many presume.
 Organiser for the NCAFC Michael Chessum posted a statement on the NCAFC website “Nothing could be clearer from the past year of struggle than the ability of clear political demands to mobilise numbers in the streets. If the student movement can spell out and fight for a genuine ideological alternative to fees, debt and marketisation in education, it may well be closer to winning than many presume.”

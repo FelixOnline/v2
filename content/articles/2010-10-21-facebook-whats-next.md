@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104201305-felix-facebook-login-1.jpeg"
 image_caption: >
 
-image_width: "1276"
-image_height: "979"
 image_attribution: "azziet.blogspot.com"
 image_attribution_link: "http://azziet.blogspot.com/2011/04/facebook-sellingexposing-our-data-to.html"
 video_url: ""

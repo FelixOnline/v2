@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106021915-felix-musharraf.jpg"
 image_caption: >
 
-image_width: "1597"
-image_height: "2400"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251420-ff712-chronophotograph-of-a-man-clearing-a-hurdle,-c.1892,-êtienne-jules-marey-∏-national-media-museum,-bradford-sspl.jpg"
 image_caption: >
   Chronophotograph of a Man Clearing a Hurdle, c.1892, Étienne Jules Marey
-image_width: "0"
-image_height: "0"
 image_attribution: "National Media Museum, Bradford SSPL"
 image_attribution_link: ""
 video_url: ""

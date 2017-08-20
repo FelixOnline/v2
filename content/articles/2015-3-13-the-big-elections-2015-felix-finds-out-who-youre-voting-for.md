@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503130050-cj914-over-exposed-front-page-pic.jpg"
 image_caption: >
   The live stats on the Union page give a comprehensive breakdown of voters
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""

@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201002120149-rsp07-universt.jpg"
 image_caption: >
 
-image_width: "641"
-image_height: "360"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

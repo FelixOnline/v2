@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503192348-cj914-clotho-girls.jpg"
 image_caption: >
   Vivien Tang and Caroline Wood, AKA The Clotho Girls
-image_width: "0"
-image_height: "0"
 image_attribution: "Clotho"
 image_attribution_link: ""
 video_url: ""

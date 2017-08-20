@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606171110-felix-2129079425_291111a332_o.jpg"
 image_caption: >
   During periods of economic austerity easily treatable illnesses thrive.
-image_width: "3072"
-image_height: "2304"
 image_attribution: "pudgeefeet"
 image_attribution_link: ""
 video_url: ""

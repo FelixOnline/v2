@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705151916-felix-a3313749749_10.jpg"
 image_caption: >
 
-image_width: "1200"
-image_height: "1200"
 image_attribution: "holyroarrecords"
 image_attribution_link: ""
 video_url: ""

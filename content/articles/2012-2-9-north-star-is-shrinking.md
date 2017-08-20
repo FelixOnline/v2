@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092226-pk1811-annapurnastartrails_hao.jpg"
 image_caption: >
   All other stars appear to rotate around the North star as the Earth spins
-image_width: "2000"
-image_height: "1333"
 image_attribution: "Wang Jinglei and Jia Hao, NASA"
 image_attribution_link: ""
 video_url: ""

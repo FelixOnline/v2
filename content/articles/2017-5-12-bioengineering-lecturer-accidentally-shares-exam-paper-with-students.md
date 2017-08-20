@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705121851-felix-3005650135_f3fabbe642_o.jpg"
 image_caption: >
   You can't upload an exam paper by accident if you don't use a computer
-image_width: "1600"
-image_height: "1200"
 image_attribution: "Shawn Campbell"
 image_attribution_link: ""
 video_url: ""

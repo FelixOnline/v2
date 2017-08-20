@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152123-ig711-imperial1.jpg"
 image_caption: >
   Because ‘Diving for Lead’ just isn’t as catchy
-image_width: "834"
-image_height: "1000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

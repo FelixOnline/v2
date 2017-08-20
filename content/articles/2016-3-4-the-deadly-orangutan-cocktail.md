@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603041135-felix-12626939765_1e1d97bfc3_o.jpg"
 image_caption: >
   What lies ahead for the futrue of this little one?
-image_width: "7360"
-image_height: "4912"
 image_attribution: "Eric Kilby  "
 image_attribution_link: ""
 video_url: ""

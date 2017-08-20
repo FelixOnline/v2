@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411062021-snb11-depression-xalt.png"
 image_caption: >
   You might know that different things are happening to you, but they don't feel very different. – Hyp
-image_width: "0"
-image_height: "0"
 image_attribution: "Allie Brosh"
 image_attribution_link: ""
 video_url: ""

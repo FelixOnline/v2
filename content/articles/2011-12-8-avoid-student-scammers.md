@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082009-pk1811-f_200702_february19e_18665a.jpg"
 image_caption: >
   A genuine police warrant card
-image_width: "265"
-image_height: "360"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

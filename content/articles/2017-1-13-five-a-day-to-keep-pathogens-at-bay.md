@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701131410-felix-16418101707_5185ae7a64_k.jpg"
 image_caption: >
 
-image_width: "2048"
-image_height: "1152"
 image_attribution: "Bounmy C"
 image_attribution_link: ""
 video_url: ""

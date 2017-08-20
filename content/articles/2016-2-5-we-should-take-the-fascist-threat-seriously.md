@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051158-felix-copyright_photograph_@bat020.Twitter2.jpg"
 image_caption: >
   People and property were damaged in clashes.
-image_width: "600"
-image_height: "427"
 image_attribution: "Twitter"
 image_attribution_link: ""
 video_url: ""

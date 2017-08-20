@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411160010-ps3110-samantha_colley_as_adult_joan_in_far_away_at_the_young_vic._photo_by_richard_hubert_smith._1.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

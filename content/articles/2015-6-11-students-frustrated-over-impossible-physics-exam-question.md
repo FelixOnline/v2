@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506112347-cj914-prof-michelle-dougherty-w---tojpeg_1414600890691_x2.jpg"
 image_caption: >
   This has not been the only issue for Physics undergraduate students this term.
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

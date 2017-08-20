@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201108081444-felix-morrisons.jpg"
 image_caption: >
   Truffles and supermarkets – a match made in Morrisons heaven?
-image_width: "2700"
-image_height: "1800"
 image_attribution: "KamCity"
 image_attribution_link: "http://www.kamcity.com/images/retailer/morrisons.jpg"
 video_url: ""

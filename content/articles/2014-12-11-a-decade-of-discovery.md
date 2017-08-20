@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412112032-cj914-cassini-2.jpg"
 image_caption: >
   In the 10 years Cassini has been in orbit around Saturn, its data has revolutionised our understandi
-image_width: "0"
-image_height: "0"
 image_attribution: "NASA/Cassini"
 image_attribution_link: ""
 video_url: ""

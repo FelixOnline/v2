@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703101438-felix-gospel choir.JPG"
 image_caption: >
 
-image_width: "1181"
-image_height: "787"
 image_attribution: "ICGC"
 image_attribution_link: ""
 video_url: ""

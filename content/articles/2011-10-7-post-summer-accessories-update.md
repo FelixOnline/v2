@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110071325-felix-earrings-dolce-.png"
 image_caption: >
   Shoulder skimming earrings from Dolce and Gabbana
-image_width: "638"
-image_height: "576"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

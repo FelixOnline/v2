@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103012047-ks607-hairdres.jpg"
 image_caption: >
   Drew Foster's business was truly launched when he was forced to sell his flat to the Council
-image_width: "2592"
-image_height: "1936"
 image_attribution: "Afonso Campos"
 image_attribution_link: ""
 video_url: ""

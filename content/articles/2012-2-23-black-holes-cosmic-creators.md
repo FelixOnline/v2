@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232043-cac111-black-hole.gif"
 image_caption: >
   Artist’s impression of a black hole
-image_width: "1325"
-image_height: "1770"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162138-ams111-caryn-blank.jpg"
 image_caption: >
   All Walks Founder: Caryn Franklin
-image_width: "616"
-image_height: "391"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

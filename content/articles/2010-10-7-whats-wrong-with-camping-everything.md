@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104181152-felix-4845436294_7e683729ec_b.jpg"
 image_caption: >
   Eugh...
-image_width: "1024"
-image_height: "768"
 image_attribution: "flickr/dtwigg98"
 image_attribution_link: "http://www.flickr.com/photos/dtwigg98/"
 video_url: ""

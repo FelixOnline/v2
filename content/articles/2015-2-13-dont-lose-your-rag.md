@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502131516-bwh12-3stoogesjailbreak3.jpg"
 image_caption: >
   This approach apparently only works on this side of the Channel.
-image_width: "0"
-image_height: "0"
 image_attribution: "Bella Dennis"
 image_attribution_link: ""
 video_url: ""

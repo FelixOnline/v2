@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606101027-felix-14817357391_1eaab3c8a5_o.jpg"
 image_caption: >
   Extensive stand of severely bleached coral.
-image_width: "1200"
-image_height: "900"
 image_attribution: "Petchrung Sukpong"
 image_attribution_link: ""
 video_url: ""

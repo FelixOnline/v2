@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261134-felix-Chemicals_in_flasks.jpg"
 image_caption: >
   Our science and engineering mix is wrong – there’s too much specialisation and not enough generalists.
-image_width: "1024"
-image_height: "909"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""

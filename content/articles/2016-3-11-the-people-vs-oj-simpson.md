@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111206-felix-MV5BMjUwNDE1ODgtOTQyMi00ZGVhLTg0M2QtYTM1ZDdmNWVlNWM1XkEyXkFqcGdeQXVyNTQ4ODM3NDM@._V1_.jpg"
 image_caption: >
   The Dream Team.
-image_width: "960"
-image_height: "540"
 image_attribution: "Fox"
 image_attribution_link: ""
 video_url: ""

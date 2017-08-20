@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603041116-felix-151021_president_Xi_Jinping_China_085.jpg"
 image_caption: >
   What's in the box?
-image_width: "4830"
-image_height: "3219"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

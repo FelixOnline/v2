@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061057-felix-bottomlesspit.jpg"
 image_caption: >
   A bottomless balloon pit?
-image_width: "500"
-image_height: "500"
 image_attribution: "Death Grips"
 image_attribution_link: ""
 video_url: ""

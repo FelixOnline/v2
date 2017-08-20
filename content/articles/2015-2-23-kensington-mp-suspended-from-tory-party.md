@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502231537-bwh12-rifkind.jpg"
 image_caption: >
   Rifkind speaks to Policy Exchange in 2012
-image_width: "0"
-image_height: "0"
 image_attribution: "Wiki Commons: SE7"
 image_attribution_link: "http://en.wikipedia.org/wiki/Malcolm_Rifkind#mediaviewer/File:Rt_Hon_Sir_Malcolm_Rifkind_MP_at_Policy_Fight_Club.jpg"
 video_url: ""

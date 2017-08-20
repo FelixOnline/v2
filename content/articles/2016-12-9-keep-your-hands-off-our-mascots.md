@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612121611-felix-theta.jpg"
 image_caption: >
 
-image_width: "620"
-image_height: "381"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

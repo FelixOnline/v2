@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010212006-ks607-sloanecu.jpg"
 image_caption: >
 
-image_width: "528"
-image_height: "1014"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

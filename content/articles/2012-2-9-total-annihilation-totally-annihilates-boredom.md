@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092230-ams111-1177920819_total_annihilation.jpg"
 image_caption: >
 
-image_width: "1275"
-image_height: "1537"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

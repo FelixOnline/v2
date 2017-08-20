@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205181721-felix-mhi_patches2.jpg"
 image_caption: >
   Monster Hunter International – looks like a friendly bunch
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

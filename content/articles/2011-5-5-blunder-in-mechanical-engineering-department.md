@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105060042-felix-cirque_du_soleil_-_5009.jpg"
 image_caption: >
   The Mechanical Engineering Department
-image_width: "4368"
-image_height: "2912"
 image_attribution: "Ian Gillett/Imperial College London"
 image_attribution_link: ""
 video_url: ""

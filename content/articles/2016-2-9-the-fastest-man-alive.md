@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602091324-sa8713-the-flash.jpg"
 image_caption: >
 
-image_width: "1200"
-image_height: "670"
 image_attribution: "The CW"
 image_attribution_link: ""
 video_url: ""

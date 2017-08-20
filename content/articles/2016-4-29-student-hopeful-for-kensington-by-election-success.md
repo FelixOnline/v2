@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201604291059-felix-6997132774_62093dae36_k.jpg"
 image_caption: >
   Democracy.
-image_width: "2048"
-image_height: "1537"
 image_attribution: "Flickr / secretlondon123"
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122158-felix-dsc_6871.jpg"
 image_caption: >
 
-image_width: "2000"
-image_height: "3008"
 image_attribution: "Beth Elzer"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201302010013-tna08-simon-russell-beale-(captain-terri-dennis)-and-the-sadusea-company.-by-johan-persson.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

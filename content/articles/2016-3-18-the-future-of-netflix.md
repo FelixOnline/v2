@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603181201-felix-12674881_10154165096203714_135856404_o.jpg"
 image_caption: >
   Well S@%$! That’s my evening ruined.
-image_width: "1365"
-image_height: "641"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

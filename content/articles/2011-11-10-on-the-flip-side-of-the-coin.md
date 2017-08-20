@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111110955-felix-umair-aasem.jpg"
 image_caption: >
 
-image_width: "1542"
-image_height: "1300"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

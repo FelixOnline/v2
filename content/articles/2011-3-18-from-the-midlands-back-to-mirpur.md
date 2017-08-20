@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103172108-ks607-photo12.jpg"
 image_caption: >
   Look at those bulging biceps
-image_width: "1888"
-image_height: "2844"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

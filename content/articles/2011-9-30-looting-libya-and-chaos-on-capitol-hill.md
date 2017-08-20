@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201109301232-felix-building-on-fire-during-t-007.jpg"
 image_caption: >
   A Tottenham carpet store burns during the riots
-image_width: "460"
-image_height: "276"
 image_attribution: "guardian.co.uk"
 image_attribution_link: "http://static.guim.co.uk/sys-images/Guardian/Pix/audio/video/2011/8/7/1312718209368/Building-on-fire"
 video_url: ""

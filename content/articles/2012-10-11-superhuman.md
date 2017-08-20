@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210112128-felix-0a2aimeemullalernumber1.jpg"
 image_caption: >
   My caption-writing skills have finally been rendered useless
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

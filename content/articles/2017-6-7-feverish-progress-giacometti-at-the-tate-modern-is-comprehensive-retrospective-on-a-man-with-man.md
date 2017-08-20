@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706071011-im1413-T00774_9.jpg"
 image_caption: >
   Alberto Giacometti- "Bust of Diego" 1955 displayed at the Tate. Photo: Tate, The Estate of Alberto Giacometti (Fondation Giacometti, Paris and ADAGP, Paris), licensed in the UK by ACS and DACS, London, 2017
-image_width: "503"
-image_height: "730"
 image_attribution: "Photo: Tate, The Estate of Alberto Giacometti (Fondation Giacometti, Paris and ADAGP, Paris), licensed in the UK by ACS and DACS, London, 2017"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032137-felix-ralphfiennes.jpg"
 image_caption: >
   Four days in and Ralph was already sick of people asking for Movember donations
-image_width: "1600"
-image_height: "1067"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

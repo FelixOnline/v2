@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703171311-felix-1438560415_fbd1c30e83_o.jpg"
 image_caption: >
   PLEASE DO NOT TOUCH
-image_width: "2376"
-image_height: "4224"
 image_attribution: "Tim Regan"
 image_attribution_link: ""
 video_url: ""

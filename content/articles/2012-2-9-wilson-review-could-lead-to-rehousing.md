@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092228-felix-252_5284.jpg"
 image_caption: >
 
-image_width: "2160"
-image_height: "1440"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206011454-mc4509-burning-oil-rig-explosion-fire-photo11.jpg"
 image_caption: >
   The BP oil rig ablaze
-image_width: "0"
-image_height: "0"
 image_attribution: "U.S. Coast Guard"
 image_attribution_link: ""
 video_url: ""

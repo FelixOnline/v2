@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261133-felix-one skull.jpg"
 image_caption: >
   One skull tells a different story.
-image_width: "1024"
-image_height: "768"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""

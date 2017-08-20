@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092200-pk1811-nicolasjaar1.jpg"
 image_caption: >
   Get your foot away from my face.
-image_width: "604"
-image_height: "403"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

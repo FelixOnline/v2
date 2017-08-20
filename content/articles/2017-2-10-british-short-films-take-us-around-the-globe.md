@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702101520-felix-Tough_festival_still00002_1000.jpg"
 image_caption: >
 
-image_width: "1000"
-image_height: "562"
 image_attribution: "Jennifer Zheng"
 image_attribution_link: ""
 video_url: ""

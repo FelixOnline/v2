@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611251339-felix-milky-way-1684226_1920.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1081"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

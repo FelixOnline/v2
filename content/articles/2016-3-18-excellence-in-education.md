@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603181134-felix-Imperial_College_-_South_Kensington_Campus.jpg"
 image_caption: >
 
-image_width: "8088"
-image_height: "2444"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

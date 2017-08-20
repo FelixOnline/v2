@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201301102257-csw09-animaatjes-southpark-41673.jpg"
 image_caption: >
   OMG they keep making shitty episodes. YOU BASTARDS
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

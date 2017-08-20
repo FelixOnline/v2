@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192010-ams111-bertrand_russell.jpg"
 image_caption: >
   Russell-ing up some serious artwork
-image_width: "470"
-image_height: "570"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

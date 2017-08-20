@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092236-pk1811-brooklyn_the_richardson_mixologist_joel_lee_kulp_vw_2010-19.jpg_693_471_0_80_1_50_50.jpg"
 image_caption: >
   90% vodka, anyone?
-image_width: "316"
-image_height: "471"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

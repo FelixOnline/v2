@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103030629-ks607-japenese.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "855"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

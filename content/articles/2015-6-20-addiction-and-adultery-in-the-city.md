@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506201721-ff712-jpeg-8.jpg"
 image_caption: >
   Ricardo Chavira and Yul Vázquez in The Motherfucker with the Hat
-image_width: "0"
-image_height: "0"
 image_attribution: "Mark Douet"
 image_attribution_link: ""
 video_url: ""

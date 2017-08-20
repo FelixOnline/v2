@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121156-felix-onepunchman.jpg"
 image_caption: >
   Gearing up for the ultimate KO punch.
-image_width: "1920"
-image_height: "1080"
 image_attribution: "Daisuki"
 image_attribution_link: ""
 video_url: ""

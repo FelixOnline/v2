@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310120206-jal08-1275276_10153350305460195_1433117591_o.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "RCSU"
 image_attribution_link: "https://www.facebook.com/media/set/?set=a.10153350302595195.1073741829.83336780194&type=1"
 video_url: ""

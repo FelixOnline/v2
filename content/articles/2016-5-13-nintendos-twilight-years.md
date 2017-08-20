@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131129-felix-twilight.jpg"
 image_caption: >
 
-image_width: "2560"
-image_height: "1600"
 image_attribution: "Nintendo"
 image_attribution_link: ""
 video_url: ""

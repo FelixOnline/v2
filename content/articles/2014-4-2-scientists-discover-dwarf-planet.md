@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201404021214-jal08-orbit-diagram---n.jpg"
 image_caption: >
   This orbit diagram shows the paths of Oort cloud objects 2012 VP113 (red) and Sedna (orange), which
-image_width: "0"
-image_height: "0"
 image_attribution: "Scott S. Sheppard/Carnegie Institution for Science"
 image_attribution_link: "http://www.nature.com/news/dwarf-planet-stretches-solar-system-s-edge-1.14921"
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611071349-felix-IMG_5847.JPG"
 image_caption: >
 
-image_width: "1600"
-image_height: "900"
 image_attribution: "Philipp Antonas"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502131455-bwh12-icsexism.png"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "IC Femsoc"
 image_attribution_link: ""
 video_url: ""

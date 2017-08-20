@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610211411-ajp15-9608807888_d691ecb613_o.jpg"
 image_caption: >
 
-image_width: "768"
-image_height: "512"
 image_attribution: "US Department of Education"
 image_attribution_link: ""
 video_url: ""

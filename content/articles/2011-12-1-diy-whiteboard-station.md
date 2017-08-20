@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012039-ams111-hag1.jpg"
 image_caption: >
   The blob at the top is meant to be China. Don’t ask why
-image_width: "5184"
-image_height: "3456"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

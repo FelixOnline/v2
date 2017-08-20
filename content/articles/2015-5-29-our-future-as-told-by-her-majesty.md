@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505290126-cj914-10.3787877f.jpg"
 image_caption: >
   Pomp and Ceremony: setting out the future for the UK
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

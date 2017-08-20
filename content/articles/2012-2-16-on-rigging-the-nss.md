@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162157-ams111-alex-k-meme.jpg"
 image_caption: >
   Not sure if meme or caption. Oh, wait, caption. Oh well...
-image_width: "604"
-image_height: "453"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

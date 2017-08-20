@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012107-ams111-judo.jpg"
 image_caption: >
   The medal-winning Imperial judokas pose for the camera, with smiles all around. Of course, they coul
-image_width: "3264"
-image_height: "2448"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

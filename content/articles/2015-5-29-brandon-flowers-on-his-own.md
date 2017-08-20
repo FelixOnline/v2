@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505291319-js5913-brandon-flowers-at-brixto-009.jpg"
 image_caption: >
   What a jacket. And what a face.
-image_width: "0"
-image_height: "0"
 image_attribution: "Brian Rasic/Redferns"
 image_attribution_link: ""
 video_url: ""

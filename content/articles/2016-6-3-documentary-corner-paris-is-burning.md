@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606031130-felix-2319.jpg"
 image_caption: >
   Oh, the shade of it all!
-image_width: "2319"
-image_height: "1390"
 image_attribution: "Academy Entertainment"
 image_attribution_link: ""
 video_url: ""

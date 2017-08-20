@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162150-ams111-fairtrade-mark.jpg"
 image_caption: >
   Fairtrade Fortnight starts on February 27
-image_width: "642"
-image_height: "357"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

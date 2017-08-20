@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103171924-ks607-img_2962.jpg"
 image_caption: >
 
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""

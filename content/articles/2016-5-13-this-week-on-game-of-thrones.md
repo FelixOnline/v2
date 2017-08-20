@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131122-felix-929f1cb0-f83c-0133-8045-0e31b36aeb7f.jpeg"
 image_caption: >
   Welcome back home!
-image_width: "3157"
-image_height: "2100"
 image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""

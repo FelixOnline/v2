@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102158-felix-frozen-planet.jpg"
 image_caption: >
   The culmination of years of filming in barren conditions, married with the inimitable voice of Sir D
-image_width: "626"
-image_height: "352"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603041123-felix-maxresdefault.jpg"
 image_caption: >
   This has looked silly on the side of Underground trains for a while now.
-image_width: "1679"
-image_height: "944"
 image_attribution: "TfL"
 image_attribution_link: ""
 video_url: ""

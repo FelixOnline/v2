@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262303-felix-large-coach-carter-blu-ray3.jpg"
 image_caption: >
   Samuel L. Jackson in Coach Carter, perhaps the most inspirational teacher ever?
-image_width: "1920"
-image_height: "1080"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

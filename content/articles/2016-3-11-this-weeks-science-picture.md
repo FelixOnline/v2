@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111142-felix-12018709_10156556234415394_842175580_o.jpg"
 image_caption: >
   Claudia Schulz holding her Graduate Teaching Assistant Award in the Department of Computing.
-image_width: "2048"
-image_height: "1365"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

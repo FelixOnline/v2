@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251206-ff712-tessmunster2.jpg"
 image_caption: >
   Tess Munster, one of the world's leading plus-size models
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

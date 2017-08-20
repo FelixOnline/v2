@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261153-felix-1401x788-Screen-Shot-2015-10-23-at-8.49.50-AM.jpg"
 image_caption: >
 
-image_width: "1401"
-image_height: "788"
 image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""

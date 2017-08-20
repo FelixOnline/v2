@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201311080908-felix-screen-shot-2013-11-08-at-09.06.51.png"
 image_caption: >
   Student bar staff member pouring a pint of cider
-image_width: "0"
-image_height: "0"
 image_attribution: "Joseph Letts"
 image_attribution_link: ""
 video_url: ""

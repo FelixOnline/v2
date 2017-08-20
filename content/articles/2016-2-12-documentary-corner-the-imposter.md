@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121143-felix-551215456.jpg"
 image_caption: >
   With dyed hair, Frederic Bourdin walks through a high school hallway as Nicolas Barcley.
-image_width: "1918"
-image_height: "816"
 image_attribution: "The Imposter PR"
 image_attribution_link: ""
 video_url: ""

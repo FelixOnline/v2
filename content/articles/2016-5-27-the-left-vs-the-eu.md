@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605271048-felix-conservatives say yes.jpg"
 image_caption: >
   The referendum is not just a left-right debate.
-image_width: "1024"
-image_height: "576"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""

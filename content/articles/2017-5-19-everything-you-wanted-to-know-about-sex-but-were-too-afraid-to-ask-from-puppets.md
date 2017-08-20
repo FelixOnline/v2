@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705191506-im1413-IMG_0013.JPG"
 image_caption: >
   An act from Sex and Puppets (Photo: Edie Edmundson )
-image_width: "960"
-image_height: "960"
 image_attribution: "Edie Edmundson | Wondering Hands "
 image_attribution_link: ""
 video_url: ""

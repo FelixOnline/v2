@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706091739-ea3211-Screen Shot 2017-06-09 at 17.37.03.png"
 image_caption: >
   What did the ice cream cone tell the cup of hot coffee?
-image_width: "1847"
-image_height: "1090"
 image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""

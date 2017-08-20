@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503130130-cj914-baracknsalman-copy.jpg"
 image_caption: >
   Barack Obama met with King Salman to pay his respects to the former King and Prime Minister of Saudi Arabia, Abdullah bin Abdulaziz Al Saud after his death in January
-image_width: "0"
-image_height: "0"
 image_attribution: "itv"
 image_attribution_link: ""
 video_url: ""

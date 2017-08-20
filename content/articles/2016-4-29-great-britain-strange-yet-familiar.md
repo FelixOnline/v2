@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201604291149-felix-16. Strange and Familiar, Curated by Martin Parr, Barbican. Photo Tristan Fewings_Getty Images.JPG"
 image_caption: >
   Strange and Familiar is a unique take on the British way of life.
-image_width: "3200"
-image_height: "2133"
 image_attribution: "The Barbican Art Gallery"
 image_attribution_link: ""
 video_url: ""

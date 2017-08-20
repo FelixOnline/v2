@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192001-pk1811-aylesiceshelfoffshore30may2006vincent3.jpg"
 image_caption: >
   A super cool place to live, but at what cost?
-image_width: "3264"
-image_height: "2448"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

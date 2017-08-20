@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201012022112-ac1507-bpspill.jpg"
 image_caption: >
 
-image_width: "1249"
-image_height: "878"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

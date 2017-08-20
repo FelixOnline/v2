@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703031511-felix-32419406030_725150e375_o.jpg"
 image_caption: >
   Sequence ALL the life!
-image_width: "3489"
-image_height: "2293"
 image_attribution: "Marc Veraart"
 image_attribution_link: ""
 video_url: ""

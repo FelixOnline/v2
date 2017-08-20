@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131124-felix-vixen.jpg"
 image_caption: >
   Another hero is in on the action.
-image_width: "1920"
-image_height: "1080"
 image_attribution: "The CW"
 image_attribution_link: ""
 video_url: ""

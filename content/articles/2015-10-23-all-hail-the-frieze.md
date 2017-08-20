@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510231242-ygr12-117599.ipad.jpeg"
 image_caption: >
   Urs Fischer's Dr Nope, 2010
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172116-pk1811-olivier-theatre-1.jpg"
 image_caption: >
   The play gets its title from its opening week box office takings
-image_width: "3500"
-image_height: "2681"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

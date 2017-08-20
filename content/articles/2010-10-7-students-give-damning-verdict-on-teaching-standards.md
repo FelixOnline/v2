@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104181303-felix-mfk_sirkeitho_nions_009.jpg"
 image_caption: >
   The Rector is "extremely disappointed" by the results
-image_width: "4368"
-image_height: "2912"
 image_attribution: "Mike Finn-Kelcey/Imperial College London"
 image_attribution_link: ""
 video_url: ""

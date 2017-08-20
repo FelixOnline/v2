@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601290906-felix-GTY_donald_trump_hillary_clinton_sk_150619_16x9_992.jpg"
 image_caption: >
   There’s gonna be hell toupée.
-image_width: "992"
-image_height: "558"
 image_attribution: "ABC"
 image_attribution_link: ""
 video_url: ""

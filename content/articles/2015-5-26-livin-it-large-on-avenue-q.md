@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505261448-js5913-avenue-q-cast.jpg"
 image_caption: >
   The cast of the UK touring production of Avenue Q, waiting for a rehearsal to start.
-image_width: "0"
-image_height: "0"
 image_attribution: "Matt Martin"
 image_attribution_link: ""
 video_url: ""

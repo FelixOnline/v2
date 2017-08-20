@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106031520-felix-use.jpg"
 image_caption: >
 
-image_width: "4320"
-image_height: "3240"
 image_attribution: "Ben Scally"
 image_attribution_link: ""
 video_url: ""

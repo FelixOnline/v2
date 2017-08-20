@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702241514-felix-13740073235_b8a4ec0ffc_k.jpg"
 image_caption: >
   Oh No! That’s like, the thrity seventh time I’ve died!
-image_width: "2048"
-image_height: "1690"
 image_attribution: "Allan Rotgers"
 image_attribution_link: ""
 video_url: ""

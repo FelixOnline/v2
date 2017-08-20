@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310250202-felix-games_pokepimp.jpg"
 image_caption: >
   YO, CHICKS BE CHECKING OUT MY YOLOSWAG!!!
-image_width: "0"
-image_height: "0"
 image_attribution: "Yong Wen Chua/Nintendo"
 image_attribution_link: ""
 video_url: ""

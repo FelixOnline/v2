@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102102051-ks607-osbornes.jpg"
 image_caption: >
   George Osborne selling The Big Issue? In 2015 we can make it happen...
-image_width: "3488"
-image_height: "2496"
 image_attribution: "Joshua Yerrell"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106091902-felix-janeseok.jpg"
 image_caption: >
 
-image_width: "3272"
-image_height: "2047"
 image_attribution: "Jane Seok"
 image_attribution_link: ""
 video_url: ""

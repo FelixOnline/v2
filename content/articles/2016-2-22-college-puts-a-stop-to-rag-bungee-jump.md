@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602221908-felix-bungee.jpg"
 image_caption: >
   The bungee jump in full swing over Queen's Lawn last year.
-image_width: "3456"
-image_height: "2802"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""

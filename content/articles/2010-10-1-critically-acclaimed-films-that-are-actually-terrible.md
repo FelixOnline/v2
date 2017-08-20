@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010012347-ks607-PulpFict.jpg"
 image_caption: >
   Badass, sure. But 'compelling'? Give me a break
-image_width: "600"
-image_height: "415"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

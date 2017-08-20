@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505061333-km2612-dsc_5201.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Ensemble Intercontemporain"
 image_attribution_link: "http://ensembleinter.com"
 video_url: ""

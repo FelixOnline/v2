@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011041820-ma1307-theresaf.jpg"
 image_caption: >
 
-image_width: "500"
-image_height: "447"
 image_attribution: "raffaello/deviantart"
 image_attribution_link: "http://raffaello.deviantart.com/art/There-s-a-fly-in-my-soup-38596997"
 video_url: ""

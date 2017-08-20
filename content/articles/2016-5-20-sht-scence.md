@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605201108-felix-12446542923_a85e11e511_o.jpg"
 image_caption: >
   The study suggests that our ancenstors might have had a better diet than us, but maybe they just never stopped eating.
-image_width: "1468"
-image_height: "1468"
 image_attribution: "Mike Mozart"
 image_attribution_link: ""
 video_url: ""

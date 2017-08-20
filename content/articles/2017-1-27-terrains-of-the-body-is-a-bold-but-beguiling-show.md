@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701271658-felix-L2017.4_vanMeene-e1478536802365.jpg"
 image_caption: >
   Hellen van Meene, Untitled (79), (2000)
-image_width: "1024"
-image_height: "541"
 image_attribution: "Hellen van Meene and Yancey Richardson Gallery"
 image_attribution_link: ""
 video_url: ""

@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703202136-ff712-08.jpg"
 image_caption: >
   Toneelgroep Amsterdam, Roman Tragedies, Fred Goessen
-image_width: "4724"
-image_height: "3149"
 image_attribution: "Jan Versweyveld"
 image_attribution_link: ""
 video_url: ""

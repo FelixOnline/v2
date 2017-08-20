@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201501221635-ps3110-pen-orgy-pencil-case.jpg"
 image_caption: >
   The only orgy Imperial students are likely to see
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

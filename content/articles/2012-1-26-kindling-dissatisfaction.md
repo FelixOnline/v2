@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262146-cac111-kindle6.jpg"
 image_caption: >
   A novel approach to reading, to say the least
-image_width: "4752"
-image_height: "3168"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

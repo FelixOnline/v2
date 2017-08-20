@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112242250-ak6309-cambridge.jpg"
 image_caption: >
   Newton's handwritten annotated notes, amongst others, are to be put online
-image_width: "460"
-image_height: "276"
 image_attribution: "Cambridge University Library"
 image_attribution_link: ""
 video_url: ""

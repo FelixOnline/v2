@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102171918-ks607-tinietem.jpg"
 image_caption: >
 
-image_width: "3579"
-image_height: "5369"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

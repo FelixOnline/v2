@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605271052-felix-11938845385_c27c8a945f_k.jpg"
 image_caption: >
 
-image_width: "2048"
-image_height: "1841"
 image_attribution: "Hubble ESA"
 image_attribution_link: ""
 video_url: ""

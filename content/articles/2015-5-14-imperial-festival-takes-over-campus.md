@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505142324-cj914-imperial_festival_by_john_cairns_9.5.15-30-copy.jpg"
 image_caption: >
   The Band of the Household Cavalry opened the Festival at 12PM on Saturday, with a fanfare on horseback and marching band
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""

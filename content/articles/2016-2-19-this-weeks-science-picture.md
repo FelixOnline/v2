@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191120-felix-7632898002_49046bc6c8_o.jpg"
 image_caption: >
   Colours signify the degree of perturbation of the spacetime fabric (the gravitational waves)
-image_width: "960"
-image_height: "510"
 image_attribution: "NASA Blueshift"
 image_attribution_link: ""
 video_url: ""

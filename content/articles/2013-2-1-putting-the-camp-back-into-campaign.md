@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201302010011-tna08-sam-swainsbury-(l)-and-joseph-timms-(r).jpg"
 image_caption: >
   Sam Swainsbury (L) and Joseph Timms (R)
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

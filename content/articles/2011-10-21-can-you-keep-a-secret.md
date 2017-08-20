@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110211231-ak6309-secret-garden-party-motilo.jpg"
 image_caption: >
   Been spending Friday nights, living in a hipster’s paradise
-image_width: "600"
-image_height: "401"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205102101-felix-bombay4.jpg"
 image_caption: >
   Everyone in this photo looks very happy and relaxed, apart from Mr Serious on the left
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

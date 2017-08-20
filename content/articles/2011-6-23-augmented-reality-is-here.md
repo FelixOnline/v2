@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106232125-felix-augmented_reality_-_heads_up_display_concept.jpg"
 image_caption: >
 
-image_width: "1366"
-image_height: "776"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

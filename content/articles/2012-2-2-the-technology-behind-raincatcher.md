@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202022323-sjw209-untitled1.png"
 image_caption: >
   It’s not just about the aims with Raincatcher
-image_width: "468"
-image_height: "313"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

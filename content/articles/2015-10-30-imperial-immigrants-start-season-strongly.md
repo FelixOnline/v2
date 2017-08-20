@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510301531-ygr12-basebal.jpg"
 image_caption: >
   So popular that there's a net to stop their fans rushing them
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial Immigrants"
 image_attribution_link: ""
 video_url: ""

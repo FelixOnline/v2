@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703101400-felix-Cocktail-Bar_(Kleines_Phi)_in_Hamburg_3.jpg"
 image_caption: >
   Treat this as the pharmacy for your woes...
-image_width: "6000"
-image_height: "4000"
 image_attribution: "Achim Schleuning"
 image_attribution_link: ""
 video_url: ""

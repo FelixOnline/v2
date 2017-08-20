@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502270033-pk1811-untitled.png"
 image_caption: >
   The prototype sensor, held by the project’s lead engineer Helen O’Brien.
-image_width: "0"
-image_height: "0"
 image_attribution: "Thomas Angus"
 image_attribution_link: ""
 video_url: ""

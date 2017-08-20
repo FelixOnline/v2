@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105200523-felix-use-canal.jpg"
 image_caption: >
 
-image_width: "1094"
-image_height: "821"
 image_attribution: "Dana Li"
 image_attribution_link: ""
 video_url: ""

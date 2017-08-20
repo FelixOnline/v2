@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121126-felix-anor.jpg"
 image_caption: >
   All about the numbers – waist measurements and calorie counts.
-image_width: "4608"
-image_height: "3072"
 image_attribution: "Benjamin Watson"
 image_attribution_link: ""
 video_url: ""

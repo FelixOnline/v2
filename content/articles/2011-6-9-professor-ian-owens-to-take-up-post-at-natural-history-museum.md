@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106092200-felix-professor-ian-owens_98360_2.jpg"
 image_caption: >
 
-image_width: "490"
-image_height: "326"
 image_attribution: "Natural History Museum"
 image_attribution_link: "http://www.nhm.ac.uk/about-us/news/2011/june/museum-appoints-new-director-of-science98359.html"
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105121720-felix-trafficjam11.jpg"
 image_caption: >
 
-image_width: "1280"
-image_height: "1024"
 image_attribution: "As the temperature soared, the heat was on to make use of it"
 image_attribution_link: ""
 video_url: ""

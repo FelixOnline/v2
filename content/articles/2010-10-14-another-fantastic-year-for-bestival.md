@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010142023-ks607-bestival.jpg"
 image_caption: >
   New Age fun with a vintage feel!
-image_width: "5184"
-image_height: "3456"
 image_attribution: "James Mossahebi"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105270038-felix-img_7798.jpg"
 image_caption: >
   Girls at Herish School in Keleckchi Collective Town
-image_width: "2304"
-image_height: "3072"
 image_attribution: "Sarah Wilson"
 image_attribution_link: ""
 video_url: ""

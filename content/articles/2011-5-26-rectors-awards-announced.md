@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105261933-felix-dr_jane_saffell.jpg"
 image_caption: >
   Dr Jane Saffell: 'Outstanding Innovation in Teaching'
-image_width: "1029"
-image_height: "1077"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

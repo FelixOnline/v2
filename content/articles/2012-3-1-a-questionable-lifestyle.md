@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203012254-cac111-300dpi-pb-107005-1.jpg"
 image_caption: >
   “I can see the family resemblance - he’s got Aunt Gertrude’s plasmids”
-image_width: "5000"
-image_height: "3750"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

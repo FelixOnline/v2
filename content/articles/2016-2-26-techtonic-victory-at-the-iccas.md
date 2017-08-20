@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261206-felix-tt.jpg"
 image_caption: >
   The Techtonics with their award!
-image_width: "640"
-image_height: "361"
 image_attribution: "Will O’Reilly"
 image_attribution_link: ""
 video_url: ""

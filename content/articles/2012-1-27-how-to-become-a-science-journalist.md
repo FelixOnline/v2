@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201270021-felix-shapeimage_2.jpg"
 image_caption: >
   Dr. Toby Murcott
-image_width: "273"
-image_height: "293"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

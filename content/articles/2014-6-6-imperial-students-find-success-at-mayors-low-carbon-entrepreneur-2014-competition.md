@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201406060333-jal08-dsc_0200-copy.jpg"
 image_caption: >
   James Winfield (L) and Dominic Jacobson (R) receiving the award from Boris Johnson
-image_width: "0"
-image_height: "0"
 image_attribution: "Joe Letts / Felix"
 image_attribution_link: ""
 video_url: ""

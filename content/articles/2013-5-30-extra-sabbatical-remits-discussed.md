@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201305301421-tna08-201110272007-felix-img_6764.jpg"
 image_caption: >
   The Union gives us its come to bed eyes
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

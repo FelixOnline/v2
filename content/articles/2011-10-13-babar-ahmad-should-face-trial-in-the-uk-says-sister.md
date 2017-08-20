@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110132213-felix-trial.jpg"
 image_caption: >
   Amna Ahmad claims that a UK based trial would ‘expose’ details of police treatment
-image_width: "1024"
-image_height: "679"
 image_attribution: "flickr/ s_falkow"
 image_attribution_link: "http://www.flickr.com/photos/safari_vacation/5929769873/"
 video_url: ""

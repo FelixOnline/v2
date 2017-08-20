@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201211230017-tna08-cattelan1.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -51,7 +49,6 @@ In one of the corners of the room there is a small diorama of the kitchen Cattel
 Whilst the squirrel may form a more personal reflection, the majority of the works in the room are attributed with some kind of political commentary. Lullaby initially appears as a giant fabric sack, at the top of which one can see fragments of brick poking out. The description attached to the work explains that the bag is filled with rubble from the 1993 terrorist attack on Milan’s Pavilion of Contemporary Art, which left 5 people dead.
 
 At the centre of the room is a rug, whose design has been based upon the casing for a wheel of cheese. The jingoistic sentiments surrounding a map of Italy, which may have seemed quaint when simply used to advertise cheeses, become reminiscent of language used in Mussolini’s Italy, and brings on a deep sense of unease.
-TODO: image from
 On the adjacent wall hangs the sign of the Marxist Italian terrorist group the Red Brigades but this too has been subverted. Made up in garish neon, it has become a Christmas greeting; the infamous star becomes the one leading the faithful to Bethlehem. This subversion of ideas is at the heart of Cattelan’s work, and is one of the key tools in his satirical arsenal. Some may dismiss it as shock tactics, but the pieces certainly hit the viewer to the core.
 
 One of the many criticisms that modern conceptual art faces today is that it takes itself too seriously. Those of you who feel fed up in trying to find meaning in Hirst’s pickled cows, or despair at the Turner Prize’s lack of humour, would do well to come down to the Whitechapel Gallery. Although the exhibition is tiny, totalling only eight works, it is steeped in humour and irony, leaving the observer smiling all day.

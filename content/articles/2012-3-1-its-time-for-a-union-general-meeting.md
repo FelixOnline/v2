@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203012251-ams111-20090420_henkel_agm_9_pboxx-pixelboxx-118476_300dpi_1772h_1772w.jpg"
 image_caption: >
   It probably won't look like this
-image_width: "2000"
-image_height: "1334"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

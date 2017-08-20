@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506121339-cj914-fallout4countdown.png"
 image_caption: >
   This is the best marketing a game has ever had and in fact ever will have.
-image_width: "0"
-image_height: "0"
 image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""

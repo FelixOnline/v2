@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705102056-im1413-16_0.jpg"
 image_caption: >
   Denise Gough as Harper and Andrew Garfield as Prior. Photo: Helen Maybanks.
-image_width: "1289"
-image_height: "720"
 image_attribution: "Helen Maybanks "
 image_attribution_link: ""
 video_url: ""

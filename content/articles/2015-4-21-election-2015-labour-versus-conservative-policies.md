@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201504211447-jr2514-c3aa5fc1-39fd-4e16-927f-ee933ce0c85f-620x372.jpeg"
 image_caption: >
   David Cameron and Ed Miliband have both been out campaigning in what is one of the tightest election races in UK political history
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

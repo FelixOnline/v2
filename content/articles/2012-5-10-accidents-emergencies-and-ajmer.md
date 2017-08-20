@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205102009-felix-stephanie-walton-photo.jpg"
 image_caption: >
   Fans, cricket, presidents... it’s all go in Ajmer
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

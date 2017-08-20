@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201609052235-ff712-201512061419-ff712-01d9f6d1-e423-4ead-a849-2e2566035050-620x372.jpg"
 image_caption: >
   Johnny Depp as Whitey Bulger in Boston-set Black Mass
-image_width: "620"
-image_height: "372"
 image_attribution: "Black Mass PR"
 image_attribution_link: ""
 video_url: ""

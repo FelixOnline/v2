@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082030-pk1811-20090302155850.jpg"
 image_caption: >
   A pack of wolves bed down in Yellowstone National Park
-image_width: "2200"
-image_height: "1467"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

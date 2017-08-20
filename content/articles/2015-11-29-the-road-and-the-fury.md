@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511291636-ff712-2526.jpg"
 image_caption: >
   Yeah, you wish you were as cool as McQueen. We all do.
-image_width: "0"
-image_height: "0"
 image_attribution: "Steve McQueen: The Man & Le Mans PR"
 image_attribution_link: ""
 video_url: ""

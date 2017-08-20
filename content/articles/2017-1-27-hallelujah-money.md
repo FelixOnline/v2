@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701271647-felix-images.duckduckgo.com(18).jpg"
 image_caption: >
 
-image_width: "637"
-image_height: "358"
 image_attribution: "Gorillaz"
 image_attribution_link: ""
 video_url: ""

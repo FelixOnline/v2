@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703031539-felix-tycho_eb_270217_joeokpako_lowres-52 2.jpg"
 image_caption: >
 
-image_width: "540"
-image_height: "359"
 image_attribution: "Electric Brixton"
 image_attribution_link: ""
 video_url: ""

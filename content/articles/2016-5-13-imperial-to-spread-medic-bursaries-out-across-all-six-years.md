@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131048-felix-NHS.jpg"
 image_caption: >
 
-image_width: "1280"
-image_height: "852"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

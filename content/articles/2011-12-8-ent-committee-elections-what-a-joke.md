@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082216-pk1811-jeff-bridges-best-actor-academy-awards-2010.jpg"
 image_caption: >
   A portrayal of how exciting being elected on the ents committee is
-image_width: "1196"
-image_height: "883"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

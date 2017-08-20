@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706021549-felix-trident sub.jpg"
 image_caption: >
 
-image_width: "1000"
-image_height: "604"
 image_attribution: "Defence Images"
 image_attribution_link: ""
 video_url: ""

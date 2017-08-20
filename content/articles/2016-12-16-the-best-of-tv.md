@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612161510-felix-maxresdefault (1).jpg"
 image_caption: >
 
-image_width: "1280"
-image_height: "720"
 image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""

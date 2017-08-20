@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506182114-jyg11-screen-shot-2015-06-18-at-21.14.15.png"
 image_caption: >
   I don’t know about you, but I reckon a dinosaur did this.
-image_width: "0"
-image_height: "0"
 image_attribution: "Colin Trevorrow, Universal"
 image_attribution_link: ""
 video_url: ""

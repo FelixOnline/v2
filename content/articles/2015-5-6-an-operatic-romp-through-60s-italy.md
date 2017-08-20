@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505061733-ps3110-il-turco-in-italia-009.jpg"
 image_caption: >
   The Royal Opera House’s Il Turco In Italia
-image_width: "0"
-image_height: "0"
 image_attribution: "Tristram Kenton/The Guardian"
 image_attribution_link: ""
 video_url: ""

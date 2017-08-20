@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105161146-felix-66355713.jpg"
 image_caption: >
 
-image_width: "5344"
-image_height: "4008"
 image_attribution: "Imperial College London/Christian Richters"
 image_attribution_link: ""
 video_url: ""

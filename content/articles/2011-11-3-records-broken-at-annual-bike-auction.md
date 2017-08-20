@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111031930-pk1811-img_6796-copy.jpg"
 image_caption: >
   Deputy President (Welfare) Nicolas Massie shows his goods
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Indy Leclercq"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603041132-felix-Mayfair-Monopoly.jpg"
 image_caption: >
   It’s not easy finding affordable accommodation in the most expensive neighbourhood in the country.
-image_width: "1824"
-image_height: "1368"
 image_attribution: "exeid.com"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262220-ak6309-hedgehogsdsds937.jpg"
 image_caption: >
   He doesn’t look very defiant, does he?
-image_width: "3425"
-image_height: "2291"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

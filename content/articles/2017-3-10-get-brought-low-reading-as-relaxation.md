@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703101342-felix-1819_LOW03_COLORS.jpg"
 image_caption: >
 
-image_width: "2362"
-image_height: "1823"
 image_attribution: "Image Comics"
 image_attribution_link: ""
 video_url: ""

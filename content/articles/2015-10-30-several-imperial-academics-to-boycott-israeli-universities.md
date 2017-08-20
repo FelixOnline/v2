@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510301226-ygr12-guardianadvert4palestine-finalv2-page-001.jpg"
 image_caption: >
   The advert itself
-image_width: "0"
-image_height: "0"
 image_attribution: "UK media watch"
 image_attribution_link: ""
 video_url: ""

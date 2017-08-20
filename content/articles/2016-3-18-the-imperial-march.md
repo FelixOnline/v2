@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603181208-felix-Salisbury 2.jpg"
 image_caption: >
   Off they go!
-image_width: "960"
-image_height: "960"
 image_attribution: "IC Cross Country"
 image_attribution_link: ""
 video_url: ""

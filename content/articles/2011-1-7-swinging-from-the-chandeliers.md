@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101070943-ks607-hayward.jpg"
 image_caption: >
 
-image_width: "721"
-image_height: "480"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202021928-ams111-badger-2.jpg"
 image_caption: >
   Don't kill them... I'll take them. I'll take them all!
-image_width: "634"
-image_height: "463"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

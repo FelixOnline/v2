@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610312332-felix-Pussy Riot.jpg"
 image_caption: >
 
-image_width: "1200"
-image_height: "810"
 image_attribution: "Pussy Riot"
 image_attribution_link: ""
 video_url: ""

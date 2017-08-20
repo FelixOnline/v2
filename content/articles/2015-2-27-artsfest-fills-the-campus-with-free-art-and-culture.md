@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502270034-pk1811-10985232_10153097597971838_5231120717161212174_n.jpg"
 image_caption: >
   Imperial College String Ensemble play a lunchtime concert in the College Main Entrance
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

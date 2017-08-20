@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102282034-ks607-defyingg.jpg"
 image_caption: >
   The brilliant Defying Gravity was cancelled after only one season
-image_width: "2408"
-image_height: "1600"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

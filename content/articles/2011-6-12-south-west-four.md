@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106121649-felix-sw4.jpg"
 image_caption: >
 
-image_width: "3504"
-image_height: "2336"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

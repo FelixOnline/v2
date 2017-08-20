@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201604291131-felix-ales.jpg"
 image_caption: >
   None of these are any good.
-image_width: "3858"
-image_height: "2572"
 image_attribution: "wvgazettemail.com"
 image_attribution_link: ""
 video_url: ""

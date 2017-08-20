@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011181947-nm1010-smokeysm.jpg"
 image_caption: >
 
-image_width: "615"
-image_height: "408"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

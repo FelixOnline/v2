@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101202030-dr910-tunisias.jpg"
 image_caption: >
 
-image_width: "3763"
-image_height: "1705"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

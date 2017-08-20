@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412041926-cj914-blackfriday-copy.jpg"
 image_caption: >
   Artist's impression of scene at Currys Worthington
-image_width: "0"
-image_height: "0"
 image_attribution: "youtube.com"
 image_attribution_link: ""
 video_url: ""

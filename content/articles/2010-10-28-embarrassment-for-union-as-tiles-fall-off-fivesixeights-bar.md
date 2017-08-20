@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010282052-nm1010-unionemb.jpg"
 image_caption: >
   Everyone agreed that it was the worse game of Tetris in living memory
-image_width: "640"
-image_height: "480"
 image_attribution: "Chris Darby"
 image_attribution_link: "https://twitter.com/#!/ICUchris"
 video_url: ""

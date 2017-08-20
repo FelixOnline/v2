@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703171508-felix-IMG_7293.JPG"
 image_caption: >
   Getting blasted in the face with confetti make it all worth it
-image_width: "3264"
-image_height: "2448"
 image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""

@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121122-felix-1454899695952.png"
 image_caption: >
   The Malaysian PM in all his glory.
-image_width: "620"
-image_height: "349"
 image_attribution: "Facebook / GRUPA"
 image_attribution_link: ""
 video_url: ""

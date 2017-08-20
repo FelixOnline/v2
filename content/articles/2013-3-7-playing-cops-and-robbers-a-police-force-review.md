@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201303072203-sjw209-police-force-simulator-2.jpg"
 image_caption: >
   Hmm. It says ‘Police’ rather than ‘Polizei’. Maybe the real patrol car’s in the shop...
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

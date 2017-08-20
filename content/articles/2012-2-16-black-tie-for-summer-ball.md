@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162206-sjw209-img_0770-1.jpg"
 image_caption: >
   Acts will perform on the Queen's Lawn and in the Great Hall
-image_width: "3888"
-image_height: "2592"
 image_attribution: "Charles Poon"
 image_attribution_link: ""
 video_url: ""

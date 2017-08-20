@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105121705-felix-dsc_0614.jpg"
 image_caption: >
 
-image_width: "3264"
-image_height: "4928"
 image_attribution: "Rob Bishop"
 image_attribution_link: ""
 video_url: ""

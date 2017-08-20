@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606031102-felix-o-DAVID-CAMERON-facebook.jpg"
 image_caption: >
 
-image_width: "2000"
-image_height: "1000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

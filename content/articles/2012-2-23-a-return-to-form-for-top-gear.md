@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232337-felix-top-gear---the-stig-006.jpg"
 image_caption: >
   Driving doesn't get tougher than this
-image_width: "460"
-image_height: "276"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

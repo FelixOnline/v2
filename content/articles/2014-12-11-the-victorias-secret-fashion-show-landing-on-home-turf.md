@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412112133-cj914-fantasy-red.jpg"
 image_caption: >
   Alessandra Ambrosio in The Fantasy Bra
-image_width: "0"
-image_height: "0"
 image_attribution: "Photo: Dimitrious Kambouris via Getty Images"
 image_attribution_link: ""
 video_url: ""

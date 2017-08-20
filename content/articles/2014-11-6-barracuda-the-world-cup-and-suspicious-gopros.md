@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411062111-cj914-gopr0234-copy.jpg"
 image_caption: >
   It is rumoured that one of the divers in this picture was celebrating a world cup result.
-image_width: "0"
-image_height: "0"
 image_attribution: "Ryan McCartney"
 image_attribution_link: ""
 video_url: ""

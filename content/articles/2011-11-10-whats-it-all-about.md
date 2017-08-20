@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102202-pk1811-chap-1.jpg"
 image_caption: >
   Chaplaincy can help with ‘conversations about meaning’
-image_width: "941"
-image_height: "627"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -60,7 +58,6 @@ Increasingly, Chaplaincy is involved in conversations between people from differ
 The other emerging conversation of our time is with those who describe themselves as ‘spiritual but not religious’. With students at the Royal College of Art we now have a non-religious meditation time. This uses simple methods of self awareness that allows people from different backgrounds to share silence and stillness (and is open to Imperial students).
 
 Good conversation is one that can bring change and growth to both conversation partners.
-TODO: image from
 Conversations with students and colleagues from different religious and secular perspectives have shown me that my own faith is not about intellectual certainty but about deeper relationships of trust.
  In the Chaplaincy we are open for conversation. So if you want to talk about Nietzsche and the death of God, or you want to try Indian cooking with our Hindu Chaplain, or walk a labyrinth, or try interfaith discussion, or talk about medical or engineering ethics, or sing carols, or talk about your anatomy classes, or if you have a really weird dream and want to change career, or to find new ways to pray, or talk about someone who has died, or if you want to find out about the religion of the person you have just fallen in love with, or... as I say, we are open to conversation.
 

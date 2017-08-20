@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201001141741-gda07-Gileadsa.jpg"
 image_caption: >
 
-image_width: "181"
-image_height: "164"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

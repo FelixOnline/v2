@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104201257-felix-3.-great-court.jpg"
 image_caption: >
   A monument to cultural theft, hurrah!
-image_width: "1648"
-image_height: "2100"
 image_attribution: "British Museum"
 image_attribution_link: ""
 video_url: ""

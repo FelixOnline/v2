@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105060907-felix-doctors-looking-at-xray.jpg"
 image_caption: >
   Oh yes, definitely a bad case of Bieber fever
-image_width: "2560"
-image_height: "1920"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

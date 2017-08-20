@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503081627-ff712-04a.jpg"
 image_caption: >
   Ivo van Hove, Antigone, Obi Abili, Juliette Binoche, and Patrick O’Kane (From Left to Right)
-image_width: "0"
-image_height: "0"
 image_attribution: "Jan Versweyveld "
 image_attribution_link: ""
 video_url: ""

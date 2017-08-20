@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110161540-felix-080210-karolehal.jpg"
 image_caption: >
   Karole Armitage – so active that we couldn't find a photo of her without motion blur
-image_width: "2048"
-image_height: "1536"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

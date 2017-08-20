@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010282055-ma1307-cinema.jpg"
 image_caption: >
 
-image_width: "4416"
-image_height: "3312"
 image_attribution: "Kadhim Shubber"
 image_attribution_link: "http://felixonline.co.uk/user/ks607/"
 video_url: ""

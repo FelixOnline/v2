@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121111-felix-IMG_0046.JPG"
 image_caption: >
   It’s impossible to say whether RAG’s charitable donations have suffered.
-image_width: "5184"
-image_height: "3456"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606031040-felix-20160526_155625 (1).jpg"
 image_caption: >
   It's not that big of a deal (p.s. please sign our petition).
-image_width: "2988"
-image_height: "5312"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703101333-felix-White-chocolate-strawberry-cheesecake1.jpg"
 image_caption: >
 
-image_width: "2090"
-image_height: "1437"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

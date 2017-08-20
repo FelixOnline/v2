@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703031416-felix-tankards policy.jpg"
 image_caption: >
   Apparently it’s one of the largest collections in Europe
-image_width: "760"
-image_height: "288"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""

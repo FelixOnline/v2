@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411062149-snb11-two-girls-embracing-(friends)-1915-copy.jpg"
 image_caption: >
   Two Girls Embracing (Friends) 1915
-image_width: "0"
-image_height: "0"
 image_attribution: "Egon Schiele"
 image_attribution_link: ""
 video_url: ""

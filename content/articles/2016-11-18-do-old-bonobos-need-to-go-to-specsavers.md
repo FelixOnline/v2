@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611181450-felix-14433762334_6e651d1bce_k.jpg"
 image_caption: >
 
-image_width: "2048"
-image_height: "1366"
 image_attribution: "Cloudtail the Snow Leopard"
 image_attribution_link: ""
 video_url: ""

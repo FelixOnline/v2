@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612161620-felix-2740283397_3088a90c4f_o.jpg"
 image_caption: >
 
-image_width: "3872"
-image_height: "2592"
 image_attribution: "Vladimir Morozov"
 image_attribution_link: ""
 video_url: ""
@@ -69,7 +67,6 @@ Overall a cool 4/5
 **Final thoughts**
 If you’re really that desperate, just about any of these vegetables will get the job done. The carrot would have always been my go-to, but I was surprised by how much pleasure a well-chosen vegetable can deliver.
 ## Fleshlight edition | tutti fruity and domtop360
-TODO: image from
 **Galia**
 We started off with one of the most intimidating-looking ones: the galia melon, all green and scaly, like a small innocent armadillo rolled up in a ball. After some encouragement, I stuck my penis in the hole we had carved out and after making some confused facial expressions passed the violated melon on to domtop360. The Galia was a bit rough. The seeds weren’t particularly soft to the touch but hey, they weren’t as sharp as we expected them to be either. We refrained from microwaving our sexual partners so they were refreshingly cool. Smell and taste were great.
 

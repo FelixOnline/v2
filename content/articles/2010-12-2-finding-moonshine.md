@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201012022028-ks607-moonshin.jpg"
 image_caption: >
 
-image_width: "1007"
-image_height: "1546"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

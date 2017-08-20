@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503192341-kmw13-tbl_varsity_quick_set_22h34m50s.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Ben Lester"
 image_attribution_link: "http://throughbenslens.co.uk"
 video_url: ""

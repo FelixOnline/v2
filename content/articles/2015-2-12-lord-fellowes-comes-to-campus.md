@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502122106-jyg11-150206_fellows_kitchener_blast_085.jpg"
 image_caption: >
   Lord Fellowes out for a ride on Jezebel
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

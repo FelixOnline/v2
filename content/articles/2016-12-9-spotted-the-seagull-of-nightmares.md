@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612091206-aib116-seagull-4911_1920.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1440"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

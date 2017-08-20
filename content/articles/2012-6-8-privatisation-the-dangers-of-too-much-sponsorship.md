@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206080946-mc4509-feat.jpg"
 image_caption: >
   The Careers Advisory Service, located on Level 5 of Sherﬁ eld
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

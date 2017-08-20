@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205031932-ams111-vlcsnap-2012-03-01-04h52m59s90.jpg"
 image_caption: >
   Place your bets everyone, place your bets! Who'll win this fight?
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

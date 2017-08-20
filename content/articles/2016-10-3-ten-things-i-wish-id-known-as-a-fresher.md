@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610101206-felix-3438033141_b2dda9b651_o.jpg"
 image_caption: >
 
-image_width: "600"
-image_height: "450"
 image_attribution: "adifansnet"
 image_attribution_link: ""
 video_url: ""
@@ -51,7 +49,6 @@ You don’t have to pay membership to a club to try it out. Don’t fall for the
 Metric is corny, but the best nights out are made by who you’re with, not where you are (with the exception of the mingle – that is awkward). Don’t shy away from a night at the union.
 ## 5
 It will seem like the medics in your halls have very little work to do and they will infuriate you. If you are a medic, enjoy it while you can. If not, don’t begrudge them their fun – their next 5 years will make up for it.
-TODO: image from
 ## 6
 Loads of people fail exams; it’s seriously not a big deal and no one thinks you’re stupid. Don’t despair – get back on it and smash those resits.
 ## 7
@@ -62,4 +59,3 @@ There’s a reason people eat vegetables. It’s easy to forget and get ill, but
 Carluccios’ £5 lunch deal. It’s rubbish to be surrounded by the grandeur of Kensington and deny yourself a cheeky middle class treat now and again. 10 minutes’ walk from SK for a massive portion of pasta/risotto and a drink for £5. Dream.
 ## 10
 Imperial is unique. You won’t have the same experiences as your mates from home, but you have London on your doorstep to find your own fun. Most likely for the first time in your life you’ll be surrounded by people interested in the same things as you, and yeah there’ll be some intimidating geniuses, but you’ll find your niche and you’ll miss it when its over. Enjoy it!
-TODO: image from

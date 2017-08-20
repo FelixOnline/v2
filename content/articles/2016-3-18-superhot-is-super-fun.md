@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603181154-felix-superhot2.jpg"
 image_caption: >
   Punching polygons.
-image_width: "1920"
-image_height: "1080"
 image_attribution: "SUPERHOT Team"
 image_attribution_link: ""
 video_url: ""

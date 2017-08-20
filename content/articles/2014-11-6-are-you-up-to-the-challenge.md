@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411061904-snb11-201002191228-felix-universi-copy.jpg"
 image_caption: >
   Spot the Felix cat chilling with the team from 2009. Fun fact, Amit was so amazing he made it into t
-image_width: "0"
-image_height: "0"
 image_attribution: "Felix"
 image_attribution_link: ""
 video_url: ""

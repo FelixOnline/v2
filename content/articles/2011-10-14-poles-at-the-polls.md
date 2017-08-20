@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110141122-felix-4c75738e07c92_o.jpg"
 image_caption: >
   10.2%! It brings a tear to my eye. Where's my hanky?
-image_width: "851"
-image_height: "1100"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

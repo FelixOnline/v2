@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201191957-ams111-cola.jpg"
 image_caption: >
   Two of the most recognisable brands in the world have been warring over the soft drinks market
-image_width: "1440"
-image_height: "900"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

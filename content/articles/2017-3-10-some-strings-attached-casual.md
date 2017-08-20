@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703101346-felix-casual-hulu.jpg"
 image_caption: >
   Modern mother-daughter relationships are weird
-image_width: "1140"
-image_height: "700"
 image_attribution: "Hulu"
 image_attribution_link: ""
 video_url: ""

@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012052-pk1811-musecover.jpg"
 image_caption: >
   The best forking album by the best forking band to ever set foot on forking Earth
-image_width: "953"
-image_height: "953"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -62,7 +60,6 @@ To be honest, if I need to remind/convince you anymore of how amazing Muse is th
 The album begins with ‘New Born’ – the gentle building of the piano, the low hum of the bass and Matt’s gentle voice all lull the listener into a false sense of security. But then the real fun begins as the guitar chords let rip, after a pause for anticipation. It’s a fantastic opener, setting the tone for the ambitious tunes to come.
 
 However, do not be deceived; this is not all they do. The album takes off on a journey, pushing up the heart rate one minute, but then mellowing it down the next. Each song has such feeling and emotion woven into it.
-TODO: image from
 When I listen to the album I am taken on a rollercoaster ride of different emotions. ‘Bliss’ fills me with such warmth, it makes me smile; ‘Space Dementia’ and ‘Plug In Baby’ bring up deep feelings – sadness, passion, joy. These songs make me want to sing my heart out. They are able to spell out my emotions when I have no words to explain them.
 > They still have the same punch of emotion
 Some critics consider the songs ‘Dark Shines’ and ‘Screenager’ to be downsides of the album, perhaps reflections of the early stage in Muse’s career. However, as a die-hard Muse fan I could tell them to sod off. But I’ll show some restraint and argue that these tracks still reflect the complexities in their repertoire. Although really quite different from earlier songs in the album, they still have the same punch of emotion and musical brilliance: the trademark of Muse.

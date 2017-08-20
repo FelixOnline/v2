@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242120-pk1811-episode-112.jpg"
 image_caption: >
   The Ofsted inspection suddenly seemed to have become a little less orthodox than usual
-image_width: "999"
-image_height: "363"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""

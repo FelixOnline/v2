@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705121731-felix-5400115815_b2b64f9dd9_o.jpg"
 image_caption: >
   It's unclear what the tuition at Hogwarts is
-image_width: "2655"
-image_height: "1770"
 image_attribution: "Mike Hammerton"
 image_attribution_link: ""
 video_url: ""

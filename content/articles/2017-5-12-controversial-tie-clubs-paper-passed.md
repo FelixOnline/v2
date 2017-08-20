@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705121726-felix-18318761_10206484962882684_617786527_o.jpg"
 image_caption: >
   Media Chair Rob Garside literally eating popcorn at Council
-image_width: "1136"
-image_height: "638"
 image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""

@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603091910-felix-20160309_190618.jpg"
 image_caption: >
   Drama in the West Basement of Beit.
-image_width: "5312"
-image_height: "2988"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""

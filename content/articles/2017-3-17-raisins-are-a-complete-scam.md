@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703171657-felix-3235917496_b8d213e0bf_o (1).jpg"
 image_caption: >
   Don't say that! No!
-image_width: "3008"
-image_height: "2000"
 image_attribution: "David Salafia"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011182151-ks607-mancoccu.jpg"
 image_caption: >
   Manchester students occupying
-image_width: "480"
-image_height: "648"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

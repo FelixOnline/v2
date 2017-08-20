@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162132-pk1811-img_0069-(copy).jpg"
 image_caption: >
   When they break out the pens, it’s time to get out
-image_width: "1024"
-image_height: "683"
 image_attribution: "Alexander Karapetian"
 image_attribution_link: ""
 video_url: ""

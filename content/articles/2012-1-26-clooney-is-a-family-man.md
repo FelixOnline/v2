@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262215-cac111-the_descendants-1024x1024.jpg"
 image_caption: >
   Time to drive away from all those damn photographers – and the crazy women after a piece of Clooney
-image_width: "1024"
-image_height: "1024"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105060932-felix-comment-illustration-thursday-5th-may-2011-benjamin-kennedy.jpg"
 image_caption: >
   Fine I’ll wear black tie, but I draw the line at monochrome
-image_width: "3071"
-image_height: "2598"
 image_attribution: "Benjamin Kennedy"
 image_attribution_link: ""
 video_url: ""

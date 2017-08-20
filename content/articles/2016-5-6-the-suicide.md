@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061115-felix-8_thesuicidecompany_photobyjohanpersson.jpg"
 image_caption: >
   The cast of The Suicide all fighting for Sam’s attention.
-image_width: "1289"
-image_height: "720"
 image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""

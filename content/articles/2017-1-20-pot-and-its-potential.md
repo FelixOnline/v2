@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701201509-felix-baking-1293986_1280.png"
 image_caption: >
 
-image_width: "1280"
-image_height: "1277"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

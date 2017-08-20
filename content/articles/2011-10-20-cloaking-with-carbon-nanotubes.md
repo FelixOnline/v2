@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110202201-felix-eight_allotropes_of_carbon.jpg"
 image_caption: >
   The prize for identifying Diamond is a smug sense of satisfaction
-image_width: "1762"
-image_height: "1895"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

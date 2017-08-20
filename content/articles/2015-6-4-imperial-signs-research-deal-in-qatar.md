@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506050013-cj914-pipeline-corrosion.jpg"
 image_caption: >
   Corrosion of pipelines has been a technical challenge for Qatari industries.
-image_width: "0"
-image_height: "0"
 image_attribution: "knovel.com"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191216-felix-winterstale.jpg"
 image_caption: >
   Niamh Cusack (Paulina), Rachael Stirling (Hermione) and John Light (Leontes) in The Winter’s Tale.
-image_width: "1920"
-image_height: "1151"
 image_attribution: "Tristram Kenton"
 image_attribution_link: ""
 video_url: ""

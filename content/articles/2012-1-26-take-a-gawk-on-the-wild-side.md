@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262212-ams111-wildlofe-photographer.jpg"
 image_caption: >
   Aahh, mate, aah, amte, aaaaahh, maaate, I'm bugging out so bad here
-image_width: "1280"
-image_height: "850"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

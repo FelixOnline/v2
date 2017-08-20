@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411241222-ps3110-pr8a7849---glare,-amar-muchhala-as-alex-©-roh---photograph-by-stephen-cummiskey.jpg"
 image_caption: >
   Amar Muchhala as Alex, in Glare
-image_width: "0"
-image_height: "0"
 image_attribution: "Photo: Stephen Cummiskey"
 image_attribution_link: ""
 video_url: ""

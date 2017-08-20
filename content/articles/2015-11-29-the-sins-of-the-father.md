@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511291642-ff712-1799.jpg"
 image_caption: >
   Do the sins of the father reflect onto the children?
-image_width: "0"
-image_height: "0"
 image_attribution: "My Nazi Legacy PR"
 image_attribution_link: ""
 video_url: ""

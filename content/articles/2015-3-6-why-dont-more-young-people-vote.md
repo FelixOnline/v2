@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503061649-cj914-brand96_w_3147107b.jpg"
 image_caption: >
   Comedian and political activist Russell Brand has been encouraging young people not to vote and has written a book on modern politics titled Revolution
-image_width: "0"
-image_height: "0"
 image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""

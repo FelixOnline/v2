@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310250101-felix-boris-hand.jpg"
 image_caption: >
   Golly gosh, am I really that blond? Rome, save me!
-image_width: "0"
-image_height: "0"
 image_attribution: "Boriswatch.com"
 image_attribution_link: "http://www.boriswatch.com"
 video_url: ""

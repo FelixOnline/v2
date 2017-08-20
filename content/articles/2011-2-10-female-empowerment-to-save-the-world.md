@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102102054-ks607-amandadi.jpg"
 image_caption: >
 
-image_width: "3119"
-image_height: "2538"
 image_attribution: "Amanda Diez"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310040321-jal08-sport_iccc.jpg"
 image_caption: >
   ICU Canoe Club
-image_width: "0"
-image_height: "0"
 image_attribution: "ICU Canoe Club"
 image_attribution_link: ""
 video_url: ""

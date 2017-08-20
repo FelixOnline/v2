@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611041246-aib116-Roof types.png"
 image_caption: >
 
-image_width: "940"
-image_height: "282"
 image_attribution: "Tesla Motors "
 image_attribution_link: ""
 video_url: ""

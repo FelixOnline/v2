@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110140119-sjw209-stephen-small.jpg"
 image_caption: >
 
-image_width: "648"
-image_height: "972"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

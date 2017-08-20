@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011112043-nm1010-planneat.jpg"
 image_caption: >
 
-image_width: "620"
-image_height: "320"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

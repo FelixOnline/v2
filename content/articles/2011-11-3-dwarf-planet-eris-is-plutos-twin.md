@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111031947-pk1811-eris_lombry_big.jpg"
 image_caption: >
   An artist’s impression of Eris and its moon, Dysnomia.
-image_width: "1024"
-image_height: "769"
 image_attribution: "Thierry Lombry"
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703171307-felix-newseventsimages.jpeg"
 image_caption: >
   He’s already staring longingly at the College Cafe
-image_width: "700"
-image_height: "484"
 image_attribution: "Imperial College"
 image_attribution_link: ""
 video_url: ""

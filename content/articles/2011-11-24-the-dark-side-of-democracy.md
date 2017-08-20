@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242245-pk1811-silvio-berlusconi-1.jpg"
 image_caption: >
   Ladies, please, stop arguing. There’s enough of me to share with you all
-image_width: "1600"
-image_height: "1161"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

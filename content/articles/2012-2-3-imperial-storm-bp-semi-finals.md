@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202030033-sjw209-bp_uft11finals056.jpg"
 image_caption: >
   Professor Brian Cox hosted last year’s Ultimate Field Trip final
-image_width: "5616"
-image_height: "3744"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

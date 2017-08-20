@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510231246-ygr12-hamlet1.jpg"
 image_caption: >
   Cumberbatch in zoomed-in glorious HD.
-image_width: "0"
-image_height: "0"
 image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""

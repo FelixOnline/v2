@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412041924-cj914-red-yoyo-copy.jpg"
 image_caption: >
   YOYO is the electronic payment choice of a lot of Imperial students. Disclaimer: has nothing to do w
-image_width: "0"
-image_height: "0"
 image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""

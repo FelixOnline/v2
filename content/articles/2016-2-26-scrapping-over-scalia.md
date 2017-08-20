@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261128-felix-Antonin_Scalia_2010.jpg"
 image_caption: >
   The judge divided opinion.
-image_width: "2160"
-image_height: "1440"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""

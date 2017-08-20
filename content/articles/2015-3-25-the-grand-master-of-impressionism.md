@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251316-ff712-impressionism-x8659.pr.jpg"
 image_caption: >
   Claude Monet, Poplars in the Sun, 1891. Oil on canvas.
-image_width: "0"
-image_height: "0"
 image_attribution: "National Museum of Western Art, Tokyo"
 image_attribution_link: ""
 video_url: ""

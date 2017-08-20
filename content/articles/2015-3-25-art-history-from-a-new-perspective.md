@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251306-ff712-blythe_house,_science_museum_05a.jpg"
 image_caption: >
   Wooden aircraft windtunnel model in the Science Museum’s Blythe House
-image_width: "0"
-image_height: "0"
 image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""

@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310182157-jal08-impression-of-higgs.jpg"
 image_caption: >
   Impression of Higgs Boson
-image_width: "0"
-image_height: "0"
 image_attribution: "Josef Kristofoletti"
 image_attribution_link: "http://kristofoletti.com"
 video_url: ""

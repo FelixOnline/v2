@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191129-felix-3143944790_cbf09a2313_o.jpg"
 image_caption: >
   Eat sugar mice, and be at peace with the fact that you’re basically consuming pure sugar.
-image_width: "3264"
-image_height: "2448"
 image_attribution: "Osaka19"
 image_attribution_link: ""
 video_url: ""

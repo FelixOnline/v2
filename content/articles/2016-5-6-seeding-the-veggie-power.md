@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061119-felix-Russell_Brand_London_Revolution_Protest_2.jpg"
 image_caption: >
   Even crazed communists can be vegetarians – it’s very inclusive group.
-image_width: "2119"
-image_height: "3179"
 image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""

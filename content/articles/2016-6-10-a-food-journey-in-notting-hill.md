@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606101036-felix-Snaps 1.jpg"
 image_caption: >
   The most photogenic sandwich ever from Snaps + Rye
-image_width: "1755"
-image_height: "1755"
 image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232020-pk1811-2011_extremely_loud_and_incredibly_close_004.jpg"
 image_caption: >
   Now listen, that headline up there is in no way sexual. I swear!!!
-image_width: "1920"
-image_height: "1280"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

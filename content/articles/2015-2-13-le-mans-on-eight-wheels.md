@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502131421-bwh12-skaters---awspeedskating.jpg"
 image_caption: >
   IC Skate Soc warm up on the Serpentine
-image_width: "0"
-image_height: "0"
 image_attribution: "AWSpeedskating"
 image_attribution_link: ""
 video_url: ""

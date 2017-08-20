@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201306210123-tna08-a-haunted-house-image01.jpg"
 image_caption: >
   Nope, that wasn’t a fart
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

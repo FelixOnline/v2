@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103101948-nm1010-cubacuba.jpg"
 image_caption: >
 
-image_width: "3872"
-image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

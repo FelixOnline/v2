@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082048-pk1811-b010t31j_640_360.jpg"
 image_caption: >
   Professor David Phillips, president of the Royal Society of Chemistry
-image_width: "640"
-image_height: "360"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

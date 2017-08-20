@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172127-pk1811-jcq.jpg"
 image_caption: >
   That awkward moment when someone takes the last piece of cake... or the cake.
-image_width: "430"
-image_height: "401"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

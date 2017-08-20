@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603181158-felix-maxresdefault.jpg"
 image_caption: >
   Aryton Senna relaxes after a race..
-image_width: "1920"
-image_height: "1080"
 image_attribution: "Senna PR"
 image_attribution_link: ""
 video_url: ""

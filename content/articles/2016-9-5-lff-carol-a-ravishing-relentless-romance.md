@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201609052230-ff712-201512061428-ff712-carol2-xlarge.jpg"
 image_caption: >
 
-image_width: "1280"
-image_height: "721"
 image_attribution: "Allstar"
 image_attribution_link: ""
 video_url: ""
@@ -46,7 +44,6 @@ Based on Patricia Highsmith’s convention-busting 1952 novel _The Price of Salt
 What was radical about the novel – and, indeed, remains radical over half a century of progress later – is the possibility of a happy ending that opens up for the couple. It is one that is not explicitly stated by director Todd Haynes, who deals in subtle clues rather than dramatic outbursts: the hand lingering just a little too long on the shoulder; the gaze that is caught and held; the meaningful pause. Haynes is clearly in his element with _Carol_, which – after 2002’s _Far From Heaven_ – cements his place as a key interpreter of 20th century America.
 
 Haynes’ camera almost always views Carol and Therese obliquely: through doorways, marking off the boundaries of private and public; within cars, ensconcing them in their own bubble of chrome and upholstery; through windows, their faces smudged into blurs by greasy smears. Trapped within their passion, the pair place a buttress between themselves and the world, retreating into their own private domain – a necessary technique for coping with the social pressures of the day, but also a perfect portrayal of the all-consuming passion love can bring.
-TODO: image from
 The dialogue is poignant, with every pause and ellipse pregnant with unfulfilled longing. Phyllis Nagy’s screenplay brings with it a soft sense of a beat, offset by the visual melody provided by Edward Lachman’s cinematography. Carter Burwell’s score, all swelling strings and plucked harp, contributes to this harmony, although on occasion it does outstay its welcome. _Carol_ is, to not mince words, simply stunning. Sandy Powell’s costume sumptuous costume design alone conjures up the idea of a mid-century Manhattan, but Jesse Rosenthal’s pitch-perfect art direction takes this to new heights. The audience is transported out of the cinema, and stand blinking, blinded by the midwinter sun, and the possibilities of love it can bring.
 
 As Therese, Rooney Mara is at a career-best; in her hands, we watch Therese mature within the course of several months, from a naïve young girl, one who agrees without knowing what she wants, to a fully-fledged woman. Her sexual awakening creates a fire within Therese, one that burns off any soft corners, leaving behind hard edges; her warm dimples traded for an angular jawline; hairbands exchanged for high heels.

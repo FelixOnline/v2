@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605201105-felix-120123884_36e8dc7e7f_o.jpg"
 image_caption: >
   Here at FELIX we believe in positive reinforcement, so have a cookie (or ten) for reading an article about exercise.
-image_width: "1200"
-image_height: "1600"
 image_attribution: "Tracy Hunter"
 image_attribution_link: ""
 video_url: ""

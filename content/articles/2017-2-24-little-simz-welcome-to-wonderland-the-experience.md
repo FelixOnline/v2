@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702241445-felix-12459-fitandcrop-594x337.jpg"
 image_caption: >
 
-image_width: "594"
-image_height: "337"
 image_attribution: "Roundhouse"
 image_attribution_link: ""
 video_url: ""

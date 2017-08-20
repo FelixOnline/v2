@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201001221421-rsp07-science.jpg"
 image_caption: >
 
-image_width: "800"
-image_height: "532"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

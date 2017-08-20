@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251300-ff712-farinelli-555-captioneda.jpg"
 image_caption: >
   Mark Rylance as King Philippe in Farinelli and the King.
-image_width: "0"
-image_height: "0"
 image_attribution: "Marc Brenner"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192023-ams111-ascdt_cave.jpg"
 image_caption: >
   The man himself
-image_width: "385"
-image_height: "570"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

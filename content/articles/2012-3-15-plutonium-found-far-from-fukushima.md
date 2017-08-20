@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203151959-ams111-srep00304-f1.jpg"
 image_caption: >
   Sampling sites around the Fukushima Daiichi nuclear power plant (DNPP)
-image_width: "946"
-image_height: "1159"
 image_attribution: "Nature"
 image_attribution_link: ""
 video_url: ""

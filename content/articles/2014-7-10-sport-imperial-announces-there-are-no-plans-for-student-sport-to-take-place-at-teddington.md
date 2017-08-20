@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201407071231-jal08-teddington-.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Sport Imperial"
 image_attribution_link: ""
 video_url: ""

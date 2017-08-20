@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232326-felix-jasonparmar.jpg"
 image_caption: >
   Deputy President (Education) Jason Parmar
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Matthew Colvin"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611111805-felix-GirlsLostGuardian1.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1152"
 image_attribution: "Götafilm"
 image_attribution_link: ""
 video_url: ""

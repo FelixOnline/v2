@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201501311904-ff712-aboudia_spiritual_conversations_2014.jpg"
 image_caption: >
   Detail from Spiritual Conversations
-image_width: "0"
-image_height: "0"
 image_attribution: "Aboudia"
 image_attribution_link: ""
 video_url: ""

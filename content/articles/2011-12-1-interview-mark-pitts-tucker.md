@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012042-pk1811-mark-pitts-1024x840.jpg"
 image_caption: >
   Tuition Cheese – Mark Pitts-Tucker shares his cheese-based experiences
-image_width: "1024"
-image_height: "840"
 image_attribution: "Davidstow Cheddar"
 image_attribution_link: ""
 video_url: ""

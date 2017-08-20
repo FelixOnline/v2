@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612161543-felix-composite.jpg"
 image_caption: >
 
-image_width: "3462"
-image_height: "1518"
 image_attribution: "olangeKnowlesVEVO, Columbia Pictures, Netflix, Jonathan Ring, Alfred Stieglitz, Pavel Antonov, Paul Smithies (diymag.com), rocbeyonce /Wikimedia Commons, Jabari Jacobs (atalanticrecords.com). Composite: Felix"
 image_attribution_link: ""
 video_url: ""

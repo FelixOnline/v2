@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201309291542-jal08-mf_ddp_large.jpg"
 image_caption: >
   See this? This won’t be you. See that guy with glasses sitting in the corner texting. Guess where th
-image_width: "0"
-image_height: "0"
 image_attribution: "Wired"
 image_attribution_link: ""
 video_url: ""

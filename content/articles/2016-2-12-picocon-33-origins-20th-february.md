@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121200-felix-tumblr_static_24anzp00fvesog8sk00wg44sg.jpg"
 image_caption: >
   Guest of Honour, Carrie Hope Fletcher
-image_width: "1252"
-image_height: "1252"
 image_attribution: "www.carriehopeletcher.com"
 image_attribution_link: ""
 video_url: ""

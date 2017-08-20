@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191133-felix-giphy.gif"
 image_caption: >
 
-image_width: "570"
-image_height: "303"
 image_attribution: "giphy"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603041128-felix-mtc.jpg"
 image_caption: >
 
-image_width: "1846"
-image_height: "823"
 image_attribution: ""
 image_attribution_link: ""
 video_url: "https://www.youtube.com/watch?v=0A7VZYJ0GB4"

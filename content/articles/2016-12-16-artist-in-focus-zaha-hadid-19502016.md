@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612161501-felix-Zaha_Hadid_Portrait_by_Simone_Cecchetti (1).jpg"
 image_caption: >
 
-image_width: "3168"
-image_height: "4752"
 image_attribution: "Simone Cecchetti"
 image_attribution_link: ""
 video_url: ""

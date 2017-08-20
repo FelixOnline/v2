@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111031808-fa608-i-robot-2004-42-g1.jpg"
 image_caption: >
 
-image_width: "1200"
-image_height: "663"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

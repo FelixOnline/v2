@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011041906-ks607-markfiel.jpg"
 image_caption: >
 
-image_width: "4368"
-image_height: "2912"
 image_attribution: "Slobodan Radosavljevic"
 image_attribution_link: ""
 video_url: ""

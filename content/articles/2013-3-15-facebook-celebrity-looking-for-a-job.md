@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201303150057-tna08-andrew_hunter-copy.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -55,7 +53,6 @@ AH: “Zuna” means “abundance” in a number of African languages. We aim to
 __PP: How are you different from other job search sites? Can you explain how the social networking feature in more detail?__
 
 AH: Job ads are fragmented and too complicated to navigate. Users want to search all the ads in one place, which is what we provide at Adzuna: a one-stop shop. We then make the search experience better and empower our users to find the right ads for them, by layering on innovations in social and big data. The biggest misconception about our business is that we’re a portal where you can post ads (like Monster or Gumtree). Adzuna is a search engine (like Google).
-TODO: image from
 Adzuna Connect is a social tool that allows jobseekers to see hundreds of job vacancies they are connected to via their first and second degree social connections in LinkedIn and Facebook. The average jobseeker has no idea they’re connected to over 300 relevant, open job vacancies through their social networks. Also, over 90% of companies, large and small, are now using social media to find staff. We also provide users with rich, insightful charts and data on every search, helping jobseekers make informed decisions and setting us apart from the competition.
 > Keep focused. Make your mother proud. And all employees must wear flip flops if the temperature is above 20oC
 __PP: So who do you see as your competitors?__

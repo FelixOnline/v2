@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502131521-bwh12-1584-2.png"
 image_caption: >
   An instructor defends himself against an armed attacker in the first class.
-image_width: "0"
-image_height: "0"
 image_attribution: "Xuan Chen"
 image_attribution_link: ""
 video_url: ""

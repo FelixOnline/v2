@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061043-felix-151019_ugcomm_052.jpg"
 image_caption: >
   Mate do you have a safety pin?
-image_width: "5760"
-image_height: "3840"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

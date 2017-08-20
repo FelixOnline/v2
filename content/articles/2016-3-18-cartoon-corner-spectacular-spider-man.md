@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603181202-felix-1141327-spectacularspidermanseason2poster.jpg"
 image_caption: >
   A hero’s work is never done.
-image_width: "1456"
-image_height: "2785"
 image_attribution: "The CW"
 image_attribution_link: ""
 video_url: ""

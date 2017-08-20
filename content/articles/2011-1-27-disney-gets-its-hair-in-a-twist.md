@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101271959-nm1010-tangleyy.jpg"
 image_caption: >
 
-image_width: "1054"
-image_height: "628"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

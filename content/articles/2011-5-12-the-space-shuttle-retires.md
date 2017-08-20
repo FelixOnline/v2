@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105122040-felix-space-shuttle-challenger.jpg"
 image_caption: >
   Space Shuttle Challenger, June 22 1983
-image_width: "2383"
-image_height: "3000"
 image_attribution: "National Archives, United States of America"
 image_attribution_link: "http://www.nationalarchives.gov.uk/"
 video_url: ""

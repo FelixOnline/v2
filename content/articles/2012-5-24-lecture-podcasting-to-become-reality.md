@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205242349-mc4509-homepage-slide-2.jpg"
 image_caption: >
   Panopto provides services for Fortune 500 companies
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

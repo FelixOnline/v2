@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706091707-ea3211-seGvp80ysWo.market_maxres.jpg"
 image_caption: >
 
-image_width: "1264"
-image_height: "711"
 image_attribution: "FX - Floyd County Productions"
 image_attribution_link: ""
 video_url: ""

@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701131415-felix-15074727357_6221618cac_o.jpg"
 image_caption: >
 
-image_width: "2502"
-image_height: "2502"
 image_attribution: "Stefan Böhm Fotografie"
 image_attribution_link: ""
 video_url: ""

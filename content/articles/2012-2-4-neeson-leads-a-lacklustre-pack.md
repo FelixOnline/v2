@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202041727-felix-the-grey-liam-neeson.jpg"
 image_caption: >
   I don’t know who you are. I don’t know what you want... oh, wait, wrong film
-image_width: "570"
-image_height: "300"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

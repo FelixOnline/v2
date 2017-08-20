@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606101033-felix-2398.jpg"
 image_caption: >
   Barry Humphrie by David Hockney.
-image_width: "1920"
-image_height: "2561"
 image_attribution: "Richard Schmidt/Royal Academy "
 image_attribution_link: ""
 video_url: ""

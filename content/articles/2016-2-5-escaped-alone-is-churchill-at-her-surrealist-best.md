@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051211-felix-escaped.jpg"
 image_caption: >
   Escaped Alone at the Royal Court.
-image_width: "1920"
-image_height: "1152"
 image_attribution: "Tristram Kenton"
 image_attribution_link: ""
 video_url: ""

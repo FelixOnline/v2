@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102155-pk1811-1.jpg"
 image_caption: >
 
-image_width: "262"
-image_height: "262"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

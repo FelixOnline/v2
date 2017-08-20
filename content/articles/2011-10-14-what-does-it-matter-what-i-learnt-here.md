@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110140110-sjw209-omar.jpg"
 image_caption: >
 
-image_width: "550"
-image_height: "485"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

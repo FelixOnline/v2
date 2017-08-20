@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012017-ams111-arts1.jpg"
 image_caption: >
   To those who read Felix for the witty picture captions, I’m sorry
-image_width: "3144"
-image_height: "2358"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

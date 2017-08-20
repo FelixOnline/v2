@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506050012-cj914-rwe-leeds-blockade-21-1024x816.jpg"
 image_caption: >
   The Royal School of Mines was not the only group to face protests. There were protests outside the Department of Energy and Climate Change, as well as at the headquarters of Npower.
-image_width: "0"
-image_height: "0"
 image_attribution: "No Dash for Gas"
 image_attribution_link: ""
 video_url: ""

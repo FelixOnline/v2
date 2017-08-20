@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411061910-snb11-20140524_151804-copy.jpg"
 image_caption: >
   A rouge Deadpool picks out some new footware
-image_width: "0"
-image_height: "0"
 image_attribution: "P. Skett"
 image_attribution_link: ""
 video_url: ""

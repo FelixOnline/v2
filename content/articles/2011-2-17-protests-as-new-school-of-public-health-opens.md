@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102171925-ks607-healthpr.jpg"
 image_caption: >
   Protestors outside the Sherfield building
-image_width: "3888"
-image_height: "2592"
 image_attribution: "Maciej Matuszewski"
 image_attribution_link: ""
 video_url: ""

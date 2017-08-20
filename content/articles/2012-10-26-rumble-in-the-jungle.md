@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210260407-tna08-white-house-murder-case_orange-tree-theatre_3.jpg.jpg.jpg.jpg.jpg"
 image_caption: >
                                           James Alper, Robert Balderrama © Robert Day
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

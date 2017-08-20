@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172130-pk1811-music-tech-article.jpg"
 image_caption: >
   Oh no!
-image_width: "3508"
-image_height: "4960"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

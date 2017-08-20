@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411061858-snb11-exhibit-b-at-the-barbican-012.jpg"
 image_caption: >
   Is this too offensive?
-image_width: "0"
-image_height: "0"
 image_attribution: "Guardian"
 image_attribution_link: ""
 video_url: ""

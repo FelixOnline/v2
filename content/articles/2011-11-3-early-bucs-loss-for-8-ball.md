@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032202-sjw209-pool.jpg"
 image_caption: >
   They have pool cues, and they’re not happy they lost. Watch out
-image_width: "919"
-image_height: "538"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

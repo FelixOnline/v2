@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203151948-ig711-rtr2xiyr.jpg"
 image_caption: >
   Between a rock and a hard place: I don’t envy the French people
-image_width: "2200"
-image_height: "1510"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

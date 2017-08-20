@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106281158-felix-horse.jpg"
 image_caption: >
   Oblivion's 'horse armour: the worse downloadable content of all time
-image_width: "1024"
-image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

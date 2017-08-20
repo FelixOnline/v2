@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201211292253-csw09-pasta.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -46,7 +44,6 @@ It’s Saturday. You want to go to a nice restaurant to enjoy a proper meal (for
 
 __Starter:__
 _Aubergine and honey heaven_
-TODO: image from
 Words cannot explain my excitement when I first made this. I was inspired by a salad dish I saw on a cooking show and I thought I should modify it a bit and give it a try. With no exaggeration this is the best starter you can ever have since it is light and it has unique flavours that are married so well together.
 
 Ingredients:
@@ -86,7 +83,6 @@ To make the pesto, simply place the basil, oil, garlic, and salt and pepper in t
 
 __Dessert:__
 _Rich chocolate brownies_
-TODO: image from
 Chocolate for dessert. It might sound typical but these brownies give this meal a luxurious end. You have to try them to understand!
 
 Ingredients:

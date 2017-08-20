@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172042-pk1811-screenshot5.jpg"
 image_caption: >
   New research has shown that dragons make everything 110% more badass
-image_width: "1920"
-image_height: "1080"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

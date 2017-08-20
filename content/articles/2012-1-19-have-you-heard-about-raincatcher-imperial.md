@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192103-pk1811-raincatcher-logo2.jpg"
 image_caption: >
 
-image_width: "1131"
-image_height: "1732"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

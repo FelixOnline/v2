@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201012092141-dr910-imperial.jpg"
 image_caption: >
   Students gather to make their views on the restructure clear
-image_width: "3888"
-image_height: "2592"
 image_attribution: "Afonso Campos"
 image_attribution_link: ""
 video_url: ""

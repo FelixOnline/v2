@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111031951-pk1811-p1030933_4_5_6_7_8_9_tonemapped.jpg"
 image_caption: >
   Cloudy skies could become an even more common sight if geoengineering technique cloud seeding become
-image_width: "1600"
-image_height: "1196"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

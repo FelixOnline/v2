@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105261949-felix-mg_0289.jpg"
 image_caption: >
 
-image_width: "4368"
-image_height: "2912"
 image_attribution: "Ralph Hodgson/Imperial College London"
 image_attribution_link: ""
 video_url: ""

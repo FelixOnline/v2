@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105061001-felix-fuck-buttons.jpg"
 image_caption: >
 
-image_width: "473"
-image_height: "598"
 image_attribution: "Christopher Richardson"
 image_attribution_link: ""
 video_url: ""

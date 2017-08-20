@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251327-ff712-ap--20150876-natalia-osipova-as-odette,-matthew-golding-as-prince-siegfr...a.jpg"
 image_caption: >
   Natalia Osipova as Odette and Matthew Golding as Prince Siegfried.
-image_width: "0"
-image_height: "0"
 image_attribution: "Alice Pennefather"
 image_attribution_link: ""
 video_url: ""

@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251237-ff712-5d-115-icso-concert---cadogan-hall---28-february-2015---bowa.jpg"
 image_caption: >
   Imperial College Symphony Orchestra at Cadogan Hall for their Spring Concert
-image_width: "0"
-image_height: "0"
 image_attribution: "Ian Gillet"
 image_attribution_link: ""
 video_url: ""

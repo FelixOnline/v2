@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172221-pk1811-we-need-to-talk-about-kev-007.jpg"
 image_caption: >
   Where the hell's the tomato soup?!
-image_width: "460"
-image_height: "276"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

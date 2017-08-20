@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110070156-sjw209-52.jpg"
 image_caption: >
   All kitted out: Imperial athletes show off the new college threads in front of Ethos
-image_width: "713"
-image_height: "476"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411062132-snb11-ysl-warhol.gif"
 image_caption: >
   Yves Saint Laurent - Andy Warhol. 1974
-image_width: "0"
-image_height: "0"
 image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""

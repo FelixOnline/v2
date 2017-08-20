@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612091230-aib116-e9b3415b58a872cf70d482500546ec8e.jpg"
 image_caption: >
 
-image_width: "1200"
-image_height: "574"
 image_attribution: "Helen Marten"
 image_attribution_link: ""
 video_url: ""

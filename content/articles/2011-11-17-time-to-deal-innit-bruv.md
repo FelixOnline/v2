@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172148-pk1811-top-boy-4-shot-on-roof.jpg"
 image_caption: >
   We’re posing on the top floor of a multi-storey car park. No. We don’t know why either
-image_width: "1280"
-image_height: "838"
 image_attribution: "Channel 4"
 image_attribution_link: "http://www.channel4.com/programmes/top-boy"
 video_url: ""

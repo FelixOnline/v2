@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201002271711-rsp07-manonski.jpg"
 image_caption: >
 
-image_width: "1000"
-image_height: "695"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

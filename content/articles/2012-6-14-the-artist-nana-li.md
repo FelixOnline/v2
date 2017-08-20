@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206142124-pk1811-nana.png"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -59,7 +57,6 @@ E - So you’d like to work in a team again?
 N - Exactly, yeah. It’s nice to get inspired by other people and it allows you to grow faster so that’s sort of where I want to go. But because started in manga most of my clientele are looking for manga so it’s been a little bit difficult to change.
 
 E - If you were in a team, might you go and have freelance jobs on the side? So that you didn’t leave manga completely?
-TODO: image from
 N - The longer I work on it the less there is a divide in my mind, between manga, between what I do and what I want to do. In the end it’s all about illustration. It’s about problem-solving. It’s about visual communication, all those big words. Whether it’s drawn in manga style or drawn in the more realistic or cartoony style doesn’t really matter. I think I’m starting to move away from style being an issue. It’s more what I want to do with artwork. I want to draw exciting concepts for cool projects.
 
 E - What would you suggest to people who might want to get into art?

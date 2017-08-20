@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506050048-cj914-caitlynjenner2.jpg"
 image_caption: >
   Caitlyn Jennner, formerly known as Bruce, received much support and media attention when she recently came out as transgender.
-image_width: "0"
-image_height: "0"
 image_attribution: "Vanity Fair"
 image_attribution_link: ""
 video_url: ""

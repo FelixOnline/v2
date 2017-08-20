@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203012151-cac111-yayoikusama.jpg"
 image_caption: >
   More like Tate Magenta...
-image_width: "1181"
-image_height: "1772"
 image_attribution: "Eikoh Hosoe"
 image_attribution_link: ""
 video_url: ""

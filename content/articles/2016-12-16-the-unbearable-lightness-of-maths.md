@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612161459-felix-IMG_7138.jpg"
 image_caption: >
 
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Agnese Abrusci"
 image_attribution_link: ""
 video_url: ""

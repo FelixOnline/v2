@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611071312-felix-Sims3_02.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1080"
 image_attribution: "Maxis"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191108-felix-DSC_0009.JPG"
 image_caption: >
   Labels are for cans, not for toilets.
-image_width: "3840"
-image_height: "2160"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""

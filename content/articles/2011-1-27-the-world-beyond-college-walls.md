@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101271924-nm1010-bombbomb.jpg"
 image_caption: >
 
-image_width: "475"
-image_height: "268"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

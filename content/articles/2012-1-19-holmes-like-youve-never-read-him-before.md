@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192014-ams111-cthulugaiman.jpg"
 image_caption: >
   Gaiman with his favourite Great Old One
-image_width: "639"
-image_height: "735"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

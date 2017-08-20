@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101271758-ks607-profiano.jpg"
 image_caption: >
   Professor Ian Owens announced the teaching review in a meeting with students
-image_width: "3888"
-image_height: "2592"
 image_attribution: "Afonso Campos"
 image_attribution_link: ""
 video_url: ""

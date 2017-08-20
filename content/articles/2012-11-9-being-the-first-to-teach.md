@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201211090036-tna08-brett-1.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -72,4 +70,3 @@ The interview wraps up and I realise that I’ve also slightly overrun the allot
 _Brett Wigdortz’s book ‘Success Against The Odds’ packed with start-up tips and business advice is available to buy now._
 
 _If you would like to find out more about Teach First, sign up to the Teach First Employer Presentation on Wednesday 14th November at 6pm in Read Theatre, Sherfield Building via JobsLive._
-TODO: image from

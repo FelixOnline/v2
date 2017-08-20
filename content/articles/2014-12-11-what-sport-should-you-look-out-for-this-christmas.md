@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412112339-cj914-_79407119_am2.jpg"
 image_caption: >
   Andy Murray will be hoping for a strong 2015
-image_width: "0"
-image_height: "0"
 image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""

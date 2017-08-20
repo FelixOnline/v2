@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201270002-felix-icl_ambassador_009.jpg"
 image_caption: >
   Rector Keith O’Nions meeting with Mr Liu last week
-image_width: "2250"
-image_height: "2019"
 image_attribution: "Amna Siddiq"
 image_attribution_link: ""
 video_url: ""

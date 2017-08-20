@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603041149-felix-7f575200-0f46-4251-9082-16eedde2ba89-88thAcademyAwards_Loia2.jpg"
 image_caption: >
   Ruffalo et al. celebrate Spotlight’s win
-image_width: "1320"
-image_height: "881"
 image_attribution: "AP"
 image_attribution_link: ""
 video_url: ""
@@ -55,7 +53,6 @@ Most notably, _The Revenant_ failed to win Best Picture, an award which went, in
 In a charged speech, producer Michael Sugar said that the message of the film should “resonate all the way to the Vatican”, issuing a direct challenge to Pope Francis to “protect the children and restore the faith”.
 
 _Spotlight_’s win for Best Picture wasn’t the only surprise of the night. Mark Rylance won Best Supporting Actor, which was widely expected to go to Sylvester Stallone, for his role as Rudolf Abel in _Bridge of Spies_ – the film’s only award. Best Visual Effects went to _Ex Machina_, the British sci-fi drama whose budget was minuscule compared to its competitors; _Ex Machina_ beat out stiff competition for the award, including _Star Wars_, _Mad Max_, and _The Revenant_, whose CGI bear scene garnered acclaim. Alicia Vikander, the star of _Ex Machina_, also took home Best Supporting Actress for her role in _The Danish Girl_.
-TODO: image from
 Ennio Morricone took home the Best Score award for his treatment of Quentin Tarantino’s _The Hateful Eight_. Going up to receive the award, the 87-year-old Morricone was treated to a standing ovation, a recognition of his decades of work in the industry. _Inside Out_ took home the award for Best Animated Feature, as expected, and British documentary _Amy_, following the life of the late singer Amy Winehouse, took home Best Documentary.
 
 Sugar’s speech on the Catholic Church wasn’t the only pointed statement of the night; in fact, nearly all winners had something to say about the state of the world. DiCaprio used his time to address climate change, calling it “the most urgent threat facing our species”; Best Adapted Screenplay winner Adam McKay, who won for _The Big Short,_ told the audience “if you don’t want big money to control government, don’t vote for candidates who take money from big banks” (a thinly-veiled attack on Hillary Clinton, who made $3 million from 12 speeches to big banks in 2013-15); and even Best Costume winner, Jenny Bevan, said that we might be heading towards a _Mad Max_ world if “we’re not kinder to each other”. Such an innocuous message didn’t stop a whole row of celebrities from giving her the stink-eye as she strolled down the aisle to collect the award, decked out in a bejewelled leather jacket and scarf, giving the sartorial finger to any notions of what women ‘should’ wear at awards.

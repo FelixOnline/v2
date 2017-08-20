@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152041-ams111-glenn-close-albert-nobbs-and-mia-wasikowska.jpg"
 image_caption: >
   I don’t boil bunnies anymore! You must believe me!! I’m not crazy!!!
-image_width: "1024"
-image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

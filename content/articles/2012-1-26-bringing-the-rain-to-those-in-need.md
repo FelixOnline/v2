@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262227-pk1811-p1050282.png"
 image_caption: >
   Easy access to water is of huge benefit to developing countries
-image_width: "2000"
-image_height: "1500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

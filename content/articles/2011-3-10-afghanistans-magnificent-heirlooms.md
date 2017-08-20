@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103102011-nm1010-goldgold.jpg"
 image_caption: >
   A pair of clasps depicting warriors
-image_width: "2303"
-image_height: "1839"
 image_attribution: "Thierry Ollivier / Musee Guimet"
 image_attribution_link: ""
 video_url: ""

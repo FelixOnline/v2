@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051215-felix-4231.jpg"
 image_caption: >
   Claude Monet,  Water Lilies, 1916-26
-image_width: "1920"
-image_height: "1152"
 image_attribution: "Cleveland Museum of Art "
 image_attribution_link: ""
 video_url: ""

@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201002120204-rsp07-gazzarun.jpg"
 image_caption: >
 
-image_width: "1000"
-image_height: "667"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

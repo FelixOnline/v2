@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262224-pk1811-409502_349633678382237_248420458503560_1381176_302468328_n.jpg"
 image_caption: >
   Dr. Gilbert spoke on the relationship between medicine and politics
-image_width: "960"
-image_height: "643"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

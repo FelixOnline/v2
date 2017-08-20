@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102242003-nm1010-jeopardy.jpg"
 image_caption: >
   Spot the odd one out
-image_width: "2700"
-image_height: "1458"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

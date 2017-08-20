@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201604291108-felix-citizens.jpg"
 image_caption: >
   London Living Wage is one of their famed campaigns.
-image_width: "960"
-image_height: "720"
 image_attribution: "Citizens UK"
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092211-felix-chris-ramsey-picture-for-feature.jpg"
 image_caption: >
   That’s right, it’s a totally unnecessary, time consuming, Photoshop. MSci project? What’s that?
-image_width: "5000"
-image_height: "4000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

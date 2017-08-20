@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201507051101-jr2514-galloway.jpg"
 image_caption: >
   Mr Galloway threw his hat in the ring three weeks after the general election
-image_width: "0"
-image_height: "0"
 image_attribution: "The Independent"
 image_attribution_link: ""
 video_url: ""

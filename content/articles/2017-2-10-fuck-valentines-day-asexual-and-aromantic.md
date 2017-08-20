@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702101440-felix-Screen Shot 2017-02-10 at 14.40.39.png"
 image_caption: >
   Things I shockingly don’t identify with despite being an aromantic asexual
-image_width: "1985"
-image_height: "1098"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

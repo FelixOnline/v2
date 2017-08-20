@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605271057-felix-7841082092_c402e20739_o.jpg"
 image_caption: >
   This cross-section image shows nanoparticles of copper zinc tin sulphide laid down to create a solar cell.
-image_width: "994"
-image_height: "791"
 image_attribution: "Oregon State University"
 image_attribution_link: ""
 video_url: ""

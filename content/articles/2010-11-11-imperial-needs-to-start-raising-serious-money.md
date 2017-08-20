@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011112148-ks607-endowmen.jpg"
 image_caption: >
   That's one hell of an endowment...
-image_width: "3888"
-image_height: "2592"
 image_attribution: "Kadhim Shubber"
 image_attribution_link: "http://www.felixonline.co.uk/?user=ks607"
 video_url: ""

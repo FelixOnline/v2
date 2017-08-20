@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110211306-ak6309-betty-blythe-tea-shopw.jpg"
 image_caption: >
 
-image_width: "4198"
-image_height: "2764"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

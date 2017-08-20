@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104241410-felix-sherfield1.jpg"
 image_caption: >
 
-image_width: "3648"
-image_height: "2736"
 image_attribution: "Ben Scally"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201504071727-ff712-rsz_oppenheimer_production_photos__2014_photo_by_keith_pattison__c__rsc_rscoppie4034.jpg"
 image_caption: >
   The cast of Oppenheimer, currently on at the Vaudeville Theatre
-image_width: "0"
-image_height: "0"
 image_attribution: "RSC/Keith Pattison"
 image_attribution_link: ""
 video_url: ""

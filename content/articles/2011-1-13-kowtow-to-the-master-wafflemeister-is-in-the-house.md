@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101131944-ks607-waffleme.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "768"
 image_attribution: "Katie Tan"
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201604291101-felix-Screen Shot 2016-04-27 at 13.30.37.png"
 image_caption: >
   Trying to find a heart, mate?
-image_width: "793"
-image_height: "531"
 image_attribution: "greghands.com"
 image_attribution_link: ""
 video_url: ""

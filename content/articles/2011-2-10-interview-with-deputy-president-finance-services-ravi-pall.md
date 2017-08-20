@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102102002-ks607-ravipall.jpg"
 image_caption: >
 
-image_width: "2464"
-image_height: "1648"
 image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""

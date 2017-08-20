@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102103-felix-capdown.png"
 image_caption: >
   Caution: angles may induce torticollis
-image_width: "424"
-image_height: "629"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

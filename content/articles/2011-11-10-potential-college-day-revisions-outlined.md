@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111101946-pk1811-img_7132-copy.jpg"
 image_caption: >
   Humanities is concerned that access to languages will be restricted
-image_width: "3456"
-image_height: "5184"
 image_attribution: "Matthew Colvin"
 image_attribution_link: ""
 video_url: ""

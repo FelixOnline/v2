@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261216-felix-HPR Photo 1.jpg"
 image_caption: >
   The race was enjoyed by athletes of a whole range of abilities.
-image_width: "960"
-image_height: "640"
 image_attribution: "Dave Tan"
 image_attribution_link: ""
 video_url: ""

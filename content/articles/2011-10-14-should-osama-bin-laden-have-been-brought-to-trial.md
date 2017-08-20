@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110140127-sjw209-james-osama.jpg"
 image_caption: >
 
-image_width: "200"
-image_height: "199"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -56,7 +54,6 @@ Perhaps it would have been more difficult to capture bin Laden than to kill him,
 Bringing bin Laden to trial would have been more just, legal and impressive. It would have humiliated al-Qaeda with a public defeat. It would’ve shown the whole world the difference between the West and al-Qaeda, it would’ve been a more effective way to help win the War on Terror, and it would’ve sent the strongest possible message that the West are the good guys. If America had captured bin Laden, they could have given him the death sentence, giving us the same end result. But because they killed him there and then, the opportunity to do the right thing has been lost. Bin Laden would surely have preferred death to capture. This, as much as anything, tells us that America made the wrong choice, and that bin Laden was able to have the last laugh after all.
 
 __No - Ed Middleton__
-TODO: image from
 We have the wolf by the ears; and we can neither hold him, nor safely let him go. Justice is in one scale, and self-preservation in the other.” These words spoken by Thomas Jefferson fittingly describe the quandary faced by the Western world when fighting the War on Terror; and let us be clear about this, we are indeed fighting a war. The nature of warfare has changed since the days of soldiers standing in an open field wearing their nation’s banner. In the age of globalisation, war is fought over great distances by splinter cells comprised of anonymous soldiers. In 1998, Osama bin Laden declared war on the Western world and in 2001 George Bush reciprocated. Osama bin Laden was a soldier in that war and his death was one of the many casualties. Here I will show you why the death of Osama bin Laden was justified as an act of war, and why the alternatives made this the only viable option.
 
 When fighting against an opposition comprised of splinter groups and isolated cells, the chain of command that links and organises these cells becomes a very significant strategic target. Osama bin Laden was also pivotal in uniting al-Qaeda, recruiting new soldiers and funding a number of their operations. It was for these reasons that he was killed. The United States discovered the location of a high-value target (HVT), crucial in the running of al-Qaeda and had it removed, as you would any other military target. There have been no calls to bring the countless al-Qaeda soldiers fighting in Afghanistan to trial, so why should Osama bin Laden be different? People often cite examples such as Adolf Eichmann and Charles Taylor, where those implicated in war crimes were tried in an international court. However, in both these instances the conflict had ended and the individuals provided no strategic advantage in an on-going war. As such, they were not counted as valid military targets.

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051201-felix-5641181503_bb7dfb6f62_o.jpg"
 image_caption: >
   Smog obscuring the view from Primrose Hill.
-image_width: "4752"
-image_height: "3168"
 image_attribution: "Luton Anderson"
 image_attribution_link: ""
 video_url: ""

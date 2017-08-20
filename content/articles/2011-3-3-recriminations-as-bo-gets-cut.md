@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103030541-ks607-csbbudge.jpg"
 image_caption: >
   The Clubs and Societies Board spent a gruelling eight hours deciding the allocations
-image_width: "4928"
-image_height: "3264"
 image_attribution: "Rob Bishop"
 image_attribution_link: ""
 video_url: ""

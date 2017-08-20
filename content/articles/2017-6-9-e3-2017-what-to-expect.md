@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706091730-ea3211-9588609087_c4bb6c2232_k.jpg"
 image_caption: >
   Expos are where the fun is at!
-image_width: "2048"
-image_height: "1116"
 image_attribution: "Sergey Galyonkin"
 image_attribution_link: ""
 video_url: ""

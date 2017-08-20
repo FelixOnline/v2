@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110211223-felix-sandrobotticelli2.jpg"
 image_caption: >
   What do you think Venus and Mars have just finished? Rose can tell you
-image_width: "2048"
-image_height: "816"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

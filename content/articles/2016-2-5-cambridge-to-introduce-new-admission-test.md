@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051148-felix-KingsCollegeChapelWest.jpg"
 image_caption: >
   You didn't want to go there anyway.
-image_width: "1025"
-image_height: "768"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611111123-so515-5439999805_4280c8bcef_o.jpg"
 image_caption: >
 
-image_width: "4752"
-image_height: "3168"
 image_attribution: "Gage Skidmore"
 image_attribution_link: ""
 video_url: ""

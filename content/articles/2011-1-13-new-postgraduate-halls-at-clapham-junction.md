@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101132146-ks607-griffons.jpg"
 image_caption: >
 
-image_width: "4272"
-image_height: "2848"
 image_attribution: "Tom Welch"
 image_attribution_link: ""
 video_url: ""

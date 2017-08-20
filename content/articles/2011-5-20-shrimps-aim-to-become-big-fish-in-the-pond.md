@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105200351-felix-221748_10150263703571393_674991392_9138117_46194_n.jpg"
 image_caption: >
 
-image_width: "720"
-image_height: "524"
 image_attribution: "Alexander Johnstone Images"
 image_attribution_link: ""
 video_url: ""

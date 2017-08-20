@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606101034-felix-ep57-ss05-1280.jpg"
 image_caption: >
   Smug-face Margery is back.
-image_width: "1280"
-image_height: "720"
 image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""

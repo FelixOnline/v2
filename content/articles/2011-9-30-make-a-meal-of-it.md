@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201109301319-felix-best-interior.jpg"
 image_caption: >
   Take a chance on Giraffe, or even... stick your neck out...eh, eh? I’ll get my coat
-image_width: "1800"
-image_height: "1200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

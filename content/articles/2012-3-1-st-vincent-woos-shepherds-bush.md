@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203012309-cac111-st.-vincent_web.jpg"
 image_caption: >
   Sun, absence of concrete and chewing gum. Clearly not Shepherd’s Bush
-image_width: "800"
-image_height: "675"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

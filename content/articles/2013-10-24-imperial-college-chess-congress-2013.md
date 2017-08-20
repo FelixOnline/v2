@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310250034-felix-feat_iccc.jpg"
 image_caption: >
   Imperial College’s FIDE Master Miguel Navarro-Cia (foreground) in action during Round 4
-image_width: "0"
-image_height: "0"
 image_attribution: "John Sargent"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612161434-felix-6170893380_b9f0e7cf16_o.jpg"
 image_caption: >
 
-image_width: "2257"
-image_height: "2252"
 image_attribution: "Charles de Mille-Isles"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210051343-felix-boris-ladyleg.jpeg"
 image_caption: >
   Politics: you get into it for the money and biyatchez and stuff. I got into caption writing for the.
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

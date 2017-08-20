@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110161523-felix-driving-miss-daisy-broadway.jpg"
 image_caption: >
   This is actually how Darth Vader steered the Death Star. Probably
-image_width: "1600"
-image_height: "1067"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

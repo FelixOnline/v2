@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701201545-felix-14020685350_46aa22061b_o.jpg"
 image_caption: >
 
-image_width: "640"
-image_height: "640"
 image_attribution: "Diego"
 image_attribution_link: ""
 video_url: ""

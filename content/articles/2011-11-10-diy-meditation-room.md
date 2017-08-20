@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102214-pk1811-img_7103.jpg"
 image_caption: >
   One thing I would say – make it brighter
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Navid Nabijou"
 image_attribution_link: ""
 video_url: ""
@@ -53,7 +51,6 @@ Have I done enough to sell it to you? Good, then let’s begin. First off, you�
 Exactly what you end up getting depends on your personal preference, as well as the dimensions of the room. We opted for a subdued red colour scheme to fill room, which measure about a metre by a metre and a half (small enough to fit a person in but not much else).
 
 We selected four large throws (£7 each) to cover the walls and ceiling. Using drawing pins, we affixed three of them to the walls and hung one across the ceiling – just below the ceiling lamp, thereby softening the light coming into the room.
-TODO: image from
 We then covered the floor with a thin carpet (£6), and placed a simply patterned cushion (£4) in the centre of the room.
 
 A table for incense burning is an optional extra. We made ours by covering a cardboard box with a couple of patterned pashminas (£1 each). On top of this we put a small box to hold the incense and a fancy dragon-shaped incense burner we picked up in the market.

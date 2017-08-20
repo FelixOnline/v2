@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611120957-ff712-TDU sandwich - Will Sharpe.jpeg"
 image_caption: >
   Will Sharpe as Zac in The Darkest Universe
-image_width: "3360"
-image_height: "1890"
 image_attribution: "The Darkest Universe PR"
 image_attribution_link: ""
 video_url: ""

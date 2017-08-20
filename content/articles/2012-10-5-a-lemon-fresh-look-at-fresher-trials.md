@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210051436-felix-sam_0236.jpg"
 image_caption: >
   Just wondering how to put a bib on. Hang on, I'll get Balotelli to explain it
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

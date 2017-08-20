@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511200941-ygr12-henryv.jpg"
 image_caption: >
   There’s something awfully disconcerting about this image – why no real horse?
-image_width: "0"
-image_height: "0"
 image_attribution: "RSC"
 image_attribution_link: ""
 video_url: ""

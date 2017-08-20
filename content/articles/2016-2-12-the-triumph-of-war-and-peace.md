@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121157-felix-war_peace-everyone.jpg"
 image_caption: >
   Reserved regality.
-image_width: "620"
-image_height: "372"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106022011-felix-business%20plan.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "betadaily.com"
 image_attribution_link: "http://www.betadaily.com/2010/02/07/professional-business-plan-writer/"
 video_url: ""

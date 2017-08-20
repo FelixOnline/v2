@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162158-pk1811-school-boy-q-things-i-carry.jpg"
 image_caption: >
   South Ken street cred
-image_width: "620"
-image_height: "413"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

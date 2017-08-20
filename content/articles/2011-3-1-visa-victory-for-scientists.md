@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103012028-ks607-imrankha.jpg"
 image_caption: >
   Imran Khan, Director of CaSE
-image_width: "1154"
-image_height: "1452"
 image_attribution: "CaSE"
 image_attribution_link: "http://sciencecampaign.org.uk/"
 video_url: ""

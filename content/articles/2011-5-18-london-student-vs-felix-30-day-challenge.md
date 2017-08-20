@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105180808-felix-182937_10150111413718588_505563587_6305490_4324313_n.jpg"
 image_caption: >
   Joe Rennison looking worried about the ass-whupping he's about to receive
-image_width: "482"
-image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

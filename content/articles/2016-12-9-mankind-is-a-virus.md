@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612091211-aib116-dna-163466_1280.jpg"
 image_caption: >
 
-image_width: "1280"
-image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

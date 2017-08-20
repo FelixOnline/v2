@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411062036-cj914-dsc_0500-copy.jpg"
 image_caption: >
   The infamous sunset at Oia that has tourists flocking to this island.
-image_width: "0"
-image_height: "0"
 image_attribution: "Emmilyn Yeoh"
 image_attribution_link: ""
 video_url: ""

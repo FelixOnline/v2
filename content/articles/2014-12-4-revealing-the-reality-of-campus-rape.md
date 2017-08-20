@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412041952-cj914-mattress-protest.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Emma Sulkowicz is carrying her mattress around Columbia University in protest"
 image_attribution_link: "http://Andrew Burton"
 video_url: ""

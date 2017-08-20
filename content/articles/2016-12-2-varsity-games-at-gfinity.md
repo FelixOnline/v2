@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021517-felix-15311635_10101025341055706_383010412_o.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1080"
 image_attribution: "Shawn Briggs"
 image_attribution_link: ""
 video_url: ""

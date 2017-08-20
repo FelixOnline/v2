@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605201057-felix-Ainsley Harriot.jpg"
 image_caption: >
   Protect Ainsley Harriot content at all costs.
-image_width: "700"
-image_height: "700"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

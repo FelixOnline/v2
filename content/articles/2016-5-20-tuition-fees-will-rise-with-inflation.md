@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605201048-felix-jo.jpg"
 image_caption: >
   Jo Johnson – who’s raising fees, renaming Boaty McBoatface and is Boris’ brother.
-image_width: "658"
-image_height: "439"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202031704-sjw209-sfcbic.png"
 image_caption: >
   Insert inappropriate “Voldemort is back from the dead” joke here... we couldn’t be bothered to think
-image_width: "1280"
-image_height: "688"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

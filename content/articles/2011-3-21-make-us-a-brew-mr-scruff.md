@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103211207-ks607-mrscruff.jpg"
 image_caption: >
   Ah go on!
-image_width: "435"
-image_height: "180"
 image_attribution: "Make Us A Brew"
 image_attribution_link: "http://www.makeusabrew.com/"
 video_url: ""

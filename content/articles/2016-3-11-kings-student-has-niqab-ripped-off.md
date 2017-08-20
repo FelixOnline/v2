@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111124-felix-Screen Shot 2016-03-10 at 12.12.44.png"
 image_caption: >
   An extract from the letter to the Principal.
-image_width: "583"
-image_height: "155"
 image_attribution: "KCL Islamic Society"
 image_attribution_link: ""
 video_url: ""

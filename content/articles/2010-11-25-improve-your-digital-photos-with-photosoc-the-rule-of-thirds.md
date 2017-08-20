@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011252021-nm1010-ruleofth.jpg"
 image_caption: >
   An example of the rule of thirds
-image_width: "940"
-image_height: "419"
 image_attribution: "Jonathan Kim"
 image_attribution_link: "http://www.flickr.com/photos/jkim1"
 video_url: ""

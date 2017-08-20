@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110211245-felix-pg-20-comedy_557778s.jpg"
 image_caption: >
   Most people come for the ginger beard
-image_width: "616"
-image_height: "421"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

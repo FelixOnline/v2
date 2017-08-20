@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510231238-cj914-mark_carney_davos_2010.jpg"
 image_caption: >
   Mark Carney: Big money, big... ego.
-image_width: "0"
-image_height: "0"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""

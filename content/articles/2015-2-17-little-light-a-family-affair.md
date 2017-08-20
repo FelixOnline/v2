@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502171614-ps3110-little-light_orangetreetheatre_lorna-brown_photo-richard-davenport_.jpg"
 image_caption: >
   Lorna Brown as Alison in Little Light at The Orange Tree Theatre.
-image_width: "0"
-image_height: "0"
 image_attribution: "Richard Davenport"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201404071357-jal08-pithovirus-sibericum.jpg"
 image_caption: >
   Pithovirus sibericum will eat you alive... if you’re an amoeba. Phew!
-image_width: "0"
-image_height: "0"
 image_attribution: "Julia Bartoli / Chantal Abergel / IGS / CNRS / AMU"
 image_attribution_link: ""
 video_url: ""

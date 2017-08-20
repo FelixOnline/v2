@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201309291723-tna08-housefinal.jpg"
 image_caption: >
   Their mums are going to be so angry at how messy their rooms are
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

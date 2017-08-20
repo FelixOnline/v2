@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612091613-felix-Screen Shot 2016-12-09 at 16.13.07.png"
 image_caption: >
 
-image_width: "1377"
-image_height: "820"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -75,7 +73,6 @@ B) Bumping uglies
  - Out
  - Repeat until satisfied
 C) Don’t ignore the clit. Acknowledge the prostate.
-TODO: image from
 ## 6 | Leave
 You have a ten minute window after sex in which to get up, get dressed, and get the fuck out of there, no questions asked. If that window passes, you have to stay there and pretend that you’re enjoying cuddling until they fall asleep. We don’t make up these rules, society does, and you’d better obey them.
 

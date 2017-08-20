@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105200525-felix-kapow-coffee.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "681"
 image_attribution: "flickr/andai"
 image_attribution_link: "http://www.flickr.com/photos/andai/2527145556/"
 video_url: ""

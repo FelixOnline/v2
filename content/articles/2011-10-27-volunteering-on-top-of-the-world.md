@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110280015-felix-dscn2103.jpg"
 image_caption: >
   Getting to know a Himalayan local...
-image_width: "768"
-image_height: "1024"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

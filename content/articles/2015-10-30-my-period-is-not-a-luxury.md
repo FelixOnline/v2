@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510301241-ygr12-period-costume.jpg"
 image_caption: >
   A period is for life, not just for Halloween.
-image_width: "0"
-image_height: "0"
 image_attribution: "shockmymind.com"
 image_attribution_link: ""
 video_url: ""

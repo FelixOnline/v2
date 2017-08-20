@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110272054-felix-img_6743-copy.jpg"
 image_caption: >
   Despite the decrease in the number of applications, science remains in demand
-image_width: "3456"
-image_height: "2988"
 image_attribution: "Matthew Colvin"
 image_attribution_link: ""
 video_url: ""

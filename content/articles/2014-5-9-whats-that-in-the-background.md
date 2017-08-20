@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201405090317-jal08-arts-ng.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Domenico Beccafumi, The Story of Papirius, mid 1520s"
 image_attribution_link: ""
 video_url: ""

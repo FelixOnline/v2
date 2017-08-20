@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201211292144-tna08-coding_day_2-194.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -46,11 +44,9 @@ video_url: ""
 The 2-day event was staged in partnership with J.P. Morgan’s Technology for Social Good team that are based in New York. The teams worked for over 30 hours to create solutions to real-life challenged faced by the charities. The teams then presented their solutions to the judging panel and a winning team was selected for each charity and an overall winning team was also chosen. The winning teams were given iPads, Amazon vouchers and the opportunity to continue working with their chosen charity and with J.P. Morgan’s ‘Tech for Social Good’ team to turn their solution into a reality.
 
 Two teams from Imperial reached the final of the competition. One team, called the ‘IC Crowd’, had the following Imperial students: Pamela Cruz, Francesco Di Mauro, Michal Sipko, Michal Srb and Giulio Mecocci. They finished in the top three and were the winners of the ‘WaterAid’ prize. They produced an innovative data visualization solution for WaterAid, which is a charity aiming to provide safe, clean water to the world’s poorest people.
-TODO: image from
 Mike Smith and Joe Downie from WaterAid commented saying: “The J.P. Morgan team created a fantastic opportunity to engage and challenge top university students for some really worthwhile causes – it was great being a part of it!”
 
 The other Imperial team, called ‘Recurret’ included Julian Sutherland, Alexandru Paunoiu, Razvan Marinescu, Shahin Mir and Niklas Hambuechen. They finished in the top 6 and created a sophisticated and highly engaging awareness raising solutionfor The Nature Conservancy, which is a charity that develops ecological-preservation solutions around the world.
-TODO: image from
 Andrew Courtney from The Nature Conservancy said: “Overall the weekend exceeded my expectations: the students were top-notch and came up with several creative solutions; the event itself was well designed and gave the students and charities plenty of opportunities to interact. The entire event was a great opportunity for TNC to work with highly talented students and rapidly prototype numerous solutions to an ongoing challenge we’ve faced. “
 
 Sandeep Saksena, Chief Investment Officer of EMEA Markets Tech Strategies, stated that “J.P. Morgan has prided itself in being one of the top technology firms out there, and bringing together top students from our universities, directed by the social responsibilities that we as a firm strongly believe in.”

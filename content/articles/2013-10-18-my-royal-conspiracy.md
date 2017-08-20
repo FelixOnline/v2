@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310182239-jal08-harry.jpg"
 image_caption: >
   Tessa's dashing Prince in green combats
-image_width: "0"
-image_height: "0"
 image_attribution: "The Telegraph"
 image_attribution_link: ""
 video_url: ""

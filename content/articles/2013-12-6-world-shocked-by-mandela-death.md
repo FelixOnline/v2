@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201312060342-jal08-news_nelsonmandela.jpg"
 image_caption: >
   The late Nelson Mandela, former President of South Africa and Nobel Peace Prize winner.
-image_width: "0"
-image_height: "0"
 image_attribution: "southafrica.net"
 image_attribution_link: "http://www.southafrica.net"
 video_url: ""

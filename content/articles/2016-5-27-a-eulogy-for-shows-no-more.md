@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605271103-felix-o-CASTLE-facebook.jpg"
 image_caption: >
   On the plus side, Nathan Fillion’s schedule is free!
-image_width: "2000"
-image_height: "1000"
 image_attribution: "ABC"
 image_attribution_link: ""
 video_url: ""

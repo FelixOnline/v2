@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201001081608-rsp07-SimonSin.jpg"
 image_caption: >
 
-image_width: "1316"
-image_height: "1459"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

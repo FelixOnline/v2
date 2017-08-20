@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610032052-felix-9942718616_71d5fd5921_o.jpg"
 image_caption: >
 
-image_width: "3008"
-image_height: "2008"
 image_attribution: "j_bg"
 image_attribution_link: ""
 video_url: ""

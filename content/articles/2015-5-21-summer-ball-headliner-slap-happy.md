@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505220003-cj914-prof-green.jpg"
 image_caption: >
   Stare into the eyes of a slapper.
-image_width: "0"
-image_height: "0"
 image_attribution: "allmusic.com"
 image_attribution_link: ""
 video_url: ""

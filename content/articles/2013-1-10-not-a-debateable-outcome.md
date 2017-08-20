@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201301102204-tna08-imperial-debating.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -54,7 +52,6 @@ The Imperial team and judges were selected in internal trials within the College
 For next year’s competition in Chennai (India) the Debating Society will again hold open trials for anyone to compete for an opportunity to represent Imperial and they say they are encourage new people to “have a go” at debating.
 
 Debating Society President, James Clough, who along with Ed Middleton made up the other half of the Imperial team at the WUDC, had never debated before he came to university.
-TODO: image from
 “We are looking forward to new people competing in debating for a chance to represent Imperial in next year’s WUDC competition and at other competitions closer to home,” he said.
  “I think I can safely say that all of us had an excellent week in Berlin and are already looking forward to next year”
 

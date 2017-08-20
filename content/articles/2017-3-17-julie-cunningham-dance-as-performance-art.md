@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703171710-felix-4.jpg"
 image_caption: >
   Julie Cunningham & Company, Double Bill, Harry Alexander, Julie Cunningham, Alexander Williams and Hannah Burfield in Returning
-image_width: "5193"
-image_height: "3467"
 image_attribution: "Stephen Wrigh"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201012121705-ks607-deckwqd.jpg"
 image_caption: >
 
-image_width: "4592"
-image_height: "3056"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

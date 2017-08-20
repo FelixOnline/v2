@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310040145-jal08-comm_ed_milli-copy.jpg"
 image_caption: >
   Red Ed Miliband
-image_width: "0"
-image_height: "0"
 image_attribution: "They could have used a less striking background"
 image_attribution_link: ""
 video_url: ""

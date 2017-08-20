@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010211944-ks607-brightli.jpg"
 image_caption: >
 
-image_width: "1821"
-image_height: "2351"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

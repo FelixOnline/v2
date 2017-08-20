@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511061334-ygr12-tiny2.jpg"
 image_caption: >
   The weedy new tree is barely visible to the naked eye.
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

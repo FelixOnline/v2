@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510231249-cj914-rainforest.jpg"
 image_caption: >
   Put down the monkey...
-image_width: "0"
-image_height: "0"
 image_attribution: "Ian Markham/faunaforever"
 image_attribution_link: ""
 video_url: ""

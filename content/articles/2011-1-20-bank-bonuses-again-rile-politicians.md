@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101202027-ks607-bonsusas.jpg"
 image_caption: >
 
-image_width: "1173"
-image_height: "693"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

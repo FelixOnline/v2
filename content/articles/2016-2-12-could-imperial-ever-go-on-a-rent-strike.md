@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121115-felix-201303072327-tna08-save-hall-front-page.jpg"
 image_caption: >
 
-image_width: "1280"
-image_height: "853"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""

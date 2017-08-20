@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021516-felix-Screen_Shot_2016-08-01_at_9.43.16_AM.0.0.jpg"
 image_caption: >
 
-image_width: "1600"
-image_height: "900"
 image_attribution: "Game Freak - Nintendo"
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051221-felix-film-trailer-youth (1).jpg"
 image_caption: >
   The lovely Michael Caine as English composer Fred Ballinger, directing a herd of cows.
-image_width: "2500"
-image_height: "1664"
 image_attribution: "StudioCanal/Youth PR"
 image_attribution_link: ""
 video_url: ""

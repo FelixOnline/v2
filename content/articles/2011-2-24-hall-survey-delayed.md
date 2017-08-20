@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102171936-ks607-hallshal.jpg"
 image_caption: >
 
-image_width: "3043"
-image_height: "2036"
 image_attribution: "Dave Guttridge/Imperial College London"
 image_attribution_link: ""
 video_url: ""

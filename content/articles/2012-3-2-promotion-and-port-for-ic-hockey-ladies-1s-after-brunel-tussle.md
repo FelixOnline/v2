@@ -37,14 +37,11 @@ featured: true
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
-image_width: ""
-image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 ---
 
-TODO: image from
 We arrived at Harlington knowing that a win would secure promotion, so we were ready to f*** s*** up, despite our chunderous captain being MIA. The game started off slowly with half of our team away with the fairies and severely hungover from the previous weekend – we know, it’s an issue.
 
 After a bit of scrappy hockey we settled back into our classic form and Kirstin slotted in a quick two goals to take us ahead at halftime. With a riveting half-time chat from our award winning coach, we started strongly into the second half. Gigi showed the other team what hockey skills were and defenders Celia, Aash and Maria cut shapes through their midfield like Imperial boys in Metric on a Wednesday. With our legendary passing seriously confusing the other team (and with a few protein shakes later) we were many more goals up and showing the Brunel girls who really was top of the league.

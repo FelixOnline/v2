@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411061839-cj914-v3-towers-costume-sun-front.jpg"
 image_caption: >
   Two girls dressed as the World Trade Centre during 9/11, as reported in The Sun.
-image_width: "0"
-image_height: "0"
 image_attribution: "The Sun"
 image_attribution_link: ""
 video_url: ""

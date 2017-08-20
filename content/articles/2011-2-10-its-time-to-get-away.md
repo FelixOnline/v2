@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102101852-dr910-tajmahal.jpg"
 image_caption: >
 
-image_width: "487"
-image_height: "365"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

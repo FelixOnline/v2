@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703031454-felix-Emily Jane Cramphorn.jpg"
 image_caption: >
 
-image_width: "2991"
-image_height: "4315"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

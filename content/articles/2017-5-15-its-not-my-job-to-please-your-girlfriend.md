@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705151831-felix-13922144631_5cc127ca95_o (1).jpg"
 image_caption: >
   So yeah. I’m married. But like we have an agreement
-image_width: "1024"
-image_height: "767"
 image_attribution: "Paula Satijn"
 image_attribution_link: ""
 video_url: ""

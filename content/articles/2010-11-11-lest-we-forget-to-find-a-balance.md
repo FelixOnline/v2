@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011112024-ks607-krakowkr.jpg"
 image_caption: >
 
-image_width: "1261"
-image_height: "878"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

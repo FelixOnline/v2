@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202031115-sjw209-times-new-viking.png"
 image_caption: >
   The bubblegum border does it for me
-image_width: "490"
-image_height: "490"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

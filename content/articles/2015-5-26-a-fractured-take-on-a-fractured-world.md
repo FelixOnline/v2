@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505261427-js5913-carmen-disruption.jpeg"
 image_caption: >
   L-R – the Bull (Bull), Chorus (Viktoria Vizin) and Escamillo (John Light) in the Almeida’s Carmen Disruption
-image_width: "0"
-image_height: "0"
 image_attribution: "Tristram Kenton"
 image_attribution_link: ""
 video_url: ""

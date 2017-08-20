@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232129-cac111-hannahbucs.jpg"
 image_caption: >
   You wouldn't wanna mess with her!
-image_width: "1104"
-image_height: "2986"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

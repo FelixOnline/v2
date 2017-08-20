@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201309291705-tna08-minecraft-screen-shot-009.jpg"
 image_caption: >
   Graphics are sooooooo realistic
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -63,7 +61,6 @@ _Price: €20 on the website (for PC/Mac version)_
 _Platform: PC, Mac, Xbox 360, iOS and Android_
 
 ###  CounterStrike Source/Global Offensive
-TODO: image from
 It is hard to believe that this game started out as a mod of half life. It was so successful as a mod, that it made it into its own game. This is pretty much the big daddy of all modern FPSs and really should not be missed out if you are a fan of that genre. With Valve’s Source engine, these two versions are really top notch games that can perform at comfortable levels for most PCs.
 
 There is no story or anything of the sort. The only thing you do is sign on to various servers (community or official) that have different types of game modes. It varies from the casual gun game, to the very competitive official hostage/defuse missions. Then you play rounds based on those modes.
@@ -79,7 +76,6 @@ _Price: £13.99/£11.99 on steam_
 _Platform: PC and Mac_
 
 ###  Mount and Blade: Warband
-TODO: image from
 Of all the games I have talked about, this one here is my favourite and possibly the one that most people won’t know, which is quite a shame. Made by the turkish studio TaleWorlds, this indie game perfectly captures that adventure feeling. Basically you are an adventurer dumped in the medieval lands of Calradia, and you can do what you like. Want to go and marry one of the local beauties? Go ahead. Want to become a slaver? Do that! Want to become a king and rule the entire continent? You can! This flexibility means that you can pour hours upon hours within this game. Furthermore the modding community is extremely vibrant in this game, allowing for just general updates to the gameplay, to complete Star Wars rewrites, and the best thing about all these mods are for free. Therefore for the price of one game, you can get all the wonders the internet has done to this game.
 
 The gameplay itself is great, managing to make the hack and slash/bow and arrow mechanics of the medieval times intuitive and easy to use, so moving down countless enemies is extremely satisfying. The graphics, while not the best, are nonetheless very detailed and beautiful. The creators of this game have created a very well fleshed out game which is immersive and fun to play. Every option is pretty much left up to you and makes each game that you play different.
@@ -91,7 +87,6 @@ _Price: £13.99/£11.99 on steam_
 _Platform: PC and Mac_
 
 ###  Game: Portal 2
-TODO: image from
 About two years ago, this game was the thing. Everyone who called themselves a gamer had this game. It was the sequel to the highly acclaimed Portal, which was so original it was a breath of fresh air in the game industry, and did not fail to live up to its predecessors hype, becoming immensely successful. Even though now this game is slightly older, it has lost none of its magic touch.
 
 The premise of this game is that you are a test subject of the mysterious Aperture Science company. It seems some mishap has happened and the facilities are abandoned, so you must find your way out of the testing facilities using your own, very amazing, portal gun

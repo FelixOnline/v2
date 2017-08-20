@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011112122-ks607-ivisboki.jpg"
 image_caption: >
   Founders L-Vis 1990 and Bok Bok
-image_width: "500"
-image_height: "230"
 image_attribution: "Shola Branson"
 image_attribution_link: "http://scndtonone.com/2010/05/monki-interviews-l-vis-1990-bok-bok/"
 video_url: ""

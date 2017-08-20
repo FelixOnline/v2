@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262209-felix-birdsongpic.jpg"
 image_caption: >
   I’m rather ravishing, don’t you think?
-image_width: "4284"
-image_height: "2856"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""

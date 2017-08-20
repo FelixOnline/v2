@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010282024-ma1307-fallpout.jpg"
 image_caption: >
   The harsh realities of government have really changed Nick Clegg...
-image_width: "1920"
-image_height: "1080"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

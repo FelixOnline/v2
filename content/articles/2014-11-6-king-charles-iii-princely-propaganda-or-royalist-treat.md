@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411062144-snb11-kc3-4766---tim-pigott-smith-by-johan-persson.jpg"
 image_caption: >
   Tim Pigott-Smith as King Charles III
-image_width: "0"
-image_height: "0"
 image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""

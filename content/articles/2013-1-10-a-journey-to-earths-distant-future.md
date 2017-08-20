@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201301102241-csw09-new-sun2cmyk.jpg"
 image_caption: >
   Earth’s not doing so well.
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

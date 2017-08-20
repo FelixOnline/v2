@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172018-pk1811-nanocarzoom.jpg"
 image_caption: >
   The nanocar in action on a surface of copper... It really is a car. Sort of
-image_width: "825"
-image_height: "625"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610141201-felix-6895509443_48aec89264_o.jpg"
 image_caption: >
 
-image_width: "2045"
-image_height: "3070"
 image_attribution: "Michael Le Roi"
 image_attribution_link: ""
 video_url: ""
@@ -46,13 +44,11 @@ You arrive at university as a member of one of two tribes.
 The first tribe is composed of members that are somewhat knowledgeable about drugs, have taken them, know friends that take them and are generally aware that recreational drug use is a thing and for the most part are comfortable with it.
 
 I arrived firmly in the ‘I’ll end up peeling my fingers because they are bananas’ tribe, having an unhelpful understanding of drugs from years of state education which essentially boiled down to classroom campfire horror stories backed up with terrifying government infomercials otherwise known as Whitehall-sponsored horror movies.
-TODO: image from
 _I had arrived at Imperial alone eight years ago, with half a bad beard and an equally ridiculous flop of hair. I didn’t want my mother organising my room, sorting away the towels, packing the cupboards. I arrived with one backpack. I had no sheets, so I slept under a towel the first week._
 
 _This was around the time I first met the Mathematician._
 
 _Up to this point in life I had drunk four Smirnoff ices and eight half-pints of cider. I had never held a cigarette or taken more than the prescribed dose of paracetamol. Now that I’m arriving again at Imperial I have switched tribes, and for the better._
-TODO: image from
 The last great bastion of the mantra “Sex, Drugs and Rock N’ Roll” is starting to collapse. Drug use still strikes fear in our imaginations where the other two over time have slipped into the backwaters and hardly register as a taboo topic anymore. The difference in less than a decade is marked, not only in my own perception of drug use but in youth culture as a whole. The fear has been replaced to some extent with normality; everyone has someone in their social circle who has experienced drug use, but are we any more educated to the dangers?
 _The Mathematician was my source. A long distance runner, his body slight and taught. I knew he often took drugs. We had discussed trying it together for some weeks. I presented the idea mostly to appear cool. How ridiculous._
 
@@ -76,7 +72,6 @@ _It didn’t come all at once. Everything became more beautiful. The bricks woke
 _Now I will be honest and say it wasn’t a completely pleasant experience. It was rather unpleasant physically. There was a tightness in my stomach like a bad build-up of gas, my face felt numb as if I was under local anesthetic, and I was nauseated by the constant motion and bleeding of colours._
 
 _I had read that you are supposed to be freed from yourself, uncoupled from your body, all that is yourself. I felt was very much still there, in control. The truth was I was not in control: I had not researched the drug, I didn’t know the source, I didn’t know the Mathematician well, I didn’t know how to get help if I had needed it._
-TODO: image from
 Switch tribes (if you haven’t already), that’s my advice. Become one of the knowledgeable. This does not necessarily mean I think you should get high or take some illicit drugs. The only way to introduce clarity and reason is to escape this fear and to educate yourself.
 
 You should leave university as a member of one tribe. The educated tribe.

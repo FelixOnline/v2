@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601290852-felix-mental health 2.jpg"
 image_caption: >
 
-image_width: "640"
-image_height: "591"
 image_attribution: "hercampus.com"
 image_attribution_link: ""
 video_url: ""

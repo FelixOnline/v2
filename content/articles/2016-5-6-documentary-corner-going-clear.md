@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061113-felix-e4aad32a-52be-4580-a8a5-0ad86907a749-1020x612.jpeg"
 image_caption: >
   “Ok, so 75 million years ago there was this evil dictator of the Galactic Confederacy called ‘Xenu’…”.
-image_width: "620"
-image_height: "372"
 image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""

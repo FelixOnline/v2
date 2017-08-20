@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110071408-felix-popinthesky.jpg"
 image_caption: >
   I thought he was taking me to the Union
-image_width: "1128"
-image_height: "846"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

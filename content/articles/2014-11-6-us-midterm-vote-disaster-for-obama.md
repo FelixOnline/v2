@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411061856-cj914-37553d7ff625dc9134f141ac7f8d84fb.jpeg"
 image_caption: >
   Barack Obama faces a tough final two years in power
-image_width: "0"
-image_height: "0"
 image_attribution: "Saul Loeb/AFP"
 image_attribution_link: ""
 video_url: ""

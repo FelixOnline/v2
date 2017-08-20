@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201303010010-tna08-headshave-(20-of-27).jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Benjamin Lester"
 image_attribution_link: ""
 video_url: ""
@@ -48,13 +46,11 @@ So how did this happen? How didImperial College RAG make the turnaround from an 
 When I took the position of RAG Chair in the summer elections of last year I was making a bold move. Whilst there had been a strong tradition of RAG at Imperial for many decades, enthusiasm had waned over the years and it was failing terribly when it came to engaging students. It might have seemed as if Imperial students didn’t care about charity but I was sure that this wasn’t the case and set about working out why it wasn’t working.
 
 The committee of last year consisted of around 3 active members, too few to get anything done by anyone’s stretch of imagination. SoI rang everyone I knew over the summer and progressively formed a team now consisting of 15 central members and, thanks to the hard work of our Halls Officer Joe Gibbs, 34 RAG Hall Reps who represent RAG within the undergraduate halls.
-TODO: image from
 We decided the RAG logo and branding were outdated so we scrapped them. Working with the Union we developed the new splat logo and slapped it on a load of t-shirts and stickers, ready to take over Imperial. Freshers’ Fair was the chance to make our mark so we took it by storm. We danced by our DJ booth, taking it in turns to get covered in whipped cream, and engaged anyone who happened to walk past. We generated over 1000 sign-ups for our mailing list – a RAG-record for sure.
 
 What followed was a series of incredibly successful events with maximum participation (visit union.ic.ac.uk/rag for full details). Our Poppy Appeal collect generated 96 volunteers, raising over £10,000 for the Royal British Legion. Our Rubik’s cube ball packed out Metric. We held a simple Bake Sale and managed to raise a whopping £1723! So as you can see Imperial is most definitely not short of those intent on raising for charity.
 
 Recognition then came from the outside world in the form of a prize for the most innovative fundraising idea for our 24-hour row on the Queen’s Lawn, getting our committee invited to the BBC Children in Need Live Show. We were succeeding, and when Christmas came we knew we had generated the power to grab the attention of the whole university with our RAG week. So we met with the Rector and other members of College staff and brought something to Imperial that had never been seen before… a 164 foot high Bungee Jump. Tickets sold out straightaway, sponsorship was raised in the thousands and the spectacle dazzled all.
-TODO: image from
 If you had asked many Imperial students at the beginning of the year what RAG was you might have received an unsure response: ‘What’s that?’ or ‘Is it that thing medics do?’ (For clarification IC RAG is a separate entity to ICSM RAG!). Now you would be very hard pressed to find someone who hasn’t felt our impact.
 
 Through the work of the RAG committee, in hand with the students of Imperial, at least £46,000 more has been raised for our charities this year that would not have been raised otherwise. But this success is compounded. We have generated the awareness and enthusiasm that will ensure a tradition of RAG that will last for many years to come.

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082049-felix-img_293.jpg"
 image_caption: >
 
-image_width: "3648"
-image_height: "2736"
 image_attribution: "Ed Brial"
 image_attribution_link: ""
 video_url: ""

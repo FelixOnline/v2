@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603081637-cet13-throwingshade.jpg"
 image_caption: >
   The iridescent artwork of House of Silk.
-image_width: "3000"
-image_height: "3000"
 image_attribution: "Ninja Tune"
 image_attribution_link: ""
 video_url: ""

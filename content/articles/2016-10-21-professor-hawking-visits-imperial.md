@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610211131-so515-icimages.jpg"
 image_caption: >
   Sherfield hadn’t been this packed since lunchtime
-image_width: "555"
-image_height: "350"
 image_attribution: "Imperial College"
 image_attribution_link: ""
 video_url: ""

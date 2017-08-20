@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202022313-sjw209-img_4223.jpg"
 image_caption: >
   Netball. Much easier when the ball sticks to your hands
-image_width: "1365"
-image_height: "2048"
 image_attribution: "Feroza Kassam"
 image_attribution_link: ""
 video_url: ""

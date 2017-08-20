@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232022-cac111-ishiguro.jpg"
 image_caption: >
   Kazuo Ishiguro is one of Britain’s most celebrated authors
-image_width: "618"
-image_height: "428"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103030615-ks607-anuvahoo.jpg"
 image_caption: >
   Adam Deacon is our hapless hero Kenneth
-image_width: "640"
-image_height: "426"
 image_attribution: "Owen Billcliffe"
 image_attribution_link: "http://owenbillcliffe.co.uk"
 video_url: ""

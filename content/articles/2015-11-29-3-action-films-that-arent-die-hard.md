@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511291647-ff712-gallery-diehard-3.jpg"
 image_caption: >
   Don't be sad Bruce, there are loads of other films you can see!
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

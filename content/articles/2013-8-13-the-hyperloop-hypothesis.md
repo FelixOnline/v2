@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201308131028-jal08-screen-shot-2013-08-13-at-10.10.20-am.png"
 image_caption: >
   Hyperloop or snazzy remote control?
-image_width: "0"
-image_height: "0"
 image_attribution: "Elon Musk"
 image_attribution_link: "http://www.spacex.com/sites/spacex/files/hyperloop_alpha-20130812.pdf"
 video_url: ""
@@ -50,7 +48,6 @@ PayPal co-founder Elon Musk comes from a mixed academic background of Economics 
 Musk created the Hyperloop as a solution for medium-distance transport after losing faith in the proposed high-speed rail project designed to provide California with a new mass transit system state-wide. However, as Musk notes in his blog post, not only is the proposed bullet train one of the slowest in the world (with an average speed of 164mph) but it is also one of the most expensive bullet trains per mile of track, worldwide.
 
 __The Hyperloop__
-TODO: image from
 This Hyperloop is a futuristic take on an old technology, specifically the pneumatic tube. Precisely the Hyperloop concept is a complicated mix of pneumatics and magnetic suspension, powered by solar power. The concept requires a low-pressure environment in the Hyperloop system and uses magnetic suspension and propulsion to move capsules containing passengers.
 
  Since it would be virtually impossible to maintain a vacuum over such a long distance, this low-pressure solution is preferred, however the air present in the tube can cause a problem when the capsules are travelling at high speed. According to Musk, the Kantrowitz Limit represents the top speed of a capsule for a given tube to capsule area ratio, due to the dynamics of the air between the capsule and the tube at high speeds. However Musk believes that the addition of a compressor fan to the nose of the capsule will allow it to easily travel high subsonic speeds. This would be possible because the compressor fan would transfer the air under high pressure at the front of the capsule to a lower pressure area behind the capsule, relieving the pressure in front of the capsule. This solution would also create an air cushion around the capsule, which would contribute to the low friction suspension system.

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262228-ak6309-39840_web.jpg"
 image_caption: >
   Is this a sequence binding of proteins or did we print wrong?
-image_width: "495"
-image_height: "400"
 image_attribution: "B. Franklin Pugh, Penn State University"
 image_attribution_link: ""
 video_url: ""

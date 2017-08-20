@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010080731-ks607-OscarWil.jpg"
 image_caption: >
 
-image_width: "400"
-image_height: "400"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

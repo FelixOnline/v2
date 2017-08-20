@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706151859-im1413-Swet-Shop-Boys-Studio-at-Webster-Hall17.jpg"
 image_caption: >
   Swet Shop Boys at The Studio at Webster Hall in 2016 | Photo: Sachyn Mital for brooklynvegan.com
-image_width: "1200"
-image_height: "800"
 image_attribution: "Sachyn Mital for brooklynvegan.com"
 image_attribution_link: ""
 video_url: ""

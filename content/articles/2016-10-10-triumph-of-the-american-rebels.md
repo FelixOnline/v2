@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610101654-felix-Clyfford-Still-PH-950-1-795x600.jpg"
 image_caption: >
 
-image_width: "795"
-image_height: "600"
 image_attribution: "Royal Academy"
 image_attribution_link: ""
 video_url: ""

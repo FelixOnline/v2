@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703031520-felix-The-Listening-Room-004.jpg"
 image_caption: >
   Danza Contemporánea de Cuba's production of Theo Clinkard's The Listening Room
-image_width: "3818"
-image_height: "5876"
 image_attribution: "Adolfo Izquierdo"
 image_attribution_link: ""
 video_url: ""

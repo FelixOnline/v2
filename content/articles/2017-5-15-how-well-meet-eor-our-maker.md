@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705151937-felix-3894541486_24838071bd_o.jpg"
 image_caption: >
   Ouch
-image_width: "7281"
-image_height: "2312"
 image_attribution: "IvyMike"
 image_attribution_link: ""
 video_url: ""

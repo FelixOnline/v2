@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701131412-felix-Zooplankton1_300.jpg"
 image_caption: >
 
-image_width: "1235"
-image_height: "825"
 image_attribution: "Shane Anderson"
 image_attribution_link: ""
 video_url: ""

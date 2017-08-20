@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511061412-ygr12-jiro-dreams-of-sushi-netflix1.png"
 image_caption: >
   Sushi-master Jiro, with his team.
-image_width: "0"
-image_height: "0"
 image_attribution: "Jiro Dreams of Sushi PR"
 image_attribution_link: ""
 video_url: ""

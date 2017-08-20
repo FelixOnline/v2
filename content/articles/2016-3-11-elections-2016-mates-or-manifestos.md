@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111128-felix-mtc.jpg"
 image_caption: >
   The candidates, back when they were playing nice and talking to each other.
-image_width: "1846"
-image_height: "823"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

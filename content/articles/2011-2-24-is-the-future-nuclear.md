@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102241956-ks607-nucleard.jpg"
 image_caption: >
   Professor Gordon MacKerron, Neil Hirst, and Professor Jim Skea OBE
-image_width: "3808"
-image_height: "2632"
 image_attribution: "Christopher Walmsley"
 image_attribution_link: "http://christopherwalmsley.tumblr.com"
 video_url: ""

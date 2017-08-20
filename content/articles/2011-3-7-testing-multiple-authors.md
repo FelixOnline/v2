@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103171804-jk708-iscience.png"
 image_caption: >
 
-image_width: "224"
-image_height: "61"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

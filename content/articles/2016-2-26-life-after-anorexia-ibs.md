@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261202-felix-_DSC0326.jpeg"
 image_caption: >
   We all know it’s unhealthy, but IBS is a lesser known consequence of anorexia.
-image_width: "4291"
-image_height: "2867"
 image_attribution: "Newscast UK"
 image_attribution_link: ""
 video_url: ""

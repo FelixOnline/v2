@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101272019-ks607-rioriori.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

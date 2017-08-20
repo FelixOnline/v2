@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131103-felix-1280px-NSF_building.jpg"
 image_caption: >
 
-image_width: "1280"
-image_height: "855"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""

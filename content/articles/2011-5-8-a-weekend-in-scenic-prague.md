@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105081424-felix-prague.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "2560"
 image_attribution: "Maksim Mijovic"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032022-pk1811-in-the-thick-of-it.jpg"
 image_caption: >
   Constipation has become a serious issue in 2012’s government
-image_width: "630"
-image_height: "390"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

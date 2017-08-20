@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201305221533-tna08-one-bill-hung.png"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -89,7 +87,6 @@ __JH: Professor Conway, you have written about how important the role of women i
 GC: Fundamentally we must realise that nearly half the farmers in Africa are women and they have enormous potential, not just as farmers but also as mothers because they determine what children eat, so they can improve their nutrition. They can also be innovators and educators too. Basically, women are farmers, mothers, educators and innovators. More must be done to support women in these roles, a lot of it is about empowering women’s’ group for example through WARM, which works in Eastern Africa. WARM is way of ensuring women have a stronger voice to affect policies. In many cases, the most important thing is when a programme or project is designed whether it is by the government or NGOs or the private sector. You have to ensure there is a target for women’s right from the beginning, in other words you don’t just add it on at the end. In fact that is true of nearly everything we have been talking about here. You don’t just say we will have a yield increase and then we’ll make it stable. Or we’ll have growth and then later on you think well we ought todo something about resilience. There must be growth plus resilience from the beginning. There must be yield plus stability of yield from the beginning. You’ve got to have and increase in production and increased value added from the bottom from the beginning. All of this plus empowerment of women must occur from the beginning. Don’t treat women, or the environment or resilience as add-ons, which they often are. Oh my goodness, we’ve forgotten about women let’s dump something in. You don’t want to do that, we have to make sure it is there from the beginning.
 
 What you have to do, you have to help farmers form co-operatives, and contract farmer groups, so that they have got the power of being part of a co-operative and doing the deals with the big companies
-TODO: image from
 __JH: Are there are any schemes encouraging people to return and invest in their home countries? Do we need more of a focus on this?__
 
 GC: Yes, there are schemes like this. At the Rockefeller foundation we had a programme on biotechnology in Asia and many went back. A lot of it was because in addition to supporting the individuals to dotheir training, you were supporting the institutions from which they came and when they went back there was money given to those institutions so they could continue to do their research.

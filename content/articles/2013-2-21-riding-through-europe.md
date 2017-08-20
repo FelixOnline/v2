@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201302211350-txl11-laughing_horse_by_samtheblackheart-d51qcxs.jpg"
 image_caption: >
   That’s right, I tasted good in that lasagna!
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191226-felix-CuttleJo.jpg"
 image_caption: >
   ICUC on some Finding Nemo hype.
-image_width: "4000"
-image_height: "3000"
 image_attribution: "ICUC"
 image_attribution_link: ""
 video_url: ""

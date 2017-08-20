@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705151922-felix-1200-1.jpg"
 image_caption: >
 
-image_width: "1200"
-image_height: "675"
 image_attribution: "Allstar, Amazon Studios"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505142313-cj914-winston-copy.jpg"
 image_caption: >
   Lord Winston took the opinion that religion is not harmful to the progress of science at the debate.
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial Debating"
 image_attribution_link: ""
 video_url: ""

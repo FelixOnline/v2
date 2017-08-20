@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261149-felix-hinds2.jpg"
 image_caption: >
   FKA Deers
-image_width: "1332"
-image_height: "999"
 image_attribution: "Matt Johnston"
 image_attribution_link: ""
 video_url: ""

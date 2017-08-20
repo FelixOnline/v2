@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703101344-felix-3.jpg"
 image_caption: >
   Ballet Black, Triple Bill, Cira Robinson, José Alves and Mthuthuzeli November in Captured, choreographed by Martin Lawrance
-image_width: "4252"
-image_height: "2838"
 image_attribution: "Bill Coope"
 image_attribution_link: ""
 video_url: ""

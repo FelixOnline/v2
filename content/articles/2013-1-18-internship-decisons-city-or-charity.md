@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201301180015-tna08-0911_bg_hero_09c_01_hs_081_03.jpg"
 image_caption: >
   Coffee machine... intern, coffee, get it? get it?
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -118,7 +116,6 @@ __Would you like to work at the organisation full time? Why / Why not?__
 
 The people area great and the work is varied and can be interesting. Consulting work is highly dependent on your team, location and project and this gamble would be one of the things that would deter me from going back.
 ## Charity
-TODO: image from
 __3rd year Biologist__
 
 _Wellcome Trust_

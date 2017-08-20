@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201001141624-rsp07-fishstal.jpg"
 image_caption: >
 
-image_width: "1936"
-image_height: "1296"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

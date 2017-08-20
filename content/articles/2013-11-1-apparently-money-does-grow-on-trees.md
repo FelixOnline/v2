@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201311010946-felix-science-gold-leaves.jpeg.jpg"
 image_caption: >
   Particulate gold in eucalyptus leaves
-image_width: "0"
-image_height: "0"
 image_attribution: "CSIRO Australia"
 image_attribution_link: ""
 video_url: ""

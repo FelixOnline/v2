@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605201115-felix-A-Riot-Of-Our-Own (1).jpg"
 image_caption: >
   12 Bar Club – the last of a dying breed of the London gig scene.
-image_width: "1920"
-image_height: "1080"
 image_attribution: "YouTube"
 image_attribution_link: ""
 video_url: ""

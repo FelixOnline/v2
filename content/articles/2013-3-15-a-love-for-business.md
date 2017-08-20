@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201303150237-tna08-colin-love.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Tim Arbabzadah"
 image_attribution_link: ""
 video_url: ""

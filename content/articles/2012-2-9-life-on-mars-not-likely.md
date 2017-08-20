@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092249-pk1811-pia11718.jpg"
 image_caption: >
   NASA’s Mars Phoenix Lander on the surface of Mars
-image_width: "3000"
-image_height: "3000"
 image_attribution: "NASA/JPL-Caltech/University of Arizona/Texas A&M University"
 image_attribution_link: ""
 video_url: ""

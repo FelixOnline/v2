@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242013-pk1811-bulgaria.jpg"
 image_caption: >
   Looking down on Veliko and the Yantra from midway up the Tsaravets...
-image_width: "720"
-image_height: "540"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

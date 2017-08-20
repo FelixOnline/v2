@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205040131-felix-harvard-university.jpg"
 image_caption: >
   Imperial follows in the footsteps of universities such as Harvard
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201604291144-felix-Screen Shot 2016-04-26 at 19.34.49.png"
 image_caption: >
   Who here has ever been called a slut?
-image_width: "2560"
-image_height: "1333"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

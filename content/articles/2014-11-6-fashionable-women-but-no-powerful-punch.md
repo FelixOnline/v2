@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411062130-snb11-fashion-shows-2-3.jpg"
 image_caption: >
   Vivienne Westwood, the Grand-Dame of controversial clothing, is one of the women featured.
-image_width: "0"
-image_height: "0"
 image_attribution: "Christian Shambenait"
 image_attribution_link: ""
 video_url: ""

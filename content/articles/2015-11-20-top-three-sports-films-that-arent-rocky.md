@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511201400-ff712-4a3fbd7e-0cab-40f5-84a8-8649e3da18db.jpg"
 image_caption: >
   Yeah, hold off on that celebrating Sylvester
-image_width: "0"
-image_height: "0"
 image_attribution: "Everett Collection"
 image_attribution_link: ""
 video_url: ""

@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702101554-felix-Oblivion -18.jpg"
 image_caption: >
 
-image_width: "2654"
-image_height: "1769"
 image_attribution: "Sadlers Wells"
 image_attribution_link: ""
 video_url: ""

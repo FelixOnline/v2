@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102205-pk1811-dsc_0041(1).jpg"
 image_caption: >
   Imperial previously hosted its first Global Citizenship Symposium
-image_width: "4288"
-image_height: "2848"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

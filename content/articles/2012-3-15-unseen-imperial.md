@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152127-pk1811-frayed_rope.jpg"
 image_caption: >
   Email icu-disabilities@imperial.ac.uk if you would like to share your anonymous experiences of topic
-image_width: "849"
-image_height: "566"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

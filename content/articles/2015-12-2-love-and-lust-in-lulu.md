@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201512021705-mff113-online-copy.jpg"
 image_caption: >
   Clive Brada/ Guildhall School 2015
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

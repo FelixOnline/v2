@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012123-ams111-picture.jpg"
 image_caption: >
   Darren Ambrose, eat your heart out
-image_width: "1092"
-image_height: "766"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606171133-felix-EW-ARCHER-WALLPAPER_612x380_0.jpg"
 image_caption: >
   It’s not a drinking problem if you never stop long enough to get hungover.
-image_width: "612"
-image_height: "380"
 image_attribution: "Floyd County/FX Networks for EW"
 image_attribution_link: ""
 video_url: ""

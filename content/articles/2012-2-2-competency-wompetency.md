@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202022338-sjw209-jp-morgan.jpg"
 image_caption: >
   You think JP Morgan interviews are bad, you should do one for the Daily Mail
-image_width: "488"
-image_height: "360"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

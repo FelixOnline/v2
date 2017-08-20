@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104241207-felix-prof_steve_smith_04.jpg"
 image_caption: >
   Professor Stephen Smith
-image_width: "4188"
-image_height: "2713"
 image_attribution: "Mike Finn-Kelcey/Imperial College London"
 image_attribution_link: ""
 video_url: ""

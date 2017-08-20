@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201609052225-ff712-201602191135-felix-a-bigger-splash-3.jpg"
 image_caption: >
   Dakota Johnson as Penelope, in the sun-drenched erotic thriller A Bigger Splash.
-image_width: "1600"
-image_height: "831"
 image_attribution: "Moviestore/Rex/Shutterstock"
 image_attribution_link: ""
 video_url: ""

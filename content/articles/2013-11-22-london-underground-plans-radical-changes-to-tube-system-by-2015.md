@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201311241714-jal08-screen-shot-2013-11-24-at-17.13.53.png"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Benjamin Whealing"
 image_attribution_link: ""
 video_url: ""

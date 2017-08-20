@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610211445-ajp15-Screen Shot 2016-10-21 at 14.45.04.png"
 image_caption: >
 
-image_width: "488"
-image_height: "372"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -45,7 +43,6 @@ I’m so tired. There is a general consensus right now in the media that 2016 ha
 For those of you living under a rock, recently a recording was released where Donald Trump jokes about being grabbing and kissing women without their consent. The Trump campaign has tried to dismiss this as “locker room banter” that all men partake in, which does nothing but suggest that he must have a very low opinion of his fellow man.
 
 However, since those tapes were released, ten women have come forward with stories about how they were sexually assaulted/harassed by Trump over the last 30 years and Trump’s spokeswoman has responded by saying that these women simply want their ”15 minutes of fame”. Cue me feeling physically ill.
-TODO: image from
 I’m not sure where the idea that going public with sexual assault claims is ‘a glamorous and profitable move’ came from, but the media coverage from this week alone should be able to kill this misconception. The women who have come forward have been ridiculed, shamed and openly been accused of lying on a national stage. One of these women has now said she plans to leave the US because she fears for her family’s safety.
 
 And, before we all get on our high horses this side of the pond, the woman who accused Ched Evans has had to move five times in the last four years and has now gone into hiding due to online and physical threats to her safety. Because that sounds like fun.
@@ -55,7 +52,6 @@ The attacks on these women have ranged from Trump saying one woman “wouldn’t
 For some people, the fact that none of these women spoke out before seems to be enough to dismiss these reports out of hand, even though one of the women has stated that the tapes’ release made her realise that the assault was not her fault for the first time. Because the idea of speaking out against a rich, powerful man wouldn’t intimidate anyone into silence. Because apparently no one remembers the Bill Cosby case.
 
 These arguments are so frustrating that they make me want to scream into a pillow because the “conversation” going on right now is essentially the lived experience of most sexual assault survivors, myself included, blown up to a grand scale.
-TODO: image from
 “Why didn’t you say something sooner?”
 
 “Are you sure it was him? He seems so nice.”

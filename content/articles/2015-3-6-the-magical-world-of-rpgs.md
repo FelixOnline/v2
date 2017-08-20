@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503061647-cj914-tower.jpg"
 image_caption: >
   Welcome to the wonderful world of tabletop RPGs!
-image_width: "0"
-image_height: "0"
 image_attribution: "Sanchit Sharma"
 image_attribution_link: ""
 video_url: ""

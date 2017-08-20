@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032151-sjw209-fountain.jpg"
 image_caption: >
 
-image_width: "350"
-image_height: "288"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

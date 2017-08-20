@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242015-pk1811-296375_10150757531005504_647705503_20236134_1325817_n.jpg"
 image_caption: >
   Kicking back with a chai while the Sky Waltz team get the show on the road
-image_width: "540"
-image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -50,7 +48,6 @@ After being put at ease by an excellent English-speaking team and a mandatory sa
 And what views they were! It’s not often I get to say “I’m so glad we came for the monsoon!” but this was one of those rare gems: the usually arid shrubland was lit up as a spectacular sea of green, made all-the-plusher by the plentiful monsoon rains. A calm breeze cooled us as we gazed over rocky hills in the distance and vibrant Jaipur city with its quaint Amber Fort closer by.
 
 Having been confined to seeing India from tuk-tuks for far too long, the bird’s eye view was welcome and wonderful. The location is perfect for catching a mix of the busting city and the calmer countryside, and against the emerald backdrop the roaming wildlife and glistening garments of village ladies looked stunning. I’m sure colour is what I’ll miss the most about India, and from the sky you can really see it all.
-TODO: image from
 Being the first balloon of the season, we attracted the attention of countless villagers as we passed overhead; when the pilot kindly dipped us closer to the ground hoards of children chased and waved at us with a morning “namaste!” It was also a great experience for us to catch a glimpse of their morning rituals without being overly invasive.
 
 After we landed with a great thud villagers ran over to greet us, and took more photos of us than we did of them! Crew members spoke fluent English and Hindi so were able to mediate and make the meeting a little more engaging: getting to mingle with the people we’d just seen from the sky was an enjoyable ending to a great morning escapade. If you’re going be sure to take plenty of pens, which are an invaluable resource to the children.

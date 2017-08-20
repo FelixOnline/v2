@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511192223-ygr12-screen-shot-2015-11-19-at-19.37.28.png"
 image_caption: >
   RCA students outside the Daily Mail
-image_width: "0"
-image_height: "0"
 image_attribution: "Twitter / @RCAStudentUnion"
 image_attribution_link: ""
 video_url: ""

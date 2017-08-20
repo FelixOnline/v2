@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611141415-felix-Cymbeline production photos_ May 2016_2016_Photo by Ellie Kurttz _c_ RSC_192813.jpg"
 image_caption: >
 
-image_width: "4000"
-image_height: "6000"
 image_attribution: "Ellie Kurtz RSC"
 image_attribution_link: ""
 video_url: ""

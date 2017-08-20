@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611181522-felix-7911930212_8a7fde6cc6_k.jpg"
 image_caption: >
 
-image_width: "2048"
-image_height: "1365"
 image_attribution: "Darwin Yamamoto"
 image_attribution_link: ""
 video_url: ""

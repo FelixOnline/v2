@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172121-pk1811-csc_0605.jpg"
 image_caption: >
   Mikill Pane poses with students
-image_width: "4288"
-image_height: "2848"
 image_attribution: "Gordon Kam"
 image_attribution_link: ""
 video_url: ""

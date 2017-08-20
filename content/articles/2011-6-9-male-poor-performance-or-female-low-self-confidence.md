@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106092240-felix-euzix_couple5.jpg"
 image_caption: >
 
-image_width: "1803"
-image_height: "1202"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102110621-ks607-nevernev.jpg"
 image_caption: >
 
-image_width: "660"
-image_height: "438"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

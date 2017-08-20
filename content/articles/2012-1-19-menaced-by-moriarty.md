@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192227-felix-moriarty.jpeg"
 image_caption: >
   Jim Moriarty's in the dock, in more ways than one
-image_width: "640"
-image_height: "360"
 image_attribution: "BBC"
 image_attribution_link: "http://static.bbc.co.uk/programmeimages/640x360/clip/p00n2bld.jpg?nodefault=true"
 video_url: ""

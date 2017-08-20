@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101131930-ks607-fellwand.jpg"
 image_caption: >
 
-image_width: "2896"
-image_height: "1944"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

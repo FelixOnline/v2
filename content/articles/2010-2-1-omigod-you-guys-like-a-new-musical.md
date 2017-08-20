@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201002011802-rsp07-musical.jpg"
 image_caption: >
 
-image_width: "1360"
-image_height: "879"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702241722-ff712-04.jpg"
 image_caption: >
   Blanca Li Dance Company, Robot
-image_width: "4724"
-image_height: "3144"
 image_attribution: "Laurent Philippe"
 image_attribution_link: ""
 video_url: ""

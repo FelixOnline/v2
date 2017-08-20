@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104241232-felix-5574880690_ce82521bff_b.jpeg"
 image_caption: >
 
-image_width: "1024"
-image_height: "675"
 image_attribution: "Andrew Parsons/Parsons Media"
 image_attribution_link: "http://www.flickr.com/photos/conservatives/5574880690/"
 video_url: ""

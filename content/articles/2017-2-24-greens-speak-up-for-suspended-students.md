@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702241341-felix-24277898325_a2dd5d74ce_o.jpg"
 image_caption: >
   Siân Berry
-image_width: "5472"
-image_height: "3648"
 image_attribution: "Garry Knight"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201307231823-jal08-am-w-iknife-20130718213933737614-620x349.jpg"
 image_caption: >
   The iKnife has the potential to improve surgical precision
-image_width: "0"
-image_height: "0"
 image_attribution: "AP"
 image_attribution_link: ""
 video_url: ""

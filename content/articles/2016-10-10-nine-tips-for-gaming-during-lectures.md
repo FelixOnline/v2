@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610101421-felix-5685328895_fc55c07e55_o.jpg"
 image_caption: >
 
-image_width: "3600"
-image_height: "2400"
 image_attribution: "Elena Olivo"
 image_attribution_link: ""
 video_url: ""

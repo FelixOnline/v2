@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201309280022-jal08-boris-johnson.jpg"
 image_caption: >
   Eeny, meeny, miny, moe...
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

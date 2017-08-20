@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232308-felix-clayponds.jpg"
 image_caption: >
   Clayponds residents have voiced their support for the continuation of the postgraduate accommodation
-image_width: "2160"
-image_height: "1440"
 image_attribution: "Neville Miles"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010072349-ks607-AngelaMe.jpg"
 image_caption: >
   German Chancellor Angela Merkel studied Physics
-image_width: "1573"
-image_height: "1181"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

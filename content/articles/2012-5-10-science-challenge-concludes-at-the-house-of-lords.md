@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205102038-pk1811-1.png"
 image_caption: >
   A tour for two of CERN was up for grabs for the overall winner
-image_width: "0"
-image_height: "0"
 image_attribution: "CERN"
 image_attribution_link: ""
 video_url: ""

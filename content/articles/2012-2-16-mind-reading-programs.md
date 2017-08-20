@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162142-cac111-redneuronal.gif"
 image_caption: >
   Neural networks are used to simulate brain activity, but cannot interpret thoughts
-image_width: "1600"
-image_height: "1200"
 image_attribution: "networksandservers.blogspot.com"
 image_attribution_link: "http://networksandservers.blogspot.com"
 video_url: ""

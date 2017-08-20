@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510231237-cj914-un_general_assembly_hall-copy.jpg"
 image_caption: >
   The UN Assembly Hall, where the magic happens.
-image_width: "0"
-image_height: "0"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""

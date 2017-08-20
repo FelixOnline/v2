@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105060953-felix-the-blue-rigi-lake-of-lucerne-sunrise.jpg"
 image_caption: >
   The Blue Rigi Sunrise by J. M. W. Turner
-image_width: "1105"
-image_height: "748"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

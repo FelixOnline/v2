@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242310-felix-wall-street-angry-geek-picture.jpg"
 image_caption: >
   Some people just can’t do anything right...
-image_width: "499"
-image_height: "373"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

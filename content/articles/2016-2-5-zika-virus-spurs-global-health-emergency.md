@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051205-felix-5568919509_a202f88818_o.jpg"
 image_caption: >
   A feeding Aedes Aegypti mosquito. Mosquitoes of this genus are responsible for the transmission of the Zika virus.
-image_width: "700"
-image_height: "463"
 image_attribution: "Jentavery"
 image_attribution_link: ""
 video_url: ""

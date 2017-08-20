@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210112225-ar3310-thatcherrbg.jpg"
 image_caption: >
   This lady is not for TURN AND FACE THE CHANGE. Sorry, I’ve just got that David Bowe song in my head
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

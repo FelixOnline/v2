@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310250049-felix-amundsen-scott-station.jpg"
 image_caption: >
   Amundsen-Scott south pole station, now under “caretaker status”
-image_width: "0"
-image_height: "0"
 image_attribution: "Ethan Good"
 image_attribution_link: ""
 video_url: ""

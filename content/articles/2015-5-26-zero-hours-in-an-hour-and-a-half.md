@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505261509-js5913-beyond-caring.jpg"
 image_caption: >
   Phil (Sean O’Callaghan) and Grace (Janet Etuk) in Beyond Caring at the National Theatre.
-image_width: "0"
-image_height: "0"
 image_attribution: "Timeout"
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203111450-mc4509-hunger-games.jpg"
 image_caption: >
   Jennifer Lawrence in The Hunger Games
-image_width: "640"
-image_height: "360"
 image_attribution: "Lionsgate"
 image_attribution_link: ""
 video_url: ""

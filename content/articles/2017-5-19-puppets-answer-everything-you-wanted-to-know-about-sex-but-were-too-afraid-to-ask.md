@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705191707-felix-18518630_1209345525840680_1370785209_n.jpg"
 image_caption: >
   Acts in Sex and Puppets
-image_width: "960"
-image_height: "960"
 image_attribution: "Edie Edmundson,Wondering Hands"
 image_attribution_link: ""
 video_url: ""

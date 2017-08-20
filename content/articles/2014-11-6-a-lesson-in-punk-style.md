@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411062124-snb11-chrisstein_newspaper-copy.jpg"
 image_caption: >
   Debbie Harry of Blondie, looking way cooler than you ever will
-image_width: "0"
-image_height: "0"
 image_attribution: "Chris Stein"
 image_attribution_link: ""
 video_url: ""

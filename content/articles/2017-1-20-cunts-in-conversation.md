@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701201530-felix-16145802_10210543447155333_1530005167_o.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "657"
 image_attribution: "Paul Stein"
 image_attribution_link: ""
 video_url: ""

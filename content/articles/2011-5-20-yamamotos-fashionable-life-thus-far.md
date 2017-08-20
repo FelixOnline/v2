@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105200648-felix-yyf_aw_2009-10027_photographed_by_monica_feudi.jpg"
 image_caption: >
 
-image_width: "2304"
-image_height: "3456"
 image_attribution: "Monica Feudi"
 image_attribution_link: ""
 video_url: ""

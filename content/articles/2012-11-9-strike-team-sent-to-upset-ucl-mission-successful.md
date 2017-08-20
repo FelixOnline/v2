@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201211091635-tna08-img_8388grb.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -52,7 +50,6 @@ On Thursday evening, in a quiet area of UCL, pizza was delivered and the party s
 The event was well attended, even after the free food had vanished (about 5 minutes in) and then the games began. Kinda. One of the UCL Tech Soc’s new (I hesitate to say ‘shiny’ as it looked like it had been used to buff a pavement) Xbox 360s had broken, resulting in some slightly awkward 2v2s., rather than the planned 4v4s. Despite that, Imperial beat UCL in all CoD games played, bar one (as their best player had to leave after the first game). LoL in the corner was dominated by the Imperial cohort, with the UCL team conceding (read: rage-quitting) in the middle of the second game, giving the Imperial team a 2-0 match win. One stalwart Imperial student spent all day playing FIFA, winning 5 out of the 6 games played (and only losing when it came to penalties) bringing great success to the motherland.
 
 There wasn’t much success however, in the land of Super Smash Bros., with UCL wiping the floor with us. Finally, TF2 finished and the scores rolled in. However, all was not well in the land of inflatable unicorns and hats. The UCL view is that they slaughtered us, fair and square. The Imperial view is that they slaughtered us, but cheated by bringing in someone with banned weapons and so UCL should be disqualified.
-TODO: image from
 Regardless of the rivalry, everyone was still in high spirits at the end of the day and wonderfully, not a single shout of ‘n00b’ rang throughout the building.
 
 For the first (of hopefully, many) tournament, things went surprisingly smoothly and when it’s time to host the next evening, on the home turf, we should have the food shortages, console shortages, UCL rage-quitting shortages and “Imperial won” shortages fixed.

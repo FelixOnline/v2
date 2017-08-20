@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202022242-sjw209-ponieslad.png"
 image_caption: >
   A still from the musical number ‘At the Gala’ from the episode ‘Best Night Ever’
-image_width: "899"
-image_height: "505"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

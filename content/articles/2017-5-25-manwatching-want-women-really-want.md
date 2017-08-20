@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705251403-im1413-helenmurray-Manwatching-Royal-Court.jpg"
 image_caption: >
 
-image_width: "700"
-image_height: "455"
 image_attribution: "Photo: Helen Murray"
 image_attribution_link: ""
 video_url: ""

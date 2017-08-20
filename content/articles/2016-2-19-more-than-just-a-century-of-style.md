@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191210-felix-vogue-elephant-large_trans++iyqoT1SBB9va1sGv7GIjEobhCNL6eGYb8WWtNBD0x3E.jpg"
 image_caption: >
   Anne Gunning in Jaipur by Norman Parkinson, 1956.
-image_width: "718"
-image_height: "717"
 image_attribution: "Norman Parkinson Ltd."
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162156-cac111-800px-maternal_malaria_placenta_-_cropped_-_very_high_mag.jpg"
 image_caption: >
   A very high magnification micrograph of maternal malaria
-image_width: "800"
-image_height: "600"
 image_attribution: "Wikipedia"
 image_attribution_link: "http://www.wikipedia.org"
 video_url: ""

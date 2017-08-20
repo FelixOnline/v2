@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612161504-felix-Harriet Walter Brutus in Julius Caesar Photos by Helen Maybanks 3.jpg"
 image_caption: >
 
-image_width: "1300"
-image_height: "867"
 image_attribution: "Helen Maybanks"
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152021-ig711-space_invaders.jpg"
 image_caption: >
   Get the probulators ready...
-image_width: "1280"
-image_height: "1024"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

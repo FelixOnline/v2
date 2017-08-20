@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262216-felix-street_view[1].jpg"
 image_caption: >
   Griffon Studios – the best a postgrad can get?
-image_width: "4961"
-image_height: "3508"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

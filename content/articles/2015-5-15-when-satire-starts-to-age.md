@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505151356-cj914-olivia-poulet-in-product-by-mark-ravenhill,-arcola,-27-april---24-may,-courtesy-of-richard-davenport,-6.jpg"
 image_caption: >
   Olivia Poulet in the Arcola Theatre’s production of Mark Ravenhill’s Product
-image_width: "0"
-image_height: "0"
 image_attribution: "Richard Davenport"
 image_attribution_link: ""
 video_url: ""

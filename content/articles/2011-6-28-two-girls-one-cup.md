@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106281234-felix-cup-copy.jpg"
 image_caption: >
   Two girls in a cup, not quite the same...
-image_width: "3872"
-image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

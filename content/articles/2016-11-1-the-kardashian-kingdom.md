@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611010006-felix-4540832391_e56343c6e2_o.jpg"
 image_caption: >
 
-image_width: "3621"
-image_height: "1378"
 image_attribution: "Yusuf C"
 image_attribution_link: ""
 video_url: ""

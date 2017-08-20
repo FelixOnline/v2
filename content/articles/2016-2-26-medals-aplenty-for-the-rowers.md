@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261213-felix-12743858_10102363028415889_2873748662090135156_n.jpg"
 image_caption: >
 
-image_width: "960"
-image_height: "539"
 image_attribution: "Imperial Boat"
 image_attribution_link: ""
 video_url: ""

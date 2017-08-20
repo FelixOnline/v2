@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262227-ams111-jd-salinger1.jpg"
 image_caption: >
   JD Salinger – a troubled genius
-image_width: "2208"
-image_height: "1317"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

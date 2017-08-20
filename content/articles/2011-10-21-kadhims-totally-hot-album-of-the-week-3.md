@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110211223-ak6309-slowclubparadisepackshotw.jpg"
 image_caption: >
 
-image_width: "1642"
-image_height: "1499"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

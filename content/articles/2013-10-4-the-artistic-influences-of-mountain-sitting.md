@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310040247-jal08-arts-poster-copy3.jpg"
 image_caption: >
   A painting of a lumpen knot of thumbed clay maps out the awkward spread of entwined figures, alludin
-image_width: "0"
-image_height: "0"
 image_attribution: "BLYTH GALLERY"
 image_attribution_link: ""
 video_url: ""

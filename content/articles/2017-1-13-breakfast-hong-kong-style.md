@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701131452-felix-IMG_6954.jpg"
 image_caption: >
 
-image_width: "4220"
-image_height: "3165"
 image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
@@ -50,10 +48,8 @@ To be more specific, this café is a typical Cha-Chaan-Teng – a Hong Kong-styl
 Let’s be frank. As a Hong Kong-ese raised by (slightly) health-conscious parents, I’ve ever only entered a Cha-Chaan-Teng three times in 21 years. Why? Because the menu would be shock horror to any nutritionist. Fruit and vegetables do not make an appearance, except for a slice of tomato or a cabbage leaf in a sandwich. The menu here, in the form of laminated sheets of paper tucked underneath the glass table-tops, was no exception. Breakfast: macaroni in soup with artificial ham, toast with peanut butter and condensed milk. No dim sum, by the way. Lunch: spam sandwich, spaghetti with barbeque pork. Afternoon tea: Deep fried French toast (a must-have Hong Kong-ese classic) drenched in golden syrup topped with a big slab of butter, finished off with a good cup of milk tea (extra-strong black tea with evaporated milk, an all-time favourite). No one cares about five-a-day, arteries or heart disease when you can get a filling meal for under 40 HKD (£4).
 
 
-TODO: image from
 Plonk.
 
 The black truffle scrambled eggs on toast on a flowery plate was dumped in front of me just like the others. This was what I came here for – an old-school café keeping up with the latest black-truffle-in-everything trend. The mountain of bright yellow scrambled eggs wobbled and shook on the inch-thick piece of white toast, with some specks of ‘black truffle’ garnished on top. I was so hungry by then, I grabbed my dripping wet knife and fork off the damp napkin and dug in. Yes, I paid the extra £2 for the non-existent black truffle (the black specks were just burnt carbon bits), but the scrambled eggs were the best I’ve ever had. Creamy, velvety-smooth yet light – the cheap, spongy white bread soaking up the golden river of deliciousness. I washed down each and every mouthful with milk tea – smooth and just the right amount of gip (a Cantonese word for bitterness).
 
 As I headed towards the forever pissed-off-looking lady at the till by the door, my mind came clear of a truth. I needn’t the best sourdough, fancy French butter with a Clarence Court egg; it was the cheap bread, the most horrible service you could ever imagine in a rowdy environment for a taste of the authentic, delicious local breakfast, and reunited my taste buds with my roots.
-TODO: image from

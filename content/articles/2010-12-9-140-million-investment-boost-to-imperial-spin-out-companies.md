@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201012092135-dr910-facultyb.jpg"
 image_caption: >
 
-image_width: "2120"
-image_height: "1488"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

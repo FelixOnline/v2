@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201311191827-kmw13-p14michaelclarkegetty.jpg"
 image_caption: >
   It's Clarke v Cook, take two
-image_width: "0"
-image_height: "0"
 image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""

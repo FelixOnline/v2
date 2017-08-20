@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082041-felix-eton-fives-universities-2.jpg"
 image_caption: >
 
-image_width: "3056"
-image_height: "2292"
 image_attribution: "Abhishek Bhattacharya"
 image_attribution_link: ""
 video_url: ""

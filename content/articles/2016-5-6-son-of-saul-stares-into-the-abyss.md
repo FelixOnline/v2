@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061111-felix-Brody-Son-of-Saul-1200.jpg"
 image_caption: >
   Géza Röhrig brings incredible intensity to Son of Saul, described by Shoah director Claude Lanzmann as the ‘anti-Schindler’s List’.
-image_width: "1200"
-image_height: "911"
 image_attribution: "Sony Pictures"
 image_attribution_link: ""
 video_url: ""

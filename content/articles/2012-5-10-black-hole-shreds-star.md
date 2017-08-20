@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205102101-ams111-p1218ay.jpg"
 image_caption: >
   Simulation of a black hole flare as the remains of the disrupted star stream into the black hole
-image_width: "0"
-image_height: "0"
 image_attribution: "NASA / S. Gezari (JHU) / J. Guillochon (UCSC)"
 image_attribution_link: ""
 video_url: ""

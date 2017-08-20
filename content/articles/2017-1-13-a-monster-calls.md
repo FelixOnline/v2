@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701131432-felix-AMonsterCalls_Trailer (1).jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1080"
 image_attribution: "Focus Features"
 image_attribution_link: ""
 video_url: ""

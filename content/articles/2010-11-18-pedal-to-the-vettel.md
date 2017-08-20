@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011182102-ks607-vettel.jpg"
 image_caption: >
 
-image_width: "3879"
-image_height: "2466"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

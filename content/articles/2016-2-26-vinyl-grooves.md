@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261155-felix-landscape-1447774984-vinyl-trailer-2.jpg"
 image_caption: >
   No sympathy for the devil.
-image_width: "980"
-image_height: "490"
 image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""

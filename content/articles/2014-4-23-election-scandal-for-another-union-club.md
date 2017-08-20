@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201404232157-jal08-2006101414420101_970956e.jpg"
 image_caption: >
   Ballot scandal at CSSA
-image_width: "0"
-image_height: "0"
 image_attribution: "http://www.thehindu.com"
 image_attribution_link: "http://www.thehindu.com/multimedia/dynamic/00970/2006101414420101_970956e.jpg"
 video_url: ""

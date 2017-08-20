@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702171526-felix-4883316444_092d1fb98c_o.jpg"
 image_caption: >
 
-image_width: "1500"
-image_height: "2100"
 image_attribution: "U.S. Department of Agriculture"
 image_attribution_link: ""
 video_url: ""

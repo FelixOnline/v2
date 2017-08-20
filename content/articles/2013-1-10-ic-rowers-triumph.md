@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201301102316-csw09-ben-guns.jpg"
 image_caption: >
   Move over Victoria Beckham, Pout of the Year belongs to BS-J now
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

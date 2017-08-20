@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102032023-dr910-vickyvic.jpg"
 image_caption: >
   Oh fuck off
-image_width: "598"
-image_height: "968"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

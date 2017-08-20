@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051143-felix-rag.jpg"
 image_caption: >
   The cover of the offending leaflet
-image_width: "1819"
-image_height: "2551"
 image_attribution: "RAG"
 image_attribution_link: ""
 video_url: ""

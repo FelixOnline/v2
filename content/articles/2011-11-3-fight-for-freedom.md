@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032101-pk1811-welfare_state.jpg"
 image_caption: >
   Indeed, the world would be a happier place with no welfare whatsoever: a jungle in which those who d
-image_width: "400"
-image_height: "393"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

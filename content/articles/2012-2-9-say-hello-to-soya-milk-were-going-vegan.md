@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092249-felix-img-20120207-00363.jpg"
 image_caption: >
   Saying goodbye is hard to do...
-image_width: "2592"
-image_height: "1944"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

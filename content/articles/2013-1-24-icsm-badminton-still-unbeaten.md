@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201301242055-mc4509-p1090381.jpg"
 image_caption: >
   Harder! Smash those shuttlecocks
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

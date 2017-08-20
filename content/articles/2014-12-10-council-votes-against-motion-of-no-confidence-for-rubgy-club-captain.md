@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412101513-ps3110-edited_council.jpg"
 image_caption: >
   Council met to discuss the sanctions against Hobson
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

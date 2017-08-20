@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101201940-nm1010-dodgebal.jpg"
 image_caption: >
 
-image_width: "2893"
-image_height: "1917"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102101956-dr910-musician.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "2560"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

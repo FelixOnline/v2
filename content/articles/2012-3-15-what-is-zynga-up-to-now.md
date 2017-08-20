@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203151932-pk1811-zynga-games.jpg"
 image_caption: >
   Zynga are responsible for many of the most popular games on Facebook
-image_width: "991"
-image_height: "600"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

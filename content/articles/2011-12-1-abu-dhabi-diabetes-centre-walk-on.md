@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012203-felix-abu-dhabi.jpg"
 image_caption: >
   Imperial College London partnered with Mubadala Healthcare to build the centre
-image_width: "3504"
-image_height: "2332"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

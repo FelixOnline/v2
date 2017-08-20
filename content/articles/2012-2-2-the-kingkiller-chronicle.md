@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202022054-ams111-kingkiller.jpg"
 image_caption: >
   Our protagonist Kvothe  – skilled magic user and swordsmaster
-image_width: "1535"
-image_height: "1179"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

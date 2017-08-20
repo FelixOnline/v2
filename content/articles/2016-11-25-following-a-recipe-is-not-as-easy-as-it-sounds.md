@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611251437-felix-5513650419_cb14c3a042_o.jpg"
 image_caption: >
 
-image_width: "4272"
-image_height: "2848"
 image_attribution: "Veganbaking.net"
 image_attribution_link: ""
 video_url: ""
@@ -48,7 +46,6 @@ You may say I’m a dreamer and you are right: no real food is done in 30 minute
 Things became rather complicated. Ok, let me start this over, in a more simple manner: My friends and I (eight people in total) decided to have a Friday night dinner, trying to make the food following one of Jamie’s 30 minutes recipe: Chicken Pie, French Style Peas, Sweet Carrot Smash and Dessert (supposedly Berries, Shortbread &amp; Chantilly Cream).
 
 The problems started when we decided (we, not just pretentious me!) that we didn’t want to buy rolled puff-pastry and we wanted to make our own. This single step took three hours, but if you can follow any googled recipe and not start a flour fight (please, don’t!), then you’ll be fine in 50-60 minutes. Also, don’t let a bunch of incapable students who’ve never stepped in the kitchen before attempt this part – the pastry might need to be remade. (No, not everything can be salvaged, unfortunately).
-TODO: image from
 ## Pastry
 Mix the salt and flour. Add the butter, broken up into small pieces and mix all the ingredients together. The butter chunks should be sticky and should easily mix with the flour, but please DO NOT start throwing it at other people! Add just half the water and whisk everything together before adding some more. In the end, you should get a pretty solid piece of dough. Cover the bowl with cling film and let it rest in the fridge for 20 minutes. The last step: take out the pastry and roll it out, then wrap it (take the upper third and fold it to the centre. Do the same for the lower third and repeat this two to three times – the more times you repeat it, the puffier the pastry will be). Put the pastry back in the bowl, re-cover with cling film, and let it rest another 20 minutes in the fridge.
 

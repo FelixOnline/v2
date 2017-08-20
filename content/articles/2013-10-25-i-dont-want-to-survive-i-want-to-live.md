@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310250146-felix-12_years_a_slave_fassbender_ejiofor.jpg.crop.article568-large.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "12 Years a Slave"
 image_attribution_link: ""
 video_url: ""

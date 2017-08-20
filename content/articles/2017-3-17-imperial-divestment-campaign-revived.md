@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703171259-felix-divest_rectangle.png"
 image_caption: >
 
-image_width: "840"
-image_height: "337"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

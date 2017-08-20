@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102282130-ks607-harrycon.jpg"
 image_caption: >
 
-image_width: "1600"
-image_height: "1067"
 image_attribution: "www.harryconnickjr.com"
 image_attribution_link: "http://www.harryconnickjr.com/"
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612161623-felix-IMG-20161123-WA0003-20161214-171124447.jpg"
 image_caption: >
 
-image_width: "1600"
-image_height: "1200"
 image_attribution: "Ifrah Hussain"
 image_attribution_link: ""
 video_url: ""

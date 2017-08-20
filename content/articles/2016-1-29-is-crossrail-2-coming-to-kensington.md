@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
-image_width: ""
-image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -49,7 +47,6 @@ Bosses of organisations around West London, including Imperial College Union’s
 The proposed station would be part of the £30 billion infrastructure project by Transport for London and Network Rail that would open in 2030 and provide new links between Surrey and Hertfordshire, passing through several stations in London.
 
 The support was provided through a letter to the London Evening Standard which was also sent to London Mayor, Boris Johnson.
-TODO: image from
 The signatories’ letter says that the north-south link would provide Kensington and Chelsea with the “integration with the wider London public transport system, especially the Underground” which they say it currently lacks.
 
 The 46 signatories were cultural, business and health chiefs including the chief executive of the Chelsea and Westminster Hospital, the chair of Harrods, and the director of the Natural History Museum. The signatories claimed that the project would “safeguard the area’s status as a world-leading cultural hub and location for pioneering medical, research and educational establishments”.

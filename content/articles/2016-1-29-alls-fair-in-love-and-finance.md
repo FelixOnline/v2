@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601290918-felix-FILM-THE_BIG_SHORT_37882487 (1).JPG"
 image_caption: >
   Christian Bale sweeps up the nominations with his performance as Dr. Michael Burry in The Big Short.
-image_width: "3000"
-image_height: "2102"
 image_attribution: "Paramount"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606101029-felix-7298442782_124ae1b096_o.jpg"
 image_caption: >
   A captive lowland gorilla. There are less than 100,000 left in the wild.
-image_width: "3004"
-image_height: "3022"
 image_attribution: "Anthony"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611010001-felix-broad-city_abbi-jacobson-ilana-glazer-photocredit_lane-savage.jpg"
 image_caption: >
 
-image_width: "3000"
-image_height: "2000"
 image_attribution: "Lane Savage // Comedy Central"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606031118-felix-6510960541_2d1e558622_o.jpg"
 image_caption: >
   Itsame! Mario!
-image_width: "1824"
-image_height: "1018"
 image_attribution: "Sergey Galyonkin"
 image_attribution_link: ""
 video_url: ""

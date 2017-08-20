@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701131502-felix-15589998_1244623018909408_6555442564566862081_n.jpg"
 image_caption: >
 
-image_width: "301"
-image_height: "280"
 image_attribution: "Sent By James"
 image_attribution_link: ""
 video_url: ""
@@ -46,7 +44,6 @@ T        his strange world of memes which we currently find ourselves in – one
 What started as a simple meme page in Cambridge (Memebridge) has quickly exploded into a national ecosystem of university meme pages each with thousands of followers. University memes are by no means a new phenomenon (the original Imperial Memes page has nearly 5000 likes) but this new crop of pages has succeeded in a different way, thriving on interuniversity rivalry and collaboration.
 
 This rivalry was the catalyst for the growth of the university meme scene. Soon after Memebridge was created a group of Oxford students started their own page, Oxmeme. The long-term success of memes has always come down to the way in which they are reused and replicated. So naturally it wasn’t long before Oxmeme decided to steal Memebridge’s memes, a deadly sin in the online community. The war had begun.
-TODO: image from
 As if one page wasn’t enough, a second page was born from the English-speaking world’s oldest university: The Memeing Spires of Oxford. As more and more rival pages appeared, the variety of Memebridge’s memes grew. Durhameme proved the perfect target with their attempt at introducing “Doxbridge” to the national lexicon, resulting in a number of humiliating ‘roasts.’ Thousands were liking and tagging their friends in the varsity meme wars but nothing had prepared them for what would come next.
 
 On the 14th of December, Memebridge (“Sent by Alfred”) shared a video which would shake the university meme world to its core. Poking fun at Memeing Spires, Oxmeme and Durhameme, “the bane video” set the bar for what a meme page could do and is essential viewing for any university meme connoisseur.

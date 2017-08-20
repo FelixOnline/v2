@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011252132-nm1010-GileadAm.jpg"
 image_caption: >
 
-image_width: "181"
-image_height: "474"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

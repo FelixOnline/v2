@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201305162141-tna08-quad6may08_08.jpeg"
 image_caption: >
   Yeah, they've partnered with UCL for something. Dragging ourselves down BIG TIME
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

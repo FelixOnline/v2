@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705151941-felix-8674005940_206068c1a8_o.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "768"
 image_attribution: "Francisco Osorio"
 image_attribution_link: ""
 video_url: ""

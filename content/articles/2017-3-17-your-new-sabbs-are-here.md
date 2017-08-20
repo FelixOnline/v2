@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703171303-felix-sabbs.jpg"
 image_caption: >
   Isn't there someone missing tho?
-image_width: "960"
-image_height: "640"
 image_attribution: "ICU"
 image_attribution_link: ""
 video_url: ""

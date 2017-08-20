@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021406-felix-paterson.jpg"
 image_caption: >
 
-image_width: "2470"
-image_height: "1646"
 image_attribution: "Soda Pictures"
 image_attribution_link: ""
 video_url: ""

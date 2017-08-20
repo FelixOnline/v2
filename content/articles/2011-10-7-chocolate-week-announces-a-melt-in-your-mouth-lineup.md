@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110071401-felix-chocolate-liquid-1vds4o9.jpg"
 image_caption: >
   So much chocolate, so little time...
-image_width: "960"
-image_height: "854"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

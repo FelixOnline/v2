@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411061917-snb11-horns-copy.jpg"
 image_caption: >
   Daniel Radcliffe tries his best to look sexy
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

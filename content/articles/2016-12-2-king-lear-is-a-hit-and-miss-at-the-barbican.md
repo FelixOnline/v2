@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021501-felix-5760.jpg"
 image_caption: >
 
-image_width: "1225"
-image_height: "735"
 image_attribution: "Ellie Kurttz, Royal Shakespeare Company"
 image_attribution_link: ""
 video_url: ""

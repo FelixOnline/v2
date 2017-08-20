@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103251451-jn104-BUCSFenc.jpg"
 image_caption: >
   Imperial's fencing teams celebrate their win
-image_width: "3110"
-image_height: "1860"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

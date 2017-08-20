@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202021947-ams111-abdoulaye_wade_wef_2004.jpg"
 image_caption: >
   Abdoulaye Wade remains defiant
-image_width: "3048"
-image_height: "2426"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

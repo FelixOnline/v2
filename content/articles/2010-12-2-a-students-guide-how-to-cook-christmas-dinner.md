@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201012022013-nm1010-christma.jpg"
 image_caption: >
 
-image_width: "640"
-image_height: "427"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

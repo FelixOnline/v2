@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104230048-felix-3514192452_2981b6e008_b.jpeg"
 image_caption: >
 
-image_width: "1024"
-image_height: "683"
 image_attribution: "flickr/pietroizzo"
 image_attribution_link: "http://www.flickr.com/photos/pietroizzo/3514192452/"
 video_url: ""

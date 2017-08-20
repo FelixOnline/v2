@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110071133-felix-211010-b-delphi.jpg"
 image_caption: >
   Wireless electricity? I'm counting down the days until we get superpowers
-image_width: "1576"
-image_height: "901"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

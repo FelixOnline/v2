@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262308-felix-pigs-dalton.jpg"
 image_caption: >
   Not even the ultra masculine Timothy Dalton can bring himself to shoot man’s equals: pigs
-image_width: "640"
-image_height: "320"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

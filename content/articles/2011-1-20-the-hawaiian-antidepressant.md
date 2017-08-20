@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101201912-ks607-mantaray.jpg"
 image_caption: >
 
-image_width: "500"
-image_height: "666"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

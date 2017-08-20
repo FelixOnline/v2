@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705121825-felix-18160222_10155467573612223_836229520_o.jpg"
 image_caption: >
 
-image_width: "720"
-image_height: "1280"
 image_attribution: "Not sure who took this but it's great and thank you for submitting it anonymous stranger"
 image_attribution_link: ""
 video_url: ""

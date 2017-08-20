@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102130-pk1811-lovequestionmark.jpg"
 image_caption: >
   She was very inspired
-image_width: "427"
-image_height: "419"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082013-pk1811-2700311137_728e72c605_b.jpg"
 image_caption: >
   MPs called for a public inquiry as a result of the parliamentary debate
-image_width: "1024"
-image_height: "642"
 image_attribution: "UK Parliament"
 image_attribution_link: ""
 video_url: ""

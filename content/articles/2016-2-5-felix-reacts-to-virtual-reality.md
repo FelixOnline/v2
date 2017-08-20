@@ -41,8 +41,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051241-felix-IMG_0018.JPG"
 image_caption: >
   Indira the Arts Editor wonders round a virtual gallery.
-image_width: "5184"
-image_height: "3456"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""

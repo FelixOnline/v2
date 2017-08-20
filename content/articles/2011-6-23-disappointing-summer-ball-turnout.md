@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106232008-felix-dsc_0134.jpg"
 image_caption: >
   This year's Summer Ball
-image_width: "4288"
-image_height: "2848"
 image_attribution: "Christopher Walmsley"
 image_attribution_link: ""
 video_url: ""

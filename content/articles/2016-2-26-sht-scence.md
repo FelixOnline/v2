@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261135-felix-5586851206_24e45dca5f_o.jpg"
 image_caption: >
 
-image_width: "2008"
-image_height: "2944"
 image_attribution: "Liam Quinn"
 image_attribution_link: ""
 video_url: ""

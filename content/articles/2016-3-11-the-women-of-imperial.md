@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111132-felix-20160310_140457.jpg"
 image_caption: >
   Squint and let the white faces wash over you.
-image_width: "5312"
-image_height: "2988"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
@@ -55,7 +53,6 @@ The whitewashed Women@Imperial exhibit by the revolving doors of the Business Sc
 After ‘Misogyny at Varsity’ last year, when a Sport Imperial employee said he “didn’t care how those fat girls got home”, Imperial commissioned an investigation into the culture of gender, which is currently being conducted by external academics. But then we had the very Provost who commissioned it, Debra Humphris, leave us for Brighton.
 
 The Angry Grad makes a triumphant return below. Despite initial speculation that the FELIX comment’s outspoken columnist was a man, she ain’t. Angry Grad is a job-having graduate who’s been through the Imperial system, and experienced the medical school with all its foibles.
-TODO: image from
 **FELIX**: What kind of attitudes did you encounter from students or teaching staff on the subject of gender?
 
 **Angry Grad**: Staff thankfully treated me equal to my male counterparts. However, my student experience was quite different. In fact, it’s kind of made me aware that some of my mates are downright sexist – I’m possibly having such a bloody epiphany right now that I may need re-think my friend circle as a SIW (strong independent woman).
@@ -103,7 +100,6 @@ People don’t like to be criticised, often I am accused of attacking their free
 **FELIX:** Are they any other incidents that stand out?
 
 **S**: I was talking to one of my friends about this. In a tutorial she was told by one of her peers to write on the board because “everyone wants to look at the pretty girl”. When we spoke about it, I found that many of our friends saw this as “just a compliment” and not a horribly sexist example of objectification. Another time, I was drinking juice from a straw in a lecture and a comment was made about how it looked like I was fellating the straw. I made a snarky comment in response, but haven’t had an innocent carton since.
-TODO: image from
 > > **There are more men at Imperial, however, I think that being a man is by no means the default**
 Celeste van den Bosch is a PhD in materials, and is the postgraduate representative for the Athena Swan committee for the department.
 

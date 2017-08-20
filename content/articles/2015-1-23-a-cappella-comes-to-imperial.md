@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201501230040-cac111-large-header-novello1-1.jpg"
 image_caption: >
   The Techtonics are just one of three Imperial groups competing on Saturday
-image_width: "0"
-image_height: "0"
 image_attribution: "The Techtonics"
 image_attribution_link: ""
 video_url: ""

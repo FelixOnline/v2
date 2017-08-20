@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203082024-ams111-somelikeit.jpg"
 image_caption: >
   Birmingham's attempt to match London Fashion Week fell a little short of the mark
-image_width: "3072"
-image_height: "2304"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

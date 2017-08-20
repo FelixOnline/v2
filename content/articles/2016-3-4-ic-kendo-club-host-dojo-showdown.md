@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603041152-felix-Imperial_Kendo_Photo1.jpg"
 image_caption: >
   Imperial Captain John Jonsson leaps into action.
-image_width: "2048"
-image_height: "1365"
 image_attribution: "Natasha Khaleeq"
 image_attribution_link: ""
 video_url: ""

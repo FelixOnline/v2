@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121134-felix-battlefield.jpg"
 image_caption: >
   The cast of Battlefield at the Young Vic.
-image_width: "1365"
-image_height: "916"
 image_attribution: "Simon Annand"
 image_attribution_link: ""
 video_url: ""

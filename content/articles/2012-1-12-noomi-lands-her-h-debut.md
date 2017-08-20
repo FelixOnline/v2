@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122250-cac111-sherlock_holmes_2_3ab779b263ba0a04035f85f4b698ab96.jpg"
 image_caption: >
   Elementary my dear Watson, you should never start with French
-image_width: "573"
-image_height: "323"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

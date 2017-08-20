@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702101519-felix-Sandra.jpg"
 image_caption: >
 
-image_width: "3552"
-image_height: "1920"
 image_attribution: "Komplizen Film"
 image_attribution_link: ""
 video_url: ""

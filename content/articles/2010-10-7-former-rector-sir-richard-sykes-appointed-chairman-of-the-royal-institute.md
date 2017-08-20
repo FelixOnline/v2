@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104181209-felix-sir_richard_sykes_b_w.jpg"
 image_caption: >
 
-image_width: "601"
-image_height: "899"
 image_attribution: "Peter Gillings/Imperial College London"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201301250150-tna08-royal-institute007_full.jpg"
 image_caption: >
    I think I heard a tenner from the gentleman at the back of the room
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

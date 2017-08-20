@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122223-cac111-0511013_01-a4-at-144-dpi.jpg"
 image_caption: >
   The ATLAS detector where the new particle (not pictured) was found
-image_width: "1615"
-image_height: "1052"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

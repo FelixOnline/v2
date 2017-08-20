@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611181429-felix-8250197392_d5a1fcdb1d_o.jpg"
 image_caption: >
 
-image_width: "1750"
-image_height: "1034"
 image_attribution: "Chatham House"
 image_attribution_link: ""
 video_url: ""

@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121136-felix-1..jpg"
 image_caption: >
   Saturn, dark side of the rings.
-image_width: "8000"
-image_height: "4627"
 image_attribution: "NASA/JPL/Michael Benson, Kinetikon Pictures, courtesy of Flowers Gallery"
 image_attribution_link: ""
 video_url: ""

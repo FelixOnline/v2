@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511151050-ff712-4928.jpg"
 image_caption: >
   Warriors charts the impact forming a cricket team has on the Maasai community
-image_width: "0"
-image_height: "0"
 image_attribution: "Warriors Film PR"
 image_attribution_link: ""
 video_url: ""

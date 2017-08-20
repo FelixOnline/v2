@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505212107-kmw13-ic_sci_chall_37.jpg"
 image_caption: >
   London First argues that international students should be given visitor status
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

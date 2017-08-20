@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702241534-felix-16810834_10100760943107935_1771839755_o.jpg"
 image_caption: >
   The exhibition came with a face painting stand!
-image_width: "2048"
-image_height: "1365"
 image_attribution: "Tom Mutimer"
 image_attribution_link: ""
 video_url: ""

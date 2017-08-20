@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511200911-ygr12-clouds_over_the_atlantic_ocean.jpg"
 image_caption: >
   What’s beyond the horizon for the ecological health of our oceans?
-image_width: "0"
-image_height: "0"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""

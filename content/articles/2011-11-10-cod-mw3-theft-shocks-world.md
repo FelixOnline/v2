@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102228-pk1811-gamer.jpg"
 image_caption: >
   Last known image of one of the men believed to have been involved
-image_width: "480"
-image_height: "364"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121145-felix-Trumbo-trailer.jpg"
 image_caption: >
   Helen Mirren in full-on mad hat mode, opposite the strained Bryan Cranston in Trumbo.
-image_width: "3000"
-image_height: "1290"
 image_attribution: "YouTube/Entertainment One"
 image_attribution_link: ""
 video_url: ""

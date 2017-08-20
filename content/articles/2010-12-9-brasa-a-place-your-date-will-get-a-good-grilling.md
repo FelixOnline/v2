@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201012091934-ac1507-brasa.jpg"
 image_caption: >
 
-image_width: "1282"
-image_height: "855"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

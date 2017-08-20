@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192020-cac111-lecture-theatre-comment-michael-cook-picture.jpg"
 image_caption: >
   A representation of how you look to others when you are a knowledgable computing lecturer
-image_width: "632"
-image_height: "420"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

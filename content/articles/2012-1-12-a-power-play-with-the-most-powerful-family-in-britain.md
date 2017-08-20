@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122255-cac111-sherlock-and-watson-bbc-2010.jpg"
 image_caption: >
   No one could look as cool as Sherlock in this jacket
-image_width: "1600"
-image_height: "1123"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

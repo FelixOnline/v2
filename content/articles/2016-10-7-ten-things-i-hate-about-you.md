@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610071939-felix-Screen Shot 2016-10-07 at 19.38.43.png"
 image_caption: >
 
-image_width: "1988"
-image_height: "1146"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -78,7 +76,6 @@ The visible manifestation of certain strains of HPV is genital warts, which are 
 The main take home from all the recent HPV research is that male throat cancers caused by HPV are on the rise, which means that more men are now getting familiar with their partner’s ladybits. Yay!
 ## 5 | Syphilis
 Syphilis is very infectious, and has a whole array of tells depending on the stage of infection (although not everyone will show symptoms). These can be small sores or ulcers near the genitals or mouth, a blotchy red rash, small skin growths, white patches in the mouth, flu-like symptoms such as headaches, lethargy, joint pain, and fever, or, if you really don’t get it treated, madness – rumoured to have been the cause of Henry VIII’s somewhat questionable marital decisions. This one can take a while to show up, so you can’t be sure until three months after possible exposure. But, you can prevent infection by making sure _all_ sores are covered by a condom, and if you do pick it up, you can clear it up with some antibiotics.
-TODO: image from
 ## 6 | Scabies
 Scabies is a skin condition caused by tiny mites, that is rife amongst student populations and is incredibly infectious. Affecting more than just the genitals, these creatures particularly like warm places and skin folds, such as your bum or breast creases. It’s spread by prolonged skin contact, including, commonly, sexual contact, and can be passed on even when barrier methods of birth control are used, as you’ll discover when the rash pops up a day or two later. If you visit your doctor, you will be prescribed an insecticide cream or lotion, and it’s best to avoid cuddling up too close to anyone until it’s all gone.
 ## 7 | Trichomonaiasis

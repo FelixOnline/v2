@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103012119-ks607-Apocalyp.jpg"
 image_caption: >
 
-image_width: "1600"
-image_height: "1200"
 image_attribution: "beautifulinsidemyhead.blogspot.com"
 image_attribution_link: "http://beautifulinsidemyhead.blogspot.com"
 video_url: ""

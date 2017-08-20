@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232137-pk1811-img_4192-edited.jpg"
 image_caption: >
   I would photoshop a love heart, but that may be hard to justify as time well spent...
-image_width: "5616"
-image_height: "3744"
 image_attribution: "Imperial College Singapore Society"
 image_attribution_link: ""
 video_url: ""

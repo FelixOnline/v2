@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203082032-ams111-id_152.jpg"
 image_caption: >
   The Three Dancers (1925)
-image_width: "1964"
-image_height: "3189"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

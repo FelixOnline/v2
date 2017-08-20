@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505271901-ps3110-03.jpg"
 image_caption: >
   Yukio Ninagawa, Hamlet, Shinnosuke Mitsushima and Tatsuya Fujiwara
-image_width: "0"
-image_height: "0"
 image_attribution: "Takahiro Watanabe"
 image_attribution_link: ""
 video_url: ""

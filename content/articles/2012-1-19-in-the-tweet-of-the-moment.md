@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192128-pk1811-ali-saleh-gaddafi-mubarak.jpg"
 image_caption: >
   North Africa’s Got Talent had whittled thousands of hopefuls down to its final four
-image_width: "1200"
-image_height: "856"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

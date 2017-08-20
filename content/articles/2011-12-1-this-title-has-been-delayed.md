@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012123-pk1811-scarlett-johansson.jpg"
 image_caption: >
   The reward for reading this article is a picture of Scarlett Johansson
-image_width: "820"
-image_height: "1161"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

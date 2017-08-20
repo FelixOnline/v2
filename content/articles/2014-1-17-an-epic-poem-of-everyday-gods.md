@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201401170345-jal08-arts-kate-tempest---brand-new-ancients---spitalfields-music-winter-festival-16-december.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Spitalfields Music Festival"
 image_attribution_link: ""
 video_url: ""

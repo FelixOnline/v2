@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021458-felix-14256652138_c9aaf7417f_b.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "683"
 image_attribution: "The Royal Opera House | Bill Cooper 2014"
 image_attribution_link: ""
 video_url: ""

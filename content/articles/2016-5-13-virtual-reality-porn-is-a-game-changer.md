@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131058-felix-reactions-to-virtual-reality-porn-on-oculus-rift-1102730-TwoByOne.jpg"
 image_caption: >
   This guy looks like he’s having a great time.
-image_width: "1080"
-image_height: "540"
 image_attribution: "askmen.com"
 image_attribution_link: ""
 video_url: ""

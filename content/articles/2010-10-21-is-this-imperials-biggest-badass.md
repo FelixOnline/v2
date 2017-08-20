@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010212041-nm1010-cartoonf.jpg"
 image_caption: >
 
-image_width: "1224"
-image_height: "1584"
 image_attribution: "Mitesh Patel"
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603041142-felix-1435070799_humans.jpg"
 image_caption: >
 
-image_width: "1200"
-image_height: "778"
 image_attribution: "Channel 4"
 image_attribution_link: ""
 video_url: ""

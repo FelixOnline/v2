@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702061609-ff712-kc-Kiss-and-cry1.jpg"
 image_caption: >
   Hands dance across tabletops in Kiss and Cry
-image_width: "1280"
-image_height: "1024"
 image_attribution: "Marteen Van Abeele"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612091545-felix-legends-of-tomorrow-invasion-crossover-dc-tv-justice-league-asse-213819-1280x0.jpg"
 image_caption: >
 
-image_width: "1280"
-image_height: "721"
 image_attribution: "The CW"
 image_attribution_link: ""
 video_url: ""

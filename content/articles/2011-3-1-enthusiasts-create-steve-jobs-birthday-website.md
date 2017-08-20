@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103012036-ks607-screensh.jpg"
 image_caption: >
 
-image_width: "1026"
-image_height: "1176"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

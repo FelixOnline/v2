@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703031708-felix-7bb6e11ec2fa4e8ce6293eb27c37e2b9.1000x1000x1.jpg"
 image_caption: >
 
-image_width: "1000"
-image_height: "1000"
 image_attribution: "Merky Records"
 image_attribution_link: ""
 video_url: ""

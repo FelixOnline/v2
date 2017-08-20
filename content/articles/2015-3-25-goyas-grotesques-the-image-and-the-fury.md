@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251310-ff712-regozijo-mirtha.jpg"
 image_caption: >
   Regozijo (Mirth), red chalk and scraping. 237 x 148mm. Francisco Goya (1746-1828)
-image_width: "0"
-image_height: "0"
 image_attribution: "Courtauld Gallery"
 image_attribution_link: ""
 video_url: ""

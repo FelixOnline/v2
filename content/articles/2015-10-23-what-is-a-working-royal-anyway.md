@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510231247-cj914-duke-of-york-copy.jpg"
 image_caption: >
   The Duke of York looks at a low-cost incubator at the Pitch@Palace Bootcamp.
-image_width: "0"
-image_height: "0"
 image_attribution: "Layton Thompson / Imperial College London"
 image_attribution_link: ""
 video_url: ""

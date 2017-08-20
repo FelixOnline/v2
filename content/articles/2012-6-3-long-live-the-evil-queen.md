@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206031727-felix-snow-white-huntsman-movie-image-charlize-theron-5.jpg"
 image_caption: >
   Theron a roll! Sorry, that caption attempt was a bit Grimm...
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

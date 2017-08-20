@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102144-pk1811-stills_melancholia_resized.jpg"
 image_caption: >
   Seriously, I have a thing for vampires - first Brad Pitt, then Tom Cruise, and now you...
-image_width: "4725"
-image_height: "2658"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

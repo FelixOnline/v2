@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082054-cac111-euro.jpg"
 image_caption: >
   The euro sign, illuminated in the European Central Bank logo, outside ECB HQ in Frankfurt, Germany
-image_width: "460"
-image_height: "288"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

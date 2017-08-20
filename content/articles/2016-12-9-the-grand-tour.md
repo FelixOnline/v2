@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612091544-felix-the-grand-tour-first-season.59873.jpg"
 image_caption: >
 
-image_width: "1600"
-image_height: "2400"
 image_attribution: "Amazon Studios"
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092217-ams111-cookson-006.gif"
 image_caption: >
 
-image_width: "3000"
-image_height: "2013"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

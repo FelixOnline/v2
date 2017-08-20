@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612161506-felix-14656329_10154047514611365_8841028665040272408_n.jpg"
 image_caption: >
 
-image_width: "960"
-image_height: "648"
 image_attribution: "Clive Barda 2016"
 image_attribution_link: ""
 video_url: ""

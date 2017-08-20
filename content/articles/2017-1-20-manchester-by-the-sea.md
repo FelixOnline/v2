@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701201527-felix-16121513_10210543447115332_177439220_o.jpg"
 image_caption: >
 
-image_width: "1280"
-image_height: "853"
 image_attribution: "Allstar - Studio Canal"
 image_attribution_link: ""
 video_url: ""

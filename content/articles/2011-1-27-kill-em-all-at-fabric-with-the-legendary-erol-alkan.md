@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101272039-ks607-erolalka.jpg"
 image_caption: >
   Erol Alkan at Parklife festival
-image_width: "1800"
-image_height: "1200"
 image_attribution: "Conor McDonnell"
 image_attribution_link: "http://www.conormcdonnell.co.uk/"
 video_url: ""

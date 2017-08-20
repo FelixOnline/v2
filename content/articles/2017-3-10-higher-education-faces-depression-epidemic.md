@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703101323-felix-Screen Shot 2017-03-09 at 14.58.07.png"
 image_caption: >
   The wordcloud from the institutional culture report
-image_width: "1091"
-image_height: "1156"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162200-cac111-homer_sleeping2.jpg"
 image_caption: >
   Sleeping like a log...
-image_width: "1280"
-image_height: "711"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

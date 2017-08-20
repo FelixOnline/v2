@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104212101-felix-fedex_logo_2200.jpg"
 image_caption: >
   Spot the arrow...
-image_width: "2200"
-image_height: "960"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

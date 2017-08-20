@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051153-felix-cow.jpg"
 image_caption: >
   Dairy cattle are raised in painful conditions.
-image_width: "980"
-image_height: "596"
 image_attribution: "thedodo.com"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310040306-jal08-mus-nyc.jpg"
 image_caption: >
   The NYC singing during the Royal Albert Hall’s summer Proms
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

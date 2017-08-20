@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232033-pk1811-couscous-salad-2.jpg"
 image_caption: >
   First week dish for the vegans. Alternatively, visit Gaucho for a juicy steak
-image_width: "1600"
-image_height: "1221"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

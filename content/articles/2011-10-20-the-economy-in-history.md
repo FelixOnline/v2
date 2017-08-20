@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110202345-felix-mansa_musa.jpg"
 image_caption: >
   Mansa (Emperor) Musa of Mali (1312-1337), holding one of the golden nuggets Mali was so famous for d
-image_width: "500"
-image_height: "381"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

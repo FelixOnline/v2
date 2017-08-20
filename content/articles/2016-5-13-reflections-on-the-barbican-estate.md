@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131053-felix-Barbican Estate Today - Michael Shaw.jpg"
 image_caption: >
   Shafts of light astride weathered concrete columns: The Barbican Estate today.
-image_width: "6016"
-image_height: "3384"
 image_attribution: "Michael Shaw"
 image_attribution_link: ""
 video_url: ""

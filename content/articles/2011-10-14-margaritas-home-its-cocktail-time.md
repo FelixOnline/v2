@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110140104-sjw209-margaritas.jpg"
 image_caption: >
   The thinking man's Slush Puppie
-image_width: "1368"
-image_height: "778"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201401311735-jal08-sci_chknfh-neuron1.jpg"
 image_caption: >
   Rat neurons stained with a green chicken antibody
-image_width: "0"
-image_height: "0"
 image_attribution: "NASA, ESA, J. Lotz Space Telescope Science Institute (STScI)"
 image_attribution_link: ""
 video_url: ""

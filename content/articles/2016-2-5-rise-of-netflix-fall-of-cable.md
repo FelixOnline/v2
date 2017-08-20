@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051249-felix-netflix_house_of_cards_a_l.jpg"
 image_caption: >
   House of Cards, a compelling and amazing Netflix original.
-image_width: "768"
-image_height: "433"
 image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""

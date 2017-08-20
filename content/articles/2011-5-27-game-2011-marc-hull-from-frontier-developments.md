@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105271440-felix-dsc01266resized.jpg"
 image_caption: >
 
-image_width: "1998"
-image_height: "3054"
 image_attribution: "Simon Worthington"
 image_attribution_link: ""
 video_url: ""

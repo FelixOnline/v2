@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061052-felix-16599963391_865673fed8_o.jpg"
 image_caption: >
   With over 200 genera they still only represent a fraction of Earth’s diversity.
-image_width: "5000"
-image_height: "5000"
 image_attribution: "Picturepest"
 image_attribution_link: ""
 video_url: ""

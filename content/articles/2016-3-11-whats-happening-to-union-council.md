@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111125-felix-201501292357-ps3110-edited_council.jpg"
 image_caption: >
   A rare antique photograph of a prehistoric union council meeting.
-image_width: "1280"
-image_height: "853"
 image_attribution: "Cem Hurrell"
 image_attribution_link: ""
 video_url: ""

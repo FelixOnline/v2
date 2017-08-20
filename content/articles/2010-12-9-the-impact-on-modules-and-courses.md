@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201012092115-dr910-IanOwens.jpg"
 image_caption: >
 
-image_width: "253"
-image_height: "331"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

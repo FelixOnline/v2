@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102171846-ks607-deborahs.jpg"
 image_caption: >
 
-image_width: "3888"
-image_height: "2592"
 image_attribution: "Jan Piotrowski"
 image_attribution_link: "http://jpiotrowski.wordpress.com/"
 video_url: ""

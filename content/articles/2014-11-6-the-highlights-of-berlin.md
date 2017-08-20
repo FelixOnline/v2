@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411062030-cj914-img_6887-copy.jpg"
 image_caption: >
   Enjoying a local Berliner beer with a book during the day
-image_width: "0"
-image_height: "0"
 image_attribution: "Yung Nam Cheah"
 image_attribution_link: ""
 video_url: ""

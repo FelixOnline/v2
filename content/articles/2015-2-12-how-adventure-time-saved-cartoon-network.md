@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502122312-jyg11-bravest-warriors-cmyk.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Pendleton Ward"
 image_attribution_link: ""
 video_url: ""

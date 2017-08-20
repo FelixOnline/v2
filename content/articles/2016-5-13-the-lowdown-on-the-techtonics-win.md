@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131138-felix-DSC_9816.jpg"
 image_caption: >
   Look at these cuties and their giant trophy.
-image_width: "1027"
-image_height: "685"
 image_attribution: "Joe Martinez"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506121341-cj914-spectre.png"
 image_caption: >
   Christoph Waltz looks suitable menacing and shadowy as Franz Oberhauser in the teaser for the newest Bond film.
-image_width: "0"
-image_height: "0"
 image_attribution: "Sam Mendes/Sony"
 image_attribution_link: ""
 video_url: ""

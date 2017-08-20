@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251225-ff712-oscar-peterson.jpg"
 image_caption: >
   Oscar Peterson
-image_width: "0"
-image_height: "0"
 image_attribution: "Pablo Records"
 image_attribution_link: ""
 video_url: ""

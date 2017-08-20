@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206142049-ams111-comment4.jpg"
 image_caption: >
   Part of the sustainable range at Topshop. Not sure how socially sustainable blue hair is, but it loo
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

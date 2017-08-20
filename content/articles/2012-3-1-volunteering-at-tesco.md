@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203012106-cac111-img_9890.jpg"
 image_caption: >
   KFC and Starbucks this week announced apprenticeships while Burger King dropped out of the scheme
-image_width: "5184"
-image_height: "3456"
 image_attribution: "Rajat Jain"
 image_attribution_link: ""
 video_url: ""

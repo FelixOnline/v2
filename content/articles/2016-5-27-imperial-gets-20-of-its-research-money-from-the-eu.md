@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605271037-felix-eu create.jpg"
 image_caption: >
 
-image_width: "4932"
-image_height: "3300"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

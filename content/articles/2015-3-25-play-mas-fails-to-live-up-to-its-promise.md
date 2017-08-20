@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251329-ff712-_samuel-(seun-shote),-chuck-reynolds-(rob-heanley),-ramjohn-gookool-(johann-myers)-in-play-mas-at-the-orange-tree-theatre---photo-by-robert-day.jpg"
 image_caption: >
   Samuel (Seun Shote), Chuck Reynolds (Rob Heanley), Ramjohn Gookool (Johann Myers) in Play Mas at the Orange Tree Theatre
-image_width: "0"
-image_height: "0"
 image_attribution: "Robert Day"
 image_attribution_link: ""
 video_url: ""

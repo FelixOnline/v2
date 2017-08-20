@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603181204-felix-ICSE-Image-2.jpg"
 image_caption: >
   A very happy ensemble on a very successful trip!
-image_width: "2048"
-image_height: "1295"
 image_attribution: "Jonathan Rawlinson"
 image_attribution_link: ""
 video_url: ""

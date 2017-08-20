@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012217-felix-imperial_medicine-096.jpg"
 image_caption: >
   Professor Lord Ara Darzi is a key figure in the partnership’s development
-image_width: "2036"
-image_height: "3043"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

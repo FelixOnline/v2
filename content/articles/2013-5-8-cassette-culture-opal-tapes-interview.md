@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201305082130-tna08-opal-tapes.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -57,7 +55,6 @@ __RG: In the releases you’ve put out so far, Opal Tapes has demonstrated remar
 SB: It’s interesting to hear people say that and I’d like to know what you think that it is? I’m in the middle of the sounds so see it differently. I think one unifying theme to the catalogue is an altered approach. Most of the releases can be heard with reference to house or techno styles but tend to bring about a final piece which is often unsuitable for the context that is ascribed to it. For example the Huerco S. bits which have all the composite parts of a classic Chicago house track but are recomposed into a different environment and time/head space. The groove is still present but the literal ecstasy is nascent, transparent. I feel his music is incredibly sad. I do lean toward listening to electronics which have a rougher edge to them, like to hear pieces with a loose and played quality. Perhaps these tendencies are recognisable? I don’t really know man [laughs].
 
 So this idea of a reusing of genre templates and a density and claustrophobia brought to it by adopting lo-fi techniques. That’s a good line that can be drawn through Opal Tapes.
-TODO: image from
 __RG: I think for me it is a lot of things you mentioned; there seems to be this grittiness to all the recordings, and a running theme of experimentalism. I also feel like the more dancefloor based productions (if they could be called that) have a tendency to bring in noisy elements. It seems that there’s been more of a push in general towards these kind of noise / techno crossovers recently (e.g. Container) – do you think the use of noise is becoming more prevalent in electronic music?__
 
 SB: Noise and music is a strange thing. Noise is essentially a lack of information or an obscuring of it. Music is information. Whether the two are symbiotic with “noise-techno” etc I don’t know. To me it’s not noise, it’s texture. It’s musical information which is as valid as a chord. If it were possible to observe the flux of textural choice in electronic music then we may see a rhythm forming where it finds validity and then falls back out. Listen to Xenakis early work and the use of “noise” or more realistically non-traditional sound deployment is ever present. Same with much of the early electronic works of Europe and America. As such noise is not something new but something which becomes re-appropriated as music continues its cycle.

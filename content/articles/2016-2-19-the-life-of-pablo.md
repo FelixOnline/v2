@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191219-felix-kanye.jpg"
 image_caption: >
   Shut the fuck up and enjoy the greatness.
-image_width: "1185"
-image_height: "1185"
 image_attribution: "Kanye West"
 image_attribution_link: ""
 video_url: ""

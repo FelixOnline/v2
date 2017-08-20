@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611241700-felix-image1.JPG"
 image_caption: >
 
-image_width: "4032"
-image_height: "3024"
 image_attribution: "Nikita Kumar"
 image_attribution_link: ""
 video_url: ""

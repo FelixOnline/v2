@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010142013-ks607-peterche.jpg"
 image_caption: >
   Head of Department, Peter Cheung
-image_width: "282"
-image_height: "337"
 image_attribution: "Imperial College London"
 image_attribution_link: "http://imperial.ac.uk"
 video_url: ""

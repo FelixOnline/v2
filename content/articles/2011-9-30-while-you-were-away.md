@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201109301204-felix-statin-medicines.jpg"
 image_caption: >
   Unexpected results have shown that statins may reduce the risk of death by infection
-image_width: "468"
-image_height: "354"
 image_attribution: "howshealth.com"
 image_attribution_link: "http://howshealth.com/wp-content/uploads/2010/06/Statin-medicines.jpg"
 video_url: ""

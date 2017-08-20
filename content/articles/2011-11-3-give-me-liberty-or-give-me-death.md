@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032105-pk1811-tocqueville_alexis_de.jpg"
 image_caption: >
   Alexis de Tocqueville (1805-1859). What a lad!
-image_width: "1031"
-image_height: "1382"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

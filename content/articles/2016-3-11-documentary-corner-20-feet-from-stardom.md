@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111152-felix-darlene-love-in-20-feet-from-stardom-courtesy-of-radius-twc1.jpg"
 image_caption: >
   Darlene Love, one of the behind-the-scenes stars in 20 Feet From Stardom.
-image_width: "640"
-image_height: "360"
 image_attribution: "RADiUSTWC"
 image_attribution_link: ""
 video_url: ""

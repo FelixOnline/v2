@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201004301136-srg03-EasterBr.jpg"
 image_caption: >
 
-image_width: "650"
-image_height: "280"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

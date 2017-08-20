@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172101-pk1811-sir_thomas_young_frs_hi.jpg"
 image_caption: >
   Thomas Young – the man, the myth, the polymath
-image_width: "450"
-image_height: "579"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

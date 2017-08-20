@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411062109-snb11-0.jpg"
 image_caption: >
   The Food Editor's diet of choice has got to be the seafood diet: she sees food and eats it
-image_width: "0"
-image_height: "0"
 image_attribution: "Raw Kristina, Health Me Up"
 image_attribution_link: ""
 video_url: ""

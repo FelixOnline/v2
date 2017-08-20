@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705151909-felix-16_0.jpg"
 image_caption: >
   Denise Gough as Harper and Andrew Garfield as Prior in Angels in America : Perestroika
-image_width: "768"
-image_height: "432"
 image_attribution: "Helen Maybanks"
 image_attribution_link: ""
 video_url: ""

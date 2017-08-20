@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262151-ams111-whole-foods-social-space-cooking.jpg"
 image_caption: >
   All that's missing is Gregg Wallace
-image_width: "3008"
-image_height: "2000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

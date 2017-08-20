@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502122322-jyg11-19om08cowley.jpg"
 image_caption: >
   Professor Cowley, potentially the busiest man in the world, pauses to use a blackboard. inset: the fandom is strong with this one
-image_width: "0"
-image_height: "0"
 image_attribution: "Oxford Mail"
 image_attribution_link: ""
 video_url: ""

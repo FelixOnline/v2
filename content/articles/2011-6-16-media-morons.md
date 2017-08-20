@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106162126-felix-libya.jpg"
 image_caption: >
 
-image_width: "1369"
-image_height: "857"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

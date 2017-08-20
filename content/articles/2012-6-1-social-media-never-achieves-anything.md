@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201206011351-mc4509-559518_police_protecting_the_demonstration.jpg"
 image_caption: >
   We’ve pre-emptively deployed police to Felix Online’s cyberoffices to control the surge of comments
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202232035-ams111-coco-chanel.jpg"
 image_caption: >
   Oh Coco, smoking isn’t cool, it just sort of looks it. Damn
-image_width: "2362"
-image_height: "3071"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

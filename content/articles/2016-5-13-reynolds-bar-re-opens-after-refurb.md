@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131050-felix-REYNOLDS.jpg"
 image_caption: >
 
-image_width: "2048"
-image_height: "1365"
 image_attribution: "Reynolds"
 image_attribution_link: ""
 video_url: ""

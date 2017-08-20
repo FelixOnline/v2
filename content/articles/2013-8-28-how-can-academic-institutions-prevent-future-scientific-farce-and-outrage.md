@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201308280949-jal08-the-ade-651.jpg"
 image_caption: >
   The ADE 651, the false detector sold by McCormick
-image_width: "0"
-image_height: "0"
 image_attribution: "SWNS"
 image_attribution_link: "http://www.mirror.co.uk/news/uk-news/british-businessman-sold-golf-ball-1750300"
 video_url: ""

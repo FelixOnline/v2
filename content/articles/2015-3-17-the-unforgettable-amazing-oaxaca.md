@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503171441-ync111-view-of-a-pool-formed-by-spring-at-hierve-el-agua,-with-range-of-mountains-in-background.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

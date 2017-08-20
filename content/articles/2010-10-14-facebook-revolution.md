@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010142043-ks607-facebook.jpg"
 image_caption: >
 
-image_width: "2268"
-image_height: "3080"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

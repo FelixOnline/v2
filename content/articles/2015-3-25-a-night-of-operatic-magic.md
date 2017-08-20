@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251324-ff712-16002973044_229642317d_b.jpg"
 image_caption: >
   Janai Brugger as Pamina and Anna Siminska as Queen of the Night in Die Zauberflöte
-image_width: "0"
-image_height: "0"
 image_attribution: "ROH. Mark Douet 2015"
 image_attribution_link: ""
 video_url: ""

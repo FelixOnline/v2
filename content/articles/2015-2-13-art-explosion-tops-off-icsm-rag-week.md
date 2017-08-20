@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502131450-bwh12-legally-blonde-icsm.jpg"
 image_caption: >
   Sarah Hough performs as Elle from the musical version of Legally Blonde
-image_width: "0"
-image_height: "0"
 image_attribution: "Facebook"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201001221314-ks607-football.jpg"
 image_caption: >
 
-image_width: "1800"
-image_height: "1437"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

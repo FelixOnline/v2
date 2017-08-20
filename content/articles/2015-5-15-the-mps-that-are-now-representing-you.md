@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505151332-cj914-screen-shot-2015-05-15-at-13.31.52.png"
 image_caption: >
   Top from left to right clockwise: Greg Hands, Mark Field, Victoria Borwick and Andy Slaughter
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

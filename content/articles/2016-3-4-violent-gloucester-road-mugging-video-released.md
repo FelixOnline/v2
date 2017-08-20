@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603041159-felix-11]police.jpg"
 image_caption: >
 
-image_width: "1824"
-image_height: "925"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

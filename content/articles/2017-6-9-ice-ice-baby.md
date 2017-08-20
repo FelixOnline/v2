@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706091702-ea3211-32628065710_a4d205d3a8_o.jpg"
 image_caption: >
 
-image_width: "2048"
-image_height: "1370"
 image_attribution: "Sheila Sund"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202231948-pk1811-394024_3407060380286_1383233672_3448256_2141413109_n.jpg"
 image_caption: >
 
-image_width: "960"
-image_height: "742"
 image_attribution: "Photos by Yilei Wu"
 image_attribution_link: ""
 video_url: ""

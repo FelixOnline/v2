@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511291707-ff712-katniss_archer.jpg"
 image_caption: >
   Jennifer Lawrence as Katniss Everdeen, in the wildly popular Hunger Games series
-image_width: "0"
-image_height: "0"
 image_attribution: "Lionsgate"
 image_attribution_link: ""
 video_url: ""

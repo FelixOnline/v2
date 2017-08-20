@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101202051-nm1010-youngsci.jpg"
 image_caption: >
 
-image_width: "720"
-image_height: "481"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

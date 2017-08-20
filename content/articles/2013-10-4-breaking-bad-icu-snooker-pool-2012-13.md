@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310040319-jal08-masters-pic-2.jpg"
 image_caption: >
   ICU Snooker & Pool
-image_width: "0"
-image_height: "0"
 image_attribution: "ICU Snooker & Pool"
 image_attribution_link: ""
 video_url: ""

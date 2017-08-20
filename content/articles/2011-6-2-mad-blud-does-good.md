@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106022037-felix-cary-crankson.jpg"
 image_caption: >
 
-image_width: "3444"
-image_height: "2832"
 image_attribution: "Jane Hobson"
 image_attribution_link: ""
 video_url: ""

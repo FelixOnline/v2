@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061115-felix-Denise Gough (Emma)&company in People,Places&Things by JohanPersson.jpg"
 image_caption: >
   Best Actress winner Denise Gough in her as a drug addict in People, Places and Things.
-image_width: "1500"
-image_height: "1000"
 image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""

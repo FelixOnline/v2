@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506050033-cj914-tower.jpg"
 image_caption: >
   Did you meet your partner at Imperial?
-image_width: "0"
-image_height: "0"
 image_attribution: "University of Minnesota"
 image_attribution_link: ""
 video_url: ""

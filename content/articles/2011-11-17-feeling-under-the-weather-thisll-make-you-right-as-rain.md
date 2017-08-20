@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172150-pk1811-weather_deakin_dec2006a.jpg"
 image_caption: >
   Yes, I do look insufferably smug here
-image_width: "800"
-image_height: "450"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

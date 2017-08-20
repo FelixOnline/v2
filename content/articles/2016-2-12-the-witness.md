@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121140-felix-thewitness2.jpg"
 image_caption: >
   Don’t understand a puzzle? Come back when you’ve explored some more.
-image_width: "1920"
-image_height: "1080"
 image_attribution: "Thekla Inc."
 image_attribution_link: ""
 video_url: ""

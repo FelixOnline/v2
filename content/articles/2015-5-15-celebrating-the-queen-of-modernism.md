@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505151358-cj914-woolf-works-royal-ballet-827-edward-watson,-akane-takada,-tristan-dyer.-©roh,-2015.-photographed-by-tristram-kenton-copy.jpg"
 image_caption: >
   A scene from The Royal Ballet’s Woolf Works
-image_width: "0"
-image_height: "0"
 image_attribution: "Tristram Kenton"
 image_attribution_link: ""
 video_url: ""

@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201604291109-felix-Women@Imperial_Web-Banner_2-(2)--tojpeg_1425484491963_x2.jpg"
 image_caption: >
   YAS QUEEN!
-image_width: "2158"
-image_height: "610"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

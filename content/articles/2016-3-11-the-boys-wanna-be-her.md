@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111201-felix-frida.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1317"
 image_attribution: "Nickolas Muray Photo Archives"
 image_attribution_link: ""
 video_url: ""

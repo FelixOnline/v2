@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605271039-felix-snow.jpg"
 image_caption: >
   Some of the finest TV this decade.
-image_width: "1280"
-image_height: "720"
 image_attribution: "Renegade Productions"
 image_attribution_link: ""
 video_url: ""

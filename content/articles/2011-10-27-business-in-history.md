@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110272327-felix-portrait_of_philip_ii_of_spain_by_sofonisba_anguissola_-_002b.jpg"
 image_caption: >
   Phillip II of Spain (1527 – 1598), the ‘Paper King’ of Spain:  an extreme example of  a micromanager
-image_width: "2480"
-image_height: "3051"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

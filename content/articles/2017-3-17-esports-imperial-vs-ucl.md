@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703171729-felix-thumbnail_DSC_0008.jpg"
 image_caption: >
   et that APM (actions per minute you noob!) just right
-image_width: "1280"
-image_height: "720"
 image_attribution: "Gotta gSaad Ahmed"
 image_attribution_link: ""
 video_url: ""

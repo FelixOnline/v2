@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506151230-ff712-09.jpg"
 image_caption: >
   Company SJ, Act Without Words II, Bryan Burroughs,
-image_width: "0"
-image_height: "0"
 image_attribution: "Hazel Coonagh"
 image_attribution_link: ""
 video_url: ""

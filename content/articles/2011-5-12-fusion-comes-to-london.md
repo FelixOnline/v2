@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105121922-felix-fusion-6.jpg"
 image_caption: >
 
-image_width: "600"
-image_height: "370"
 image_attribution: "Matt Grum"
 image_attribution_link: "http://www.mattgrum.com/"
 video_url: ""

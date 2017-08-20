@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021229-so515-25528872280_8ded0ab8a8_o.jpg"
 image_caption: >
 
-image_width: "3264"
-image_height: "2448"
 image_attribution: "Matt Brown"
 image_attribution_link: ""
 video_url: ""

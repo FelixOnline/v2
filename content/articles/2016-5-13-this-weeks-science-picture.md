@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131102-felix-6299658149_97dac0660e_o.jpg"
 image_caption: >
   The Rhino, a powerful symbol for the world when it comes to the conservation of species.
-image_width: "1920"
-image_height: "1280"
 image_attribution: "Paul Hudson"
 image_attribution_link: ""
 video_url: ""

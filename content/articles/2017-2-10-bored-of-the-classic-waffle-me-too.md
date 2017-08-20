@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702101622-felix-IMG_0736.jpg"
 image_caption: >
 
-image_width: "1236"
-image_height: "1236"
 image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
@@ -50,7 +48,6 @@ It wasn’t only their pure arrogance that put out the flame of curiosity deep i
 It was quite a spontaneous decision. I was sitting at the back of the lecture theatre feeling miserable for myself for sitting through yet another hour of the lecturer’s slow, droning voice, and how I deserved a nice breakfast to treat myself. The next moment I found myself on Duck and Waffle’s reservation page, desperately clicking on every single date for the next 2 months, in search for a slot at a reasonable time among all the “We apologise: there is no availability at that time.” and a handful of 6am slots (6am is NOT reasonable). I laughed at myself for putting in such effort, until the page loaded for the 20th time… Landed a table at 8:30am on a Tuesday morning a week away.
 
 That was like winning the jackpot.
-TODO: image from
 That morning, we dragged ourselves out of bed bright and early, rubbed our groggy, sleepy eyes in the commuter-packed tube journey to Liverpool Street, and stared up the shiny, glass building of the Heron Tower. We entered the door to the reception of Duck and Waffle and Sushi Samba, and was met by a hostess with an unexpectedly sloppy attitude, who took my name and pointed us to the right – a security guard.
 
 I discreetly rolled my eyes as the guard swiped his detector under my armpit. Yup, arrogance, check.
@@ -69,4 +66,3 @@ The duck and waffle was a simple construction of half a waffle with a duck leg c
 The caramelized banana waffle was a bit of an anti-climax as it didn’t have any of the wow-factor compared to the former dish. It was a simple dish of waffles with their house-made hazelnut and chocolate spread, smooth vanilla ice cream and a banana, split in half along its length, caramelized and skilfully balanced on top. Perhaps my expectations were too high – it was just waffles after all.
 
 Thirty minutes had barely passed and we were scraping the last crumbs off our plates. Duck and Waffle, despite the slightly unprofessional service, was an eye-opening dining experience and is definitely worth a visit. Food-wise, stick to the duck and waffle – quoting my lovely companion: “The restaurant is called that for a reason.”
-TODO: image from

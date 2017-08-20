@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102031954-nm1010-barrybar.jpg"
 image_caption: >
 
-image_width: "392"
-image_height: "600"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

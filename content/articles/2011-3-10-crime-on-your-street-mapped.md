@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103101922-nm1010-mapmapma.jpg"
 image_caption: >
   No crime at Imperial, except bike thefts of course...
-image_width: "1909"
-image_height: "1019"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

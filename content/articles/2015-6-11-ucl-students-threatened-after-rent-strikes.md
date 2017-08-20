@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506112311-cj914-ucl.jpg"
 image_caption: >
   Residents protesting outside Campbell House, where many students have withheld rent due to poor living conditions.
-image_width: "0"
-image_height: "0"
 image_attribution: "David Dahlborn"
 image_attribution_link: ""
 video_url: ""

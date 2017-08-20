@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104231426-felix-grand-theft-auto-2.jpeg"
 image_caption: >
   Ah, those were the days...
-image_width: "640"
-image_height: "480"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

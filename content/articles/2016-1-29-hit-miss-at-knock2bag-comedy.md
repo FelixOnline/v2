@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601290940-felix-Sam-Simmons-009.jpg"
 image_caption: >
   Foster’s award funny man Sam Simmons.
-image_width: "2060"
-image_height: "1236"
 image_attribution: "Death of a Sails-man"
 image_attribution_link: ""
 video_url: ""

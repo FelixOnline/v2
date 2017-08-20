@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703101435-felix-6883264549_91e06f3034_o.jpg"
 image_caption: >
 
-image_width: "4288"
-image_height: "2848"
 image_attribution: "Diego David Garcia"
 image_attribution_link: ""
 video_url: ""

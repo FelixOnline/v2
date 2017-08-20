@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201192130-felix-red-fruit-pulp659.jpg"
 image_caption: >
   Stock those cupboards with delicious goods, but remember to clear them out once in a while, yeah?
-image_width: "1800"
-image_height: "1197"
 image_attribution: "alegriphotos.com"
 image_attribution_link: "http://www.alegriphotos.com/Red_fruit_pulp-photo-e1e929efc76b2db80206486d55794125.html"
 video_url: ""

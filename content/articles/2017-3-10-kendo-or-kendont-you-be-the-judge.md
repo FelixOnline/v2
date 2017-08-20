@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703101446-felix-kendo3.jpg"
 image_caption: >
 
-image_width: "3414"
-image_height: "2907"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

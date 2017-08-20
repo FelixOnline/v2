@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611181539-felix-atcq epic records.jpg"
 image_caption: >
 
-image_width: "1000"
-image_height: "1000"
 image_attribution: "Epic records"
 image_attribution_link: ""
 video_url: ""

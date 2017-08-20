@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201501231848-jyg11-screen-shot-2015-01-23-at-18.47.10.png"
 image_caption: >
   Michael Malarkey wowing crowds Wilton's Music Hall
-image_width: "0"
-image_height: "0"
 image_attribution: "Mystic Sons"
 image_attribution_link: ""
 video_url: ""

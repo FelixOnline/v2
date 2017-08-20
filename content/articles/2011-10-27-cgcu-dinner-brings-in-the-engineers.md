@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110272111-felix-dsc_0550.jpg"
 image_caption: >
   CGCU President Jacky Kwan takes to the stage to engineer the night's proceedings
-image_width: "3106"
-image_height: "2071"
 image_attribution: "Alexander Karapetian"
 image_attribution_link: ""
 video_url: ""

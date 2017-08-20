@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201301180115-tna08-bento-done.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -51,7 +49,6 @@ I‘m picking up where my fellow Editor Sophia left off last week. If you’re s
 
 To the right is a bento I prepared some time ago, which I’ll deconstruct into its components below. This is what we’d call an Asian bento, mainly because the main carb component/staple here is rice. Of course, I’ve since been able to fit other grains in that slim Japanese bento box (namely couscous and quinoa) with other sides – the possibilities are endless.
 ## __Containers__
-TODO: image from
 First, a disclaimer: proper Japanese bento boxes like the one on the right are NOT mandatory., even though I find they offer the advantage of being easier to pack (the box I have is approx 15cm x 6.5cm x 8cm in size with both tiers stacked). That said if you already have a decent inexpensive leak-proof container, you’re good to go.
 
 Size does matter a bit (hah!) don’t be fooled by the small vessel, as packing the components in compactly means there’s less room for them to move and get messy during transit – so go smaller than usual. I find a 500-700ml capacity works best for most adults, but if you’ve got a hearty appetite (or your bento needs to be packed a little looser) then 900ml onwards works – please DON’T crush any poor salad leaves!

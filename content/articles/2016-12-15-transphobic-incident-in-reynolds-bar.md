@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612152344-felix-gen neutral.JPG"
 image_caption: >
 
-image_width: "3264"
-image_height: "2448"
 image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""

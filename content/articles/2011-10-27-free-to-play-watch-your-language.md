@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110280021-felix-loadsamoney.jpg"
 image_caption: >
   Harry Enfield demonstrating how to be a well-prepared F2P gamer
-image_width: "450"
-image_height: "429"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611111525-felix-Screen Shot 2016-11-11 at 15.25.07.png"
 image_caption: >
 
-image_width: "1801"
-image_height: "977"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -51,7 +49,6 @@ Ketamine comes in the form of a crystalline powder. When doing research for this
 When sniffing, please ensure all crystals are crushed. This will not only ensure that your nose doesn’t encounter searing pain this Friday, but will also relieve you of the torment of pissing out crystals. The pain which is only comparable to that feeling encountered when you realise Trump has won the election.
 ## Legality
 “On June 10th 2014, Ketamine changed from a class C to a class B controlled drug. This means that possession of Ketamine could now get you up to five years in jail and an unlimited fine, while supplying Ketamine to someone else could get you up to 14 years in jail and an unlimited fine.” This is official government policy. However, in real life, if caught with Ketamine for the first time you are more likely to simply receive a caution (or a reprimand if you’re under 18). Something akin to a slap on the wrist from the police.
-TODO: image from
 ## Some statistics
 According to Home Office’s “Drug Misuse: Findings from the 2014/15 Crime Survey for England and Wales – Second edition” (doesn’t it have a fancy name for something so dull?), Ketamine use amongst 16 to 24 years olds is decreasing. With “Proportion of adults (16 – 24) reporting use” standing at 1.6%. Whilst that may appear paltry I’d wager there’s a substantial number out there not reporting use – I mean why would you?
 ## Things to do when you’re high

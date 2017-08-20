@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010142044-nm1010-blonnnnd.jpg"
 image_caption: >
 
-image_width: "580"
-image_height: "326"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

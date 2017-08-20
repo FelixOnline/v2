@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411062103-cj914-arabic-night--sunny.jpg"
 image_caption: >
   Sunny the Shake Boy at Arabic Night.
-image_width: "0"
-image_height: "0"
 image_attribution: "Meilin Sancho"
 image_attribution_link: ""
 video_url: ""

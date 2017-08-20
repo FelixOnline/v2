@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203082058-ams111-dsc_0642-1.jpg"
 image_caption: >
   Security at the event was tight, but the guy in the hat still managed to wander in for the nibbles
-image_width: "2000"
-image_height: "1328"
 image_attribution: "Bob Xu"
 image_attribution_link: ""
 video_url: ""

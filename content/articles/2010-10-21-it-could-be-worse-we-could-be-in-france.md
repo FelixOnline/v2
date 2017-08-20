@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104201114-felix-manifestation_12_octobre_2010_orléans_-_place_du_martroi_-_1.jpg"
 image_caption: >
   Demonstration in Orléans
-image_width: "2272"
-image_height: "1704"
 image_attribution: "DC/Wikimedia Commons"
 image_attribution_link: "http://commons.wikimedia.org/wiki/User:DocteurCosmos"
 video_url: ""

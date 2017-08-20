@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106092131-felix-rafaels.jpg"
 image_caption: >
 
-image_width: "985"
-image_height: "3229"
 image_attribution: "Rafael Benitez-Cabral"
 image_attribution_link: ""
 video_url: ""
@@ -59,7 +57,6 @@ As she rushed down the dark staircase, hands laden with the remnants of yesterda
 Returning to the corridor to clean up the mess, she reached for the light switch – for now it was almost completely dark – and, as she flicked the switch, the light bulb above her head flickered violently for a second and then extinguished. The wiring in this old house was in tatters; every other day there was something short circuiting on Sophie, or at least it seemed that way.
 
 The ceilings in their Victorian house were unusually high, and Sophie was quite short for her age. Normally, changing a light bulb would have been in the realms of dad-territory, just like mowing the lawn or accompanying mum to the hospital had been. Circumstances, however, have the frustrating ability to change on you with very little notice. Dad was no longer here and so, once again, the burden would have to fall on her. There were no spare bulbs in the house and she couldn’t really be bothered to run to the shops to get more. She had already replaced two bulbs this week, and money was pretty tight these days anyway. Her father’s cheques might come as regular as clockwork, but they were small, and could barely meet the household’s monthly obligations, certainly not any frivolous expenses like reliable artificial illumination.
-TODO: image from
 Wandering into the kitchen, she walked over to the windowsill and turned the radio up again. Sophie liked the radio, it was comforting; a character always ready to entertain her when she was bored, a presence to accompany her when she was lonely. Her father, many years ago now, had explained how it worked. How electromagnetic waves could, invisibly, carry a voice, uttered hundreds of miles away, through the air to be decoded by this small box on the window sill. It was fascinating. And, moreover, how these radio waves were made of the same thing as light, so even in the darkest room one might be illuminated by the soft, comforting voice of a stranger.
 
 She looked up from the radio, staring outside at the deserted road. The streetlamps had begun to light now; the sodium glow turning the landscape monotonous and flat, like an old sepia photograph. Standing on her toes and straining her neck, she could just see the entrance to the dusty strip of land, supposedly a garden, shared by the estate. She could see, very faintly, a young child with its mother on the swing set, a rusting monument to the slow passage of time. It was barely useable these days, but despite its dilapidated frame, the two looked happy, together.

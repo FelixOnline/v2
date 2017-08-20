@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105091055-felix-cup-final-1.jpg"
 image_caption: >
 
-image_width: "4000"
-image_height: "3000"
 image_attribution: "James Brown"
 image_attribution_link: ""
 video_url: ""

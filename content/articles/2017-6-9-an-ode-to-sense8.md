@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706091711-ea3211-sense8_filmloverss.jpg"
 image_caption: >
   H8 to see you go
-image_width: "720"
-image_height: "400"
 image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""

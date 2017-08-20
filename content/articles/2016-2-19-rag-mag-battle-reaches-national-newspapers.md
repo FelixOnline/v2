@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191106-felix-Screen Shot 2016-02-18 at 14.47.02.png"
 image_caption: >
 
-image_width: "662"
-image_height: "805"
 image_attribution: "MailOnline"
 image_attribution_link: ""
 video_url: ""

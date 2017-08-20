@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201312060345-jal08-rcsu_sci_chall_34.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Benjamin Lester"
 image_attribution_link: "http://throughbenslens.co.uk/blog/rcsu-science-challenge-launch-event/"
 video_url: ""

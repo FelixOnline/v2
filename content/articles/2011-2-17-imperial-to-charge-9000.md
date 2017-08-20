@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102031930-ks607-higherfe.jpg"
 image_caption: >
 
-image_width: "3888"
-image_height: "2592"
 image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""

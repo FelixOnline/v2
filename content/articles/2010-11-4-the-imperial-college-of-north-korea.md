@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011041846-ma1307-PYONGYAN.jpg"
 image_caption: >
 
-image_width: "2999"
-image_height: "2249"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172257-felix-dsc_4631.jpg"
 image_caption: >
 
-image_width: "1410"
-image_height: "2070"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172030-pk1811-nvcenter.jpg"
 image_caption: >
   An individual nitrogen vacancy centre in diamond can be used as a Qubit
-image_width: "963"
-image_height: "1043"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

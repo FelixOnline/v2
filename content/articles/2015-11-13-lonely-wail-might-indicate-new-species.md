@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511131443-ygr12-12228050_917280278321639_1568759212_o.jpg"
 image_caption: >
   Shy and elusive beaked whale breaching the surface.
-image_width: "0"
-image_height: "0"
 image_attribution: "NOAA"
 image_attribution_link: ""
 video_url: ""

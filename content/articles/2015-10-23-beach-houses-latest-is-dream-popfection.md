@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510231251-ygr12-beachhouse.jpg"
 image_caption: >
   Dolls aren’t only for girls - fuck gender stereotypes
-image_width: "0"
-image_height: "0"
 image_attribution: "Bella Union"
 image_attribution_link: ""
 video_url: ""

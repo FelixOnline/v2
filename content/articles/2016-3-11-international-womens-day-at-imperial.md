@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603111120-felix-20160310_140432.jpg"
 image_caption: >
   Fun fact – there have been four female FELIX Editors so far.
-image_width: "5312"
-image_height: "2988"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""

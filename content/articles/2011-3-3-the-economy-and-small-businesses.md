@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103030547-ks607-smallbus.jpg"
 image_caption: >
   Spine Strength, one of the businesses Find Invest Grow has supported
-image_width: "580"
-image_height: "200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

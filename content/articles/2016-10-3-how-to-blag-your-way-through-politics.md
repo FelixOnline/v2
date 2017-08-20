@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610032046-felix-29726247376_386e18525f_o.jpg"
 image_caption: >
 
-image_width: "2341"
-image_height: "1989"
 image_attribution: "Ted Eytan"
 image_attribution_link: ""
 video_url: ""

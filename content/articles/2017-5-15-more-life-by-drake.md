@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705151823-felix-morelife.jpg"
 image_caption: >
 
-image_width: "1000"
-image_height: "1000"
 image_attribution: "Republic Records"
 image_attribution_link: ""
 video_url: ""

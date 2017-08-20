@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201305301310-tna08-st-mary-2.jpg"
 image_caption: >
   Dammit there’s ALWAYS a queue for the printer when you need it most
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

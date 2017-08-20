@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110202337-felix-qe2_02.jpg"
 image_caption: >
   QE2 – Could we be seeing the return of Quantitative Easing?
-image_width: "450"
-image_height: "293"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

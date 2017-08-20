@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703101307-felix-fire.jpg"
 image_caption: >
   Only 2% of people were able to save lives
-image_width: "1024"
-image_height: "681"
 image_attribution: "Peretz Partensky"
 image_attribution_link: ""
 video_url: ""

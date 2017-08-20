@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121152-felix-nonline.jpg"
 image_caption: >
   Beyoncé slaying, again.
-image_width: "786"
-image_height: "412"
 image_attribution: "Beyoncé Foundation Video"
 image_attribution_link: ""
 video_url: ""

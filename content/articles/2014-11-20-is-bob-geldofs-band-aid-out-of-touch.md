@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411202123-cj914-pay-band-aid-30-line-up.jpg"
 image_caption: >
   Be honest: how many of these can you name?
-image_width: "0"
-image_height: "0"
 image_attribution: "Band Aid Trust"
 image_attribution_link: ""
 video_url: ""

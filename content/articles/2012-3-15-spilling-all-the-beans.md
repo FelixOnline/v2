@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203151941-pk1811-james-sb-logo-2011.png"
 image_caption: >
   Full of beans – James Eder
-image_width: "1624"
-image_height: "1197"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

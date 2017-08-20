@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210182156-felix-b01myjqs_640_360.jpg"
 image_caption: >
   Hard body; bad skin
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

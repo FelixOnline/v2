@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503192344-cj914-election-sabbs.jpg"
 image_caption: >
   Next year’s Officer Trustees celebrate on the Metric stage
-image_width: "0"
-image_height: "0"
 image_attribution: "Ben Lester, ThroughBensLens.co.uk"
 image_attribution_link: ""
 video_url: ""

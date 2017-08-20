@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703171305-felix-Screen Shot 2017-03-17 at 13.04.16.png"
 image_caption: >
   Spot the sabbs
-image_width: "1343"
-image_height: "332"
 image_attribution: "the22club.org"
 image_attribution_link: ""
 video_url: ""

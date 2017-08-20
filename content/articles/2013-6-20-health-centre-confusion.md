@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201306210042-tna08-london_ambulance_at_abbey_road.jpg"
 image_caption: >
   Health Centre blame the College for not filling the gap in funding. College say they increased fundi
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

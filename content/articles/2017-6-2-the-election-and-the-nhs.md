@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706021624-felix-6127363514_d7529610b3_o (1).jpg"
 image_caption: >
 
-image_width: "3000"
-image_height: "1974"
 image_attribution: "Trades Union Congress"
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261203-felix-banana.JPG"
 image_caption: >
   Thick, white and deliciously sticky - just what the doctor ordered.
-image_width: "1600"
-image_height: "1200"
 image_attribution: "luxlife-blog.com"
 image_attribution_link: ""
 video_url: ""

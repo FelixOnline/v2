@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611111829-felix-2295062530_3fc16f3d20_o.jpg"
 image_caption: >
 
-image_width: "4000"
-image_height: "3000"
 image_attribution: "dockleaf"
 image_attribution_link: ""
 video_url: ""

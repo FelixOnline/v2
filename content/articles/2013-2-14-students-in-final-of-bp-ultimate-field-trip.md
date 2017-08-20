@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201302142114-tna08-imperial-civils-high-res-2.jpg"
 image_caption: >
   The Imperial students in the Final
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

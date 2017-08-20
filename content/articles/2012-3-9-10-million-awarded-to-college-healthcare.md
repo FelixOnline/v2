@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203090105-felix-icl_hammersmith_213.jpg"
 image_caption: >
   Hammersmith Hospital
-image_width: "5616"
-image_height: "3744"
 image_attribution: "Layton Thompson"
 image_attribution_link: ""
 video_url: ""

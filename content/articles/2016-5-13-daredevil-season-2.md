@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131126-felix-d3908d135867f947ab073fe5e9de918b12402d2088a95eb23cc652f5be9b7f3b_facebook.jpeg"
 image_caption: >
   There’s some new players in town! And they’re not feeling so friendly.
-image_width: "1080"
-image_height: "720"
 image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""

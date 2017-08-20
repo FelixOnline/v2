@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121130-felix-6142882297_250a80021c_o.jpg"
 image_caption: >
   If you think the echidna doesn’t look that weird, A) really? B) you clearly haven’t tried to have sex with it.
-image_width: "3800"
-image_height: "2535"
 image_attribution: "Wendy Eiby"
 image_attribution_link: ""
 video_url: ""

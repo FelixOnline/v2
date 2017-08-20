@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703171706-felix-13705860103_e571e37393_o.jpg"
 image_caption: >
 
-image_width: "5364"
-image_height: "3576"
 image_attribution: "Liliane Callegari"
 image_attribution_link: ""
 video_url: ""

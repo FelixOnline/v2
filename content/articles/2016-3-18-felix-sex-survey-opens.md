@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603181133-felix-20160317_182820.jpg"
 image_caption: >
   Ooh, user-friendly!
-image_width: "2988"
-image_height: "5312"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""

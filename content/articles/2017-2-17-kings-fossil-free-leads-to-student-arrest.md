@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702171424-felix-8266827474_c72cfd193b_o.jpg"
 image_caption: >
 
-image_width: "612"
-image_height: "612"
 image_attribution: "Loren Kerns"
 image_attribution_link: ""
 video_url: ""

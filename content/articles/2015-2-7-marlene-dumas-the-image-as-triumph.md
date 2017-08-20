@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502071910-ps3110-marlene-dumas-copya.jpg"
 image_caption: >
   The Widow, Marlene Dumas
-image_width: "0"
-image_height: "0"
 image_attribution: "Marlene Dumas"
 image_attribution_link: ""
 video_url: ""

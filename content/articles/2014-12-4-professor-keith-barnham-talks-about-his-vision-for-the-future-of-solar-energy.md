@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412042132-snb11-giant_photovoltaic_array.jpg"
 image_caption: >
   Will solar panels like this be on all our houses in the future?
-image_width: "0"
-image_height: "0"
 image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""

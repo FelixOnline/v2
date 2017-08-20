@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703171725-felix-5918001239_4b5fcdbdfe_o.jpg"
 image_caption: >
   Don’t you just love how cute baby lambs are? And tasty. Don’t forget how tasty
-image_width: "4928"
-image_height: "3264"
 image_attribution: "Noel Reynolds"
 image_attribution_link: ""
 video_url: ""

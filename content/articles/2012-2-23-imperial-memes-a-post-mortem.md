@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202231958-ams111-philosorapter.jpg"
 image_caption: >
   Does this caption help clear it up? Probably not
-image_width: "400"
-image_height: "400"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

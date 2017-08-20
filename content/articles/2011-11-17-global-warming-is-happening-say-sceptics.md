@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111172016-pk1811-two-baby-polar-bear-following-the-mother-bear-pictures.jpg"
 image_caption: >
   I didn’t commision this piece just so I could use a photo of baby polar bears. Honest
-image_width: "1280"
-image_height: "960"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

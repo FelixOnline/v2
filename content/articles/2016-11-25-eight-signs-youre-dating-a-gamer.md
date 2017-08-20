@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611251430-felix-2061329074_226f714dd6_o.jpg"
 image_caption: >
 
-image_width: "4320"
-image_height: "3600"
 image_attribution: "Don Hankins"
 image_attribution_link: ""
 video_url: ""

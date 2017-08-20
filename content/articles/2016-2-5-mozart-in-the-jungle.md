@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051244-felix-Mozart-in-the-Jungle-TV-Series-Cast-Poster-Wallpaper.jpg"
 image_caption: >
   Full of style and substance.
-image_width: "2880"
-image_height: "1800"
 image_attribution: "Amazon Prime"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101271812-ks607-ucassats.jpg"
 image_caption: >
 
-image_width: "3444"
-image_height: "2288"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

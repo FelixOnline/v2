@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201404291520-jal08-money-notes.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "https://www.ljmu.ac.uk/MKG_Global_Images/money-notes.jpg"
 image_attribution_link: "https://www.ljmu.ac.uk"
 video_url: ""

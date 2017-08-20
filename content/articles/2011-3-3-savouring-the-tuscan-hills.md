@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103031922-nm1010-tuscanhi.jpg"
 image_caption: >
 
-image_width: "871"
-image_height: "600"
 image_attribution: "flickr/jukkavuokko"
 image_attribution_link: "http://www.flickr.com/photos/jvuokko/455102866/in/set-72157594414352098"
 video_url: ""

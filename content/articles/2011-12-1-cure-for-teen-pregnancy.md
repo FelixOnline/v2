@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012052-ams111-the-twilight-saga-breaking-dawn-part-1-20110502003034631.jpg"
 image_caption: >
   “Edward, I’m pregnant...”   “Bella, I’m leaving you...”
-image_width: "1200"
-image_height: "800"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

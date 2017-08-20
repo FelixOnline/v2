@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162147-ams111-lobster_rolls.jpg"
 image_caption: >
   Grilled, spaghetti or sushi? The choice is yours!
-image_width: "500"
-image_height: "375"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

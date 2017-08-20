@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191220-felix-kanyetweet.jpg"
 image_caption: >
 
-image_width: "341"
-image_height: "89"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

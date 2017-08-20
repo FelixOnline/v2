@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201001141431-ks607-HotChip.jpg"
 image_caption: >
 
-image_width: "1500"
-image_height: "1047"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611251501-felix-Movember Collage.jpg"
 image_caption: >
 
-image_width: "4000"
-image_height: "1057"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

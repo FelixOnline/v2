@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201308070927-jal08-2013-08-02-img_1457.jpg"
 image_caption: >
   ... but leaving out punctuation is!
-image_width: "0"
-image_height: "0"
 image_attribution: "Oscar Webb"
 image_attribution_link: "http://www.huffingtonpost.co.uk/james-burley/protest-as-student-chalke_b_3697641.html"
 video_url: ""

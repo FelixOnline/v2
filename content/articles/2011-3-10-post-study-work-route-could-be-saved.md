@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103101929-ks607-internat.jpg"
 image_caption: >
   British universities would suffer financially from a drop in international student numbers
-image_width: "500"
-image_height: "333"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

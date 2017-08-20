@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706010129-im1413-3155.jpg"
 image_caption: >
   John Boyega and Sarah Greene in  Woyzeck. Photo: Manual Harlan
-image_width: "1920"
-image_height: "1152"
 image_attribution: "Photo: Manual Harlan"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603150943-felix-tunnel.jpg"
 image_caption: >
   Under decency rules, the referred to Snapchats cannot be shown here.
-image_width: "2158"
-image_height: "1270"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612161450-felix-through-the-wall-laavor-et-hakir-venice.jpg"
 image_caption: >
 
-image_width: "670"
-image_height: "377"
 image_attribution: "Venice Film Festival"
 image_attribution_link: ""
 video_url: ""

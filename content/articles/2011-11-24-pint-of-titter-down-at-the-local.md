@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242236-pk1811-pattiebrewster.jpeg"
 image_caption: >
   Patti Brewster. Can she really pull off mad-cat-lady?
-image_width: "960"
-image_height: "540"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122139-cac111-italian-police.jpg"
 image_caption: >
   Italian police have guns, but more importantly, style and swagger
-image_width: "400"
-image_height: "400"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

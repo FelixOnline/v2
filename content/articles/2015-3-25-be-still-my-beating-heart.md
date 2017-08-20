@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503251350-ff712-the-broken-heart-007_captioneda.jpg"
 image_caption: >
   Tom Stuart as Prophilus and Amy Morgan as Penthea in Caoline Steinbeis' production of The Broken Heart in the Sam Wanamaker Playhouse
-image_width: "0"
-image_height: "0"
 image_attribution: "Marc Brenner"
 image_attribution_link: ""
 video_url: ""

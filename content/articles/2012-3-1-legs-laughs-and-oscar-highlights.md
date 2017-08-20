@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203012236-ams111-pitt_jolie_oscars_2012.jpg"
 image_caption: >
   Guess who?
-image_width: "343"
-image_height: "632"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

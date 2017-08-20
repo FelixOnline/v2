@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101201921-ks607-thingsth.jpg"
 image_caption: >
 
-image_width: "2040"
-image_height: "1536"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

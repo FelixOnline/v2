@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101202044-ks607-timetabl.jpg"
 image_caption: >
 
-image_width: "2480"
-image_height: "2144"
 image_attribution: "Veronika McQuadeova"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506182215-jyg11-jpeg-1-abbi-greenland,-helena-lymbery-and-helen-goalen-photography-by-richard-davenport.jpg"
 image_caption: >
   Abbi Greenland, Helena Lymbery and Helen Goalen in We Want You to Watch at the National Theatre.
-image_width: "0"
-image_height: "0"
 image_attribution: "Richard Davenport"
 image_attribution_link: ""
 video_url: ""

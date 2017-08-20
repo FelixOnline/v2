@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205181705-felix-starcraft-2006proleaguefinals.jpg"
 image_caption: >
   The audience of the Starcraft: Brood War Proleague finals in Seoul, South Korea, 2006
-image_width: "0"
-image_height: "0"
 image_attribution: "Fighterforum"
 image_attribution_link: ""
 video_url: ""

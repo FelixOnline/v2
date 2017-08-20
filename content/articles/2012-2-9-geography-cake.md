@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092236-pk1811-dixrwmo-keik-tis-manoulas.jpg"
 image_caption: >
   The dark cake rises
-image_width: "622"
-image_height: "419"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

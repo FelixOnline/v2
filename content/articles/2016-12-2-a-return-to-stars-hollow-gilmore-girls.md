@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021504-felix-landscape-1454107170-gilmore2.jpg"
 image_caption: >
 
-image_width: "1600"
-image_height: "800"
 image_attribution: "The CW - Netflix"
 image_attribution_link: ""
 video_url: ""

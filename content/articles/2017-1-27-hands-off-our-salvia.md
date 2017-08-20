@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701272046-felix-Screen Shot 2017-01-27 at 20.44.24.png"
 image_caption: >
   Not sure why but we think this is relevant
-image_width: "2040"
-image_height: "1199"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

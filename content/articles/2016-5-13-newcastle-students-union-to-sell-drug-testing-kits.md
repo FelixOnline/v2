@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131052-felix-JS89131250.jpg"
 image_caption: >
 
-image_width: "615"
-image_height: "461"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

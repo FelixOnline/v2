@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702031608-felix-7988128448_233276e606_o.jpg"
 image_caption: >
 
-image_width: "755"
-image_height: "804"
 image_attribution: "Nesster"
 image_attribution_link: ""
 video_url: ""

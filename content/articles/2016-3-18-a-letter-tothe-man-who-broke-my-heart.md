@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603181142-felix-Stipula_fountain_pen.jpg"
 image_caption: >
   Fuck you, dickhead -Ed.
-image_width: "3072"
-image_height: "2050"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""

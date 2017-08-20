@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201405090306-jal08-111434-pills.walbridge-01.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "archive.dailycal.org"
 image_attribution_link: ""
 video_url: ""

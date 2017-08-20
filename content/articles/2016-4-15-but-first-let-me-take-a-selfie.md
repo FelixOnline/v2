@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201604151907-jc7413-excellences_perfections_instagram_update_8th_july_2014_itsjustdifferent1.jpg"
 image_caption: >
   Amalia Ulman, Excellences & Perfections (Instagram Update, 8th July 2014),(#itsjustdifferent)
-image_width: "3000"
-image_height: "3000"
 image_attribution: "Artist & Arcadia Missa"
 image_attribution_link: ""
 video_url: ""

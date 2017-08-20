@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101272030-nm1010-sushisus.jpg"
 image_caption: >
 
-image_width: "1000"
-image_height: "400"
 image_attribution: "flickr/ukaaa"
 image_attribution_link: "http://www.flickr.com/photos/ukaaa/"
 video_url: ""

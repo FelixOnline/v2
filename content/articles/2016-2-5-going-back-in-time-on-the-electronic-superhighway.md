@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051213-felix-Lorna-5.jpg"
 image_caption: >
   “Lorna” by Lynn Hershman Leeson.
-image_width: "2598"
-image_height: "1774"
 image_attribution: "Courtesy of Whitechapel Gallery."
 image_attribution_link: ""
 video_url: ""

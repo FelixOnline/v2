@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242114-pk1811-coral-endangered-bleaching-climate-change-1024x768.jpg"
 image_caption: >
   The IPCC sees coral bleaching as the greatest threat to the world’s reefs
-image_width: "1024"
-image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

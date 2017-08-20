@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702101525-felix-4972204415_26c96b2ec9_o.jpg"
 image_caption: >
 
-image_width: "4592"
-image_height: "3056"
 image_attribution: "musicientropy"
 image_attribution_link: ""
 video_url: ""

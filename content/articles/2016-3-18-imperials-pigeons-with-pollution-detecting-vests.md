@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603181131-felix-Screen Shot 2016-03-16 at 15.10.42.png"
 image_caption: >
   No, seriously, the pigeons are wearing vests.
-image_width: "931"
-image_height: "746"
 image_attribution: "Twitter/ @PigeonAir"
 image_attribution_link: ""
 video_url: ""

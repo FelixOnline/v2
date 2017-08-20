@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102111-pk1811-te_blr_2069.jpg"
 image_caption: >
   Mr Shooter’s Darjeeling Himalayan Steam Locomotive – in his own back garden
-image_width: "800"
-image_height: "532"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -69,7 +67,6 @@ Following the legislation in 1993 to privatise railways, Mr Shooter was asked by
 Having worked for so long with his management team on building up the company, Mr Shooter felt that they could run it as well as anyone else, and so decided to try and undertake a management buyout – a process that is very rarely successful.
 
 “It’s rather interesting as I was actually working for British Railways who were selling Chiltern Railways, so I had a conflict of interest. I had to do three things. Firstly, I had to continue running the railways in a proper, prompt and safe way. Secondly, on behalf of my employer, I had to sell the business – it was competitive and we had 13 companies bidding for it. I had to explain to prospective purchasers how the company worked, what they would need to do and the money they should pay for it. Thirdly, in my own time, I had to work out, with my team, how to buy it.”
-TODO: image from
 After formally winning the franchise in 1996, Mr Shooter and his team devised a long term plan for the company which is still on-going today.
 
 “We’ve grown the business faster than any of the other companies. We’ve done that because railways, like many other businesses, survive on their customers. You’ve got to find out what customers want and, importantly, what they’re prepared to pay for.”

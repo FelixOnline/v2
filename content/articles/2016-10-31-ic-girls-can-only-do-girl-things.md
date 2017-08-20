@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610311541-felix-27944964044_567186ba40_o.jpg"
 image_caption: >
 
-image_width: "3000"
-image_height: "2000"
 image_attribution: "Strelka Institute for Media, Architecture and Design Follow"
 image_attribution_link: ""
 video_url: ""

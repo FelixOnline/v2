@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262325-felix-phys_3.jpg"
 image_caption: >
   Members of staff are confident in the improvement of support for female staff
-image_width: "3394"
-image_height: "1980"
 image_attribution: "Jan Chlebik"
 image_attribution_link: ""
 video_url: ""

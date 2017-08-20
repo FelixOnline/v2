@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505151334-cj914-jo-johnson-mp.-008.jpg"
 image_caption: >
   Jo Johnson has a pro-EU stance and supports international collaboration in the sciences
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

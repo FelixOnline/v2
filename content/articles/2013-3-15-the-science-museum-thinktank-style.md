@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201303150105-tna08-image-4103-orig.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "thinktank.ac"
 image_attribution_link: ""
 video_url: ""

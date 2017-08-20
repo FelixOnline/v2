@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601131441-felix-lamb.jpg"
 image_caption: >
   Dr Lamb has previously written books on Genetics and the Queen's English
-image_width: "200"
-image_height: "226"
 image_attribution: "Queen's English Society"
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201309191319-jal08-ferrat-nasa-moon.jpg"
 image_caption: >
   A picture of Crater Bullialdus taken during the Apollo 16 mission
-image_width: "0"
-image_height: "0"
 image_attribution: "NASA.gov"
 image_attribution_link: "http://spaceflight.nasa.gov/gallery/images/apollo/apollo16/html/as16-120-19242.html"
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310182133-jal08-hrh-prince-harry.jpg"
 image_caption: >
   Prince Harry in the Centre for Blast Injury Studies
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: "http://www.imperial.ac.uk"
 video_url: ""

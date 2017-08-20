@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121208-felix-Imperial Winners.JPG"
 image_caption: >
   The whole gang.
-image_width: "1224"
-image_height: "1039"
 image_attribution: "Imperial Squash"
 image_attribution_link: ""
 video_url: ""

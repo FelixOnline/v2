@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012101-pk1811-600full-zola-jesus.jpg"
 image_caption: >
   If you squint, the bricks behind Zola Jesus almost look like forks
-image_width: "1917"
-image_height: "1150"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

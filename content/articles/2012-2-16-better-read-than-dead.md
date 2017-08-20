@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162104-cac111-mogworld3.jpg"
 image_caption: >
   Jim has clearly had better days...
-image_width: "1116"
-image_height: "1482"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

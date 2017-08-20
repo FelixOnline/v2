@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605201106-felix-5619954191_611ee1c86b_o.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1200"
 image_attribution: "John Lecster"
 image_attribution_link: ""
 video_url: ""

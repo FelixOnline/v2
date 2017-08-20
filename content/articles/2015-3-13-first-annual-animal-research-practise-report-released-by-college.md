@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503130121-cj914-animal-testing-1.jpg"
 image_caption: >
   An Imperial Fringe event was held in honour of the report’s release
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

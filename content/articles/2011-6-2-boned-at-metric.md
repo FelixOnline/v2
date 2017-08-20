@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106022053-felix-var-(1).jpg"
 image_caption: >
 
-image_width: "3189"
-image_height: "4016"
 image_attribution: "Luke Tomlin"
 image_attribution_link: ""
 video_url: ""

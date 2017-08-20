@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605131130-felix-langeskov.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1080"
 image_attribution: "Crows Crows Crows"
 image_attribution_link: ""
 video_url: ""

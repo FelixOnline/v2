@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201306140042-tna08-jez.jpeg"
 image_caption: >
   RCSU with their Jezebel
-image_width: "0"
-image_height: "0"
 image_attribution: "RCSU"
 image_attribution_link: ""
 video_url: ""

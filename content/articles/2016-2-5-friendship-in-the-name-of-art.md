@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051251-felix-photosocheader4.jpg"
 image_caption: >
   Aw, friends.
-image_width: "900"
-image_height: "448"
 image_attribution: "Photosoc"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201704272058-ff712-21.jpg"
 image_caption: >
   Barbican/Toneelgroep Amsterdam, Obsession, Halina Reijn, Jude Law and Gijs Scholten van Ascha
-image_width: "4724"
-image_height: "3149"
 image_attribution: "Jan Versweyveld"
 image_attribution_link: ""
 video_url: ""

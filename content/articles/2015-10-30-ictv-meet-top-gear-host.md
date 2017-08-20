@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510301446-ygr12-screen-shot-2015-10-28-at-23.30.30.png"
 image_caption: >
   Evans attempting a kind of Blair Witch - James Bond edition type thing
-image_width: "0"
-image_height: "0"
 image_attribution: "ICTV"
 image_attribution_link: ""
 video_url: ""

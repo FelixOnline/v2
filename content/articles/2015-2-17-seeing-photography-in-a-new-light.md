@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502171637-ps3110-leicester-square,-1896,-paul-martin.jpg"
 image_caption: >
   Leicester Square, 1896, Paul Martin, The Royal Photographic Society Collection.
-image_width: "0"
-image_height: "0"
 image_attribution: "National Media Museum, Bradford / SSPL"
 image_attribution_link: ""
 video_url: ""

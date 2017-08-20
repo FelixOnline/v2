@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201306140006-tna08-stephen-richardson.jpg"
 image_caption: >
   Stephen Richardson, Deputy Rector of Imperial College London
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

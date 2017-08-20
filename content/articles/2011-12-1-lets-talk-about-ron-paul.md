@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012119-pk1811-ron-paul-2012-campaign.jpg"
 image_caption: >
   Would you have known if we had just put a picture of a random guy that wasn’t Ron Paul?
-image_width: "947"
-image_height: "567"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

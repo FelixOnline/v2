@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032036-pk1811-flcl-cartoon-image-character-31000.jpg"
 image_caption: >
   Do you brandish your sword at me old chap?
-image_width: "1024"
-image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105121734-felix-colloseum-in-rome.jpg"
 image_caption: >
   The Romans earthquake-proofed this, right?
-image_width: "2160"
-image_height: "1440"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

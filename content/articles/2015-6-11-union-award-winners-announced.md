@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506112318-cj914-unionawards.jpg"
 image_caption: >
   Michael Chung receives one of his awards at last year’s ceremony.
-image_width: "0"
-image_height: "0"
 image_attribution: "Through Bens Lens"
 image_attribution_link: ""
 video_url: ""

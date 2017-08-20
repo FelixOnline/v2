@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605271102-felix-Fear-the-Walking-Dead-calvin-1940x1293.jpg"
 image_caption: >
   Oh hey, an Imperial student after finishing their exam.
-image_width: "1940"
-image_height: "1293"
 image_attribution: "AMC"
 image_attribution_link: ""
 video_url: ""

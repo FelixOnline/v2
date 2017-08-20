@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261204-felix-IMG_3429.jpg"
 image_caption: >
   Look at that. Don’t you just want it in your mouth?
-image_width: "2443"
-image_height: "2562"
 image_attribution: "Sanjay Bhattacharya"
 image_attribution_link: ""
 video_url: ""

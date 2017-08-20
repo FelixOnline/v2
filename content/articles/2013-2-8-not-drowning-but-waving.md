@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
-image_width: ""
-image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -60,4 +58,3 @@ The effect of changing halves was instantly noticeable and Imperial started to d
 The full time whistle blew leaving Imperial with mixed emotions; 2 points dropped seemed more appropriate than one point gained. Ultimately the draw was enough to maintain top spot in the league at the half way stage of the league and may yet prove to be vital point come the end of the season.
 
 Garner was voted man of the match, increasing his lead at the top of Imperial’s very own Fantasy Football but Jones made a very promising debut and, despite the result, the team put in one of the better performances of the season. The journey back is ongoing, and the team are expected back shortly before the summer ball.
-TODO: image from

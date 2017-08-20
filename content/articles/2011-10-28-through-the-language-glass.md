@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110280106-felix-cuba-trinidad-caribbean-sea-playa-ancon-clear-water-fish-1-my.jpg"
 image_caption: >
   Ancient Greeks called the sea “black” because they had no word for blue
-image_width: "1840"
-image_height: "1232"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012029-pk1811-tumblr_lpsnb208td1qcbt4so1_1280.jpg"
 image_caption: >
   Well, he’s only human
-image_width: "1280"
-image_height: "780"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

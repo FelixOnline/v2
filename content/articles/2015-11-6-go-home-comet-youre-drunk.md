@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511061359-ygr12-c2014_q2.jpg"
 image_caption: >
   Look at that green glowy beauty.
-image_width: "0"
-image_height: "0"
 image_attribution: "Wikimedia"
 image_attribution_link: ""
 video_url: ""

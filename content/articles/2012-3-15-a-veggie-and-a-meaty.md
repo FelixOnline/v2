@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152055-ig711-1761_1_380.jpg"
 image_caption: >
 
-image_width: "380"
-image_height: "380"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210112159-felix-players.jpeg"
 image_caption: >
   Global celebrity Alan Soltani. Known as the “Tiger Woods of RPS”. Hopefully for the right reasons
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

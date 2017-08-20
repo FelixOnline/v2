@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602121133-felix-12695610_10156453692850394_802890096_o.jpg"
 image_caption: >
 
-image_width: "2048"
-image_height: "1365"
 image_attribution: "Natasha Khaleeq"
 image_attribution_link: ""
 video_url: ""

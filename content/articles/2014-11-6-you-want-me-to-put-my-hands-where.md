@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411062113-cj914-class-pic.jpg"
 image_caption: >
   Diego coaching a new student through a straddle.
-image_width: "0"
-image_height: "0"
 image_attribution: "Facebook"
 image_attribution_link: ""
 video_url: ""

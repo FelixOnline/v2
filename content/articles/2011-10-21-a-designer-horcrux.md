@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110211121-ak6309-beymen_2011_ss_002.jpg"
 image_caption: >
   Handbags – probably the best place to keep your sleeping pills
-image_width: "1276"
-image_height: "900"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706021613-felix-33331160870_f0a3690f0e_o.jpg"
 image_caption: >
 
-image_width: "3258"
-image_height: "2444"
 image_attribution: "Jay Allen"
 image_attribution_link: ""
 video_url: ""

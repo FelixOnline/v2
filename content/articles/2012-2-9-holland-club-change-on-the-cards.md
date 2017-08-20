@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092239-felix-hollandclub-4475.jpg"
 image_caption: >
   The Holland Club is named after Sir Thomas Holland, former Rector of Imperial College
-image_width: "433"
-image_height: "549"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411242034-ps3110-women_lunch_talking.jpg"
 image_caption: >
   "No dahhhling, I didn't say I was leaving him because he was going vegetarian. I just told him he wa
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

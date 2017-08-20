@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605061048-felix-squirrel ale.jpg"
 image_caption: >
   Like me, you can enjoy classy beverages like this.
-image_width: "770"
-image_height: "650"
 image_attribution: "Brewdog"
 image_attribution_link: ""
 video_url: ""

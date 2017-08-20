@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201403271149-jal08-evelyn-gardens.jpg"
 image_caption: >
   Evelyn Gardens - One year to go?
-image_width: "0"
-image_height: "0"
 image_attribution: "LondonSchool.com"
 image_attribution_link: "http://www.londonschool.com/fileadmin/uploads/lse/images/Accommodation/Evelyn%20Gardens.jpg"
 video_url: ""

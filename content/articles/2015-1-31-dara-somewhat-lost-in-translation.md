@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201501311850-ff712-4.-nicholas-khan-(mir-khalil),-esh-alladi-(gvernor-khan),-sargon-yelda-(aurangzeb),-simon-nagra-(mullah-farooq),-rudi-dharmalingham-(danishmand)_credit-ellie-kurttz.jpg"
 image_caption: >
   Nicholas Khan (Mir Khalil), Esh Alladi (Gvernor Khan), Sargon Yelda (Aurangzeb), Simon Nagra (Mullah Farooq), Rudi Dharmalingham (Danishmand) in Dara
-image_width: "0"
-image_height: "0"
 image_attribution: "Ellie Kurttz"
 image_attribution_link: ""
 video_url: ""

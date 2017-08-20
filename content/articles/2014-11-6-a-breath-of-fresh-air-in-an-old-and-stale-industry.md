@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411062019-cj914-tesla_model_s.jpg"
 image_caption: >
   Electric car enthusiasts appearing ecstatic at the unveiling of the first Model S at the Tesla facto
-image_width: "0"
-image_height: "0"
 image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162224-sjw209-dsc_6844.jpg"
 image_caption: >
   The unveiling of the new Exhibition Road, not lobbying in action
-image_width: "4288"
-image_height: "2848"
 image_attribution: "Jonathan Peek"
 image_attribution_link: ""
 video_url: ""

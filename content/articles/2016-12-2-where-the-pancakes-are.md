@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021519-felix-IMG_0529.jpg"
 image_caption: >
 
-image_width: "2039"
-image_height: "2039"
 image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
@@ -53,7 +51,6 @@ While waiting for the moment of birth, I spotted the owner, Patricia’s stylish
 Patricia lives a life surrounded by all sorts of pancakes. The large, steaming Dutch pancakes in the local pancake house during her childhood in Holland. Living off crepes on the streets of Paris as a poor student. The fluffy American pancakes during her eight years in California as a film producer, striving in the then-booming independent film industry of the 90’s. Now her own inventions in her first brick-and-mortar restaurant. All after a gentle nudge of courage, experimentation and her days serving thousands of pancakes at various festivals, which she humorously described as her “military training”.
 
 
-TODO: image from
 Her strong, determined, gaze from her light blue eyes was softened by a motherly affection as she continued to describe her dreams of creating a nutritious, wholesome dining experience which this ancient, universally loved dish fuses with modern food trends. In this room, pancakes are not reserved for breakfast, but also for lunch, dinner, a full meal or a decadent snack.
 Her menu was not comprised of your usual, superficial, artery-clogging, syrup-soaked stacks, but an honest menu with high-quality, local ingredients, inspiration from different cultures, and most importantly, generous heaps of TLC. Behind it were sprinkles of pancake-related stories, happy memories serving waffles at school fairs and love for her two children.
 
@@ -62,4 +59,3 @@ Midway through our conversation, my Dutch Baby arrived on a hot, cast iron skill
 My second visit was definitely not the last. My third visit was on a bright Saturday afternoon, a mere ten days later. This time I tried something unexpected – the Australian. This was not as pancake-y as the rest, with it being a stack of corn fritters, with crushed avocado, crème fraiche, preserved lemon and a mixed leaf salad on top. The fritters were hot with a slightly crunchy edge, a good kick of saltiness and a citrusy hint from the lemon. The whole combination was light and satisfying. I was tempted to encore the berries pancake from my first visit – two thick, fluffy buttermilk pancakes with a sweet elderflower and forest berry compote, cream, crushed meringue and roasted nuts.
 
 That, was where the pancakes were.
-TODO: image from

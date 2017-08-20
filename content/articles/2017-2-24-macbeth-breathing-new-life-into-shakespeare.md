@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702241432-felix-ShakespeareYA-160.JPG"
 image_caption: >
   Madeline Appiah in rehearsal as Lady Macbeth
-image_width: "3000"
-image_height: "2000"
 image_attribution: "Ellie Kurtz"
 image_attribution_link: ""
 video_url: ""

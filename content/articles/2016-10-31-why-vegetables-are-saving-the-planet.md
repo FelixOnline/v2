@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610311606-felix-salad-498203_1280.jpg"
 image_caption: >
 
-image_width: "1280"
-image_height: "853"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

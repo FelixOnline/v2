@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242108-pk1811-hurricane_katrina_august_28_2005_nasa.jpg"
 image_caption: >
   Hurricane Katrina is often used as an example of extreme weather
-image_width: "3100"
-image_height: "4000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

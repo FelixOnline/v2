@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201303010003-tna08-2011-05-16-spaghetti.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "http://i-cdn.apartmenttherapy.com/uimages/kitchen/2011-05-16-Spaghetti.jpg"
 image_attribution_link: ""
 video_url: ""
@@ -52,7 +50,6 @@ Since he has moved out of London, we have continued the tradition of substantial
 The Pasta Mondays rules are as follows: the meal must be cheap, simple and easy to cook (preferably all made in less that half an hour – the exception to this rule is lasagne, which is worth taking your time over), involve at least one type of vegetable (one of your 5 a day!)and exciting (no sauce from a jar!). We often try to devise healthy twists of traditional pasta dishes or take inspiration from pasta recipes found in our favourite cookbooks. I have included some of our creations to help inspire your own Pasta Mondays (or Tuesdays, or Wednesdays...).
 
 Cauliflower and Broccoli Cheese
-TODO: image from
 This is a healthy and quick twist on the traditional macaroni cheese. Penne or fusilli will work equally well. – Serves 2
 
 250g pasta
@@ -73,7 +70,6 @@ Preheat the grill to medium. Drain the pasta, reserving a little of the cooking 
 
 Pour the contents of the pan into a flat oven proof dish, then scatter over the cheddar and a grind of pepper. Put the dish under the grill until the cheddar is crispy and golden. Serve at the table in the dish and enjoy!
 ## REAL Pesto
-TODO: image from
 I never believed this was worth making until I did one Pasta Monday – not only is it easy, but it tastes SO much better than pesto from a jar (and I like pesto from a jar!) There are many variations on this classic recipe – I have included two below that we have tried and loved.
 
 We use a mini chopper/food processor to make ours, but you can still easily make a more ‘deconstructed’ pesto by finely chopping the ingredients by hand.

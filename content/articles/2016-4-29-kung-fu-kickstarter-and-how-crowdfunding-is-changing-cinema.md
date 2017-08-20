@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201604291138-felix-140313-kickstarter-screen-jb-1534p_405a41ea74f3acd3868abacbc5c32033.nbcnews-fp-1240-520.jpg"
 image_caption: >
 
-image_width: "1240"
-image_height: "520"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

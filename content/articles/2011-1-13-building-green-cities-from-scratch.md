@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201101132009-ks607-masdar.jpg"
 image_caption: >
 
-image_width: "1100"
-image_height: "733"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

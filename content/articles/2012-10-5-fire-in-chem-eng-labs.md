@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210051659-felix-fire-story2.jpg"
 image_caption: >
   The view from the steps of the Royal Albert Hall on Tuesday 2nd October
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

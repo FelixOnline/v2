@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310200259-jal08-pullout_careers_university-of-birmingham--008.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "University of Birmingham"
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010282042-ks607-Mudmadne.jpg"
 image_caption: >
   Gotta be careful when you visit the elephants...
-image_width: "2592"
-image_height: "1944"
 image_attribution: "Christopher Richardson"
 image_attribution_link: ""
 video_url: ""

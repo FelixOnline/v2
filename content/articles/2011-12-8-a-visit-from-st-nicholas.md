@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082128-pk1811-portal-2-security-camera-1.jpg"
 image_caption: >
 
-image_width: "495"
-image_height: "279"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

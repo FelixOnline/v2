@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105262010-felix-servicedesk.jpg"
 image_caption: >
 
-image_width: "536"
-image_height: "709"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

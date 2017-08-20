@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102271218-ks607-marijuan.jpg"
 image_caption: >
 
-image_width: "661"
-image_height: "453"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

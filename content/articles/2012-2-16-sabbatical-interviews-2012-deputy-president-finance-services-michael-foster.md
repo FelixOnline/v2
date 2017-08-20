@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162353-sjw209-mfoster.jpg"
 image_caption: >
   Deputy President (Finance & Services) Michael Foster
-image_width: "3681"
-image_height: "2898"
 image_attribution: "Matthew Colvin"
 image_attribution_link: ""
 video_url: ""

@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203121347-cb908-elections3.png"
 image_caption: >
   Prepare to see some funky stuff going on at the stats page
-image_width: "3255"
-image_height: "1241"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

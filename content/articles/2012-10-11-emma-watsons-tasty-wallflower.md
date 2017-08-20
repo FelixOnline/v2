@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210112203-felix-perks-of-being-a-wallflower-set-visit-report-07rgb.jpg"
 image_caption: >
   Ron and Harry got hotter
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

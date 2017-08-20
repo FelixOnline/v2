@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201512041513-ygr12-cw-mosque-cake-.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "ISoc"
 image_attribution_link: ""
 video_url: ""

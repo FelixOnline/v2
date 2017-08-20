@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010282017-ma1307-Zombie.jpg"
 image_caption: >
   Damn student protestors...
-image_width: "1280"
-image_height: "485"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

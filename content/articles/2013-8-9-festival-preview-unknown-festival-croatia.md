@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201308092050-jal08-screen-shot-2013-08-09-at-8.50.26-pm.png"
 image_caption: >
   Not even the organisers know what it is...
-image_width: "0"
-image_height: "0"
 image_attribution: "UknownCroatia"
 image_attribution_link: "http://www.unknowncroatia.com"
 video_url: ""

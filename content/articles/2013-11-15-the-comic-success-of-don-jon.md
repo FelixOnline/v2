@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201311150131-felix-film_don_jon.jpeg"
 image_caption: >
   What's with all the pictures? He must be a photographer...
-image_width: "0"
-image_height: "0"
 image_attribution: "experience12"
 image_attribution_link: ""
 video_url: ""

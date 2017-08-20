@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506182124-jyg11-inside-out.jpg"
 image_caption: >
   The only caption I could think of was ‘toasty’. You try doing better.
-image_width: "0"
-image_height: "0"
 image_attribution: "Disney/Pixar/Pete Docter"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201104182008-felix-mindy_lee_02.jpg"
 image_caption: >
   Mindy Lee has curated the Blyth Gallery for six years
-image_width: "2076"
-image_height: "1257"
 image_attribution: "Neville Miles/Imperial College London"
 image_attribution_link: ""
 video_url: ""

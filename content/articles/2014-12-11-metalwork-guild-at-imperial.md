@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412112126-cj914-blacksmith.jpg"
 image_caption: >
   This is basically blacksmithing. We promise.
-image_width: "0"
-image_height: "0"
 image_attribution: "Lord of the Rings"
 image_attribution_link: ""
 video_url: ""

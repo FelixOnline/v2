@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201012171128-ks607-artsofth.jpg"
 image_caption: >
 
-image_width: "640"
-image_height: "277"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201401170329-jal08-2_20140109_1367144925.jpg"
 image_caption: >
   The Niagara Falls rendered stationary by the cold front of the Polar Vortex
-image_width: "0"
-image_height: "0"
 image_attribution: "andhrawisheshgallery.blogspot.co.uk "
 image_attribution_link: "http://andhrawisheshgallery.blogspot.co.uk"
 video_url: ""

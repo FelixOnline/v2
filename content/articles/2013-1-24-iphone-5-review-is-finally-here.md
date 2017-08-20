@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201301242117-mc4509-iphone5-19-pin-rendering-credit-blackpool-creative-11392050.jpg"
 image_caption: >
    Thin, light and powerful, just like what the Apple iPhone 5 should be
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

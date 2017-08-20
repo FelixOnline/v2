@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201002011641-rsp07-nosmokin.jpg"
 image_caption: >
 
-image_width: "1380"
-image_height: "1377"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

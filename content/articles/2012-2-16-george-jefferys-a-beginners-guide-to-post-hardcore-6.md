@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162201-pk1811-reuben-blog-photo.png"
 image_caption: >
 
-image_width: "402"
-image_height: "403"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

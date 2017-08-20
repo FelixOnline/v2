@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201702171511-felix-20th_century_women_still.jpg"
 image_caption: >
   Annette Bening is outstanding as Dorothea in Mike Mills’ exploration of motherhood
-image_width: "1296"
-image_height: "730"
 image_attribution: "Alamy"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701271734-felix-30549920024_e4133e1eea_k.jpg"
 image_caption: >
    Blasted surver issues again
-image_width: "2048"
-image_height: "1282"
 image_attribution: "Skinny Casual Lover"
 image_attribution_link: ""
 video_url: ""

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411241239-ps3110-tig-1.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "hoto: Morten Tyldum/Lionsgate"
 image_attribution_link: ""
 video_url: ""

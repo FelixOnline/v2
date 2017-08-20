@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502071915-ps3110-the-painter-2015-courtesy-the-artist--copya.jpg"
 image_caption: >
   Dor Guez, Frame from The Painter, 2015.
-image_width: "0"
-image_height: "0"
 image_attribution: "Dor Guez"
 image_attribution_link: ""
 video_url: ""

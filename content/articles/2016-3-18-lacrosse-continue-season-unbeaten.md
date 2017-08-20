@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603181206-felix-image4.JPG"
 image_caption: >
   They’re an unstoppable force.
-image_width: "1080"
-image_height: "1080"
 image_attribution: "Imperial Lacrosse"
 image_attribution_link: ""
 video_url: ""

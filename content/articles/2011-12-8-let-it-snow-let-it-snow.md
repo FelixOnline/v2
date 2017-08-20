@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082040-pk1811-snowflake_-_microphotograph_by_artgeek.jpg"
 image_caption: >
   A magnified snow crystal
-image_width: "2004"
-image_height: "1854"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

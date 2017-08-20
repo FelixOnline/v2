@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205251947-mc4509-money-100s.jpg"
 image_caption: >
   Is that all you’ve got? I’ll raise you by $20!
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

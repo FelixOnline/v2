@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706091742-ea3211-Picture2.png"
 image_caption: >
 
-image_width: "939"
-image_height: "625"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -76,4 +74,3 @@ Overall, bronze medals went to Women’s Captain Alex Mundell for 800m and our m
 
 In the final standings, Imperial managed a respectable 4th place out of all the competing universities and colleges, behind UCL, King’s and LSE.
 Special thanks go to Imperial’s Matt Douthwaite and Shiv Patel for all their hard work and dedication in organising the championships.
-TODO: image from

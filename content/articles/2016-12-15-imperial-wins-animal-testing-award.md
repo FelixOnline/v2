@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612152359-felix-8430280933_a62df278b1_o.jpg"
 image_caption: >
 
-image_width: "650"
-image_height: "434"
 image_attribution: "La Tarte au Citron"
 image_attribution_link: ""
 video_url: ""

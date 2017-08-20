@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191228-felix-12299265_10153656536750351_8710459785759499218_n.jpg"
 image_caption: >
   The whole gang.
-image_width: "960"
-image_height: "720"
 image_attribution: "ICURFC"
 image_attribution_link: ""
 video_url: ""

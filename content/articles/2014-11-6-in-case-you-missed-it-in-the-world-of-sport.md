@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411061928-cj914-js50045375.jpg"
 image_caption: >
   We won't know until December if Brendan Rodgers' Champions League gamble pays off
-image_width: "0"
-image_height: "0"
 image_attribution: "Colin Lane"
 image_attribution_link: ""
 video_url: ""

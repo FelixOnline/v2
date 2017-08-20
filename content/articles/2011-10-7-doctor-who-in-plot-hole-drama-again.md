@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110071343-felix-impossible-astronaut.jpg"
 image_caption: >
   Was this series up to scratch, or does it need regenerating?
-image_width: "946"
-image_height: "532"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

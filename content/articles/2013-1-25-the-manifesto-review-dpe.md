@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201301250202-tna08-doug-white-background.jpg"
 image_caption: >
   Doug Hunt, Deputy President (Education)
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -55,7 +53,6 @@ From being DPE I have learnt how to use Microsoft Outlook extensively, organise 
 The one thing I wasn’t expecting though was the large number of long meetings I had to attend so there is student representation and thenational Quality Assurance Agency is happy (they decide whether an institution can award degrees or not). However it is crucial that a student representative is present at these meetings and I do get a better oversight of what is taking place across the College.
 
 My manifesto review is on the right and hopefully you are glad you voted for me and not RON.
-TODO: image from
 ## “Increase SOLE participation rates across the college and make sure the results are acted upon.”
 Autumn SOLE got a 67% overall turnout across the College, which is the highest it’s been in years. Departmental staff across the College are taking SOLE more seriously now, than they did a few years ago and in every department they push you to fill it in.
 

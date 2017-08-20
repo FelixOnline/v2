@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205251959-mc4509-oren+ambarchi+686503546_d4578670e7.jpg"
 image_caption: >
   Big O. doing what he does best
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012110-felix-ucas_logo_rgb300.png"
 image_caption: >
 
-image_width: "1772"
-image_height: "924"
 image_attribution: "UCAS"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411202205-cj914-ultimate-frisbee-copy.jpg"
 image_caption: >
   If you look carefully, there is actually a person waiting to catch the frisbee.
-image_width: "0"
-image_height: "0"
 image_attribution: "Impetus"
 image_attribution_link: ""
 video_url: ""

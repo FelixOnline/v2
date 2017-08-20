@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601290957-felix-rick_and_morty_s02_still.jpg"
 image_caption: >
   Let’s get Schwifty!
-image_width: "1296"
-image_height: "730"
 image_attribution: "Adult Swim"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111102158-pk1811-pizza.jpg"
 image_caption: >
   Perfect Pizza... indeed!
-image_width: "3000"
-image_height: "2250"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

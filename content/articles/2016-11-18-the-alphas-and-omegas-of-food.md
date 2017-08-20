@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611181447-felix-sardines-1489630_1920.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1280"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

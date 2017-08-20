@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602051209-felix-12422219_10156431989565394_1913776019_o.jpg"
 image_caption: >
 
-image_width: "1440"
-image_height: "960"
 image_attribution: "NASA Goddard Space Flight Center"
 image_attribution_link: ""
 video_url: ""

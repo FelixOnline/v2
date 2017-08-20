@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201301102214-csw09-13-061011.jpg"
 image_caption: >
   Steve Jobs died following complications relating to a pancreatic neuroendocrine tumour. Apple have s
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

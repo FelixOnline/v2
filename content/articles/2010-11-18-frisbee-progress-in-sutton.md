@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011182105-ks607-frisbee.jpg"
 image_caption: >
 
-image_width: "720"
-image_height: "478"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

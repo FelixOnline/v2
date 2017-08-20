@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110211607-sjw209-2032247.jpg"
 image_caption: >
   NO TIFFFAAAAAA!
-image_width: "309"
-image_height: "212"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

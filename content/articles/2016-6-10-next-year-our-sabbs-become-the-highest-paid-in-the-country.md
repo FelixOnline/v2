@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606101022-felix-dolla.jpg"
 image_caption: >
   Dolla dolla bills y'all.
-image_width: "960"
-image_height: "640"
 image_attribution: "icu"
 image_attribution_link: ""
 video_url: ""

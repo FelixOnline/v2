@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502051322-kmw13-maxresdefault.jpg"
 image_caption: >
   The rivalry between England and Wales is fierce and steeped in tradition
-image_width: "0"
-image_height: "0"
 image_attribution: "RBS 6 Nations"
 image_attribution_link: ""
 video_url: ""

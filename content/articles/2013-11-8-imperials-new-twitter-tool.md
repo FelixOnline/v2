@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201311080910-felix-screen-shot-2013-11-08-at-00.26.22.png"
 image_caption: >
   How influential is Imperial?
-image_width: "0"
-image_height: "0"
 image_attribution: "Twitter"
 image_attribution_link: ""
 video_url: ""

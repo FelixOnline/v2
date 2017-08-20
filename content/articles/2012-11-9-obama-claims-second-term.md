@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201211091214-tna08-lolbama.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -69,4 +67,3 @@ As stated by the Federal Election Commission, 413 people have filed a Statement 
 Gary Johnson, former Governor of New Mexico, is running for the Libertarian Party, following his initial unsuccessful campaignfor the Republican nomination, centred on balancing the budget by reducing government spending by 43%.
 
 The Green Party has nominated Jill Stein, a physician from Massachusetts. One of her main proposals is a “Green New Deal”, aiming to create public sector jobs in the clean energy sector to reduce unemployment and boost the economy. She has been endorsed, amongst others, by the infamous political critic and linguist Noam Chomsky.
-TODO: image from

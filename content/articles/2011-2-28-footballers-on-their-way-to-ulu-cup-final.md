@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102282045-dr710-football.jpg"
 image_caption: >
 
-image_width: "2848"
-image_height: "4288"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

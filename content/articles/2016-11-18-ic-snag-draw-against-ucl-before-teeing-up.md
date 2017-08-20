@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611181705-felix-Pub Golf.jpg"
 image_caption: >
 
-image_width: "1369"
-image_height: "770"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

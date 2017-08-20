@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201301951-felix-spank-alley.jpg"
 image_caption: >
 
-image_width: "3456"
-image_height: "2304"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

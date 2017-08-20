@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505151337-cj914-whitehallriots.jpg"
 image_caption: >
   Thousands took to the streets in peaceful anti-austerity demonstrations, but riots persisted
-image_width: "0"
-image_height: "0"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""

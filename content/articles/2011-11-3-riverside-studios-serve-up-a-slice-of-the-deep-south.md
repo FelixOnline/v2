@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032156-felix-cilla.jpg"
 image_caption: >
   Not the Blind Date you might be thinking of
-image_width: "3000"
-image_height: "1950"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

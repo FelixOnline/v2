@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602211251-jc7413-encounter_1.jpg"
 image_caption: >
   Simon McBurney in The Encounter.
-image_width: "875"
-image_height: "582"
 image_attribution: "Barbican Centre"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010142053-nm1010-zuckerbe.jpg"
 image_caption: >
   Justin Timberlake is actually quite good in The Social Network. Who would have thought?
-image_width: "2710"
-image_height: "1800"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602011702-cet13-savages1.jpg"
 image_caption: >
   Look at all these people who are going to be late for work.
-image_width: "2551"
-image_height: "1435"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201003171554-lh106-Hair1.jpg"
 image_caption: >
 
-image_width: "720"
-image_height: "655"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

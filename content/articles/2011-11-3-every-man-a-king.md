@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032110-pk1811-anonymous1.jpg"
 image_caption: >
   This guy has obviously been silenced by a 1 dollar bill. Quite a bit cheap, really.
-image_width: "588"
-image_height: "462"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -55,7 +53,6 @@ Comrades, we have been cheated! Still nowadays, every worker in this country pay
 
 Thus, why shouldn’t the bankers in London, who are but leeches that build their wealth simply by moving money around, be taxed more? Why shouldn’t the bankers, who caused the global financial meltdown in 2008, rescued by taxpayer money, and paying out huge bonus, be taxed more?
  Furthermore, when health care industries make a mistake, they apologise! When engineering industry causes trouble, they apologise! When construction industry causes an accident, they apologize! Then, how come the financial industry, which caused the global financial meltdown and, thus, many of our sufferings, do not even apologise for their reckless behaviour?
-TODO: image from
 And instead, they ask for help from the central bank, for the government to bail them out, for the taxpayers who they despise to pay for their own stupidity. They claimed that if we didn’t help them, the Great Depression would happen again; those words came from the same ones not so long ago claimed economic cycles had disappeared! And us, poor idiots, just agreed to help them. And so we have to face huge inflation as a consequence of our help, and while our money becomes less worthy as time passed by, they still maintain their bonuses and outrageous earnings as if nothing had happened!
 
 Why, my middle class friends, do we have to stand for such arrogance, such villainy, such depravation? How can we defend any longer a country where 1% of the population controls 99% of the wealth? Why do our own leaders kneel down in front of the City? Something is rotten! Something is wrong! That is why, my dear friends, I urge you to stand up, say no, and go and occupy Wall Street, go and occupy St Paul’s Cathedral, go and occupy the Washington monument! Go and occupy and protest, before each and every one of us disappears one by one.

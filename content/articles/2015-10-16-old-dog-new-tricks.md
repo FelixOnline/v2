@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201510161556-ygr12-twitter_town_hall-dorsey_obama.png"
 image_caption: >
   Pete Souza
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

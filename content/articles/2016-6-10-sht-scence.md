@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606101026-felix-21234616215_fa138e0d78_o.jpg"
 image_caption: >
 
-image_width: "6016"
-image_height: "4016"
 image_attribution: "Joseph Bylund"
 image_attribution_link: ""
 video_url: ""

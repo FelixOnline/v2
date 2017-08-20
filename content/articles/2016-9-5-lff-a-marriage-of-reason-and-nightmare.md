@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201609052240-ff712-201603181155-felix-6.0.0 (1).jpg"
 image_caption: >
   Tom Hiddleston as the slippery Dr Laing, luxuriating in his brutalist high-rise
-image_width: "1600"
-image_height: "900"
 image_attribution: "Allstar/High-Rise PR"
 image_attribution_link: ""
 video_url: ""

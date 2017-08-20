@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201404071354-jal08-arts-spaces.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Pezo von Ellrichshausen"
 image_attribution_link: ""
 video_url: ""

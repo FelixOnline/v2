@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201310250112-felix-nanowrimo.png"
 image_caption: >
   NaNoWriMo: National Novel Writing Month
-image_width: "0"
-image_height: "0"
 image_attribution: "NaNoWriMo"
 image_attribution_link: ""
 video_url: ""

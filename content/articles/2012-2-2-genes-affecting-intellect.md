@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202021933-ams111-a-student-working-in-the--007.jpg"
 image_caption: >
   We're all guilty of pulling all nighters...
-image_width: "460"
-image_height: "276"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

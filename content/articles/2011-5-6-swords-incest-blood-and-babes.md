@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105061357-felix-game-of-thrones-3.jpg"
 image_caption: >
 
-image_width: "1652"
-image_height: "2483"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

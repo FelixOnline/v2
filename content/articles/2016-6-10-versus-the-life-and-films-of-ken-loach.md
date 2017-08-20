@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606101031-felix-versus_still_2.jpg"
 image_caption: >
 
-image_width: "928"
-image_height: "523"
 image_attribution: "Dogwoof"
 image_attribution_link: ""
 video_url: ""

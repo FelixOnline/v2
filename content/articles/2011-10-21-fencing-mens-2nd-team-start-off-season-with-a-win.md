@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110211113-ak6309-dsc_5484website.jpg"
 image_caption: >
   Cut, thrust, parry, riposte...oh wait, there’s two lights. Referee needed
-image_width: "4288"
-image_height: "2848"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

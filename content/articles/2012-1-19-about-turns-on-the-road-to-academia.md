@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201191945-ams111-screen-shot-2012-01-18-at-00.14.57.jpg"
 image_caption: >
   Career routes following the completion of a PhD, as published in the 2010 Royal Society report
-image_width: "742"
-image_height: "582"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

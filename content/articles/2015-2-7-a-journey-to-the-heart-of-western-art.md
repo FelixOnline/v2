@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502071902-ps3110-key-209-copya.jpg"
 image_caption: >
   Peter Paul Rubens, Tiger, Lion and Leopard Hunt, 1616
-image_width: "0"
-image_height: "0"
 image_attribution: "MBA, Rennes, Dist. RMN-Grand Palais / Adelaide Beaudoin"
 image_attribution_link: ""
 video_url: ""

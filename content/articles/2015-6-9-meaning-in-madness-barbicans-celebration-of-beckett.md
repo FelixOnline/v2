@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506091256-ff712-02.jpg"
 image_caption: >
   Sydney Theatre Company, Waiting for Godot, Hugo Weaving, Philip Quast, Richard Roxburgh and Luke Mullins
-image_width: "0"
-image_height: "0"
 image_attribution: "Lisa Tomasetti"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106232055-felix-animal-wallpapers-lion-tamer-ate-.1920x1080.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1080"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

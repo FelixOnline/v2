@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106021908-felix-ukcrmi.jpg"
 image_caption: >
 
-image_width: "700"
-image_height: "240"
 image_attribution: "Justin Piperger Photography/Wadsworth3d"
 image_attribution_link: ""
 video_url: ""

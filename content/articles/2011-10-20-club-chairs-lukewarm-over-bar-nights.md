@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110202027-felix-union-bar.jpg"
 image_caption: >
   Some club chairs want to call time on the new regulations
-image_width: "4368"
-image_height: "2912"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011182055-nm1010-indiancu.jpg"
 image_caption: >
 
-image_width: "855"
-image_height: "570"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

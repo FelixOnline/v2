@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703101442-felix-17038521_184091845416850_9017397598970681265_o.jpg"
 image_caption: >
 
-image_width: "2048"
-image_height: "1371"
 image_attribution: "Valle Varo"
 image_attribution_link: ""
 video_url: ""
@@ -46,7 +44,6 @@ video_url: ""
 The first thing that comes to mind when you mention pole dancing is pretty obvious. The sexual connotation it carries will remain for as long as clubs continue to offer such services, but there is a sporting aspect to it as well that, though rather well-known as well, is almost certainly not the first thing one would associate with pole dancing. That pole dancing is indeed a form of sport is advocated by plenty of pole instructors and societies out there, Imperial’s very own Pole and Aerial Society being one of them, and after covering the London Pole Varsity 2017 for felix’s sport section last Saturday, I must say that I completely agree with the notion. Considering that my knowledge and ability to appreciate anything with the word ‘dance’ in it, pole or not, is comparable to that of a potato, combined with pole dancing being almost non-existent in my home country (hence I’d never seen a pole dance prior to last Saturday),  it must’ve been mighty impressive. Good news IC Pole and Aerial: it was indeed!
 
 First up on the day was a guest performance by IC’s very own Melissa Lee, starting her routine with some dance moves before proceeding to pull off some otherworldly acrobatics on the pole. The beginners’ category, in my opinion hardly ‘beginner’ at all considering the athleticism in the contestants’ moves, commenced afterwards and was followed by a lunch break. Head judge Lauren Elise kicked off proceedings after the break with a guest performance that had the crowd delighted and myself dumbfounded, at one point in her routine pulling off an immensely challenging move that I can describe as nothing short of incredible.
-TODO: image from
 The intermediate category took place after, the athleticism in the contestants’ moves a step up from the beginners’. After that, the next category was preceded by a guest performance as before, this time by Renata “Renee” Sprenger, before moving on to the highlight of the day: the advanced category. Already, I could scarcely imagine how anyone could top the beginners’ fitness and strength, let alone the intermediates’, but the contestants showed me exactly how it’s done. With some truly challenging moves, like doing full splits while hanging upside down, and spinning while suspended upside down and holding onto the pole solely by the strength of their thighs no less, it was then that I mentally confirmed with myself that pole dancing is, in fact, a sport. This was as much a display of fitness, raw power and strength as it was artistic.
 In any case, group performances by UCL and IC followed, before the prize-giving session brought the event to an end. Imperial’s Alina Paduraru, Hayley Leung and Brandon Tsang all took 2nd place in the beginners, intermediate and advanced category respectively (a joint 2nd in Alina’s case), while UCL finished overall champions. Your cue, Memeperial.
 

@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201504051350-km2612-tumblr_mz1ze5vzzv1rk7b35o1_1280.jpg"
 image_caption: >
   Pierre Boulez as conductor of the BBC Symphony Orchestra
-image_width: "0"
-image_height: "0"
 image_attribution: "BBC Radio 3"
 image_attribution_link: ""
 video_url: ""

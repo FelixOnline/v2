@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010212019-ks607-eatprayt.jpg"
 image_caption: >
   Eat Pray Throwup...
-image_width: "3000"
-image_height: "2000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

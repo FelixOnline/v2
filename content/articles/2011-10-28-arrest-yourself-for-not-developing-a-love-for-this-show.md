@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110281427-felix-19944_arrested-development.jpg"
 image_caption: >
   Eccentric isn’t the word...
-image_width: "470"
-image_height: "500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

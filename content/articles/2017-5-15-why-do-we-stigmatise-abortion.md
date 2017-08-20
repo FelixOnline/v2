@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201705151942-felix-Screen Shot 2017-05-15 at 19.42.28.png"
 image_caption: >
 
-image_width: "2196"
-image_height: "1163"
 image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""

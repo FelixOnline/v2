@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203152000-ig711-hell-by-gilbert--george-001-1.jpg"
 image_caption: >
 
-image_width: "400"
-image_height: "476"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

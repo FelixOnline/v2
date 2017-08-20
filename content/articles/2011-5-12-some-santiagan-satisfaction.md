@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201105121924-felix-ricardo-baeza-yates.jpg"
 image_caption: >
 
-image_width: "500"
-image_height: "333"
 image_attribution: "Ricardo Baeza-Yates"
 image_attribution_link: ""
 video_url: ""

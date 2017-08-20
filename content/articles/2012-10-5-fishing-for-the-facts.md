@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210051256-nn1209-1-020.jpg"
 image_caption: >
   National papers would have you think these could soon be a rarity, but not is all as it seems...
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612091549-felix-2_CITIZENFOUR.jpg"
 image_caption: >
 
-image_width: "1920"
-image_height: "1080"
 image_attribution: "HBO Films"
 image_attribution_link: ""
 video_url: ""

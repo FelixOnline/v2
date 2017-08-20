@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201207161233-mc4509-lord-norton-msp_79121.jpeg"
 image_caption: >
   Lord Norton
-image_width: "0"
-image_height: "0"
 image_attribution: "http://nortonview.files.wordpress.com/"
 image_attribution_link: ""
 video_url: ""
@@ -61,7 +59,6 @@ LN: They can engage with us quite easily in the same way they can with MPs, in a
 __AM: It could be argued that at the end of the day when you do outreach through committee work and the other work that you have mentioned, you are preaching and reaching only the converted. How is the House of Lords collectively trying to move beyond the usual suspects, as it were?__
 
 LN: That is a challenge because you can only do so much proactively but you can’t force people to take an interest in the Lords. It is a more pervasive problem with Parliament – it’s not just the House of Lords. So we disseminate information as widely as possible. We try to be fairly proactive, for example through the “Peers in Schools” programme, so we are going into schools to explain what we’re doing, and so far we’ve reached about fifty thousand. And of course we are reaching teachers who can then continue disseminating the information. So we are trying to engage with people. We are now trying to reach out more generally at the university level, so that people who weren’t aware of what we’re doing are now more aware [of both what we are doing] and the fact that they can have some engagement. We’re as keen to hear from them as anyone else, [and help them to make] their views known to all.
-TODO: image from
 __AM: And that can be through email or social networks…__
 
 LN: …emails, they can write, yes, because there is what peers do individually, and there is what the House does collectively – in terms of using social media – to make clear what is going on, to keep people informed. Setting off email alerts, all sorts of things to keep people abreast of our activities.

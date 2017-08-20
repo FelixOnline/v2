@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102241921-nm1010-bigbangb.jpg"
 image_caption: >
 
-image_width: "1583"
-image_height: "1024"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

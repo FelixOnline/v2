@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201306132339-tna08-de_lighthouse.jpg"
 image_caption: >
   Oh God no! The UrbEx itch is back! Probably need some tetanus jabs after though....
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -57,7 +55,6 @@ _“At night you can see the lights sometimes from a passing tanker or trawler. 
 Visually, the game is stunning. The island is mapped out in great detail, but due to the lack of mechanics or general crazy things going on as with most games, it will quite happily run at 1080p on a graphics card that wouldn’t normally be able to handle it. The range of environments and textures presented on such a small map puts some recently released major titles to shame.
  In addition to this, the soundtrack fits perfectly and complements both the visuals and the monologues very well. It is available to stream or buy from the official website, which is a very good idea on the part of the developers – the soundtrack would be worth the cost of a normal album.
  In order to immerse yourself in the game more, I’d recommend playing it with 3D vision not only on, but turned up at least halfway. It really accentuates the feelings created by the game (at least, up until the bridge of your nose starts hurting because nVidia didn’t think about people who wear glasses), although there are points where it is a good idea to turn it off. This is pretty much only if you go underwater, however, so it isn’t a big deal and does little to damage the immersion.
-TODO: image from
 _“Donnelly’s book had not been taken out from the library since 1974. I decided it would never be missed as I slipped it under my coat and avoided the librarian’s gaze on the way out. If the subject matter is obscure, the writer’s literary style is even more so, it is not the text of a stable or trustworthy reporter. Perhaps it is fitting that my only companion in these last days should be a stolen book written by a dying man.”_
 
 The story, of course, is the main part of Dear Esther. It is about an unnamed man talking to a woman named Esther, most likely his late wife. The letters and a few cutscenes heavily imply that Esther was killed in a car accident by a man mentioned later on in the game, Paul. The narrator often also mentions a cartographer named Donnelly, who charted the island in the past, originally coming to the island to find details of a hermit told to have lived here but being unsuccessful in his task and so moving on to write about the island instead.

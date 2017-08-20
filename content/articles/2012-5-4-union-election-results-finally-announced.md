@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205040226-felix-sabbsphoto.jpg"
 image_caption: >
   Next year's Sabbatical team
-image_width: "0"
-image_height: "0"
 image_attribution: "Matt Colvin"
 image_attribution_link: ""
 video_url: ""

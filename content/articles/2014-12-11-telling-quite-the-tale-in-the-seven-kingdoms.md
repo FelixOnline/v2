@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412112042-cj914-2746943-ramsay-snow-and-lord-whitehill.png"
 image_caption: >
   They don't look it, but the Red Wedding has scarred them... scarred us all...
-image_width: "0"
-image_height: "0"
 image_attribution: "gamespot"
 image_attribution_link: ""
 video_url: ""

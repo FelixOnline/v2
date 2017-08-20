@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610141201-so515-27841264756_3fcc9ae4e3_o.jpg"
 image_caption: >
 
-image_width: "3000"
-image_height: "2000"
 image_attribution: "free stocks."
 image_attribution_link: ""
 video_url: ""

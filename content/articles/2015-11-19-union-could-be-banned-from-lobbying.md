@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511192225-ygr12-edited_council.jpg"
 image_caption: >
   It's as fun as it looks.
-image_width: "0"
-image_height: "0"
 image_attribution: "Cem Hurrell"
 image_attribution_link: ""
 video_url: ""

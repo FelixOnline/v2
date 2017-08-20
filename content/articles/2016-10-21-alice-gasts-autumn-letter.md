@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610211111-so515-Aghast.jpg"
 image_caption: >
   You Can Call me Al
-image_width: "2158"
-image_height: "1270"
 image_attribution: "Imperial College"
 image_attribution_link: ""
 video_url: ""

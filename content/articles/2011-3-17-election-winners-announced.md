@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103172023-ks607-new.jpg"
 image_caption: >
   Next year's Sabb team, will they deliver?
-image_width: "2464"
-image_height: "1648"
 image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201305291828-tna08-stained-glass.jpg"
 image_caption: >
   A stained glass window of primes. Pretty if nothing else...
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

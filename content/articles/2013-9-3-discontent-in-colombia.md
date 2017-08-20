@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201309031041-jal08-discontent-in-columbia.png"
 image_caption: >
   Protest against subsidies
-image_width: "0"
-image_height: "0"
 image_attribution: "www.aworldchaos.wordpress.com"
 image_attribution_link: "http://www.aworldchaos.wordpress.com"
 video_url: ""

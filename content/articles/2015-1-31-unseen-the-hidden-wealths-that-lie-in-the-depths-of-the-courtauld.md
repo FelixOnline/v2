@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201501311919-ff712-valentin-klotz---view-of-grave-on-the-mass-after-a-siege-1675.-the-courtauld-gallerya.jpg"
 image_caption: >
   Valentin Klotz, View of grave on the Mass after a siege, 1675.
-image_width: "0"
-image_height: "0"
 image_attribution: "The Courtauld Gallery"
 image_attribution_link: ""
 video_url: ""

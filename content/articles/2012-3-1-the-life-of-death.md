@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203012129-cac111-398471_372303862789382_100000293150658_1381444_1727893044_n.jpg"
 image_caption: >
   He whipped out his katana...it was super effective
-image_width: "960"
-image_height: "638"
 image_attribution: "Keane Ritikos"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605271038-felix-Screen Shot 2016-05-25 at 19.36.14.png"
 image_caption: >
   Look familiar?
-image_width: "930"
-image_height: "992"
 image_attribution: "Twitter / @UKLabour"
 image_attribution_link: ""
 video_url: ""

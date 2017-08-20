@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411241256-ps3110-moto360paul-website.jpg"
 image_caption: >
   The Moto 360 supports Android Wear meaning it's default interface is very customisable
-image_width: "0"
-image_height: "0"
 image_attribution: "Photo: Paul Balaji"
 image_attribution_link: ""
 video_url: ""

@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032027-sjw209-137-back-to-the-future.jpg"
 image_caption: >
   Fuel up on plutonium, ‘cos we’re heading into the future!
-image_width: "1024"
-image_height: "1024"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -66,7 +64,6 @@ But the most notable difference is that Felix Games is pretty much limited to, w
 Similarly the tongue-in-cheek appraisal of an early Cooking Mama game looks a little naïve now that the Japanese megabrand is now the international standard for cooking training, and whose all-speaking-measuring-and-advising digital utensils can now teach everything from Indian Curry to Jamaican Chilli Sauce. And we’d rather chat to Cooking Mama over Harmony the un-road-killable hamster any day.
 
 In a world where jobs are given based on skill-set points from completed Skillset Schemes, where even dating matches are made using a comparison of compatibility of Personal Interest points, where any car can be turned to Sim-mode and replicate the bucking and judders of real racing from the comfort of one’s garage, it is hard to imagine a time when scores and levels, friend-challenges and international Cooking Mama tournaments were not part of the background hum of life.
-TODO: image from
 In fact, it was reading through the old issues that first made us realise that a little something may have been lost along the way. We are not saying that we here at Felix don’t like the ability to go outside with our iVisors and learn about the difference between nimbus and cumulus clouds before competing with our friends at differentiating them, or wear the visors in select National Parks where we can experience our own Nintendo-designed Zelda adventures to find hulking beasts born from apple’s magnificent glasses. Nor are we even arguing against the more left-field devices such as the DelayGasm digital condom which trains unfortunate men to, well, you know (see our anonymously written import review last week).
 
 But reading the old accounts, of curling up with a pad and playing through games using only our suspension of disbelief, it is hard not to feel some nostalgia for this old time of simple escapism. Of using rudimentary graphics and gameplay as a prompt for unlimited, indescribable mental adventures. And of sometimes not wanting to have our points tallied up and our friend’s Skillset Rank compared. Just playing for the sake of play, to share stories and not leader boards. Like toys, virtual escapes, button-powered stories or – in a word – entertainment.

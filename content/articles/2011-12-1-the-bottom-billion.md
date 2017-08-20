@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112021604-felix-bigbottombillion.jpg"
 image_caption: >
 
-image_width: "326"
-image_height: "498"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

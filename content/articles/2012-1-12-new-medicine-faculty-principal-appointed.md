@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201122236-felix-prof-kelleher.jpg"
 image_caption: >
   Professor Dermot Kelleher
-image_width: "300"
-image_height: "313"
 image_attribution: "Trinity College Dublin"
 image_attribution_link: ""
 video_url: ""

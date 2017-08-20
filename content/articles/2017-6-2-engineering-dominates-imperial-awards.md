@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706021443-felix-18518019_1290491971019297_1314277974552387098_o.jpg"
 image_caption: >
   Most of the award winners were from the Faculty of Engineering
-image_width: "2048"
-image_height: "1365"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""

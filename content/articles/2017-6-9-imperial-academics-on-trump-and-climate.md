@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706091648-ea3211-5440384453_67fef2d0ee_o.jpg"
 image_caption: >
   Fuck this guy
-image_width: "4752"
-image_height: "3168"
 image_attribution: "Gage Skidmore"
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201412041958-cj914-steel-helmet-shomei-tomatsu.jpeg"
 image_caption: >
   Steel Helmet with Skull Bone Fused by Atomic Bomb, Nagasaki 1963
-image_width: "0"
-image_height: "0"
 image_attribution: "Shomei Tomatsu"
 image_attribution_link: ""
 video_url: ""

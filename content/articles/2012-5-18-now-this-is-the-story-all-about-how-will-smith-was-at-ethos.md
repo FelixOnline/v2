@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205181013-felix-ethos-sports-hall-1-690x430-copy.jpg"
 image_caption: >
   Obviously, things didn't pan out this way
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

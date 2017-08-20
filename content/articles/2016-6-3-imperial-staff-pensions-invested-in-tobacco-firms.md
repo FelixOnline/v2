@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606031029-felix-smoking.jpg"
 image_caption: >
 
-image_width: "2988"
-image_height: "5312"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""

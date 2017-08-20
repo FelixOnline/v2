@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502171654-ps3110-finborough-arms-largea.jpg"
 image_caption: >
   The Finborough Theatre, Earls Court
-image_width: "0"
-image_height: "0"
 image_attribution: "Matt Freestone"
 image_attribution_link: ""
 video_url: ""

@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010072254-ks607-PlantSci.jpg"
 image_caption: >
   The Union claims that Plant Sciences research will suffer
-image_width: "4288"
-image_height: "2848"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

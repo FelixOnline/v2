@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110141044-felix-front-page-photo_3.jpg"
 image_caption: >
   University College London's new proposals have seen support from some academics at Imperial
-image_width: "3112"
-image_height: "2559"
 image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110140032-felix-berlin.jpg"
 image_caption: >
   "Ich bin ein Berliner."
-image_width: "500"
-image_height: "374"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

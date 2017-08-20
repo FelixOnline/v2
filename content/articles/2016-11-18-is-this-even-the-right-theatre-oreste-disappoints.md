@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201611181511-felix-161105_0379-oreste-Edit-adj-©-ROH.-Photo-by-Clive-Barda-1024x6381.jpg"
 image_caption: >
 
-image_width: "1024"
-image_height: "638"
 image_attribution: "Clive Barda"
 image_attribution_link: ""
 video_url: ""

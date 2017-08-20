@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106022119-felix-zurich2.jpg"
 image_caption: >
 
-image_width: "1241"
-image_height: "648"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

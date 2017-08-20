@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203012216-ams111-censoredtransparentwordcloudonblack2.jpg"
 image_caption: >
 
-image_width: "2000"
-image_height: "2363"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -57,4 +55,3 @@ So thank you, everyone, who took the time to share this information with us. We 
 So sit back and enjoy, and I hope you find this report as funny but informative to read as we found to write.
 
 _Read the results of the survey in their entirety from pages 25 to 32 in [this week's issue of Felix](http://felixonline.co.uk/archive/IC_2012/2012_1513_A.pdf). Alternatively, just [stare at the pretty infographics](http://felixonline.co.uk/img/upload/201203021028-felix-sexsurvey2012.jpg)._
-TODO: image from

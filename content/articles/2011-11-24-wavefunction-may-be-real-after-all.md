@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111242036-pk1811-cover_proposal_prevedel.jpg"
 image_caption: >
   The interpretation of the wavefunction has been static for 85 years
-image_width: "4928"
-image_height: "3264"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201601290847-felix-businessschool.jpg"
 image_caption: >
   Imperial means (un)intelligent business.
-image_width: "687"
-image_height: "440"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

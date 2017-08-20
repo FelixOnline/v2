@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502071923-ps3110-michael-ajao-in-liberian-girl-at-the-royal-court.-credit-johan-persson.--01011-copya.jpg"
 image_caption: >
   Michael Ajao in Liberian Girl
-image_width: "0"
-image_height: "0"
 image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""

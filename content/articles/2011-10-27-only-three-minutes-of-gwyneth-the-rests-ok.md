@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110272229-felix-11-ffilm.jpg"
 image_caption: >
   Gwynnie wasn’t too pleased with her hubby’s new album: myloawef xylotosoiwlek
-image_width: "516"
-image_height: "340"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

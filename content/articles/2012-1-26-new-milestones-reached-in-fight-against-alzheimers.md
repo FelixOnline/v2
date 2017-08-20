@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201201262235-ak6309-c1ib00018g-f1.jpg"
 image_caption: >
   Binding of proteins to nanobodies causes a change of capacitance
-image_width: "625"
-image_height: "425"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

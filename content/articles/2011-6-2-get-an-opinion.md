@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106022020-felix-sheen.jpeg"
 image_caption: >
   Everyone needs to take a leaf out of this guy’s book
-image_width: "800"
-image_height: "1064"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

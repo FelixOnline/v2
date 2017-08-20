@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610211419-so515-7.jpg"
 image_caption: >
   Bob Dylan and Joan Baez, who gave Dylan his first big break
-image_width: "3150"
-image_height: "2241"
 image_attribution: "Archives Foundation"
 image_attribution_link: ""
 video_url: ""

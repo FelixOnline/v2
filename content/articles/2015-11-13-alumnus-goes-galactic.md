@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511131435-ygr12-richard_galactic_zero_gravity5.jpg"
 image_caption: >
   When your boss is so hands on, he offers to fly in your first spaceship.
-image_width: "0"
-image_height: "0"
 image_attribution: "Virgin"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201203160158-felix-russell.jpg"
 image_caption: >
   The group held their first meeting in the Hotel Russell in London
-image_width: "3439"
-image_height: "2427"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

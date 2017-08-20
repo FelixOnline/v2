@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606101019-felix-city-people-woman-street.jpg"
 image_caption: >
   It is very important to get pics for the 'gram.
-image_width: "2896"
-image_height: "1944"
 image_attribution: "unsplash.com"
 image_attribution_link: ""
 video_url: ""

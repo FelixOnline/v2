@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201103031958-nm1010-spookssp.jpg"
 image_caption: >
 
-image_width: "2000"
-image_height: "1224"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

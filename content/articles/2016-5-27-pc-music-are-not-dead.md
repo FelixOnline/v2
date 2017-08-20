@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605271058-felix-pcmusic.jpg"
 image_caption: >
   Sometimes I wish PC Music were sent on a rocket into space, never to return.
-image_width: "920"
-image_height: "546"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

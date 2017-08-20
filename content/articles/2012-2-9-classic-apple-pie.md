@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202092241-pk1811-apple-pie_-week-4.gif"
 image_caption: >
   Exact temperatures all round
-image_width: "1583"
-image_height: "1405"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

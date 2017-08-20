@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110281046-felix-terry-pratchett-snufflarge.jpg"
 image_caption: >
 
-image_width: "1000"
-image_height: "1541"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

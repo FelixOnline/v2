@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201405191447-jal08-anne-at-the-start.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "de Batavierenrace"
 image_attribution_link: ""
 video_url: ""

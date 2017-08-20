@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201701131409-felix-26392896430_6732737220_o.jpg"
 image_caption: >
 
-image_width: "5014"
-image_height: "3342"
 image_attribution: "Garry Knight"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506201833-km2612-alim_khan_(1880–1944),_emir_of_bukhara,_photographed_by_s.m._prokudin-gorskiy_in_1911.jpg"
 image_caption: >
   Alim Khan, Emir of Bukhara, 1911 by Sergei Prokudin-Gorskii
-image_width: "0"
-image_height: "0"
 image_attribution: "Library of Congress"
 image_attribution_link: "http://www.loc.gov/pictures/collection/prok/"
 video_url: ""

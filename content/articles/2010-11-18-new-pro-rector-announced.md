@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201011182146-ks607-stevesmi.jpg"
 image_caption: >
   Professor Stephen Smith
-image_width: "4188"
-image_height: "2713"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""

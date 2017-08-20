@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201506182159-jyg11-screen-shot-2015-06-18-at-21.59.22.png"
 image_caption: >
   Shoes, glorious shoes.
-image_width: "0"
-image_height: "0"
 image_attribution: "Victoria & Albert Museum"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201503081655-ff712-sexcrim01a-reg.jpg"
 image_caption: >
   Sex Criminals: Volume 1, our Music Editor’s comic of choice
-image_width: "0"
-image_height: "0"
 image_attribution: "Image Comics"
 image_attribution_link: ""
 video_url: ""

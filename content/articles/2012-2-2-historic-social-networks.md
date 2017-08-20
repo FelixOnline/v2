@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202021921-ams111-facebook.jpg"
 image_caption: >
   A map of social connectivity
-image_width: "2368"
-image_height: "1179"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

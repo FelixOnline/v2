@@ -36,8 +36,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505151257-cj914-screen-shot-2015-05-15-at-12.55.45.jpg"
 image_caption: >
   One thing not being handed out at Imperial Festival was copies of Felix
-image_width: "0"
-image_height: "0"
 image_attribution: "Imperial College"
 image_attribution_link: ""
 video_url: ""

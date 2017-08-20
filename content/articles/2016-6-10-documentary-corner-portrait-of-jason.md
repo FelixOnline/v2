@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606101032-felix-poj054.jpg"
 image_caption: >
   Jason Holliday, who cuts a beguiling figure at the centre of Shirley Clarke's Portrait of Jason.
-image_width: "2094"
-image_height: "1510"
 image_attribution: "Project Shirley"
 image_attribution_link: ""
 video_url: ""

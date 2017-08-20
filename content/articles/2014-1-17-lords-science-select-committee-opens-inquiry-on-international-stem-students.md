@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201401170259-jal08-news_lords_chamber_(landscape)_terry_moore_parl.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Terry Moore, Parliamentary copyright images are reproduced with the permission of Parliament"
 image_attribution_link: ""
 video_url: ""

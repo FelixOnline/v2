@@ -40,8 +40,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210191349-mc4509-final-ipad.jpg"
 image_caption: >
   We apologise to any Apple fanboys who just ejaculated all over their keyboard
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -60,7 +58,6 @@ your search for the perfect app. The question is, with Apple’s constant fragme
 
 Now to the price. If you’re thinking, I want it, how much do I have to spend? I’ll tell you that the price bandied around on the internet is quite intriguing! For different memory sizes (8GB, 16GB and 32GB) the web states a price in the range of £180 to £250! That’s right guys you could own an iPad for less than 200 quid! Now, if you are already mentally running to the Apple store in Regent Street, I have one last caveat: the release date! Sadly, we do not know the exact release date, as it seems production problems are haunting Apple’s production of the Mini, but with a new Apple conference titled “we have a little more to show you” on 23rd October, we’re pretty sure it’s then.
 ## Kindle Fire HD
-TODO: image from
 The original Kindle convinced everyone that ebooks were a winner, the Kindle Fire convinced everyone low-budget tablets could work. The question is now, does the Kindle Fire HD have enough to convince you to buy it? Well that is up to you, but here I’ll give you the juicy details to help you make your choice!
 
 The Kindle Fire HD is also a 7 inch tablet, fitting in your pocket snugly. Its average of 8 hours of battery life isn’t spectacular but it could be worse, and the screen, with its 216 ppi (pixels per inch), is much sharper than that of the iPad 2 and other comparable tablets. The CPU is on-par with that of the
@@ -73,7 +70,6 @@ expected. It’s in the app department where Amazon fails to be strong. Since th
 
 All in all, the Amazon Kindle does cater to all other needs and at its cost of £159 for the 16GB and £199 for the 32GB (with sponsored screen savers!) it’s quite a good deal, and if you have an Amazon prime membership you get to download ebooks for free. That’s a steal!
 ## Microsoft Surface RT
-TODO: image from
 When Microsoft first showed off its tablet in 2000 it was an absolute... fail. However, now, after Apple defined the tablet market, the Redmond-based company is trying another time to crack this growing market and this time it seems it may be a success! The “Surface” comes in two different flavours; their main difference being the OS they run. Sadly here we only discuss the Windows RT version, although there will be a Windows 8 pro article later on, so don’t worry!
 
 Before we talk about the software, let’s talk hardware. The Surface has many differences to the other low end tablets that make it quite attractive for anyone looking at a purchasing a tablet. Not only does it have a beautiful 10.6 inch screen (something none of the other tablets discussed here have), it also has the option to add a micro SD card, and, perhaps the most amazing, a USB port!
@@ -86,7 +82,6 @@ which for most students is a bonus! Two cons that I do have to mention, is, firs
 
 The Surface seems to be a great tablet, and it surely will make some kind of impact into the tablet market. Hopefully we will be seeing cheaper iterations of the Surface in the future, but, honestly, for what you are getting it is a bit cheeky wanting it to be less than 400 pounds.
 ## __Google Nexus 7__
-TODO: image from
 The Nexus 7 was hoped to be the Android answer to the iPad in the low-budget tablet market and from the reviews it really does seem that way. The tablet, made by Asus and Google, is the most successful Android to date
 > The tablet, made by Acer and Google, is the most successful Android to date
 (barring the Kindle Fire if you count that as Android), so perhaps this is the one for you!

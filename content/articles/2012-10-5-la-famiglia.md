@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201210051420-felix-la-famiglia-exterior.jpg"
 image_caption: >
   So Italian it comes with a scooter outside
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

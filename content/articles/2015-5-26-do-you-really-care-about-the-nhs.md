@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505261436-js5913-who-cares.jpg"
 image_caption: >
   Martina Laird in Who Cares at the Royal Court
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

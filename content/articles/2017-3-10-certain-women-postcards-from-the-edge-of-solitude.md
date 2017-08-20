@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703101337-felix-movies_certainwomen (1).jpg"
 image_caption: >
   Michelle Williams excells as one of the women at the heart of Reichardt’s tale
-image_width: "1280"
-image_height: "720"
 image_attribution: "Park Circus"
 image_attribution_link: ""
 video_url: ""

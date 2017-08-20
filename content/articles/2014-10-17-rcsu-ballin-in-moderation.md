@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201410171610-kmw13-tbl_rcsu_autumn_ball-116.jpg"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: "Benjamin Lester"
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201706021525-felix-Screen Shot 2017-06-02 at 15.25.19.png"
 image_caption: >
 
-image_width: "2028"
-image_height: "1195"
 image_attribution: "Original pic by owlin alin"
 image_attribution_link: ""
 video_url: ""

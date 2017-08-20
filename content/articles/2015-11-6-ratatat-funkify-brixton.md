@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201511061416-ygr12-ratatat2.jpg"
 image_caption: >
   Ratatat bring the jam like your aunt does at tea time.
-image_width: "0"
-image_height: "0"
 image_attribution: "Electric Brixton"
 image_attribution_link: ""
 video_url: ""

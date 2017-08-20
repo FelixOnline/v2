@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603181137-felix-comfort zone.jpg"
 image_caption: >
   Go on, try it - you’ll probably like it.
-image_width: "900"
-image_height: "900"
 image_attribution: "redfairyproject.com"
 image_attribution_link: ""
 video_url: ""

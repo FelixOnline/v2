@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012006-ams111-grace-kelly-trousers.jpg"
 image_caption: >
 
-image_width: "357"
-image_height: "400"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

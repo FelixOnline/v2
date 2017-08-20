@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201606031123-felix-esp-robot.jpg"
 image_caption: >
   The Environmental Sample Processor being deployed in open water.
-image_width: "960"
-image_height: "483"
 image_attribution: "NOAA National Ocean service"
 image_attribution_link: ""
 video_url: ""

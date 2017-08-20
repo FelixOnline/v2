@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201309271824-jal08-studyhabitspicture.jpg"
 image_caption: >
   Trying to revise for Fluid Mechanics, but hey it’ll be fine to doodle for a while right? I’m staying
-image_width: "0"
-image_height: "0"
 image_attribution: "Joe Letts"
 image_attribution_link: "http://felixonline.co.uk"
 video_url: ""

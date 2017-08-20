@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201501231852-jyg11-screen-shot-2015-01-23-at-18.52.32.png"
 image_caption: >
   They don't have palm trees at Glastonbury
-image_width: "0"
-image_height: "0"
 image_attribution: "Chris Richardson"
 image_attribution_link: ""
 video_url: ""

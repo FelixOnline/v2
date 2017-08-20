@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111032143-felix-lukee.jpg"
 image_caption: >
   Suave? Swagger? It's the guy from Hustle
-image_width: "1067"
-image_height: "1600"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112012033-ams111-_dsc1515.jpg"
 image_caption: >
   James took it into his own hands to complain about caption quality
-image_width: "1284"
-image_height: "1600"
 image_attribution: "Alexander Yip"
 image_attribution_link: ""
 video_url: ""

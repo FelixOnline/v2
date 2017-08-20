@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106092135-felix-img_0226.jpg"
 image_caption: >
   PhotoSoc/LeoSoc collaboration, Blyth Gallery, Spring 2011
-image_width: "3888"
-image_height: "2592"
 image_attribution: "David Zheng"
 image_attribution_link: ""
 video_url: ""

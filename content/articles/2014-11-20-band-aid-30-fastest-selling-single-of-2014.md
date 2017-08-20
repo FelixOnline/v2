@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201411202143-cj914-bandaid.jpg"
 image_caption: >
   Jessie Ware acts as a buffer between old flames Ed and Ellie. Awkward. L-R: (back row) Kyle and Will
-image_width: "0"
-image_height: "0"
 image_attribution: "Band Aid Trust / Brian Anis / Camera Press"
 image_attribution_link: ""
 video_url: ""

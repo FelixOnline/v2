@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201306140031-tna08-the-iceman_02.jpg"
 image_caption: >
   The Apprentice - 1975
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -50,11 +48,9 @@ After an encounter with a local mob boss Roy DeMeo (Ray Liotta), who is impresse
 Richard is very good at what he does: and in the central role Shannon is simply outstanding. With his towering frame and a disturbingly calm expression as he carries out the many, many hits required by the mob, Shannon is a force to be reckoned with when it comes to loading the character with quiet intensity. He has a softer side to show for himself when it comes to matters concerning his family – it’s a look of love and devotion, whilst there is also that inevitable cloud of worry that hangs over his head, given the nature of the work that he’s involved in. In portraying a very humane side to someone who appears to lack any sense of “good”, Shannon always has an air of ambiguity that makes his volatile character more unpredictable.
 
 Despite the fantastic performance, it must be noted that his “career” that spanned decades is quickly rushed through by using many frequent time jumps of many years, only showing the few highlights of his killing days. It doesn’t dig deep enough into the work of a mob hitman, and at times the film seems to be more interested in the less gripping, unnecessarily overblown mafia politics that leads to familiar territory as everything unfolds away from Shannon.
-TODO: image from
 No mafia movie casting is complete without Liotta, and he rocks up in a predictable yet effective role, David Schwimmer (i.e. Ross from Friends), barely recognisable with his moustache and ponytail, is a young, ambitious player who steals too much and lies too much. We all know what happens to that kind in films like this. Speaking of barely recognisable actors, Chris Evans, who usually dons the Captain America suit, instead sports grizzly hair and generally greasy appearance here, as a killer who may be as psychotic or perhaps even more so, than Kuklinski himself.
 
 Not a lot is given away in terms of trying to explain why Richard is the way he is, aside from a brief flashback sequence into his childhood, and also theconcise yet hugely effective and informative scene in which Richie visits his brother Joseph (the excellent Stephen Dorff) in prison. Here we see the two estranged, dysfunctional brothers reminisce in their own way, about the disturbing events surrounding their childhood, giving us some insight as to explain their nature.
-TODO: image from
 Throughout there is a lot of focus on the fact that Kuklinski doesn’t hurt women or children, and his domestic life that keeps him somewhat grounded is one of the key themes. It’s nice to see the age-resistant and talented Winona Ryder have a prominent role again, as “the good wife”, always staying loyal to her husband even though it’s obvious he’s keeping secrets. Over the years we see huge changes in wealth in their lives, and like any mob wife, Deborah has no problem accepting the nice gifts her husband buys for her, and yet at times she does wonder just how he’s managing to afford such luxury. There’s doubt, from the more cautious side of her for sure, but also an element of trust, this one stemming from the loyal, affectionate side.
 
 With a calm, but never comfortable score that always lurks around like a troublesome event waiting to unfold, here is a quiet yet by no means a tame thriller, one that centres on a smouldering performance that is simply unforgettable. And for a film that has its ending clearly cut out for us from the beginning, it’s still an immensely fascinating ride.

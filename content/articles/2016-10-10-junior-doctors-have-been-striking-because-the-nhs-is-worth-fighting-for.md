@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201610101235-felix-22069935418_188fd0efcd_o.jpg"
 image_caption: >
 
-image_width: "5472"
-image_height: "3648"
 image_attribution: "Garry Knight"
 image_attribution_link: ""
 video_url: ""
@@ -46,7 +44,6 @@ Not only is the economic forecast of the country already in uncertainty post-Bre
 Before digging into the economics of negotiation and the philosophy behind striking, here’s a quick dummy’s guide to what’s actually been going on. Bear in mind that junior doctors are not only those in their first two years of foundation training, but actually anyone who isn’t a consultant – in other words, the backbone of the NHS, making up over a third of the medical workforce.
 
 So here’s the deal: the government promised a 7 day NHS in their election manifesto. Whilst they haven’t delivered on other promises such as support for working families and affordable housing, this is one thing our health secretary will not let go of, no matter how little insight he has into the real problems faced by front line clinicians on a daily basis. Instead of recognising that delivering on this promise will take some years and extra funding, and will involve recruiting and training more doctors, Hunt has decided to drag out the already long shifts that current junior doctor are on in the hope that he can entice them by what may initially appear to be an increase in pay. Tired doctors make unsafe doctors. You know the drill.
-TODO: image from
 Junior doctors may react to pay in different ways. The salary itself is, after all, going up, and this may appeal to some. But what will surface in time is that pay for those extremely unsociable hours – those nights in A&amp;E at 5am following a 24 hour shift – has gone down substantially.
 
 However, anyone who thinks the junior doctor strikes are merely about pay is not taking a look at the bigger picture and what’s truly at stake. It’s the abolishment of the underlying principles of the NHS that truly worries healthcare professionals.

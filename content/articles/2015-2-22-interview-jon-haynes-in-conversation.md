@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201502221734-ps3110-©rwd14_eradication_035a.jpg"
 image_caption: >
   Jon Haynes, in Ridiculusmus’ The Eradication of Schizophrenia in Western Lapland
-image_width: "0"
-image_height: "0"
 image_attribution: "Ridiculusmus Theatre Company"
 image_attribution_link: ""
 video_url: ""

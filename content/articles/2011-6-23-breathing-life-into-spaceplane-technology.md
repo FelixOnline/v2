@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106232023-felix-skylon-orbit-reaction-engines.jpg"
 image_caption: >
 
-image_width: "2480"
-image_height: "1859"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

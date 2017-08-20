@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201110211254-ak6309-byron-burgerw.jpg"
 image_caption: >
 
-image_width: "1700"
-image_height: "2550"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

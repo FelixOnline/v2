@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201102282101-ks607-roastwoo.jpg"
 image_caption: >
 
-image_width: "400"
-image_height: "495"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

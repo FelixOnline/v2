@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201605271047-felix-dave & boris.jpg"
 image_caption: >
   We're stuck choosing the lesser of two evils.
-image_width: "1500"
-image_height: "1500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

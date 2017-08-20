@@ -39,8 +39,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205250026-mc4509-lego.png"
 image_caption: >
 
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -59,7 +57,6 @@ It is a depressing fact that this battle that could have easily been won many ye
 It’s because of this that it’s hard to believe that the fight for equality has to be won in the workplace, or even at university. Most of the women I have worked with and taught in my four years of Computing at Imperial have been highly ambitious and passionate about the subject. They will probably go on to great things at workplaces that will bend to their terms rather than vice versa, as is often the case with graduates from Imperial.
 
 The mission to motivate them into graduate technology is arguably not as vital, as they are obviously already motivated enough. Hiring the 35% already in the doors is easy, but fixing the reasons why there are only 35% is where the real problem lies.
-TODO: image from
 __Forcing an attitude change__
 
 The first port of call needs to look at our children, and the influences they receive. Toys and games play a huge role here. [The blogger Kate Bachus](http://www.katebachus.com) takes the brilliant example of Lego sets. Those targeted at boys are a magnitude more complex than those targeted at girls of the same age. Skills you learn on Lego sets are pretty much the exact same ones you apply when problem-solving in programming, and it’s hard to imagine girls having an interest in the latter when they are never challenged by the former.

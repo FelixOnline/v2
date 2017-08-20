@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201010282104-nm1010-imsimsim.jpg"
 image_caption: >
   53 Prince's Gardens
-image_width: "3000"
-image_height: "4000"
 image_attribution: "Marie Chkaiban"
 image_attribution_link: ""
 video_url: ""

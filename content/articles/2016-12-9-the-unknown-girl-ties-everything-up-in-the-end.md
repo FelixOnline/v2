@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612091552-felix-unknown_girl_the_-_still_1-h_2016.jpg"
 image_caption: >
 
-image_width: "928"
-image_height: "523"
 image_attribution: "Curzon"
 image_attribution_link: ""
 video_url: ""

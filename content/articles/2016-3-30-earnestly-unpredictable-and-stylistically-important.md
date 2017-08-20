@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201603300152-jc7413-PR8A1630 CURIEVICI AS JOHN WORTHING, NELSON AS ALGERNON MONCRIEFF, EWING AS LADY BRACKNELL, BOYLE AS CECILY CARDEW, MARSHALL AS GWENDOLEN FAIRFAX © ROH. S CUMMISKEY.jpg"
 image_caption: >
   "Am I right to suppose that there is to be no christening today?"
-image_width: "5559"
-image_height: "3706"
 image_attribution: "Royal Opera House"
 image_attribution_link: ""
 video_url: ""

@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602261154-felix-Avengers_(2).jpg"
 image_caption: >
   Assembled we’re strong; together fight as one.
-image_width: "788"
-image_height: "444"
 image_attribution: "Disney XD"
 image_attribution_link: ""
 video_url: ""

@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201111031924-pk1811-dsc_0738.jpg"
 image_caption: >
   IC Radio are back on the airwaves as of this week
-image_width: "2848"
-image_height: "4288"
 image_attribution: "Bob Xu"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201306140009-tna08-paulnurse.jpg"
 image_caption: >
   Sir Paul Nurse, director of the Francis Crick institute
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

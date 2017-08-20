@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201306132343-tna08-mdma11.jpg"
 image_caption: >
   Psychostimulants such as MDMA could have health benefits, if we were actually trusted with these in
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
@@ -57,7 +55,6 @@ Such classifications are there for a reason though, surely? Nutt argues against 
 Not only that, but with cannabis having known medicinal purposes and can be legally prescribed in 18 states, it appears that the criteria either are not being adhered to purposefully, or the Americans simply can’t understand their own rules.
 
 That is not to say we are faring any better across the pond – the UK too are appearing dismally incoherent when it comes to drug classification. Beyond the Class System used we too indulge in a Schedule-based approach that places cannabis, LSD, MDMA, and psilocybin above heroin in respect to the same sort of criteria the USA use, making heroin more accessible (if only by a fraction) for research than those that possess psychoactive properties.
-TODO: image from
 Research that has managed to squeeze through the bars of bureaucracy has provided a great insight into what we are actually missing. Cannabinoid 1 receptors which respond to cannabis-derived compounds are incredibly widespread throughout the brain, and the inhibition of using cannabis in research is hindering the understanding of these.
 
 Cannabis may also aid alleviation of ADHD symptoms safely, but again with the laws comes little literature published to help develop this idea. Not only that, other products of the plant may be used to treat seizures, anxiety, psychosis and even addiction, but again, since we really aren’t allowed anywhere near the plant in the labs by the government we can’t really help with any of these any time soon.

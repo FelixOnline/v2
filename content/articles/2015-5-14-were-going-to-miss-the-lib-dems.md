@@ -37,8 +37,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201505142336-cj914-cameron-and-clegg-in-10-downing-street.jpg"
 image_caption: >
   As we say goodbye to the Liberal Democrats in Downing Street, how are things going to change?
-image_width: "0"
-image_height: "0"
 image_attribution: "Standard"
 image_attribution_link: ""
 video_url: ""

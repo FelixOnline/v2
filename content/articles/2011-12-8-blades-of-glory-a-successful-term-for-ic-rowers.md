@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201112082037-felix-icbc4-1.jpg"
 image_caption: >
 
-image_width: "2625"
-image_height: "1750"
 image_attribution: "Jet Photographic"
 image_attribution_link: ""
 video_url: ""

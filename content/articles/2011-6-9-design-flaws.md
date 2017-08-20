@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201106091910-felix-rocio-molina-(double-face)2.jpg"
 image_caption: >
   Rocio Molina
-image_width: "2310"
-image_height: "1659"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

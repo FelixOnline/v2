@@ -38,8 +38,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201301250159-tna08-becky-lane-white-background.jpg"
 image_caption: >
   Becky Lane, Deputy President (Welfare)
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

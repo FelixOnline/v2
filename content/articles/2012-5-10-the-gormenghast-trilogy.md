@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205102045-ams111-titus-groan-large.jpg"
 image_caption: >
   Peake’s haunting illustrations are a major asset of the series
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703101310-felix-3888893164_f2eb4b0fa9_o.jpg"
 image_caption: >
 
-image_width: "3008"
-image_height: "2000"
 image_attribution: "Sunghwan Yoon"
 image_attribution_link: ""
 video_url: ""

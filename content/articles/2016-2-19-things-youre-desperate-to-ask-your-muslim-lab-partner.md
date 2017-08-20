@@ -35,8 +35,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201602191112-felix-image1.JPG"
 image_caption: >
   We’re chilling in SAF, just like you.
-image_width: "5184"
-image_height: "3456"
 image_attribution: "ISoc"
 image_attribution_link: ""
 video_url: ""

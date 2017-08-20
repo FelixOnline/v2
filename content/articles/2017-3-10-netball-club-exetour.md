@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201703101439-felix-17016472_10212239375399489_54928250_o (1).jpg"
 image_caption: >
   Partay!
-image_width: "1136"
-image_height: "852"
 image_attribution: "ICUNC"
 image_attribution_link: ""
 video_url: ""

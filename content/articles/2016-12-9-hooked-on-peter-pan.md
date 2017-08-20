@@ -32,8 +32,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612091234-aib116-peter_and_wendy_fly.jpg"
 image_caption: >
 
-image_width: "1289"
-image_height: "720"
 image_attribution: "Steve Tanner"
 image_attribution_link: ""
 video_url: ""
@@ -48,5 +46,4 @@ There is an underlying theme of maternal affection that few productions of _Pete
 Sally Cookson, the director,  returns to this original casting: Anna Francolini tucks her children lovingly into bed as Mrs. Darling, but makes a frightful Captain Hook who unhesitatingly disembowels a sailor for wanting his teddy. As with the other characters in the play, Captain Hook is more than just a one-dimensional bad guy. For all her piratical swagger and bluster, she is really a balding, desolate woman pursued by Tick Tock the crocodile, a thinly veiled metaphor for the closing jaws of Time. Her obsession with _Peter Pan_ is a twisted version of maternal love. And while Peter triumphs over Captain Hook, he ultimately fails to take Wendy from Mrs. Darling at the end of the play.
 
 For the many children in the audience, such ideas of growing up and abandonment probably went right over their heads. But there was no shortage of things to keep them entertained. Flashing lights, floating planets, thrilling fight scenes and the suitably buccaneering Captain Hook made for a riveting two hours that lived up to the wild imagination of its author. Best of all, if you’re going to have characters that can fly, you might as well make good use of them. As Peter and Wendy soared out across the audience on their “fairy strings”, the cheering audience certainly agreed.
-TODO: image from
 Sally Cookson’s take on Peter Pan is refreshing, if only because bowdlerised versions so rarely attempt to capture the essence of J.M. Barrie’s “terrible masterpiece”. As with the original incarnation, Cookson’s production retains a frolicsome energy despite the melancholy at its heart. This bittersweet production is definitely for grown-ups too – even if, like Wendy at the end of the play, we have already “forgotten how to fly”.

@@ -34,8 +34,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201205181750-felix-tim-richards-and-wilf-kimberley.jpg"
 image_caption: >
   Tim Richards and Wilf Kimberley bask in the glory of BUCS
-image_width: "0"
-image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""

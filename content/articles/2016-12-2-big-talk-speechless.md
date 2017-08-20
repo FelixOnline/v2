@@ -31,8 +31,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201612021505-felix-18SPEECHLESS1-facebookJumbo.jpg"
 image_caption: >
 
-image_width: "1050"
-image_height: "550"
 image_attribution: "ABC"
 image_attribution_link: ""
 video_url: ""

@@ -33,8 +33,6 @@ featured: true
 image_path: "http://felixonline.co.uk/img/upload/201202162331-sjw209-hockey.jpg"
 image_caption: >
   Another one bites the astroturf
-image_width: "3115"
-image_height: "2069"
 image_attribution: "Christopher Walmsley"
 image_attribution_link: ""
 video_url: ""
