@@ -54,6 +54,17 @@ client.query(ALL_AUTHORS_QUERY).each_with_index do |r, i|
   File.write("content/authors/#{r["id"]}/_index.md", md.join("\n") + "\n")
 end
 
+ALL_IMAGES_QUERY = <<~SQL
+select
+  id,
+  uri as path
+from image
+SQL
+
+images = {}
+client.query(ALL_IMAGES_QUERY).each_with_index do |r, i|
+  images[r["id"].to_s] = "http://felixonline.co.uk/" + r["path"]
+end
 
 ALL_ARTICLES_QUERY = <<~SQL
 select
@@ -105,7 +116,7 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "date: \"#{r["article_date"]}\""
 
   if r["deleted"].nil? || r["deleted"].to_s.include?("1")
-    puts "Marking as Draft: #{r["article_id"]} #{r["article_title"]}"
+    # puts "Marking as Draft: #{r["article_id"]} #{r["article_title"]}"
     md << "draft: true"
   end
 
@@ -177,7 +188,12 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
     elsif section["type"] == "heading"
       md << "## #{section["data"]["text"].strip}"
     elsif section["type"] == "feliximage"
-      # puts "Image section: #{section["data"]["image"]["attributionLink"]}"
+      id = section["data"]["image"]
+      caption = section["data"]["caption"]
+      attribution = section["data"]["attribution"]
+      url = images[id]
+
+      md << "\n{{< figure src=\"#{url}\" title=\"#{caption}\" caption=\"#{caption}\" attr=\"#{attribution}\" >}}\n"
     elsif section["type"] == "video"
       # puts "Video " + section["data"]["remote_id"]
     else
