@@ -6,7 +6,7 @@ This is the repository for the Felix newspaper website.
 
 You'll need access to this repo first; once you've got that go here and fill
 out the form to create a new article:
-[New Article](http://prose.io/#FelixOnline/felixonline.github.io/new/master/content/articles)
+[New Article](http://prose.io/#FelixOnline/v2/new/master/content/articles)
 
 If your article was written in MS Word you'll need to convert it to Markdown:
 [MS Word to Markdown](https://word-to-markdown.herokuapp.com/). In future, it
@@ -17,7 +17,7 @@ macOS.
 
 ## Add data about an author
 Authors have a file that contains details about them, find them here on Prose:
-[Authors](http://prose.io/#FelixOnline/felixonline/tree/master/content/authors)
+[Authors](http://prose.io/#FelixOnline/v2/tree/master/content/authors)
 
 ## Make changes to the site layout & styles
 
