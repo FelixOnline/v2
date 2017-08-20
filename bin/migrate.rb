@@ -198,10 +198,17 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   filename = "#{r["article_date"].year}-#{r["article_date"].month}-#{r["article_date"].day}-#{r["article_title"].downcase.strip.gsub(/\s+/, "-").gsub(/[^\w\-]/, "")}".gsub(/\-+/, "-")
   puts "Overwriting: #{filename}" if File.exists? filename
 
+  # join lines
   contents = md.join("\n")
+  # remove old italics
+  contents.gsub!("__", "")
+  # trim trailing
   contents.gsub!(/ +$/, "")
+  # remove needlessly escaped chars
   contents.gsub!(/\\(\W)/, '\1')
+  # remove meaningless new lines
   contents.gsub!(/\n{3,}/, "\n\n")
+  # correctly end file
   contents = contents.strip + "\n"
 
   File.write("content/articles/#{filename}.md", contents)
