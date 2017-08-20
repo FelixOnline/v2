@@ -77,7 +77,9 @@ select
 
   GROUP_CONCAT(article_author.author) as authors,
 
-  user.user as text_author
+  user.user as text_author,
+
+  GROUP_CONCAT(article_publication.deleted) as deleted
 
 from article
   left join category             on category.id=article.category
@@ -87,18 +89,25 @@ from article
   left join user                 on user.user=text_story.user
   left join image as user_images on user.image=user_images.id
   left join article_author       on article_author.article=article.id
+  left join article_publication  on article_publication.article=article.id
 
 group by article.id
 
 SQL
 
 client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
+
   r["comments"] ||= ""
 
   md = %w(---)
   md << "title: >\n  #{r["article_title"].gsub(/\s+/, " ")}"
   md << "subtitle: >\n  #{r["article_teaser"].gsub(/\s+/, " ")}"
   md << "date: \"#{r["article_date"]}\""
+
+  if r["deleted"].nil? || r["deleted"].to_s.include?("1")
+    puts "Marking as Draft: #{r["article_id"]} #{r["article_title"]}"
+    md << "draft: true"
+  end
 
   md << "\n# Attributes from Felix Online V1"
   md << "id: \"#{r["article_id"]}\""
@@ -168,9 +177,9 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
     elsif section["type"] == "heading"
       md << "## #{section["data"]["text"].strip}"
     elsif section["type"] == "feliximage"
-      puts "Image section: #{section["data"]["image"]["attributionLink"]}"
+      # puts "Image section: #{section["data"]["image"]["attributionLink"]}"
     elsif section["type"] == "video"
-      puts "Video " + section["data"]["remote_id"]
+      # puts "Video " + section["data"]["remote_id"]
     else
       pp section
       raise
