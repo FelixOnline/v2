@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Music with a strictly organic feel
 date: "2016-02-26 11:52:46 +0000"
-
-# Attributes from Felix Online V1
-id: "5973"
-old_path: /music/5973/a-foot-thumping-foray-into-modern-jazz
+image: "http://felixonline.co.uk/img/upload/201602261152-felix-gogopenguin.jpg"
+image_caption: "The band named themself after a stuffed penguin. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5973/a-foot-thumping-foray-into-modern-jazz
-imported: true
 comments:
  - value: >
      http://www.ask.com/web?q=viagra+cheapviagra100mg1 *HS* http://www.campingandcaravanningclub.co.uk/Redirect.aspx?link=http://www.cheapviagra100mg1.com/?p=310 (,:G,http://images.google.co.jp/url?q=http://www.cheapviagra100mg1.com/ Y#'J http://www.wiggin.com/redirect.aspx?url=http://www.cheapviagra100mg1.com/?p=259 -OR.,http://www.stradaalternativa.com/link.php?from=114&amp;size=1&amp;to=D&amp;b=0&amp;url=http://www.cheapviagra100mg1.com ;)y: http://www.dijaski.net/redirect?url=http://www.usagovnews.com FH(0 http://ts-cafe.net/link3/link3.cgi?mode=cnt&amp;hp=http://www.gentle-angel-lessons.com J@,http://www.antoloji.com/link/redir.asp?link=748&amp;URL=http://www.cheapviagra100mg1.com G4l6 http://learn.activedition.com/nmsruntime/logLink.aspx?linkURL=http://www.usagovnews.com -n,http://www.stroyserver.ru/redirect.php?url=http://www.cheapviagra100mg1.com v2R( http://www.investalks.com/home/link.php?url=http://www.usagovnews.com fS*X http://manga32.com/cgi-bin/at3/out.cgi?id=15&amp;tag=toplist&amp;trade=http://www.gentle-angel-lessons.c
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +26,6 @@ authors:
  - jl9314
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261152-felix-gogopenguin.jpg"
-image_caption: ""
 ---
 
 **GoGo Penguin** are a Mercury Prize nominated jazz trio who are lumped into the increasingly broad genre of modern jazz; a genre best separated from its predecessors by an unashamed acceptance of rhythm. _Man Made Object_ is a testament to this. The album’s blend of classical jazz and modern house music provides a highly accessible acoustic soundscape.

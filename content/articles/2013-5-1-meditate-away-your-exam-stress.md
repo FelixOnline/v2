@@ -4,16 +4,13 @@ title: >
 subtitle: >
   College Chaplain Andrew Willson helps you ease your exam woes
 date: "2013-05-01 20:07:41 +0100"
-
-# Attributes from Felix Online V1
-id: "3523"
-old_path: /news/3523/meditate-away-your-exam-stress
+image: "http://felixonline.co.uk/img/upload/201305012106-tna08-seated_buddha_amitabha_statue.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3523/meditate-away-your-exam-stress
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305012106-tna08-seated_buddha_amitabha_statue.jpg"
-image_caption: ""
 ---
 
 “I’m an atheist and I’m interested in meditation.” Last year I had a number of conversations with people who all began with this comment. It is too small a sample from which to interpret the changing nature of atheism or if there is an increasing interest in meditation. (And anyway all of these comments may have arisen from the realisation ‘OMG, it’s the vicar, quick what can I talk about?’)

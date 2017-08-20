@@ -4,16 +4,13 @@ title: >
 subtitle: >
   RCSU's Jezebel expected to be back on the road soon
 date: "2012-03-15 21:13:52 +0000"
-
-# Attributes from Felix Online V1
-id: "2373"
-old_path: /news/2373/motor-club-races-towards-fire-engine-repair
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2373/motor-club-races-towards-fire-engine-repair
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Members of [RCS Motor Club](http://union.ic.ac.uk/rcc/rcsmotor/) have got one stop closer to fully repairing Jezebel, the [RCSU](http://rcsu.org.uk/exec/)’s 1916 fire engine, after successful remetalling of an engine bearing, and reconstruction of the engine. Jezebel has been off the road since the end of last year, following an engine fault when travelling back from Brighton.

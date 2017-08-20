@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Celebrate women’s sport by “jumping away the calories”
 date: "2016-10-31 13:36:31 +0000"
-
-# Attributes from Felix Online V1
-id: "6359"
-old_path: /news/6359/ic-girls-can---only-do-girl-things
+image: "http://felixonline.co.uk/img/upload/201610311541-felix-27944964044_567186ba40_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6359/ic-girls-can---only-do-girl-things
-imported: true
 comments:
  - value: >
      It's a terrible shame but unsurprising this is how Sport Imperial has organised a week of 'Celebrating women's sport'. By promoting events with the tagline 'jumping away the calories' it is worryingly obvious sport imperial haven't moved on from their sexist attitudes highlighted at varsity 2015. <br>Furthermore not only is it sexist that an institution renowned for intellect and progressive thinking like imperial should be propagating such dated tired stereotypes of women, it's harmful to female members of the college. It is apparent Sport Imperial have thought very little of how women's participation in sport can reap more meaningful benefits than calorie balancing. <br>To be honest though it'd be hypocritical of them to be supportive and positive about women's sport for one week a year when the majority of the successes of women's sport at Imperial is down to the hard work of student led clubs. And that is something to be celebrated.,It's a terrible shame but unsurprising this is how Sport Imperial has organised
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610311541-felix-27944964044_567186ba40_o.jpg"
-image_caption: ""
 ---
 
 Continuing on from the successful This Girl Can campaign, Sport England have joined forces with BUCS to promote female sport participation at universities nationwide between 31 October and 6 November. This means the Sports Imperial is launching Imperial Girls Can again this year in an attempt “to encourage and celebrate womens sport”.

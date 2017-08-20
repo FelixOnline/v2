@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lef Apostolakis shares the reality of post-Brexit life for an immigrant
 date: "2016-10-14 10:08:51 +0100"
-
-# Attributes from Felix Online V1
-id: "6332"
-old_path: /comment/6332/i-never-knew-how-hard-being-an-immigrant-was-until-i-put-it-into-words
+image: "http://felixonline.co.uk/img/upload/201610141214-felix-Screen Shot 2016-10-14 at 12.08.27.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6332/i-never-knew-how-hard-being-an-immigrant-was-until-i-put-it-into-words
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610141214-felix-Screen Shot 2016-10-14 at 12.08.27.png"
-image_caption: ""
 ---
 
 Being an immigrant was never fun but damn, it really sucks right now. Since the referendum, every week it’s become harder for me to put on a brave face and say everything is going to be OK. Every week I feel less welcome, less worthy, less secure.

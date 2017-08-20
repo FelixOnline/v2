@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A recap of all the main news stories from 2014
 date: "2014-12-12 13:01:10 +0000"
-
-# Attributes from Felix Online V1
-id: "5050"
-old_path: /news/5050/heres-what-you-may-have-missed-felix-wraps-up-a-stellar-2014
+image: "http://felixonline.co.uk/img/upload/201412121301-ps3110-img_2985.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5050/heres-what-you-may-have-missed-felix-wraps-up-a-stellar-2014
-imported: true
 comments:
  - value: >
      "Dashed," I meant -- but that was before I read the link about the authors! What fascinating women and what a compelling story. Maybe cornibolataols aren't such a great idea (ulp)...,"Dashed," I meant -- but that was before I read the link about the authors! What fascinating women and what a compelling story. Maybe cornibolataols aren't such a great idea (ulp)...
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412121301-ps3110-img_2985.jpg"
-image_caption: ""
 ---
 
 It has been a busy year for Imperial College, with the Union and the University alike giving Felix lots of material and good reason to go to print (most of the time).

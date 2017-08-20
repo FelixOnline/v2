@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Edoardo Borgomeo explores the tragic themes of Soza Boy and Its Even More Tragic Backstory
 date: "2010-02-18 16:53:16 +0000"
-
-# Attributes from Felix Online V1
-id: "94"
-old_path: /arts/94/soza-boy-by-ken-saro-wiwa
+image: "http://felixonline.co.uk/img/upload/201002181651-lh106-Nigerian.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/94/soza-boy-by-ken-saro-wiwa
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - lh106
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002181651-lh106-Nigerian.jpg"
-image_caption: ""
 ---
 
 This is not what you would call a normal book review, but that’s just because _Sozaboy_ is not a normal book. It is not one of those novels that after you have finished reading you’ll put back on the shelf. No, when you will be done reading _Sozaboy_ you will give to everyone you know. This is how I felt. This happened to me because _Sozaboy_ is a book that makes you perceive injustice and when you perceive injustice, especially when you are young, you want to make other people aware and you want to do something.

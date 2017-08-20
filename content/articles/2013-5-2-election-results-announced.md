@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Next year’s sabbatical team will be...
 date: "2013-05-02 13:41:11 +0100"
-
-# Attributes from Felix Online V1
-id: "3534"
-old_path: /news/3534/election-results-announced
+image: "http://felixonline.co.uk/img/upload/201305021441-tna08-jal08.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3534/election-results-announced
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305021441-tna08-jal08.jpg"
-image_caption: ""
 ---
 
 [The results for the Big Elections 2013](http://felixonline.co.uk/news/3496/big-elections-2013-results/) were announced at the end of last term. The turnout was the second highest that Imperial College Union has ever received.

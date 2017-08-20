@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Mark England goes to church on a Friday night, and enjoys it...
 date: "2013-02-13 12:57:18 +0000"
-
-# Attributes from Felix Online V1
-id: "3297"
-old_path: /music/3297/veronica-falls-at-st-leonards
+image: "http://felixonline.co.uk/img/upload/201302131253-tna08-1-14.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3297/veronica-falls-at-st-leonards
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302131253-tna08-1-14.jpg"
-image_caption: ""
 ---
 
 I have recently discovered the real reason the Pope is giving up on wearing his natty white gown and driving about in his suped-up Pope-mobile to devote more of his time to chillaxing. He must have been present at St Leonard’s Church last Friday where Veronica Falls blew away the congregation with an outstanding set. Evidently it became clear to him that the best way to get bums on pews and religion back into the hearts and tweets of the young is to be in a swoonsome twee indie band which specialise in jangly guitar pop. It is not surprising that this idea must have dispirited Herr Ratzinger (as he is more of a dubstep or electo-crunk kind of guy) to such an extent that he had no choice but to step down.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Samuel Furse rediscovers the pleasures of food
 date: "2011-01-13 19:49:35 +0000"
-
-# Attributes from Felix Online V1
-id: "570"
-old_path: /food/570/an-edible-adventure-
+image: "http://felixonline.co.uk/img/upload/201101131947-ks607-chipsinm.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/570/an-edible-adventure-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - sf305
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101131947-ks607-chipsinm.jpg"
-image_caption: ""
 ---
 
 I eat. Shocking stuff, you may be thinking, but it gives me a certain problem. Fortunately I have no life-threatening difficulties – I am not allergic to nuts, wheat or milk. I am allergic to Gillian McKeith, but that is another story. What you should perhaps know is that I am tall. I also take a not-extravagant amount of exercise. Point is, I burn off a lot of calories. That, combined with my predilection for boredom, means that eating the same meal three times in three days was not something that was going to last long. A former French flatmate – well, half French half American, not a good combination in this case – was derisive at the idea that this was possible even once. However, I was hungry and wanted to avoid eating the one kilo packets of chicken or beef pasta which Sainsbury’s amusingly label as ‘serves 4’.

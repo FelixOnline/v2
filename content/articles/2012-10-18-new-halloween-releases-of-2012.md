@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Consider this a pre-amble to Halloween
 date: "2012-10-18 21:32:42 +0100"
-
-# Attributes from Felix Online V1
-id: "2711"
-old_path: /film/2711/new-halloween-releases-of-2012
+image: "http://felixonline.co.uk/img/upload/201210182232-felix-2-frankenweenie-081312rgb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2711/new-halloween-releases-of-2012
-imported: true
 comments:
  - value: >
      8:20 pm, August 18, 2012|I work at a movie theatre. Yes, peolpe do need to be told this every fucking time, sometimes multiple times. Same with shut up and keep you feet off the fucking seats . If you want to spend 11.50 to go to a movie and use your phone, do everyone a favor and just flush the cash down the toilet and stay home.
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210182232-felix-2-frankenweenie-081312rgb.jpg"
-image_caption: ""
 ---
 
 __Grave Encounters 2 __- _OUT NOW_

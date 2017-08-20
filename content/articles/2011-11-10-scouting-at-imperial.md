@@ -4,16 +4,14 @@ title: >
 subtitle: >
   SSAGO is back after a decade-long hiatus
 date: "2011-11-10 22:10:33 +0000"
-
-# Attributes from Felix Online V1
-id: "1744"
-old_path: /news/1744/scouting-at-imperial
+image: "http://felixonline.co.uk/img/upload/201111102210-pk1811-ssago-picture.jpg"
+image_caption: "Better than Titanic"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1744/scouting-at-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - jw1606
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102210-pk1811-ssago-picture.jpg"
-image_caption: ""
 ---
 
 When someone says ‘girl guide’ or ‘scout’ to you, many people fondly envisage either the days of being one themselves, or the likes of a Brownie or Cub Scout doing something craft based or learning knots. What many people don’t realise is that both organisations in fact have sections aimed at people up to the age of 25, who do activities that are relevant to them: a casual camping trip all of a sudden has the chance to get a lot more extreme.

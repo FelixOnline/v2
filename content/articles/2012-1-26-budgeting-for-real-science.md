@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Cave Johnson here folks. Stop procrastinating and put yourself forward for testing. You won’t regret it. Probably
 date: "2012-01-26 22:19:26 +0000"
-
-# Attributes from Felix Online V1
-id: "2058"
-old_path: /games/2058/budgeting-for-real-science
+image: "http://felixonline.co.uk/img/upload/201201262218-pk1811-snake-mouth.jpg"
+image_caption: "Oopssss... Lookssss like sssssomeone dropped the ssssoap..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2058/budgeting-for-real-science
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +22,6 @@ authors:
  - fgames
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201262218-pk1811-snake-mouth.jpg"
-image_caption: ""
 ---
 
 Hello Felix readers, Cave Johnson here.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Kate Pumphrey takes you on a tour of coffee
 date: "2013-03-15 03:15:17 +0000"
-
-# Attributes from Felix Online V1
-id: "3495"
-old_path: /news/3495/caffeine-culture
+image: "http://felixonline.co.uk/img/upload/201303150310-tna08-stock__coffee_beans_by_unamanic.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3495/caffeine-culture
-imported: true
 comments:
  - value: >
      This is the best written thing I've read in Felix in about a year. <br> <br>If you want foam art at Imperial, go to the Chemistry Cafe. The (tall) barista there won the college barista competition, and makes very pretty coffee.,The SAF Cafe does great coffee - their machine lattes are just like those you get in Milan,Thanks for the words of support, Pippa! Will definitely check out the Chemistry Cafe...,... and totally agree with your recommendations, Phil. Might add: Flat White, Kaffeine, Lantana, Nordic Bakery... the list could go on.,I am a wine snob and I totally agree that coffee has just as much going for it. <br>I make my own espresso at home as there is nothing drinkable in the vicinity of Imperial! I agree Fernandez &amp; Wells is where I go if I have run out of beans and have an urge for espresso. I don't take a great liking to their beans (over roasted) and you are correct that they draw the espresso slightly to short, giving it a sour edge... oh and it is the most expensive espresso ever! <br>Try 'Notes' and
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303150310-tna08-stock__coffee_beans_by_unamanic.jpg"
-image_caption: ""
 ---
 
 There are prices you pay for obsessions, and mine is a small, daily coronary. This occurs at some point between the hours of 10.40 and 11.30am and, like most heart conditions, is usually triggered by anxiety, stress and/or over-indulgence.

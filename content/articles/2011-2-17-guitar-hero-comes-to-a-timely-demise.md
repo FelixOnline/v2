@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Activision kills off the popular music game series
 date: "2011-02-17 20:17:05 +0000"
-
-# Attributes from Felix Online V1
-id: "837"
-old_path: /games/837/guitar-hero-comes-to-a-timely-demise
+image: "http://felixonline.co.uk/img/upload/201102172010-nm1010-gravestn.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/837/guitar-hero-comes-to-a-timely-demise
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - cb908
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102172010-nm1010-gravestn.jpg"
-image_caption: ""
 ---
 
 On February 9th, Activision announced they were discontinuing the _Guitar Hero_ franchise, and as a result, their planned 2011 _Guitar Hero_ title was also cancelled. Activision cited “declining interest in the music genre” as their reason, a phenomenon which is quite possibly down to an almost completely saturated market.

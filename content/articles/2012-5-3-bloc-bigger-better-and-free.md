@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Felix Music looks forward to the Bloc. weekender and offers up a pair of tickets
 date: "2012-05-03 18:05:39 +0100"
-
-# Attributes from Felix Online V1
-id: "2409"
-old_path: /music/2409/bloc-bigger-better-and-free-
+image: "http://felixonline.co.uk/img/upload/201205031904-ams111-bloc-lineup.jpg"
+image_caption: "A small peak at this massive line-up"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2409/bloc-bigger-better-and-free-
-imported: true
 comments:
  - value: >
      It's "DOOM" - remember all caps when you spell the mad name!,You can easlily acquire small quantities of your money because of Borrowing On Demand from customers close to hand the quite a number of. <br>instant payday loans http://ecology-portal.ru/forum/threads/15392-Nextgen-iPhone-10S-coming-soon-wait-us?p=33242
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205031904-ams111-bloc-lineup.jpg"
-image_caption: ""
 ---
 
 With a new location, bigger names, and a wider line-up than ever, Bloc. 2012 looks to be a must-see for any electronic music lover. Covering big dubstep drops (__Kode9__, __Loefah__), alternative hip-hop (__DOOM__) and pioneering minimal composers (__Steve Reich__), the range at this year’s London based event will satiate almost all discerning tastes. Previously hosted at Butlins, Minehead, Bloc. has decided to become “bigger and better”, moving to the abandoned industrial-looking complex somewhat ironically (in this day and age - it used to be a haunt of London socialites) named London Pleasure Gardens and pushing harder than ever for an eclectic line up. Below are some of our picks for the best of Bloc., and we even have a competition to win two tickets!

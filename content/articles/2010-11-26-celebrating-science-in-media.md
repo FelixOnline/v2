@@ -4,16 +4,13 @@ title: >
 subtitle: >
   An evening of awards and discussion on the challenge of communication science
 date: "2010-11-26 07:20:23 +0000"
-
-# Attributes from Felix Online V1
-id: "449"
-old_path: /news/449/celebrating-science-in-media-
+image: "http://felixonline.co.uk/img/upload/201011260719-ks607-paneldis.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/449/celebrating-science-in-media-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - ks607
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011260719-ks607-paneldis.jpg"
-image_caption: ""
 ---
 
 On Monday the Public Awareness of Science and Engineering organisation, PAWS, held The European Science TV and New Media Awards Evening at the prestigious Institute of Engineering and Technology (IET). A fitting location to celebrate science in the media, as the IET was once home to the BBC many years ago! This is the first year which has seen the celebration of science in TV and New Media throughout Europe. The awards recognised a variety of countries for documentaries, general programming and new media, as well as more unusual categories such as science in TV drama.

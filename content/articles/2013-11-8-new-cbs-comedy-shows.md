@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Television Editor John Park reviews three new comedy shows on CBS
 date: "2013-11-08 10:07:10 +0000"
-
-# Attributes from Felix Online V1
-id: "4044"
-old_path: /tv/4044/new-cbs-comedy-shows
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4044/new-cbs-comedy-shows
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Mom: Season 1__

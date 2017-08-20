@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Isaac Obisanya on the Future of Healthcare Development Conference
 date: "2013-03-01 00:19:16 +0000"
-
-# Attributes from Felix Online V1
-id: "3403"
-old_path: /news/3403/the-end-of-aid
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3403/the-end-of-aid
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In October 2012 the Secretary of State for International Development, Justine Greeing, announced cuts to the UK’s £1bn aid programme in India with a view of focussing on a more ‘trade­-based’ relationship. More recently during David Cameron’s skadoodle to India in the middle of February 2013, he praised India’s business acumen and strong economic growth in recent years and paraded about the UK’s commitment to ease trade and travel regulations between itself and India which could be seen as a consummation of the UK’s stance to development with India. Across the pond, the Sullivan Foundation, a high level international development organisation with political backing from former President George Bush that drew attention and finances from the halls of US power, recently closed its doors and now holds a private Africa-focussed firm. Western companies and investors like these are falling over backwards to engage in the economic boom that is slowly underway in many countries around the world that were more commonly knows as “third-world”.

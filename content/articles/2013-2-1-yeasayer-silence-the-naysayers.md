@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Mohammad Mirza finds a fat slice of Brooklyn in Shepherds Bush
 date: "2013-02-01 00:49:51 +0000"
-
-# Attributes from Felix Online V1
-id: "3234"
-old_path: /music/3234/yeasayer-silence-the-naysayers
+image: "http://felixonline.co.uk/img/upload/201302010049-tna08-yeasayer-picsbw.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3234/yeasayer-silence-the-naysayers
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - mum09
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302010049-tna08-yeasayer-picsbw.jpg"
-image_caption: ""
 ---
 
 After their successful release of Fragrant World, Yeasayer decided to grace the Shepherd’s Bush Empire with a set list heavy on songs from their latest album. In the air was a whiff of dope.

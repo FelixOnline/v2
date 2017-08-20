@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fire Emblem Heroes is free on Android and iOS
 date: "2017-05-15 16:30:31 +0100"
-
-# Attributes from Felix Online V1
-id: "6956"
-old_path: /games/6956/clash-of-heroes--fire-emblem-heroes
+image: "http://felixonline.co.uk/img/upload/201705151829-felix-Heroes-Illustration-2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/6956/clash-of-heroes--fire-emblem-heroes
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - sa8713
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705151829-felix-Heroes-Illustration-2.jpg"
-image_caption: ""
 ---
 
 After years of Nintendo-only games, we finally get a free-to-play Fire Emblem game for iOS and Android. This spinoff is a simplistic but entertaining spin on the strategy RPG series that offers long-time fans something light to enjoy between last year’s Fates and next year’s game for the Switch.

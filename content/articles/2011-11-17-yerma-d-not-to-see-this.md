@@ -4,16 +4,14 @@ title: >
 subtitle: >
   "It’s this transformation from darling bud to withered flower that forms the spine of Lorca’s tragic play Yerma and whilst her character at the end may be pretty far from anyone you know, the character at the start is very familiar."
 date: "2011-11-17 21:29:00 +0000"
-
-# Attributes from Felix Online V1
-id: "1778"
-old_path: /arts/1778/yerma-d-not-to-see-this
+image: "http://felixonline.co.uk/img/upload/201111172128-pk1811-yerma.jpg"
+image_caption: "Tensions come to a head when she confessed to wiping Top Gear off the Sky+ box"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1778/yerma-d-not-to-see-this
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - wsp10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172128-pk1811-yerma.jpg"
-image_caption: ""
 ---
 
 I imagine all of us know a ‘Yerma’ character – that girl who arrives as an innocent and pure fresher only to then link up with a guy in the first few weeks. He ensnares her despite his inability to satisfy her physical needs and provide her with children, all the while using her own naivety to convince her she is the source of her own problems, eventually driving her to despair in her childlessness and visit a crazy voodoo lady who lives under a tree in search of a solution. Hmm. Actually, on reflection, maybe not. But it’s this transformation from darling bud to withered flower that forms the spine of Lorca’s tragic play Yerma and whilst her character at the end may be pretty far from anyone you know, the character at the start is very familiar.

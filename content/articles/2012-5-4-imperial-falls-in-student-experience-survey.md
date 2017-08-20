@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Workload woes for College students while Dundee leads latest list
 date: "2012-05-04 01:02:21 +0100"
-
-# Attributes from Felix Online V1
-id: "2425"
-old_path: /news/2425/imperial-falls-in-student-experience-survey
+image: "http://felixonline.co.uk/img/upload/201205040159-felix-george.jpg"
+image_caption: "St George’s, University of London"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2425/imperial-falls-in-student-experience-survey
-imported: true
 comments:
  - value: >
      On a personal level I'm a fan of comments by Joe Herbert and Vigilante Cat. <br> <br>As DPE, I'd like to point out that, although this survey is informative, it had a rather pathetic 156 respondents to represent out great institution. <br>Compare that with the NSS, which has comfortably over 10 times the number of respondents and you can understand why we talk about ther NSS so much. <br> <br>Interestingly, this survey highlights some similar issues to the NSS, so I strongly recommend anyone interested to have a read of Imperial College Unions in depth "NSS Response" (see www.union.ic.ac.uk/blogs),Shutting the Holland Club was never anything to do with "improving the student experience," the altar to which we are all now prostrate. It was to provide yet another outlet for the stale soggy baguettes, short-dated petrol-station sandwiches and all the other dreary stuff that catering excels at, in a carbon copy of every other outlet in the college. The secondary purpose was to create a self-contained facility outside the JCR/S
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - skd09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205040159-felix-george.jpg"
-image_caption: ""
 ---
 
 Imperial has dropped nine places from last year in the [_Times Higher Education_](http://www.timeshighereducation.co.uk/) (_THE_) Student Experience Survey to take joint 71st place with Canterbury Christ Church University. The University of Dundee topped the survey with a score of 85% while Imperial scored 73.4%, slightly lower than the average of 75.1%.

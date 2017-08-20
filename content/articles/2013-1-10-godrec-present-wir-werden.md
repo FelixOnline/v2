@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ross Gray explores apocalyptic wastelands through noise
 date: "2013-01-10 22:47:42 +0000"
-
-# Attributes from Felix Online V1
-id: "3094"
-old_path: /music/3094/godrec-present-wir-werden
+image: "http://felixonline.co.uk/img/upload/201301102247-csw09-rdecaraketa_ww_bw1_zoefotog.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3094/godrec-present-wir-werden
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - rbg10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102247-csw09-rdecaraketa_ww_bw1_zoefotog.jpg"
-image_caption: ""
 ---
 
 Towards the end of first term, an interesting email arrived in our inbox from God records, a small “Austrian label for new and experimental music”, promoting a __Boris Hegenbart__ release which includes collaborations with 19 artists, such as__ Oren Ambarchi__ and __Fred Frith__. When the promo arrived however, I found another release they had sent with it to be equally grabbing__: Rdeča Raketa__’s _Wir Werden_.

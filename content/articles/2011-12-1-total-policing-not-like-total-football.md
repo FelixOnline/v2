@@ -4,16 +4,14 @@ title: >
 subtitle: >
   12 hours of protesting has simply dissolved "the idea of protesters as lazy hippies"
 date: "2011-12-01 21:33:49 +0000"
-
-# Attributes from Felix Online V1
-id: "1895"
-old_path: /comment/1895/total-policing-not-like-total-football
+image: "http://felixonline.co.uk/img/upload/201112012129-pk1811-anonymous.jpg"
+image_caption: "Some people just can’t do anything right..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1895/total-policing-not-like-total-football
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +22,6 @@ authors:
  - ls411
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012129-pk1811-anonymous.jpg"
-image_caption: ""
 ---
 
 After 12 hours of protest, beginning at 7 in the morning at Liverpool Street, the idea of protesters as lazy hippies has simply dissolved. They believe the mantra that the early anarchist gets the worm. We saw electricians, librarians, teachers, council workers and children line the pickets and march in protest against the changes to public sector pensions. However, following on from the November 9 student protest where 4,000 police, 3 helicopters, steel barriers and numerous surveillance techniques were used against 5,000-10,000 protestors, the strike day in London was marked by unprovoked heavy handed policing.

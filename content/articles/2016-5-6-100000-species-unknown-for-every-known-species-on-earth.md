@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Estimating the number of species on Earth is among the great challenges in biology
 date: "2016-05-06 09:53:10 +0100"
-
-# Attributes from Felix Online V1
-id: "6121"
-old_path: /science/6121/100000-species-unknown-for-every-known-species-on-earth
+image: "http://felixonline.co.uk/img/upload/201605061052-felix-16599963391_865673fed8_o.jpg"
+image_caption: "With over 200 genera they still only represent a fraction of Earth’s diversity. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6121/100000-species-unknown-for-every-known-species-on-earth
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ea3211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061052-felix-16599963391_865673fed8_o.jpg"
-image_caption: ""
 ---
 
 Researchers from the IU Bloomington College of Arts and Sciences believe there could be around a trillion species inhabiting our humble planet, one hundred thousand times more than the species we currently know of. Of course, the vast majority of these undiscovered species are microbes, still this new estimate tremendously broadens our understanding of Earth’s biodiversity.

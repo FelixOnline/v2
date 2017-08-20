@@ -4,16 +4,14 @@ title: >
 subtitle: >
   I thought it should end the way it started, with an inappropriate article in FELIX
 date: "2016-03-18 11:42:54 +0000"
-
-# Attributes from Felix Online V1
-id: "6056"
-old_path: /features/6056/a-letter-tothe-man-who-broke-my-heart
+image: "http://felixonline.co.uk/img/upload/201603181142-felix-Stipula_fountain_pen.jpg"
+image_caption: "Fuck you, dickhead -Ed."
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6056/a-letter-tothe-man-who-broke-my-heart
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +21,6 @@ authors:
  - tad08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603181142-felix-Stipula_fountain_pen.jpg"
-image_caption: ""
 ---
 
 _This article was published as part of FELIX's Sex Survey launch. Do the survey [here](http://felixonline.co.uk/go/sexsurvey)._

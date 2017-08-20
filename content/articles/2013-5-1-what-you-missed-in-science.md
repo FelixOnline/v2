@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Felix Science recaps what went on in the world outside revision and the library. Just to annoy you, we've not gone for the non-alphabetical order of the names.
 date: "2013-05-01 19:11:16 +0100"
-
-# Attributes from Felix Online V1
-id: "3519"
-old_path: /science/3519/what-you-missed-in-science-
+image: "http://felixonline.co.uk/img/upload/201305012002-tna08-mars-rover-penis.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3519/what-you-missed-in-science-
-imported: true
 comments:
  - value: >
      can think of something else that gets stiff when you repeatedly squeeze it,can think of something else that gets stiff when you repeatedly squeeze it
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -30,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305012002-tna08-mars-rover-penis.jpg"
-image_caption: ""
 ---
 
 Biology

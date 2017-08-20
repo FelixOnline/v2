@@ -4,18 +4,15 @@ title: >
 subtitle: >
   This Week, James Simpson sat down on his sofa and didn't brush his teeth
 date: "2011-01-28 14:16:43 +0000"
-
-# Attributes from Felix Online V1
-id: "703"
-old_path: /tv/703/what-we-watched
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/703/what-we-watched
-imported: true
 comments:
  - value: >
      why is there strange letters all over the text?
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -27,12 +24,6 @@ authors:
  - tvfelix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This week's TV treated us to two chilling new episodes of the brilliantly gory __Silent Witness__, which starts with womanising Harry taking a trip to Budapest to perform a second post mortem on a Romanian prostitute who suspiciously turned up looking cadaverous in the River Danube. I have always considered it slightly odd that the pathologists seem to single-handedly conduct an entire murder investigation, but I suppose there wouldn't be much drama if they stuck to their usual mandate of messing around with the victims' insides.

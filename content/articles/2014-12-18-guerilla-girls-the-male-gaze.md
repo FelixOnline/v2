@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Fred Fyles explores the role the 'Male Gaze' plays in art
 date: "2014-12-18 15:57:53 +0000"
-
-# Attributes from Felix Online V1
-id: "5065"
-old_path: /arts/5065/guerilla-girls-the-male-gaze
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5065/guerilla-girls-the-male-gaze
-imported: true
 comments:
  - value: >
      fitflops retailers <br>fitflop australia outlet http://australiafitflops.blogspot.com/,cheap fitflop <br>fitflops sandals http://australiafitflops.iemiller.net/,shoes christian louboutin <br>christian louboutin sale outlet http://canadachristianlouboutin.blogspot.com/,cheap christian louboutin boots <br>christian louboutin canada stores http://canadachristianlouboutinoutlet.blogspot.com/,Thanks, this site is very helpful.| <br>nba 2k16 mt hack no survey http://blog.qooza.hk/Amy19hhl?eid=28456016,Many thanks for sharing this fantastic website.| <br>nba 2k16 mt draft http://www.loukado.com/blogs/post/9402#sthash.TFzMWLNI.3dJzXEzH.dpbs
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In 1984, the __Museum of Modern Art__ in New York opened a new exhibition: ‘_An International Survey of Recent Painting and Sculpture_’. it promised to be a survey of the most important artists currently working in the art world. Not everyone was impressed. Out of the 169 works featured, only 13 were by women artists, a fact that was not helped by the curator, Kynaston McShine, saying that any artist not in the show should rethink his career. In 1985, one year after the show opened, the Guerrilla Girls were formed by seven women artists. And the rest, as they say, is history.

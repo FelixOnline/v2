@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The second film this year starring Kellan Lutz, trying to launch him as a credible leading man in Hollywood, although so far neither have done him any favours. Both are tanking in terms of making money, as well as failing to attract any kind of praise.
 date: "2014-06-02 12:56:58 +0100"
-
-# Attributes from Felix Online V1
-id: "4644"
-old_path: /film/4644/the-worst-movies-of-2014-so-far---the-legend-of-hercules
+image: "http://felixonline.co.uk/img/upload/201406021357-felix-legendherculesgladiator.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4644/the-worst-movies-of-2014-so-far---the-legend-of-hercules
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406021357-felix-legendherculesgladiator.jpg"
-image_caption: ""
 ---
 
 __The Legend of Hercules__

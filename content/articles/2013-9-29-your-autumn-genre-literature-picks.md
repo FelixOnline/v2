@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The best of the bunch from Sci Fi society
 date: "2013-09-29 15:18:44 +0100"
-
-# Attributes from Felix Online V1
-id: "3779"
-old_path: /books/3779/your-autumn-genre-literature-picks
+image: "http://felixonline.co.uk/img/upload/201309291612-tna08-1-wasp-russell-ware.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3779/your-autumn-genre-literature-picks
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309291612-tna08-1-wasp-russell-ware.jpg"
-image_caption: ""
 ---
 
 __Wasp - Eric Frank Russell__

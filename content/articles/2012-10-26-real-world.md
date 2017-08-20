@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Graduation and Hackery, very hastily discussed at 1am...
 date: "2012-10-26 01:43:51 +0100"
-
-# Attributes from Felix Online V1
-id: "2732"
-old_path: /comment/2732/real-world
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2732/real-world
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Graduation__

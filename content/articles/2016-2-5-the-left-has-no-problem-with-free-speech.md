@@ -4,16 +4,14 @@ title: >
 subtitle: >
   We aren’t living in the Orwellian police state as some would have you believe
 date: "2016-02-05 11:57:41 +0000"
-
-# Attributes from Felix Online V1
-id: "5866"
-old_path: /comment/5866/the-left-has-no-problem-with-free-speech
+image: "http://felixonline.co.uk/img/upload/201602051156-felix-k Hopkins.jpg"
+image_caption: "Katie Hopkins’ hate speech goes unpunished."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5866/the-left-has-no-problem-with-free-speech
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +21,6 @@ authors:
  - jr1815
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602051156-felix-k Hopkins.jpg"
-image_caption: ""
 ---
 
 Freedom of speech is the right to speak without censorship or restraint by the government.  At least, that’s what Google says. How does the British establishment fare when we look at restrictions on freedom of speech?

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Michael Krestas makes his top festive food and drink decisions
 date: "2011-12-08 21:47:15 +0000"
-
-# Attributes from Felix Online V1
-id: "1944"
-old_path: /food/1944/a-taste-of-christmas
+image: "http://felixonline.co.uk/img/upload/201112082145-pk1811-330032l.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1944/a-taste-of-christmas
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - mk4410
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082145-pk1811-330032l.jpg"
-image_caption: ""
 ---
 
 __[Hotel Chocolat](http://www.hotelchocolat.co.uk/) is the hotel of your Christmas dreams__

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   People drive cars repeatedly in circles; Henry Lambley investigates
 date: "2014-11-06 19:39:07 +0000"
-
-# Attributes from Felix Online V1
-id: "4780"
-old_path: /sport/4780/is-formula-1-on-a-track-to-disaster-and-uncompetitiveness
+image: "http://felixonline.co.uk/img/upload/201411061938-cj914-1414711932818_wps_108_file_photo_marussia_f1_te.jpg"
+image_caption: "Marussia and Caterham have gone into administration. Could more follow them?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4780/is-formula-1-on-a-track-to-disaster-and-uncompetitiveness
-imported: true
 comments:
  - value: >
      Phnnemeoal breakdown of the topic, you should write for me too!
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +26,6 @@ authors:
  - hdl14
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411061938-cj914-1414711932818_wps_108_file_photo_marussia_f1_te.jpg"
-image_caption: ""
 ---
 
 Formula 1 touched down in Austin, Texas, on Sunday for the 17th race of the season at the Circuit of the Americas. The race was saturated with on-track action with wheel to wheel racing and daring overtakes commonplace. The final result had Lewis Hamilton atop the podium for Mercedes followed in by his team mate Nico Rosberg and Red Bull Renault’s Daniel Ricciardo. One noticeable difference to previous races this season was the reduced line up of just 18 cars as opposed to the normal 22. Backmarkers Caterham and Marussia were not present at the Grand Prix after both teams fell into administration during the two week break after Sochi. While their absence did not have a large impact on the outcome of the race or the excitement of the spectacle, it has served to highlight the extremely expensive nature of the sport and the fine financial margins that teams, especially the smaller ones, work to.

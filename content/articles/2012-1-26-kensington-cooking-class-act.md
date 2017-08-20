@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Yiango Mavrocostanti attended a free cooking session at the Whole Foods Market
 date: "2012-01-26 21:53:27 +0000"
-
-# Attributes from Felix Online V1
-id: "2046"
-old_path: /food/2046/kensington-cooking-class-act
+image: "http://felixonline.co.uk/img/upload/201201262151-ams111-whole-foods-social-space-cooking.jpg"
+image_caption: "All that's missing is Gregg Wallace"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2046/kensington-cooking-class-act
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - ym1310
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201262151-ams111-whole-foods-social-space-cooking.jpg"
-image_caption: ""
 ---
 
 Whole Foods Market is well known for organising great events for food lovers like me. Last week, I discovered that every Wednesday in January they have free cooking sessions. Without thinking it twice, I immediately sent an email to book a place for the January 18 class. Lucky me, I found two places, one for me and one for my friend.

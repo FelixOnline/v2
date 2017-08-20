@@ -4,16 +4,14 @@ title: >
 subtitle: >
   One year on from the real start of the Arab Spring
 date: "2011-11-24 21:26:08 +0000"
-
-# Attributes from Felix Online V1
-id: "1820"
-old_path: /politics/1820/west-sahara-and-the-arab-spring
+image: "http://felixonline.co.uk/img/upload/201111242125-pk1811-imported-photos-00047.jpg"
+image_caption: "One of the long term refugee camps situated in Algeria"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1820/west-sahara-and-the-arab-spring
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +22,6 @@ authors:
  - bbl08
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242125-pk1811-imported-photos-00047.jpg"
-image_caption: ""
 ---
 
 On 10 November 2010 a protest camp in the Western Sahara was brutally dismantled by the Moroccan Government, representing the start of the real Arab Spring. One year on, despite huge media coverage of the Arab Spring, almost no attention has been given to the Western Sahara and its thirty-six year illegal occupation.

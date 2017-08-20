@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Has the news become more concerned about quantity of papers sold rather than quality of news reporting?
 date: "2012-10-11 21:08:34 +0100"
-
-# Attributes from Felix Online V1
-id: "2663"
-old_path: /comment/2663/ferguson-newsweek-and-the-huffington-postisation-of-the-news
+image: "http://felixonline.co.uk/img/upload/201210112208-ar3310-krugman-fergusonrgb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2663/ferguson-newsweek-and-the-huffington-postisation-of-the-news
-imported: true
 comments:
  - value: >
      However, this entire critique essentially rests on the idea that, whereas Ferguson is a sneaky partisan, Krugman is a paragon of trustworthy objectivity. Nothing could be further from the truth; there are few commentators out there more clearly biased and blinkered the Krugman. <br> <br>The problem is the rise of constant-access information - a vacuum must be filled, and as such there is a constant stream of spurious, weasel-worded criticism from all sides which rushes in to fill the airwaves.,Actually, as far as this article is concerned, Krugman seems to serve more as a segue than anything else. ,Built on Sand, what does Krugman's objectivity have to do with anything? The Krugman vs. Ferguson debate is just a jumping off point to discuss what happened. As was pointed out, the Atlantic provides a fact check showing the points Ferguson was wrong about, which turned out to be many points. Ferguson obviously knows the things he wrote were incorrect, being so highly educated. If you have an argument for why the Atlant
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - jwk11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112208-ar3310-krugman-fergusonrgb.jpg"
-image_caption: ""
 ---
 
 Niall Ferguson’s cover story in the latest issue of Newsweek is still generating buzz on the blogosphere. His lengthy editorial “Hit the Road, Barack” took on a barrage of criticism shortly after it hit the shelves (well, the internet). However, the criticism wasn’t about the subjective conceptual hang-ups or reasonable differences of opinion that the right and left usually bandy back and forth.

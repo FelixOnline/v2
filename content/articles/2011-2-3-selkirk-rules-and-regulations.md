@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Selkirk students annoyed at new rules
 date: "2011-02-03 19:45:52 +0000"
-
-# Attributes from Felix Online V1
-id: "724"
-old_path: /news/724/selkirk-rules-and-regulations-
+image: "http://felixonline.co.uk/img/upload/201102031943-ks607-selkirks.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/724/selkirk-rules-and-regulations-
-imported: true
 comments:
  - value: >
      The article does not suggest that Selkirk are the only hall that have these rules, it precisely says, "it seems that only Selkirk has had their regulations reinforced, where one student was ‘shocked’ that it was only their halls." <br> <br>In fact, earlier in the article it says, "Sub-warden James Farley-Nicholls said that they were a “re-emphasis of the pre-existing requirements for living in halls.” These requirements were set for all halls at the beginning of term and are simply being re-enforced more rigorously he argues." <br> <br>Your comment to us was as follows: <br> <br>"These rules apply in Tizard as well and always have done. The student are made aware of them on their first day. I believe rules like these are standard across halls and make it a safe environment for everyone." <br> <br>There is nothing in the article that is made up. The article is already clear about the situation, however, I do concede that your comments would have added further clarity.,Some unis have campus-wide noise curfews, and generally
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102031943-ks607-selkirks.jpg"
-image_caption: ""
 ---
 
 After several recent incidents in Selkirk Halls – mainly involving alcohol – the Wardens have decided to implement a series of rules regarding ‘gatherings’ and noise levels late at night. These regulations request that students inform the wardens about gatherings so that they can be ‘approved’ and have provoked consternation amongst students there. Students have been warned that if gatherings are not reported to Wardens, after repeat offences, they may get fined.

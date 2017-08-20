@@ -4,17 +4,14 @@ title: >
 subtitle: >
   Gambino takes you on a musical journey
 date: "2016-12-09 15:43:57 +0000"
+image: "http://felixonline.co.uk/img/upload/201612091543-felix-Awaken,_My_Love!.jpg"
 draft: true
-
-# Attributes from Felix Online V1
-id: "6578"
-old_path: /music/6578/awaken--my-love-
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6578/awaken--my-love-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612091543-felix-Awaken,_My_Love!.jpg"
-image_caption: ""
 ---
 
 Awaken, Gambino is back! Apart from doing his regular mixtape releases it has been a while since Childish Gambino has released an album to the public. It can be said that Gambino has evolved into a completely different artist since his 2013 debut of Because of the Internet, which was heavily rap based, with standard R&amp;B backbeats to the tracks. His 2014 EP release Kauai already hinted at a change in sound, which is heavily reinforced in his new album Awaken, My Love!.

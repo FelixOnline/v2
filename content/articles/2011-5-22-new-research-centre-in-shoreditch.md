@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial and UCL in East London ‘Tech City’ development
 date: "2011-05-22 13:02:31 +0100"
-
-# Attributes from Felix Online V1
-id: "1240"
-old_path: /news/1240/new-research-centre-in-shoreditch
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1240/new-research-centre-in-shoreditch
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In a speech made to the 2011 Google Zeitgeist conference, Chancellor George Osborne announced that Imperial, in collaboration with UCL, are developing plans for a new Research and Innovation Centre in Shoreditch. The project is part of the Government’s ‘Tech City’ initiative that aims to create a new Silicon Valley in East London.

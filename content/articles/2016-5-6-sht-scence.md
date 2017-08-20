@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-05-06 09:55:06 +0100"
-
-# Attributes from Felix Online V1
-id: "6123"
-old_path: /science/6123/sht-scence
+image: "http://felixonline.co.uk/img/upload/201605061054-felix-10012397964_b7278948d2_k.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6123/sht-scence
-imported: true
 comments:
  - value: >
      Thanks a lot! It is an outstanding webpage!. <br>nba http://www.matt-phelps.com/personal/board/index.php?topic=187806.0,I was just looking at your Sh!t Sc!ence - Science - Felix Online website and see that your website has the potential to become very popular. I just want to tell you, In case you don't already know... There is a website service which already has more than 16 million users, and the majority of the users are interested in websites like yours. By getting your website on this service you have a chance to get your site more visitors than you can imagine. It is free to sign up and you can find out more about it here: http://kbbl.ir/my - Now, let me ask you... Do you need your site to be successful to maintain your way of life? Do you need targeted traffic who are interested in the services and products you offer? Are looking for exposure, to increase sales, and to quickly develop awareness for your site? If your answer is YES, you can achieve these things only if you get your site on the service I am
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -26,12 +23,6 @@ authors:
  - mguenot
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061054-felix-10012397964_b7278948d2_k.jpg"
-image_caption: ""
 ---
 
 At Sh!t Sc!ience, we believe that all science, no matter how stupid it sounds, has a purpose and adds to the sum of human knowledge. This week: the science of gingerness.

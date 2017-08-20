@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jack Steadman tells us why Wilde's wit is the best around
 date: "2015-03-06 14:05:53 +0000"
-
-# Attributes from Felix Online V1
-id: "5354"
-old_path: /arts/5354/my-favourite-play--the-importance-of-being-earnest
+image: "http://felixonline.co.uk/img/upload/201503061405-ff712-oscar_wilde_by_napoleon_sarony_(1821-1896)_number_18_ba.jpg"
+image_caption: "Portrait of Oscar Wilde, Napoléon Sarony, 1882 "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5354/my-favourite-play--the-importance-of-being-earnest
-imported: true
 comments:
  - value: >
      louboutin pointed toe canada <br>christian louboutin sale canada http://christianlouboutincanadaoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - js5913
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503061405-ff712-oscar_wilde_by_napoleon_sarony_(1821-1896)_number_18_ba.jpg"
-image_caption: ""
 ---
 
 I have such an obvious fondness for _Arcadia_ – and for Stoppard’s work in general – that my picking it as my favourite play seems like a foregone conclusion. So let’s side step that conversation by turning straight to my second-favourite play. Now comes the requirement to actually think about the answer to this.

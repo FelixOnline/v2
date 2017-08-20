@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Nathaniel Gallop on why losing control in US Politics can be good
 date: "2014-11-06 18:40:09 +0000"
-
-# Attributes from Felix Online V1
-id: "4765"
-old_path: /comment/4765/the-midterms-why-every-red-cloud-has-a-blue-lining
+image: "http://felixonline.co.uk/img/upload/201411102227-ps3110-141104111650-midterm-elections-2014-pivit-620xa.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4765/the-midterms-why-every-red-cloud-has-a-blue-lining
-imported: true
 comments:
  - value: >
      Couldnt agree more. What's not being discussed enough however is the role played by 6 years of concerted Republican Gerrymandering of congressional districts , the 'early' stage impact of Voter ID/Poll tax implementation and the oversized impact of post Citizen-United campaign financing. Sad state of affairs or maybe the Perfect GOP Storm! ,This hotel is a four . 5 star choice located in the business location. Baseball used regarding the reason I woke up on the inside morning. Rondo's contract also makes him a captivating piece. <br>fifa 16 hack http://creditsfut.com/
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102227-ps3110-141104111650-midterm-elections-2014-pivit-620xa.jpg"
-image_caption: ""
 ---
 
 The votes have been cast, the results are in, and the outcome is far from unexpected. The Democrats have been unceremoniously kicked out of Capitol Hill.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Or, the merits of Pyramid Head over generic space monster battles
 date: "2012-05-10 19:31:08 +0100"
-
-# Attributes from Felix Online V1
-id: "2433"
-old_path: /games/2433/the-horror-of-the-modern-day-horror
+image: "http://felixonline.co.uk/img/upload/201205102031-felix-pyramid_head.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2433/the-horror-of-the-modern-day-horror
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - lap08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205102031-felix-pyramid_head.jpg"
-image_caption: ""
 ---
 
 Regular readers might know I’ve covered a few horror games in my time – [_Amnesia: The Dark Descent_](http://www.youtube.com/watch?v=u1nY_5-UrY4), [_Dead Rising 2_](http://www.youtube.com/watch?v=uUdA2VVNY3w), [_Dead Space 2_](http://www.youtube.com/watch?v=z7Qy_4sWs3I), [_Limbo_](http://www.youtube.com/watch?v=Y4HSyVXKYz8), and how could I fail to mention [_Baron Wittard: Nemesis of Ragnarok_](http://www.youtube.com/watch?v=zDJt-95F8jA) (a game as scary as a furious kitten). I’ve also played a good few games I haven’t written about. Why am I telling you this? Beyond proving I have no social life, I also hope to demonstrate that I’m rather partial towards horror games. They offer a unique gaming experience – when done well.

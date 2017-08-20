@@ -4,16 +4,13 @@ title: >
 subtitle: >
   On Saturday 19th February 2011, Felix hosted its first Music Night at Metric. It was a glorious event
 date: "2011-02-28 21:25:25 +0000"
-
-# Attributes from Felix Online V1
-id: "946"
-old_path: /music/946/1902-felix-music-night
+image: "http://felixonline.co.uk/img/upload/201102282123-ks607-tincan44.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/946/1902-felix-music-night
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - gep07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102282123-ks607-tincan44.jpg"
-image_caption: ""
 ---
 
 This one goes out to all the cool cats and saucy mamas who turned up for the first ever Felix Music Night on Saturday 19th February. I hope all 250 people who were there that night had a great time, and from the looks on people’s faces as they left Metric when the event was over, I believe it was a great success.

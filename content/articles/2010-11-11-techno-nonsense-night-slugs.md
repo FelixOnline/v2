@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Simon Hunter continues his tour of the electronic realm with London’s Night Slugs
 date: "2010-11-11 21:24:41 +0000"
-
-# Attributes from Felix Online V1
-id: "362"
-old_path: /music/362/techno-nonsense-night-slugs
+image: "http://felixonline.co.uk/img/upload/201011112122-ks607-ivisboki.jpg"
+image_caption: "Founders L-Vis 1990 and Bok Bok"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/362/techno-nonsense-night-slugs
-imported: true
 comments:
  - value: >
      NIGHT SLUGSSS!!!! Night slugs. <br> <br>Better get down to the night slugs party tonight then!!!,Let's get steaming!
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +26,6 @@ authors:
  - sh1207
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011112122-ks607-ivisboki.jpg"
-image_caption: ""
 ---
 
 In this, my second installment of Techno Nonsense, a feature dedicated to highlighting the big players in electronic dance music right now, I’m going to hit you with [Night Slugs](http://nightslugs.net/).

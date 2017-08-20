@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Congress might be taking things a step too far
 date: "2012-05-24 23:14:21 +0100"
-
-# Attributes from Felix Online V1
-id: "2486"
-old_path: /comment/2486/is-the-right-to-know-right
+image: "http://felixonline.co.uk/img/upload/201205250013-mc4509-capitol-building-washington.jpg"
+image_caption: "The question of whether or not Congress should dictate morality is key"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2486/is-the-right-to-know-right
-imported: true
 comments:
  - value: >
      Just wanted to say this was a really good read. With this bill, the proposed amendments to the Violence Against Women Act, and the restriction of birth control it seems like such a massive step backwards for women's rights in America.,Informed consent-It is the document you sign before you have any surgical procedure. It states that the risks and benefits of the procedure you are about to undergo have been explained, and requires that you sign that you understand them. You must be fully informed of your options. That is the medical legal law. Nothing to do with Congress. Technology has developed the tools to give us more information. Many medical tests are invasive. To ignore it is illegal, medically unethical, and as negligent as to omitting a test, or not informing you of any test results pertinent to your surgical situation. You are dealing with two lives here...Sorry that sounds so "moral". It is actually scientific.,Yes Anonymous, it's important to have full informed consent for any medical procedure.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205250013-mc4509-capitol-building-washington.jpg"
-image_caption: ""
 ---
 
 On the U.S. political scene, a Republican sponsored bill is causing quite a stir. The “[Women’s Right to Know Act](http://www.health.state.mn.us/wrtk/index.html)” requires females seeking to have an abortion to first undergo an invasive transvaginal ultrasound. This is a procedure that involves what is known as a “10-inch plastic wand” to be inserted into the vagina. The purpose is to dissuade women from having an abortion by forcing them to acknowledge the fetus that they intend to abort. In some states, congressional members have suggested that women should also be made to listen to the heartbeat of the fetus before they are able to proceed with an abortion.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Obviously, the headline joke is rendered inaccurate when faced with the limitless storage space of the Felix servers
 date: "2011-11-18 00:42:07 +0000"
-
-# Attributes from Felix Online V1
-id: "1799"
-old_path: /comment/1799/this-title-doesnt-fit-thats-quite-emba
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1799/this-title-doesnt-fit-thats-quite-emba
-imported: true
 comments:
  - value: >
      For a bit I thought this was a sincere bit about social awkwardness and then I realised it was just "embarrassing things happen to me!!" which is hardly worth writing an article about because generally nobody really gives a shit,Actually, that's really rude, please pretend I didn't say the second half of that. I still don't "get" the article though? Care to explain? I have a ton of sympathy for doing really awkward shit and either it's a serious enough issue you should seek counselling to get over your negative self image or it's not that serious in which case it's just Something That Happens,lol,you're right and i'd like to apologise for being rude about the article. i still don't quite "get" it, but there's no reason to say mean things just cause i don't think it's that great cause that's really prickish,I'm voting karapetian. This is just bollocks for the sake of it.,I don't comment on here, but after seeing that last reply I just had to. <br> <br>I don't know what 'bollocks' they were reading, but I know that I
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I don’t really know how to start this article. That’s quite embarrassing. Then again, I think that’s a recurring theme in my life. I always find a way to embarrass myself. In a way I’m like Bob Dylan. Except it’s embarrassment’s door that I’m knock knock knocking on. I then realise that I’ve actually got the wrong door, just as it’s too late and the person who lives there is opening it.

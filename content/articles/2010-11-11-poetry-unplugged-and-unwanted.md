@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The Poetry Café's Poetry Unplugged night is a nice idea, but ultimately a bit shit
 date: "2010-11-11 20:24:23 +0000"
-
-# Attributes from Felix Online V1
-id: "333"
-old_path: /arts/333/-poetry-unplugged-and-unwanted
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/333/-poetry-unplugged-and-unwanted
-imported: true
 comments:
  - value: >
      Thank you for the multitude of comments on this article. You may not have noticed it's over a year old. <br> <br>Unfortunately, in classic poet form, you've not actually responded to any of the criticisms in the article (the venue was "uninspiring" and not really suited to poetry, the poetry wasn't just bad, it was "gibberish" etc etc.) and instead you've decided to just list some of the famous people that once went there (meaningless) and then spouted some marketing-publicity spam (also meaningless). If you have some genuine responses, please do comment again. <br> <br>Also, whilst we appreciate your opinion, inciting hatred from your account on Twitter (http://twitter.com/#!/poetniall/status/112893393373380608) only reinforces your "sore loser" attitude (and if you think this review is "nasty", you have much to learn). It's one thing to post a link but to gather up your little "Twitter-mob" of poets and come over here and personally attack the reviewer herself is just a little childish.,If you believe that your comment
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Poetry Café is a sweet little place with a rather unattractive poetry night, [Poetry Unplugged](http://www.poetrysociety.org.uk/content/cafe/events/), on Tuesday evenings. Poetry Unplugged gives anyone the opportunity to read poetry in public. Amateur poets can read their poetry in public to an accepting audience. Unfortunately, the mix of amateur poets and nice audience members make for some truly terrible poetry. Any mildly good verse was quickly outshone by a host of overly emotional, unoriginal or simply crazy sonnets.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Roland Sookias chats to Innovation Society President Nigel Kheng about their latest project
 date: "2011-02-03 20:38:24 +0000"
-
-# Attributes from Felix Online V1
-id: "751"
-old_path: /biz/751/iconnect-eat-for-cheap
+image: "http://felixonline.co.uk/img/upload/201102032036-nm1010-iconnecc.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/751/iconnect-eat-for-cheap
-imported: true
 comments:
  - value: >
      The deal varies every week (Tuesday to Mondays) so make sure you get them before it ends ! <br>If you missed any and would like it to be featured feel free to contact us on innosoc@imperial.ac.uk ! <br>Theatre deals for Les Mis coming up end of this week, limited tickets at 50% off ! ,Look, as much credit as I give to the Innovation Society for at least atempting this, it simply won't work for 2 main reasons: <br> <br>a) The website design and usability is very poor at least <br>b) The deals are, unfortunately, just not good enough. The reason sites like Groupon and LivingSocial manage to work is because they offer SIGNIFICANT discounts (read 60%+ on things that one wouldn't usually think about buying). These deals should be about converting people to products, not making it better for the few that are already going to the restaurants, or buying the stuff. <br> <br>This said, I do see potential for the 'marketplace' aspect of the website. Unfortunately these are fed through external sites and not that relevant to Imperial stude
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -28,12 +25,6 @@ authors:
  - rs4409
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102032036-nm1010-iconnecc.jpg"
-image_caption: ""
 ---
 
 __So what is ‘iConnect’?__

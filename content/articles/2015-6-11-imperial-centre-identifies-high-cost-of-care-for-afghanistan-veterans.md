@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Philip Kent reports on the findings from the Royal British Centre for Blast Injury Studies
 date: "2015-06-11 22:13:54 +0100"
-
-# Attributes from Felix Online V1
-id: "5611"
-old_path: /news/5611/imperial-centre-identifies-high-cost-of-care-for-afghanistan-veterans
+image: "http://felixonline.co.uk/img/upload/201506112313-cj914-blast-centre.jpg"
+image_caption: "Prince Harry opened the Centre for Blast Injury Studies in 2013."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5611/imperial-centre-identifies-high-cost-of-care-for-afghanistan-veterans
-imported: true
 comments:
  - value: >
      fitflop electra cheapest <br>fitflop sandals clearance http://fitflopssalesingapore.blogspot.com/,fitflops compare price <br>fitflop online http://australiafitflops.iemiller.net/,birkenstock gizeh sandals <br>birkenstock arizona sandals http://birkenstockaustralia.blogspot.com/,Naming its team in within the of European clubs like Leeds United and Manchester United, H.C. So just how this method means in fifa ultimate team? Its when players would be most valuable. <br>crÃ©dits fut rapidement http://creditsfut.com/,louboutin online <br>cheap christian louboutin http://canadachristianlouboutinoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506112313-cj914-blast-centre.jpg"
-image_caption: ""
 ---
 
 Researchers at the Royal British Legion Centre for Blast Injury Studies have valued the cost of caring for members of the armed forces serving in Afghanistan who have lost limbs at just under £290 million.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   It’s the university equivalent of a beauty paegant
 date: "2016-03-04 11:32:06 +0000"
-
-# Attributes from Felix Online V1
-id: "6000"
-old_path: /comment/6000/the-elections-are-a-popularity-contest
+image: "http://felixonline.co.uk/img/upload/201603041131-felix-TBL_BIG_ELECTIONS_2015_22h50m48sa_0.jpg"
+image_caption: "The beautiful people. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6000/the-elections-are-a-popularity-contest
-imported: true
 comments:
  - value: >
      Student union politics are irrelevant, so who cares? Being a 'sabb' is just a CV-padding method of wasting an entire year of your life doing something pointless.,Student union politics are irrelevant, so who cares? Being a 'sabb' is just a CV-padding method of wasting an entire year of your life doing something pointless.,So totally unlike future employment, then.,So totally unlike future employment, then.,Student politics CAN be a force for real political mobilization just not at a school like Imperial, where everyone is apolitical and trained to be a good, obedient worker for large corporations and banks,Student politics CAN be a force for real political mobilization just not at a school like Imperial, where everyone is apolitical and trained to be a good, obedient worker for large corporations and banks,Democracy isn't a perfect system. We all know this, and in case we didn't know this the returning officer mentions it at the beginning of each election cycle. Part of the reason Student Union elections are
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +24,6 @@ authors:
  - tad08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603041131-felix-TBL_BIG_ELECTIONS_2015_22h50m48sa_0.jpg"
-image_caption: ""
 ---
 
 Year on year, students put themselves forward as candidates for leadership positions in the Union because they feel strongly that things need to change, and they think that their ideas and their drive can help implement that. They campaign, putting their faces and ideas out there, and, in the case of the sabbatical officers, some earn themselves a job at the end of it. But is this fair?

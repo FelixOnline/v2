@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sophia Goldberg on how to bring out your pumpkins’ inner ghouls
 date: "2012-10-26 02:54:25 +0100"
-
-# Attributes from Felix Online V1
-id: "2760"
-old_path: /food/2760/patches-of-pumpkins
+image: "http://felixonline.co.uk/img/upload/201210291918-tna08-step1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2760/patches-of-pumpkins
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210291918-tna08-step1.jpg"
-image_caption: ""
 ---
 
 For the perfect pumpkin you will need a pumpkin (surprise surprise), a large spoon, a pencil, a and tea light, one small and one large knife, plus lots of newspaper. If you plan on carving multiple pumpkins it’s best to do it outside. If you’re cutting them inside, be sure to cover the table properly with newspaper.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Idea proposed of changing Sabbatical roles
 date: "2012-06-08 08:35:07 +0100"
-
-# Attributes from Felix Online V1
-id: "2542"
-old_path: /news/2542/low-turnout-for-general-meeting
+image: "http://felixonline.co.uk/img/upload/201206080934-mc4509-news2.jpg"
+image_caption: "The meeting took the form of an informal discussion"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2542/low-turnout-for-general-meeting
-imported: true
 comments:
  - value: >
      A Postgrad Sabbatical Officer. <br> <br>Jesus they'll be queuing round the block for that. ,A Postgrad Sabbatical Officer. <br> <br>Jesus they'll be queuing round the block for that. ,Great - so sabbaticals want to be able to ignore council by dominating the trustee board. <br> <br>Council needs to reject these changes if it wants part time officers and elected representatives to have a serious voice.,Great - so sabbaticals want to be able to ignore council by dominating the trustee board. <br> <br>Council needs to reject these changes if it wants part time officers and elected representatives to have a serious voice.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +28,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206080934-mc4509-news2.jpg"
-image_caption: ""
 ---
 
 The [Imperial College Union General Meeting](http://www.imperialcollegeunion.org/data/files/generalmeetingfinal-1085.pdf) was held on Wednesday 6 June, with several ideas proposed that could see the structure of the Union considerably change.

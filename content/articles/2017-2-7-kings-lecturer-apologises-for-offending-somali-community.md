@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Perkins tweets public apology following felix investigation
 date: "2017-02-07 15:15:42 +0000"
-
-# Attributes from Felix Online V1
-id: "6741"
-old_path: /news/6741/kings-lecturer-apologises-for-offending-somali-community
+image: "http://felixonline.co.uk/img/upload/201702071512-felix-8381100558_c20e29bf98_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6741/kings-lecturer-apologises-for-offending-somali-community
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ea3211
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702071512-felix-8381100558_c20e29bf98_o.jpg"
-image_caption: ""
 ---
 
 Dr Adam Perkins, the King’s lecturer who last week sparked public outrage after a series of offensive tweets were brought to the attention of King’s Intersectional Feminist Community, has issued a public apology on twitter.

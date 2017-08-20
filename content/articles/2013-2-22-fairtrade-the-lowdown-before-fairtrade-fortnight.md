@@ -4,16 +4,13 @@ title: >
 subtitle: >
   What is Fairtrade? And What does being a Fairtrade university mean. Aditya Narayanan and Nicholas Greenwood get you up to speed
 date: "2013-02-22 02:40:20 +0000"
-
-# Attributes from Felix Online V1
-id: "3375"
-old_path: /news/3375/fairtrade-the-lowdown-before-fairtrade-fortnight
+image: "http://felixonline.co.uk/img/upload/201302220236-tna08-fair-trade-water-well-sign.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3375/fairtrade-the-lowdown-before-fairtrade-fortnight
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302220236-tna08-fair-trade-water-well-sign.jpg"
-image_caption: ""
 ---
 
 ## What is Fairtrade?

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Caz Knight is lured by the legendary Faust to the opera for the first time but is disappointed.
 date: "2010-09-23 10:31:31 +0100"
-
-# Attributes from Felix Online V1
-id: "159"
-old_path: /arts/159/the-enos-new-season-kicks-off-with-a-new-version-of-gounods-faust
+image: "http://felixonline.co.uk/img/upload/201009231125-ck806-faust.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/159/the-enos-new-season-kicks-off-with-a-new-version-of-gounods-faust
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - ck806
  - jk708
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201009231125-ck806-faust.jpg"
-image_caption: ""
 ---
 
 One expects one's first trip to the opera to dazzle. Or one expects to be overwhelmed by its cultural gravitas and highbrow nature. Naively thinking that opera would be free from the gimmicks and glitz of musical theatre, this reviewer's first foray into opera left a lot to be desired. Staged in the opulent and spectacular London Coliseum, the English National Opera have teamed up with the Metropolitan Opera, New York, to create Gounod's _Faust_ and begin the ENO's new season 2010/11.

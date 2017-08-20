@@ -4,18 +4,16 @@ title: >
 subtitle: >
   A study has revealed the reason why the East Antarctic Ice Shelf is thinning so rapidly
 date: "2015-03-19 23:46:47 +0000"
-
-# Attributes from Felix Online V1
-id: "5409"
-old_path: /news/5409/newly-discovered-valley-channels-warm-water-to-melt-antarctic-glacier
+image: "http://felixonline.co.uk/img/upload/201503192347-cj914-research-plane.png"
+image_caption: "A research plane flies over Totten Glacier"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5409/newly-discovered-valley-channels-warm-water-to-melt-antarctic-glacier
-imported: true
 comments:
  - value: >
      wow think how glaciers will be in 700 years,fitflops sale au <br>fitflop buy online http://fitflopsau.blogspot.com/,fitflop shops <br>buy cheap fitflops http://fitflopsau.blogspot.com/,http://www.coachfactorys.us.com/ coach factory <br> http://www.michael-korsoutlet.xyz/ michael kors outlet online <br> http://www.wholesale-oakley-sunglasses.com/ oakley sunglasses wholesale <br> http://www.rboutlet2015.net/ ray ban outlet <br> <br>cheap ray ban sunglasses http://www.rboutlet2015.net/,http://www.outlet-coach.cc/ coach outlet <br> http://www.cheapraybansales.net/ cheap ray ban sunglasses <br> http://oakley.outletstore.us.com/ oakley sunglasses <br> http://www.raybanussales.com/ ray ban sunglasses outlet <br> <br>coach factory outlet http://www.coachusaoutlet.net/,http://www.coach-factory-outlet.xyz/ coach factory outlet <br> http://www.official-mkoutlet.cc/ michael kors outlet <br> http://www.cheapoakleys.xyz/ oakley sunglasses wholesale <br> http://raybanoutlet.kenyanproducts.com cheap ray ban sunglasses <br> <br>
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503192347-cj914-research-plane.png"
-image_caption: ""
 ---
 
 Scientists from Imperial College London have revealed that the melting and thinning of Totten Glacier in East Antarctica is being accelerated by a valley underneath the ice shelf channelling warm water to the base of the glacier.

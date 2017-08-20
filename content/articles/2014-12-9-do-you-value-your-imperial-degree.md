@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tell Felix in our new survey to determine just how much time, effort and money you think your degree is worth
 date: "2014-12-09 14:51:41 +0000"
-
-# Attributes from Felix Online V1
-id: "5021"
-old_path: /news/5021/do-you-value-your-imperial-degree
+image: "http://felixonline.co.uk/img/upload/201412091503-ps3110-degree_scroll_and_morter_4.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5021/do-you-value-your-imperial-degree
-imported: true
 comments:
  - value: >
      Brazil is going to dominate with regards to of ball possession, and create the most opportunities. Throw within the next two best point guards - Eva longoria and Chauncey Billups. <br>crÃ©dits fifa gratuit http://creditsfut.com/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412091503-ps3110-degree_scroll_and_morter_4.jpg"
-image_caption: ""
 ---
 
 Felix is launching a survey to find out of Imperial students are satisfied with their course, and see if students feel their degrees are value for money.

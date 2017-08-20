@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The nuclear sector has contributed £9.36 million
 date: "2017-06-02 13:49:28 +0100"
-
-# Attributes from Felix Online V1
-id: "6997"
-old_path: /news/6997/atomic-funding-pours-into-imperial
+image: "http://felixonline.co.uk/img/upload/201706021549-felix-trident sub.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6997/atomic-funding-pours-into-imperial
-imported: true
 comments:
  - value: >
      Oh look, another Felix article snarkily reporting on funding sources for research at Imperial. Sometimes I wonder if the writers and editors at Felix forget that Imperial is a world leading STEM-focussed university, perhaps they wish they were studying at Goldsmith's or SOAS instead where they can be funded to research feminist perspectives on Harry Potter instead?<br>A little nuance wouldn't go amiss. Research funding is increasingly more difficult to secure in this day any age, especially for blue-skies projects, and so turning to less-than-palatable sounding organisations for funding is sometimes necessary if we are to carry out world leading research. Money from military organisations, money from oil and gas companies is not automatically bad, these organisations aren't cracking the whip asking our scientists to deliver cheaper atomic bombs or more efficient oil production methods by a specific deadline. You even said it yourselves: "Although Imperial might not be directly involved in the development of nuc
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - jmw216
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706021549-felix-trident sub.jpg"
-image_caption: ""
 ---
 
 The Atomic Weapons Establishment (AWE) has long been responsible for the UK’s nuclear deterrence programme. In addition to providing the nuclear warheads for each of the Vanguard submarines that make up Trident, the AWE contributes significant amounts to the coffers of Imperial.

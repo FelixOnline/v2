@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Philippa Skett on the silver lining that is coming to a crotch near you
 date: "2014-01-31 17:16:41 +0000"
-
-# Attributes from Felix Online V1
-id: "4315"
-old_path: /science/4315/shine-bright-like-a-vagina
+image: "http://felixonline.co.uk/img/upload/201401311718-jal08-silver-3.jpg"
+image_caption: "The contents of your pants could one day look like this "
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4315/shine-bright-like-a-vagina
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - jal08
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201401311718-jal08-silver-3.jpg"
-image_caption: ""
 ---
 
 What’s hard, metallic and found down your pants? Despite the common answer to this usually referring to some sort of recreational, copulation mimicry device, perhaps owned by a maternal figure, this time, the answer may in fact be an anti-viral cream.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The building contractor has already sponsored a centre in the Civil Engineering Department
 date: "2016-05-06 09:45:15 +0100"
-
-# Attributes from Felix Online V1
-id: "6117"
-old_path: /news/6117/laing-orourke-awarded-another-imperial-contract
+image: "http://felixonline.co.uk/img/upload/201605061044-felix-west.jpg"
+image_caption: "It’s looks alright, I guess."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6117/laing-orourke-awarded-another-imperial-contract
-imported: true
 comments:
  - value: >
      You're a very useful internet site; couldn't make it without ya! <br>madden 17 coins http://party.biz/blogs/53/269/madden-17-coins-games-for-the-xbox-360,You're a very useful internet site; couldn't make it without ya! <br>madden 17 coins http://party.biz/blogs/53/269/madden-17-coins-games-for-the-xbox-360
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061044-felix-west.jpg"
-image_caption: ""
 ---
 
 This week it was announced that the contract for the large tower to be constructed at the Imperial West campus will be given to Laing O’Rourke.

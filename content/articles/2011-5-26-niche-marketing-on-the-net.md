@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Nitin Nihalani from Imperial Entrepreneurs’ Society on the power of specialising
 date: "2011-05-26 19:22:41 +0100"
-
-# Attributes from Felix Online V1
-id: "1259"
-old_path: /biz/1259/niche-marketing-on-the-net
+image: "http://felixonline.co.uk/img/upload/201105262020-felix-dog.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/1259/niche-marketing-on-the-net
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -24,12 +21,6 @@ authors:
  - cjb07
  - nbn10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105262020-felix-dog.jpg"
-image_caption: ""
 ---
 
 These days it is quite difficult to find something in common with everyone in the world, apart from being human, but there is one thing that comes close: Internet users. There are about 2 billion of them according to [internetworldstats.com](http://internetworldstats.com). From a business point of view, this is the biggest market sitting in one place, but what product or service can you provide for all of them?

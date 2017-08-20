@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Local Natives: Hummingbird
 date: "2013-02-01 00:57:29 +0000"
-
-# Attributes from Felix Online V1
-id: "3237"
-old_path: /music/3237/ams-album-of-the-week-10
+image: "http://felixonline.co.uk/img/upload/201302010057-tna08-preorder.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3237/ams-album-of-the-week-10
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - sm5810
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302010057-tna08-preorder.jpg"
-image_caption: ""
 ---
 
 Local Natives have never been groundbreaking. They stood out not because they were doing something different to their peers, but because they were doing it quite well. Their second album, Hummingbird, does not break the trend. It wears its influences on its sleeve and they’re pretty much the same as last time round. It’s a fairly well informed American indie record. Grizzly Bear, Animal Collective, a little Fleet Foxes, Grizzly Bear, a bit of Broken Social Scene and Grizzly Bear. Yeah alright, it’s essentially just slightly poppier Grizzly Bear.

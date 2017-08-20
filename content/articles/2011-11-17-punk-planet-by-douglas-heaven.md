@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This week: High Dependency Unit
 date: "2011-11-17 21:34:31 +0000"
-
-# Attributes from Felix Online V1
-id: "1780"
-old_path: /music/1780/punk-planet-by-douglas-heaven
+image: "http://felixonline.co.uk/img/upload/201111172134-pk1811-high+dependency+unit+promo3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1780/punk-planet-by-douglas-heaven
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172134-pk1811-high+dependency+unit+promo3.jpg"
-image_caption: ""
 ---
 
 You can’t go much further than Dunedin, New Zealand, before you’re on the way back again. Nearly 20,000 kilometres away, give or take, it’s probably the remotest city in the world.

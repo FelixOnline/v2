@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Sound of Music is without doubt one of the most beloved films of all time whether you like it or not. There isn’t a Christmas that goes by without Julie Andrews running on top of a hill singing at the top of her lungs...
 date: "2014-03-07 05:54:28 +0000"
-
-# Attributes from Felix Online V1
-id: "4468"
-old_path: /tv/4468/the-sound-of-cringe
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4468/the-sound-of-cringe
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Sound of Music is without doubt one of the most beloved films of all time whether you like it or not. There isn’t a Christmas that goes by without Julie Andrews running on top of a hill singing at the top of her lungs, making the moody yet a-true-softie-at-heart Christopher Plummer fall in love with her, dressing the von Trapp children in those hideous curtain clothes and together sneakily escaping the Nazis in their final moment of hurrah. And so it’s understandable why there was so much social media hate and concern when American Idol winning country music star Carrie Underwood was chosen to play the lead, something the von Trapps themselves were not too happy about, instead suggesting Academy Award-winning Anne Hathaway for the role.

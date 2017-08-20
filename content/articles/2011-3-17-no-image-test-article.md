@@ -4,19 +4,16 @@ title: >
 subtitle: >
   No image test article
 date: "2011-03-17 20:23:42 +0000"
+image: "http://felixonline.co.uk/img/upload/201103172057-ks607-small_oxford.jpg"
 draft: true
-
-# Attributes from Felix Online V1
-id: "1091"
-old_path: /arts/1091/no-image-test-article
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1091/no-image-test-article
-imported: true
 comments:
  - value: >
      Test comment!,Test reply,Second test reply,Final test reply!,Just making sure logged in comments still work,Test external comment,Test external reply,Test comment - ignore me!,And another, sorry Kadhim!
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103172057-ks607-small_oxford.jpg"
-image_caption: ""
 ---
 
 No image test articleNo image test articleNo image test article

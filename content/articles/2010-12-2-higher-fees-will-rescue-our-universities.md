@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Every other sector faces wage-freezes, mass redundancies or unemployment
 date: "2010-12-02 21:39:27 +0000"
-
-# Attributes from Felix Online V1
-id: "493"
-old_path: /comment/493/higher-fees-will-rescue-our-universities
+image: "http://felixonline.co.uk/img/upload/201012022131-nm1010-higherfe.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/493/higher-fees-will-rescue-our-universities
-imported: true
 comments:
  - value: >
      http://zvito.com Free Classifieds Free Classifieds <br><a href="http://zvito.com">Online Classifieds</a> Online Classifieds,Thats more than ssenible! Thats a great post!,gMEEF5 <a href="http://bsckkqaeljqj.com/">bsckkqaeljqj</a>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +23,6 @@ authors:
  - lmh07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022131-nm1010-higherfe.jpg"
-image_caption: ""
 ---
 
 In mid September, Europe began to howl. Guttural, deep, pained. On one day, Spain joined Italy, France and Ireland in staging a General Strike. The hot streets of Cadiz thronged with protesters; shops had doors glued or taped shut. Europe had arisen to protest austerity measures imposed to combat massive national debt (16% of GDP in Spain’s case). Their people faced lowered minimum wage, mass unemployment (peaking at 20%) and stark cuts in order to meet Prime Minister Zapatero’s aggressive plan to reduce debt.

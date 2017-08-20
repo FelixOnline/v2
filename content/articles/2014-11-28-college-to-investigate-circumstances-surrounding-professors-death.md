@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Professor Grimm passed away in September of this year
 date: "2014-11-28 00:36:34 +0000"
-
-# Attributes from Felix Online V1
-id: "4960"
-old_path: /news/4960/college-to-investigate-circumstances-surrounding-professors-death
+image: "http://felixonline.co.uk/img/upload/201411280036-ps3110-article-0-02676b1e0000044d-782_468x371.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4960/college-to-investigate-circumstances-surrounding-professors-death
-imported: true
 comments:
  - value: >
      fitflop shoes australia <br>fitflop australia http://www.australiafitflops.com/,new fit flops <br>fitflops online sale http://fitflopsau.blogspot.com/,where to buy fitflops <br>fitflops australia outlet http://australiafitflops.blogspot.com/,buy fitflops <br>fitflops australia clearance http://fitflopsau.blogspot.com/,discount birkenstock <br>birkenstock sydney http://birkenstockaustraliamalls.com/,birkenstock outlet online <br>birkenstock discount http://birkenstockaustralia.blogspot.com/,louboutin pointed toe canada <br>christian louboutin shoes outlet http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin prices <br>christian louboutin shoes outlet http://canadachristianlouboutinoutlet.blogspot.com/,louboutin boots canada <br>christian louboutin online outlet http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin peep toes shoes <br>christian louboutin online store http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin sneakers canada <br>christian louboutin shoes online http://canadachri
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411280036-ps3110-article-0-02676b1e0000044d-782_468x371.jpg"
-image_caption: ""
 ---
 
 A professor from the Faculty of Medicine, Professor Stefan Grimm, was found dead in September of this year in Northwood, Middlesex.

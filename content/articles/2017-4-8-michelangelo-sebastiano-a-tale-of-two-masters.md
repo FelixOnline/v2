@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A stunning new exhibition at the National Gallery brings the grandeur of Italy's Renaissance to London
 date: "2017-04-08 22:52:55 +0100"
-
-# Attributes from Felix Online V1
-id: "6925"
-old_path: /arts/6925/michelangelo--sebastiano--a-tale-of-two-masters
+image: "http://felixonline.co.uk/img/upload/201704090056-im1413-Sebastiano_del_Piombo,_The_Raising_of_Lazarus.jpg"
+image_caption: "Detail from Sebastiano del Piombo, incorporating designs by Michelangelo, ‘The Raising of Lazarus’, 1517–19 | The National Gallery "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6925/michelangelo--sebastiano--a-tale-of-two-masters
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - im1413
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201704090056-im1413-Sebastiano_del_Piombo,_The_Raising_of_Lazarus.jpg"
-image_caption: ""
 ---
 
 The National Gallery’s blockbuster show on Michelangelo Buonarroti and his lesser known contemporary and friend, Sebastiano del Piombo attempts to bring the extraordinary beauty of Italy’s great piazzas and churches to London. Jaw-dropping works, from quickfire sketches on the back of boards to huge  perfectly formed sculptures are on display over six  rooms. In surely what is a first for any London gallery, one room houses an almost 1:1 scale 3-D model of the painted altar in the church of San pietro in Montorio Rome. Commissioned by Michelangelo’s banker friend Pierfransceso Borgherini, the fresco was painted by Sebastiano but the preliminary sketches for the central panel _The Flagellation of Christ_ were supplied by Michelangelo.

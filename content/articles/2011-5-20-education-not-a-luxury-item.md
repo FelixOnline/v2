@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The purpose of education isn’t to serve the country, it is to serve everyone
 date: "2011-05-20 05:55:00 +0100"
-
-# Attributes from Felix Online V1
-id: "1231"
-old_path: /comment/1231/education-not-a-luxury-item
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1231/education-not-a-luxury-item
-imported: true
 comments:
  - value: >
      Hey, youre the goto expert. Tahkns for hanging out here.,YrF7Ot <a href="http://hhksztlkvjwv.com/">hhksztlkvjwv</a>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - mrangry
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The old adage about not discussing religion or politics with people is not to avoid arguments, it is because doing so makes one far too aware of how completely objectionable every other human being on the planet is. I found this out last week while responding to various opinions on the education sodomy I wrote about. People whom I had previously considered to be mildly disagreeable pieces of raw white onion in the otherwise tasty salad of life are suddenly revealed to be flecks of grated cat scrotum dipped in vomit. And the only seasonings available to mask the taste are blind ignorance and seething acceptance.

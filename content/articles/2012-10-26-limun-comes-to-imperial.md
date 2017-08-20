@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Franca Hoffmann discusses politicians-to-be coming to campus
 date: "2012-10-26 02:02:00 +0100"
-
-# Attributes from Felix Online V1
-id: "2733"
-old_path: /news/2733/limun-comes-to-imperial
+image: "http://felixonline.co.uk/img/upload/201210260301-tna08-new-york-united-nations-building-15541.jpg"
+image_caption: "It probably won't be this empty..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2733/limun-comes-to-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210260301-tna08-new-york-united-nations-building-15541.jpg"
-image_caption: ""
 ---
 
 From 15 – 17th February 2013, you will see numerous important looking people in black suits and formal dresses run around our campus. And you may wonder what it could be causing this invasion of foreigners. Let me give you some insight into the big things happening at Imperial.

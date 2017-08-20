@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tom Rivlin reviews the highlights of an absolutely crazy cartoon
 date: "2015-02-12 23:19:04 +0000"
-
-# Attributes from Felix Online V1
-id: "5248"
-old_path: /tv/5248/how-adventure-time-saved-cartoon-network
+image: "http://felixonline.co.uk/img/upload/201502122312-jyg11-bravest-warriors-cmyk.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5248/how-adventure-time-saved-cartoon-network
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +21,6 @@ authors:
  - jyg11
  - tr511
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502122312-jyg11-bravest-warriors-cmyk.jpg"
-image_caption: ""
 ---
 
 It’s safe to say that _Adventure Time_ (_AT_), the hit eleven-minute cartoon about Jake the dog, Finn the human, and their crazy adventures, has been a huge success for its studio/host channel, Cartoon Network (CN). Now in its sixth season, the show has amassed a huge audience of children providing consistently high ratings, and succeeded in fostering a ‘cult favourite’ status among many adults. There’s not a nerdy shop around without _AT_ kitsch of some kind, and college students worldwide have posters of it hanging in their rooms. In short, nerds, parents, students and stoners all love _Adventure Time_!

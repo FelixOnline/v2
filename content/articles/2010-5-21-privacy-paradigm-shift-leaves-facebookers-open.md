@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Feroz Salam investigates whether you can really trust Facebook
 date: "2010-05-21 12:15:12 +0100"
-
-# Attributes from Felix Online V1
-id: "139"
-old_path: /tech/139/privacy-paradigm-shift-leaves-facebookers-open
+image: "http://felixonline.co.uk/img/upload/201005211312-srg03-Facebook.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/139/privacy-paradigm-shift-leaves-facebookers-open
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -23,12 +20,6 @@ authors:
  - srg03
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201005211312-srg03-Facebook.jpg"
-image_caption: ""
 ---
 
 On May 12th, the New York Times published an infographic (right) that would have looked more at home in a science textbook - their breakdown of Facebook's privacy options. The final count reached 50 settings containing 170 options in total, ranging from those related to the public availability of your status updates to those about who gets to see what you “Like” and who doesn't. Facebook's privacy policy is currently longer than the United States constitution, and has grown a massive 480% in the last five years. Making sense of the tangle of options and jargon is practically impossible, and unfortunately it seems like Facebook might be banking on this to sell your information for a profit.

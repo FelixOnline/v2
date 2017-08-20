@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Company You Keep review
 date: "2013-06-13 23:37:23 +0100"
-
-# Attributes from Felix Online V1
-id: "3696"
-old_path: /film/3696/the-sundance-kid-goes-running
+image: "http://felixonline.co.uk/img/upload/201306140037-tna08-the-company-you-keep-4.jpg"
+image_caption: "Shit, shit, shit, shit, shit, shit, shit"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3696/the-sundance-kid-goes-running
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - jgp09
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306140037-tna08-the-company-you-keep-4.jpg"
-image_caption: ""
 ---
 
 Robert Redford’s standing in Hollywood must be a good one for him to have attracted so much star power and talent for his latest directorial effort that is at best, distinctly average. Marketed as a clever political thriller, it shows a lot of promise from its opening scenes, but what we find is a gradual dip in quality as it becomes clear the film doesn’t have too much to say for itself.

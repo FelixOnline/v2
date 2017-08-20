@@ -4,18 +4,15 @@ title: >
 subtitle: >
    Even terms such as ‘LGBT’ can sometimes forget to include certain groups of people
 date: "2017-02-10 15:55:30 +0000"
-
-# Attributes from Felix Online V1
-id: "6768"
-old_path: /tv/6768/asexual-on-air
+image: "http://felixonline.co.uk/img/upload/201702101555-felix-Aaron_Paul_by_Gage_Skidmore_2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6768/asexual-on-air
-imported: true
 comments:
  - value: >
      I’m just writing to make you be aware of what a fantastic discovery my cos28niu17;s daughter enjoyed using your blog. She learned a wide variety of things, including what it’s like to have an ideal helping style to get certain people without problems completely grasp specific tricky subject matter. You undoubtedly did more than people’s expected results. Thank you for giving the precious, trusted, informative and even cool tips about the topic to Tanya.
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -26,12 +23,6 @@ authors:
  - harrywilkinson
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101555-felix-Aaron_Paul_by_Gage_Skidmore_2.jpg"
-image_caption: ""
 ---
 
 Today, when we live in much more tolerant and inclusive times than those in the past, it is really important to remember that even a term such as ‘LGBT’ can sometimes forget to include certain groups of people, necessitating the term ‘LGBT+’. One such group that is often completely forgotten about in the discussion of sexuality is in fact the situation when a person does not experience sexual attraction. Asexuality.

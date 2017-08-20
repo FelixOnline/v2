@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Giulia Gabrielli reviews Whitehall's Backchat
 date: "2015-02-09 19:37:29 +0000"
-
-# Attributes from Felix Online V1
-id: "5226"
-old_path: /tv/5226/awkward-is-a-family-trait
+image: "http://felixonline.co.uk/img/upload/201502091937-ps3110-backchat.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5226/awkward-is-a-family-trait
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +21,6 @@ authors:
  - gg2110
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502091937-ps3110-backchat.jpg"
-image_caption: ""
 ---
 
 Jack Whitehall has returned for the second season of _Backchat with Jack Whitehall_. His attempt to break into chat shows, however, can only be summarised in one word: awkward. Be it because of the presence of his elderly father, or because of the strange formulation of the show, watching it without cringing is actually virtually impossible.

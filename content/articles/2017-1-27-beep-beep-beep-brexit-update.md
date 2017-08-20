@@ -4,16 +4,13 @@ title: >
 subtitle: >
   More optimistic than you getting a 2:1 degree?
 date: "2017-01-27 14:19:55 +0000"
-
-# Attributes from Felix Online V1
-id: "6684"
-old_path: /features/6684/beep-beep-beep--brexit-update
+image: "http://felixonline.co.uk/img/upload/201701271419-felix-31557197953_b08a5aa0bd_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6684/beep-beep-beep--brexit-update
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +20,6 @@ authors:
  - mjj15
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701271419-felix-31557197953_b08a5aa0bd_o.jpg"
-image_caption: ""
 ---
 
 The sun keeps on rising, the world keeps on spinning and the Brexit debate rages on. Last week Theresa May made a speech at Lancaster House which outlined her twelve point plan for the UK’s negotiation plan as she looks to trigger Article 50 and leave the European Union for good.

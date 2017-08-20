@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Following government funding, the unique material may be reaching its full potential
 date: "2011-10-20 21:13:03 +0100"
-
-# Attributes from Felix Online V1
-id: "1561"
-old_path: /science/1561/graphene-based-electronics
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1561/graphene-based-electronics
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Graphene is a unique material that promises to revolutionise electronics. Consisting of a two dimensional hexagonal lattice of carbon molecules (effectively a single layer of graphite) it is the thinnest, strongest and most conductive material ever discovered. As such it could lead to the development of flexible computer displays, lighter airplanes and faster Internet connections. The government has recently recognised the promise of this material, with [Chancellor George Osborne promising £50m for graphene research](http://www.bbc.co.uk/news/science-environment-15152609).

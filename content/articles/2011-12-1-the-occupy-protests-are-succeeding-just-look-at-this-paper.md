@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Three comment pieces is enough for Padraic Calpin's seal of approval
 date: "2011-12-01 21:27:07 +0000"
-
-# Attributes from Felix Online V1
-id: "1892"
-old_path: /comment/1892/the-occupy-protests-are-succeeding-just-look-at-this-paper
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1892/the-occupy-protests-are-succeeding-just-look-at-this-paper
-imported: true
 comments:
  - value: >
      there's no question in my mind the united states has retreated from progressive ideals. it is like a child gradually tainted with a hate philosophy. we in the u.s are increasingly tainted by the corporate mentality: short term goals over long term thinking. money has become our supreme ruler. <br> <br>I think the the u.s. military has become a behamoth. so many tax dollars go to its maintainance. and I fear its tenticles are reaching out to u.s. citizens, a violation of what has always been a separation between the military and the civilian population. <br> <br>I think the danger of this happening is quite real. <br>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Occupy movement, inspired by protest in Spain, made famous in New York and now a global phenomenon, is succeeding. On the face of it, this might seems to be an audacious claim. Indeed, some of you will be reading this and audibly scoffing; “They have no clear goals; what are they succeeding at?”

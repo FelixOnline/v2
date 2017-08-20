@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Stephen Daldry takes a look at 9/11
 date: "2012-02-23 20:21:14 +0000"
-
-# Attributes from Felix Online V1
-id: "2232"
-old_path: /film/2232/extremely-long-and-incredibly-clumsy
+image: "http://felixonline.co.uk/img/upload/201202232020-pk1811-2011_extremely_loud_and_incredibly_close_004.jpg"
+image_caption: "Now listen, that headline up there is in no way sexual. I swear!!!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2232/extremely-long-and-incredibly-clumsy
-imported: true
 comments:
  - value: >
      Great review Sam, I rlealy enjoyed the read.Whilst we share opposite views about whether the film is worth watching, I do appreciate the balanced argument that you do present.It is too bad that a universal story had to be wrapped in something that emotionally blackmailed the audiences to feel something. Also, I liked your assertion that the backdrop of September 11th needs no additional attempts to elicit emotion since it's a subject which is already emotionally charged.Great review.,Glad to hear you liked the movie. I saw a commercial for it, and all I could think about was how I could not even <a href="http://ysdwkir.com">imanige</a> going to a movie with 9/11 as the backdrop. It's just still so sad and unnerving.
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +26,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202232020-pk1811-2011_extremely_loud_and_incredibly_close_004.jpg"
-image_caption: ""
 ---
 
 [__Extremely Loud and Incredibly Close__](http://www.imdb.com/title/tt0477302/)

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Major personnel changes in Engineering and Medicine
 date: "2010-11-18 21:47:22 +0000"
-
-# Attributes from Felix Online V1
-id: "410"
-old_path: /news/410/new-pro-rector-announced-
+image: "http://felixonline.co.uk/img/upload/201011182146-ks607-stevesmi.jpg"
+image_caption: "Professor Stephen Smith"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/410/new-pro-rector-announced-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - ak6309
  - jk708
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011182146-ks607-stevesmi.jpg"
-image_caption: ""
 ---
 
 New senior medical leadership positions have been announced in a bid to strengthen integration with the UK’s first Academic Health Science Centre (AHSC). Professor Stephen Smith, Principal of the Faculty of Medicine and Chief Executive of the Imperial College Healthcare NHS Trust, is to become Pro Rector (Health) and combine his roles. Professor Smith formed the AHSC in 2007 by leading the integration of College and the NHS Trust. He is also the Founding Dean of the [Nanyang Technological University Medical School](http://felixonline.co.uk/news/177/imperial-opens-medical-campus-in-singapore/), Imperial’s campus in Singapore. Responsibilities of the new role include managing Imperial’s strategic opportunities in health science research and education across the world.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alex Savell gives part two of the Peter F. Hamilton SF detective series the pre-Picocon treatment
 date: "2013-02-07 22:39:16 +0000"
-
-# Attributes from Felix Online V1
-id: "3243"
-old_path: /books/3243/a-quantum-murder
+image: "http://felixonline.co.uk/img/upload/201302072239-tna08-quantum_murderf.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3243/a-quantum-murder
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - as906
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302072239-tna08-quantum_murderf.jpg"
-image_caption: ""
 ---
 
 Don’t get me wrong, I have not done a U-Turn on the Greg Mandel series in the last week; I am neither an Italian, nor a member of a Coalition Government. I am still an advocate of the series and of the man, and will be in avid attendance when he speaks at the Sci-Fi Society’s Picocon Convention in a little over a week’s time.

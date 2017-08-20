@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The complicated physics behind a rather simple instrument
 date: "2015-03-03 15:03:13 +0000"
-
-# Attributes from Felix Online V1
-id: "5330"
-old_path: /science/5330/sound-field-around-recorder-identified
+image: "http://felixonline.co.uk/img/upload/201503031503-ps3110-recordersim1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5330/sound-field-around-recorder-identified
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - jb3112
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503031503-ps3110-recordersim1.jpg"
-image_caption: ""
 ---
 
 Anyone who’s ever been to a primary school music recital may well have got the impression that the recorder is a rather simple instrument.

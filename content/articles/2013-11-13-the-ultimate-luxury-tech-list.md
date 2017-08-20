@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Informing you on what you HAVE to have!
 date: "2013-11-13 22:57:18 +0000"
-
-# Attributes from Felix Online V1
-id: "4052"
-old_path: /tech/4052/the-ultimate-luxury-tech-list
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4052/the-ultimate-luxury-tech-list
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - oa1612
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ###  Alienware laptops:

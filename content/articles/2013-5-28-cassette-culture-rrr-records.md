@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Riaz Agahi talks to Ron Lessard, head of seminal noise label RRR
 date: "2013-05-28 14:42:50 +0100"
-
-# Attributes from Felix Online V1
-id: "3626"
-old_path: /music/3626/cassette-culture-rrr-records
+image: "http://felixonline.co.uk/img/upload/201305281542-tna08-sickness_performing_in_rrrecords.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3626/cassette-culture-rrr-records
-imported: true
 comments:
  - value: >
      RobertJune 30, 2012Ah, yes, I had lots of the Memorex dBS and the Laser, and lots of other cheapies in the late 80s/early 90s. Somewhere aunrod '94 I was old enough to start buying my own. My favorites were Maxell; they had several different models that were excellent. BASF made some great ones for the price as well.I remember that when CDs had completely taken over (I'm thinking '93-94 maybe), albums were routinely more than 45 minutes long, and wouldn't fit on one side of a 90 minute tape anymore. Led to a lot of screwing aunrod with where to put the break, if the cover didn't list the track times!,That does bring back memories! When I first <a href="http://uwifczeuiw.com">staterd</a> getting LPs, my aunt advised me to get 90-minute cassettes and tape one album on each side. The idea was you would put the record away and only play it rarely to keep it from wearing out. Now if I'd have had the brains to hang on to my original Led Zeppelin III.
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305281542-tna08-sickness_performing_in_rrrecords.jpg"
-image_caption: ""
 ---
 
 After hearing about RRR records through their Recycled series, I discovered a contribution to the development and proliferation of noise music that goes far beyond a series of tapes which brings together some of noise’s most important artists. Based in Lowell, Massachusetts, RRR has the distinction of being the first American label to release Merzow, effectively globalising noise. Despite that, the label’s profile is lower than Merzbow and the like, and this is because rather than sticking with the artists it helped establish, the label has relentlessly focused on new discoveries. This is RRR records’ truly underground ethos, which I felt worthy of further examination, so I got in touch with label founder and head Ron Lessard.

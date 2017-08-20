@@ -4,16 +4,13 @@ title: >
 subtitle: >
   So, you’re halfway through term time and you’re probably wondering what has happened, it’s almost the end of May and the end of term soon approaches.
 date: "2014-05-23 13:52:28 +0100"
-
-# Attributes from Felix Online V1
-id: "4621"
-old_path: /comment/4621/the-end-is-approaching
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4621/the-end-is-approaching
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 So, you’re halfway through term time and you’re probably wondering what has happened, it’s almost the end of May and the end of term soon approaches.

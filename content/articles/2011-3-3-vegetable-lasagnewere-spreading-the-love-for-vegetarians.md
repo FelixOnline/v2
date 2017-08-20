@@ -4,18 +4,15 @@ title: >
 subtitle: >
   I’ll show you how to transform your cramped vegetable lasagne into a thing of simple beauty
 date: "2011-03-03 19:32:41 +0000"
-
-# Attributes from Felix Online V1
-id: "998"
-old_path: /food/998/vegetable-lasagnewere-spreading-the-love-for-vegetarians
+image: "http://felixonline.co.uk/img/upload/201103031926-nm1010-lagnelas.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/998/vegetable-lasagnewere-spreading-the-love-for-vegetarians
-imported: true
 comments:
  - value: >
      I hope my fellow meat eating comrades will not be too annoyed with me, but I have to give it to Stephen. He’s right, vegetable lasagne is fantastic. Most places, like he said, doesn’t do the dish justice. But find a place that does (or make it yourself) and you’ll think more than twice about ordering something else. ,Stephen, oh Stephen, whilst it is easy to sing your praises from the rooftops in a duet with Cher and Lady Gaga's illegitimate lovechild, I must admit that I am slightly disappointed with your recipe. It simply begs the question: “Steve, Y U NO PUT MEAT?” <br> <br>Also, where’s the Red Leicester?,I think you mean, "raises the question." <br> <br>http://begthequestion.info/
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -28,12 +25,6 @@ authors:
  - ss10210
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103031926-nm1010-lagnelas.jpg"
-image_caption: ""
 ---
 
 It is an unfortunately ubiquitous belief amongst non-vegetarian cooks that vegetables are an accompaniment to a meal rather than a meal in themselves. This means that meatless dishes can often go catastrophically wrong.

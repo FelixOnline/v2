@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Simon Hunter chats to Chilly Gonzales about his new orchestral rap album and forays into the world of film
 date: "2011-02-28 21:29:40 +0000"
-
-# Attributes from Felix Online V1
-id: "947"
-old_path: /music/947/interview-with-chilly-gonzales
+image: "http://felixonline.co.uk/img/upload/201102282125-ks607-chilligo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/947/interview-with-chilly-gonzales
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - sh1207
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102282125-ks607-chilligo.jpg"
-image_caption: ""
 ---
 
 Last month I was able to have a chat with musician, comedian and all-round entertainer Chilly Gonzales. Currently jetting around the world promoting his latest foray into film-making and putting the finishing touches to a new album, I caught him in the airport waiting for a flight. The latest string Gonzales has added to his extensive bow is film directing. Ivory Tower is the name of his self-funded debut film featuring fellow Canadian musicians Tiga and Peaches, the soundtrack to which was recorded by Gonzales himself and released last year. Excited by the prospect of seeing Gonzales and Tiga’s comedic genius on the silver screen, I began by asking him about this.

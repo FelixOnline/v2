@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Laurence Pope looks into the brand new Xbox Kinect
 date: "2010-11-15 18:16:50 +0000"
-
-# Attributes from Felix Online V1
-id: "377"
-old_path: /games/377/the-next-revolution-in-gaming-has-arrived
+image: "http://felixonline.co.uk/img/upload/201011151813-ks607-xboxsxbo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/377/the-next-revolution-in-gaming-has-arrived
-imported: true
 comments:
  - value: >
      true that at this point the kinect is overpriced with little or no games worth purchasing, but it has potential. There have been kinect hacks with some interesting results, my favorite being holographic projection using a projector (not holographic in the strictest sense but still cool).
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011151813-ks607-xboxsxbo.jpg"
-image_caption: ""
 ---
 
 Kinect, Microsoft’s most recent peripheral for the Xbox 360, is set to arrive in UK stores by the time your eyes are roving over this article. There’s been a fair bit of hype and excitement pertaining to Microsoft’s latest gadget, but is it really justified? Is Kinect the greatest thing since sliced bread or are customers going to be left in the dust?

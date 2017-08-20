@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Making it rain with the monies
 date: "2014-11-28 00:38:06 +0000"
-
-# Attributes from Felix Online V1
-id: "4961"
-old_path: /news/4961/imperial-college-returns-to-top-of-the-research-council-grants-table
+image: "http://felixonline.co.uk/img/upload/201411280038-ps3110-top-ten-institutions-by-income-201114-large.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4961/imperial-college-returns-to-top-of-the-research-council-grants-table
-imported: true
 comments:
  - value: >
      To be read in conjunction with http://www.dcscience.net/?p=6834 ,Yes, pity that that status comes at this cost.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411280038-ps3110-top-ten-institutions-by-income-201114-large.jpg"
-image_caption: ""
 ---
 
 Imperial College has returned to the top of the league table for research council income for the year 2013-14. It is the fourth time in the last five years that the College has topped the table, having been in third place for the year 2012-2013.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   ICU Debating Society discuss
 date: "2015-03-03 20:32:00 +0000"
-
-# Attributes from Felix Online V1
-id: "5331"
-old_path: /comment/5331/this-house-would-create-an-unelected-legislative-of-science-technocrats
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5331/this-house-would-create-an-unelected-legislative-of-science-technocrats
-imported: true
 comments:
  - value: >
      red bottom heels <br>christian louboutin sale canada http://canadachristianlouboutinoutlet.blogspot.com/,red bottom heels <br>christian louboutin sale canada http://canadachristianlouboutinoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Proposition: Anita Chandran__

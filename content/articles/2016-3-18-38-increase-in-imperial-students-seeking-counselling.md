@@ -4,18 +4,15 @@ title: >
 subtitle: >
   5% increase in students over same period
 date: "2016-03-18 11:29:13 +0000"
-
-# Attributes from Felix Online V1
-id: "6050"
-old_path: /news/6050/38-increase-in-imperial-students-seeking-counselling
+image: "http://felixonline.co.uk/img/upload/201603181128-felix-20160317_181400.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6050/38-increase-in-imperial-students-seeking-counselling
-imported: true
 comments:
  - value: >
      Fuck Imperial.,Fuck Imperial.,Unique write-up: Often the five Greatest SEARCH ENGINE OPTIMISATION Guidelines You retain Neglecting | Top to bottom Actions Valuable write-up Donald. Often the write-up ventured into end up being a lot more valuable than what I actually expected when hitting the url upon BlogEngage. <br>Gucci Outlet http://www.charopf.com/gucci-outlet/,Unique write-up: Often the five Greatest SEARCH ENGINE OPTIMISATION Guidelines You retain Neglecting | Top to bottom Actions Valuable write-up Donald. Often the write-up ventured into end up being a lot more valuable than what I actually expected when hitting the url upon BlogEngage. <br>Gucci Outlet http://www.charopf.com/gucci-outlet/,Buy Cheap Julio Jones Jerseys Wholesale In Lowest price. <br>Vintage jerseys discount for sale online. Classic and latest hot jerseys of super bowl and all <br>star game.,Buy Cheap Julio Jones Jerseys Wholesale In Lowest price. <br>Vintage jerseys discount for sale online. Classic and latest hot jerseys of super bowl and all <br>s
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603181128-felix-20160317_181400.jpg"
-image_caption: ""
 ---
 
 There has been a 38% increase in students seeking counselling services from college over the last three years, despite only a 5% increase in students over the same period.

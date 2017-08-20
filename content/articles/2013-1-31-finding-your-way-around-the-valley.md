@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Imperial Entrepreneurs unveil the latest International Insight Series
 date: "2013-01-31 23:57:13 +0000"
-
-# Attributes from Felix Online V1
-id: "3218"
-old_path: /biz/3218/finding-your-way-around-the-valley
+image: "http://felixonline.co.uk/img/upload/201301312355-tna08-siliconvalley-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/3218/finding-your-way-around-the-valley
-imported: true
 comments:
  - value: >
      I've been in the industry for 25 years. When I was hirnig, I used to ask HR for ALL the resumes. What I found was that the people I wanted to hire were the ones in their discard stack the ones with the plain, but techie resumes. The ones HR wanted to hire were the fancy resumes. My practice was to set all the parchment and designer folders aside and go thru the real resumes. I want to hire techs, not sales people.Over the last ten years I've worked as a programmer contractor on and off. During this time I also looked for staff work when not on a contract. What I found was that corporate HR is not hirnig. They are doing busy work to make it look like they are. Because I have contacts in most of the companies I apply to, I know when jobs have been filled and closed, or when they've just been removed. Most of the jobs I've applied and interviewed for never hired. They go thru all the motions and then remove the job posting. Or they hired from within and filled some management requirement to interview outside.
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301312355-tna08-siliconvalley-copy.jpg"
-image_caption: ""
 ---
 
 When it comes to the crunch explaining what ‘Silicon Valley’ actually represents – ask yourself – do you really have a clear understanding? For most of us, I suppose the influence from popular social media tools and cool high tech gadgets will probably relate us to multinational corporations like Facebook, Microsoft and Google which have offices situated in that region of San Francisco. Perhaps this amount of information is more than enough to bore some of the more ignorant ones about tech-based entrepreneurship – but honestly, Silicon Valley’s history and its place at the forefront of innovation and enterprise has more than what meets the eye.

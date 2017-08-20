@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tim Arbabzadah talks to ex-Imperial student and TEDx organiser Kadhim Shubber about organising TEDxAlbertopolis
 date: "2013-06-05 17:56:49 +0100"
-
-# Attributes from Felix Online V1
-id: "3659"
-old_path: /news/3659/best-position-on-albertopolis-
+image: "http://felixonline.co.uk/img/upload/201306051855-tna08-tedxalbrgb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3659/best-position-on-albertopolis-
-imported: true
 comments:
  - value: >
      With the TEDx events at Imperial and Albertopolis exploring the relationship between art, creativity and science, how are they critically looking at these issues and using the history of the college, in terms of its great teacher and Dean Prof Huxley and his famous student H.G.Wells, whose ideas resulted in a debate at the college reported in Felix on Friday 25th May 1990 as "Raze Imperial to the ground! That was the verdict of the debate held last Tuesday on the motion: <br> <br>'This house believes that Imperial College is a threat to liberal education as fought for by Professor T.H.Huxley and should be razed to the ground'... The debate was chaired by Mr Eric Stables, head of the Humanities department..."
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306051855-tna08-tedxalbrgb.jpg"
-image_caption: ""
 ---
 
 TEDxImperialCollege was a must see event. It had so much on offer (you even got your own lanyard) and must have hit home with the audience: it was trending on Twitter. Considering it contained absolutely zero Justin Bieber performances, that’s pretty special. Former Felix Editor/physics student Kadhim Shubber kindly took some time out to answer some questions. He is co-organising possibly one of the largest ever TEDx events, right on our doorsteps at the Royal Albert Hall. The team organising [TEDxAlbertopolis](http://tedxalbertopolis.com/) is almost entirely made up of Imperial alumni, and Kadhim described them as “a dream. The most intelligent, interesting and effective people you could hope to work with.”

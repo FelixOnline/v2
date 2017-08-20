@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Guildhall's final-year actors take on Frank Wedekind's wild classic
 date: "2015-12-02 17:08:09 +0000"
-
-# Attributes from Felix Online V1
-id: "5789"
-old_path: /arts/5789/love-and-lust-in-lulu
+image: "http://felixonline.co.uk/img/upload/201512021705-mff113-online-copy.jpg"
+image_caption: "Clive Brada/ Guildhall School 2015"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5789/love-and-lust-in-lulu
-imported: true
 comments:
  - value: >
      You're a really useful web site; could not make it without ya!| <br>cs go skins calculator http://khleothomas.com/profiles/blogs/what-you-don-t-learn-about-cs-go-knives-might-shock-you,Keep up the remarkable work !! Lovin' it!| <br>cs go skins erstellen http://fastlove.ca/forum/topic.php?topic_id=17036
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - sdl15
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201512021705-mff113-online-copy.jpg"
-image_caption: ""
 ---
 
 Frank Wedekind’s Lulu is a story of seduction and tragedy. Choosing adjectives to describe Nicholas Wright’s adaptation of this controversial nineteenth-century play is challenging. It’s humorous at first, Lulu (though she is known by a variety of names) works her way through several husbands in German high society and gains considerable notoriety. She enjoys her power, the attention she receives and the privilege of wealth.

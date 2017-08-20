@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jian Chew goes to great efforts to free himself from Western colonisation
 date: "2016-10-28 15:02:59 +0100"
-
-# Attributes from Felix Online V1
-id: "6351"
-old_path: /comment/6351/decolonising-my-mind-decolonising-my-life
+image: "http://felixonline.co.uk/img/upload/201610311312-felix-5299247162_2a58c783e2_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6351/decolonising-my-mind-decolonising-my-life
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - jlc14
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610311312-felix-5299247162_2a58c783e2_o.jpg"
-image_caption: ""
 ---
 
 Last Tuesday I watched a viral video showing Social Justice Warriors (SJWs) at the University of Cape Town, South Africa, decrying science as racist because it was developed by European scientists and isn’t applicable to Africa. Also, magic is real and science cannot explain how witch doctors can call down lightning bolts from the sky. When one scientist in the audience said that it wasn’t true, the SJWs berated and scolded him until he apologised. They ended by saying that people should decolonise their minds and reject Western modernity.

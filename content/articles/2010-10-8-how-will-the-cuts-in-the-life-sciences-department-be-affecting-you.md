@@ -4,18 +4,15 @@ title: >
 subtitle: >
   An Editorial on the Life-Sciences Restructure
 date: "2010-10-08 07:05:59 +0100"
-
-# Attributes from Felix Online V1
-id: "186"
-old_path: /comment/186/how-will-the-cuts-in-the-life-sciences-department-be-affecting-you
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/186/how-will-the-cuts-in-the-life-sciences-department-be-affecting-you
-imported: true
 comments:
  - value: >
      Never seen a btteer post! ICOCBW,dbLsKt <a href="http://yqokhtbiujwb.com/">yqokhtbiujwb</a>, <a href="http://www.cheapautoinsurancehere.com/">online auto insurance quotes</a> 8-))) <a href="http://www.insurersontheweb.net/">auto insurance</a> adyxhb
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 There is no question that the proposed restructure will adversely affect the students in the short-term. Academics will have to adapt themselves to new areas of research or be let go, researchers in the plant sciences will be less able to follow programmes here, and the breadth of an undergraduate biology degree will be under threat.

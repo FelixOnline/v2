@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jonathan McNaught on the biggest Arts Event on the Union's calendar.
 date: "2015-02-13 14:36:54 +0000"
-
-# Attributes from Felix Online V1
-id: "5252"
-old_path: /cands/5252/artsfest-to-hit-imperial-next-week
+image: "http://felixonline.co.uk/img/upload/201502131436-bwh12-8489844811_41d871f599_o.jpg"
+image_caption: "IC Big Band’s performance from the Queen’s Tower has featured in every Artsfest so far."
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5252/artsfest-to-hit-imperial-next-week
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -24,12 +22,6 @@ authors:
  - bwh12
  - jdm11
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502131436-bwh12-8489844811_41d871f599_o.jpg"
-image_caption: ""
 ---
 
 “ArtsFest? What’s that?” I hear you chorus, “There are scientists, engineers and medics at Imperial who like arts?” I may be totally biased, but I really believe the answer is yes, and ArtsFest is one of the many times during the year to show it.

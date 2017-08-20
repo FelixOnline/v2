@@ -4,18 +4,15 @@ title: >
 subtitle: >
   I think the bursary should continue to be given to students cash in hand
 date: "2011-03-17 21:44:04 +0000"
-
-# Attributes from Felix Online V1
-id: "1105"
-old_path: /comment/1105/bursaries-make-university-fun
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1105/bursaries-make-university-fun
-imported: true
 comments:
  - value: >
      Well that's the point really.,tl;dr version: <br>Gloat, gloat, gloat. Current system is unfair. Oh well - another Cosmo please. <br> <br>If this was at any other university there would be complete outrage...,What a crock of shit. This girl is vacuous and a waste of space. She disgusts me, with her ' ahhhh poor me' routine. Clothes and cocktails? These aren't living costs, these are luxuries. <br> <br>'Bursaries can be abused' yes, and aren't you living proof! Put your time to good use and get a job and pay your way in life instead of writing such drivel. <br> <br>If you hadn't put your name and photo up I would have thought you were tolling! <br> <br>What an embarrassment.... <br> <br>,I just find it frustrating to read something like that, when I only have access to my student loan and have minimal parental contributions due to extenuating home circumstances. I've looked into all possible sources of income and they just don't seem to apply, I manage to fall through a complete loophole in the system. <br>Instead I spend my holidays working
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - mjl07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Living the typical meagre student existence at Imperial College in South Kensington, one of the wealthiest boroughs in one of the world’s most expensive cities, was never going to be easy. But my soon–to–be alma mater (assuming I pass my damned degree) is going to make it a whole lot harder with the increase in tuition fees. The powers that be feel that Imperial is esteemed enough to demand £9,000 a year for a degree, and had this been the case when I was applying for university, I feel my parents would have been far less supportive of me coming here. After all, they have had to suffer most of the costs.

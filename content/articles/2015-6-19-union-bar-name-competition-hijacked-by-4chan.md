@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philippa Skett reports after online trolls voted over 2,000 times within the space of 2 hours
 date: "2015-06-19 13:19:35 +0100"
-
-# Attributes from Felix Online V1
-id: "5642"
-old_path: /news/5642/union-bar-name-competition-hijacked-by-4chan
+image: "http://felixonline.co.uk/img/upload/201506191437-ps3110-4chan-temporarily-offline.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5642/union-bar-name-competition-hijacked-by-4chan
-imported: true
 comments:
  - value: >
      lel,The police should have been notified. Racial harassment (of Jewish students, in this case) is a serious matter.,Oyy Vey!,Too bad we must return them. <br>cheap nfl 16 coins ios http://www.madden-store.com/madden-nfl-16/IOS-2191,cheapest birkenstock sandals <br>cheap birkenstocks online http://birkenstocksaleaustralia.blogspot.com/,birkenstock shoe <br>birkenstock online discount http://birkenstockaustraliamalls.com/,You 're so smart. <br>buy nfl 16 coins ios http://www.madden-store.com/madden-nfl-16/IOS-2191,Thank you for your helping hand. <br>Madden 16 Coins http://www.stockhouse.com/blogs/mut-16-coins-store/december-2015/new-legends-in-maddens-nfl-16,Now you tell me she's not a knock-out! <br>fifa 16 points http://fondgold.blurpalicious.com/submit,christian louboutin cheapest <br>christian louboutin outlet canada http://canadachristianlouboutin.blogspot.com/,christian louboutin glitter shoes <br>discount christian louboutin http://canadachristianlouboutin.blogspot.com/,Take my word for it. <br>Web design http://www.ouishare.us/w
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506191437-ps3110-4chan-temporarily-offline.jpg"
-image_caption: ""
 ---
 
 Disaster struck on Saturday afternoon when the competition ran by Imperial College Union to name a new student bar was posted on the forum website 4chan, sparking thousands of entries from the website users.

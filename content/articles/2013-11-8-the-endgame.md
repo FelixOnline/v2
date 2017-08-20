@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ender’s Game Director: Gavin Hood Writers: Gavin Hood, Orson Scott Card (novel) Starring: Harrison Ford, Asa Butterfield, Hailee Steinfeld, Abigail Breslin, Viola Davis, Ben Kingsley Runtime: 114 minutes Certificate: 12A
 date: "2013-11-08 09:59:18 +0000"
-
-# Attributes from Felix Online V1
-id: "4039"
-old_path: /film/4039/the-endgame
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4039/the-endgame
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - mcm12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Over the past few years we have sadly seen studios satisfy audiences’ need for film escapism with story-driven fantasy action (comic book films being the biggest example) while staying away from science fiction. Even sci-fi staples like Star Trek -whose writers Alex Kurtzman and Roberto Orci are involved in this project- haven’t been spared and have been turned into entertaining but nonetheless seat-rumbling blockbusters.

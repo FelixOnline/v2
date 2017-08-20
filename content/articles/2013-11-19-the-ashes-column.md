@@ -4,18 +4,16 @@ title: >
 subtitle: >
   On the eve of the Ashes, in our new column we preview the series.
 date: "2013-11-19 18:31:04 +0000"
-
-# Attributes from Felix Online V1
-id: "4093"
-old_path: /sport/4093/the-ashes-column
+image: "http://felixonline.co.uk/img/upload/201311191827-kmw13-p14michaelclarkegetty.jpg"
+image_caption: "It's Clarke v Cook, take two"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4093/the-ashes-column
-imported: true
 comments:
  - value: >
      hmmm.... The test will be Australia's attack against the england batting line up. If cook and co. can contribute to Bell's runs, england will win easily. But if not, Then australia have a shout, albeit only if Clarke is in his usual imperious form and barring any miracles from the England bowlers, who have shown time and time again they have the ability to save games that the fragile batsmen have often looked like giving away. Advantage England.,Can't wait for the Ashes to start!! The 3-0 scoreline from the summer does not tell the full story and I definitely agree that Australia look more threatening now. Hoping for a close and exciting series... with England winning of course.,Great preview, especially the player by player breakdown of each team. I'm looking forward to seeing how this pans out.
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -26,12 +24,6 @@ authors:
  - kmw13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311191827-kmw13-p14michaelclarkegetty.jpg"
-image_caption: ""
 ---
 
 If there is one thing that almost seems certain, it is that England face a much tougher task than the one they undertook during the summer. With the addition of George Bailey (who showed strong form in the recent one-day series in India), Australia’s batting looks a bit stronger. England’s bowling hasn’t impressed as much as they would have liked in the tour matches, and the England management don’t seem too sure which bowling combination is their strongest.

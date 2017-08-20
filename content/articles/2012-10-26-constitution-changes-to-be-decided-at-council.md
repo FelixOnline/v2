@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Court and President argue, but on Tuesday 30 October Council will decide if the proposals will become the Constitution
 date: "2012-10-26 01:40:46 +0100"
-
-# Attributes from Felix Online V1
-id: "2730"
-old_path: /news/2730/constitution-changes-to-be-decided-at-council
+image: "http://felixonline.co.uk/img/upload/201210260253-tna08-beity.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2730/constitution-changes-to-be-decided-at-council
-imported: true
 comments:
  - value: >
      What does “Bringing the Union into disrepute” even mean? Does it mean complaining when they spend our money on rubbish stuff? Does it mean complaining when they're sexist/racist/homophobic? Does it mean (God forbid) giving a negative Student Barometer/NSS/other wanky waste of time survey response? <br> <br>I'm annoyed that this, the most important part of the whole article, is buried in paragraph 12. Why is Felix not up in arms about this? <br> <br>I thought being anti-censorship was supposed to be fashionable.,It wasn't meant to be "buried" or anything sinister like that. This week I graduated on Wednesday, which is a crucial night in production. Perhaps I was lax to not stay in the office all night, but it really is a once in a lifetime event (I'm not planning on doing a PhD or anything). The reason it was there is honestly this: it was one point of many to discuss, and that at 2am when I had to absolutely send the paper off to the printers or get no paper out, I just simply ran out of time. I was then in the o
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210260253-tna08-beity.jpg"
-image_caption: ""
 ---
 
 The Constitutional changes that were proposed and [previously reported in Felix](http://felixonline.co.uk/news/2641/constitution-changes-to-be-discusssed/), are set to be put to a vote at the next Council on Tuesday 30 October. Council will vote whether or not they will accept the changes, or if it needs to be revised more. The draft still contains the changes discussed in the previous article.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Hint: It's me Dog
 date: "2017-02-24 13:56:36 +0000"
-
-# Attributes from Felix Online V1
-id: "6816"
-old_path: /science/6816/mans-best-friend
+image: "http://felixonline.co.uk/img/upload/201702241356-felix-3881790828_c97f7f15fa_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6816/mans-best-friend
-imported: true
 comments:
  - value: >
      Re your final comment – that’s true, it was a poor piece of comprehension on my part.My argument is that this is a debate about redefinition to be more inclusive, not about discrimination per se – out of interest, would you approve of the government stepping out of marriage all together, civil unions for all, and freedom to call your relationship whatever you wa&amp;?Itn#8217;ve written some stuff on why I think opposition to homosexual practice is the only legitimate interpretation of the Biblical data, which makes changing the church’s position difficult. Particularly … I .
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -26,12 +23,6 @@ authors:
  - aranshaunak16
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702241356-felix-3881790828_c97f7f15fa_o.jpg"
-image_caption: ""
 ---
 
 Fact: Dogs can smell cancer.

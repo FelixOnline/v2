@@ -4,16 +4,13 @@ title: >
 subtitle: >
   You don’t need to be a tango aficionado for the raw appeal of Tango Fire’s bold and flamboyant dancing
 date: "2017-02-10 15:54:21 +0000"
-
-# Attributes from Felix Online V1
-id: "6767"
-old_path: /arts/6767/caliente-burning-up-the-stage-with-tango-fire
+image: "http://felixonline.co.uk/img/upload/201702101554-felix-Oblivion -18.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6767/caliente-burning-up-the-stage-with-tango-fire
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - scc114
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101554-felix-Oblivion -18.jpg"
-image_caption: ""
 ---
 
 Tango – the word alone conjures images of passion, seduction, and power play. German Cornejo and his sizzling dance crew return to London with Tango Fire to set the stage ablaze.

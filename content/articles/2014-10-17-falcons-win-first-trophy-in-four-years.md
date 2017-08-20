@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ashley revelas all about the Imperial College Baseball Club's first trophy 4 years
 date: "2014-10-17 14:56:01 +0100"
-
-# Attributes from Felix Online V1
-id: "4732"
-old_path: /sport/4732/falcons-win-first-trophy-in-four-years
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4732/falcons-win-first-trophy-in-four-years
-imported: true
 comments:
  - value: >
      In my opinion marijuana should be legal. They let people smoke chemicals in cigarettes, why is a plant so bad then? In fact you don’t even have to smoke it for people thinking o820;sm2king is so bad!!” You can’t take too much of it and die like alcohol or aspirin. No one has ever died of smoking marijuana. Do you realize that more people have died eating a peanut? At least let the people who need it have it. It needs to be legal in all 50 states!!
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The minibus was full of excitement and anticipation as club driver Rhys guided it down the M40 to Slough where the Falcons were to play in the inaugural National University Baseball Fall Cup organised by Baseball Softball UK (BSUK). The off-season had seen fantastic recruitment, particularly in the pitching department and this team represented the best chance yet that the Falcons had of securing that vaunted Fall Cup Shield which they last won in 2010.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Stefan Grimm emailed colleagues after his death, months after being sent "ultimatum email" to either find more funding or leave Imperial
 date: "2014-12-04 04:05:53 +0000"
-
-# Attributes from Felix Online V1
-id: "4984"
-old_path: /news/4984/publish-and-perish-professor-sends-posthumous-email-on-how-professors-are-treated-at-imperial
+image: "http://felixonline.co.uk/img/upload/201412040411-ps3110-biglab.gif"
+image_caption: "Grimm was facing "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4984/publish-and-perish-professor-sends-posthumous-email-on-how-professors-are-treated-at-imperial
-imported: true
 comments:
  - value: >
      "and we have republished the email in full at the end of this article.".... <br> <br>where?,Apologies, we are having technical issues but the emails should be there now,I am sure there are two sides to the story, but with all the little things stacking up, followed by bigger news like the above falling into place, it doesn't paint the College in a very positive light. <br> <br>It is becoming more widely accepted that Imperial College will go to quite impressive lengths to maintain it's place at or near the top of the scientific food chain. <br> <br>For this it needs two things; firstly money, this has been evident with sky high fees (rent in halls, postgrad and overseas charges increased as well as selling/looking to sell valuable assets). I believe this is to the detriment of the College as they look to the student body (who are not particularly well represented and whose voice is often ignored) and find many of us opening our eyes to the reality and not being satisfied with the service we are given. <br> <br>The second, and
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412040411-ps3110-biglab.gif"
-image_caption: ""
 ---
 
 An Imperial professor who died “suddenly and unexpectedly” in September has allegedly sent a posthumous email to his colleagues, with the subject line: “How Professors are treated at Imperial College.”

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Let's talk about it
 date: "2016-05-13 09:26:56 +0100"
-
-# Attributes from Felix Online V1
-id: "6162"
-old_path: /tv/6162/daredevil-season-2
+image: "http://felixonline.co.uk/img/upload/201605131126-felix-d3908d135867f947ab073fe5e9de918b12402d2088a95eb23cc652f5be9b7f3b_facebook.jpeg"
+image_caption: "There’s some new players in town! And they’re not feeling so friendly."
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6162/daredevil-season-2
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - hmw15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605131126-felix-d3908d135867f947ab073fe5e9de918b12402d2088a95eb23cc652f5be9b7f3b_facebook.jpeg"
-image_caption: ""
 ---
 
 Blood once again soaks the streets of Hell’s Kitchen, New York as Daredevil returns to our computer screens. Whereas the first season detailed the rise of Matt Murdock to the role of red-horn-wearing superhero, this season focuses more on Matt’s struggles with his new role and with just what it means to be a hero.

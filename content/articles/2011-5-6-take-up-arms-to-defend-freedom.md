@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In 1848, democrats offered their lives for freedom. Today’s liberals can scarcely be bothered to lift their pens. By Alessandro Guazzi
 date: "2011-05-06 08:44:46 +0100"
-
-# Attributes from Felix Online V1
-id: "1160"
-old_path: /comment/1160/take-up-arms-to-defend-freedom
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1160/take-up-arms-to-defend-freedom
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Spain, 1936. As civil war sweeps through the country, volunteers from all over Europe flock to the standards of the Republican and Nationalist armies. Made iconic through Hemingway’s dry prose and Picasso’s chilling canvas, the Spanish Civil war was probably the last real instance in which thousands of individuals across Europe took up arms to defend their ideals in a foreign state regardless of their own nation’s views on the matter.

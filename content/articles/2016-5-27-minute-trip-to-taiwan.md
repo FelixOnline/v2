@@ -4,16 +4,13 @@ title: >
 subtitle: >
   FELIX visits BAO, the hip Taiwanese restaurant in SoHo
 date: "2016-05-27 09:05:28 +0100"
-
-# Attributes from Felix Online V1
-id: "6221"
-old_path: /food/6221/minute-trip-to-taiwan
+image: "http://felixonline.co.uk/img/upload/201605271105-felix-Exterior 1-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6221/minute-trip-to-taiwan
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - yyl114
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605271105-felix-Exterior 1-1.jpg"
-image_caption: ""
 ---
 
 Last Wednesday was another one of those typical rainy, gloomy days with me sitting, staring into space in the back of the Chem Eng library. I must have appeared to be either half asleep, or deep in thought pondering upon the underlying philosophy of a radiative heat transfer problem. Hangry, more like. I was craving something naughty, something unique, something that tasted like home. After five minutes of desperate scrolling up and down my Instagram feed, I got an answer.

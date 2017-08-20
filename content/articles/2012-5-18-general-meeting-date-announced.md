@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Union President seeks discussion on future changes to the College environment
 date: "2012-05-18 06:01:31 +0100"
-
-# Attributes from Felix Online V1
-id: "2455"
-old_path: /news/2455/general-meeting-date-announced
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2455/general-meeting-date-announced
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ar3310
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Following on from his [comment article published on 2 March](http://felixonline.co.uk/comment/2292/its-time-for-a-union-general-meeting/), Union President Scott Heath has confirmed a date for the General Meeting. The meeting will be held on Wednesday 6 June in SAF Lecture Theatre G34.

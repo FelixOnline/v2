@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Report suggests that the graduate market is overcoming the impact of the recession”
 date: "2011-01-27 18:26:38 +0000"
-
-# Attributes from Felix Online V1
-id: "653"
-old_path: /news/653/positive-signs-for-graduates-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/653/positive-signs-for-graduates-
-imported: true
 comments:
  - value: >
      That's 2 clever by half and 2x2 clever 4 me. Tnhaks!,sPJPnl <a href="http://tbhcjkccfvlz.com/">tbhcjkccfvlz</a>
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A [poll by the Association of Graduate Recruiters](http://www.agr.org.uk/content/Brighter-outlook-for-graduates-as-vacancy-numbers-increase-for-first-time-since-recession-began) (AGR) of 222 recruiters in the UK reveals an 8.9% annual increase in graduate jobs, with a forecast of a further 3.8% increase for this year.

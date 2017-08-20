@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Lily Le metamorphoses at the Lyric
 date: "2013-01-24 23:11:13 +0000"
-
-# Attributes from Felix Online V1
-id: "3171"
-old_path: /arts/3171/taking-the-carapace
+image: "http://felixonline.co.uk/img/upload/201301242311-mc4509-metamorphosis-gisli-image.jpg"
+image_caption: "Gangnam Style and acid day at the office considered a success"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3171/taking-the-carapace
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - lwl09
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301242311-mc4509-metamorphosis-gisli-image.jpg"
-image_caption: ""
 ---
 
 Gregor Samsa is late for work one day. Everyone is extremely concerned, including his boss who pays him a personal visit for a personal reprimand. Instead of opening the bedroom door to find Gregor, his family and boss are surprised and subsequently disgusted by the huge beetle-like creature which has replaced him.

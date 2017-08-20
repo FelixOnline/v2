@@ -4,16 +4,13 @@ title: >
 subtitle: >
   People ask what keeps our surveys, such as the Felix Sex Survey, secure and private. The Felix Team behind the surveys explain how the magic works.
 date: "2015-02-08 21:55:20 +0000"
-
-# Attributes from Felix Online V1
-id: "5211"
-old_path: /news/5211/what-keeps-felix-surveys-nice-and-secure
+image: "http://felixonline.co.uk/img/upload/201502082240-ps3110-privatis_stay_safe_online.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5211/what-keeps-felix-surveys-nice-and-secure
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - pk1811
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502082240-ps3110-privatis_stay_safe_online.jpg"
-image_caption: ""
 ---
 
 Every year people ask how Felix keeps the details you give us in our surveys private and secure. To reassure all our readers, we now reveal how it works.

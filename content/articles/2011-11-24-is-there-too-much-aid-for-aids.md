@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Next Thursday is World AIDS Day. As Medsin Imperial holds a debate to mark the occasion, Red Elmahdi investigates the arguments surrounding aid and AIDS
 date: "2011-11-24 21:40:39 +0000"
-
-# Attributes from Felix Online V1
-id: "1827"
-old_path: /news/1827/is-there-too-much-aid-for-aids
+image: "http://felixonline.co.uk/img/upload/201111242140-pk1811-redribbonprojection.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1827/is-there-too-much-aid-for-aids
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - re107
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242140-pk1811-redribbonprojection.jpg"
-image_caption: ""
 ---
 
 For anyone who has an interest in the global AIDS pandemic and the prevention strategies underway to counter it, this summer proved to be a very exciting one. The results from a ground breaking international HIV prevention study proving the practical elimination of sexual transmission of HIV through the effective treatment of those infected with antiretroviral therapy were released this July and sent the AIDS community a tweet with possibilities. Shortly after, _The Economist_ published a title of ‘The End of AIDS?’ as its cover feature. After 30 years of searching for a solution the hopes of many in seeing the end of this devastating infection have been revived. The only issue is that the idea of treatment as prevention is costly. In fact, it’s the most costly prevention intervention ever seriously considered for HIV. A total of $6.9bn was given in international assistance to HIV/AIDS in 2010 – that represents almost 10% of total foreign aid given from governments to assist less fortunate countries for last year – that’s a large slice of the aid pie for one disease. So, should we really be demanding an increase in funding for this latest ‘elimination’ strategy?

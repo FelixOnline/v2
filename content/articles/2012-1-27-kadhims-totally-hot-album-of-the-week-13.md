@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Dizzee Rascal – DirteeTv.com Mixtape – Dirtee Stank Recordings – 2012
 date: "2012-01-27 09:56:54 +0000"
-
-# Attributes from Felix Online V1
-id: "2082"
-old_path: /music/2082/kadhims-totally-hot-album-of-the-week-13
+image: "http://felixonline.co.uk/img/upload/201201270956-ks607-dizzee.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2082/kadhims-totally-hot-album-of-the-week-13
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201270956-ks607-dizzee.jpeg"
-image_caption: ""
 ---
 
 The most irritating thing about Tim Westwood is this: he’s actually 100% credible. He’s been supporting UK hip-hop since the 80s and, by all fair metrics, has earned the right to ram obnoxious horns and gunshot sounds up the backside of every track he plays on [his radio show](http://www.bbc.co.uk/programmes/b0082kyx). I, on the other hand, have absolutely zero street-cred – unless of course you count the Walkway as a street, and you accept furiously avoiding eye contact as ‘cred’.

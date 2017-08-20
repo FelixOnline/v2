@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Jonathan Masters on the NUS initiative to encourage students to vote against “pledge breakers”
 date: "2015-05-01 00:11:44 +0100"
-
-# Attributes from Felix Online V1
-id: "5478"
-old_path: /news/5478/the-40k-campaign-condemning-lib-dems
+image: "http://felixonline.co.uk/img/upload/201505010111-ps3110-n-nus-liar-liar-large570.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5478/the-40k-campaign-condemning-lib-dems
-imported: true
 comments:
  - value: >
      The comment that £40K is not a lot of money is disturbing, just how big are student debts getting these days?,Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means more now than ever since the new Google update: Panda. No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings, You now NEED On-Page SEO. So what is good On-Page SEO?First your keyword must appear in the title.Then it must appear in the URL.You have to optimize your keyword and make sure that it has a nice keyword density of 3-5% in your article with relevant LSI (Latent Semantic Indexing). Then you should spread all H1,H2,H3 tags in your article.Your Keyword should appear in your first paragraph and in the last sentence of the page. You should have relevant usage of Bold and italics of your keyword.Th
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505010111-ps3110-n-nus-liar-liar-large570.jpg"
-image_caption: ""
 ---
 
 If you paid attention to your news feed in the last week, the likelihood is that the story of the National Union of Students (NUS) spending £40,000 on a campaign against the Liberal Democrats has come across your radar.

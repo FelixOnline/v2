@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Bland architecture makes Imperial an even more unpleasant place to be
 date: "2016-06-10 08:21:42 +0100"
-
-# Attributes from Felix Online V1
-id: "6252"
-old_path: /comment/6252/why-is-imperial-so-ugly
+image: "http://felixonline.co.uk/img/upload/201606101021-felix-cr3735100057.jpg"
+image_caption: "Stunning."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6252/why-is-imperial-so-ugly
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - icanon
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606101021-felix-cr3735100057.jpg"
-image_caption: ""
 ---
 
 Hello Imperial, we need to talk.

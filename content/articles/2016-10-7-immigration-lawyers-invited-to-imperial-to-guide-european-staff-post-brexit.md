@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Hide yo wives! Hide yo kids!
 date: "2016-10-07 17:01:00 +0100"
-
-# Attributes from Felix Online V1
-id: "6312"
-old_path: /news/6312/immigration-lawyers-invited-to-imperial-to-guide-european-staff-post-brexit
+image: "http://felixonline.co.uk/img/upload/201610101231-felix-69729963_a737132ad6_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6312/immigration-lawyers-invited-to-imperial-to-guide-european-staff-post-brexit
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610101231-felix-69729963_a737132ad6_o.jpg"
-image_caption: ""
 ---
 
 If you only hold a European passport, you might want to consider applying for permanent residence in the UK, if not for British citizenship. Or at least that is what immigration lawyers invited to Imperial are advising, in a series of presentations for College’s European staff, to help them navigate the post-Brexit landscape.

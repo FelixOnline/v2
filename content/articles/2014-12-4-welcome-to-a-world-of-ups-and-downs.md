@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Chrysostomos Meli looks at how you will be paying for things in the future
 date: "2014-12-04 19:24:35 +0000"
-
-# Attributes from Felix Online V1
-id: "4997"
-old_path: /tech/4997/welcome-to-a-world-of-ups-and-downs
+image: "http://felixonline.co.uk/img/upload/201412041924-cj914-red-yoyo-copy.jpg"
+image_caption: "YOYO is the electronic payment choice of a lot of Imperial students. Disclaimer: has nothing to do w"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4997/welcome-to-a-world-of-ups-and-downs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -25,12 +23,6 @@ authors:
  - cm5314
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412041924-cj914-red-yoyo-copy.jpg"
-image_caption: ""
 ---
 
 Silicon Valley has for some time now declared an all-out war on our non-electronic habits, changing them to fit around their technology. It has been a gradual process but thinking about it, we certainly don’t read books the way we used to. Writing an essay barely involves a pen anymore, we can go grocery shopping without even leaving the house and our fitness regime is becoming a lot more informative. It now seems tech companies have got their eyes set on the way we pay.

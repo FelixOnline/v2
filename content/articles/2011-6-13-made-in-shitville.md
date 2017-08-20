@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The week in television
 date: "2011-06-13 13:33:46 +0100"
-
-# Attributes from Felix Online V1
-id: "1373"
-old_path: /tv/1373/made-in-shitville
+image: "http://felixonline.co.uk/img/upload/201106131433-felix-172.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1373/made-in-shitville
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - tvfelix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106131433-felix-172.jpeg"
-image_caption: ""
 ---
 
 I had no intention to watch “[Made in Chelsea](http://www.e4.com/chelsea/)”, but being otherwise unoccupied, along with the fact that it was playing on my friend’s laptop in front of me, I found myself succumbing to three episodes thereof. It was painful.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Dismay over handling of tuition fees rise forces Aaron Porter out
 date: "2011-02-27 12:15:48 +0000"
-
-# Attributes from Felix Online V1
-id: "899"
-old_path: /news/899/nus-president-wont-seek-re-election
+image: "http://felixonline.co.uk/img/upload/201102271209-ks607-aaronpor.jpg"
+image_caption: "The NUS President is escorted to safety by police"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/899/nus-president-wont-seek-re-election
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - klb09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102271209-ks607-aaronpor.jpg"
-image_caption: ""
 ---
 
 Last week Aaron Porter, president of the NUS, made the decision that he would not seek re-election at the national conference in April – effectively bringing his troubled yearlong presidency to an end.

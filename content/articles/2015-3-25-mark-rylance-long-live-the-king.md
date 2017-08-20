@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Kamil McClelland takes in the Sam Wanamaker Playhouse’s atmosphere
 date: "2015-03-25 13:00:42 +0000"
-
-# Attributes from Felix Online V1
-id: "5442"
-old_path: /arts/5442/mark-rylance---long-live-the-king
+image: "http://felixonline.co.uk/img/upload/201503251300-ff712-farinelli-555-captioneda.jpg"
+image_caption: "Mark Rylance as King Philippe in Farinelli and the King. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5442/mark-rylance---long-live-the-king
-imported: true
 comments:
  - value: >
      It really is highly advertised around earth. So out of the best seven point guards, we have three possess experienced fifa ultimate team or personal success. It says football is the ultimate team competition. <br>crÃ©dits fifa gratuit http://creditsfut.com/
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251300-ff712-farinelli-555-captioneda.jpg"
-image_caption: ""
 ---
 
 It is easy to forget how magical London is at night but as I crossed Millenium Bridge to reach the __Globe Theatre__, perfectly perched on the riverside, this feeling rushed back to me. With St. Paul’s Cathedral illuminated behind, I was suspended in a state of wonderment as I entered the __Sam Wanamaker Playhouse__, the Globe’s new indoor theatre space. Created to extend the working life of the open air theatre beyond sunny summer days, the Sam Wanamaker Playhouse is a truly mesmerising indoor theatre space, built entirely of wood in a late Elizabethan style: intimate, hand painted and lit solely by candlelight; I have never been to a theatre quite like it. However, this did come with a few downsides. It seems there weren’t many people who were 6’ 4” in the 17th century, which made fitting my knees into the cramped rows a bit of a mission. That, combined with uncomfortable benches, reports of dripping candle wax, and poorly positioned columns meant that, although certainly authentic, it wouldn’t be for everyone.

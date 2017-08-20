@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Max Falkenberg is emotionally blown apart at Wyndham’s
 date: "2015-02-22 17:44:28 +0000"
-
-# Attributes from Felix Online V1
-id: "5305"
-old_path: /arts/5305/utterly-overpowered-by-arthur-miller
+image: "http://felixonline.co.uk/img/upload/201502221743-ps3110-5_mark_strong_and_phoebe_fox_in_a_view_from_the_bridge_at_the_young_vic_-28--jan-versweyveld.jpg"
+image_caption: "Mark Strong and Phoebe Fox in A View from the Bridge at Wyndham’s Theatre."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5305/utterly-overpowered-by-arthur-miller
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502221743-ps3110-5_mark_strong_and_phoebe_fox_in_a_view_from_the_bridge_at_the_young_vic_-28--jan-versweyveld.jpg"
-image_caption: ""
 ---
 
 I have a confession to make. In my ignorance, I know practically nothing about Arthur Miller. Arguably one of the greatest playwrights of the twentieth century, at least a superficial understanding of Miller’s work should probably be expected from me, but not even that can I offer. Clueless, but with great anticipation, it was in this mind-set that I walked into the __Wyndham’s Theatre__ for their production of _A View from the Bridge_.

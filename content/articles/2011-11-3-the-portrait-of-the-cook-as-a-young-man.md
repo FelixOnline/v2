@@ -4,17 +4,14 @@ title: >
 subtitle: >
   A glorious transformation from culinary newbie to master chef
 date: "2011-11-03 21:29:40 +0000"
+image: "http://felixonline.co.uk/"
 draft: true
-
-# Attributes from Felix Online V1
-id: "1687"
-old_path: /comment/1687/the-portrait-of-the-cook-as-a-young-man-
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1687/the-portrait-of-the-cook-as-a-young-man-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - rjd08
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Looking back with the aged eyes of a fourth year, I can reflect on my experiences here and divise a pattern, common to all who pass through these halls. As a child, food was just food. Food was also delicious. In university, food is still delicious but it is suddenly so much more complicated. For the first time in my life, I am responsible for my own sustenance. With a few mistakes made along the way, I am somehow still alive. There seem to be several distinct stages that a student will pass through during their time here.

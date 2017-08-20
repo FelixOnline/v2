@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Why poverty is an issue that extends far beyond simple generalisations
 date: "2011-11-24 23:36:03 +0000"
-
-# Attributes from Felix Online V1
-id: "1850"
-old_path: /comment/1850/poverty-should-occupy-your-mind
+image: "http://felixonline.co.uk/img/upload/201111242335-felix-poverty-rory-fenton.jpg"
+image_caption: "Poverty is a complex issue with no set solution"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1850/poverty-should-occupy-your-mind
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - rtf08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242335-felix-poverty-rory-fenton.jpg"
-image_caption: ""
 ---
 
 When a friend came from home to visit me this weekend, the Occupy protest at St Paul’s Cathedral was an obvious stop on the tourist trail. Whether you agree with the protestors or not, the creation of a functioning tent civilisation with its own library, media centre and even a ‘university’ is really quite impressive. But you don’t need to see what they’ve done to the City of London landscape to see the impact they’ve had on the political arena – our economy and society are under the microscope like never before in our generation. And as the long suffering Felix Comment editors know only too well, the debate has been raging fiercely in these pages.

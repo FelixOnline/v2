@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Sport Imperial employee allegedly said “I don’t care how those fat girls get home”
 date: "2015-03-19 23:42:37 +0000"
-
-# Attributes from Felix Online V1
-id: "5406"
-old_path: /news/5406/premature-coach-departures-and-misogynistic-abuse-from-staff-member-for-womens-rugby
+image: "http://felixonline.co.uk/img/upload/201503192343-cj914-tbl_varsity_quick_set_21h42m27s.jpg"
+image_caption: "IC run through to score one of their three tries on the night"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5406/premature-coach-departures-and-misogynistic-abuse-from-staff-member-for-womens-rugby
-imported: true
 comments:
  - value: >
      Sport Imperial are a completely useless entity - way out of their depth in all areas they are put in charge of running... they couldn't organise a piss up in a brewery. <br> <br>I haven''t been to the Stoop in 3 years now, because the last time I went a lot of us were left behind by lack of coaches, had to spend £40 for a taxi back and were not even offered a reimbursement. This is, of course, after we finally got a taxi, as Sport Imperial were too intent on getting their suited guests sent home first - of course they should be getting the all-expenses paid taxis first. <br> <br>I also wanted to go and see the hockey, a much more interesting varsity. Of course the ever competent Sport Imperial bought Heston without considering hockey players (there are no (desperately needed) pitches there) , who were stranded alone at Harlington all day.,Once again Sport Imperial show their true colours as a corporate entity, rather than a student-focused sports body. <br> <br>The entire transport system was a debacle. Buses left South Kensi
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503192343-cj914-tbl_varsity_quick_set_21h42m27s.jpg"
-image_caption: ""
 ---
 
 Imperial’s Women’s rugby teams have been left fuming after their Varsity match on Wednesday due to transport mix-ups and alleged verbal abuse from a Sport Imperial staff member.

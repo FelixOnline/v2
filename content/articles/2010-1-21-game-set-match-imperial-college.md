@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial College take a decisive win!
 date: "2010-01-21 21:16:20 +0000"
-
-# Attributes from Felix Online V1
-id: "42"
-old_path: /news/42/game-set-match-imperial-college
+image: "http://felixonline.co.uk/img/upload/201001212112-rsp07-Universt.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/42/game-set-match-imperial-college
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - rsp07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001212112-rsp07-Universt.jpg"
-image_caption: ""
 ---
 
 On Monday, Imperial won the first of their quarter-final matches against Edinburgh University in the latest episode of University Challenge. At this stage in the competition, Imperial needs one more win against Emmanuel College Cambridge to secure a place in the semi-finals.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Angry Geek thinks you shouldn't suffer
 date: "2010-02-27 17:07:29 +0000"
-
-# Attributes from Felix Online V1
-id: "111"
-old_path: /comment/111/angry-geek-thinks-you-shouldnt-suffer
+image: "http://felixonline.co.uk/img/upload/201002271706-rsp07-tools.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/111/angry-geek-thinks-you-shouldnt-suffer
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - mrangry
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002271706-rsp07-tools.jpg"
-image_caption: ""
 ---
 
 In my Monday morning lectures there’s a ten-minute break in the three hours of unending pain, and during this time one of the students likes to go and get a coffee. Without fail, he comes back ten minutes late each week. As I am more anal than a particularly uptight haemorrhoid this irritates me greatly, and so next week I will attempt to fashion a landmine out of a bottle of water, a multivitamin tablet, and some thumbtacks.

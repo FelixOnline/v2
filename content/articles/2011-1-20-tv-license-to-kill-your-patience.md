@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The letter is full of the most exquisite wording, with all the subtlety of an elephant–based strip parlour
 date: "2011-01-20 21:06:17 +0000"
-
-# Attributes from Felix Online V1
-id: "642"
-old_path: /comment/642/tv-license-to-kill-your-patience
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/642/tv-license-to-kill-your-patience
-imported: true
 comments:
  - value: >
      make sure to choose cyndaquil. only one of the starters that is effective against the newly introduced steel type,или другого несчастного стечения обстоятельств, они остались бы, наверное, <br>честными и нравственными. Магго совершенно прав, говоря, что потеря <br>девственности имеет для женщины огромное психологическое значение. Все ее <br>существование нарушено, раз завеса, скрывавшая от нее неизвестное, так грубо <br>порвана. В таком случае многие девушки с не очень стойким нравственным <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>,Comfort. Casino is trouble of playing along with cards of the diligence worldwide. Th
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - mrangry
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The television licensing people and I are playing a game. The rules of the game are pretty simple. The first player – that’s me – abides by all known laws this side of the Mars–Jupiter asteroid belt. The second player – Grand Duke John Hales of the London South West Enforcement Division – simply has to send a letter to me every month asking if I’ve broken any laws yet. Simple game.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Tate Britian honours Pre-Raphaelite rebels
 date: "2012-10-26 03:05:58 +0100"
-
-# Attributes from Felix Online V1
-id: "2765"
-old_path: /arts/2765/bromance-of-the-renaissance-men
+image: "http://felixonline.co.uk/img/upload/201210260405-tna08-margot-rgb.jpg"
+image_caption: "               Edward Burne Jones, Laus Veneris 1873-8 © Laing Art Gallery"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2765/bromance-of-the-renaissance-men
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - mp1710
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210260405-tna08-margot-rgb.jpg"
-image_caption: ""
 ---
 
 The year is 1848. Railways are being deposited left, right and centre; the Industrial Revolution is in full swing; and next year, Darwin will publish his infamous ‘Origin of Species’. It is no surprise, then, that today, in the 21st century, we always look back on this period as a time of incredible technical progress and profound leaps in our scientific understanding. It is against this fascinating backdrop that three men came together and founded the Pre-Raphaelite Brotherhood, British art’s answer to the complete upheaval of 19th century society. Together, John Everett Milais, Dante Gabriel Rossetti and William Holman Hun sought to rebel against the ‘slavery’ of the modern factory. They wanted to reject the idea that Raphael, the great Italian master, represented the pinnacle of aesthetic achievement. Instead, they decided to draw their inspiration from the freshness of early Renaissance art: the bright colours, flat surfaces and truth to nature.

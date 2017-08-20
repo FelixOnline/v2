@@ -4,16 +4,13 @@ title: >
 subtitle: >
   All the best tech news you missed during the Easter break
 date: "2010-04-30 10:40:22 +0100"
-
-# Attributes from Felix Online V1
-id: "129"
-old_path: /tech/129/easter-break-tech-wrap-up
+image: "http://felixonline.co.uk/img/upload/201004301136-srg03-EasterBr.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/129/easter-break-tech-wrap-up
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - srg03
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201004301136-srg03-EasterBr.jpg"
-image_caption: ""
 ---
 
 Welcome back all you holidaying Imperialites. I hope you had a refreshing break or as so many of you were, your revision went well. It's back to the daily grind from now until the end of the academic year with the summer term punctuated by exams and projects.

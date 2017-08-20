@@ -4,16 +4,14 @@ title: >
 subtitle: >
   "I believe the show’s episodes can be split up into three categories – a third of them are brilliant, a third are just plain disappointing while a third are so bad that they’re good"
 date: "2013-01-10 22:59:10 +0000"
-
-# Attributes from Felix Online V1
-id: "3101"
-old_path: /tv/3101/dr-who-is-coming-to-town
+image: "http://felixonline.co.uk/img/upload/201301102259-csw09-3216365-high-doctor-who-christmas-special-2012.jpg"
+image_caption: "I see a tall, dark stranger in your future...and a creepy snowman"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/3101/dr-who-is-coming-to-town
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +22,6 @@ authors:
  - csw09
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102259-csw09-3216365-high-doctor-who-christmas-special-2012.jpg"
-image_caption: ""
 ---
 
 Doctor Who is a contentious show. It is praised by some critics for its great imagination and the influence it has had on other SF programming. Others claim that it has never really gone beyond its original concept as a ‘family show’ – a term seen by many as a euphemism for ‘children’s programme’. Not that these opposing points of view are mutually exclusive – a major London fan group recently voted Doctor Who the worst SF show of 2012 while at the same time proclaiming its leads the best genre television actors of the year. I have much the same attitude myself, having previously said on pages that I believe the show’s episodes can be split up into three categories – a third of them are brilliant, a third are just plain disappointing while a third are so bad that they’re good. I had, however, found all the episodes in the first half of the latest series, broadcast earlier in the year, surprisingly enjoyable so I had high hopes going into this Christmas special. Unfortunately, as I was soon to find out, ‘The Snowmen’ lies firmly in the ‘disappointing’ category.

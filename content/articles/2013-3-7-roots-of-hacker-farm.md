@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Riaz Agahi harvests info ahead of an IC Radio exclusive
 date: "2013-03-07 21:38:17 +0000"
-
-# Attributes from Felix Online V1
-id: "3427"
-old_path: /music/3427/roots-of-hacker-farm
+image: "http://felixonline.co.uk/img/upload/201303072137-txl11-fl-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3427/roots-of-hacker-farm
-imported: true
 comments:
  - value: >
      http://www.facebook.com/SongsAboutNothing
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303072137-txl11-fl-1.jpg"
-image_caption: ""
 ---
 
 Ahead of the Hacker Farm exclusive on IC Radio next week, I spoke to them about their influences, motivations and what’s coming up next. Kek W ably walked me through the HF ethos.

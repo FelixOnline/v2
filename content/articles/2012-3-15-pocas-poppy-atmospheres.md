@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Anastasia Eleftheriou finds even traffic signs can inspire
 date: "2012-03-15 21:12:57 +0000"
-
-# Attributes from Felix Online V1
-id: "2372"
-old_path: /music/2372/pocas-poppy-atmospheres
+image: "http://felixonline.co.uk/img/upload/201203152112-ams111-poca-keyboard.jpg"
+image_caption: "You can’t read my P-P-P-P-POCA face"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2372/pocas-poppy-atmospheres
-imported: true
 comments:
  - value: >
      "Bare in mind"???,Your answer was just what I <a href="http://iqqihjdkd.com">neddee.</a> It's made my day!
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152112-ams111-poca-keyboard.jpg"
-image_caption: ""
 ---
 
 POCA is formed of Poca (vocals), George Karpasitis (guitars), David Horler (bass) and Jack Painting (drums). They have collaborated with Sophie Frankford (violin), Midori Jaeger (cello) and Elin Klingfors and Txako Jones (backing vocals).

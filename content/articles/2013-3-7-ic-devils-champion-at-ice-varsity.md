@@ -4,16 +4,14 @@ title: >
 subtitle: >
   What killed the dinosaurs... the ice age!
 date: "2013-03-07 22:05:17 +0000"
-
-# Attributes from Felix Online V1
-id: "3438"
-old_path: /sport/3438/ic-devils-champion-at-ice-varsity
+image: "http://felixonline.co.uk/img/upload/201303072203-mc4509-ice_varsity2012-210.jpg"
+image_caption: "Some pretty chill guys"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3438/ic-devils-champion-at-ice-varsity
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +22,6 @@ authors:
  - mc4509
  - thr07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303072203-mc4509-ice_varsity2012-210.jpg"
-image_caption: ""
 ---
 
 The Imperial Devils ice hockey team clinched the inaugural London Ice Varsity title with a 7-3 smashing of the UCL Yetis in a feisty contest that saw the Devils live up to their name, racking up more than a period’s worth of penalty minutes. After a rousing rendition of the national anthem by our resident Canadian operatic Trent Allen, the game started in earnest when barely a minute into play the Devils found themselves on the penalty kill (PK) after Rich Barlow threw a robust hit that sent the UCL player into the boards but was deemed interference.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   In the first of a series of articles on the privatisation of our universities, Stephen Smith discusses the Government’s latest assault on academic freedom, through the Research Councils
 date: "2012-06-01 12:20:48 +0100"
-
-# Attributes from Felix Online V1
-id: "2509"
-old_path: /news/2509/privatisation-the-ministry-interfering-at-hogwarts
+image: "http://felixonline.co.uk/img/upload/201206011320-mc4509-daviddeply.jpg"
+image_caption: "David Delpy, CEO of the EPSRC and Gordon Brown"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2509/privatisation-the-ministry-interfering-at-hogwarts
-imported: true
 comments:
  - value: >
      You may be right about the "privatisation thing", perhaps "corporatisation" or "commercialisation" would be better. <br> <br>On the other hand, if you assume that academics are public servants (as I do) then the fact that they have been replaced by business-people on research councils amounts to privatisation. Also, the other articles in the series are about privatisation, so I felt this title was better. <br> <br>While you may think that academics are not the best people to judge the value of research, surely they are better than business-people, who always have a financial agenda. The question of who should decide how to fund science is a very important and difficult one, but I hope we can all agree that business-people should not do so.,"you can't just have your academics sitting in an ivory tower making all decisions by themselves" <br> <br>Why not? <br> <br>As for your other point, many companies buy the patents for government-funded research. For one example. see the current GM research at Rothamsted where the resulting crop
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206011320-mc4509-daviddeply.jpg"
-image_caption: ""
 ---
 
 Our universities are being privatised, or so many on the Left would have us believe. But how true is it? And is it necessarily a bad thing? In a series of features over the next few weeks, I will be investigating several areas of privatisation at Imperial and at universities across the UK, areas where corporations are filling a role that used to be public.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   And So I Watch You From Afar : All Hail Bright Futures
 date: "2013-05-08 20:12:50 +0100"
-
-# Attributes from Felix Online V1
-id: "3551"
-old_path: /music/3551/ams-album-of-the-week-18
+image: "http://felixonline.co.uk/img/upload/201305082111-tna08-asiwyfa.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3551/ams-album-of-the-week-18
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - rnt11
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305082111-tna08-asiwyfa.jpg"
-image_caption: ""
 ---
 
 Suspiciously named and sensibly abbreviated, ASIWYFA are a 4 piece who play instrumental rock. Their sound is probably best summarised by the title of their best known track, “Set Guitars To Kill” - hyperactive arena rock made to be heard from so close to the band that you can feel splinters flying from the drumsticks. Their self-titled debut released in 2009 benefited from the band’s extensive catalogue of well-practiced demos, recorded with spacious production focusing on bringing out the wide variety of moods the group could create. Their second album, Gangs, adopted a more familiar mix, but fell just shy of being truly memorable when compared to their first album.

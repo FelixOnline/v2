@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Invigilation is no more than being paid to watch others suffer
 date: "2014-06-12 16:44:05 +0100"
-
-# Attributes from Felix Online V1
-id: "4684"
-old_path: /comment/4684/confessions-of-a-gta-part-17
+image: "http://felixonline.co.uk/img/upload/201406121744-me1711-boredpony.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4684/confessions-of-a-gta-part-17
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - gta
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406121744-me1711-boredpony.png"
-image_caption: ""
 ---
 
 I expected to enjoy invigilating undergraduate exams, and to be honest, I did. There is something very satisfying about getting paid to watch other people going through the hell you have lived for three years. One thing I did notice there is a specific pattern to every exam. From a GTA perspective this is pretty much how they go:

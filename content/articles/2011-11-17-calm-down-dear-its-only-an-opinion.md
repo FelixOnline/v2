@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Felix's Deputy Editor on the perils of the Comment section
 date: "2011-11-17 22:14:52 +0000"
-
-# Attributes from Felix Online V1
-id: "1792"
-old_path: /comment/1792/calm-down-dear-its-only-an-opinion
+image: "http://felixonline.co.uk/img/upload/201111172217-felix-charles-betts.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1792/calm-down-dear-its-only-an-opinion
-imported: true
 comments:
  - value: >
      Surely you mean creative trolling?,An outlet for creativity and trolling.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172217-felix-charles-betts.jpg"
-image_caption: ""
 ---
 
 Silvio Berlusconi has proved himself a great salesman and a poor statesman. Sounds good, doesn’t it? Has a certain panache. The only thing is, I didn’t come up with it. The succinct, elegant sentence was written by Beppe Severgnini, the reputable Italian political commentator, in a [recent Financial Times column](http://www.ft.com/cms/s/0/5054b196-0c9c-11e1-a45b-00144feabdc0.html#axzz1e0GhdDEz). My opinions on Berlusconi’s reign as Prime Minister of the eurozone’s third largest economy are limited to what I have read in national media; I have never met an Italian politician, let alone voted in an Italian election. And herein lies the problem with student opinion pieces: they cannot be more than a regurgitation of other, professional, columnist’s original thoughts.

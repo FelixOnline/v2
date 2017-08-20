@@ -4,16 +4,13 @@ title: >
 subtitle: >
   FiveSixEight passes ACC Bar Night test
 date: "2010-11-11 22:10:59 +0000"
-
-# Attributes from Felix Online V1
-id: "375"
-old_path: /news/375/acc-bar-night-brings-1000-profit
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/375/acc-bar-night-brings-1000-profit
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The first Athletics Club Committee (ACC) Bar Night of the year took place on Wednesday 3rd November, raising over £1000 for various sporting clubs, with the success being hailed as the beginning of “a new age for the Union”.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Graphene has astonished scientists around the world with its fantastic electrical conductivity and mechanical properties
 date: "2013-03-07 21:22:31 +0000"
-
-# Attributes from Felix Online V1
-id: "3424"
-old_path: /science/3424/graphene-ready-to-revolutionise-solar-power
+image: "http://felixonline.co.uk/img/upload/201303072124-jal08-graphenei.jpg"
+image_caption: "We have been reliably informed that this funky image is science-related"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3424/graphene-ready-to-revolutionise-solar-power
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ad4010
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303072124-jal08-graphenei.jpg"
-image_caption: ""
 ---
 
 Yes, that’s right. You might have heard of graphene already. This Christmas the government invested £22 million into the so dubbed ‘super-material’. Imperial College London received £4.5 million, which, distributed between 3 research projects, hopes to contribute to the international quest for graphene technologies.

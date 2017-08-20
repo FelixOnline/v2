@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In the first of three Felix articles, Lord David Alton of Liverpool reports on his visit to the Pyongyang University of Science and Technology
 date: "2010-11-04 18:48:39 +0000"
-
-# Attributes from Felix Online V1
-id: "314"
-old_path: /politics/314/the-imperial-college-of-north-korea-
+image: "http://felixonline.co.uk/img/upload/201011041846-ma1307-PYONGYAN.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/314/the-imperial-college-of-north-korea-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - lorddavidalton
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011041846-ma1307-PYONGYAN.jpg"
-image_caption: ""
 ---
 
 James Chin Kyung Kim is that rare man – a man who believes in the unbelievable, and makes it happen.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It’s not because you lied when you were seventeen. Sam Furse discusses Britain’s recent drought, floods and the plight of the blue whale
 date: "2011-06-16 20:10:12 +0100"
-
-# Attributes from Felix Online V1
-id: "1389"
-old_path: /science/1389/why-does-it-always-rain-on-me
+image: "http://felixonline.co.uk/img/upload/201106162106-felix-man-umbrella-rain.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1389/why-does-it-always-rain-on-me
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - sf305
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106162106-felix-man-umbrella-rain.jpeg"
-image_caption: ""
 ---
 
 Like recovering alcoholics everywhere, Britain has woken up to the declaration of droughts in several parts of the Kingdom. Queendom. Whatever it is – it is dry. It is also the first half of June after a stinking cold winter. It is tempting to strike up something British and indignant about why the weather is what it is and how exacerbating, inexplicable or inconvenient it is. Although British, I am also a scientist and am going to take that perspective.

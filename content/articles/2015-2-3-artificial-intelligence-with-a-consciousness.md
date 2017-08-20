@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Lauren Ratcliffe on an Imperial professor’s involvement in the film Ex-Machina
 date: "2015-02-03 14:54:39 +0000"
-
-# Attributes from Felix Online V1
-id: "5185"
-old_path: /science/5185/artificial-intelligence-with-a-consciousness-
+image: "http://felixonline.co.uk/img/upload/201502031454-ps3110-ex-machina-photoshopped.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5185/artificial-intelligence-with-a-consciousness-
-imported: true
 comments:
  - value: >
      Whoa! This blog looks exactly like my old one! It's on a totally different topic but it has pretty much the same layout and design. Outstanding choice of colors! <br>moncler online china http://www.targettisportingclub.it/?it-moncler-online-china-8154.html,Wow, incredible blog layout! How long have you been blogging for? you made blogging look easy. The overall look of your web site is magnificent, as well as the content! <br>moncler winterjassen online free http://www.webenco.nl/?nl-moncler-winterjassen-online-free-13807.html,It is a well known fact that getting into shape requires a hard perform it's magic. Seattle's dream 3-0-0 set out to the season ended on April 11 when the Wizards won, 1-0, with 10-man Sounders FC. <br>crÃ©dits fut rapidement http://creditsfut.com/,Great web site you've gotten here <br>nhl 17 coins http://weliveinplymouth.co.uk/confessions/confession/301,You have got terrific knowlwdge listed here <br>madden 17 http://teapartytown.us/forum/thread/167/fifa-17-coins-oves-below-freezing-level/
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502031454-ps3110-ex-machina-photoshopped.jpg"
-image_caption: ""
 ---
 
 Science fiction film Ex-Machina has recently hit cinemas worldwide, a psychological thriller to tantalise our over-active imaginations of a future where artificial intelligence has a consciousness. But how far are we from any of these ideas becoming reality? In Ex Machina audiences are supposed to believe that the artificially intelligent character, Ava, has a sense of self. Young programmer Caleb is asked to test Ava’s consciousness and reveals that Ava is a bonafide intelligent huminoid capable of feeling emotions. The suffering she later experiences in the film evokes within us a sense of injustice; if she has a consciousness surely she should be entitled to freedom?

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A prescient commentary on the problems of promoting stereotypes and how they are often wrong
 date: "2011-03-03 20:14:59 +0000"
-
-# Attributes from Felix Online V1
-id: "1005"
-old_path: /film/1005/obscure-japanese-kamikaze-girls-gets-belated-praise
+image: "http://felixonline.co.uk/img/upload/201104220153-felix-r13_m.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1005/obscure-japanese-kamikaze-girls-gets-belated-praise
-imported: true
 comments:
  - value: >
      I'm out of leauge here. Too much brain power on display!
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104220153-felix-r13_m.jpeg"
-image_caption: ""
 ---
 
 Mention that you’ve watched a film called Kamikaze Girls the first thing people tend to ask is whether you have a fetish for Japanese adult videos. Appearances can be deceptive however, and this adaptation of [Novala Takemoto’s](http://en.wikipedia.org/wiki/Novala_Takemoto) novel tells the story of the quirky friendship that develops between two girls of vastly differing tastes.

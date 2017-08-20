@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-02-26 11:37:51 +0000"
-
-# Attributes from Felix Online V1
-id: "5966"
-old_path: /film/5966/the-top-three-actor-musicians-who-arent-madonna
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5966/the-top-three-actor-musicians-who-arent-madonna
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - bsc14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Considering my age it’s hard for me imagine that, at one time, Madonna was the biggest star in the world. Unfortunately though, often with a great music career comes a terrible film career. Anyone who’s seen _Swept Away_ or _The Next Best Thing_ should know that she’s never set the bar high for musicians-turned-actors. For ease of list-making I’ve excluded artists from the 50s and 60s because starring in shitty films seemed to be a requirement in those times (here’s looking at you Elvis):

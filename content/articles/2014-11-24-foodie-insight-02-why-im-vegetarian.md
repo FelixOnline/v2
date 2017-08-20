@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Or at least, he tries to be! Kamil McClelland discusses *THAT* lifestyle choice
 date: "2014-11-24 20:34:58 +0000"
-
-# Attributes from Felix Online V1
-id: "4954"
-old_path: /food/4954/foodie-insight-02-why-im-vegetarian
+image: "http://felixonline.co.uk/img/upload/201411242034-ps3110-women_lunch_talking.jpg"
+image_caption: "No dahhhling, I didn't say I was leaving him because he was going vegetarian. I just told him he wa"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/4954/foodie-insight-02-why-im-vegetarian
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411242034-ps3110-women_lunch_talking.jpg"
-image_caption: "No dahhhling, I didn't say I was leaving him because he was going vegetarian. I just told him he wa"
 ---
 
 As the joke goes: “How do you know if someone is vegan? Oh don’t worry, they’ll tell you”. A lot of people, including myself, are put off by these militant activists, encamped on their moral high ground looking disdainfully down at the rest of us.

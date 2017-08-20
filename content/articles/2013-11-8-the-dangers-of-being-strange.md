@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imagine a white hot day blazing around you, created by blinding and numbing sunlight, all colours scrubbed cleaner and brighter and the air too hot to breathe. As I read L’etranger – usually translated as either The Stranger or The Outsider – a similar atmosphere appeared to surround me...
 date: "2013-11-08 09:46:54 +0000"
-
-# Attributes from Felix Online V1
-id: "4035"
-old_path: /books/4035/the-dangers-of-being-strange
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/4035/the-dangers-of-being-strange
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -23,12 +20,6 @@ authors:
  - er310
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imagine a white hot day blazing around you, created by blinding and numbing sunlight, all colours scrubbed cleaner and brighter and the air too hot to breathe. As I read L’etranger – usually translated as either The Stranger or The Outsider – a similar atmosphere appeared to surround me, created by Albert Camus to accompany his ‘stranger’ through the absurd trap lying in wait from the very first page.

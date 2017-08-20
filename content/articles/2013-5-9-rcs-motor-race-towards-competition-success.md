@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Jezebel does Imperial proud
 date: "2013-05-09 12:08:52 +0100"
-
-# Attributes from Felix Online V1
-id: "3559"
-old_path: /news/3559/rcs-motor-race-towards-competition-success
+image: "http://felixonline.co.uk/img/upload/201305091309-tna08-jezebel.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3559/rcs-motor-race-towards-competition-success
-imported: true
 comments:
  - value: >
      She has her camera <a href="http://uorwttpyp.com">anlges</a> and this isn't her best shot. She is something like an inch and a half taller than EJ, amd EJ isn't short. JW is 6 ft tall. Maybe she is wearing high heels, and he tilted a bit toward her, idk. His smile is funny awkward here.Does anyone know how this show is rating? In the last interview that catgoh n chinggunie kindly translated, JW was concerned about ratings.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305091309-tna08-jezebel.jpg"
-image_caption: ""
 ---
 
 Much celebration was had by members of [RCS Motor Club](https://union.ic.ac.uk/rcc/rcsmotor/) as Jezebel, the vintage fire engine they maintain, was awarded ‘Second in Class’ at the 52nd HCVS London to Brighton Run, held last Sunday.

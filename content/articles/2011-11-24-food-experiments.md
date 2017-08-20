@@ -4,16 +4,14 @@ title: >
 subtitle: >
   What is the best eggy soldier of them all?
 date: "2011-11-24 21:33:37 +0000"
-
-# Attributes from Felix Online V1
-id: "1823"
-old_path: /food/1823/food-experiments-
+image: "http://felixonline.co.uk/img/upload/201111242133-pk1811-eggsperimentsrsc-lowres.jpg"
+image_caption: "I know you’ve had it with eggscruciating yolks"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1823/food-experiments-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +22,6 @@ authors:
  - ae1409
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242133-pk1811-eggsperimentsrsc-lowres.jpg"
-image_caption: ""
 ---
 
 Young science students from Sherborne Girls in Dorset have discovered what makes the perfect boiled egg and soldiers. In an “Eggsperiment” commissioned by the Royal Society of Chemistry, a team of 12 girls tested one of Britain’s favourite breakfasts and confirmed the optimum time for boiling an egg, as well as the key variables that make up the perfect dipping soldier.

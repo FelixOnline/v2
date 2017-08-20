@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Charity fads raise money for animal testing, but should the public should be better informed?
 date: "2014-11-06 18:14:33 +0000"
-
-# Attributes from Felix Online V1
-id: "4760"
-old_path: /comment/4760/research-ethics-at-the-bottom-of-the-ice-bucket
+image: "http://felixonline.co.uk/img/upload/201411102232-ps3110-download.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4760/research-ethics-at-the-bottom-of-the-ice-bucket
-imported: true
 comments:
  - value: >
      fitflop <br>cheapest fitflops australia http://fitflopsau.blogspot.com/,fitflop shoes australia <br>fitflop online http://fitflopsau.blogspot.com/,birkenstock australia online <br>birkenstocks on sale http://birkenstockaustralia2013.blogspot.com/,shoes with red bottoms <br>christian louboutin online store http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin glitter shoes <br>christian louboutin shoes canada http://canadachristianlouboutinoutlet.blogspot.com/,cheap christian louboutin canada <br>cheap christian louboutin shoes canada http://canadachristianlouboutinoutlet.blogspot.com/,(A MUST READ: HOW I GOT CURED FROM ALS DISEASE)<br> I am from Philadelphia, I was diagnosed of ALS disease (Lou Gehrig’s disease) in 2012 and I have tried all I can to get cured but all to no avail, my life was gradually coming to an end, until i saw a post in a health forum about a herbal doctor from Africa who prepares herbal cure to cure all kind of diseases including ALS,/ MND, Epilepsy, Leukemia, Asthma, Cancer, Ghonorhea et
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102232-ps3110-download.jpeg"
-image_caption: ""
 ---
 
 Remember those summer weeks when your entire Facebook feed was filled with people pouring cold water over themselves and making some form of disgruntled exclamations about the fact? Everyone from Victoria Beckham to my own mother took part in the ALS Ice Bucket Challenge, and good on them too.

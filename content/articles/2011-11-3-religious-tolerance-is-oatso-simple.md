@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Using the analogy of cereals, you can see why we should all just live and let live
 date: "2011-11-03 21:27:18 +0000"
-
-# Attributes from Felix Online V1
-id: "1686"
-old_path: /comment/1686/religious-tolerance-is-oatso-simple
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1686/religious-tolerance-is-oatso-simple
-imported: true
 comments:
  - value: >
      Mr A Geek, <br> <br>As much as I enjoy editing and reading your articles, I'm going to have to offer a slight objection this week. The reason that I was (and often am) outspoken about religion is because I believe religion to be extremely divisive. I believe much of religions teachings to be wholly immoral and responsible for many atrocities that happen in the world every day (or much less in our society). <br> <br>I believe that only by discrediting religion at every attempt possible will we eventually rid it and the evils that it breeds from our society. I think by not speaking out against it, we automatically grant it credibility, and in a society in which religion is seen as credible, I think extremism is much more likely. <br> <br>I would be a lot happier if all religions got together and agreed to take all the nonsense and immorality out of their holy books. Until that day, however, I think it's important to speak out against it. <br> <br>Great article as always by the way.,Dude, chill. For which of IC's religious societies
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I’ve started eating porridge. I waited and waited for the weather to get colder, but at some point it becomes obvious that I’m going to lose the staring contest with BBC Weather and I just break out the oats and jam. All year, I’m just waiting for winter to come around. So now I’m eating porridge every morning, I’ve committed to that for the next few months.

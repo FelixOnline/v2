@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Grey matter linked with number of friends on the social network
 date: "2011-10-28 00:16:54 +0100"
-
-# Attributes from Felix Online V1
-id: "1628"
-old_path: /science/1628/study-links-facebook-friends-with-brain-regions
+image: "http://felixonline.co.uk/img/upload/201110280115-felix-facebook2_1299511c_1699534c.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1628/study-links-facebook-friends-with-brain-regions
-imported: true
 comments:
  - value: >
      I have a few questions and to<a href="http://hbptbzxffo.com"> anoyne</a> who answers thanks i really apreciate it cause i really need to know .1) Can you go to an online college with a ged?2) What are some good online colleges that don't scam you?3) How much does it cost?4) At what age can you start online college? Can you start before the age of 18 as long as your still paying?
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110280115-felix-facebook2_1299511c_1699534c.jpg"
-image_caption: ""
 ---
 
 [A study by UCL researchers](http://rspb.royalsocietypublishing.org/content/early/2011/10/12/rspb.2011.1959) suggests that the size of certain brain regions in an individual may be linked to their number of Facebook friends. The researchers found a strong correlation between the number of friends and the amount of grey matter in regions including the amygdala, the right superior temporal sulcus, left middle temporal gyrus and the right entorhinal cortex. The three latter regions were not, however, correlated to real-world friend networks.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jingjie Cheng finds that Shakespeare’s language is universal
 date: "2015-05-27 18:03:09 +0100"
-
-# Attributes from Felix Online V1
-id: "5570"
-old_path: /arts/5570/ninagawas-hamlet-shows-a-new-bard-
+image: "http://felixonline.co.uk/img/upload/201505271901-ps3110-03.jpg"
+image_caption: "Yukio Ninagawa, Hamlet, Shinnosuke Mitsushima and Tatsuya Fujiwara "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5570/ninagawas-hamlet-shows-a-new-bard-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505271901-ps3110-03.jpg"
-image_caption: ""
 ---
 
 Right from the outset, Ninagawa Company’s _Hamlet_ looked like it had been plucked out of an ancient Japanese film. Blue fog shrouded the stage as Hamlet, Horatio, and the guards dart across the stage, confronted by the ghost of Hamlet’s father. Spine-chilling Eastern music beats steadily in the background. The ghost, draped in robes befitting of a Japanese emperor, weaved in and out of a row of two-storey wooden houses – the permanent set through which characters dash onto the stage from various directions.

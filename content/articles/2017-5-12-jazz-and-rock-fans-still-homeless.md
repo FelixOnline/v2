@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Shock and horror. JK
 date: "2017-05-12 16:13:15 +0100"
-
-# Attributes from Felix Online V1
-id: "6934"
-old_path: /news/6934/jazz-and-rock-fans-still-homeless-
+image: "http://felixonline.co.uk/img/upload/201705121812-felix-18318799_10206484846959786_1979038611_o.jpg"
+image_caption: "Almost there?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6934/jazz-and-rock-fans-still-homeless-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ea3211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705121812-felix-18318799_10206484846959786_1979038611_o.jpg"
-image_caption: ""
 ---
 
 The summer term might be here but Jazz and Rock fans don’t see no light in that long, long tunnel affectionately referred to as the Jazz and Rock redevelopment. Not yet anyway. The practice room was meant to have been delivered to students by the end of April but it seems the works are still ongoing. The room is still in need of electrical work which is not to be completed until Monday the earliest. The most recent estimate for the completion of the works is two weeks from now. “Having waited literally years, two more weeks isn’t the end of the world, says James Stanley Targett, Jazz and Rock chair and all-round campus personality. “It’s still annoying though.”

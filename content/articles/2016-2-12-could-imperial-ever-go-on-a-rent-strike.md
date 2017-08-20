@@ -4,16 +4,13 @@ title: >
 subtitle: >
   UCL have had a successful history of striking over housing but could the students of Imperial ever rise up and do the same?
 date: "2016-02-12 11:16:25 +0000"
-
-# Attributes from Felix Online V1
-id: "5898"
-old_path: /features/5898/could-imperial-ever-go-on-a-rent-strike
+image: "http://felixonline.co.uk/img/upload/201602121115-felix-201303072327-tna08-save-hall-front-page.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/5898/could-imperial-ever-go-on-a-rent-strike
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -25,12 +22,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602121115-felix-201303072327-tna08-save-hall-front-page.jpg"
-image_caption: ""
 ---
 
 We’ve had our fair share of housing disputes at Imperial.

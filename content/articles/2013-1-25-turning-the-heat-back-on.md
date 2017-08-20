@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Shiladitya Ghosh guides you through a novel way to manipulate heat
 date: "2013-01-25 01:49:39 +0000"
-
-# Attributes from Felix Online V1
-id: "3185"
-old_path: /science/3185/turning-the-heat-back-on
+image: "http://felixonline.co.uk/img/upload/201301250149-tna08-18909.jpg"
+image_caption: "When he released the single Nelly didn’t know hot to control heat, but maybe researchers at MIT do.."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3185/turning-the-heat-back-on
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - sg4812
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301250149-tna08-18909.jpg"
-image_caption: ""
 ---
 
 A researcher at the [Massachusetts Institute of Technology](http://www.mit.edu/) (MIT) has, through his self-devised technique, managed to successfully exercise control over heat the same way we enjoy control over light through mirrors and lenses (most disappointingly falling short of developing a giant heat ray, for the time being). This new technique, which utilises semiconducting alloy crystal nanostructures and similar materials, manipulates the physical separation between atoms so that they correspond to the wavelengths of heat phonons.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   An anonymous letter about the smell in the Mech Eng lifts
 date: "2011-12-09 15:13:18 +0000"
-
-# Attributes from Felix Online V1
-id: "1957"
-old_path: /comment/1957/who-did-that--a-letter-to-the-editor
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1957/who-did-that--a-letter-to-the-editor
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - fcomment
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Dear Sir,

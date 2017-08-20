@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This film has prompted huge discussion amongst Christians and non-Christians, so, first things first, this is where I stand on the whole religion debate, so you can spot potential bias.
 date: "2014-06-02 13:05:56 +0100"
-
-# Attributes from Felix Online V1
-id: "4646"
-old_path: /film/4646/gods-not-dead--jesus-wept
+image: "http://felixonline.co.uk/img/upload/201406021406-felix-gods-not-dead-kevin-sorbo-shane-harper-2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4646/gods-not-dead--jesus-wept
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - spb11
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406021406-felix-gods-not-dead-kevin-sorbo-shane-harper-2.jpg"
-image_caption: ""
 ---
 
 __God’s Not Dead__

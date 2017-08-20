@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Are you dying for sex? Philippa Skett tells us that if you compare yourself to male marsupial mice, you really arenʼt
 date: "2013-10-11 23:19:24 +0100"
-
-# Attributes from Felix Online V1
-id: "3826"
-old_path: /science/3826/marsupials-dont-stop-until-they-drop
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3826/marsupials-dont-stop-until-they-drop
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Imperial male is very much a wonder to behold. What this population lacks in female companionship is makes up with a multitude of complex social rituals; whether it is the drinking circles of the rugby team, the LAN parties of the computer scientists or the Friday night pizza fest down in the sci-fi library.

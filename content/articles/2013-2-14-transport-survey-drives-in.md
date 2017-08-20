@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Or it gets the tube, maybe...
 date: "2013-02-14 21:08:50 +0000"
-
-# Attributes from Felix Online V1
-id: "3329"
-old_path: /news/3329/transport-survey-drives-in
+image: "http://felixonline.co.uk/img/upload/201302142108-tna08-london_bus_route_23.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3329/transport-survey-drives-in
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - tna08
  - yn711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302142108-tna08-london_bus_route_23.jpg"
-image_caption: ""
 ---
 
 As a scientific institution with intense research into energy and climate change, Imperial says it doesn’t take these matters lightly and realises that its everyday activities and operations have a negative impact on the environment and carbon footprint, in particular. Along with other attempts to increase sustainability such as university wide StepChange campaign, which aims to reduce College’s footprint by 20% by 2014, another measure, launched by Department of Energy and Environment, is coming – [annual travel survey](http://www3.imperial.ac.uk/facilitiesmanagement/energy/travelsurvey), which, in addition to staff, also covers students this year.

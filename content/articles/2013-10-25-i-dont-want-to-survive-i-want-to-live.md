@@ -4,18 +4,15 @@ title: >
 subtitle: >
   John Park reviews 12 Years a Slave
 date: "2013-10-25 00:46:06 +0100"
-
-# Attributes from Felix Online V1
-id: "3937"
-old_path: /film/3937/i-dont-want-to-survive-i-want-to-live
+image: "http://felixonline.co.uk/img/upload/201310250146-felix-12_years_a_slave_fassbender_ejiofor.jpg.crop.article568-large.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3937/i-dont-want-to-survive-i-want-to-live
-imported: true
 comments:
  - value: >
      , he had a great run. But I know reilaty when reilaty when I see it. Oh, Gran Torino! Oh Invictus! (Oscars for everybody!) Oh oh oh, J Edgar! I never fell for any of that bunk. We could almost tell from the publicity stills that those would be awful.Remember how excited the internet got about Eastwood's potential Best Actor Oscar for Trouble with the Curve. Yes, let's look at the past decade. Let's look at the most recent 7 years of the past decade. It's a decline. His last great peak is behind him (assuming you think Million Dollar Baby is a peak, which I don't). Unforgiven will always be one of my all-time favorite westerns. If Eastwood's only movie was Letters From Iwo Jima then his legacy would be formidable. But I have a strong feeling that he'll never reach those heights again. He's human. He's not the Energizer Bunny.,Fair enough. And it was not my<a href="http://gtzmesviag.com"> itennt</a> to suggest that you had ignored his record even if my wording did not make that clear. Yes, he
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - jgp09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250146-felix-12_years_a_slave_fassbender_ejiofor.jpg.crop.article568-large.jpg"
-image_caption: ""
 ---
 
 12 Years a Slave

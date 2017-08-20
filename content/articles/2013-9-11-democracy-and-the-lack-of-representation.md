@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Politics Editor Kartikeya Rana takes an in depth look at the effectiveness of representation in world governments.
 date: "2013-09-11 00:47:14 +0100"
-
-# Attributes from Felix Online V1
-id: "3758"
-old_path: /comment/3758/democracy-and-the-lack-of-representation
+image: "http://felixonline.co.uk/img/upload/201309110142-jal08-dangerous-democracy-1.png"
+image_caption: "Is democracy just a pretty illusion?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3758/democracy-and-the-lack-of-representation
-imported: true
 comments:
  - value: >
      Don't vote, organise.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309110142-jal08-dangerous-democracy-1.png"
-image_caption: ""
 ---
 
 In this day and age, democracy does not necessary mean equal representation as we are made to believe. In this editorial, I will look at certain issues from around the world that seem to elucidate upon this problem.

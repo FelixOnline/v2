@@ -4,18 +4,15 @@ title: >
 subtitle: >
   If God exists he is a jerk. Once you take a minute to think about it, it explains everything so beautifully it brings a tear to my eye.
 date: "2011-02-17 20:18:27 +0000"
-
-# Attributes from Felix Online V1
-id: "839"
-old_path: /comment/839/time-to-meet-your-malevolent-maker
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/839/time-to-meet-your-malevolent-maker
-imported: true
 comments:
  - value: >
      I've always thought it's a rather egocentric argument to assume that God's a jerk because bad things happen. Being a jerk means he's out to get you when he might not just care about a fleck of dust's shadow like you. <br> <br>And are things like natural disasters and cancer bad? Yeah, if you happen to be living with them but they're all part of the natural way of things. In my mind, the cosmos is like one great big Heath Robinson contraption...everything so amazing, so pretty...and so pointless.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - va208
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I called shenanigans on the existence of God at the tender age of ten. Even before I knew pie was more than something you threw in 20s slapstick comedies it never made sense to me for an omnipotent being to be benevolent, given that we have such terrible things in this world as Justin Bieber, truly an apocalyptic horseman of our time. He also never returned my prayers, but I’m sure he was too busy setting bushes on fire like some geriatric yob.

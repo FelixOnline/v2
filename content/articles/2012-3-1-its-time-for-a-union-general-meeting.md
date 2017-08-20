@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Scott Heath calls for an event which hasn't occurred at Imperial for 5 years
 date: "2012-03-01 22:50:16 +0000"
-
-# Attributes from Felix Online V1
-id: "2292"
-old_path: /comment/2292/its-time-for-a-union-general-meeting
+image: "http://felixonline.co.uk/img/upload/201203012251-ams111-20090420_henkel_agm_9_pboxx-pixelboxx-118476_300dpi_1772h_1772w.jpg"
+image_caption: "It probably won't look like this"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2292/its-time-for-a-union-general-meeting
-imported: true
 comments:
  - value: >
      Re: budgeting. In Exec we decide how much goes to CSB however not how much goes to each Management Group, like the OSC. As Chair I believe it is essential to be impartial on those decisions; which I was. I attended the CSB Budgeting, but again allowed the MGs to decide where money went as we are a democracy! <br> <br>Re: Trustee Board. It is my duty to highlight concerns with our structure (governance). My references we're solely as examples and I believe I showed no bias in what I said. I could have chosen a variety if high cost societies (underwater, pilot, etc) and I accept there are reasons for their support levels.. <br>The trustee example was the only one I had. we need Trustees who are new to the Union but I don't believe all four should be. I also wanted to emphasise that the Union, and thus myself, has not done well at communicating what trustees do. <br> <br>I want the GM because so we can answer questions. But I more importantly want one to ask questions and see what answers we get.,Though this is an interestin
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203012251-ams111-20090420_henkel_agm_9_pboxx-pixelboxx-118476_300dpi_1772h_1772w.jpg"
-image_caption: ""
 ---
 
 It took me approximately 4 months to really understand how the University and Union work. Both of these organisations are layered with bureaucracy, which doesn’t help. Additionally, you need to get to term time before various committees meet and the workloads hit a stage where acronyms like SRASOC* start rolling off the tongue. (*Student Recruitment and Admissions Strategy and Operations Committee)

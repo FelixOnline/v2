@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Inigo Martinez de Rituerto discusses the current political unrest in Turkey
 date: "2013-06-07 13:58:14 +0100"
-
-# Attributes from Felix Online V1
-id: "3673"
-old_path: /politics/3673/turkey-on-the-tipping-point
+image: "http://felixonline.co.uk/img/upload/201306071457-tna08-turkey-lone-protester-riot-police-attack.jpg"
+image_caption: "Police show no restraint against peaceful demonstrators"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/3673/turkey-on-the-tipping-point
-imported: true
 comments:
  - value: >
      Having seen the fantastic first Games back in 2003, I have full codfcnenie that the Corporate Games in Istanbul 2012, will be a complete success and great fun for all participants.Good luck to Kutlu, Gulden and the rest of the hardworking team that you have over there! Hope you have a blast!,Valley Bank So I know this is a really long <a href="http://fbtxrm.com">chcane</a>, but, I was kicking myself all the way home for not discussing with you japanese sex today. You have long blonde hair therefore you were wearing leggings at valley bank this afternoon. We kept looking at each other the complete time we were inside. I think free chat you might be beautiful and would love to take you out there for drinks at some point. Let me know but if your interested, and speak about what color jacket I was sporting. T. Naked Finland women free dating ads Partestii De Jos, Seno Bode milf Ponce Puerto Rico,bu fotoğrafı kendim falan e7ekmedim, kaykanlardan aldım. başka devletede ait olabilir bu yanlışımızdır kab
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306071457-tna08-turkey-lone-protester-riot-police-attack.jpg"
-image_caption: ""
 ---
 
 This week in Turkey, peaceful demonstrations against the demolition of Istanbul’s Gezi Park rapidly escalated into nationwide protests against the increasingly conservative measures enacted by prime minister Recep Tayyip Erdoğan. The disproportionate dispersion tactics used by the police catalysed an uprising in a population which has grown tired of being ignored and oppressed by the authoritarian mandate of the ruling Justice and Development Party (AKP).

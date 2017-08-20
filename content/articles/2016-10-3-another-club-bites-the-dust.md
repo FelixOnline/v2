@@ -4,18 +4,15 @@ title: >
 subtitle: >
   One less place to tick off in freshers’ week
 date: "2016-10-03 17:04:40 +0100"
-
-# Attributes from Felix Online V1
-id: "6302"
-old_path: /news/6302/another-club-bites-the-dust
+image: "http://felixonline.co.uk/img/upload/201610031909-felix-Screen Shot 2016-10-03 at 19.08.50.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6302/another-club-bites-the-dust
-imported: true
 comments:
  - value: >
      Fabric was overrated. Went a couple of times, it was a bit shit and full of monged out dancetards.,Fabric was overrated. Went a couple of times, it was a bit shit and full of monged out dancetards.,Fabric was overrated. Went a couple of times, it was a bit shit and full of monged out dancetards.,Fabric was overrated. Went a couple of times, it was a bit shit and full of monged out dancetards.,Fabric was overrated. Went a couple of times, it was a bit shit and full of monged out dancetards.,Fabric was overrated. Went a couple of times, it was a bit shit and full of monged out dancetards.,You are nothing like us . <br>NBA 2K17 MT PS4 http://carpetarota.com/blogs/37847/149696/nba-2k17-playable-character-thierry-henry-arrives-in-nba-2k17,You are nothing like us . <br>NBA 2K17 MT PS4 http://carpetarota.com/blogs/37847/149696/nba-2k17-playable-character-thierry-henry-arrives-in-nba-2k17,You are nothing like us . <br>NBA 2K17 MT PS4 http://carpetarota.com/blogs/37847/149696/nba-2k17-playable-character-thierry-henry-arrives-i
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - mjj15
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610031909-felix-Screen Shot 2016-10-03 at 19.08.50.png"
-image_caption: ""
 ---
 
 The iconic Islington Club, Fabric, shut it’s doors for possibly the last time over summer after it had its licence revoked by the local council.

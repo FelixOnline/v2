@@ -4,16 +4,14 @@ title: >
 subtitle: >
   An examination of the man who created Facebook
 date: "2010-10-14 19:48:30 +0100"
-
-# Attributes from Felix Online V1
-id: "213"
-old_path: /tech/213/zuckerberg-the-man
+image: "http://felixonline.co.uk/img/upload/201104192031-felix-keynote_sxsw_099_zuck_optim.jpeg"
+image_caption: "The youngest self-made billionaire ever, Mark Zuckerberg still lives in a rented house"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/213/zuckerberg-the-man
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -25,12 +23,6 @@ authors:
  - ghc07
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104192031-felix-keynote_sxsw_099_zuck_optim.jpeg"
-image_caption: ""
 ---
 
 The year 2010 may just be Mark Zuckerberg’s finest. Having his net worth more than triple to $6.9 billion, he has climbed the ranks of the Forbes 400 list from #158 to #35. He even knocked Steve Jobs off the throne of Geekdom as Vanity Fair proclaimed him “[our new Caesar](http://www.vanityfair.com/business/features/2010/10/the-vf-100-201010)” by placing him at #1 in its 100 most influential people of the New Establishment. And this month, [a biopic based on his dramatic founding of Facebook is coming out](http://felixonline.co.uk/film/216/felix-likes-this/). Thing is, he’s only 26 years old.

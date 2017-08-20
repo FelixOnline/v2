@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Eva Coles tells the story of a vicious murder she witnessed whilst in search of a quiet cuppa
 date: "2016-12-09 12:07:00 +0000"
-
-# Attributes from Felix Online V1
-id: "6565"
-old_path: /science/6565/spotted--the-seagull-of-nightmares
+image: "http://felixonline.co.uk/img/upload/201612091206-aib116-seagull-4911_1920.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6565/spotted--the-seagull-of-nightmares
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - evacoles13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612091206-aib116-seagull-4911_1920.jpg"
-image_caption: ""
 ---
 
 For most, a visit to Hyde Park engenders feelings of tranquility and relaxation. Going for a walk in this urban wilderness at the heart of London would provide anyone with the “escape” that we city dwellers crave, whether we know it or not. As a biologist, I certainly identify myself as a regular park visitor, always admiring the flora, observing wildlife and I’ve come to familiarize myself with the ecosystem. However, nothing could have prepared me for what I witnessed a few weeks ago.

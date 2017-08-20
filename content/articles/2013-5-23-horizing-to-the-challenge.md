@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Tim Arbabzadah sees what some first years made of the Horizons courses
 date: "2013-05-23 21:49:59 +0100"
-
-# Attributes from Felix Online V1
-id: "3606"
-old_path: /news/3606/horizing-to-the-challenge
+image: "http://felixonline.co.uk/img/upload/201305232250-tna08-3008198393.jpg"
+image_caption: "Imperial students turning into artsy types?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3606/horizing-to-the-challenge
-imported: true
 comments:
  - value: >
      Оставьте свой комментарий Вы можете использовать следующие HTML тэги: <a> <abbr> <acronym> <b> <blockquote> <cite> <code> <del> <em> <i> <q> <strike> <strong> Notify me of followup comntmes via e-mail,If you live in a city, there's a good chance there's some kind of local mom's group <a href="http://mbajpgg.com">lirtsesv</a> or online forum... those are always good places to solicit recommendations.I had a hard time getting a handle on what I was looking for until I'd visited several very different centers and could see the differences. Also, I really love the other parents at my daycare, and that makes me feel better about the quality... I feel like they're pretty similar to us in a lot of ways and that if they're happy with the center, it's probably a good fit for us too. (The couple of times that I visited my current cen</strong></strike></q></i></em></del></code></cite><br></blockquote></b></acronym></abbr></a>
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305232250-tna08-3008198393.jpg"
-image_caption: ""
 ---
 
 It’s drawing to the end of another year at Imperial. Everyone has some kind of big deadline looming, except for the lucky few that finish early. It’s around this time that extra curricular activities suffer. If you go to level 4 of the Library and suggest to someone that they do work for something that will give them precisely zero marks, then you’re risking a punch in the face.

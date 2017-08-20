@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Investigating Imperial’s efforts to support women in the workplace
 date: "2012-01-26 23:29:43 +0000"
-
-# Attributes from Felix Online V1
-id: "2076"
-old_path: /news/2076/solving-the-gender-gap
+image: "http://felixonline.co.uk/img/upload/201201262325-felix-phys_3.jpg"
+image_caption: "Members of staff are confident in the improvement of support for female staff"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2076/solving-the-gender-gap
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - skd09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201262325-felix-phys_3.jpg"
-image_caption: ""
 ---
 
 There are currently 81 female professors at Imperial which make up just 15% of the total holding this senior post. Felix has investigated what Imperial is doing to combat gender inequalities and support the career progression of women. In fact, a substantial movement exists within the College and members of staff have told Felix of the “ground-breaking steps” that are being taken to support female staff. However, they have also highlighted that this is “working better in some areas than others”.

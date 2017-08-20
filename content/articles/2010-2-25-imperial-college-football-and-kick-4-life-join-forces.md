@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Charity fundraiser helps out HIV victims in Southern Africa
 date: "2010-02-25 18:39:48 +0000"
-
-# Attributes from Felix Online V1
-id: "103"
-old_path: /sport/103/imperial-college-football-and-kick-4-life-join-forces
+image: "http://felixonline.co.uk/img/upload/201002251838-mb506-Kick4Lif.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/103/imperial-college-football-and-kick-4-life-join-forces
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - mb506
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002251838-mb506-Kick4Lif.jpg"
-image_caption: ""
 ---
 
 Imperial College Football Club last month held the inaugural Kick 4 Life 5 a-side tournament in Ethos. Elite footballers from across our university were invited to test themselves at the highest level of indoor football, all in the name of raising funds for Kick 4 Life.

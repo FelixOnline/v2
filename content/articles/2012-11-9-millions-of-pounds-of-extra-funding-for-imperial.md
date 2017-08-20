@@ -4,18 +4,15 @@ title: >
 subtitle: >
   We gotz all your m0neyz
 date: "2012-11-09 00:12:09 +0000"
-
-# Attributes from Felix Online V1
-id: "2833"
-old_path: /news/2833/millions-of-pounds-of-extra-funding-for-imperial
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2833/millions-of-pounds-of-extra-funding-for-imperial
-imported: true
 comments:
  - value: >
      Great for Imperial, not that they need the money. <br> <br>It's a shame that organisations like HEFCE are disproportionately supportive of the leading Russell Group universities - they tend to already be in favourable financial situations, and already have the infrastructure in place to produce top class research outputs, or "knowledge exchange" as HEFCE so affectionately describes it. <br> <br>Should HEFCE not do more for the neglected universities? They are plagued with cuts, restructuring and redundancies, so may lack the facilities but otherwise have the ability to "stimulate economic growth through research".
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imperial are to beone of twelve universities that are going to benefit from £6m of funding from the Higher Education Funding Council for England (HEFCE).

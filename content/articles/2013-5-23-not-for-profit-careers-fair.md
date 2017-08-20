@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In Brief
 date: "2013-05-23 22:29:41 +0100"
-
-# Attributes from Felix Online V1
-id: "3619"
-old_path: /news/3619/not-for-profit-careers-fair
+image: "http://felixonline.co.uk/img/upload/201305232329-tna08-nfp-careers-fair-plasma.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3619/not-for-profit-careers-fair
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305232329-tna08-nfp-careers-fair-plasma.jpg"
-image_caption: ""
 ---
 
 Imperial College London is hosting a careers fair that is just for the Not For Profit sector on Thursday 13 June. It is a new event that has been added after feedback from Imperial students. Companies in attendance will range from the Civil Service Fast Stream to Teach First to Global Vision International.

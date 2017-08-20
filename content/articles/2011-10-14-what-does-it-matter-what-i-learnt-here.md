@@ -4,18 +4,15 @@ title: >
 subtitle: >
   There's always room in your head for new knowledge
 date: "2011-10-14 00:15:23 +0100"
-
-# Attributes from Felix Online V1
-id: "1533"
-old_path: /comment/1533/what-does-it-matter-what-i-learnt-here
+image: "http://felixonline.co.uk/img/upload/201110140110-sjw209-omar.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1533/what-does-it-matter-what-i-learnt-here
-imported: true
 comments:
  - value: >
      I like how this is written, very good stuff!,My favourite bit: <br>"Then, having proved myself the Alpha-Male of Intellect, I’d also drop in details of the fluid dynamics OF MY URINE, which I spray round the house to mark my territory because I’m so alpha-male now! Raaaaaar! I put Extra ‘A’s in that word, because I’m so full of alpha." <br> <br>A very good read. :),As always, your article is hilarious! ,Loved this! And just as Khayam said! LOL at the cannula!,The problem nowadays is that there is too much new knowledge about. Unlike the polymaths of old, we acquire it superficially without any deeper understanding, whilst outrightly ignoring allied fields. We've become narrow-disciplined, and with no-one to oversee this multifaceted advancement of raw knowledge, academics the world over continue to pursue it disparately like headless chickens, with no real purpose in mind. But yes, what the study of time-tested vocational disciplines like medicine, or engineering, does successfully impart on us is a rather l
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110140110-sjw209-omar.jpg"
-image_caption: ""
 ---
 
 It’s my 6th year here and my brain has been permanently disfigured, forever transformed by all that Science. It’s my 6th year of student discounts. My 6th year of Tuna-pasta dinners. My 6th year of pretending that I know stuff, and my 6th year of exam-period all-nighters because I don’t.

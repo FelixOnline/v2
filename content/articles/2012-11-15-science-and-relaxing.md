@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A weirdly relaxed editorial
 date: "2012-11-15 20:59:12 +0000"
-
-# Attributes from Felix Online V1
-id: "2887"
-old_path: /comment/2887/science-and-relaxing
+image: "http://felixonline.co.uk/img/upload/201211152059-tna08-keyboard.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2887/science-and-relaxing
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211152059-tna08-keyboard.jpg"
-image_caption: ""
 ---
 
 This week, the front page contains a storyabout science spending cuts. It’s all a bit economics heavy, but the gist is that, in real terms, science spending was cut by a lot in the 2010-2011 year.

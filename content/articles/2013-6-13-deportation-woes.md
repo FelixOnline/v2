@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The Government’s treatment of overseas nationals is reprehensible, and is threatening a large number of students at Imperial
 date: "2013-06-13 22:35:27 +0100"
-
-# Attributes from Felix Online V1
-id: "3679"
-old_path: /comment/3679/deportation-woes
+image: "http://felixonline.co.uk/img/upload/201306132335-tna08-2013032817063530565.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3679/deportation-woes
-imported: true
 comments:
  - value: >
      This is sounding a bit left wing labour for my liking
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306132335-tna08-2013032817063530565.jpg"
-image_caption: ""
 ---
 
 Okay, so you’ve studied here for perhaps as much as four years, or maybe even more. You look at your peers on your course and perhaps it doesn’t occur to you that they may soon become ‘persona not grata’ due to visa restrictions, and very soon be unceremoniously removed from the country.

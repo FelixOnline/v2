@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Deftones: Koi No Yokan
 date: "2012-11-30 13:32:50 +0000"
-
-# Attributes from Felix Online V1
-id: "3019"
-old_path: /music/3019/ams-album-of-the-week-7
+image: "http://felixonline.co.uk/img/upload/201211301332-tna08-deftones-koi-no-yokan.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3019/ams-album-of-the-week-7
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - rnt11
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211301332-tna08-deftones-koi-no-yokan.jpg"
-image_caption: ""
 ---
 
 You need a good reason to pay attention to an alternative rock band releasing their 7th album. Since their magnum opus, White Pony, Deftones have become a household name in making “straight forward” rock songs something bigger. They’re heavy, catchy, and they know just how to structure a good song – often using more than one different chorus or recurring bridge to tell a far more interesting story. The vocals are versatile, jumping from distorted to dreamy as required. Koi No Yokan is Deftones giving all this another shot.

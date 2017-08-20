@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Plans for its demolition are to be put to the public
 date: "2016-11-18 14:28:41 +0000"
-
-# Attributes from Felix Online V1
-id: "6456"
-old_path: /news/6456/save-charing-cross-hospital
+image: "http://felixonline.co.uk/img/upload/201611181630-felix-Screen Shot 2016-11-18 at 16.29.44.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6456/save-charing-cross-hospital
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - stephennaulls
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611181630-felix-Screen Shot 2016-11-18 at 16.29.44.png"
-image_caption: ""
 ---
 
 Plans to demolish Charing Cross hospital have ramped up in the past week, with a public meeting being held on November 29th a pivotal moment in the future of healthcare provision in North West London. The meeting, to be held by Hammersmith &amp; Fulham Council is likely to be key in gauging public support for keeping the hospital open.

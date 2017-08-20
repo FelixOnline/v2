@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A look back at a year of sport
 date: "2011-06-28 12:10:11 +0100"
-
-# Attributes from Felix Online V1
-id: "1447"
-old_path: /sport/1447/a-successful-year-for-sport-at-imperial
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1447/a-successful-year-for-sport-at-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - maf07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 As we reflect on the year gone by, the [ACC](http://www.union.ic.ac.uk/acc/exec/) has a lot it can be proud of. In terms of sporting achievement, this looks set to be a record year for our performance in BUCS, not to mention the successes of clubs competing outside of BUCS.

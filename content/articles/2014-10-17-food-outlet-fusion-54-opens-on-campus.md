@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Thomas Lim visits the newest eatery in College
 date: "2014-10-17 14:44:34 +0100"
-
-# Attributes from Felix Online V1
-id: "4729"
-old_path: /news/4729/food-outlet-fusion-54-opens-on-campus
+image: "http://felixonline.co.uk/img/upload/201410171545-kmw13-fusion54.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4729/food-outlet-fusion-54-opens-on-campus
-imported: true
 comments:
  - value: >
      Well, is the food good or not?,It certainly is,Does it take YoYo (the College payment system on an iPhone)?,Stickers on the door suggest they do!,Do you think FELIX could organise a review of the food there? Which one tastes better etc.,We could do, were you hoping for a like-for-like comparison with Taste Imperial offerings (so comparing two similar pasta dishes for example) - or a look across the board at the range of stuff offered?,Thank you. I think like-for-like would be a good idea please.,Two types about dedicated computers can be obtained more recently: Been able Dedicated Hosting space Unmanaged Devoted Servers. For Unmanaged Dedicated Server typically the management handle has into the customer and prospect is capable of doing software program update on his own and also security tracking, software programs installation and various computer system restored. When satellite service company the actual apparatus restoration, community monitoring and so on Be the serious difference around managed and also
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - txl11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201410171545-kmw13-fusion54.jpg"
-image_caption: ""
 ---
 
 On Monday, Fusion 54, a new food outlet opened its doors on the Sherfield Walkway.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Got gaming friends? Maybe game gifts are the answer!
 date: "2010-12-09 19:57:17 +0000"
-
-# Attributes from Felix Online V1
-id: "513"
-old_path: /games/513/stuck-for-gift-ideas-for-your-pet-gamer
+image: "http://felixonline.co.uk/img/upload/201012101650-sjw209-goodoldg.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/513/stuck-for-gift-ideas-for-your-pet-gamer
-imported: true
 comments:
  - value: >
      That's way the bestest asnwer so far!,FlAjs9 <a href="http://jnexvvngvkan.com/">jnexvvngvkan</a>, <a href="http://www.pillsprix.com/">propecia</a> dfhj <a href="http://www.yourpillsonline.net/">levitra viagra vs</a> 99269 <a href="http://www.onlinemedico.com/">buying cymbalta</a> &gt;:-]]
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -28,12 +25,6 @@ authors:
  - lap08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012101650-sjw209-goodoldg.jpg"
-image_caption: ""
 ---
 
 Do YOU LIKE GAMES? Do your FRIENDS like games? Do you even HAVE any friends? If you answered YES to these questions then READ ON.

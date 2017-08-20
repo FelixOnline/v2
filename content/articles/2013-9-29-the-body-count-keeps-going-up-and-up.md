@@ -4,18 +4,15 @@ title: >
 subtitle: >
   John Park reviews a few of the more violent summer television hits.
 date: "2013-09-29 15:29:59 +0100"
-
-# Attributes from Felix Online V1
-id: "3780"
-old_path: /tv/3780/the-body-count-keeps-going-up-and-up
+image: "http://felixonline.co.uk/img/upload/201309291629-jal08-under-the-dome-0412013-104445.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/3780/the-body-count-keeps-going-up-and-up
-imported: true
 comments:
  - value: >
      These are all great, but you gotta love Tim Curry/Pennywise taking a load off after a hard day of dinrggag children into the sewers to murder them, and of course Michael Myers drinking a Dr. Pepper and Johnny Depp/Ichabod Crane with a super soaker.
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309291629-jal08-under-the-dome-0412013-104445.jpg"
-image_caption: ""
 ---
 
 ###  Under The Dome

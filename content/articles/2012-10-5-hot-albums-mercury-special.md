@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Three totally awesome albums
 date: "2012-10-05 11:37:53 +0100"
-
-# Attributes from Felix Online V1
-id: "2600"
-old_path: /music/2600/hot-albums-mercury-special
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2600/hot-albums-mercury-special
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - fmusic
  - nn1209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Alt-J (∆)

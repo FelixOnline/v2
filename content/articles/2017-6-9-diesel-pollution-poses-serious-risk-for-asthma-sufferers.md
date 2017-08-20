@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rachel Baxter explores new research conducted by Imperial researchers that identifies exactly how the diesel pollution that hangs in our air may be affecting our health
 date: "2017-06-09 15:00:32 +0100"
-
-# Attributes from Felix Online V1
-id: "7013"
-old_path: /science/7013/diesel-pollution-poses-serious-risk-for-asthma-sufferers
+image: "http://felixonline.co.uk/img/upload/201706091700-ea3211-30512519164_41c34909fe_b.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/7013/diesel-pollution-poses-serious-risk-for-asthma-sufferers
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - ea3211
  - rachelbaxter
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706091700-ea3211-30512519164_41c34909fe_b.jpg"
-image_caption: ""
 ---
 
 Forty million British people are living in cities and towns with illegally high air pollution levels. This alarming statistic is in part due to diesel exhaust, which according to new research can directly affect our lungs and make respiratory conditions worse.

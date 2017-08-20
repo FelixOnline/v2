@@ -4,19 +4,16 @@ title: >
 subtitle: >
   This team doesn't deserve any stick judging by their performance
 date: "2013-03-07 21:53:43 +0000"
+image: "http://felixonline.co.uk/img/upload/201303072153-mc4509-girlshockey.jpg"
 draft: true
-
-# Attributes from Felix Online V1
-id: "3433"
-old_path: /sport/3433/icsm-girls-promoted-with-game-in-hand
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3433/icsm-girls-promoted-with-game-in-hand
-imported: true
 comments:
  - value: >
      I 常にこの読み取りに時間私の半分を過ごしたブログの記事 毎日 | カップと一緒にすべての時間。 <br>一番人気 国内即発 http://expacom.com
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -29,12 +26,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303072153-mc4509-girlshockey.jpg"
-image_caption: ""
 ---
 
 Having checked the league table a million times (no exaggeration!), we all knew this was the big one, the one to win. ICSM Ladies 1st XI was undoubtedly two points clear with a game in hand. A win on this surprisingly sunny March morning would lead us into the final match of the season, against second place Barts 1’s, inevitable champions! No pressure…

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Theo Pavlakou on selling out to bring home the bacon
 date: "2012-01-12 22:49:21 +0000"
-
-# Attributes from Felix Online V1
-id: "1992"
-old_path: /music/1992/do-they-owe-us-a-living
+image: "http://felixonline.co.uk/img/upload/201201122248-felix-ssp.jpg"
+image_caption: "Ever heard of ScarletSnowPrelude? – No! Because they didn’t sell out... or they suck?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1992/do-they-owe-us-a-living
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - tp710
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201122248-felix-ssp.jpg"
-image_caption: ""
 ---
 
 People, including me, seem to nag about how bands are continuously following the crowd and moving more towards the mainstream genres, instead of keeping it underground and just making music like they used to – a term known as “selling out”. But in our increasingly greedy, torrent-driven society, with its ever expanding pool of artists, is it any wonder that bands are almost forced to move in this direction?

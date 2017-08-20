@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Cecily Johnson finds out how students are relaxing during the exam period
 date: "2015-05-21 20:38:11 +0100"
-
-# Attributes from Felix Online V1
-id: "5551"
-old_path: /features/5551/universities-and-student-unions-employ-peculiar-methods-to-relieve-exam-stress
+image: "http://felixonline.co.uk/img/upload/201505212137-kmw13-petting-zoo.jpeg"
+image_caption: "Students enjoy a few moments away from the stress of revision"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/5551/universities-and-student-unions-employ-peculiar-methods-to-relieve-exam-stress
-imported: true
 comments:
  - value: >
      What happened after the complaints? We need to know! Will there be any puppies and micropigs any time soon? The exam stress is killing us right now! ,wholesale sports jerseys wholesale sports jerseys,cheeap UGGS boots cheap nba jerseys for sale <br>UGGS factory outlet store online,whollesale sports jerseys; Jessika, whoesale sports jerseys,wholesae sports jerseys wholesale sports jerseys,cheap mario addison jerseys New Enggland Patriots Outlet Stor 1,coachoutlet.com Detroit Lions Jersey coachoutlet.com,Cheap Authentic Spirts Jerseys New England Patriots Jersey Cheap Authentic Sports Jerseys,discount uggs sale cheap jerseys us discount uggs sale,Highly energetic article, I liked that a lot. Will there be a part 2? <br>light purple canada goose dames http://www.acmel.nl/nl/?nl-light-purple-canada-goose-dames-6690.html,I am in fact happy to glance at this website posts which includes plenty of helpful facts, thanks for providing such statistics. <br>ugg ugg zwarte laarzen http://test.negrifirman.com/?it-ugg-ugg-zwarte-l
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -26,12 +24,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505212137-kmw13-petting-zoo.jpeg"
-image_caption: ""
 ---
 
 Exam season is most definitely upon us, and this year more and more Universities and Student Unions are attempting to reduce students’ stress levels with a variety of bizarre initiatives ranging from Puppy Therapy to ball pits.

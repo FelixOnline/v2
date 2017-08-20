@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Matt Colvin and Simon Worthington attempt to enjoy Sonic The Hedgehog 4. They fail...
 date: "2010-10-21 19:35:28 +0100"
-
-# Attributes from Felix Online V1
-id: "245"
-old_path: /games/245/another-chronic-sonic-failure-
+image: "http://felixonline.co.uk/img/upload/201010212033-ks607-sonicthe.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/245/another-chronic-sonic-failure-
-imported: true
 comments:
  - value: >
      Got it! Tnhaks a lot again for helping me out!,Got it! Tnhaks a lot again for helping me out!,YOjerg <a href="http://bpsvxgeuvcbz.com/">bpsvxgeuvcbz</a>,YOjerg <a href="http://bpsvxgeuvcbz.com/">bpsvxgeuvcbz</a>, <a href="http://www.zithromaxpills.com/">zithromax</a> xvt <a href="http://www.online-doxycycline.com/">doxycycline</a> 62882 , <a href="http://www.zithromaxpills.com/">zithromax</a> xvt <a href="http://www.online-doxycycline.com/">doxycycline</a> 62882
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -30,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010212033-ks607-sonicthe.jpg"
-image_caption: ""
 ---
 
 Poor Sonic has been having a bit of a rough time recently. Despite Mario and Luigi continuing their Godfather-esque dominance over pretty much any market they lay their eyes upon, their spiky blue hedgehog nemesis has enjoyed some high-profile, big-budget releases. However with a menagerie of arbitrary supporting characters, a silly oversized sword and a transformation into a credulity-stretching “werehog” to name but a few ‘major innovations’ to the franchise, it’s no surprise that recent instalments have failed to make the dash to success.

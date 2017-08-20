@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Fuck TIDAL
 date: "2016-05-20 09:14:57 +0100"
-
-# Attributes from Felix Online V1
-id: "6187"
-old_path: /music/6187/in-the-music-streaming-wars-we-all-lose
+image: "http://felixonline.co.uk/img/upload/201605201114-felix-streaming.jpg"
+image_caption: "So much choice (thanks capitalism). "
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6187/in-the-music-streaming-wars-we-all-lose
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - cet13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605201114-felix-streaming.jpg"
-image_caption: ""
 ---
 
 Another week and yet another timed exclusive on a streaming service. This time it’s **Chance the Rapper’s** _Coloring Book_, exclusive to Apple Music for two weeks.

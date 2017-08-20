@@ -4,18 +4,16 @@ title: >
 subtitle: >
   A TV series which looks at the everyday life of your typical family
 date: "2011-12-01 20:36:11 +0000"
-
-# Attributes from Felix Online V1
-id: "1873"
-old_path: /tv/1873/modern-family--a-family-portrait
+image: "http://felixonline.co.uk/img/upload/201201091740-js2310-gloria2.jpg"
+image_caption: "The well-endowed Sofia Vergara as Gloria"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1873/modern-family--a-family-portrait
-imported: true
 comments:
  - value: >
      I was recommended to watch this show by a friend of mine. I never got around to it until I was reminded about it by this article. <br>All that to say that my housemates and myself are now huge fans - of Gloria of course ;)
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201091740-js2310-gloria2.jpg"
-image_caption: ""
 ---
 
 I have a completely insane family. So when I heard about _[Modern Family](http://www.imdb.com/title/tt1442437/)_, I didn’t think much of it. The advert on TV just made me cringe. That was until I watched an episode. American comedies can sometimes disappoint, but this show is fantastic. I would venture to say it’s because it has a hint of British humour to it, with a lot of the slapstick and puns that we love so much.

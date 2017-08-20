@@ -4,18 +4,15 @@ title: >
 subtitle: >
   An editorial about telling the truth, the whole truth and nothing but the truth so help your reputation.
 date: "2013-01-10 21:58:47 +0000"
-
-# Attributes from Felix Online V1
-id: "3076"
-old_path: /comment/3076/just-be-honest
+image: "http://felixonline.co.uk/img/upload/201301102156-tna08-liar-liar.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3076/just-be-honest
-imported: true
 comments:
  - value: >
      Bog off.,Bog off.,Seriously? Can these editorials suck less please. Jesus. ,Seriously? Can these editorials suck less please. Jesus. ,Congratulations, you're a cunt.,Congratulations, you're a cunt.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102156-tna08-liar-liar.jpg"
-image_caption: ""
 ---
 
 Let me level with you. Since becoming Editor I have very often worn glasses. I consider myself a contact wearer. However, I ran out of contacts and I just haven’t had the time to go to get more. Okay, I’ll be more honest, Ihave had the time to get more contacts; I just personally preferred to spend that time relaxing. So, in the spirit of honesty, I have changed the picture in the paper. That’s a more accurate representation of what I usually look like when I walk about campus (except in real life I’m much more handsome, and taller, just). I’m sorry for duping you all for so long, but I decided to fess up. I hope you appreciate me telling you the truth and not sugar coating it.

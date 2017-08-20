@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Joshua Renken gives a brief overview of what you need to know about the SNP before heading to the polling station in May
 date: "2015-03-29 23:06:37 +0100"
-
-# Attributes from Felix Online V1
-id: "5458"
-old_path: /politics/5458/the-scottish-national-party-what-you-need-to-know
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/5458/the-scottish-national-party-what-you-need-to-know
-imported: true
 comments:
  - value: >
      Excellent way of describing, and nice article to obtain facts about my presentation subject matter, which i am going to convey in college. <br>ray ban carbon fiber aviator http://www.politica2cero.es/?es-ray-ban-carbon-fiber-aviator-13997.html,We are a professional and reliable online shopping center providing a variety of hot selling products at reasonable prices and shipping them globally. As a global online store, likecheapjordans.com has developed long lasting ties with factories, distributors and warehouses throughout the wholesale community. Eliminating unnecessary costs and delivering the lowest possible prices to customers worldwide, our aim is to make every one of our customers can access to their favorite products with the lowest price. We understand every customers have different needs about the prices and the quality of the products, so the prices of our products are set are based on the different quality of our products. We are committed to making every customers are able to buy what they really nee
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 You’ve probably heard by now that the upcoming General Election is the most unpredictable and arguably one of the most important in recent UK political history. Minor parties are winning a large number of votes, diminishing the chances of an outright single-party majority in the process.

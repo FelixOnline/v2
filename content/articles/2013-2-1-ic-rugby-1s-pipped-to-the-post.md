@@ -4,16 +4,13 @@ title: >
 subtitle: >
   One point in it. MUST TRY HARDER.
 date: "2013-02-01 00:26:14 +0000"
-
-# Attributes from Felix Online V1
-id: "3227"
-old_path: /sport/3227/ic-rugby-1s-pipped-to-the-post
+image: "http://felixonline.co.uk/img/upload/201302010026-tna08-rugger.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3227/ic-rugby-1s-pipped-to-the-post
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - ohb09
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302010026-tna08-rugger.jpg"
-image_caption: ""
 ---
 
 On a balmy Wednesday afternoon, ICURFC travelled to the all weather pitch at Maidenhead RFC for a double header match against Reading Uni.

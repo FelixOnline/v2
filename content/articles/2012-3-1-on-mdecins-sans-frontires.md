@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The humanitarian organisation has a significant presence at Imperial – find out how to get involved
 date: "2012-03-01 21:44:01 +0000"
-
-# Attributes from Felix Online V1
-id: "2279"
-old_path: /news/2279/on-mdecins-sans-frontires
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2279/on-mdecins-sans-frontires
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - cac111
  - kkt07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 [Médecins Sans Frontières](http://www.msf.org.uk/) (MSF) is an international humanitarian organisation that provides medical humanitarian assistance in situations of extreme need irrespective of race, religion, creed or political convictions. In the past few months, media attention has focused on the risks of delivering aid to refugees and internally displaced persons (IDPs), after Dr. Karel Keiluhu and Philippe Havet were killed in Mogadishu, Somalia and Blanca Thiebut and Montserrat Serra were abducted in Dadaaab, Kenya. Why did these four feel so passionate that they would risk their lives volunteering so far from home, what work were they doing and how can you get involved to make their dreams reality?

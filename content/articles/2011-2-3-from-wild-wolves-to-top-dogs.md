@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Discovering how dogs were domesticated
 date: "2011-02-03 20:07:36 +0000"
-
-# Attributes from Felix Online V1
-id: "736"
-old_path: /science/736/from-wild-wolves-to-top-dogs-
+image: "http://felixonline.co.uk/img/upload/201102032006-ks607-dogdogdo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/736/from-wild-wolves-to-top-dogs-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - ks607
  - vbb08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102032006-ks607-dogdogdo.jpg"
-image_caption: ""
 ---
 
 Although dogs are surely the first animals to be domesticated, the history and location of wolf-to-dog evolution has been controversial. Yet recent genetic evidence points to the Middle East. Most farmyard animals and the house cat were domesticated in the Middle Eastern area known as the Fertile Crescent, as a result of that area being witness to the first sedentary, agricultural human settlements.

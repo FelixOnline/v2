@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Whilst recognising the importance of reminiscence, Chris Richardson examines the brighter side of some of the world’s top remembrance destinations
 date: "2010-11-11 20:27:12 +0000"
-
-# Attributes from Felix Online V1
-id: "334"
-old_path: /travel/334/lest-we-forget-to-find-a-balance-
+image: "http://felixonline.co.uk/img/upload/201011112024-ks607-krakowkr.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/334/lest-we-forget-to-find-a-balance-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011112024-ks607-krakowkr.jpg"
-image_caption: ""
 ---
 
 With Remembrance Day just behind us it seems appropriate to draw in some of the more sombre elements of travel destinations. As a traveller you often confront the tensions of the place you’re visiting, though this will of course vary by destination. I think embracing such darker elements of a culture is often what separates travelling from tourism: you’re interested in the lifestyle and not just sporting your token ‘peace fingers’ pose for your prized photo with the big Buddha statue.

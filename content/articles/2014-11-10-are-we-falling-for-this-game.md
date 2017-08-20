@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Henry Lloyd-Laney reports on the upcoming Namco Bandai Release
 date: "2014-11-10 21:47:26 +0000"
-
-# Attributes from Felix Online V1
-id: "4827"
-old_path: /games/4827/are-we-falling-for-this-game
+image: "http://felixonline.co.uk/img/upload/201411102147-ps3110-lords_of_the_fallen.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4827/are-we-falling-for-this-game
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - hl5714
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102147-ps3110-lords_of_the_fallen.png"
-image_caption: ""
 ---
 
 Are you alright? The guy next to me leans over and asks, a worried look on his face. Crap. He’s on to me. I’m playing Lords of the Fallen, a Hack ‘n’ slash heavily influenced by Dark Souls. When I play games of this intensity, I start mouth breathing pretty heavily (think combination of Darth Vader and nervous stoat), eventually graduating into continuous angry muttering. I would feel bad for my neighbour, but I’m too busy getting killed for the 33rd time, and saying unprintable things about the mother of the First Boss. Lords of the Fallen is a blast.

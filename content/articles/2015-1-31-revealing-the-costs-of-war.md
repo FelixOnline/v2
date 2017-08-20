@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Kamil McClelland reports on the Royal Court’s new play
 date: "2015-01-31 19:02:54 +0000"
-
-# Attributes from Felix Online V1
-id: "5169"
-old_path: /arts/5169/revealing-the-costs-of-war
+image: "http://felixonline.co.uk/img/upload/201501311902-ff712-rsz_michael_ajao_in_liberian_girl_at_the_royal_court_credit_johan_persson__01011.jpg"
+image_caption: "Michael Ajao in Liberian Girl"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5169/revealing-the-costs-of-war
-imported: true
 comments:
  - value: >
      hello!,I really like your writing very so much! share we keep up a correspondence extra approximately your post on AOL? I need an expert on this house to resolve my problem. May be that is you! Taking a look forward to peer you. <br>moncler baby us http://test.negrifirman.com/?it-moncler-baby-us-9242.html,Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means more now than ever since the new Google update: Panda. No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings, You now NEED On-Page SEO. So what is good On-Page SEO?First your keyword must appear in the title.Then it must appear in the URL.You have to optimize your keyword and make sure that it has a nice keyword density of 3-5% in your article with relevant LSI (Latent Semantic Indexing). Then you should spread
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - km2612
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501311902-ff712-rsz_michael_ajao_in_liberian_girl_at_the_royal_court_credit_johan_persson__01011.jpg"
-image_caption: ""
 ---
 
 The debut work of 31-year-old playwright Diana Nneka Atuona, _Liberian Girl _has already made an impact, performing at the Global Summit to End Sexual Violence in Conflict last year and winning Atuona the Alfred Fagon Award for Best New Play of the Year in 2013. So what is all the commotion about?

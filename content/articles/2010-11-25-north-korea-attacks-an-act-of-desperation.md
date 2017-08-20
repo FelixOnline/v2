@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Standing tall but crumbling inside
 date: "2010-11-25 21:08:53 +0000"
-
-# Attributes from Felix Online V1
-id: "437"
-old_path: /politics/437/north-korea-attacks--an-act-of-desperation
+image: "http://felixonline.co.uk/img/upload/201011252102-nm1010-northkor.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/437/north-korea-attacks--an-act-of-desperation
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - lorddavidalton
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011252102-nm1010-northkor.jpg"
-image_caption: ""
 ---
 
 North Korea’s unprovoked attack this Tuesday on a South Korean island, just 120km from Seoul, threatened to break the fragile peace with its southern neighbour. Resulting in the death of two soldiers and two civilians, the artillery assault was denounced by the UN as ‘one of the worst violations’ of the armistice which ended the Korean War in 1953. But far from showing strength, many analysts are suggesting that the attacks signal the final thrashes of a dying beast. Rumours abound that North Korea’s aging ruler, Kim Jong Il, is in poor health and many have questioned his choice of his youngest son, Kim Jong Un, who is perceived as a weak choice to head the world’s fourth largest standing army.

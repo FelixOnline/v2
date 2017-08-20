@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Max Falkenberg is let down by the Orange Tree Theatre’s play
 date: "2015-03-25 13:29:56 +0000"
-
-# Attributes from Felix Online V1
-id: "5452"
-old_path: /arts/5452/play-mas-fails-to-live-up-to-its-promise
+image: "http://felixonline.co.uk/img/upload/201503251329-ff712-_samuel-(seun-shote),-chuck-reynolds-(rob-heanley),-ramjohn-gookool-(johann-myers)-in-play-mas-at-the-orange-tree-theatre---photo-by-robert-day.jpg"
+image_caption: "Samuel (Seun Shote), Chuck Reynolds (Rob Heanley), Ramjohn Gookool (Johann Myers) in Play Mas at the Orange Tree Theatre"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5452/play-mas-fails-to-live-up-to-its-promise
-imported: true
 comments:
  - value: >
      Boston is actually going to another market that the NBA thrives on having for national televised games. Shaquille O'Neal- Shaq changed the way low-post basketball was played in recent yrs. <br>crÃ©dits fifa gratuit http://creditsfut.com/,http://prednisone-order-20mg.com/ - By Prednisone W Not Prescription Prices Viagra http://cialis5mg-20mg.com/,http://prednisone-order-20mg.com/ - Prednisone Viagra Pills http://cialis5mg-20mg.com/
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - mff113
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251329-ff712-_samuel-(seun-shote),-chuck-reynolds-(rob-heanley),-ramjohn-gookool-(johann-myers)-in-play-mas-at-the-orange-tree-theatre---photo-by-robert-day.jpg"
-image_caption: ""
 ---
 
 The joy of carnival is infectious. Dressing up, getting drunk and parading around town to the sound of steel drums: what could be better? Every culture has a different spin on carnival, but few know how to do it better than the Trinidadians’ annual _Play Mas_.

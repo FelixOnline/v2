@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Looking back at one of the finest shows set in the 1960's
 date: "2016-02-08 17:41:22 +0000"
-
-# Attributes from Felix Online V1
-id: "5892"
-old_path: /tv/5892/retro-retrospective-mad-men
+image: "http://felixonline.co.uk/img/upload/201602081741-sa8713-madmen1-1024x576.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5892/retro-retrospective-mad-men
-imported: true
 comments:
  - value: >
      Great looking site. Assume you did a bunch of your own coding.| <br>nba 2k16 mt points http://www.nba2k16mtchallengepay.sitew.us/,Great looking site. Assume you did a bunch of your own coding.| <br>nba 2k16 mt points http://www.nba2k16mtchallengepay.sitew.us/,Great looking site. Assume you did a bunch of your own coding.| <br>nba 2k16 mt points http://www.nba2k16mtchallengepay.sitew.us/,This is a good posting, I was wodeirnng if I could use this write-up on my website, I will link it back to your website though. If this is a problem please let me know and I will take it down right away,This is a good posting, I was wodeirnng if I could use this write-up on my website, I will link it back to your website though. If this is a problem please let me know and I will take it down right away,This is a good posting, I was wodeirnng if I could use this write-up on my website, I will link it back to your website though. If this is a problem please let me know and I will take it down right away
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -28,12 +25,6 @@ authors:
  - sa8713
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602081741-sa8713-madmen1-1024x576.jpeg"
-image_caption: ""
 ---
 
 Last year marked the end of lots of things; Jon Stewart’s run on the Daily Show, Bill Cosby’s career, Meek Mill’s career, 2014, and many beloved TV shows. Of these, one was Mad Men, a series I discovered, binge watched, and fell in love with, all in the space of about two weeks. Centring on the enigmatic and dapper Don Draper, played by a perfectly cast Jon Hamm, the show follows the exploits of the men and women of the Sterling-Cooper advertising agency; as they attempt to navigate through the rapidly changing world of 1960s New York.

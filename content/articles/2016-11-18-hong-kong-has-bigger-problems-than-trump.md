@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Don Y Ma discusses the recent attack on democracy in Hong Kong
 date: "2016-11-18 14:35:07 +0000"
-
-# Attributes from Felix Online V1
-id: "6459"
-old_path: /comment/6459/hong-kong-has-bigger-problems-than-trump
+image: "http://felixonline.co.uk/img/upload/201611181435-felix-Screen Shot 2016-11-18 at 14.34.33.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6459/hong-kong-has-bigger-problems-than-trump
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - dym14
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611181435-felix-Screen Shot 2016-11-18 at 14.34.33.png"
-image_caption: ""
 ---
 
 You think the US election was the apocalypse? Take a look at Hong Kong.

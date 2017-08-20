@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Poem by Kadhim
 date: "2011-06-09 17:53:47 +0100"
-
-# Attributes from Felix Online V1
-id: "1327"
-old_path: /phoenix/1327/mum-i-need-a-doctor
+image: "http://felixonline.co.uk/img/upload/201106091852-felix-colour020.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/1327/mum-i-need-a-doctor
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106091852-felix-colour020.jpg"
-image_caption: ""
 ---
 
 In my house, down in the dark there's a door.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Carol Ann Cheah on the release of the first annual report
 date: "2015-03-13 01:22:15 +0000"
-
-# Attributes from Felix Online V1
-id: "5392"
-old_path: /news/5392/first-annual-animal-research-practise-report-released-by-college
+image: "http://felixonline.co.uk/img/upload/201503130121-cj914-animal-testing-1.jpg"
+image_caption: "An Imperial Fringe event was held in honour of the report’s release"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5392/first-annual-animal-research-practise-report-released-by-college
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503130121-cj914-animal-testing-1.jpg"
-image_caption: ""
 ---
 
 Imperial College London has released its first annual report on animal research practices within College. The 30-page document was launched at a specially held event as part of the Imperial Fringe series, which was open to the public and drew a crowd of around 200.

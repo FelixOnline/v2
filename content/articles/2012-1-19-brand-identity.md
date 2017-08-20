@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Imperial Entrepreneurs explain the impact of branding
 date: "2012-01-19 19:57:45 +0000"
-
-# Attributes from Felix Online V1
-id: "2002"
-old_path: /biz/2002/brand-identity
+image: "http://felixonline.co.uk/img/upload/201201191957-ams111-cola.jpg"
+image_caption: "Two of the most recognisable brands in the world have been warring over the soft drinks market"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/2002/brand-identity
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -25,12 +23,6 @@ authors:
  - ap7110
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201191957-ams111-cola.jpg"
-image_caption: ""
 ---
 
 [Bloomberg BusinessWeek](http://www.businessweek.com/innovation/the-key-to-success-your-corporate-mission-07142011.html) recently published an article by Larry Popelka titled “The Key to Success? Your Corporate Mission.” It investigates the particular case of the Chevrolet Volt and it is perfectly summed up by one line: “Most consumers no longer shop for products. They shop for a company.”

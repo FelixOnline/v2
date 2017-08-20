@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Mo Mirza hits the Spector show to find the future of guitar pop
 date: "2012-11-29 22:59:53 +0000"
-
-# Attributes from Felix Online V1
-id: "2997"
-old_path: /music/2997/britains-new-breed
+image: "http://felixonline.co.uk/img/upload/201211292259-tna08-spector-review1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2997/britains-new-breed
-imported: true
 comments:
  - value: >
      I was there, such a good gig. I really rate Luls but the other supports were a little dreary in my taste
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211292259-tna08-spector-review1.jpg"
-image_caption: ""
 ---
 
 The night was kicked off by LULS who did a great job at gathering everyone around the stage. Firing on all cylinders, they sang “Swing Low” – a dark, demented pop melody that echoed across the walls of the venue. A short but sweet set which left me aching to hearing more from this tight young band.

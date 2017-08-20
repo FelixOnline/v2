@@ -4,18 +4,15 @@ title: >
 subtitle: >
   What are you saying by wearing a poppy?
 date: "2015-11-06 13:45:19 +0000"
-
-# Attributes from Felix Online V1
-id: "5701"
-old_path: /comment/5701/poppies-are-not-a-source-of-pride
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5701/poppies-are-not-a-source-of-pride
-imported: true
 comments:
  - value: >
      This is a good article!,For newest news you have to go to see internet and on internet I found this site as a most excellent site for hottest updates. <br>comprar ray ban 4068 http://www.globalenergy.es/?es-comprar-ray-ban-4068-14411.html,This post will help the internet visitors for creating new webpage or even a weblog from start to end. <br>moncler winterjas dames goedkoop eten http://www.acmel.nl/nl/?nl-moncler-winterjas-dames-goedkoop-eten-14383.html,} <br>nba 2k16 mt now http://chandrakalabroking.com/index.php/blog/entry/among-the-most-admired-nba-2k16-mt.html,Hi-ya, well put together webpage you've got right now <br>nhl 17 coins http://rxaffiliatesforum.com/forum/main-forum/pharm-industry-news-and-events/512-cheap-nba-2k17-mt-refurbished-xbox-360-console-what-in-case-you-purchase,Incredibly user pleasant website. Enormous info available on couple of clicks on <br>madden 17 coins http://www.ezhibao.com/node/688255,I like looking at your web site. thnx! <br>nba 2k17 http://up2udu.zone/blogs/post/1480,I love this website -
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Wednesday 11th November marks 97 years since the armistice of the First World War. Across the UK, the poppy will be worn this month as a symbol of commemoration for all the lives lost and affected by conflict.

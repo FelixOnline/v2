@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Emma Rice steps down from her role as Globe director
 date: "2016-10-31 16:21:55 +0000"
-
-# Attributes from Felix Online V1
-id: "6368"
-old_path: /arts/6368/a-premature-follow-up
+image: "http://felixonline.co.uk/img/upload/201610311621-felix-2937458980_131b711609_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6368/a-premature-follow-up
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - js5913
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610311621-felix-2937458980_131b711609_o.jpg"
-image_caption: ""
 ---
 
 There is a depressing if predictable irony to the fact that, within hours of this article being completed, the Globe’s board went and pushed out their female artistic director. On Tuesday morning, it was announced that Emma Rice will be stepping down from her role in April 2018, following the close of the 17/18 season.

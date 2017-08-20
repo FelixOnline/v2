@@ -4,16 +4,14 @@ title: >
 subtitle: >
   I’m thankful that I’m not from a country whose culture relies on such awful drinks
 date: "2016-04-29 10:31:47 +0100"
-
-# Attributes from Felix Online V1
-id: "6096"
-old_path: /comment/6096/you-have-bad-taste-if-you-like-ales
+image: "http://felixonline.co.uk/img/upload/201604291131-felix-ales.jpg"
+image_caption: "None of these are any good."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6096/you-have-bad-taste-if-you-like-ales
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +21,6 @@ authors:
  - pa07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201604291131-felix-ales.jpg"
-image_caption: ""
 ---
 
 Every day I wake up I thank the gods I’m not English. I thank them because I was not born in a country where a family of layabouts is put on the throne and worshipped for no goddamned reason. I thank them because I have much more international football to remember fondly. I thank the gods because my Prime Minister isn’t someone who put a private part of their anatomy inside a dead pig (although I curse them because a former Prime Minister of mine put a private part of their anatomy inside an underage girl).

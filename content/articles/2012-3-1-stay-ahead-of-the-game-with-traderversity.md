@@ -4,18 +4,15 @@ title: >
 subtitle: >
   An exciting virtual trading game for university students
 date: "2012-03-01 22:46:41 +0000"
-
-# Attributes from Felix Online V1
-id: "2291"
-old_path: /biz/2291/stay-ahead-of-the-game-with-traderversity
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/2291/stay-ahead-of-the-game-with-traderversity
-imported: true
 comments:
  - value: >
      Did your editor know you were providing free advertising, adding no new content to a press release?,Is it plagiarism when an article such as this one is copied word-for-word from an earlier article (27/01/12)?? <br> <br>http://www.easier.com/98760-students-stay-ahead-game-traderversity.html, It's a press release and I had full acknowledgment from Chris hobcroft one of the guys behind making traderversity and it's owner company copper dime.... <br>,Yes, I informed them it was a press release. So it was completely up to the editor to post this article and clearly they thought it was fit for the section in felix.,I hope Felix got paid for this "article".
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -27,12 +24,6 @@ authors:
  - cg1609
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Traderversity is an exciting new, free, virtual trading game designed exclusively for UK university students. The interactive online game at [www.traderversity.com](http://www.traderversity.com) lets students try their hand at trading with real-time access to the stock market without investing any real money. Creating healthy competition, players can get to grips with the basics of trading, interact with other student traders and be in with the chance to win a share of the £5,000 monthly prize fund!

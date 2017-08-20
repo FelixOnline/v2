@@ -4,18 +4,15 @@ title: >
 subtitle: >
   He fought the Life Sciences cuts but supports higher fees: Alex Kendall on why he picks his fights carefully
 date: "2011-02-17 19:07:09 +0000"
-
-# Attributes from Felix Online V1
-id: "812"
-old_path: /news/812/interview-with-president-alex-kendall
+image: "http://felixonline.co.uk/img/upload/201102171856-ks607-alexkend.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/812/interview-with-president-alex-kendall
-imported: true
 comments:
  - value: >
      Perhaps students would have come along to the Council debate if they knew about it, and were actually told that the meeting would decide whether ICU support the Browne review!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102171856-ks607-alexkend.jpg"
-image_caption: ""
 ---
 
 ___Life Sciences cuts and Student Protests___

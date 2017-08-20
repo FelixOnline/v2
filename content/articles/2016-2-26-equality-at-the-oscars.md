@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Ahead of the Academy Awards this weekend, we ask whether or not it’s time to pull the plug on gender-segregated acting awards, in favour of a gender-neutral accolade
 date: "2016-02-26 11:39:55 +0000"
-
-# Attributes from Felix Online V1
-id: "5967"
-old_path: /film/5967/equality-at-the-oscars
+image: "http://felixonline.co.uk/img/upload/201602261138-felix-1424718000517.cached.jpg"
+image_caption: "As Patricia Arquette pointed out in her Oscar speech, Hollywood is a hostile place for women."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5967/equality-at-the-oscars
-imported: true
 comments:
  - value: >
      Incredibly individual pleasant site. Enormous info readily available on few clicks <br>CSGO http://www.0523bxx.com/comment/html/index.php?page=1&amp;id=14791,Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means more now than ever since the new Google update: Panda. No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings, You now NEED On-Page SEO. So what is good On-Page SEO?First your keyword must appear in the title.Then it must appear in the URL.You have to optimize your keyword and make sure that it has a nice keyword density of 3-5% in your article with relevant LSI (Latent Semantic Indexing). Then you should spread all H1,H2,H3 tags in your article.Your Keyword should appear in your first paragraph and in the last sentence of the page. You should have relevant usag
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261138-felix-1424718000517.cached.jpg"
-image_caption: ""
 ---
 
 The year that saw the first Academy Awards, 1929, also saw two landmarks in the march for equality: in the UK, the 1929 election was the first one in which women under 30 could vote, leading to it being termed the ‘Flapper Election’; and in Canada, five women led a campaign to change the legislature to recognise women as ‘persons’, meaning they could stand for any role in government. In the nine decades since, we have seen revolutionary strides in sexual equality, and yet Hollywood awards remain a region of segregation: when the Academy Awards are broadcast, the acting categories will still be split along gender lines, as they have been since their inception.

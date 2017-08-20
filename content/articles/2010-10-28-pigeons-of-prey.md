@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The next threat to British security could be coming from closer to home than you think...
 date: "2010-10-28 19:46:44 +0100"
-
-# Attributes from Felix Online V1
-id: "277"
-old_path: /comment/277/pigeons-of-prey-
+image: "http://felixonline.co.uk/img/upload/201104201812-felix-cartoonpigeon1.jpg"
+image_caption: "London's pigeons are ruthless and evil, with possible fascist sympathies. Beware"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/277/pigeons-of-prey-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - rjd08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104201812-felix-cartoonpigeon1.jpg"
-image_caption: ""
 ---
 
 It was a very ordinary day when I realised I was a superhero.

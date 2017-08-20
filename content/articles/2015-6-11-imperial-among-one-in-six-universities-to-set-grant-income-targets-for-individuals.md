@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Cecily Johnson reports on the Times Higher Education findings
 date: "2015-06-11 22:10:39 +0100"
-
-# Attributes from Felix Online V1
-id: "5609"
-old_path: /news/5609/imperial-among-one-in-six-universities-to-set-grant-income-targets-for-individuals
+image: "http://felixonline.co.uk/img/upload/201506112309-cj914-imperial.jpg"
+image_caption: "Individual targets have been criticised."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5609/imperial-among-one-in-six-universities-to-set-grant-income-targets-for-individuals
-imported: true
 comments:
  - value: >
      I do not care about this, i am making average 5000$ a month. There is useful way i found on the internet. If you want to learn it too, just search in google for: Kjolarkarr's guide,I was wondering if after work we could grab a cup of coffee <br>blade &amp; soul gold http://my.mmosite.com/5071776/blog/item/blade_and_soul_number_of_ideas_for_trove.html,Proud of you . <br>go to web design http://www.ligoniertech.com/tips-for-effective-website-navigation-design/,i like this site a lot! <br>novage communications(no follow) http://ecommerce-platforms.com/articles/7-proven-ways-to-boost-your-shopping-cart-conversion-rate,My way or the highway. <br>responsive web design http://designeus.com/what-is-responsive-design/,No, I know. <br>FIFA 15 Coins http://fifa15coinsfut.inube.com/blog/4277295/surprise-kieran-gibbs-will-join-fifa-15-totw/,You are nothing like us . <br>buy Madden 16 Coins http://radiusnyc.com/profiles/blogs/presentation-madden-16-details-living-worlds,Thanks very useful. Will share website with my pals.| <br>cs go skins cs 1.6 h
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506112309-cj914-imperial.jpg"
-image_caption: ""
 ---
 
 A Freedom of Information request by _Times Higher Education_ (THE) has revealed that Imperial College London is among around one in six universities in the UK to set targets for the amount of grant money brought in by its academics.

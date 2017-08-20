@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Around one billion euros worth of art has been discovered in the home of an 80 year old man in Munich.
 date: "2013-11-08 09:44:51 +0000"
-
-# Attributes from Felix Online V1
-id: "4034"
-old_path: /arts/4034/1500-masterpieces-looted-by-the-nazis-found-in-munich
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4034/1500-masterpieces-looted-by-the-nazis-found-in-munich
-imported: true
 comments:
  - value: >
      I am really fascinated by this story and by the fact that such billon euro secret has remained unnoticed for so long. I am curious but helpless to know what other such secrets remain hidden from the world! and what consequences they could have, and whether there are any ethical/moral issues if such secrets should remain hidden. <br>Also I am really hoping that this ends up with some win-win situation with the art works being restored to original beneficiaries but also giving Cornelius some credit. He deserves some acknowledgment for preserving such precious work and not being capricious in selling them unwisely for money <br>
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Around one billion euros worth of art has been discovered in the home of an 80 year old man in Munich. The collection, including pieces by Matisse, Picasso, Renoir and others, represents one of the largest recoveries of looted art in recent history, and includes many pieces previously unknown to art scholars.

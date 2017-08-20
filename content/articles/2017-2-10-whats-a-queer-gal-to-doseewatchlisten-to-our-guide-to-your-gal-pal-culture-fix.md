@@ -4,16 +4,13 @@ title: >
 subtitle: >
   From under-representation in the media, to a society that generally pretends we exist only for the titillation of men, what's a queer gal to do?!? B. R. Coli gives you the low-down on all the culture picks for you and your gal-pals
 date: "2017-02-10 15:35:16 +0000"
-
-# Attributes from Felix Online V1
-id: "6764"
-old_path: /features/6764/whats-a-queer-gal-to-doseewatchlisten-to-our-guide-to-your-gal-pal-culture-fix
+image: "http://felixonline.co.uk/img/upload/201702101536-felix-appropriate-behavior-still.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6764/whats-a-queer-gal-to-doseewatchlisten-to-our-guide-to-your-gal-pal-culture-fix
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -27,12 +24,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101536-felix-appropriate-behavior-still.jpg"
-image_caption: ""
 ---
 
 ## Film

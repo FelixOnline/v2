@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A day well spent
 date: "2012-06-14 19:19:06 +0100"
-
-# Attributes from Felix Online V1
-id: "2546"
-old_path: /arts/2546/cha-cha-cha-near-the-beach
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2546/cha-cha-cha-near-the-beach
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - ams111
  - skw10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I used to loathe dancing. I was one of those people who stands in the corner looking awkward, refusing to join the dance floor. However, in a moment of daring I tried Latin American dancing and not that long after I found myself travelling one Sunday morning to the south coast for my first competition.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   But it took all morning to clean up
 date: "2016-12-09 12:01:22 +0000"
-
-# Attributes from Felix Online V1
-id: "6563"
-old_path: /news/6563/smelves-take-over-union-during-acc
+image: "http://felixonline.co.uk/img/upload/201612121609-felix-15271390_10157771547145394_1576959608_o (1).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6563/smelves-take-over-union-during-acc
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612121609-felix-15271390_10157771547145394_1576959608_o (1).jpg"
-image_caption: ""
 ---
 
 The union was quite literally painted blue last week after another successful ACC. The makeover was a result of blue face and body paint runoff which was part of the costumes men’s rugby had selected for the occasion.

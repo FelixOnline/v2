@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Well, they’re in The Thick of It now...
 date: "2011-11-03 20:22:50 +0000"
-
-# Attributes from Felix Online V1
-id: "1664"
-old_path: /tv/1664/thought-the-government-were-in-trouble
+image: "http://felixonline.co.uk/img/upload/201111032022-pk1811-in-the-thick-of-it.jpg"
+image_caption: "Constipation has become a serious issue in 2012’s government"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1664/thought-the-government-were-in-trouble
-imported: true
 comments:
  - value: >
      Great resumé of an excellent series. We need more like this to educate the next generation of bummy leaders. Murdoch can role over - we dont need him to wantonly hack everyone when its all public domain.,I can't wait until their take on phone-hacking and nick clegg
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -28,12 +26,6 @@ authors:
  - mh3210
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111032022-pk1811-in-the-thick-of-it.jpg"
-image_caption: ""
 ---
 
 After three different Waterstones (ironically, nobody could find the single copy supposedly in stock) and two failed Amazon deliveries, I finally got my hands on the book: “The Thick of It: The Missing DoSAC Files”. Bringing to the paper Armando Iannucci’s BAFTA-winning comedy, this brilliant set of documents has provided me with enough entertainment for another decade (or at least until the next series).

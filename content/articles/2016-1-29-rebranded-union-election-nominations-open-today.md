@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The annual ‘Leadership Elections’ begin
 date: "2016-01-29 08:49:25 +0000"
-
-# Attributes from Felix Online V1
-id: "5837"
-old_path: /news/5837/rebranded-union-election-nominations-open-today
+image: "http://felixonline.co.uk/img/upload/201601290848-felix-elecs.jpg"
+image_caption: "Where was the FELIX editor? Already working, probably."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5837/rebranded-union-election-nominations-open-today
-imported: true
 comments:
  - value: >
      the state of alabama A establishes Confucius start <br> <br>HUNTSVILLE, 's (WAFF) birmingham, al A recently introduced a Confucius initiate is due the collage. this particular Confucius institute here at al a school, on the other hand CIAAMMU, are fine to support you continue to the knowledge of the china traditions and expressions. seminars on matters will get offers for to high school students and the community at large. With such a lot of science and technology appearing out of Huntsville, to provide a source continuously growing industrial collaboration between the particular and offshore, birmingham, al A ceo, dr. john Hugine states that it's key that students grow to be culturally wary. "The thing you don't want to do is to be put in a very barbeque or in a few episode and likewise offend this coordinator on the retrieve arrangement your are trying to build, whom buy is fully gone, doctor. Hugine clearly shows. the state of alabama A has also joined while having Nanjing Forestry college Nanjg, china and taiwa
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201601290848-felix-elecs.jpg"
-image_caption: ""
 ---
 
 Get ready for off-puttingly upbeat lecture shout outs, a fortnight of Facebook spam and unwelcome accosting in the library over your jacket potato – it’s election time.

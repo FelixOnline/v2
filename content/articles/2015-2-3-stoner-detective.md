@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park reviews Inherent Vice
 date: "2015-02-03 15:02:16 +0000"
-
-# Attributes from Felix Online V1
-id: "5189"
-old_path: /film/5189/stoner-detective
+image: "http://felixonline.co.uk/img/upload/201502031502-ps3110-inherent-vice-cmyk.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5189/stoner-detective
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jgp09
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502031502-ps3110-inherent-vice-cmyk.jpg"
-image_caption: ""
 ---
 
 __INHERENT VICE__

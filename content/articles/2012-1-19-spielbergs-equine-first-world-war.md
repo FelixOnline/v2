@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Much anticipated fim War Horse gets Lucy Wiles' approval
 date: "2012-01-19 20:29:30 +0000"
-
-# Attributes from Felix Online V1
-id: "2014"
-old_path: /film/2014/spielbergs-equine-first-world-war
+image: "http://felixonline.co.uk/img/upload/201201192029-pk1811-war-horse-movie.jpg"
+image_caption: "Don’t worry, I’ll make sure you don’t end up like that one in The Godfather"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2014/spielbergs-equine-first-world-war
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - lw408
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201192029-pk1811-war-horse-movie.jpg"
-image_caption: ""
 ---
 
 __Director__ Steven Spielberg

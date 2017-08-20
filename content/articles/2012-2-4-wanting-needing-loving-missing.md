@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Love it or hate it, Like Crazy commands outstanding performances
 date: "2012-02-04 17:37:13 +0000"
-
-# Attributes from Felix Online V1
-id: "2137"
-old_path: /film/2137/wanting-needing-loving-missing
+image: "http://felixonline.co.uk/img/upload/201202041738-felix-like-crazy-460x307.jpg"
+image_caption: "If you ever leave me, I’ll strangle you... like crazy..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2137/wanting-needing-loving-missing
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - hs2811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202041738-felix-like-crazy-460x307.jpg"
-image_caption: ""
 ---
 
 __Like Crazy__

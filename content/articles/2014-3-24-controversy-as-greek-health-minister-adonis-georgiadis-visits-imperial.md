@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Eleftherios Apostolakis reports from Sunday’s talk
 date: "2014-03-24 03:27:51 +0000"
-
-# Attributes from Felix Online V1
-id: "4492"
-old_path: /news/4492/controversy-as-greek-health-minister-adonis-georgiadis-visits-imperial
+image: "http://felixonline.co.uk/img/upload/201403240328-jal08-1573---adonis-georgiadis1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4492/controversy-as-greek-health-minister-adonis-georgiadis-visits-imperial
-imported: true
 comments:
  - value: >
      You are absolutely right mr apostolidis and of course this is absolutely clear from that quote you have isolated from my article. Your logic is impecable and as a scientist I wouldn't even dare refute it. If you actually read the article though, you wouldl see that I took it upon myself to record what happened subjectively. If you'd like a testimony to my behaviour, there is video of the whole talk and I'm sure a man as resourceful as your self wouldn't have a problem locating. And as we doimg this childish name calling. .. you're a clown who wouldn't understand logic or democracy if they slapped you in the face. Enjoy your narrow mindness,Mr Apostolakis <br> <br>Using your words "In the front sit the members of the Society responsible for organising the event and those who are in agreement with the whole idea. In the back are those unhappy with this initiative" I will tell you that if you were been unhappy with this initiative the best thing to do was not to participate. But from the writings is easy to conclude
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201403240328-jal08-1573---adonis-georgiadis1.jpg"
-image_caption: ""
 ---
 
 Last Sunday the College was visited by Adonis Georgiadis, the Greek Health Minister. The event – organised by the Imperial College Hellenic Society and held in the Clore Lecture Theatre – both from College and outside. One Imperial student gives his perspective:

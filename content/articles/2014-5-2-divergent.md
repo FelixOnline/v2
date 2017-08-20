@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The quest to find the next Hunger Games finds it next entrant in Veronica Roth’s series of YA novels, and this time (after a few misfires that will go un-named, and an excellent second Hunger Games film) it looks like the studios might just have found what they’re looking for.
 date: "2014-05-02 01:15:17 +0100"
-
-# Attributes from Felix Online V1
-id: "4544"
-old_path: /film/4544/divergent
+image: "http://felixonline.co.uk/img/upload/201405020215-jal08-rs_560x415-130719100622-rs_1024x759-130625090311-1024.divergent8.mh.062513.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4544/divergent
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - js5913
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405020215-jal08-rs_560x415-130719100622-rs_1024x759-130625090311-1024.divergent8.mh.062513.jpg"
-image_caption: ""
 ---
 
 __Divergent__

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Sailing Club Trip to Wales
 date: "2011-01-13 20:24:21 +0000"
-
-# Attributes from Felix Online V1
-id: "580"
-old_path: /sport/580/sailors-battle-snow--dragons
+image: "http://felixonline.co.uk/img/upload/201101132022-ks607-boatboat.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/580/sailors-battle-snow--dragons
-imported: true
 comments:
  - value: >
      Sales and wants yes, you never know when it might come in handy, minutes of mneeitg could go on and then we could review pat minutes as not everyone saves them on their computer once Chris has sent them out !Discussion forum I don't know, should be out on the bike instead of taslking on the computer, butthen it might come in handy over Christmas !!,My favorite love story is my<a href="http://zorsggr.com"> pnatres</a>. They have been married 43years this past April. They met in high school, and my Dad was from the wrong side of the tracks, literally. He had fallen in love with the daughter of the man who owned the only car lot in the town they lived in. She didn't care, but he knew he couldn't provide for her. He joined the Army, was sent to Vietnam for a year, and they got married as soon as he came home. They have built several family businesses, and adopted my little brother and I. I honestly have never seen them fight (maybe because they had been married 17 years before they adopted me... they hade
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101132022-ks607-boatboat.jpg"
-image_caption: ""
 ---
 
 It was a cold Friday night in late November when a group of six sailors headed to Cardiff to compete in the Cardiff Dragon team racing event. As planned, Chris and Martin had got the coach earlier while I was to go home and meet the others at the Union for 18:00. Unfortunately I left it a bit late so didn’t get to the Union till gone 19:00. The others piled in while berating me for my lateness and, with some trepidation, we headed for Cardiff. Our fear was not unjustified as this was forecast to be one of the coldest weekends of the year. As we headed off, the radio reported widespread ice on the roads, that Cardiff airport was closed due to snow and that there were 26 mile queues on the M4 into Cardiff.

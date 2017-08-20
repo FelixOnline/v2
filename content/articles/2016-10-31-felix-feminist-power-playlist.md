@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Music is an amazingly powerful way to impact a message to an audience, a community or even a generation. Women have traditionally been a marginalized and oppressed social group and in our modern society, we still face prejudices unknown to our male counterparts. In the spirit of ‘Imperial Girls Can
 date: "2016-10-31 23:48:03 +0000"
-
-# Attributes from Felix Online V1
-id: "6374"
-old_path: /music/6374/felix-feminist-power-playlist
+image: "http://felixonline.co.uk/img/upload/201610312332-felix-Pussy Riot.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6374/felix-feminist-power-playlist
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
  - sk2214
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610312332-felix-Pussy Riot.jpg"
-image_caption: ""
 ---
 
 ## 1 | Christina Aquilera

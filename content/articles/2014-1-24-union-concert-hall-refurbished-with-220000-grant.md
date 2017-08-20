@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Plans have been announced for a major refurbishment of the Imperial College Union Concert Hall, to be funded by a grant from the Harlington Trust.
 date: "2014-01-24 09:37:03 +0000"
-
-# Attributes from Felix Online V1
-id: "4269"
-old_path: /news/4269/union-concert-hall-refurbished-with-220000-grant
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4269/union-concert-hall-refurbished-with-220000-grant
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Plans have been announced for a major refurbishment of the Imperial College Union Concert Hall, to be funded by a grant from the Harlington Trust. The space is currently used by a number of different groups, including the Drama, Musical Theatre and Cinema societies. The refurbishment is aimed at improving the technical capabilities of the Concert Hall.

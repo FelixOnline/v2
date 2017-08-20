@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Scientists conclude Quebeckers are pervs
 date: "2016-03-11 11:41:37 +0000"
-
-# Attributes from Felix Online V1
-id: "6028"
-old_path: /science/6028/sht-scence
+image: "http://felixonline.co.uk/img/upload/201603111141-felix-10031394203_74bfbeb927_o.jpg"
+image_caption: "Just a typical day out in Quebec apparently."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6028/sht-scence
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - mguenot
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603111141-felix-10031394203_74bfbeb927_o.jpg"
-image_caption: ""
 ---
 
 At Sh!t Sc!ence, we believe that all science has a purpose, and helps us better understand the fascinating world we all live in. Especially when scientists spend some time exposing the sexual deviances of Quebeckers.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Are there any greater joys of a modern existence than the Reduced Price section of a supermarket?
 date: "2011-01-13 21:09:28 +0000"
-
-# Attributes from Felix Online V1
-id: "588"
-old_path: /comment/588/cut-price-foods-make-me-happy
+image: "http://felixonline.co.uk/img/upload/201101132107-ks607-omaromar.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/588/cut-price-foods-make-me-happy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - ks607
  - oh106
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101132107-ks607-omaromar.jpg"
-image_caption: ""
 ---
 
 Christmas has now come and gone, hopefully fulfilling its promise as a time of goodwill to all people. According to A Christmas Carol, it is a time when rich people should have been kind and generous to the poor as, statistically at least; many of them are people too!

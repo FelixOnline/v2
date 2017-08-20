@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Katherine Bettany and Lizzie Crouch on the stigmas often attached to mental illness
 date: "2010-12-02 21:36:15 +0000"
-
-# Attributes from Felix Online V1
-id: "492"
-old_path: /news/492/lets-be-more-open-about-mental-illness-
+image: "http://felixonline.co.uk/img/upload/201012022133-ks607-mentalhe.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/492/lets-be-more-open-about-mental-illness-
-imported: true
 comments:
  - value: >
      Just wondering how an article on mental health failed to mention one of Imperial's finest achievements: the creation of London Nightline, the first Nightline in the country and a vital source of information and support for students outside of office hours! ,Just wondering how an article on mental health failed to mention one of Imperial's finest achievements: the creation of London Nightline, the first Nightline in the country and a vital source of information and support for students outside of office hours! ,Thank you for writing this. I, like many at Imperial (i suspect), have managed to get myself into a rut of severe anxiety that led to depression before. There is no doubt in my mind that the Imperial environment contributed to this and i suspect others will agree. It certainly isn't the sole cause though and i don't think anyone would say that in order to tackle such issues Imperial needs to drastically changes the way it delivers its education. What does need examining is the support network. This is s
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022133-ks607-mentalhe.jpg"
-image_caption: ""
 ---
 
 Two o’clock in the morning. I had got home from an amazing night out and was falling asleep when I heard people running in the corridor. It was a Friday night and we were Freshers, so I thought nothing of it; I turned over and pulled the duvet tighter around me.

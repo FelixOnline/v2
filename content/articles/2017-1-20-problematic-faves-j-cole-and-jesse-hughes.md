@@ -4,18 +4,15 @@ title: >
 subtitle: >
   We're back for round two
 date: "2017-01-20 15:21:08 +0000"
-
-# Attributes from Felix Online V1
-id: "6669"
-old_path: /music/6669/problematic-faves--j-cole-and-jesse-hughes
+image: "http://felixonline.co.uk/img/upload/201701201519-felix-12469365865_7862e7c635_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6669/problematic-faves--j-cole-and-jesse-hughes
-imported: true
 comments:
  - value: >
      An artist that I used to really admire and had listened to for years was outed as a rapist and while I sometimes still listen to his music, it's hard not to think about what he did.
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701201519-felix-12469365865_7862e7c635_o.jpg"
-image_caption: ""
 ---
 
 Alas, poor Jermaine. Forest Hills Drive was a huge success, the wider public had recognised your musical and lyrical talent, and you were being mentioned in the same breath as the likes of Kendrick; you’d made it big. Why did you have to sabotage it all by taking shots at Yeezy? Now, beef is nothing new in the Hip-Hop world but, as with the recent Drake-Cudi conflict, it’s the timing and targeting of these insults that’s suspect. Why go after him now, when he’s been hospitalised? And why target his mental health? Cole falls into the classic trap of painting Kanye’s struggles as something of his own doing. He paints West’s issues as deliberate manifestations of an over-indulgence of ego, rather than recognizing that likely the inverse is true. It would stand to reason that, perhaps, this projection of ego is an attempt to mask insecurity and depression, and ridiculing it publicly would only serve to worsen it. You either don’t get this, or are deliberately ignoring it. Not cool, Jermaine. Oh, and as an aside, if you’re going to go after one of the greatest producers of all time, don’t do it on a recycled Joey Bada$$ beat.

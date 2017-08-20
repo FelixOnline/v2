@@ -4,16 +4,13 @@ title: >
 subtitle: >
   French resource company (and energy giant) Total is set to invest up to £13 million in the immediate future in the fledgling UK Shale Gas (fracking) industry.
 date: "2014-01-31 17:15:05 +0000"
-
-# Attributes from Felix Online V1
-id: "4314"
-old_path: /news/4314/french-energy-giant-to-invest-in-uk-fracking
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4314/french-energy-giant-to-invest-in-uk-fracking
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 French resource company (and energy giant) Total is set to invest up to £13 million in the immediate future in the fledgling UK Shale Gas (fracking) industry.

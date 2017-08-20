@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Women's team cruise past opponents
 date: "2013-02-28 23:53:26 +0000"
-
-# Attributes from Felix Online V1
-id: "3396"
-old_path: /sport/3396/womens-rugby-top-of-bucs
+image: "http://felixonline.co.uk/img/upload/201302282353-tna08-rugby.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3396/womens-rugby-top-of-bucs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - ces109
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302282353-tna08-rugby.jpg"
-image_caption: ""
 ---
 
 After a slow start to the BUCS campaign with matches cancelled due to weather and the other sides being unable to field teams, Women’s Rugby kicked off their second BUCS game against Surrey. The squad were ready to take on what was thought to be a tough match since Surrey were topping the table before the game.

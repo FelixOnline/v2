@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Find it at the Cartoon Museum until 20th March, students £3
 date: "2011-03-10 20:20:52 +0000"
-
-# Attributes from Felix Online V1
-id: "1068"
-old_path: /arts/1068/heart-warming-sketches-from-st-trinians-creator
+image: "http://felixonline.co.uk/img/upload/201103102017-nm1010-rainboww.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1068/heart-warming-sketches-from-st-trinians-creator
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103102017-nm1010-rainboww.jpg"
-image_caption: ""
 ---
 
 In 1969, cartoonist Ronald Searle’s wife Monica was diagnosed with a particularly virulent form of breast cancer and given six months to live. She went on to undergo a series of experimental and particularly unpleasant chemotherapy treatments.

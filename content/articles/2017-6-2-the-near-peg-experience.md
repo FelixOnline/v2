@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The ultimate feminist sexual act and a culture’s fear and obsession with butt stuff
 date: "2017-06-02 13:53:44 +0100"
-
-# Attributes from Felix Online V1
-id: "6999"
-old_path: /sex/6999/the-near-peg-experience
+image: "http://felixonline.co.uk/img/upload/201706021553-felix-Screen Shot 2017-06-02 at 15.53.05.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sex/6999/the-near-peg-experience
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sex
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - icanon
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706021553-felix-Screen Shot 2017-06-02 at 15.53.05.png"
-image_caption: ""
 ---
 
 I went home last week for a few days over the bank holiday. As always when I go home, I opened up Tinder and began to swipe. I mostly use it as a way to keep track of who from school is single, but sometimes use it to shark on hot students and locals.

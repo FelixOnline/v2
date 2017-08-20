@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Clara Nevola reviews Emlyn William's play recounting the life of a Nobel laureate author
 date: "2014-11-24 12:30:19 +0000"
-
-# Attributes from Felix Online V1
-id: "4939"
-old_path: /arts/4939/accolade--a-50s-thriller-that-is-as-relevant-as-ever
+image: "http://felixonline.co.uk/img/upload/201411241230-ps3110-download.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4939/accolade--a-50s-thriller-that-is-as-relevant-as-ever
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - cfc111
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411241230-ps3110-download.jpeg"
-image_caption: ""
 ---
 
 A rich, famous and respectable man has his private life dragged through the tabloids. “The Sir and the school girl!” the media cries. This all sounds very familiar; the eminent and the famous are constantly in the public eye, their lives scrutinised in every detail by scandal-hungry press. So a well written, moving, reflective and excellently performed play on this recurrent issue of our times doesn’t come a minute too soon. But hang on– I forgot to mention – _Accolade_ was written in 1950.

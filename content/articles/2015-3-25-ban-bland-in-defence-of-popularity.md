@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Fred Fyles on populism, cultural criticism, and Kim Kardashian
 date: "2015-03-25 12:46:19 +0000"
-
-# Attributes from Felix Online V1
-id: "5437"
-old_path: /arts/5437/ban-bland-in-defence-of-popularity
+image: "http://felixonline.co.uk/img/upload/201503251245-ff712-middleton_full_0111.jpg"
+image_caption: "Kate Middleton’s first official portrait, by Paul Emsely, which was described as ‘pretty ordinary’"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5437/ban-bland-in-defence-of-popularity
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251245-ff712-middleton_full_0111.jpg"
-image_caption: ""
 ---
 
 Popularity. If the innumerable American coming-of-age films have taught us anything, it’s that popularity is a double-edged sword; to be popular is to be both loved and loathed in equal measure. Nowhere is this more true than in the world of music and film, where popularity often leads to an immediate critical reaction that is completely divorced from the content itself. The phrase “I liked it before it was popular” has become so ubiquitous as to enter into cliche, forming – alongside listicle, hipster, and cereal cafe – part of our post-postmodern cultural lexicon. With the internet ushering in an unprecedented era of hype, whereby acts can boom and bust in the time it takes to get through an episode of _Girls_, as well as a collective hive-mind insatiable in its appetite for think-pieces, our relationship with popularity is only going to become more and more complex.

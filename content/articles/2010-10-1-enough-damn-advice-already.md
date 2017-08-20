@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Freshers’ Flu is a real phenomenon. What I have found really makes Freshers sick, however, is advice
 date: "2010-10-01 22:40:15 +0100"
-
-# Attributes from Felix Online V1
-id: "165"
-old_path: /comment/165/enough-damn-advice-already
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/165/enough-damn-advice-already
-imported: true
 comments:
  - value: >
      అ త తక క వ సమయ ల ఇ త చక కగ ఎల ర యగలర డ మ ర !!:-). మ ర ర స న య స అద ర ద . "న చ న నప ప డ స క ళ లల (కన స న న చద వ న స క ళ ళల ) ఒక ర ల డ ద . "బ గ చద వ ప ల లల అల లర చ యర ద ! చద వ ర న మ ద ద ల అల లర ల ఫస ట ట ర " అన !ఇద న క చ ల అన భవ . అ ద ల మ న న నక ఊర న డ వ గ ల . స క ల జ వ తమ త ఫస ట బ చ ల క ర చ న వ స గ ప య , ఇ టర మ డ యట ల ఆ గ డవ వద ల చ క న న (అసల ఓ న ల గ న లల క ల జ క వ ళ ళల ద ల డ (క ర క ట ప చ చ ). ద త ఇ ట ల గ డవ మ దలయ య ద . మళ ళ back to normal. REC Warangal క వచ చ క మ త ర , ప ర త గ వ నక బ చ . క న
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - gda07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Before you get any further, I feel you should know that writing these things isn’t as easy as it looks. That’s partly because you don’t actually see us writing them, but mainly because, unlike columnists at the Guardian who write for everybody who counts, and those at the Sun who write for everybody who can’t, we have no idea what sort of crowd we’re writing for.

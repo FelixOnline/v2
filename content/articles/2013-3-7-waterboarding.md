@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lauren Radcliffe interrogates an artist
 date: "2013-03-07 23:52:38 +0000"
-
-# Attributes from Felix Online V1
-id: "3448"
-old_path: /arts/3448/waterboarding
+image: "http://felixonline.co.uk/img/upload/201303072352-tna08-erikacraigpaintings3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3448/waterboarding
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - ltr11
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303072352-tna08-erikacraigpaintings3.jpg"
-image_caption: ""
 ---
 
 Erika Craig is one of many upcoming artists in our generation. She began her career in California where she received her BA. During this time she also studied in an inspirational and architecturally rich city, Paris.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Elizabeth Windo goes over a brief history of the T movement and discusses the place of transgender people within the queer community
 date: "2017-02-10 14:37:32 +0000"
-
-# Attributes from Felix Online V1
-id: "6758"
-old_path: /features/6758/should-the-t-be-dropped-from-lgbt
+image: "http://felixonline.co.uk/img/upload/201702101437-felix-Screen Shot 2017-02-10 at 14.36.52.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6758/should-the-t-be-dropped-from-lgbt
-imported: true
 comments:
  - value: >
      your well-being the us grants CERVARIXTM <br> <br>MISSISSAUGA, from, feb.. 9 /CNW/ well quebec has agreed upon CERVARIX(TM) (peoples papillomavirus (products 16 as 18) Recombinant, AS04 adjuvanted). CERVARIX(TM) definitely a that will protect women of all ages in cervical most cancers (many cancers of the low section of the womb and also tummy) and additionally infrequent wounds precancerous cervical (changes in body cells through cervix happen to be a trouble of being tumors). it is recognized for girls and women within ages of a 10 and 25. <br> <br>"with quebec, dozens person latamdate.com is used up every single single day caused from cervical many cancers, A disease that is essentially avoidable, statements dr. Barbara Romanowski, medical mentor of medication, dividing connected contagious health conditions at college or university Alberta. "by means of weekly Pap laboratory tests, CERVARIX(TM) Reduces the risk of cervical condition attributed to warts layouts 16 also 18, when 98 per cent, <br> <br>CERVARIX(TM) comes with
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -26,12 +23,6 @@ authors:
  - elizabethwindo
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101437-felix-Screen Shot 2017-02-10 at 14.36.52.png"
-image_caption: ""
 ---
 
 It’s easy to look from the outside at a pride parade and see a unified grouping of similarly minded people. But under this facade of togetherness, within the LGBT community lies a volatile mixture of groups that sometimes have radically different goals. An example of this is the recent push that has led some, particularly from outside the trans community, to question the place of the T in LGBT.

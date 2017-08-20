@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park enters FX’s American Horror Story: Freak Show
 date: "2014-11-10 22:09:17 +0000"
-
-# Attributes from Felix Online V1
-id: "4838"
-old_path: /tv/4838/wir-sind-alle-freaks
+image: "http://felixonline.co.uk/img/upload/201411102209-ps3110-freak-show-cmyk.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4838/wir-sind-alle-freaks
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102209-ps3110-freak-show-cmyk.jpg"
-image_caption: ""
 ---
 
 There is a line of dialogue in _American Horror Story: Coven_ that reads as follows: “Do you really think with Twitter and Faceback that a witch does anything at all she won’t be videotaped and turned into some viral FREAK SHOW like a dog who says “I love you”?” . Now was this a clever hint dropped by Ryan Murphy and Brad Falchuk, the creators of the _American Horror Story_ anthology, subtly directing us all to the next season, or was this nothing more than a freakish coincidence? We will never truly know, but the _American Horror Story _series, now in its fourth season, aptly named _Freak Show_, is as twisted and deliriously entertaining packed full of over the top characters and storylines that open themselves up for all sorts of shocks and reveals.

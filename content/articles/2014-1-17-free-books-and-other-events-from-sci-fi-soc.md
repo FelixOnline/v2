@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sci-Fi soc tell us about their exciting events
 date: "2014-01-17 04:34:07 +0000"
-
-# Attributes from Felix Online V1
-id: "4258"
-old_path: /features/4258/free-books-and-other-events-from-sci-fi-soc
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4258/free-books-and-other-events-from-sci-fi-soc
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 What could be better than curling up with a good book? That’s right, curling up with a good book that you got for free! That’s why the Science Fiction, Fantasy and Gothic Horror Society is bringing back our hugely popular Book Blind Date event. Last October we found new homes for over fifty great books and this term it’s all going to be even bigger and better.

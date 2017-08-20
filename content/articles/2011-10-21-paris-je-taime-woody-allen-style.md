@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Midnight in Paris is effective, moving and humble
 date: "2011-10-21 09:53:46 +0100"
-
-# Attributes from Felix Online V1
-id: "1583"
-old_path: /film/1583/paris-je-taime--woody-allen-style
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1583/paris-je-taime--woody-allen-style
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Midnight in Paris__

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   In a post-Harambe world, should we still be paying to see animals in captivity?
 date: "2016-06-10 08:29:52 +0100"
-
-# Attributes from Felix Online V1
-id: "6259"
-old_path: /science/6259/is-there-room-for-zoos-in-2016
+image: "http://felixonline.co.uk/img/upload/201606101029-felix-7298442782_124ae1b096_o.jpg"
+image_caption: "A captive lowland gorilla. There are less than 100,000 left in the wild."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6259/is-there-room-for-zoos-in-2016
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ea3211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606101029-felix-7298442782_124ae1b096_o.jpg"
-image_caption: ""
 ---
 
 At the end of last month we witnessed the death of a lowland gorilla in Cincinnati Zoo. Harambe, who was put down during an attempt to rescue a four-year-old  boy who had fallen into the enclosure. A week later and we’re still talking about the incident, debating who’s to blame. However, instead of playing the blame game, perhaps we should be talking about the role of zoos in the 21st century.

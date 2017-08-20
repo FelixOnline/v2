@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Cecily Johnson reports as a Professor of Electronic and Electrical Engineering is recognised for work in modelling computer systems
 date: "2015-05-21 20:02:48 +0100"
-
-# Attributes from Felix Online V1
-id: "5546"
-old_path: /news/5546/imperial-professor-is-made-fellow-of-the-royal-academy-
+image: "http://felixonline.co.uk/img/upload/201505221216-cj914-professor-dude.jpg"
+image_caption: "Professor Erol Gelenbe was elected as Fellow of a prestigious Belgian society"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5546/imperial-professor-is-made-fellow-of-the-royal-academy-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505221216-cj914-professor-dude.jpg"
-image_caption: ""
 ---
 
 Professor Erol Gelenbe, a researcher from the Department of Electrical and Electronic Engineering, has been made a Fellow of the Royal Academy, Sciences, Letters and Art of Belgium.

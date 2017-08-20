@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The hype, pure shock and amazement created by this move by Woman of the Match Ami provided the catalyst for a vigorous, heartfelt and inspiring comeback from Imperial....
 date: "2012-11-01 23:07:40 +0000"
-
-# Attributes from Felix Online V1
-id: "2811"
-old_path: /sport/2811/gaelic-football-girls-score-at-double-header
+image: "http://felixonline.co.uk/img/upload/201211012307-csw09-icgag%20ladies%2021st%20oct%20%2712-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2811/gaelic-football-girls-score-at-double-header
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - csw09
  - fsport
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211012307-csw09-icgag%20ladies%2021st%20oct%20%2712-1.jpg"
-image_caption: ""
 ---
 
 How does a division 3 sport’s team respond to the challenge of playing two division 1 standard teams back to back within the one day?

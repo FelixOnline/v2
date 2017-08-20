@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The overthown Tunisian Government as people come to streets.
 date: "2011-01-27 19:19:14 +0000"
-
-# Attributes from Felix Online V1
-id: "666"
-old_path: /politics/666/tunisias-revolution-the-first-of-many
+image: "http://felixonline.co.uk/img/upload/201101271916-nm1010-tunisia.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/666/tunisias-revolution-the-first-of-many
-imported: true
 comments:
  - value: >
      Even Imperial refers to North Africa as Middle East? Does anyone have a map of the continents?
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -28,12 +25,6 @@ authors:
  - nm1010
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101271916-nm1010-tunisia.jpg"
-image_caption: ""
 ---
 
 On the 17th December 2010 Mohamed Bouazizi went to the office of his regional governor, drenched himself in petrol and set himself alight. He succumbed to his horrific injuries and died some days later. As a twenty six year old high school graduate he was relatively well educated yet despaired at the lack of opportunities for more-than-menial work. Local government officials made his life a misery, repeatedly harassing him and subjecting him to public humiliations. A street vendor for many years, the final straw came when they began confiscating his wares after demanding a license which they knew not to exist. Described by his family as a quiet and softly spoken man, his death was the result of a psychological breakdown brought on by years of submissively accepting injustice at the hands of a governmental system so corrupt and extensive that it interfered with the daily lives of many of its citizens who, beleaguered by poverty, were just trying to make ends meet.

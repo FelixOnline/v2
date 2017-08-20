@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rosamund Pearce writes for I, Science on resurrecting the extinct
 date: "2013-12-06 04:01:15 +0000"
-
-# Attributes from Felix Online V1
-id: "4185"
-old_path: /science/4185/extinction-death-and-dinosaurs
+image: "http://felixonline.co.uk/img/upload/201312060401-jal08-iscience-advert-longer.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4185/extinction-death-and-dinosaurs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - rp1313
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201312060401-jal08-iscience-advert-longer.jpg"
-image_caption: ""
 ---
 
 The loss of a species was once thought to be as final as the demise of its last survivor but now, thanks to advances in biotechnology, reviving an extinct species is no longer pure fiction. But instead of asking “can it be done?” the conversation is changing to “should it be done?”

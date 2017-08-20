@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The National’s unpredictable triumph is revived in style at the Wyndham’s Theatre
 date: "2016-05-06 10:15:20 +0100"
-
-# Attributes from Felix Online V1
-id: "6133"
-old_path: /arts/6133/people-places-and-things-
+image: "http://felixonline.co.uk/img/upload/201605061115-felix-Denise Gough (Emma)&company in People,Places&Things by JohanPersson.jpg"
+image_caption: "Best Actress winner Denise Gough in her as a drug addict in People, Places and Things."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6133/people-places-and-things-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +21,6 @@ authors:
  - jc7413
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061115-felix-Denise Gough (Emma)&company in People,Places&Things by JohanPersson.jpg"
-image_caption: ""
 ---
 
 As I sat placidly in my seat waiting for the play to start, the announcement to turn off our mobile phones was played. That was all expected. But then the announcement repeated itself, and it seemed that a thousand voices were echoing it at the same time, louder and louder and reaching a mad climax – then in a snap the theatre went dark and a scene from _The Seagull_ appeared before us.

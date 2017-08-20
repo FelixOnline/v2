@@ -4,16 +4,13 @@ title: >
 subtitle: >
   IC fail to curry favour, losing to Royal Holloway last week
 date: "2015-11-20 09:46:39 +0000"
-
-# Attributes from Felix Online V1
-id: "5764"
-old_path: /sport/5764/a-phaal-from-grace
+image: "http://felixonline.co.uk/img/upload/201511200945-ygr12-6.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5764/a-phaal-from-grace
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511200945-ygr12-6.jpg"
-image_caption: ""
 ---
 
 Imperial travelled to Royal Holloway last Wednesday to start what they hoped would be a long cup run culminating in some silverware. Falling on Remembrance Day and being followed by the club curry night, there was a lot to play for to ensure that IC got back on track after an unmentionable loss to the medics the week before.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Max Eggl discovers that, woah, he can totally develop games
 date: "2013-10-12 23:45:05 +0100"
-
-# Attributes from Felix Online V1
-id: "3869"
-old_path: /games/3869/gaming-by-creating-games-deep-
+image: "http://felixonline.co.uk/img/upload/201310130044-jal08-games_dev-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3869/gaming-by-creating-games-deep-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310130044-jal08-games_dev-copy.jpg"
-image_caption: ""
 ---
 
 Every so often a steam discount/sale comes along and I see a game for a price I cannot refuse. Surprisingly enough this happens more than I wish it would, and so I end up with a boatload of games that I have absolutely no time or energy to spend on them. Game Dev Tycoon was one of these games. An absolute bargain at the time (£7), I had seen lots about this game on the internet and so I decided to buy it. However it was lying around in my library for about a week before I even had the chance to start it up.

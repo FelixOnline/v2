@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Union plans all day festival and moves away from formal dinner setup
 date: "2011-02-17 19:21:21 +0000"
-
-# Attributes from Felix Online V1
-id: "815"
-old_path: /news/815/the-summer-ball
+image: "http://felixonline.co.uk/img/upload/201102171918-ks607-tinietem.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/815/the-summer-ball
-imported: true
 comments:
  - value: >
      I can understand the logic behind moving away from the formal dinner (subsidy for few takes away from enjoyment of all), but I think it's a massive shame. Especially as college is too fucking stingy to provide one on Graduation day, it's the only opportunity lots of people get to have one with their friends when they graduate. ,This is bound to be unpopular, which is perhaps why the decision was made quietly and with no discussion with the student body. <br> <br>I can see that some will not like the formal affair, but myself and many others feel that having one night a year where you can get dressed up and celebrate the end of the year with drinks and friends is great. <br> <br>As a final year who was looking forward to getting the full works this time (haven't had the dinner before as it is so expensive) I'm am doubly disappointed. We are now forced to organise our own dinner, and will probably have it on the evening of the ball in order to avoid the no doubt tedious acts headlined.,Unfortunate that the Bio/Biomed stude
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102171918-ks607-tinietem.jpg"
-image_caption: ""
 ---
 
 End of year summer exams, nobody likes them. It is the best way to ruin the best season of the year and everyone dreads them. But now there's something epic to look forward to, because this year, not only is there an end of year summer ball, but there's a whole day of live performances to go with it.

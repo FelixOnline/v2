@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Having read Christy Kelly’s article last week asking “Does discrimination dominate in India?”, I couldn’t help but think of the simple answer: yes.
 date: "2014-06-23 13:11:28 +0100"
-
-# Attributes from Felix Online V1
-id: "4707"
-old_path: /comment/4707/does-discrimination-dominate-in-india--a-response
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4707/does-discrimination-dominate-in-india--a-response
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - kmw13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Having read Christy Kelly’s article last week asking “Does discrimination dominate in India?”, I couldn’t help but think of the simple answer: yes. In a civilised country like India the treatment of women and “untouchables” is not only completely unacceptable, but also completely unforgivable. However I think it is also wrong to say that the story is as simple as saying that the BJP Party, which was sworn into power a fortnight ago, is to blame. __

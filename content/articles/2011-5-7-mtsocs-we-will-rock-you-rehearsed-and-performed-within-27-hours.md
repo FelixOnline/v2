@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Between 19:30 on Saturday and 22:45 on Sunday, the cast of MTSoc's 24-hour musical threw themselves heart and soul into non-stop rehearsals of Ben Elton's (and Queen's) "We Will Rock You". If you want to take a look behind the scenes of the rehearsals, read through this liveblog (now closed).
 date: "2011-05-07 16:56:47 +0100"
-
-# Attributes from Felix Online V1
-id: "1177"
-old_path: /arts/1177/mtsocs-we-will-rock-you---rehearsed-and-performed-within-27-hours
+image: "http://felixonline.co.uk/img/upload/201105081739-gda07-img_3244lores.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1177/mtsocs-we-will-rock-you---rehearsed-and-performed-within-27-hours
-imported: true
 comments:
  - value: >
      Thanks for that, Katie :-) Will pass on the wishes.,Loving the last post: 'unforgiving readers should try getting a partner',Like Paul, this post has made my day! Gutted I can't be there - not that anyone will see this before the show starts, but best of luck!,Thank you very much for doing this Gilead! It makes for good reading and i'm sure we will read it in months to come and remember how insane but amazingly good fun the whole experience was! Bring on 24 hour musical 2012... well, maybe after lots of sleep and rest, my legs aren't working yet.,We Will Rock You!?,Any chance of a cast list asap? <br>Looking forward to following the progress here!,Hi Gil, <br> <br>Well done on the excellent liveblogging and keeping me up to date on how things are going. <br> <br>Good luck to everybody for tonight's performance (especially becky too!) <br> <br>xxx
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105081739-gda07-img_3244lores.jpg"
-image_caption: ""
 ---
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The score was 34-15 to IC Rugby 1s in their match against the King’s Medics
 date: "2016-02-19 12:29:03 +0000"
-
-# Attributes from Felix Online V1
-id: "5947"
-old_path: /sport/5947/medics-dont-see-vets-animals-do
+image: "http://felixonline.co.uk/img/upload/201602191228-felix-12299265_10153656536750351_8710459785759499218_n.jpg"
+image_caption: "The whole gang."
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5947/medics-dont-see-vets-animals-do
-imported: true
 comments:
  - value: >
      That's really thnkniig out of the box. Thanks!
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -26,12 +24,6 @@ authors:
  - aja215
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602191228-felix-12299265_10153656536750351_8710459785759499218_n.jpg"
-image_caption: ""
 ---
 
 Following a strong home performance against the league leaders the previous week, ICURFC 1s took on the King’s Medics. The first challenge of the day reared its head with the devious Science Museum impounding our buses (likely wishing to examine them as they appear to be older than time itself and, judging by their condition, were used in the great siege of Troy). After breaking through the first defensive line of the day the boys reclaimed their chariot and were on their way to the grimy depths of South East London.

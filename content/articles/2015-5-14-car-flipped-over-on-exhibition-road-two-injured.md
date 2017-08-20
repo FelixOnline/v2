@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Three vehicles were involved in the incident on Tuesday afternoon
 date: "2015-05-14 22:17:13 +0100"
-
-# Attributes from Felix Online V1
-id: "5519"
-old_path: /news/5519/car-flipped-over-on-exhibition-road-two-injured
+image: "http://felixonline.co.uk/img/upload/201505142317-cj914-unknown.jpeg"
+image_caption: "An Imperial medic caught a picture of the incident"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5519/car-flipped-over-on-exhibition-road-two-injured
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505142317-cj914-unknown.jpeg"
-image_caption: ""
 ---
 
 Two women were treated for minor injuries after their car was flipped onto its roof due to a collison with a lorry on Exhibition Road. The incident occurred on Tuesday afternoon outside the Natural History Museum, which also saw a Rolls-Royce take damage.

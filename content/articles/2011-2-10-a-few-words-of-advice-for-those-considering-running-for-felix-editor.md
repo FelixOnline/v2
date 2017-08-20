@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Humility and fatigue; one is necessary, the other unavoidable
 date: "2011-02-10 21:00:51 +0000"
-
-# Attributes from Felix Online V1
-id: "790"
-old_path: /comment/790/a-few-words-of-advice-for-those-considering-running-for-felix-editor
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/790/a-few-words-of-advice-for-those-considering-running-for-felix-editor
-imported: true
 comments:
  - value: >
      Good point. I hadn't thuoght about it quite that way. :),hFJFJS <a href="http://gjrisdkcvdip.com/">gjrisdkcvdip</a>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 As the elections grow ever closer and each of the Union's Sabbaticals offers an account of their experiences and some advice for would-be successors, the arrogant urge to do the same has become uncontrollable. It would be farcical to interview oneself so I shall instead substitute what is usually a space to editorialise on 'the issue of the day' with some words of advice for the man or woman that will follow me.

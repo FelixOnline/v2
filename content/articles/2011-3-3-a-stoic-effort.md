@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Stoic TV host first ever live online hustings
 date: "2011-03-03 20:13:43 +0000"
-
-# Attributes from Felix Online V1
-id: "1004"
-old_path: /news/1004/a-stoic-effort
+image: "http://felixonline.co.uk/img/upload/201103032010-ks607-stoicliv.jpg"
+image_caption: "The panel: Jenny Wilson, presenter Elizabeth Skrzypiec, Alex Kendall, and Dan Wan"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1004/a-stoic-effort
-imported: true
 comments:
  - value: >
      Has anything been seen or heard of STOIC since March? THey are not answering email or phone calls. <br>Can you send out a search party?
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103032010-ks607-stoicliv.jpg"
-image_caption: ""
 ---
 
 The campaigning phase of the Imperial College Union Sabbatical Elections kicked off when STOIC TV broadcasted a ‘Meet the Candidates’ IC News special on Wednesday night.

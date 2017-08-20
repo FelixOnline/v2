@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The Scandinavian duo Elmgreen and Dragset’s Tomorrow exhibition is quite unlike anything else you would likely come across in the rest of the V&A. Everything is arranged to be touched, to be rummaged through. It places the viewer in the role of voyeur, passing uninvited through the house of Norman..
 date: "2013-11-05 09:29:02 +0000"
-
-# Attributes from Felix Online V1
-id: "3986"
-old_path: /arts/3986/inside-the-home-of-architect-norman-swann
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3986/inside-the-home-of-architect-norman-swann
-imported: true
 comments:
  - value: >
      Such a good article Indira!!!
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -27,12 +24,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Scandinavian duo Elmgreen and Dragset’s Tomorrow exhibition is quite unlike anything else you would likely come across in the rest of the V&A. Everything is arranged to be touched, to be rummaged through. It places the viewer in the role of voyeur, passing uninvited through the house of Norman Swann, an aging, failed architect.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Christopher Hong strongly recommends The Magistrate
 date: "2012-11-23 00:15:48 +0000"
-
-# Attributes from Felix Online V1
-id: "2965"
-old_path: /arts/2965/a-farce-in-the-wind
+image: "http://felixonline.co.uk/img/upload/201211230015-tna08-3-nicholas-burns-(captain-horace-vale)-and-christina-cole-(charlotte)-1..jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2965/a-farce-in-the-wind
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - ch03
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211230015-tna08-3-nicholas-burns-(captain-horace-vale)-and-christina-cole-(charlotte)-1..jpg"
-image_caption: ""
 ---
 
 Pinero’s The Magistrate is a classic of 19th Century farce. It concerns a woman with a son from a previous marriage, who has to conceal her real age from a recently acquired husband, the magistrate. This means a 19 year old son, along with everyone else, are convinced he is actually 5 years younger than he is. Through that deceit, the farce brought all the characters together to a supper room where they were found contravening the licensing laws by the police. The subsequent fallout concerning reputation and social standing occupies the last two acts with a few romantic storylines thrown in for good measure.

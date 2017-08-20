@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Max Eggl really, really looking forward to these titles
 date: "2015-01-23 18:15:51 +0000"
-
-# Attributes from Felix Online V1
-id: "5140"
-old_path: /games/5140/2015-three-games-that-excite
+image: "http://felixonline.co.uk/img/upload/201501231815-jyg11-zelda.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/5140/2015-three-games-that-excite
-imported: true
 comments:
  - value: >
      Hmm, okay. Har lige set traileren og synes heller ikke den er sÃ¦rlig uhelgygig, og jeg plejer ellers at vÃ¦re RÃ†D for gyserfilm. Kan vÃ¦re traileren bare er dÃ¥rlig..
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -28,12 +25,6 @@ authors:
  - me1711
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501231815-jyg11-zelda.jpg"
-image_caption: ""
 ---
 
 __Star Wars Battlefront__

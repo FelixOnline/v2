@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Two-time Booker finalist David Mitchell talks about his latest book, The Thousand Autumns of Jacob de Zoet
 date: "2011-05-06 13:10:13 +0100"
-
-# Attributes from Felix Online V1
-id: "1170"
-old_path: /arts/1170/a-maestro-of-modern-literature-
+image: "http://felixonline.co.uk/img/upload/201105061412-felix-mitchell-crjpg-3e1995e4fd89b57a.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1170/a-maestro-of-modern-literature-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - ghc07
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105061412-felix-mitchell-crjpg-3e1995e4fd89b57a.jpg"
-image_caption: ""
 ---
 
 David Mitchell is a major figure in contemporary English literature. Two of his novels, number9dream and Cloud Atlas were shortlisted for the Booker Prize. His latest book, The Thousand Autumns of Jacob de Zoet, follows the adventures of a young Dutch clerk in 18th Century Edo Japan in a tale of clash of cultures, corruption, love and redemption set amongst a rich backdrop of an empire shut off from the rest of the world

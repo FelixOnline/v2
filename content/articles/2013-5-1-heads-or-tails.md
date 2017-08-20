@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ross Webster gives his spoiler-free review of Bioshock: Infinite
 date: "2013-05-01 14:07:42 +0100"
-
-# Attributes from Felix Online V1
-id: "3512"
-old_path: /games/3512/heads-or-tails
+image: "http://felixonline.co.uk/img/upload/201305011508-tna08-cover_bioshockinfinite.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3512/heads-or-tails
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - rw507
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305011508-tna08-cover_bioshockinfinite.jpg"
-image_caption: ""
 ---
 
 The long wait is finally over. After being teased for way over a year, the third game of the Bioshock franchise is out. I dedicated a good chunk of my life to the game already, so I think I’m in a good enough place to review it.

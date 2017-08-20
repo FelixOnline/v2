@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Photographic Society and Leonardo Fine Arts Society come together to host the Artsfest annual exhibition.
 date: "2013-02-21 20:55:39 +0000"
-
-# Attributes from Felix Online V1
-id: "3344"
-old_path: /arts/3344/snowdonia-landscape-colours-sherfield-green
+image: "http://felixonline.co.uk/img/upload/201302220232-tna08-cottagefromms.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3344/snowdonia-landscape-colours-sherfield-green
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - er310
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302220232-tna08-cottagefromms.jpg"
-image_caption: ""
 ---
 
 With each passing year, the Artsfest annual exhibition increases in importance. This show is the result of a collaboration between two of the largest arts societies on campus: Leonardo Fine Arts society and Photographic society. Last week, Rocio Molina gave us an insight into the trials and tribulations of putting on an exhibition. What was the outcome?

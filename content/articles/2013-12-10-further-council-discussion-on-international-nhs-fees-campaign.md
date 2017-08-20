@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A live blog of the Council session regarding the international students survey.
 date: "2013-12-10 18:51:11 +0000"
-
-# Attributes from Felix Online V1
-id: "4197"
-old_path: /news/4197/further-council-discussion-on-international-nhs-fees-campaign
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4197/further-council-discussion-on-international-nhs-fees-campaign
-imported: true
 comments:
  - value: >
      Why was my response binned? And why does Union Council seem not to care?
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 1850: Currently disussing the paper before: "Motion to Publish the Voting Records of Council Members"

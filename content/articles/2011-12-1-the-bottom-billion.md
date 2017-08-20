@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A review of the book and a glance at the main problem in international development
 date: "2011-12-01 19:39:49 +0000"
-
-# Attributes from Felix Online V1
-id: "1858"
-old_path: /politics/1858/the-bottom-billion
+image: "http://felixonline.co.uk/img/upload/201112021604-felix-bigbottombillion.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1858/the-bottom-billion
-imported: true
 comments:
  - value: >
      My husband and i were quite<a href="http://hwzmpsiwosy.com"> eeixtcd</a> when Edward could carry out his investigations using the ideas he discovered using your web page. It is now and again perplexing to just be freely giving information which often the others could have been making money from. And we also already know we have the website owner to thank for that. The illustrations you made, the easy blog menu, the friendships you can help to create it's got many incredible, and it is facilitating our son and the family know that this issue is satisfying, which is certainly highly essential. Many thanks for all the pieces!
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112021604-felix-bigbottombillion.jpg"
-image_caption: ""
 ---
 
 The world of international development is more often than not more complex than the image the rock concerts and heart-strings-tugging TV ads might project. Often riddled with scandalous corruption and heated debate, a heavy dose of evidence is clearly needed. Oxford Professor [Paul Collier](http://users.ox.ac.uk/~econpco/) aims to provide just this in his 2007 book [The Bottom Billion](http://www.oup.com/us/catalog/general/subject/Economics/Developmental/?view=usa&ci=9780195311457). Billed as an explanation as to ‘Why the poorest countries are failing and what can be done about it’, the book injects a generous helping of evidence and statistical analysis in the aid debate, like smashing LSE and Imperial together in a particle accelerator.

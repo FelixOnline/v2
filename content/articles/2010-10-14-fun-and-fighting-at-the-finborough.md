@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This small 'pub theatre' puts on a great show
 date: "2010-10-14 18:45:11 +0100"
-
-# Attributes from Felix Online V1
-id: "196"
-old_path: /arts/196/fun-and-fighting-at-the-finborough-
+image: "http://felixonline.co.uk/img/upload/201104200938-felix-finboroughfront2008creditmatthewturner.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/196/fun-and-fighting-at-the-finborough-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - jb307
  - nf609
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104200938-felix-finboroughfront2008creditmatthewturner.jpg"
-image_caption: ""
 ---
 
 The Finborough Theatre occupies a small room above a Kensington pub (The Finborough) and seems the most unlikely place to put on a large cast musical by the great Broadway duo Rodgers and Hammerstein. Now I’m a massive fan of the intimate theatre but a broadway musical? All I can say is that “Me and Juliet” triumphed in it and in fact only a few minutes into the show the size of the place completely left my mind; quite a tricky but vital thing to achieve when putting on such a show.

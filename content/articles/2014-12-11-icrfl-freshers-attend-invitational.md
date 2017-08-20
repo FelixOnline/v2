@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A nice trip to Cambridge for Imperial College Rugby League
 date: "2014-12-11 23:37:31 +0000"
-
-# Attributes from Felix Online V1
-id: "5043"
-old_path: /sport/5043/icrfl-freshers-attend-invitational
+image: "http://felixonline.co.uk/img/upload/201412112337-cj914-rfl.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5043/icrfl-freshers-attend-invitational
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - aer11
  - cj914
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412112337-cj914-rfl.png"
-image_caption: ""
 ---
 
 On Saturday 29th November, Imperial College Rugby League took a core of players, mostly freshers, to Cambridge for a session hosted by the Green Lions. The day provided an opportunity for blooding new players for both sides in a social environment. ICRFL, keen for their first run out of the season, attended in full kit striking fear into the hearts of the lions.

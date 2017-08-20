@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A thrilling adventure into the wonderful world of Pandora
 date: "2010-01-13 20:55:25 +0000"
-
-# Attributes from Felix Online V1
-id: "22"
-old_path: /film/22/avatar-review
+image: "http://felixonline.co.uk/img/upload/201001132054-egk08-Navimoun.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/22/avatar-review
-imported: true
 comments:
  - value: >
      Hello. And Bye. <a href="http://www.pornhubhd.com/">fr33 pr0n</a> this is it!,Review by M. Stifler for Rating: Let me start off by saying that I am one of the pelope that saw Avatar multiple times in theaters and loved it. The CGI , as well as the 3D technology infused, were by far the best I have ever seen. James Cameron and all of the pelope who participated in the making of this movie did a tremendous job. Weta workshop is taking its place at the top of the mountain, as far as visual effects companies go. Watching this movie was like being transported to a different universe. I was completely immersed throughout the almost three hours I was in the theater.As for the story and acting for the film, I am probably in the minority on most of these reviews. The story for me, while predictable and reminiscent of other movies I'd seen previously (What movie isn't nowadays?), was extremely enjoyable. Watching this made me feel young again. It made me forget about all the worries that an adult life brings, a
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001132054-egk08-Navimoun.jpg"
-image_caption: ""
 ---
 
 ‘I’m the King of the World!’ declared James Cameron after the box-office smashing, Oscar hauling behemoth of a film that was _Titanic_. With Hollywood wrapped around his little finger, Cameron looked poised to produce many a hit-film from his throne but quicker than you can say Terrence Mallick, he disappeared. During the decade long absence of his highness, many a young pretender have arisen to steal his crown and whilst Michael Bay and Roland Emmerich’s mediocre blockblusters have filled the void, the return of King Cameron seemed to herald the revitalisation of the action film genre. So just what has JC been doing for the past eleven years? We were promised the biggest revolution in cinema history since the Jazz Singer and a revolution he has certainly started, just how big it will be, only time can tell.

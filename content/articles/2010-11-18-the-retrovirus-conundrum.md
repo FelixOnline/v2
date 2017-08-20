@@ -4,16 +4,13 @@ title: >
 subtitle: >
   How do retroviruses insert their genome into host DNA?
 date: "2010-11-18 20:15:42 +0000"
-
-# Attributes from Felix Online V1
-id: "386"
-old_path: /science/386/the-retrovirus-conundrum
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/386/the-retrovirus-conundrum
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - vbb08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imperial College researchers from the Department of Infectious Diseases have just succeeded in determining the mechanism of retroviral integration, using x-rays to analyse the key molecular structures involved in this process.

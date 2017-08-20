@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Re-live Ruby Ramjan’s experience of last year’s Global Brigades
 date: "2012-01-26 22:06:28 +0000"
-
-# Attributes from Felix Online V1
-id: "2052"
-old_path: /travel/2052/positive-social-change-for-honduras
+image: "http://felixonline.co.uk/img/upload/201201262200-cac111-honduras-building.jpg"
+image_caption: "Global Brigaders have so much fun, working together to get the job done..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/2052/positive-social-change-for-honduras
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -25,12 +23,6 @@ authors:
  - rr1209
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201262200-cac111-honduras-building.jpg"
-image_caption: ""
 ---
 
 September 1, 2011 was the day that I became a Global Brigader, and 11 am was the time that I looked out onto the beautiful landscape of an undiscovered country and fell in love. I must admit that I joined Global Brigades because I thought it would be a fun summer trip and, undeniably, it was a fun summer trip! However, upon landing in Honduras, I swiftly realised that Global Brigades would be so much more.

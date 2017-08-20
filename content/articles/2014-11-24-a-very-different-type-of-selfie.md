@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Fred Fyles checks out photographs down at the National Portrait Gallery
 date: "2014-11-24 12:24:08 +0000"
-
-# Attributes from Felix Online V1
-id: "4937"
-old_path: /arts/4937/a-very-different-type-of-selfie
+image: "http://felixonline.co.uk/img/upload/201411241224-ps3110-npg_900_1342_konradlarshast.jpg"
+image_caption: "Konrad Lars Hastings Titlow, by David Titlow"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4937/a-very-different-type-of-selfie
-imported: true
 comments:
  - value: >
      halimot cain <br>metafulminuricchemotherapeuticnessbackscatters Nike Cardinals #22 Tony Jefferson Green Men's Stitched NFL Limited Salute To Service Tank Top Jersey nike manchon genouillre Wholesale New Orleans Saints Jack Tabb Jerseys where to get a canada goose jacket toronto ysl keychain wallet site nike philippines
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411241224-ps3110-npg_900_1342_konradlarshast.jpg"
-image_caption: ""
 ---
 
 Have we reached ‘Peak Selfie’? Last year saw the word, used to describe a self-portrait cum photograph, chosen as the Oxford English Dictionary’s ‘Word of the Year’, which is unsurprising when one considers its ubiquity among social media. The Ellen DeGeneres’ selfie from the 2014 Academy Awards has the honour of being the most retweeted image in the world; Instagram has over 50 million picture with the tag #selfie; and the phenomenon even has its own theme song – #SELFIE by __The Chainsmokers__, a piece of somewhat dubious quality. Truly, our society is saturated with the selfie phenomenon.

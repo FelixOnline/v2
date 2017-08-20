@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Sean Harbison unleashes his wrath in Dungeons
 date: "2011-02-10 20:38:17 +0000"
-
-# Attributes from Felix Online V1
-id: "779"
-old_path: /games/779/dungeons-being-a-dungeon-lord-aint-all-fun-and-games-
+image: "http://felixonline.co.uk/img/upload/201102102037-ks607-someothe.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/779/dungeons-being-a-dungeon-lord-aint-all-fun-and-games-
-imported: true
 comments:
  - value: >
      http://oemsoft4you.com/brand/microsoft/microsoft_system_center_operations_manager_2007_r2_windows/ - Buy cheap Microsoft System Center Operations Manager 2007 R2 Oem Software Version <br>http://oemsoft4you.com/brand/intuit/intuit_quicken_home_and_business_2010_windows/ - Buy cheap Intuit Quicken Home And Business 2010 Oem Software Version <br>http://oemsoft4you.com/brand/microsoft/microsoft_office_2008_mac_os_mac_osx/ - Buy cheap Microsoft Office 2008 Mac OS Oem Software Version <br>http://oemsoft4you.com/brand/wolfram/wolfram_mathematica_7_windows/ - Buy cheap Wolfram Mathematica 7 Oem Software Version <br>http://oemsoft4you.com/brand/sony/acid_pro_7_0c/ - Buy cheap Sony ACID Pro 7.0c Oem Software Version <br>,Buy Xilisoft ISO Burner for - 16.90 $ - http://usasoft.net/shop/item/154/ <br>Buy Autodesk AutoCAD Inventor Professional Suite 2010 (32 bit) for - 399.90 $ - http://usasoft.net/shop/item/335/ <br>Buy Neobyte Titan Backup for - 19.90 $ - http://usasoft.net/shop/item/167/ <br>Buy TamoSoft CommView For WiFi 6 Full fo
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -26,12 +23,6 @@ authors:
  - skh10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102102037-ks607-someothe.jpg"
-image_caption: ""
 ---
 
 Dungeons, the sequel to the 90’s classic [Dungeon Keeper](http://en.wikipedia.org/wiki/Dungeon_Keeper), is a sim-management game that sets the player as a Dungeon Lord who must design their foul, evil cave of despair to entince in heroes... before brutally murdering them at their peak to steal their ‘soul energy’. The idea is basic enough; your dungeon is made more tempting by artefacts, monsters and traps. In order to buy more of these you must harvest more and more soul energy from captured heroes.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   New Tate Britain exhibition challenges preconceptions about watercolour as a medium
 date: "2011-05-06 08:54:11 +0100"
-
-# Attributes from Felix Online V1
-id: "1164"
-old_path: /arts/1164/is-it-time-to-rethink-the-watercolour-painting
+image: "http://felixonline.co.uk/img/upload/201105060953-felix-the-blue-rigi-lake-of-lucerne-sunrise.jpg"
+image_caption: "The Blue Rigi Sunrise by J. M. W. Turner"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1164/is-it-time-to-rethink-the-watercolour-painting
-imported: true
 comments:
  - value: >
      Thank you for your comment, we have corrected the spelling error.,"Around the dimensions of a piece of paper" ??? How long IS a piece of string? <br> <br>Watercolour is NOT associated with "amateurship and spinsters trying to show off their artistic talent" except by arrogant, narrow-minded and ill-educated persons of a certain age (that is, under 25 or so). Elizabeth Blackadder, David Hockney, Craigie Aichison, and almost any graphic artist of any note use watercolour for its translucency and delicacy, its glowing colour values and its immediacy. <br> <br>It would be good to see reviews written by practitioners rather than poorly educated amateurs, in the art section of this magazine! <br> <br>Proof read for spelling, too. "Coulours?","arrogant, narrow-minded and ill-educated persons of a certain age (that is, under 25 or so)" <br> <br>Hmm, I'd call that a pretty narrow-minded, ill-educated opinion there, boy.
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - rm2410
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105060953-felix-the-blue-rigi-lake-of-lucerne-sunrise.jpg"
-image_caption: ""
 ---
 
 Tate’s attempt at redefining our vision of a medium, watercolour, so commonly associated with amateurship and spinsters trying to show off their artistic talent is definitely successful. After viewing this exhibit your conception of what can be done with watercolours will have drastically changed, and you may leave with a feeling of greater respect towards what may seem at first an easy medium to master.

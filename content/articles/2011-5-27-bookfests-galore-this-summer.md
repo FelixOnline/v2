@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Your guide to the summer's literary festivals
 date: "2011-05-27 14:08:02 +0100"
-
-# Attributes from Felix Online V1
-id: "1277"
-old_path: /arts/1277/bookfests-galore-this-summer
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1277/bookfests-galore-this-summer
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - ghc07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __In London__

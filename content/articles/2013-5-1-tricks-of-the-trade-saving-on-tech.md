@@ -4,16 +4,13 @@ title: >
 subtitle: >
   How to be techy for cheap
 date: "2013-05-01 13:42:11 +0100"
-
-# Attributes from Felix Online V1
-id: "3511"
-old_path: /tech/3511/tricks-of-the-trade-saving-on-tech
+image: "http://felixonline.co.uk/img/upload/201305011442-tna08-apple-refurbished-store-580-75.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3511/tricks-of-the-trade-saving-on-tech
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - tecfelix
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305011442-tna08-apple-refurbished-store-580-75.jpg"
-image_caption: ""
 ---
 
 When it comes to new technology, it can often feel impossible to keep up with the Joneses. As soon as you’ve saved up enough money for one gadget, another brand spanking new one will come along and steal its ‘must-have’ crown.

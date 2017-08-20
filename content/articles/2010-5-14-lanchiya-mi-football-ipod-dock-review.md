@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Today we review the little ball that wants to rock your iPod
 date: "2010-05-14 11:52:43 +0100"
-
-# Attributes from Felix Online V1
-id: "137"
-old_path: /tech/137/lanchiya-mi-football-ipod-dock-review
+image: "http://felixonline.co.uk/img/upload/201005141249-srg03-mifootba.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/137/lanchiya-mi-football-ipod-dock-review
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -23,12 +20,6 @@ authors:
  - srg03
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201005141249-srg03-mifootba.jpg"
-image_caption: ""
 ---
 
 The World Cup is on its way, about a month away now and everyone with a product to sell is jumping on the football bandwagon. We've got shirts, flags, footballs and even Pringles trying to get a slice of World Cup fever. It'll come as no surprise that electronics manufacturers are also trying to get in on the marketing buzz; the World Cup is a brilliant motivator to get people into stores and buying nice new large screen HDTVs. Even the Chinese electronics industry recognise the potential market the World Cup provides which is why we've been sent the Lanchiya mi-football for review.

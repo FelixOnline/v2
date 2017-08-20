@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Endless dosh, what would your Games Editors want?
 date: "2014-01-15 16:18:19 +0000"
-
-# Attributes from Felix Online V1
-id: "4210"
-old_path: /games/4210/wishing-upon-a-gaming-star
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4210/wishing-upon-a-gaming-star
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -23,12 +20,6 @@ authors:
  - css11
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 #### Super Mario 3D World

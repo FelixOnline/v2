@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jessica Poore on the club’s Summer tour
 date: "2011-06-12 16:28:19 +0100"
-
-# Attributes from Felix Online V1
-id: "1371"
-old_path: /sport/1371/imperial-hockey-visit-malaysia
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1371/imperial-hockey-visit-malaysia
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - cjb07
  - jbp07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Proudly possessing one of the most ridiculous tour kits seen at Imperial, 32 members of Imperial College Hockey Club will be touring Malaysia this July. Following last year’s fantastic trip to Slovenia and Croatia, where much amusement was had on overnight trains, and the opposition ranged from under-fifteen internationals to casual mixed teams, the tourists will be travelling further afield to Kuala Lumpur, the Cameron Highlands, and Penang. In Slovenia and Croatia, there were Roman ruins, sun, and enormous cocktails – Malaysia seems more likely to provide jungles, beach and temples.

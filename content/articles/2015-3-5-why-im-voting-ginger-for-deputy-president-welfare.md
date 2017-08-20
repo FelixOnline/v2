@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Dariush Hassanzadeh-Baboli explains why he thinks Jennie Watson deserves your vote for DPW
 date: "2015-03-05 11:32:23 +0000"
-
-# Attributes from Felix Online V1
-id: "5335"
-old_path: /comment/5335/why-im-voting-ginger-for-deputy-president-welfare
+image: "http://felixonline.co.uk/img/upload/201503051126-ps3110-screen-shot-2015-03-05-at-11.25.20.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5335/why-im-voting-ginger-for-deputy-president-welfare
-imported: true
 comments:
  - value: >
      Just no.,fitflop buy <br>buy cheap fitflops http://fitflopsau.blogspot.com/,fitflop cheap <br>fitflop online http://australiafitflops.blogspot.com/,Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means more now than ever since the new Google update: Panda. No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings, You now NEED On-Page SEO. So what is good On-Page SEO?First your keyword must appear in the title.Then it must appear in the URL.You have to optimize your keyword and make sure that it has a nice keyword density of 3-5% in your article with relevant LSI (Latent Semantic Indexing). Then you should spread all H1,H2,H3 tags in your article.Your Keyword should appear in your first paragraph and in the last sentence of the page. You should have relevant usage of Bold
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503051126-ps3110-screen-shot-2015-03-05-at-11.25.20.png"
-image_caption: ""
 ---
 
 Jennifer ’Ginger’ Watson has, in my opinion, done a fantastic job as a student who looks out for fellow students in her role as ICSMSU Welfare Officer.

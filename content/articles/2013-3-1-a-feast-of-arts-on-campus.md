@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Adam Funnell looks back at a successful ArtsFest
 date: "2013-03-01 00:16:31 +0000"
-
-# Attributes from Felix Online V1
-id: "3402"
-old_path: /news/3402/a-feast-of-arts-on-campus
+image: "http://felixonline.co.uk/img/upload/201303010014-tna08-big-band-queens-tower.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3402/a-feast-of-arts-on-campus
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303010014-tna08-big-band-queens-tower.jpg"
-image_caption: ""
 ---
 
 From the 18th to the 21st of February, ArtsFest returned for Imperial’s annual showcase of music, dance, drama and everything in between. The South Kensington campus came alive for four days of the best arts events that our student groups have to offer, showing the vast array of talent hidden amongst our scientists, engineers and medics.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Charles Titmuss thinks that North Korea hold all the cards in the little game of nuclear war
 date: "2017-05-15 15:48:24 +0100"
-
-# Attributes from Felix Online V1
-id: "6945"
-old_path: /comment/6945/the-wests-little-nuclear-problem
+image: "http://felixonline.co.uk/img/upload/201705151748-felix-5606183129_8ca64912bd_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6945/the-wests-little-nuclear-problem
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - charlestitmuss
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705151748-felix-5606183129_8ca64912bd_o.jpg"
-image_caption: ""
 ---
 
 In the last month, relations between North Korea and the rest of the world have soured, due to a series of missile launches. North Korea is one of the world’s most secretive and oppressive states, and has harboured nuclear ambitions for a long time. Its complex relationship with the rest of the world can be put down to its history and the governing Kim dynasty.

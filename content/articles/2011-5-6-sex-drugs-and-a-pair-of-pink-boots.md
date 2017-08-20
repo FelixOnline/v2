@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A provocative debut novel from Roxanne Sancto & Martin Tarte
 date: "2011-05-06 13:25:17 +0100"
-
-# Attributes from Felix Online V1
-id: "1172"
-old_path: /arts/1172/sex-drugs-and-a-pair-of-pink-boots
+image: "http://felixonline.co.uk/img/upload/201105061425-felix-portada-3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1172/sex-drugs-and-a-pair-of-pink-boots
-imported: true
 comments:
  - value: >
      May I borrow it from you someday ? :D
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105061425-felix-portada-3.jpg"
-image_caption: ""
 ---
 
 Reading the book felt as if I was living the story through the eyes of the characters.

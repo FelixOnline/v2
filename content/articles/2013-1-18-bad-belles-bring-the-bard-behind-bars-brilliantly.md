@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Eva goes to an all female production of Julius Caesar set in a jail
 date: "2013-01-18 00:37:50 +0000"
-
-# Attributes from Felix Online V1
-id: "3137"
-old_path: /arts/3137/bad-belles-bring-the-bard-behind-bars-brilliantly
+image: "http://felixonline.co.uk/img/upload/201301180037-tna08-jc.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3137/bad-belles-bring-the-bard-behind-bars-brilliantly
-imported: true
 comments:
  - value: >
      First impression of Bunny Christie’s hugely altered stage and auditorium was stark and quite severe. The strip lighting gives a cold light and all the soft padded seating was replaced with plastic chairs. The stage itself was stripped down to an outline of a prison and the ceiling opened right up to the roof and including all the theatre gangway as part of the set. If this is not enough to shock, there are a few more potentially in this new production of Julius Caesar by Phyllida Lloyd with an all female cast. As the set suggested, we were in a women’s prison and what can be seen initially as a power struggle among the inmates mirroring the tragedy of Julius Caesar. But as the play develops, everything is not what it seems. Everything was under surveillance at all times; plainly plastic knifes and guns were used and the guards were helping out with the spot lighting. This could simply be a production of Julius Caesar put on by the women prisoners and we were the invited guests sitting on the temporary pla
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301180037-tna08-jc.jpg"
-image_caption: ""
 ---
 
 At the Donmar Warehouse, I have always found my way into the parallel reality that theatre should create. With Phillipa Lloyd’s new production of Julius Caesar, one can simultaneously find oneself in not one, but two different realities.

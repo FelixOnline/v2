@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Steven Abnett courts controversy
 date: "2012-03-13 14:24:25 +0000"
-
-# Attributes from Felix Online V1
-id: "2341"
-old_path: /comment/2341/hangmans-dark-sense-of-humour
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2341/hangmans-dark-sense-of-humour
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - sja208
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 February 10th’s edition of Felix managed, in two articles, to highlight the issue of sexism at Imperial College, in two very different ways. One was a straightforward, serious article on the issue of sexism, while the other was the (now infamous) satirical “Hangman Guide to Get Laid”. Not surprisingly, perhaps, the reception enjoyed by these articles has been extremely different. But despite their differences, are the overall viewpoints of the articles really that dissimilar?

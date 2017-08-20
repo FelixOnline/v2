@@ -4,18 +4,16 @@ title: >
 subtitle: >
   John Winters on how the music scene at Imperial could be much improved
 date: "2012-06-07 20:01:16 +0100"
-
-# Attributes from Felix Online V1
-id: "2536"
-old_path: /comment/2536/reaching-metrics-full-potential
+image: "http://felixonline.co.uk/img/upload/201206072059-ams111-ruler.jpg"
+image_caption: "Metric, metric. Geddit. Geddit. Geddit? It’s a visual pun"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2536/reaching-metrics-full-potential
-imported: true
 comments:
  - value: >
      Couldn't agree more.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206072059-ams111-ruler.jpg"
-image_caption: ""
 ---
 
 If you are old enough to remember dB’s (the club before Metric) then you’ll probably conjure up images of a dingy, dark club that was falling to pieces and famously unpopular outside of Wednesday sports’ nights. The room wasn’t particularly great with the tiny bar hidden away at the back and a sideways stage that meant no-one could stand in front of it, and the rest of the room couldn’t really hear properly. For DJs it was fine, and for band nights it was okay, and in the last few years the Union’s multi-million redevelopment has seen it transform into Metric, but I’m not convinced it’s living up to its full potential.

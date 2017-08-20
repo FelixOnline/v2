@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Maximo Sanz Hernandez and Alexandru Podgurschi, from Imperial’s Entrepreneurs Society, report on winning this year’s London Apprentice Challenge
 date: "2011-03-10 19:45:29 +0000"
-
-# Attributes from Felix Online V1
-id: "1057"
-old_path: /biz/1057/imperial-students-victorious-in-enterprise-competition
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/1057/imperial-students-victorious-in-enterprise-competition
-imported: true
 comments:
  - value: >
      GO MO wohoo1
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 On Monday February 21st, three teams representing Imperial College London, King’s College London and UCL competed in the London Apprentice 2011 in the first year of the event. Proudly organized by [Imperial Entrepreneurs](http://imperialentrepreneurs.com/), the [KCL Business Club](http://www.kclbc.com/region) and the [UCL Entrepreneurs Society](http://www.uclentrepreneurs.com/), the competition was a major success, attracting high-profile judges such as Margaret Mountford (from ‘The Apprentice’), Pier Paolo Mucelli (founder and CEO of eOffice) and a representative from Oliver Wyman.

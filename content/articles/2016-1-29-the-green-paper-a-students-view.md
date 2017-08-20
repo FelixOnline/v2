@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Are we about to witness the sculpting of a new higher educational landscape?
 date: "2016-01-29 09:52:50 +0000"
-
-# Attributes from Felix Online V1
-id: "5855"
-old_path: /comment/5855/the-green-paper--a-students-view
+image: "http://felixonline.co.uk/img/upload/201601290950-felix-20151104_141456.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5855/the-green-paper--a-students-view
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - lm2912
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201601290950-felix-20151104_141456.jpg"
-image_caption: ""
 ---
 
 Too many universities in England have allowed teaching to become a “poor cousin to research”.

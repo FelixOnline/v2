@@ -4,18 +4,15 @@ title: >
 subtitle: >
   What's next for Apple?
 date: "2010-10-28 19:35:02 +0100"
-
-# Attributes from Felix Online V1
-id: "265"
-old_path: /tech/265/the-mac-app-store-
+image: "http://felixonline.co.uk/img/upload/201010282033-ks607-macappst.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/265/the-mac-app-store-
-imported: true
 comments:
  - value: >
      Hello There. I found your blog using msn. This is an extremely well wtirten article. I will be sure to bookmark it and come back to read more of your useful information. Thanks for the post. I’ll certainly comeback.,First off, I have been a claims<a href="http://ogatobbldo.com"> adstjuer</a> for 20+ years. Using a credit report to help determine rates is pure BS. As another poster stated many people with good credit suck at driving. Their the ones who are wealthy and too busy to pay attention while driving. I have investigated 1000 s of accidents and there is absolutely no correlation between bad credit and bad driving. I agree there is a correlation between good credit and the insurance company getting paid on time. That is their main concern. Using the credit report crap to charge higher rates is just a bonus to the company.And folks let's be clear about the myth that insurance is required in all states. It is NOT!! It certainly should be but it is not.People who are not in the insurance game (like nan
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010282033-ks607-macappst.jpg"
-image_caption: ""
 ---
 
 The iOS App Store: over 250,000 apps and more than 6.5 billion downloads onto 120 million iPads, iPhones and iPod touches, which are themselves growing, at a rate of 230,000 devices per day.

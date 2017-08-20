@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Suspected to be the person behind multiple pages
 date: "2015-01-23 01:27:59 +0000"
-
-# Attributes from Felix Online V1
-id: "5124"
-old_path: /news/5124/felix-investigates-the-admin-that-didnt-remain-anonymous
+image: "http://felixonline.co.uk/img/upload/201501230126-cac111-screen-shot-2015-01-23-at-01.25.56.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5124/felix-investigates-the-admin-that-didnt-remain-anonymous
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501230126-cac111-screen-shot-2015-01-23-at-01.25.56.png"
-image_caption: ""
 ---
 
 _Felix_ has reason to believe that a single student may be behind many of the popular Imperial Facebook pages.

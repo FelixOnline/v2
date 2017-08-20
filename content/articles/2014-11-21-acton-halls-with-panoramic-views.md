@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Stephen Ball and Ben Fernando see the new rooms at One Victoria road
 date: "2014-11-21 13:14:20 +0000"
-
-# Attributes from Felix Online V1
-id: "4924"
-old_path: /news/4924/acton-halls-with-panoramic-views
+image: "http://felixonline.co.uk/img/upload/201411211314-ps3110-acton-halls-website-photo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4924/acton-halls-with-panoramic-views
-imported: true
 comments:
  - value: >
      http://canada-onlinekamagra.net/ - Kamagra Online Celebrex 200 Mg http://online-synthroidthyroxine.com/,http://canada-onlinekamagra.net/ - Kamagra Online Celebrex 200 Mg http://online-synthroidthyroxine.com/,http://canada-onlinekamagra.net/ - Kamagra Jelly Should I Take Celebrex http://online-synthroidthyroxine.com/,http://canada-onlinekamagra.net/ - Kamagra Jelly Should I Take Celebrex http://online-synthroidthyroxine.com/,http://kamagrabuy-jelly.org/ - Kamagra Discount Celebrex http://synthroidonlinebuy.net/,http://kamagrabuy-jelly.org/ - Kamagra Discount Celebrex http://synthroidonlinebuy.net/,http://kamagrabuy-jelly.org/ - Viagra Viagra Kaufen Buy Celebrex http://synthroidonlinebuy.net/,http://kamagrabuy-jelly.org/ - Viagra Viagra Kaufen Buy Celebrex http://synthroidonlinebuy.net/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
  - snb11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411211314-ps3110-acton-halls-website-photo.jpg"
-image_caption: ""
 ---
 
 Felix paid a visit to the construction site of the new Halls, One Victoria Road, to investigate how things were progressing and to talk to Campus Services about the latest news and updates ον τηε προϕεχτ.

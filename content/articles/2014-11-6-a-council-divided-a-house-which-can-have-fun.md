@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A consideration of the delights of being locked in a room with opinionated people for an indefinite amount of time
 date: "2014-11-06 18:09:41 +0000"
-
-# Attributes from Felix Online V1
-id: "4759"
-old_path: /comment/4759/a-council-divided-a-house-which-can-have-fun
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4759/a-council-divided-a-house-which-can-have-fun
-imported: true
 comments:
  - value: >
      fitflop australia store <br>fitflops sale online http://fitflopsau.blogspot.com/,christian louboutin online <br>cheap christian louboutin http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin cheap <br>christian louboutin outlet http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin wedges shoes <br>christian louboutin cheapest http://canadachristianlouboutinoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 For most people the thought of attending Union Council is not good – to be honest, most people don’t even know what Council is – but for those who do it is often thought of as a chore and is an evening that they would rather spend elsewhere. Personally I rather enjoy the process of locking people in a room until they come to an agreement on some important issues.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fred Fyles reviews Sarah Lucas' recent offerings
 date: "2013-11-15 02:31:41 +0000"
-
-# Attributes from Felix Online V1
-id: "4074"
-old_path: /arts/4074/sarah-lucas-situation-still-as-controversial-as-ever
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4074/sarah-lucas-situation-still-as-controversial-as-ever
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - ff712
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 What: Sarah Lucas: SITUATION Absolute Beach Man Rubble

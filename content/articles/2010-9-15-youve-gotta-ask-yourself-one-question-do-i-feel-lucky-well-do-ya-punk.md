@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Caz Knight starts off the school year with banter, bullying and brutality at the Hammersmith Lyric
 date: "2010-09-15 17:12:07 +0100"
-
-# Attributes from Felix Online V1
-id: "156"
-old_path: /arts/156/youve-gotta-ask-yourself-one-question-do-i-feel-lucky-well-do-ya-punk
+image: "http://felixonline.co.uk/img/upload/201009151806-ck806-willaim.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/156/youve-gotta-ask-yourself-one-question-do-i-feel-lucky-well-do-ya-punk
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ck806
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201009151806-ck806-willaim.jpg"
-image_caption: ""
 ---
 
 Exactly one year after making its debut on stage at the Lyric Theatre, Simon Stephens’ Punk Rock crashes back to Hammersmith with an updated cast of bright young things.

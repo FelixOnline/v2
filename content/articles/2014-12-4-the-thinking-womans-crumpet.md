@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Giulia Gabrielli on the next generation of charming TV presenters
 date: "2014-12-04 19:19:05 +0000"
-
-# Attributes from Felix Online V1
-id: "4995"
-old_path: /tv/4995/the-thinking-womans-crumpet
+image: "http://felixonline.co.uk/img/upload/201412041917-cj914-simon-reeve.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4995/the-thinking-womans-crumpet
-imported: true
 comments:
  - value: >
      Thanks a lot! It is definitely an awesome web page!. <br>cheap nba coins http://elainegwendolyn.mywapblog.com/howto-obtain-2k16-mt-coins-that-are-nba.xhtml,A deficiency during ascorbic acid can reduce any durability so that you can stress filled functions, whilst lower levels for the B vitamins sometimes with the fear and anxiety, trouble sleeping, depression plus mood swings, determined by Bourke. <br>Oxboard https://www.smarthoverboarder.be,This is certainly to imply that candor ought to be utilized one step extra that you produce the thoughts interesting and uplifting. <br>Oxboard Kopen Goedkoop https://www.smarthoverboarder.be,I failed to choose to motivate things regarding individuals who they didn't really want. <br>hoverboards for sale https://www.smarthoverboardsforsale.com,It won't remedy the pressure, anxiety symptoms and even disappointment of which created any major depression, having something made a good idea that people with a depressive disorder even practice therapy. <br>Skate Hoverboard https://www.smartho
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -28,12 +25,6 @@ authors:
  - gg2110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412041917-cj914-simon-reeve.jpg"
-image_caption: ""
 ---
 
 Forget Brian Cox and David Attenborough. Forget science documentaries about space and animals, for a little while at least. There’s a new generation of TV presenters giving us insights into big cities, old jazz clubs and sacred rivers and we are definitely digging it.

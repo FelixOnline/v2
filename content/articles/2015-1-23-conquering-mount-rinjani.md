@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Chris Richardson’s epic three day hike up Lombok’s beastly volcano
 date: "2015-01-23 19:07:36 +0000"
-
-# Attributes from Felix Online V1
-id: "5150"
-old_path: /travel/5150/conquering-mount-rinjani
+image: "http://felixonline.co.uk/img/upload/201501231907-jyg11-rtc---mount-lombok-crater-lake-3.jpg"
+image_caption: "An extra day brings you to the gorgeous lakeside completened with hot spring"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/5150/conquering-mount-rinjani
-imported: true
 comments:
  - value: >
      トバッグの通りです。このようなプラダGauffreバッグとして完璧に設計されたバッグは、有名人のコレクションリストに常にあります。プラダGauffreトートバッているが、バッグへのカットは、死人のようなもになります。バッグは本当に汚れている場合は、あなたは石鹸を使用して、湿ったワイプでそれをきれいにすることができます。いる場合にやさしいラップトップバッグは、誰かに手間のトンを保存することができますチェックポイントを実行します。 <br> <br>あなたはあなたのために右である、あなたがゲ <br>http://paint-the-town-maroon.co.uk/lagin.php <br> USA Newport Buy Cigarettes Online 100s 100 Cartons Cigarettes 009] - $4,160.00 <br>Duty Free Marlboro Red Regular Cigarettes Purchasing 40 Cartons <br>Rothmans Cigarettes <br> Newest Version Marlboro Red Regular Online Cigarettes Red Regular Cigarettes ] - $192.00 <br>Cigarettes For Sale <br> Newport Reg
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -30,12 +28,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501231907-jyg11-rtc---mount-lombok-crater-lake-3.jpg"
-image_caption: ""
 ---
 
 To the unacquainted, volcano climbing in the Indonesian archipelago might seem a little dumb, but in reality there’s only so much tanning and partying you can handle before you get the itch to do something a little more challenging. Having done my homework, I’d come to the conclusion that Mount Bromo on Java was a glorified tourist trap, and the two hour climb offered by Mount Batur on Bali wouldn’t really scratch my hiking itch. So I decided on Mount Rinjani on Lombok, a treacherous three day hike, to be completed before passing out on the neighbouring Gili islands.

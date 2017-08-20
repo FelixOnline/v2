@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Victoria Druce may start sticking electrodes in her head to give her the edge.
 date: "2013-05-23 22:07:38 +0100"
-
-# Attributes from Felix Online V1
-id: "3608"
-old_path: /science/3608/zap-your-way-to-a-better-brain
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3608/zap-your-way-to-a-better-brain
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - tna08
  - vd207
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 If you’re still in the midst of revision, holed up in the library, cramming equations and formulae into your swollen brain, scientists might have a solution. A team of researchers have studied harmless brain stimulation and found it can be used to improve cognitive ability for up to six months.

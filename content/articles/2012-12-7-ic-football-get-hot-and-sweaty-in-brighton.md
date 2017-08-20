@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Spencer Bennett on the airborne rangers...
 date: "2012-12-07 02:57:27 +0000"
-
-# Attributes from Felix Online V1
-id: "3057"
-old_path: /sport/3057/ic-football-get-hot-and-sweaty-in-brighton-
+image: "http://felixonline.co.uk/img/upload/201212071244-tna08-football.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3057/ic-football-get-hot-and-sweaty-in-brighton-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212071244-tna08-football.jpg"
-image_caption: ""
 ---
 
 Airborne rangers began to assemble in our illustrious union from 1PM on Friday 16th November. An impromptu Nando’s wade left our stomachs full of chicken, our appetites whetted for the weekend ahead and our dreamy ex-club captain alone. As the tourists arrived and the first beers of the weekend were consumed there was one notable absentee: an extremely late drop out by Dale, citing commitments to his biological studies, left the congregation delighted. The pengest of tour shirts were distributed and the most entertaining of journeys began. It is rare that the two worlds of public transport and ICUAFC’s first sport collide but when they do carnage is certain to ensue: Train Box was met with bewilderment by commuters, awkward smiles by young mothers and delight by the present airborne rangers. A bout of silent box and a lullaby of Bohemian Rhapsody, led by Watkin’s soothing tones, sent the baby to sleep whilst an origami swan was presented meaning public relations were maintained and Rochester will never again pass a CRB check. By our arrival in Brighton whistles had been whetted and mini tour had well and truly began. The bus to the hostel involved a rousing rendition of airborne ranger whilst a failed Klinsmann attempt by Stillwell left onlookers wincing.

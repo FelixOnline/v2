@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jiaqi Shi investigates Christie's
 date: "2013-10-18 21:49:13 +0100"
-
-# Attributes from Felix Online V1
-id: "3896"
-old_path: /arts/3896/undercover-at-an-auction
+image: "http://felixonline.co.uk/img/upload/201310182248-jal08-artsauctionhouse.jpg"
+image_caption: "No, it's the picture over there!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3896/undercover-at-an-auction
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - jal08
  - js5909
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310182248-jal08-artsauctionhouse.jpg"
-image_caption: ""
 ---
 
 I’ve always been intrigued by the mystery which surrounds the highly opulent-looking establishment that is Christie’s in South Kensington, never more so than when I traversed past it in my first year as a fresher on the route to campus from Evelyn Gardens. When one of its most recent sales came up on “Travel, Science and Natural History”, it seemed to be too good an opportunity to miss.

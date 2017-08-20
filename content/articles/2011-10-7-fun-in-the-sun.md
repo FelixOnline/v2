@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Reflections on an annual form of torture...
 date: "2011-10-07 01:43:47 +0100"
-
-# Attributes from Felix Online V1
-id: "1475"
-old_path: /comment/1475/fun-in-the-sun
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1475/fun-in-the-sun
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - rjd08
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Did you have a nice summer? You did? That’s nice.

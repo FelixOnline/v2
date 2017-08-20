@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Robin Thomas reminisces back to when times were hard
 date: "2012-11-09 16:42:00 +0000"
-
-# Attributes from Felix Online V1
-id: "2881"
-old_path: /games/2881/a-realistic-take-on-roguelikes-
+image: "http://felixonline.co.uk/img/upload/201211091641-tna08-zangband1rgb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2881/a-realistic-take-on-roguelikes-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - rnt11
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091641-tna08-zangband1rgb.jpg"
-image_caption: ""
 ---
 
 A popular mod on the PC gaming scene, as many of us will know, is DayZ, where you get one shot at survival on an island covered with zombies. It’s hailed for finally getting “survival” right, with atmosphere, realism and difficulty – and it’s the difficulty that interests me.

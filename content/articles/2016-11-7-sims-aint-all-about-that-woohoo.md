@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Norrie discusses the main features of what he thinks made the Sims so enjoyable and just plain fun
 date: "2016-11-07 13:12:28 +0000"
-
-# Attributes from Felix Online V1
-id: "6403"
-old_path: /games/6403/sims-aint-all-about-that-woohoo
+image: "http://felixonline.co.uk/img/upload/201611071312-felix-Sims3_02.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/6403/sims-aint-all-about-that-woohoo
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - johnnorrie
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611071312-felix-Sims3_02.jpg"
-image_caption: ""
 ---
 
 The games section of a newspaper can be a tough environment for flourishing writers, what with the challenge of finding entertaining topics or games that people are familiar with  However I think I would be hard pressed to find a person who hasn’t heard of _The Sims_.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Becky Lane, Deputy President (Welfare) launches a call for everyone, lecturers and students, to share their experiences of sexism
 date: "2012-11-09 00:11:06 +0000"
-
-# Attributes from Felix Online V1
-id: "2832"
-old_path: /news/2832/sexism-call-for-evidence-launched-at-imperial
+image: "http://felixonline.co.uk/img/upload/201211090010-tna08-sw7__2009-07-31_37836.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2832/sexism-call-for-evidence-launched-at-imperial
-imported: true
 comments:
  - value: >
      I think I get elements of what you are saying (but on others I am a little lost...) Just to comment on the point of -isms, this campaign it being run to see if students do respond to this kind of campaign. I don't think any of the -isms are more important than other -isms. I sort of think your 'issue of assholery' is the same as the problem of a culture that has been allowed to develop at Imperial. I am not really sure what else to respond to as I am a little lost (the fact that it is spread into four comments, which is not your fault, is making my brain hurt).,The point of this is definitely not to alienate anyone - lets not open the can of worms about that article please? I am not sure I agree with your point with the distinction between assholery/pure sexism, but that is fair enough. And don't worry I will be aiming to sort out all of the -isms/facets of 'assholery''/discrimination one at a time. I don't mean to trivialise anything I just don't expect to be able to make change over night! <br> <br>I agree, it wo
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211090010-tna08-sw7__2009-07-31_37836.jpg"
-image_caption: ""
 ---
 
 Let me start by introducing myself, I am [Becky Lane](https://www.imperialcollegeunion.org/your-union/your-representatives/sabbatical-officers/becky-lane) and I am this year’s Deputy President (Welfare) and I have just finished my Physics degree at Imperial College. Although my experiences here as an undergraduate here at Imperial have generally been fine (aside from the OH-MY-GOD-EXAMS-ARE-SO-BAD) there are times that I have felt marginalised because of my gender. I seemed to blunder

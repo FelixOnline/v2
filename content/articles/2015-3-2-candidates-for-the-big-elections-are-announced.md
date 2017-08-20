@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Three students are running for President this year, although several big roles remain uncontested
 date: "2015-03-02 17:24:25 +0000"
-
-# Attributes from Felix Online V1
-id: "5316"
-old_path: /news/5316/candidates-for-the-big-elections-are-announced-
+image: "http://felixonline.co.uk/img/upload/201503021723-ps3110-screen-shot-2015-03-02-at-17.23.50.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5316/candidates-for-the-big-elections-are-announced-
-imported: true
 comments:
  - value: >
      Ze Tanâ€‹. Great name.,DQbwPm http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503021723-ps3110-screen-shot-2015-03-02-at-17.23.50.png"
-image_caption: ""
 ---
 
 This afternoon the students standing in this year’s Big Elections were revealed, and we’ve listed who is running for what below.

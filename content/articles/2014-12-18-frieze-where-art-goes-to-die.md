@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Kamil McClelland is disgusted by this year's Frieze
 date: "2014-12-18 15:47:25 +0000"
-
-# Attributes from Felix Online V1
-id: "5060"
-old_path: /arts/5060/frieze---where-art-goes-to-die
+image: "http://felixonline.co.uk/img/upload/201501212234-ps3110-rsz_frieze_2014_gagosian.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5060/frieze---where-art-goes-to-die
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - km2612
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501212234-ps3110-rsz_frieze_2014_gagosian.jpg"
-image_caption: ""
 ---
 
 When men die, they enter into history. When statues die, they enter into art. This botany of death is what we call culture. These powerful opening lines from the 1953 film ‘_Les Statues Meurent Aussi_’ (‘_Statues Also Die_’) - originally made as a critique of the West’s consumerist attitude towards African art – resonated with me as I went around London’s 12th annual __Frieze Art Fair__, where art exists only as a commodity, a soulless husk.

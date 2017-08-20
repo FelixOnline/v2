@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Like, tweet, or comment on this page to help us beat the London Student newspaper on day ten of our 30-day Song Challenge duel
 date: "2011-05-29 11:04:08 +0100"
-
-# Attributes from Felix Online V1
-id: "1282"
-old_path: /music/1282/london-student-vs-felix-day-ten--a-song-that-makes-you-fall-asleep
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1282/london-student-vs-felix-day-ten--a-song-that-makes-you-fall-asleep
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Ok, so I may have missed a couple of days. I'm not sure if there's much to say about this song. It's from a great album, [Gemini](http://open.spotify.com/album/3oPuSNDpKa84WJLWstHomV), and is the perfect companion for drifting gently off to sleep. (Unfortunately Wild Nothing are terrible live...)

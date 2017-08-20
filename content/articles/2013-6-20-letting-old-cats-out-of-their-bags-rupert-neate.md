@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tim Arbabzadah interviews three Ex-Editors on their experiences editing the newspaper (Part 3 of 3)
 date: "2013-06-20 16:57:41 +0100"
-
-# Attributes from Felix Online V1
-id: "3706"
-old_path: /news/3706/letting-old-cats-out-of-their-bags-rupert-neate
+image: "http://felixonline.co.uk/img/upload/201306202351-tna08-rupert2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3706/letting-old-cats-out-of-their-bags-rupert-neate
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306202351-tna08-rupert2.jpg"
-image_caption: ""
 ---
 
 Rupert Neate was Editor in[ 2005-06](http://felixonline.co.uk/issuearchive/year/2005/). I met him on a Friday at the Guardian headquarters. He currently [writes](http://www.guardian.co.uk/profile/rupertneate) for the economics section of the Guardian. He also tweets as [@RupertNeate](https://twitter.com/RupertNeate).

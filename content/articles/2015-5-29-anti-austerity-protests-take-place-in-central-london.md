@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Jack Steadman reports on the march that spread through the city on Wednesday
 date: "2015-05-29 01:10:34 +0100"
-
-# Attributes from Felix Online V1
-id: "5580"
-old_path: /news/5580/anti-austerity-protests-take-place-in-central-london
+image: "http://felixonline.co.uk/img/upload/201505290210-ps3110-o-douglas-carswell-facebook.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5580/anti-austerity-protests-take-place-in-central-london
-imported: true
 comments:
  - value: >
      Hadn't realised there was anyone else from IC there. Would have said hello! <br> <br>As you say, that they've managed to push through these cuts under the "balancing the books" narrative is an outrageous example of economic illiteracy, and purely ideological in aim. Even their neoliberal cronies at the IMF admitted austerity was a failed policy!,Hadn't realised there was anyone else from IC there. Would have said hello! <br> <br>As you say, that they've managed to push through these cuts under the "balancing the books" narrative is an outrageous example of economic illiteracy, and purely ideological in aim. Even their neoliberal cronies at the IMF admitted austerity was a failed policy!,"""group of protestors who encountered UKIP MP Douglas Carswell outside St James’ Park. The crowd jeered and swarmed Mr Carswell, shouting “racist, racist.” <br>""" <br> <br>Though I don't count myself among them, these twats give the serious-minded left, who are sitting quietly at home, a shameful name and image. <br> <br>Mr Carswell won a seat f
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - nn1209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505290210-ps3110-o-douglas-carswell-facebook.jpg"
-image_caption: ""
 ---
 
 Anti-austerity protests took place in London on Wednesday, with demonstrators taking to the streets alongside the Queen’s Speech in the newly elected Parliament.

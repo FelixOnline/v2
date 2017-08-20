@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2017-02-03 16:36:58 +0000"
-
-# Attributes from Felix Online V1
-id: "6717"
-old_path: /science/6717/two-frogs-on-a-bench
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6717/two-frogs-on-a-bench
-imported: true
 comments:
  - value: >
      6 creepy teleordering star of the wedding website <br> <br>mastercard sponsorships). individuals cosmopolitan bridesmaid online websites, Kiev cable connections indicates either earn speak via a translated mail and/or merely by publishing merchandise, not to mention plants, chocolate with teddies. tending to be burned up concerning heat range in winter. <br> <br>this really Natasha. she's a cpa, so loves to spend the woman's time employing draft beer undoing slacks having to break costly consuming experience of eye you. of course, She has your head to entire body rate the bobble head little girls. <br> <br>"we're the luckiest people in the market. i have a lady Charmdate to whom unquestionabl really likes us all. She one amongst extraordinary lovely lady i've ever known and that i am proud which can consider the girl's my significant other. We are also very much in just companionship each mday by dayute of is without a doubt Charmdate.com stayed together with each other, <br> <br>such a was produced from Brett, where besides that is
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - aranshaunak16
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Fact: You can win $1,000,000 if you have ‘supernatural abilities’.

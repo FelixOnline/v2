@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jingjie Cheng finds this 1920s play as relevant as ever
 date: "2015-02-11 22:23:15 +0000"
-
-# Attributes from Felix Online V1
-id: "5231"
-old_path: /arts/5231/some-metatheatre-most-remarkable
+image: "http://felixonline.co.uk/img/upload/201502112223-ps3110-03.jpg"
+image_caption: "Théâtre de la Ville – Paris, Six Characters in Search of an Author. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5231/some-metatheatre-most-remarkable
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - jc7413
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502112223-ps3110-03.jpg"
-image_caption: ""
 ---
 
 Despite reading the synopsis beforehand, I was entirely unprepared for _Six Characters in Search of a Story_, an intense piece of metatheatre that turns all convention on its head. Written in 1921 by Luigi Pirandello and first performed in the same year to mixed reviews, I can only imagine how startling it must have been for audiences then, and how radical it still is.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The co-artistic director of renowned theatre company Ridiculusmus speaks to Max Falkenberg about schizophrenia, the creative process, the brutality of arts funding and throwing tomatoes at comedians.
 date: "2015-02-22 17:35:06 +0000"
-
-# Attributes from Felix Online V1
-id: "5302"
-old_path: /arts/5302/interview-jon-haynes-in-conversation
+image: "http://felixonline.co.uk/img/upload/201502221734-ps3110-©rwd14_eradication_035a.jpg"
+image_caption: "Jon Haynes, in Ridiculusmus’ The Eradication of Schizophrenia in Western Lapland"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5302/interview-jon-haynes-in-conversation
-imported: true
 comments:
  - value: >
      If some one wishes to be updated with most recent technologies after that he must be pay a visit this website and be up to date everyday. <br>canada goose zomerjas dames 50 http://www.metskinderschoenen.nl/?nl-canada-goose-zomerjas-dames-50--7833.html,Keep on working, great job! <br>ugg girl boots http://crownmodels.com/?usa-ugg-girl-boots-977.html
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502221734-ps3110-©rwd14_eradication_035a.jpg"
-image_caption: ""
 ---
 
 The afternoon I meet Jon Haynes on Bond Street, I really should have better things to be doing. With a lab report due in 24 hours and a rehearsal to plan for later in the day, this interview couldn’t come at a much worse time. But this opportunity is too good to miss. With numerous awards and an enviable reputation as the pioneers of “seriously funny theatre”, __Ridiculusmus__ is at the forefront of British fringe theatre and I’m chatting to the man behind half of their creative vision. Gaunt and serious looking, Jon has something ominous about him. As their website tells us, Jon won awards at school for speaking Greek verse; and after taking drugs at university and having a nervous breakdown, Jon founded Ridiculusmus with his partner David Woods. Somehow I get the feeling that Jon is the serious part of their “seriously funny” dynamic. That said, he strikes me as a pretty good guy.

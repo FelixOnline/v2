@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jonathan Masters reports on the new minister, who is the brother of London Mayor Boris Johnson
 date: "2015-05-15 12:34:57 +0100"
-
-# Attributes from Felix Online V1
-id: "5533"
-old_path: /news/5533/jo-johnson-announced-as-minister-of-universities-and-science
+image: "http://felixonline.co.uk/img/upload/201505151334-cj914-jo-johnson-mp.-008.jpg"
+image_caption: "Jo Johnson has a pro-EU stance and supports international collaboration in the sciences"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5533/jo-johnson-announced-as-minister-of-universities-and-science
-imported: true
 comments:
  - value: >
      Для современного человека нет ничего проще, чем брать ссуду. Мы привыкли к комфортной и быстрой услуге, которая позволяет оформить потребительский кредит на домашнюю технику, мебель, телефон. Все данные вещи трудно купить за наличку. Ссуда несомненно поможет решить почти все проблемы и осуществить хотения. <br>Допустим, вам трудно накопить денег на хороший мебельный гарнитур или стиральную машину. Именно для этого в торговых центрах мебели и бытовой техники расположились представители банков. Они несомненно помогут на месте оформить ссуду на надлежащий
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - jm5014
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505151334-cj914-jo-johnson-mp.-008.jpg"
-image_caption: ""
 ---
 
 Jo Johnson, newly elected MP for Orpington in the London Borough of Bromley, has succeeded Greg Clark (a former economist) as Minister of State for Universities and Science.

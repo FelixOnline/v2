@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Joanna Wormald discusses the rise of mental illness across UK universities and efforts (or lack of) that have been made to tackle student depression.
 date: "2017-03-10 13:23:28 +0000"
-
-# Attributes from Felix Online V1
-id: "6867"
-old_path: /features/6867/higher-education-faces-depression-epidemic
+image: "http://felixonline.co.uk/img/upload/201703101323-felix-Screen Shot 2017-03-09 at 14.58.07.png"
+image_caption: "The wordcloud from the institutional culture report"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6867/higher-education-faces-depression-epidemic
-imported: true
 comments:
  - value: >
      Managing depression with medication can be difficult. EMPowerplus is a great natural option. It even has a quite a few studies done on it! Take a look at their site <br>http://www.truehope.com/depression.html,Managing depression with medication can be difficult. EMPowerplus is a great natural option. It even has a quite a few studies done on it!,----Finally, we need to challenge the stigma around mental illness. <br>Unless it is your intent to contribute to that prejudice, you mean you need to challenge those who direct it. <br>You will have to decide which you want to do. <br>Harold A. Maio, retired mental health editor<br>,it's very helpful for me personally searching for this site! <br>buy cheap Albion online gold http://albion2017.blogsity.com/2017/01/15/flagging-system-well-zone-albion-explanation/,You did it ! <br>cheapest madden 17 mobile coins for sale http://www.madden-store.com,youre looking sharp! <br>cheap Albion Online gold for sale http://www.archeagetips.org/take-time-buy-cheapest-albion-online-gold-cheap-upalbion
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -26,12 +24,6 @@ authors:
  - jmw216
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101323-felix-Screen Shot 2017-03-09 at 14.58.07.png"
-image_caption: ""
 ---
 
 Recent years show an alarming trend amongst students. Rising rates of mental illness show little sign of slowing. In the past ten years, suicide rates have almost doubled. In York, up to 50% of ambulance call-outs to the university were for self-harm or suicide attempts. This is a far from localised issue‒ it’s an epidemic.

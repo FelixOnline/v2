@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Someone told me today that you shouldn’t write reviews of your own events. I obviously didn’t listen to their advice; after all, who can know better what went down at the RCSU events than people within the RCSU?! My sincerest apologies to the other constituent unions who are obviously lagging behind
 date: "2013-10-12 12:12:56 +0100"
-
-# Attributes from Felix Online V1
-id: "3844"
-old_path: /features/3844/rcsu-freshers-fortnight-legit-review-from-the-rcsu-office
+image: "http://felixonline.co.uk/img/upload/201310121307-jal08-1262887_10153350302710195_651778061_o.jpg"
+image_caption: "RCSU @ Freshers Fair"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/3844/rcsu-freshers-fortnight-legit-review-from-the-rcsu-office
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -25,12 +23,6 @@ authors:
  - ps3411
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310121307-jal08-1262887_10153350302710195_651778061_o.jpg"
-image_caption: ""
 ---
 
 Someone told me today that you shouldn’t write reviews of your own events. I obviously didn’t listen to their advice; after all, who can know better what went down at the RCSU events than people within the RCSU?! My sincerest apologies to the other constituent unions who are obviously lagging behind.

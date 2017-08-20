@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Four products that are destined to make a big splash in the coming year
 date: "2011-01-13 20:38:02 +0000"
-
-# Attributes from Felix Online V1
-id: "583"
-old_path: /tech/583/top-tech-to-keep-your-eye-on-in-2011
+image: "http://felixonline.co.uk/img/upload/201101132036-ks607-3DTelevi.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/583/top-tech-to-keep-your-eye-on-in-2011
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - fa608
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101132036-ks607-3DTelevi.jpg"
-image_caption: ""
 ---
 
 __The Motorola Xoom__

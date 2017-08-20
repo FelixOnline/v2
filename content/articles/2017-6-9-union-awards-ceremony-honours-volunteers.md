@@ -4,18 +4,16 @@ title: >
 subtitle: >
   RCSU President boycotts event
 date: "2017-06-09 14:51:10 +0100"
-
-# Attributes from Felix Online V1
-id: "7008"
-old_path: /news/7008/union-awards-ceremony-honours-volunteers
+image: "http://felixonline.co.uk/img/upload/201706091834-felix-IMG_7818.JPG"
+image_caption: "Quality coverage from your fave paper "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/7008/union-awards-ceremony-honours-volunteers
-imported: true
 comments:
  - value: >
      Lets look at Lloyd James' record here as its pretty grim reading.<br>1) He argued hard against consent classes because of the expense but then spent union grant on a water cooler in the RCSU office which should have been spent on dep socs who are hard pressed for cash.<br>2) He sent a paper to council requesting that council only talk about big issues then sent in papers about petty issues such as mascotry policy (of which he was arrogant enough not to consult other constituent unions about.)<br>3) He persuaded Mentality to try and publish an (slanderous) open letter in Felix, criticising Felix for publishing that LJ was against consent classes and then complained about cronyism in union awards<br>3.5)He complains about cronyism when his friend and secretary Michael Edwards is the next unopposed RCSU president and he posts on Facebook that Abhjay Sood will be the president after that.<br>4) He has been elected unopposed in every election he has ever run in yet has deep opinions about union democracy.<br>5) He claims to s
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - ea3211
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706091834-felix-IMG_7818.JPG"
-image_caption: ""
 ---
 
 Monday saw the Union thank its volunteers at the annual Union Awards.

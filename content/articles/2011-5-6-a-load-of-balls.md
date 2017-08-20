@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Wear whatever you want to the Summer Ball – I will
 date: "2011-05-06 08:32:54 +0100"
-
-# Attributes from Felix Online V1
-id: "1158"
-old_path: /comment/1158/a-load-of-balls
+image: "http://felixonline.co.uk/img/upload/201105060932-felix-comment-illustration-thursday-5th-may-2011-benjamin-kennedy.jpg"
+image_caption: "Fine I’ll wear black tie, but I draw the line at monochrome"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1158/a-load-of-balls
-imported: true
 comments:
  - value: >
      Offence* - sorry, the "offense" mis-spelling really annoys me. <br> <br>Otherwise, great comment piece!,I think you are missing the point. <br> <br>The real reason people are so pissed off is because no official dress-code means that the ball is now pretty much officially a festival. <br> <br>Considering that this was the only college-wide formal on the social calendar, we are now left with a total of ZERO formals per year. <br> <br>Formals are an integral part of the university experience, and as a result of these changes our only formal has been taken away from us. <br> <br>In response this sentiment, Alexander Kendall has suggested that people should just rent out the UDH and have a formal with their clubs and societies; (http://www.facebook.com/#!/imperialcollegeunion/posts/125292977545266). <br> <br>Quite frankly I find this insulting! <br> <br>The summer ball is supposed to be OUR formal. <br>It is the last send off from imperial and should be treated with some respect. <br> <br>So thank you for the festival, <br>but can you now organise a summer ball pl
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105060932-felix-comment-illustration-thursday-5th-may-2011-benjamin-kennedy.jpg"
-image_caption: ""
 ---
 
 The Summer Ball is once more drawing ever closer. The time when the girls get to wear expensive dresses, and the guys get to wear tuxedos with a real bowtie, (not one of those pre–tied ones, which don’t allow you to wear it with the knot undone for that cool after party look). But wait, what’s that in the sky? Is it a bird? Is it a plane? Yes, it is a plane. It’s actually several planes doing a flyby for the Royal Wedding, but the plane I was referring to is the metaphorical one behind them. It’s here to drop a bomb, a metaphorical bomb; this year the Summer Ball isn’t officially black tie.

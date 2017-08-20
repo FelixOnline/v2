@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Cecily Johnson on the university's reaction to accommodation issues
 date: "2015-06-11 22:12:27 +0100"
-
-# Attributes from Felix Online V1
-id: "5610"
-old_path: /news/5610/ucl-students-threatened-after-rent-strikes
+image: "http://felixonline.co.uk/img/upload/201506112311-cj914-ucl.jpg"
+image_caption: "Residents protesting outside Campbell House, where many students have withheld rent due to poor living conditions."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5610/ucl-students-threatened-after-rent-strikes
-imported: true
 comments:
  - value: >
      My sympathy dried up completely with "I can't even...watch television". I hope Oxfam is doing something for these poor deprived students. <br> <br>Spoilt lefty tossers get their jimmies rustled. LOL.,Do you mind if I quote a couple of your articles as long as I provide credit and sources back to your weblog? My blog site is in the very same niche as yours and my users would genuinely benefit from some of the information you provide here. Please let me know if this ok with you. Thanks! <br>ugg uk store covent garden grill http://www.cardmachinesolutions.co.uk/?uk-ugg-uk-store-covent-garden-grill-6810.html
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506112311-cj914-ucl.jpg"
-image_caption: ""
 ---
 
 Students living in accommodation run by University College London (UCL) have been threatened by the university with serious repercussions after withholding rent due to allegedly ‘unliveable’ conditions in their halls.

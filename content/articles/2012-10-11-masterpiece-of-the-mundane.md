@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Franzen is an arse, but damn, he's a good writer
 date: "2012-10-11 20:30:11 +0100"
-
-# Attributes from Felix Online V1
-id: "2645"
-old_path: /books/2645/masterpiece-of-the-mundane-
+image: "http://felixonline.co.uk/img/upload/201210112130-felix-jonathan-franzen-freedom.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2645/masterpiece-of-the-mundane-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ma1307
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112130-felix-jonathan-franzen-freedom.jpeg"
-image_caption: ""
 ---
 
 Much has been said derisively of the German sense of humour, but my favourite book review of all time, translated for me by a friend, was of Jonathan Franzen’s 2010 work and appeared in a the German newspaper Süddeutsche Zeitung. The closing passage of it read, simply: “It’d probably be unbearably boring if it wasn’t such a masterpiece”.

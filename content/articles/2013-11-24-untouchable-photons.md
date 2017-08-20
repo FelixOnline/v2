@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Photons can often be difficult to measure because as soon as they are, they are gone. Most measurement methods require direct absorption, or are in some other way destructive to the nature of the particle.
 date: "2013-11-24 16:01:55 +0000"
-
-# Attributes from Felix Online V1
-id: "4106"
-old_path: /science/4106/untouchable-photons
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4106/untouchable-photons
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - pd111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Photons can often be difficult to measure because as soon as they are, they are gone. Most measurement methods require direct absorption, or are in some other way destructive to the nature of the particle. This means that you have little time to glean all of the information before it disappears, and there is no way to double check your results. Now, if only there was a way around this. Oh wait, there might be!

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   From sexual assault to frozen funds, WikiLeaks is under attack from all sides, but will the whistleblower’s friend survive? Feroz Salam continues his investigation
 date: "2010-10-28 19:37:41 +0100"
-
-# Attributes from Felix Online V1
-id: "268"
-old_path: /tech/268/american-embarrassment-as-more-documents-leaked-about-iraq-war-
+image: "http://felixonline.co.uk/img/upload/201010282035-ks607-wikileak.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/268/american-embarrassment-as-more-documents-leaked-about-iraq-war-
-imported: true
 comments:
  - value: >
      Email notification of comment ready to be approved going to me/kadhim?
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010282035-ks607-wikileak.jpg"
-image_caption: ""
 ---
 
 [W](http://www.bbc.co.uk/news/world-middle-east-11612731)[ikileaks is in the news again this week](http://www.bbc.co.uk/news/world-middle-east-11612731) after releasing approximately 400,000 formerly classified documents relating to the war in Iraq.

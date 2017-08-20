@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Our easy guide to getting your console on College internet
 date: "2010-10-01 23:06:45 +0100"
-
-# Attributes from Felix Online V1
-id: "168"
-old_path: /games/168/just-arrived-and-already-bored-time-to-get-online
+image: "http://felixonline.co.uk/img/upload/201010020005-ks607-Consoles.jpg"
+image_caption: "Let's get those machines online!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/168/just-arrived-and-already-bored-time-to-get-online
-imported: true
 comments:
  - value: >
      Good PS3!
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010020005-ks607-Consoles.jpg"
-image_caption: ""
 ---
 
 You’ve arrived at your new university and you’re already stressed out. You’ve got to cope with Welcome Week events, meeting new people and the challenge of moving into your new halls, and what you really need is a quick game of Modern Halo Call Of Warfare 2 Strike Deluxe to take the edge off! But, disaster! You can’t even connect to the lobby! How are you ever going to survive the year? Never fear Imperial noobs, for with our step-by-tiny-step guide you will have your console of choice online and ready to rock in no time.

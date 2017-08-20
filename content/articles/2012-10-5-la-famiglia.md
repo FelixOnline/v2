@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The food review
 date: "2012-10-05 13:20:30 +0100"
-
-# Attributes from Felix Online V1
-id: "2626"
-old_path: /food/2626/la-famiglia
+image: "http://felixonline.co.uk/img/upload/201210051420-felix-la-famiglia-exterior.jpg"
+image_caption: "So Italian it comes with a scooter outside"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2626/la-famiglia
-imported: true
 comments:
  - value: >
      1% food, the rest is a rather pitiful and vapid student criticism of Rupert Murdoch's empire. I know this is a student paper, but seriously, isn't the editor there to make sure people stay on topic? <br> <br>The experience is relevant too of course but the writer just seems like a guilty middle class socialist from Surrey.,I liked it.
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210051420-felix-la-famiglia-exterior.jpg"
-image_caption: ""
 ---
 
 It doesn’t seem quite right to say there’s a dodgy part on the King’s Road. But there is, just beyond the trendy Bluebird brasserie, where the pavement gets a bit dirtier, the shops a bit more Londis. It is here that one stumbles upon La Famiglia restaurant. A place that proves eating out is just as much about the atmosphere as it is about the food.

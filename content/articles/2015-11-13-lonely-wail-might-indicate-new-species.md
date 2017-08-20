@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Scientific community torn over a unique recording from elusive whale
 date: "2015-11-13 14:44:40 +0000"
-
-# Attributes from Felix Online V1
-id: "5732"
-old_path: /science/5732/lonely-wail-might-indicate-new-species-
+image: "http://felixonline.co.uk/img/upload/201511131443-ygr12-12228050_917280278321639_1568759212_o.jpg"
+image_caption: "Shy and elusive beaked whale breaching the surface."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5732/lonely-wail-might-indicate-new-species-
-imported: true
 comments:
  - value: >
      excellent post, very informative. I'm wondering why the opposite experts of this sector do not notice this. You must proceed your writing. I'm confident, you have a huge readers' base already! <br>moncler jassen 2015 heren mode http://www.blosrtv.nl/?nl-moncler-jassen-2015-heren-mode-14845.html,I almost never comment, however i did some searching and wound up here %BLOG_TITLE%. And I actually do have a couple of questions for you if you don't mind. Could it be just me or does it give the impression like some of these comments come across like coming from brain dead individuals? :-P And, if you are writing at additional sites, I would lie to keep up with anything new you have to post. Could you list of the complete urls of your communal pages like your twitter feed, Facebook page or linkedin profile? <br>nike lunarglide 4 heren http://www.metskinderschoenen.nl/?nl-nike-lunarglide-4-heren-18779.html,They've been fall in a galactic lonliness<br>http://lonelywhale.com,You put the lime in the conucot and drink the article
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511131443-ygr12-12228050_917280278321639_1568759212_o.jpg"
-image_caption: ""
 ---
 
 How many species do you think exist on planet earth? 100 thousand, one million, ten million? Recent estimations have induced a species count of 8.7 million. More than 1000 years would be needed to catalogue such a vast number. It’s really a question of ‘where do we start?’

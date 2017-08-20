@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Head down to South Kensington for some frozen yoghurt goodness
 date: "2010-11-11 21:23:46 +0000"
-
-# Attributes from Felix Online V1
-id: "361"
-old_path: /food/361/anyone-up-for-a-snog-its-juicy-saucy-its-yoghurt
+image: "http://felixonline.co.uk/img/upload/201011112119-nm1010-snogfroz.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/361/anyone-up-for-a-snog-its-juicy-saucy-its-yoghurt
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - oh106
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011112119-nm1010-snogfroz.jpg"
-image_caption: ""
 ---
 
 Frozen yoghurt is a tasty cold treat, and London has caught the cold. It’s going round. If it was a warmer foodstuff they’d say it was spreading like wildfire. Instead, it’s spreading more like the Starbucks and Subways that now punctuate every high street. This is an ice-age moment after years of hot coffees and warm pastries. Cold is the hottest new thing in edible delights, and what a delight it is!

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Welcome to Scotland: where we are greeted by Bruce Robertson (McAvoy), a coke-snorting, alcohol-addicted, sex-loving detective who’s gunning for a promotion to the position of detective inspector.
 date: "2013-10-12 19:12:53 +0100"
-
-# Attributes from Felix Online V1
-id: "3849"
-old_path: /film/3849/mcavoys-filthy-habits
+image: "http://felixonline.co.uk/img/upload/201310122012-jal08-film_filth.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3849/mcavoys-filthy-habits
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310122012-jal08-film_filth.jpg"
-image_caption: ""
 ---
 
 Welcome to Scotland: where we are greeted by Bruce Robertson (McAvoy), a coke-snorting, alcohol-addicted, sex-loving detective who’s gunning for a promotion to the position of detective inspector. In order to get there, he needs to eliminate his competition. And by eliminate we don’t mean kill, but rather publicly humiliate so they’ll be out of the running. He’s racist, sexist, and every kind of -ist you can think of, and as we find out more about this troubled man, you begin to question the narrator’s mental state as he has distressing visions that get in the way of his boozy, dopey life. That someone like Bruce is in the law enforcement line of work already provides some solid groundwork for the film to build on.

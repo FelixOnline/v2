@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Crowds gather at Queen’s Tower to hold minute’s silence for Paris victims
 date: "2015-11-19 22:16:55 +0000"
-
-# Attributes from Felix Online V1
-id: "5739"
-old_path: /news/5739/imperial-mourns
+image: "http://felixonline.co.uk/img/upload/201511192216-ygr12-cover.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5739/imperial-mourns
-imported: true
 comments:
  - value: >
      Thanks for your beneficial post. As time passes, I have come to be able to understand that the particular symptoms of mesothelioma cancer are caused by your build up associated fluid involving the lining in the lung and the torso cavity. The infection may start inside the chest spot and pass on to other parts of the body. Other symptoms of pleural mesothelioma include fat loss, severe inhaling trouble, nausea, difficulty ingesting, and bloating of the face and neck areas. It ought to be noted that some people having the disease tend not to experience just about any serious symptoms at all. <br>new era fitted hats wholesale http://www.twofangtu.cn/fitted-hats
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511192216-ygr12-cover.jpg"
-image_caption: ""
 ---
 
 Several hundred people gathered at the foot of Queen’s Tower on Monday for a minute’s silence to remember the 129 people killed in the Paris attacks. The crowd included students and staff, who joined a Europe-wide moment of reflection three days after the tragedy.

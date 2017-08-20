@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A profile of this year's hottest artist
 date: "2011-05-26 19:37:47 +0100"
-
-# Attributes from Felix Online V1
-id: "1262"
-old_path: /music/1262/star-slinger
+image: "http://felixonline.co.uk/img/upload/201105262039-felix-denim_large.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1262/star-slinger
-imported: true
 comments:
  - value: >
      I thought I recognized the name from somewhere. Saw him supporting The Go! Team in February at Heaven. His was as close to a memorable DJ set as I've ever found. He did sound a bit like a mopey teenager on stage though!,Cool! That's a cleevr way of looking at it!
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105262039-felix-denim_large.jpg"
-image_caption: ""
 ---
 
 It’s the 1st of May and [Star Slinger](http://starslinger.net/home.html) is playing Camden Rock at the Camden Crawl. The room is rather sparsely populated and despite the best efforts of this “one man beat machine”, as he was described by Pitchfork, the sound system just isn’t playing nice this evening. At the end of his set a crowd approach the DJ booth, my friend is the first to reach him and proclaims obnoxiously, “Can I have a hug?!?” Star Slinger peers at him through his long brown hair with a slightly confused face and has evidently misheard him, “Thanks but I don’t need a hug.” When my friend clarifies, Star Slinger reconsiders for a moment, and then gives him a full-bodied embrace.

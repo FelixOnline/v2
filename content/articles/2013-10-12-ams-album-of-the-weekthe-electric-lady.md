@@ -4,16 +4,13 @@ title: >
 subtitle: >
   AMS Album of the Week Janelle Monáe – The Electric Lady
 date: "2013-10-12 00:35:33 +0100"
-
-# Attributes from Felix Online V1
-id: "3839"
-old_path: /music/3839/ams-album-of-the-weekthe-electric-lady
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3839/ams-album-of-the-weekthe-electric-lady
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - ym1210
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Janelle Monáe – The Electric Lady__

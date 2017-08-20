@@ -4,16 +4,14 @@ title: >
 subtitle: >
   There are joys to be had in the good old weather report
 date: "2011-11-17 21:50:25 +0000"
-
-# Attributes from Felix Online V1
-id: "1788"
-old_path: /tv/1788/feeling-under-the-weather-thisll-make-you-right-as-rain
+image: "http://felixonline.co.uk/img/upload/201111172150-pk1811-weather_deakin_dec2006a.jpg"
+image_caption: "Yes, I do look insufferably smug here"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1788/feeling-under-the-weather-thisll-make-you-right-as-rain
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +22,6 @@ authors:
  - gb610
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172150-pk1811-weather_deakin_dec2006a.jpg"
-image_caption: ""
 ---
 
 Watching this week’s BBC Weather, the viewer is immediately gifted with the presence of the pride of the meteorological arena: Alex Deakin. A physics graduate (thanked, apparently, in S. F. Helsdon and T. J. Ponman’s paper “The intragroup medium in loose groups of galaxies”) turned Met Office employee turned BBC hyperstar-idol-to-the-masses-weatherman. We’re even treated to the mandatory abomination of a floral tie.

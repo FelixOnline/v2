@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Union’s ‘Pay for entry’ arrangement causes over £90 in losses for society
 date: "2012-02-23 23:16:29 +0000"
-
-# Attributes from Felix Online V1
-id: "2264"
-old_path: /news/2264/icu-cinema-awarded-compensation-for-friday-night-union-losses-
+image: "http://felixonline.co.uk/img/upload/201202232316-felix-photo-1.jpg"
+image_caption: "ICU Cinema operates out of the Union Concert Hall"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2264/icu-cinema-awarded-compensation-for-friday-night-union-losses-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202232316-felix-photo-1.jpg"
-image_caption: ""
 ---
 
 A paper by [ICU Cinema](http://union.ic.ac.uk/arts/cinema/) which has been passed by Imperial College Union’s Executive Committee, the policy-executing branch of the Union, requested compensation for £94.50 in predicted losses from showings during the Film Festival, running from 10 January until 20 January, due to entry charges to enter the Union building.

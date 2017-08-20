@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Pt. II – Shellac
 date: "2012-05-10 20:13:50 +0100"
-
-# Attributes from Felix Online V1
-id: "2444"
-old_path: /music/2444/54-respect-a-tribute-to-math-rock-
+image: "http://felixonline.co.uk/img/upload/201205102113-felix-shellac.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2444/54-respect-a-tribute-to-math-rock-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ra2410
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205102113-felix-shellac.jpg"
-image_caption: ""
 ---
 
 [__Shellac__](http://www.youtube.com/watch?v=mxbTRh1o_RU) are another great Math Rock band. You may know them for including prolific producer Steve Albini, or you may know them for the sound, which is pretty much abrasion itself. From the distorted, almost noisy guitars, to the vocals, aggressively shouted, often about violence and fighting and more often than not bitter, sarcastic and unpleasant. They formed in 1992, after Albini’s involvement in [__Big Black__](http://www.youtube.com/watch?v=HuO3wwLuF0w) and [__Rapeman__](http://www.youtube.com/watch?v=ZIZ19j6DndY), who are both somewhat important to math. It is with no disrespect to these bands, however, that I say that Shellac is the culmination of Albini’s work.

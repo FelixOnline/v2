@@ -4,18 +4,16 @@ title: >
 subtitle: >
   James Faux discusses the apparent conflict between science and religion
 date: "2012-03-15 21:37:50 +0000"
-
-# Attributes from Felix Online V1
-id: "2389"
-old_path: /comment/2389/can-a-scientist-believe-in-miracles
+image: "http://felixonline.co.uk/img/upload/201203152137-ams111-blue_sea_parting.jpg"
+image_caption: "Personally, I’m getting memories of Bognor Regis"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2389/can-a-scientist-believe-in-miracles
-imported: true
 comments:
  - value: >
      If a scientist were to allow the existence of supernatural events then why bother trying to explain nature when it may have been a conjuring trick anyway? How is a cosmologist to tackle the question "What if the universe were simply created with the appearance of being 13.7 billion years old but is in fact a few thousand?" ? It is clear that a scientist must assume that supernatural events do not occur otherwise the whole scientific endeavour becomes nearly pointless. Of course an intellectually lazy way out would be to pick cherry pick miracles which don't happen to grossly step on the toes of modern science as the above example. <br> <br>'That no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish...' ... Clearly the delusion and deception of a few is more reasonable than allowing the occasional resurrection? <br> <br>,I'm not sure exactly what you mean by 'miracle', but it is either: <br> <br>(1
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - jf1210
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152137-ams111-blue_sea_parting.jpg"
-image_caption: ""
 ---
 
 Most people define a miracle as a supernatural event, inexplicable by the laws of science and nature. So is it reasonable for a modern, rational, Imperial scientist to believe in miracles?

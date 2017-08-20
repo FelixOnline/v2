@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This is the penultimate issue of the term, we’ve only got one more until we break up for the Christmas holidays! Hurrah!
 date: "2013-12-02 21:47:17 +0000"
-
-# Attributes from Felix Online V1
-id: "4154"
-old_path: /comment/4154/international-issues-and-communication
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4154/international-issues-and-communication
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This is the penultimate issue of the term, we’ve only got one more until we break up for the Christmas holidays! Hurrah!

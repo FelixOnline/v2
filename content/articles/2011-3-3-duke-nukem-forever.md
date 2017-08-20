@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The fifth of our 'games that never made it'
 date: "2011-03-03 21:21:18 +0000"
-
-# Attributes from Felix Online V1
-id: "1025"
-old_path: /games/1025/duke-nukem-forever
+image: "http://felixonline.co.uk/img/upload/201103032119-ks607-dukeduke.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1025/duke-nukem-forever
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - dt1209
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103032119-ks607-dukeduke.jpg"
-image_caption: ""
 ---
 
 Yes, eventually I get to it. Of course, technically speaking this game has been picked up to be carried to completion by Gearbox Studios, mainly by being incredibly famous for just never showing up.

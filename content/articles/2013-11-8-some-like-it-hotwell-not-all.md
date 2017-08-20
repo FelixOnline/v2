@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A round-up on some of the world’s foodie vices under threat - some luxurious, some less so
 date: "2013-11-08 11:03:09 +0000"
-
-# Attributes from Felix Online V1
-id: "4045"
-old_path: /food/4045/some-like-it-hotwell-not-all
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/4045/some-like-it-hotwell-not-all
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - cac111
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It seems to have been quite a tumultuous year in foodie arena, with many food items under threat. Just this Halloween, fans of the global cult favourite Sriracha hot sauce (affectionately known as Rooster Sauce to some) breathed a sigh of relief when a judge denied a temporary restraining order against the manufacturing company, Huy Fong Foods.

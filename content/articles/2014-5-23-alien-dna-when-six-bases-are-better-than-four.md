@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Are six bases better than four? Scientists at The Scripps Institute Florida, can boast that they have changed the secret of life; they have invented an extension to our DNA.
 date: "2014-05-23 13:48:35 +0100"
-
-# Attributes from Felix Online V1
-id: "4619"
-old_path: /science/4619/alien-dna-when-six-bases-are-better-than-four-
+image: "http://felixonline.co.uk/img/upload/201405231448-jal08-e-coli-bacteria-close-up-via-shutterstock-615x345-(1).jpg"
+image_caption: "E. coli like these contained the new “alien” DNA with four bases instead of six"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4619/alien-dna-when-six-bases-are-better-than-four-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - jal08
  - mbh113
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405231448-jal08-e-coli-bacteria-close-up-via-shutterstock-615x345-(1).jpg"
-image_caption: ""
 ---
 
 Are six bases better than four? Scientists at The Scripps Institute Florida, can boast that they have changed the secret of life; they have invented an extension to our DNA.

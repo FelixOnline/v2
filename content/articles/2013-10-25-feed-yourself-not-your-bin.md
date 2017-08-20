@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Food Editor Michael Chung on food waste.
 date: "2013-10-25 01:04:15 +0100"
-
-# Attributes from Felix Online V1
-id: "3947"
-old_path: /food/3947/feed-yourself-not-your-bin
+image: "http://felixonline.co.uk/img/upload/201310250205-felix-food_foodwaste.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3947/feed-yourself-not-your-bin
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ykc111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250205-felix-food_foodwaste.jpg"
-image_caption: ""
 ---
 
 How much food do we throw away? Well, a quick survey in the EEE Level 5 labs shows that as students, we try to eat everything we buy in our shop. Unfortunately students only make up about 4% of the UK population, and Tesco has revealed earlier this week that it generated almost 30,000 tonnes of food waste in the first 6 month of 2013. Just to put that into perspective, that is just over 1500 new Boris buses full of passengers, each eating 2 Weetabix biscuits and drinking a litre of milk.

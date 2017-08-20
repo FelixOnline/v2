@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Visit includes meeting with researchers connected to China
 date: "2012-01-27 00:03:06 +0000"
-
-# Attributes from Felix Online V1
-id: "2077"
-old_path: /news/2077/chinese-ambassador-visits-imperial
+image: "http://felixonline.co.uk/img/upload/201201270002-felix-icl_ambassador_009.jpg"
+image_caption: "Rector Keith O’Nions meeting with Mr Liu last week"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2077/chinese-ambassador-visits-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - ar3310
  - cac111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201270002-felix-icl_ambassador_009.jpg"
-image_caption: ""
 ---
 
 The Chinese Ambassador to the UK visited Imperial College last week to discover more about Imperial and also gave a lecture on the role of innovation as the path to success in twenty first century China. Xiaoming Liu has been the Ambassador for China since 2009 and took the time to talk to Chinese staff and students to find out more about their experiences at the college.

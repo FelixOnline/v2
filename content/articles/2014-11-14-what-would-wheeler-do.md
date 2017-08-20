@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In the final instalment of the Sabb interview series, Bernadett Tildy talks Tinder, “Lad Culture” and the Imperial Ratio
 date: "2014-11-14 20:46:38 +0000"
-
-# Attributes from Felix Online V1
-id: "4875"
-old_path: /features/4875/what-would-wheeler-do
+image: "http://felixonline.co.uk/img/upload/201411142045-ps3110-president_by_tlim-for-web.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4875/what-would-wheeler-do
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411142045-ps3110-president_by_tlim-for-web.jpg"
-image_caption: ""
 ---
 
 __Bernadett: Where are you from and do you think it affected your outlook of Imperial?__

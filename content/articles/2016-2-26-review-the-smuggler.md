@@ -4,16 +4,14 @@ title: >
 subtitle: >
   It's far better than its scatilogical matter may suggest.
 date: "2016-02-26 11:41:30 +0000"
-
-# Attributes from Felix Online V1
-id: "5968"
-old_path: /film/5968/review--the-smuggler
+image: "http://felixonline.co.uk/img/upload/201602261140-felix-mule-0-2000-0-1125-crop.jpg"
+image_caption: "Angus Simpson as Ray, in the somewhat confused film The Smuggler."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5968/review--the-smuggler
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +21,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261140-felix-mule-0-2000-0-1125-crop.jpg"
-image_caption: ""
 ---
 
 Making a film about bowel movements is a tough sell. But that hasn’t stopped Tony Mahony and Angus Simpson, the directorial duo behind Australian crime drama _The Smuggler_, who approach the topic with great vision, but a lack of even-handedness. Set against the backdrop of the 1983 America’s Cup, which saw an Australian yachting team breaking American dominance of the race, _The Smuggler_ tells the tale of Ray Jenkins (Tony Mahony), a young man from the back end of nowhere who spends most of his time repairing televisions, being looked after by his mother, and playing football in his local amateur team. A trip to Thailand for the team is funded by shadowy small-town crime boss Pat (John Noble), and Ray is convinced to smuggle heroin back across the border in his stomach, in order to help out with his parents’ financial troubles. However, he is stopped at the last minute by customs, and detained in a hotel, where – rather than face criminal charges – he opts to try and hold his bowels for the next ten days, at the ire of police agent Croft (Hugo Weaving).

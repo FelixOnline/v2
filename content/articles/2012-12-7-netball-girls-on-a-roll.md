@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix Sport gets the lowdown on netball’s continued success
 date: "2012-12-07 03:15:02 +0000"
-
-# Attributes from Felix Online V1
-id: "3062"
-old_path: /sport/3062/netball-girls-on-a-roll
+image: "http://felixonline.co.uk/img/upload/201212070312-tna08-netball1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3062/netball-girls-on-a-roll
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070312-tna08-netball1.jpg"
-image_caption: ""
 ---
 
 ICUNC have had a fantastic start to the season especially in the BUCS leagues, with the 1sts currently 2nd in their leagueand with promotion still very much in their grasps.

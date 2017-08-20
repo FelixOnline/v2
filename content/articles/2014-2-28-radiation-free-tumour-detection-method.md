@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Diagnosis and treatment of cancer often involves some of the most damaging procedures that doctors would ever intentionally inflict upon a human body.
 date: "2014-02-28 07:20:24 +0000"
-
-# Attributes from Felix Online V1
-id: "4447"
-old_path: /science/4447/radiation-free-tumour-detection-method
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4447/radiation-free-tumour-detection-method
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - jb3112
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Diagnosis and treatment of cancer often involves some of the most damaging procedures that doctors would ever intentionally inflict upon a human body. The effects of chemotherapy, for instance, are notorious, but radiation from treatment or scans can sometimes be just as harmful to a patient’s health. A study published in the _Lancet_ this week proposes a new technique that could completely eliminate the radiation dose from scans used to investigate tumours. It could well improve outcomes for many vulnerable patients, and even save lives.

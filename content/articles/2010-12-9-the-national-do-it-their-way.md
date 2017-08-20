@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The National preach to the converted as they captivate the Brixton Academy
 date: "2010-12-09 20:34:48 +0000"
-
-# Attributes from Felix Online V1
-id: "527"
-old_path: /music/527/the-national-do-it-their-way
+image: "http://felixonline.co.uk/img/upload/201012092033-ma1307-TheNatio.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/527/the-national-do-it-their-way
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - jk708
  - tm208
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012092033-ma1307-TheNatio.jpg"
-image_caption: ""
 ---
 
 The National originate from Ohio. They are made up of vocalist Matt Berninger who fronts two pairs of brothers: Aaron (guitar, bass, piano) and Bryce Dessner (guitar); and Scott (bass, guitar) and Bryan Devendorf (drums). Collectively they continue to create the most enigmatic, hermetic and beautifully absorbing music. In my opinion they are currently the most exceptional band in the world and this evening I am privileged to witness their completing a trio of sold out nights at [Brixton Academy](http://www.o2academybrixton.co.uk/).

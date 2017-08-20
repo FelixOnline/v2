@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Calum Skene proves he has bigger balls than the rest of the games team
 date: "2015-02-09 19:35:17 +0000"
-
-# Attributes from Felix Online V1
-id: "5224"
-old_path: /games/5224/slendy-is-always-always-watching
+image: "http://felixonline.co.uk/img/upload/201502091935-ps3110-slender2.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/5224/slendy-is-always-always-watching
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - css11
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502091935-ps3110-slender2.png"
-image_caption: ""
 ---
 
 S_lender: The Eight Pages_ was the first horror game I played. I remember seeing many videos of the game before I played it and thinking this doesn’t look that scary, so ignorantly I downloaded the free indie game and began to play.

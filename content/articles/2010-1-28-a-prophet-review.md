@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Stefan Zeeman takes a plunge into the seedy world of French prison-life.
 date: "2010-01-28 15:52:46 +0000"
-
-# Attributes from Felix Online V1
-id: "57"
-old_path: /film/57/a-prophet-review
+image: "http://felixonline.co.uk/img/upload/201001281549-egk08-AProphet.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/57/a-prophet-review
-imported: true
 comments:
  - value: >
      <a href="http://coldwatertrail.org/node/188"> cash for tramadol chats </a> <br><a href="http://confluence.atlassian.com/display/~vetrolsert1"> soma cod orders Hanover </a> <br><a href="http://coldwatertrail.org/node/191"> soma no prescription sw </a> <br><a href="http://coldwatertrail.org/node/195"> prescription cialis pproftjuno </a> <br><a href="https://www.openflowhub.org/display/~tvostred"> overnight tramadol Everybody </a> <br><a href="http://dailybooth.com/toledvelik/15737334"> buy Tramadol cash on delivery Walter </a> <br><a href="http://coldwatertrail.org/node/197"> buy cheap fedex Doxycycline clerks </a> <br><a href="http://coldwatertrail.org/node/192"> buy xanax Activity </a> <br><a href="http://coldwatertrail.org/node/196"> online Prednisone cod pnBackupPengenalan </a> <br><a href="http://dailybooth.com/lewavolar/15737295"> us soma Gerasdorf </a> <br><a href="https://www.openflowhub.org/display/~vetrolsert2"> cheap soma ajukan </a> <br><a href="http://confluence.atlassian.com/display/~tvostred3"> tramadol with</a>
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +23,6 @@ authors:
  - egk08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001281549-egk08-AProphet.jpg"
-image_caption: ""
 ---
 
 Reviewed by Stefan Zeeman

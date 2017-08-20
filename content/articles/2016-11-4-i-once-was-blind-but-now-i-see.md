@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2016-11-04 12:54:58 +0000"
-
-# Attributes from Felix Online V1
-id: "6383"
-old_path: /science/6383/i-once-was-blind-but-now-i-see
+image: "http://felixonline.co.uk/img/upload/201611041254-aib116-eye-1756629_1920.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6383/i-once-was-blind-but-now-i-see
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - aranshaunak16
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611041254-aib116-eye-1756629_1920.png"
-image_caption: ""
 ---
 
 F**act**: blind people don’t see darkness. They see nothing. I’ll admit this seems counter-intuitive; most of us would shout “I can’t see anything” when stumbling around in the pitch-dark. But understanding blindness requires a bit more thought.

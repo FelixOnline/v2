@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Expensive-ass flat yo.
 date: "2014-11-06 19:00:31 +0000"
-
-# Attributes from Felix Online V1
-id: "4772"
-old_path: /news/4772/1000000-ex-council-flat-sold-in-chelsea
+image: "http://felixonline.co.uk/img/upload/201411101315-ps3110-46.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4772/1000000-ex-council-flat-sold-in-chelsea
-imported: true
 comments:
  - value: >
      Thanks regarding giving such amazing knowledge <br>fifa 17 coins http://elizabeth.2you.be/weblog/cheap-nhl-17-coins-of-popularity-goalten/?actie=thread&amp;threadid=386952,Thanks pertaining to furnishing this sort of superb info <br>fifa 17 http://truckstopcanada.ca/TSCA_Classifieds/Transportation_and_Logistic_Jobs/Office_Jobs/426_nba_2k17_coins_Is_Now_A_Videogame
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411101315-ps3110-46.jpg"
-image_caption: ""
 ---
 
 A flat on Kings Road, Chelsea, has become the first ex-council flat to sell for near £1 million. The flat, which has three bedrooms as well as a communal courtyard, was bought by its former owners under the “Right to Buy” scheme in 1989 for the grand total of £48,000 (equivalent to around £110,000 in today’s prices), but has recently sold for £999,950.

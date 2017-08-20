@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Parisien delights on either side of the channel. Samuel Furse reviews 'Kitchen W8', while Charles Betts hops over to 'Le Boeuf Sur le Toit' in Paris
 date: "2011-02-28 21:05:25 +0000"
-
-# Attributes from Felix Online V1
-id: "939"
-old_path: /food/939/fancy-food-stylings-en-franais-
+image: "http://felixonline.co.uk/img/upload/201102282101-ks607-roastwoo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/939/fancy-food-stylings-en-franais-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -26,12 +23,6 @@ authors:
  - sf305
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102282101-ks607-roastwoo.jpg"
-image_caption: ""
 ---
 
 __Samuel Furse__

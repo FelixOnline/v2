@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Qasim Mahmood examines the science behind seeing colours, and why experiencing them may be visually different for everyone
 date: "2016-11-18 14:53:33 +0000"
-
-# Attributes from Felix Online V1
-id: "6466"
-old_path: /science/6466/do-all-colours-look-the-same
+image: "http://felixonline.co.uk/img/upload/201611181452-felix-abstract-19141_1920.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6466/do-all-colours-look-the-same
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - qm413
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611181452-felix-abstract-19141_1920.jpg"
-image_caption: ""
 ---
 
 Colour is an illusion. When we look at any object, likely the first thing we notice about it is its colour. Colours are incredibly important to our understanding of the world, and we use them all the time in art, film, photography, and in science. Despite all this however, it is a fact that colours do not exist in the external world. Colours are not an intrinsic property of any material, rather they are the representation that our minds produce of the light given off by any object. They do not exist outside of our minds and are simply our interpretation of a certain range of the electromagnetic spectrum; as such, it is impossible to detect or measure how you, or in fact any other person, experiences any colour.

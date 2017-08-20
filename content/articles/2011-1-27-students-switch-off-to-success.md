@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Students in halls saving energy
 date: "2011-01-27 18:31:56 +0000"
-
-# Attributes from Felix Online V1
-id: "654"
-old_path: /news/654/students-switch-off-to-success-
+image: "http://felixonline.co.uk/img/upload/201101271828-ks607-students.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/654/students-switch-off-to-success-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101271828-ks607-students.jpg"
-image_caption: ""
 ---
 
 The [Student Switch Off Scheme](http://www.studentswitchoff.org/), a not-for-profit project aimed at reducing the amount of electricity used in student halls of residence, achieved great success at Imperial last term. Recently released data shows that the 11 participating halls have reduced their energy use in October and November by 2% compared to previous years. According to a press release by the scheme this is enough to make 631,716 cups of tea and has reduced carbon emissions by 11 tonnes. The 223 students involved, representing 12% of those living in halls, have already surpassed last year’s efforts, which organisers believe reduced emissions of CO2 by seven tonnes. Eastside has made the most progress, saving almost 0.60kWh of energy per student per day, making them the best placed to win the free end of year party which awarded to the hall which has made the biggest reductions.

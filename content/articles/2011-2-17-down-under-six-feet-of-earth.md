@@ -4,18 +4,15 @@ title: >
 subtitle: >
   It’s an absolutely phenomenal crime drama that is surely in league with similar themed films.
 date: "2011-02-17 19:31:48 +0000"
-
-# Attributes from Felix Online V1
-id: "818"
-old_path: /film/818/down-under-six-feet-of-earth
+image: "http://felixonline.co.uk/img/upload/201102171928-nm1010-downunde.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/818/down-under-six-feet-of-earth
-imported: true
 comments:
  - value: >
      THX that's a great anwesr!
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - nm1010
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102171928-nm1010-downunde.jpg"
-image_caption: ""
 ---
 
 Animal Kingdom

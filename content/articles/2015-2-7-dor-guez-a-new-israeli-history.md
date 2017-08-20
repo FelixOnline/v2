@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Kamil McClelland checks out one of the new shows at the ICA
 date: "2015-02-07 19:15:22 +0000"
-
-# Attributes from Felix Online V1
-id: "5206"
-old_path: /arts/5206/dor-guez--a-new-israeli-history
+image: "http://felixonline.co.uk/img/upload/201502071915-ps3110-the-painter-2015-courtesy-the-artist--copya.jpg"
+image_caption: "Dor Guez, Frame from The Painter, 2015. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5206/dor-guez--a-new-israeli-history
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - km2612
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502071915-ps3110-the-painter-2015-courtesy-the-artist--copya.jpg"
-image_caption: ""
 ---
 
 Dor Guez is a fascinating man. Born in Jerusalem to Christian Palestinian and Jewish Tunisian parents, he has been able to experience the Middle East with a truly unique eye, away from the prevailing Arab and Jewish Israeli narratives. Entitling this exhibition _The Sick Man of Europe_, Guez is making a comment on Israel’s profound cultural and economic malaise, limping just outside the continent’s borders, all the while receiving large amounts of financial support from the West, unlike any other healthy country. This gives you a sense of the Guez’s approach to art – analytical, reflective, quite comfortable in commenting about the region’s tumultuous modern history.

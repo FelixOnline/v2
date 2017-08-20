@@ -4,16 +4,13 @@ title: >
 subtitle: >
   I’m not here to give advice about weight-loss. I’m here to tell you to man up!
 date: "2011-01-13 21:14:59 +0000"
-
-# Attributes from Felix Online V1
-id: "589"
-old_path: /comment/589/new-year-same-old-you-
+image: "http://felixonline.co.uk/img/upload/201101132113-ks607-alexnowb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/589/new-year-same-old-you-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101132113-ks607-alexnowb.jpg"
-image_caption: ""
 ---
 
 Self-improvement can and should be done at any time. Needing an arbitrary start date for the “new you” is pretty pathetic since you were more than aware of your flaws already, weren’t you? That bit of flab is nothing new even if you christen it “Christmas excess”. New Year’s resolutions conveniently allow you to delay change until the beginning of the following year.

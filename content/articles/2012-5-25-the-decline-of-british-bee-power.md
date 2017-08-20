@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Kelly Oakes reports on a possible cause of falling bee numbers
 date: "2012-05-25 18:42:40 +0100"
-
-# Attributes from Felix Online V1
-id: "2500"
-old_path: /science/2500/the-decline-of-british-bee-power
+image: "http://felixonline.co.uk/img/upload/201205251941-mc4509-s4.jpg"
+image_caption: "97% of wildflower meadows have been lost over the past 60 years, adding to the decline of bees"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2500/the-decline-of-british-bee-power
-imported: true
 comments:
  - value: >
      Cough cough http://www.union.ic.ac.uk/scc/esoc/ For bee based discussion and bee keeping on campus, cough cough mailing list shameless plug
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205251941-mc4509-s4.jpg"
-image_caption: ""
 ---
 
 Pesticides may be the bees knees when it comes to protecting crops, but researchers from the UK and France have shown that exposure to one common pesticide leads to a dramatic loss to the number of queen bees, and another pesticide affects foragers’ ability to find their way back to the hive. The new findings might go some way to explaining recent decline in bee numbers.

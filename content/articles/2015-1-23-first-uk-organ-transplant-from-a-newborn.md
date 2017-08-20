@@ -4,18 +4,16 @@ title: >
 subtitle: >
   James Bezer on the new procedure performed at Imperial
 date: "2015-01-23 17:46:30 +0000"
-
-# Attributes from Felix Online V1
-id: "5135"
-old_path: /science/5135/first-uk-organ-transplant-from-a-newborn
+image: "http://felixonline.co.uk/img/upload/201501231746-jyg11-screen-shot-2015-01-23-at-17.46.00.png"
+image_caption: "Hammersmith hospital: Two patients received tissues from the donor, a baby girl who died six days after birth"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5135/first-uk-organ-transplant-from-a-newborn
-imported: true
 comments:
  - value: >
      fitflops in stores <br>fitflops cheapest http://australiafitflops.blogspot.com/,birkenstock discount <br>birkenstocks cheap http://birkenstockaustralia.blogspot.com/,christian louboutin mens flats <br>cheap christian louboutin shoes canada http://canadachristianlouboutinoutlet.blogspot.com/,Terrific Webpage, Continue the beneficial work. Thanks a ton!. <br>madden 17 coins http://www.igotbiz.com/forum/products-for-sale/243-fifa-17-points-multiplayer-games-online#259
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - jyg11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501231746-jyg11-screen-shot-2015-01-23-at-17.46.00.png"
-image_caption: ""
 ---
 
 The UK’s first organ donation from a newborn baby has been performed at an Imperial College NHS Trust hospital.

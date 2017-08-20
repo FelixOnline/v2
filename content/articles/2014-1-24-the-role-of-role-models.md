@@ -4,16 +4,13 @@ title: >
 subtitle: >
   I will confess now that I have never really understood the appeal of role models. It has always seemed slightly ridiculous to treat someone as if they were an exemplary figure, and with a little maturity I also came to recognise the symbolic violence in raising that someone above...
 date: "2014-01-24 09:53:48 +0000"
-
-# Attributes from Felix Online V1
-id: "4283"
-old_path: /comment/4283/the-role-of-role-models
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4283/the-role-of-role-models
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I will confess now that I have never really understood the appeal of role models. It has always seemed slightly ridiculous to treat someone as if they were an exemplary figure, and with a little maturity I also came to recognise the symbolic violence in raising that someone above their idiotic existence into something more… And leaving some Lacanian objections aside (‘il n’y a pas de rapport sexuel’), I generally find the idea that a person needs some exemplar psychological support slightly belittling. This may of course be a sign of my own comfort thus far, and there is little I can or intend to do to deny this, but if this be the case then there should be a little discernment about the choice of role-model.

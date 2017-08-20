@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Emily Fulham takes a nostalgic look back at the Bartlet administration
 date: "2014-04-07 12:39:33 +0100"
-
-# Attributes from Felix Online V1
-id: "4519"
-old_path: /tv/4519/the-west-wing-a-retrospective
+image: "http://felixonline.co.uk/img/upload/201404071340-jal08-the-west-wing.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4519/the-west-wing-a-retrospective
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -25,12 +22,6 @@ authors:
  - jal08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201404071340-jal08-the-west-wing.jpg"
-image_caption: ""
 ---
 
 _The West Wing_ is widely acknowledged to be the best political drama ever shown on American television. The seven series were broadcast from 1999 to 2006, premiering the same year as Bill Clinton’s impeachment trial and finishing in the depths of George Bush’s second term, when the president had an approval rating of just 37%. Although the show never pretended to be an accurate representation of a president’s administration, the influences of real life are plain to see. It’s been said since the show ended that _The West Wing _was a portrayal of an idealised Clinton administration, and it’s true that there are easy parallels to draw between Clinton and Jed Bartlet, the fictional Democrat president in the show: both charismatic, highly intellectual, and plagued by scandal throughout their presidency.

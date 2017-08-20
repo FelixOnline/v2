@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Harrogate is touring the country until November 16, passing through Oxford, Cantebury, Norwich, and Cambridge, among others.
 date: "2016-11-04 14:33:10 +0000"
-
-# Attributes from Felix Online V1
-id: "6393"
-old_path: /arts/6393/harrogate-
+image: "http://felixonline.co.uk/img/upload/201611041430-aib116-102016HightideHouseRoyalCourtHarrogateProduction-1-0033.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6393/harrogate-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - adamgellatly14
  - aib116
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611041430-aib116-102016HightideHouseRoyalCourtHarrogateProduction-1-0033.jpg"
-image_caption: ""
 ---
 
 After its successful debut at HighTide Festival in Suffolk last year, _Harrogate_ - written by Al Smith and directed by Richard Twyman – arrives in London at the Royal Court to kick off its UK wide tour.  The one act play, coming in at just over 80 minutes, finds itself perfectly suited to the cosy Jerwood Theatre at the Court. In a rather unique set design, audience members face each other from benches (which are perhaps just a bit too cosy) on either side of the room. The stage itself sits in the middle; a medical-white cuboid running the length of the room, with its two bench-facing sides missing. It’s more reminiscent of a zoo exhibition than a theatre, and being able to see the faces of half your fellow attendees can be rather off-putting, especially when one of them nods off during scene two. We’ll put that down to the humidity in the room, however, because the play and performances from Nigel Lindsay (of _Four Lions_ fame) and Sarah Ridgeway are brilliant.

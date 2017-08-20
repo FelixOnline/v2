@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The EU’s implementation of “equality” legislation is undermining national democracy, argues, Christopher Kaye
 date: "2012-12-07 02:36:16 +0000"
-
-# Attributes from Felix Online V1
-id: "3051"
-old_path: /comment/3051/democracy-and-the-law
+image: "http://felixonline.co.uk/img/upload/201212070237-tna08-badmia.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3051/democracy-and-the-law
-imported: true
 comments:
  - value: >
      1 - The judges in ECJ are appointed by each EU member country, we vote for MP/MEPs and they appoint a Judge, so we have voted for them in way <br> <br>2 - The high court in the UK can also make this kind judgement - whilst they can't have a law overturned, they can go to Parliament and say the law should be changed. <br> <br>3 - this is a major point of a judiciary; to protect minorities. A majority cannot remove the rights of a minority. In the US you can see plenty of examples of this: Roe vs Wade, Perry v. Schwarzenegger on Prop 8 in Cali, Griggs v. Duke Power Co, Log Cabin Republicans v. United States of America and Brown v. Board of Education. <br>,http://en.wikipedia.org/wiki/Minority_group - those that are different from the social majority, ie those that hold a majority of positions of power. <br> <br>Also we don't live in a democracy, we have a representative monarchy. The judiciary occupy a different branch in our governmental system, and are there to prevent a tyranny of the majority (amongst other things),If there's
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070237-tna08-badmia.jpg"
-image_caption: ""
 ---
 
 Women are safer drivers. That is a fact backed up by overwhelming statistical evidence. By being male I pay more for my car insurance.

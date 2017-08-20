@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A beautifully realised piece of historical fiction from David Mitchell
 date: "2011-05-06 13:15:58 +0100"
-
-# Attributes from Felix Online V1
-id: "1171"
-old_path: /arts/1171/the-thousand-autumns-of-jacob-de-zoet
+image: "http://felixonline.co.uk/img/upload/201105061413-felix-thousand-autumns-cover.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1171/the-thousand-autumns-of-jacob-de-zoet
-imported: true
 comments:
  - value: >
      I completely agree with you about the 150 pages where the story sort of drfits.And you're right about the name changing. It took me about 100 pages for the penny to drop on that one.But the book is worth persevering with.I quite like de Zoet as a character because he's a good study of a person trying to do the right thing while everyone around him is as corrupt as hell. Doing business in parts of Asia can still be a bit like that even today.It's also reading up about the Nagasaki incident a true life historical event of some importance which is reflected in the book. And it's also worth finding out about Hendrik Doeff who is highly relevant to the book: I'll say no more though
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - ghc07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105061413-felix-thousand-autumns-cover.jpg"
-image_caption: ""
 ---
 
 One of the joys of reading David Mitchell is the way his intricate prose immerses you into the rich, luxuriant and complex worlds he crafted; his intriguing plots and and ability to get beneath the skin of a diverse cast of characters combinres to create some of the most engrossing read in modern literature.

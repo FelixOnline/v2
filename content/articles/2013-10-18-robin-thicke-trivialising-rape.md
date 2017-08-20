@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Kirstin Hay takes on "Blurred Lines".
 date: "2013-10-18 21:43:20 +0100"
-
-# Attributes from Felix Online V1
-id: "3895"
-old_path: /comment/3895/robin-thicke-trivialising-rape
+image: "http://felixonline.co.uk/img/upload/201310182242-jal08-robin-thicke.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3895/robin-thicke-trivialising-rape
-imported: true
 comments:
  - value: >
      http://s3.amazonaws.com/rapgenius/4db77_ORIG-look_at_all_the_fucks_i_give.jpg,Shittiest song ever. Pure crape.,Good to see the comment moderator is rejecting views on this - I wonder if the friendly neighbourhood misogynis was pro or con....?! (If your wondering if I'm joking, your not my target audience).
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - klh110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310182242-jal08-robin-thicke.jpg"
-image_caption: ""
 ---
 
 _You know you want it.

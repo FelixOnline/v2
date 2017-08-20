@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Population: Ross Webster
 date: "2013-02-13 14:52:00 +0000"
-
-# Attributes from Felix Online V1
-id: "3306"
-old_path: /games/3306/welcome-to-the-insane-asylum-
+image: "http://felixonline.co.uk/img/upload/201302131712-tna08-antichamber.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3306/welcome-to-the-insane-asylum-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302131712-tna08-antichamber.jpg"
-image_caption: ""
 ---
 
 It has been a long time since my brain has hurt this much. I’ve just worked out how to reach the bottom of an endless staircase, and now I’m faced with alaser puzzle that needs 30 pieces, when I’ve only got 12, and I can’t even move them around. Welcome to Antichamber.

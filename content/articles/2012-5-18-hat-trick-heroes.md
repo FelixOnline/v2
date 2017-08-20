@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Third consecutive gold for Imperial College Snooker
 date: "2012-05-18 16:43:04 +0100"
-
-# Attributes from Felix Online V1
-id: "2477"
-old_path: /sport/2477/hat-trick-heroes
+image: "http://felixonline.co.uk/img/upload/201205181740-felix-snooker.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2477/hat-trick-heroes
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - ec209
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205181740-felix-snooker.png"
-image_caption: ""
 ---
 
 Imperial College 1s came back from the brink in a pulsating final against Warwick 2s to triumph in the 2012 BUCS Snooker Team Trophy competition, becoming only the third university in recent history to win three titles on the trot.

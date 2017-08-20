@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Luke Sheldon on how sometimes not being strongly opinionated yields a better group consensus
 date: "2012-01-12 22:02:27 +0000"
-
-# Attributes from Felix Online V1
-id: "1978"
-old_path: /science/1978/apathy-leads-to-better-group-decisions
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1978/apathy-leads-to-better-group-decisions
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - cac111
  - ls411
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Every four or five years we go along to a ballot box, tick our preferred political party and defer all other decisions to the group that gains power. Most people probably believe this is the best way of running things. We may not even have much to say about education, economics or war, so how could we add to decision making? And why is this being mentioned in the science pages?

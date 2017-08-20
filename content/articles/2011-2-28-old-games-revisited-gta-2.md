@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Let's travel back in time to when the Grand Theft Auto series was actually good and take a look at GTA2.
 date: "2011-02-28 20:52:28 +0000"
-
-# Attributes from Felix Online V1
-id: "936"
-old_path: /games/936/old-games-revisited-gta-2
+image: "http://felixonline.co.uk/img/upload/201104231426-felix-grand-theft-auto-2.jpeg"
+image_caption: "Ah, those were the days..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/936/old-games-revisited-gta-2
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - lap08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104231426-felix-grand-theft-auto-2.jpeg"
-image_caption: ""
 ---
 
 Alright folks, it’s time to sit back and take a great big hit from the nostalgia bong. Today we’re going to be travelling back in time to when the Grand Theft Auto series was actually good and take a look at GTA2.

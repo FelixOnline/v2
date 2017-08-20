@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Students have been told they will receive full marks if they had pointed out it could not be solved, reports Philippa Skett
 date: "2015-06-11 22:48:38 +0100"
-
-# Attributes from Felix Online V1
-id: "5616"
-old_path: /news/5616/students-frustrated-over-impossible-physics-exam-question
+image: "http://felixonline.co.uk/img/upload/201506112347-cj914-prof-michelle-dougherty-w---tojpeg_1414600890691_x2.jpg"
+image_caption: "This has not been the only issue for Physics undergraduate students this term."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5616/students-frustrated-over-impossible-physics-exam-question
-imported: true
 comments:
  - value: >
      Andrew Jaffe needs to be removed from the teaching roster. This is nt the firt very serious complaint about one of his exams - after one of his Cosmlogy papers, there was a huge number of official complaints based on the 'essay or more maths' section - the essay topic required specific research, and the optional questions were so difficult that only the people who had done the essay question did well, making it almost a lottery. <br> <br>He has done a disservice to students studing Fourier maths, Cosmology, group theory and now quantum mechanics. Every time I've seen his response to complaints, it's been confusion and unhappiness because he didn't really understand the students' problem. While I don't question his dedcation, I think a string of complaints this long and this consistent means that he can't teach, and that should no longer affect those trying to learn from him.,Jaffe is a fantastic and passionate lecturer and should not be removed from his teaching position because of poor exam questions. Instead, t
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506112347-cj914-prof-michelle-dougherty-w---tojpeg_1414600890691_x2.jpg"
-image_caption: ""
 ---
 
 Physics students have been left confused and annoyed over an exam question that was proved to be impossible to answer, adding to the plethora of mistakes in papers sat by students from multiple year groups in the department this term.

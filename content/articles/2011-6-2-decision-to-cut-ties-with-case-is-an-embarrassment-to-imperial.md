@@ -4,18 +4,15 @@ title: >
 subtitle: >
   It should be reversed immediately
 date: "2011-06-02 19:25:12 +0100"
-
-# Attributes from Felix Online V1
-id: "1306"
-old_path: /comment/1306/decision-to-cut-ties-with-case-is-an-embarrassment-to-imperial
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1306/decision-to-cut-ties-with-case-is-an-embarrassment-to-imperial
-imported: true
 comments:
  - value: >
      Perhaps Imperial is well known enough that it is more effective for it to campaign for its own issues. As pointed out, it clearly isn't a financial issue.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imperial College London does not train its students to paint. It does not teach its students the philosophical differences between Hegel and Nietzsche. In fact it doesn’t teach anything except science, engineering, and medicine – the Business School aside. These things will not be revelations to any of you, we would hope, but the reason for stating them so plainly is to demonstrate the perversity of the following sentence. Imperial College London [no longer supports](http://felixonline.co.uk/news/1291/imperial-cuts-ties-with-case/) the UK’s most high-profile science lobby group, the Campaign for Science and Engineering (CaSE).

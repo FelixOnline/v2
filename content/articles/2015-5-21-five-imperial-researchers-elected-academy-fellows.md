@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Cecily Johnson reports as researchers are elected to the Fellowship of the Academy of Medical Sciences
 date: "2015-05-21 20:00:54 +0100"
-
-# Attributes from Felix Online V1
-id: "5545"
-old_path: /news/5545/five-imperial-researchers-elected-academy-fellows
+image: "http://felixonline.co.uk/img/upload/201505212100-kmw13-generic-image.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5545/five-imperial-researchers-elected-academy-fellows
-imported: true
 comments:
  - value: >
      But what exactly is the second most popular team sport in planet? He has played for his country Brazil on the earth cup healthy and balanced . La Liga side FC Barcelona. Schmid's career record in Open Cup play is 15-7-1. <br>fifa 16 hack http://creditsfut.com/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - kmw13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505212100-kmw13-generic-image.jpeg"
-image_caption: ""
 ---
 
 Five researchers from Imperial College London have been elected to the Fellowship of the Academy of Medical Sciences in recognition of their work in medical science.

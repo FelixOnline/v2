@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Speed typing, the sport of champions...
 date: "2013-06-05 12:20:25 +0100"
-
-# Attributes from Felix Online V1
-id: "3651"
-old_path: /film/3651/youre-gonna-be-populaire
+image: "http://felixonline.co.uk/img/upload/201306051319-tna08-romain-duris-and-déborah-françois-in-populaire.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3651/youre-gonna-be-populaire
-imported: true
 comments:
  - value: >
      I don't appreciate having to scroll down two pages and skim through the text in order to find out what film the article is about!
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306051319-tna08-romain-duris-and-déborah-françois-in-populaire.jpg"
-image_caption: ""
 ---
 
 Back in the day, it was every woman’s dream to become a secretary; to assist and travel with powerful men, filing away important papers, typing up documents, taking calls and receiving messages etc. It was the best job any woman could ever dream of, and it would appear this trend was also in style in 1950s France.

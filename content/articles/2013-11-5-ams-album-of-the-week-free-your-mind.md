@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Cut Copy's Free Your Mind
 date: "2013-11-05 09:38:04 +0000"
-
-# Attributes from Felix Online V1
-id: "3996"
-old_path: /music/3996/ams-album-of-the-week-free-your-mind
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3996/ams-album-of-the-week-free-your-mind
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - ls2209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Cut Copy stated on the standout track of their previous album, “Blink and you’ll miss a revolution”. The one and a half years that have passed since then are, in the big scheme of things, a blink. The Australian synthpop quartet now return with their fourth album Free Your Mind, which whilst not quite a revolution, is certainly a revelation. Bad puns aside, Free Your Mind will take you a on a nostalgic journey to late 80s acid-house.

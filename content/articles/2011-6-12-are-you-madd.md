@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Dana Li visits MADD, Soho’s hottest café and brainchild of a Business School alumnus
 date: "2011-06-12 16:10:44 +0100"
-
-# Attributes from Felix Online V1
-id: "1367"
-old_path: /food/1367/are-you-madd
+image: "http://felixonline.co.uk/img/upload/201106121712-felix-siam.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1367/are-you-madd
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - dhl106
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106121712-felix-siam.jpg"
-image_caption: ""
 ---
 
 Rupert Street. It’s not exactly a street name that shouts out “Food Mecca”, such an honour usually reserved for the likes of Brick Lane, Old Street and Borough Market. But think again. I visited Rupert Street, located in the centre of Soho, three times within a period of two or so weeks. Not for the X-rated sex shops as some would relate Soho to, but for the relatively newly opened __[MADD](http://www.wearemadd.com/)__, a mango dessert café.

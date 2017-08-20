@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Games editor Laurence Pope reviews Yahtzee Croshaw’s epic MMORPG parody
 date: "2012-02-16 21:04:13 +0000"
-
-# Attributes from Felix Online V1
-id: "2183"
-old_path: /books/2183/better-read-than-dead
+image: "http://felixonline.co.uk/img/upload/201202162104-cac111-mogworld3.jpg"
+image_caption: "Jim has clearly had better days..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2183/better-read-than-dead
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +22,6 @@ authors:
  - lap08
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162104-cac111-mogworld3.jpg"
-image_caption: ""
 ---
 
 Death is a real nuisance. You can’t move, you can’t see, you can’t – well, let’s be honest here, you can’t do much at all. The best you can manage is a bit of basic decomposition, but it’s not really something to brag about (not that you can talk anyway). On the plus side though, you do get some well-deserved shuteye. That is, unless you’re awakened by a rogue necromancer who runs monthly entertainment nights for his undead minions.

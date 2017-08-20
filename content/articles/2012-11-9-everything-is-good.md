@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Mark England may seem a bit too content by that title, but it's about a band...
 date: "2012-11-09 14:03:08 +0000"
-
-# Attributes from Felix Online V1
-id: "2866"
-old_path: /music/2866/everything-is-good
+image: "http://felixonline.co.uk/img/upload/201211091402-tna08-everything-everything-group_-straight-web.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2866/everything-is-good
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - me1409
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091402-tna08-everything-everything-group_-straight-web.jpg"
-image_caption: ""
 ---
 
 Everything Everything at the Village Underground in Shoreditch was certainly a hot ticket; the show had sold out well in advance and obscene amounts of money were being exchanged online to gain entry. As people crammed intothe relatively small venue the anticipation for hearing Everything Everything’s new album was tangible after the huge success which their debut album proved to be. This was the week in which the band got their first top forty hit in ‘Cough Cough’ which rocketed in at number thirty seven. All this proves to me is that the singles charts are fucked beyond saving but apparently it was a reason for celebration, and what better way to celebrate then playing a knock out show in East London.

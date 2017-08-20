@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Team Tornado triumphs in Imperial's Apprentice Challenge 2012
 date: "2012-02-02 19:58:11 +0000"
-
-# Attributes from Felix Online V1
-id: "2097"
-old_path: /biz/2097/apprentice-challenge-2012
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/2097/apprentice-challenge-2012
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -23,12 +20,6 @@ authors:
  - ams111
  - asm210
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Whilst many students were having a lie-in on Saturday 21 January, the 16 students selected to participate in the 2012 Imperial Apprentice Challenge arrived at the Business School, complete with suits, laptops, and determination, ready to conquer the challenges organised by the Imperial Entrepreneurs society.

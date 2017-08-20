@@ -4,16 +4,13 @@ title: >
 subtitle: >
   You know what you're doing all day, alone, locked in your room, under the duvet.
 date: "2016-11-11 15:25:20 +0000"
-
-# Attributes from Felix Online V1
-id: "6425"
-old_path: /millennials/6425/drug-bible--ketamine-101
+image: "http://felixonline.co.uk/img/upload/201611111525-felix-Screen Shot 2016-11-11 at 15.25.07.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /millennials/6425/drug-bible--ketamine-101
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - millennials
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611111525-felix-Screen Shot 2016-11-11 at 15.25.07.png"
-image_caption: ""
 ---
 
 ## What it does

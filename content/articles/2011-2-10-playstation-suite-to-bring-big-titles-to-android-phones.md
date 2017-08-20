@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Not just a new device, but a whole new way of gaming
 date: "2011-02-10 20:41:02 +0000"
-
-# Attributes from Felix Online V1
-id: "781"
-old_path: /games/781/playstation-suite-to-bring-big-titles-to-android-phones-
+image: "http://felixonline.co.uk/img/upload/201102110159-sjw209-pssuite.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/781/playstation-suite-to-bring-big-titles-to-android-phones-
-imported: true
 comments:
  - value: >
      Thanks alot - your answer solevd all my problems after several days struggling,WwuH6h <a href="http://apcwjjjrrfod.com/">apcwjjjrrfod</a>
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -26,12 +23,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102110159-sjw209-pssuite.jpg"
-image_caption: ""
 ---
 
 The “Next Generation Portable” a.k.a. the PSP2, was announced two weeks ago at Sony’s ‘Playstation Meeting 2011’. The world stared, the world gaped and the world was awed. Quite right too: few had been expecting such an impressive device. (Thankfully it won’t be long before the device itself slams onto our supermarket shelves).

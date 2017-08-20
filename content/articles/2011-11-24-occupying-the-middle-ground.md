@@ -4,18 +4,16 @@ title: >
 subtitle: >
   When it comes to political ideology, it might be a good idea to be a little open-minded
 date: "2011-11-24 23:13:57 +0000"
-
-# Attributes from Felix Online V1
-id: "1848"
-old_path: /comment/1848/occupying-the-middle-ground
+image: "http://felixonline.co.uk/img/upload/201111242310-felix-wall-street-angry-geek-picture.jpg"
+image_caption: "Some people just can’t do anything right..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1848/occupying-the-middle-ground
-imported: true
 comments:
  - value: >
      "attacking the people behind the protests, their ways of life, their standards of living, their worth as people – instead of looking at the reasons for their protests, and discussing those issues properly" <br>There's been a few comment articles in Felix this year following this line of writing. It's not writing you expect from those who should be at the forefront of intelligent debate and critical thinking.,The mainstream media have made only the brieseft, passing mention of the OWS protestors as including ANY ati-war folk, and MSM coverage also gives us the impression that there are ABSOLUTELY NO 9/11 truthers (whether controlled-opposition planehuggers or not) at the gathering AT ALL.Whats more, now George Soros' "Move On" schemers have started boosting (and thus trying to control) the OWS "movement" and Pres. Oh-Bummer is claiming that the OWS phenomenon represents growing support for his (deceptively titled) "millionaires' tax" plan.Andy Tyme
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - mrangry
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242310-felix-wall-street-angry-geek-picture.jpg"
-image_caption: ""
 ---
 
 George Howard wrote ever such an interesting piece on the Occupy protests the other week. You remember? It was the one that kept using the word socialist to describe a bunch of people expressing an opinion. You don’t remember. That’s alright, it’s not really necessary for what I’m going to say anyway. Let’s begin with the Occupy protests, and leave George to one side for a while.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   It might be a great film, but here are some alternatives to Bruce Willis
 date: "2015-11-29 16:48:07 +0000"
-
-# Attributes from Felix Online V1
-id: "5785"
-old_path: /film/5785/3-action-films-that-arent-die-hard
+image: "http://felixonline.co.uk/img/upload/201511291647-ff712-gallery-diehard-3.jpg"
+image_caption: "Don't be sad Bruce, there are loads of other films you can see!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5785/3-action-films-that-arent-die-hard
-imported: true
 comments:
  - value: >
      FWmoNP http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +26,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511291647-ff712-gallery-diehard-3.jpg"
-image_caption: ""
 ---
 
 I love _Die Hard_. In fact, I’m one of those people who call it one of the best Christmas films of all time. The issue is that I am banned – as we all should be – from watching the film until at least the start of December. Until then, it looks like we need some other action films to fill the void:

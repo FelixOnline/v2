@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Eva Coles condemns the current approach to humanitarian aid
 date: "2016-10-28 15:16:51 +0100"
-
-# Attributes from Felix Online V1
-id: "6353"
-old_path: /comment/6353/there-should-be-more-to-foreign-aid-than-emergency-support
+image: "http://felixonline.co.uk/img/upload/201610311310-felix-5357500014_eef716803c_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6353/there-should-be-more-to-foreign-aid-than-emergency-support
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +23,6 @@ authors:
  - evacoles13
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610311310-felix-5357500014_eef716803c_o.jpg"
-image_caption: ""
 ---
 
 If you were to hear mention of Haiti in a conversation, what would your initial thoughts be? Some of you would likely confuse it with Tahiti or have no clue as to what Haiti actually is. For most of you, though, I am sure the first thing to pop into your minds would be the devastating 7.0 magnitude earthquake that hit the impoverished country in January 2010, killing an estimated 300,000 and leaving over two million without homes.

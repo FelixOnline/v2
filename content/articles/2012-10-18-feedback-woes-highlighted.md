@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Navid Nabijou probes the latest results from the NSS. See the paper for the tables.
 date: "2012-10-18 21:50:17 +0100"
-
-# Attributes from Felix Online V1
-id: "2726"
-old_path: /news/2726/feedback-woes-highlighted
+image: "http://felixonline.co.uk/img/upload/201210182250-felix-jason-in-article.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2726/feedback-woes-highlighted
-imported: true
 comments:
  - value: >
      came for the pun, was not disappointed
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210182250-felix-jason-in-article.jpg"
-image_caption: ""
 ---
 
 The[ National Student Survey](http://www.thestudentsurvey.com/) (NSS) was established in 2005 by [HEFCE](http://www.hefce.ac.uk/) (the body administering government funding of UK universities), in order to independently gather feedback from students about their institutions. It is carried out every year in the spring: final-year undergraduates in almost every university in the UK answer questions spanning a broad range of topics, from the quality of teaching and assessment, to the adequacy of the learning resources available, to their satisfaction with the Union. Response is generally high: last year, two-thirds of eligible students took the survey. Once the results have been collected and processed, they are released to the public.

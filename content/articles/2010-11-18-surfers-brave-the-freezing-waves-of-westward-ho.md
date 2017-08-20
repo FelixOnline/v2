@@ -4,18 +4,15 @@ title: >
 subtitle: >
   SurfSoc's 'frivolous' weekend in Devon
 date: "2010-11-18 21:22:17 +0000"
-
-# Attributes from Felix Online V1
-id: "406"
-old_path: /sport/406/surfers-brave-the-freezing-waves-of-westward-ho
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/406/surfers-brave-the-freezing-waves-of-westward-ho
-imported: true
 comments:
  - value: >
      Jr camp was a wonderful time for our chrieldn, we had had 13 campers, 9 chrieldn were first time going, 2 of our chrieldn were filled with the Holy Ghost for the first time, several others were renewed, it was so great to see Stephen and Naomi speaking in that Heavenly language, also it was alsome to see 400 jr campers praising God and praying at the altar, our God is a wonderful God and he keeps his promises thank you Jesus for pouring out your spirit,Frozen winter is <a href="http://infgdladucs.com">comnig</a>,do you like to buy ugg to preventing cold and keeping warm.As a pursuer for the most stylish ,is there any ugg boots you have in mind?I think you have no excuse anymore if you don't have a pair of .The can be worn as a or . Hottest pop style.If you like the,www.realugg.com can provide high quality of in low price,Are you straitened for ,don't worry ,we have the best on sale ,many of which are hand made by craftspeople.RealUGG,Inc came up with some new-styles- , We offer a wide range of UGG
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -27,12 +24,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Before we get on to the frivolities of SurfSoc’s weekend, we’d just like to put out a quick word of respect to one of the biggest names in the surfing world, who sadly passed away last week of dengue fever. [Andy Irons](http://en.wikipedia.org/wiki/Andy_Irons), 32, was widely regarded as being one of the most genuine, in-it-for-real big surfers, an admirable trait in the commercial world of competitive surfing. As someone who represented the true spirit and love of surf, his sudden death hit the community hard and we’re amongst the tens of thousands who wish his widowed wife and child-to-be our condolescences. RIP A.I.

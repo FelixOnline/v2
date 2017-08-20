@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Sniper Elite: Nazi Zombie Army review
 date: "2013-09-29 16:10:21 +0100"
-
-# Attributes from Felix Online V1
-id: "3786"
-old_path: /games/3786/as-hitler-once-said-execute-plan-z
+image: "http://felixonline.co.uk/img/upload/201309291710-tna08-sniperzombie-1.jpg"
+image_caption: "Thankfully that didn’t ruin my shirt!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3786/as-hitler-once-said-execute-plan-z
-imported: true
 comments:
  - value: >
      i know this sounds a bit exrmete, but i really look up to you. you spend a lot of your time recording and commentating your vids and they are﻿ so great to watch. when ive had a really bad day i come home, go on youtube and watch you and i speak for everyone now, you always put a smile on my face. not only are your vids awesome, but they're soooooooo funny. you do such a great job of entertaining all us youtubers and i just want to say thanx,hiHere is how gurus make money.Sign with Clickbank,﻿ login , click on Market Place, select any <a href="http://smktfieklcu.com">prcudot</a>, click on Promote button next to the <a href="http://smktfieklcu.com">prcudot</a> you want to market, Get your affilaite link.Go to Eleavers.com sign as advertiser, compose ad to your affiliate link.Go to Miami enjoy the money.How ?With Eleavers.com you pay $1 for 1000 visitors, in which you get 10 sales, each sale commission about $20 so you get $200 for each $1 you spend.Spend $100 you end making ~ $20,000
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -28,12 +26,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309291710-tna08-sniperzombie-1.jpg"
-image_caption: ""
 ---
 
 As CollegeHumour once said: “The two things you could always kill in videogames were nazis and zombies, there was no moral ambiguity there. So to combine them is just brilliant!” Now combine this with the award winning game Sniper Elite, and it seems like you have a high chance of a really fun game. The game Sniper Elite on its own is a tactical sniper simulation, set in world war two. With heavy focus on gameplay and realism, it was quite a fun game to play. Furthermore Sniper elite included an absolutely visually brilliant X-Ray kill cam, which played on every other successful long distance head shot. Now considering the way that many games have gone (Call of Duty, Red Dead Redemption etc.) releasing a zombie version is not that farfetched.

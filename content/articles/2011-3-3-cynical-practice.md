@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Smug skeptics and rationalists get on my tits. We’re not going to change public perceptions by feeling superior
 date: "2011-03-03 06:06:17 +0000"
-
-# Attributes from Felix Online V1
-id: "983"
-old_path: /comment/983/cynical-practice
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/983/cynical-practice
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - mrangry
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 John Wayne once mumbled, in the five spare minutes he had between starring in every Western movie ever, that “You can get more with a kind word and gun, than you can with just a kind word.” I know he said that, because I read it in a videogame once. And we read that and we think, “Eh, sounds about right.” That quote sounds nice because it’s about superiority and getting your way, and if there’s one thing we absolutely fucking love in this world, after honey-flavored cereals and Deal or No Deal, it’s feeling superior.

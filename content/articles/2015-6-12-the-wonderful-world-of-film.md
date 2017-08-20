@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jack Steadman looks back at this week’s news
 date: "2015-06-12 12:42:08 +0100"
-
-# Attributes from Felix Online V1
-id: "5621"
-old_path: /film/5621/the-wonderful-world-of-film
+image: "http://felixonline.co.uk/img/upload/201506121341-cj914-spectre.png"
+image_caption: "Christoph Waltz looks suitable menacing and shadowy as Franz Oberhauser in the teaser for the newest Bond film."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5621/the-wonderful-world-of-film
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - cj914
  - js5913
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506121341-cj914-spectre.png"
-image_caption: ""
 ---
 
 __Sir Christopher Lee passes away__

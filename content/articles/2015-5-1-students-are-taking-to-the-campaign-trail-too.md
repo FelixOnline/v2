@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In the run up to the general election, it's not just MP candidates that are pounding the pavements
 date: "2015-05-01 00:26:36 +0100"
-
-# Attributes from Felix Online V1
-id: "5480"
-old_path: /politics/5480/students-are-taking-to-the-campaign-trail-too
+image: "http://felixonline.co.uk/img/upload/201505010126-ps3110-screen-shot-2015-05-01-at-01.26.19.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/5480/students-are-taking-to-the-campaign-trail-too
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +21,6 @@ authors:
  - ps3110
  - ps3411
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505010126-ps3110-screen-shot-2015-05-01-at-01.26.19.png"
-image_caption: ""
 ---
 
 As a member of the Liberal Youth, I was invited to go canvassing in various target seats in the country. It’s a great scheme where they give you some money towards travel, free accommodation and food and there’s a social to cap things off at the weekend.

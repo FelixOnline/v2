@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Musical Theatre Society rehearse and perform Ben Elton’s smash hit in only 24 hours
 date: "2011-05-12 19:11:34 +0100"
-
-# Attributes from Felix Online V1
-id: "1203"
-old_path: /arts/1203/we-will-rock-you
+image: "http://felixonline.co.uk/img/upload/201105122012-felix-img_3768.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1203/we-will-rock-you
-imported: true
 comments:
  - value: >
      Fantastic. <br> <br>I'd like to point out though however, that the medics' Light Opera Society have been doing their '24' performance (of exactly the same format, coincidentally) in the Union Concert Hall for the past 8 years!,I'm out of league here. Too much brain power on dislpay!,XFHfcX <a href="http://izzlfhiuvvix.com/">izzlfhiuvvix</a>
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - rm1509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105122012-felix-img_3768.jpg"
-image_caption: ""
 ---
 
 When a cast is given the name of the musical they will perform 24 hours before curtain-up, no-one should expect anything particularly special. When that cast is from the glorious [Musical Theatre Society](http://mtsoc.co.uk/), the tables are turned. This rendition of ‘We Will Rock You’ was absolutely phenomenal. With a cast of 22, plus technical crew, choreographer, director, musical director, and a band, they kept the Union Concert Hall enthralled for nearly three hours.

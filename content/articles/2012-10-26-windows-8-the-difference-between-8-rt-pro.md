@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Max Eggl gives you the low-down on Windows 8, RT & Pro in a title that only works on one day...
 date: "2012-10-26 02:24:14 +0100"
-
-# Attributes from Felix Online V1
-id: "2741"
-old_path: /tech/2741/windows-8---the-difference-between-8-rt--pro-
+image: "http://felixonline.co.uk/img/upload/201210260324-tna08-microsoftsurfacetabletrgb].jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/2741/windows-8---the-difference-between-8-rt--pro-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - jp1409
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210260324-tna08-microsoftsurfacetabletrgb].jpg"
-image_caption: ""
 ---
 
 Windows 8 came out today, and the media world is buzzing to see if this will make or break Microsoft’s future. In the past Microsoft consumers faced more choices of varieties of Windows than in a trip to Subway! Starter, Home Basic, Home Premium and, and, and, were often subject to intense discussion of suitability and productivity. This time round, Windows 8 only comes in 3 varieties with very similar capabilities, which seems to be a plus. However, the big question is “what is the difference” and “what variety do you, as a student, want?”

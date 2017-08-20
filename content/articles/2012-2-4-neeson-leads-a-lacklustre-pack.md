@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Liam Neeson cements his status as action man of the moment – shame about the wolves
 date: "2012-02-04 17:28:41 +0000"
-
-# Attributes from Felix Online V1
-id: "2136"
-old_path: /film/2136/-neeson-leads-a-lacklustre-pack
+image: "http://felixonline.co.uk/img/upload/201202041727-felix-the-grey-liam-neeson.jpg"
+image_caption: "I don’t know who you are. I don’t know what you want... oh, wait, wrong film"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2136/-neeson-leads-a-lacklustre-pack
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - ar3310
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202041727-felix-the-grey-liam-neeson.jpg"
-image_caption: ""
 ---
 
 __The Grey__

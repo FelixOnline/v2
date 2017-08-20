@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Pt. 8 free jazz
 date: "2012-11-30 13:31:13 +0000"
-
-# Attributes from Felix Online V1
-id: "3018"
-old_path: /music/3018/you-dont-have-to-call-it-music-8
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3018/you-dont-have-to-call-it-music-8
-imported: true
 comments:
  - value: >
      We ran out of ink on the page. A travesty indeed.,PS: Quit trolling Jojo!,How can you not mention seminal works by the likes of Cecil Taylor and the huge contribution (not to mention the influence on Coltrane) made by Albert Ayler? Absolutely shocking. A travesty. ,And Roscoe Mitchell doesn't even play trumpet! Who the hell writes this stuff?!,"Against Joyce" issue has been widely dissescud especially in Sept 05 when she played the role of "Snow White". Not only her outlook, though after "burn fat", her "inch inch gong", her so-called "blue blood/star 2nd generation" are those factors leading to public "unlikeness".Even she's talented, coz the public (youngsters) are jealous of her born support &amp; chances from many stars/her Mom's friends, she won't be popular among these youngsters.Too bad, she's not lucky as 謝檸檬, 房祖名 ...
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - im808
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 _or: it don't have to mean a thing._

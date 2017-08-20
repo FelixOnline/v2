@@ -4,16 +4,14 @@ title: >
 subtitle: >
   With a quickfire script and powerful acting, this is the biopic we’ve been waiting for
 date: "2015-11-20 09:13:51 +0000"
-
-# Attributes from Felix Online V1
-id: "5750"
-old_path: /film/5750/danny-boyle-does-the-job
+image: "http://felixonline.co.uk/img/upload/201511200913-ygr12-screen-shot-2015-05-18-at-07.31.11.jpg"
+image_caption: "Michael Fassbender as the dictatorial genius in a turtleneck, in Danny Boyle’s Steve Jobs."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5750/danny-boyle-does-the-job
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +23,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511200913-ygr12-screen-shot-2015-05-18-at-07.31.11.jpg"
-image_caption: ""
 ---
 
 It was a bit of a shock when Ashton Kutcher was picked to star as the Apple-founding billionaire in 2013’s biopic Jobs; he’s not the most likely actor I would have picked for a historical breaking of typecasting, but a role as one of the most iconic and influential men of the modern technological revolution being given to that guy from Dude, Where’s My Car? was a casting decision reaching Robin Williams in Good Will Hunting levels of unexpectedness. Far from the glimmering success of Williams’ atypically heartbreaking performance, Kutcher’s turn in Jobs appears to have become a bedtime horror story that agents tell their actors before they go to sleep: ‘If you ever break type, the spirit of Ashton Kutcher’s Steve Jobs will possess you and you will never be respected again.’ Shudder. The film itself was apparently so bad that it had to be remade within two years of its release, and so here we are with Steve Jobs. What’s gratifying is that it’s been done very, very well this time.

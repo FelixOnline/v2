@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ellie Johnstone on this year’s silliest orienteering competition
 date: "2015-03-03 14:47:07 +0000"
-
-# Attributes from Felix Online V1
-id: "5324"
-old_path: /cands/5324/amersham-overrun-by-pumpkins
+image: "http://felixonline.co.uk/img/upload/201503031447-ps3110-screen-shot-2015-03-03-at-14.46.58.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5324/amersham-overrun-by-pumpkins
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -24,12 +21,6 @@ authors:
  - ecj13
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503031447-ps3110-screen-shot-2015-03-03-at-14.46.58.png"
-image_caption: ""
 ---
 
 On Saturday 21st February 2015, the Recreational Clubs Committee held its annual Night Hike, a team orienteering-style competition held at night in the countryside around London, open to all students, staff and alumnus of Imperial. This year the competition returned to its original base of Amersham, Buckinghamshire and with a record 44 teams and 151 competitors, it was set to be a night to remember!

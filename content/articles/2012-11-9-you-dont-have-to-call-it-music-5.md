@@ -4,18 +4,15 @@ title: >
 subtitle: >
   avant-garde America
 date: "2012-11-09 14:20:02 +0000"
-
-# Attributes from Felix Online V1
-id: "2870"
-old_path: /music/2870/you-dont-have-to-call-it-music-5
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2870/you-dont-have-to-call-it-music-5
-imported: true
 comments:
  - value: >
      Great ingtihs. Relieved I'm on the same side as you.,I <a href="http://ytdctu.com">recokn</a> you are quite dead on with that.
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - im808
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 _or: ears make music too, you know?_

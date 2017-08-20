@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Naomi Pratt addresses the global struggle against extractivism
 date: "2017-05-19 15:03:17 +0100"
-
-# Attributes from Felix Online V1
-id: "6974"
-old_path: /comment/6974/fuelling-the-resistance
+image: "http://felixonline.co.uk/img/upload/201705191703-felix-33551761313_d7461ff5bb_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6974/fuelling-the-resistance
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - naomipratt
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705191703-felix-33551761313_d7461ff5bb_o.jpg"
-image_caption: ""
 ---
 
 The greatest obstacle to action on climate change is the one most often missing from discourse: the fossil fuel industry. Since comprehension of anthropogenic global warming began, the fossil fuel industry has been ignored in negotiations and subsidised by governments. Much time and energy has been spent over the past decades to reduce consumption of fossil fuels and greenhouse gas emissions, both on an individual as well as on a collective level. However, whether the fix is energy-saving light bulbs or the Paris Agreement, our efforts are undermined by the refusal to address fossil fuel supply. A striking example of this cognitive dissonance is the UK’s commitment to an 80% reduction in emissions by 2050 under the Climate Change Act (2008); now rendered virtually worthless by the Infrastructure Act (2015) which forces future governments to maximise UK petroleum recovery.

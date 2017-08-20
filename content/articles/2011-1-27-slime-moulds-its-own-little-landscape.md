@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A new study shows that some amoeba exhibit a primitive form of agriculture
 date: "2011-01-27 18:57:52 +0000"
-
-# Attributes from Felix Online V1
-id: "660"
-old_path: /science/660/slime-moulds-its-own-little-landscape-
+image: "http://felixonline.co.uk/img/upload/201101271855-ks607-slimestu.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/660/slime-moulds-its-own-little-landscape-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - ks607
  - mjl07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101271855-ks607-slimestu.jpg"
-image_caption: ""
 ---
 
 The humble amoeba is more intelligent than you would think. A new study published in Nature by evolutionary biologists at Rice University has found that the social amoeba Dictyostellum discoideum exhibit a primitive form of agriculture.

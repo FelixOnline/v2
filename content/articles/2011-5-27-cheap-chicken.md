@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Samuel Furse ponders fast food
 date: "2011-05-27 13:57:11 +0100"
-
-# Attributes from Felix Online V1
-id: "1275"
-old_path: /food/1275/cheap-chicken
+image: "http://felixonline.co.uk/img/upload/201105271456-felix-fried-chicken-2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1275/cheap-chicken
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - sf305
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105271456-felix-fried-chicken-2.jpg"
-image_caption: ""
 ---
 
 Cheap Chicken will never die. If anything it is on the increase, despite McDonald’s and the ubiquitous beef burger having been around longer even than most of us. The trouble is that it is looking as though its days may well be numbered, not least because various things have now clipped its wings.

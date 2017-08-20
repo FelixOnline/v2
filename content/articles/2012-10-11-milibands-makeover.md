@@ -4,16 +4,13 @@ title: >
 subtitle: >
   After his party address and mastering of the skill of repetition (“One Nation” - 46 times), the Labour leader is hoping to boost his election chances. Matthew Proctor looks into them.
 date: "2012-10-11 21:02:28 +0100"
-
-# Attributes from Felix Online V1
-id: "2661"
-old_path: /politics/2661/milibands-makeover
+image: "http://felixonline.co.uk/img/upload/201210112202-csw09-nick_clegg-small.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2661/milibands-makeover
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +21,6 @@ authors:
  - csw09
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112202-csw09-nick_clegg-small.jpg"
-image_caption: ""
 ---
 
 Ed Miliband is on a high: his party has a 14 point lead over Cameron’s Conservative party (YouGov/The Sun) who are themselves suffering from somewhat of a crisis of identity as Cameron struggles to find policies that will impress his right-wing backbenchers but will still keep his Lib Dem colleagues satisfied in government.

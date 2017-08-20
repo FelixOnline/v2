@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Philippa Skett reports on the latest finding from the MRC
 date: "2015-04-30 23:03:11 +0100"
-
-# Attributes from Felix Online V1
-id: "5473"
-old_path: /news/5473/ebola-may-increase-cases-of-malaria-
+image: "http://felixonline.co.uk/img/upload/201505010003-ps3110-ebola-liberia-child.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5473/ebola-may-increase-cases-of-malaria-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505010003-ps3110-ebola-liberia-child.jpg"
-image_caption: ""
 ---
 
 The most recent findings from the Medical Research Council (MRC) Centre for Outbreak Analysis & Modelling has predicted an extra 3.5 million cases of malaria as a result of the epidemic. Researchers based at the Centre have also found that the disease hits those under one year of age hardest, with 90% of those infected dying shortly after.

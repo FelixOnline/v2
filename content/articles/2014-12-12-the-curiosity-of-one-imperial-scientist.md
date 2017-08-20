@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix talks to Imperial Professor Sanjeev Gupta on his role in the Mars mission
 date: "2014-12-12 12:59:30 +0000"
-
-# Attributes from Felix Online V1
-id: "5049"
-old_path: /news/5049/the-curiosity-of-one-imperial-scientist-
+image: "http://felixonline.co.uk/img/upload/201412121258-ps3110-msl20110519_pia14156-full.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5049/the-curiosity-of-one-imperial-scientist-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412121258-ps3110-msl20110519_pia14156-full.jpg"
-image_caption: ""
 ---
 
 Imperial scientists working on the Curiosity Rover have revealed how water may have shaped the landscape on Mars. Sanjeev Gupta, a Professor of Earth Science from the Royal School of Mines, teaches multiple undergraduate courses alongside his work with NASA on the Rover, and was part of the team that made the discovery.

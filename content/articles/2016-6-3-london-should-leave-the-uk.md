@@ -4,16 +4,14 @@ title: >
 subtitle: >
   This is the referendum we ought to be having
 date: "2016-06-03 08:56:36 +0100"
-
-# Attributes from Felix Online V1
-id: "6228"
-old_path: /comment/6228/london-should-leave-the-uk
+image: "http://felixonline.co.uk/img/upload/201606031056-felix-car.jpg"
+image_caption: "Stop trying to get in on all the nice stuff we have. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6228/london-should-leave-the-uk
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ap4913
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606031056-felix-car.jpg"
-image_caption: ""
 ---
 
 We have always been the greatest, most prosperous hub for trade in the whole of Western Europe. Countless enemies have dared to invade us, all with the most unsuccessful results. Since Roman times, we have always resisted, preferring death to yield –always united against tyranny and oppression. We have survived Great Fires, Nazi bombings, terrorist attacks. And we never faltered. We had never surrendered our independence.

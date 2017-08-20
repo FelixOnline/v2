@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Unsurprisingly, they're mostly conservative reports Philippa Skett
 date: "2015-05-15 12:31:28 +0100"
-
-# Attributes from Felix Online V1
-id: "5532"
-old_path: /news/5532/the-mps-that-are-now-representing-you
+image: "http://felixonline.co.uk/img/upload/201505151332-cj914-screen-shot-2015-05-15-at-13.31.52.png"
+image_caption: "Top from left to right clockwise: Greg Hands, Mark Field, Victoria Borwick and Andy Slaughter"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5532/the-mps-that-are-now-representing-you
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - cj914
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505151332-cj914-screen-shot-2015-05-15-at-13.31.52.png"
-image_caption: ""
 ---
 
 Areas around South Kensington saw the expected election of several Conservative MPs, although popular student haunt Hammersmith did see the re-election of their current Labour MP, Andy Slaughter.

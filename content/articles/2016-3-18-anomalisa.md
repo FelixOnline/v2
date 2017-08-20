@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-03-18 11:58:34 +0000"
-
-# Attributes from Felix Online V1
-id: "6070"
-old_path: /film/6070/anomalisa
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6070/anomalisa
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +19,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 _Anomalisa_ begins with a single voice. Or maybe single voices. Multiple copies of Tom Noonan’s voice pile up over a blank screen, creating a wall of unintelligible sound. It’s a panoply of voices. A cacophony of voices. An oppression of voices.

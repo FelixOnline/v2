@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Medical School may have to move, and all could happen in three years
 date: "2013-01-10 22:50:29 +0000"
-
-# Attributes from Felix Online V1
-id: "3095"
-old_path: /news/3095/charing-cross-and-hammersmith-hospital-ae-departments-to-close
+image: "http://felixonline.co.uk/img/upload/201301102243-tna08-cxouter.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3095/charing-cross-and-hammersmith-hospital-ae-departments-to-close
-imported: true
 comments:
  - value: >
      The college should regret giving its name to the trust. I quite often have to explain to people pointing the finger (guilt by association you see) that 'we' - the college are in no way responsible for the trusts machinations. The college does enough things which are difficult to excuse without taking on the NHS's.,When the predictable and hysterical, knee jerk reaction has passed this decision will be seen in a far better light. Centralising specialist care allows the limited amount of funds to be directed in the most efficient way which everyone benefits from - better to have one excellent hospital (which is hardly far away!) than two poor ones.,Don't for a moment think that -quote- "You'll get better treatment when you get there" is true. 'They' should be saying "You'll get better treatment IF you get there". In Thanet (Margate, Ramsgate, Broadstairs and outlying villages) we are due to lose our 24hour status, putting everybody living or visiting the seaside, outside the time specified by the Royal College
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102243-tna08-cxouter.jpg"
-image_caption: ""
 ---
 
 Charing Cross and Hammersmith A&E departments are going to be closed.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A play with more than the average number of sofa-wetting whale references
 date: "2011-12-01 20:34:03 +0000"
-
-# Attributes from Felix Online V1
-id: "1872"
-old_path: /arts/1872/wraith-the-roof-with-dramsoc
+image: "http://felixonline.co.uk/img/upload/201112012033-ams111-_dsc1515.jpg"
+image_caption: "James took it into his own hands to complain about caption quality"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1872/wraith-the-roof-with-dramsoc
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - sjw209
  - wsp10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012033-ams111-_dsc1515.jpg"
-image_caption: ""
 ---
 
 It’s been nearly eight years to the day since the final installment of the _Lord of the Rings_ trilogy hit our screens - eight long years with little but over-sexed vampires and under-sexed boy wizards to fill the void. Clearly spotting an audience starved of orcs and elves, DramSoc’s latest productions takes the Dungeons and Dragons out of Beit basements and brings them to the stage.

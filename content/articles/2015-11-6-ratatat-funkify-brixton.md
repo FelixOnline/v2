@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Mast and Stroud have their hands full on stage in a constant frenzy of gnarly jams
 date: "2015-11-06 14:18:05 +0000"
-
-# Attributes from Felix Online V1
-id: "5710"
-old_path: /music/5710/ratatat-funkify-brixton
+image: "http://felixonline.co.uk/img/upload/201511061416-ygr12-ratatat2.jpg"
+image_caption: "Ratatat bring the jam like your aunt does at tea time."
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5710/ratatat-funkify-brixton
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - he915
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511061416-ygr12-ratatat2.jpg"
-image_caption: ""
 ---
 
 As those of you who speak to me on a regular basis know, I went to see Ratatat live in Brixton the other day. I couldn’t help pouring gloat after gloat out my face-hole. Eat it, Josh! I was on the guest list!

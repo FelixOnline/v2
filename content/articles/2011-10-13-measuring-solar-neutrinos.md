@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Experiment reveals accuracy of new solar neutrino data
 date: "2011-10-13 21:36:14 +0100"
-
-# Attributes from Felix Online V1
-id: "1508"
-old_path: /science/1508/measuring-solar-neutrinos
+image: "http://felixonline.co.uk/img/upload/201110132229-felix-borex_people_1hi-res.jpg"
+image_caption: "A scintillating view of the BOREXINO neutrino detector in Italy – top lads"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1508/measuring-solar-neutrinos
-imported: true
 comments:
  - value: >
      L/c would be the proper time seen by an obevesrr travelling on the beam of light, the shortest time to travel a distance L. I do know the standard proper time definition But for all practical purposes, my use is not bad there.By the other hand, I agree with about your critics on the other side. I read my Master thesis on neutrinos last October, but I did not focus on Supernova neutrinos (just reading on it in the last days), I was more general and I did a general review on neutrino Physics. Yeah, it is the density during the collapse and the increasingly high density what somehow ties photons with a block-out, Perhaps I should have not gone deeper on the Supernova issue, but indeed I remember that the time of flight calculation I did was suggested in some of my books on neutrinos. I will fix it ( I had other two mistakes I had to fix too I was doing and I am yet a crash course on SR in order to pave the path into a more ambitious plan for my blog: discuss Physics and Mathematics at higher level). Thank y
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110132229-felix-borex_people_1hi-res.jpg"
-image_caption: ""
 ---
 
 Every second each centimetre of the surface of the Earth is bombarded by 6×10^10 solar neutrinos –produced by nuclear fusion and the decay of isotopes such as beryllium-7. Writing in [Physical Review Letters](http://prl.aps.org/), an international collaboration of scientists has announced the unprecedented accuracy of new solar neutrino data from the [BOREXINO experiment](http://borex.lngs.infn.it/) at the [Laboratori Nazionale del Gran Sasso](http://www.lngs.infn.it/), in central Italy.

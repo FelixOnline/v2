@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Kunal Wagle takes a look at what’s been going on outside the BUCS League
 date: "2014-11-06 19:28:28 +0000"
-
-# Attributes from Felix Online V1
-id: "4779"
-old_path: /sport/4779/in-case-you-missed-it-in-the-world-of-sport
+image: "http://felixonline.co.uk/img/upload/201411061928-cj914-js50045375.jpg"
+image_caption: "We won't know until December if Brendan Rodgers' Champions League gamble pays off"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4779/in-case-you-missed-it-in-the-world-of-sport
-imported: true
 comments:
  - value: >
      Wow that was strange. I just wrote an very long comment but after I clicked submit my comment didn7#821&amp;;t show up. Grrrr… well I’m not writing all that over again. Regardless, just wanted to say fantastic blog!
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +26,6 @@ authors:
  - kmw13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411061928-cj914-js50045375.jpg"
-image_caption: ""
 ---
 
 In the Champions League Arsenal blew a 3-0 lead to only draw against Anderlecht at the Emirates. Liverpool’s game at Real Madrid was the source of much discussion, as manager Brendan Rodgers opted to field a much changed eleven against the Galacticos. The Reds lost 1-0.

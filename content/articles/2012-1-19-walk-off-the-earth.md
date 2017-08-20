@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Theo Pavlakou on the enlightening covers of the lastest viral outfit
 date: "2012-01-19 20:55:10 +0000"
-
-# Attributes from Felix Online V1
-id: "2023"
-old_path: /music/2023/walk-off-the-earth
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2023/walk-off-the-earth
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - cac111
  - tp710
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 We’ve all heard __Walk Off the Earth__’s cover of ‘_Somebody That I Used to Know_’ by Gotye, and if you haven’t then you should get on it, because these guys are actually good. Actually, they’re better than good. They’re talented. And they use their talent creatively.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Dave Krishna gets his Karate Kid on...
 date: "2012-11-23 00:08:36 +0000"
-
-# Attributes from Felix Online V1
-id: "2961"
-old_path: /sport/2961/shorinji-kempo
+image: "http://felixonline.co.uk/img/upload/201211230009-tna08-maks%20nage.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2961/shorinji-kempo
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - fsport
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211230009-tna08-maks%20nage.jpg"
-image_caption: ""
 ---
 
 It is a Sunday morning in Finsbury Park. Unusually for London in November, the sun’s rays play across the city, giving relief from the slight chill in the air. The lack of any discernible tension in the air conceals the fact that the area will soon see the commencing of the 2012 British Shorinji Kempo Federation (BSKF) Taikai Competition.

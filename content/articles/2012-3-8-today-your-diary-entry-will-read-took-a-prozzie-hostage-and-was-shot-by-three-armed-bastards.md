@@ -4,16 +4,14 @@ title: >
 subtitle: >
   My name is Alex Drake, I’ve just been shot and that bullet has sent me back to 1981. I may be one second away from life, or one second away from death. All I know is that I have to keep fighting: fight to live, fight to see my daughter, fight to get home.
 date: "2012-03-08 21:32:16 +0000"
-
-# Attributes from Felix Online V1
-id: "2325"
-old_path: /tv/2325/today-your-diary-entry-will-read-took-a-prozzie-hostage-and-was-shot-by-three-armed-bastards
+image: "http://felixonline.co.uk/img/upload/201203082131-ams111-a2a.jpg"
+image_caption: "Fire up the quattro"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/2325/today-your-diary-entry-will-read-took-a-prozzie-hostage-and-was-shot-by-three-armed-bastards
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -25,12 +23,6 @@ authors:
  - gb610
  - tvfelix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203082131-ams111-a2a.jpg"
-image_caption: ""
 ---
 
 Alex Drake (the smoking hot Keeley Hawes) is a trained police psychologist and negotiator who has recently been researching the case of Sam Tyler, an officer who claimed to have been sent back to 1973 after being hit by a car in 2006.

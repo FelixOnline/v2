@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ned Yoxall does Ironman for charity: part 2
 date: "2012-10-18 21:03:29 +0100"
-
-# Attributes from Felix Online V1
-id: "2688"
-old_path: /sport/2688/becoming-ironman-part-2
+image: "http://felixonline.co.uk/img/upload/201210191350-tna08-0235_28584.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2688/becoming-ironman-part-2
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210191350-tna08-0235_28584.jpg"
-image_caption: ""
 ---
 
 On race morning I got out of bed just after 4 and gorged myself on porridge and muesli. It’s an odd feeling waking up so early knowing that you’re going to spend an entire day exercising. Almost all of it will be uncomfortable (as in you’d kind of like to do something else instead) and a good chunk of it will be really painful (as in you’d really like to be doing something else).

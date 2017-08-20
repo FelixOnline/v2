@@ -4,16 +4,13 @@ title: >
 subtitle: >
   I remember going back a year after the war ended
 date: "2011-01-27 19:38:24 +0000"
-
-# Attributes from Felix Online V1
-id: "672"
-old_path: /comment/672/learning-lessons-from-the-past-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/672/learning-lessons-from-the-past-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - nd507
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The audience were in complete silence for 64 minutes. Everyone was hanging onto every single word that Lilly Ebert, a Holocaust survivor, spoke. Her story is another one of the countless testimonies we have all been listening to since the survivors vouched to share their stories again and again so that we could prevent something so tragic, so monstrous, so inhumane from ever happening again. Have we learned our lesson though?

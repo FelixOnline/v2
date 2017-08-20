@@ -4,18 +4,16 @@ title: >
 subtitle: >
   It's time to pick holes in the Doctor's nebulous, wibbly wobbly, timey-wimey thread
 date: "2011-10-07 12:44:03 +0100"
-
-# Attributes from Felix Online V1
-id: "1493"
-old_path: /tv/1493/doctor-who-in-plot-hole-drama-again
+image: "http://felixonline.co.uk/img/upload/201110071343-felix-impossible-astronaut.jpg"
+image_caption: "Was this series up to scratch, or does it need regenerating?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1493/doctor-who-in-plot-hole-drama-again
-imported: true
 comments:
  - value: >
      Overall a good review, and you get to the crux of the matter (poor writing) quite well, and I liked your analysis at the end regarding how you think the show'll never reach it's potential. But I find your opinions on individual episodes totally bizarre! <br> <br>You said 'Let's Kill Hitler' was near perfect. Seriously? It was by far the worst episode in the series, and it's a contender for the worst episode in the entire DW revival. There was just nothing to it. It was a prime example of something that is unfortunately becoming commonplace in DW: a "story arc" episode. If you're an intelligent writer you weave this plot stuff elegantly into your episode, not just plonk it all in the middle of your series. Plus, for an episode with such a provactive title, it would have been nice for Hitler to feature for more than like 10 seconds and for the fact we're in WW2 Germany to have actually been used in any meaningful way at all - we could have been in space and the script would have been identical.,I also can't believe y
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110071343-felix-impossible-astronaut.jpg"
-image_caption: ""
 ---
 
 Given that this is Imperial I’m sure that few of you will be unaware that last Saturday saw the broadcast of [‘The Wedding of River Song’](http://www.youtube.com/watch?v=DwYy-gj3oiQ) - the final episode of the latest series of Doctor Who. This has been probably one of the best series since the 2005 revival of the show. Starting with the chilling image of a future version of the Doctor being killed in [‘The Impossible Astronaut’](http://www.youtube.com/watch?v=_6wTNPpXXOM) it included the wonderful exploration of the Doctor’s companion Amy that was [‘The Girl Who Waited’](http://www.youtube.com/watch?v=M7tsEpOi1y0) and the near perfect [‘Let’s Kill Hitler’](http://www.youtube.com/watch?v=N-Zw1QDpg9g). It’s not surprising that I had high hopes for this episode.

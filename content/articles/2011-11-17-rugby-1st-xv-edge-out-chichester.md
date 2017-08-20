@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Third win in a row sees 1sts go top of their league
 date: "2011-11-17 22:29:48 +0000"
-
-# Attributes from Felix Online V1
-id: "1794"
-old_path: /sport/1794/rugby--1st-xv-edge-out-chichester
+image: "http://felixonline.co.uk/img/upload/201111172229-felix-varsity2011-454.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1794/rugby--1st-xv-edge-out-chichester
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - dmw08
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172229-felix-varsity2011-454.jpg"
-image_caption: ""
 ---
 
 __Rugby__

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Marianne Teoh gives us the Fashion low-down from Benicàssim
 date: "2012-10-05 12:03:29 +0100"
-
-# Attributes from Felix Online V1
-id: "2610"
-old_path: /fashion/2610/festival-fashion
+image: "http://felixonline.co.uk/img/upload/201210051303-felix-img_5668.jpg"
+image_caption: "Katy B. Microphones are for losers, and talanted people – BURRRN"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/2610/festival-fashion
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210051303-felix-img_5668.jpg"
-image_caption: ""
 ---
 
 This summer Felix hit up the east coast of Spain, on a mission to discover the summer styles at Benicàssim Music Festival (Festival Internacional de Benicàssim).

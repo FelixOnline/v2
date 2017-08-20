@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This week 2,700 students graduated from various postgraduate course in the Royal Albert Hall.
 date: "2014-05-09 01:58:05 +0100"
-
-# Attributes from Felix Online V1
-id: "4567"
-old_path: /news/4567/postgraduate-graduation-ceremony-in-royal-albert-hall
+image: "http://felixonline.co.uk/img/upload/201405090258-jal08-news_graduation.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4567/postgraduate-graduation-ceremony-in-royal-albert-hall
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405090258-jal08-news_graduation.jpg"
-image_caption: ""
 ---
 
 This week 2,700 students graduated from various postgraduate course in the Royal Albert Hall.

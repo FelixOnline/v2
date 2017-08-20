@@ -4,16 +4,13 @@ title: >
 subtitle: >
   From the blatant rejection of some races to the fetishisation of others, OkCupid shows us that you probably are.
 date: "2016-10-21 12:49:40 +0100"
-
-# Attributes from Felix Online V1
-id: "6346"
-old_path: /sex/6346/are-you-a-tinder-racist
+image: "http://felixonline.co.uk/img/upload/201610211459-so515-Screen Shot 2016-10-21 at 14.56.40.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sex/6346/are-you-a-tinder-racist
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sex
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610211459-so515-Screen Shot 2016-10-21 at 14.56.40.png"
-image_caption: ""
 ---
 
 Racial discrimination. It’s everywhere. Blatant or covert. If you deny that it’s an integral part of our society, you’re either an alien or white. Workplace, education, media. It seeps through every aspect of society. So it obviously comes as no surprise that it would influence the way we select our partners.

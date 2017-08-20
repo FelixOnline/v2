@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Corbyn’s team will be fighting inequality from Kensington and Chelsea
 date: "2015-11-13 14:23:15 +0000"
-
-# Attributes from Felix Online V1
-id: "5721"
-old_path: /news/5721/labour-hq-moving-to-high-street-kensington
+image: "http://felixonline.co.uk/img/upload/201511131423-ygr12-corbz.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5721/labour-hq-moving-to-high-street-kensington
-imported: true
 comments:
  - value: >
      Yes! Finally something about %keyword1%. <br>ray ban 3362 prezzo http://www.targettisportingclub.it/?it-ray-ban-3362-prezzo-23920.html,I enjoy this website - its so usefull and helpfull <br>NBA 2K17 http://csgoskinsrare.hatenablog.com/entry/2016/08/11/113617,Passion the site-- very user friendly and whole lots to see! <br>nba 2k17 vc http://www.blogghy.com/blog.php?user=alma41hl&amp;note=969998,Hi-ya, excellent web page you have in here <br>nhl 17 coins http://www.eyyal.com/index.php?do=/forum/thread/1755/buy-nba-2k17-coins-have-the-ability-to-enjoy-enormous/,Wow... this is a helpful web site <br>nhl 17 https://message.diigo.com/message/buy-fifa-17-coins-totally-free-from-infections-4380229?page_num=0#0,Really trsttworuhy blog. Please keep updating with great posts like this one. I have booked marked your site and am about to email it to a few friends of mine that I know would enjoy reading..
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511131423-ygr12-corbz.jpg"
-image_caption: ""
 ---
 
 In the most exciting development in High Street Kensington since the Odeon was shut down, this week it was announced that the Labour headquarters would be uprooting from its current offices in Westminster and relocating to within walking distance of Imperial College London.

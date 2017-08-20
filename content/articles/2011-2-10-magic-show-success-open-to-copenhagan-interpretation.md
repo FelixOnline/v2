@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A review of 'Real Tricks: The Quantum Mechanics Show'
 date: "2011-02-10 20:23:47 +0000"
-
-# Attributes from Felix Online V1
-id: "772"
-old_path: /science/772/magic-show-success-open-to-copenhagan-interpretation-
+image: "http://felixonline.co.uk/img/upload/201102102022-ks607-rabbitin.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/772/magic-show-success-open-to-copenhagan-interpretation-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102102022-ks607-rabbitin.jpg"
-image_caption: ""
 ---
 
 It is somewhat topsy-turvy to say that there are no mysteries in magic, but plenty in physics. But as Dr Nic Harrigan, our Master of Ceremonies for the evening (complete with magician’s attire), explained: all magic tricks are explicable, but not all physics is yet understood. And no area of physics is as enigmatic and so begging of explanation than quantum mechanics. ‘Real Tricks: The Quantum Mechanics Show’ aims to draw parallels between magic tricks and the quirks of quantum mechanics. As we settled down for the show, it struck me that linking quantum mechanics with a magician’s tricks most adequately demonstrated the power with which it has to bewilder even the most skilled physicists; as Richard Feynman famously opined: “I think it is safe to say that no one understands quantum mechanics.”

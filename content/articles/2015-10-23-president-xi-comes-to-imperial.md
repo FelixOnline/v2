@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The General Secretary of the Communist Party of China met with students and scientists while on a state visit
 date: "2015-10-23 10:49:37 +0100"
-
-# Attributes from Felix Online V1
-id: "5662"
-old_path: /news/5662/president-xi-comes-to-imperial
+image: "http://felixonline.co.uk/img/upload/201510231225-ygr12-smaller.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5662/president-xi-comes-to-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510231225-ygr12-smaller.jpg"
-image_caption: ""
 ---
 
 On Wednesday, Chinese President Xi Jinping stopped off at Imperial to celebrate collaboration between Chinese institutions and the College. Imperial proudly repeated the statistic that since 2003, the number of UK papers published in Nature with a co-author in China had jumped from 3% to 22%.

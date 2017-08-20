@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Senegalese protests intensify
 date: "2012-02-02 19:48:27 +0000"
-
-# Attributes from Felix Online V1
-id: "2095"
-old_path: /politics/2095/fresh-protests-in-senegal
+image: "http://felixonline.co.uk/img/upload/201202021947-ams111-abdoulaye_wade_wef_2004.jpg"
+image_caption: "Abdoulaye Wade remains defiant"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2095/fresh-protests-in-senegal
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - rj408
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202021947-ams111-abdoulaye_wade_wef_2004.jpg"
-image_caption: ""
 ---
 
 Police have been deployed in towns across Senegal, and are reported to have killed two people in the northern town of Podor, as protests intensify. Rallies have been organised after President Abdoulaye Wade declared his intention to stand for a third term.

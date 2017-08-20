@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Royal British Legion and Imperial College London hit back at accusations made by the Mail On Sunday
 date: "2014-11-03 11:24:57 +0000"
-
-# Attributes from Felix Online V1
-id: "4756"
-old_path: /news/4756/investigation-into-use-of-human-tissue-at-imperial-condemned-as-insensitive-and-highly-misleading
+image: "http://felixonline.co.uk/img/upload/201411031124-ps3110-prince-harry-opens-blast-centre.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4756/investigation-into-use-of-human-tissue-at-imperial-condemned-as-insensitive-and-highly-misleading
-imported: true
 comments:
  - value: >
      say thanks to so a lota lot for your website it helps a whole lot <br>csgo http://wulongguan.com/comment/html/index.php?page=1&amp;id=38508,Great internet sitewebsite! It looks really professional! Maintain the helpful job! <br>madden 17 coins http://akordy.pl/1445/cheap-fifa-17-coins-are-particularly-designed
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411031124-ps3110-prince-harry-opens-blast-centre.jpg"
-image_caption: ""
 ---
 
 An “investigation” into the use of human tissues at Imperial by the [Mail on Sunday](http://www.dailymail.co.uk/news/article-2817170/How-poppy-money-funds-macabre-trade-human-legs-feet-5million-British-legion-lab-opened-Prince-Harry-imports-body-parts-bomb-blasts-tests.html) has been condemned by the College and the Royal British Legion Centre.

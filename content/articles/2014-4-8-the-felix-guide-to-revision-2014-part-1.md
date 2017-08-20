@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Felix breaks the exam panic with some useful revision tips!
 date: "2014-04-08 13:52:16 +0100"
-
-# Attributes from Felix Online V1
-id: "4531"
-old_path: /features/4531/the-felix-guide-to-revision-2014---part-1
+image: "http://felixonline.co.uk/img/upload/201404081452-jal08-201309271824-jal08-studyhabitspicture.jpg"
+image_caption: "Something to do with Fluid Mechanics maybe?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4531/the-felix-guide-to-revision-2014---part-1
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +21,6 @@ authors:
  - jal08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201404081452-jal08-201309271824-jal08-studyhabitspicture.jpg"
-image_caption: ""
 ---
 
 Most of you will be revising (or trying to) over the Easter break, either panicking or comfortably smug and prepared, having started revision before the year started.

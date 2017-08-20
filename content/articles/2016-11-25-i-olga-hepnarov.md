@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Eyes of a killer
 date: "2016-11-25 14:01:20 +0000"
-
-# Attributes from Felix Online V1
-id: "6506"
-old_path: /film/6506/i-olga-hepnarov
+image: "http://felixonline.co.uk/img/upload/201611251400-felix-Michalina_Olszanska_3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6506/i-olga-hepnarov
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - ff712
  - theofarah13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611251400-felix-Michalina_Olszanska_3.jpg"
-image_caption: ""
 ---
 
 T  he directorial debut from Czech directors Petr Kazda and Tomás Weinreb – I, Olga Hepnarová – takes its title from a line in the manifesto left behind by the last woman to be executed in Czechoslovakia. In 1973, at the age of 22, Hepnarová ran over a group of people with a truck, killing eight, and was executed with short-drop hanging. But the title also acts as an invitation. It invites us to try and get inside the mind of a killer to attempt to shed some light on what, exactly, drove a young girl to commit such a horrific act. A pity, then, that the end result is so dark and unilluminating.

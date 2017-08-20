@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Housemaid is a rollercoaster ride of suspense and sensuality
 date: "2010-11-18 20:48:02 +0000"
-
-# Attributes from Felix Online V1
-id: "394"
-old_path: /film/394/south-koreas-sharp-suspenseful-thriller
+image: "http://felixonline.co.uk/img/upload/201011182046-nm1010-housemai.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/394/south-koreas-sharp-suspenseful-thriller
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011182046-nm1010-housemai.jpg"
-image_caption: ""
 ---
 
 The [London Korean Film Festival](http://www.koreanfilm.co.uk/) is here and brings with it a wide range of extraordinary films that prove that South Korean cinema is churning out some of the best films internationally. The Housemaid, a taut, intricately-plotted erotic thriller, is the perfect example of a suspenseful rollercoaster ride that creates its thrills with a central plot full of twists, outstanding performances, sharp dialogue, evocative cinematography and, quiet but sensual atmosphere.

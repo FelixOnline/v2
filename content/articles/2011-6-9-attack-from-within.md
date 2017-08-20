@@ -4,16 +4,13 @@ title: >
 subtitle: >
   aaedfaefadf
 date: "2011-06-09 20:31:39 +0100"
-
-# Attributes from Felix Online V1
-id: "1342"
-old_path: /phoenix/1342/attack-from-within
+image: "http://felixonline.co.uk/img/upload/201106092131-felix-rafaels.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/1342/attack-from-within
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106092131-felix-rafaels.jpg"
-image_caption: ""
 ---
 
 The sound of the radio was not loud enough to drown out the cries from upstairs. Sophie continued with her routine, putting the shopping away, unloading the dishes; making sure everything was in its rightful place. She paused, just briefly, to adjust the old radio, which seemed to be getting quieter and quieter these days. She still had the whole of the downstairs to vacuum before she could even start dinner and, with a small sigh, crossed into the dimly lit corridor towards the cupboard under the stairs. It took a while for her eyes to adjust to the dark, and while she was scrabbling to find the door handle, the abrasive noise from upstairs registered again. Realising she could no longer put off going to see her, and with no small measure of trepidation, she ascended the staircase and gently knocked on the door at the end of the landing.

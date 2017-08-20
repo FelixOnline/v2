@@ -4,17 +4,14 @@ title: >
 subtitle: >
   God that encore tho
 date: "2016-11-07 13:50:07 +0000"
+image: "http://felixonline.co.uk/img/upload/201611071349-felix-IMG_5847.JPG"
 draft: true
-
-# Attributes from Felix Online V1
-id: "6411"
-old_path: /music/6411/glass-animals-at-the-roundhouse
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6411/glass-animals-at-the-roundhouse
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611071349-felix-IMG_5847.JPG"
-image_caption: ""
 ---
 
 Entering the venue, the mood of the night to come seemed to emanate throughout. Huge Tetris shaped lights hang high above the stage, glowing a bright orange/yellow light across the growing audience. After a short entrance, the band wastes no time before jumping into their first song, _Life Itself_ – a catchy, drum-heavy song that entices you to dance along. The front-man, Dave Bayley, starts leaping around the stage while sending his voice flying across the venue in almost flawless tone and clarity.

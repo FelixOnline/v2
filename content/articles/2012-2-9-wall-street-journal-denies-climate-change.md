@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Paper goes against Congress, NASA, and Departments of State
 date: "2012-02-09 22:46:28 +0000"
-
-# Attributes from Felix Online V1
-id: "2161"
-old_path: /science/2161/wall-street-journal-denies-climate-change
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2161/wall-street-journal-denies-climate-change
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - ak6309
  - cc1109
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 With the 2012 US election fast approaching, the politicisation of climate change is something that many Americans can look forward to. It would be foolish to assume that US media is also immune from political influence in a system as pervasive as the USA’s – most media corporations fly their blue or red flags willingly. One such media outlet that has come under repeated criticism for its editorial board’s willingness to publish factually incorrect and misleading opinions about climate change science is the [News Corp](http://www.newscorp.com/)[_Wall Street Journal_](http://europe.wsj.com/home-page), the most widely circulated newspaper in the Western world. On January 27, it published a letter from 16 scientists claiming climate alarmism is a ploy by scientists to maintain funding, for governments to raise taxes and for charities to trick people into donating money to them.

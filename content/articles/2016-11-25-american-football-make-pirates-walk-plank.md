@@ -4,16 +4,13 @@ title: >
 subtitle: >
   If you know what I mean
 date: "2016-11-25 14:52:39 +0000"
-
-# Attributes from Felix Online V1
-id: "6517"
-old_path: /sport/6517/american-football-make-pirates-walk-plank
+image: "http://felixonline.co.uk/img/upload/201611251452-felix-Second_game felix.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6517/american-football-make-pirates-walk-plank
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - imrajsingh
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611251452-felix-Second_game felix.jpg"
-image_caption: ""
 ---
 
 It has been a rough road for the IC Immortals, recently relegated from the highest tier of American Football in the country, to Division one. Immortals have now had the sweet taste of victory that had been missed so dearly.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   On Monday night the most exclusive fashion event of the year took place in New York City, and its famous guests wowed us with their style.
 date: "2014-05-09 15:03:17 +0100"
-
-# Attributes from Felix Online V1
-id: "4582"
-old_path: /fashion/4582/the-best-dressed-stars-of-the-2014-met-gala-beyond-fashion
+image: "http://felixonline.co.uk/img/upload/201405091605-jal08-zoe-saldana-met-gala-2014.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/4582/the-best-dressed-stars-of-the-2014-met-gala-beyond-fashion
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -24,12 +21,6 @@ authors:
  - czb11
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405091605-jal08-zoe-saldana-met-gala-2014.jpg"
-image_caption: ""
 ---
 
 On Monday night the most exclusive fashion event of the year took place in New York City, and its famous guests wowed us with their style.

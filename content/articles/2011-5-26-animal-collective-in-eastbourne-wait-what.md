@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The sleepy south coast plays host to avant-garde New York collective
 date: "2011-05-26 19:52:26 +0100"
-
-# Attributes from Felix Online V1
-id: "1264"
-old_path: /music/1264/animal-collective-in-eastbourne-wait-what
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1264/animal-collective-in-eastbourne-wait-what
-imported: true
 comments:
  - value: >
      Thanks for coming by. We have an ocensbe number of cats here. I have six and my mom has one. Four Siamese but not the aristocratic kind. Three Ragdolls. There is usually one stationed in the front picture window, keeping watch when we leave in the car and there when we get back. I often wonder if this lookout shouts to the others that the coast is clear when we leave and warns them to stop the mischief when we show up.,August 31, 2009 THE RIGHTWAY MISSION ASSOCIATIONSUB: Looking Prayer Partners, Ministry partners and<a href="http://ozsohbbhphx.com"> aftoliafiin</a>Greetings in the name of Lord Jesus Christ!Dear Friends in Christ,I am happy to visit u website, it’s really a nice and wonderful effort for the glory of god. By the grace of God and by the help of few local and little self support churches and their pastors we r holding a missionary movement for revival in Pakistan. Named “THE RIGHTWAY MISSION ASSOCIATION” since this year.Brother we have the burden and passion and we are commit
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -27,12 +24,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It would probably be the first, and last time that the sheltered residents of Eastbourne would see the word ‘Supreme’ with the word ‘chicken’ preceding it. Yes, a sizeable crowd of hipsters had made the perilous journey out of London and Brighton to the mundane streets of my elderly hometown – also known as God’s waiting room.

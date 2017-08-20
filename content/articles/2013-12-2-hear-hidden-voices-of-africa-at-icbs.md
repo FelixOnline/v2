@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Two local men, Chris and Ally, saw the plight of teenagers and decided to set up a centre where young people can learn basic skills. Together, through much personal sacrifice, they purchased a building in Usa River, about twelve miles outside Arusha.
 date: "2013-12-02 13:13:04 +0000"
-
-# Attributes from Felix Online V1
-id: "4148"
-old_path: /features/4148/hear-hidden-voices-of-africa-at-icbs
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4148/hear-hidden-voices-of-africa-at-icbs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +20,6 @@ authors:
  - fcomment
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Hope comes before sunrise, a dream in hand and the promise of a better future. For the children of Tanzania, this is not always true. Less than 20% of Tanzanian children have access to secondary school education. This is due to the lack of funds and secondary schools that do not work closely together. However, a glimmer of hope comes in the form of TEKUA. As an education centre that provides free education for the neediest students, TEKUA aims to empower its students with knowledge, giving them a means to make a living. TEKUA gives them hope, and our dream of a better future.

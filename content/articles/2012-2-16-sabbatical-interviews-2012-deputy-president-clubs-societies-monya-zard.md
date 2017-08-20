@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The DPCS speaks on Freshers' Fair and the challenges of having responsibility for over 300 Clubs, Societies & Projects
 date: "2012-02-16 23:08:48 +0000"
-
-# Attributes from Felix Online V1
-id: "2218"
-old_path: /news/2218/sabbatical-interviews-2012-deputy-president-clubs--societies--monya-zard
+image: "http://felixonline.co.uk/img/upload/201202162307-sjw209-monyazard.jpg"
+image_caption: "Deputy President (Clubs & Societies) Monya Zard"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2218/sabbatical-interviews-2012-deputy-president-clubs--societies--monya-zard
-imported: true
 comments:
  - value: >
      As far as I can see this whole job is simply a glorified administrator. Applicants need only be vacant minded, absent of respect to clubs (including gender equality) and part of the usual inbred "chosen" few pushed forward for the "job." With recent hires of 2 additional members of staff to assist in this role, the union effectively now has 4 members of staff (not to be named publicly) all doing the same job!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162307-sjw209-monyazard.jpg"
-image_caption: ""
 ---
 
 __What have you enjoyed most?__

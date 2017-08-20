@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Lauren Ratcliffe gets you up-to-date and busts some common myths surrounding this global conundrum
 date: "2015-03-09 19:13:46 +0000"
-
-# Attributes from Felix Online V1
-id: "5378"
-old_path: /science/5378/climate-change-is-like-an-unwashed-dish-dont-believe-me-
+image: "http://felixonline.co.uk/img/upload/201503091913-ps3110-animals_beasts_polar_bear_on_ice_floe_025761_.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5378/climate-change-is-like-an-unwashed-dish-dont-believe-me-
-imported: true
 comments:
  - value: >
      This page definitely has all the information I needed concerning this subject and didn't know who to ask. <br>ugg australia yia yia denver http://test.negrifirman.com/?it-ugg-australia-yia-yia-denver-3360.html,It is perfect time to make a few plans for the future and it's time to be happy. I've learn this put up and if I could I want to recommend you few attention-grabbing things or tips. Perhaps you could write subsequent articles regarding this article. I wish to learn more things approximately it! <br>oakley frogskins malaysia http://www.targettisportingclub.it/?it-oakley-frogskins-malaysia-20276.html,http://prednisone-order-20mg.com/ - Prednisone 20 Mg Generic Viagra http://cialis5mg-20mg.com/,http://prednisone-order-20mg.com/ - No Prescription Prednisone Buy Viagra Online Usa http://cialis5mg-20mg.com/,The best we can do is to make people aware. Look for local farmers markets, and local chicken keee3rsRp0; many sell their eggs on craig’s list. Thanks for your concern!
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503091913-ps3110-animals_beasts_polar_bear_on_ice_floe_025761_.jpg"
-image_caption: ""
 ---
 
 You guys already know that global warming is not a myth, nor an April fools trick. It’s a growing concern that we and future generations are facing. Earth’s blood, so to speak, is on humanity’s hands and it is our responsibility to acknowledge, understand and find solutions to this challenge. I talk about ‘humanity’, but in reality it is the actions of every individual, both you and me, which shape the course of our amalgam.

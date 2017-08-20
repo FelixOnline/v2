@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Felix investigates Imperial’s preconceptions with a profession keen to take on some of the country’s top science graduates
 date: "2011-10-20 19:48:15 +0100"
-
-# Attributes from Felix Online V1
-id: "1556"
-old_path: /news/1556/why-should-you-go-into-teaching
+image: "http://felixonline.co.uk/img/upload/201110202045-felix-img_6609.jpg"
+image_caption: "The unused green chalk looks on enviously at his academically superior comrade"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1556/why-should-you-go-into-teaching
-imported: true
 comments:
  - value: >
      I am rather afraid the authors may have over looked the teaching course (a PGCE) run by Imperial. Have a look at http://www3.imperial.ac.uk/inspire for more details.,I am rather afraid the authors may have over looked the teaching course (a PGCE) run by Imperial. Have a look at http://www3.imperial.ac.uk/inspire for more details.,I am rather afraid the authors may have over looked the teaching course (a PGCE) run by Imperial. Have a look at http://www3.imperial.ac.uk/inspire for more details.,I am rather afraid the authors may have over looked the teaching course (a PGCE) run by Imperial. Have a look at http://www3.imperial.ac.uk/inspire for more details.,Hi everyone! The article briefly mentioned that Teach First will be holding a Milkround presentation on the 24th October (Monday). It will take place at 6:30pm in the Reed Lecture Theatre (Level 5, Sherfield building) and there will be lots of free food! <br> <br>Here's a link to the Facebook event: <br> <br>https://www.facebook.com/event.php?eid=286713848013248,H
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -33,12 +31,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110202045-felix-img_6609.jpg"
-image_caption: ""
 ---
 
 Can you think of any reason why an Imperial student might want to become a teacher?” “They got a third class, maybe?” This response from a second year mathematician may well sum up the opinions of some Imperial students, and indeed a section of society’s wider opinion of the profession. We’ve all heard the age-old adage, “if you can’t do; teach”. And, with the starting salary for teaching being significantly lower than the average starting salary for Imperial graduates, not to mention challenging classroom conditions, it isn’t hard to imagine why the UK faces its largest shortage of Science, Technology, Engineering and Maths (STEM) teachers. “You’d be at the bottom of society. You’d be in your crappy Smart car and everyone would be looking at you”, the mathematician continues. This week we challenge some of the misconceptions surrounding teaching, and ask why more Imperial graduates don’t generally consider teaching as an acceptable career option.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   NT's re-run of Duncan Macmillan's play about addiction is not to be missed.
 date: "2016-03-30 18:43:15 +0100"
-
-# Attributes from Felix Online V1
-id: "6083"
-old_path: /arts/6083/psychedelia-and-existentialism-hand-in-hand
+image: "http://felixonline.co.uk/img/upload/201603301938-jc7413-Denise Gough (Emma)&company in People,Places&Things by JohanPersson.jpg"
+image_caption: "Denise Gough as Emma, and the ensemble"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6083/psychedelia-and-existentialism-hand-in-hand
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +21,6 @@ authors:
  - jc7413
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603301938-jc7413-Denise Gough (Emma)&company in People,Places&Things by JohanPersson.jpg"
-image_caption: ""
 ---
 
 As I sat placidly in my seat waiting for the play to start, the announcement to turn off our mobile phones was played. That was all expected. But then the announcement repeated itself, and it seemed that a thousand voices were echoing it at the same time, louder and louder and reaching a mad climax – then in a snap the theatre went dark and a scene from _The Seagull_ appeared before us.

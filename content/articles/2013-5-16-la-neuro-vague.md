@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The title is a reference to Nouvelle Vague, I think. For more information on niche references, email arts.felix@imperial.ac.uk
 date: "2013-05-16 17:46:13 +0100"
-
-# Attributes from Felix Online V1
-id: "3572"
-old_path: /arts/3572/la-neuro-vague
+image: "http://felixonline.co.uk/img/upload/201305171544-tna08-susan-aldworth-2-the-portrait-anatomised-lecture-18-april-2013.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3572/la-neuro-vague
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305171544-tna08-susan-aldworth-2-the-portrait-anatomised-lecture-18-april-2013.jpg"
-image_caption: ""
 ---
 
 Art which tackles melange with science has been explored previously in these pages. However these clashes still remain few and far between. Science as inspiration for intriguing pieces, using art as a medium to explore the significance of science or portray its beauty has great potential and is not yet as appreciated as it could be.

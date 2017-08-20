@@ -4,18 +4,15 @@ title: >
 subtitle: >
   George Butcher investigates what you can do if you need help
 date: "2015-03-20 14:58:41 +0000"
-
-# Attributes from Felix Online V1
-id: "5420"
-old_path: /features/5420/what-does-it-mean-to-have-a-mental-health-problem-at-imperial
+image: "http://felixonline.co.uk/img/upload/201503201503-ps3110-screen-shot-2015-03-20-at-15.02.49.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/5420/what-does-it-mean-to-have-a-mental-health-problem-at-imperial
-imported: true
 comments:
  - value: >
      I know a few people who had very bad experiences with a specific doctor at IC Health Centre when they approached them about their depression. Nonetheless I wouldn't discourage anyone from going to see the health centre, I'm sure there are some fantastic doctors there and if any aren't suited to mental health then discouraging people from going will only continue to hide the problem. <br> <br>In my experience, friends at Imperial have been open about mental health issues and supported each other, though I think there is a problem with the more competitive students at imperial creating an environment where people are scared to talk about it, and have seen instances where I suspect competitive students have distanced themselves from people who have confided in them about their mental health issues. But this mustn't deter people, those competitive students may themselves be suffering from poor mental health (and worse, may not even realise it). Absolutely anyone can suffer from mental health issues; we don't consider p
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503201503-ps3110-screen-shot-2015-03-20-at-15.02.49.png"
-image_caption: ""
 ---
 
 If you have 400 Facebook friends aged 16 to 24, the chances are that 14 of them have generalised anxiety disorder, 35 of them have self-harmed and 24 of them have attempted suicide. Over our life time, a quarter of us will suffer from a mental health problem.

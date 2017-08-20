@@ -4,16 +4,14 @@ title: >
 subtitle: >
   In a story straight out of Hangman, Kent Union’s Tory Society are campaigning for a 76m tall iron statue of the Iron Lady
 date: "2016-02-26 11:25:29 +0000"
-
-# Attributes from Felix Online V1
-id: "5956"
-old_path: /news/5956/kent-students-want-thatcher-statue
+image: "http://felixonline.co.uk/img/upload/201602261125-felix-final.jpg"
+image_caption: "Over FELIX’s dead body."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5956/kent-students-want-thatcher-statue
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +21,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261125-felix-final.jpg"
-image_caption: ""
 ---
 
 Ding Dong, the witch is dead, but not for these students in Canterbury, who want a 70m tall idol of their idol built outside their union’s Metric equivalent.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Apple show's the world the next iteration of the iPhone OS powering the iPhone, iPod touch and the iPad
 date: "2010-04-30 11:03:34 +0100"
-
-# Attributes from Felix Online V1
-id: "131"
-old_path: /tech/131/apples-iphone-os-4-unveiled
+image: "http://felixonline.co.uk/img/upload/201004301200-srg03-iPhoneOS.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/131/apples-iphone-os-4-unveiled
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - srg03
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201004301200-srg03-iPhoneOS.jpg"
-image_caption: ""
 ---
 
 Whilst the great majority of you were hitting the books, Apple has been quite busy. A week after the iPad release the fruity company sent out invites to an iPhone OS4 event titled 'Get a sneak peak into the future of iPhone OS'. Now of course, this wasn't really a surprise for those keeping up, but what did strike people in the know was that even though Apple's mobile operating system is now powering three separate devices, the iPhone, the iPod touch and the iPad, it's still called iPhone OS. Still, Apple did its adoring fans proud with a show and release of the developer version of the OS.

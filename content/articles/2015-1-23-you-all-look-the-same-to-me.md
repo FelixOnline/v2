@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ellen Mathieson on three films with just one plot between them
 date: "2015-01-23 16:50:36 +0000"
-
-# Attributes from Felix Online V1
-id: "5131"
-old_path: /film/5131/you-all-look-the-same-to-me
+image: "http://felixonline.co.uk/img/upload/201501231649-jyg11-screen-shot-2015-01-23-at-16.49.13.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5131/you-all-look-the-same-to-me
-imported: true
 comments:
  - value: >
      Wonderful blog! I found it while browsing on Yahoo News. Do you have any tips on how to get listed in Yahoo News? I've been trying for a while but I never seem to get there! Thanks <br>canada goose jassen zonder bontkraag bestellen http://www.acmel.nl/nl/?nl-canada-goose-jassen-zonder-bontkraag-bestellen-9047.html,Hey! I could have sworn I've been to this website before but after checking through some of the post I realized it's new to me. Nonetheless, I'm definitely glad I found it and I'll be book-marking and checking back often! <br>goedkope nike mercurial zwart http://paulram.nl/?nl-goedkope-nike-mercurial-zwart-18934.html,I' have one now trying to claim his late fathers company will lend him money to get home from overseas. But he wants to wire the money to my account (to supposedly "help me" with my bills and send him the rest to pay for his flight, hotel, fix a machine(which the other day, he only needed $100 but suddenly wants to wire 100 times that into my account). Giant red flag there. <br>[url=http://www.l
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - jyg11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501231649-jyg11-screen-shot-2015-01-23-at-16.49.13.png"
-image_caption: ""
 ---
 
 This week I somehow found myself with a day free, so made the choice to go and see a triple bill of _Whiplash_, _Birdman_ and _Foxcatcher_, which between them have accumulated an impressive selection of award nominations and wins, including nineteen Oscar nominations. So there was one thing about them that really surprised me, and I possibly only noticed it watching them back to back. Though they are set at different times, in different places, with vastly different plots, they are exceedingly similar.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Christian Franke talks way too deeply to a stranger about a classic
 date: "2012-11-01 23:01:20 +0000"
-
-# Attributes from Felix Online V1
-id: "2805"
-old_path: /film/2805/fritz-the-cat
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2805/fritz-the-cat
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - cif110
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It was towards the end of a long, drawn-out evening at a festival during the summer, and totally by chance some good chums and I came across a cinema showing Fritz the Cat. I coincidentally had only read about it a couple of days earlier so I suggested to the cohort that we catch the closing 15 minutes. As we loitered around the back, someone else walked in and asked what the film was about. It seemed appropriate for me to answer the question with the following:

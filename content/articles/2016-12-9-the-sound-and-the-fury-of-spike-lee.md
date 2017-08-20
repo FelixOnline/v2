@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Chi-Raq marks a return to form for Spike Lee, and its breathless anger is urgently needed in these troubled times.
 date: "2016-12-09 15:47:07 +0000"
-
-# Attributes from Felix Online V1
-id: "6581"
-old_path: /film/6581/the-sound-and-the-fury-of-spike-lee
+image: "http://felixonline.co.uk/img/upload/201612091546-felix-Chi-Raq_2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6581/the-sound-and-the-fury-of-spike-lee
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ff712
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612091546-felix-Chi-Raq_2.jpg"
-image_caption: ""
 ---
 
 Back in November, when the trailer for Chi-Raq dropped, the reaction was swift and brutal. A modern-day adaptation of Aristophanes’ comedy Lysistrata, Spike Lee’s latest film uses rhyming verse and bawdy humour to debate the ongoing homicide crisis in Chicago, Illinois – a city with a murder rate that is higher than NYC and LA combined. Chicago trauma physician Amy Ho wrote in The Chicago Tribune that Lee ‘has managed to trivialize the suffering of the men, women, and children of Chicago’s West and South sides’, and many were quick to agree. Combined with the fact that ‘A Spike Lee Joint’ doesn’t promise radical politics in quite the same way it did in the 1980s and 90s, Chi-Raq is a pretty tough sell.

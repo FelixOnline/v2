@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Huge gap between offers and applicants from black and disadvantaged backgrounds even when they’re predicted the same grades
 date: "2016-06-17 08:50:04 +0100"
-
-# Attributes from Felix Online V1
-id: "6269"
-old_path: /news/6269/its-harder-to-get-into-imperial-if-youre-black
+image: "http://felixonline.co.uk/img/upload/201606171048-felix-151019_ugcomm_078.jpg"
+image_caption: "We're using this picture ironically because all these people are white."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6269/its-harder-to-get-into-imperial-if-youre-black
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - ygr12
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606171048-felix-151019_ugcomm_078.jpg"
-image_caption: ""
 ---
 
 UCAS has released data that shows Imperial is one of the country’s worst offenders in terms of giving fewer offers to black and poorer students.

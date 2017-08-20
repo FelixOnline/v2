@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Douglas Heaven investigates claims that alcohol does not affect behaviour
 date: "2011-10-27 23:49:15 +0100"
-
-# Attributes from Felix Online V1
-id: "1624"
-old_path: /science/1624/doggone-drunks
+image: "http://felixonline.co.uk/img/upload/201110280048-felix-bottles-of-drink.jpg"
+image_caption: "It might be “bizarre beliefs” that make you act like an idiot, not all that alcohol..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1624/doggone-drunks
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +23,6 @@ authors:
  - fsci
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110280048-felix-bottles-of-drink.jpg"
-image_caption: ""
 ---
 
 Despite the millions it spends on cultivating an image of arch sophistication, Stella isn't likely to shrug off its “wife-beater” epithet anytime soon – and especially not now it's become the tipple of choice for tosspot terriers. But the story of [a Staffordshire Bull Terrier attacking a child](http://www.telegraph.co.uk/news/uknews/8845153/Boy-mauled-by-dog-that-was-drunk-on-Stella.html) after someone poured Stella down its throat isn't the only piece about alcohol abuse that stood out recently.

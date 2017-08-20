@@ -4,16 +4,14 @@ title: >
 subtitle: >
   felix talks to Siân Berry
 date: "2017-02-24 13:42:03 +0000"
-
-# Attributes from Felix Online V1
-id: "6809"
-old_path: /news/6809/greens-speak-up-for-suspended-students
+image: "http://felixonline.co.uk/img/upload/201702241341-felix-24277898325_a2dd5d74ce_o.jpg"
+image_caption: "Siân Berry"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6809/greens-speak-up-for-suspended-students
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - jmw216
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702241341-felix-24277898325_a2dd5d74ce_o.jpg"
-image_caption: ""
 ---
 
 Last week we reported on the suspension and arrests of several students from King’s College London following their involvement in a campaign to persuade KCL to divest from fossil fuels. Since then, several members of the Green Party have written to King’s to show their support for the students.

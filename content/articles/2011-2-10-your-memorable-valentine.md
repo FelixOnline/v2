@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It may be a ridiculously overhyped and commercialised, but then again, we’ll take any excuse for a celebration
 date: "2011-02-10 20:58:19 +0000"
-
-# Attributes from Felix Online V1
-id: "789"
-old_path: /arts/789/your-memorable-valentine
+image: "http://felixonline.co.uk/img/upload/201102102055-dr910-meredith.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/789/your-memorable-valentine
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - cmt09
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102102055-dr910-meredith.jpg"
-image_caption: ""
 ---
 
 This story starts with clenched, muscular buttocks. The buttocks in question comprise the cover art of the latest Scissor Sisters album Night Work and while they certainly deserve a second glance you would not grasp their full significance unless you had also knew of the man who took that photograph: Robert Mapplethorpe.

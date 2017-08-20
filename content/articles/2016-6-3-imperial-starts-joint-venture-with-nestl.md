@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The company more famous for boycotts has £6.5 million deal with college
 date: "2016-06-03 08:32:23 +0100"
-
-# Attributes from Felix Online V1
-id: "6223"
-old_path: /news/6223/imperial-starts-joint-venture-with-nestl
+image: "http://felixonline.co.uk/img/upload/201606031030-felix-wpid-article-1268907555465-08c3d1bb000005dc-370448_466x310.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6223/imperial-starts-joint-venture-with-nestl
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606031030-felix-wpid-article-1268907555465-08c3d1bb000005dc-370448_466x310.jpg"
-image_caption: ""
 ---
 
 Imperial has signed a deal with the food and drink giant Nestlé to launch research into nutrition together.

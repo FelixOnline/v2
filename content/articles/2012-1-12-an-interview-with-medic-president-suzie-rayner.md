@@ -4,16 +4,14 @@ title: >
 subtitle: >
   We interviewed the ICSMU President about ICSM's response to last year's Daily Mail scandal, along with Alcohol Awareness Week
 date: "2012-01-12 21:23:54 +0000"
-
-# Attributes from Felix Online V1
-id: "1969"
-old_path: /news/1969/an-interview-with-medic-president-suzie-rayner
+image: "http://felixonline.co.uk/img/upload/201201122123-cac111-medicss.jpg"
+image_caption: "Last year's Daily Mail article"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1969/an-interview-with-medic-president-suzie-rayner
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - klb09
  - mg2109
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201122123-cac111-medicss.jpg"
-image_caption: ""
 ---
 
 __Felix: How do you think the medical school has changed since this time last year (with respect to the Daily Mail article highlighting the binge-drinking culture of ICSM)?__

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Debby Shorley retires, but will no doubt still be working hard
 date: "2013-01-10 22:16:17 +0000"
-
-# Attributes from Felix Online V1
-id: "3082"
-old_path: /news/3082/head-of-library-sevices-retires
+image: "http://felixonline.co.uk/img/upload/201301102215-tna08-debby.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3082/head-of-library-sevices-retires
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102215-tna08-debby.jpg"
-image_caption: ""
 ---
 
 [Debby Shorley, the Director of Library Services, has retired](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/administration/library/newssummary/news_17-12-2012-10-19-10).

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Cecile Borkhataria looks at the floral themed show held in Paris
 date: "2015-02-03 13:24:12 +0000"
-
-# Attributes from Felix Online V1
-id: "5179"
-old_path: /fashion/5179/chanel-haute-couture-springsummer-2015-the-luxe-rebirth-of-the-beanie-
+image: "http://felixonline.co.uk/img/upload/201502031324-ps3110-screen-shot-2015-02-03-at-13.24.07.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/5179/chanel-haute-couture-springsummer-2015-the-luxe-rebirth-of-the-beanie-
-imported: true
 comments:
  - value: >
      I benefit from reading your web site. Thanks!| <br>cs go skins by price http://fifa15tournamentmode.blogspot.com/2016/03/nba-2k16-mt-gives-your-home-court.html,Many thanks very valuable. Will share site with my pals.| <br>nba 2k16 mt cheat table http://www.letsgetjobs.co.uk/groups/cheap-nba-2k16-vc-new-packs-will-aid-you-make-cash/,Wow cuz this is really excellent work! Congrats and keep it up.| <br>nba 2k16 mt generator http://fitnessqa.com/58512/nba-2k16-mt-electronic-arts-classic-basketball-games,I enjoy looking at your site. Thanks a ton! <br>nhl 17 coins http://ceciliaflorence.yep.com/blog/359760_General/1621290_Madden_17_will_soon_be_offered_to_all_Xbox_One_users,Wonderful site you possess going here <br>madden 17 http://hyperlapse-showcase.com/groups/2302,wdo pregnant second round clomid 50mg get a prescription for clomid online when can i take a pregnancy test after taking clomid,does clomid delay positive pregnancy test can i buy clomid over the counter in south africa bfp 2nd round clomid DachWhexs,for take clomid
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502031324-ps3110-screen-shot-2015-02-03-at-13.24.07.png"
-image_caption: ""
 ---
 
 On Tuesday, Karl Lagerfeld pushed the boundaries of haute couture fashion yet again at the Chanel haute couture fashion show. The exclusive catwalk event was held at the Grand Palais in Paris, with attendees ranging from the likes of Hollywood starlets like Kristen Stewart, to French femme fatales Vanessa Paradis and Charlotte Gainsbourg.

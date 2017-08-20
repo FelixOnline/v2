@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Planetary scientists come up with weather system model for one of Saturn's moons
 date: "2012-01-12 21:56:22 +0000"
-
-# Attributes from Felix Online V1
-id: "1976"
-old_path: /science/1976/its-raining-methane
+image: "http://felixonline.co.uk/img/upload/201201122154-cac111-titan_multi_spectral_overlay.jpg"
+image_caption: "Titan as seen by Cassini in ultraviolet and infrared wavelengths"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1976/its-raining-methane
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - cac111
  - ko407
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201122154-cac111-titan_multi_spectral_overlay.jpg"
-image_caption: ""
 ---
 
 Scientists have developed the most advanced model yet of the weather system on Titan, one of Saturn’s moons and the only place in the solar system other than Earth that harbours lakes.

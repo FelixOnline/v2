@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Shoreditch is the hotbed of all London’s most cutting-edge, original talent and a monthly evening of late night openings promises to let you into its heart. By Sam Whitcomb
 date: "2010-11-18 19:51:40 +0000"
-
-# Attributes from Felix Online V1
-id: "379"
-old_path: /arts/379/over-one-hundred-galleries-before-9pm-
+image: "http://felixonline.co.uk/img/upload/201011181947-nm1010-smokeysm.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/379/over-one-hundred-galleries-before-9pm-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011181947-nm1010-smokeysm.jpg"
-image_caption: ""
 ---
 
 Every now and again London will present something which will not only impress and astonish you, but leave you buzzing for the rest of the week! It’s been a long time since this has been the case, and I look back fondly at the time I found out the IMAX was free for Imperial students, and someone told me I could pair my student rail card to my Oyster.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   It's Sir Francis Bacon's birthday!
 date: "2011-01-20 19:37:34 +0000"
-
-# Attributes from Felix Online V1
-id: "610"
-old_path: /science/610/450-year-old-bacon-mmm-
+image: "http://felixonline.co.uk/img/upload/201101201935-ks607-baconbac.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/610/450-year-old-bacon-mmm-
-imported: true
 comments:
  - value: >
      I did not get your sick joke: the page was blocked by some freaking advertisement about movies, sport, etc. There was no unclick button and no way to get rid of that shit. What amazed me that you (whoever you are makes no difference to me) allegedly interested in philosophy and yet did not hesitate to poop this sickness. What did I come here – to click on movies or read more about Bacon? http://www.felixonline.co.uk/?article=610 <br> <br>Absolutely sick… <br>,Corinna - These are fantastic Lisa!! I love the bench, it tuenrd out totally fabulous! I am glad your day tuenrd out so good and I am sure these two are going to be smiling just as much when they see what you have captured for them! You rock girlfriend, xoxo!,Grandma &amp; Grandpa Williams - They are all wonderful my <a href="http://wdzkehpkqrd.com">favtiroe</a> is the one of you both smiling in the field ofgoldenrods. What a lovely idea and such a wonderful happy couple. Love you both sooo much!, quote auto insurance best generic viagra usually lit
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - jp1010
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101201935-ks607-baconbac.jpg"
-image_caption: ""
 ---
 
 This weekend, it is time to celebrate bacon. When tucking in to that greasy, hangover-soothing fry-up, take a moment to think about Francis Bacon, who, this weekend, is celebrating the 450th anniversary of his birth.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial College above Oxford in QS World Rankings 2013-14
 date: "2013-10-24 23:32:57 +0100"
-
-# Attributes from Felix Online V1
-id: "3910"
-old_path: /news/3910/imperial-ranked-5th-in-qs-university-rankings
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3910/imperial-ranked-5th-in-qs-university-rankings
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - nm708
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In September the annual QS university rankings were released, Imperial College London ranked 5th place.

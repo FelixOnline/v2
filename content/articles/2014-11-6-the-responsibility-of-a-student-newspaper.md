@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Editorial for 1587
 date: "2014-11-06 22:18:35 +0000"
-
-# Attributes from Felix Online V1
-id: "4813"
-old_path: /comment/4813/the-responsibility-of-a-student-newspaper
+image: "http://felixonline.co.uk/img/upload/201411102231-ps3110-screen-shot-2014-11-10-at-22.30.40.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4813/the-responsibility-of-a-student-newspaper
-imported: true
 comments:
  - value: >
      red sole shoes <br>christian louboutin canada stores http://canadachristianlouboutinoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102231-ps3110-screen-shot-2014-11-10-at-22.30.40.png"
-image_caption: ""
 ---
 
 This week, another rugby team has been suspending following another stint of bad behaviour. Although this lessened the logistics of arranging our front page (literally, we could have just changed the name of the team from last week’s issue), it is becoming a much more difficult topic for us, as a student paper, to report on.

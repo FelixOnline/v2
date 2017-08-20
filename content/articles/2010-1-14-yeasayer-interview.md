@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Kadhim Shubber and Jamie Fraser interview Yeasayer
 date: "2010-01-14 14:26:34 +0000"
-
-# Attributes from Felix Online V1
-id: "26"
-old_path: /music/26/yeasayer-interview
+image: "http://felixonline.co.uk/img/upload/201001141423-ks607-OddBlood.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/26/yeasayer-interview
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - ks607
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001141423-ks607-OddBlood.jpg"
-image_caption: ""
 ---
 
 Felix: Why did you decide to release Ambling Alp for free?

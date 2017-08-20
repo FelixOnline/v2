@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Record turnout as Union innovates with live voting stats
 date: "2011-03-17 20:18:17 +0000"
-
-# Attributes from Felix Online V1
-id: "1090"
-old_path: /news/1090/election-winners-announced
+image: "http://felixonline.co.uk/img/upload/201103172023-ks607-new.jpg"
+image_caption: "Next year's Sabb team, will they deliver?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1090/election-winners-announced
-imported: true
 comments:
  - value: >
      5 male, 1 female - without even having entered office they are already representing the student demographic...,5 male, 1 female - without even having entered office they are already representing the student demographic...,ABDUL, Y U NO WIN,ABDUL, Y U NO WIN,Paul Beaumont and his team are lieing, sabotaging low people that turned to smear and hate tactics to beat a much popular and genuinely caring person. Imperial's loss.,Paul Beaumont and his team are lieing, sabotaging low people that turned to smear and hate tactics to beat a much popular and genuinely caring person. Imperial's loss.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103172023-ks607-new.jpg"
-image_caption: ""
 ---
 
 The Imperial College Union Sabbatical and Student Trustee [election results](http://www.imperialcollegeunion.org/news/sabbatical-election-results-2011,471,ICUNS.html) were released last Monday at Council. RCSU President Scott Heath beat closest contender Danish Khan in the third stage of the voting process by 1983 to 1593 votes to be elected Union president. Heath said in a statement that he “would like to thank everybody who voted”, including his opponents “who made the election fun and ran good campaigns”. He hopes that he will “repay [his voters’] trust and faith with a great ICU 11/12” and “continue the trend of good student-sabbatical communication”.

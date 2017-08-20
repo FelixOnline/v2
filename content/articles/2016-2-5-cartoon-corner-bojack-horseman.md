@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Our regular column on our favourite animation
 date: "2016-02-05 12:48:20 +0000"
-
-# Attributes from Felix Online V1
-id: "5884"
-old_path: /tv/5884/cartoon-corner-bojack-horseman
+image: "http://felixonline.co.uk/img/upload/201602051247-felix-Netflix-BoJack-Horseman-Opening-Credits-Theme-Song-HD.jpg"
+image_caption: "A has-been actor, drinking away his problems."
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5884/cartoon-corner-bojack-horseman
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - hjw13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602051247-felix-Netflix-BoJack-Horseman-Opening-Credits-Theme-Song-HD.jpg"
-image_caption: ""
 ---
 
 Bojack Horseman is a show about an alcoholic horse who was the star of a Cosby-esque family sitcom in the 90s, now dealing with a life of loneliness and depression. Also, it is fantastic.

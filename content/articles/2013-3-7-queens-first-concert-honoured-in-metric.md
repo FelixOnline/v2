@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Brian May returns to his home...
 date: "2013-03-07 23:37:23 +0000"
-
-# Attributes from Felix Online V1
-id: "3443"
-old_path: /news/3443/queens-first-concert-honoured-in-metric
+image: "http://felixonline.co.uk/img/upload/201303072339-tna08-img_7605.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3443/queens-first-concert-honoured-in-metric
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303072339-tna08-img_7605.jpg"
-image_caption: ""
 ---
 
 Brian May and Roger Taylor from Queen were at Imperial in Metric on Tuesday 5 March to unveil a plaque commemorating their first public performance, which took place in the Union Concert Hall.

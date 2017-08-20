@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Is paradise all it's cracked up to be?
 date: "2011-10-20 22:11:22 +0100"
-
-# Attributes from Felix Online V1
-id: "1568"
-old_path: /comment/1568/the-hell-of-heaven
+image: "http://felixonline.co.uk/img/upload/201111041133-felix-sam-horti-new.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1568/the-hell-of-heaven
-imported: true
 comments:
  - value: >
      Your point on the eventual weariness of infinity is something I mulled over for many years (I'm a Muslim) and came to the conclusion that it’s only valid if what is available for us to do and experience in the hereafter is limited. Islam teaches that the Hereafter is enduring and in Heaven your supply is endless and infinite. And since there is always something new to do you will never become bored and your heaven will not become hell! If you do begin to wonder how could there be so many new things for you to do, well if infinity in time exists in the hereafter then it’s equally logical to have infinity of new experiences and things to do in it. <br> <br>I don’t know why people must exert themselves to mention virgins in paradise at the first instance of the mention of Islam but I guess what’s always on the mind tends to be spoken most :P The highlight of Paradise is mentioned as seeing God. <br> <br>[since I like talking about this a lot I'm going to defy the word limit and continue on a new comm <br> <br>,ent] :D <br>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - sph109
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111041133-felix-sam-horti-new.jpg"
-image_caption: ""
 ---
 
 The question of what happens to us after we die is one that has troubled us as a species for thousands of years, and to this day many among us still wrestle daily with our own doubt and confusion over the matter. The posthumously themed wonderings of religious movements and philosophers alike have produced many weird and wonderful ideas filled with fantasy and creativity. The conspicuously man-made nature of the afterlife as displayed in modern religions isn’t something that I feel it would be worthwhile to investigate at great length, mainly because of the fact that it is so palpable that the term “flogging a dead horse” comes to mind. The grubby fingerprints of mankind are present wherever you look.

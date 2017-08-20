@@ -4,18 +4,16 @@ title: >
 subtitle: >
   An essential classic for any music lover, says Clare Cheng
 date: "2011-12-01 20:53:50 +0000"
-
-# Attributes from Felix Online V1
-id: "1876"
-old_path: /music/1876/origin-of-symmetry
+image: "http://felixonline.co.uk/img/upload/201112012052-pk1811-musecover.jpg"
+image_caption: "The best forking album by the best forking band to ever set foot on forking Earth"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1876/origin-of-symmetry
-imported: true
 comments:
  - value: >
      FINALLY Felix Music reviews something I've actually bloody heard of! <br> <br>And I agree - this album, and Muse, are absolutely brilliant. <br> <br>No pretentious silly-hat-wearing monotonous splurge that someone has conjured up by twisting several dials on a mixer they bought on ebay whilst simultaneously swaying from side to side and moving their arms around like an octopus on LSD. Just a great band that a lot of people like. <br> <br>Great article. Thank you.,I'm SO confused. "Finally Felix Music reviews something I've actually bloody heard of!" I'm a big Muse fan, but I WANT to be told about music I haven't heard of.
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012052-pk1811-musecover.jpg"
-image_caption: ""
 ---
 
 Back in 2001; the year iTunes was born, [__J-Lo__](http://www.jenniferlopezonline.com/) got her first UK number 1 single and George Bush began his war on terror, [__Muse__](http://muse.mu/) released the amazingly beautiful album that is _Origin of Symmetry_. Although this was the Devonshire band’s second album after _Showbiz_, it was the collection of songs that marked the greatness that was to come.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   “Sometimes the solutions are not the problem”
 date: "2013-10-25 00:06:36 +0100"
-
-# Attributes from Felix Online V1
-id: "3920"
-old_path: /comment/3920/confessions-of-a-gta-part-3
+image: "http://felixonline.co.uk/img/upload/201310121330-jal08-comment_gta.jpg"
+image_caption: "Seriously starting to wonder if the GTA is actually Jack Black..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3920/confessions-of-a-gta-part-3
-imported: true
 comments:
  - value: >
      All you faggots hiatng on this kid I think it's a pretty sweet idea I mean we can fly planes into buildings in battlefield 3.. It would be sweet to have an environment that can be destroyed. It will never happen but it would be very interesting Yes 9/11 was horrible. But so was the recent shooting in Connecticut, or any other mass murders that happen in the us you hate on this guy for posting about flying planes into buildings when you thinks its okay to shoot up hundreds of people in this game? All it is, is a fucking game you pussy bitch.. Stop complaining you fucking faggots
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310121330-jal08-comment_gta.jpg"
-image_caption: ""
 ---
 
 I was really looking forward to my teaching class with the final years. At last these were people that did not care if you did not know the answer of the top of your head as long as you tell them what the heck is going on or at least what should be. I think this is something to do with the Fear. This is that feeling you get before your exams that makes you start studying ridiculously early and freak out went you find out one of your classmates is studying for 12 hours a day. Don’t get me wrong, the first years are lovely but the Fear fills them. I think this causes irritating questions like “Is it ok if I use a blue pen in the exam?” Or worrying questions such as “How do you add up in Excel?” and also the crazy questions. My favourite of these was one fresher marching up to a lecturer, who is eminent in his field, and insisted that a question on the tutorial sheet was wrong because he had done three pages of working and the solution he had found was impossible…

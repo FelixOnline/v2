@@ -4,18 +4,15 @@ title: >
 subtitle: >
   As Imperial's University Challenge team look to secure a place in the semis, Jia-Ou Song talks to the boys.
 date: "2010-02-12 01:52:15 +0000"
-
-# Attributes from Felix Online V1
-id: "84"
-old_path: /news/84/colleges-most-famous-geeks
+image: "http://felixonline.co.uk/img/upload/201002120149-rsp07-universt.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/84/colleges-most-famous-geeks
-imported: true
 comments:
  - value: >
      Well done guys, you're all amazing :) <br> <br>Low-res versions of the team's efforts so far are available at: <br>http://www.cjbirkett.co.uk/UniversityChallenge/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002120149-rsp07-universt.jpg"
-image_caption: ""
 ---
 
 When the gong sounded, everybody cheered, for Imperial College London had won!

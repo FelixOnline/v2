@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ross Gray discusses the electronic cassette label with Stephen Bishop
 date: "2013-05-08 20:31:01 +0100"
-
-# Attributes from Felix Online V1
-id: "3554"
-old_path: /music/3554/cassette-culture-opal-tapes-interview-
+image: "http://felixonline.co.uk/img/upload/201305082130-tna08-opal-tapes.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3554/cassette-culture-opal-tapes-interview-
-imported: true
 comments:
  - value: >
      Yes, I need this! I need a round little paper cat to sit on my desk.From, a paaercrpft-loving-deskworker-and-dedicated-blogreader,Amandine(PS I have folded every single month of that Go Scout Creative monthly paaercrpft calendar that you linked to a long time ago. I look forward to it the first of every month... Thank You!!),Twitter: Maybe it would help you if you didn't look at things as diet foods . When you want to eat<a href="http://wdubzlxi.com"> seionhmtg</a> (which you should do often, like every 2-3 hours), think to yourself what benefit am I getting from this? So instead of thinking of things you CAN'T eat b/c you're trying to firm up, try thinking of what you CAN eat to help you. What you do eat is much more important that what you don't eat. And the little things do add up. For example try a small handful of nuts, but remember to get them without salt. No need for that extra sodium. And drink TONS of water. I know it sounds very cliche, but once you get into a habit of really staying h
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305082130-tna08-opal-tapes.jpg"
-image_caption: ""
 ---
 
 Within the past year experimental electronic music has exploded into the D.I.Y. cassette culture within the UK, previously dominated by (but by no means limited to) noise releases. Stephen Bishop, head honcho of prominent label Opal Tapes, spoke to me about its formation, the themes that run through its work and his opinions on noise in electronic music.

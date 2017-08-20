@@ -4,18 +4,16 @@ title: >
 subtitle: >
   It’s been tripping you up for years, and now it’s gone forever
 date: "2015-11-06 13:35:04 +0000"
-
-# Attributes from Felix Online V1
-id: "5697"
-old_path: /news/5697/union-replaces-tree-in-beit-quad
+image: "http://felixonline.co.uk/img/upload/201511061334-ygr12-tiny2.jpg"
+image_caption: "The weedy new tree is barely visible to the naked eye."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5697/union-replaces-tree-in-beit-quad
-imported: true
 comments:
  - value: >
      The Tree of Woe is gone.. A sad day indeed.,Its like you read my mind! You seem to know so much about this, like you wrote the book in it or something. I think that you could do with some pics to drive the message home a little bit, but other than that, this is magnificent blog. A fantastic read. I'll definitely be back. <br>new era caps wholesale http://www.twofangtu.cn/snapback-hats,You've gotten one of the greatest online websites <br>pokemongo http://fulltransactions.com/index.php/forums/topic/7401/buy-fifa-coins-buy-channel-auto-amplifier/view/post_id/9092
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511061334-ygr12-tiny2.jpg"
-image_caption: ""
 ---
 
 One of the two large, established cherry trees dominating Beit quad has been completely removed, and replaced with a younger model. Many readers will be familiar with the trees’ knobbly roots which have lifted the paving around the union’s seating area, forming a trip hazard.

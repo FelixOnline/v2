@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Peter Swallow and Navin Surtani take a look at the winners & losers of the 2010/11 Ashes
 date: "2011-01-13 20:28:58 +0000"
-
-# Attributes from Felix Online V1
-id: "581"
-old_path: /sport/581/aussies-conquered-yet-again-by-vice--captain-cook
+image: "http://felixonline.co.uk/img/upload/201101132025-ks607-theashes.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/581/aussies-conquered-yet-again-by-vice--captain-cook
-imported: true
 comments:
  - value: >
      I purchased mine this aftnreoon, got home and started the install. Unfortunately Steams tells me that the game is not released yet and cancels the install from DVD. I have the option to pre-load the game though via steam.,I purchased mine this aftnreoon, got home and started the install. Unfortunately Steams tells me that the game is not released yet and cancels the install from DVD. I have the option to pre-load the game though via steam.,Reminds me of the Bill Hicks flag burnin' bit': Hey buddy, my daddy died for that flag Really? I <a href="http://ppiwtotirrl.com">bohugt</a> mine They sell em in K-Mart yeah..He died in Korea for that flag Wow, what a coincidence. Mine was made in Korea No-one, and I repeat NO-ONE has ever died for a flag. A flag is a piece of cloth, they might have died for freedom, which, by the way, is the freedom to .Burn the.. fucking flag you see??..Burning the flag doesn't make freedom go away Given that the burning of a Koran causes Milsums to get all frothy around the mout
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -29,12 +26,6 @@ authors:
  - ps108
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101132025-ks607-theashes.jpg"
-image_caption: ""
 ---
 
 While we were all enjoying the big freeze here in London, some of the enlightened few of us Imperial College students might have known that the Ashes were going on in the convict colony known as Australia. Too busy revising/partying and don’t know what happened? Here’s a quick recap and a player review.

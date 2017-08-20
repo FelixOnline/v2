@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Episode 8 - From North to South
 date: "2014-03-07 05:48:50 +0000"
-
-# Attributes from Felix Online V1
-id: "4466"
-old_path: /music/4466/emiels-guide-to-classical-music-episode-8
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4466/emiels-guide-to-classical-music-episode-8
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - ed812
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Last week we discussed Josquin, who is often known as the ‘Beethoven of the 16th Century, and in particular his work Ave Maria. For many generations, Josquin was regarded by theorists and other thinkers as the composer who had perfected the art of music. As Martin Luther wrote; “He is the master of the notes. They must do as he wills; as for the other composers, they have to do as the notes will”. Josquin’s use of imitation (different voices entering sequentially in a similar manner) and his synthesis of many different European styles would be taken up by his students and by their students too. The most famous of these were Nicolas Gombert, Jacob Clemens and Adrian Willaert, all ‘Netherlandish’ – Dutch speakers from present-day Belgium.

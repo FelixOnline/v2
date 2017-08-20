@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lizzie Riach summarises a talk in the Royal Society’s series ‘Science Matters’ on the direction of where artificial intelligence is heading, and why there’s no need to be scared of it taking over the world...yet.
 date: "2017-01-13 14:13:04 +0000"
-
-# Attributes from Felix Online V1
-id: "6640"
-old_path: /science/6640/artificial-intelligence--fears-and-future
+image: "http://felixonline.co.uk/img/upload/201701131413-felix-display-dummy-915135_1920.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6640/artificial-intelligence--fears-and-future
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - mer113
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701131413-felix-display-dummy-915135_1920.jpg"
-image_caption: ""
 ---
 
 Last Wednesday I attended a talk comprised of five leading experts in the fields of machine learning and artificial intelligence (AI), mediated by the calming voice of Brian Cox. It was an enlightening evening. I hadn’t really thought too much about AI, but what struck me was how much of what I did know was based on fiction films. What soon became apparent was that, obviously, we were no where near the likes of the humanoid robot seen in Ex Machina, a film for which one of the panellists, Murray Shahanan, was the scientific advisor. I mean, sure, a machine had beaten the number one Go player in the world, the last strategy game where humans, until now, could not be beaten. But this specific machine was built specifically for playing Go. It had no other functions outside the realm of game-play – it certainly wasn’t going to take over the world.

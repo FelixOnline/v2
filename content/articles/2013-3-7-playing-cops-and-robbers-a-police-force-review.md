@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Is that a baton in your pocket are you pleased to see this review?
 date: "2013-03-07 22:04:07 +0000"
-
-# Attributes from Felix Online V1
-id: "3437"
-old_path: /games/3437/playing-cops-and-robbers--a-police-force-review
+image: "http://felixonline.co.uk/img/upload/201303072203-sjw209-police-force-simulator-2.jpg"
+image_caption: "Hmm. It says ‘Police’ rather than ‘Polizei’. Maybe the real patrol car’s in the shop..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3437/playing-cops-and-robbers--a-police-force-review
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +22,6 @@ authors:
  - rw507
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303072203-sjw209-police-force-simulator-2.jpg"
-image_caption: ""
 ---
 
 From the pile of simulator games in the Felix office, this week’s random selection is _Police Force_. From the maker of the hit title _Emergency_, _Police Force_ sees you patrolling the streets of Germany, towing illegally parked cars, setting up speed traps and arresting vandals. Plus, there’s a gun on the back cover. That’s worth at least 2/10 on it’s own.

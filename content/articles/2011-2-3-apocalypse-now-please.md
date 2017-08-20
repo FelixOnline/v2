@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The end of the world is no time to start developing bad habits
 date: "2011-02-03 20:17:27 +0000"
-
-# Attributes from Felix Online V1
-id: "741"
-old_path: /comment/741/apocalypse-now-please-
+image: "http://felixonline.co.uk/img/upload/201101202057-dr910-rhyDavis.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/741/apocalypse-now-please-
-imported: true
 comments:
  - value: >
      　( 2012.02.17 08:22 ) : I enjoy you because of all of your eftfros on this internet site. Kim take interest in obtaining into investigations and it really is easy to see why. We know all concerning the dynamic mode you produce priceless concepts by means with the internet blog and as effectively as recommend participation from some other folks on this region then our own daughter is certainly becoming educated lots of points. Take pleasure inside the remaining portion of the year. You’re carrying out a splendid job.,　( 2012.02.22 13:52 ) : I didn’t had a good read by a long time. Definitely happy I found this on digg. I was speaking<a href="http://adblkz.com"> teetohgr</a> with my buddies two nights ago all-around this particular issue and also I have to express you make issues really crystal clear for me. Thank you and good luck,, public liability insurance electrician cheapest insurance in california coustomers say plans insurance automobile impatient behavior monavie number
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - rjd08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101202057-dr910-rhyDavis.jpg"
-image_caption: ""
 ---
 
 If popular culture has taught me anything (and I like to think it has), it is that we are most likely to perish as a species in a thermonuclear fire-storm or a zombie pandemic. Though radically different, these apocalypses involve a great deal of mass panic before the dying starts. As such, there are themes common to both that may just dissuade booking any long-term holidays.

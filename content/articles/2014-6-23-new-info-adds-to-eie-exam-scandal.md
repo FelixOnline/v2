@@ -4,16 +4,13 @@ title: >
 subtitle: >
   More information has come to light on the scandal that hit the final exam for first year students on the Electronic and Information Engineering (EIE) course.
 date: "2014-06-23 10:58:06 +0100"
-
-# Attributes from Felix Online V1
-id: "4701"
-old_path: /news/4701/new-info-adds-to-eie-exam-scandal
+image: "http://felixonline.co.uk/img/upload/201405160244-jal08-1576_news_college_logo_entrance_web.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4701/new-info-adds-to-eie-exam-scandal
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - kmw13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405160244-jal08-1576_news_college_logo_entrance_web.jpg"
-image_caption: ""
 ---
 
 __More information has come to light on the scandal that hit the final exam for first year students on the Electronic and Information Engineering (EIE) course. Last week the students sat their Operating Systems paper, but moments after the exam started there were fits of laughter as the department had accidentally left the mark scheme for the first half of the paper attached.__

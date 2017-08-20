@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The latest line of iPad bags for you.
 date: "2011-02-24 20:03:08 +0000"
-
-# Attributes from Felix Online V1
-id: "877"
-old_path: /tech/877/got-a-laptop-bag-how-about-a-tablet-bag
+image: "http://felixonline.co.uk/img/upload/201102242001-nm1010-bagbagba.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/877/got-a-laptop-bag-how-about-a-tablet-bag
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - srg03
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102242001-nm1010-bagbagba.jpg"
-image_caption: ""
 ---
 
 You’ve got a laptop bag, but what about an iPad bag? It might seem like an odd concept to have a bag just for your iPad, when you can fit it in almost any bag you’re likely to be carrying. But that hasn’t deterred be.ez from releasing an iPad version of it’s LE rush line of laptop bags, the [En Ville](http://www.be-ez.com/le-rush-en-ville.html).

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Carol Ann Cheah ponders “ladies who (liquid) lunch” this winter
 date: "2012-11-15 22:00:36 +0000"
-
-# Attributes from Felix Online V1
-id: "2907"
-old_path: /food/2907/whats-in-my-lunchbox-01
+image: "http://felixonline.co.uk/img/upload/201211152201-tna08-rgbfood.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2907/whats-in-my-lunchbox-01
-imported: true
 comments:
  - value: >
      Ah, we're well aware of this when we sent this piece off - as foodies we're not entirely lacking in basic chem lingo know-how! Would've loved to have thought of something else, except "our suspension to the problem" wouldn't have had the same sense to it... <br> <br>That said, ta muchly for pointing it out to the uninitiated anyway :),Ah, we're well aware of this when we sent this piece off - as foodies we're not entirely lacking in basic chem lingo know-how! Would've loved to have thought of something else, except "our suspension to the problem" wouldn't have had the same sense to it... <br> <br>That said, ta muchly for pointing it out to the uninitiated anyway :),Yo. Soz but your pun doesn't quite work. Soup is more a suspension than a solution because most of the solids aren't really dissolved in (solvated by) the solvent. <br> <br>Sounds tasty though.
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211152201-tna08-rgbfood.jpg"
-image_caption: ""
 ---
 
 Ah, winter. The season when just about everything seems to drop: temperatures, number of daylight hours, moods, hemlines (well, depending.) It’s around this time of the year when us Food Editors face a dilemma when packing our lunches – we need more warm/hot sustenance, so our fallback of sarnies and salads just won’t do, even with a cuppa after. At the same time though, QTR/FiveSixEight/Eastside Bar meals can add up, and we’re really not about to give up the packed lunch habit yet.

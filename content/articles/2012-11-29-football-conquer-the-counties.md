@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Omar Amjad and Henry Garner tell you of the ancient victory
 date: "2012-11-29 23:17:51 +0000"
-
-# Attributes from Felix Online V1
-id: "3013"
-old_path: /sport/3013/football-conquer-the-counties
+image: "http://felixonline.co.uk/img/upload/201211292318-tna08-football.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3013/football-conquer-the-counties
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211292318-tna08-football.jpg"
-image_caption: ""
 ---
 
 The scene is the town of Battle, East Sussex, 1066. The forces of King Harold line up against the invading Norman forces of William, Duke of Normandy. It was a tightly fought battle (or so says the tapestry of Bayeux), tipped by an arrow through the eye of King Harold which in turn rallied the Norman troops to their famous victory, shaping the socio-political landscape of England, Europe and ultimately, the world. Fast forward about 946 years later, and move about 44.1 miles down the A28.

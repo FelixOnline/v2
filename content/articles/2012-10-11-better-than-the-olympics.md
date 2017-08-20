@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Caroline Wood reports on the newest sports craze to hit campus
 date: "2012-10-11 20:59:17 +0100"
-
-# Attributes from Felix Online V1
-id: "2659"
-old_path: /news/2659/better-than-the-olympics
+image: "http://felixonline.co.uk/img/upload/201210112159-felix-players.jpeg"
+image_caption: "Global celebrity Alan Soltani. Known as the “Tiger Woods of RPS”. Hopefully for the right reasons"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2659/better-than-the-olympics
-imported: true
 comments:
  - value: >
      This was actually the most interesting thing that's happened to me in (re)freshers fortnight.,This is hilarious!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112159-felix-players.jpeg"
-image_caption: ""
 ---
 
 Last Friday, the game famous for ending disputes amongst friends and acquaintances worldwide arrived at Imperial. In what can only be described as probably the most eventful lunchtime of the term so far, Imperial played host to the inaugural Imperial College London Rock Paper Scissors Championship (or RPS, as it’s called by almost nobody). Felix brings you an on the ground report of the lunchtime’s events.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Primary? Caucus? Superdelegate? What does it all mean?
 date: "2016-01-29 09:07:51 +0000"
-
-# Attributes from Felix Online V1
-id: "5842"
-old_path: /features/5842/an-idiots-guide-to-the-us-election
+image: "http://felixonline.co.uk/img/upload/201601290906-felix-GTY_donald_trump_hillary_clinton_sk_150619_16x9_992.jpg"
+image_caption: "There’s gonna be hell toupée."
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/5842/an-idiots-guide-to-the-us-election
-imported: true
 comments:
  - value: >
      Not much of a choice, a mad lady with rabies or the rabid dog who bit her? <br>Not to worry we have a prime minister who thought it was clever to do weird things with a pigs head!!!!!!!!!!!!<br>You gotta laugh!<br>,Thanks meant for supplying these kinds of wonderful articles. <br>nba 2k16 mt glitch november http://mavisamelier.simplesite.com/,Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means more now than ever since the new Google update: Panda. No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings, You now NEED On-Page SEO. So what is good On-Page SEO?First your keyword must appear in the title.Then it must appear in the URL.You have to optimize your keyword and make sure that it has a nice keyword density of 3-5% in your article with relevant LSI (Latent Semantic Inde
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201601290906-felix-GTY_donald_trump_hillary_clinton_sk_150619_16x9_992.jpg"
-image_caption: ""
 ---
 
 The United States Presidential election. The  $6 billion race for the White House. The battle between Democrats and Republicans, Donkeys versus Elephants. Like an Olympics for politicians, it happens every four years and has the potential to shape world economics and policy until the next one.

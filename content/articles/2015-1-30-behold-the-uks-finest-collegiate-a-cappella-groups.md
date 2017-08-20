@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial hosted the UK semi finals of the International Championship of Collegiate A Cappella
 date: "2015-01-30 00:06:41 +0000"
-
-# Attributes from Felix Online V1
-id: "5162"
-old_path: /features/5162/behold-the-uks-finest-collegiate-a-cappella-groups
+image: "http://felixonline.co.uk/img/upload/201501300006-ps3110-screen-shot-2015-01-30-at-00.07.33.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/5162/behold-the-uks-finest-collegiate-a-cappella-groups
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -25,12 +22,6 @@ authors:
  - xc3313
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501300006-ps3110-screen-shot-2015-01-30-at-00.07.33.png"
-image_caption: ""
 ---
 
 Last weekend Imperial College played host to the vivacious, nerve-wracking, and outrageously outstanding International Championship of Collegiate A Cappella (ICCA) UK Semifinal competition: a massive undertaking attracting the best unaccompanied singing groups in the world.Nine of the UK’s best teams competed for just one place at the ICCA Finals in New York, to face off again against six American groups and a Wild Card category winner from anywhere in the world.

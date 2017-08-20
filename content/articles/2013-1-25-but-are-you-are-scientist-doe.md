@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A shoutout to all so-called ‘science lovers’: go hard or go home.
 date: "2013-01-25 01:38:07 +0000"
-
-# Attributes from Felix Online V1
-id: "3182"
-old_path: /comment/3182/but-are-you-are-scientist-doe
+image: "http://felixonline.co.uk/img/upload/201301250136-tna08-smbc-comic-science.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3182/but-are-you-are-scientist-doe
-imported: true
 comments:
  - value: >
      Interesting article, though I disagree with evolution by natural selection being the most scientific (well known) example. It's fairly difficult to falsify (despite Richard Dawkins' insistence), which is a pity given how fundamental it is to the biological sciences.,I think this may well be the most pretentious, uppity, patronising article I have yet seen within the pages of Felix. Congratulations!
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301250136-tna08-smbc-comic-science.jpg"
-image_caption: ""
 ---
 
 It’s happened: geek is chic, nerds are sexy, and everyone and their dog is ready to debate with creationists. Like Brian Cox’s smiling, wistful face, science itself is increasingly entering the public consciousness. Every haunt of internet culture – Reddit, 4chan, your Facebook friends, etc. – discusses and valiantly defends science against the evils of false belief.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   How I despair at Boris’ slightly annoying antics
 date: "2012-10-05 12:44:23 +0100"
-
-# Attributes from Felix Online V1
-id: "2617"
-old_path: /comment/2617/londons-embarrassing-dad
+image: "http://felixonline.co.uk/img/upload/201210051343-felix-boris-ladyleg.jpeg"
+image_caption: "Politics: you get into it for the money and biyatchez and stuff. I got into caption writing for the."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2617/londons-embarrassing-dad
-imported: true
 comments:
  - value: >
      So, essentially, you don't find Boris amusing or affable (fair enough, I guess), but more than that you're annoyed that other people *do*? <br> <br>Seriously, grow up. There's not need to be so sensitive that the fact others are easily entertained by the beloved Mayor's sends you into spasms of rage. If you're not amused, just roll your eyes and ignore him. <br> <br>There's no way this can be some kind of permanent frustration for you, either. I move in quite political circles and I only rarely hear mention of Boris' latest escapades. If, as you say, you're no fan of Conservatism, and thus prefer to spend your time with normal people, then I can only imagine your exposure to Boris-based banter is even lower than my own. <br> <br>Untwist your knickers, my good man. If someone mentioning once in a blue moon that our Mayor made a lovable fool of himself lately is capable of inducing such vitriolic RAGE as is displayed in this column, then I can only prescribe a whole bottle of Chill-Pills.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - jph210
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210051343-felix-boris-ladyleg.jpeg"
-image_caption: ""
 ---
 
 Boris Johnson does something funny, isn’t he great!” seems to be the standard title for news stories about the man. Its like “Jim’s dad dresses up as Elvis, hilarious”; but I feel like Jim. Whilst some people find him hilarious and willingly vote for him, I think: “Oh God, I have to put up with this on a day-to-day basis.” I can’t even escape him when I go home to Norway: damned Olympics. And then he started dancing at the closing ceremony: that drunk-middle-aged-dad-at-a-wedding-dance (not for the faint of heart).

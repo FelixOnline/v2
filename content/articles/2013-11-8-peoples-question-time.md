@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Boris Johnson takes on the people in the Great Hall
 date: "2013-11-08 03:42:07 +0000"
-
-# Attributes from Felix Online V1
-id: "4023"
-old_path: /news/4023/peoples-question-time
+image: "http://felixonline.co.uk/img/upload/201311080913-felix-screen-shot-2013-11-08-at-09.13.11.png"
+image_caption: "Top: Boris under questioning Bottom: Boris doing 'the creep'"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4023/peoples-question-time
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311080913-felix-screen-shot-2013-11-08-at-09.13.11.png"
-image_caption: ""
 ---
 
 The Great Hall at Imperial played host to the second biannual People’s Question Time, an opportunity for members of the public to interact directly with the Mayor and the London Assembly. Over 700 people attended the event, with many being members of the public that live in the Kensington and Chelsea area.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Samuel Bodansky discusses the issues in the 2015 elections
 date: "2014-11-14 20:31:03 +0000"
-
-# Attributes from Felix Online V1
-id: "4870"
-old_path: /comment/4870/the-diversity-of-opinion-that-shapes-elections
+image: "http://felixonline.co.uk/img/upload/201411142031-ps3110-prime-minister-guy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4870/the-diversity-of-opinion-that-shapes-elections
-imported: true
 comments:
  - value: >
      Useful analysis from a very able man who appears understandably unaware of an underlying feature of our political life. We suffer from 2 life threatening diseases. First we ignore Gall's Law in major decision making.....cf PFI contracts....The Equality Act....NHS Reform.....The NHS Computer System. That's tantamount to chucking an apple in the air and expecting it to sta,Useful analysis from a very able man who appears understandably unaware of an underlying feature of our political life. We suffer from 2 life threatening diseases. First we ignore Gall's Law in major decision making.....cf PFI contracts....The Equality Act....NHS Reform.....The NHS Computer System. That's tantamount to chucking an apple in the air and expecting it to stay up there. Secondly we suppress rather than emulate and exceed the past achievements of our ablest people....Lord Bellwin for one..just look in Hansard...and how about the bloke who..."should have been exempted on grounds of age..insisted that he drop into Arnhem
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - sib114
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411142031-ps3110-prime-minister-guy.jpg"
-image_caption: ""
 ---
 
 In the 2015 election, one of the largest issues will be the size of the Government. People are asking questions, such as “what should the Government provide?”, and “how much control should the Government have in our lives?”. These questions split the political parties, with Conservatives generally in favour of having a smaller Government, and Labour in favour of a larger one. Parties have a spectrum of answers to this question.

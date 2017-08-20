@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Tanguy Racine explores the depths of Migovec, Slovenia
 date: "2015-02-13 15:26:08 +0000"
-
-# Attributes from Felix Online V1
-id: "5259"
-old_path: /cands/5259/four-days-below-with-ic-caving-club
+image: "http://felixonline.co.uk/img/upload/201502131526-bwh12-pict3.jpg"
+image_caption: "Rhys Tyers in a passage at –820m"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5259/four-days-below-with-ic-caving-club
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -24,12 +22,6 @@ authors:
  - bwh12
  - tr1813
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502131526-bwh12-pict3.jpg"
-image_caption: ""
 ---
 
 Hey ho! Silence. We know what it means. Cavers returning. The kettle lets out a hisssss and gurgles. A tackle bag falls heavily on the floor and we all look up. “Hey ho!” And conversations resume, “Yes this word fits”, “What about fifteen down ?”, “Does it go?”, “Tea is up!”, “Where’s the cow ?”

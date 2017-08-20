@@ -4,16 +4,13 @@ title: >
 subtitle: >
   There’s been a movement in the last couple of years to get people talking about their experiences with mental health, whether it’s on a national scale such as Mind’s Time to Talk campaign or Imperial’s own OpenMinds campaign.
 date: "2014-03-07 04:41:51 +0000"
-
-# Attributes from Felix Online V1
-id: "4456"
-old_path: /features/4456/recovering-from-depression
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4456/recovering-from-depression
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -25,12 +22,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 There’s been a movement in the last couple of years to get people talking about their experiences with mental health, whether it’s on a national scale such as Mind’s Time to Talk campaign or Imperial’s own OpenMinds campaign. There’s also been a move to try and explain life with a mental illness to others who haven’t suffered one, a daunting task at best, but a project which has yielded really amazing work. My personal favourite is Hyperbole and a Half’s web-comic ‘Adventures in Depression’ (shown below) because it rings most true to my experiences of depression although, of course, everyone’s experiences are different. It also contains the use of stick men, which is a well-known Union favourite.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Becky Lane, Deputy President (Welfare) dusts the cobwebs off the campaign material and sees what she thinks she has and hasn’t done
 date: "2013-01-25 01:59:54 +0000"
-
-# Attributes from Felix Online V1
-id: "3190"
-old_path: /news/3190/the-manifesto-review-dpw
+image: "http://felixonline.co.uk/img/upload/201301250159-tna08-becky-lane-white-background.jpg"
+image_caption: "Becky Lane, Deputy President (Welfare)"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3190/the-manifesto-review-dpw
-imported: true
 comments:
  - value: >
      I wish she didn't smoke (doesn't suit the welfare role) and supported RAG more. She should so do the bungee jump for one
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301250159-tna08-becky-lane-white-background.jpg"
-image_caption: ""
 ---
 
 It is hard to believe that I am over half way into my term as Deputy President (Welfare), elections still only feel like they were last month! Following on from Paul’s article last week I am doing a manifesto review, but also talking about all of the other projects I have been involved in that I hadn’t even dreamt up at the point of writing mymanifesto. It has been a whirlwind so far and I have genuinely really enjoyed the job. Whilst doing my degree I was constantly counting down to the weekend with the general feeling of WHAT IT’S ONLY TUESDAY?!? This year Friday always seems to appear out of nowhere with all of the meetings I have to go to and the projects I’m working on. It is hard to know if the role has involved what I thought it would when I started out, I really enjoy the mix of representing students on welfare related committees and also having time to peruse welfare campaigns and projects working with Union staff. I would have to say that the role is more varied than I ever imagined, which is a huge positive from my point of view. The biggest learning experience for me has definitely been having patience and realising that I can’t make things happen alone. When starting a new project you often need help and support from other staff, other sabbaticals and College departments; and your priorities hardly ever match. That said, I will do a manifesto review and then a brief overview of some of the other things I have been involved with over the past year.

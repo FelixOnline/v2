@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Success story of an Imperial miser finding happiness on the islands of manta rays, volcanoes, surfs and opposite-sex attention
 date: "2011-01-20 19:15:06 +0000"
-
-# Attributes from Felix Online V1
-id: "601"
-old_path: /travel/601/the-hawaiian-antidepressant-
+image: "http://felixonline.co.uk/img/upload/201101201912-ks607-mantaray.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/601/the-hawaiian-antidepressant-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - cb403
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101201912-ks607-mantaray.jpg"
-image_caption: ""
 ---
 
 There are an awful lot of grumpy people in London at the moment. They’re fed up with the daily commute on overcrowded trains, the fellow passengers sneezing all over them, and the realisation that they just don’t have the will power to keep any New Year resolutions. But actually their crabbiness does not stem from any of these things. It’s all down to a bad case of seasonal affective disorder, aka winter depression.

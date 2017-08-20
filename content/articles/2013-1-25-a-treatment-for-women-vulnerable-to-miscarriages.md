@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial and Warwick research may hold the key
 date: "2013-01-25 01:52:32 +0000"
-
-# Attributes from Felix Online V1
-id: "3187"
-old_path: /science/3187/a-treatment-for-women-vulnerable-to-miscarriages
+image: "http://felixonline.co.uk/img/upload/201301250152-tna08-sonogram-human-foetal-fetal-ultrasound-scan-at-10-weeks-mono-1-anon.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3187/a-treatment-for-women-vulnerable-to-miscarriages
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - kw911
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301250152-tna08-sonogram-human-foetal-fetal-ultrasound-scan-at-10-weeks-mono-1-anon.jpg"
-image_caption: ""
 ---
 
 Researchers at Imperial College and the University of Warwick have identified molecular signals produced by cells in the womb saying whether an embryo can implant there or not, and suggest that drugs affecting these signals could be used to treat women vulnerable to miscarriages.

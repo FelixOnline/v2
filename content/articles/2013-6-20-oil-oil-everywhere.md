@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Sanchit Sharma invades a country for it's natural resources. Oh, wait, no, to topple an evil regime
 date: "2013-06-20 22:47:32 +0100"
-
-# Attributes from Felix Online V1
-id: "3713"
-old_path: /games/3713/oil-oil-everywhere
+image: "http://felixonline.co.uk/img/upload/201306202347-tna08-oilrush_60.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3713/oil-oil-everywhere
-imported: true
 comments:
  - value: >
      Hey this is a great post. Could you keep me updated with any other info smiilar to this? If travelling to the UK why not stay at Stratford hotel and watch a Shakespear play,What a disappointment! Less than 30 <a href="http://uifidalngll.com">mientus</a> of video you can find on the internet and of little value. Most of what the videos show is the same process for WordPress which the narrator continuously points out. How to Setup WordPress MU in 30 Minutes would be a more appropriate name. There is little if nothing for how to use WordPress MU. I purchased this to learn more but I am already past the level where this product takes the user and I still have a lot of questions. But wait, you can sign up for their affiliate program from a link to sell this worthless stuff.
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306202347-tna08-oilrush_60.jpg"
-image_caption: ""
 ---
 
 “Huh. Maxed out on oil again.” – Me, when playing Oil Rush. Oil Rush is an interesting take on the real time strategy genre. It is a naval strategy game that takes place in the future, where nuclear war has melted the polar ice caps leaving little habitable land on the planet. As such, many people live either on ships or on platforms that have been built in the sea.

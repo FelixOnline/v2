@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Immortals play hard ball
 date: "2016-12-02 16:48:56 +0000"
-
-# Attributes from Felix Online V1
-id: "6553"
-old_path: /sport/6553/ic-deserve-leos-oscar-after-beating-bears
+image: "http://felixonline.co.uk/img/upload/201612021648-felix-3rdgamepicfelix.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6553/ic-deserve-leos-oscar-after-beating-bears
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - imrajsingh
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612021648-felix-3rdgamepicfelix.jpg"
-image_caption: ""
 ---
 
 Following a strong win and a defensive shut out against the UEA Pirates, the Immortals were looking to build upon their momentum and announce themselves as serious playoff contenders. Standing in their way were the Immortals’ fierce rivals, Royal Holloway.

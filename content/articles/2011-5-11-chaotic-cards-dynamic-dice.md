@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Dr Frank Berkshires give a Friends of Imperial lecture on mathematics and gambling
 date: "2011-05-11 09:18:07 +0100"
-
-# Attributes from Felix Online V1
-id: "1182"
-old_path: /science/1182/chaotic-cards--dynamic-dice
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1182/chaotic-cards--dynamic-dice
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - ma1307
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The audience, of what was effectively a maths lecture, was a mixed crowd. Organised by Friends of Imperial – an organisation that encourages alumni and the public to get involved in the work of the College – the lecture drew people from a range of ages and walks of life, but all with an interest in science. Interests no doubt like mine that picked up at the mention of the sub title: “How to Win a Small fortune”. Not suggesting that people who have an interest in science are always after a quick buck – no one does a PhD expecting a fast car and penthouse – but rather the dynamics of the statistics and numbers behind gambling and tricks excites in the scientific mind a possibility to win through knowledge and shrewd planning alone. And, well, if you manage to walk away from a Blackjack table with a couple of hundred grand in your front pocket in the process then all the better.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   With the RCSU Summer Ball just around the corner, James Tsim, RCSU President, talks about the year that has just gone by
 date: "2013-06-13 23:42:58 +0100"
-
-# Attributes from Felix Online V1
-id: "3699"
-old_path: /news/3699/rcsu--year-in-review
+image: "http://felixonline.co.uk/img/upload/201306140042-tna08-jez.jpeg"
+image_caption: "RCSU with their Jezebel"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3699/rcsu--year-in-review
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - jt2010
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306140042-tna08-jez.jpeg"
-image_caption: ""
 ---
 
 This academic year is coming to a close with exams and final year projects and soon the next RCSU committee will be taking the reins. We hope that you have enjoyed reading RCSU Broadsheet this year and keep reading next year! The RCSU this year has had fantastic turn-outs to events, with Freshers enjoying a taste of top class bars in Chelsea during our pub crawl, taking full advantage of our Autumn Ball to make friends and amazing discounts at the ‘RCSU Bookshop’. As usual Mascotry was rife in the RCSU, with us successfully acquiring the CGCU Spanner and Bolt during fresher’s fair which ultimately led to pieing of Temi Ladega (CGCU President). Freshers also got involved and I was surprised by a mysterious looking group of Freshers knocking on the office door carrying the Medics mascot (Phoenix costume).

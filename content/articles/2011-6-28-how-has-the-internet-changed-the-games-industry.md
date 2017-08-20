@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Why broadband, MMORPGs, and downloadable content changed games forever
 date: "2011-06-28 11:02:32 +0100"
-
-# Attributes from Felix Online V1
-id: "1438"
-old_path: /games/1438/how-has-the-internet-changed-the-games-industry
+image: "http://felixonline.co.uk/img/upload/201106281158-felix-horse.jpg"
+image_caption: "Oblivion's 'horse armour: the worse downloadable content of all time"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1438/how-has-the-internet-changed-the-games-industry
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -25,12 +23,6 @@ authors:
  - felix
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106281158-felix-horse.jpg"
-image_caption: ""
 ---
 
 The internet and games. They were always going to go hand-in-hand, and I’m sure the gaming industry would look very different today if not for the advent of personal broadband. Of course, there are the obvious benefits such as online multiplayer and downloadable content, but there are also slightly more subtle ways the internet has changed the industry. Things that are not so immediately apparent.

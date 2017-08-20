@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tim Arbabzadah and Caroline Wood try them for you...
 date: "2013-01-31 23:46:42 +0000"
-
-# Attributes from Felix Online V1
-id: "3215"
-old_path: /food/3215/a-very-chunky-review
+image: "http://felixonline.co.uk/img/upload/201301312345-tna08-kitkat-chunky-choc-fudge_4-cutout.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3215/a-very-chunky-review
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301312345-tna08-kitkat-chunky-choc-fudge_4-cutout.jpg"
-image_caption: ""
 ---
 
 It definitely sounds as if it’s going to be amazing. The fudge is actually pretty nice. The problem is when you compare it to just a normal Chunky: doesn’t add so much that you think it’s revolutionary. Okay, we know that it’s not exactly supposed to be pioneering new grounds, but, still, some innovation please.

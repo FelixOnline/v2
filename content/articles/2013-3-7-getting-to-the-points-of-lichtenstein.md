@@ -4,18 +4,15 @@ title: >
 subtitle: >
   40 years of comic book trippyness
 date: "2013-03-07 23:50:53 +0000"
-
-# Attributes from Felix Online V1
-id: "3447"
-old_path: /arts/3447/getting-to-the-points-of-lichtenstein
+image: "http://felixonline.co.uk/img/upload/201303072350-tna08-roylic006.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3447/getting-to-the-points-of-lichtenstein
-imported: true
 comments:
  - value: >
      Well this is embarrassing... ,Apparently nobody gets puns any more. Lichtenstein was famous for making use of Pointillism. Points.... get it. A joke so stealthy it flies under the radar of humor.,At least get the spelling right in the title so i actually fell like reading the article...,*feel haha,You're the hero Felix needs, not the one it deserves.,Above comment is aimed at you, Charles Thomas
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303072350-tna08-roylic006.jpg"
-image_caption: ""
 ---
 
 “Whaam!” is probably one of the most reproduced pieces of art on the planet. That bold comic style, that distinctive script, the perfect coloured dots... The piece is so distinctively Lichtenstein that it has perhaps come to define him as an artist. However as this retrospective shows, Roy Lichtenstein is so much more than that.

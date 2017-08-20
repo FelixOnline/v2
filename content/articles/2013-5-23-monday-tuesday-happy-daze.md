@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Mo Mirza gets within touching distance of Kurt Vile in Camden
 date: "2013-05-23 22:19:48 +0100"
-
-# Attributes from Felix Online V1
-id: "3615"
-old_path: /music/3615/monday-tuesday-happy-daze
+image: "http://felixonline.co.uk/img/upload/201305232319-tna08-kurt_vile11_website_image_wugd_standard.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3615/monday-tuesday-happy-daze
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - mum09
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305232319-tna08-kurt_vile11_website_image_wugd_standard.jpg"
-image_caption: ""
 ---
 
 The gig was hosted at Barfly which provided an intimate setting, for what was a show for competition winners. Kurt Vile had not brought a backing band along on this occasion and he made everyone wait. The crowds were a bunch of happy campers though –true to the stoner spirit. They did not mind one bit as Vile spent some time tuning his guitar on stage and repeatedly asked his sound engineer for “more reverb, yeaa!”

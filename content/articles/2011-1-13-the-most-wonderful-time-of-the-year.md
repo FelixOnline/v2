@@ -4,16 +4,13 @@ title: >
 subtitle: >
   While the rest of the country waited for flights at Heathrow, the Fellwanderers headed for the Lake District
 date: "2011-01-13 19:32:15 +0000"
-
-# Attributes from Felix Online V1
-id: "566"
-old_path: /travel/566/the-most-wonderful-time-of-the-year-
+image: "http://felixonline.co.uk/img/upload/201101131930-ks607-fellwand.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/566/the-most-wonderful-time-of-the-year-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -23,12 +20,6 @@ authors:
  - tp407
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101131930-ks607-fellwand.jpg"
-image_caption: ""
 ---
 
 __Day the First: __

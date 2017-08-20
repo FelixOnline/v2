@@ -4,18 +4,15 @@ title: >
 subtitle: >
   40 unarmed people killed as tribal violence escalates
 date: "2011-05-12 19:31:52 +0100"
-
-# Attributes from Felix Online V1
-id: "1208"
-old_path: /politics/1208/massacre-in-kenya
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1208/massacre-in-kenya
-imported: true
 comments:
  - value: >
      Tut tut...the picture shown is not a Turkana herder but a poor innocent Samburu ! Please don't dishonour this man so, and change the picture.
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -27,12 +24,6 @@ authors:
  - rtf08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 She didn’t stand a chance. Carrying underarm the small goat she was hoping to trade, Akiru could only join the other traders as they were rounded up in a small village along Ethiopia’s border with Kenya. The following morning she was one of twenty Kenyans carried away in bin bags by Catholic missionaries in a tractor. She was shot at close range.

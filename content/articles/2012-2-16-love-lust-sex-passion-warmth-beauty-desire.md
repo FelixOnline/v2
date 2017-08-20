@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix Film looks back at the past eight decades of cinema, hand-picking the most touching and memorable movies – ideal for a quiet, intimate, romantic night in
 date: "2012-02-16 21:17:09 +0000"
-
-# Attributes from Felix Online V1
-id: "2187"
-old_path: /film/2187/love-lust-sex-passion-warmth-beauty-desire
+image: "http://felixonline.co.uk/img/upload/201202162113-pk1811-qc-14.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2187/love-lust-sex-passion-warmth-beauty-desire
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162113-pk1811-qc-14.jpg"
-image_caption: ""
 ---
 
 __The 1930s: Queen Christina__

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Abi de Bruin speaks to Bernadett Tildy about Teddington, clubbing and the president’s survival skills
 date: "2014-11-10 23:51:55 +0000"
-
-# Attributes from Felix Online V1
-id: "4856"
-old_path: /features/4856/the-force-behind-freshers-fair
+image: "http://felixonline.co.uk/img/upload/201411102351-ps3110-dpcs_by_tlim-for-site.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4856/the-force-behind-freshers-fair
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102351-ps3110-dpcs_by_tlim-for-site.jpg"
-image_caption: ""
 ---
 
 __B: What clubs and societies are you currently involved in or have you been a member of?__

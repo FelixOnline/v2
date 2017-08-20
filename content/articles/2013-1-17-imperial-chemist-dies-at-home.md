@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Joachim H. G. Steinke died suddenly last Tuesday
 date: "2013-01-17 23:42:34 +0000"
-
-# Attributes from Felix Online V1
-id: "3117"
-old_path: /news/3117/imperial-chemist-dies-at-home
+image: "http://felixonline.co.uk/img/upload/201301172342-tna08-steinke.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3117/imperial-chemist-dies-at-home
-imported: true
 comments:
  - value: >
      RIP Dr Steinke, such a moving tribute to a huge character who will be missed.,RIP Joachim. You will be missed. ,Dr Steinke was a brilliant teacher. I am honoured to have been one of the last of his pupils. I still have some pieces of self-healing polymer that he gave me after one of his lectures. <br>Mein Beileid seiner Familie und denen, die ihm nahe standen.,thank you rob ! our door is always open for you, as you know ! i am so grateful that joachim could rely on you as his friend, during and after his life time. heart felt thank you and all the best ! <br>norbert
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301172342-tna08-steinke.jpg"
-image_caption: ""
 ---
 
 I knew Joachim for the last 23 years having done our PhD’s together at the University of Strathclyde under Professor David’s Sherrington’s fine leadership.

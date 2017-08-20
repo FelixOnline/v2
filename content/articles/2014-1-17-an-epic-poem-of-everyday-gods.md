@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Brand New Ancients is a storm of a performance, says Lily Le
 date: "2014-01-17 03:45:29 +0000"
-
-# Attributes from Felix Online V1
-id: "4239"
-old_path: /arts/4239/an-epic-poem-of-everyday-gods
+image: "http://felixonline.co.uk/img/upload/201401170345-jal08-arts-kate-tempest---brand-new-ancients---spitalfields-music-winter-festival-16-december.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4239/an-epic-poem-of-everyday-gods
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - lwl09
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201401170345-jal08-arts-kate-tempest---brand-new-ancients---spitalfields-music-winter-festival-16-december.jpg"
-image_caption: ""
 ---
 
 Kate Tempest is a 27 year old performance poet from Lewisham, London. As poetic as her name may sound, she remains unheard of to many. But all of this is changing, fast.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sophie Kirk: Cross country and Athletics club travel to Manchester
 date: "2012-10-11 20:39:17 +0100"
-
-# Attributes from Felix Online V1
-id: "2648"
-old_path: /sport/2648/mud-in-manchester
+image: "http://felixonline.co.uk/img/upload/201210112138-csw09-420823_10151110411118691_1522165525_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2648/mud-in-manchester
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - fsport
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112138-csw09-420823_10151110411118691_1522165525_n.jpg"
-image_caption: ""
 ---
 
 After a successful Fresher’s Fair and first run (with a record turnout of 80) Cross Country and Athletics club travelled up to Manchester for our first race of the year. Expecting cold temperatures, mist and rain we were surprised to find ourselves faced with a lovely sunny day!

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Oliver Benton makes the trip down to the new grounds
 date: "2014-10-17 15:12:36 +0100"
-
-# Attributes from Felix Online V1
-id: "4736"
-old_path: /news/4736/heston-opens-as-the-new-home-of-sport
+image: "http://felixonline.co.uk/img/upload/201410171612-kmw13-imag0045.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4736/heston-opens-as-the-new-home-of-sport
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - ohb09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201410171612-kmw13-imag0045.jpg"
-image_caption: ""
 ---
 
 Heston, the new home of Medic sport, was unveiled on Wednesday the 15th of October, to a nibbles and ‘BUCS’ fizz reception. Debra Humphris, Vice Provost (Education), launched the day with a short speech commenting on the “continued evolution of our sports facilities” and the revealing of a plaque honouring Teddington and a piece of the hallowed Teddington grass.

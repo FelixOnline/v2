@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Edward Bals tackles THQ’s latest professional wrestling game, WWE ‘12
 date: "2011-12-01 20:08:15 +0000"
-
-# Attributes from Felix Online V1
-id: "1865"
-old_path: /games/1865/smack-it-down-to-the-ground-wwe-style
+image: "http://felixonline.co.uk/img/upload/201112012007-pk1811-wwe-12-review.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1865/smack-it-down-to-the-ground-wwe-style
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -25,12 +22,6 @@ authors:
  - pk1811
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012007-pk1811-wwe-12-review.jpg"
-image_caption: ""
 ---
 
 THQ promised that WWE ‘12 would be the game to reinvent their tired series, and it seems that with this new entry they have succeeded, at least in part. This is a game which recreates the almost absurd dramatics and stage-play that wrestling is famous for: from The Undertaker’s chilling entrance to some of the, sometimes hilarious, match modes.

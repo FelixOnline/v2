@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Our regular nutrition column
 date: "2016-05-06 09:56:57 +0100"
-
-# Attributes from Felix Online V1
-id: "6125"
-old_path: /science/6125/is-it-time-for-a-move-to-frozen-foods
+image: "http://felixonline.co.uk/img/upload/201605061056-felix-167845726_b65bdfaacb_b.jpg"
+image_caption: "Eat your frozen veggies kids."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6125/is-it-time-for-a-move-to-frozen-foods
-imported: true
 comments:
  - value: >
      The piece fanfare for the common man written for the soldiers and the sailors going out to war. Copland lived between 1900 and 1990 in new york. He wrote this piece during world war II which is now commonly hears in many places. The piece in intense in the beginning but at the end there is less brass making it lesss intense. This piece only has brass and peciussron making it very loud and intense hence the theem of the war. Now being playeed in the ol ympics since world war II it has been recognized for its unique sound.,I appreciate the content on your website. Appreciate it. <br> <br> <br>look at these guys - Full Post - helpful site - this link - Suggested <br>Site - made a post - just click the following page - click to investigate - please click the following article - just click the <br>up coming post - mouse click the next internet <br>page - visit the next document - source for this article - More Tips - our <br>website - content - Get Source - Read A lot more - resources - Going In this article <br>- source website -
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -26,12 +24,6 @@ authors:
  - al4915
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061056-felix-167845726_b65bdfaacb_b.jpg"
-image_caption: ""
 ---
 
 Breakfast this morning got me thinking. It merely involved microwaving frozen bread prior to making French toast, but the nonchalant routine reminded me to extol the virtues of frozen food, something I think many of us tend to overlook.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Michael Chung digs into the myriad ways to volunteer while you’re studying
 date: "2015-02-20 00:29:03 +0000"
-
-# Attributes from Felix Online V1
-id: "5287"
-old_path: /cands/5287/its-time-for-you-to-get-involved--student-volunteering-week-2015
+image: "http://felixonline.co.uk/img/upload/201502200029-ps3110-screen-shot-2015-02-20-at-00.28.51.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5287/its-time-for-you-to-get-involved--student-volunteering-week-2015
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502200029-ps3110-screen-shot-2015-02-20-at-00.28.51.png"
-image_caption: ""
 ---
 
 “Hiya! Do you have a few moments to volunteer for a good cause?“ “Ah sorry I’m in a hurry” This dialogue has occurred in the JCR for too long. And as students, who are stereotypically drunk 24/7, it is time for us to stand up and change public perceptions.

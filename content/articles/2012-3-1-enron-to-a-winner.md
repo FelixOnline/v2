@@ -4,16 +4,14 @@ title: >
 subtitle: >
   DramSoc take on big business
 date: "2012-03-01 22:00:45 +0000"
-
-# Attributes from Felix Online V1
-id: "2282"
-old_path: /arts/2282/enron-to-a-winner
+image: "http://felixonline.co.uk/img/upload/201203012200-cac111-img_9836.jpg"
+image_caption: "2 Girls 1 Cup received the usual response"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2282/enron-to-a-winner
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - lap08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203012200-cac111-img_9836.jpg"
-image_caption: ""
 ---
 
 Last week I requested a gilded invitation to see DramSoc’s latest spring term play [ENRON](http://www.enron.com/) before it went on stage. Whilst I did get my invite I didn’t get it on gold leaf coated paper, the stingy gits. In spite of this I went to see the cast perform on Tuesday, with no idea what to expect, despite everything I’d heard about both ENRON the company and ENRON the West End production. As it turned out, I was pretty impressed.

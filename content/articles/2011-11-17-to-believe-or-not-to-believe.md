@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Was Shakespeare a fraud?
 date: "2011-11-17 22:07:13 +0000"
-
-# Attributes from Felix Online V1
-id: "1791"
-old_path: /film/1791/to-believe-or-not-to-believe
+image: "http://felixonline.co.uk/img/upload/201111172205-pk1811-anonymous_2011_1024x768_896530.jpg"
+image_caption: "Oh my god...you've been tangoed!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1791/to-believe-or-not-to-believe
-imported: true
 comments:
  - value: >
      Felix somehow <a href="http://rcnribi.com">manegad</a>. But he was not ready and he was not in charge. He <a href="http://rcnribi.com">manegad</a> to get out of the flatspin because he trusted his feelings and found the way out.He is talented, but he was lucky.This is a good example of the dangers of getting interfering interests mixed with extreme sports.
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +26,6 @@ authors:
  - jgp09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172205-pk1811-anonymous_2011_1024x768_896530.jpg"
-image_caption: ""
 ---
 
 __Anonymous__

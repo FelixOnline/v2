@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Deepka Rana talks to Unishack.com’s founder, Ben Oakenfull
 date: "2012-10-26 02:09:55 +0100"
-
-# Attributes from Felix Online V1
-id: "2735"
-old_path: /biz/2735/shacking-up-with-business
+image: "http://felixonline.co.uk/img/upload/201210260310-tna08-ben-oakenfull---uni-shack-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/2735/shacking-up-with-business
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -24,12 +21,6 @@ authors:
  - dr710
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210260310-tna08-ben-oakenfull---uni-shack-copy.jpg"
-image_caption: ""
 ---
 
 We all know that estate agents and landlords aren’t exactly a student’s best friend, and many of us have personally fallen victim of pushy sales tactics, resulting in a less than ideal but extortionately expensive student flat. Such experiences prompted Ben, a final year student at Bournemouth University, to start his very own online business. Unishack.com allows students to rate their accommodation in order to help those currently looking to rent. Felix had the opportunity to pick Ben’s brains about running his own business whilst still at University.

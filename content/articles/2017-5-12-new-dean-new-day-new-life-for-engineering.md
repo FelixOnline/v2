@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Only wrote this story for the headline
 date: "2017-05-12 16:14:43 +0100"
-
-# Attributes from Felix Online V1
-id: "6935"
-old_path: /news/6935/new-dean-new-day-new-life-for-engineering
+image: "http://felixonline.co.uk/img/upload/201705121814-felix-newseventsimages.jpeg"
+image_caption: "Man of the hour"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6935/new-dean-new-day-new-life-for-engineering
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ea3211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705121814-felix-newseventsimages.jpeg"
-image_caption: ""
 ---
 
 Starting this October, College will be welcoming Prof. Nigel Brandon as its new Engineering Dean. Though he is currently the Director of Imperial’s Sustainable Gas Institute (ha), Brandon’s love affair with Imperial dates back to the 70s, when he started his undergraduate degree and later did his PhD. Since then,  he’s held positions at BP and Rolls Royce, as well as at the UK Research Council’s energy programme. Brandon will be replacing Prof. Jeff Magee who’s held the role of Dean since 2011. He’s been serving as Vice-Dean (Research) for the past year.

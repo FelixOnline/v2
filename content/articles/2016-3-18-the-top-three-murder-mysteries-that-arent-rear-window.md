@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-03-18 11:58:00 +0000"
-
-# Attributes from Felix Online V1
-id: "6069"
-old_path: /film/6069/the-top-three-murder-mysteries-that-arent-rear-window
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6069/the-top-three-murder-mysteries-that-arent-rear-window
-imported: true
 comments:
  - value: >
      That's a smart answer to a diilfcuft question.
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - bsc14
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Ok, so the original plan for this week was to put together an election-themed section. Maybe ‘best films featuring presidents’ or ‘best political dramas’? The truth of it is that I’m a bit election’d out right now… Either that or I couldn’t find anything on Google other than _Lincoln_. You know what’s more exciting than student elections though? Murder. Hitchcock’s _Rear Window_ may be the best but it’s not the be-all-and-end-all:

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The object not the people
 date: "2017-03-10 14:43:25 +0000"
-
-# Attributes from Felix Online V1
-id: "6888"
-old_path: /sport/6888/london-varsity-2017--gymnastics-on-a-pole
+image: "http://felixonline.co.uk/img/upload/201703101442-felix-17038521_184091845416850_9017397598970681265_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6888/london-varsity-2017--gymnastics-on-a-pole
-imported: true
 comments:
  - value: >
      youre looking sharp! <br>best madden 17 mobile coins supplier http://www.madden-store.com,youre looking sharp! <br>best madden 17 mobile coins supplier http://www.madden-store.com,You did it ! <br>pokemonbux cheap pokemon go rare pokemon for sale http://www.pokemonbux.com,You did it ! <br>pokemonbux cheap pokemon go rare pokemon for sale http://www.pokemonbux.com,No, I know. <br>buy Dofus Touch Kamas http://www.highernation.net/groups/topic/view/group_id/280/topic_id/253/post_id/253,No, I know. <br>buy Dofus Touch Kamas http://www.highernation.net/groups/topic/view/group_id/280/topic_id/253/post_id/253,Thank you for your helping hand. <br>Albion Online gold http://wallinside.com/post-57828361-albion-online-conflicts-between-guilds-and-alliances-in-galahad.html,Thank you for your helping hand. <br>Albion Online gold http://wallinside.com/post-57828361-albion-online-conflicts-between-guilds-and-alliances-in-galahad.html
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101442-felix-17038521_184091845416850_9017397598970681265_o.jpg"
-image_caption: ""
 ---
 
 The first thing that comes to mind when you mention pole dancing is pretty obvious. The sexual connotation it carries will remain for as long as clubs continue to offer such services, but there is a sporting aspect to it as well that, though rather well-known as well, is almost certainly not the first thing one would associate with pole dancing. That pole dancing is indeed a form of sport is advocated by plenty of pole instructors and societies out there, Imperial’s very own Pole and Aerial Society being one of them, and after covering the London Pole Varsity 2017 for felix’s sport section last Saturday, I must say that I completely agree with the notion. Considering that my knowledge and ability to appreciate anything with the word ‘dance’ in it, pole or not, is comparable to that of a potato, combined with pole dancing being almost non-existent in my home country (hence I’d never seen a pole dance prior to last Saturday),  it must’ve been mighty impressive. Good news IC Pole and Aerial: it was indeed!

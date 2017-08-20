@@ -4,18 +4,15 @@ title: >
 subtitle: >
   I spent my time on the red carpet taking selfies
 date: "2015-10-30 14:45:46 +0000"
-
-# Attributes from Felix Online V1
-id: "5690"
-old_path: /news/5690/i-went-to-the-bond-premiere
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5690/i-went-to-the-bond-premiere
-imported: true
 comments:
  - value: >
      All I took from this was "smug Sabb takes advantage of elected role, then writes about how smug she is."
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 By some spectacular stroke of luck I managed to get my paws on a ticket to the Spectre premiere. I’m not just talking a ticket to see the film, I mean full on red carpet walking boozing and schmoozing tickets.

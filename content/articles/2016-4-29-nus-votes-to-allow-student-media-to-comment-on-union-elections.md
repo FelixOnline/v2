@@ -4,18 +4,15 @@ title: >
 subtitle: >
   We weren’t allowed to print this picture we drew as part of last term’s election coverage as the union said it endorsed one of the candidates
 date: "2016-04-29 10:06:02 +0100"
-
-# Attributes from Felix Online V1
-id: "6089"
-old_path: /news/6089/nus-votes-to-allow-student-media-to-comment-on-union-elections
+image: "http://felixonline.co.uk/img/upload/201604291105-felix-makeicu.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6089/nus-votes-to-allow-student-media-to-comment-on-union-elections
-imported: true
 comments:
  - value: >
      Many thanks, this site is really beneficial <br>madden 16 coins http://irislindsay.spruz.com/,Many thanks, this site is really beneficial <br>madden 16 coins http://irislindsay.spruz.com/,http://kamagrabuy-jelly.org/ - Viagra Online Discount Discount Celebrex http://synthroidonlinebuy.net/,http://kamagrabuy-jelly.org/ - Viagra Online Discount Discount Celebrex http://synthroidonlinebuy.net/,http://kamagrabuy-jelly.org/ - Cheap Kamagra Generic For Celebrex 200 Mg http://synthroidonlinebuy.net/,http://kamagrabuy-jelly.org/ - Cheap Kamagra Generic For Celebrex 200 Mg http://synthroidonlinebuy.net/,With thanks! This is definitely an impressive online site!. <br>COUNTERSTRIKE http://www.sbgl.net.cn/comment/html/index.php?page=1&amp;id=41699,With thanks! This is definitely an impressive online site!. <br>COUNTERSTRIKE http://www.sbgl.net.cn/comment/html/index.php?page=1&amp;id=41699,cartierbraceletlove можно ли бонусы перевести на киви кошелек <br> faux boucle d oreille occasion [url=http://www.collanaq
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201604291105-felix-makeicu.jpg"
-image_caption: ""
 ---
 
 At last week’s NUS conference, a motion was passed which should allow student media organisations to cover union elections in more detail.

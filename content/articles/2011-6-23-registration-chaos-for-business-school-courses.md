@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Complaints after high demand brings down registration system
 date: "2011-06-23 19:13:08 +0100"
-
-# Attributes from Felix Online V1
-id: "1412"
-old_path: /news/1412/registration-chaos-for-business-school-courses
+image: "http://felixonline.co.uk/img/upload/201102101946-ks607-business.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1412/registration-chaos-for-business-school-courses
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ak6309
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102101946-ks607-business.jpg"
-image_caption: ""
 ---
 
 The registration system for optional course modules in Business In Science, Engineering & Technology (BEST) was hit with problems on Monday. The Departmental Student System (DSS) used for registering optional modules in courses across college was swamped with connection requests as students logged on to pick their chosen modules in the morning.

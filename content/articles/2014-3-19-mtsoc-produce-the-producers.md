@@ -4,16 +4,13 @@ title: >
 subtitle: >
   As MTSoc put their finishing touches to the Spring performance, the Producers, they invited this intrepid reporter along to see how things were shaping up in the dress rehearsal.
 date: "2014-03-19 02:46:02 +0000"
-
-# Attributes from Felix Online V1
-id: "4489"
-old_path: /arts/4489/mtsoc-produce-the-producers
+image: "http://felixonline.co.uk/img/upload/201403190247-jal08-mtsoc_mathieson.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4489/mtsoc-produce-the-producers
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - em2512
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201403190247-jal08-mtsoc_mathieson.png"
-image_caption: ""
 ---
 
 Somehow on a blustery Tuesday evening I found myself invited to the dress rehearsal of MTSoc’s latest performance, _The Producers_. For those unfamiliar with this play, the basic plot is thus: After _Max Bialystock_'s latest show closes - a failure after only one night - he swears to return as the 'King of Broadway'. When _Leo Bloom_, an accountant with a dream of being a Broadway producer, comes up with the idea that you could make more money from a flop than a success, a plan is born. The pair must now find the worst play ever written, the worst director in town and two million dollars. And that play? _Springtime for Hitler_.

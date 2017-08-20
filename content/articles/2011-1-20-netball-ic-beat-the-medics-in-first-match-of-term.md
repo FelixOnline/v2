@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The IC beat the medics at the start of the term
 date: "2011-01-20 19:36:36 +0000"
-
-# Attributes from Felix Online V1
-id: "609"
-old_path: /sport/609/netball-ic-beat-the-medics-in-first-match-of-term
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/609/netball-ic-beat-the-medics-in-first-match-of-term
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - lch08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The unfit, untrained and turkey stuffed IC girls rocked up to Ethos on Monday night with much foreboding, the unmistakable sense of apprehension and anxiety could only mean one thing. Medics. This year’s match was made even more personal due to Becky’s unfortunate living arrangements with the medic captain.

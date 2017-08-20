@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Heather Jones on how public behaviour by a few individuals can negatively influence a whole range of unrelated social interactions
 date: "2012-06-14 19:28:44 +0100"
-
-# Attributes from Felix Online V1
-id: "2547"
-old_path: /comment/2547/alter-your-behaviour
+image: "http://felixonline.co.uk/img/upload/201206142028-ams111-comment1.jpg"
+image_caption: "It seems like everyone suffers from the thoughtless acts of a minority. By which it is meant the poo"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2547/alter-your-behaviour
-imported: true
 comments:
  - value: >
      "Perhaps if more of us showed our disapproval" This. Too often it's easier to just ignore behavior like this.,Agreed, the title is a bit misdirected, but certainly Heather feels things need to change. But perhaps she needs to realise that these individuals are only a minority and there are ways of dealing with it that are simple and effective. If you are on a train, perhaps you can just find another carriage to sit in. <br> <br>I think you are right to show disapproval but dont count on that being able to change them - there will always be a few weirdos in the world,You seem to have been unlucky. I travel quite a bit on my own and, while this happens to me too (I’m also a woman), it doesn’t happen often enough to make me expect it.,Who came up with the title? It's very offensive. ,Stand up for yourself. People don't typically interact with people that don't want to be interacted with. I like how you can tell the anonymous world how you feel about people wanting to get closer to you physically, but can't tell th
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - hj307
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206142028-ams111-comment1.jpg"
-image_caption: ""
 ---
 
 This morning I realised that something has fundamentally gone wrong. Having finished exams I was wandering around in Hyde Park after a delicious coffee with a friend and noticed the horses from the Hyde Park barracks practicing. I went over to watch and was being impressed by their formation horsing when a gentleman with a huge smile came up and asked me what they were doing. My reaction was a sinking feeling wondering how to extricate myself.

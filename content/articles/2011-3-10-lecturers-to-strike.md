@@ -4,18 +4,15 @@ title: >
 subtitle: >
   National walkout to hit Imperial unless pensions dispute is resolved
 date: "2011-03-10 19:26:55 +0000"
-
-# Attributes from Felix Online V1
-id: "1051"
-old_path: /news/1051/lecturers-to-strike
+image: "http://felixonline.co.uk/img/upload/201103101916-ks607-lectures.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1051/lecturers-to-strike
-imported: true
 comments:
  - value: >
      There is a difference between being represented for collective bargaining purposes and being a signed-up member of the Union.,There is a difference between being represented for collective bargaining purposes and being a signed-up member of the Union.,This article totally blows, man. Where are all the naked chicks waving placards? Sort it out, lads!,This article totally blows, man. Where are all the naked chicks waving placards? Sort it out, lads!,Well done to those lecturers who do choose to go to work. <br> <br>Millions across the country and the world don't have that choice.,Well done to those lecturers who do choose to go to work. <br> <br>Millions across the country and the world don't have that choice.,"The UCU represents thousands of Imperial staff... but according to the College, ...the 520 UCU members at Imperial" <br> <br>wut,"The UCU represents thousands of Imperial staff... but according to the College, ...the 520 UCU members at Imperial" <br> <br>wut
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103101916-ks607-lectures.jpg"
-image_caption: ""
 ---
 
 The University and College Union (UCU) has [scheduled strikes](http://www.ucu.org.uk/index.cfm?articleid=5371) over changes to pension schemes of university staff, with English universities due to be affected on the 22nd and 24th of March. Falling in the last week of term, the strikes could have a damaging effect on lecture courses across many departments, if employers and unions don’t come to an agreement.

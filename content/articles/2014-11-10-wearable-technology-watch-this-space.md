@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Literally, a watch may appear in this space any moment now
 date: "2014-11-10 22:13:47 +0000"
-
-# Attributes from Felix Online V1
-id: "4841"
-old_path: /tech/4841/wearable-technology--watch-this-space
+image: "http://felixonline.co.uk/img/upload/201411102213-ps3110-og_apple_watch.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4841/wearable-technology--watch-this-space
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - cm5314
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102213-ps3110-og_apple_watch.jpg"
-image_caption: ""
 ---
 
 Tech-companies want to expand their product portfolio outside of smartphones, and with iPad and tablet sales falling quarter after quarter and all the variety in screen sizes pretty much exhausted, where do they go from here?

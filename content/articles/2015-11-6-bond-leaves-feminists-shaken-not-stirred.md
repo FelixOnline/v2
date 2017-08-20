@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Everything else has been brought into the present, but the portrayal of women is stuck in the past
 date: "2015-11-06 13:42:20 +0000"
-
-# Attributes from Felix Online V1
-id: "5700"
-old_path: /comment/5700/bond-leaves-feminists-shaken-not-stirred
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5700/bond-leaves-feminists-shaken-not-stirred
-imported: true
 comments:
  - value: >
      Magnificent website. Plenty of useful information here. I'm sending it to some buddies ans additionally sharing in delicious. And obviously, thanks on your sweat! <br>beanies for sale http://www.twofangtu.cn/beanie-hats,I believe avoiding prepared foods is the first step to help lose weight. They can taste fine, but refined foods have very little vitamins and minerals, making you feed on more just to have enough vitality to get through the day. For anyone who is constantly taking in these foods, converting to cereals and other complex carbohydrates will help you to have more energy while taking in less. Good blog post. <br>cheap hats http://www.dailymotion.com/video/x30jl5l_wholesale-snapback-hats-cheap-new-era-hats-from-china-only-5-hat_lifestyle, <br>jimmy choo 財布 スーパーコピー mcm http://www.okakaku.com/brand-2-copy-0.html,The video of Jackson's famous "Tecmo Bowl" touchdown run can be found here. Our software is the only way to watch the planet Cup online in let's quality! The tournament has been lack
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Last week, along with half the country, I decided to brave the crowded cinemas to see the newest James Bond film, Spectre. Some have described Spectre as gratuitous, but I thought that it was fantastic, both in terms of the cinematography, and the primal enjoyment in watching people get beaten to a pulp. But despite enjoying it, I came out of the cinema with a slightly bitter taste in my mouth.

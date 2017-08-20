@@ -4,16 +4,13 @@ title: >
 subtitle: >
   To alleviate the panic this year, I will be attempting to go abroad with Mrs Geek
 date: "2011-02-10 21:15:00 +0000"
-
-# Attributes from Felix Online V1
-id: "797"
-old_path: /comment/797/dont-pity-singles-pity-me
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/797/dont-pity-singles-pity-me
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - mrangry
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It’s Valentine’s Day pretty soon, as you’ve no doubt realised from the world’s sudden desire to shape everything into hearts and paint itself red, and that can only mean one thing. It’s time to feel unnecessarily awkward about being in a relationship when other people aren’t. Valentine’s Day must be the only holiday that actively segregates the population and hands out gold stars to one half of it. Even the bloody Christians let everyone else chuff down chocolate come Easter time.

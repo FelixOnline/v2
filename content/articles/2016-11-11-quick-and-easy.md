@@ -4,16 +4,13 @@ title: >
 subtitle: >
   No, I’m not describing one of your sexcapades – that would lose me my job. Here’s a simple weeknight recipe for something you can really call home cooking.
 date: "2016-11-11 17:05:01 +0000"
-
-# Attributes from Felix Online V1
-id: "6433"
-old_path: /food/6433/quick-and-easy-
+image: "http://felixonline.co.uk/img/upload/201611111703-felix-16013449841_0fbdbcedc2_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6433/quick-and-easy-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - sb6213
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611111703-felix-16013449841_0fbdbcedc2_o.jpg"
-image_caption: ""
 ---
 
 Imust confess – the last time I made a stew, it took me 72 hours from start to finish. Short ribs, cooked at 54oC for two-and-a-half days in my waterbath were mouthwateringly tender and exceptionally beefy, with a wonderful red wine sauce and plenty of just tender veg. But fear not! You don’t need to raid the lab for a waterbath for this stew.

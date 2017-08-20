@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The replaying of memories when awake can distort them
 date: "2011-02-03 20:05:58 +0000"
-
-# Attributes from Felix Online V1
-id: "735"
-old_path: /science/735/improve-your-memory-by-nodding-off
+image: "http://felixonline.co.uk/img/upload/201102032003-ks607-sleeping.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/735/improve-your-memory-by-nodding-off
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - nmw10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102032003-ks607-sleeping.jpg"
-image_caption: ""
 ---
 
 Research has revealed how the replaying of memories while we are awake leaves them vulnerable to interference and distortion. The study, published in the journal Nature Neuroscience, showed that by reactivating these memories during our sleep, they are protected from this manipulation, particularly during slow wave sleep (SWS). SWS occurs in stages 3 and 4 of non-REM sleep, and we will normally SWS in periods of longer than 20 minutes, or extended power naps.

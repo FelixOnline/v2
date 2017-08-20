@@ -4,18 +4,15 @@ title: >
 subtitle: >
   All the Christmas science you'll need to bore your relatives to death
 date: "2010-12-12 13:55:46 +0000"
-
-# Attributes from Felix Online V1
-id: "551"
-old_path: /science/551/festive-science-facts-
+image: "http://felixonline.co.uk/img/upload/201012121351-ks607-familych.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/551/festive-science-facts-
-imported: true
 comments:
  - value: >
      RUBBISH!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012121351-ks607-familych.jpg"
-image_caption: ""
 ---
 
 __Roasts__:

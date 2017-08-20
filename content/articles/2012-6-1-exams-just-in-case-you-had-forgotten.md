@@ -4,16 +4,13 @@ title: >
 subtitle: >
   So I heard this 'revision' thing was all the rage right now
 date: "2012-06-01 12:48:42 +0100"
-
-# Attributes from Felix Online V1
-id: "2513"
-old_path: /comment/2513/exams-just-in-case-you-had-forgotten
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2513/exams-just-in-case-you-had-forgotten
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - mc4509
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 You know when Facebook has that dumb “what’s on your mind” thing on the status box, well there’s been one thing on my mind all term. Exams. Trouble is, once you get old (I’m a 4th Year…) you just stop being phased by the whole not-being-able-to-answer-entire-sections-of-exams thing. Maybe I’ve become au fait with how exams at university work, or maybe all us final years are just burnt out and don’t care anymore, oddly at the most crucial stage of our degree. To be honest with you, final years have had so many exams for so long that we’re just bored of them now.

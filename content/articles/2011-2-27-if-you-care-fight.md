@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Even if you aren’t directly affected by the cuts to higher education, you should still show your support argues Jennifer Watson
 date: "2011-02-27 12:39:21 +0000"
-
-# Attributes from Felix Online V1
-id: "902"
-old_path: /comment/902/if-you-care-fight
+image: "http://felixonline.co.uk/img/upload/201102271237-ks607-protestl.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/902/if-you-care-fight
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102271237-ks607-protestl.jpg"
-image_caption: ""
 ---
 
 According to the most reliable and useful source known to a student (Wikipedia), England has four of the top ten universities in the world.

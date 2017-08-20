@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Anastasia Eleftheriou discusses this seemingly esoteric foodstuff
 date: "2012-02-16 21:48:30 +0000"
-
-# Attributes from Felix Online V1
-id: "2197"
-old_path: /food/2197/the-secrets-of-a-lobster
+image: "http://felixonline.co.uk/img/upload/201202162147-ams111-lobster_rolls.jpg"
+image_caption: "Grilled, spaghetti or sushi? The choice is yours!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2197/the-secrets-of-a-lobster
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +22,6 @@ authors:
  - ae1409
  - ams111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162147-ams111-lobster_rolls.jpg"
-image_caption: ""
 ---
 
 The next time you see live lobsters at a restaurant market, don’t be afraid of them! You will see that they’re pretty easy to cook and enjoy.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The College’s current tirade against smokers is stupid and unfair – smokers should be proud of what they do, says Meredith Thomas
 date: "2013-03-01 00:48:03 +0000"
-
-# Attributes from Felix Online V1
-id: "3410"
-old_path: /comment/3410/there-is-something-in-the-air
+image: "http://felixonline.co.uk/img/upload/201303010049-tna08-hitler.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3410/there-is-something-in-the-air
-imported: true
 comments:
  - value: >
      A third seems about right for the 20-25 age group. I can't speak precisely for the Imperial demographic. Check out CRUK's figures http://www.cancerresearchuk.org/cancer-info/cancerstats/types/lung/smoking/lung-cancer-and-smoking-statistics,A very interesting piece Merry. Something as a non smoker which I object to is having to inhale a cloud of smoke when I walk past your fraternity to enter various buildings around college. If the college provided bins and so on just a few metres away from doors and thoroughfares, would you begrudge using them? ,I think that what we are having beautifully illustrated here is the very nature of intolerance; people using their position in part of a majority to (anonymously) pass judgement on the behavior of a minority. Simply finding a behavior disguising is not a justification for restricting it (see homophobia). This is why the size of the minority is largely irrelevant (@anonymous). <br> <br>I do care about your opinions (@anonymous, @anonymous, @Guy) but I am only willing to go
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303010049-tna08-hitler.jpg"
-image_caption: ""
 ---
 
 [College seems to be on the anti-smoking warpath again](http://felixonline.co.uk/news/3409/smokers-told-to-stop-lighting-up-by-buildings/). Bins and ashtrays are mysteriously disappearing from places like the RSM entrance and my inbox is filling up with passive-aggressive emails. Interfering busy-bodies have made it their mission to enforce the ridiculous ‘smoke-free’ zones around campus and teenagers with the glazed look of Jehovah’s witnesses, wearing NHS tabards, roam the streets ambushing perfectly innocent pedestrians. All right and good? No it is bloody not. I am a proud smoker and I am starting to get seriously peeved.

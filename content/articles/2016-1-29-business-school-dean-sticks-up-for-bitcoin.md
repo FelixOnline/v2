@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The dean spoke out on the economic fad dividing the internet in City A.M.
 date: "2016-01-29 08:50:25 +0000"
-
-# Attributes from Felix Online V1
-id: "5838"
-old_path: /news/5838/business-school-dean-sticks-up-for-bitcoin
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5838/business-school-dean-sticks-up-for-bitcoin
-imported: true
 comments:
  - value: >
      Students must and will learn about it anyway. I'm sure some use http://bit.do/Coinbase and http://bit.do/sellonline to pay for B-school already.,wklP5u http://www.LnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gO.com
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The dean of Imperial’s Business School published an article in Monday’s edition of _City A.M._ bemoaning the finance industry’s complacency when it came to Bitcoin, and other cryptocurrencies.

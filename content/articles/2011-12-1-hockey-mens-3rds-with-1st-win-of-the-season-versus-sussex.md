@@ -4,16 +4,13 @@ title: >
 subtitle: >
   2-1 the final score and a thoroughly deserved win for the Men’s 3s who hope to extend this one match winning streak against the RSM next week.
 date: "2011-12-01 21:20:29 +0000"
-
-# Attributes from Felix Online V1
-id: "1889"
-old_path: /sport/1889/hockey-mens-3rds-with-1st-win-of-the-season-versus-sussex-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1889/hockey-mens-3rds-with-1st-win-of-the-season-versus-sussex-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - ams111
  - kvm08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Hockey__

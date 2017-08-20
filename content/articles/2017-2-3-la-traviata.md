@@ -4,16 +4,13 @@ title: >
 subtitle: >
   An opera that speaks to the heart
 date: "2017-02-03 17:02:19 +0000"
-
-# Attributes from Felix Online V1
-id: "6727"
-old_path: /arts/6727/la-traviata
+image: "http://felixonline.co.uk/img/upload/201702031701-felix-La Traviata-13-01-17-ROH-1094 JOYCE EL-KHOURY AS VIOLETTA VALÉRY © ROH. PHOTO BY TRISTRAM KENTON.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6727/la-traviata
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - scc114
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702031701-felix-La Traviata-13-01-17-ROH-1094 JOYCE EL-KHOURY AS VIOLETTA VALÉRY © ROH. PHOTO BY TRISTRAM KENTON.jpg"
-image_caption: ""
 ---
 
 An exhibition of harlotry upon the public stage!” denounced The Times when La Traviata was first staged in London in 1856. Although it is now the most frequently staged opera worldwide, La Traviata’s beginnings were plagued by stern censorship and moral outrage. That a common prostitute should be portrayed in anything other than a negative light – worse, for her to be the star of the show – was a shocking statement to make in the Victorian era.

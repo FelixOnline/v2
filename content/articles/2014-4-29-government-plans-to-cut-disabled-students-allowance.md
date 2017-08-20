@@ -4,16 +4,13 @@ title: >
 subtitle: >
   David Willetts, Universities Minister recently announced plans to "modernise" the Disabled Students' Allowance, to the detriment of students nationwide.
 date: "2014-04-29 12:46:31 +0100"
-
-# Attributes from Felix Online V1
-id: "4534"
-old_path: /news/4534/government-plans-to-cut-disabled-students-allowance
+image: "http://felixonline.co.uk/img/upload/201404291520-jal08-money-notes.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4534/government-plans-to-cut-disabled-students-allowance
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - snb11
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201404291520-jal08-money-notes.jpg"
-image_caption: ""
 ---
 
 The Government recently announced changes to the Disabled Students' Allowance, expected to take place in 2016-17. The changes, which according to Universities and Sciences Minister David Willetts are set to modernise the system, will see a reduction in the amount of financial support the government is set to provide students, instead placing a larger proportion of responsibility on their universitites.

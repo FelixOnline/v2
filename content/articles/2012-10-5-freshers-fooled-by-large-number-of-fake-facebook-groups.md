@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Every halls has a non-official group made
 date: "2012-10-05 16:04:09 +0100"
-
-# Attributes from Felix Online V1
-id: "2635"
-old_path: /news/2635/freshers-fooled-by-large-number-of-fake-facebook-groups
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2635/freshers-fooled-by-large-number-of-fake-facebook-groups
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - phc11
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 For new students joining Imperial College each year, the various Facebook groups for halls, subjects, and for the entire year of Freshers as a whole are an invaluable resource, both for specific questions and getting to know your future class/house/roommates (delete as appropriate). Unfortunately, full as they are of new students, many of whom are arriving in London for the first time, these groups are always a prime target for advertisers and promoters, pushing their own events through links and the odd fake account.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Tangerine may be bombastic in its approach, but there is real warmth and joy within the film
 date: "2015-11-20 14:08:28 +0000"
-
-# Attributes from Felix Online V1
-id: "5768"
-old_path: /film/5768/a-transgender-revenge-dramedy-its-a-christmas-miracle
+image: "http://felixonline.co.uk/img/upload/201511201407-ff712-tangerine_011-1600x900-c-default.jpg"
+image_caption: "Tangerine breaks new ground with its depiction of transgender sex workers"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5768/a-transgender-revenge-dramedy-its-a-christmas-miracle
-imported: true
 comments:
  - value: >
      { <br>Cheap NBA 2k16 http://www.freewebsite-service.com/fifacoinstrader/fifa%2B15%2Bcoins%252Cps4.php?id=869388&amp;snavn=2K+Sports+Machine+Not+Available+At+The+Moment,Thanks a bunch! This a astounding site!| <br>Cheap NBA 2k15 MT http://www.pgfhom.org/forum/index.php?topic=12490.0,PeI22R http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +26,6 @@ authors:
  - ts2915
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511201407-ff712-tangerine_011-1600x900-c-default.jpg"
-image_caption: ""
 ---
 
 Transgender revenge dramedies are somewhat hard to come by in a cinema. In fact I’m not sure many of them exist at all. If you need to bump up your street cred, then, _Tangerine_ will definitely be the edgiest film you’ll see this month, perhaps this year. Fortunately it’s got enough substance in it that you can get more out of it than just a good story.

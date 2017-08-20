@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Katherine Portilla takes a look at Scotland’s finest weekend
 date: "2011-06-16 20:49:40 +0100"
-
-# Attributes from Felix Online V1
-id: "1399"
-old_path: /music/1399/t-in-the-park
+image: "http://felixonline.co.uk/img/upload/201106162148-felix-sna100711-682_1083141a.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1399/t-in-the-park
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - kp2209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106162148-felix-sna100711-682_1083141a.jpg"
-image_caption: ""
 ---
 
 This will be the eighteenth [T in the Park](http://www.tinthepark.com/content/) taking place on the second weekend of July in the region of Kinross-shire, Scotland. Contrary to what the name may imply this is not your average tea party, or perhaps better said it’s nothing of the sort! Named after its main sponsor, the brewing company Tennents, T in the Park is a festival known to offer a huge variety of first class music and this year is no exception. 2011’s line-up includes big names such as __Coldplay__, __Arctic Monkeys__ and __Foo Fighters__ whose performance records promise not to disappoint. While The Killers have made several appearances at T over the years, Brandon Flowers returns on his own this time around having released a solo album last year. __Beyoncé__ and __MCR__ are sure to get the crowd pumped and the list goes on with nu-folk favourites such as __Noah and the Whale__ and the successful __Jimmy Eats World__.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alex Chaudhri and Kieran Ryan criticise Imperial's expansion in White City
 date: "2017-05-15 16:02:45 +0100"
-
-# Attributes from Felix Online V1
-id: "6950"
-old_path: /comment/6950/imperial-colleges-white-vision-for-white-city
+image: "http://felixonline.co.uk/img/upload/201705151802-felix-Screen Shot 2017-05-15 at 18.02.27.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6950/imperial-colleges-white-vision-for-white-city
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - alexchaundri
  - kr812
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705151802-felix-Screen Shot 2017-05-15 at 18.02.27.png"
-image_caption: ""
 ---
 
 At the end of last term I attended a Union Council meeting. Before the meeting could commence there was an extensive powerpoint presentation about the college’s development in White City, Imperial West, given by Professor Neil Alford (Imperial White City Syndicate).

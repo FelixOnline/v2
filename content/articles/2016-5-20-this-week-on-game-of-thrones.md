@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Spoilers, obviously
 date: "2016-05-20 09:24:18 +0100"
-
-# Attributes from Felix Online V1
-id: "6192"
-old_path: /tv/6192/this-week-on-game-of-thrones-
+image: "http://felixonline.co.uk/img/upload/201605201124-felix-Screenshot-201-1200x675.jpg"
+image_caption: "Dany gets her groove back! "
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6192/this-week-on-game-of-thrones-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - hjw13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605201124-felix-Screenshot-201-1200x675.jpg"
-image_caption: ""
 ---
 
 A third of the way through the season and it’s really starting to get going. We pick up at the Wall where Jon apparently had to pop back into Castle Black after storming off last episode (“Jon you’ll need a coat! You of all people should know winter is coming!”). We then get the first of the episode’s many reunions when Sansa and Jon meet for the first time since back at the start of Season one. They have a really heart-warming scene reminiscing about Winterfell and Sansa attempts to convince Jon to take it back from Ramsay. (“Hey brother I used to be a dick to! Wanna go murder my ex?”). Brienne also walks over to Davos and Mel just to let them know that she murdered Stannis, the man they gave their lives to. She’s not the best at making friends, is she?

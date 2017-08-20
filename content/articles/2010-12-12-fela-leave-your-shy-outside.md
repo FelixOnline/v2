@@ -4,16 +4,13 @@ title: >
 subtitle: >
   FELA! is a shocking window into 70s Nigeria
 date: "2010-12-12 17:10:45 +0000"
-
-# Attributes from Felix Online V1
-id: "556"
-old_path: /arts/556/fela-leave-your-shy-outside-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/556/fela-leave-your-shy-outside-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - ck806
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Musician. Freedom fighter. Sax, trumpet and keyboard player. Polygamist. Fela Ransome Kuti, the Father of Afrobeat, was something of a phenomenon. His infectious and politically charged music was quick to sweep the African continent and then the world throughout the 70s and beyond. He created a wild and free counter-culture against what was a tyrannically controlled, neo-colonial Nigeria. And he had an absolute blast while he did it.

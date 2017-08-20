@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jawaad Farooq muses on what the possible solutions to an overcrowded world may be, what the future may have in store, and why we should care
 date: "2016-11-11 16:06:08 +0000"
-
-# Attributes from Felix Online V1
-id: "6431"
-old_path: /science/6431/overpopulation--is-it-a-myth-is-it-inevitable-should-we-be-worried-
+image: "http://felixonline.co.uk/img/upload/201611111602-felix-crowd-of-people-1488213_1920.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6431/overpopulation--is-it-a-myth-is-it-inevitable-should-we-be-worried-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611111602-felix-crowd-of-people-1488213_1920.jpg"
-image_caption: ""
 ---
 
 On watching Dan Brown’s _Inferno_ this weekend, the question of how we would survive overpopulation struck a chord with me. It may have been a slightly dull film at times but the theme nevertheless was a relevant and intriguing one. Essentially, a billionaire concerned with overpopulation creates a virus to cull the number of humans in the world. Robert Langdon then proceeds to chase clues through art, ends up finding where the virus is due to be released and *spoiler alert* ultimately saves the day.

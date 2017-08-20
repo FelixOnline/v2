@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Council votes against declaring all mascots inviolate
 date: "2016-12-09 11:57:30 +0000"
-
-# Attributes from Felix Online V1
-id: "6561"
-old_path: /news/6561/keep-your-hands-off-our-mascots
+image: "http://felixonline.co.uk/img/upload/201612121611-felix-theta.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6561/keep-your-hands-off-our-mascots
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612121611-felix-theta.jpg"
-image_caption: ""
 ---
 
 A controversial paper was presented at Union Council last Wednesday which suggested the creation of a Masctotry Policy that would protect the student body from violence that occasionally manifests itself during mascot stealing raids.

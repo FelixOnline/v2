@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Stuart Masson talks to Future Of The left guitarist ‘Falco’
 date: "2013-11-08 09:52:26 +0000"
-
-# Attributes from Felix Online V1
-id: "4036"
-old_path: /music/4036/dealing-conversation-a-falco-n-punch
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4036/dealing-conversation-a-falco-n-punch
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - sm5810
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Future of the Left released their latest album, How to Stop Your Brain in an Accident, last week and they are currently touring the UK, visiting London on the 13th. Stuart Masson caught up with lead singer and guitarist Andrew ‘Falco’ Falkous.

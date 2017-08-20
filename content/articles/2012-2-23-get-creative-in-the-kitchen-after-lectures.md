@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Cooking is fun, so why not try it out?
 date: "2012-02-23 20:40:58 +0000"
-
-# Attributes from Felix Online V1
-id: "2240"
-old_path: /food/2240/get-creative-in-the-kitchen-after-lectures
+image: "http://felixonline.co.uk/img/upload/201202232040-pk1811-100_2007.jpg"
+image_caption: "Apologies to Clare and Hannah... "
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2240/get-creative-in-the-kitchen-after-lectures
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +22,6 @@ authors:
  - ae1409
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202232040-pk1811-100_2007.jpg"
-image_caption: ""
 ---
 
 You have finished lectures, you have just returned home and you are starving. The worst thing is that you’re sick of eating fast food, but you don’t have that much experience with cooking.

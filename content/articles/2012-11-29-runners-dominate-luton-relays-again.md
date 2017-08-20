@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial teams dominate the Luton Marathon Relays.
 date: "2012-11-29 23:12:42 +0000"
-
-# Attributes from Felix Online V1
-id: "3008"
-old_path: /sport/3008/runners-dominate-luton-relays-again
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3008/runners-dominate-luton-relays-again
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - csw09
  - fsport
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Last Sunday morning, our four Imperial teams arrived in a sunny but cold Luton, ready to once again dominate the Luton Marathon Relays. Simply put, each relay team consists of three people, each running a third of a marathon.

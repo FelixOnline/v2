@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Our regular column on this week's documentary fave
 date: "2016-02-12 11:44:06 +0000"
-
-# Attributes from Felix Online V1
-id: "5910"
-old_path: /film/5910/documentary-corner-the-imposter
+image: "http://felixonline.co.uk/img/upload/201602121143-felix-551215456.jpg"
+image_caption: "With dyed hair, Frederic Bourdin walks through a high school hallway as Nicolas Barcley."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5910/documentary-corner-the-imposter
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +21,6 @@ authors:
  - bsc14
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602121143-felix-551215456.jpg"
-image_caption: ""
 ---
 
 On the 13th of June, 1994, thirteen-year-old Nicolas Barcley went to play a game of basketball with his friends in San Antonio, Texas. This was the last time he was seen. Missing for three years and presumed dead, he was suddenly discovered in Linares, Spain. Or was he? Well, his family said it was him. In fact, they were entirely sure. This confirmation was apparently enough for US embassy officials and the FBI, who celebrated the return of Nicolas with the family. The issue is that the Nicolas that went missing 3 years prior had blue eyes and a thick Texan accent. The person who turned up had brown eyes and a French accent... It seems unbelievable but it’s all completely true. With a real world set-up this good how could the film not succeed?

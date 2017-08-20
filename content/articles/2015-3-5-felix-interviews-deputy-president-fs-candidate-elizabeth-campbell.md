@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:38:31 +0000"
-
-# Attributes from Felix Online V1
-id: "5344"
-old_path: /comment/5344/felix-interviews-deputy-president-fs-candidate-elizabeth-campbell
+image: "http://felixonline.co.uk/img/upload/201503052138-snb11-ec511-5499.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5344/felix-interviews-deputy-president-fs-candidate-elizabeth-campbell
-imported: true
 comments:
  - value: >
      fitflops shops <br>fitflop online australia http://www.australiafitflops.com/,christian louboutin slingblacks sale <br>christian louboutin http://canadachristianlouboutinoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503052138-snb11-ec511-5499.jpg"
-image_caption: ""
 ---
 
 __Voting is now open! Click [here ](https://vote.union.ic.ac.uk/)to take part now. __

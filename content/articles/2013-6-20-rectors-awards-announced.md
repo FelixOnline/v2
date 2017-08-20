@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Excellence in teaching awarded
 date: "2013-06-20 23:35:54 +0100"
-
-# Attributes from Felix Online V1
-id: "3723"
-old_path: /news/3723/rectors-awards-announced
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3723/rectors-awards-announced
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 President & Rector’s 2013 Awards and Medals for Excellence in Teaching, Pastoral Care, Research Student Supervision and Supporting the Student Experience. Apparently brevity wasn’t a concern for him.

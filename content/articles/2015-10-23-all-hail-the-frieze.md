@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The commercial bomb is dropped on the latest and greatest in contemporary art
 date: "2015-10-23 11:43:58 +0100"
-
-# Attributes from Felix Online V1
-id: "5671"
-old_path: /arts/5671/all-hail-the-frieze
+image: "http://felixonline.co.uk/img/upload/201510231242-ygr12-117599.ipad.jpeg"
+image_caption: "Urs Fischer's Dr Nope, 2010"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5671/all-hail-the-frieze
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - mff113
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510231242-ygr12-117599.ipad.jpeg"
-image_caption: ""
 ---
 
 The dirty side of the art world isn’t always obvious, but Frieze London is making every effort to scream it in your face. The fair ranges from the dull to the exceptional – as you would expect from any art fair – but the commercial machine seems to bleed through everything. Located in a giant glorified marquee in Regent’s Park, Frieze London in its thirteenth year claims to offer an unrivalled breadth and vision into contemporary art. In many respects it succeeds and given enough patience, the Frieze is quite an experience. Everything is on offer and everyone will be impressed, but the atmosphere is all wrong.

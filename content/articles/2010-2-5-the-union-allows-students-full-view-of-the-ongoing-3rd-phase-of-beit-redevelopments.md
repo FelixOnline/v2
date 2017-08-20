@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Union Allows Students Full View of the Ongoing 3rd Phase of Beit Redevelopments
 date: "2010-02-05 15:42:16 +0000"
-
-# Attributes from Felix Online V1
-id: "77"
-old_path: /news/77/the-union-allows-students-full-view-of-the-ongoing-3rd-phase-of-beit-redevelopments
+image: "http://felixonline.co.uk/img/upload/201002051538-rsp07-uniondbs.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/77/the-union-allows-students-full-view-of-the-ongoing-3rd-phase-of-beit-redevelopments
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - rsp07
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002051538-rsp07-uniondbs.jpg"
-image_caption: ""
 ---
 
 It’s Wednesday night and the clock is ticking slowly towards midnight; pints are downed and you’re straight to the bar to order a very necessary round of tequila slammers. It’s that time every Imperial student dreads: when the stewards usher you out of the mediocre establishment that is Da Vinci’s bar and into dBs, what has been unanimously-judged by students as an appalling attempt at a ‘nightclub.’ Staggering across the Union, cheesy flashing disco lights and ill-judged drum and bass meet scrums of people in drunken mob-mentality fighting for yet another drink at the one small bar dBs nightclub houses. Another drunkenly-torrid (but cheap) Wednesday night rolls on once again.

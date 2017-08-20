@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Marie-Laure Hicks looks into political gossip from the Far East
 date: "2012-10-05 13:04:56 +0100"
-
-# Attributes from Felix Online V1
-id: "2621"
-old_path: /politics/2621/sex-scandal-in-chongqing-and-more-important-news
+image: "http://felixonline.co.uk/img/upload/201210051404-felix-gu-kailai-3.jpg"
+image_caption: "Gu Kailai at her trial"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2621/sex-scandal-in-chongqing-and-more-important-news
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - mh3210
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210051404-felix-gu-kailai-3.jpg"
-image_caption: ""
 ---
 
 China is one of the largest and fastest growing economies in the world and (to an extent) the country that gave us Jacqui Chan (I’m totally going to watch Rush Hour now – Tim). At a time when the rest of the world, especially the Eurozone, is turning towards China to solve their (money) problems, China is having its own little personal troubles. The year 2012 is proving to be rich in political gossip.

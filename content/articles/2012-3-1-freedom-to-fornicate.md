@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Imperial is an orgy by international standards
 date: "2012-03-01 21:00:01 +0000"
-
-# Attributes from Felix Online V1
-id: "2269"
-old_path: /politics/2269/freedom-to-fornicate
+image: "http://felixonline.co.uk/img/upload/201203012102-cac111-world-map-page-001.jpg"
+image_caption: "Imperial doesn’t seem so bad now, does it?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2269/freedom-to-fornicate
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +22,6 @@ authors:
  - cac111
  - rj408
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203012102-cac111-world-map-page-001.jpg"
-image_caption: ""
 ---
 
 This week, Felix releases the full results of the much-anticipated sex survey. This typically makes for depressing reading in a university concerned with its high levels of “geekiness” and obsessed with a less than ideal gender ratio. Beyond the statistics and the innuendo, there is, however, a hidden and, I believe, largely positive message of how far British society has come, holding such a survey would have been unthinkable when Felix was founded. While the survey has only been run for two years, is still highly anonymous, filled with “I’d prefer not to say” and is taboo discussion outside the student world, it reflects a freedom that still does not exist in many countries. This week, we look at the sexual rights that we take for granted but continue to be restricted around the world.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   An anonymous writer worries that the Union is not doing enough for its sabbatical officers
 date: "2017-02-17 14:30:36 +0000"
-
-# Attributes from Felix Online V1
-id: "6780"
-old_path: /comment/6780/is-being-a-sabb-bad-for-your-health
+image: "http://felixonline.co.uk/img/upload/201702171430-felix-Screen Shot 2017-02-17 at 14.30.24.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6780/is-being-a-sabb-bad-for-your-health
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - icanon
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702171430-felix-Screen Shot 2017-02-17 at 14.30.24.png"
-image_caption: ""
 ---
 
 Year on year, the process of the Union elections cherry-picks those who are some of the most vulnerable to lead us as sabbatical officers.

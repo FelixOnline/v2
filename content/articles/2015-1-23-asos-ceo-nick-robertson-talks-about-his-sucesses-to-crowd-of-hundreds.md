@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Cecile Borkhataria goes to the event hosted by IC Entrepreneurs
 date: "2015-01-23 01:18:08 +0000"
-
-# Attributes from Felix Online V1
-id: "5120"
-old_path: /news/5120/asos-ceo-nick-robertson-talks-about-his-sucesses-to-crowd-of-hundreds-
+image: "http://felixonline.co.uk/img/upload/201501230117-cac111-asos2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5120/asos-ceo-nick-robertson-talks-about-his-sucesses-to-crowd-of-hundreds-
-imported: true
 comments:
  - value: >
      Spot on with this write-up, I actually suppose this web site wants much more consideration. <br>ray ban wayfarer http://raybanoutlet.vintagelicio.us,There may be noticeably a bundle to learn about this. I assume you made sure good factors in options also. <br>ray ban sunglasses discount http://www.sunglasses-hut.cc,I don?t know if greatest practices have emerged around things like that, but I'm positive that your job is clearly recognized as a fair game. Each boys and girls feel the influence of only a second pleasure. <br>oakley sunglasses outlet http://www.oakley-sunglass.name,That is the fitting blog for anybody who needs to find out about this topic. You understand a lot its nearly laborious to argue. <br>michael kors outlet online http://www.michael-korsoutlet.xyz/,I supply the thoughts above as common inspiration however clearly there are questions just like the one you deliver up where <br>cheap ray ban sunglasses http://rb.outletonlinesalecc.com,Very nice post, i definitely love this web site, carry on it Added to F
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501230117-cac111-asos2.jpg"
-image_caption: ""
 ---
 
 On Monday, an event hosted by the Imperial Entrepreneurs society (IE) saw Huxley flooded with students hoping to see ASOS co-founder and CEO, Nick Robertson, give his insight into the success of his company. As the queue of hopeful students extended onto the Sherfield walkway, members of IE handed out flyers “guaranteeing” entry to the event.

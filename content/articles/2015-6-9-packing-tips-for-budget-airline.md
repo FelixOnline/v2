@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her secret tips learned through experience
 date: "2015-06-09 15:03:47 +0100"
-
-# Attributes from Felix Online V1
-id: "5606"
-old_path: /travel/5606/packing-tips-for-budget-airline
+image: "http://felixonline.co.uk/img/upload/201506091603-ync111-3146794389_0fc024c5f0_b.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/5606/packing-tips-for-budget-airline
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -23,12 +20,6 @@ authors:
  - ync111
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506091603-ync111-3146794389_0fc024c5f0_b.jpg"
-image_caption: ""
 ---
 
 Travelling on budget airline isn’t easy – you got the luggage restriction, liquid restriction and only airline magazines for entertainment. However, with their unbeatable prices you can only grit your teeth and adhere to the increasingly intricate rules of hand luggage restriction to save the extra dosh on something more worth it.

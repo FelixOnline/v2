@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rocio Molina thinks you should
 date: "2013-03-15 01:29:41 +0000"
-
-# Attributes from Felix Online V1
-id: "3476"
-old_path: /arts/3476/dont-give-a-tosca
+image: "http://felixonline.co.uk/img/upload/201303150129-tna08-5862728227_ac36592cb5_z.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3476/dont-give-a-tosca
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - rm2410
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303150129-tna08-5862728227_ac36592cb5_z.jpg"
-image_caption: ""
 ---
 
 Drama, passion and a thrilling unravelling of events makes Tosca an opera that will keep you on your toes during every act. Set against the backdrop of turbulent Rome in the 1800s, this opera could well be equated with a modern Hollywood drama.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Food is always the best way to catch-up
 date: "2015-01-23 18:37:09 +0000"
-
-# Attributes from Felix Online V1
-id: "5144"
-old_path: /food/5144/old-friends-new-ventures
+image: "http://felixonline.co.uk/img/upload/201501231836-jyg11-unnamed-4.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/5144/old-friends-new-ventures
-imported: true
 comments:
  - value: >
      You only need to add the token code that they will give you on your website pages or post. You can write a post like how I did and that's all.
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -28,12 +25,6 @@ authors:
  - jyg11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501231836-jyg11-unnamed-4.jpg"
-image_caption: ""
 ---
 
 In the last fortnight I’ve had the pleasure of meeting up with my former colleagues from Earl’s Court on two separate occasions. The weekend before term, a work junior of mine invited me for a catch-up cocktail to gossip about changes at my old workplace.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Walking Dead marched straight into Jonna Nybäck’s heart
 date: "2012-11-29 22:57:55 +0000"
-
-# Attributes from Felix Online V1
-id: "2995"
-old_path: /tv/2995/zombie-apocalypse-now
+image: "http://felixonline.co.uk/img/upload/201211292257-csw09-the-walking-dead-cast-photo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/2995/zombie-apocalypse-now
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +21,6 @@ authors:
  - csw09
  - felfood
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211292257-csw09-the-walking-dead-cast-photo.jpg"
-image_caption: ""
 ---
 
 When I first heard about the TV show The Walking Dead from my friends I couldn’t understand their immense excitement about it. On the question “what is it about?” I got the answer “the world is taken over by zombies and a few people are trying to survive”. Well, that didn’t do it for me. I mean, it sounds exactly like every other zombie movie out there. So I resisted.

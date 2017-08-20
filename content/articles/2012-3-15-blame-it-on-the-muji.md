@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Step into the world of Japan with MUJI
 date: "2012-03-15 20:13:39 +0000"
-
-# Attributes from Felix Online V1
-id: "2357"
-old_path: /arts/2357/blame-it-on-the-muji
+image: "http://felixonline.co.uk/img/upload/201203152006-ig711-l1010502.jpg"
+image_caption: "The cost-cutting decision to construct open toilets in one corner of the exhbition was not widely we"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2357/blame-it-on-the-muji
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - ebl110
  - ig711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152006-ig711-l1010502.jpg"
-image_caption: ""
 ---
 
 The events that took place on 11 March 2011 in Japan were a wake up call for many people. 20,000 died and hundreds of thousands were stranded without homes. This major disaster served as an eye opener for Japan: it made people appreciate the everyday things that surround us and those moments that make up day-to-day living. The earthquake raised questions about the increasing concerns around excessive consumption of goods and sustainability.

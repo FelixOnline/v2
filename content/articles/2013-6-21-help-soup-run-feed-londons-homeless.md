@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ben Fernando implores you to help the homeless in London
 date: "2013-06-21 00:59:57 +0100"
-
-# Attributes from Felix Online V1
-id: "3738"
-old_path: /news/3738/help-soup-run-feed-londons-homeless
+image: "http://felixonline.co.uk/img/upload/201306210159-tna08-pepper-soup.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3738/help-soup-run-feed-londons-homeless
-imported: true
 comments:
  - value: >
      I have lots of pasta salads etc ready to go to you <br>where and how do I take it there? cous cous and pasta salads all ready <br>thanks <br>07713 627168
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306210159-tna08-pepper-soup.jpg"
-image_caption: ""
 ---
 
 Homelessness is probably London’s most visible social problem. We all see it daily, in the men and women who spend their days with a paper cup, begging for spare change in the capital’s allleyways. Some of us ignore them – after all, we can’t possibly help them all. Some of us give them a smile, which always meets with kind words, yet somehow this always leaves us feeling unfulfilled.

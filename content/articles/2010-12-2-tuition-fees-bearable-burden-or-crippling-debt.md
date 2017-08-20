@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix speaks to graduates about the old system, the proposed changes and how greatly their student debt affects their lives
 date: "2010-12-02 21:57:33 +0000"
-
-# Attributes from Felix Online V1
-id: "501"
-old_path: /news/501/tuition-fees-bearable-burden-or-crippling-debt-
+image: "http://felixonline.co.uk/img/upload/201012022152-ks607-vincecab.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/501/tuition-fees-bearable-burden-or-crippling-debt-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - oar09
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022152-ks607-vincecab.jpg"
-image_caption: ""
 ---
 
 The latest higher education reforms have not been without significant resistance from many, with one of the key issues being the fear of significant debt following a proposed increase in tuition fees. Current graduates are no strangers to debt, with many owing several thousand pounds following their degree. Felix sought to discover just how dramatically the current system affects graduates and whether they themselves approve of the impending changes or stand against them.

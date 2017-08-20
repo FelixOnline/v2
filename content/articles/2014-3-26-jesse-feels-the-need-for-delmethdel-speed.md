@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Surely the overwhelming critical success of Breaking Bad could have set up Aaron Paul for a better cinematic role than this one. He has won two Primetime Emmys, and yet one of the first roles he manages to land is in a video game adaptation...
 date: "2014-03-26 13:43:53 +0000"
-
-# Attributes from Felix Online V1
-id: "4502"
-old_path: /film/4502/jesse-feels-the-need-for-delmethdel-speed
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4502/jesse-feels-the-need-for-delmethdel-speed
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Need for Speed

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Stephanie Walton visits an exotic paradise, while you're in the Library eating a j pot. Damn.
 date: "2013-05-07 19:37:17 +0100"
-
-# Attributes from Felix Online V1
-id: "3544"
-old_path: /travel/3544/making-a-splash-in-mexico
+image: "http://felixonline.co.uk/img/upload/201305072036-tna08-tulum-3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/3544/making-a-splash-in-mexico
-imported: true
 comments:
  - value: >
      Mile - Hi NathanFirst of all, congratulations for your phtoos!! you are undoubtly a PRO. The place looks gorgeous, my fiancee and I are also looking for venues on riviera maya, one after another and still we haven't totally found one that fits our needs I am trying to contact milamores but their website is not working. If you have by chance their e.mail or number to provide me I would appreciate it a lot.Warm regards, Mile
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305072036-tna08-tulum-3.jpg"
-image_caption: ""
 ---
 
 Mexico receives such bad press these days that it is hard to believe it has a safe and beautiful peninsula kicking out into the Caribbean Sea. There are white beaches, fascinating Mayan ruins and magnificent colonial cities. It seems that the only two drawbacks to this balmy “Yucatán” Peninsula are that place names are unpronounceable (try “Xkeken” or “Xcaret”) and that although the street food looks great, it might be regretted later.

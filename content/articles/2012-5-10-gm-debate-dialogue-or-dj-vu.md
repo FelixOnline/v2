@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Juan Casasbuenas discusses the latest flare-up in the now age-old debate
 date: "2012-05-10 20:31:33 +0100"
-
-# Attributes from Felix Online V1
-id: "2449"
-old_path: /science/2449/gm-debate-dialogue-or-dj-vu
+image: "http://felixonline.co.uk/img/upload/201205102129-ams111-poster-copy.jpg"
+image_caption: "Image from GM protest flyer"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2449/gm-debate-dialogue-or-dj-vu
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - jdc04
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205102129-ams111-poster-copy.jpg"
-image_caption: ""
 ---
 
 In March this year the British Science Association released a survey that indicated, at least to some degree, that the British public is slightly less concerned about the prospect of embracing genetically modified food. This comes in stark contrast to the hostility exhibited towards the technology a decade ago, when it was rejected in an outright fashion in the nationwide surveys dubbed GM Nation. This essentially halted the push for GM crops by Tony Blair’s government and put research in this area on the backburner. But GM has now found its way back onto the radar; more flexible EU legislation regarding the technology combined with the survey results means that perhaps the public is once again in the mood for a conversation about the technology. All the interest groups, from anti-GM campaigners to researchers have been airing their arguments and framing the debate in a very public fashion over the past few weeks. When interest groups frame a debate as part of their strategy to appeal to the public, they simplify the issues, lending more weight to certain aspects over others. So how is the GM debate being framed by the two main two opposing groups?

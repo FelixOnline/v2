@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tru Thoughts Label Showcase – Koko (Saturday 19 November)
 date: "2011-11-10 20:39:32 +0000"
-
-# Attributes from Felix Online V1
-id: "1716"
-old_path: /music/1716/be-sure-not-to-miss
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1716/be-sure-not-to-miss
-imported: true
 comments:
  - value: >
      说道：I wish to show my appreciation <a href="http://lcrisv.com">tordwas</a> the writer simply for rescuing me using this particular environment. Right after exploring through virtual reality and coming across tricks which are not advantageous, I considered my complete life has been done. Existing without the presence involving answers on the difficulties you might have solved all over the article is often a critical scenario, as properly as ones that might have inside a negative approach affected our career if i hadn't discovered your blog. Your main training as well as kindness in taking care of all locations was very useful. I'm not sure what We would've done if i had not necessarily discovered a real thing such as this. I am capable of at the moment look forward to my personal future. Thanks for your time quite definitely for your reliable and sensible manual. I will not be reluctant to propose your internet site to anybody who requires and wants direction concerning this matter.
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -27,12 +24,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In 2009, I received a copy of Tru Thoughts’ Tenth Anniversary album and although I was slightly embarrassed at the fact that it took me ten years to notice them, it was musically one of the best things that’s ever happened to me.

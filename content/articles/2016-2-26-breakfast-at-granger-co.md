@@ -4,18 +4,16 @@ title: >
 subtitle: >
   FELIX reviews the healthy(er) Aussie breakfast spot
 date: "2016-02-26 12:04:14 +0000"
-
-# Attributes from Felix Online V1
-id: "5983"
-old_path: /food/5983/breakfast-at-granger--co
+image: "http://felixonline.co.uk/img/upload/201602261203-felix-banana.JPG"
+image_caption: "Thick, white and deliciously sticky - just what the doctor ordered. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/5983/breakfast-at-granger--co
-imported: true
 comments:
  - value: >
      ...Cain has no one to blame but his fellow Republicans for the "drip, drip, drip" sexual allegations against him.Please provide links that show these " drrtodrip,diip&amp;qu,p; are coming from Republicans.
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -26,12 +24,6 @@ authors:
  - yyl114
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261203-felix-banana.JPG"
-image_caption: ""
 ---
 
 Your committed relationship to Wasabi for breakfast, lunch, dinner AND midnight snack is just not working any more. You’ve tried everything at Hummingbird from cupcakes to whoopie pies, risking diabetes and an E number overload. You’ve even set foot into Roots &amp; Bulbs desperate for something new, green and wholesomely natural.

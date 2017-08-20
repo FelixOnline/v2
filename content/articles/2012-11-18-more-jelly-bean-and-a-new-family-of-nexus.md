@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Yong Wen Chua checks out Androids latest OS and has a look at the Nexus
 date: "2012-11-18 13:18:43 +0000"
-
-# Attributes from Felix Online V1
-id: "2923"
-old_path: /tech/2923/more-jelly-bean-and-a-new-family-of-nexus
+image: "http://felixonline.co.uk/img/upload/201211181322-jp1409-nexus-4,-7-10.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/2923/more-jelly-bean-and-a-new-family-of-nexus
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211181322-jp1409-nexus-4,-7-10.png"
-image_caption: ""
 ---
 
 While Hurricane Sandy was wrecking havoc on the East Coast of America, those of us on the other side of the pond were left disappointed when Google had to cancel a press event in New York. But fear not -- for Google has managed to release new details on a new version of Android and a new family of Nexus of devices that are available right now, by press time.

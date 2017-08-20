@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Tested for your pleasure
 date: "2016-04-29 10:43:41 +0100"
-
-# Attributes from Felix Online V1
-id: "6102"
-old_path: /features/6102/iconic-sex-toys-that-changed-the-world
+image: "http://felixonline.co.uk/img/upload/201604291140-felix-lotus.jpg"
+image_caption: "I wasn’t allowed to include photos of eerily realistic dildos. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6102/iconic-sex-toys-that-changed-the-world
-imported: true
 comments:
  - value: >
      No fleshlights?,No fleshlights?,Love the site-- extremely individual pleasant and great deals to see! <br>COUNTERSTRIKE http://www.osm-oil.com/comment/html/index.php?page=1&amp;id=33908,Love the site-- extremely individual pleasant and great deals to see! <br>COUNTERSTRIKE http://www.osm-oil.com/comment/html/index.php?page=1&amp;id=33908,I love the info on your site. Thank you so much!. <br>Madden nfl 17 http://forum.mojogamestudios.com/discussion/5484/buy-madden-17-coins-madden-rules-june-videogame-revenue/p1?new=1,I love the info on your site. Thank you so much!. <br>Madden nfl 17 http://forum.mojogamestudios.com/discussion/5484/buy-madden-17-coins-madden-rules-june-videogame-revenue/p1?new=1,Amazing site you have got going here <br>NBA 2K17 http://chandrakalabroking.com/index.php/blog/entry/2k17-vc-3-typical-xbox-problems-that-you-might-not-require-xbox-support-to-fix.html,Amazing site you have got going here <br>NBA 2K17 http://chandrakalabroking.com/index.php/blog/entry/2k17-vc-3-typical-xbox-problems-that-you-might-not-require-x
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -28,12 +26,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201604291140-felix-lotus.jpg"
-image_caption: ""
 ---
 
 _This article was published as part of FELIX's Sex Survey launch. Do the survey [here](http://felixonline.co.uk/go/sexsurvey)._

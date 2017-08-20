@@ -4,16 +4,13 @@ title: >
 subtitle: >
   ha, semi
 date: "2017-03-10 14:49:30 +0000"
-
-# Attributes from Felix Online V1
-id: "6892"
-old_path: /sport/6892/immortals-through-to-semi-finals
+image: "http://felixonline.co.uk/img/upload/201703101449-felix-unnamed.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6892/immortals-through-to-semi-finals
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - imrajsingh
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101449-felix-unnamed.png"
-image_caption: ""
 ---
 
 Defeated, downtrodden, but with a fervent desire to win; that’s how we entered the season. As Drake so eloquently put it, “started from the bottom now we’re here”. After a winless season last year we have now risen to the top. A new coaching squad and great new recruits (as well as veteran players) has enabled us to maintain a flawless home record. Since we are top of our division our first playoff game was at fortress Harlington. We will ensure that no team desecrates our sacred runway. We surely won’t allow any Demons to ravage it. Last Sunday we came ready to defend our ground against the 5-3 record Exeter Demons in the Southern 1st division Quarter-final. And defend it we did.

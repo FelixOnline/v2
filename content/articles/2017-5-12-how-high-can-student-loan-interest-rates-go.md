@@ -4,16 +4,14 @@ title: >
 subtitle: >
   It’s unlikely they’ll be going anywhere but up post Brexit
 date: "2017-05-12 15:31:54 +0100"
-
-# Attributes from Felix Online V1
-id: "6931"
-old_path: /news/6931/how-high-can-student-loan-interest-rates-go
+image: "http://felixonline.co.uk/img/upload/201705121731-felix-5400115815_b2b64f9dd9_o.jpg"
+image_caption: "It's unclear what the tuition at Hogwarts is"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6931/how-high-can-student-loan-interest-rates-go
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - stephennaulls
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705121731-felix-5400115815_b2b64f9dd9_o.jpg"
-image_caption: ""
 ---
 
 You probably missed the memo, buried deep under a pile of revision notes but the fact remains: The cost of your degree has just increased.

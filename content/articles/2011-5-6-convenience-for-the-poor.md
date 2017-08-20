@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Samuel Furse explores why we dump our dosh in Greggs
 date: "2011-05-06 15:03:43 +0100"
-
-# Attributes from Felix Online V1
-id: "1175"
-old_path: /food/1175/convenience-for-the-poor
+image: "http://felixonline.co.uk/img/upload/201105061602-felix-greggs_int-editted.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1175/convenience-for-the-poor
-imported: true
 comments:
  - value: >
      I'd think very carefully before you use the word 'pikey' <br> <br>Try substituting the word 'nigger' and see how it reads.
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -28,12 +25,6 @@ authors:
  - sf305
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105061602-felix-greggs_int-editted.jpg"
-image_caption: ""
 ---
 
 It is just fat pikeys that shop in Greggs. Surely? I mean, it must only be they who demand an opening time of 0700 on weekdays, freshly-baked multi-grain loaves, Empire biscuits, and roasted chicken sandwiches complete with delicate slivers of red onion. Must be. There is no other answer, clearly.

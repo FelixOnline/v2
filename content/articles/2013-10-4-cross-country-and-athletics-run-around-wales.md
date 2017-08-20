@@ -4,18 +4,16 @@ title: >
 subtitle: >
   On Saturday the 7th of September twenty-two members of the Cross Country and Athletics Team gathered outside the Union to depart on a week- long running adventure to Pembroke. As a group of keen runners, we naturally considered jogging there, but soon decided to travel the 240 miles by minibus inst
 date: "2013-10-04 02:17:57 +0100"
-
-# Attributes from Felix Online V1
-id: "3811"
-old_path: /sport/3811/cross-country-and-athletics-run-around-wales
+image: "http://felixonline.co.uk/img/upload/201310040317-jal08-sport_icxca.jpg"
+image_caption: "Cross Country & Athletics Team Photo"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3811/cross-country-and-athletics-run-around-wales
-imported: true
 comments:
  - value: >
      Hi Alana,We have had a chance to look at your blog this afeornotn and we are VERY IMPRESSED! You have a very interesting blog filled with interesting posts.It is too hot to do Little Aths up here in Darwin, we tend to do a lot more swimming. Nearly everyone in our class has a pool and swim in them each day. We also love rugby and AFL. Miss Dwyer goes for Geelong Cats. She was happy they won the grand final.Great blog again. Do you have any more tips for us as we are just starting.From 3/4 D and 4 F,- Such a great space and the lighting is<a href="http://ooozuxmn.com"> divene</a>. I am loving your new blog (although this may be my first comment I have been visiting for a while now) I am always so excited to see what your up too and your idea behind this blog is really inspiring. :)October 4, 2011 1:26 pm, generic viagra prudent insurance scoring and fair credit reporting for auto driver internet self-diagnosers , buy brand viagra online laxatives such body fat buy cialas on line
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +26,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310040317-jal08-sport_icxca.jpg"
-image_caption: ""
 ---
 
 On Saturday the 7th of September twenty-two members of the Cross Country and Athletics Team gathered outside the Union to depart on a week- long running adventure to Pembroke. As a group of keen runners, we naturally considered jogging there, but soon decided to travel the 240 miles by minibus instead. The van, effortlessly navigated and driven by Matt Douthwaite, was loaded up with trainers, sports bags, games and twenty odd obligatory contributions of home baked goods.

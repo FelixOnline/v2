@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Olisa Ufodiama laments a loss, but appreciates the high score
 date: "2012-11-23 00:13:56 +0000"
-
-# Attributes from Felix Online V1
-id: "2964"
-old_path: /sport/2964/icurfc-loses-high-scoring-affair-with-hartpury
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2964/icurfc-loses-high-scoring-affair-with-hartpury
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A crisp sunny day at fortress Harlington surprisingly saw none of the legendary gusts of wind. With the ground firm and the mercury approaching a lofty double digits, the scene was set for a challenging contest against UWE Hartpury 2nd XV. With Cap’n Jack side-lined, or perhaps an unwilling to play against his former teammates, outside centre Mike Floyd admirably stepped up to captaincy.

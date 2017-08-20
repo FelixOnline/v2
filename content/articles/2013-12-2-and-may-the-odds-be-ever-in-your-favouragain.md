@@ -4,16 +4,13 @@ title: >
 subtitle: >
   So it’s been about a year since the first Hunger Games film made its debut, however, the second one in the series catches up with the protagonists before a whole year has passed for them.
 date: "2013-12-02 22:20:42 +0000"
-
-# Attributes from Felix Online V1
-id: "4172"
-old_path: /film/4172/and-may-the-odds-be-ever-in-your-favouragain
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4172/and-may-the-odds-be-ever-in-your-favouragain
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - extuser0
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Hunger Games: Catching Fire

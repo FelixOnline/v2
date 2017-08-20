@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The Feminist Society and why it might not be what you think it is
 date: "2012-10-11 21:25:49 +0100"
-
-# Attributes from Felix Online V1
-id: "2676"
-old_path: /comment/2676/mandatory-castrations-for-all
+image: "http://felixonline.co.uk/img/upload/201210112225-ar3310-thatcherrbg.jpg"
+image_caption: "This lady is not for TURN AND FACE THE CHANGE. Sorry, I’ve just got that David Bowe song in my head"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2676/mandatory-castrations-for-all
-imported: true
 comments:
  - value: >
      To start from the basics, to be cisgendered is where your gender and biological sex match. Gender being whether you feel male/female/other. (Judith Butler has written an excellent book on why biological sex cannot be defined, if you're interested) <br>I'm cisgendered, and you probably are too (although these are just labels) and because of this you can go about your life as you usually would. In an ideal world transgendered people would be able also but in reality this isn't always the case. This is cisprivilege, that cisgendered people have the privilege of doing things that transgendered people cannot.,Hi there, social justice warrior. You might have noticed that we have pretty much the same beliefs and are fighting for the same causes, but I don't have a fanatic determination to attack people who are, essentially, on my side. <br> <br>If you read closely, you'll notice that I've been careful to use constructions such as 'all genders' to avoid a binary, which you've blithely ignored in favour of a single slip-up, wh
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - fcomment
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112225-ar3310-thatcherrbg.jpg"
-image_caption: ""
 ---
 
 Because that’s what feminism’s all about, right? Right? Wrong, but from the incredulous looks, comments and questions we got at Freshers’ Fair, it seems like a lot of you really believe that the goals of feminism are to overthrow and subjugate men and introduce a gynocratic fempire. Consider your entrance to Imperial and this article your welcome to reality. You’re in the real world now, and you’re here to learn. So, get learning:

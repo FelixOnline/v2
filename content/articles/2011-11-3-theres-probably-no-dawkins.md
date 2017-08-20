@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Joshua Fountain asks, "Why does Dawkins refuse to debate Craig?"
 date: "2011-11-03 21:51:14 +0000"
-
-# Attributes from Felix Online V1
-id: "1693"
-old_path: /comment/1693/theres-probably-no-dawkins
+image: "http://felixonline.co.uk/img/upload/201111032151-sjw209-fountain.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1693/theres-probably-no-dawkins
-imported: true
 comments:
  - value: >
      Yeah, wasn't this written by Josh Fountain? ,Here is William Lane Craig explaining that murder is morally obligatory if his god commands it, and not even murder. <br> <br>How does Craig's theology differ from that of the late Osama bin Laden's? <br> <br> <br>CRAIG <br> Rather, since our moral duties are determined by God’s commands, it is commanding someone to do something which, in the absence of a divine command, would have been murder. <br> <br> The act was morally obligatory for the Israeli soldiers in virtue of God’s command, even though, had they undertaken it on their on initiative, it would have been wrong. <br> <br>On divine command theory, then, God has the right to command an act, which, in the absence of a divine command, would have been sin, but which is now morally obligatory in virtue of that command. <br>, <br>Here is Craig in Oxford, explaining that children should be killed for their own good. <br> <br>CRAIG <br>'If you believe in the salvation, as I do, of children, who die, what that meant is that the death of these children mean
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111032151-sjw209-fountain.jpg"
-image_caption: ""
 ---
 
 In 2006, with the publication of Richard Dawkins’ “The God Delusion”, modern atheism found a new vigour. The book has sold over 2 million copies worldwide and is highly regarded by many as being a powerful rational argument against belief in God. Dawkins, described by many as being “evangelistic” or even “militant”, has come to be seen as one of the leaders of “New Atheism” and regards himself as being a patron of intelligent thought, one who follows the evidence to the conclusion that God does not exist.

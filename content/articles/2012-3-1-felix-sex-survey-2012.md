@@ -4,18 +4,15 @@ title: >
 subtitle: >
   With twice as many respondents as the year before, Felix brings you another snapshot of the sexual lives of Imperial students – now with more statistical relevance
 date: "2012-03-01 22:17:01 +0000"
-
-# Attributes from Felix Online V1
-id: "2285"
-old_path: /news/2285/felix-sex-survey-2012
+image: "http://felixonline.co.uk/img/upload/201203012216-ams111-censoredtransparentwordcloudonblack2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2285/felix-sex-survey-2012
-imported: true
 comments:
  - value: >
      Read the results of the survey in their entirety from pages X to XX in [LINK TO ARCHIVE]this week's issue of Felix[/LINK]. Alternatively, just [LINK TO IMAGE]stare at the pretty infographics[/LINK]. <br> <br>(Alternatively insert smaller image of centrefold linking to high-res version??) <br> <br> <br>I WANT TO READ IT!!,Read the results of the survey in their entirety from pages X to XX in [LINK TO ARCHIVE]this week's issue of Felix[/LINK]. Alternatively, just [LINK TO IMAGE]stare at the pretty infographics[/LINK]. <br> <br>(Alternatively insert smaller image of centrefold linking to high-res version??) <br> <br> <br>I WANT TO READ IT!!,"Read the results of the survey in their entirety from pages X to XX in [LINK TO ARCHIVE]this week's issue of Felix[/LINK]. Alternatively, just [LINK TO IMAGE]stare at the pretty infographics[/LINK]" <br> <br>Oh, you.,"Read the results of the survey in their entirety from pages X to XX in [LINK TO ARCHIVE]this week's issue of Felix[/LINK]. Alternatively, just [LINK TO IMAGE]stare at the pretty infographics[/LIN
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203012216-ams111-censoredtransparentwordcloudonblack2.jpg"
-image_caption: ""
 ---
 
 The number of respondents we had to the sex survey this year has been almost overwhelming. 1063 of you replied, and only about 20 of them as far as we could tell were blatant trolls (thank you guys btw for making us laugh).

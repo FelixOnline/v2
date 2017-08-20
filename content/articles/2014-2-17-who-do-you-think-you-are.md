@@ -4,16 +4,13 @@ title: >
 subtitle: >
   There is a reason why television critics can’t stop talking about Tatiana Maslany. The fact that her work on the first season of Orphan Black missed out on an Emmy nomination which damn well should have resulted in a win over Claire “I do the same boring crazy spy skit every episode” Danes...
 date: "2014-02-17 18:44:27 +0000"
-
-# Attributes from Felix Online V1
-id: "4398"
-old_path: /tv/4398/who-do-you-think-you-are
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4398/who-do-you-think-you-are
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +21,6 @@ authors:
  - jgp09
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Orphan Black: Season 1__

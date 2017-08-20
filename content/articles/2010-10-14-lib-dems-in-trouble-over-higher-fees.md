@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The reality of power for the first time in over a century is quickly turning into a nightmare
 date: "2010-10-14 19:20:09 +0100"
-
-# Attributes from Felix Online V1
-id: "202"
-old_path: /news/202/lib-dems-in-trouble-over-higher-fees
+image: "http://felixonline.co.uk/img/upload/201010142017-ks607-nickcleg.jpg"
+image_caption: "Oh dear! Did I promise that?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/202/lib-dems-in-trouble-over-higher-fees
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - rj408
  - rtf08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010142017-ks607-nickcleg.jpg"
-image_caption: "Oh dear! Did I promise that?"
 ---
 
 The last few months have not been good for the Liberal Democrats. With poll ratings plummeting from 23 to 14% since joining the coalition, the reality of power for the first time in over a century is quickly turning into a nightmare. Low party morale and a new (but not, he stresses, New) Labour leader keen to brand the coalition as ‘the nasty parties’ have left the Lib Dem’s top brass finding it increasingly difficult to keep the sizeable left of the party in tow. In short, this is the worst possible time to test the party members’ commitment to the coalition’s shotgun marriage.

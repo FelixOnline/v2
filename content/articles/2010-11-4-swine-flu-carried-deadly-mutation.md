@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Researchers at Imperial have been part of a global team whose latest research is giving greater insight into what caused tens of thousands of fatalities during last year’s H1N1 pandemic
 date: "2010-11-04 18:45:08 +0000"
-
-# Attributes from Felix Online V1
-id: "310"
-old_path: /science/310/swine-flu-carried-deadly-mutation
+image: "http://felixonline.co.uk/img/upload/201011041842-jk708-Piggies.jpg"
+image_caption: "Cute, but deadly..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/310/swine-flu-carried-deadly-mutation
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ec610
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011041842-jk708-Piggies.jpg"
-image_caption: ""
 ---
 
 Researchers at Imperial have been part of a global team whose latest research is giving greater insight into what caused tens of thousands of fatalities during last year’s H1N1 pandemic.

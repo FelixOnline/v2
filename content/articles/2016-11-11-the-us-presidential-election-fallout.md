@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This is the end, beautiful friend
 date: "2016-11-11 11:24:05 +0000"
-
-# Attributes from Felix Online V1
-id: "6414"
-old_path: /news/6414/the-us-presidential-election-fallout
+image: "http://felixonline.co.uk/img/upload/201611111123-so515-5439999805_4280c8bcef_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6414/the-us-presidential-election-fallout
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - mjj15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611111123-so515-5439999805_4280c8bcef_o.jpg"
-image_caption: ""
 ---
 
 They only went and bloody voted for him, didn’t they? By now if you haven’t seen the news that Donald Trump, the Washington outsider, is the 45th President of The United States then I’m not sure if you’ve actually been conscious since Wednesday. For those of you that read the headline and started weeping before you could get past the opening paragraph, fear not as here’s a deeper look into what occurred.

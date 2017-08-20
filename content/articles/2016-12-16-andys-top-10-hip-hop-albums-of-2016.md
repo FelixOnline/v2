@@ -4,18 +4,15 @@ title: >
 subtitle: >
   With countless rap and R&B projects dropping this year, 2016 has been an incredible year for hip-hop and urban culture. There’s been an unprecedented wave of new music from giants in the modern rap game, like Drake, Kendrick Lamar and Kanye West, to exciting debut albums from the budding stars, such
 date: "2016-12-16 14:57:09 +0000"
-
-# Attributes from Felix Online V1
-id: "6607"
-old_path: /music/6607/andys-top-10-hip-hop-albums-of-2016-
+image: "http://felixonline.co.uk/img/upload/201612161455-felix-chance.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6607/andys-top-10-hip-hop-albums-of-2016-
-imported: true
 comments:
  - value: >
      Thank You 4 Your Service - Tribe Called Quest :) ,Thank You 4 Your Service - Tribe Called Quest :) ,We Got it From Here - Tribe Called Quest :) ,We Got it From Here - Tribe Called Quest :) ,We Got it From Here - Tribe Called Quest :) ,We Got it From Here - Tribe Called Quest :)
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612161455-felix-chance.jpg"
-image_caption: ""
 ---
 
 ## 10. Kendrick Lamar | “Untitled Unmastered”

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Creative Writing students present yet more Freshers short stories
 date: "2014-04-07 12:44:46 +0100"
-
-# Attributes from Felix Online V1
-id: "4520"
-old_path: /books/4520/notes-to-a-fresher-3
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/4520/notes-to-a-fresher-3
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Advice translated by the Mouth of the Eye of Queen’s Tower, scribed by the Hand of the Eye of Queen’s Tower__

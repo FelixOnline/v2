@@ -4,18 +4,15 @@ title: >
 subtitle: >
   But the men have to wait another year to regain the Sharpley Cup
 date: "2011-02-27 19:54:46 +0000"
-
-# Attributes from Felix Online V1
-id: "922"
-old_path: /sport/922/hockey-ladies-beat-csm-for-first-time-in-12-years
+image: "http://felixonline.co.uk/img/upload/201102271953-ks607-rsmwomen.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/922/hockey-ladies-beat-csm-for-first-time-in-12-years
-imported: true
 comments:
  - value: >
      When I saw the name of the music my first thought was about that music from the game Okami Sun Rises that theme is ratehr epic!Well, besides the name, these musics have nothing in common. lol.The release of the disc is set for today, right?Is kind of weird to see Garanhuns in this way . Feels more dramatic and beautiful.,I have had around 30 <a href="http://gofckddf.com">tdears</a> so far, on several demo accounts with Forex MegaDroid and until now all of them where profitable.Today I started to use Forex MegaDroid on my Easy Forex Live account. It took 2 <a href="http://gofckddf.com">tdears</a>, both winners. So far so good., patch cheap auto insutance online cialis insurance apply california car insurance how it works
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - mp704
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102271953-ks607-rsmwomen.jpg"
-image_caption: ""
 ---
 
 It may have been 09:00 on a cold, rainy Saturday morning but the spectators for the ladies hockey were in for a treat.

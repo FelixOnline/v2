@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park Reviews "Adore"
 date: "2013-10-12 19:08:06 +0100"
-
-# Attributes from Felix Online V1
-id: "3847"
-old_path: /film/3847/bfi-london-film-festival-adore
+image: "http://felixonline.co.uk/img/upload/201310122007-jal08-film_adore.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3847/bfi-london-film-festival-adore
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310122007-jal08-film_adore.jpg"
-image_caption: ""
 ---
 
 Roz (Wright) and Lil (Watts) are best friends. Roz’s son Tom (Frencheville) and Lil’s son Ian (Samuel) are also best friends. So far so good right? Now here’s where it gets weird. Ian starts sleeping with Roz first. Then Tom starts sleeping with Liz. Yes, the two female best friends are engaged in romantic relationships with each other’s sons. It doesn’t take long for them to find out about all of this, and even when they do, their reactions are shockingly tame. They don’t mind, as they want each other to be happy, which is fine for now, but we all know this arrangement is one that cannot possibly have a happy ending… right? More definitely so since Roz is actually married.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Romylos Jackson reports on the exploits of Imperial in Europe
 date: "2012-11-15 22:26:04 +0000"
-
-# Attributes from Felix Online V1
-id: "2918"
-old_path: /sport/2918/water-polo-storm-germany
+image: "http://felixonline.co.uk/img/upload/201211152246-tna08-water-polo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2918/water-polo-storm-germany
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - rj508
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211152246-tna08-water-polo.jpg"
-image_caption: ""
 ---
 
 The Aachen Annual Water Polo Tournament is by far the most challenging encounter Imperial College’s Water Polo team faces every year. Historically, their performance in this tournament has been humble, so they arrived without the prejudice of having to protect a reputation, which meant everyone could let loose a little and enjoy themselves. Furthermore, it was a great opportunity for people new to the sport to earn some valuable match experience.

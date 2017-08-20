@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Gilead Amit and the abuse of sympathy
 date: "2010-02-01 17:09:39 +0000"
-
-# Attributes from Felix Online V1
-id: "65"
-old_path: /comment/65/the-abuse-of-sympathy
+image: "http://felixonline.co.uk/img/upload/201001141738-gda07-Gileadsa.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/65/the-abuse-of-sympathy
-imported: true
 comments:
  - value: >
      I have no respect for people who say showing sympathy for Palestinians is being abused. There is not enough words to describe the inhumanity caused by Israel and the suffering and injustice that is upon the people of Gaza. Blaming Hamas to justify the indiscriminate massacre of over 1,400 palestinians, mostly civilians is preposterous. The Goldstone Report, conducted by the &amp;quot;United Nations Fact Finding Mission on the Gaza Conflict&amp;quot; concluded clearly and quite categorically that &amp;quot;there is strong evidence to establish that numerous serious violations of international law, both humanitarian law and human rights law, were committed by Israel during the military operations in Gaza. The mission concluded that actions amounting to war crimes and possibly, in some respects, crimes against humanity were committed by the Israel Defense Force.â,THE ABUSE OF MEDIA <br>Interesting, yet painful to follow the logic. <br>Agreed, emotions do not necessarily point towards the true reality, however as
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001141738-gda07-Gileadsa.jpg"
-image_caption: ""
 ---
 
 This has been a busy week on campus. Imperial Christian Union have been hosting their free thinking week, and the Palestinian Society have organised a Gaza awareness week. And being a conscientious, participating member of the Union, I've tried to get involved with all these conflicting activities as best I can. I came to some of the Christian Union events, ready for an argument and the free doughnuts, with my fists clenched and my cheeks turned. I even went to some of my lectures.

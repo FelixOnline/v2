@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Dead Space 2 can’t scare me, claims Laurence Pope
 date: "2011-02-04 16:55:20 +0000"
-
-# Attributes from Felix Online V1
-id: "755"
-old_path: /games/755/dead-space-2-new-aliens-same-ol-frights
+image: "http://felixonline.co.uk/img/upload/201102041648-sjw209-DeadSpac.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/755/dead-space-2-new-aliens-same-ol-frights
-imported: true
 comments:
  - value: >
      unlock iphone 4 <br>iphone 4 unlock <br>click here <br>check it <br>how to unlock iphone 4 <br>click <br> <br>http://vietnambackpacking.com/f/member.php?19784-Nebritlyne <br>http://kinde.net/forum/memberlist.php?mode=viewprofile&amp;u=318 <br>http://tango.messageboard.nl/9794//member.php?6268-Nebritlyne <br>http://www.tlador.com/forums/./././././././././memberlist.php?mode=viewprofile&amp;u=12923 <br>http://www.cigarhustler.com/phpBB3/memberlist.php?mode=viewprofile&amp;u=740 <br> <br>Well since two days ago she has been getting a pop-up/scam thing popping up while she surf's the net and she is kinda blaming me on something i done to make this happen i told her time and time Again it's a scam to make u think u have virus on ur computer and and there trying to make u buy the virus software to remove It And she wondering how to stop this from happening/ to pop up. <br>_________________ <br><a href="http://themasterplan.net/forum/profile.php?mode=viewprofile&amp;u=4687">click here </a>,how to crochet a hat <br>crochet hat <br>crochet afghan patterns <br>free crochet hat pattern
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102041648-sjw209-DeadSpac.jpg"
-image_caption: ""
 ---
 
 In the immortal words of John McClane: [“How can the same shit happen to the same guy twice?”](http://www.imdb.com/title/tt0099423/quotes?qt0457572) In this case the ‘shit’ is another alien infection and the ‘guy’ is everyone’s favourite space engineer, Isaac Clarke (lose a thousand nerd points if you miss the reference).

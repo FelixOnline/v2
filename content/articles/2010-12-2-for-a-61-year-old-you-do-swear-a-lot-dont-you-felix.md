@@ -4,18 +4,15 @@ title: >
 subtitle: >
   For a 61-year-old, you do swear a lot, don’t you Felix?
 date: "2010-12-02 21:07:10 +0000"
-
-# Attributes from Felix Online V1
-id: "486"
-old_path: /comment/486/for-a-61-year-old-you-do-swear-a-lot-dont-you-felix
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/486/for-a-61-year-old-you-do-swear-a-lot-dont-you-felix
-imported: true
 comments:
  - value: >
      fTWa86 <a href="http://tfeyhlyxnayo.com/">tfeyhlyxnayo</a>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This coming Thursday will be an important day for students all across the country. Parliament will vote on controversial proposals to raise the cap on tuition fees to £9,000. For the Editors of this newspaper the day is also important for another, albeit more light-hearted, reason. It will be [61 years](http://felixonline.co.uk/?go=archive&d=1940&y=1949) to the day since the first issue of Felix was published. It is Felix's birthday.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Fire alarm in halls leads to stolen cash and jewellery
 date: "2012-03-09 01:15:40 +0000"
-
-# Attributes from Felix Online V1
-id: "2336"
-old_path: /news/2336/break-in-at-beit-hall
+image: "http://felixonline.co.uk/img/upload/201203090114-felix-fjg-imperial_college-2613.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2336/break-in-at-beit-hall
-imported: true
 comments:
  - value: >
      We asked these questions but security was unable to respond in time.,We asked these questions but security was unable to respond in time.,Security disclosed no more information to Felix because "the investigation is ongoing". We've reported exactly what we got in our timeframe.,Security disclosed no more information to Felix because "the investigation is ongoing". We've reported exactly what we got in our timeframe.,Is there CCTV footage? Can you please make clear if the thief is or is not a student? How long until he was found? These questions are easy to answer and give the article more flavour and information.,Is there CCTV footage? Can you please make clear if the thief is or is not a student? How long until he was found? These questions are easy to answer and give the article more flavour and information.,Why wasn't the thief named and shamed? I want to be aware of who to watch out for in halls!,Why wasn't the thief named and shamed? I want to be aware of who to watch out for in halls!,Security wasn't
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203090114-felix-fjg-imperial_college-2613.jpg"
-image_caption: ""
 ---
 
 Student residence Beit Hall was disrupted on Wednesday 29 February following a series of thefts that took place during a fire alarm. Following the alarm, which began at 1am and lasted for 45 minutes, students who left their doors open during the commotion returned to find items such as cash, jewellery and personal items missing. Concerns were soon raised as to whether the fire alarm was set off with the express intent of creating the opportunity to raid students’ rooms.

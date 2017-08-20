@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The new breed of too-rich-to-pay-tax freeloaders is hollowing out our tax base
 date: "2011-11-18 00:55:44 +0000"
-
-# Attributes from Felix Online V1
-id: "1800"
-old_path: /comment/1800/the-real-benefit-cheats
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1800/the-real-benefit-cheats
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - jm3309
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Welfare can be a controversial issue these days, invoking heated debate.

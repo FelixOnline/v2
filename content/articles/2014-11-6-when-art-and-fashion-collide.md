@@ -4,18 +4,16 @@ title: >
 subtitle: >
   An Exploration of the History of the Relationship Between Fine Art, Fashion, and Commerce by Fred Fyles
 date: "2014-11-06 21:34:01 +0000"
-
-# Attributes from Felix Online V1
-id: "4804"
-old_path: /arts/4804/when-art-and-fashion-collide
+image: "http://felixonline.co.uk/img/upload/201411062132-snb11-ysl-warhol.gif"
+image_caption: "Yves Saint Laurent - Andy Warhol. 1974"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4804/when-art-and-fashion-collide
-imported: true
 comments:
  - value: >
      Great internet site! It looks extremely expert! Maintain the excellent work!| <br>nba 2k16 mt australia http://chatalot.com/blogs/nba-2k16-vc-whole-lot-highschool-basketball-gamers,What's up, awesome online site you have got presently.| <br>nba 2k16 mt glitch http://gladyscoral.livejournal.com/902.html,Sustain the helpful job and delivering in the crowd!| <br>csgo skins aud http://bkjyden.dk/vanilla/discussion/7083/gaining-edge-with-2k16-mt-coins-betting,Love the website-- extremely user friendly and lots to see!| <br>nba 2k16 mt for sale xbox one https://sandytrista.wordpress.com/2016/04/18/the-best-way-to-have-nba-2k16-coins-an-instant-quide/,Designed for http://www.rolexreplicaa.co.uk the Italian Navy's underwater saboteurs in the 1930s, Panerai's Luminor re-surfaced to http://www.replicaonlinesuk.org.uk become THE band diving watch of the 1990s and onward. Its http://www.rolexsreplicas.org.uk angel saint? Sylvester Stallone, who wore them in a amount of http://www.rolexnicesale.uk.com his added blowing films. ,The mo
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411062132-snb11-ysl-warhol.gif"
-image_caption: ""
 ---
 
 2012 was a good year for Japanese artist Yayoi Kusama. With a career that spans more than six decades, and ranges from painting to performance art, her hard work was rewarded with not just one, but two retrospectives, held on either side of the Atlantic. The __Whitney Museum__ in New York City played host to a number of her polka-dotted creations, while the __Tate Modern__’s exhibition proved to be one of the highlights of that summer.

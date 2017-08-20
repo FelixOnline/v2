@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Union’s response to the visa consultation in detail
 date: "2011-02-10 20:14:40 +0000"
-
-# Attributes from Felix Online V1
-id: "768"
-old_path: /news/768/union-minimum-english-requirement-should-rise-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/768/union-minimum-english-requirement-should-rise-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imperial College Union has [revealed its response](http://www.imperialcollegeunion.org/news/union-response-to-the-student-visa-consultation,454,ICUNS.html) to the government’s student visa consultation with a mixed response to the suggested proposals.

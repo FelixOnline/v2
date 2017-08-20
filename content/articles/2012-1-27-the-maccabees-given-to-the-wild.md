@@ -4,16 +4,13 @@ title: >
 subtitle: >
   There's a lot to like about the band's third album
 date: "2012-01-27 12:18:08 +0000"
-
-# Attributes from Felix Online V1
-id: "2083"
-old_path: /music/2083/the-maccabees-given-to-the-wild-
+image: "http://felixonline.co.uk/img/upload/201201271217-felix-the-maccabees-gvien-to-the-wild.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2083/the-maccabees-given-to-the-wild-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - lwl09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201271217-felix-the-maccabees-gvien-to-the-wild.jpg"
-image_caption: ""
 ---
 
 [The third album](http://www.youtube.com/watch?v=hTDYsy6z6IE) from __The Maccabees__ has been released after much anticipation and to critical acclaim. Sorry, “much” anticipation? Critically acclaimed by who now?

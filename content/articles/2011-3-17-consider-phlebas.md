@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Maciej Matuszewski discovers the rich and detailed universe of Ian M. Banks
 date: "2011-03-17 20:41:43 +0000"
-
-# Attributes from Felix Online V1
-id: "1094"
-old_path: /science/1094/consider-phlebas
+image: "http://felixonline.co.uk/img/upload/201103180701-ks607-consider.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1094/consider-phlebas
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103180701-ks607-consider.jpg"
-image_caption: ""
 ---
 
 Today, I’m going to talk about Ian M. Banks’ first science fiction novel, Consider Phlebas.

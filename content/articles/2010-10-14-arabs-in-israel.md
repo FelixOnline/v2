@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix interviews MK Haneen Zoabi
 date: "2010-10-14 19:28:37 +0100"
-
-# Attributes from Felix Online V1
-id: "207"
-old_path: /politics/207/arabs-in-israel-
+image: "http://felixonline.co.uk/img/upload/201010142027-nm1010-kinshasa.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/207/arabs-in-israel-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -25,12 +22,6 @@ authors:
  - pk1811
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010142027-nm1010-kinshasa.jpg"
-image_caption: ""
 ---
 
 __What are your impressions of the current peace talks in light of the end of the settlement freeze?__

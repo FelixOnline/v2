@@ -4,18 +4,15 @@ title: >
 subtitle: >
   An analysis of the real story told by Nolan’s movie and a different vision of the ending
 date: "2013-01-18 01:12:30 +0000"
-
-# Attributes from Felix Online V1
-id: "3151"
-old_path: /film/3151/inception-the-theory-of-the-ring
+image: "http://felixonline.co.uk/img/upload/201301180112-tna08-inception-3-inception-2010-26665678-1920-1080.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3151/inception-the-theory-of-the-ring
-imported: true
 comments:
  - value: >
      The ring theory is correct.,Well that settles it then.,This is kinda late but, didnt they explained at the start that only the original owner of the totem can use that particular totem? and didnt he say the spinning top is his wife's totem? correct me if im wrong. :),Good article however it falls down on one point. Cobb accepts inner peace when he lets mal go. Therefore when he finds the Chinese fella at the end in his subconscious he should not be wearing the ring..however he is. Therefore IMO when he wears a ring he is in dream world. When He doesn't it's reality, hence he does get back. ,he back to the real world, if you check IMDB, there are actually two set of actors credited with playing Cobb’s kids. The daughter, Phillipa, is credited as being both 3 and 5 years old, while the son, James, is credited as being both 20 months and 3 years old. Check this http://www.imdb.com/title/tt1375666/fullcredits#cast,And this guy not only says the ending was a dream, but that Cobb's wife was right and everything
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301180112-tna08-inception-3-inception-2010-26665678-1920-1080.jpg"
-image_caption: ""
 ---
 
 Ok, yes, I am two years late. I am aware of that. I am also aware of the fact that everyone has now seen Inception, discussed it, explained it and looked for the mathematical inconsistencies of the dream world (although I suspect the latter is only true for Imperial students). What more can possibly be said about it after two years?

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   David Clarke reports on the Kenyan Orphan Project
 date: "2011-10-13 23:23:45 +0100"
-
-# Attributes from Felix Online V1
-id: "1522"
-old_path: /news/1522/matrices-and-monkeys
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1522/matrices-and-monkeys
-imported: true
 comments:
  - value: >
      Great article, David and very pleased to hear your thoughts. KOP is working hard to advance child health and to work with students on creating advocates for change so I am pleased you are involved. Dan Magnus, KOP Co-Founder.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Have you ever had the chance to stand in front of a class of 40 wide-eyed Kenyan children and attempted to teach them about matrices? Have you ever rocked out with a group of Luo tribeswoman, or been mauled by a velvet monkey?If you had told me a year ago by now I would have experienced all these events I would honestly have called you insane. Yet last July, I somehow found myself on a plane to Nairobi with 10 other students, ready to take part in the Kenyan Orphan Project (KOP) summer programme.

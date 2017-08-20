@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Yet more league table conundrums
 date: "2012-05-24 23:45:41 +0100"
-
-# Attributes from Felix Online V1
-id: "2491"
-old_path: /comment/2491/league-table-responses-expected
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2491/league-table-responses-expected
-imported: true
 comments:
  - value: >
      Here here! I concur!,Give it to me baby! Er her! Er her!
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 League tables yet again come to the fore this week as Imperial College London saw a drop from 10th to 13th place in the Guardian University Guide 2013. These latest results however caused considerably more controversy than previous league table announcements.

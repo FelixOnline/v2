@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Chrysostomos Meli discusses the revolution of automobiles lead by Tesla
 date: "2014-11-06 20:20:06 +0000"
-
-# Attributes from Felix Online V1
-id: "4787"
-old_path: /tech/4787/a-breath-of-fresh-air-in-an-old-and-stale-industry
+image: "http://felixonline.co.uk/img/upload/201411062019-cj914-tesla_model_s.jpg"
+image_caption: "Electric car enthusiasts appearing ecstatic at the unveiling of the first Model S at the Tesla facto"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4787/a-breath-of-fresh-air-in-an-old-and-stale-industry
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +22,6 @@ authors:
  - cj914
  - cm5314
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411062019-cj914-tesla_model_s.jpg"
-image_caption: ""
 ---
 
 You don’t have to be a petrolhead to know that the automobile industry hasn’t been the most innovative over the years. Since the introduction of the Model T in 1908, the car has remained largely unchanged. It might have become faster, more reliable and more efficient over those 100 years but no radical new ideas have managed to take hold.

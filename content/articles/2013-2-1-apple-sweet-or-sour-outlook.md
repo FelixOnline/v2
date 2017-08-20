@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Maximilian Eggl dissects the taste of the future for the fruity company
 date: "2013-02-01 01:13:21 +0000"
-
-# Attributes from Felix Online V1
-id: "3241"
-old_path: /tech/3241/apple-sweet-or-sour-outlook-
+image: "http://felixonline.co.uk/img/upload/201302010109-tna08-apple-stocks.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3241/apple-sweet-or-sour-outlook-
-imported: true
 comments:
  - value: >
      Really interesting article <br>http://www.economist.com/news/business/21570751-worlds-most-valuable-firm-may-be-past-its-prime-has-apple-peaked ,Having only just switched from Windows/Android to an iMac and iPhone I have to say that I'll never go back. The "It just works" thing is still true and very much alive. All companies have good years and not so good years. For me it's not just the GUI it's the quality of build, the aesthetics and the integration. Windows, Android and DLNA and getting any of it to work together is still a nightmare unless one has hours to spend searching the net for answers, downloading god knows how many apps, patches etc and it still doesn't work seamlessly. The integration between OSX and iOS is truly amazing and although maybe there are not that many groundbreaking new inventions to be had these days if apple just keep fine tuning the hardware and software and maintain the quality/design of their products I'll be very happy.
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302010109-tna08-apple-stocks.jpg"
-image_caption: ""
 ---
 
 Apple have undeniably changed the world. It used to be the most valuable company on Earth, ever. Now, stockholders are insecure and other brands have come close, if not eclipsed, the atmosphere of ‘coolness’ that Apple once made its own. Have they diverted off their successful path, have they done wrong? Or is this just a momentarily glitch?

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Fred Fyles on why Alan Bennett may be becoming a national treasure, just don't tell him that...
 date: "2012-12-07 02:31:18 +0000"
-
-# Attributes from Felix Online V1
-id: "3049"
-old_path: /arts/3049/dealing-with-trust-issues
+image: "http://felixonline.co.uk/img/upload/201212070229-tna08-peoplejpeg10.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3049/dealing-with-trust-issues
-imported: true
 comments:
  - value: >
      A new Alan Bennett play is always greatly anticipated and a somewhat familiar affair: at the National, directed by Nicholas Hytner and staring Frances De La Tour, at least for the last three plays anyway. So, with Bennett’s trademark witticisms, this play does not disappoint. It was consistently funny, although at great expense to the National Trust. However, the plot dealt with the demise of a country house and how the owners decided to dispose of it was a little one dimensional,. It was like a dog with a bone and Bennett ran with National Trust bashing, mocking its policies and how middle-classed it is. It does serve as a metaphor (Bennett knowingly had a line in the play which denounced the use of metaphor) to the society as a whole as to how art and other commodities are now democratised but ended being ruined by its availability. These are perfectly good points to make but it doesn’t go deep enough into the debate. There is a distinct lack of drama and the play came across as a bit like a sitcom. (po
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070229-tna08-peoplejpeg10.jpg"
-image_caption: ""
 ---
 
 At what point doessomeone become a national treasure? This is the question Alan Bennett must have been asking himself when writing People, his latest play, which premiered at the National Theatre last month. Bennett, who has been working in the world of theatre for more than 50 years, is Britain’s most well known playwright, and arguably one of the best. Responsible for The History Boys and The Habit of Art, Bennett has come to represent modern British drama; People continues in this tradition, centring around the idea of national institutions, class divides, and the death of the English country house.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lizzie Riach gives an overview of new robotic technology designed to help keep the heart beating after heart failure
 date: "2017-01-27 16:33:30 +0000"
-
-# Attributes from Felix Online V1
-id: "6693"
-old_path: /science/6693/wearing-your-heart-in-your-sleeve
+image: "http://felixonline.co.uk/img/upload/201701271632-felix-heart.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6693/wearing-your-heart-in-your-sleeve
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - mer113
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701271632-felix-heart.jpg"
-image_caption: ""
 ---
 
 A so-called ‘soft robot’ has been invented to help keep the human heart beating. Developed by researchers from Harvard University and Boston Children’s Hospital, the robot fits around the heart and helps it pump blood. This could mean a significantly higher quality of life for people that have survived heart attacks but suffer from heart failure, a growing population in this day and age. The robot itself does not come into direct contact with the blood, reducing potential risks such as blood clotting. Instead, the heart is encased in a sleeve which mimics the outer layers of cardiovascular tissue, allowing the material to act in a similar way to the heart within it.

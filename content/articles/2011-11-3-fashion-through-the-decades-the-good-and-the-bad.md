@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Saskia Verhagen and Alice Yang take a look back through fashion history as they recap the looks and icons of the past 62 years
 date: "2011-11-03 21:17:31 +0000"
-
-# Attributes from Felix Online V1
-id: "1684"
-old_path: /fashion/1684/fashion-through-the-decades-the-good-and-the-bad
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/1684/fashion-through-the-decades-the-good-and-the-bad
-imported: true
 comments:
  - value: >
      There's a big gaping hole in the 90s, namely Carolyn Bessette Kennedy. She embodied the minimalist chic of the mid-90s. ,There's a big gaping hole in the 90s, namely Carolyn Bessette Kennedy. She embodied the minimalist chic of the mid-90s.
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __1940s__

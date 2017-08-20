@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Dreamy science professor turning students on... to science
 date: "2013-01-25 01:25:51 +0000"
-
-# Attributes from Felix Online V1
-id: "3177"
-old_path: /news/3177/the-brian-cox-effect
+image: "http://felixonline.co.uk/img/upload/201301250125-tna08-briancox.jpg"
+image_caption: "Oh, Brian, touch me with your hadron"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3177/the-brian-cox-effect
-imported: true
 comments:
  - value: >
      I am big fan of Brian Cox as a science promoter, but not so much of his technical knowledge. Does anyone remember he said 2 electrons can't occupy the same energy level on BBC?? (This btw is wrong, for you biologists and etc. out there) I am of course not part of this "Brian Cox Effect", and I doubt there exist any student here at Imperial who is. Basically, he is good for science funding and entertainment of the general public. My favorite video of him is by far http://www.youtube.com/watch?v=tDkVS-AN4NU <br> <br> <br>
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301250125-tna08-briancox.jpg"
-image_caption: ""
 ---
 
 This year “Brian Cox Effect” is once again being hailed as the factor responsible for the number of applications to physics degrees continuing to buck falling national trends seen in the majority of subjects. Manchester University, academic home of Professor Cox, seems to agree that the science populariser is at least partially responsible, as internal surveying of their students suggests.

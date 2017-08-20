@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto on why he loves Music Tech Society
 date: "2011-02-17 19:58:37 +0000"
-
-# Attributes from Felix Online V1
-id: "830"
-old_path: /music/830/music-tech-bring-the-noise-to-1902-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/830/music-tech-bring-the-noise-to-1902-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - im808
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 My first experience with [Music Tech Society](http://www.union.ic.ac.uk/arts/musictech/) resulted in internal haemorrhaging. I was a fresher and just arrived at uni after a particularly interesting summer. It was Friday of Fresher’s Week and Music Tech were doing a night at dB’s (as it was still called then). This was also my first exposure to dubstep, a visceral, primitive and funkin’ groovy style of dance music which I had no idea about until then. I had lost my friends somewhere in the crowds of the Union but was drunk enough to keep myself entertained so I proceeded to shelter myself in the smoke and lights of our club. The next morning in the shower I noticed I had a black blotch the size of a watch under my foot – the result of a night intoxicated on beer and good music.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tsz Ki Chiu is bowled over with their success
 date: "2013-02-28 23:48:02 +0000"
-
-# Attributes from Felix Online V1
-id: "3395"
-old_path: /sport/3395/tenpin-bowling-climb-bucs-rankings
+image: "http://felixonline.co.uk/img/upload/201302282347-tna08-bowling.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3395/tenpin-bowling-climb-bucs-rankings
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - tna08
  - tszkichiu
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302282347-tna08-bowling.jpg"
-image_caption: ""
 ---
 
 BUCS Tenpin Bowling Championship took place in Sheffield last weekend.

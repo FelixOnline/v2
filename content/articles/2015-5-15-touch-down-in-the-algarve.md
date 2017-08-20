@@ -4,18 +4,16 @@ title: >
 subtitle: >
   José Videira dives straight into IC Skydiving’s week long Spring Tour to Portugal
 date: "2015-05-15 12:50:14 +0100"
-
-# Attributes from Felix Online V1
-id: "5537"
-old_path: /cands/5537/touch-down-in-the-algarve
+image: "http://felixonline.co.uk/img/upload/201505151349-cj914-sitting.png"
+image_caption: "GoPros abound as José and some friends take a much needed break."
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5537/touch-down-in-the-algarve
-imported: true
 comments:
  - value: >
      I have no idea what you have said <br>buy fifa ultimate team coins http://www.kiwibox.com/jamesbonds/blog/entry/134507435/you-may-believe-in-handicap-in-fifa-16/?pPage=0,were so proud of you. <br>cheap mut 16 coins ps3 for sale http://www.madden-store.com/madden-nfl-16/PS3-2188,THX that's a great anrwse!,I think I should give it a shot! <br>buy Madden 16 Coins http://forum.ink-trails.com/index.php?/blog/161/entry-905-doing-easy-stuff-to-get-madden-16-coins/,I made a fool of myself. <br>buy cheapest runescape 2007 gold http://www.runescapegold2007.com/rs-2007/buy-runescape-2007-gold,You have a good taste. <br>cheap nba 2k mt coins supplier http://www.u4nba.com/,I do not have a clue ! <br>buy cheap Final Fantasy XIV Gil at ffxiv4gil.com http://www.lolboostingguides.com/ffxiv-can-finally-expand-its-horizons-to-xbox/
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505151349-cj914-sitting.png"
-image_caption: ""
 ---
 
 A skydiver’s greatest enemy, especially in the UK, is inclement weather. So for the first ever international tour of IC Skydiving we followed the sun to Skydive Algarve in Portugal, which like our own club has recently expanded to new levels of successful operation with the acquirement of a new plane and procurement of a new team of world expert instructors and dropzone managers.

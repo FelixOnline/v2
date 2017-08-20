@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Another week, another documentary. This time it's one looking at the burgeoning indie gaming market
 date: "2015-11-29 16:24:24 +0000"
-
-# Attributes from Felix Online V1
-id: "5779"
-old_path: /film/5779/documentary-corner-indie-game-the-movie
+image: "http://felixonline.co.uk/img/upload/201511291623-ff712-indiegamemovie_05.jpg"
+image_caption: "Jonathan Blow, god of indie games"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5779/documentary-corner-indie-game-the-movie
-imported: true
 comments:
  - value: >
      Лучи солнца здесь
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +26,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511291623-ff712-indiegamemovie_05.jpg"
-image_caption: ""
 ---
 
 In the last decade or so, the video game industry has seen a meteoric rise in success. Previously seen as a pastime for nerds alone, the medium is now as mainstream and popular as any other. A relatively new phenomenon is the concept of the ‘indie developer’; while game production was previously reserved for big-budget, AAA developers, the emergence of platforms such as Steam, as well as the downloadable stores on PlayStation and Xbox, now afford independents a shot at the market.

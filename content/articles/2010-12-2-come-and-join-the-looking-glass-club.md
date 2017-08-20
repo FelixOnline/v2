@@ -4,16 +4,13 @@ title: >
 subtitle: >
   We meet Imperial alumnus Gruff Davies, who launched his sci-fi novel last week in Southside Halls
 date: "2010-12-02 20:01:43 +0000"
-
-# Attributes from Felix Online V1
-id: "457"
-old_path: /arts/457/come-and-join-the-looking-glass-club-
+image: "http://felixonline.co.uk/img/upload/201012021955-ac1507-Gruff.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/457/come-and-join-the-looking-glass-club-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - lm08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012021955-ac1507-Gruff.jpg"
-image_caption: ""
 ---
 
 __I should start off by saying that I loved the book – you’ve converted me to Science Fiction! __

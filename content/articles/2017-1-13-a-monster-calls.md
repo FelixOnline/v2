@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A Monster Calls breaks promise leaving audiences disappointed.
 date: "2017-01-13 14:32:22 +0000"
-
-# Attributes from Felix Online V1
-id: "6643"
-old_path: /film/6643/a-monster-calls
+image: "http://felixonline.co.uk/img/upload/201701131432-felix-AMonsterCalls_Trailer (1).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6643/a-monster-calls
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ff712
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701131432-felix-AMonsterCalls_Trailer (1).jpg"
-image_caption: ""
 ---
 
 Storytellers are a threat,” wrote Chinua Achebe, “they threaten all champions of control, usurpers of the right-to-freedom of the human spirit”. It is this power, that of a simple story well-told, that director J. A. Bayona is trying to tap with his latest feature A Monster Calls, an adaptation of Patrick Ness’ fantasy novel. But the simplest of stories are the ones the most difficult to tell, and unfortunately – despite a strong cast and proficient visuals – A Monster Calls fails to deliver.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Don Ma despairs at Taste Imperial's blatant disregard for appropriate raisin-yoghurt ratios
 date: "2017-03-17 16:53:23 +0000"
-
-# Attributes from Felix Online V1
-id: "6906"
-old_path: /comment/6906/taste-imperial-is-a-complete-scam
+image: "http://felixonline.co.uk/img/upload/201703171657-felix-9550850672_5144bdc8f9_o (1).jpg"
+image_caption: "Get your own raisins. Oh wait."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6906/taste-imperial-is-a-complete-scam
-imported: true
 comments:
  - value: >
      I don't know what you are saying <br>cheapest madden coins mobile http://www.madden-store.com,I don't know what you are saying <br>cheapest madden coins mobile http://www.madden-store.com,I mean it! <br>pokemon go rare pokemon online shop pokemonbux http://www.pokemonbux.com,I mean it! <br>pokemon go rare pokemon online shop pokemonbux http://www.pokemonbux.com,were so proud of you. <br>buy cheap Dofus Touch Kamas http://chikoz.com/blogs/723/2988/dofus-touch-kamas-professional-dofus-touch-server-kamas-servic,were so proud of you. <br>buy cheap Dofus Touch Kamas http://chikoz.com/blogs/723/2988/dofus-touch-kamas-professional-dofus-touch-server-kamas-servic,What is with that guy? <br>Cheap Albion Online gold http://albion-blog.logdown.com/posts/1702932-cheap-and-safe-albion-online-gold-are-on-sale-at-upalbion,What is with that guy? <br>Cheap Albion Online gold http://albion-blog.logdown.com/posts/1702932-cheap-and-safe-albion-online-gold-are-on-sale-at-upalbion,This is the first time in his professional career, including his time in J
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +24,6 @@ authors:
  - dym14
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171657-felix-9550850672_5144bdc8f9_o (1).jpg"
-image_caption: ""
 ---
 
 Before anyone comes at me with their perceived positives of TasteImperial, I'll have you know that you have been utterly deceived. Commonfolk may be misguided by their SCR breakfasts or the library café 'food'. But I will dispel these myths them with one simple example: The Granola Yoghurt.

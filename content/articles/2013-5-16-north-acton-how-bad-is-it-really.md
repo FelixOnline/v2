@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ben Fernando takes a trip to the new hall’s location to investigate
 date: "2013-05-16 18:55:19 +0100"
-
-# Attributes from Felix Online V1
-id: "3587"
-old_path: /comment/3587/north-acton-how-bad-is-it-really
+image: "http://felixonline.co.uk/img/upload/201305171131-tna08-actonfinalpicture.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3587/north-acton-how-bad-is-it-really
-imported: true
 comments:
  - value: >
      This is a lot of non sense! North Acton is a good place to stay as a base and then you can travel from there. Maybe it's not as happening a place as other places in London but it's pretty quiet and very safe. A lot of this article is referring to Acton as a whole, which probably isn't as nice and also Ealing which is the council... but that covers an enormous area! You are right next to North Acton tube station, like literally right outside, which is on the central line and gets you to central London in under 20 mins. When in North Acton it's clean, quiet, I've never seen any trouble. Of course there will be other areas of Acton which are not so nice... there's not nice areas all over London! But the thing with North Acton is that you never even have to see those places! From accommodation, straight to the tube and then on Cenral Line to where ever you like!:) don't believe everything you read... otherwise you would believe this was the truth;),This is rubbish. There's loads of cool stuff going on in
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305171131-tna08-actonfinalpicture.jpg"
-image_caption: ""
 ---
 
 At first sign, North Acton station appears prettier than most – there’s even a cherry tree in front of the ticket barriers. Travel time from South Kensington: 45 minutes 18 seconds. That’s 45 metric minutes at 60 seconds/minute, not these new 80 second imperial-Acton minutes that the college use in their 30 minute estimate for travel time.

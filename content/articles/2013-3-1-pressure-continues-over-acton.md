@@ -4,18 +4,15 @@ title: >
 subtitle: >
   College say they will answer students’ questions through Felix. To ask: email felix@imperial.ac.uk and the COO and Pro-Rector (Education) will answer you.
 date: "2013-03-01 01:10:56 +0000"
-
-# Attributes from Felix Online V1
-id: "3417"
-old_path: /news/3417/pressure-continues-over-acton
+image: "http://felixonline.co.uk/img/upload/201303010117-tna08-acton-drawing.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3417/pressure-continues-over-acton
-imported: true
 comments:
  - value: >
      From white city the journey time is 40 mins, including RUNNING between platforms at Notting Hill Gate. The main problem is that the circle line is about as likely to run on time as an Edinburgh tram. <br>This is important, that is why there's so much coverage. <br>You can arrive at the circle line precisely when you need to be and the gain will then be ten minute late. Add 5 mins due to uncertainty. Then imagine being at the furthest point on the action site, add another ten minutes. There you go, the unions timing is reasonable.,Well, I live in Acton, and also did so for half of my time at university. The fastest journey I could manage (and believe me, I was sure it was the fastest - sometimes I'd have a morning events shift so I'd have to be in before 7am) was a 40 minute journey of walking to East Acton, going to Queensway and walking across Hyde Park. It was a pain in the ass, frankly. I'm not a loner, so living so far away from where my university life was supposedly happening was awful. I came to my senses in
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303010117-tna08-acton-drawing.jpg"
-image_caption: ""
 ---
 
 Imperial College Union have continued the pressure on Imperial College London over the [plans for halls in Acton](http://felixonline.co.uk/news/3347/anger-over-new-halls/). There has continued to be unease amongst the student body about the plans. The issue has been raised and discussed at numerous meetings, including the Student Welfare Committee, and College Senate (which is a body that is chaired by the President & Rector, and is made up of various academics and management staff). Paul Beaumont, Union President, said that the College’s response has been “seemingly positive”. He said that he is “glad that some academics and staff are as concerned about the site and annoyed at the way in which the whole project was handled as we are.” There has been no word thus far on the future of Garden Hall, which could be turned into office space, or the halls in Evelyn Gardens. The College leases the latter from the Wellcome Trust, and there are 32 years left on the lease. Last week it was reported that the indications are that the Wellcome Trust are not at the moment willing to extend the lease. Felix repeatedly contacted them for comment, but they said that they “don’t comment on individual assets.”

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The highly aticipated modern day musical which draws inspiration from the old classics is as amazing as the hype has made it out to be.
 date: "2017-01-13 14:30:25 +0000"
-
-# Attributes from Felix Online V1
-id: "6642"
-old_path: /film/6642/la-la-land
+image: "http://felixonline.co.uk/img/upload/201701131429-felix-LalalandPic1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6642/la-la-land
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ts2915
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701131429-felix-LalalandPic1.jpg"
-image_caption: ""
 ---
 
 It turns out Ryan Gosling is as roguishly charming and wonderful in person as we all hoped he would be. I was lucky enough to see La La Land for the first time at a London Film Festival screening, after which he appeared to a hurricane of cheers and thrown roses/knickers for a Q&amp;A. When asked about the challenges he had faced singing and dancing for the film, he cracked that the real challenge was having his director Damien Chazelle constantly walking around the set in baggy old-timey gangster trousers, clown shoes, and an oversized monocle that he insisted on wearing. What. A. Dreamboat.

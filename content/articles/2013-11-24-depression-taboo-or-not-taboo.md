@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial, welcome to the OpenMinds campaign! Our aim is to increase understanding of mental health conditions and remove some of the stigma with which they are associated.
 date: "2013-11-24 15:51:36 +0000"
-
-# Attributes from Felix Online V1
-id: "4100"
-old_path: /features/4100/depression--taboo-or-not-taboo
+image: "http://felixonline.co.uk/img/upload/201311241650-jal08-openminds.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4100/depression--taboo-or-not-taboo
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +21,6 @@ authors:
  - extuser0
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311241650-jal08-openminds.png"
-image_caption: ""
 ---
 
 Imperial, welcome to the OpenMinds campaign! Our aim is to increase understanding of mental health conditions and remove some of the stigma with which they are associated.

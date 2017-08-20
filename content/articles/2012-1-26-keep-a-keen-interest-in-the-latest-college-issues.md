@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Have your say and make a difference at Imperial
 date: "2012-01-26 23:16:33 +0000"
-
-# Attributes from Felix Online V1
-id: "2075"
-old_path: /comment/2075/keep-a-keen-interest-in-the-latest-college-issues
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2075/keep-a-keen-interest-in-the-latest-college-issues
-imported: true
 comments:
  - value: >
      DENCHGANG AMADEUS MOZART,There are letters printed in comment?,This article is so dench, its bench! Thug life.,You should publish a letters page in the actual paper, for them of us whats can't be bothered to go on the web all the time. Not just them big sprawling comments articles, mind, they're a bit self-serving...
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 During the past week the Felix website has seen some of its highest activity ever, as various members of College have taken to our [comment boards](http://felixonline.co.uk/news/2032/clayponds-in-crisis/#commentHeader) to voice their opinions over last week’s report on the potential closure of Clayponds. Demonstrating that the postgraduate voice at Imperial is very much alive and well, it shows that adjustments to college life are not solely exclusive to one section of Imperial’s community, but rather everyone.

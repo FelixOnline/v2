@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Students visit Liverpool and Manchester for a fun weekend away from London
 date: "2015-02-20 00:34:34 +0000"
-
-# Attributes from Felix Online V1
-id: "5289"
-old_path: /cands/5289/erasmus-take-a-weekend-trip-up-north
+image: "http://felixonline.co.uk/img/upload/201502200033-ps3110-screen-shot-2015-02-20-at-00.33.25.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5289/erasmus-take-a-weekend-trip-up-north
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -24,12 +21,6 @@ authors:
  - jms411
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502200033-ps3110-screen-shot-2015-02-20-at-00.33.25.png"
-image_caption: ""
 ---
 
 From the 23rd to the 25th of January, the Erasmus Society spread their wings and flew the Imperial nest to visit Liverpool and Manchester! After some good old FiveSixEight grub (and ale) following Friday lectures, the multilingual-chatter-filled five hour coach journey to Liverpool commenced.

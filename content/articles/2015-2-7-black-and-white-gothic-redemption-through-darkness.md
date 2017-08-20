@@ -4,18 +4,16 @@ title: >
 subtitle: >
   William Gewanter explores the importance of Charles Stewart’s works
 date: "2015-02-07 19:34:01 +0000"
-
-# Attributes from Felix Online V1
-id: "5210"
-old_path: /arts/5210/black-and-white-gothic--redemption-through-darkness
+image: "http://felixonline.co.uk/img/upload/201502071932-ps3110-nnn-a.jpg"
+image_caption: "Charles Stewart, Uncle Silas: Frontispiece, 1947. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5210/black-and-white-gothic--redemption-through-darkness
-imported: true
 comments:
  - value: >
      stockists of fitflops <br>cheapest fitflops australia http://australiafitflops.iemiller.net/,Good Website, Continue the excellent job. Many thanks!| <br>cs go skins list http://www.mrsdiy.co.uk/Forum/showthread.php?tid=268553
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502071932-ps3110-nnn-a.jpg"
-image_caption: ""
 ---
 
 It seems a safe bet that never before in the history of the Royal Academy of Arts has the __Tennant Gallery__ been adorned with either a bowl of glass eyes or a mannequin that can lay claim to having posed as the Queen for a world famous portrait. _Black and White Gothic_ offers both of these and more. Pairing personal artefacts with pieces both polished and in progress, this exhibition provides a rare glimpse of not only of the works of a first rate, yet little known artist, but also an opportunity to examine something of both the process of their creation and the character of their creator. Despite the fact that more than two thirds of the members of the Royal Academy have worked as illustrators in the past, this art form has remained unfairly neglected. This one room showcase focuses largely on Stewart’s illustrations for an edition of Joseph Sheridan Le Fanu’s 1864 novel _Uncle Silas_; a series of darkly evocative stills brimming with barely contained motion, it is well worth a visit for anyone with an interest in the gothic or in illustration and its influence on modern cinematography.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial ease back into the Development League
 date: "2011-11-24 23:44:01 +0000"
-
-# Attributes from Felix Online V1
-id: "1852"
-old_path: /sport/1852/victory-for-eagles
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1852/victory-for-eagles
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - sb1307
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Handball__

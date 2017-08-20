@@ -4,16 +4,14 @@ title: >
 subtitle: >
   As consumption, or tuberculosis, continues to spread, scientists are racing to find a new vaccine
 date: "2011-05-06 08:07:21 +0100"
-
-# Attributes from Felix Online V1
-id: "1151"
-old_path: /science/1151/the-return-of-consumption
+image: "http://felixonline.co.uk/img/upload/201105060907-felix-doctors-looking-at-xray.jpg"
+image_caption: "Oh yes, definitely a bad case of Bieber fever"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1151/the-return-of-consumption
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - as2710
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105060907-felix-doctors-looking-at-xray.jpg"
-image_caption: ""
 ---
 
 The infected individual wastes away with fever, sweats and a chronic cough. The disease appears to consume them from within. It is the same disease that consumes Satine, played by Nicole Kidman in Moulin Rouge!, and has been a big killer for centuries. Even today consumption, known now as tuberculosis or TB, is still the biggest killer out of all bacterial diseases. TB is caused by Mycobacterium tuberculosis (Mtb) and, unlike other European countries, infection rates are on the rise in the UK, with 40% of cases here in London. This unexpected rise appears to be linked to the increasing number of internationals entering the country with undetected TB.

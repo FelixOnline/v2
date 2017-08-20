@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Aleksandra Berditchevskaia goes behind the scenes at the all new View Art Festival
 date: "2015-03-25 13:08:12 +0000"
-
-# Attributes from Felix Online V1
-id: "5444"
-old_path: /arts/5444/art-history-from-a-new-perspective
+image: "http://felixonline.co.uk/img/upload/201503251306-ff712-blythe_house,_science_museum_05a.jpg"
+image_caption: "Wooden aircraft windtunnel model in the Science Museum’s Blythe House"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5444/art-history-from-a-new-perspective
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251306-ff712-blythe_house,_science_museum_05a.jpg"
-image_caption: ""
 ---
 
 I recently came across an opinion piece in _Art Review_ magazine that discussed the crisis of the contemporary within art, particularly focussing on the difficulty in finding a suitable label for the art of the present day. With ‘modern’ art confined to a temporality at the beginning of the 20th century, and the use of both ‘postmodern’ and ‘contemporary’ rapidly falling out of favour, a new word is being called for. The author drew attention to the increased use of the term ‘now’, which has seemingly been employed to resolve this problem. At first glance, the organisers of _View Art Festival_ at the __Institut Français__, were not faced with confronting this dilemma. After all, their ambitious programme, which took place over the weekend linking February and March, was concerned with discussions around the topic of art history.

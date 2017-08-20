@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Politicians have legal immunity for a reason. We should call them out when they abuse it
 date: "2012-11-09 11:51:51 +0000"
-
-# Attributes from Felix Online V1
-id: "2842"
-old_path: /comment/2842/parliamentary-privilege-my-arse
+image: "http://felixonline.co.uk/img/upload/201211091152-tna08-mcshane.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2842/parliamentary-privilege-my-arse
-imported: true
 comments:
  - value: >
      what a digusting man: europhile to the last and a sponge too. <br> <br>Shame he resigned before he was suspended - he still gets his golden goodbye.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091152-tna08-mcshane.jpg"
-image_caption: ""
 ---
 
 When the expenses scandal originally broke in 2009, my opinion was succinctly summarised by a Guardian feature wherein an MP of the time described the story as a “wonderful moment of British fiddling, but more on a Dad’s Army scale than the real corruption of politics.” Yes, the MPs had decided against buying their own hobnobs/tampons/moats but MP pay is poor for a thankless, gruelling job and I envisioned the majority of expenses as a deserved bonus. Not to mention the whole thing was worth it to officially see that toilet seats were not designed to support John Prescott.

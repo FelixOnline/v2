@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Once more Valentine’s Day rolls around, and once more my evening date is a bottle of vodka and video games. The result? Tongue-in-cheek dating profiles for video game females. I may need to kick the habit
 date: "2012-02-16 21:29:46 +0000"
-
-# Attributes from Felix Online V1
-id: "2190"
-old_path: /games/2190/virtual-dating-for-those-despondent-valentines
+image: "http://felixonline.co.uk/img/upload/201202171654-pk1811-alyx_vance_head.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2190/virtual-dating-for-those-despondent-valentines
-imported: true
 comments:
  - value: >
      I wondered when someone would take this completely out of context.,Well, I'll say now, this is the Games section. Video games by their very nature are not a particularly insightful area for generating discussion; they're for fun, for a giggle, for a laugh. This piece was just that - a tongue-in-cheek bit of fun for V-day (That's not Victory Day by the way). I think you're taking it a little bit too seriously. <br> <br>It's not a statement proclaiming my masculinity, or a deep, insightful look into the dynamics of a female-dominated relationship. I seriously have no time for debating those sorts of notions, nor do I really want to get embroiled in such arguments. <br> <br>I'm just a laid-back chap who wants to have a little bit of a laugh, 'tis all. Care to join me?,Also, it'd be quite cool to know who I'm talking to. I don't think either of us has much to hide :),I'm Laurence Pope, and I approve this message. God bless Amer- Felix.,You haven't been reading those "sexism at Imperial", "alienating the female audience", "b
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202171654-pk1811-alyx_vance_head.jpg"
-image_caption: ""
 ---
 
 __Alyx Vance (HL2 Series)__

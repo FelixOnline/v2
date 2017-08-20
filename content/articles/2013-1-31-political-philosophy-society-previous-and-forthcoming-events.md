@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Richard Murphy on the Corporate Tax Scandal: Thinking with Portals. Now Yaqub Chaudhary lets you know what they have coming up this term
 date: "2013-01-31 22:58:54 +0000"
-
-# Attributes from Felix Online V1
-id: "3202"
-old_path: /news/3202/political-philosophy-society-previous-and-forthcoming-events
+image: "http://felixonline.co.uk/img/upload/201301312257-tna08-future_money04-1.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3202/political-philosophy-society-previous-and-forthcoming-events
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - myc304
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301312257-tna08-future_money04-1.png"
-image_caption: ""
 ---
 
 Last term the Political Philosophy Society invited[ Richard Murphy](http://www.taxresearch.org.uk/Blog/richard-murphy/) to speak about the furore amongst the public, media and politicians that arose as a [reaction to news of the tax affairs of major corporations](http://www.guardian.co.uk/business/2012/dec/03/amazon-google-starbucks-tax-avoidance).

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Results of the 2010 Autumn Student Online Evaluation (SOLE) survey released
 date: "2011-02-17 19:43:50 +0000"
-
-# Attributes from Felix Online V1
-id: "824"
-old_path: /news/824/sole-results-show-high-satisfaction
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/824/sole-results-show-high-satisfaction
-imported: true
 comments:
  - value: >
      I took a language module this year and this is the best thing I have done for my brain. <br> <br>http://www.independent.co.uk/news/science/speaking-a-second-language-can-delay-dementia-onset-for-years-2219280.html
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The College has recently released results of the 2010 Autumn Student Online Evaluation (SOLE) survey aimed at measuring undergraduate students' opinions about the teaching in the first college term. The results of the survey are mainly positive, with overall satisfaction across the College for different aspects of lecture courses ranging from 84% to 92%. The proportion of students answering either “good” or “very good” saw a marked increase from 2009 for all the questions which had also been asked that year.

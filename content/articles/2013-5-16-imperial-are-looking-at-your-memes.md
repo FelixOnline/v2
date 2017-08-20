@@ -4,18 +4,16 @@ title: >
 subtitle: >
   College posts on Imperial Memes to warn people not to be damaging to their reputation
 date: "2013-05-16 20:53:03 +0100"
-
-# Attributes from Felix Online V1
-id: "3594"
-old_path: /news/3594/imperial-are-looking-at-your-memes
+image: "http://felixonline.co.uk/img/upload/201305162152-tna08-imperial-memes-1.jpg"
+image_caption: "College's post on Imperial Memes, which was deleted. Definitely would have been better to have done "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3594/imperial-are-looking-at-your-memes
-imported: true
 comments:
  - value: >
      College wants the reputation of the university to be held high? How about caring about the student body first; improving the student satisfaction would do far more for the blessed reputation than worrying about what students have and always will find funny. It's ridiculous. Humour is completely lost on them, let alone irony.,College ought not to attempt to interfere with social media interactions, they should fix things that we complain about on them. Like NEW LIBRARY DOORSgate or PRINTERSERVICE IS AWFULgate,Nice to know my fees are being spent on reading memes, especially when all the spare cash should be going towards affordable housing for first years. <br> <br>No use having a good reputation if poorer students can't afford to attend. <br> <br>There is no way I am ever donating money to Imperial.,"No use having a good reputation if poorer students can't afford to attend." <br>"There is no way I am ever donating money to Imperial." <br> <br>Obvious contradiction is obvious? You could stop being irascible and donate money to hel
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305162152-tna08-imperial-memes-1.jpg"
-image_caption: ""
 ---
 
 Imperial College London posted on the Imperial Memes Facebook Page to warn students about the content of some of the Memes. College posted reminding people not to damage the reputation of Imperial of themselves. The post was deleted soon after being posted.

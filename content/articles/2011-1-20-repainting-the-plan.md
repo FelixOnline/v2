@@ -4,18 +4,15 @@ title: >
 subtitle: >
   What are you supposed to do when you leave Imperial?
 date: "2011-01-20 20:53:57 +0000"
-
-# Attributes from Felix Online V1
-id: "635"
-old_path: /comment/635/repainting-the-plan
+image: "http://felixonline.co.uk/img/upload/201101202047-dr910-soumayaa.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/635/repainting-the-plan
-imported: true
 comments:
  - value: >
      salams, <br> <br>lol Susu. <br> <br>Some people would cry for an opportunity to study at a prestigious uni. Now you are capable of offering the community from the angle of understanding you have to life not necessarily the equations you learnt. <br> <br>My dad graduated with a phd, but ever since i remember his dream is to open a farm and get some cows and sheep and live a traditional life. He is actively seeking a farm now haha. He often hangs around with people who havent finished school yet, and he learns new things from them and finds them v wise. <br> <br>I hardly think he needed a phd to do that , but i think having a phd shaped the man he is with the understanding to life he has, and helped him be a unique member of the community. <br> <br>your degree doesnt have to determine what your plans in life are. studying gave you the tools, and you can use it in any aspect you 'want' in life.. Even if it is just doing the dishes at home and tutoring children :D ( better than office work!) <br> <br>so congrats!,Hi just thought if you liked th
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - smauthoo
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101202047-dr910-soumayaa.jpg"
-image_caption: ""
 ---
 
 I passed my viva a few months ago. The day before my 27th birthday, coincidentally. This should have marked the beginning of the next stage in my life but I now feel strangely confused, unable to move on. Where is my life going and all that? I’m hoping this article will have a cathartic effect. Writing for my former university paper to help me move on might seem ironic but this is not some purely egomaniacal exercise. I’m sure others are going through a similar experience, or will go through it on graduating from university. So this article is dedicated to you.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   First let me say – no, it’s not as bad as its name suggests. In fact it’s nothing like its name suggest. The show itself jokes about how bad a name it is in its very first episode.
 date: "2014-02-26 12:59:12 +0000"
-
-# Attributes from Felix Online V1
-id: "4438"
-old_path: /tv/4438/star-cops-a-sci-fi-golden-oldie
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4438/star-cops-a-sci-fi-golden-oldie
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 First let me say – no, it’s not as bad as its name suggests. In fact it’s nothing like its name suggest. The show itself jokes about how bad a name it is in its very first episode. Star Cops is not some cheap police action-drama carelessly transplanted into a space setting. Instead, it is a very intelligent, brilliantly written piece of television, and one of the most unique examples of the SF genre that has ever graced our screens.

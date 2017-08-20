@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Universities will suffer as Lord Mandelson looks to reduce funding by
 date: "2010-01-14 17:47:40 +0000"
-
-# Attributes from Felix Online V1
-id: "35"
-old_path: /news/35/government-cuts-university-funding
+image: "http://felixonline.co.uk/img/upload/201001141741-felix-LordMand.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/35/government-cuts-university-funding
-imported: true
 comments:
  - value: >
      BALLS.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001141741-felix-LordMand.jpg"
-image_caption: ""
 ---
 
 Lord Mandelson, Secretary of State for Business, Innovation and Skills has announced a £398 million budget cut for UK universities for the 2010/2011 financial year. The prominent Lord has also asked universities to protect the quality of, and access to, higher education.

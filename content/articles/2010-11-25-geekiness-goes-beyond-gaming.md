@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Geekiness goes beyond gaming
 date: "2010-11-25 21:27:48 +0000"
-
-# Attributes from Felix Online V1
-id: "440"
-old_path: /comment/440/geekiness-goes-beyond-gaming
+image: "http://felixonline.co.uk/img/upload/201011182209-nm1010-angrygee.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/440/geekiness-goes-beyond-gaming
-imported: true
 comments:
  - value: >
      Oooh right so YOU'RE the cool one, and he's the loser. Meanwhile, you're raging like a homeless person. <br> <br>,Join an awesome <a href="http://cooll.net">Gaming Forum</a> today!,Why yes, I did read a book.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - nm1010
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011182209-nm1010-angrygee.jpg"
-image_caption: ""
 ---
 
 This week I played some videogames. You might think that this isn’t particularly announcement–worthy in an age of Farmville and Bejewelled. On the face of it, videogames are part of our culture now. But read a gaming fansite or web forum and you’d be forgiven for thinking we were in the middle of a cultural apartheid.

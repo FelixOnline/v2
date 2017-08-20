@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Feroz Salam is worn out from all the real news that's appeared on Facebook
 date: "2011-12-01 19:33:08 +0000"
-
-# Attributes from Felix Online V1
-id: "1855"
-old_path: /tech/1855/facebook-all-shared-out
+image: "http://felixonline.co.uk/img/upload/201112011933-pk1811-facebook_logo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/1855/facebook-all-shared-out
-imported: true
 comments:
  - value: >
      "In a system geared towards drastically increasing the amount of information you push out to the world, it’s not surprising we’re hit with much more than we can possibly care about." <br> <br>Therefore ignore it? If there is an irritating person in real life, you ignore that person, and so the same can be done for irritating things on the internet. The nature of the human brain is to filter out what information is relevant and what is not, and this is a perfect example of why this is a good thing - you can simply filter out what you are not interested in; so there is no need for Facebook's own 'complex' filtering tools.,Hah, just remembered this comment; I might have mentioned in the article that my Facebook has been (and will probably stay) deactivated for a while.,Посмотрела ссылку. Статья показалась желтоватой (и малодостоверной), особенно после абзаца The idea of the Nibiru encounter orinagited with Nancy Lieder, a Wisconsin wom
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +25,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112011933-pk1811-facebook_logo.jpg"
-image_caption: ""
 ---
 
 I expect most of you have noticed the new items that have started appearing in your Facebook feeds: Spotify playlists of music that your friends are listening to and news articles from a whole host of national and international papers. They are part of the ‘[OpenGraph](http://ogp.me/)’ scheme that Facebook has been pushing in earnest over the last few months: adding a few tags to your website means that any links to your website from within Facebook makes it a Facebook page.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Kamil McClelland heads over to the IC Choir's Spring Concert
 date: "2015-03-25 13:21:15 +0000"
-
-# Attributes from Felix Online V1
-id: "5449"
-old_path: /music/5449/ic-choir-enthrals-with-rapturous-o-fortuna
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5449/ic-choir-enthrals-with-rapturous-o-fortuna
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - km2612
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 _C__armina Burana_ is a piece almost every person recognises, if not in name then for the monumental ‘O Fortuna’, used countless times in popular culture. This could very well have been why the IC Choir chose to perform it in their Spring Concert, alongside Bob Chilcott’s ‘Songs and Cries of London Town’. However, I often find that, because audiences approach performances of well-known pieces with a great deal of knowledge, expectations are inevitably higher and this all too commonly results in the anticlimactic results.

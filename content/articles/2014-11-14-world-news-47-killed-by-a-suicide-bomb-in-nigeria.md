@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Explosion was detonated by a female suicide bomber
 date: "2014-11-14 20:08:14 +0000"
-
-# Attributes from Felix Online V1
-id: "4868"
-old_path: /news/4868/world-news-47-killed-by-a-suicide-bomb-in-nigeria
+image: "http://felixonline.co.uk/img/upload/201411142008-ps3110-11-10-2014yobe_nigeria.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4868/world-news-47-killed-by-a-suicide-bomb-in-nigeria
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - czb11
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411142008-ps3110-11-10-2014yobe_nigeria.jpg"
-image_caption: ""
 ---
 
 On the morning of Monday 13th November, an explosion detonated by a female suicide bomber killed 47 people and injured 79 others in Yobe, Niberia. The attack took place at a local school, and the suicide bomber entered the school undetected, wearing a school uniform and carrying explosive materials in a backpack.

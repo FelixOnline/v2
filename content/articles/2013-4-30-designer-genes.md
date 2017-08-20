@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Lily Le isn't talking about Versace...
 date: "2013-04-30 14:39:35 +0100"
-
-# Attributes from Felix Online V1
-id: "3505"
-old_path: /arts/3505/designer-genes
+image: "http://felixonline.co.uk/img/upload/201305031512-tna08-1.png"
+image_caption: "Rotifer Farm by Raphael Kim"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3505/designer-genes
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305031512-tna08-1.png"
-image_caption: ""
 ---
 
 We all fucking love science, but it has to be admitted that, frankly, it can get achingly dull. How many times have you heard the words, “after a month and a half of protocol optimisation, my experiment has failed again! Isn’t this so FUN?” That’s right, never.

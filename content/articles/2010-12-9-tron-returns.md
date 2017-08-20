@@ -4,16 +4,13 @@ title: >
 subtitle: >
   At the very least, it's better than Harry Potter
 date: "2010-12-09 19:41:17 +0000"
-
-# Attributes from Felix Online V1
-id: "509"
-old_path: /film/509/tron-returns
+image: "http://felixonline.co.uk/img/upload/201012091937-ma1307-Lightcyc.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/509/tron-returns
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ghc07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012091937-ma1307-Lightcyc.jpg"
-image_caption: ""
 ---
 
 Have you ever wondered what goes on inside the digital domain? What goes on inside the circuitry of your computer as packets of information are sent through it? Enter TRON. It is the sci-fi geek’s ultimate fantasy – a whole world lying out there, inside those clusters of computer networks. The entry? Just beam yourself in with a prototype particle distruptor/reconsitutor, picked from that experimental physics lab.

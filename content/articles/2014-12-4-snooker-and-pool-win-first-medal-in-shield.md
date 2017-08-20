@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Aaron Brown and Robert Hughes report as Snooker and Pool win their first medal at the Southern England Championships
 date: "2014-12-04 20:20:25 +0000"
-
-# Attributes from Felix Online V1
-id: "5009"
-old_path: /sport/5009/snooker-and-pool-win-first-medal-in-shield
+image: "http://felixonline.co.uk/img/upload/201412042020-cj914-1383340_10100177190907641_6215749255525179063_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5009/snooker-and-pool-win-first-medal-in-shield
-imported: true
 comments:
  - value: >
      mens christian louboutin shoes <br>christian louboutin shoes http://canadachristianlouboutin.blogspot.com/,mens christian louboutin shoes <br>christian louboutin shoes http://canadachristianlouboutin.blogspot.com/,christian louboutin <br>buy christian louboutin shoes canada http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin <br>buy christian louboutin shoes canada http://canadachristianlouboutinoutlet.blogspot.com/,used christian louboutin <br>christian louboutin sale http://canadachristianlouboutin.blogspot.com/,used christian louboutin <br>christian louboutin sale http://canadachristianlouboutin.blogspot.com/,christian louboutin instagram <br>christian louboutin sale clearance http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin instagram <br>christian louboutin sale clearance http://canadachristianlouboutinoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -29,12 +26,6 @@ authors:
  - rjh11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412042020-cj914-1383340_10100177190907641_6215749255525179063_n.jpg"
-image_caption: ""
 ---
 
 Records tumbled at the first inter-university pool tournament of the year as a new-look Imperial team pulled off some stunning wins and overcame bad luck (and hangovers) to earn their first ever medal in the Southern England Univesities Pool Council Team Shield event. The team set off early Saturday morning from Paddington, and spirits were high as we made the arduous journey towards sunny Weston-Super-Mare. With three new members to the team, team captain Rob had some head scratching to do in the run up to the tournament as to how to field his eager players, using the journey to make sure all were up to speed on tournament rules and regulations.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Gareth Campbell says goodbye to a band that is close to his heart
 date: "2011-12-08 21:17:59 +0000"
-
-# Attributes from Felix Online V1
-id: "1934"
-old_path: /music/1934/a-tearful-obituary
+image: "http://felixonline.co.uk/img/upload/201112082117-pk1811-pr.jpg"
+image_caption: "The band thought it was time to take an indefinitely extended nap"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1934/a-tearful-obituary
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - glc09
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082117-pk1811-pr.jpg"
-image_caption: ""
 ---
 
 Formed in 2003, __Pure Reason Revolution__ have since released three albums, supported bands such as __Mew__, __Placebo__, and __Porcupine Tree__ and have received critical acclaim. However they have only ever attracted a small cult following, so this gig marks the end of 8 years of what guitarist, Jamie Willcox, described after as “a labour of love”. Maybe the mix of new progressive rock and electro is too much for the general public.

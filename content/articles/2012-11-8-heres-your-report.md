@@ -4,18 +4,15 @@ title: >
 subtitle: >
   2012 entry will have indication of performance in Horizons courses they take. Exact wording is to be decided. Report card degrees, containing information on extra-curricular activities, may be introduced?
 date: "2012-11-08 23:44:30 +0000"
-
-# Attributes from Felix Online V1
-id: "2828"
-old_path: /news/2828/heres-your-report
+image: "http://felixonline.co.uk/img/upload/201211082343-tna08-picture-for-news-ting.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2828/heres-your-report
-imported: true
 comments:
  - value: >
      surely you'd write about your extra curricular activities on your cv or cover letter anyway? isnt it a bit redundant? i suppose you'd get an official 'stamp' from the uni to say you're not making it up.. but it doesnt seem like something to form a committee about,An interesting read. <br> <br>Horizons, HEAR and similar initiatives are vital at this institution; one where students are traditionally viewed as very scientifically minded with little interest in extracurriculars. If employers do place greater importance on non-academic achievements this will encourage students to pursue interests beyond their textbooks and the library, and in turn allow them to better themselves.,Pretty sure if they give every single damn exam grade it would completely kill off interests in extra-cirriculars... I like it how it is now, on an average of a 2.2 but with "Predicted first" on my CV. ahhh yeaaaahhh
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - yn711
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211082343-tna08-picture-for-news-ting.jpg"
-image_caption: ""
 ---
 
 [Higher Education Achievement Record (HEAR)](http://www.hear.ac.uk/) have recently been suggested as an alternative to just receiving a single grade.

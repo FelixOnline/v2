@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Joshua Renken comments on the relationship between the West and Saudi Arabia
 date: "2015-03-13 01:30:42 +0000"
-
-# Attributes from Felix Online V1
-id: "5395"
-old_path: /politics/5395/oh-oil-is-there-nothing-you-cant-do
+image: "http://felixonline.co.uk/img/upload/201503130130-cj914-baracknsalman-copy.jpg"
+image_caption: "Barack Obama met with King Salman to pay his respects to the former King and Prime Minister of Saudi Arabia, Abdullah bin Abdulaziz Al Saud after his death in January"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/5395/oh-oil-is-there-nothing-you-cant-do
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -25,12 +23,6 @@ authors:
  - jr2514
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503130130-cj914-baracknsalman-copy.jpg"
-image_caption: ""
 ---
 
 In the last two decades the Middle East has experienced Sunni and Shia suppression, the toppling of dictators, Western intervention, Western withdrawal and the spread of fundamentalist terrorism.

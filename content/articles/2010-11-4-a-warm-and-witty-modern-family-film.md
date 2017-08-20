@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Kids are All Right, but what about everyone else?
 date: "2010-11-04 18:17:10 +0000"
-
-# Attributes from Felix Online V1
-id: "294"
-old_path: /film/294/a-warm-and-witty-modern-family-film-
+image: "http://felixonline.co.uk/img/upload/201011041815-ks607-algkidsa.jpg"
+image_caption: "Clever writing makes this a warm and witty film, the hugs helped too"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/294/a-warm-and-witty-modern-family-film-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011041815-ks607-algkidsa.jpg"
-image_caption: ""
 ---
 
 The kids are all right. The title makes that clear. But what about the adults? How is a lesbian couple supposed to react when their children start looking for their sperm donor? And what about when they start bonding with him? When he works his way into their seemingly normal family life? The adult protagonists of The Kids Are All Right are lesbians, but this theme is never exploited. It’s not necessarily about the lesbian marriage, it just centres on one. They’re a normal suburban family and Nic (Annette Bening) and Jules (Julianne Moore) face the same challenges that all married couples face.

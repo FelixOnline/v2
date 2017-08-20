@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Max Eggl discovers an incredible pair at a banging price, just £20. Get in!
 date: "2012-11-18 13:07:38 +0000"
-
-# Attributes from Felix Online V1
-id: "2922"
-old_path: /tech/2922/sx-907-bluetooth-headphones-
+image: "http://felixonline.co.uk/img/upload/201211181306-jp1409-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/2922/sx-907-bluetooth-headphones-
-imported: true
 comments:
  - value: >
      Well it all depends on what you mean with "sync": <br> <br>1. If you mean sync in the sense of charge and connect with the usb cable, then what I would suggest is try to connect your Headphones to a USB charger. If they do not charge, then i would see if you can exchange them. <br> <br>2. Now if you mean actually connect them over bluetooth to play music, it gets quite a bit more complicated. Firstly, make sure they are on and are actually looking to be paired. (this is seen by a red and blue alternating light). If nothing shows up on your pc, try to pair it with something else to see if they work at all. If they do not show up anywhere, they are malfunctioning and you should get them exchanged. Lastly if nothing works, try this web site, as it seems to have a solution for your very problem! <br> <br>http://answers.microsoft.com/en-us/windows/forum/windows_7-hardware/errors-28-missing-driver-for-my-sx-907c-stereo/4fa32672-3c60-e011-8dfc-68b599b31bf5?msgId=f6ec0dfc-3da3-4d00-9fd4-d24900088123 <br> <br>Hope this helps,I can't seem to
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211181306-jp1409-1.jpg"
-image_caption: ""
 ---
 
 Yes, dear readers, I have recently discovered the world of wireless headphones. Two weeks ago, bored and not feeling like untangling my normal headphones, I decided to peruse the various stores of the internet, to discover if the World Wide Web had anything to tickle my fancy. Lo and behold, on Amazon, I stumbled upon a whole array of Bluetooth headphones and, perhaps more surprisingly, very (and I mean VERY) attractively priced ones. I had previously visited an apple store (to check out the iPad Mini) and had seen headphones priced at £300, so to see these puppies being displayed from £20 to £70 was really astounding! Anyway, before I launch into my review of one of these headphones that I purchased, I will firstly talk pros and cons of Bluetooth/wireless headphones in general.

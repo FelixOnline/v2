@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fred Fyles takes a trip to the Barbican
 date: "2013-03-15 01:28:44 +0000"
-
-# Attributes from Felix Online V1
-id: "3475"
-old_path: /arts/3475/lady-dadas-bad-romance
+image: "http://felixonline.co.uk/img/upload/201303150128-tna08-8483484456_60cfc45702.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3475/lady-dadas-bad-romance
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - ff712
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303150128-tna08-8483484456_60cfc45702.jpg"
-image_caption: ""
 ---
 
 The Barbican’s art gallery is haunted by the ghosts of avant-garde. Possessed pianos play atonal compositions, while invisible dancers pitter-patter across the halls, and long-dead voices call out in French. This is the soundscape against which the exhibition The Bride and the Bachelors is set, forming the mise en scène for a production which tells the story of a Dadaist giant and the New York scene he inspired. In this tale, the ‘Bride’ is Marcel Duchamp, the radical French artist whose ‘readymades’ changed the art world forever. The ‘Bachelors’ courting him are the four titans of 1960s American avant-garde: Jasper Johns, Merce Cunningham, John Cage, and Robert Rauschenberg. The exhibition shows the influence these artists had on one another, and the enormous impact Duchamp’s philosophy had on the arts as a whole

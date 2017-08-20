@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The lockers on Sherfield Walkway will be available later in the term
 date: "2015-05-14 22:21:20 +0100"
-
-# Attributes from Felix Online V1
-id: "5520"
-old_path: /news/5520/amazon-soon-to-deliver-to-sherfield
+image: "http://felixonline.co.uk/img/upload/201505142321-cj914-amazon-lockers-cmyk.jpg"
+image_caption: "The new lockers on the walkway"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5520/amazon-soon-to-deliver-to-sherfield
-imported: true
 comments:
  - value: >
      Finally, I can live full-time in College and still get packages delivered. What a time to be alive!,QmCKKB http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com,Wow, lovely portal. Thnx ...| <br>cs go skins addiction http://janice1101.livejournal.com/33977.html
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505142321-cj914-amazon-lockers-cmyk.jpg"
-image_caption: ""
 ---
 
 A new Amazon collection point has been installed on campus, allowing staff and students to receive their parcels from South Kensington instead of waiting in at home.

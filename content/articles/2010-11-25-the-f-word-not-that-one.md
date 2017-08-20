@@ -4,18 +4,15 @@ title: >
 subtitle: >
    The F-word. Not that one
 date: "2010-11-25 21:58:48 +0000"
-
-# Attributes from Felix Online V1
-id: "445"
-old_path: /comment/445/the-f-word-not-that-one
+image: "http://felixonline.co.uk/img/upload/201011182211-ks607-rhysdavi.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/445/the-f-word-not-that-one
-imported: true
 comments:
  - value: >
      Walking in the preensce of giants here. Cool thinking all around!
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - rjd08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011182211-ks607-rhysdavi.jpg"
-image_caption: ""
 ---
 
 Before you begin to read, please excuse the crumbs.

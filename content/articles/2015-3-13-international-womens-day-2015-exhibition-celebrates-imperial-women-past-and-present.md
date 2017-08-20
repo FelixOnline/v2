@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Cecily Johnson reports on the Women@Imperial events taking place this week
 date: "2015-03-13 01:20:41 +0000"
-
-# Attributes from Felix Online V1
-id: "5391"
-old_path: /news/5391/international-womens-day-2015-exhibition-celebrates-imperial-women-past-and-present
+image: "http://felixonline.co.uk/img/upload/201503130120-cj914-women@imperial-3rd-try.jpg"
+image_caption: "Women@Imperial comprises a series of events honouring academic and professional women of the College"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5391/international-womens-day-2015-exhibition-celebrates-imperial-women-past-and-present
-imported: true
 comments:
  - value: >
      While there have are many notable alumni those who haven't achieved such heights many have also played their part. My my mother and aunt, chemistry, I, mathematics and daughter biochemistry have been proud to be part of Imperial. (As have another 6 male members of our family over 3 generations),sale on fitflops <br>buy fitflops online australia http://fitflopsau.blogspot.com/,sold out sneakers <br>christian louboutin outlet canada http://christianlouboutincanadaoutlet.blogspot.com/,cheap christian louboutin shoes canada <br>christian louboutin canada http://canadachristianlouboutin.blogspot.com/,qi7k2a http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com,Just wanted to express I'm thankful that i happened upon your internet page!. <br>madden 17 http://ithelpdesk.bandbhg.com/entries/110085823-2k17-coins-all-of-it-you-cannot,Heh, thanks Brian.WP3.3 will no doubt be another pain point since they are working on give the CSS an overhaul, doesn’t sound like the design will change but the imlaimentpteon of the design might/w
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503130120-cj914-women@imperial-3rd-try.jpg"
-image_caption: ""
 ---
 
 This week, as part of the Women@Imperial project, the College played host to a number of events celebrating past and present female staff and students of Imperial in honour of International Women’s Day.

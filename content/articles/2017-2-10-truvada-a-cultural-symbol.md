@@ -4,18 +4,15 @@ title: >
 subtitle: >
   One Truvada pill a day keeps the doctor away
 date: "2017-02-10 14:18:24 +0000"
-
-# Attributes from Felix Online V1
-id: "6756"
-old_path: /millennials/6756/truvada--a-cultural-symbol
+image: "http://felixonline.co.uk/img/upload/201702101510-felix-Screen Shot 2017-02-10 at 14.17.47.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /millennials/6756/truvada--a-cultural-symbol
-imported: true
 comments:
  - value: >
      Scusa il disturbo eh! Non ho mai chiesto aiuto, ma riarltoolncndo di errori mi pare non dovrebbero essercene e non capisco proprio cosa non funzioni, ma soprattutto cambiando l’URL con send.php non capisco perchÃ¨ il redirect me lo faccia sulla index, che non Ã¨ dichiarata da nessuna parte, tu cosa ne pensi?,Scusa il disturbo eh! Non ho mai chiesto aiuto, ma riarltoolncndo di errori mi pare non dovrebbero essercene e non capisco proprio cosa non funzioni, ma soprattutto cambiando l’URL con send.php non capisco perchÃ¨ il redirect me lo faccia sulla index, che non Ã¨ dichiarata da nessuna parte, tu cosa ne pensi?,Hy, where can one get it here in Kenya?,Hy, where can one get it here in Kenya?
-
-# Article Taxonomies
 categories:
  - millennials
 tags:
@@ -26,12 +23,6 @@ authors:
  - ea3211
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101510-felix-Screen Shot 2017-02-10 at 14.17.47.png"
-image_caption: ""
 ---
 
 Truvada is a household name in the gay community. It is the name of a small blue pill containing two antiretroviral compounds, emtricitabine and tenofovir, used to treat HIV. But Truvada does so much more that carry antiretroviral properties. It is charged with symbolism and packed with historic meaning.

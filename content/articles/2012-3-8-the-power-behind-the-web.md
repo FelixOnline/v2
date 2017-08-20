@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jonathan Kim discusses the election site’s technologies
 date: "2012-03-08 21:36:28 +0000"
-
-# Attributes from Felix Online V1
-id: "2326"
-old_path: /tech/2326/the-power-behind-the-web
+image: "http://felixonline.co.uk/img/upload/201203121347-cb908-elections3.png"
+image_caption: "Prepare to see some funky stuff going on at the stats page"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/2326/the-power-behind-the-web
-imported: true
 comments:
  - value: >
      Nice article, and great job on this year's election stats page! (for the record, although I'm the first to admit last year was a disaster, we were at least generating the stats once every 10 seconds and serving a static copy to each request, rather than generating per request as this article says...... from about 20 minutes into voting when Mckee called me to tell me he and Chris Darby had melted dougal, anyway :P),Cheers Chris! I didn't realise that you had changed it to a static version so apologies for the mistake!
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203121347-cb908-elections3.png"
-image_caption: ""
 ---
 
 The web is changing. Sites such as Facebook and Twitter keep you hooked by constantly updating in real-time any activity that happens in your social network. This is incredibly powerful and last year the Union used this to create the incredibly successful real-time voting statistics page. Along with a lot of people, I was glued to the page during election week, transfixed by the moving bars and animated numbers that were constantly changing as students placed their votes. Technically however, it was a far from perfect system that caused the entire union server to grind to a halt. This year Paul Beaumont came to me with the suggestion that I have a go at improving it, and I would like to share some thoughts on how the technology behind the new system is shaping today’s world wide web.

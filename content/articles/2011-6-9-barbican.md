@@ -4,16 +4,13 @@ title: >
 subtitle: >
   BARBICAN
 date: "2011-06-09 18:22:05 +0100"
-
-# Attributes from Felix Online V1
-id: "1331"
-old_path: /phoenix/1331/barbican
+image: "http://felixonline.co.uk/img/upload/201106091921-felix-barbican.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/1331/barbican
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -24,12 +21,6 @@ authors:
  - cjb07
  - htb08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106091921-felix-barbican.jpg"
-image_caption: ""
 ---
 
 His sister is always busy

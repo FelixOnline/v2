@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Astrid Armgarth gives American Horror Story: Asylum a raving review
 date: "2012-12-07 02:42:36 +0000"
-
-# Attributes from Felix Online V1
-id: "3054"
-old_path: /tv/3054/a-glee-ful-screamfest
+image: "http://felixonline.co.uk/img/upload/201212070242-tna08-american-horror-story-asylum-american-horror-story-32431052-1600-1200.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/3054/a-glee-ful-screamfest
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070242-tna08-american-horror-story-asylum-american-horror-story-32431052-1600-1200.jpg"
-image_caption: ""
 ---
 
 Lately, the horror genre has experienced a surge of interest with TV-series such as The Walking Dead and my personal favourite American Horror Story. The latter is truly a breath of fresh air in your weekly TV-schedule and the end of its second season is approaching fast! This show has received high appraisal by many TV – critics thanks to its high originality and accredited cast. Personally, I am mostly impressed by how it manages to transform gory, suspenseful and physiological horror into rather cheerful entertainment. But considering this show is brought to you by the co-creators of Glee, the gleeful twist is perhaps not too surprising after all. Don’t worry though, this TV-series is completely free from happy tunes and annoying teenagers played by 28+ year old actors.

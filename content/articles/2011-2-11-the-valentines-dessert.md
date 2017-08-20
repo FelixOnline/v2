@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Bobla Gnay explains how it’s done
 date: "2011-02-11 06:51:44 +0000"
-
-# Attributes from Felix Online V1
-id: "802"
-old_path: /food/802/the-valentines-dessert
+image: "http://felixonline.co.uk/img/upload/201102110649-ks607-bluebery.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/802/the-valentines-dessert
-imported: true
 comments:
  - value: >
      This is perfect, thank you Felix. Now to get that girl!,I used this recipe last week with great success. Now I have a girl AND a fab recipe to boot. CHEEERS Bobla!,Omgg! That looks AMAZING! Btw... I like your table, it looks like my floor...,i've got the munchies. <br>bobla you're the best!,I’ve gone ahead and bookmarked at Digg.com so my frnides can see it too.c2 I simply used Wanted: Information About Early Bar Globe(s) | as the entry title in my Digg.com bookmark, as I figured if it is good enough for you to title your blog post that, then you probably would like to see it bookmarked the same way.,This is a lovely shop Sophie and it <a href="http://nqfhnhixadc.com">rednims</a> me that it's been far too long since we popped over the bridge to the High Street. Will definitely pay them a visit again this Summer! x
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -28,12 +25,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102110649-ks607-bluebery.jpg"
-image_caption: ""
 ---
 
 Singletons hear me out, it’s coming up to that time of year again... you’re reminded that you are very single, lonely, cold and depressed.

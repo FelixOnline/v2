@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Baseball team comes from behind twice to snatch double header
 date: "2014-11-20 21:37:49 +0000"
-
-# Attributes from Felix Online V1
-id: "4917"
-old_path: /sport/4917/rookies-star-as-baseball-beat-ucl
+image: "http://felixonline.co.uk/img/upload/201411242030-ps3110-logo_icbc_rgb_256.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4917/rookies-star-as-baseball-beat-ucl
-imported: true
 comments:
  - value: >
      Pineer-Etirnee (1 comments) dit : 19 fÃ©vrier 2012 Ã  8 h 53 minBonjour, AprÃ¨s avoir bien suivi cet agrÃ©able tuto je n’arrive toujours pas Ã  avoir une fonctionnalitÃ© google+. Le cadre fait bien le slide mais reste vide et grisÃ©. J’ai pourtant vÃ©rifiÃ© que mon numÃ©ro d’account Ã©tait le bon. Un peu d’aide ? Au plaisir, merci. RÃ©pondre
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411242030-ps3110-logo_icbc_rgb_256.png"
-image_caption: ""
 ---
 
 Last Saturday, the Imperial Falcons achieved a draw and a win against the UCL Capitals in their first home games of the season. Despite coming from behind in both games, Imperial managed to clinch the double header, thanks largely to some excellent batting and fielding by some of the newcomers to the club.

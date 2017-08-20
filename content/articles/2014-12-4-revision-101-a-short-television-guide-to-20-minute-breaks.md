@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Giulia Gabrielli gives us a selection of the best shows for unwinding
 date: "2014-12-04 19:16:42 +0000"
-
-# Attributes from Felix Online V1
-id: "4994"
-old_path: /tv/4994/revision-101-a-short-television-guide-to-20-minute-breaks
+image: "http://felixonline.co.uk/img/upload/201412041916-cj914-friends.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4994/revision-101-a-short-television-guide-to-20-minute-breaks
-imported: true
 comments:
  - value: >
      Trading fifa players is much like a stock exchange. Don't go to add any other printing commercial enterprise. When your player get's featured on "Goals of this Week", his stock rises. <br>crÃ©dits fut rapidement http://creditsfut.com/,You've gotten impressive thing on this site.| <br>cs go skins by price http://kellymariann.tripod.com/,{ <br>nba 2k16 mt vc http://www.fysso.com/member/blog_post_view.php?postId=9372
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -28,12 +25,6 @@ authors:
  - gg2110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412041916-cj914-friends.jpg"
-image_caption: ""
 ---
 
 Are you troubled by revision time? Do you find yourself sweating over notes and books, asking yourself who invented pre-Christmas exams? Well, we’re all in the same boat.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Dr Barrett was killed in a car accident, when a stolen car crashed into the taxi he was in
 date: "2012-11-08 23:50:07 +0000"
-
-# Attributes from Felix Online V1
-id: "2829"
-old_path: /news/2829/imperial-physicist-dies-in-perth
+image: "http://felixonline.co.uk/img/upload/201211082346-tna08-dr-barett.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2829/imperial-physicist-dies-in-perth
-imported: true
 comments:
  - value: >
      I think the way the College handles death of staff is pretty distasteful. There is a tribute page for him, somewhere, hidden away on the Imperial website. As far as I'm aware it never made front page news on the Imperial website. <br>That, over a fortnight on, Felix is only just reporting on it proves the point rather well. <br> <br>Quite rightly the College doesn't go in for permanent e-shrines, but there is a tasteful compromise, particularly for such a valued academic who died in such tragic circumstances. <br> <br>Meanwhile his personal page (as at 11th November) still exists. http://www3.imperial.ac.uk/people/sean.barrett <br> <br>The only change that has been made is the removal of his email address from the page. Again, could be done better. <br> <br>Our thoughts are with everyone who misses him.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211082346-tna08-dr-barett.jpg"
-image_caption: ""
 ---
 
 An Imperial College physicist was killed in a car crash in Austalia in the early hours of 19 October 2012. Dr Sean Barrett, a Royal Society University Research Fellow and a member of the Controlled Quantum Dynamics Group, had been in the country for less than an hour when the taxi he was in was hit by a speeding 4x4 that had previously ran a red light. Dr Barrett, 36, and his driver, Kuldeep Singh, are believed to have died instantly.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Breeding creatures that are part goat part spider.
 date: "2012-01-26 21:53:47 +0000"
-
-# Attributes from Felix Online V1
-id: "2047"
-old_path: /science/2047/look-out-here-comes-a-spider-goat
+image: "http://felixonline.co.uk/img/upload/201201262153-ak6309-p00nc1ng.jpg"
+image_caption: "An actual spider goat... Batteries not included"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2047/look-out-here-comes-a-spider-goat
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ak6309
  - edh11
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201262153-ak6309-p00nc1ng.jpg"
-image_caption: ""
 ---
 
 On a small farm, nestled deep in Northern Utah, something extraordinary is happening: creatures are being bred that are part goat, part spider. Last week’s episode of the BBC’s epic science series Horizon followed Adam Rutherford as he journeyed to meet these fascinating hybrids and their creator to find out more.

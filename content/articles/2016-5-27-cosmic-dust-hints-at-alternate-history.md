@@ -4,16 +4,13 @@ title: >
 subtitle: >
   We couldn’t find a micrometeorite, so here is the cosmos instead.
 date: "2016-05-27 08:52:39 +0100"
-
-# Attributes from Felix Online V1
-id: "6209"
-old_path: /science/6209/cosmic-dust-hints-at-alternate-history-
+image: "http://felixonline.co.uk/img/upload/201605271052-felix-11938845385_c27c8a945f_k.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6209/cosmic-dust-hints-at-alternate-history-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - nms15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605271052-felix-11938845385_c27c8a945f_k.jpg"
-image_caption: ""
 ---
 
 At the end a of white-washed hallway on the second floor of the RSM building, Dr Matthew Genge has been unlocking the mysteries of the universe through his research on micrometeorites – otherwise known as cosmic dust. Last week however, Genge published a paper in Nature which opened some doors to understanding Earth’s secrets, and has potentially turned some age-old scientific theories on their head.

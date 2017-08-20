@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Going to the cinema in the middle of the day is the perfect form of self-care – indulgent, self-focussed, relaxing – as Culture Editor Fred Fyles realised when he went along to a midday screening of Jacques Rivette’s Celine and Julie Go Boating. Here, he encourages you to take a break and treat yo'
 date: "2017-03-10 13:38:58 +0000"
-
-# Attributes from Felix Online V1
-id: "6872"
-old_path: /film/6872/the-magic-healing-power-of-daytime-cinema
+image: "http://felixonline.co.uk/img/upload/201703101338-felix-d5b2dfddb267cab40a3247c4f233661d.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6872/the-magic-healing-power-of-daytime-cinema
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ff712
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101338-felix-d5b2dfddb267cab40a3247c4f233661d.jpg"
-image_caption: ""
 ---
 
 In Jacques Rivette’s 1974 new wave classic, Celine and Julie Go Boating, there exists the perfect metaphor for going to the cinema in the middle of the day: the plot revolves around two women playing magical games in a Paris-turned-playground; towards the second half of the film, they discover a mysterious house, into which they repeatedly disappear, only to return several hours later, dazed, with no memory of what has happened.

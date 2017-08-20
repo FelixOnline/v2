@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Air conditioning in central library must be a top priority for the sabbaticals
 date: "2016-05-27 08:46:44 +0100"
-
-# Attributes from Felix Online V1
-id: "6203"
-old_path: /comment/6203/a-thousand-people-cant-be-wrong
+image: "http://felixonline.co.uk/img/upload/201605271509-felix-2222.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6203/a-thousand-people-cant-be-wrong
-imported: true
 comments:
  - value: >
      As a member of Union Council, you could have easily written and taken a paper on air conditioning to said council. Instead, you're jumping on the Union bashing bandwagon. It seems to be an Imperial wide problem. Everyone is quick to moan and complain about College and the Union, but aren't prepared to do anything about it.,As a member of Union Council, you could have easily written and taken a paper on air conditioning to said council. Instead, you're jumping on the Union bashing bandwagon. It seems to be an Imperial wide problem. Everyone is quick to moan and complain about College and the Union, but aren't prepared to do anything about it.,As a member of Union Council, you could have easily written and taken a paper on air conditioning to said council. Instead, you're jumping on the Union bashing bandwagon. It seems to be an Imperial wide problem. Everyone is quick to moan and complain about College and the Union, but aren't prepared to do anything about it.,Well, if the Union will employ a staff of 50+ it'
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +23,6 @@ authors:
  - pnk14
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605271509-felix-2222.jpg"
-image_caption: ""
 ---
 
 An expected outbreak of support for Felix’s campaign for air conditioning in the library has seriously raised questions about the role of the union in delivering student demands.

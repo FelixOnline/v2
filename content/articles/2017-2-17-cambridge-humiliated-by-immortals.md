@@ -4,16 +4,13 @@ title: >
 subtitle: >
   HAHAHAHAHAHA WHO"S LAUGHING NOW?
 date: "2017-02-17 16:23:43 +0000"
-
-# Attributes from Felix Online V1
-id: "6803"
-old_path: /sport/6803/cambridge-humiliated-by-immortals
+image: "http://felixonline.co.uk/img/upload/201702171623-felix-16729065_1155429871232946_5406700816940323399_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6803/cambridge-humiliated-by-immortals
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - imrajsingh
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702171623-felix-16729065_1155429871232946_5406700816940323399_n.jpg"
-image_caption: ""
 ---
 
 It has been only two weeks since the Immortals fell victim to the Cambridge Pythons. With a lapse of concentration (from a heavily fatigued Defence) the score was 6-0 for Pythons when the bell did toll. The loss was particularly painful due to the honest fact we are the better team, and on that day it was insufficient preparation that ultimately let us down.

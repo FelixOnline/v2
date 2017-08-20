@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Walking around in Derbyshire is all in a day's work for the fellwanderers
 date: "2011-11-24 22:58:22 +0000"
-
-# Attributes from Felix Online V1
-id: "1845"
-old_path: /news/1845/fellwanderers-roam-peak-district
+image: "http://felixonline.co.uk/img/upload/201111242258-pk1811-ds_20111112_125934_9407.jpg"
+image_caption: "Fellwanderers hire a fleet of paragliders to ensure the best possible photo opportunity"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1845/fellwanderers-roam-peak-district
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - cr1411
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242258-pk1811-ds_20111112_125934_9407.jpg"
-image_caption: ""
 ---
 
 5.30pm on Friday evening. The first fellwanderers made their way to the Union, eager to leave London after a hard week of work. We quickly gathered together, packing out two buses, and excitedly awaited our trip.

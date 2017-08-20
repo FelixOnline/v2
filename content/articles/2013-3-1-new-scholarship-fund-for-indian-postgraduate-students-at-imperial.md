@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Alumni help to create funded degrees
 date: "2013-03-01 00:43:20 +0000"
-
-# Attributes from Felix Online V1
-id: "3408"
-old_path: /news/3408/new-scholarship-fund-for-indian-postgraduate-students-at-imperial
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3408/new-scholarship-fund-for-indian-postgraduate-students-at-imperial
-imported: true
 comments:
  - value: >
      This is what we need - an insight to make evnryoee think
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Indian alumni and Imperial College London are launching a programme of new PhD scholarships for Indian postgraduates. The scholarships will be available to those who have a degree from an Indian institute and are in financial need. The website states that “priority will be given to who have not already completed a degree at a higher education institution outside India.”

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Wedding days: they’re everyone’s opportunity to live out their fairy tale. And, of course, the best way to feel like a princess is to look like a princess – cue the ever-fascinating obsession of the wedding dress.
 date: "2014-06-06 02:47:21 +0100"
-
-# Attributes from Felix Online V1
-id: "4663"
-old_path: /arts/4663/delight-your-inner-barbie-doll
+image: "http://felixonline.co.uk/img/upload/201406060347-jal08-arts-embroidered_silk_satin_wedding_dress_designed_by_norman_hartnell_1933_given_and_worn_by_margaret_duchess_of_argyll_cillustrated_london_news_ltd-mary_evans_jpg_610x610_q85.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4663/delight-your-inner-barbie-doll
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - cfc111
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406060347-jal08-arts-embroidered_silk_satin_wedding_dress_designed_by_norman_hartnell_1933_given_and_worn_by_margaret_duchess_of_argyll_cillustrated_london_news_ltd-mary_evans_jpg_610x610_q85.jpg"
-image_caption: ""
 ---
 
 __What: __Wedding Dresses 1775-2014

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sam Hill writes as the Immortals record close victory in Brighton
 date: "2015-02-07 17:25:24 +0000"
-
-# Attributes from Felix Online V1
-id: "5199"
-old_path: /sport/5199/immortals-win-on-super-bowl-sunday
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5199/immortals-win-on-super-bowl-sunday
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - kmw13
  - sjh213
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Sunday 1st February saw the Immortals take a trip to the seaside to face Brighton Tsunami for the second time in the season. The first time saw the Immortals dominate with a 12-6 win at home. The team all packed onto the coach at 8am for the two-hour drive to Brighton; looking ready to take the second, and most important, win of the season. This game was the most important in the Immortals’ season because it almost certainly decided who would be relegated from the Premiership South division. The game started well with strong running from Emanuel Olagbaju and Rayane Jackson as well as good blocking from the offensive line, something that would become a theme throughout the match. However, unfortunately something else that would become a theme was the Immortals offense struggling to finish their long drives down the pitch with a touchdown.

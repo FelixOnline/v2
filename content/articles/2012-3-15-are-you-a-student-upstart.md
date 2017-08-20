@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Student focused company accelerator hits the mark
 date: "2012-03-15 19:52:27 +0000"
-
-# Attributes from Felix Online V1
-id: "2351"
-old_path: /biz/2351/are-you-a-student-upstart
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/2351/are-you-a-student-upstart
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -23,12 +20,6 @@ authors:
  - pk1811
  - ps6110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 What do Steve Jobs, Bill Gates and Mark Zuckerberg have in common with each other? Apart from being incredibly successful businessmen, all began their companies during the period that they should have been in college - and all dropped out to do so. Indeed, a look through more recent history gives numerous examples of Americans who have also begun their great adventure while still at university.

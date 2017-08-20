@@ -4,16 +4,13 @@ title: >
 subtitle: >
   An editorial with all too many fee puns...
 date: "2012-11-09 00:28:51 +0000"
-
-# Attributes from Felix Online V1
-id: "2838"
-old_path: /comment/2838/feeding-well
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2838/feeding-well
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ## Feedom of IC

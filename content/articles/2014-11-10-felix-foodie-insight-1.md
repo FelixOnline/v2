@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Michelle Tan talks curry & being a Third Culture Kid
 date: "2014-11-10 22:21:04 +0000"
-
-# Attributes from Felix Online V1
-id: "4843"
-old_path: /food/4843/felix-foodie-insight-1
+image: "http://felixonline.co.uk/img/upload/201411102218-ps3110-mich.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/4843/felix-foodie-insight-1
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - mwt12
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102218-ps3110-mich.jpg"
-image_caption: ""
 ---
 
 __Hey, my name is...__Michelle

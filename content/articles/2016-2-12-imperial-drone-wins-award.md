@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Aeronautics produce prototype that finds pipeline faults
 date: "2016-02-12 11:13:47 +0000"
-
-# Attributes from Felix Online V1
-id: "5897"
-old_path: /news/5897/imperial-drone-wins-award
+image: "http://felixonline.co.uk/img/upload/201602121112-felix-buildroneprototype.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5897/imperial-drone-wins-award
-imported: true
 comments:
  - value: >
      You've captured this peyfectlr. Thanks for taking the time!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602121112-felix-buildroneprototype.jpg"
-image_caption: ""
 ---
 
 A PhD student from Imperial has led a team from the Aerial Robotics Lab to victory in a competition to find ‘Drones for Good’ in Dubai.

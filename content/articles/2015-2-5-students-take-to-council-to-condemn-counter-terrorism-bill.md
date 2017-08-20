@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philippa Skett looks at the controversial bill that may be a threat to free speech in universities
 date: "2015-02-05 23:40:35 +0000"
-
-# Attributes from Felix Online V1
-id: "5195"
-old_path: /news/5195/students-take-to-council-to-condemn-counter-terrorism-bill
+image: "http://felixonline.co.uk/img/upload/201502052340-ps3110-screen-shot-2015-02-05-at-23.40.24.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5195/students-take-to-council-to-condemn-counter-terrorism-bill
-imported: true
 comments:
  - value: >
      Ah, lovely, the Government's pursuing another brilliant way to avoid dealing with the cause of the problem by pouring money into something contentious and detrimental. Wasting money on another war and wasting money on this. Probably time we instated a new 'British value' along the lines of not spending taxpayers money on airstrikes which make us more enemies than friends. <br> <br>,Dead Admin of felixonline.co.uk, <br> <br>First of all, let me tell you, that you have a wonderfull website. <br>My name is Debra and I'm a partner of Online Finance Investment company. <br> <br>I would like to propose you cooperation, which will allow you to receive a source of passive income. <br> <br>All you need to do is 3 simple steps: <br> <br>1. Register on the website and get promotinal links or banners. <br>2. Invite your friends, using refferal links or use banners on your website. <br>3. Receive % from each invited client and become rich. <br> <br>Also you can invest by yourself and receive 128% оf income in just one day! <br> <br>Invitation link: h
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502052340-ps3110-screen-shot-2015-02-05-at-23.40.24.png"
-image_caption: ""
 ---
 
 A bill being passed through government has come under fire for potentially supressing free speech at Universities, and now two students want to pass a paper through Imperial College Union Council, condemning the bill altogether.

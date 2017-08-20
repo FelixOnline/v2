@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This biography portrays the man and his science superbly
 date: "2011-01-13 20:18:43 +0000"
-
-# Attributes from Felix Online V1
-id: "578"
-old_path: /science/578/book-review-a-life-in-science-by-john-gribbin-and-michael-white
+image: "http://felixonline.co.uk/img/upload/201101132016-ks607-alifeins.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/578/book-review-a-life-in-science-by-john-gribbin-and-michael-white
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - ks607
  - kv07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101132016-ks607-alifeins.jpg"
-image_caption: ""
 ---
 
 John Gribbin made his name with ‘In Search of Schrodinger’s Cat’, an essential read for any aspiring Physics student. Before this, however, he collaborated with Michael White to produce this early biography of Stephen Hawking. The book covers his formative years and the reputation he built as a cosmologist.

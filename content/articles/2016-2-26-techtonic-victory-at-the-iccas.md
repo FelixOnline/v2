@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The all-male A Cappella group is officially off to New York for the finals in April
 date: "2016-02-26 12:07:06 +0000"
-
-# Attributes from Felix Online V1
-id: "5985"
-old_path: /cands/5985/techtonic-victory-at-the-iccas-
+image: "http://felixonline.co.uk/img/upload/201602261206-felix-tt.jpg"
+image_caption: "The Techtonics with their award! "
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5985/techtonic-victory-at-the-iccas-
-imported: true
 comments:
  - value: >
      I’ve heard that Ro;e8re217bs tries to service its customers needs and solve their problems. They’ve been in business for a long time also.. Additiaonlly they’re very fair..!
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -26,12 +24,6 @@ authors:
  - rjp114
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261206-felix-tt.jpg"
-image_caption: ""
 ---
 
 The semi-finals of the International Championship of Collegiate a cappella, the show that last year won the union’s event of the year,  returned last Sunday, with even more excitement from last year’s highly anticipated event. Featuring eight of the UK’s top university a cappella groups, competing to a sold-out audience in the Great Hall. Opening the show were the University of Oxford’s renowned male group Out of the Blue. Durham’s mixed group the Northern Lights followed, with the University of Bath’s mixed group Aquapella.

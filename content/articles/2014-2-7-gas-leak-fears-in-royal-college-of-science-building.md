@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Chemistry Department’s Royal College of Science building was closed for a short time last week as a result of a suspected gas leak.
 date: "2014-02-07 04:56:19 +0000"
-
-# Attributes from Felix Online V1
-id: "4351"
-old_path: /news/4351/gas-leak-fears-in-royal-college-of-science-building
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4351/gas-leak-fears-in-royal-college-of-science-building
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Chemistry Department’s Royal College of Science building was closed for a short time last week as a result of a suspected gas leak.

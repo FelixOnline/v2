@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Perhaps it’s time to renationalise our railways and combat unacceptable service
 date: "2015-12-15 13:03:08 +0000"
-
-# Attributes from Felix Online V1
-id: "5822"
-old_path: /comment/5822/britains-off-the-rails
+image: "http://felixonline.co.uk/img/upload/201512151301-felix-crowded-trains-2372669.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5822/britains-off-the-rails
-imported: true
 comments:
  - value: >
      Seems like your problems could be solved by anticipating delays and leaving your house earlier, buying a travel card to save money on the journeys and applying for the student hardship fund through Imperial.,It never made any sense to privatise the railways in the first place. In principle competition between companies drives up standards and drives down prices, but there is no competition at all on many rail routes, so the incentives they have are to spend as little money on services as possible. It's insanity.<br>At least on Tube and Overground services, TfL is accountable to the Mayor and the London Assembly, who are democratically accountable. The Overground in particular is a success story of a failing private service being brought (more or less) into public hands. I don't think anyone can doubt that it was a vast improvement over the services that it replaced.,I agree with everything you have written there from a consumer point of view. I commute between East Croydon and London too and I feel your frustra
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +23,6 @@ authors:
  - sdl15
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201512151301-felix-crowded-trains-2372669.jpg"
-image_caption: ""
 ---
 
 In 1910, E.M. Forster described trains as “our gates to the glorious and the unknown. Through them we pass out into adventure and sunshine, to them, alas! we return.”

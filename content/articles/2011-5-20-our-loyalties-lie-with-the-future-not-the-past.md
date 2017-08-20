@@ -4,16 +4,13 @@ title: >
 subtitle: >
   On our architectural legacy
 date: "2011-05-20 05:56:44 +0100"
-
-# Attributes from Felix Online V1
-id: "1233"
-old_path: /comment/1233/our-loyalties-lie-with-the-future-not-the-past
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1233/our-loyalties-lie-with-the-future-not-the-past
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Any group of students enjoying a pleasant summer’s day on the Queen’s Lawn would be encouraged to look around them at the surrounding architecture. It is fair to suppose that bewilderment and dissatisfaction will be more common reactions than, say, appreciation for a consistent architectural style.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Global warming is not bad for everything, it turns out
 date: "2012-06-07 18:56:34 +0100"
-
-# Attributes from Felix Online V1
-id: "2526"
-old_path: /science/2526/butterflies-get-boost-from-climate
+image: "http://felixonline.co.uk/img/upload/201206071956-pk1811-brown-argus-(jim-asher).png"
+image_caption: "Brown Argus butterfly is one species that has benefited from climate change"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2526/butterflies-get-boost-from-climate
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - hrw11
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206071956-pk1811-brown-argus-(jim-asher).png"
-image_caption: ""
 ---
 
 It is a truth universally acknowledged that global warming is a bad thing. Icebergs are melting, seas are rising and holidays to the Maldives may become relegated to wistful anecdotes of the iPod generation. However for species such as the _Aricia agestis_ or Brown Argus butterfly, warmer autumns such as the one the UK experienced in 2011 are providing an opportunity for them to spread their wings and multiply.

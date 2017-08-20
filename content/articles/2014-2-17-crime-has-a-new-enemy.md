@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The original Robocop was – is – an undisputed classic, a masterpiece, quite possibly the best film to come out of the ‘80s, and other such insanely excessive superlatives (but trust me, it really is that good), and if you dispute any of that… well… you’re wrong.
 date: "2014-02-17 19:30:15 +0000"
-
-# Attributes from Felix Online V1
-id: "4400"
-old_path: /film/4400/crime-has-a-new-enemy
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4400/crime-has-a-new-enemy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - js5913
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Robocop__

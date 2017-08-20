@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Andy Yu tells you to get out there and help. Now.
 date: "2011-11-24 23:02:06 +0000"
-
-# Attributes from Felix Online V1
-id: "1847"
-old_path: /news/1847/get-out-there-and-volunteer
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1847/get-out-there-and-volunteer
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Welcome to Imperial: a place to get educated, entertained and inspired, a place to make new friends, discover new hobbies and build your skills for the future. One way of being inspired and discovering life outside of the College campus is to volunteer with __Into__University.

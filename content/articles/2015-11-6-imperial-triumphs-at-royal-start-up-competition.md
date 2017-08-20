@@ -4,18 +4,16 @@ title: >
 subtitle: >
   'Unmade' took home the grand prize
 date: "2015-11-06 13:37:09 +0000"
-
-# Attributes from Felix Online V1
-id: "5698"
-old_path: /news/5698/imperial-triumphs-at-royal-start-up-competition
+image: "http://felixonline.co.uk/img/upload/201511061336-ygr12-princetiny2.jpg"
+image_caption: "Prince Andrew just can’t keep away."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5698/imperial-triumphs-at-royal-start-up-competition
-imported: true
 comments:
  - value: >
      Your posts is extremely unique.| <br>cs go skins checker http://oliveelvira-blog.wallinside.com/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511061336-ygr12-princetiny2.jpg"
-image_caption: ""
 ---
 
 The Duke of York’s Pitch@Palace competition, held this year’s finals at St James’s Palace on Tuesday, with Imperial entrepreneurs taking home both first and third place.

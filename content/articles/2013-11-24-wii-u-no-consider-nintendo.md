@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Last week my fellow games Editor Maximilian Eggl pointed out some of the main differences between the upcoming PS4 and Xbox One. Although I see many good things in both of these consoles I feel that even though it has already been out for a year, the Wii U deserves a mention...
 date: "2013-11-24 16:36:27 +0000"
-
-# Attributes from Felix Online V1
-id: "4129"
-old_path: /games/4129/wii-u-no-consider-nintendo
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4129/wii-u-no-consider-nintendo
-imported: true
 comments:
  - value: >
      Someone Who buys a: <br>Computer; wants the best graphics without having buying a console. Nothing wrong with that. <br>PS4; Someone who is a hardcore gamer, Nothing wrong with that too. <br>XBox1: A fool. <br>Wii U: Someone who can embrace games no matter the sales or what people say about. Pure Brillance.,I've played the PS4.. I've played the XB1... I enjoy the WiiU. ,For me it's a PC/WiiU/3DS combo this generation, with the tail end of the 360 stuff as well. Just can't justify spending $500 to play Forza. And a not very great Forza at that.,I have still yet to play any of the 3 new consoles but the Wii U sales do look quite worrying. It has sold less in a year than the PS4 and Xbox One sold in just two days. Blame it on bad nintendo marketing or peoples simple lust for graphics over gameplay but either way those are some scary numbers. <br>
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -27,12 +24,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Last week my fellow games Editor Maximilian Eggl pointed out some of the main differences between the upcoming PS4 and Xbox One. Although I see many good things in both of these consoles I feel that even though it has already been out for a year, the Wii U deserves a mention. I am, as some may have noticed, a pretty hardcore Nintendo fan but I shall try and keep this as informative and unbiased as I can. So here follows an account of why I believe the Wii U is a real competitor and something that should be considered, and just a general overview of what I think of consoles.

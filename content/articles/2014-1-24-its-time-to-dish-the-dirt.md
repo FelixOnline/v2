@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Here is a film of so many mixed emotions that it will make your head spin. With larger-than-life characters having a proper go at each other at a family gathering (where else?).
 date: "2014-01-24 10:14:34 +0000"
-
-# Attributes from Felix Online V1
-id: "4300"
-old_path: /film/4300/its-time-to-dish-the-dirt
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4300/its-time-to-dish-the-dirt
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __August: Osage County__

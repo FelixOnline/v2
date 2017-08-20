@@ -4,16 +4,13 @@ title: >
 subtitle: >
   As a fan of the series ever since Mario Kart SNES I can truly say that, in my opinion, this is the best Mario Kart to date. Mario Kart, like many Nintendo games, has mostly retained the same formula for each game.
 date: "2014-06-06 02:52:03 +0100"
-
-# Attributes from Felix Online V1
-id: "4667"
-old_path: /games/4667/mario-kart-gr8---best-mario-kart-ever
+image: "http://felixonline.co.uk/img/upload/201406060352-jal08-mariokart8.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4667/mario-kart-gr8---best-mario-kart-ever
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - css11
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406060352-jal08-mariokart8.jpg"
-image_caption: ""
 ---
 
 As a fan of the series ever since Mario Kart SNES I can truly say that, in my opinion, this is the best Mario Kart to date. Mario Kart, like many Nintendo games, has mostly retained the same formula for each game. You still race or battle whilst picking up items to aid yourself or knock out your enemies. Nintendo however has yet again managed to take an old series and keep it fresh, new and exciting.

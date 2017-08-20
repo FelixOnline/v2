@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Woman in Black
 date: "2012-02-16 21:04:01 +0000"
-
-# Attributes from Felix Online V1
-id: "2182"
-old_path: /film/2182/harry-potter-and-the-deadly-woman
+image: "http://felixonline.co.uk/img/upload/201202162102-pk1811-the-woman-in-black-12.jpg"
+image_caption: "You’re on your own this time..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2182/harry-potter-and-the-deadly-woman
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - lw408
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162102-pk1811-the-woman-in-black-12.jpg"
-image_caption: ""
 ---
 
 __Director__ James Watkins

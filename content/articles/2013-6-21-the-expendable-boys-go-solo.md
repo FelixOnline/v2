@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Reviews of the latest films that the action men of Hollywood have made
 date: "2013-06-21 00:27:57 +0100"
-
-# Attributes from Felix Online V1
-id: "3733"
-old_path: /film/3733/the-expendable-boys-go-solo
+image: "http://felixonline.co.uk/img/upload/201306210125-tna08-bullet-to-the-head02.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3733/the-expendable-boys-go-solo
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306210125-tna08-bullet-to-the-head02.jpg"
-image_caption: ""
 ---
 
 __Bullet to the Head__

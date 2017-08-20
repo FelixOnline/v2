@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Editorial on what matters, what could matter, what doesn't matter, and my glasses
 date: "2012-11-02 11:23:21 +0000"
-
-# Attributes from Felix Online V1
-id: "2827"
-old_path: /comment/2827/dont-diss-repute-me
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2827/dont-diss-repute-me
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Once more I find myself writing this right at the last minute. Standard spelling error warning. Maybe this is good as it lets me just be completely honest.

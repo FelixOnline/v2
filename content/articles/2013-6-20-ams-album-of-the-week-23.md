@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The World Is a Beautiful Place & I Am No Longer Afraid to Die Whenever, If Ever
 date: "2013-06-20 22:49:50 +0100"
-
-# Attributes from Felix Online V1
-id: "3714"
-old_path: /music/3714/ams-album-of-the-week-23
+image: "http://felixonline.co.uk/img/upload/201306202350-tna08-twia.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3714/ams-album-of-the-week-23
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - sm5810
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306202350-tna08-twia.jpg"
-image_caption: ""
 ---
 
 The World Is a Beautiful Place & I Am No Longer Afraid to Die are an emo band. To some people, admitting to liking emo is somethingto be shared only in hushed tones to well trusted close friends. However, I’ve spent long enough in the emo closet, I’m coming out. Emo is the best. Some of you might be having a bit of a snigger about that: you’re an idiot. People who still think emo is all floppy fringes and self harm are missing out on a world of fantastic music. Listen to this album and you will find your entire world torn asunder.

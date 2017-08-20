@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Lauren Ratcliffe reports on lowering your risk of colon cancer
 date: "2015-05-15 12:01:20 +0100"
-
-# Attributes from Felix Online V1
-id: "5526"
-old_path: /science/5526/swap-out-those-burgers-for-beans
+image: "http://felixonline.co.uk/img/upload/201505151300-cj914-phaseolus_beans.jpg"
+image_caption: "New research from a team of scientists, involving some from Imperial College London, suggests that a Western diet, high in protein and fat, can lead to an increased risk of colon cancer compared to one high in starch"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5526/swap-out-those-burgers-for-beans
-imported: true
 comments:
  - value: >
      JDFKoX http://www.LnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gO.com
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - ltr11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505151300-cj914-phaseolus_beans.jpg"
-image_caption: ""
 ---
 
 Those late night burgers and sloppy kebabs may be doing far more dangerous things to your body than just expanding your waistline, research from Imperial suggests. A diet swap between American and African volunteers has indicated that one nation’s dietary habits leads to a greater risk of getting colon cancer.

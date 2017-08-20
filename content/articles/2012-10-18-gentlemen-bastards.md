@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about Scott Lynch’s debut series
 date: "2012-10-18 21:10:51 +0100"
-
-# Attributes from Felix Online V1
-id: "2693"
-old_path: /books/2693/gentlemen-bastards
+image: "http://felixonline.co.uk/img/upload/201210182210-felix-lamora.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2693/gentlemen-bastards
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210182210-felix-lamora.jpg"
-image_caption: ""
 ---
 
 Having been turned on to large scale heroic sword and sorcery fantasy by Patrick Rothfuss’ excellent and much acclaimed Kingkiller Chronicles I was very eager to read Scott Lynch’s similarly highly praised Gentleman Bastard series (currently consisting of The Lies of Locke Lamora and Red Seas Under Red Skies). Set in a fantasy world clearly inspired by renaissance Italy, the books follow the Gentlemen Bastards, a gang of thieves and confidence tricksters led by the charismatic Locke Lamora.

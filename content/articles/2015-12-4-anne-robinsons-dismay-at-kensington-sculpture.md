@@ -4,16 +4,13 @@ title: >
 subtitle: >
   You are a terrible waste of money, goodbye
 date: "2015-12-04 15:11:52 +0000"
-
-# Attributes from Felix Online V1
-id: "5791"
-old_path: /news/5791/anne-robinsons-dismay-at-kensington-sculpture
+image: "http://felixonline.co.uk/img/upload/201512041508-ygr12-anne-robinson.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5791/anne-robinsons-dismay-at-kensington-sculpture
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201512041508-ygr12-anne-robinson.jpg"
-image_caption: ""
 ---
 
 This week, plans to install a new sculpture on the roundabout just off Gloucester Road were damned by ex-presenter of The Weakest Link and Watchdog, Anne Robinson.

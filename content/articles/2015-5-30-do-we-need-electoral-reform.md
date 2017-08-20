@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Joshua Renken considers the pros and cons of changing our voting system
 date: "2015-05-30 09:43:43 +0100"
-
-# Attributes from Felix Online V1
-id: "5592"
-old_path: /politics/5592/do-we-need-electoral-reform
+image: "http://felixonline.co.uk/img/upload/201505301042-jr2514-av-vs-fptp.jpg"
+image_caption: "Is the alternative voting system better for our democracy? "
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/5592/do-we-need-electoral-reform
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +21,6 @@ authors:
  - jr2514
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505301042-jr2514-av-vs-fptp.jpg"
-image_caption: ""
 ---
 
 The election is finally over. It was a tightly contested campaign but in the end, the Tories carried the day. The final tally put the Conservatives on a slim majority, and sent Labour back to the opposition benches for another five years. The country has moved further to the right, which ironically would bring us closer to Europe, and Miliband will not take the top spot in UK politics.

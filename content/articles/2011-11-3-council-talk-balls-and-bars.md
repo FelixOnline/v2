@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Independent Summer Ball investigation to be launched
 date: "2011-11-03 19:36:40 +0000"
-
-# Attributes from Felix Online V1
-id: "1653"
-old_path: /news/1653/council-talk-balls-and-bars
+image: "http://felixonline.co.uk/img/upload/201111031936-pk1811-img_6818.jpg"
+image_caption: "Council – not only three hours of serious debate, but three hours of arm exercise too"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1653/council-talk-balls-and-bars
-imported: true
 comments:
  - value: >
      There are a couple of factual errors here. Firstly, the proposed amendment on using College ID was passed, despite this being in breach of the law. <br> <br>Secondly, a two-thirds majority was not required to award Honorary Life Memberships - it was only required to make it a secret ballot. The HLM voting itself required only a simple majority.,There are a couple of factual errors here. Firstly, the proposed amendment on using College ID was passed, despite this being in breach of the law. <br> <br>Secondly, a two-thirds majority was not required to award Honorary Life Memberships - it was only required to make it a secret ballot. The HLM voting itself required only a simple majority.,There are a couple of factual errors here. Firstly, the proposed amendment on using College ID was passed, despite this being in breach of the law. <br> <br>Secondly, a two-thirds majority was not required to award Honorary Life Memberships - it was only required to make it a secret ballot. The HLM voting itself required only a simple majority.,T
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -31,12 +29,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111031936-pk1811-img_6818.jpg"
-image_caption: ""
 ---
 
 Imperial College Union held its second Council meeting of the term on Monday 31 October, with all full members of Council attending for the first time. A variety of papers revolving around ongoing issues were brought forward with resolution reached for some.

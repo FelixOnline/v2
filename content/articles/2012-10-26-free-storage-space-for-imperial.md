@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Imperial are FINALLY 3rd in a table
 date: "2012-10-26 01:42:21 +0100"
-
-# Attributes from Felix Online V1
-id: "2731"
-old_path: /news/2731/free-storage-space-for-imperial
+image: "http://felixonline.co.uk/img/upload/201210260242-tna08-dropbox-space-race.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2731/free-storage-space-for-imperial
-imported: true
 comments:
  - value: >
      Loving it! :D <br>Just an fyi, Gb stands for Gigabits. You should use GB for Gigabytes :),Great spot mate. Changed!,Nice spot Alex.,Why is Imperial placed 3rd and 26th at the same time on the leaderboard? ,Imperial have two email address domains (i think thats what its called). There is one which is "imperial.ac.uk" and a shorter one "ic.ac.uk". Annoyingly, Dropbox does not see this as the same university, so there are two Imperials on the list. I'm pretty sure "ic.ac.uk" is the least popular one (ranking 26th) as I'm sure more people at Imperial know about the longer domain than this one. <br> <br>Dropbox should probably combine the two together, so Imperial have the correct number of points.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210260242-tna08-dropbox-space-race.jpg"
-image_caption: ""
 ---
 
 Every student at Imperial can get 8GB worth of free storage on the online website Dropbox. This is part of the Dropbox SpaceRace.

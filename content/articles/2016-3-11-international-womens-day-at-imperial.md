@@ -4,16 +4,14 @@ title: >
 subtitle: >
   #ImperialWomen can
 date: "2016-03-11 11:21:24 +0000"
-
-# Attributes from Felix Online V1
-id: "6018"
-old_path: /news/6018/international-womens-day-at-imperial
+image: "http://felixonline.co.uk/img/upload/201603111120-felix-20160310_140432.jpg"
+image_caption: "Fun fact – there have been four female FELIX Editors so far."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6018/international-womens-day-at-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603111120-felix-20160310_140432.jpg"
-image_caption: ""
 ---
 
 International Women’s Day on Tuesday was marked by college’s ‘Women@Imperial’ week.

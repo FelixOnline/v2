@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Seriously freakin' awesome fun on the Isle of Wight!
 date: "2010-10-14 19:25:22 +0100"
-
-# Attributes from Felix Online V1
-id: "205"
-old_path: /music/205/another-fantastic-year-for-bestival-
+image: "http://felixonline.co.uk/img/upload/201010142023-ks607-bestival.jpg"
+image_caption: "New Age fun with a vintage feel!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/205/another-fantastic-year-for-bestival-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - lht09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010142023-ks607-bestival.jpg"
-image_caption: ""
 ---
 
 Two joyous rabbits called Flipsy and Flopsy were bounding through a southern isle, frolicking in the late sunshine and falling leaves, hopping over mushrooms and nibbling at colourful carrots. Suddenly, they found themselves before an enormous stage, stunned, and they looked up to see a dancing woman projected above their heads. Her colourful legs parted as a figure appeared from the screen, who rolled from the stage in an oversized hamster ball over the heads of the wide-eyed, bushy-tailed rabbits and into a crowd filled with creatures from elves and unicorns to genies and caterpillars. One caterpillar enticed the bunnies, and Flipsy and Flopsy started to dance under a rainbow that descended above their long bunny ears. Their blue eyes glittered in amazement at the striped tents that towered above their little heads, and they bounced for joy like never before. They had stumbled into [Bestival](http://www.bestival.net/) as __The Flaming Lips__ began the journey of their unforgettable performance, for if this was anywhere else I would have discarded their story as myth.

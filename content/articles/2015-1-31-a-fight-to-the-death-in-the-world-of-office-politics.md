@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Fred Fyles explains how Young Vic’s Bull misses the target in places
 date: "2015-01-31 19:24:04 +0000"
-
-# Attributes from Felix Online V1
-id: "5175"
-old_path: /arts/5175/a-fight-to-the-death-in-the-world-of-office-politics
+image: "http://felixonline.co.uk/img/upload/201501311923-ff712-1_sam_troughton_adam_james_eleanor_matsuura_in_bull_at_the_young_vic_photo_by_simon_annand-a.jpg"
+image_caption: "Sam Troughton, Adam James and Eleanor Matsuura "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5175/a-fight-to-the-death-in-the-world-of-office-politics
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ff712
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501311923-ff712-1_sam_troughton_adam_james_eleanor_matsuura_in_bull_at_the_young_vic_photo_by_simon_annand-a.jpg"
-image_caption: ""
 ---
 
 Three people enter. Two people leave. Anyone who is familiar with the BBC show _The Apprentice_, in which a collection of terminally unlikable corporate drones are paraded in front of the camera, will be familiar with this format; every week a contestant is sent packing, the grizzly tones of Sir Alan’s catchphrase “You’re fired” still ringing in their ears. In the __Young Vic’s__ latest production _Bull_, this format is brought to the stage, and we are presented with a similar dilemma.

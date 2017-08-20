@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Matt Allinson muses on the feasibility (or otherwise) of 24/7 surveillance in every aspect of our lives
 date: "2012-01-12 21:40:33 +0000"
-
-# Attributes from Felix Online V1
-id: "1973"
-old_path: /comment/1973/big-brother-is-watching-you
+image: "http://felixonline.co.uk/img/upload/201201122139-cac111-italian-police.jpg"
+image_caption: "Italian police have guns, but more importantly, style and swagger"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1973/big-brother-is-watching-you
-imported: true
 comments:
  - value: >
      I liked the way that the web editor has linked all my references to social media to my own accounts on each. I now look even more like a self promoting attention whore than I even thought possible. ,Attention whore!
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201122139-cac111-italian-police.jpg"
-image_caption: ""
 ---
 
 Last term I went to Paris to meet up with a friend who is doing a year abroad. Being a man of modest means I took the overnight coach, arriving at the coach station at 5am. My friend was arriving by the first train from Clermont Ferrand at about 8am, which meant I got to spend two and a half hours waiting in Gare Du Lyon with nothing but an incredibly expensive coffee and a copy of [_The Economist_](http://www.economist.com/) for company. Growing quickly bored of _The Economist_ I took up people watching. What struck me most was the fact that the police in France, even the guys in the transport police, are armed. Every officer had a handgun and what looked like a Taser. Several of the officers, when they were just standing around, even rested their hands on their weapons in some bad-ass John Wayne pose. This made me feel exceptionally uncomfortable. The preceding 12 months at home had consisted of bungled policing of student protests, UK uncut demonstrations and the summer riots; which, coupled with my intrinsic whinging liberal outlook on life, had left me very distrustful of the police. Not for the first time that weekend, I found myself feeling a little homesick. Our police can at times be rubbish, racist idiots, but at least they can’t blow our brains out.

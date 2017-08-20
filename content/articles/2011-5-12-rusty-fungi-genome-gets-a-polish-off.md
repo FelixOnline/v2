@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Another step towards food security
 date: "2011-05-12 16:31:55 +0100"
-
-# Attributes from Felix Online V1
-id: "1189"
-old_path: /science/1189/rusty-fungi-genome-gets-a-polish-off
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1189/rusty-fungi-genome-gets-a-polish-off
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - aej10
  - cjb07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In a pioneering step towards achieving food security a team of American and French scientists, including members from Harvard and the University of Minnesota, have unveiled the first sequenced rust fungi genomes.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Imperial College Business School is now in the top 1%
 date: "2012-12-07 00:12:35 +0000"
-
-# Attributes from Felix Online V1
-id: "3022"
-old_path: /news/3022/business-school-gets-triple-accreditation
+image: "http://felixonline.co.uk/img/upload/201212070008-tna08-349.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3022/business-school-gets-triple-accreditation
-imported: true
 comments:
  - value: >
      This is good news for the BS, however what is concerning is the massive drop in the FT league tables for most of their MSc courses. They have not said what the cause of this is? Poor teaching? Poor administration? Hopefully the rumoured BS restructuring next year will take care of this.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070008-tna08-349.jpg"
-image_caption: ""
 ---
 
 [Imperial College Business School](http://www3.imperial.ac.uk/business-school) has achieved triple accreditation. This comes after meeting the required standard from the [Association to Advance Collegiate Schools of Business](http://www.aacsb.edu/) (AACSB).

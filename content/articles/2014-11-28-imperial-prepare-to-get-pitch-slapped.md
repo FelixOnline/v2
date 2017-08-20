@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ben Howitt on the International singing competition to be hosted at Imperial
 date: "2014-11-28 00:46:24 +0000"
-
-# Attributes from Felix Online V1
-id: "4964"
-old_path: /news/4964/imperial-prepare-to-get-pitch-slapped
+image: "http://felixonline.co.uk/img/upload/201411280045-kmw13-10683732_728913800525673_16642474235144590_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4964/imperial-prepare-to-get-pitch-slapped
-imported: true
 comments:
  - value: >
      fifa 14 Ultimate Team is the subsequent version of fifa sections. I am a sports nut any sort of kind so those Trending Topics bore me perfect coma. Schmid's career record in Open Cup play is 15-7-1. <br>crÃ©dits fut rapidement http://creditsfut.com/,Superb internet site you've gotten going here.| <br>nba 2k16 mt glitch january http://ashbur.top-depart.com/coree-du-sud/pusan/articles/operation-bloodhound-updates-counter-strike-skins-160790.html
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - kmw13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411280045-kmw13-10683732_728913800525673_16642474235144590_o.jpg"
-image_caption: ""
 ---
 
 Imperial College A Cappella Society has been chosen to host the UK semi-finals of the International Championship of Collegiate A Cappella (ICCA), presented by Varsity Vocals. The competition, now in its 20th year, was featured in the 2012 film _Pitch Perfect_, which introduced the world to the now widely known ‘Cups’. The sequel has been confirmed for release in 2015.

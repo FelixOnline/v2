@@ -4,18 +4,15 @@ title: >
 subtitle: >
   If you are looking for an internship for next summer, it pays to start thinking about it as early as possible
 date: "2010-10-07 23:03:32 +0100"
-
-# Attributes from Felix Online V1
-id: "183"
-old_path: /biz/183/the-summer-begins-right-now
+image: "http://felixonline.co.uk/img/upload/201010080001-ks607-Business.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/183/the-summer-begins-right-now
-imported: true
 comments:
  - value: >
      Wow; for someone who appears to place great stock in the financial advisory profession, StephenW sure does spread a lot of negativity about it. Numerically, the situation he portrays is accurate, but people actually do make an incredible living at it. As in any vocation with a 97% washout rate, the compensation for the survivors is going to be good.Being a new college graduate with hopefully no significant commitments, you are in the best situation to succeed. The real question is whether or not you’re the right type person, and if you are willing to stick it out. Can you commit to the next one to two years of 60-plus hour work weeks with total focus on building your practice, and total submission to your mentors? Can you always consider the good of your client before your own? Can you continue to look forward and motivate yourself toward your next success when most days you feel like a total failure? Is money your measurement of success? If it is, you won’t last. If you are successful, h
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -28,12 +25,6 @@ authors:
  - jk708
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010080001-ks607-Business.jpg"
-image_caption: ""
 ---
 
 Being at one of the world’s top universities has its perks when it comes to getting employed. You are lucky enough that companies actively want to give you the chance to shine through a summer internship which could hopefully lead to the holy grail; the offer of a full-time job after your graduation. The opportunity to do well is yours to throw away. The internship does not need to be the seven-headed monster that it is sometimes made out to be.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   As rumours of Givenchy designer Riccardo Tisci as successor to the Dior throne grow, the industry reminisces about Galliano’s legacy
 date: "2011-03-10 20:38:53 +0000"
-
-# Attributes from Felix Online V1
-id: "1075"
-old_path: /fashion/1075/tisci-to-replace-disgraced-galliano
+image: "http://felixonline.co.uk/img/upload/201103102033-nm1010-diordior.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/1075/tisci-to-replace-disgraced-galliano
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -25,12 +22,6 @@ authors:
  - stv07
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103102033-nm1010-diordior.jpg"
-image_caption: ""
 ---
 
 After allegations of anti-semitic and racial slurs against a couple in a Parisian café, and the release of a [damning video evidencing yet more abusive behaviour](http://www.thesun.co.uk/sol/homepage/news/3436757/Film-of-John-Gallianos-racist-rant-in-bar.html), John Galliano was dismissed from his role as designer for Christian Dior last Thursday. Although the fashion world has been rocked by the shocking events leading to his dismissal, fashion month, now at its tail-end, continued unhindered, and Galliano’s final show at Dior went ahead on Sunday. Dior CEO Sidney Toledano prefaced the show with a speech about the values that Christian Dior has represented, asserting that they would be preserved by “the heart of the House of Dior, which beats unseen… made up of its teams and studios, of its seamstresses and craftsmen”. It is rumoured that these petites mains bore most of the brunt of this final collection whilst John Galliano was battling his problems with alcoholism.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Caving don't dig themselves into a hole, instead climbing to victory
 date: "2013-06-07 09:57:36 +0100"
-
-# Attributes from Felix Online V1
-id: "3671"
-old_path: /news/3671/rcc-awards-announced
+image: "http://felixonline.co.uk/img/upload/201306071057-tna08-caving.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3671/rcc-awards-announced
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306071057-tna08-caving.jpg"
-image_caption: ""
 ---
 
 The RCC has announced the winners of their awards. The RCC Club of the year was Caving. There was also a Fellowsip for Alistair Cott.

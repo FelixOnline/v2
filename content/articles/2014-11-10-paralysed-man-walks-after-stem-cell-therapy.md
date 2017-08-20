@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Indira Mallik looks at how cells from the nose could treat spinal injuries
 date: "2014-11-10 21:32:48 +0000"
-
-# Attributes from Felix Online V1
-id: "4821"
-old_path: /science/4821/paralysed-man-walks-after-stem-cell-therapy
+image: "http://felixonline.co.uk/img/upload/201411102132-ps3110-spine-scan.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4821/paralysed-man-walks-after-stem-cell-therapy
-imported: true
 comments:
  - value: >
      Hello there, neat web page you've gotten presently <br>csgo skins ebay http://forumposzkodowanych.pl/index.php?p=/discussion/8226/nba-2k16-mt-of-georgia-basketball-players
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102132-ps3110-spine-scan.jpg"
-image_caption: ""
 ---
 
 Last week, it was reported that Darek Fidyka, a man from Poland, had begun to walk. He had been paralyzed from the chest down since 2010 after a knife attack. His recovery was hailed as ‘more impressive than man walking on the moon’ by Geoffrey Raisman, whose research at UCL almost 30 years ago made Fidyka’s recovery possible.

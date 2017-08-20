@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park takes a walk down The Road in the latest post apocalyptic thriller.
 date: "2010-02-25 15:29:43 +0000"
-
-# Attributes from Felix Online V1
-id: "99"
-old_path: /film/99/the-road-review
+image: "http://felixonline.co.uk/img/upload/201002251525-egk08-TheRoad.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/99/the-road-review
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ffilm
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002251525-egk08-TheRoad.jpg"
-image_caption: ""
 ---
 
 Reviewed by John Park

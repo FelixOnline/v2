@@ -4,18 +4,15 @@ title: >
 subtitle: >
   An exclusive interview with techno-deity Raath-Mon-Tet
 date: "2011-02-17 20:18:07 +0000"
-
-# Attributes from Felix Online V1
-id: "838"
-old_path: /music/838/bow-before-your-alien-overlord-puny-earthlings
+image: "http://felixonline.co.uk/img/upload/201102172010-dr910-technode.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/838/bow-before-your-alien-overlord-puny-earthlings
-imported: true
 comments:
  - value: >
      Raath was incredible on Saturday! Ive never danced so much!,Glad you liked it Cat. <br>My legs, back and neck still hurt from jumping around so much. He really is a legend. <br>You can find some of his mixes on Soundcloud: <br>http://soundcloud.com/raath-mon-tet <br>There's some crazy straight-up psy-trance stuff (that Raath touched upon at the end of his 19.02 set) and then there's his badass mash-up stuff (check out @Trafalgar Square, it's amazing). <br>Peace out!,Thanks Greg, nice interview as well. Im on the Soundcloud right now dancing around my room to the @Trafalgar Square set! I think work can wait!,We love him @ ALAN too! <br> <br>Long live RMT! x,[URL=http://rozuwado.tripod.com/bdsm-penitential-submissives.html]bdsm penitential submissives[/URL] Scissors, headlocks, and backbreaking submissions holds. NO ACTING! [URL=http://tobuceg.tripod.com/amateur-list-bdsm-website.html]amateur list bdsm website[/URL] The first and still the best. [URL=http://fuyaxop.t35.com/bdsm-rope-tying.html]bdsm rope tying[/URL] The web's cruele
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - gep07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102172010-dr910-technode.jpg"
-image_caption: ""
 ---
 
 After years of scouring through the Necronomicon and the Dead Sea Scrolls searching for proof of the existence of the mythical extraterrestrial pharaoh known as Raath-Mon-Tet, a friend suggested I should Google him.

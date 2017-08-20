@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Article by James Lees
 date: "2010-11-04 18:51:43 +0000"
-
-# Attributes from Felix Online V1
-id: "316"
-old_path: /politics/316/un-calls-rector-in-india-pakistan-dispute
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/316/un-calls-rector-in-india-pakistan-dispute
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - jl807
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Hosepipe bans cause outrage in middle England, but some water disputes go much deeper than the need to ensure your lawn is greener than the Jones’, and when there is an issue between India and Pakistan the world needs to pay attention. The Kishenganga tributary in the disputed Jammu and Kashmir region is currently the source of an argument between India and Pakistan over Indian plans to build a 300MW hydroelectric plant.

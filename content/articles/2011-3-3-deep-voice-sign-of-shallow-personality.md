@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Men with deep and manly voices are more likely to be judged as unfaithful by woman says research
 date: "2011-03-03 20:33:42 +0000"
-
-# Attributes from Felix Online V1
-id: "1011"
-old_path: /science/1011/deep-voice-sign-of-shallow-personality
+image: "http://felixonline.co.uk/img/upload/201103032032-ks607-barrywhi.jpg"
+image_caption: "Surely not you, Barry?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1011/deep-voice-sign-of-shallow-personality
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ch1810
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103032032-ks607-barrywhi.jpg"
-image_caption: ""
 ---
 
 Men with deep and manly voices are more likely to be judged as unfaithful by woman, compared to those with a higher vocal register – good news, perhaps, for Joe Pasquale.

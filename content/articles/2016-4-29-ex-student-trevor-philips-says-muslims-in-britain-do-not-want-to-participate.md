@@ -4,18 +4,16 @@ title: >
 subtitle: >
   He was ICU President, was awarded honorary fellowship by college, and now he’s made a controversial program claiming to show “what Muslims really think”
 date: "2016-04-29 10:03:48 +0100"
-
-# Attributes from Felix Online V1
-id: "6088"
-old_path: /news/6088/ex-student-trevor-philips-says-muslims-in-britain-do-not-want-to-participate
+image: "http://felixonline.co.uk/img/upload/201604291103-felix-1700.jpg"
+image_caption: "Any first year statistician would think this poll was dodgy."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6088/ex-student-trevor-philips-says-muslims-in-britain-do-not-want-to-participate
-imported: true
 comments:
  - value: >
      nba shop cyber mߋnday coupon code mlb shkp cyber mmonday deals <br>coupons nhll shop,nba shop cyber mߋnday coupon code mlb shkp cyber mmonday deals <br>coupons nhll shop,nba shop cyber mߋnday coupon code mlb shkp cyber mmonday deals <br>coupons nhll shop,nba shop cyber mߋnday coupon code mlb shkp cyber mmonday deals <br>coupons nhll shop,mlb shop.cοm coupon code nba shop promo mlb shop promotional codes,mlb shop.cοm coupon code nba shop promo mlb shop promotional codes,mlb shop.cοm coupon code nba shop promo mlb shop promotional codes,mlb shop.cοm coupon code nba shop promo mlb shop promotional codes,http://ukpollingreport.co.uk/blog/archives/9666,http://ukpollingreport.co.uk/blog/archives/9666,http://ukpollingreport.co.uk/blog/archives/9666,http://ukpollingreport.co.uk/blog/archives/9666,"very religious groups, including Orthodox Jews or Catholics, would likely have similar opinions on homosexuality and separatism"<br>Well done on that...<br>Yeah, Catholicism is just a more religious group of Christians, definite
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201604291103-felix-1700.jpg"
-image_caption: ""
 ---
 
 Ex-ICU President and broadcaster, Trevor Philips, appeared in a Channel 4 documentary called “What do Muslims really think?” The controversial show, which aired in the Easter break, reflected on a poll which had quizzed Muslims on their thoughts on issues like homosexuality, sharia law and human rights.

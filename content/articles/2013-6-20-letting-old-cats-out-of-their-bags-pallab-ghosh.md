@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tim Arbabzadah interviews three Ex-Editors on their experiences editing the newspaper (Part 2 of 3)
 date: "2013-06-20 16:41:48 +0100"
-
-# Attributes from Felix Online V1
-id: "3705"
-old_path: /news/3705/letting-old-cats-out-of-their-bags-pallab-ghosh
+image: "http://felixonline.co.uk/img/upload/201306202355-tna08-bbcpallab2-(1).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3705/letting-old-cats-out-of-their-bags-pallab-ghosh
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306202355-tna08-bbcpallab2-(1).jpg"
-image_caption: ""
 ---
 
 Pallab Ghosh was Felix Editor from [1983/84](http://felixonline.co.uk/issuearchive/year/1983/). He is currently a science correspondent at the [BBC](http://www.bbc.co.uk/news/technology-22249490). I met him in the BBC offices. When he was Editor they printed in their in house print shop and the Editor was also the manager of the print shop, who printed club leaflets. He tweets as [@BBCPallab](https://twitter.com/BBCPallab).

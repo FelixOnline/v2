@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Website is “outstanding” says Deputy President (Education) Alex Dahinten
 date: "2011-06-09 20:57:06 +0100"
-
-# Attributes from Felix Online V1
-id: "1345"
-old_path: /news/1345/physics-students-create-popular-revision-wiki
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1345/physics-students-create-popular-revision-wiki
-imported: true
 comments:
  - value: >
      It's a shame someone keeps vandalising it...,Earlier, it was believed that the science students do not plagiarize because there is no scope to use copy-paste techniques for writing the formulas and theories. Now, the times has changed and people have started using new ideas to check the plagiarized coursework with the help of <a rel="dofollow" href="http://www.plagtracker.com/">plagiarism checker free</a> software because even the science students have become tricky.,In habitual along total scientists, astrophysicists expend their vivids asking inquires, next arduous to determine the defenses. On the NASA spot downstairs, you can scan per the descriptions of a calculate <a href="http://www.essaythinker.com/blog/writing-paper">college paper</a> in essaythinker.com <br> of the astrophysicists active there, moreover every has hellos have ambit of process. <br> <br>
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Physics students Deep Shah, Kin-Hing Lo, and Victor See have developed the ‘[Imperial Physics Wiki](http://rcsu.org.uk/physoc/wiki)’, a website which allows students to share lecture notes and past-paper solutions. The collaborative website is built upon the same technology behind Wikipedia. It’s fully integrated into the Imperial system, such as logins and email alerts, and by using open-source software, the whole thing hasn’t cost the department a penny.

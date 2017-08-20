@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2016-12-16 14:37:28 +0000"
-
-# Attributes from Felix Online V1
-id: "6602"
-old_path: /science/6602/play-your-cards-right
+image: "http://felixonline.co.uk/img/upload/201612161437-felix-9705875125_ffc9a496b3_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6602/play-your-cards-right
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - aranshaunak16
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612161437-felix-9705875125_ffc9a496b3_o.jpg"
-image_caption: ""
 ---
 
 Fact: If you shuffle a deck of cards, that precise order of cards has probably never happened before.

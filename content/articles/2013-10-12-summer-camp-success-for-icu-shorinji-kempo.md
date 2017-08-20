@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Emma King reports back from the British Shorinji Kempo Fedoration camp
 date: "2013-10-12 20:21:53 +0100"
-
-# Attributes from Felix Online V1
-id: "3868"
-old_path: /sport/3868/summer-camp-success-for-icu-shorinji-kempo
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3868/summer-camp-success-for-icu-shorinji-kempo
-imported: true
 comments:
  - value: >
      -- Good decription: "joyful vibe." She's curntrely playing Minko in Hanasaku Iroha. She starred as Arashi last fall in Soredemo Machi ga Mawatteiru. Her full list of roles is .Mind-blowing, indeed, especially to do it with such ease, smiling away. I've always liked her seiyuu work, but when she uses her deeper voice, it has a blunt, amateurish quality that many otaku just hate. I think she's hilarious in SoreMachi, and also in Seitokai Yakuindomo, where she plays a side role as the judo club president. I see from Japanese Wikipedia that she has several nicknames: Chiaki, Chii-chan, Chiaki-chan (called that by Sanpei Yuuko), Oomii, Omigasu, Omigawa (by older seiyuu), and Omigawa-kun (by Sawashiro Miyuki). I like that last one, lol, especially considering that she's pretty glamorous. (-kun is the suffix used to refer to male students.)
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -27,12 +24,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A lot of hard work, multiple bruises, a devilish pub quiz and one broken nose...

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Emily Fulham offers some novel dress-up ideas this year
 date: "2013-10-25 00:58:20 +0100"
-
-# Attributes from Felix Online V1
-id: "3944"
-old_path: /tv/3944/five-suggestions-for-tv-themed-halloween-costumes
+image: "http://felixonline.co.uk/img/upload/201310250157-felix-tv_breaking-bad.jpg"
+image_caption: "Why hello there my good man! What have you got in stock?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/3944/five-suggestions-for-tv-themed-halloween-costumes
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +22,6 @@ authors:
  - ef510
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250157-felix-tv_breaking-bad.jpg"
-image_caption: ""
 ---
 
 __Daenerys Targaryon (Game of Thrones)__

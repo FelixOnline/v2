@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This week's editorial...
 date: "2013-11-05 09:26:32 +0000"
-
-# Attributes from Felix Online V1
-id: "3984"
-old_path: /comment/3984/halloween-council-and-education
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3984/halloween-council-and-education
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ‘Happy Belated Halloween!’ Can I say that?

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Rector’s role to be split into two positions as Imperial announces Provost for 2013
 date: "2012-05-04 00:29:27 +0100"
-
-# Attributes from Felix Online V1
-id: "2422"
-old_path: /news/2422/president-and-provost-roles-introduced
+image: "http://felixonline.co.uk/img/upload/201205040131-felix-harvard-university.jpg"
+image_caption: "Imperial follows in the footsteps of universities such as Harvard"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2422/president-and-provost-roles-introduced
-imported: true
 comments:
  - value: >
      Which one gets pied then?,Both?,Check me out: Rector, President and Top LAD of Impewial Cowege. <br> <br>@SirKeithOnions on Twitter
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205040131-felix-harvard-university.jpg"
-image_caption: ""
 ---
 
 Imperial College is to have a Provost. Where once there was a Rector there will be two positions, a “President & Rector” and a “Provost of the College”. What is a Provost, one wonders. By definition, a provost is the head of a college. What, then, is a rector?

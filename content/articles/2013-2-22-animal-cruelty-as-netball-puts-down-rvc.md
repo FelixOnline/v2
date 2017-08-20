@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Poppy Pinnock swears that RVC are on a farm...
 date: "2013-02-22 02:12:01 +0000"
-
-# Attributes from Felix Online V1
-id: "3374"
-old_path: /sport/3374/animal-cruelty-as-netball-puts-down-rvc
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3374/animal-cruelty-as-netball-puts-down-rvc
-imported: true
 comments:
  - value: >
      wed at the Columbia in Ybor City, FL. I photographed their engamegent session last fall (see it here) and made the awful sin of scheduling it during a Bucs game. Needless to say, these huge fans,Update- Since the Vikings won the formula to<a href="http://dexcdnem.com"> gtinteg</a> into the playoffs for the Birds is clear. One wildcard will definitely fall to Tampa or Carolina with the other winning their division(NFC Sounth). All of the remaining wild card contenders would need to have 6 losses and the Birds could get in if they run the table at 10-5-1. The problem is that means the Cowgirls and Atlanta would both need to lose 2 out of their remaining 4 games. The rest of the contenders will surely have 6 losses. All that and the birds have to win 4 straight. The perfect storm would have to occur for the Eagles to have any shot. If we had only beaten Cincinnati this would be much easier. Watching the Ravens take apart the Bengals today reminds me just how pathetic the Eagles tie was.
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -27,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Previously in the season, IC 1’s ventured to muddy Hertfordshire with some usual players missing and some turning up hungover to take on RVC 1’s in the BUCs league, so understandably we suffered an unfortunate loss. However, with 2 more chances to play them, we were determined to show them what we’re made of.

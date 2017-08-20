@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The South African rugby team spends some time training at the Imperial gym
 date: "2010-12-02 20:47:52 +0000"
-
-# Attributes from Felix Online V1
-id: "478"
-old_path: /sport/478/south-africa-train-at-ethos
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/478/south-africa-train-at-ethos
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jn104
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The South African rugby team followed in the footsteps of their Southern Hemisphere colleagues, [New Zealand](http://www.felixonline.co.uk/?article=307), and trained at [Ethos](http://www3.imperial.ac.uk/sports/ethos) on Thursday morning in preparation for their match against the Barbarians this coming weekend.

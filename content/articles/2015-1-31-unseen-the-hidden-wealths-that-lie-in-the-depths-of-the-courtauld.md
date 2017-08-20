@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Max Falkenberg checks out the Courtauld's collection of little-seen pictures
 date: "2015-01-31 19:19:53 +0000"
-
-# Attributes from Felix Online V1
-id: "5173"
-old_path: /arts/5173/unseen--the-hidden-wealths-that-lie-in-the-depths-of-the-courtauld
+image: "http://felixonline.co.uk/img/upload/201501311919-ff712-valentin-klotz---view-of-grave-on-the-mass-after-a-siege-1675.-the-courtauld-gallerya.jpg"
+image_caption: "Valentin Klotz, View of grave on the Mass after a siege, 1675. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5173/unseen--the-hidden-wealths-that-lie-in-the-depths-of-the-courtauld
-imported: true
 comments:
  - value: >
      |}One thing that doesn't help Adu is all the hype that surrounds him, as through your body . people externally America expecting great things from him on an every week basis. Various corporations have got signed sponsorship deals with Adu, like Nike for $1 million, are promoting him more or less anywhere as a brand new 'boy wonder' and stronger only enhance pressure that is already on his young shoulders. <br>fifa 16 hack http://creditsfut.com/,eremochaetous epitenon <br>breechloadernonacademicsimpertinences buy canadian goose jacket hermes birkin glycine canada goose buy in nyc air max solde homme air max 90 pas cher de femme Tampa Bay Buccaneers Ali Marpet ELITE Jerseys
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501311919-ff712-valentin-klotz---view-of-grave-on-the-mass-after-a-siege-1675.-the-courtauld-gallerya.jpg"
-image_caption: ""
 ---
 
 This January sees the opening of the __Gilbert & Ildiko Butler____drawings gallery__ at the Courtauld. The wonderful purpose built gallery, designed by 2013 Stirling prize winners Witherford Watson Mann Architects, finally gives the public a chance to see one of the most celebrated collections of drawings in the country. With over 7000 works, this is a remarkable opportunity to see a glimpse into the overlooked riches of the __Courtauld Institute. __

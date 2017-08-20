@@ -4,18 +4,15 @@ title: >
 subtitle: >
   An online exclusive on tackling inequality in the education system
 date: "2011-10-13 23:44:39 +0100"
-
-# Attributes from Felix Online V1
-id: "1528"
-old_path: /news/1528/yelpimperial
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1528/yelpimperial
-imported: true
 comments:
  - value: >
      If you would like to apply to be part of YELP@Imperial, please visit <br>www.yelpstudents.org/ <br> <br>PS.Can't seem to edit article to put links yet Matt?
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - yw3410
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The statistics. Around one in three private school pupils achieves a grade of A* or A at A-level compared to 10.6% for state schools, despite roughly only making up 10% of all those in education. 54.8% of those in state schools leave GCSE level without passes of A* to C in the basic subjects english and mathematics. When postcode is a good predictor of attainment, [it is clear that education in the UK is still far from fair](http://www.education.gov.uk/rsgateway/DB/SFR/s000963/sfr30-2010.pdf), [despite progress in recent years](http://www.bbc.co.uk/news/education-11597488).

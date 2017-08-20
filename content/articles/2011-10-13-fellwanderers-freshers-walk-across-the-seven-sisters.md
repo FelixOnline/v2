@@ -4,16 +4,13 @@ title: >
 subtitle: >
   New students head towards Eastbourne
 date: "2011-10-13 23:29:31 +0100"
-
-# Attributes from Felix Online V1
-id: "1524"
-old_path: /news/1524/fellwanderers-freshers-walk-across-the-seven-sisters
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1524/fellwanderers-freshers-walk-across-the-seven-sisters
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - se08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Early on Sunday morning, more than 70 sleepy freshers made their way to Victoria and began to congregate around the Fellwanderers banner which was proudly flying between two poles. Once everyone had purchased their tickets and handed them to Heather, our responsible adult, we made our way to the platform. The group’s size quickly became evident, much to the dismay of the ticket collectors - who promptly opened the gates and waved us through without much question.

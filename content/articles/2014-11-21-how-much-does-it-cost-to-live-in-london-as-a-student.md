@@ -4,18 +4,15 @@ title: >
 subtitle: >
   And does the bursary scheme cover the price of living in the capital?
 date: "2014-11-21 13:20:54 +0000"
-
-# Attributes from Felix Online V1
-id: "4928"
-old_path: /news/4928/how-much-does-it-cost-to-live-in-london-as-a-student
+image: "http://felixonline.co.uk/img/upload/201411211320-ps3110-pie-chart.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4928/how-much-does-it-cost-to-live-in-london-as-a-student
-imported: true
 comments:
  - value: >
      Too much,Wow, gorgeous website. Thnx ...| <br>cs go skins are pointless http://test2.a6.pl/blogs/post/12247
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411211320-ps3110-pie-chart.png"
-image_caption: ""
 ---
 
 With college claiming that their new bursary scheme is “most generous bursary provision of any of the leading UK universities” Felix decided to investigate just how generous the university is with its money compared to others.

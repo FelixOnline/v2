@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A new use for therapeutic nanoparticles in diabetes treatment
 date: "2012-05-10 20:14:53 +0100"
-
-# Attributes from Felix Online V1
-id: "2445"
-old_path: /science/2445/remote-controlled-insulin-production
+image: "http://felixonline.co.uk/img/upload/201205102110-ams111-4ceb4db26f1f3ff8370a5128df9beb06.gif"
+image_caption: "... but only in mice, so far"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2445/remote-controlled-insulin-production
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - lap08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205102110-ams111-4ceb4db26f1f3ff8370a5128df9beb06.gif"
-image_caption: ""
 ---
 
 Researchers in New York have engineered a way to non-invasively trigger gene activation in live animals using nanoparticles and radio waves, a method that may, in the future, be used to remotely control genes in humans for medical purposes.

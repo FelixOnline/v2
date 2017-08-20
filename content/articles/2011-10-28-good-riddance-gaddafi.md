@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The only way for Libya to start afresh was with the death of Gaddafi
 date: "2011-10-28 00:31:29 +0100"
-
-# Attributes from Felix Online V1
-id: "1631"
-old_path: /comment/1631/good-riddance-gaddafi
+image: "http://felixonline.co.uk/img/upload/201110280128-sjw209-laurence-pope.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1631/good-riddance-gaddafi
-imported: true
 comments:
  - value: >
      Laurence, <br> <br>You are quite right that, in the case of Gaddafi, this kind of vigilante justice is probably excusable. However, most people are not angry about his death but rather about a wider range of Human Rights abuses performed by the NTC and NATO. Amongst them is the claim that Gaddafi was raped with a knife shortly before being killed (see paragraph 2: http://goo.gl/e7hev), and the racist murder of thousands of black Libyans on the grounds that they must be Gaddafi supporters (Gaddafi employed mercenaries from sub-Saharan Africa). <br> <br>Certainly the absence of Gaddafi is a good thing, but if the current goings-on in Libya (as alleged by Amnesty International and Human Rights Watch) are anything to go by, the new Libyan government will be much worse than the previous one.,It seems that most people don't feel it necessary to comment on an article unless they disagree with it. <br> <br>For that reason I thought i'd show my appreciation for your article; I don't think I could agree with you any more, well done!,B
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - lap08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110280128-sjw209-laurence-pope.jpg"
-image_caption: ""
 ---
 
 Unless you’ve been living under a rock, or hiding out in a sewer for the last week, you’ll know that everyone’s favourite Northern African whack job [Muammar Gaddafi is dead](http://www.bbc.co.uk/news/world-africa-12537524). To this I say – good riddance. I shall miss you about as much as I do my ingrown toenail.

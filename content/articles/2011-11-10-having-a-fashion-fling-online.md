@@ -4,16 +4,14 @@ title: >
 subtitle: >
   There crème de la crème of the online fashion community is at your fingertips
 date: "2011-11-10 22:09:46 +0000"
-
-# Attributes from Felix Online V1
-id: "1743"
-old_path: /fashion/1743/having-a-fashion-fling-online
+image: "http://felixonline.co.uk/img/upload/201111102209-felix-6a00e5508e95a98833015436ab5821970c-700wi.jpg"
+image_caption: "Susanna Lau "
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/1743/having-a-fashion-fling-online
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -28,12 +26,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102209-felix-6a00e5508e95a98833015436ab5821970c-700wi.jpg"
-image_caption: ""
 ---
 
 [__Style Bubble__](http://stylebubble.co.uk)

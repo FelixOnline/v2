@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Does it even matter?
 date: "2016-03-18 11:47:14 +0000"
-
-# Attributes from Felix Online V1
-id: "6058"
-old_path: /features/6058/being-a-virgin-isnt-a-big-deal-anymore
+image: "http://felixonline.co.uk/img/upload/201603181146-felix-madonna-like-a-virgin.jpg"
+image_caption: "Find that someone who makes you feel shiny and new. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6058/being-a-virgin-isnt-a-big-deal-anymore
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +21,6 @@ authors:
  - icanon
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603181146-felix-madonna-like-a-virgin.jpg"
-image_caption: ""
 ---
 
 _This article was published as part of FELIX's Sex Survey launch. Do the survey [here](http://felixonline.co.uk/go/sexsurvey)._

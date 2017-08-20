@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This Tuesday, Imperial’s Musical Theatre society invited me to witness one of their final rehearsals – a full run through. And while it was bare bones up on the 10th floor of Physics, I still got to see all the singing, acting and dancing.
 date: "2014-03-19 01:22:12 +0000"
-
-# Attributes from Felix Online V1
-id: "4488"
-old_path: /arts/4488/mtsoc-are-the-producers
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4488/mtsoc-are-the-producers
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - ed812
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __T__his Tuesday, Imperial’s Musical Theatre society invited me to witness one of their final rehearsals – a full run through. And while it was bare bones up on the 10th floor of Physics, I still got to see all the singing, acting and dancing.

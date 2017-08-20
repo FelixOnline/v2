@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Impeccable building work hailed as new entrance doors experience no problems whatsoever
 date: "2012-02-09 23:13:22 +0000"
-
-# Attributes from Felix Online V1
-id: "2173"
-old_path: /comment/2173/new-library-door-satisfaction-skyrockets
+image: "http://felixonline.co.uk/img/upload/201202092312-felix-dsc_6612.jpg"
+image_caption: "A 'stunning coup' for students"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2173/new-library-door-satisfaction-skyrockets
-imported: true
 comments:
  - value: >
      For one Laurence to another - bravo. You echo my equally joyous thoughts over this pinnacle of engineering perfectly.,I have been dreading the thought of going back to Imperial after a year abroad, but this has changed everything...,When the new front was first put on the library a few years ago they had to put up signs warning people not to touch the metal (ie. the entire front wall) in the summer as it got so hot it could burn you. Nice touch. ,Everyone knows the doors are just a way of making people walk through the Café to boost sales.,Now THIS is satire. ,There I was, expecting another humdrum Friday morning, yet lo and behold, one of the doors was closed for maintenance – again! <br> <br>I do love it when they keep you on your toes.,I had to force my way in the other day by tearing apart the doors - a deliberate, poignant and necessary reminder of the dangers of over-reliance on technology ,One of the main points, during the viability study, was to see if we could trip up as many of the users who sneak in
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - ld710
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202092312-felix-dsc_6612.jpg"
-image_caption: ""
 ---
 
 The new Library entrance was today unveiled in what is already being called a stunning coup for students. The entrance, which whilst still in the same place, now encompasses an incredible 3.75m2, will provide untold numbers with easier access to Imperial’s coveted study areas.

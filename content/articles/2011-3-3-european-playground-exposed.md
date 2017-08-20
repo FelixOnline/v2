@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The different sought after destinations in Europe
 date: "2011-03-03 19:58:05 +0000"
-
-# Attributes from Felix Online V1
-id: "1000"
-old_path: /travel/1000/european-playground-exposed
+image: "http://felixonline.co.uk/img/upload/201103031943-nm1010-traveltr.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/1000/european-playground-exposed
-imported: true
 comments:
  - value: >
      Well I lived in Athens, Greece like most of my life and I kind of know how it is over their. It depends when iyou go, like if you go in the smumer it's going to be more expensive than if you go in the winter. But if you want to have fun go to clubs, sites, and take some tours. With tours you have to be careful, because the people that give you tours can be..well.. annoying and your going to having to go up and down and you will get tierd, just take it easy. They money your going to spend depends on where your going to stay. If you want this to be the funnest, cheapest trip ever you can go stay in a hostel with free breakfest and you good save big money. Well that's all I know and I hope everything works out for you, your going to love it!,Well I lived in Athens, Greece like most of my life and I kind of know how it is over their. It depends when iyou go, like if you go in the smumer it's going to be more expensive than if you go in the winter. But if you want to have fun go to clubs, sites, and take some tour
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -30,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103031943-nm1010-traveltr.jpg"
-image_caption: ""
 ---
 
 _The lowdown_: Once the playground of Romans and feudal lords alike, modern Europe is now flocked by visitors pursuing the delights it has to offer. The diversity of cultures, languages, history, cuisine and so on are reasons us Brits should roam our continental neighbours.

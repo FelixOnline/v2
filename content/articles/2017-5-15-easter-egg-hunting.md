@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Time to get rid of all that chocolate you couldn’t finish and have been hoarding all Easter? Want to eat it but finding yourself at the verge of bursting? felix has found the perfect solution for you!
 date: "2017-05-15 16:28:43 +0100"
-
-# Attributes from Felix Online V1
-id: "6955"
-old_path: /food/6955/easter-egg-hunting
+image: "http://felixonline.co.uk/img/upload/201705151828-felix-Screen Shot 2017-05-15 at 18.28.16.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6955/easter-egg-hunting
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - aib116
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705151828-felix-Screen Shot 2017-05-15 at 18.28.16.png"
-image_caption: ""
 ---
 
 I hope you’ve enjoyed hunting for Easter chocolate eggs and that you don’t feel sorry for not letting your younger sister get more than two. Good job, by the way. But now that you are out of your sugar coma, it’s time to start wondering what you are supposed to do with all those kilos of chocolate you’ve acquired over the past month. I’m not saying that you can’t just eat them – God, forbid! – but maybe it’s time to feel like a decent human again.  At least for a little bit.

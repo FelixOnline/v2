@@ -4,18 +4,15 @@ title: >
 subtitle: >
   I do not want to be competing against an 140 year old for jobs
 date: "2010-12-02 21:50:12 +0000"
-
-# Attributes from Felix Online V1
-id: "498"
-old_path: /comment/498/reverse-aging-would-make-life-unfair-more-unfair-than-it-already-is
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/498/reverse-aging-would-make-life-unfair-more-unfair-than-it-already-is
-imported: true
 comments:
  - value: >
      Cool! That's a clever way of loikong at it!,iLPtTt <a href="http://dspzmelknrcq.com/">dspzmelknrcq</a>, <a href="http://www.viaprix.net/">ultram</a> hllnt <a href="http://www.yourstealightfully.com/prednisone.html">order prednisone online</a> vmj , <a href="http://www.online-doxycycline.com/">doxycycline</a> 188 <a href="http://www.cheaplifeinsurance-site.com/">cheap life insurance</a> :OOO
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Let’s start by confirming the fact that what scientists managed to achieve with those mice will probably never be emulated in humans.

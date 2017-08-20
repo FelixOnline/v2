@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Gunning for a game? Have a look at these Crafty reviews which will be the Portal to your fantasy world!
 date: "2013-09-29 16:04:28 +0100"
-
-# Attributes from Felix Online V1
-id: "3784"
-old_path: /games/3784/broke-and-bored-felix-has-the-answer
+image: "http://felixonline.co.uk/img/upload/201309291705-tna08-minecraft-screen-shot-009.jpg"
+image_caption: "Graphics are sooooooo realistic"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3784/broke-and-bored-felix-has-the-answer
-imported: true
 comments:
  - value: >
      Comment's author: geenng08/19/07 05:44:00 PMTo 子青 <br><br>我不過是做身為學長應該做的 妳是靠妳自己的努力拚出來的 我不過是<br>請求妳把妳的實力表現出來而已 <br><br>其實 我因手殘 很多實驗都不能做 不要逼迫其他人幫我做 就是只能<br>做一樣實驗 PCR ( . )這沒什麼了不起的:p<br><br><br>To A老大 <br><br>我也是降想 只是旁邊的朋友都覺得我有本錢去把妹卻不努力時 那才會<br>被煩死 <br><br>前陣子 有小白在轟趴時爆料讓我跟某位妹間接告白 讓我公開拿好人<br>卡 現在已經是我們這裡台灣研究生圈子裡的大笑話 我只要在路上見到<br>認識的人都會被問一遍 很刺激吧 大家幹嘛這麼關心誰和誰亂搞瞎搞<br>啊 難道生活中沒有更重要的事了嗎 沒關係 就算被當笑話我也不在<br>乎 大家開心就好 <br><br>這世界上 有很多事比把正妹重要多了 我要讓你們知道 我就算
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309291705-tna08-minecraft-screen-shot-009.jpg"
-image_caption: ""
 ---
 
 Ahead of you, dear reader, be you fresher or a returning student, is a substantial (or perhaps not so substantial) amount of work. To provide some relief from the never ending coursework and lab reports, this article will try to introduce you to some games that will serve you well this year, without breaking the bank. These games, while not the newest you will ever see, have a lot of replay value and are easily worth their money. In fact, comparing them to some of the new stuff out there, I would take these any day. I try to split these beauties into their different genres, so that you get a quick overview of the games on hand.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A continuation of the best films series. The top spot? It had to be the epic epic.
 date: "2012-11-09 13:55:32 +0000"
-
-# Attributes from Felix Online V1
-id: "2863"
-old_path: /film/2863/the-best-films-from-the-1960s
+image: "http://felixonline.co.uk/img/upload/201211091355-tna08-lawrence-of-arabia2-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2863/the-best-films-from-the-1960s
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091355-tna08-lawrence-of-arabia2-1.jpg"
-image_caption: ""
 ---
 
 Recently, the British Film Institute (BFI) released the results of their celebrated poll, “THE GREATEST FILMS OF ALL TIME”, in which they surveyed film critics and directors to list their ten favourite films. Now the Felix Film team, as much as we’d love to, doesn’t have that kind of time or resources. And so we decided to split the films up according to the decades in which they were released. So every week, we will present you with our top films of each decade

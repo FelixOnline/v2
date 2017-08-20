@@ -4,16 +4,14 @@ title: >
 subtitle: >
   New genome sequencing methods are put into use
 date: "2012-01-26 22:27:38 +0000"
-
-# Attributes from Felix Online V1
-id: "2063"
-old_path: /science/2063/new-insight-into-gene-expression
+image: "http://felixonline.co.uk/img/upload/201201262228-ak6309-39840_web.jpg"
+image_caption: "Is this a sequence binding of proteins or did we print wrong? "
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2063/new-insight-into-gene-expression
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ak6309
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201262228-ak6309-39840_web.jpg"
-image_caption: ""
 ---
 
 A new genomic sequencing method has been put into practice by Professor Franklin Pugh and graduate student Ho Sung Rhee, after development in Penn State University. The method, known as ChIP-exo, gives us an insight into the proteins that read and regulate chromosomes (transcription preinitiation complexes, or PICs) and was detailed in a paper published online in Nature.

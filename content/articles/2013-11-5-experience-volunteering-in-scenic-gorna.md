@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This summer we spent two weeks volunteering in Gorna, as part of a trip with Imperial College Aid to the Balkans (ICAB). Gorna is a small, picturesque town in northern Bulgaria with just over 30,000 inhabitants.
 date: "2013-11-05 09:47:04 +0000"
-
-# Attributes from Felix Online V1
-id: "4004"
-old_path: /travel/4004/experience-volunteering-in-scenic-gorna
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/4004/experience-volunteering-in-scenic-gorna
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -24,12 +21,6 @@ authors:
  - mkd110
  - mml110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This summer we spent two weeks volunteering in Gorna, as part of a trip with Imperial College Aid to the Balkans (ICAB). Gorna is a small, picturesque town in northern Bulgaria with just over 30,000 inhabitants.

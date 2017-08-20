@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ankles indicated to give them their extraordinary climbing ability
 date: "2013-01-18 00:19:35 +0000"
-
-# Attributes from Felix Online V1
-id: "3129"
-old_path: /science/3129/ugandan-pygmy-tribe-display-flexible-footwork-skills
+image: "http://felixonline.co.uk/img/upload/201301180018-tna08-twa-climber.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3129/ugandan-pygmy-tribe-display-flexible-footwork-skills
-imported: true
 comments:
  - value: >
      Gene and Annie - Very very cool Erin! This is not the first water project that I have heard or seen about, in fact, I have given to some othres before!! I love this one too!! It is so easy to take all that we have here for granted .especially, our water!! I will not let my kids do that and I hope I can always remember to be thankful for the small things!! Thank you!!,cats and their beds!i <a href="http://cobvwjvsd.com">remeebmr</a> my Dad once spent ages (I don't <a href="http://cobvwjvsd.com">remeebmr</a> quite why) making a bed for our cat... then got REALLY UPSET when she failed to sleep in it! she always had at least three on the go at any one time and rotated them...couldn't get the video to run (bloody connection) will have to come back for that laterhope everything's fine with you!, half-a-loaf sildenafil sildenafil prostacyclin cheap viagra
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301180018-tna08-twa-climber.jpg"
-image_caption: ""
 ---
 
 Scientists from Dartmouth College, Hanover, recently focused on the ankle-flexibility of pygmy populations in Uganda. They filmed the honey-gathering behaviourof pygmies to measure the flexibility of their ankle joints.

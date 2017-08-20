@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A real term decrease to science spending
 date: "2012-11-15 20:45:02 +0000"
-
-# Attributes from Felix Online V1
-id: "2883"
-old_path: /news/2883/sciences-are-sliced
+image: "http://felixonline.co.uk/img/upload/201211152044-tna08-cutting-up-money.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2883/sciences-are-sliced
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211152044-tna08-cutting-up-money.jpg"
-image_caption: ""
 ---
 
 Overall government spending on Science, Engineering and Technology (SET) has fallen in real terms by £733m.

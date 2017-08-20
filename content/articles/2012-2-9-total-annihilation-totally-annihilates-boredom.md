@@ -4,18 +4,15 @@ title: >
 subtitle: >
   “This is a fight to the death. For each side the only acceptable outcome is the complete elimination of the other”
 date: "2012-02-09 22:33:47 +0000"
-
-# Attributes from Felix Online V1
-id: "2153"
-old_path: /games/2153/total-annihilation-totally-annihilates-boredom
+image: "http://felixonline.co.uk/img/upload/201202092230-ams111-1177920819_total_annihilation.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2153/total-annihilation-totally-annihilates-boredom
-imported: true
 comments:
  - value: >
      TA is basically the best game ever. Have you ever seen http://springrts.com/? It's at its heart a TA clone but with a ridiculous amount of enhancements+properly 3d.,Hell yeah I remember that level, Core Prime's moon Dump. That was an annoying map I'll tell you...,*NOSTALGIA* <br>I loved TA back in 2003. <br> <br>Anyone remember a level where you're on some moon? There's absolutely no metal around to mine, instead of have to recycle burnt out machines left behind by the enemy. <br>Then there's that brilliant weapon Big Bertha, I think it was called, that could shoot halfway across the map, but cost 1000 energy each shot. I remember building and defending many fusion power plants and Big Berthas. epic win ensued.
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -28,12 +25,6 @@ authors:
  - lap08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202092230-ams111-1177920819_total_annihilation.jpg"
-image_caption: ""
 ---
 
 Oh, so you were expecting a review on a new game? What new game? January and February are hell for game reviews; nothing’s being churned out by the video game companies. So instead, I’m going to take the time to wind the clock back and review a game I played when I was eleven. It was brilliant then and it’s still a masterpiece today. I’m talking about Cavedog Entertainment’s real-time strategy game _Total Annihilation_.

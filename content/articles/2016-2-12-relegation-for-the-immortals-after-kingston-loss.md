@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The final score was 12-20 to the Cougars
 date: "2016-02-12 12:09:20 +0000"
-
-# Attributes from Felix Online V1
-id: "5921"
-old_path: /sport/5921/relegation-for-the-immortals-after-kingston-loss
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5921/relegation-for-the-immortals-after-kingston-loss
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - pt1114
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In our last home game of the regular season, the Immortals faced the Kingston Cougars. After an amazing performance against the Lions last Sunday, the team was confident coming into the game. However, after a long and hard-fought game, the final score was 12-20 to the Cougars.

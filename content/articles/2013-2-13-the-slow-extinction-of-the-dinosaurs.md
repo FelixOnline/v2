@@ -4,17 +4,14 @@ title: >
 subtitle: >
   The recent equal marriage vote is indicative of a wider trend
 date: "2013-02-13 16:08:23 +0000"
+image: "http://felixonline.co.uk/img/upload/201302131610-tna08-partysaurus-rex-toy-story-entier-2.jpg"
 draft: true
-
-# Attributes from Felix Online V1
-id: "3310"
-old_path: /comment/3310/the-slow-extinction-of-the-dinosaurs
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3310/the-slow-extinction-of-the-dinosaurs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - adm10
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302131610-tna08-partysaurus-rex-toy-story-entier-2.jpg"
-image_caption: ""
 ---
 
 Free speech is a wonderful thing. It is one of the things that makes this country an amazing place to live in. Granted, it may not be absolute, but the opportunity to be introduced to new ideas, impart mine in return and argue over them is a positively delightful experience. To me, there is nothing more enlightening than thrashing out some political philosophy, looking at issues from different perspectives, amending your way of thinking or even dropping it and searching for a new one. This is not weak compromise – it is enriching your understanding of the world through debate which helps build a better and coherent way to view and deal with it.

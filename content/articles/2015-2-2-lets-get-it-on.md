@@ -4,18 +4,15 @@ title: >
 subtitle: >
   We’ve officially launched the sex survey 2015!
 date: "2015-02-02 13:24:30 +0000"
-
-# Attributes from Felix Online V1
-id: "5176"
-old_path: /news/5176/lets-get-it-on
+image: "http://felixonline.co.uk/img/upload/201502021442-ps3110-screen-shot-2015-02-02-at-14.42.23.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5176/lets-get-it-on
-imported: true
 comments:
  - value: >
      Thanks, this site is extremely handy <br>nhl 17 coins http://2k16mtcoins.bloggets.net/nba-2k17-mt-gaming-consoles/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502021442-ps3110-screen-shot-2015-02-02-at-14.42.23.png"
-image_caption: ""
 ---
 
 We’ve officially launched the sex survey 2015!

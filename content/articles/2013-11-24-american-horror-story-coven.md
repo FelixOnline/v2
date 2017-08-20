@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Incest. Rape. Murder. Witches. Voodoo. Resurrection. Zombies. Slavery. Blood. Goats. Snakes. Limbs. A severed tongue. Yes, Ryan Murphy is back doing what he does best – laying on the dark and twisted in the new season of his hit anthology, American Horror Story...
 date: "2013-11-24 16:30:57 +0000"
-
-# Attributes from Felix Online V1
-id: "4124"
-old_path: /tv/4124/american-horror-story-coven
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4124/american-horror-story-coven
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Incest. Rape. Murder. Witches. Voodoo. Resurrection. Zombies. Slavery. Blood. Goats. Snakes. Limbs. A severed tongue. Yes, Ryan Murphy is back doing what he does best – laying on the dark and twisted in the new season of his hit anthology, American Horror Story, this year appropriately titled Coven. Every season is a standalone one, each with its very own beginning, middle and an end, which stops the show from growing stale, as fresh new ideas come alive every year. As can be sussed out from the title, we focus on a group of modern day witches who face extinction.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Endless dosh, what would your Games Editors want?
 date: "2014-01-15 16:14:40 +0000"
-
-# Attributes from Felix Online V1
-id: "4209"
-old_path: /games/4209/santas-checking-his-gaming-list
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4209/santas-checking-his-gaming-list
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 #### Battlefield 4 + Premium membership

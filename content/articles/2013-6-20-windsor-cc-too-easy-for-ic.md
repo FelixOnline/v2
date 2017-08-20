@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Were they fielding a D team?
 date: "2013-06-20 22:40:30 +0100"
-
-# Attributes from Felix Online V1
-id: "3711"
-old_path: /sport/3711/windsor-cc-too-easy-for-ic
+image: "http://felixonline.co.uk/img/upload/201306202340-tna08-cricket.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3711/windsor-cc-too-easy-for-ic
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306202340-tna08-cricket.jpg"
-image_caption: ""
 ---
 
 Against the picturesque backdrop of Windsor Castle and loyally donning the club’s apparel, Imperial 1st XI put out one of its strongest line-ups to play against Windsor Cricket Club. Captain Jayanth Ganapathy, a former player for the opposition, elected to bat first on a good batting wicket with a fast outfield.

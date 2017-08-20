@@ -4,18 +4,15 @@ title: >
 subtitle: >
   They’ve landed themselves in hot, oily water
 date: "2016-10-14 09:30:09 +0100"
-
-# Attributes from Felix Online V1
-id: "6328"
-old_path: /news/6328/science-museum-exhibition-criticised
+image: "http://felixonline.co.uk/img/upload/201610141135-felix-AB9A1979-01.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6328/science-museum-exhibition-criticised
-imported: true
 comments:
  - value: >
      I wouldn't be surprised if the two college communications staff also find themselves in a fairly sticky situation given this has led to the college becoming associated with the story.<br>Also probably worth noting that the policy from 2014-15 at Union Council about Fossil Free Imperial actually was voted against as a whole and instead had 3 out of 4 resolves supported individually. Specifically, the Union said it would recognise divestment as a tool, engage with the endowment board and ask the college to create an ethical investment policy. It did not commit to supporting the petition that the policy was recommending. Partially this is because we felt it might not be in the best interests of some of our students (Geologists for instance) to actively oppose some of their main graduate employers. However, the campaign was eligible for (and I believe funded through) our campaigns fund - which is there to help enable all groups of students to organise campaigns about issues that matter to them without committing th
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610141135-felix-AB9A1979-01.jpeg"
-image_caption: ""
 ---
 
 Over 50 academics and  other campaigners, including two members of Imperial College’s Science Communication unit, have signed a letter this week calling for the Science Museum to end its deal with Statoil, a Norwegian oil and gas giant, as the headline sponsor of the new children’s exhibition, _Wonderlab_.

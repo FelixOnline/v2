@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Hyde Park Relays 2016 proves yet again that Valentine’s Weekend is better with a hangover
 date: "2016-02-26 12:16:31 +0000"
-
-# Attributes from Felix Online V1
-id: "5992"
-old_path: /sport/5992/batons-bevs-and-baked-potatoes
+image: "http://felixonline.co.uk/img/upload/201602261216-felix-HPR Photo 1.jpg"
+image_caption: "The race was enjoyed by athletes of a whole range of abilities."
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5992/batons-bevs-and-baked-potatoes
-imported: true
 comments:
  - value: >
      You're a very practical internet site; couldn't make it without ya!| <br>cs go skins awp http://cheap-nba-2k16-mt.cb-blog.com/?p=154534,You're a very practical internet site; couldn't make it without ya!| <br>cs go skins awp http://cheap-nba-2k16-mt.cb-blog.com/?p=154534
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +26,6 @@ authors:
  - cdt12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261216-felix-HPR Photo 1.jpg"
-image_caption: ""
 ---
 
 Some say that it’s the most prestigious and largest event known to Imperial’s Cross Country and Athletics society, others say that it’s merely a warm-up jog in preparation for a night of serious shape-throwing in the beloved Metric. Either way, it’s left undeniable that the Hyde Park Relays of 2016 proved to be the highlight of many students’ Valentine’s Weekend.

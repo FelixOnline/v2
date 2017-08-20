@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Max Eggl tries his best to give you the low down on the newest Apple phone
 date: "2013-01-24 21:17:58 +0000"
-
-# Attributes from Felix Online V1
-id: "3158"
-old_path: /tech/3158/iphone-5-review-is-finally-here
+image: "http://felixonline.co.uk/img/upload/201301242117-mc4509-iphone5-19-pin-rendering-credit-blackpool-creative-11392050.jpg"
+image_caption: " Thin, light and powerful, just like what the Apple iPhone 5 should be"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3158/iphone-5-review-is-finally-here
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -25,12 +23,6 @@ authors:
  - me1711
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301242117-mc4509-iphone5-19-pin-rendering-credit-blackpool-creative-11392050.jpg"
-image_caption: ""
 ---
 
 In terms of iOS, 2012 was the year of the [iPhone 5](http://www.apple.com/uk/iphone/). After a rather disappointing iPhone 4S, the anticipation had been growing under the surface for a long time. When the iPhone 5 was revealed on the 12th of September of last year, it sported a radical new design, a better graphics processor, new A6 chip as well as LTE technology and finally Felix Tech has one to review.

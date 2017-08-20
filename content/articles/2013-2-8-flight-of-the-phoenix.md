@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ben Fernando reports on an easy theft of ICSM’s mascot
 date: "2013-02-08 00:34:45 +0000"
-
-# Attributes from Felix Online V1
-id: "3275"
-old_path: /news/3275/flight-of-the-phoenix
+image: "http://felixonline.co.uk/img/upload/201302080034-tna08-pheonix.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3275/flight-of-the-phoenix
-imported: true
 comments:
  - value: >
      Mascotry is ridiculous. I feel sorry for physsix. Their idea of fun appears to be to go all the way to Reynolds, not to have a drink, meet people and in doing so get a rare chance to hone their communication skills, but rather to steal a fancy dress costume.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302080034-tna08-pheonix.jpg"
-image_caption: ""
 ---
 
 How hard is it to steal a mascot? Apparently not hard if it’s the ICSM one! At least, so suggest reports of the theft of the Phoenix from inside the depths of Charing Cross Hospital earlier this week.

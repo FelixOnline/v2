@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The RA launches a surprisingly emotive edition of its trademark summer show
 date: "2017-06-15 15:17:14 +0100"
-
-# Attributes from Felix Online V1
-id: "7024"
-old_path: /arts/7024/the-summer-exhibition-at-the-royal-academy
+image: "http://felixonline.co.uk/img/upload/201706151710-im1413-20170608_125006.jpg"
+image_caption: "Assorted works the The Summer Exhibition | Photo: Indira Mallik"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/7024/the-summer-exhibition-at-the-royal-academy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706151710-im1413-20170608_125006.jpg"
-image_caption: ""
 ---
 
 There aren’t many galleries in which you might expect to see a multimillion pound creation by a Turner prize winning artist exhibited on equal footing with an oil by Joe Bloggs from Surrey, but that is exactly what the Royal Academy’s Summer Exhibition offers. Each year, tens of thousands of works are submitted to the Summer Exhibition, not only from established artists but also from amateurs and students. These are then whittled down to the 1100 works ultimately displayed on the walls of the Royal Academy by the Hanging Committee, this year headed by Eileen Cooper.

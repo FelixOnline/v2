@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Extrasolar bodies discovered using ground-based telescopes, reports Arianna Sorba
 date: "2011-10-13 22:03:51 +0100"
-
-# Attributes from Felix Online V1
-id: "1512"
-old_path: /science/1512/decade-old-hubble-data-reveals-planets
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1512/decade-old-hubble-data-reveals-planets
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - fsci
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In 2008, astronomers obtained the first direct visual evidence for a ‘multiple exoplanetary system’ – a system of planets orbiting one central star that isn’t our sun – using near-infrared ground-based images taken with the [W.M. Keck Observatory](http://www.keckobservatory.org/) and the [Gemini North telescope](http://www.gemini.edu/). A fourth planet orbiting the same star was revealed in 2010.

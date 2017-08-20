@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Race, colourism and the estate of Nina Simone
 date: "2016-03-11 11:57:08 +0000"
-
-# Attributes from Felix Online V1
-id: "6039"
-old_path: /film/6039/the-unbearable-lightness-of-zoe-saldana
+image: "http://felixonline.co.uk/img/upload/201603111156-felix-Nina_Simone_1965.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6039/the-unbearable-lightness-of-zoe-saldana
-imported: true
 comments:
  - value: >
      ESxmSN http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +23,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603111156-felix-Nina_Simone_1965.jpg"
-image_caption: ""
 ---
 
 Telling the story of turbulent genius Nina Simone on film was never going to be easy; Simone’s life was complex, and her music beloved by so many that any casting choice would be liable to ignite tensions. However, the controversy upcoming biopic _Nina_ has stirred up would be enough to make hardened producers question their career choices. The issue? Casting Zoe Saldana, of Avatar fame, as Simone, which has led some commentators to argue that the racism and colourism that dogged Simone for her whole life have raised their ugly heads again.

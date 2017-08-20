@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Staff awarded for contribution to the student experience
 date: "2013-05-23 22:27:16 +0100"
-
-# Attributes from Felix Online V1
-id: "3618"
-old_path: /news/3618/student-led-teaching-award-winners-announced
+image: "http://felixonline.co.uk/img/upload/201305232326-tna08-newseventsimages-(1).jpg"
+image_caption: "DPE Doug Hunt does his best Seth MacFarlane impression"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3618/student-led-teaching-award-winners-announced
-imported: true
 comments:
  - value: >
      Classic Doug,More info can be found here: http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_23-5-2013-10-3-49
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305232326-tna08-newseventsimages-(1).jpg"
-image_caption: ""
 ---
 
 The winners of Imperial College Union’s first Student Academic Choice Awards have been announced at a ceremony on Tuesday 21 May. Over 150 people attended the event.

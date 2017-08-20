@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The role of mathematical methods in the explosive cocktail that led to the greatest economic meltdown in generations and questions their future
 date: "2010-10-21 18:48:23 +0100"
-
-# Attributes from Felix Online V1
-id: "222"
-old_path: /biz/222/did-physics-break-the-economy-can-it-save-it-
+image: "http://felixonline.co.uk/img/upload/201010211946-ks607-blackboa.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/222/did-physics-break-the-economy-can-it-save-it-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -24,12 +21,6 @@ authors:
  - ac1507
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010211946-ks607-blackboa.jpg"
-image_caption: ""
 ---
 
 At the apogee of the mathematical finance movement in the mid nineties, billions were being made by pioneering science and finance academics and those who had the foresight to see the increasing use of these techniques. [Louis Bachelier](http://en.wikipedia.org/wiki/Louis_Bachelier), the informal father of the discipline about a century ago would have been proud. Bachelier speculated that because of the ‘memorylessness’ of stock market noise (that is, events that momentarily alter the price of a stock in a way that does not reflect the general sentiment of the markets), stock price increments are completely independent and able to be modeled by a Gaussian distribution. Even after this was postulated, academics were still unaccustomed to witnessing mathematics solving problems in finance. Now, however, a large slice of this so-called quantitative finance draws inspiration from the physical sciences, seen by some purists as a pristine and sacred discipline. Physics, not unlike finance, concerns itself with a seemingly infinite set of parameters, constantly changing and evolving; completely dynamic, so its use in the field is not as far a cry as one may have initially thought.

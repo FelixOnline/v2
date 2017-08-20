@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Katherine Rutherford invites you to join Eva Moon
 date: "2013-05-16 18:46:27 +0100"
-
-# Attributes from Felix Online V1
-id: "3585"
-old_path: /news/3585/how-far-would-you-go-to-save-your-life
+image: "http://felixonline.co.uk/img/upload/201305161945-tna08-mutantdiariesbigflyer.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3585/how-far-would-you-go-to-save-your-life
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305161945-tna08-mutantdiariesbigflyer.jpg"
-image_caption: ""
 ---
 
 The world was stunned this week to learn that actress and director Angelina Jolie had a preventive mastectomy to avoid 87% odds of breast cancer due to the BRCA1 genetic mutation. Seattle performer and composer Eva Moon faced the same impossible choice.

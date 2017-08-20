@@ -4,16 +4,13 @@ title: >
 subtitle: >
   With a bewildering array of gaming accessories on the market, it can be difficult to find out which one is best to purchase for your particular needs and the Steelseries 9H is a good start
 date: "2014-01-17 04:21:15 +0000"
-
-# Attributes from Felix Online V1
-id: "4256"
-old_path: /tech/4256/steelseries-9h-tournament-headset
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4256/steelseries-9h-tournament-headset
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - tecfelix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Steelseries. It’s a name all gamers are familiar with, and it’s a company which deals with all aspects of a gamers needs by providing good quality peripherals and accessories. The Steelseries 9H is a top range headset from the H series of tournament grade headsets provided by Steelseries and has been available only as of late 2013.

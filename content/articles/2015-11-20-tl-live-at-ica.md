@@ -4,18 +4,15 @@ title: >
 subtitle: >
   TĀLĀ showed how one woman can dominate a space
 date: "2015-11-20 09:26:31 +0000"
-
-# Attributes from Felix Online V1
-id: "5756"
-old_path: /music/5756/tl-live-at-ica
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5756/tl-live-at-ica
-imported: true
 comments:
  - value: >
      //bala கர த த க க பத ல கர த த அள க க மல சக பத வர கள சண ட க க இழ க க ம பழக கம வ ண ட ம //ச ந த ல க மரன அய ய ,சண ட க க இழ க கல அய ய .ஒர ம ற ற கர த த த ன ச ன ன ன ங கய ய .ஆத க க சக த கள க இர க க ம க ர ம ல யர தங கள த ங கள OBC என ற வர ண த த க க ண ட ,தங கள க க இட ஒத க க ட ச ய வத ப ச ச எட ப பதற க சமம க ம ,அத எப பட ல வல ப ள ய ங ஃப ல ட ச ய ய ம ம யற ச ய க ம ?பத வர கள ன ப யர கள உபய கப பட த த யத ஒர உத ரணத த ற க த ன .அவர கள quota benefit ப ற ற ர கள என ற ச ல லவ ல ல .ஆன ல ச த என ற அட
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - cet13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Gracefully floating from synth to drums, TALA immediately made the stage her own, pouring every part of herself into her singing, lyrics and production.

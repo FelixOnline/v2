@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Max Falkenberg McGillivray reviews a new one-woman play about Syrian refugees at the Young Vic
 date: "2014-05-09 02:14:04 +0100"
-
-# Attributes from Felix Online V1
-id: "4578"
-old_path: /arts/4578/no-such-sweetness
+image: "http://felixonline.co.uk/img/upload/201405090314-jal08-arts-sweet.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4578/no-such-sweetness
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - mff113
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405090314-jal08-arts-sweet.jpg"
-image_caption: ""
 ---
 
 __I__n January of this year, the UK Government pledged to accept 500 refugees from the Civil War in Syria. _Oh My Sweet Land _tackles the other 2.3 million refugees who don’t have that “privilege”. A collaboration between Amir Nizar Zuabi and Corinne Jaber resulted in this play, inspired by their trip to the Syrian refugee camps in Jordan and hearing the stories of people in the harshest moments of their lives.

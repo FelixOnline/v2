@@ -4,16 +4,13 @@ title: >
 subtitle: >
   felix goes on a French adventure to Casse-Croûte, Bermondsey, and manages to successfully order delicious food without really understanding the menu.
 date: "2016-10-10 12:11:42 +0100"
-
-# Attributes from Felix Online V1
-id: "6319"
-old_path: /food/6319/a-plot-of-france
+image: "http://felixonline.co.uk/img/upload/201610101408-felix-14599700_1450372934978527_2049223766_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6319/a-plot-of-france
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +22,6 @@ authors:
  - yyl114
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610101408-felix-14599700_1450372934978527_2049223766_o.jpg"
-image_caption: ""
 ---
 
 There is that one restaurant somewhere on your bucket list that you have never found the chance to visit. Until, one day, you’ve run out of places to try, bored of that same old burger from GBK, tired of that salmon nigiri set from Wasabi, when you finally drag yourself there, take a bite, and kick yourself in regret for not having visited earlier.

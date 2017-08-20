@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rector talks the talk on feedback, but will we see any improvement?
 date: "2011-11-10 20:30:02 +0000"
-
-# Attributes from Felix Online V1
-id: "1713"
-old_path: /comment/1713/when-will-we-be-satisfied-with-feedback
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1713/when-will-we-be-satisfied-with-feedback
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This week saw the release of a summary of the annual Rector’s Away Day, with Sir Keith O’Nions announcing a statement pledging to improve the ‘undergraduate experience’, with the improvement of assessment and feedback becoming a priority in this aim. The battle against feedback has been continuing for some time now, however, and it may ultimately fall to tackling the individual marker rather than the department when it comes to improving feedback across College.

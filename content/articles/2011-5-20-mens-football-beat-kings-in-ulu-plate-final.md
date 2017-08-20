@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Football complete Plate and Cup double after overcoming spirited King’s
 date: "2011-05-20 02:49:11 +0100"
-
-# Attributes from Felix Online V1
-id: "1211"
-old_path: /sport/1211/mens-football-beat-kings-in-ulu-plate-final
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1211/mens-football-beat-kings-in-ulu-plate-final
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - hr208
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 An incredible season of football for Imperial College Football Club culminated in two cup finals, having already seen a league win for the 4s, and a narrow miss on promotion for the 3s. With the 1s cup final played on the Saturday, the 5s were out to set the cup final bar on the preceding Wednesday.

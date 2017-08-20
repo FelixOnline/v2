@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Universities Minister David Willetts dismisses unlimited fees as neither sensible nor sustainable
 date: "2010-10-28 19:59:22 +0100"
-
-# Attributes from Felix Online V1
-id: "286"
-old_path: /news/286/government-rejects-browne-review
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/286/government-rejects-browne-review
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - skd09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Government ministers have confirmed that university tuition fees will be capped in England, meaning that the government is rejecting a key element of the [Browne report](http://felixonline.co.uk/news/198/lord-browne-points-to-higher-fees-/).

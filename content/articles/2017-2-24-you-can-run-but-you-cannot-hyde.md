@@ -4,17 +4,14 @@ title: >
 subtitle: >
   The punnage
 date: "2017-02-24 15:33:22 +0000"
+image: "http://felixonline.co.uk/img/upload/201702241533-felix-hyde park run.jpg"
 draft: true
-
-# Attributes from Felix Online V1
-id: "6831"
-old_path: /sport/6831/you-can-run-but-you-cannot-hyde
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6831/you-can-run-but-you-cannot-hyde
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702241533-felix-hyde park run.jpg"
-image_caption: ""
 ---
 
 On Saturday, the 11th of February, more than 600 runners from universities across the UK, Netherlands and Sweden took part in the 69th Annual Hyde Park Relays, hosted by Imperial College Cross Country and Athletics Club. Men’s and mixed teams were made up of six runners and women’s teams of four, with each runner completing a five-kilometre lap around the east side of Hyde Park.

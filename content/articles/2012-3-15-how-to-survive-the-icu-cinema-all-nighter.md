@@ -4,18 +4,15 @@ title: >
 subtitle: >
   It's possible!
 date: "2012-03-15 20:59:22 +0000"
-
-# Attributes from Felix Online V1
-id: "2366"
-old_path: /film/2366/how-to-survive-the-icu-cinema-all-nighter
+image: "http://felixonline.co.uk/img/upload/201203152056-ams111-success-kid-meme-generator-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2366/how-to-survive-the-icu-cinema-all-nighter
-imported: true
 comments:
  - value: >
      And what about Varsity the next day???? Planning on going to both, should be immense...
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - ffilm
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152056-ams111-success-kid-meme-generator-copy.jpg"
-image_caption: ""
 ---
 
 It has returned. It’s coming to the end of term and just when you thought you might look forward to a bit of shut-eye, BAM! [iCU Cinema](http://www.union.ic.ac.uk/arts/cinema/) phwacks you in the gut with an All-Nighter. Six films, back-to-back, from the early evening to 6am the next morning, or until the projectionist goes insane and feeds his hair into the projector, whichever comes first.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Your academic success could be down to your genes
 date: "2012-02-02 19:34:47 +0000"
-
-# Attributes from Felix Online V1
-id: "2091"
-old_path: /science/2091/genes-affecting-intellect
+image: "http://felixonline.co.uk/img/upload/201202021933-ams111-a-student-working-in-the--007.jpg"
+image_caption: "We're all guilty of pulling all nighters..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2091/genes-affecting-intellect
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202021933-ams111-a-student-working-in-the--007.jpg"
-image_caption: ""
 ---
 
 Imperial students fall generally into two categories: those who work hard and those who don’t work at all. Students across all years either diligently trek to the library every evening or pass it completely (as in, walk awkwardly around the redundant new library porch) to go straight to the Union.

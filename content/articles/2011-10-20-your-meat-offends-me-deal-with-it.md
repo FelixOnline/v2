@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Animals have souls and eating them is wrong
 date: "2011-10-20 22:49:04 +0100"
-
-# Attributes from Felix Online V1
-id: "1575"
-old_path: /comment/1575/your-meat-offends-me-deal-with-it
+image: "http://felixonline.co.uk/img/upload/201110140132-felix-gurl-with-opinions.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1575/your-meat-offends-me-deal-with-it
-imported: true
 comments:
  - value: >
      Shopping in Tesco isn't the food chain. If you were out hunting your meat, that's the food chain. But since you're reading this, you're probably at Imperial, which means you're weak, feeble and are in the library rather than in Richmond Park with a spear. Tuck in to your library jacket potato. <br> <br>We _are_ different to animals: humans are moral beings; animals aren't.,I wouldn't discourage anyone from having a stab at writing, practice is an essential part of improving. However, I am afraid I must agree with many of the sentiments above. Although my own writing is far from perfect, I feel sure that it is easy to go too far when you are writing what you think. For example, if you tell your audience you know their feelings better than they do "you have to know deep-down that what you are doing is immoral" you are in serious danger of alienating them. Some writers (e.g. David Mitchell and Victoria Coren, amongst my heroes) are able to get a good balance and essentailly make whoever is reading their stuff agr
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110140132-felix-gurl-with-opinions.png"
-image_caption: ""
 ---
 
 I was eating my lunch in the JCR (two-bean goulash YUM! :D) and this random guy just comes and sits down next to me and starts devouring a greasy stinky burger. I asked him if he minded moving because I find the stench of cooked meat to be nauseating. As you may have guessed, I’m a vegan. When I see people eating meat, cheese, cake or any other food that has come from animals, I just feel sick. I’m not one of those in-your-face vegans, but I have my right to ask someone to move if they’re going to offend my beliefs. The guy rudely told me to f**k off, so I just moved to another table. I wasn’t going to stoop to his level so I just walked away. Always ignore a bully ;)

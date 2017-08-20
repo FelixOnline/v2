@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Edward Bals has a good feeling about this....
 date: "2012-11-29 22:51:07 +0000"
-
-# Attributes from Felix Online V1
-id: "2990"
-old_path: /games/2990/force-persuade-play-kotor
+image: "http://felixonline.co.uk/img/upload/201212031615-tna08-38_hk47_starwars.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2990/force-persuade-play-kotor
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - eb1710
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212031615-tna08-38_hk47_starwars.jpg"
-image_caption: ""
 ---
 
 All right, I know my force powers don’t work through the printed word. I guess I’ll have to persuade you instead withthe actual reasons why you should play this game, and if those don’t work, well; you are strong-willed indeed.

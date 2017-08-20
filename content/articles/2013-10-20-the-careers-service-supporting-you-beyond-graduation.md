@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Careers Service gives advice to graduands about the job search after Imperial.
 date: "2013-10-20 02:00:08 +0100"
-
-# Attributes from Felix Online V1
-id: "3905"
-old_path: /features/3905/the-careers-service-supporting-you-beyond-graduation
+image: "http://felixonline.co.uk/img/upload/201310200259-jal08-pullout_careers_university-of-birmingham--008.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/3905/the-careers-service-supporting-you-beyond-graduation
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310200259-jal08-pullout_careers_university-of-birmingham--008.jpg"
-image_caption: ""
 ---
 
 Graduation is a time for celebration, to reflect on the years you have spent working hard to achieve your goals both academically, personally and ultimately to move onto the next stage of your life. Your time with us at Imperial will have equipped you with a world class education and also exposed you to lots of opportunities to develop your key skills that will make you employable in the future.

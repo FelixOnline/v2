@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Will Hunter discusses the new robots that can feel human emotions
 date: "2014-02-17 17:16:30 +0000"
-
-# Attributes from Felix Online V1
-id: "4388"
-old_path: /science/4388/sex-robots-and-rock--roll-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4388/sex-robots-and-rock--roll-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - wh1013
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A recent advancement by scientists at Lincoln University shows positive signs of developing robots that can help humans to build and establish longer-term emotional relationships with them. And in doing so, may also overcome certain thought-biases established in the human psyche. With the ability to express five simple emotions, this new technology could see our reaction to humanoid robotics possibly shift from revulsion to attraction.

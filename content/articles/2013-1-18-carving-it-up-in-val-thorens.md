@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix Sport catches up with Imperial’s most successful ski trip yet
 date: "2013-01-18 01:04:37 +0000"
-
-# Attributes from Felix Online V1
-id: "3148"
-old_path: /sport/3148/carving-it-up-in-val-thorens
+image: "http://felixonline.co.uk/img/upload/201301180104-tna08-snow3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3148/carving-it-up-in-val-thorens
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301180104-tna08-snow3.jpg"
-image_caption: ""
 ---
 
 By this point most people will have just about recovered from the best week of skiing and partying yet. This was Imperial’s biggest ski trip by a long way and did not disappoint!

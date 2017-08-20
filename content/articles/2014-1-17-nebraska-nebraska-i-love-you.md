@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Following on from the Oscar-nominated The Descendants (featuring George Clooney’s best performance in years, and introducing the amazing Shailene Woodley – soon to be seen in The Fault in Our Stars), Nebraska is Alexander Payne’s latest film as director, and (unsurprisingly) it’s almost everything..
 date: "2014-01-17 03:58:03 +0000"
-
-# Attributes from Felix Online V1
-id: "4247"
-old_path: /film/4247/nebraska-nebraska-i-love-you
+image: "http://felixonline.co.uk/img/upload/201401170358-jal08-nebraska.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4247/nebraska-nebraska-i-love-you
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - js5913
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201401170358-jal08-nebraska.jpeg"
-image_caption: ""
 ---
 
 __Nebraska__

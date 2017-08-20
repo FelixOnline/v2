@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at the shoe exhibition at the V&A
 date: "2015-06-18 21:01:50 +0100"
-
-# Attributes from Felix Online V1
-id: "5635"
-old_path: /fashion/5635/shoes-pleasure-and-pain-
+image: "http://felixonline.co.uk/img/upload/201506182159-jyg11-screen-shot-2015-06-18-at-21.59.22.png"
+image_caption: "Shoes, glorious shoes."
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/5635/shoes-pleasure-and-pain-
-imported: true
 comments:
  - value: >
      I like this website - its so usefull and helpfull.| <br>nba 2k16 my everyday player trophies http://forum.collegeedm.com/entry.php?5743-counter-strike-skins-possibility-to-strike-an-additional-merchandise-off,You've got the best internet sites <br>NBA http://www.makelove889.com/home.php?mod=space&amp;uid=196636&amp;do=profile&amp;from=space,Fantastic Site, Continue the good job. Thanks a ton!. <br>nba 2k16 http://pages.breakalag.com/user/profile/56838,Cool website you have here <br>csgo skins http://www.myxxxshemaletube.com/user/IzettaEisen524611211,Quite informative, look frontward to returning <br>fifa 17 points http://www.intimarea.com/member/blog_post_view.php?postId=11317
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -28,12 +26,6 @@ authors:
  - jyg11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506182159-jyg11-screen-shot-2015-06-18-at-21.59.22.png"
-image_caption: ""
 ---
 
 The V&A’s latest fashion exhibition takes a look at the extremes of footwear from around the world, ranging from Cinderella’s glass slippers featured in the recent Disney live action movie, to tiny lotus shoes used to bind women’s feet in 19th century China. The exhibition focuses on the transformative quality of shoes and their cultural significance, particularly as a symbol of status. With over 200 shoes on display, examples are shown from famous shoe wearers as well as a vast range of historical shoes dating as far back as 30 BCE.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lucy Wiles reviews The Great Gatsby
 date: "2013-05-16 18:16:00 +0100"
-
-# Attributes from Felix Online V1
-id: "3581"
-old_path: /film/3581/the-not-bad-you-should-probably-see-it-gatsby
+image: "http://felixonline.co.uk/img/upload/201305161915-tna08-the-great-gatsby-2012-official-movie-trailer-2-0.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3581/the-not-bad-you-should-probably-see-it-gatsby
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305161915-tna08-the-great-gatsby-2012-official-movie-trailer-2-0.jpg"
-image_caption: ""
 ---
 
 You know how, more often than not, the trailer for a film shows all the film’s best bits and everyone is let down by the film? This is so not the case here. The Great Gatsby is everything the trailer promises, and more. It is bold, brash, glamorous and over-the-top in the trademark Baz Luhrmann way.

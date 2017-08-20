@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sarah Byrne investigates the brain implant that gives the ability to see invisible light
 date: "2013-02-21 20:43:25 +0000"
-
-# Attributes from Felix Online V1
-id: "3341"
-old_path: /science/3341/rats-get-infrared-sixth-sense
+image: "http://felixonline.co.uk/img/upload/201302220249-tna08-wistar_rat.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3341/rats-get-infrared-sixth-sense
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - slb210
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302220249-tna08-wistar_rat.jpg"
-image_caption: ""
 ---
 
 Researchers at Duke University have given lab rats the ability to ‘see’ infrared light, in research published in Nature Communications last week.

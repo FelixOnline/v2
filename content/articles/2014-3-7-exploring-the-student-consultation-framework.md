@@ -4,16 +4,13 @@ title: >
 subtitle: >
   David Goldsmith wants your feedback on how College can best consult students about changes that affect you
 date: "2014-03-07 04:39:28 +0000"
-
-# Attributes from Felix Online V1
-id: "4455"
-old_path: /features/4455/exploring-the-student-consultation-framework
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4455/exploring-the-student-consultation-framework
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +20,6 @@ authors:
  - dmg11
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Dear Students,

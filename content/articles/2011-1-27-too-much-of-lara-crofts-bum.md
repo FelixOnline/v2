@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Omar Hafeez-Bore wasn’t trying to get a better view... honest!
 date: "2011-01-27 20:27:27 +0000"
-
-# Attributes from Felix Online V1
-id: "694"
-old_path: /games/694/too-much-of-lara-crofts-bum
+image: "http://felixonline.co.uk/img/upload/201101272025-ks607-laralarl.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/694/too-much-of-lara-crofts-bum
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -23,12 +20,6 @@ authors:
  - oh106
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101272025-ks607-laralarl.jpg"
-image_caption: ""
 ---
 
 Now I don’t usually start off by focusing on Lara Croft’s buttocks (who does?), but I’ve seen an awful lot of them lately and feel the need to confess why: I changed the controls I used in _Tomb Raider Anniversary_. And now I’m worried, because somehow I changed everything else too.

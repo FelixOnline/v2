@@ -4,16 +4,13 @@ title: >
 subtitle: >
   iCU Cinema and MTSoc join forces in a night of high transvestitism
 date: "2011-11-24 22:47:28 +0000"
-
-# Attributes from Felix Online V1
-id: "1842"
-old_path: /film/1842/give-yourself-over-to-absolute-pleasure
+image: "http://felixonline.co.uk/img/upload/201111242248-felix-rocky-horror-feature.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1842/give-yourself-over-to-absolute-pleasure
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242248-felix-rocky-horror-feature.jpg"
-image_caption: ""
 ---
 
 I’m a Rocky Horror Picture Show virgin. Or, at least, I was a Rocky Horror Picture Show virgin until last Thursday, when my innocence was taken from me in a flash of lingerie, transvestitism, and hilarious heckling. [Musical Theatre Society](http://mtsoc.co.uk/) provided the girls, guys, and the pizazz, while [iCU Cinema](http://union.ic.ac.uk/arts/cinema/) provided the film that’s built a rock-solid cult following since 1970s.

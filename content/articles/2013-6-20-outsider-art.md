@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fred Fyles examines a new art craze
 date: "2013-06-20 23:13:55 +0100"
-
-# Attributes from Felix Online V1
-id: "3718"
-old_path: /arts/3718/outsider-art
+image: "http://felixonline.co.uk/img/upload/201306210013-tna08-outsiderart.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3718/outsider-art
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306210013-tna08-outsiderart.jpg"
-image_caption: ""
 ---
 
 What does it mean to be an ‘Outsider Artist’? While the majority of famous artists follow the time-tested route from the art school to the gallery, there are those who slip through the cracks of artistic society, exploring their creative visions outside the atelier. The majority of these artists trickle away into obscurity, but this summer, a select group of the outside art world has found a home in London, being displayed in both the Wellcome Collection and the Hayward Gallery.

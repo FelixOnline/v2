@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Charlie Stephens reports on games against RVC and rivals UCL
 date: "2014-11-06 19:52:22 +0000"
-
-# Attributes from Felix Online V1
-id: "4784"
-old_path: /sport/4784/positive-start-to-the-season-for-womens-rugby
+image: "http://felixonline.co.uk/img/upload/201411061951-cj914-10329043_676863819077942_4752931591311584292_n.jpg"
+image_caption: "A good start to the season for the Women's Rugby Team"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4784/positive-start-to-the-season-for-womens-rugby
-imported: true
 comments:
  - value: >
      Passion the website-- extremely individual pleasant and whole lots to see! <br>NBA 2K17 MT http://www.collaborativemotherhood.com/blogs/post/15818,Great internet site! It looks extremely expert! Sustain the helpful work! <br>nba 2k17 http://inergyflo.com/blogs/post/3124,max can you stop others from sharing your cover photo ? it seems whenever i upload something cool, some one from my friends lists steals it by &amp;8r0;sha2ing2#8221;
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +26,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411061951-cj914-10329043_676863819077942_4752931591311584292_n.jpg"
-image_caption: ""
 ---
 
 With the graduation of so many of our senior girls last year, this season was always going to be about rebuilding and bringing new players into the squad. With that in mind we thought it important to get a new coach. We were pleased that we hired Stewart Mcguire who, with age grade international caps for Wales and Ireland and currently playing for London Scottish, has brought enthusiasm and a lot of fun to training.

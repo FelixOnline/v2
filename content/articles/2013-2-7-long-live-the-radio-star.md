@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Simon Hunter on why radio is still as relevant as ever
 date: "2013-02-07 22:47:39 +0000"
-
-# Attributes from Felix Online V1
-id: "3245"
-old_path: /music/3245/long-live-the-radio-star
+image: "http://felixonline.co.uk/img/upload/201302072243-tna08-rinse_logotype.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3245/long-live-the-radio-star
-imported: true
 comments:
  - value: >
      What about NTS??? That is one fantastic station. Barely a year old, community radio straight outta Dalston. I haven't heard such consistently flabbergasting programming since the Olympics haha I kid. Some big names on there too: Kutmah, Bullion... plus shows from Cafe Oto, Bleep and Peckham's Rhythm Section. Top of the pops, my friend! <br>czech it out! &gt;&gt; http://ntslive.co.uk/,No doubt about it. There's so much out there and what actually constitutes a 'radio station' these days is pretty loose. Perhaps a more regular feature on the joys of radio is in order.
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302072243-tna08-rinse_logotype.png"
-image_caption: ""
 ---
 
 <http://rinse.fm/>At the end of last year I tried to put together a mixtape containing my favourite tunes of 2012. But I couldn’t do it. My iTunes library just didn’t do 2012 justice, and this got me wondering why that was. It’s not that I’ve gone ‘cold’ on new music; I’m probably listening to more than ever, just in a different way. Two or three years ago I was finding music on blogs then heading to megaupload for a bit of socially acceptable thievery. Perhaps a combination of the internet federales’ crackdown on the Kim Dotcoms of this world and my paid subscription to [Spotify](http://www.spotify.com/uk/video-splash/?utm_source=spotify&utm_medium=web&utm_campaign=start), but I pretty much stopped downloading music.

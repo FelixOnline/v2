@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Angry grad is coming to you from Thailand, and this is what she’s found
 date: "2016-06-10 08:20:16 +0100"
-
-# Attributes from Felix Online V1
-id: "6251"
-old_path: /comment/6251/the-four-types-of-traveller-youll-meet-this-summer
+image: "http://felixonline.co.uk/img/upload/201606101019-felix-city-people-woman-street.jpg"
+image_caption: "It is very important to get pics for the 'gram."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6251/the-four-types-of-traveller-youll-meet-this-summer
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - theangrygrad
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606101019-felix-city-people-woman-street.jpg"
-image_caption: ""
 ---
 
 It's almost the end of the academic year, meaning many of you will be in that final frenzy of wrapping up your final year projects. From frantic pipetting to manic coding, it's all very stressful – I've been there. But for those of you, much like myself a year ago, the end of uni does not equal a cry from relief. It means facing your boggart which, let’s be honest, is far more soul wrenching than Harry's dementor – the dreaded prospect of unemployment.

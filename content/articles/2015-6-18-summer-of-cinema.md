@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jack Steadman gets ready for the next batch of blockbusters
 date: "2015-06-18 20:28:14 +0100"
-
-# Attributes from Felix Online V1
-id: "5633"
-old_path: /film/5633/summer-of-cinema
+image: "http://felixonline.co.uk/img/upload/201506182124-jyg11-inside-out.jpg"
+image_caption: "The only caption I could think of was ‘toasty’. You try doing better. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5633/summer-of-cinema
-imported: true
 comments:
  - value: >
      Dear Meling,totally agree, I watched all moevis from Director Kwok and this is the worst. No touching point between the two in the whole movie and I can't see why they suddenly love each other so much.I rather use the $130 to eat.,You have great stuff on this site.| <br>nba 2k16 my all-star trophies http://octaviatess.yolasite.com/,You're a really practical site; couldn't make it without ya!| <br>nba 2k16 mt glitch reddit http://www.kthrough12sports.com/teams/index.php?do=/blog/13469/buy-nba-2k16-vc-days-went-to-different-sports-activities/,Appreciate it! It is definitely an astonishing site!| <br>nba 2k16 mt packs http://fifacoinsguide.blogspot.com/2016/04/cheap-cs-go-skins-with-few-ongoing.html,Highly interesting look forward to visiting again.| <br>csgo skins discount http://forum.bbfansfest.com/blogs/post/15553,Thanks very useful. Will share site with my friends.| <br>nba 2k16 mt cheat table http://wallisaudrey.mywapblog.com/nba-2k16-guide-for-beginners.xhtml,Thanks a ton! This a incredible web site!. <br>nhl 17 coins htt
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +26,6 @@ authors:
  - jyg11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506182124-jyg11-inside-out.jpg"
-image_caption: ""
 ---
 
 With the summer upon us, it means the inevitable onslaught of blockbusters. By normal standards, 2015’s a pretty quiet year for the summer, with most of this year’s big hitters either already out, or landing towards Christmas time (_Star Wars_, I’m looking at you).

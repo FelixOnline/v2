@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The first in Simon Hunter’s new series introducing the best electronic dance labels
 date: "2010-10-28 19:36:02 +0100"
-
-# Attributes from Felix Online V1
-id: "267"
-old_path: /music/267/techno-nonsense-permanent-vacation
+image: "http://felixonline.co.uk/img/upload/201010282033-ma1307-technooo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/267/techno-nonsense-permanent-vacation
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - jk708
  - sh1207
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010282033-ma1307-technooo.jpg"
-image_caption: ""
 ---
 
 Over the coming issues of Felix I will embark on a quest to dispel the popular belief that electronic dance music begins with Tiesto and finishes with David Guetta. I will try and dip into as many genres as possible; highlighting what’s big at the moment, what was big 20 years ago and just generally stuff that I’m into at the date of publication.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   BUAV also claims Imperial is “misleading the public” over post operative care. Philippa Skett reports
 date: "2015-05-21 23:02:32 +0100"
-
-# Attributes from Felix Online V1
-id: "5554"
-old_path: /news/5554/buav-to-launch-judicial-review-against-home-office-investigation-into-imperial
+image: "http://felixonline.co.uk/img/upload/201505220007-kmw13-white-mouse-in-lab-009.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5554/buav-to-launch-judicial-review-against-home-office-investigation-into-imperial
-imported: true
 comments:
  - value: >
      All animal abuse "experiments" must stop if you need to experiment try them on the people that are in prison that are abusers and murder's and predators !!! Not animals !!!!,There is no need or reason to test on animals these days.Test on convicted paedophiles instead.,I don't see what the fuss is about. It's not like the researchers are eating or having sex with the animals, or anything like that. We should ignore these animal rights terrorists and keep on performing world-class research, as usual.,fitflops on sale <br>fitflop in australia http://australiafitflops.blogspot.com/,designer shoes for less <br>cheap christian louboutin shoes canada http://canadachristianlouboutin.blogspot.com/,http://buy-steroids-europe.net/injectable-steroids and <br>http://Www.Authenticpharm.com/anabolic-steroids/HCG-Pregnyl is the <br>place where you can buy steroids online which sells real anabolic steroids, injectable steorids, <br>oral steroids by Geneza Pharmaceuticals, Asia Pharma, Biomex labs, Balkan Pharmaceuticals, British <br>Dispen
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505220007-kmw13-white-mouse-in-lab-009.jpg"
-image_caption: ""
 ---
 
 The High Court has granted the British Union for the Abolition of Vivisection (BUAV) permission to bring a judicial review against the Home Office, in which they are hoping to again confront animal care at Imperial, and also “prove that the Home Office guilty of foul play”.

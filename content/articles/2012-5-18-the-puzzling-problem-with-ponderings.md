@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Something to mull over
 date: "2012-05-18 06:36:39 +0100"
-
-# Attributes from Felix Online V1
-id: "2464"
-old_path: /comment/2464/the-puzzling-problem-with-ponderings
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2464/the-puzzling-problem-with-ponderings
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - rjd08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I’m in the grips of a dilemma. Oh dear.

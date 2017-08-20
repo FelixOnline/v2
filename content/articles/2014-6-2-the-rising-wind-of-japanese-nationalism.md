@@ -4,16 +4,13 @@ title: >
 subtitle: >
   or the limits of bourgeois pacifism
 date: "2014-06-02 12:45:23 +0100"
-
-# Attributes from Felix Online V1
-id: "4640"
-old_path: /comment/4640/the-rising-wind-of-japanese-nationalism
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4640/the-rising-wind-of-japanese-nationalism
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Last week’s Felix film section discussed the ‘swan song’ – to use Fred Fyles’ phrase – of Studio Ghibli’s Miyazaki Hayao, The Wind Rises. I will begin by saying that the film is without doubt a ‘visual feast’, while its topic matter – loosely the life of the engineer of the most famous Japanese WWII fighter plane, the ‘Zero’ – and Miyazaki’s own considered pacifist ethic ensures that the film has a depth that the somewhat second rate Ponyo or the forever brilliant Totoro just cannot possess. While war acts as a condiment – effectively – to Princess Mononoke and – ambivalently – to Howl’s Moving Castle, its oppressive presence suffuses this latest work every bit as much as it did in the earlier works of Nausicaa or Porco Rosso.

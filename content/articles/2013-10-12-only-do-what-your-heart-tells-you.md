@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park on "Diana"
 date: "2013-10-12 00:51:16 +0100"
-
-# Attributes from Felix Online V1
-id: "3842"
-old_path: /film/3842/only-do-what-your-heart-tells-you
+image: "http://felixonline.co.uk/img/upload/201310120150-jal08-diana_3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3842/only-do-what-your-heart-tells-you
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310120150-jal08-diana_3.jpg"
-image_caption: ""
 ---
 
 If it was ever Naomi Watts’ intention to pull a Streep or Mirren and score an Oscar win by playing an iconic English female, she should have paid closer attention to the script that was handed to her.

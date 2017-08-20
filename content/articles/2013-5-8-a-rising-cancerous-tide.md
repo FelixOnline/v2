@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Gavin Metcalf details the concerning rise of European lung cancer cases
 date: "2013-05-08 16:31:22 +0100"
-
-# Attributes from Felix Online V1
-id: "3549"
-old_path: /science/3549/a-rising-cancerous-tide
+image: "http://felixonline.co.uk/img/upload/201305081731-tna08-lung-cancer-008.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3549/a-rising-cancerous-tide
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - gm12
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305081731-tna08-lung-cancer-008.jpg"
-image_caption: ""
 ---
 
 Lung cancer, particularly non-small cell lung cancer (NSCLC), is one of the most common forms of cancer globally, with a very poor survival rate: less than six per cent of people diagnosed reaching five-years post-diagnosis.

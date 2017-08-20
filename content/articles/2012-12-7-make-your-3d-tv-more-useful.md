@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Yong Wen Chua checks out LG’s amazing new dual vision 3D TV
 date: "2012-12-07 02:53:23 +0000"
-
-# Attributes from Felix Online V1
-id: "3056"
-old_path: /tech/3056/make-your-3d-tv-more-useful-
+image: "http://felixonline.co.uk/img/upload/201212070254-tna08-dual-play-main.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3056/make-your-3d-tv-more-useful-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -25,12 +22,6 @@ authors:
  - ywc110
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070254-tna08-dual-play-main.jpg"
-image_caption: ""
 ---
 
 Consumer electronics manufacturers often like to proclaim that their products boast the highest numbers in a certain arbitrary unit that often make no sense to the consumers, or are simply immaterial. Cameras like to boast that they have the highest amount of pixels while computers used to tout their “gigahertz” as their selling point. It seems that this phenomena is almost absent in the realm of televisions.

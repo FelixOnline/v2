@@ -4,16 +4,13 @@ title: >
 subtitle: >
   From bedroom to billions – the social revolution in the second installment of our Facebook saga
 date: "2010-10-14 19:44:34 +0100"
-
-# Attributes from Felix Online V1
-id: "212"
-old_path: /tech/212/facebook-revolution
+image: "http://felixonline.co.uk/img/upload/201010142043-ks607-facebook.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/212/facebook-revolution
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ghc07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010142043-ks607-facebook.jpg"
-image_caption: ""
 ---
 
 Facebook is taking over the world. From the dorm-run social network exclusive to Ivy-Leaguers six years ago, today it boasts over 500 million users worldwide. That’s 13.7% of the world population.

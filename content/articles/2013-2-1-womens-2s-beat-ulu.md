@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Helen Pennington foils ULU's plans
 date: "2013-02-01 00:29:45 +0000"
-
-# Attributes from Felix Online V1
-id: "3229"
-old_path: /sport/3229/womens-2s-beat-ulu
+image: "http://felixonline.co.uk/img/upload/201302010030-tna08-fencing_gives_you_wings.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3229/womens-2s-beat-ulu
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - hgp08
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302010030-tna08-fencing_gives_you_wings.jpg"
-image_caption: ""
 ---
 
 On Wednesday 30th January, Imperial Women’s 2nd Fencing Team set off to duel the University of London Union (ULU) team. The opposing team was an unknown quantity, causing Imperial to keep their guard up. The match began with Clare Perry, Hannah Bryars and Slavina Georgieva fencing sabre. Clare cut to the chase, beating her opponent 5-0. Slavina and Hannah continued, demonstrating that this was not a feint, leading to Imperial winning every round, only halting at 45-6.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Let’s hope not, argues Rajvinder Virdee in this debate
 date: "2011-11-10 21:22:29 +0000"
-
-# Attributes from Felix Online V1
-id: "1728"
-old_path: /biz/1728/the-end-of-the-big-four
+image: "http://felixonline.co.uk/img/upload/201111102122-pk1811-financial-planning-audit-reporting.jpg"
+image_caption: "Oonly four professional service firms perform the majority of audits for companies"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/1728/the-end-of-the-big-four
-imported: true
 comments:
  - value: >
      嘿 讓我這個大一生告訴你 現在的中學也不會好得多吧 不過中六轉校我發現了一個現象 多數傳統學校的學生是Written English較好 英語會話卻一團糟 包括本人在內 而來自banding較差的中學的學生 卻是剛剛相反 英語更往往帶有外國人accent 但更可悲的情況是本地的大學英語課程其實比傳統中學還要差 例如本人所就讀的中大是規定我們一年級時一定要各修中 英 普通話課程各一的 上個學期時 本人就被逼選了一個名為Effective oral communication的課程 每課的內容就是輪流說２分鐘"Who is your fatoirve singer?" "Tell the class how one can develop a reading habit" "Describe your best friend to us"這些初中程度+悶到暈的題目 就像中學老師總愛叫學生作 我的志願 和 中學生應否談戀愛 一樣 相比起來 英文會考的口試題目還要有挑戰性一些 更諷刺的是 這個課程是只讓在高考英文中取得C級或以上的學生報讀的
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102122-pk1811-financial-planning-audit-reporting.jpg"
-image_caption: ""
 ---
 
 PwC, Deloitte, KPMG and Ernst and Young – better known collectively as the Big Four. The word ‘Big’ really doesn’t do them justice; enormous, gigantic and colossal are more appropriate adjectives. It’s hard to get a grasp of how big they are compared to other accountancy firms until you look at the raw figures.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Members to vote on papers via email instead
 date: "2015-01-16 13:02:05 +0000"
-
-# Attributes from Felix Online V1
-id: "5093"
-old_path: /news/5093/first-council-of-the-year-fails-to-meet-quorum
+image: "http://felixonline.co.uk/img/upload/201501161302-ps3110-dining-hall-2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5093/first-council-of-the-year-fails-to-meet-quorum
-imported: true
 comments:
  - value: >
      fit flops sandals <br>cheap fitflops online http://fitflopsau.blogspot.com/,louboutin shoes <br>christian louboutin cheapest http://canadachristianlouboutinoutlet.blogspot.com/,mens christian louboutin <br>christian louboutin shoes http://canadachristianlouboutin.blogspot.com/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501161302-ps3110-dining-hall-2.jpg"
-image_caption: ""
 ---
 
 Union Council met on Tuesday for the first time this year, although with attendance being so low was unable to meet quorum. This means that there weren’t enough students present to allow any papers to pass and any decisions to be made. Email votes are taking place instead on the papers discussed.

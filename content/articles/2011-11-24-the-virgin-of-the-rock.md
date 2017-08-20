@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Rajvinder Virdee comments on some of the political and social ramifications of the sale of Northern Rock plc to Richard Branson’s Virgin Money
 date: "2011-11-24 20:19:05 +0000"
-
-# Attributes from Felix Online V1
-id: "1803"
-old_path: /biz/1803/the-virgin-of-the-rock
+image: "http://felixonline.co.uk/img/upload/201111242018-pk1811-branson.jpg"
+image_caption: "Business magnate Richard Branson holds up a Virgin Money credit card"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/1803/the-virgin-of-the-rock
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -25,12 +23,6 @@ authors:
  - rv108
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242018-pk1811-branson.jpg"
-image_caption: ""
 ---
 
 Last Thursday the Government announced that Northern Rock was to be bought by Virgin Money. Northern Rock was famously nationalised in February 2008 as the Credit Crunch took its first victim this side of the Atlantic. The deal that has just been negotiated says that Virgin will pay £747m upfront with approximately another £250m in further possible payments, valuing the deal at about £1 billion. This is well short of the £1.4 billion of taxpayers’ money it cost to keep the bank afloat, so even though on the face of it a £400m loss (about 28%) looks terrible, it may still represent a good deal for us.

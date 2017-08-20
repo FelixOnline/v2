@@ -4,18 +4,15 @@ title: >
 subtitle: >
   An anonymous response to the recent comment articles on the virtues of the EU
 date: "2013-03-01 00:55:44 +0000"
-
-# Attributes from Felix Online V1
-id: "3412"
-old_path: /comment/3412/love-europe-hate-the-eu
+image: "http://felixonline.co.uk/img/upload/201303010201-tna08-domino.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3412/love-europe-hate-the-eu
-imported: true
 comments:
  - value: >
      Fantastic article...couldn't agree with you more.,I take onus with the idea that people who embrace a European identity are "missing part of their own". Despite never having been subject to the "pro-European propaganda" (that bit made me snort-laugh) of a European school, I consider myself a European and indeed a global citizen; the idea that you should be primarily defined by the borders between which you happened to be born is increasingly archaic, let alone the idea that more global identities aren't reconcilable with national ones. <br> <br>I don't deny that the European Union is in need of some reform; increased accountability and democratisation are vital. But the legitimacy of the author's comments is damaged irrevocably by isolationism and red-scare tactics.,Perils of an open forum. My points still stand.,Have you ever considered that it is indeed possible to feel both Italian and European at the same time? I'll tell you more - inside Italy there is a lot of pride of belonging to a specific region, and hell
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303010201-tna08-domino.jpg"
-image_caption: ""
 ---
 
 f you really love Europe then you ought to be a Eurosceptic by now.

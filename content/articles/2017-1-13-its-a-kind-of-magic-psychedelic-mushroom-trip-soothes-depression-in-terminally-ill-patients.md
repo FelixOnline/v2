@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rachel Gillespie discusses the potential applications of psychedelic drugs for treating anxiety and depression
 date: "2017-01-13 14:15:14 +0000"
-
-# Attributes from Felix Online V1
-id: "6641"
-old_path: /science/6641/its-a-kind-of-magic--psychedelic-mushroom-trip-soothes-depression-in-terminally-ill-patients
+image: "http://felixonline.co.uk/img/upload/201701131415-felix-15074727357_6221618cac_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6641/its-a-kind-of-magic--psychedelic-mushroom-trip-soothes-depression-in-terminally-ill-patients
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - rachelgillespie
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701131415-felix-15074727357_6221618cac_o.jpg"
-image_caption: ""
 ---
 
 It was like a space shuttle launch…that gives way to the weightlessness and majesty of space…” These are the words of Patrick Mettes, a participant in a recent clinical trial looking into the effects of psilocybin – the active component of aptly named ‘magic’ mushrooms – on depression and anxiety in cancer.

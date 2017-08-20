@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Children is on at the Jerwood Theatre (Royal Court Theatre) until 14th February 2017
 date: "2016-12-02 14:57:36 +0000"
-
-# Attributes from Felix Online V1
-id: "6534"
-old_path: /arts/6534/the-children-is-a-triumph-of-acting-and-staging-
+image: "http://felixonline.co.uk/img/upload/201612021456-felix-RCTchildrenProd2016JP_00345_WEB.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6534/the-children-is-a-triumph-of-acting-and-staging-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - adamgellatly14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612021456-felix-RCTchildrenProd2016JP_00345_WEB.jpg"
-image_caption: ""
 ---
 
 From the moment The Children – written by Olivier Award winner, Lucy Kirkwood – begins, the on-stage chemistry between Rose and Hazel is a joy to behold. Played by Francesca Annis and Deborah Findlay respectively, the juxtaposition between the calm and uptight exterior of Rose and the scatterbrain Hazel leads to an opening that is nothing short of hilarious, in a play that is as laugh-out-loud funny as it is touching.

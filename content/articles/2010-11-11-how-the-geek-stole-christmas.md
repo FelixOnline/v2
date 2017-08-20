@@ -4,18 +4,15 @@ title: >
 subtitle: >
   I don't mind all the early Christmas celebrations, it's just that I feel like someone's thrown a kettle of boiling water in my face...
 date: "2010-11-11 21:46:16 +0000"
-
-# Attributes from Felix Online V1
-id: "367"
-old_path: /comment/367/how-the-geek-stole-christmas
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/367/how-the-geek-stole-christmas
-imported: true
 comments:
  - value: >
      I forgot to mention at the time, but: <br> <br>Have you been good little boys and girls this year? Of course you haven't. But if you think I give a toss, you can send your gift wishlists to anangrygeek@gmail.com anyway. <br> <br>Cheers.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - mrangry
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I collapsed this week, caved in and put Fairytale Of New York by The Pogues on my iPod. It’s like funding an insurgency campaign in my mp3 player; it’s not offensively Christmassy, but it’s beginning to make the other albums on there consider rising up in protest and installing a festive dictatorship.

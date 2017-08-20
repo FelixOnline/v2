@@ -4,18 +4,15 @@ title: >
 subtitle: >
   George Butcher discusses how to determine the value of education
 date: "2014-11-28 00:46:24 +0000"
-
-# Attributes from Felix Online V1
-id: "4965"
-old_path: /comment/4965/attending-university-can-be-a-risky-business
+image: "http://felixonline.co.uk/img/upload/201411280046-ps3110-student-loan-blog-image.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4965/attending-university-can-be-a-risky-business
-imported: true
 comments:
  - value: >
      財布激安販売エルメス スーパーコピー,スーパーコピーブランド激安販売売スーパーコピーロレックス スーパーコピー,スーパーコピーROLEX激安販売IWC スーパーコピー,スーパーコピーIWC時計激安販売エルメス時計スーパーコピー,スーパーコピーhermes時計激安販売ボッテガ ヴェネタスーパーコピー,スーパーコピーブランド財布激安販売スーパーコピー時計スーパーコピーブランドバッグ時計コピー激安販売 <br>クリスチャンディオールバッグスーパーコピー http://www.bestevance.com/vuitton/index.htm, <br>ミュウミュウ財布スーパーコピー http://www.wtobrand.com/pr1.html,fitflop shops <br>fitflop sandals sale http://australiafitflops.blogspot.com/,christian louboutin new york <br>cheap christian louboutin http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin size chart <br>christian louboutin sale outlet http://canadachristianlouboutinoutlet.blo
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411280046-ps3110-student-loan-blog-image.jpg"
-image_caption: ""
 ---
 
 I was sat in a job interview, nervously trying to justify my existence to a stranger and I was asked “Why did you chose to study at Imperial?”. I think I managed to persuade him it wasn’t because Cambridge had rejected me and that it was in fact, “Imperial’s academic rigour and forward thinking ethos”. If I’m honest I applied because it was top of the league tables and I came because I managed to get the grades.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The new library doors are "a menace", says Ned Yoxall
 date: "2012-02-23 20:40:54 +0000"
-
-# Attributes from Felix Online V1
-id: "2239"
-old_path: /comment/2239/library-doors-a-refutation
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2239/library-doors-a-refutation
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - ams111
  - eoy05
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In training for long distance things, you have to train for quite a long time. Whether I’m in the pool, on the bike, or on a run I usually get some ‘quality’ time with my own thoughts. What follows is the result of this time alone…

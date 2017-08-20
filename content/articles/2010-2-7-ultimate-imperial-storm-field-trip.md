@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Five teams through to BP's Ultimate Field Trip Challenge
 date: "2010-02-07 03:27:24 +0000"
-
-# Attributes from Felix Online V1
-id: "80"
-old_path: /news/80/ultimate-imperial-storm-field-trip
+image: "http://felixonline.co.uk/img/upload/201002070321-ak6309-Ultimate.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/80/ultimate-imperial-storm-field-trip
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ak6309
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002070321-ak6309-Ultimate.jpg"
-image_caption: ""
 ---
 
 Five teams of Imperial students who entered BP's Ultimate Field Trip competition are through to the semi finals, in which they will compete by presenting their ideas on tackling the carbon challenge to a panel of BP experts. The fifteen students are competing for the opportunity to receive a paid internship with BP in their North Sea business unit this summer.

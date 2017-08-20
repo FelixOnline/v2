@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alice Yang’s list of books bound to give you more than just a pick-me-up
 date: "2012-06-22 10:46:08 +0100"
-
-# Attributes from Felix Online V1
-id: "2579"
-old_path: /fashion/2579/essential-reads
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/2579/essential-reads
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __THE DRESS__

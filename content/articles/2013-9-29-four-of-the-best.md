@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Felix Music guide to London’s best music venues and shops
 date: "2013-09-29 14:51:43 +0100"
-
-# Attributes from Felix Online V1
-id: "3776"
-old_path: /music/3776/four-of-the-best
+image: "http://felixonline.co.uk/img/upload/201309291549-tna08-christian-marclay-oto-copy.jpg"
+image_caption: "Christian Marclay at Cafe Oto"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3776/four-of-the-best
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309291549-tna08-christian-marclay-oto-copy.jpg"
-image_caption: ""
 ---
 
 ###  Gig Venues

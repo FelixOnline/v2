@@ -4,16 +4,13 @@ title: >
 subtitle: >
   AuxIn and Gene Guard bring huge success to Imperial team
 date: "2011-11-10 22:08:13 +0000"
-
-# Attributes from Felix Online V1
-id: "1742"
-old_path: /news/1742/european-success-for-imperial-at-igem
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1742/european-success-for-imperial-at-igem
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - pk1811
  - rb808
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The iGEM (international Genetically Engineered Machine) competition is run every year with hundreds of teams from all over the world competing for the top prize in synthetic biology – a shiny piece of glass. It is now in its eighth year running and bigger than ever before, with the grand finale at MIT now preceded by three regionals in Europe, Asia and America. The objective of the competition is to essentially engineer bacteria to do something awesome – find land mines, produce fiery luminescence, you name it.

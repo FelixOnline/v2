@@ -4,16 +4,13 @@ title: >
 subtitle: >
   ...and our picks for the summer!
 date: "2016-06-17 09:29:29 +0100"
-
-# Attributes from Felix Online V1
-id: "6282"
-old_path: /arts/6282/the-editors-picks-of-the-past-year
+image: "http://felixonline.co.uk/img/upload/201606171126-felix-serp.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6282/the-editors-picks-of-the-past-year
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606171126-felix-serp.jpg"
-image_caption: ""
 ---
 
 ## Picks for summer

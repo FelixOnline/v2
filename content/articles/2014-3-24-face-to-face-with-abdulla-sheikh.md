@@ -4,18 +4,15 @@ title: >
 subtitle: >
   This week I interviewed Abdulla Sheikh. He is a MSc student at Imperial who has recently started a business and is currently organising TedX Imperial as well as working on a number of other exciting projects.
 date: "2014-03-24 03:40:04 +0000"
-
-# Attributes from Felix Online V1
-id: "4496"
-old_path: /features/4496/face-to-face-with-abdulla-sheikh
+image: "http://felixonline.co.uk/img/upload/201403240340-jal08-whotter.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4496/face-to-face-with-abdulla-sheikh
-imported: true
 comments:
  - value: >
      Well, Abdulla has good ambition,vision and acheivment, keep it up . We wish all the best for your future.
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201403240340-jal08-whotter.jpg"
-image_caption: ""
 ---
 
 __Can you tell us a bit about your current business in the sustainability sector?__

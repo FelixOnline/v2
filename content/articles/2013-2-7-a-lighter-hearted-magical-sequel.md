@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Doesn't stray out of the zones of interestingness
 date: "2013-02-07 22:40:52 +0000"
-
-# Attributes from Felix Online V1
-id: "3244"
-old_path: /books/3244/a-lighter-hearted-magical-sequel
+image: "http://felixonline.co.uk/img/upload/201302072240-tna08-stray-souls.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3244/a-lighter-hearted-magical-sequel
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - cw1509
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302072240-tna08-stray-souls.jpg"
-image_caption: ""
 ---
 
 Stray Souls is Kate Griffin’s latest book, the first in the Magicals Anonymous series, and is set in the same magical version of London as her Matthew Swift series (the first of which will be reviewed in next week’s edition of Felix). The urban fantasy sub-genre is becoming increasingly popular but Griffin shows here, as in her previous work, that she is still someone to watch, even in such a crowded field. You don’t have to have read that series to still enjoy Stray Souls, but there is some crossover and reading the earlier books first wouldn’t hurt.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jack Steadman can't stop thinking about the RSC's powerful production of Death of a Salesman.
 date: "2015-05-26 12:47:27 +0100"
-
-# Attributes from Felix Online V1
-id: "5562"
-old_path: /arts/5562/the-rscs-thoroughly-modern-miller
+image: "http://felixonline.co.uk/img/upload/201505261344-js5913-death-of-a-salesman.jpg"
+image_caption: "L-R – Alex Hassell (Biff), Harriet Walter (Linda Loman), Antony Sher (Willy Loman), and Sam Marks (Happy) in the RCS’s Death of a Salesman"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5562/the-rscs-thoroughly-modern-miller
-imported: true
 comments:
  - value: >
      We use DHL, EMS and UPS, etc. to deliver the products to major destinations, such as the US, Europe and Australia, in just a few days, which makes it convenient for your to get your Nike wholesale orders. We have been focusing on combining the best quality, the latest style together with the lowest prices on likecheapjordans.com. We’ve always been trying our best to provide our customers with pleasing online shopping experience. We know that qualities, prices, shipping time, customer service are what you concern about most. Thus, we attach great significance to all these four factors in order to make us a customer-friendly online shopping website. <br>cheap jordans http://www.likecheapjordans.com,We use DHL, EMS and UPS, etc. to deliver the products to major destinations, such as the US, Europe and Australia, in just a few days, which makes it convenient for your to get your Nike wholesale orders. We have been focusing on combining the best quality, the latest style together with the lowest prices on likecheap
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505261344-js5913-death-of-a-salesman.jpg"
-image_caption: ""
 ---
 
 With 2015 marking the centenary of Arthur Miller’s birth, it was inevitable that a fresh crop of revivals of the great American playwright’s works would spring up across the theatre world. Last year saw Yael Farber direct a production of _The Crucible_, staged in the round at the __Old Vic__ and starring Richard Armitage, while Ivo Van Hoe brought _A View from the Bridge _back to life in a startlingly minimalist production that moved from the __Young Vic__ to the __Wyndham’s Theatre__ for early 2015.

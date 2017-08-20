@@ -4,16 +4,13 @@ title: >
 subtitle: >
   felix tries a sport. Oh yeah
 date: "2016-11-07 13:15:17 +0000"
-
-# Attributes from Felix Online V1
-id: "6404"
-old_path: /sport/6404/kabaddi-kabaddi-kabaddi
+image: "http://felixonline.co.uk/img/upload/201611071315-felix-Screen Shot 2016-10-31 at 20.06.40.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6404/kabaddi-kabaddi-kabaddi
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - samsmith
  - ss11814
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611071315-felix-Screen Shot 2016-10-31 at 20.06.40.jpg"
-image_caption: ""
 ---
 
 Right, now I’ve got your attention, listen up. I’m the new Sport editor, I love playing sports, I love writing about sports, and right now I’m writing about one sport most of you probably haven’t heard of (including myself until a week ago). Apologies in advance for those expecting a heroic sports story, I’m more likely to star in _The Benchwarmers_ than _The Mighty Ducks_.

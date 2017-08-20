@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Morgan Heycock describes the RAG Dollz adventure to Paris
 date: "2015-02-13 15:16:45 +0000"
-
-# Attributes from Felix Online V1
-id: "5257"
-old_path: /cands/5257/dont-lose-your-rag
+image: "http://felixonline.co.uk/img/upload/201502131516-bwh12-3stoogesjailbreak3.jpg"
+image_caption: "This approach apparently only works on this side of the Channel."
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5257/dont-lose-your-rag
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -25,12 +23,6 @@ authors:
  - mh2713
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502131516-bwh12-3stoogesjailbreak3.jpg"
-image_caption: ""
 ---
 
 After 5 hours of nervous sleep and a night spent discussing almost military tactics, myself, Sophie Johnston and Will Daubney waited in Beit Quad for 09:00 to pass with trepidation.

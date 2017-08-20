@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The single might be topping the charts but does it perpetuate damaging stereotypes about Africa?
 date: "2014-11-20 21:23:23 +0000"
-
-# Attributes from Felix Online V1
-id: "4915"
-old_path: /comment/4915/is-bob-geldofs-band-aid-out-of-touch
+image: "http://felixonline.co.uk/img/upload/201411202123-cj914-pay-band-aid-30-line-up.jpg"
+image_caption: "Be honest: how many of these can you name?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4915/is-bob-geldofs-band-aid-out-of-touch
-imported: true
 comments:
  - value: >
      This post is actually a pleasant one it helps new the web visitors, who are wishing in favor of blogging. <br>moncler bambino genova http://www.targettisportingclub.it/?it-moncler-bambino-genova-8331.html,fitflops sandals <br>fitflop stores http://www.australiafitflops.com/,fitflop australia outlet <br>fitflops sale online australia http://fitflopsau.blogspot.com/,birkenstock online discount <br>buy birkenstocks online http://birkenstockaustralia.rochecap.org/,louboutin shoes price <br>christian louboutin shoes outlet http://christianlouboutincanadaoutlet.blogspot.com/,christian loubitan <br>christian louboutin outlet http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin online <br>christian louboutin sale canada http://canadachristianlouboutin.blogspot.com/,louboutin bianca canada <br>cheap christian louboutin canada http://canadachristianlouboutin.blogspot.com/,christian louboutin flats for women <br>christian louboutin sale outlet http://canadachristianlouboutinoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411202123-cj914-pay-band-aid-30-line-up.jpg"
-image_caption: ""
 ---
 
 Aside from the fact that it makes me feel old (It can’t have been ten years since the last one, I remember that coming out when I was doing my GCSEs...), I have more problems with __Band Aid__ and the song, ‘Do They Know It’s Christmas’ than I can possibly keep straight. Of course, there’s as big a difference between a dislike of the song and the concept as there is between the concept and the incarnation. Band Aid 30 represents a significant modernisation in the track, which aims to raise money to tackle the Ebola Crisis, and features significant changes to the lyrics compared to the original in 1984, which raised funds to help counter the Ethiopian famine.

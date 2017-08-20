@@ -4,18 +4,15 @@ title: >
 subtitle: >
   In or out? You decide.
 date: "2013-01-10 22:23:10 +0000"
-
-# Attributes from Felix Online V1
-id: "3086"
-old_path: /news/3086/union-to-hold-referendum-on-nus
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3086/union-to-hold-referendum-on-nus
-imported: true
 comments:
  - value: >
      What would membership give us? <br> <br>According to their website we would get "NUS extra cards" - which we don't need, access to 'NUS services' which seems to mean joining a massive mailing list and finally 'training'. What in, it's not clear... <br> <br>Let's save the money and spend it on more tables/benches in the union bar.,I think the point is to reaffirm that Imperial remains opposed to joining the NUS. Most of the people who voted to disaffiliate will have left by now, so the democratic thing to do is to hold this referendum. <br> <br>(I for one think that joining the NUS would be a disaster).,please no. Not again. We don't want to piss away tens of thousands of pounds on membership to further inflate the egos of NUS high command. <br> <br>total waste. Money better spent on improving the tap beer at 568.ui,Southampton held one just before Christmas. Despite 2/3rds of the Sabbatical team being active yes campaigners, the No team won by a huge margin. 73% of 5000+ voters. Hopefully imperial will say the same thing!,More imp
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imperial College Union will hold an NUS referendum during this year’s sabbatical elections, which will take place from 8-15 March 2013.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In 2011, Marco Nardone graduated with a degree in Physics from Imperial College. In just two years, the 25-year-old has become CEO & founder of the UK’s biggest student-only social networking platform, Unii.com.
 date: "2013-11-24 15:58:02 +0000"
-
-# Attributes from Felix Online V1
-id: "4104"
-old_path: /biz/4104/what-happens-at-unistays-at-uniicom
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/4104/what-happens-at-unistays-at-uniicom
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -23,12 +20,6 @@ authors:
  - fbusines
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In 2011, Marco Nardone graduated with a degree in Physics from Imperial College. In just two years, the 25-year-old has become CEO & founder of the UK’s biggest student-only social networking platform, Unii.com.

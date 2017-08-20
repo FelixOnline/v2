@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Men's first team miss out on top spot at Oxford
 date: "2010-01-14 19:29:02 +0000"
-
-# Attributes from Felix Online V1
-id: "38"
-old_path: /sport/38/mens-first-team-miss-out-on-top-spot-at-oxford
+image: "http://felixonline.co.uk/img/upload/201001141927-rsp07-fencing2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/38/mens-first-team-miss-out-on-top-spot-at-oxford
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - mb506
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001141927-rsp07-fencing2.jpg"
-image_caption: ""
 ---
 
 A week after the individual championships in Nottingham, the men’s first team drove up to Oxford for their initial round of Premiership matches. This was the first major test of the season, facing up to the Oxford, Cambridge UCL and Bristol teams.

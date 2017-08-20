@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Billion euro mission to Jupiter to launch in 2022
 date: "2012-05-18 11:20:08 +0100"
-
-# Attributes from Felix Online V1
-id: "2470"
-old_path: /science/2470/green-light-for-juice-y-space-mission
+image: "http://felixonline.co.uk/img/upload/201205181219-felix-20060729061958!europa-moon.jpg"
+image_caption: "JUICE will visit Europa (pictured) along with Ganymede and Calisto"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2470/green-light-for-juice-y-space-mission
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - skd09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205181219-felix-20060729061958!europa-moon.jpg"
-image_caption: ""
 ---
 
 The European Space Agency (ESA) is to lead a billion-euro mission to Jupiter and its icy moons. The Jupiter Icy Moons Explorer (JUICE) spacecraft is scheduled to launch in 2022, arriving in the Jupiter system in 2030.

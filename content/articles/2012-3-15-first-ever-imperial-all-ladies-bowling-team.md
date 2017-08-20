@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Brand new team strikes gold in latest competition
 date: "2012-03-15 22:19:26 +0000"
-
-# Attributes from Felix Online V1
-id: "2397"
-old_path: /sport/2397/first-ever-imperial-all-ladies-bowling-team
+image: "http://felixonline.co.uk/img/upload/201203152219-pk1811-bowl.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2397/first-ever-imperial-all-ladies-bowling-team
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - fsport
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152219-pk1811-bowl.jpg"
-image_caption: ""
 ---
 
 Last November, bowlers from Imperial College London competed at the regional BUTBA (British University Tenpin Bowling Association) competition and blazed the lanes, emerging as 1st runners up. Congratulations to Christopher Chan who bowled an average of 211, ranked 2nd overall and to all the other 11 bowlers who have fought their best. The team has advanced to the 2nd round of BUTBA.

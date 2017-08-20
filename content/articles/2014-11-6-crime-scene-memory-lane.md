@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Nick Famer explores Imperial's sordid history
 date: "2014-11-06 18:42:25 +0000"
-
-# Attributes from Felix Online V1
-id: "4766"
-old_path: /comment/4766/crime-scene-memory-lane
+image: "http://felixonline.co.uk/img/upload/201411102227-ps3110-img_0626_690x518.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4766/crime-scene-memory-lane
-imported: true
 comments:
  - value: >
      Having missed out on the spot at the UEFA EURO 2008, England bounced back strongly to book its berth in the fifa 16 hack 2010 with as as 9 wins out of their ten group fulfills. Their only defeat came against Ukraine but till then, their place was finished. <br>fifa 16 hack http://creditsfut.com/
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102227-ps3110-img_0626_690x518.jpg"
-image_caption: ""
 ---
 
 I recently took a stroll down the online memory lane that is the _Felix_ archive, all the way back to the heady days of 1998. Times have changed.

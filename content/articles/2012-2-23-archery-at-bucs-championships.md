@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Like Legolas, but without the pointy ears
 date: "2012-02-23 21:28:05 +0000"
-
-# Attributes from Felix Online V1
-id: "2254"
-old_path: /sport/2254/archery-at-bucs-championships
+image: "http://felixonline.co.uk/img/upload/201202232129-cac111-hannahbucs.jpg"
+image_caption: "You wouldn't wanna mess with her!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2254/archery-at-bucs-championships
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - sjw108
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202232129-cac111-hannahbucs.jpg"
-image_caption: ""
 ---
 
 Last weekend [Imperial’s Archery Club](http://dougal.union.ic.ac.uk/acc/archery/) travelled to Telford for the 2011-2012 [BUCS indoor championships](http://www.bucs.org.uk/page.asp?section=13034%A7ionTitle=Indoor+Championships). This event is the most popular student archery competition on the calendar and this year was no exception with a new record of over 520 entrants descending on the Telford International Centre.

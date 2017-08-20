@@ -4,16 +4,13 @@ title: >
 subtitle: >
   We’re taught that facts are all-important. But we risk forgetting the power of our imagination says Luke Turner, as he deciphers John Lennon’s ‘Imagine’
 date: "2011-03-03 20:58:32 +0000"
-
-# Attributes from Felix Online V1
-id: "1018"
-old_path: /music/1018/imagination-is-more-important-than-knowledge-for-it-is-limitless
+image: "http://felixonline.co.uk/img/upload/201103032049-nm1010-johhhhnn.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1018/imagination-is-more-important-than-knowledge-for-it-is-limitless
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - lht09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103032049-nm1010-johhhhnn.jpg"
-image_caption: ""
 ---
 
 _“Imagine there’s no heaven_

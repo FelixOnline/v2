@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Better than chocolate cake?
 date: "2012-10-18 21:49:31 +0100"
-
-# Attributes from Felix Online V1
-id: "2725"
-old_path: /food/2725/yiangos-coconut-cake
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2725/yiangos-coconut-cake
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - csw09
  - ym1310
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Ingredients

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2017-01-27 16:31:50 +0000"
-
-# Attributes from Felix Online V1
-id: "6692"
-old_path: /science/6692/i-dont-think-youre-ready-for-this-jelly
+image: "http://felixonline.co.uk/img/upload/201701271631-felix-Glow-icecream.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6692/i-dont-think-youre-ready-for-this-jelly
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - aranshaunak16
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701271631-felix-Glow-icecream.jpg"
-image_caption: ""
 ---
 
 Fact: You can get glow-in-the-dark ice cream.

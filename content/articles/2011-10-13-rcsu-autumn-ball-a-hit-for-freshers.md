@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Organisers praised as students are drawn to Embankment by 'fantastic' drinks deal
 date: "2011-10-13 20:09:57 +0100"
-
-# Attributes from Felix Online V1
-id: "1501"
-old_path: /news/1501/rcsu-autumn-ball-a-hit-for-freshers
+image: "http://felixonline.co.uk/img/upload/201110132115-felix-img_0322.jpg"
+image_caption: "There were way more girls there, honestly"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1501/rcsu-autumn-ball-a-hit-for-freshers
-imported: true
 comments:
  - value: >
      That's not just the best anrwse. It's the bestest answer!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110132115-felix-img_0322.jpg"
-image_caption: ""
 ---
 
 A barrage of freshers descended on Opal Bar in Embankment on Wednesday for the Royal College of Science Union’s (RCSU) Autumn Ball, where the faculty hosted their first major event of the year. Promising three free drinks, student prices throughout the night and rides across London on a vintage fire engine, the RCSU saw the event quickly become busy from 9pm and maintain unwavering party spirit until the touted end at 3am.

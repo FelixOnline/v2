@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Wordplay anyone? Or may be a silicone based GP?
 date: "2011-02-24 20:07:33 +0000"
-
-# Attributes from Felix Online V1
-id: "880"
-old_path: /tech/880/ai-geek-bests-human-rivals
+image: "http://felixonline.co.uk/img/upload/201102242003-nm1010-jeopardy.jpg"
+image_caption: "Spot the odd one out"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/880/ai-geek-bests-human-rivals
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +22,6 @@ authors:
  - fa608
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102242003-nm1010-jeopardy.jpg"
-image_caption: ""
 ---
 
 If you have an issue with a silicon based master race, you might want to start hunting around for a welcoming hippie commune, because things just got serious. In three rounds of the American game show Jeopardy, based on participants mastering wordplay to answer general knowledge questions, a pair of skilled human contestants were roundly defeated by a machine – a testament to the distance artificial intelligence has come since chess Grandmaster Gary Kasparov’s epic six game battle with Deep Blue in the late 90’s.

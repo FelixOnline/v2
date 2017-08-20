@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A summary of the key issues from around the world
 date: "2013-10-11 23:32:48 +0100"
-
-# Attributes from Felix Online V1
-id: "3828"
-old_path: /politics/3828/this-week-in-politics-october-12-2013
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/3828/this-week-in-politics-october-12-2013
-imported: true
 comments:
  - value: >
      Hahaha cave man hahaha.They were aacdnved much more then you until nuclear war and flood happened and killed them.They were white people more then 170cm tall who had children on North Americas continent.Those children were also Native Americas people.They were nothing different then most Europians.Later Indians outnumbered them and murdered them in all Indians stories and many whites became red because of climate.Point is that they sailed with boats from Europe to North America.,Gaddafi is a great man.what is happening in the <a href="http://cijuahsupp.com">mildde</a> east is a carefully crafted plan by the american government and the﻿ jews who control it.The goal of america and the jew is for the overthrow of all the <a href="http://cijuahsupp.com">mildde</a> eastern countries.Then a puppet government can be put into place that is really controlled by america and the jew.I hope this plan of america and the jew backfires.People of the <a href="http://cijuahsupp.com">mildde</a> east need to be storng and res
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -27,12 +24,6 @@ authors:
  - kr1512
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __UK e-borders scheme deemed ineffective:__

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   There's only 34 days left till kick off. Are you and your TV ready?
 date: "2010-05-07 11:50:20 +0100"
-
-# Attributes from Felix Online V1
-id: "136"
-old_path: /tech/136/the-world-cup-in-hd
+image: "http://felixonline.co.uk/img/upload/201005071248-srg03-WorldCup.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/136/the-world-cup-in-hd
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - srg03
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201005071248-srg03-WorldCup.jpg"
-image_caption: ""
 ---
 
 The World Cup is coming and it's only 34 days away! That's 32 of the best teams from around the world, battling it out over 30 days, through group stages and knockout games, all to get their hands on that elusive golden trophy. That's a lot of quality football, and this year we'll get the chance to see the whole lot in glorious HD.

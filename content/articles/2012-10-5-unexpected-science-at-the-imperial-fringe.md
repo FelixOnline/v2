@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Take a look at the stranger side of research at a new monthly event
 date: "2012-10-05 12:02:12 +0100"
-
-# Attributes from Felix Online V1
-id: "2609"
-old_path: /science/2609/unexpected-science-at-the-imperial-fringe
+image: "http://felixonline.co.uk/img/upload/201210051301-nn1209-icimages.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2609/unexpected-science-at-the-imperial-fringe
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - nn1209
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210051301-nn1209-icimages.jpeg"
-image_caption: ""
 ---
 
 Imperial College describe the Fringe as “a series of public events exploring the unexpected side of science”, and like the Edinburgh Fringe, and other events with this name, there is a focus on the stranger side the field it covers; in this instance, academic research.

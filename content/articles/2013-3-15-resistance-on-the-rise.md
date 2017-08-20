@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Laurence Pope resists the urge to make a pun...
 date: "2013-03-15 01:02:00 +0000"
-
-# Attributes from Felix Online V1
-id: "3467"
-old_path: /science/3467/resistance-on-the-rise
+image: "http://felixonline.co.uk/img/upload/201303150102-tna08-expat-health-insurance-antibiotic-pills1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3467/resistance-on-the-rise
-imported: true
 comments:
  - value: >
      "No new antibiotics have been introduced into the public domain since 1987" <br> <br>Do you have a source for this? <br> <br>If drugs entered the public domain sooner, what bearing would this have on drug resistance or pharmaceutical companies' willingness to develop new antibiotics? <br> <br>Drugs would certainly be available to more people (for instance, in poor and developing countries) so one might predict this would lead to an faster onset of resistance. On the other hand, these drugs may be more carefully administered due to the absence of aggressive marketing from the patent-holding pharmaceutical company. However, this seems to leave less incentive for the pharmaceutical company to develop the drugs in the first place if the window in which the can re-coup R&amp;D costs and turn a profit is reduced. After all, it seems these days pharmaceuticals live and die by their drug patents.
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303150102-tna08-expat-health-insurance-antibiotic-pills1.jpg"
-image_caption: ""
 ---
 
 As any good Imperial student knows antibiotic resistant bacteria are a growing threat to human health. The threat has been heightened once again by a recent report produced by the government’s chief medical officer, calling the problem a “ticking timebomb”.

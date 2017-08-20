@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Off his tits on politics, Joshua Renken tackles the issue of low voter turnout amongst the millennial generation.
 date: "2015-03-06 16:49:11 +0000"
-
-# Attributes from Felix Online V1
-id: "5359"
-old_path: /politics/5359/why-dont-more-young-people-vote
+image: "http://felixonline.co.uk/img/upload/201503061649-cj914-brand96_w_3147107b.jpg"
+image_caption: "Comedian and political activist Russell Brand has been encouraging young people not to vote and has written a book on modern politics titled Revolution"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/5359/why-dont-more-young-people-vote
-imported: true
 comments:
  - value: >
      g3A71Z http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503061649-cj914-brand96_w_3147107b.jpg"
-image_caption: ""
 ---
 
 With just 61 days to go until polling stations open across the United Kingdom, party election campaigns are well under way. In 2010, voter turnout was at 65%. The over-65’s demographic had an overall turnout of 76%. Amongst 18-24 year olds, however, turnout was only 44% and recent polls indicate that number will be even lower on 7th May.

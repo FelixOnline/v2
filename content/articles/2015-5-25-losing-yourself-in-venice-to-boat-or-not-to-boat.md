@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her tip for navigating the city of water
 date: "2015-05-25 12:59:52 +0100"
-
-# Attributes from Felix Online V1
-id: "5561"
-old_path: /travel/5561/losing-yourself-in-venice-to-boat-or-not-to-boat
+image: "http://felixonline.co.uk/img/upload/201505251358-ync111-p1100656.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/5561/losing-yourself-in-venice-to-boat-or-not-to-boat
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ync111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505251358-ync111-p1100656.jpg"
-image_caption: ""
 ---
 
 Perhaps one of the most frequently asked question for travelers in Venice is whether they should take the water buses or not.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A faster way to fill up on the horizon
 date: "2012-05-18 11:13:50 +0100"
-
-# Attributes from Felix Online V1
-id: "2467"
-old_path: /science/2467/a-cheaper-way-to-make-hydrogen
+image: "http://felixonline.co.uk/img/upload/201205181213-felix-hydrogen-car.jpg"
+image_caption: "Hydrogen car being filled up"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2467/a-cheaper-way-to-make-hydrogen
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205181213-felix-hydrogen-car.jpg"
-image_caption: ""
 ---
 
 A promising way to power vehicles and appliances in the future is through use of hydrogen fuel cells. These, however, require a source of hydrogen to work, and obtaining this hydrogen has typically been an expensive process.

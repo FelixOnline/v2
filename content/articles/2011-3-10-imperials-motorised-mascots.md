@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Jenny Wilson's homage to the fleet of vintage vehicles that belong to all of us
 date: "2011-03-10 19:58:25 +0000"
-
-# Attributes from Felix Online V1
-id: "1059"
-old_path: /news/1059/imperials-motorised-mascots
+image: "http://felixonline.co.uk/img/upload/201103101954-ks607-jezebele.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1059/imperials-motorised-mascots
-imported: true
 comments:
  - value: >
      Hi. As an assistant Bo Keeper in the mid 1960s, I was there when the Queen Mum nearly became a victim of Jezebel's new paint. It was a few years later than you suggest - 1964 or 65 (the plaque commemorating the opening of the Biochem building on Imperial Institute Road will give you the exact date) and it was her gloves which were in danger rather than her coat. The three mascots were to be on show during the ceremony and while Bo and Clem had been buffed and polished days before, Jezebel had not quite completed one of her periodic rebuilds. So on the morning of the ceremony members of all three mascot teams set to with paint brushes to make sure that even though she couldn't run under her own power, she was going to look the part. .... cont ....,... cont ... The story told that day by the Jez Keepers (I was 20 feet away beside Bo) was that the Queen Mum remarked how shiny and new the paint was and stretched out her white-gloved hand as though to stroke it. "Don't touch, Ma'am. It's still wet!!" yelled one of
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - jw1606
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103101954-ks607-jezebele.jpg"
-image_caption: ""
 ---
 
 Pride is a funny sort of thing. It tends to only come out on special occasions: times like when you realise the person you are overhearing on the tube went to a university that is rated 3rd from the bottom rather than 3rd from the top of the league tables and you sit there thinking that you’re pleased that you go to Imperial. I think part of our pride comes from the fact that Imperial offers somewhat ‘classical’ subjects, showing a reverence for the timeless and historically robust. In particular, those things that make sense to us but the rest of the world think are slightly bizarre, such as the fact that we have Varsity against ourselves and that we have a Mountain Hut in the midst of Wales. We are one of three universities (guess the other two) with an Exploration Board that encourages students to get off campus and explore the world, and we are one of two taking care of Vintage Vehicles.

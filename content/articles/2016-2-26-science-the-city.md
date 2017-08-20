@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-02-26 11:35:17 +0000"
-
-# Attributes from Felix Online V1
-id: "5963"
-old_path: /science/5963/science--the-city
+image: "http://felixonline.co.uk/img/upload/201602261134-felix-Chemicals_in_flasks.jpg"
+image_caption: "Our science and engineering mix is wrong – there’s too much specialisation and not enough generalists. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5963/science--the-city
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - nms15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261134-felix-Chemicals_in_flasks.jpg"
-image_caption: ""
 ---
 
 Across the spectrum of living organisms we have species that are adaptable and flexible, known as generalists, and those who occupy unique niches and exploit them maximally, known as specialists. Raccoons are generalists – they’ll eat anything, anytime, anywhere. On the other hand, koala bears are specialists; they can only eat eucalyptus leaves, live in trees, and need warm climates.

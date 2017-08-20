@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Douglas Heaven on The Elder Scrolls V: Skyrim and incredible manliness
 date: "2011-11-17 20:44:35 +0000"
-
-# Attributes from Felix Online V1
-id: "1764"
-old_path: /games/1764/grow-beard-kill-dragons
+image: "http://felixonline.co.uk/img/upload/201111172042-pk1811-screenshot5.jpg"
+image_caption: "New research has shown that dragons make everything 110% more badass"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1764/grow-beard-kill-dragons
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172042-pk1811-screenshot5.jpg"
-image_caption: ""
 ---
 
 Skyrim is a foreign country: they do things differently there. I’ve been trekking its sunny snow-packed hills and alpine meadows for seven days now, but apart from an incredible beard I’ve little to show for it. I know I ought to be more dependable; I know there’s a lot at stake. I know that dragons have suddenly returned to the world, and I know that, as one of the Dragonborn, it’ll probably turn out to be my problem. But with so many rabbits to chase, flowers to pick and butterflies to eat I’m finding it hard to concentrate on any of the many tasks at hand.

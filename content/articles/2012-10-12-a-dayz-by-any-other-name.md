@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ross Webster is looking for friendlies in Cherno
 date: "2012-10-12 10:57:10 +0100"
-
-# Attributes from Felix Online V1
-id: "2682"
-old_path: /games/2682/a-dayz-by-any-other-name
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2682/a-dayz-by-any-other-name
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - rw507
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Zombie games have taken all shapes and sizes over the years, from Wii-based Evil Dead-style games within the Resident Evil universe (Umbrella Chronicles) to frantic rooftop gunfights in the Left 4 Dead series. They all bring in the element of isolation into the mix, surrounded by crumbling cities and smoking ruins, but they just manage to miss that feeling of desperation - you die, and then you respawn or reload, not that far back.

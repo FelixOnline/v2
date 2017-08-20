@@ -4,18 +4,15 @@ title: >
 subtitle: >
   It is vital that the international community acknowledge the realities of the war in Sri Lanka, argues Visakan Balakumar
 date: "2013-02-22 10:34:48 +0000"
-
-# Attributes from Felix Online V1
-id: "3379"
-old_path: /comment/3379/the-execution-of-a-12-year-old-boy
+image: "http://felixonline.co.uk/img/upload/201302221034-tna08-sri-lanka-photo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3379/the-execution-of-a-12-year-old-boy
-imported: true
 comments:
  - value: >
      Firstly I would like to point out that I have mentioned that there were war crimes committed on both sides. The reason I haven't described them specifically is because, whilst there has been documented evidence of government soldiers summarily executing unarmed people and sexually abusing women, there is no such evidence to corroborate allegations against the LTTE. It's not hard to realise why this is the case; the reason is that the Sri Lankan government didn't allow journalists into the war zone, so that they could cover up their own litany of war crimes. Therefore the logical way to move forward and achieve justice and accountability, which is a prerequisite to any reconciliation, is to conduct an independent investigation into allegations based on the final stage of the armed period of the conflict. ,Secondly, the armies of sovereign states should be held to a higher level of responsibility and conduct than rebel groups. Finally I'd like to point out that, the LTTE is no longer a functioning entity. Howev
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302221034-tna08-sri-lanka-photo.jpg"
-image_caption: ""
 ---
 
 It is a war that has produced some of humanity’s most shocking and depraved images. But the new photographic evidence, released by Channel 4 News last Monday, is perhaps the most disturbing yet. The first photo shows Balachandran Prabakaran, the 12-year-old son of a Tamil Tiger, being held captive by the Sri Lankan army and looking up anxiously from a fortified bunker. A second photo shows him nervously eating a snack, whilst being watched by a government soldier. Less than two hours later, he will be taken, executed at gun point – and then photographed a third time.

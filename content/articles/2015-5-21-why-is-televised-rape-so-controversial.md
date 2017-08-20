@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Game of Thrones doesn’t deserve all the hate, argues Cecily Johnson
 date: "2015-05-21 22:56:54 +0100"
-
-# Attributes from Felix Online V1
-id: "5552"
-old_path: /comment/5552/why-is-televised-rape-so-controversial
+image: "http://felixonline.co.uk/img/upload/201505212355-cj914-game-of-thrones.jpg"
+image_caption: "This is not the first time Game of Thrones has been criticised for the way it features rape and sexual violence."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5552/why-is-televised-rape-so-controversial
-imported: true
 comments:
  - value: >
      Thanks for expressing your ideas with this blog. Furthermore, a delusion regarding the banks intentions when talking about foreclosed is that the loan company will not take my installments. There is a specific amount of time that the bank will take payments every now and then. If you are also deep inside hole, they should commonly desire that you pay that payment in full. However, that doesn't mean that they will not take any sort of payments at all. In case you and the loan company can have the ability to work a thing out, a foreclosure approach may stop. However, should you continue to neglect payments under the new strategy, the property foreclosures process can pick up where it was left off. <br>wholesale beanies http://www.twofangtu.cn/beanie-hats,fitflops singapore sale 2014 <br>fitflop singapore outlets http://fitflopssalesingapore.blogspot.com/,Wow, awesome blog format! How lengthy have you ever been running a blog for? you made running a blog glance easy. The total glance of your web site is fantastic, let
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505212355-cj914-game-of-thrones.jpg"
-image_caption: ""
 ---
 
 _[Spoiler warning: this comment piece contains spoilers for all released episodes of Game of Thrones, as well as descriptions of the changes made from its source material, the A Song of Ice and Fire book series.]_

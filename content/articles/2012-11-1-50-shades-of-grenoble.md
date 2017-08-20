@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Will Prince’s Weekend d’Integration
 date: "2012-11-01 22:56:40 +0000"
-
-# Attributes from Felix Online V1
-id: "2801"
-old_path: /comment/2801/50-shades-of-grenoble
+image: "http://felixonline.co.uk/img/upload/201211012256-csw09-baha_men-who_let_the_dogs_out-frontal.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2801/50-shades-of-grenoble
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - mc4509
  - wsp10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211012256-csw09-baha_men-who_let_the_dogs_out-frontal.jpg"
-image_caption: ""
 ---
 
 It must be about midnight and I’m sitting on a sun lounger in a dress I bought from a supermarket several hours earlier with a puffer-jacket-clad security guard checking I don’t try and introduce myself to the pool. Luckily I’ve already learnt my lesson in this department, having tried to introduce myself to someone about ten minutes earlier, only to have a drink poured over my head by their boyfriend for “standing to close to her”.

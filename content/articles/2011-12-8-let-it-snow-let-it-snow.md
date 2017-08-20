@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Science Editors Alexander Karapetian and Kelly Oakes bring you an inside look into snowflakes
 date: "2011-12-08 20:38:48 +0000"
-
-# Attributes from Felix Online V1
-id: "1917"
-old_path: /science/1917/let-it-snow-let-it-snow
+image: "http://felixonline.co.uk/img/upload/201112082040-pk1811-snowflake_-_microphotograph_by_artgeek.jpg"
+image_caption: "A magnified snow crystal"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1917/let-it-snow-let-it-snow
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +23,6 @@ authors:
  - ko407
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082040-pk1811-snowflake_-_microphotograph_by_artgeek.jpg"
-image_caption: ""
 ---
 
 Snowflakes start out life as small particles of dust in a high up cloud. Water freezes around the dust particles, forming tiny ice crystals. At first, the ice crystals grow slowly, developing flat sides known as facets. At this stage they are hexagonal prisms, with eight sides or facets – two shaped like hexagons and six that join the two hexagons together to make the prism. All facets grow at equal rates and, for a while, the ice crystals slowly get bigger. Once they reach a certain size, branches sprout from the six corners of the crystals. The branches grow at the same rate to begin with, because the atmospheric conditions are the same all around the crystals.

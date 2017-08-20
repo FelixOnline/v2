@@ -4,18 +4,16 @@ title: >
 subtitle: >
   George Jeffery on golfing pros, bitches and hoes
 date: "2011-11-17 21:27:45 +0000"
-
-# Attributes from Felix Online V1
-id: "1777"
-old_path: /music/1777/now-not-then-jcq
+image: "http://felixonline.co.uk/img/upload/201111172127-pk1811-jcq.jpg"
+image_caption: "That awkward moment when someone takes the last piece of cake... or the cake."
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1777/now-not-then-jcq
-imported: true
 comments:
  - value: >
      whatever happened to your "den eimai ego" post?i alawys loved that song and i was really surprised that somebody else remembered it.i'm all for your video idea.by the way, the letters i had to type so i could post this where "hebop". do these people know me?,Best of everything with the new CD, it sure is<a href="http://cmajrjmj.com"> saecipl</a>. Thanks for sharing your beautiful words and music. Looking forward to seeing you in Oct. at the Giggling Gator, thanks for coming and gracing us with your talents., those basic glass laser dihydrotestosterone dht cheap cialis
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +26,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172127-pk1811-jcq.jpg"
-image_caption: ""
 ---
 
 This week I’m going back straight back to the UK post-punk/hardcore scene by way of a review of the debut full-length album of __The James Cleaver Quintet__ (JCQ), _That Was Then, This Is Now._ Nearly two years ago the JCQ released their first and only EP _Ten Stages of a Make Up_ to massive critical acclaim. Fans have been eagerly awaiting another release and on Halloween this year, they were given what they wanted.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Security officer punched in face by suspect
 date: "2011-05-26 18:19:15 +0100"
-
-# Attributes from Felix Online V1
-id: "1247"
-old_path: /news/1247/laptop-thief-caught-red-handed-by-college-security
+image: "http://felixonline.co.uk/img/upload/201106060953-felix-img_0018.jpg"
+image_caption: "Security officer Jonathan Adams caught one of the thieves"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1247/laptop-thief-caught-red-handed-by-college-security
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106060953-felix-img_0018.jpg"
-image_caption: ""
 ---
 
 College security officers, reacting to a report last Wednesday of the theft of a laptop computer, chased two young men across campus leading to an arrest and the assault of a security officer.

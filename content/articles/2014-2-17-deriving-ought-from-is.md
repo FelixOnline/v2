@@ -4,16 +4,13 @@ title: >
 subtitle: >
   I agree with Fredric Jameson that we have witnessed a disturbing ‘return of traditional philosophy … beginning with its hoariest subfields, such as ethics.’
 date: "2014-02-17 17:24:07 +0000"
-
-# Attributes from Felix Online V1
-id: "4392"
-old_path: /comment/4392/deriving-ought-from-is
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4392/deriving-ought-from-is
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - ck2513
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I agree with Fredric Jameson that we have witnessed a disturbing ‘return of traditional philosophy … beginning with its hoariest subfields, such as ethics.’ To quote another Marxist Antonio Negri’s Political Descartes, ‘every metaphysics is simultaneously a political ontology’ and this applies all the more to a field like ethics. And to those who suggest that politics is founded on ethics, I suggest they go and (carefully) read the first western work of political philosophy, Plato’s Republic.

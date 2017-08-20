@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Cecily Johnson looks at the annual celebration of Imperial’s research
 date: "2015-05-14 22:25:40 +0100"
-
-# Attributes from Felix Online V1
-id: "5521"
-old_path: /news/5521/imperial-festival-takes-over-campus
+image: "http://felixonline.co.uk/img/upload/201505142324-cj914-imperial_festival_by_john_cairns_9.5.15-30-copy.jpg"
+image_caption: "The Band of the Household Cavalry opened the Festival at 12PM on Saturday, with a fanfare on horseback and marching band"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5521/imperial-festival-takes-over-campus
-imported: true
 comments:
  - value: >
      You have got the best web sites.| <br>csgo skins coin flip http://need-help.org/27415/buy-nba-2k16-vc-somebody-who-shouldnt-be-familiar,You're a very helpful web site; could not make it without ya! <br>madden 17 coins http://www.loukado.com/blogs/post/18083#sthash.UBcFfWrb.SJi1Euko.dpbs
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505142324-cj914-imperial_festival_by_john_cairns_9.5.15-30-copy.jpg"
-image_caption: ""
 ---
 
 Campus was swarmed by 15,000 visitors last weekend as the fourth annual Imperial Festival took place. Hosted by Imperial College London, the festival is a celebration of all things science, technology and arts, featuring interactive exhibits, workshops, talks, tours and performances.

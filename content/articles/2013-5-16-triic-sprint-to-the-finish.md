@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Temperatures rise at BUCS Sprint Triathlon
 date: "2013-05-16 17:54:48 +0100"
-
-# Attributes from Felix Online V1
-id: "3575"
-old_path: /sport/3575/triic-sprint-to-the-finish
+image: "http://felixonline.co.uk/img/upload/201305161853-tna08-920303_10152793614280603_2025627639_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3575/triic-sprint-to-the-finish
-imported: true
 comments:
  - value: >
      The invention of the biclyce has had an enormous effect on society, both in terms of culture and of advancing modern industrial methods. Several components that eventually played a key role in the development of the automobile were invented for the biclyce, including ball bearings, pneumatic tires, chain-driven sprockets, and tension-spoked wheels.
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305161853-tna08-920303_10152793614280603_2025627639_o.jpg"
-image_caption: ""
 ---
 
 This year saw a record number of TriIC members travel to St Mary’s school in Calne for the 2013 BUCS Sprint Championships. It was a stunning morning, the perfect set up for a full day ahead of racing and sunning ourselves on the grass. Eighteen people worked together in the Tetris challenge of squeeze themselves, their bags and racing bikes into two minibuses but with everything finally on board we set off down the M4 on open roads, treated to faint snoring noises from the back seats.

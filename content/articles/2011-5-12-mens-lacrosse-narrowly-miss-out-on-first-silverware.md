@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial bested by Leeds in final
 date: "2011-05-12 18:17:11 +0100"
-
-# Attributes from Felix Online V1
-id: "1192"
-old_path: /sport/1192/mens-lacrosse-narrowly-miss-out-on-first-silverware
+image: "http://felixonline.co.uk/img/upload/201105121916-felix-img_2706.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1192/mens-lacrosse-narrowly-miss-out-on-first-silverware
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - dmt07
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105121916-felix-img_2706.jpg"
-image_caption: ""
 ---
 
 Following a hard fought victory over Swansea in the semis, Imperial Men’s Lacrosse faced up against Leeds Met Carnegie in the BUCS Trophy final in Sheffield on the 17th March. Leeds had narrowly beaten Birmingham in their semi and, having lost against Birmingham 20-0 two years previously, Imperial knew that this would be the most difficult match of the season. However, in the two years since that crushing defeat the team has improved vastly and confidence was high on the long trip up North.

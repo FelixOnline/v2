@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Are we supporting suffering by allying ourselves academically?
 date: "2015-10-23 11:58:00 +0100"
-
-# Attributes from Felix Online V1
-id: "5679"
-old_path: /comment/5679/can-we-ignore-human-rights-abuses-in-china
+image: "http://felixonline.co.uk/img/upload/201510231257-cj914-president-of-china.jpg"
+image_caption: "Xi Jinping is in the UK as a guest of the Queen."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5679/can-we-ignore-human-rights-abuses-in-china
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +23,6 @@ authors:
  - sk2214
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510231257-cj914-president-of-china.jpg"
-image_caption: ""
 ---
 
 According to the College website, we are the UK’s number one research partner with China. In a speech welcoming Xi Jinping, Professor Alice Gast, president of the university, said “brilliant students and academic collaborations are making both the UK and China stronger, more prosperous and ready to deal with the challenges of this century”. Surely these challenges of the century should include opposing inequality, imprisonment without trial and the persecution of ethnic minorities?

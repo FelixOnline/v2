@@ -4,18 +4,16 @@ title: >
 subtitle: >
   I showed Xi Jinping what it’s like to be a student at Imperial
 date: "2015-10-23 11:56:20 +0100"
-
-# Attributes from Felix Online V1
-id: "5678"
-old_path: /comment/5678/my-morning-with-the-president-of-china
+image: "http://felixonline.co.uk/img/upload/201510231255-cj914-president.jpg"
+image_caption: "It didn't rain on this writer's parade."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5678/my-morning-with-the-president-of-china
-imported: true
 comments:
  - value: >
      This inh'sgtis just the way to kick life into this debate.,In group F strategies Italy, Paraguay, New Zealand, and Slovakia. Statistically Jacobs and Ward do what Westbrook gets done alone, although Jacobs can be a lot tougher to lower. The success will earn them international accolades. <br>fifa 16 hack http://creditsfut.com/,Many thanks, this website is really beneficial <br>fifa 17 http://bkjyden.dk/vanilla/discussion/7902/neverwinter-gold-dragon-of-many-many-effective
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - ecj13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510231255-cj914-president.jpg"
-image_caption: ""
 ---
 
 On Wednesday, Imperial was honoured to welcome President Xi Jinping of the People’s Republic of China. The trip to the College was part of a four day visit to the UK, which was the first state visit by a Chinese leader in ten years. In addition to visiting Imperial, the President also met with Prime Minister, David Cameron in an extremely important meeting regarding the building of a new power plant at Hinkley Point, Somerset. Whilst in the UK he is a guest of the Queen, residing at Buckingham Palace.

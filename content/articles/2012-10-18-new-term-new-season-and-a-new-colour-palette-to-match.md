@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This winter is not for shrinking away in shades of grey – whether those are of the sartorial or literary variety. Instead, brave the cold in a chic block of colour offered up on the runways this season. From rich vermilion to deep purple, there’s a shade to suit all tastes.
 date: "2012-10-18 21:21:37 +0100"
-
-# Attributes from Felix Online V1
-id: "2702"
-old_path: /fashion/2702/new-term-new-season-and-a-new-colour-palette-to-match
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/2702/new-term-new-season-and-a-new-colour-palette-to-match
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - stv07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Red__

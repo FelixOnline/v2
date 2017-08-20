@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jamie Rickman on the impact of the US shutdown
 date: "2013-10-24 23:50:08 +0100"
-
-# Attributes from Felix Online V1
-id: "3914"
-old_path: /science/3914/scientists-go-back-to-work
+image: "http://felixonline.co.uk/img/upload/201310250049-felix-amundsen-scott-station.jpg"
+image_caption: "Amundsen-Scott south pole station, now under “caretaker status”"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3914/scientists-go-back-to-work
-imported: true
 comments:
  - value: >
      The agreement, aeunnocnd Wednesday, gives Emanuel a victory that evaded former MayorRichard Daley, who often boasted of his efforts to make Chicago the nation's greenest city. David Baer proble9me1nak tekinti, hogy az egyhe1zakkal kapcsolatos df6nte9st a parlament, nem pedig a ffcggetlen bedrf3se1g hozta meg. The Friday Megapanel: We’re joined by Guy Benson, Krystal Ball, and Toure. Recently,a0a 20-year-old apartment maintenance worker confessed to killing a child who resided at the same Canton, Georgia complex. The pecuniary jurisdiction of the magistrates are again set out in the relevant Act; that is, the Magistrates Court Act, Cap.10, Laws of Kenya.,hey there and thank you for your information – I’ve <a href="http://uyebwsmgyf.com">ceirtanly</a> picked up something new from right here. I did however expertise some technical issues using this site, since I experienced to reload the website lots of times previous to I could get it to load correctly. I had been wondering if your web host is OK? Not t
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - jr1709
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250049-felix-amundsen-scott-station.jpg"
-image_caption: ""
 ---
 
 The 16 day US government shut-down ended last week with an uneasy truce. Obama’s refusal to accept the House Republican’s condition of delaying Obamacare led to the closure of many federal science institutions, painfully elucidating the instability of government funded science in America.

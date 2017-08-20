@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The defense started out solidly
 date: "2016-02-05 12:55:48 +0000"
-
-# Attributes from Felix Online V1
-id: "5889"
-old_path: /sport/5889/lions-trump-immortals
+image: "http://felixonline.co.uk/img/upload/201602051254-felix-Imperial V Birmingham.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5889/lions-trump-immortals
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - pt1114
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602051254-felix-Imperial V Birmingham.jpg"
-image_caption: ""
 ---
 
 Last Sunday the Immortals faced the top team of the Southern Premiership league, the Birmingham Lions. The Immortals knew that with such a strong team like the Lions, they had to come out firing. The Immortals did just that and despite putting up a phenomenal fight the Lions had the edge towards the end of the game and came out victorious with a score of 6-20.

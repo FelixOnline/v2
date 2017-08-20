@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The English bid has been sliding down a slippery slope since May. By David Wilson
 date: "2010-12-02 20:40:10 +0000"
-
-# Attributes from Felix Online V1
-id: "476"
-old_path: /sport/476/footballs-not-coming-home
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/476/footballs-not-coming-home
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - ac1507
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The dust hasn’t even had time to settle; the Davids Cameron and Beckham as well as HRH Prince William are making their way back to England defeated. The 2018 World Cup will be played in Russia and the next opportunity for England to host the event will be in 20 years time. Initial reports suggest England, once favourites to stage the event, were eliminated during the first round of voting. To many, the news signals disappointment but perhaps not surprise.

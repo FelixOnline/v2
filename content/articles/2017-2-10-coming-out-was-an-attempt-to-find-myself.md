@@ -4,16 +4,13 @@ title: >
 subtitle: >
   L.C. discusses labels, coming out and falling in love
 date: "2017-02-10 13:44:25 +0000"
-
-# Attributes from Felix Online V1
-id: "6746"
-old_path: /comment/6746/coming-out-was-an-attempt-to-find-myself
+image: "http://felixonline.co.uk/img/upload/201702101344-felix-Screen Shot 2017-02-10 at 13.44.13.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6746/coming-out-was-an-attempt-to-find-myself
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - icanon
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101344-felix-Screen Shot 2017-02-10 at 13.44.13.png"
-image_caption: ""
 ---
 
 I was a special kid (the lonely and isolated type, always lost in their thoughts).  Around the age of five, I remember first hearing about homosexuality and even though it was not quite described as a ‘bad thing’, I still associated it with something to be afraid of. I told myself “with my luck, it will happen to me too” while thinking about a family member who was actually gay.

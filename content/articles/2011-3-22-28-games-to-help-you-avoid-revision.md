@@ -4,16 +4,14 @@ title: >
 subtitle: >
   For the past two terms, Games Editor Simon Worthington has been exploring the untamed world of online gaming and bringing back the best for your enjoyment. We've brought them all together here but be warned, they are extremely fun, addictive and time-consuming. Happy procrastination Imperial!
 date: "2011-03-22 16:33:03 +0000"
-
-# Attributes from Felix Online V1
-id: "1126"
-old_path: /games/1126/28-games-to-help-you-avoid-revision
+image: "http://felixonline.co.uk/img/upload/201103230951-ks607-nanaca-crash.jpg"
+image_caption: "You may regret reading this article..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1126/28-games-to-help-you-avoid-revision
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103230951-ks607-nanaca-crash.jpg"
-image_caption: ""
 ---
 
 __Nanaca Crash__

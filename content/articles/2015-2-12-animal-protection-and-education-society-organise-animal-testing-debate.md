@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Debate featured both pro and con animal testing speakers
 date: "2015-02-12 20:51:01 +0000"
-
-# Attributes from Felix Online V1
-id: "5233"
-old_path: /news/5233/animal-protection-and-education-society-organise-animal-testing-debate
+image: "http://felixonline.co.uk/img/upload/201502130147-ps3110-screen-shot-2015-02-13-at-01.46.40.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5233/animal-protection-and-education-society-organise-animal-testing-debate
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502130147-ps3110-screen-shot-2015-02-13-at-01.46.40.png"
-image_caption: ""
 ---
 
 Last week, The Animal Protection and Education Society (APES) ran a successful talk addressing animal testing, including a speaker from People for the Ethical Treatment on Animals (PETA).

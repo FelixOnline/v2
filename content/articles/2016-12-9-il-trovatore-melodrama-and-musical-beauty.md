@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Il trovatore is on at the Royal Opera House until the 4th of February 2017
 date: "2016-12-09 15:56:19 +0000"
-
-# Attributes from Felix Online V1
-id: "6586"
-old_path: /arts/6586/il-trovatore--melodrama-and-musical-beauty
+image: "http://felixonline.co.uk/img/upload/201612091556-felix-2777ashm_042 NAJMIDDIN MAVLYANOV AS MANRICO, MARIA AGRESTA AS LEONORA (C) ROH. PHOTOGRAPHER CATHERINE ASHMORE.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6586/il-trovatore--melodrama-and-musical-beauty
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - scc114
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612091556-felix-2777ashm_042 NAJMIDDIN MAVLYANOV AS MANRICO, MARIA AGRESTA AS LEONORA (C) ROH. PHOTOGRAPHER CATHERINE ASHMORE.jpg"
-image_caption: ""
 ---
 
 Il trovatore is a classic opera by Verdi, one of the most regularly performed in the operatic repertoire today. It is the sort of opera that has fuelled the caricatures of the art form – it is confusing, extravagant, and filled with impassioned singing, known as much for its convoluted plotline as for its musical beauty.

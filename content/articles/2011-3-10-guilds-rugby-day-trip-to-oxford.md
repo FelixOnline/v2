@@ -4,18 +4,15 @@ title: >
 subtitle: >
   C&G Rugby: C&G 44 – 29 Balliol College
 date: "2011-03-10 21:02:27 +0000"
-
-# Attributes from Felix Online V1
-id: "1080"
-old_path: /sport/1080/guilds-rugby-day-trip-to-oxford-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1080/guilds-rugby-day-trip-to-oxford-
-imported: true
 comments:
  - value: >
      I don't know who at the Vatican compiled the Lexicon (Reggie Foster was paborbly involved, one suspects), but I expect there was not a little Italian influence as well. The machina quae ' would appear to hark back to Italian where - among other things - a typewriter is still a macchina da scrivere'.However Dante would paborbly roll his eyes to find that 'shopping' which was always 'fare le spese' has now become 'fare lo shopping'Years ago in Ireland when Irish was still a required subject in primary and secondary schools our English teacher took great delight in poking fun at the lacunae in Irish for modern terms. His favorite target was bosca ceoil' (music box) for an accordion.As to the perennial disease': here in the US restaurant staffs invariably fall into this when it comes to something that is au jus'. You will usually be asked if you want it with au jus !,I am behind <a href="http://tngxqku.com">wornkig</a> on my dreamboard for August b/c i am <a href="http://tngxqku.com">wornkig</a> on my book f
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -27,12 +24,6 @@ authors:
  - mj107
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 After a convincing win over the RSM last term, the City & Guilds RFC took on Balliol College, Oxford in the annual Gin match. It was to be a day of records; the most number of referees seen in a rugby match and the greatest number of bottles of Gin drunk in one evening. The authoritative word of vice-captain Graeme Ridler stated that the team would meet at 11.50am only for Ridler himself to arrive late.

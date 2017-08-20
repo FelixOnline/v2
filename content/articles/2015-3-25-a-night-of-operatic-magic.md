@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Clara Clark Nevola checks out the ROH’s classic opera
 date: "2015-03-25 13:25:43 +0000"
-
-# Attributes from Felix Online V1
-id: "5450"
-old_path: /arts/5450/a-night-of-operatic-magic
+image: "http://felixonline.co.uk/img/upload/201503251324-ff712-16002973044_229642317d_b.jpg"
+image_caption: "Janai Brugger as Pamina and Anna Siminska as Queen of the Night in Die Zauberflöte"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5450/a-night-of-operatic-magic
-imported: true
 comments:
  - value: >
      great publish, very informative. I ponder why the opposite experts of this sector do not notice this. You must continue your writing. I'm sure, you have a huge readers' base already! <br>bottes timberland france http://www.cc-des-sucs.fr/?fr-bottes-timberland-france-13793.html
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251324-ff712-16002973044_229642317d_b.jpg"
-image_caption: ""
 ---
 
 Mozart’s _Die Zauberflöte_ – _The Magic Flute_ – is back at the __Royal Opera House __in the 12th year of David McVicar’s production. One of the most frequently performed operas, _Die Zauberflöte _has a highly unusual format, with the sung components interspersed with lots of dialogue, making it a piece that requires great theatrical skill as well as world class opera singers. Its storyline weaves in and out of folk-tale, legend, and cult, switching from enchantments to allusions to the Freemasons. Beneath all these nuances, _Die Zauberflöte_ is a boy-meets-girl tale: noble Tamino goes on a quest to find and free the beautiful Pamina, helped by his comic side-kick Papageno. He overcomes the hurdles, defeats the baddies, and even Papageno gets a girl – everyone is happy.

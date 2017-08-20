@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Khurram Liaqat, Writer at the BallGum Blog reviews one of the most anticipated kickstarter games for mobiles
 date: "2014-01-15 16:32:31 +0000"
-
-# Attributes from Felix Online V1
-id: "4214"
-old_path: /games/4214/the-star-in-command
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4214/the-star-in-command
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +19,6 @@ authors:
  - ir112
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Delays, delays and more delays, at the end of which only 30% of the game had been realised. Truly… the cake was a lie. I’m talking, of course, about the Kickstarter campaign of Star Command, a game that was pitched as a strategic space simulator, where aspiring Captain Kirks would explore planets and fight against aliens, all the while chewing bubble gum.

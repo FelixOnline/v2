@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Joseph Dudley shoots for the stars
 date: "2013-03-07 21:48:39 +0000"
-
-# Attributes from Felix Online V1
-id: "3430"
-old_path: /news/3430/how-do-you-organise-a-space-conference-planet
+image: "http://felixonline.co.uk/img/upload/201303072148-jal08-dsc_0715-2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3430/how-do-you-organise-a-space-conference-planet
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - jd3212
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303072148-jal08-dsc_0715-2.jpg"
-image_caption: ""
 ---
 
 Eleven students from the Imperial College Students for the Exploration and Development of Space society (shortened to ICSEDS for obvious reasons) attended the National Student Space Conference 2013 at the University of Bristol last weekend.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Vogue 100: A Century of Style is a celebration of history and what made it beautiful
 date: "2016-02-19 12:11:53 +0000"
-
-# Attributes from Felix Online V1
-id: "5939"
-old_path: /arts/5939/more-than-just-a-century-of-style
+image: "http://felixonline.co.uk/img/upload/201602191210-felix-vogue-elephant-large_trans++iyqoT1SBB9va1sGv7GIjEobhCNL6eGYb8WWtNBD0x3E.jpg"
+image_caption: "Anne Gunning in Jaipur by Norman Parkinson, 1956."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5939/more-than-just-a-century-of-style
-imported: true
 comments:
  - value: >
      Ho notato solo ora una cosa MERAVIGLIOSA!!!Sergio con la maglietta di FIREFOX…nooooooo la voglio anche io!oooooooooooooooooooooo!!!! dove l’hai presa??? sullo store di mozilla?GRANDE SERGIO!!!ciaoPaolo
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
  - et1214
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602191210-felix-vogue-elephant-large_trans++iyqoT1SBB9va1sGv7GIjEobhCNL6eGYb8WWtNBD0x3E.jpg"
-image_caption: ""
 ---
 
 One enters the exhibition through a room with pillars that are kaleidoscopes of _British Vogue_ magazine covers throughout the years, and is instantly transported to a magical world. The films at the end of the entrance corridor act to further set the scene and create that fantasy atmosphere which resonates throughout the show. The films contrast the iconicity of the covers with their whimsical and dreamy air.

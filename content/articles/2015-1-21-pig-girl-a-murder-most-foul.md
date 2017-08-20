@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Max Falkenberg explores Finborough Theatre's gruesome new production
 date: "2015-01-21 20:31:37 +0000"
-
-# Attributes from Felix Online V1
-id: "5109"
-old_path: /arts/5109/pig-girl---a-murder-most-foul
+image: "http://felixonline.co.uk/img/upload/201501212137-ps3110-rsz_kirstenfosteranddamienlyne2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5109/pig-girl---a-murder-most-foul
-imported: true
 comments:
  - value: >
      Walking in the prnecsee of giants here. Cool thinking all around!
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501212137-ps3110-rsz_kirstenfosteranddamienlyne2.jpg"
-image_caption: ""
 ---
 
 _“People don’t disappear into thin air. Not in this country. Not in Canada.”_

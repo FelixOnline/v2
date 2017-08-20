@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Imperial and St Mary's team up in Greenford
 date: "2011-11-03 22:10:56 +0000"
-
-# Attributes from Felix Online V1
-id: "1699"
-old_path: /sport/1699/ic-hurlers-off-to-strong-start
+image: "http://felixonline.co.uk/img/upload/201111032209-sjw209-p1010118.jpg"
+image_caption: "We’re not entirely sure what the giant mound of earth is for"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1699/ic-hurlers-off-to-strong-start
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - ial08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111032209-sjw209-p1010118.jpg"
-image_caption: ""
 ---
 
 For Imperial’s ﬁrst match there couldn’t have been much of a better way to start the Hurling season. With blue skies and a light breeze in Greenford the boys in blue new they were in for something good.

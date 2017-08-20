@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alternative tablets have nothing on Apple's latest offering
 date: "2011-03-17 21:19:26 +0000"
-
-# Attributes from Felix Online V1
-id: "1100"
-old_path: /tech/1100/ipad-2-blows-away-rivals
+image: "http://felixonline.co.uk/img/upload/201103172118-ks607-facetime.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/1100/ipad-2-blows-away-rivals
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - fa608
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103172118-ks607-facetime.jpg"
-image_caption: ""
 ---
 
 If preliminary reactions are anything to go by, it appears that [Apple might have pulled another winner out of the bag](http://www.apple.com/uk/ipad/) with the newly released successor to the original iPad. The fully upgraded model has been garnering some serious attention from reviewers over the week, with the almost unanimous conclusion being that the device delivers exactly what was promised on the tin, if not more.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The world cannot afford to let science be repressed again
 date: "2017-02-10 14:09:09 +0000"
-
-# Attributes from Felix Online V1
-id: "6754"
-old_path: /science/6754/science-wont-be-trumped
+image: "http://felixonline.co.uk/img/upload/201702101409-felix-14496866427_82e07994f0_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6754/science-wont-be-trumped
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - agnesdonnelly
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101409-felix-14496866427_82e07994f0_o.jpg"
-image_caption: ""
 ---
 
 The past three weeks have meant that the previously enjoyable activity of looking at Facebook has instead become a daily battle of emotions as I brace myself to learn of another Trump shocker. A travel ban on 7 countries, banning organizations from speaking to the public and a petty fight over who had the most fans “ever” at the strange inauguration thing – the headlines just keep on coming from the Trump establishment.

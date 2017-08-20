@@ -4,16 +4,13 @@ title: >
 subtitle: >
    If you’re one of those stereotypical Imperial students who’s allergic to Ministry of Sound then you’re less likely to enjoy some good coke on a Tuesday evening
 date: "2016-12-09 16:15:55 +0000"
-
-# Attributes from Felix Online V1
-id: "6592"
-old_path: /millennials/6592/what-makes-you-more-likely-to-take-drugs
+image: "http://felixonline.co.uk/img/upload/201612091615-felix-Screen Shot 2016-12-09 at 16.15.33.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /millennials/6592/what-makes-you-more-likely-to-take-drugs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - millennials
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felixteam
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612091615-felix-Screen Shot 2016-12-09 at 16.15.33.png"
-image_caption: ""
 ---
 
 All people are the same. Or are they? When it comes to drug use it appears they are not, especially according to the catchily-named Home Office document Drug Misuse: Findings from the 2014/15 Crime Survey for England and Wales. Second edition.

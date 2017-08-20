@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Alex Kendall reports on preparations for summer expedition to Svalbard
 date: "2011-06-02 20:24:04 +0100"
-
-# Attributes from Felix Online V1
-id: "1322"
-old_path: /news/1322/rifles-polar-bears-and-sub-zero-temperatures
+image: "http://felixonline.co.uk/img/upload/201106022126-felix-imgp4200.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1322/rifles-polar-bears-and-sub-zero-temperatures
-imported: true
 comments:
  - value: >
      I theink that it is bad and sad <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106022126-felix-imgp4200.jpg"
-image_caption: ""
 ---
 
 "So of course you’re going to have to take rifles.”

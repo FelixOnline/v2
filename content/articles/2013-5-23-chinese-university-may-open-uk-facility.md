@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Zhejiang University sign agreement with Imperial
 date: "2013-05-23 22:25:37 +0100"
-
-# Attributes from Felix Online V1
-id: "3617"
-old_path: /news/3617/chinese-university-may-open-uk-facility
+image: "http://felixonline.co.uk/img/upload/201305232325-tna08-impnewcampus.jpg"
+image_caption: "Looks like they rejected my pink marble tower with two side structure design. Wonder why..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3617/chinese-university-may-open-uk-facility
-imported: true
 comments:
  - value: >
      Surely providing affordable housing for first years is more important than providing facilities for students from other universities?,Are you nuts? The latter will make FAR more money!!!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305232325-tna08-impnewcampus.jpg"
-image_caption: ""
 ---
 
 [Imperial College London has signed a memorandum of understanding with Zhejiang University (ZJU) ](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_17-5-2013-15-14-49)that could see the creation of a UK facilty for the Chinese university at White City, where Imperial’s new Imperial West campus is to be built.

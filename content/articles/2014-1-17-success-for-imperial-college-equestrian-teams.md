@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rachel Gregory describes the action
 date: "2014-01-17 04:44:31 +0000"
-
-# Attributes from Felix Online V1
-id: "4264"
-old_path: /sport/4264/success-for-imperial-college-equestrian-teams
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4264/success-for-imperial-college-equestrian-teams
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - rg2010
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 On the 11th December 2013 both of Imperial’s Equestrian teams had their second competitions of the year. The first team was hosting their competition at Trent Park Equestrian Centre and the second team were visiting Southampton.

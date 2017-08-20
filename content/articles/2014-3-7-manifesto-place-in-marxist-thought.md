@@ -4,16 +4,13 @@ title: >
 subtitle: >
   To round up my three weeks of commentary on the Manifesto, I shall try and place it in Marxist thought. I was originally going to write a short critique of Marxist thought but it quickly grew to an unreadable length and so I have settled for this slightly less ambitious task.
 date: "2014-03-07 04:54:18 +0000"
-
-# Attributes from Felix Online V1
-id: "4460"
-old_path: /comment/4460/manifesto-place-in-marxist-thought
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4460/manifesto-place-in-marxist-thought
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 To round up my three weeks of commentary on the Manifesto, I shall try and place it in Marxist thought. I was originally going to write a short critique of Marxist thought but it quickly grew to an unreadable length and so I have settled for this slightly less ambitious task. Thus this text is half criticism, half recommendations for further reading. Before I start on the meat of the discussion I should say that in 1848 Marx had begun but by no means finished his study of political economy and so we should not place too much emphasis on the relative lack of ‘economic essentialism’ in the Manifesto; the outline of history in the preface of the Contribution was substantially the same as in the Manifesto, but the economic claims were stronger.

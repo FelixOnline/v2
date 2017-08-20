@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jonathan Masters doesn't care about Trump, but does care about Eurovision
 date: "2017-01-27 16:23:21 +0000"
-
-# Attributes from Felix Online V1
-id: "6688"
-old_path: /comment/6688/eurovision-make-an-effort
+image: "http://felixonline.co.uk/img/upload/201701271639-felix-Screen Shot 2017-01-27 at 16.27.08.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6688/eurovision-make-an-effort
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - jm5014
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701271639-felix-Screen Shot 2017-01-27 at 16.27.08.png"
-image_caption: ""
 ---
 
 You can listen to as much Jamie XX as you like, you can watch black and white films with French subtitles, but there is not a single person on this earth who when viewing the Eurovision song contest doesn’t enjoy the sheer ridiculousness of it. Every year, each one of us remembers that Azerbaijan is a country, that all the best pyrotechnics are found in Europe, and wish that hopefully one of the novelty countries like Australia wins. Even with post-Brexit Britain, millions of people will tune in, with many more illegally streaming it on iPlayer because who actually pays the license fee? It is an aged tradition to listen to Graham Norton creatively talk nonsense and use the most abstract of mathematics to try and calculate a way that the UK could ever finish on the left of the leader board. Why is it, however, that every year Britain puts the least amount of effort into selecting their act?

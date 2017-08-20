@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Afonso Campos talks shop to Drew Foster, one half of the duo behind Foster London
 date: "2011-03-01 20:49:09 +0000"
-
-# Attributes from Felix Online V1
-id: "958"
-old_path: /biz/958/the-business-of-hair-styling
+image: "http://felixonline.co.uk/img/upload/201103012047-ks607-hairdres.jpg"
+image_caption: "Drew Foster's business was truly launched when he was forced to sell his flat to the Council"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/958/the-business-of-hair-styling
-imported: true
 comments:
  - value: >
      Touchodwn! That's a really cool way of putting it!,CfWWbM <a href="http://iewspffimoeg.com/">iewspffimoeg</a>
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103012047-ks607-hairdres.jpg"
-image_caption: ""
 ---
 
 I meet Drew Foster [at his brand new hair salon in the heart of Shoreditch](http://www.fosterlondon.com/salon.html) early one morning. I am there as he opens up shop. There is a familiar atmosphere to the place, not unlike that of a mid to late sixties music video awash with distant pastel colours. Hues of green, pink and blue are adorned with vintage paintings and what seems like an endless collection of porcelain cats. Ramone and Margo, the two resident puppies try to engage us in play. It is impossible to sit down and not be taken aback by the love that has clearly been poured into this place.

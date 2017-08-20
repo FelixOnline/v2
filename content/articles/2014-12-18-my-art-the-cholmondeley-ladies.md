@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Fred Fyles chooses his favourite work of art from the Tate Britain's collection
 date: "2014-12-18 15:14:27 +0000"
-
-# Attributes from Felix Online V1
-id: "5051"
-old_path: /arts/5051/my-art-the-cholmondeley-ladies
+image: "http://felixonline.co.uk/img/upload/201501212217-ps3110-rsz_british_school_17th_century_-_the_cholmondeley_ladies_-_google_art_project.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5051/my-art-the-cholmondeley-ladies
-imported: true
 comments:
  - value: >
      Peculiar article, just what I needed. <br>nike air max 1 youth gs zwart http://www.acmel.nl/nl/?nl-nike-air-max-1-youth-gs-zwart-15876.html,Thanks pertaining to offering this kind of good written content <br>NHL 17 http://fabvegan.com/forums/topic/43374/buy-fifa-17-account-with-coins-o/view/post_id/47024,Amazing... this is a advantageous online site <br>FIFA 17 http://pro.mcatbui.net/blogs/105/338/buy-nba-2k17-coins-in-a-movie-featuring,Wow, beautiful portal. Thnx .. <br>nhl 17 coins http://rmsclub.in/user/forum/topic/1046,http://buy-pillsviagra.org/ - buy-pillsviagra.org.ankor priceslevitra-generic.com.ankor http://onlinewithoutprescriptionpropecia.net/,http://buy-pillsviagra.org/ - buy-pillsviagra.org.ankor priceslevitra-generic.com.ankor http://onlinewithoutprescriptionpropecia.net/,http://buy-pillsviagra.org/ - buy-pillsviagra.org.ankor priceslevitra-generic.com.ankor http://onlinewithoutprescriptionpropecia.net/
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501212217-ps3110-rsz_british_school_17th_century_-_the_cholmondeley_ladies_-_google_art_project.jpg"
-image_caption: ""
 ---
 
 In the Tate Britain, among the historical portraits and seascapes, the Van Dyke's and Van Eyck's, there is one picture that never fails to catch my eye. Entering the 1540 room, marking the beginning of British fine art, four pairs of eyes glare out at you from a single panel. An oil painting on wood, _The Cholmondeley Ladies_ depicts two women, dressed in bleached-white finery, and resembling pieces of bone china, who each carry an infant swaddled in a blood red christening gown.

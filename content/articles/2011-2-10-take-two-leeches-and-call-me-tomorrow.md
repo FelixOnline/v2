@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Nature has, once again, provided a solution to a crucial medical problem
 date: "2011-02-10 20:27:57 +0000"
-
-# Attributes from Felix Online V1
-id: "774"
-old_path: /science/774/take-two-leeches-and-call-me-tomorrow-
+image: "http://felixonline.co.uk/img/upload/201102102025-ks607-leechese.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/774/take-two-leeches-and-call-me-tomorrow-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - ae1409
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102102025-ks607-leechese.jpg"
-image_caption: ""
 ---
 
 Most of us believe that leeches belong to the category of the most disgusting and dangerous creatures of this world. They can, however be beneficial for people’s health.

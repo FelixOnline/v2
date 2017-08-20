@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Good Dinosaur, Pixar's latest offering, does not hold up to close scrutiny
 date: "2015-12-06 13:53:55 +0000"
-
-# Attributes from Felix Online V1
-id: "5796"
-old_path: /film/5796/pixars-latest-fails-to-impress
+image: "http://felixonline.co.uk/img/upload/201512061351-ff712-3207.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5796/pixars-latest-fails-to-impress
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ff712
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201512061351-ff712-3207.jpg"
-image_caption: ""
 ---
 
 Despite an original spin on the classic ‘Boy &amp; His Beast’ trope – in this case, the dinosaur is the boy, and the human the beast – Pixar’s latest, _The Good Dinosaur,_ felt rather childish. And yes, I know it is a _children’s_ film, but that doesn’t mean it has to be childish. The fair amount of violence on screen, however, leads to a confusion as to whom the film was truly aimed at.

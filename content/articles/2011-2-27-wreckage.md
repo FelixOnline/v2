@@ -4,16 +4,13 @@ title: >
 subtitle: >
   After the success of Untethered, Leosoc reveal a brand-new exhibition on Wednesday
 date: "2011-02-27 19:36:14 +0000"
-
-# Attributes from Felix Online V1
-id: "917"
-old_path: /arts/917/wreckage-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/917/wreckage-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - rm1509
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The grand opening of the exhibition in the [Blyth Gallery](http://www3.imperial.ac.uk/arts/visualart/blythgallery) at 6pm on Wednesday is open to everyone. There’ll be free wine, nibbles and a chance to meet the talented artists and talk to them about the works. The theme ‘Wreckage’ is explored through five large scale installations which have been put together by collaborations of artists, and contributions from individual members of the society on the theme.

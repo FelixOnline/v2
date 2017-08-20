@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Joshua Renken is really pedantic about making tea
 date: "2015-03-09 19:07:16 +0000"
-
-# Attributes from Felix Online V1
-id: "5376"
-old_path: /comment/5376/how-do-you-like-your-tea
+image: "http://felixonline.co.uk/img/upload/201503091907-ps3110-tea2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5376/how-do-you-like-your-tea
-imported: true
 comments:
  - value: >
      fitflop hyker sandals for women <br>fitflop sales singapore http://singaporeasalefitflops.blogspot.com/,cheapest fitflops sale <br>fitflop shoes sale http://www.australiafitflops.com/,fitflops buy online <br>cheapest fitflops sale http://australiafitflops.blogspot.com/,fitflops in stores <br>fitflops sale australia http://australiafitflops.blogspot.com/,birkenstock sale sandals <br>buy birkenstock http://birkenstockaustralia2013.blogspot.com/,louboutin for men <br>christian louboutin sale outlet http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin wedding shoes <br>christian louboutin sale outlet http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin outlet canada <br>christian louboutin canada sale http://christianlouboutincanadaoutlet.blogspot.com/,christian lou <br>christian louboutin outlet http://canadachristianlouboutin.blogspot.com/,louboutin sneakers <br>christian louboutin sale clearance http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin pigalle <br>cheap christian louboutin h
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503091907-ps3110-tea2.jpg"
-image_caption: ""
 ---
 
 A fresh cup of English Breakfast tea is truly something to behold. It is the liquid of the Gods and the chosen tipple of this great nation. Make no mistake; to sip a piping hot mug of English breakfast tea after a parched stretch is to know true pleasure. In the last few years I have picked up a few tips on how to best prepare ones cuppa, regardless of which type of breakfast tea you drink. So, laid out before you is a handy cut out ‘n’ keep guide to optimising your brew, if you are interested.

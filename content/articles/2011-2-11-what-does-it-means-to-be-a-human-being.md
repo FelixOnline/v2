@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Never Let Me Go reviewed
 date: "2011-02-11 06:22:51 +0000"
-
-# Attributes from Felix Online V1
-id: "799"
-old_path: /film/799/what-does-it-means-to-be-a-human-being
+image: "http://felixonline.co.uk/img/upload/201102110621-ks607-nevernev.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/799/what-does-it-means-to-be-a-human-being
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jgp09
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102110621-ks607-nevernev.jpg"
-image_caption: ""
 ---
 
 Welcome to Hailsham, an idyllic English boarding school in the peaceful countryside. Students of Hailsham are special and the headmistress Miss Emily (Charlotte Rampling) emphasises that the students’ well-being is of paramount importance. Nothing seems to be out of the ordinary for this seemingly prestigious school but these young and naïve students have no idea what awful future awaits them. Indeed, the students of Hailsham are special. They have been created artificially to be used as donors of vital organs for people in the outside world. Essentially, the school is a forever functioning genetic factory.

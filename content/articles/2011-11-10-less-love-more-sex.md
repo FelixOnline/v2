@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Margot Pikovsky reviews Love, Question Mark
 date: "2011-11-10 21:31:03 +0000"
-
-# Attributes from Felix Online V1
-id: "1731"
-old_path: /arts/1731/less-love-more-sex
+image: "http://felixonline.co.uk/img/upload/201111102130-pk1811-lovequestionmark.jpg"
+image_caption: "She was very inspired"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1731/less-love-more-sex
-imported: true
 comments:
  - value: >
      The world needs more romantics like myself...
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102130-pk1811-lovequestionmark.jpg"
-image_caption: ""
 ---
 
 “SOCIETY still seems to want us to aspire to a stick-together-for–life-and-don’t-stray model for our person to person conduct. Why? Where does this aspiration to monogamy come from?”

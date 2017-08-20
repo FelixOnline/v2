@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Has the market, giving consumers better deals, reduced illegal torrenting?
 date: "2012-11-30 11:40:24 +0000"
-
-# Attributes from Felix Online V1
-id: "3017"
-old_path: /tech/3017/illegal-downloading-thats-oldschool
+image: "http://felixonline.co.uk/img/upload/201211301139-jp1409-torrent-websites.png"
+image_caption: "The fallen torrenting giants, well mostly"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3017/illegal-downloading-thats-oldschool
-imported: true
 comments:
  - value: >
      @Breezeblocks &amp; @tik <br> <br>Sorry for getting back to you 5 months late, ha. <br> <br>But, you've hit on a deeper point I was trying to make with the article. You're right, it's not just music that is now truly global. Access to all media worldwide, at the same time, will greatly benefit consumers, as well as the people who provide this to them. <br> <br>So while we have online musical sensations like Justin Beiber or Gangnam Style, we also have global anime media like Japanese anime, films &amp; games, like you say. <br> <br>I really do believe opening up access to all media benefits consumers and producers (it just shafts the middle men, e.g. record labels). <br>I think a good example is today's news from YouTube (http://www.bbc.co.uk/news/business-22474715). <br> <br>This could provide us with LEGAL and cheap viewing of great TV shows that we would otherwise have to wait for. <br>If it's successful, I forsee YouTube leapfrogging Netflix &amp; LoveFilm on this one.,For tv and film... They need to come up with a legal and affordable solution that al
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211301139-jp1409-torrent-websites.png"
-image_caption: ""
 ---
 
 Writing the previous article on Google Music’s introduction to the UK market reminded me of an interesting question that I’ve been asking myself for a while, “has the progress in the digital music market, which gives consumers a better deal, reduced the amount we illegal download?”

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rooms will be for returning undergraduates only
 date: "2016-03-11 11:18:25 +0000"
-
-# Attributes from Felix Online V1
-id: "6016"
-old_path: /news/6016/renovated-evelyn-gardens-halls-will-cost-up-to-225-per-week
+image: "http://felixonline.co.uk/img/upload/201603111117-felix-12842433_10154175443480695_365991130_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6016/renovated-evelyn-gardens-halls-will-cost-up-to-225-per-week
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603111117-felix-12842433_10154175443480695_365991130_o.jpg"
-image_caption: ""
 ---
 
 Three halls in Evelyn Gardens, Holbein, Southwell and Willis Jackson, which college closed at the end of  last year, will reopen this September to second and third year undergraduates only.

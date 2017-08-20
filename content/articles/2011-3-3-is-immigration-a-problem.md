@@ -4,18 +4,15 @@ title: >
 subtitle: >
   With David Cameron attacking “state multiculturalism” and introducing an immigration quota, Felix asks if there's actually any problem at all?
 date: "2011-03-03 20:45:31 +0000"
-
-# Attributes from Felix Online V1
-id: "1014"
-old_path: /politics/1014/is-immigration-a-problem
+image: "http://felixonline.co.uk/img/upload/201103032039-ks607-immigrat.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1014/is-immigration-a-problem
-imported: true
 comments:
  - value: >
      Cameron (in a slightly confusing speech, in must be said) was talking about how some groups of immigrants tend to separate themselves completely from British society, and the state hasn't done enough to promote a vision of British society for them to be a part of, which is a fair comment and something that always gets repeated. There isn't really much of a sense of 'British' national identity shared by all inhabitants, like in the USA, so the human rights values he spoke of are rightly things the state should be promoting and enforcing, and hence why the Liberty spokeswoman lauded the speech.,Cameron (in a slightly confusing speech, in must be said) was talking about how some groups of immigrants tend to separate themselves completely from British society, and the state hasn't done enough to promote a vision of British society for them to be a part of, which is a fair comment and something that always gets repeated. There isn't really much of a sense of 'British' national identity shared by all inhabitants, l
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -29,12 +26,6 @@ authors:
  - tn509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103032039-ks607-immigrat.jpg"
-image_caption: ""
 ---
 
 __Yes – Haralambos Dayantis__

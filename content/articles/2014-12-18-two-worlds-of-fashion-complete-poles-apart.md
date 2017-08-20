@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Fred Fyles visits The Photographers' Gallery to see what's trendy
 date: "2014-12-18 15:49:01 +0000"
-
-# Attributes from Felix Online V1
-id: "5061"
-old_path: /arts/5061/two-worlds-of-fashion-complete-poles-apart
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5061/two-worlds-of-fashion-complete-poles-apart
-imported: true
 comments:
  - value: >
      Kick the tires and light the fires, problem ofiiafclly solved!
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 On 25th January, 1955, the __MoMA__ opened its doors to the most ambitious photography exhibition ever conceived. Titled _The Family of Man_, the 503 photos aimed to reflect the world around us, highlighting the similarities between vast numbers of people who were just beginning to get their postwar lives together, living in the atomic shadow of Hiroshima. After its wildly popular run in New York, the exhibition toured the world for 8 years, building up a staggering attendance of 9 million; in 2003 its historical value was recognised by UNESCO, who placed the exhibition in their permanent archives. The curator of this grand spectacle? __Edward Steichen__ – intellectual royalty, Academy Award winner, and one of the most influential fashion photographers of his time.

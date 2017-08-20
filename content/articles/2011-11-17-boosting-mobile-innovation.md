@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Kin-Hing Lo explores the revolutionary impact of mobile proliferation on our lives
 date: "2011-11-17 21:41:25 +0000"
-
-# Attributes from Felix Online V1
-id: "1783"
-old_path: /tech/1783/boosting-mobile-innovation
+image: "http://felixonline.co.uk/img/upload/201111172140-pk1811-mobile-apps.jpg"
+image_caption: "Mobile applications have intrinsically changed the way we process information and go about our daily"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/1783/boosting-mobile-innovation
-imported: true
 comments:
  - value: >
      Thanks for the mention of EpiSurveyor: we surpassed 6300 users in 170 countries worldwide last week. Your readers can use it to collect all sorts of field data, for free, at www.episurveyor.org
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172140-pk1811-mobile-apps.jpg"
-image_caption: ""
 ---
 
 As each second ticks away, there’s a quiet revolution going on in every town and every city across the globe. Mobile technology disrupts the way we live our lives, the way we communicate with others and the way we function as a society.

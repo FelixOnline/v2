@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Joseph Letts welcomes you to the Ministry of Magic...
 date: "2011-11-03 20:04:02 +0000"
-
-# Attributes from Felix Online V1
-id: "1660"
-old_path: /politics/1660/the-politics-behind-the-wand
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1660/the-politics-behind-the-wand
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 With Halloween having passed uneventfully last week, in the absence of reports about legions of zombies laying waste to our towns and cities, we present you the Felix Politics Guide to the Ministry of Magic from the Harry Potter Series.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A consultation meeting concerning the new Imperial hall of residence was held last Wednesday. The plans for the hall, currently called One Victoria Road and located in North Acton, some five miles away from the South Kensington Campus, were first announced early last year.
 date: "2014-06-06 02:36:32 +0100"
-
-# Attributes from Felix Online V1
-id: "4653"
-old_path: /news/4653/college-holds-north-acton-consultation-with-students
+image: "http://felixonline.co.uk/img/upload/201406060336-jal08-newseventsimages.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4653/college-holds-north-acton-consultation-with-students
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - mtm10
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406060336-jal08-newseventsimages.jpg"
-image_caption: ""
 ---
 
 A consultation meeting concerning the new Imperial hall of residence was held last Wednesday. The plans for the hall, currently called One Victoria Road and located in North Acton, some five miles away from the South Kensington Campus, were first announced early last year. The outer shells of the buildings have now been built and, when fully completed in 2015, the hall will provide accommodation for 693 undergraduates in 659 en-suite rooms. However, the initial reaction to the new hall was broadly negative, focusing mainly on the distance from the new site to South Kensington. The Student Union launched a large scale ‘Against Acton’ campaign, which prompted a direct reply from the College Management Board aimed at reassuring students.

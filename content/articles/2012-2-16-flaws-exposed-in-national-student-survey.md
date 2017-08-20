@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Data could be readily skewed in Imperial's favour
 date: "2012-02-16 22:19:34 +0000"
-
-# Attributes from Felix Online V1
-id: "2212"
-old_path: /news/2212/flaws-exposed-in-national-student-survey
+image: "http://felixonline.co.uk/img/upload/201202201456-felix-nss.jpg"
+image_caption: "Information gained from the TeachDB database includes name, CID, and year"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2212/flaws-exposed-in-national-student-survey
-imported: true
 comments:
  - value: >
      Settle down gentlemen.,This, we do not yet know. We're working on obtaining an official response from the Department of Computing and our DPE,Is an automated approach realistic? Would ipsos not cotton on to 160 surveys filled in within 5 minutes of each other, all with identical results and all from the same ip etc? I accept it's possible to emulate human behaviour but it does seem an extreme thing for an institution to do rig the NSS. After all, college wants cromulent data work from.,Commentary on rigging being a tad more difficult than it sounds: <br>http://felixonline.co.uk/comment/2203/on-rigging-the-nss/,Good article and comment piece (http://felixonline.co.uk/comment/2203/on-rigging-the-nss/) Alex. It raises serious security concerns. <br> <br>Even though it may be more difficult that expected to create an automated hack of the NSS I am concerned that the most obvious method would be the most effective, manually. If each one is entered individually it'd be more difficult to trace, with the malicious person able
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202201456-felix-nss.jpg"
-image_caption: ""
 ---
 
 Students from the Department of Computing have teamed up with Felix to uncover methods which can be used to skew data being submitted to the [National Student Survey](http://www.thestudentsurvey.com/) (NSS) in favour of Imperial College.

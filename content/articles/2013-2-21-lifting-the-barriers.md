@@ -4,18 +4,16 @@ title: >
 subtitle: >
   What does a trade agreement between the two largest economies in the world mean?
 date: "2013-02-21 13:44:23 +0000"
-
-# Attributes from Felix Online V1
-id: "3339"
-old_path: /politics/3339/lifting-the-barriers
+image: "http://felixonline.co.uk/img/upload/201302211342-txl11-obama-1024x879.jpg"
+image_caption: "US-EU relations"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/3339/lifting-the-barriers
-imported: true
 comments:
  - value: >
      Such "free trade agreements" do nothing to benefit the general population. Instead they are taylored towards investors and special interest groups. <br>I direct you to an article by Noam Chomsky (http://www.chomsky.info/articles/199303--.htm) who argues this point much more lucidly than I could.
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -28,12 +26,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302211342-txl11-obama-1024x879.jpg"
-image_caption: ""
 ---
 
 Spring seems to be in the air. The feeling of change and new prospects seem to blossom. For 2013 marks the beginning of free trade negotiations between the EU and the US.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A small, X-rated snapshot of the sexual lives of Imperial students.
 date: "2011-02-10 21:02:39 +0000"
-
-# Attributes from Felix Online V1
-id: "791"
-old_path: /news/791/felix-sex-survey
+image: "http://felixonline.co.uk/img/upload/201102102059-jk708-SexSurve.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/791/felix-sex-survey
-imported: true
 comments:
  - value: >
      There was a mix up with the data which meant that Civ Eng and Computing were combined. Sorry, Civ Eng and Computing.,Pity you didn't find space for an amusingly shaped sex toy infographic. Were the data not conducive to that sort of thing?,Sorry guys, but Civ. Eng. and Comp. Sci. got combined together in the database so there's literally no way of telling them apart. If only we'd had a few more Comp. Sci's on board... :P,I think we should have one a term to see which term imperial student get laid in the most. And also because I loved doing data analysis waay too much. ,No computing department results?,Could you print computing results separately in the next issue? We really wanna know! ;o),Any more info the answers to the "where on campus have you had sex" question?,Thanks for sharing. What a pleaurse to read!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102102059-jk708-SexSurve.jpg"
-image_caption: ""
 ---
 
 You can view the whole version [here.](http://www.felixonline.co.uk/img/sexsurvey/Felix%20Sex%20Survey.jpg)

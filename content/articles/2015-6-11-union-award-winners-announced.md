@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Carol Ann Cheah rounds up the recipients of Colours, Fellowships and more
 date: "2015-06-11 22:18:34 +0100"
-
-# Attributes from Felix Online V1
-id: "5614"
-old_path: /news/5614/union-award-winners-announced
+image: "http://felixonline.co.uk/img/upload/201506112318-cj914-unionawards.jpg"
+image_caption: "Michael Chung receives one of his awards at last year’s ceremony."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5614/union-award-winners-announced
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506112318-cj914-unionawards.jpg"
-image_caption: ""
 ---
 
 Imperial College Union Council ratified the list of individual Union Award winners at its meeting on Tuesday 8 June, which sees 156 students out of the 310 who were nominated receiving various accolades. The awards recognise those working across the Union, from clubs and societies to representation, with a belief that ‘those who have gone over and above what is expected of them should be recognised.’

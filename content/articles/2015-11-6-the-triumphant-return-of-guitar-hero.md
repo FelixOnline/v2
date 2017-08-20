@@ -4,18 +4,16 @@ title: >
 subtitle: >
   FreeStyleGames’ latest rhythm game is addictive, immersive and refreshingly reactive
 date: "2015-11-06 14:23:43 +0000"
-
-# Attributes from Felix Online V1
-id: "5713"
-old_path: /games/5713/the-triumphant-return-of-guitar-hero-
+image: "http://felixonline.co.uk/img/upload/201511061423-ygr12-tiny.jpg"
+image_caption: "Only Imperial’s supercomputer, Helen, could render graphics this good. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/5713/the-triumphant-return-of-guitar-hero-
-imported: true
 comments:
  - value: >
      aJx4GY http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -28,12 +26,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511061423-ygr12-tiny.jpg"
-image_caption: ""
 ---
 
 Until recently, the click-clack of plastic peripherals felt like a distant memory. Yet, only five years have passed since the death of the rhythm gaming industry. From billions to almost nothing, in 2010 Activision could do nothing as one of their most lucrative franchises melted away.

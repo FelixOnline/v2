@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Referendum on the alternative vote system held up in the Lords
 date: "2011-01-20 19:53:17 +0000"
-
-# Attributes from Felix Online V1
-id: "619"
-old_path: /politics/619/filibustering-dinosaurs
+image: "http://felixonline.co.uk/img/upload/201101201943-dr910-jameslee.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/619/filibustering-dinosaurs
-imported: true
 comments:
  - value: >
      I also want my bf to be 白手興家, who will actually have the drive to push hlmesif forward if he has so much money in the family? The family can give you the money, but not the brain....what will they do if they can no longer get anything from the family one day? To rich to consider la...沒有人坐安思危的啦,Thanks for your thoughtful ideas and<a href="http://efyoanp.com"> cimomtment</a> to learning and engaging with all life. I can remember my father saying, Honey, it's all politics Another great line of his was Is everybody happy This is where I learned about trust. faith, compassion, resilience, sustainability, adventure and love. I learned that life was for giving rather than forgiving some wrongness. I learned that the politics of the Church and the Senate were similar and in those days the same whte men controlled both. I listened to many adult conversations about Power, civil rights issues and a new prayerbook. What I learned most and continue to learn is about the oneness of all creat
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -26,12 +23,6 @@ authors:
  - jl807
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101201943-dr910-jameslee.jpg"
-image_caption: ""
 ---
 
 The chance of the country getting a referendum on the alternative vote system was held up in the Lords this week. The key point of contention is in the title of the bill discussed- ‘The Parliamentary Voting System and Constituencies Bill’ groups together reforms to the way we vote for MPs along with the number and borders of constituencies. At the time of writing, the bill was still not settled, although the front bench members were talking again.

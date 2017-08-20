@@ -4,16 +4,13 @@ title: >
 subtitle: >
   You will meet a disappointing film in Woody Allen’s fortieth feature length rom-com
 date: "2011-03-03 06:15:25 +0000"
-
-# Attributes from Felix Online V1
-id: "986"
-old_path: /film/986/a-missed-opportunity
+image: "http://felixonline.co.uk/img/upload/201103030614-ks607-talldark.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/986/a-missed-opportunity
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103030614-ks607-talldark.jpg"
-image_caption: ""
 ---
 
 So, here it is: Woody Allen’s 40th feature-length film – a director/writer so gifted that he can somehow manage to churn out one film every year. With You Will Meet a Tall Dark Stranger, Allen once again finds himself in London, and is surrounded by sad, unfulfilled characters going through their own versions of an existential crisis. Though all this sounds like the common, perhaps over-used themes central to Woody Allen films, he introduces something new here – juggling with the idea of faith and the supernatural.

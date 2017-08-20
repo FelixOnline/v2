@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Could this be the ‘Great Gig in the Scala’?
 date: "2010-10-28 19:33:03 +0100"
-
-# Attributes from Felix Online V1
-id: "264"
-old_path: /music/264/easy-star-all-stars--scala
+image: "http://felixonline.co.uk/img/upload/201010282030-ma1307-easystar.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/264/easy-star-all-stars--scala
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - lht09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010282030-ma1307-easystar.jpg"
-image_caption: ""
 ---
 
 I have to admit that reggae and psychedelia is not an orthodox blend, come to think of it, it’s hardly like anything out there, and that’s what makes me admire the Easy Star All-Stars for doing something different. Different is not always good, and for those of you who hold the likes of Pink Floyd and The Beatles on a pedestal of progressive and glorious music, I would advise you to steer clear. However, there is no reason why one of the greatest conceptual albums in history, ‘The Dark Side of the Moon’, cannot be opened up to a new audience of reggae skankers. I must admit that I regard some of the original music by these bands as a force that is powerful enough to change the world and at times the Easy Star All-Stars may have missed the point a little and do commit ruthless butchering of otherwise perfect music, but then again, I think, why the hell not?

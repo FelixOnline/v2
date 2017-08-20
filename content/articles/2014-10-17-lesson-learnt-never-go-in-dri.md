@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Oliver Benton covers the first non-alcoholic Union event of the year
 date: "2014-10-17 15:07:11 +0100"
-
-# Attributes from Felix Online V1
-id: "4734"
-old_path: /news/4734/lesson-learnt-never-go-in-dri
+image: "http://felixonline.co.uk/img/upload/201410171646-pk1811-empty_metric_by_tlim.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4734/lesson-learnt-never-go-in-dri
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ohb09
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201410171646-pk1811-empty_metric_by_tlim.png"
-image_caption: ""
 ---
 
 The Union held its first ever alcohol free club night – “Dri” on Monday 13th. Unlucky for some; most likely the bar manager’s profit margins, and anyone who turned up. A full complement of security staff were on hand to deal with the rowdy non-crowd of non-drinkers, and with lime soda priced at 20p to lubricate the masses, the chance of breaking even was always going to be slim. An anonymous Union source said: “We literally had to turn people away, and people kept asking if this was a regular thing”.

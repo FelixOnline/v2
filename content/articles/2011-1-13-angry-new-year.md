@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Worrying about self improvement is a waste of time, so forget about it, go enjoy yourself, but read this first...
 date: "2011-01-13 20:52:04 +0000"
-
-# Attributes from Felix Online V1
-id: "586"
-old_path: /comment/586/angry-new-year
+image: "http://felixonline.co.uk/img/upload/201010012331-ks607-AngryGee.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/586/angry-new-year
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - jk708
  - mrangry
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010012331-ks607-AngryGee.jpg"
-image_caption: ""
 ---
 
 Happy New Year folks. Contractual obligations mean I must make at least one joke about not fulfilling resolutions in the first issue of the year, so here it is right now: I like my resolutions like I like my awkward man-hugs. Well-meaning initially and…not drawn out?

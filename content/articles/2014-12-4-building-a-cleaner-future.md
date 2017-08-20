@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Prashant Mahendran reports on the third London Climate Forum
 date: "2014-12-04 18:49:47 +0000"
-
-# Attributes from Felix Online V1
-id: "4989"
-old_path: /cands/4989/building-a-cleaner-future
+image: "http://felixonline.co.uk/img/upload/201412041849-cj914-_mg_5196.jpg"
+image_caption: "Imperial Hub have hosted the London Climate forum for three years now."
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/4989/building-a-cleaner-future
-imported: true
 comments:
  - value: >
      christian loub <br>cheap christian louboutin canada http://canadachristianlouboutin.blogspot.com/
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -28,12 +26,6 @@ authors:
  - pnm13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412041849-cj914-_mg_5196.jpg"
-image_caption: ""
 ---
 
 The forum’s third year sees its growth to an even bigger event, keeping up with the pressure of climate change itself.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Medicine can become a routine of life stories, lectures and feet. But sometimes, a patient can surprise you
 date: "2011-03-01 20:57:56 +0000"
-
-# Attributes from Felix Online V1
-id: "961"
-old_path: /comment/961/alive-and-kicking
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/961/alive-and-kicking
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - rjd08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I’d like to share with you, if I may, an episode from my life as medical student. No, stop, don’t run away! It’s not that bad, I swear. There may even be a moral at the end of it.

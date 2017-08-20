@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Men’s Lacrosse narrowly miss out on first silverware
 date: "2011-03-25 15:05:34 +0000"
-
-# Attributes from Felix Online V1
-id: "1128"
-old_path: /sport/1128/so-close-yet-so-far
+image: "http://felixonline.co.uk/img/upload/201103251503-jn104-Lacrosse.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1128/so-close-yet-so-far
-imported: true
 comments:
  - value: >
      Thank God! Someone with brains sepkas!,b7e52h <a href="http://jskecyvjkfyy.com/">jskecyvjkfyy</a>
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - jn104
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103251503-jn104-Lacrosse.jpg"
-image_caption: ""
 ---
 
 Following a hard fought victory over Swansea in the semis, Imperial Men’s Lacrosse faced up against Leeds Met Carnegie in the BUCS Trophy final in Sheffield on the 17th March. Leeds had narrowly beaten Birmingham in their semi and, having lost against Birmingham 20-0 two years previously, Imperial knew that this would be the most difficult match of the season. However, in the two years since that crushing defeat the team has improved vastly and confidence was high on the long trip up North.

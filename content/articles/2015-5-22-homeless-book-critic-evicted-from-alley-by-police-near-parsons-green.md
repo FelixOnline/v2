@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Philippa Skett reports as student who prints his reviews leads protests
 date: "2015-05-22 11:08:00 +0100"
-
-# Attributes from Felix Online V1
-id: "5559"
-old_path: /news/5559/homeless-book-critic-evicted-from-alley-by-police-near-parsons-green
+image: "http://felixonline.co.uk/img/upload/201505221207-cj914-homeless-mcgee.jpg"
+image_caption: "Mark Burns has been warned to move on from his regular reading spot or face jail time."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5559/homeless-book-critic-evicted-from-alley-by-police-near-parsons-green
-imported: true
 comments:
  - value: >
      I have seen him almost daily for most of that year and have never seen him doing anything other than reading his books or talking to passers by, many of whom stop to talk to him. I agree there are problems in that alleyway but it is down to the builders who gather there at the end of the day.,I am regular reader, how are you everybody? This paragraph posted at this web page is genuinely fastidious. <br>nike sale near me http://crownmodels.com/?usa-nike-sale-near-me-24242.html,Kristen, thank you for your videos. You are an iniorsatipn for me to live better, love my kids more, try just a little harder.I followed you last year when you became homeless but I had no idea that you were so you hid it well I had just moved into a town home with room and could have shared what extra I had with you. I see your success by the look on your children when you are with them. They never looked like they were missing anything. Take care and know that people do look up to you.Bill,You have got wonderful knowlwdge right.| <br>nba 2k
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505221207-cj914-homeless-mcgee.jpg"
-image_caption: ""
 ---
 
 An Imperial student has reached out to homeless man Mark Burns, 43, by publishing his book reviews online. Mark lives in a tent in the alleyway behind a tube stop, and reads and reviews books given to him by passing commuters.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Femsoc introduce their new campaign, ICSexism
 date: "2015-02-13 14:56:44 +0000"
-
-# Attributes from Felix Online V1
-id: "5255"
-old_path: /cands/5255/everyday-sexism-or-a-deep-rooted-issue
+image: "http://felixonline.co.uk/img/upload/201502131455-bwh12-icsexism.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5255/everyday-sexism-or-a-deep-rooted-issue
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -24,12 +21,6 @@ authors:
  - bwh12
  - nk2914
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502131455-bwh12-icsexism.png"
-image_caption: ""
 ---
 
 Feminist Society is launching the campaign IC SEXISM on campus to document the experiences of students and staff with respect to facing everyday sexism at Imperial College London.

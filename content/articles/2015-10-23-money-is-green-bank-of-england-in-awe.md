@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Why the public must put pressure on governments to invest in renewable energies
 date: "2015-10-23 11:40:04 +0100"
-
-# Attributes from Felix Online V1
-id: "5669"
-old_path: /science/5669/money-is-green-bank-of-england-in-awe
+image: "http://felixonline.co.uk/img/upload/201510231238-cj914-mark_carney_davos_2010.jpg"
+image_caption: "Mark Carney: Big money, big... ego."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5669/money-is-green-bank-of-england-in-awe
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - cj914
  - jc5412
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510231238-cj914-mark_carney_davos_2010.jpg"
-image_caption: ""
 ---
 
 Reports dooming the Earth as we know it are not novel concepts. For all the much needed scaremongering in the media, climate change as a threat sits on a pedestal. It’s a threat that respects no boundaries, operating across all borders. However it’s only recently that the financial repercussions of such a crisis have started stepping into the mainstream.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   We speak to studentbeans.com founder James Eder, who takes the time out to teach us a short lesson in business.
 date: "2012-03-15 19:41:10 +0000"
-
-# Attributes from Felix Online V1
-id: "2346"
-old_path: /biz/2346/spilling-all-the-beans
+image: "http://felixonline.co.uk/img/upload/201203151941-pk1811-james-sb-logo-2011.png"
+image_caption: "Full of beans – James Eder"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/2346/spilling-all-the-beans
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -25,12 +23,6 @@ authors:
  - wsp10
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203151941-pk1811-james-sb-logo-2011.png"
-image_caption: ""
 ---
 
 I’m sat on a couch at [The Beans Group](http://www.thebeansgroup.com/) head office, waiting to interview its founder, James Eder. I’ve been there only a matter of seconds and I’m already finding myself forced to adjust my expectations. The mental images evoked by the word ‘office’ certainly weren’t matching the scenes before my eyes. As Heart FM gently filled the room (that I later discovered to be referred to as the Beanstalk) employees scoured computer screens, tapped furiously or, as a few were doing, discussed what I could only deduce to be this week’s EastEnders. I can’t purport to be a regular when it comes to ‘office tours’, but this was certainly not what I envisaged.

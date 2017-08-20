@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The price is right for these mice
 date: "2012-05-24 23:31:38 +0100"
-
-# Attributes from Felix Online V1
-id: "2489"
-old_path: /tech/2489/kana-reasonably-priced-gaming-mouse-pack-a-punch
+image: "http://felixonline.co.uk/img/upload/201205250031-mc4509-kana.png"
+image_caption: "Who can resist an orange glowing scrollwheel!?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/2489/kana-reasonably-priced-gaming-mouse-pack-a-punch
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +22,6 @@ authors:
  - cb908
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205250031-mc4509-kana.png"
-image_caption: ""
 ---
 
 The SteelSeries Kana is a gaming mouse promising a good specification but at a reasonable price. Armed with a high resolution sensor (3200dpi), two side buttons, two on-board profiles and a resilient, braided cable, it certainly looks good on paper. I’ve been using it for the past week, so let’s take a look at how it is in practice.

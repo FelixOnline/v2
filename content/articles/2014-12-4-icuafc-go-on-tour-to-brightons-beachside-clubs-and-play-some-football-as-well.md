@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Taha Butt describes the action from the coast as they return with mixed results
 date: "2014-12-04 20:28:58 +0000"
-
-# Attributes from Felix Online V1
-id: "5011"
-old_path: /sport/5011/icuafc-go-on-tour-to-brightons-beachside-clubs-and-play-some-football-as-well
+image: "http://felixonline.co.uk/img/upload/201412042028-cj914-img-20141122-wa0010-2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5011/icuafc-go-on-tour-to-brightons-beachside-clubs-and-play-some-football-as-well
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - mtb111
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412042028-cj914-img-20141122-wa0010-2.jpg"
-image_caption: ""
 ---
 
 After weeks of deliberation and minutes of research, tour secretary Naven Ghulam came to the decision that Imperial College Union Association Football Club (ICUAFC) and its hordes of Rangers were to return to the tour destination from two years ago: the lovely sea side town of Brighton. The day began as Philipp Gerstenberg arrived for his first pint at the union a good eight hours before the scheduled departure time. The Tour Sec was bombarded with questions on a range of topics using the hashtag #AskNav. Despite his ability to keep calm in answering these questions, it soon became apparent that he was in fact from the Matt Cann school of tour secs and that the tradition of incompetency was to be carried on. Refusing to let this setback hold them down, the army of Rangers powered on as more and more joined the cause.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Family continues to call for public enquiry into ongoing case
 date: "2012-05-10 18:55:36 +0100"
-
-# Attributes from Felix Online V1
-id: "2429"
-old_path: /news/2429/court-approves-babar-ahmad-extradition-to-united-states
+image: "http://felixonline.co.uk/img/upload/201205101953-pk1811-ahmed-large.jpg"
+image_caption: "Ahmad was interviewed by the BBC in April "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2429/court-approves-babar-ahmad-extradition-to-united-states
-imported: true
 comments:
  - value: >
      Great article... Terrible miscarriage of justice for Babar
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205101953-pk1811-ahmed-large.jpg"
-image_caption: ""
 ---
 
 Babar Ahmad is a British Citizen and former student and staff member of [Imperial College London](http://www.imperial.ac.uk) who has been detained in prison for eight years under anti-terrorist legislation without a trial in the UK. He has been battling against extradition to the US but on 10 April the [European Court of Human Rights](http://www.echr.coe.int/ECHR/homepage_en)[approved](http://cmiskp.echr.coe.int///////tkp197/portalhbkm.asp?sessionId=95024221&skin=hudoc-pr-en&action=request&poll=6#) the decision for him to be extradited within the next three months where he may be subjected to solitary confinement in a ‘Supermax’ prison.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The results from Imperial’s iKnife are promising, but require further validation.
 date: "2013-07-23 17:28:23 +0100"
-
-# Attributes from Felix Online V1
-id: "3745"
-old_path: /science/3745/a-cut-above-the-rest
+image: "http://felixonline.co.uk/img/upload/201307231823-jal08-am-w-iknife-20130718213933737614-620x349.jpg"
+image_caption: "The iKnife has the potential to improve surgical precision"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3745/a-cut-above-the-rest
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - jal08
  - lap08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201307231823-jal08-am-w-iknife-20130718213933737614-620x349.jpg"
-image_caption: ""
 ---
 
 It sounds like something Apple would produce, not a team of Imperial researchers: the iKnife, the surgical device that can ‘sniff out’ cancer.

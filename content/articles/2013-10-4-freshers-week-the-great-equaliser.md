@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Hi, my name is Tessa, and I’m a first year PhD student. This is the beginning of my sixth year at Imperial. It turns out that no matter how together you had everything last week, things never change when it comes to starting something new
 date: "2013-10-04 00:49:49 +0100"
-
-# Attributes from Felix Online V1
-id: "3804"
-old_path: /comment/3804/freshers-week-the-great-equaliser
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3804/freshers-week-the-great-equaliser
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - tad08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I’ve had a pretty typical freshers week.

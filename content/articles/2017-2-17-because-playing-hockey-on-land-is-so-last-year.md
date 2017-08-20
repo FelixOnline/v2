@@ -4,16 +4,13 @@ title: >
 subtitle: >
   I would like to say my ability to puck-push closely resembled that of a graceful mermaid, but only to the extent that it was completely fictional
 date: "2017-02-17 16:20:56 +0000"
-
-# Attributes from Felix Online V1
-id: "6801"
-old_path: /sport/6801/because-playing-hockey-on-land-is-so-last-year
+image: "http://felixonline.co.uk/img/upload/201702171620-felix-octopush 3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6801/because-playing-hockey-on-land-is-so-last-year
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ss11814
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702171620-felix-octopush 3.jpg"
-image_caption: ""
 ---
 
 I have two minor claims to fame: my brother featured in a Gocompare advert alongside Stuart Pearce and I learnt to swim in the same pool as Anthony Head’s children. Pretty impressive right? No, I know, but it means I have always seen swimming as an epic, almost vampire-slaying-esque activity. And I’ve never really been any good at it. So when I was handed the opportunity to try a sport I’ve never played, hockey, and take it to the pool, I was apprehensive.

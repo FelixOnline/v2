@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Hollywood’s extortionate spending on last year’s worst films.
 date: "2011-02-03 19:52:50 +0000"
-
-# Attributes from Felix Online V1
-id: "729"
-old_path: /film/729/why-are-we-still-accepting-bad-films
+image: "http://felixonline.co.uk/img/upload/201102031949-nm1010-tourrist.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/729/why-are-we-still-accepting-bad-films
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jh308
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102031949-nm1010-tourrist.jpg"
-image_caption: ""
 ---
 
 Awards season is here, and whether you take an interest or not, it generally means the time of year when the cinemas are packed with impressive, intelligent films. Though a few of the leading films in this year’s nominees, such as The Social Network or Toy Story 3 were out a few months ago, the majority of the ones generating buzz have only emerged very recently (Black Swan, 127 Hours, True Grit, The King’s Speech). Now is a time when film aficionados will actually relish going to the cinema, a time when they may not actually resent the huge dents in their bank accounts most ticket prices leave.

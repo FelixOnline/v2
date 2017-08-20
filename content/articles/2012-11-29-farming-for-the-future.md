@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jennifer Mitchell discusses how climate change will impact farming
 date: "2012-11-29 22:16:55 +0000"
-
-# Attributes from Felix Online V1
-id: "2987"
-old_path: /science/2987/farming-for-the-future
+image: "http://felixonline.co.uk/img/upload/201212011228-lap08-coffe_farmer.jpg"
+image_caption: "Agriculture: "
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2987/farming-for-the-future
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212011228-lap08-coffe_farmer.jpg"
-image_caption: ""
 ---
 
 Recently, I overheard two students in the Library Café discussing the potential effects of climate change on what we eat. “Could you imagine? I mean fish and bananas, yuk!” They were referring to a recent news article proposing that climate change will affect our crop production to the extent that we will have to start replacing the potato in our diet with bananas. I didn’t think any more of this conversation until the next morning when I opened the paper to the headline [“Climate change threatens coffee crops”](http://www.guardian.co.uk/environment/2012/nov/08/climate-change-threatens-coffee). Clearly this is not a good week for food. Forget the displacement of millions of people, an increase in severe weather events and the associated loss of life. Losing 60% of our coffee? Now that’s serious.

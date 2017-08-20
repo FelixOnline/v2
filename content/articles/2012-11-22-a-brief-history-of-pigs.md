@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The whole crossed out headline thing totally doesn't work online.
 date: "2012-11-22 23:30:31 +0000"
-
-# Attributes from Felix Online V1
-id: "2951"
-old_path: /science/2951/a-brief-history-of-pigs
+image: "http://felixonline.co.uk/img/upload/201211222330-tna08-environmental-impact-disposal-waste-large-scale-pig-production-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2951/a-brief-history-of-pigs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - njk12
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211222330-tna08-environmental-impact-disposal-waste-large-scale-pig-production-copy.jpg"
-image_caption: ""
 ---
 
 Ninety-seven million years ago pigs and humans were one of the same. Well, sort of. There wasn’t exactly a four-trottered, bristly-nosed Homo-something snuffling through the Cretaceous. But we did share a common ancestor, a small generic mammal prototype, whatever that might be.

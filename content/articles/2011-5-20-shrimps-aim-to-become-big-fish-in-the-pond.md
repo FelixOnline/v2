@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Men's 7s football report
 date: "2011-05-20 02:51:49 +0100"
-
-# Attributes from Felix Online V1
-id: "1212"
-old_path: /sport/1212/shrimps-aim-to-become-big-fish-in-the-pond
+image: "http://felixonline.co.uk/img/upload/201105200351-felix-221748_10150263703571393_674991392_9138117_46194_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1212/shrimps-aim-to-become-big-fish-in-the-pond
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - acj06
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105200351-felix-221748_10150263703571393_674991392_9138117_46194_n.jpg"
-image_caption: ""
 ---
 
 Procrastination has only served man kind: The pizza burger, Kite Surfing, Skittle Vodka and now the PistolShrimps! An invitational rugby 7s team formed by Alex Johnstone and Joe Brown whilst trying to revise for their finals…The idea was that the team would be made up of the best players to have passed through Imperial over the past 5 years and a couple of ringers. The intention of the team was to be competitive at the big national tournaments and have a good time doing it.

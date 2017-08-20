@@ -4,18 +4,16 @@ title: >
 subtitle: >
   We head down to the opening night of the ICA’s Buñuel retrospective, where a selection of his key films – Un Chien Andalou, Eating Sea Urchins, and L’Age D’Or – display his mastery of the surreal.
 date: "2015-11-20 09:23:35 +0000"
-
-# Attributes from Felix Online V1
-id: "5754"
-old_path: /film/5754/an-exploration-of-the-irrational
+image: "http://felixonline.co.uk/img/upload/201511200923-ygr12-2.jpg"
+image_caption: "The brutal eye-slicing scene of Un Chien Andalou, which remains one of the most iconic scenes of modern experimental cinema."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5754/an-exploration-of-the-irrational
-imported: true
 comments:
  - value: >
      Actually, this is one of those instances where if you say "I don't get it," it means you get it.Reminds me of that Woody Allen joke: "I took a test in Existentialism. I left all the aneswrs blank and got 100.",Wow, attractive portal. Thnx .. <br>madden 17 coins http://klalogy.com/index.php?do=/blog/24346/cheap-fifa-17-points-jarvis-jones-becomes-possible-cover-athlete-for-039-nc/
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511200923-ygr12-2.jpg"
-image_caption: ""
 ---
 
 Hauntingly beautiful, with no linear narrative, no clear plot, and no apparent meaning, the films of Luis Buñuel mark him out as a revolutionary director and key figure in the avant-garde surrealist movement. At the Institute of Contemporary Arts (ICA) a retrospective of his work and life, begun with his most popular film, Un Chien Andalou (1929), and his most rare film, Eating Sea Urchins (1930); a home-movie made at the house of Buñuel’s close companion and artistic partner Salvador Dalí’s, it has been seen by relatively few.

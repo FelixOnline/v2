@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The fiasco surrounding the reopened halls continues
 date: "2015-09-11 19:09:48 +0100"
-
-# Attributes from Felix Online V1
-id: "5652"
-old_path: /news/5652/hall-seniors-forced-to-move-to-evelyn-gardens
+image: "http://felixonline.co.uk/img/upload/201509112009-ygr12-242_4260.jpg"
+image_caption: "Credit: Neville Miles"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5652/hall-seniors-forced-to-move-to-evelyn-gardens
-imported: true
 comments:
  - value: >
      This is just proof that college hate students. I'm fed up of being considered a cash cow, this is why student satisfaction is so low. I will not be donating as an alumni. <br>,This really adds insult to injury. I didn't think College could do worse... This is on top of my department - chemistry - not caring about me and the staff just being interested in nominating each other for undeserved President's Awards. <br> <br>It's disgusting frankly. They're paying some Vice President to get donations. Here's an idea, treat students like human beings. <br> <br>Knobs.,This is even worse than the life sciences restructure #neverforget ,I heard Daggie Malman tried to sue Felix?,I heard Daggie Mallman sat next to Debra Humphris on a plane and told her she was pretty ,Wait, so this is the trend? First, neglect the student consent and try to close down the closest, yet affordable halls(Everlyn garden halls), then trying to close down Week's hall without any prior notice(or kind of did, but union failed to notify students), now moving
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201509112009-ygr12-242_4260.jpg"
-image_caption: ""
 ---
 
 _Felix_ has learnt that at least four Hall Seniors, who had been selected for places at Beit and Prince's Gardens, have been assigned accommodation at the newly re-opened Evelyn Gardens halls without their consent.

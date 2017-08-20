@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Indira Mallik explains how prejudices have clouded our appreciation of art
 date: "2014-12-18 16:12:55 +0000"
-
-# Attributes from Felix Online V1
-id: "5071"
-old_path: /arts/5071/transforming-modern-perceptions-of-medieval-art
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5071/transforming-modern-perceptions-of-medieval-art
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - im1413
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Earlier this month, the author Saladin Ahmed wrote on Twitter “the fantasy vision of a medieval Europe devoid of people of colour isn’t realism. It’s a different word that starts with ‘r’ and ends with ‘ism’.”

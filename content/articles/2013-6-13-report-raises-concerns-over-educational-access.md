@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Bursary and outreach programmes praised but improved participation needed
 date: "2013-06-13 23:22:13 +0100"
-
-# Attributes from Felix Online V1
-id: "3692"
-old_path: /news/3692/report-raises-concerns-over-educational-access
+image: "http://felixonline.co.uk/img/upload/201306140019-tna08-imp-outreach.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3692/report-raises-concerns-over-educational-access
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306140019-tna08-imp-outreach.jpg"
-image_caption: ""
 ---
 
 A recent joint [report](http://www.offa.org.uk/wp-content/uploads/2013/06/HEFCEOFFA-Joint-Monitoring-Outcomes-Report.pdf) from the Office for Fair Access (OFFA) and the Higher Education Funding Council for England (HEFCE) has raised concerns about the efforts made by elite English universities to increase numbers of students from low income backgrounds. The report, focusing on the 2011-2012 academic year, was generally positive about the efforts of most higher education institutions but recognised key areas for improvement.

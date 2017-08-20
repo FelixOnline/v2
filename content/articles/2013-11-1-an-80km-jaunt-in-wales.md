@@ -4,16 +4,13 @@ title: >
 subtitle: >
   James Ellis’ reflections on an ultramarathon
 date: "2013-11-01 10:42:20 +0000"
-
-# Attributes from Felix Online V1
-id: "3977"
-old_path: /comment/3977/an-80km-jaunt-in-wales
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3977/an-80km-jaunt-in-wales
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - fcomment
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 As most regular runners will testify, there comes a point when having followed a routine for a long time, you feel compelled to mix things up and try something new. It’s the runner’s mid-life crisis. This seems reasonable analogy for it involves committing to something rash, a bad idea. For me this was entering the Wye Valley Ultra, an 80 km race through the mountains of mid-Wales. Several months on from the seemly harmless entry form, the day came along, bringing with it the task of completing a race just shy of two marathons, with over 200m of vertical ascent to contend with. My student tendencies eliminated thoughts of pre-race nerves when I realised that a 3am alarm was required to make the 7.30am start time. Silver linings in everything...

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial takes on the British University Dryslope Championship
 date: "2012-01-12 20:46:40 +0000"
-
-# Attributes from Felix Online V1
-id: "1966"
-old_path: /sport/1966/buds-snowsports-without-snow
+image: "http://felixonline.co.uk/img/upload/201201122310-felix-lukess.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1966/buds-snowsports-without-snow
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - gh209
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201122310-felix-lukess.jpg"
-image_caption: ""
 ---
 
 Life is a relentless cycle of untold misery; the daily drudgery of existence a crushing weight on the unfortunate shoulders of the conscious and the sober. An all-too-brief respite from this grim reality was granted to the dedicated few who chose to brave the annual pilgrimage to Edinburgh for the only dryslope snowsports event ever to achieve a reclassification to Class B.

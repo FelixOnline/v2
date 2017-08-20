@@ -4,16 +4,13 @@ title: >
 subtitle: >
   ICURF take on Surrey
 date: "2016-10-28 15:51:15 +0100"
-
-# Attributes from Felix Online V1
-id: "6357"
-old_path: /sport/6357/ic-squander-ten-point-lead-to-go-0-from-2
+image: "http://felixonline.co.uk/img/upload/201610281750-aib116-DSC_0074.JPG"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6357/ic-squander-ten-point-lead-to-go-0-from-2
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - aib116
  - harryallingham1
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610281750-aib116-DSC_0074.JPG"
-image_caption: ""
 ---
 
 ICURFC 1st XV turned up to a surprisingly calm Harlington, looking for their first victory of the season against the University of Surrey. With stand-in skipper Mike Wright choosing to go against the wind and the slope, IC started strongly with the new structure appearing to work successfully. The Front Row Union were heavily involved from the start with neat handling along with debutant Adam Dowkes, making some strong carries.

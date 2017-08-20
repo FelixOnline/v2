@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Charles Betts on Jamie Oliver's attempt to encourage healthy eating in the US
 date: "2010-10-21 19:30:09 +0100"
-
-# Attributes from Felix Online V1
-id: "241"
-old_path: /food/241/jamies-us-mission-comes-to-a-close-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/241/jamies-us-mission-comes-to-a-close-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - cb403
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Channel 4 aired the finale of Jamie Oliver’s [American Food Revolution](http://www.jamieoliver.com/tv/jamie-s-food-revolution) on Monday night, a six episode TV series that documents the Naked Chef’s attempts to reform the eating habits of Huntington, West Virginia. The city has recently been identified as the US’s unhealthiest by the Centers for Disease Control and Prevention.

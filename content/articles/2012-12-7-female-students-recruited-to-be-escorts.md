@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Website found that acts as conduit for people to get prostitutes to pay for tuition fees
 date: "2012-12-07 00:48:25 +0000"
-
-# Attributes from Felix Online V1
-id: "3026"
-old_path: /news/3026/female-students-recruited-to-be-escorts
+image: "http://felixonline.co.uk/img/upload/201212070039-tna08-sponsor-a-scholar.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3026/female-students-recruited-to-be-escorts
-imported: true
 comments:
  - value: >
      Which don't even begin to be paid off until the university course is over and they're earning more than 21k? A rather poor argument if you ask me.,So no talk of blaming those who set up the system of high tuition fees in the first place?,Couch?
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070039-tna08-sponsor-a-scholar.jpg"
-image_caption: ""
 ---
 
 The Independent has uncovered that [female students are being offered up to £15,000 a year to pay for their university fees in return for having sex with a strange](http://www.independent.co.uk/news/uk/crime/sex-for-tuition-fees-anyone-students-being-offered-up-to-15000-a-year-to-cover-cost-of-university-in-exchange-for-having-sex-with-strangers-8364894.html)r. A website called [SponsorAScholar.co.uk](http://sponsorascholar.co.uk/) proclaimed that they have set 1,400 women between the ages of 17-24 with wealthy businessmen that funded their studies.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The unbeaten Hockey Men defeat Kings
 date: "2011-02-17 20:40:01 +0000"
-
-# Attributes from Felix Online V1
-id: "848"
-old_path: /sport/848/hockey-mens-3rds-continue-unbeaten-streak
+image: "http://felixonline.co.uk/img/upload/201102172037-nm1010-hockeyho.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/848/hockey-mens-3rds-continue-unbeaten-streak
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - jlc08
  - kvm08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102172037-nm1010-hockeyho.jpg"
-image_caption: ""
 ---
 
 The mighty Men’s 3rds continued their fine form on and off the pitch by laying down a marker to their ULU rivals. Designer V scored an early brace before a potential comeback by Kings was snuffed out by a counter attack fortuitously finished off by B Tablet.

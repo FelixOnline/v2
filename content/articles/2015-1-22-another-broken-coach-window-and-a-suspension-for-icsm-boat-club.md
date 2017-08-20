@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The club has been placed on hiatus pending investigation
 date: "2015-01-22 19:42:20 +0000"
-
-# Attributes from Felix Online V1
-id: "5104"
-old_path: /news/5104/another-broken-coach-window-and-a-suspension-for-icsm-boat-club
+image: "http://felixonline.co.uk/img/upload/201501221942-ps3110-screen-shot-2015-01-20-at-13.21.44.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5104/another-broken-coach-window-and-a-suspension-for-icsm-boat-club
-imported: true
 comments:
  - value: >
      Tim Tebow did things have got never been done attending college football and this man did them as a sophomore. So exactly how this method means in fifa ultimate team? And remember, offside penalties have come to be off. <br>fifa 16 hack http://creditsfut.com/,You have one of the greatest web-sites.| <br>Cheap NBA 2k16 http://vk.com/public117384133,Wow because this is excellent job! Congrats and keep it up.| <br>cs go knives http://www.architekt-uli-hoelken.de/phpmyforum/topic.php?id=13265&amp;,Your info is rather useful.| <br>nba 2k16 my account http://facekobo.com/blogs/post/44806,Basically needed to state Now i am thankful that i stumbled upon your website.| <br>cs go skins dual berettas http://www.lifeguarduniversity.com/forums/index.php?p=/discussion/21368/2k16-vc-any-respect-concerning-the-microtransactions,I appreciate reading your web site. Cheers! <br>NFL http://www.memates.com.au/classifieds/3121/5122/nba-2k17-mt-coins-for-sale-the,Thanks regarding providing this type of wonderful knowledge <br>madden 17 coins http://ormas.t
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501221942-ps3110-screen-shot-2015-01-20-at-13.21.44.png"
-image_caption: ""
 ---
 
 Another sports club tour has resulted in a broken coach window, with the club now currently suspended as a result.

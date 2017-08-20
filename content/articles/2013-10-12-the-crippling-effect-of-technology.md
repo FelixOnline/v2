@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Max Eggl ruminates on the repercussion of our device addiction
 date: "2013-10-12 23:50:07 +0100"
-
-# Attributes from Felix Online V1
-id: "3872"
-old_path: /tech/3872/the-crippling-effect-of-technology
+image: "http://felixonline.co.uk/img/upload/201310130049-jal08-tech_hudev.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3872/the-crippling-effect-of-technology
-imported: true
 comments:
  - value: >
      A wonderful job. Super helpful intaomrfion. ,Доброго дня! Як представник компанії і організатор, можу відповісти на всі питання!IT Mobile Technology Day буде проходити в форматі хакатона.На протязі доби в групі або наодинці потрібно створити програму під IOS/Android згідно завдань, які будуть оголошенні на початку.Організатор EPAM Systems.Час проведення 11 лютого-12 лютого 2012 р.Реєстрація та участь безкоштовні!До участі у хакатоні запрошуються як спеціалісти хай левел так і початківці.Програма заходу: Saturday, 11th February13.00– Check-in13.30-14.00 Meeting with the participants, Hackathon rules<a href="http://gnmtvxliiy.com"> dercsiption</a>, hacking beg
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +25,6 @@ authors:
  - me1711
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310130049-jal08-tech_hudev.jpg"
-image_caption: ""
 ---
 
 This is a very interesting question I found myself talking about with a friend recently. Is technology really making us weaker, mentally and physically? If you consider that technology is part of the human condition, then you would disagree and I would be on your side. All the brilliant things that humans have invented really do make everything better (or do they? Sorry just had to put that cliché in). However if we only consider the human as the biological entity that makes him, is there a different story?

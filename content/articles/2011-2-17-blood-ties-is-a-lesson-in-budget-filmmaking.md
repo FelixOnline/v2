@@ -4,18 +4,15 @@ title: >
 subtitle: >
   It captures beauftiful interactions between characters
 date: "2011-02-17 19:34:21 +0000"
-
-# Attributes from Felix Online V1
-id: "820"
-old_path: /film/820/blood-ties-is-a-lesson-in-budget-filmmaking-
+image: "http://felixonline.co.uk/img/upload/201102172028-ks607-bloodtie.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/820/blood-ties-is-a-lesson-in-budget-filmmaking-
-imported: true
 comments:
  - value: >
      We make movies, and indeed, any art, to communicate thoughts and ideas that we might not otherwise be able to express. To have a woman on the other side of the world to so completely get what I was striving and fumbling to say, is at the same time very empowering and humbling... Saphira, I am overwhelmed.
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - smg10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102172028-ks607-bloodtie.jpg"
-image_caption: ""
 ---
 
 Surely they’re called “big budget action flicks” for a reason!? I was initially excited yet cringing at the thought of reviewing an indie action flick. Indie film virgins like myself need not despair; this film is not a desperation tune-in to Air Canada’s In-flight film fest after 10 hours of inter-continental leg cramps. Blood Ties will snatch you out of mainstream cinema drudgery and entice you into the world of micro-budget film viewing.

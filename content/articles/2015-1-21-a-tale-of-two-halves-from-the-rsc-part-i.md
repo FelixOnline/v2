@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Kamil McClelland reviews the Royal Shakespeare Company's production of Henry IV, Part I at the Barbican Centre
 date: "2015-01-21 20:27:02 +0000"
-
-# Attributes from Felix Online V1
-id: "5106"
-old_path: /arts/5106/a-tale-of-two-halves-from-the-rsc---part-i
+image: "http://felixonline.co.uk/img/upload/201501212153-ps3110-joshua-richards-antony-sh-014.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5106/a-tale-of-two-halves-from-the-rsc---part-i
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - km2612
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501212153-ps3110-joshua-richards-antony-sh-014.jpg"
-image_caption: ""
 ---
 
 The __Royal Shakespeare Company__ has shown once again that it defines how Shakespeare should be performed. Unusually at the __Barbican__ as opposed to the __Globe__, the restraints of performing in the round were removed, opening up more options for staging and props. This allowed a realistic scene to be set, engrossing you more fully in this world of debauchery and rebellion.

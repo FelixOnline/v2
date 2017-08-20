@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Humorous application includes making vodka stronger
 date: "2012-02-09 22:36:47 +0000"
-
-# Attributes from Felix Online V1
-id: "2156"
-old_path: /science/2156/graphene-oxide-filters-out-water
+image: "http://felixonline.co.uk/img/upload/201202092236-pk1811-brooklyn_the_richardson_mixologist_joel_lee_kulp_vw_2010-19.jpg_693_471_0_80_1_50_50.jpg"
+image_caption: "90% vodka, anyone?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2156/graphene-oxide-filters-out-water
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202092236-pk1811-brooklyn_the_richardson_mixologist_joel_lee_kulp_vw_2010-19.jpg_693_471_0_80_1_50_50.jpg"
-image_caption: ""
 ---
 
 In a paper recently published in _Science_, a team from the [University of Manchester](http://www.manchester.ac.uk/) has reported that graphene oxide is capable of selectively filtering water molecules, leaving all other types of molecule blocked. This is a particularly surprising result for the team, who, from previous research, expected the graphene derivative to be completely impermeable.

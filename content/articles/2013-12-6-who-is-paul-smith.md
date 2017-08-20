@@ -4,16 +4,13 @@ title: >
 subtitle: >
   he title of the Design Museum’s latest exhibition, ‘Hello My Name Is Paul Smith’, feels slightly redundant. Over the last 40-odd years, Paul Smith has become one of the most recognisable men in the British fashion industry, heading a brand of global renown, and producing a vast range of products...
 date: "2013-12-06 04:15:08 +0000"
-
-# Attributes from Felix Online V1
-id: "4194"
-old_path: /arts/4194/who-is-paul-smith
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4194/who-is-paul-smith
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 What: Hello My Name is Paul Smith

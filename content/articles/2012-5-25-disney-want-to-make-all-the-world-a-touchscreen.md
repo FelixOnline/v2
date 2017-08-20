@@ -4,16 +4,14 @@ title: >
 subtitle: >
   It's a flat world after all
 date: "2012-05-25 14:20:12 +0100"
-
-# Attributes from Felix Online V1
-id: "2492"
-old_path: /science/2492/disney-want-to-make-all-the-world-a-touchscreen
+image: "http://felixonline.co.uk/img/upload/201205251519-mc4509-s1.jpg"
+image_caption: "Tree or surround sound system?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2492/disney-want-to-make-all-the-world-a-touchscreen
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - mc4509
  - sc2911
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205251519-mc4509-s1.jpg"
-image_caption: ""
 ---
 
 Researchers at [Disney](http://disney.go.com/) and [Carnegie Mellon University](http://www.cmu.edu/index.shtml) have published new research which could make everyday objects and even the human body into a touchscreen.

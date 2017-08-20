@@ -4,16 +4,13 @@ title: >
 subtitle: >
   felix discusses what really makes a restaurant shine, with a trip to Popolo – one of Shoreditch’s many new trendy eateries that for once isn’t just overblown hype.
 date: "2016-11-11 17:45:57 +0000"
-
-# Attributes from Felix Online V1
-id: "6435"
-old_path: /food/6435/make-restaurants-great-again
+image: "http://felixonline.co.uk/img/upload/201611111742-felix-IMG_5285.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6435/make-restaurants-great-again
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - yyl114
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611111742-felix-IMG_5285.jpg"
-image_caption: ""
 ---
 
 How do you differentiate between a good and an excellent restaurant? Is it the Michelin-starred chef behind the counter splattering sauce over thumb-sized morsels of food? Is it the extra 0.1 rating or half a star on OpenTable? Or is it the two-hour-long queue outside the no-reservation system every evening?

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   We are even closer to seeing Britain become the first country in the world to allow a three person baby to be born through IVF, as draft rules were announced last week to regulate the process.
 date: "2014-03-28 11:44:15 +0000"
-
-# Attributes from Felix Online V1
-id: "4516"
-old_path: /features/4516/three-is-no-longer-a-crowd
+image: "http://felixonline.co.uk/img/upload/201403281144-jal08-1573---3-parent-familyb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4516/three-is-no-longer-a-crowd
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - njf12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201403281144-jal08-1573---3-parent-familyb.jpg"
-image_caption: ""
 ---
 
 We are even closer to seeing Britain become the first country in the world to allow a three person baby to be born through IVF, as draft rules were announced last week to regulate the process. This is in an attempt to help mothers with faulty mitochondria bear healthy children. Mitochondria are the ‘powerhouses’ of cells, where respiration occurs, and contain 0.2% of genetic material. They are inherited solely from the mother. If the DNA in them is mutated, then this can result in children inheriting mitochondrial disease, which severely affects 1 in 6500 children – more than that affected by childhood cancer.

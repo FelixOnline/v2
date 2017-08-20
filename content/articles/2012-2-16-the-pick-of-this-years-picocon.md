@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A look at some of the books by the Guests of Honour at Imperial’s Sci-Fi convention
 date: "2012-02-16 21:24:26 +0000"
-
-# Attributes from Felix Online V1
-id: "2188"
-old_path: /books/2188/the-pick-of-this-years-picocon
+image: "http://felixonline.co.uk/img/upload/201202232222-pk1811-201202162121-cac111-real.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2188/the-pick-of-this-years-picocon
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202232222-pk1811-201202162121-cac111-real.jpg"
-image_caption: ""
 ---
 
 ### _Keeping it Real _by Justina Robson

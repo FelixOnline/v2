@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The course will also help students with UCAS and Medical school applications
 date: "2015-06-19 13:17:22 +0100"
-
-# Attributes from Felix Online V1
-id: "5641"
-old_path: /news/5641/imperial-launches-two-week-3500-summer-school-for-gcse-and-a-level-students-
+image: "http://felixonline.co.uk/img/upload/201506191416-ps3110-screen-shot-2015-06-19-at-14.16.09.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5641/imperial-launches-two-week-3500-summer-school-for-gcse-and-a-level-students-
-imported: true
 comments:
  - value: >
      Sounds typical of Imperial. Glad to be leaving this elitist shithole.,An amazing opportunity to experience studying and living on campus with brilliant teaching that is first class. Good to see the Outreach programmes are also running this year that provide an invaluable experience for young people from disadvantaged schools.,I've been through this! <br>offering the best web design services in singapore http://battlefordsskatingclub.com/2015/12/09/top-5-online-fashion-shopping-sites-in-singapore/,You are nothing like us . <br>FIFA 15 Coins http://blog.belletoday.com.ph/utfifa15coins,I've been through this! <br>leading fifa 16 coins pc seller http://www.fifa16mall.com/fifa-16-coins/PC-2113,Today looks great . <br>cheap madden nfl 16 coins ps3 seller http://www.madden-store.com/madden-nfl-16/PS3-2188,I've been through this! <br>Cheap MUT Coins http://healingxchange.com/profiles/blogs/nfl-16-draft-champions-improvements,You're very professional. <br>cheapest madden nfl 16 coins ios for sale http://www.madden-store.com/madden-nf
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506191416-ps3110-screen-shot-2015-06-19-at-14.16.09.png"
-image_caption: ""
 ---
 
 Imperial is to host its first ever “Global Summer School,” giving under-eighteens a chance to live and study at the university for two weeks, at the cost of £3,500 a head.

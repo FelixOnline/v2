@@ -4,18 +4,16 @@ title: >
 subtitle: >
   But where did all the measurables go?
 date: "2017-01-27 14:17:43 +0000"
-
-# Attributes from Felix Online V1
-id: "6683"
-old_path: /news/6683/union-launches-2017-20-strategy
+image: "http://felixonline.co.uk/img/upload/201701272037-felix-Screen Shot 2017-01-26 at 15.24.07.png"
+image_caption: "A page from the 2013-16 strategy"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6683/union-launches-2017-20-strategy
-imported: true
 comments:
  - value: >
      "some students felt that the lack of measurable strategic points detracted from the sentiment"<br>Could not agree more. What's the point of a strategy without measurable deliverables? The old strategy recognised that, and gave the Union direction. Last few years its just been flapping about doing not a lot... And this 'strategy' seems to give free reign for future sabbs and staff to get away with similar.,"some students felt that the lack of measurable strategic points detracted from the sentiment"<br>Could not agree more. What's the point of a strategy without measurable deliverables? The old strategy recognised that, and gave the Union direction. Last few years its just been flapping about doing not a lot... And this 'strategy' seems to give free reign for future sabbs and staff to get away with similar.,"some students felt that the lack of measurable strategic points detracted from the sentiment"<br>Could not agree more. What's the point of a strategy without measurable deliverables? The old strategy recognised
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701272037-felix-Screen Shot 2017-01-26 at 15.24.07.png"
-image_caption: ""
 ---
 
 The Union launched a new three year strategy last week in Metric, at an event that was the culmination of a six month effort to meet (or at the very least express) the needs and wants of Imperial students. Despite vigorous consultation though, student reaction was luke-warm.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Ben Howitt writes as ‘Reclaim the Power’ occupy front entrance
 date: "2015-06-04 23:12:52 +0100"
-
-# Attributes from Felix Online V1
-id: "5594"
-old_path: /news/5594/no-dash-for-gas-activist-group-protests-at-royal-school-of-mines
+image: "http://felixonline.co.uk/img/upload/201506050012-cj914-rwe-leeds-blockade-21-1024x816.jpg"
+image_caption: "The Royal School of Mines was not the only group to face protests. There were protests outside the Department of Energy and Climate Change, as well as at the headquarters of Npower."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5594/no-dash-for-gas-activist-group-protests-at-royal-school-of-mines
-imported: true
 comments:
  - value: >
      Superb web page you have there.| <br>nba 2k16 mt reddit https://madden16coinsserver.shutterfly.com/25,8AwxxN http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com,Thanks very handy. Will certainly share website with my buddies <br>nba 2k17 coins http://wt-forum.com/index.php/topic/4273/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506050012-cj914-rwe-leeds-blockade-21-1024x816.jpg"
-image_caption: ""
 ---
 
 The Royal School of Mines (RSM) entrance was occupied on Monday 1st June by a group of students and members of the public representing the activist group ‘Reclaim the Power’.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Wells’ debut venture as a film director is an astute and absorbing drama
 date: "2011-02-28 20:42:57 +0000"
-
-# Attributes from Felix Online V1
-id: "933"
-old_path: /film/933/the-impact-of-corporate-greed-in-the-company-men
+image: "http://felixonline.co.uk/img/upload/201102282040-ks607-thecompa.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/933/the-impact-of-corporate-greed-in-the-company-men
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102282040-ks607-thecompa.jpg"
-image_caption: ""
 ---
 
 For a white-collar worker earning a six-figure salary, the priorities are golf, his Porsche, his nice house, providing for his family and of course, keeping his job. But, during the recent economic downturn that resulted in some major corporate downsizing, a hefty number of confident employees faced and still do face, some major unanticipated cutbacks. Speaking directly to the present-day American worker, John Wells’ debut venture as a film director draws on his huge body of experience as executive producer for such television masterpieces as The West Wing and E.R. to produce this astute and absorbing drama.

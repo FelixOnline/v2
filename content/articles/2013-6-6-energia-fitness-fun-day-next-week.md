@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Free classes on Wednesday 19 June for all students
 date: "2013-06-06 12:57:34 +0100"
-
-# Attributes from Felix Online V1
-id: "3663"
-old_path: /news/3663/energia-fitness-fun-day-next-week
+image: "http://felixonline.co.uk/img/upload/201306061401-tna08-energia-fitness-fun-day---a3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3663/energia-fitness-fun-day-next-week
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306061401-tna08-energia-fitness-fun-day---a3.jpg"
-image_caption: ""
 ---
 
 Free fitness classes will be held on the Energia Fitness Fun Day, which is on Wednesday 19 June, in Ethos. The Active Lifestyle Team is bringing the day to students and you do not need to be a member of Ethos to take part.

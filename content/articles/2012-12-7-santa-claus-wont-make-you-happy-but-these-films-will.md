@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Christmas season is my favourite time of year, but if you're anything like me, all the grinchy people around can make it hard to get in the mood. We've come up with a film for every day of Advent – call it an early Christmas present...
 date: "2012-12-07 15:06:18 +0000"
-
-# Attributes from Felix Online V1
-id: "3074"
-old_path: /film/3074/santa-claus-wont-make-you-happy-but-these-films-will
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3074/santa-claus-wont-make-you-happy-but-these-films-will
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __1.) The Sound of Music__

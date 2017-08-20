@@ -4,16 +4,13 @@ title: >
 subtitle: >
   As those at NME continue to ruin the minds of the musically naïve, enforcing their ‘law-of-music’, their live shows give us hope
 date: "2011-02-10 20:25:47 +0000"
-
-# Attributes from Felix Online V1
-id: "773"
-old_path: /music/773/nme-awards-show
+image: "http://felixonline.co.uk/img/upload/201102102023-dr910-newmusic.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/773/nme-awards-show
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - cjw107
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102102023-dr910-newmusic.jpg"
-image_caption: ""
 ---
 
 The New Musical Express, perhaps better known as the NME, may have lost some of its influence since it was championing the Beatles and Rolling Stones. The invasion of the internet has certainly chipped away at print media’s appeal, and perhaps one could argue that music hacks have been one of the worst hit. However the NME’s portfolio has expanded, and since 1999 they have been giving out some gongs to some bands for being the best, the worst and the most villainous. Awards shows may also be looked upon with a spoonful of cynicism; as purely masseurs for overinflated rockstar egos. Don’t hold that notion against [the celebratory gigs that are happening right here in the capital throughout February](http://www.nme.com/awards/tour), in the build up to the big event on the 23rd.

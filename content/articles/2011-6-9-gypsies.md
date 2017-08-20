@@ -4,16 +4,13 @@ title: >
 subtitle: >
   iyuyuulfy
 date: "2011-06-09 19:00:55 +0100"
-
-# Attributes from Felix Online V1
-id: "1335"
-old_path: /phoenix/1335/gypsies
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/1335/gypsies
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -23,12 +20,6 @@ authors:
  - cjb07
  - zvarga
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 [photo id=14]

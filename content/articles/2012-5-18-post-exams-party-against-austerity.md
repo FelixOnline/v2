@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Anti-cuts street parties kick off
 date: "2012-05-18 06:27:28 +0100"
-
-# Attributes from Felix Online V1
-id: "2461"
-old_path: /comment/2461/post-exams-party-against-austerity
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2461/post-exams-party-against-austerity
-imported: true
 comments:
  - value: >
      Not that Osborne using you very well, cuts one thing geyser of debt sprouts up elsewhere.,https://p.twimg.com/At0hER-CEAAY6ij.jpg <br>They look absolutely diabolical don't they.,"What you and UK uncut probably don't understand is they aren't obliged to lend you it." <br>And we are not obliged to give financial institutions the right to expand the credit supply, the government could take back monopoly of credit expansion and print itself (as opposed to every bank in Europe) to liquidity.,There are points in between allowing the Government to print what it wants and allowing banks to print what they want. Money has many forms, the current form may not be the best given the increasing difficulty nations are having. We've upturned entire fiscal and monitory systems before, maybe it's time to give it a think again, (especially given the fact that it's likely some very new cheep currencies are going to start developing in Europe given the continuing Euro mess). <br> <br>Also your fears of inflationary printing are already here
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - ls411
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The first twelve months of austerity saw Tory HQ get smashed up and students taking to the streets in their thousands against rising tuition fees. Town halls were occupied as the budgets detailing the severity of the cuts were passed, half a million people marched in London and hundreds of tax dodging stores were occupied by the direct action group UK Uncut. But recently this anger has all died away and turned to disengagement as grown men dressed as penguins get higher votes than the Lib Dems in local elections which less than a third of the population even bothered to show up to (if we’d all rocked out maybe the penguin would have won).

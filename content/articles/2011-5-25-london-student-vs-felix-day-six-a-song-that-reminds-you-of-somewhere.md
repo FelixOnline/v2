@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Like, tweet, or comment on this page to help us beat the London Student newspaper on day six of our 30-day Song Challenge duel
 date: "2011-05-25 11:14:48 +0100"
-
-# Attributes from Felix Online V1
-id: "1245"
-old_path: /music/1245/london-student-vs-felix-day-six--a-song-that-reminds-you-of-somewhere
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1245/london-student-vs-felix-day-six--a-song-that-reminds-you-of-somewhere
-imported: true
 comments:
  - value: >
      Day 9: A song that you can dance to - <br>Singin' in the Rain - Mint Royale (http://www.youtube.com/watch?v=gs_T_cEoX6I&amp;feature=related) <br>1985 - Bowling for Soup (Can you call headbanging dancing?),I love this. Reminds me of the Felix office as well :),yay! was hoping you'd put this in at some point!,Should make a spotify/youtube playlist of all the songs: )
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -27,12 +24,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This song will forever remind me of being in the Felix office on a Thursday with Chief Copy Editor Lizzy Griffiths, with an hour or two left until the print deadline. The metronomic shake of the beat, along with the ominous thudding opening, has helped it become our copy-editing anthem (yes, I am aware of how nauseatingly lame that sentence was...)

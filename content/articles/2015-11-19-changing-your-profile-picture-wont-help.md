@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Would you do more to help than click a button?
 date: "2015-11-19 22:40:44 +0000"
-
-# Attributes from Felix Online V1
-id: "5745"
-old_path: /comment/5745/changing-your-profile-picture-wont-help
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5745/changing-your-profile-picture-wont-help
-imported: true
 comments:
  - value: >
      designer prescription glasses for women technological advancements in healthcare dr oz fat burner pills polaroid 7 tablet review cheap viagra fast shipping ,how to reset nook tablet buy vyvanse india what is a juris doctor degree
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 When ‘Le Tricolour’ was first adopted by the Nation of France in 1794, the three colours were meant to represent the Royalty (the white portion), with the red and blue representing the arms of the city. Their representations of the three colours then changed with the coming of the French revolution which caused the colours change meaning. They were now the three principal French ideals: liberty, equality, and fraternity; however it seems that as of Saturday morning Facebook has now appropriated these colours to signify self-indulgence, egotistic tendencies, and a disingenuous compassion for the tragedy of others.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:39:46 +0000"
-
-# Attributes from Felix Online V1
-id: "5345"
-old_path: /comment/5345/felix-interviews-deputy-president-fs-candidate-christopher-kaye
+image: "http://felixonline.co.uk/img/upload/201503052139-snb11-ck1510-5641.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5345/felix-interviews-deputy-president-fs-candidate-christopher-kaye
-imported: true
 comments:
  - value: >
      fit flop shoe <br>fitflop australia buy online http://australiafitflops.blogspot.com/
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - snb11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503052139-snb11-ck1510-5641.jpg"
-image_caption: ""
 ---
 
 __What made you run for this position?__

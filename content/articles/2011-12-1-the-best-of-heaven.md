@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Stuart Masson is impressed by EMA and Zola Jesus
 date: "2011-12-01 21:01:37 +0000"
-
-# Attributes from Felix Online V1
-id: "1878"
-old_path: /music/1878/the-best-of-heaven
+image: "http://felixonline.co.uk/img/upload/201112012101-pk1811-600full-zola-jesus.jpg"
+image_caption: "If you squint, the bricks behind Zola Jesus almost look like forks"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1878/the-best-of-heaven
-imported: true
 comments:
  - value: >
      chantelle - I love these photos! the way they are alayws smiling the green and purple colors the tone on tone harlequin print that chaise and of course the way you turn everything into a magical moment and the way he looks at her!!! Great job Lisa they are gorgeous to look at,That <a href="http://kocfyarizq.com">addserses</a> several of my concerns actually., more common auto insurance quotes online pharmacy accutane Tadalafil , etc therefore other miscellaneous discovered about intercargo insurance company
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +26,6 @@ authors:
  - sm5810
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012101-pk1811-600full-zola-jesus.jpg"
-image_caption: ""
 ---
 
 __EMA __stands for Erika M. Anderson, but she performs with a full band. Her debut album _Past Life Martyred Saints_ has been gathering positive reviews from across the music press spectrum, and for good reason. The live performance is something else, though. The whole gig switches between haunting vulnerability and rip-your-face-off intensity. Her lyrics are rarely positive and she doesn’t betray that with her stage demeanour.

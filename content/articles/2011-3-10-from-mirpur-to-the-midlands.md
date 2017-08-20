@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Omar Hafeez-Bore and Kahfeel Hussain on how Pakistani immigration to the UK changed not only this country, but parts of Pakistan and Pakistanis themselves
 date: "2011-03-10 19:51:39 +0000"
-
-# Attributes from Felix Online V1
-id: "1058"
-old_path: /news/1058/from-mirpur-to-the-midlands
+image: "http://felixonline.co.uk/img/upload/201103101949-ks607-mirpurar.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1058/from-mirpur-to-the-midlands
-imported: true
 comments:
  - value: >
      An excellent article. One that highlights both the cultural diiferences not only between white British citizens and British Pakistanis, but also between British Pakistanis and those Pakistanis from Pakistan itself. This is something that is essentially neglected yet plays such an importnat role especially in these times when multiculturism is being examined closely under the microscope. I especially liked the expression "like barnacles in this cultural storm", a very apt description indeed. I look foward to next week's article.,Great story - both informative and entertaining. I look forward to the next instalment.,Sick article! Can't wait for next week's instalment :O,In a world where traditional values are being so viciously eroded, in a world where so many are blindly pursuing hollow causes, in a world where people en masse are running around, quite frankly, like headless chickens, I'm proud to belong to a people who have their feet grounded so firmly on earth. Long live Mirpuri-stan.,Good insight - look f
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103101949-ks607-mirpurar.jpg"
-image_caption: ""
 ---
 
 For an international student from Pakistan, London is an explosion of new experiences. People form queues, food is bland, the police actually care (but families hardly seem to), dogs are walked, old men jog, commuters are silent, ‘smiling shop staff’ are rarely as described, and under the ground men sit and let women stand on tubes, whilst above it buses actually arrive on time. Compared to Islamabad, it might as well be Oz.

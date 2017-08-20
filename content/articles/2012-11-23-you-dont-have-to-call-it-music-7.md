@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Pt. 7 noise
 date: "2012-11-23 00:22:52 +0000"
-
-# Attributes from Felix Online V1
-id: "2972"
-old_path: /music/2972/you-dont-have-to-call-it-music-7
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2972/you-dont-have-to-call-it-music-7
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - im808
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 _or: RRRRrrrrxxxqtqttqtxxckkkkhhhhzzzzzzzz...blip._

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alexandra Lim explains the important differences between omega-3 and omega-6 fatty acids, and why we should be controlling our intake of both.
 date: "2016-11-18 14:48:24 +0000"
-
-# Attributes from Felix Online V1
-id: "6462"
-old_path: /science/6462/the-alphas-and-omegas-of-food
+image: "http://felixonline.co.uk/img/upload/201611181447-felix-sardines-1489630_1920.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6462/the-alphas-and-omegas-of-food
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - al4915
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611181447-felix-sardines-1489630_1920.jpg"
-image_caption: ""
 ---
 
 I hereby appeal to everyone: pick up a copy of Michael Pollan’s In Defence of Food this week. It truly drives home how food is being treated in this nutrition-crazed world, with people’s sad attempts to reduce it to health components. Most forget that food in itself is more significant than this. One key fact that stood out to me was Pollan’s stance on omega 3, the polyunsaturated fatty acid which we know is good for overall health, especially the brain. There are other fats which our body can synthesise from other nutritional components, but omega 3 isn’t one of them, making them more important than we think.

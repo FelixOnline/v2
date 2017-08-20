@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Thier sceince mya suprirse yuo!
 date: "2011-11-24 21:04:17 +0000"
-
-# Attributes from Felix Online V1
-id: "1813"
-old_path: /science/1813/cna-yuo-raed-tihs-snentece
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1813/cna-yuo-raed-tihs-snentece
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - ak6309
  - mg2109
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Throughout the history of neuroscience, we have often been amazed by the brain’s capability and workings. Instances like the ability to read the jumbled headline above intrigue us – how is a mess of letters comprehensible?

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Antonio Torrisi discusses new survival guidelines as frogs migrate due to climate change
 date: "2011-10-20 20:47:54 +0100"
-
-# Attributes from Felix Online V1
-id: "1558"
-old_path: /science/1558/frogs-habitats-affected
+image: "http://felixonline.co.uk/img/upload/201110202149-felix-taricha_t_torosa_1979-08_1.jpg"
+image_caption: "A frog-in-hand situation"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1558/frogs-habitats-affected
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - fsci
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110202149-felix-taricha_t_torosa_1979-08_1.jpg"
-image_caption: ""
 ---
 
 Climate change and global warming caused by greenhouse gas emissions have important implications on re-shaping Earth’s landscape. Animal species can suffer dramatic consequences, possibly even extinction, from these changes.

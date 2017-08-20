@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Luck isn't on the menu for L.A. Cop "Date Rape"
 date: "2012-02-23 20:11:16 +0000"
-
-# Attributes from Felix Online V1
-id: "2230"
-old_path: /film/2230/corrupt-cop-going-ballistic
+image: "http://felixonline.co.uk/img/upload/201202232009-pk1811-rampart_i1.jpg"
+image_caption: "Enjoying a nice cup of coffee - a luxury most actors can’t afford on set but...to heck with it"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2230/corrupt-cop-going-ballistic
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - jgp09
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202232009-pk1811-rampart_i1.jpg"
-image_caption: ""
 ---
 
 [__Rampart__](http://www.imdb.com/title/tt1640548/)

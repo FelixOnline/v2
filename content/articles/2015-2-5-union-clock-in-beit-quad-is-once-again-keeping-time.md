@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The clock was fixed students and alumnus
 date: "2015-02-05 23:47:22 +0000"
-
-# Attributes from Felix Online V1
-id: "5198"
-old_path: /news/5198/union-clock-in-beit-quad-is-once-again-keeping-time
+image: "http://felixonline.co.uk/img/upload/201502052347-ps3110-20141129_102759.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5198/union-clock-in-beit-quad-is-once-again-keeping-time
-imported: true
 comments:
  - value: >
      uIAKnD http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - snb11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502052347-ps3110-20141129_102759.jpg"
-image_caption: ""
 ---
 
 The Clock on the Union Building is once again keeping time after a group of past and current students repaired the drive mechanism and constructed a new power system. The Clock had been non-operational for over three years after the original control system on Campus was removed and a replacement mechanism failed.

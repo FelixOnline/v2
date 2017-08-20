@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Alexander Karapetian discusses the implication of the recent hacking events
 date: "2012-01-26 22:57:20 +0000"
-
-# Attributes from Felix Online V1
-id: "2071"
-old_path: /comment/2071/sopa-who-got-the-last-lulz
+image: "http://felixonline.co.uk/img/upload/201201262259-ak6309-karapetian-banner.jpg"
+image_caption: "Sorry, we know some of you are so street the sight of feds is terrifying"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2071/sopa-who-got-the-last-lulz
-imported: true
 comments:
  - value: >
      This is why it was MegaUpload and not a different file sharing site https://plus.google.com/u/0/111314089359991626869/posts/HQJxDRiwAWq,Megaupload data may get destroyed by Thursday: <br> <br>http://www.npr.org/templates/story/story.php?storyId=146068504,higher level of abstraction would be states' struggle to protect private property. <br> <br>The contradictions become ever more evident.,Yesterday, while I was at work, my cousin stole my iPad and tetsed to see if it can survive a 40foot drop, just so she can be a youtube sensation. My apple ipad is now broken and she has 83 views.I know this is completely off topic but I had to share it with someone!
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201262259-ak6309-karapetian-banner.jpg"
-image_caption: ""
 ---
 
 You cannot censor the Internet. You cannot subpoena a hashtag. You cannot arrest an idea. You CAN expect us.” These are the words of decentralised hacktivist online group Anonymous, tweeted as they launched a hailstorm of Distributed Denial of Service (DDOS) attacks on various websites just hours after the US Government shut down [Megaupload.com](http://megaupload.com) on Thursday 19 January. Their attacks successfully brought down websites belonging to the RIAA, MPAA, Universal Music, the Department of Justice, the US Copyright Office, EMI, the FBI and others by flooding them with requests, but a number of outlets have begun accusing them of falling head first into a trap.

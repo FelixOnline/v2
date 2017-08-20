@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alok Prasad is tired of our lackadaisical attitude
 date: "2013-01-10 22:58:02 +0000"
-
-# Attributes from Felix Online V1
-id: "3100"
-old_path: /comment/3100/i-was-going-to-write-a-column-on-apathy
+image: "http://felixonline.co.uk/img/upload/201301102257-tna08-moneydegree.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3100/i-was-going-to-write-a-column-on-apathy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - arp111
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102257-tna08-moneydegree.jpg"
-image_caption: ""
 ---
 
 Sitting at my desk, slaving over acres and acres of lecture slides, I hear the familiar two-tone emerging from my laptop. An email has arrived. I hurry to check it, eager to escape the dull monotony of work. ‘Dear Student, Please note that SOLE is open for evaluating...’ Aaargh! Delete the email, and continue working...

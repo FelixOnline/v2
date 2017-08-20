@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Fluent on Paper recognizes that poetry is meant to be enjoyed not alone and in silence but as a social act
 date: "2011-12-01 20:20:08 +0000"
-
-# Attributes from Felix Online V1
-id: "1867"
-old_path: /arts/1867/free-house-verse
+image: "http://felixonline.co.uk/img/upload/201112012017-ams111-arts1.jpg"
+image_caption: "To those who read Felix for the witty picture captions, I’m sorry"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1867/free-house-verse
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - er310
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012017-ams111-arts1.jpg"
-image_caption: ""
 ---
 
 The first poetry evening I attended [left me with the somewhat sour taste of disappointment](http://felixonline.co.uk/arts/333/-poetry-unplugged-and-unwanted/), enhanced, no doubt, by the dashed hopes I’d been harbouring all week. Instead of great poetry, I was faced by something resembling slapstick stand-up comedy.

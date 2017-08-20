@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Look beyond simple numbers for a more surprising truth
 date: "2012-05-10 20:03:47 +0100"
-
-# Attributes from Felix Online V1
-id: "2440"
-old_path: /comment/2440/league-table-woes-not-a-problem
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2440/league-table-woes-not-a-problem
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This week saw the Postgraduate Graduation Ceremony take place in the Royal Albert Hall. Felix congratulates all of those who received their doctorates and wishes you well for the future of your careers, whether in academia or otherwise.

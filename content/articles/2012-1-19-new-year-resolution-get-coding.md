@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Michael Cook suggests something new for us all to try this 2012 - fret not, coding's actually easier to pick up than you think!
 date: "2012-01-19 20:16:13 +0000"
-
-# Attributes from Felix Online V1
-id: "2011"
-old_path: /comment/2011/new-year-resolution-get-coding
+image: "http://felixonline.co.uk/img/upload/201201192020-cac111-lecture-theatre-comment-michael-cook-picture.jpg"
+image_caption: "A representation of how you look to others when you are a knowledgable computing lecturer"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2011/new-year-resolution-get-coding
-imported: true
 comments:
  - value: >
      Very well written. Couldn't stress it enough!,Very valid, pithy, succtnci, and on point. WD.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - mtc06
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201192020-cac111-lecture-theatre-comment-michael-cook-picture.jpg"
-image_caption: ""
 ---
 
 I feel like Computer Science stands out from the other subjects at Imperial for a number of reasons, not all of them related to social ability or personal hygiene (I thought I’d open with a lazy joke to lure you in, forgive me). Like all subjects taught at Imperial, the course contains a lot of high-level, greatly complex areas of study that are entirely inaccessible to outsiders. Yet there is a core to the course that is not like this, a core that is dressed up in the garb of ‘higher education’ but is in fact hugely useful in everyday life, and surprisingly accessible to those with no grounding in computer science at all.

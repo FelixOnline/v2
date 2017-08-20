@@ -4,18 +4,15 @@ title: >
 subtitle: >
   We all know about the infamous ‘ratio’ at Imperial. Is it about the STEM subjects, just Imperial, or a worldwide issue? Matt Proctor and Eoghan J Totten investigate
 date: "2013-01-31 22:43:42 +0000"
-
-# Attributes from Felix Online V1
-id: "3199"
-old_path: /news/3199/looking-into-the-gender-balance
+image: "http://felixonline.co.uk/img/upload/201302041012-tna08-gender-balance-rgb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3199/looking-into-the-gender-balance
-imported: true
 comments:
  - value: >
      This is a very informative piece! I think there's certainly some sexism in universities' hiring and admissions, but for the most part, Engineering Girl has it spot on: from the day we're born we're put into pink or blue clothing. Boys play with Lego and Meccano and watch Bob the Builder, whereas girls get Barbie and toy kitchen sets. <br> <br>Outreach aimed at girls would help, but it'd certainly have to be pre-A-level and preferably even pre-GCSE choices, letting young girls know that science is for everybody. <br> <br>Here's a hilarous example of how not to do it: https://www.youtube.com/watch?v=g032MPrSjFA,This is a very informative piece! I think there's certainly some sexism in universities' hiring and admissions, but for the most part, Engineering Girl has it spot on: from the day we're born we're put into pink or blue clothing. Boys play with Lego and Meccano and watch Bob the Builder, whereas girls get Barbie and toy kitchen sets. <br> <br>Outreach aimed at girls would help, but it'd certainly have to be pre-A-level an
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -31,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302041012-tna08-gender-balance-rgb.jpg"
-image_caption: ""
 ---
 
 Male undergraduates continue to outnumber females by nearly two to one as revealed by the College Strategic Planning Division. Felix tries to make sense of it all.

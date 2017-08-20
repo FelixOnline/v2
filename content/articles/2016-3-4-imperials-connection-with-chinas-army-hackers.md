@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Cybersecurity firm found university that will open centre at White City was recruitment hotbed
 date: "2016-03-04 11:19:21 +0000"
-
-# Attributes from Felix Online V1
-id: "5993"
-old_path: /news/5993/imperials-connection-with-chinas-army-hackers
+image: "http://felixonline.co.uk/img/upload/201603041116-felix-151021_president_Xi_Jinping_China_085.jpg"
+image_caption: "What's in the box?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5993/imperials-connection-with-chinas-army-hackers
-imported: true
 comments:
  - value: >
      This is nothing short of academic espionage. Shame on you, Imperial.,coupons mlb shop (Bruce) cyber monday nhl shop promotional code mlb shop promo,Very revealing....look forth to coming back.| <br>nba 2k16 mt points glitch http://alma59xsh.is-programmer.com/posts/199398.html,Thanks, this website is extremely beneficial <br>fifa 17 coins http://www.forum.tibia.pl/showthread.php?t=244707
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - bdw14
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603041116-felix-151021_president_Xi_Jinping_China_085.jpg"
-image_caption: ""
 ---
 
 FELIX has discovered that the Chinese university that will partner with Imperial at a new tech hub on the White City campus has been cited by a US security firm as being a recruitment hotspot for the unit of the Chinese army alleged to be involved in the country’s cyberwarfare program.

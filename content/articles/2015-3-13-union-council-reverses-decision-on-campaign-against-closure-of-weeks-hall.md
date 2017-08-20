@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Philippa Skett reports as council is flooded with Weeks residents
 date: "2015-03-13 01:17:22 +0000"
-
-# Attributes from Felix Online V1
-id: "5390"
-old_path: /news/5390/union-council-reverses-decision-on-campaign-against-closure-of-weeks-hall
+image: "http://felixonline.co.uk/img/upload/201503130117-cj914-232_3239.jpg"
+image_caption: "Council has agreed to ask College to delay the closure of Weeks Hall"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5390/union-council-reverses-decision-on-campaign-against-closure-of-weeks-hall
-imported: true
 comments:
  - value: >
      fitflop slippers sale <br>cheapest fitflops sale http://fitflopsau.blogspot.com/,Hey there I am so excited I found your weblog, I really found you by accident, while I was browsing on Yahoo for something else, Regardless I am here now and would just like to say thank you for a remarkable post and a all round exciting blog (I also love the theme/design), I don't have time to browse it all at the moment but I have bookmarked it and also added your RSS feeds, so when I have time I will be back to read a lot more, Please do keep up the superb jb. <br>ugg uk discount code 02 http://www.sanctus1.co.uk/?uk-ugg-uk-discount-code-02-2935.html,louboutin sneakers canada <br>christian louboutin online store http://canadachristianlouboutin.blogspot.com/,christian louboutin online store <br>christian louboutin canada outlet http://canadachristianlouboutin.blogspot.com/,Great looking internet site. Think you did a bunch of your very ownyour very own coding <br>NFL 17 http://www.newbusinesspower.com/forums/topic/6318/cheap-2k17-mt-become-a-
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503130117-cj914-232_3239.jpg"
-image_caption: ""
 ---
 
 Union Council met this Tuesday and voted to reverse its previous decision not to campaign against the closure of Weeks Hall.

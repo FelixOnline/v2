@@ -4,16 +4,13 @@ title: >
 subtitle: >
   George Barnett turns his pen to a less provocative subject
 date: "2011-10-21 10:42:26 +0100"
-
-# Attributes from Felix Online V1
-id: "1593"
-old_path: /tv/1593/dexter-is-my-favourite-psychotic-serial-killer
+image: "http://felixonline.co.uk/img/upload/201110211142-ak6309-attachment.ashx.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1593/dexter-is-my-favourite-psychotic-serial-killer
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +21,6 @@ authors:
  - ak6309
  - gb610
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110211142-ak6309-attachment.ashx.jpg"
-image_caption: ""
 ---
 
 Jeff Lindsay’s book ‘Darkly Dreaming Dexter’ (which I’m told is very good) is the basis for Showtime’s multi award winning program Dexter. The protagonist, who gives the show its name, is cunning, brutal and funny. By day he’s a blood spatter analyst for Miami Metro Police Department. By night, a serial killer. What sets Dexter apart from other protagonists is that he’s a normal human - he makes mistakes: he’s no Jack Bauer or Michael Schofield (24 and Prison Break, respectively).

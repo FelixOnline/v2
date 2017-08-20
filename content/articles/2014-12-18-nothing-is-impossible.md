@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Kieran Ryan is inspired by the words of Neil Gaiman
 date: "2014-12-18 16:10:40 +0000"
-
-# Attributes from Felix Online V1
-id: "5070"
-old_path: /arts/5070/nothing-is-impossible
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5070/nothing-is-impossible
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - kr812
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Neil Gaiman is possibly the most quotable living person. In his “Make Good Art” speech in Philadelphia two years ago he gave a rousing encouragement to young practicing creatives, and his take on some of today’s art practices. He also came up with about 10 epiphanic lines; “make glorious and fantastic mistakes”; “do the stuff that only you can do”; …you have no idea what you are doing. This is great.”

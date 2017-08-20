@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Yes. We fucked fruit for you.
 date: "2016-12-16 16:21:09 +0000"
-
-# Attributes from Felix Online V1
-id: "6624"
-old_path: /sex/6624/tossing-fruit-salad-
+image: "http://felixonline.co.uk/img/upload/201612161620-felix-2740283397_3088a90c4f_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sex/6624/tossing-fruit-salad-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sex
 tags:
@@ -24,12 +21,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612161620-felix-2740283397_3088a90c4f_o.jpg"
-image_caption: ""
 ---
 
 I know that times are tough when you go back home for the holidays. You’ve got used to having your freedom and privacy during term time, and maybe even got used to having a bae that keeps the sexual frustration at bay. Maybe you’ve got used to being able to use that corn-on-the-cob shaped vibrator that you got “as a joke” Secret Santa gift, but the thin walls in your parents’ house mean that any buzzing will be extremely embarrassing. But don’t worry. The illustrious felix Sex team has you covered, and we want to make sure you’re kept sexually satisfied over the holidays.

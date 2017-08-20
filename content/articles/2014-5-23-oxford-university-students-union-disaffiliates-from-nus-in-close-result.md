@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Oxford University’s Students Union (OUSU), not to be confused with the Oxford Union, a debating society, narrowly voted to disaffiliate from the National Union of Students (NUS) in a referendum that concluded on Wednesday.
 date: "2014-05-23 14:22:04 +0100"
-
-# Attributes from Felix Online V1
-id: "4627"
-old_path: /news/4627/oxford-university-students-union-disaffiliates-from-nus-in-close-result
+image: "http://felixonline.co.uk/img/upload/201405231522-jal08-1577_news_oxford.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4627/oxford-university-students-union-disaffiliates-from-nus-in-close-result
-imported: true
 comments:
  - value: >
      Errrr, nope - looks like Oxford's still in: <br>http://oxford.tab.co.uk/2014/05/24/1000-tampered-votes-reportedly-cast-in-nus-referendum/,I thought the vote was invalidated under allegations that people had been able to vote more than once,This is true, the article was not published timely on the website.,As in the article stating that the vote was invalidated.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405231522-jal08-1577_news_oxford.jpg"
-image_caption: ""
 ---
 
 Oxford University’s Students Union (OUSU), not to be confused with the Oxford Union, a debating society, narrowly voted to disaffiliate from the National Union of Students (NUS) in a referendum that concluded on Wednesday.

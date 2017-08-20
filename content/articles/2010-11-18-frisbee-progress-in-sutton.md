@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial’s Ultimate Frisbee team will head to the Wolverhampton Nationals to defend their title
 date: "2010-11-18 21:06:51 +0000"
-
-# Attributes from Felix Online V1
-id: "401"
-old_path: /sport/401/frisbee-progress-in-sutton
+image: "http://felixonline.co.uk/img/upload/201011182105-ks607-frisbee.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/401/frisbee-progress-in-sutton
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - prs09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011182105-ks607-frisbee.jpg"
-image_caption: ""
 ---
 
 A 6.30am start proved no hindrance to Imperial College Ultimate at Indoor Regionals 2010 as dD once again secured their place at Nationals in Wolverhampton. Three teams were sent to compete in Sutton, south London; the first team competed against the best in the South East, whilst two further teams of new players held their own to learn the game in a competitive environment.

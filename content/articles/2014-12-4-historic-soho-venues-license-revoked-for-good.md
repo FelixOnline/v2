@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Grace Rahman reflects on Madame JoJo’s rich past and uncertain future
 date: "2014-12-04 19:21:24 +0000"
-
-# Attributes from Felix Online V1
-id: "4996"
-old_path: /music/4996/historic-soho-venues-license-revoked-for-good
+image: "http://felixonline.co.uk/img/upload/201412041921-cj914-alex.jpg"
+image_caption: "Dev Hynes and Alex Turner share the White Heat stage way back in 2008 for the Falling Off Lavender B"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4996/historic-soho-venues-license-revoked-for-good
-imported: true
 comments:
  - value: >
      This makes a former Felix music editor cry,http://dapoxetine-cheapestpricepriligy.com/ - Dapoxetine Buy Doxycycline http://furosemide-lasixonline.net/,http://dapoxetine-cheapestpricepriligy.com/ - Priligy Dapoxetine Doxycycline Buy Online http://furosemide-lasixonline.net/,I every time spent my half an hour to read this weblog's articles or reviews all the time along with a cup of coffee. <br>nike air revolution pas cher http://www.thurgovia.ch/detail/spip.php?fr-nike-air-revolution-pas-cher-2267.html,Whats up very cool blog!! Guy .. Excellent .. Wonderful .. I will bookmark your blog and take the feeds also? I'm happy to find so many helpful info right here within the put up, we want develop extra strategies in this regard, thanks for sharing. . . . . . <br>nike air max apc http://www.aasti.fr/?fr-nike-air-max-apc-860.html
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +26,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412041921-cj914-alex.jpg"
-image_caption: ""
 ---
 
 Music fans were left mourning the loss of another one of London’s live music venues last week, after Westminster council permanently revoked the licence of Madame JoJo’s in Soho, after their appeal against the initial ruling failed. For years, this had been the home of White Heat, an indie night that’s seen the likes of __The xx__, __Adele__, __Lorde__, and __Horrors__ grace it’s stage before they made it big, as well as being a favourite haunt of Imperial’s own Alternative Music Society. The council’s decision was seen as inevitable by many, considering the planned revamp of the whole area by developers.

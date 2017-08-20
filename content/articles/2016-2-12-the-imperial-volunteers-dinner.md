@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Volunteering societies come together
 date: "2016-02-12 12:04:45 +0000"
-
-# Attributes from Felix Online V1
-id: "5919"
-old_path: /cands/5919/the-imperial-volunteers-dinner
+image: "http://felixonline.co.uk/img/upload/201602121204-felix-Volunteer Dinner Committee.jpg"
+image_caption: "PwC Presents: Volunteer Dinner organisational committee."
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5919/the-imperial-volunteers-dinner
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -24,12 +22,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602121204-felix-Volunteer Dinner Committee.jpg"
-image_caption: ""
 ---
 
 Over the past few months, my team and I have been organising an event called Pwc Presents: Volunteer Dinner; an event to celebrate the hard-work of Imperial’s volunteers, to help promote volunteering societies and to build new relationships between societies. There’s been a huge wealth of support for this new event and I hope that this dinner will help other volunteers as I hope it will help me.

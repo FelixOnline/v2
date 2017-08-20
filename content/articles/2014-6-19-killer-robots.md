@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The end is nigh!!!!!!
 date: "2014-06-19 18:44:01 +0100"
-
-# Attributes from Felix Online V1
-id: "4695"
-old_path: /tech/4695/killer-robots
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4695/killer-robots
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Recently a new breakthrough was achieved in the field of robotics. Pepper, a robot from Japan, is now able to read emotions from its human masters.__

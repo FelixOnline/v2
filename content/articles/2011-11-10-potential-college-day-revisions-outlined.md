@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Working Party recommends extended teaching hours for humanities
 date: "2011-11-10 19:46:58 +0000"
-
-# Attributes from Felix Online V1
-id: "1705"
-old_path: /news/1705/potential-college-day-revisions-outlined
+image: "http://felixonline.co.uk/img/upload/201111101946-pk1811-img_7132-copy.jpg"
+image_caption: "Humanities is concerned that access to languages will be restricted"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1705/potential-college-day-revisions-outlined
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - mtm10
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111101946-pk1811-img_7132-copy.jpg"
-image_caption: ""
 ---
 
 The College Day Working Party has outlined its latest recommendations towards the structure of the day. Imperial College Union, while open to some of the recommended changes, has taken the opportunity to reinforce the importance of student input in the face of significant changes. On the other hand, the suggestions have seen strong concerns from the Department of Humanities.

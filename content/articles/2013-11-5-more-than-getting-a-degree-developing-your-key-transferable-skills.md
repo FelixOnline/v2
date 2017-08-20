@@ -4,16 +4,13 @@ title: >
 subtitle: >
   As you settle back into the College academic year you are no doubt becoming aware of the myriad of events that the Careers Service arranges to help you come to a career decision and to set you on the pathway for a rewarding and fulfilling career.
 date: "2013-11-05 09:52:14 +0000"
-
-# Attributes from Felix Online V1
-id: "4009"
-old_path: /features/4009/more-than-getting-a-degree-developing-your-key-transferable-skills
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4009/more-than-getting-a-degree-developing-your-key-transferable-skills
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +20,6 @@ authors:
  - careers
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I write this short article on the day of the worst storm to batter Southern England since the last great storm way back in 1987. Today the Careers Service has had to adapt as staff were delayed on their way into work, hampered by the travel chaos that ensued. It got me thinking about all the key employability skills that have had to be used today to remain up and running and providing a service to you guys. Problems have been reviewed, solutions put in place, changes communicated to students and team members briefed. All this from just the first hour at Imperial this morning! All these key transferable skills came into play during one short period on a Monday morning, just think what core skills you can develop over the course of your studies and use to great effect in your future applications for employment or internships and placements!

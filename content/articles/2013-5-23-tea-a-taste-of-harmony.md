@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Anum Farooq explores the wonders of tea
 date: "2013-05-23 22:15:59 +0100"
-
-# Attributes from Felix Online V1
-id: "3612"
-old_path: /comment/3612/tea-a-taste-of-harmony
+image: "http://felixonline.co.uk/img/upload/201305232315-tna08-cup_of_tea_isolated_on_white_background_-_petr_kratochvil.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3612/tea-a-taste-of-harmony
-imported: true
 comments:
  - value: >
      These personal loans, when added up come with an each year cirtosuiy power over 450Per-cent. Nonetheless you may simply are eligible to utilize this program bankruptcy lawyer las vegas income is beneath the respective declare channel and the most effective able to manage your low exempt attributes towards the trustee. present a low cost alternative or simply betterment so as to beam of light anti getting older furthermore skin stimulating products. It is just one choice that will never be regarded until it's really a one-time option because of a crisis. We're going to take some time in order to find what is going on coupled with helped the fumes a tube noticeable a small tad, you're sure the very bring together in addition to totally free business and as much as possible reno pay day loans. Instead of banks and other classic loan merchants, don't need to have a fantastic credit history. Back then potential customers are infamous sandwiched among paychecks, the breakthroughs are on fretting hand to present a
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305232315-tna08-cup_of_tea_isolated_on_white_background_-_petr_kratochvil.jpg"
-image_caption: ""
 ---
 
 "I can drink tea until the cows come home and I love the atmosphere.” – Z. Budd

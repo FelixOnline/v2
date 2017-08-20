@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Prize of £2,000 goes towards student project
 date: "2012-05-04 00:26:40 +0100"
-
-# Attributes from Felix Online V1
-id: "2421"
-old_path: /news/2421/students-compete-for-global-health-project-prize
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2421/students-compete-for-global-health-project-prize
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - skd09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 At the end of last term, the [Institute of Global Health Innovation](http://www3.imperial.ac.uk/global-health-innovation) (IGHI) held the final of a new competition in which five students presented a global health project with which they were involved, competing for a prize of £2000 to put towards their project.

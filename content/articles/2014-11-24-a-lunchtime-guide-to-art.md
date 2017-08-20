@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Kamil McClelland looks at what’s on offer around Imperial
 date: "2014-11-24 12:25:30 +0000"
-
-# Attributes from Felix Online V1
-id: "4938"
-old_path: /arts/4938/a-lunchtime-guide-to-art
+image: "http://felixonline.co.uk/img/upload/201411241225-ps3110-metalocus_serpentine_gallery_20_1200.jpg"
+image_caption: "Serpentine Gallery Pavilion 2014. Designed by Smiljan Radic."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4938/a-lunchtime-guide-to-art
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411241225-ps3110-metalocus_serpentine_gallery_20_1200.jpg"
-image_caption: ""
 ---
 
 Have you ever been left needing your art fix half way through a day of mindlessly dull lectures? Well look no further than this guide, my Lunchtime Guide to Art, which tells you about all the amazing galleries and museums that are on offer within a stone’s throw of Imperial’s South Kensington campus. And it is quite extraordinary; I can’t imagine there are many universities where you can walk five minutes down the road, see one of the world’s best art collections and still be back in time for lectures to start again an hour later.

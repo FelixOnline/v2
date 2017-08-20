@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Students angrily denounce College plans for halls in North Acton. Union sets out five requests of College. Distance and price highlighted as main problems with the halls. Likely to be replacement to Evelyn Gardens. Probable closure of Garden hall.
 date: "2013-02-21 23:17:27 +0000"
-
-# Attributes from Felix Online V1
-id: "3347"
-old_path: /news/3347/anger-over-new-halls
+image: "http://felixonline.co.uk/img/upload/201302212329-tna08-walkway-2.jpg"
+image_caption: "The Sherfield Walkway, showing the #AgainstActon posters"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3347/anger-over-new-halls
-imported: true
 comments:
  - value: >
      I've spent the last 6 months arguing against this; it was 'commercial in confidence' and I only knew about it because of my position on the College Council. I actively lobbied the College Management against it (ask them...). Only now can we tell students about it, now it's not 'confidential'.,I've spent the last 6 months arguing against this; it was 'commercial in confidence' and I only knew about it because of my position on the College Council. I actively lobbied the College Management against it (ask them...). Only now can we tell students about it, now it's not 'confidential'.,[Last comment was at @Geek btw...],[Last comment was at @Geek btw...],http://felixonline.co.uk/comment/3346/college-are-acton-up/ <br> <br>"Another thing that is very annoying in all of this is the lack of honesty and openness from College. Due to it being commercially sensitive, nobody that knew were allowed to say anything to anyone (least of all say anything to Felix). I do not blame them for not leaking as they would have been breakin
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302212329-tna08-walkway-2.jpg"
-image_caption: ""
 ---
 
 [Imperial College London is planning to build a large hall of residence in North Acton](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_18-2-2013-12-14-47) that will potentially replace halls that are cheaper and located far closer to the South Kensington Campus. The North Acton Halls could be used as a replacement for [Garden Halls](http://www3.imperial.ac.uk/accommodation/prospectivestudents/prospectiveundergraduatestudents/hallsofresidenceug/gardenhall) and the halls in Evelyn Gardens, both of which are in South Kensington. The plans have been controversial amongst the student body and have already been denounced. Students have highlighted distance, cost, student experience, and welfare concerns. The Union have launched a campaigned against the plans, using the Twitter hashtag #AgainstActon. Already many students have voiced their opposition in a rare turn of student activism at Imperial.

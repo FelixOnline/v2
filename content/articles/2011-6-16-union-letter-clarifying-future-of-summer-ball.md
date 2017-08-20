@@ -4,18 +4,15 @@ title: >
 subtitle: >
   No strategy has been approved by Executive Committee or Union Council
 date: "2011-06-16 20:38:52 +0100"
-
-# Attributes from Felix Online V1
-id: "1395"
-old_path: /comment/1395/union-letter-clarifying-future-of-summer-ball
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1395/union-letter-clarifying-future-of-summer-ball
-imported: true
 comments:
  - value: >
      The Ents committee's involvement (having been brought in after a bulk of the decisions were made) seemed more like an afterthought with little weight behind it...
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 _Note: This letter is from the Union, the author has been selected as Alex Kendall simply for convenience._

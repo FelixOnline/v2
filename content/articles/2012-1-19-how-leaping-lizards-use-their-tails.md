@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Research from the 60s vindicated by new developments
 date: "2012-01-19 20:05:35 +0000"
-
-# Attributes from Felix Online V1
-id: "2005"
-old_path: /science/2005/how-leaping-lizards-use-their-tails
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2005/how-leaping-lizards-use-their-tails
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - mtm10
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Ever since 1969, when J H Ostrom proposed that theropod dinosaurs used their tails to maintain balance during fast movement, scientists have suggested that a wide range of animals, from primates to rodents, use active motion of appendages such as arms or tails to stabilise their motion. Now a team of scientists from the University of California, Berkeley, has found that by moving their tails, lizards can maintain a near constant pitch when moving through the air after a jump.

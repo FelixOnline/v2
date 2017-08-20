@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Lily Le looks at some art from behind bars, by which we don't mean that she is at a pub...
 date: "2012-10-18 21:00:23 +0100"
-
-# Attributes from Felix Online V1
-id: "2687"
-old_path: /arts/2687/convicts-in-the-frame-from-gaol-to-gallery
+image: "http://felixonline.co.uk/img/upload/201210182200-felix-disappoint-man.jpg"
+image_caption: "Tweezer shortage affects Wayne Rooney "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2687/convicts-in-the-frame-from-gaol-to-gallery
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - lwl09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210182200-felix-disappoint-man.jpg"
-image_caption: ""
 ---
 
 The current exhibition at the Royal Festival Hall at the Southbank Centre consists of paintings, poetry, sculptures, textiles, and videos by offenders, secure patients, and detainees.

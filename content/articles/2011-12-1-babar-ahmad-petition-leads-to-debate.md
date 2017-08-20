@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Votable parliamentary discussion on extradition to take place on Monday
 date: "2011-12-01 21:27:24 +0000"
-
-# Attributes from Felix Online V1
-id: "1893"
-old_path: /news/1893/babar-ahmad-petition-leads-to-debate
+image: "http://felixonline.co.uk/img/upload/201112012121-felix-babar-ahmad-petition-prisoner.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1893/babar-ahmad-petition-leads-to-debate
-imported: true
 comments:
  - value: >
      Babar Ahmad needs a fair trail.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012121-felix-babar-ahmad-petition-prisoner.jpg"
-image_caption: ""
 ---
 
 An [online petition](http://epetitions.direct.gov.uk/petitions/885) calling for ex-Imperial College staff member Babar Ahmad to be put on trial in the United Kingdom reached 141,000 signatures by its closing date of November 11, passing the requirement of 100,000 for a discussion in Parliament. This has led to a parliamentary debate being held next week on the issue of extradition.

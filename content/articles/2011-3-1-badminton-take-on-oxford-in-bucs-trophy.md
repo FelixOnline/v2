@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Women’s first team make it past Oxford and into the BUCS Semi-Finals. Imperial 1st 4 – 4 Oxford 1st
 date: "2011-03-01 21:23:08 +0000"
-
-# Attributes from Felix Online V1
-id: "969"
-old_path: /sport/969/badminton-take-on-oxford-in-bucs-trophy
+image: "http://felixonline.co.uk/img/upload/201103012121-ks607-badminto.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/969/badminton-take-on-oxford-in-bucs-trophy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - lbb06
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103012121-ks607-badminto.jpg"
-image_caption: ""
 ---
 
 This year’s BUCS Trophy has proven to be a good one for Imperial’s Ladies team.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Laurence de Lussy Kubisa reminisces about the Student Publication Association National Conference
 date: "2014-05-09 02:03:50 +0100"
-
-# Attributes from Felix Online V1
-id: "4570"
-old_path: /features/4570/felix-goes-to-spanc-for-the-weekend
+image: "http://felixonline.co.uk/img/upload/201405090303-jal08-2bmuesp7iqai9dye.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4570/felix-goes-to-spanc-for-the-weekend
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - ld710
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405090303-jal08-2bmuesp7iqai9dye.jpg"
-image_caption: ""
 ---
 
 Lugging the recommended 200 copies of Felix, I skilfully avoided Friday rush hour and made my way to King’s Cross to attend the Student Publication Association National Conference (#SPANC) being hosted at Nottingham Trent University. Due to an administrative oversight (idiocy) tickets were exclusively via Grantham (lovely station) and highly reasonably priced (expensive). After relieving myself of about 30kgs worth of newspaper at the hostel, I headed on down to Nottingham Trent Union (NTU) to meet with my hosts and the other Felix rep (our estimable Editor-elect).

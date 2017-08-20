@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Dr Lamb bemoans “the mess which over-zealous multiculturalism has got Britain into”
 date: "2016-01-13 14:45:36 +0000"
-
-# Attributes from Felix Online V1
-id: "5825"
-old_path: /news/5825/imperial-professor-makes-questionable-comments-on-race-in-new-book
+image: "http://felixonline.co.uk/img/upload/201601131441-felix-lamb.jpg"
+image_caption: "Dr Lamb has previously written books on Genetics and the Queen's English"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5825/imperial-professor-makes-questionable-comments-on-race-in-new-book
-imported: true
 comments:
  - value: >
      wholesalejerseys coom Texas A&amp;M Aggies Jersey jersey knit fabric wholesale,wholesalejerseys coom Texas A&amp;M Aggies Jersey jersey knit fabric wholesale,wholesalejerseys coom Texas A&amp;M Aggies Jersey jersey knit fabric wholesale,wholesalejerseys coom Texas A&amp;M Aggies Jersey jersey knit fabric wholesale,wholesalejerseys coom Texas A&amp;M Aggies Jersey jersey knit fabric wholesale,wholesalejerseys coom Texas A&amp;M Aggies Jersey jersey knit fabric wholesale,nhljerseys Bayern Munchen Jersey cheap nhl jersey,nhljerseys Bayern Munchen Jersey cheap nhl jersey,nhljerseys Bayern Munchen Jersey cheap nhl jersey,nhljerseys Bayern Munchen Jersey cheap nhl jersey,nhljerseys Bayern Munchen Jersey cheap nhl jersey,nhljerseys Bayern Munchen Jersey cheap nhl jersey,youth usaa hockey jersey Chicago Cubs nhljerseys,youth usaa hockey jersey Chicago Cubs nhljerseys,youth usaa hockey jersey Chicago Cubs nhljerseys,youth usaa hockey jersey Chicago Cubs nhljerseys,youth usaa hockey jersey Chicago Cubs nhljerseys,youth usaa hockey jersey Chic
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201601131441-felix-lamb.jpg"
-image_caption: ""
 ---
 
 One of Imperial’s Emeritus professors has published a book on human diversity, in which he claims that London has “‘no-go’ areas at night for white people”.

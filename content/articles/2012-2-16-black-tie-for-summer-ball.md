@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Sit-down formal dinner back on the menu for this year’s event
 date: "2012-02-16 22:08:41 +0000"
-
-# Attributes from Felix Online V1
-id: "2209"
-old_path: /news/2209/black-tie-for-summer-ball
+image: "http://felixonline.co.uk/img/upload/201202162206-sjw209-img_0770-1.jpg"
+image_caption: "Acts will perform on the Queen's Lawn and in the Great Hall"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2209/black-tie-for-summer-ball
-imported: true
 comments:
  - value: >
      An excellent plan, but without the usual college £20,000 subvention in the event, the ticket price is set to rise significantly past the £30 initially suggested. Perhaps people consider £35 (or more!) ents-only tickets to be excessive for a cut-back summer ball? ,Yay!,I'd gladly pay up to £100/110 for dinner and ents if the acts were truly awesome.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162206-sjw209-img_0770-1.jpg"
-image_caption: ""
 ---
 
 [In a paper](http://www.imperialcollegeunion.org/data/files/summer-ball-2012-plan-3966.pdf) brought to Imperial College Union Council last Monday (February 13) Deputy President (Finance & Services) Michael Foster outlined plans for this year’s Summer Ball, which will see the return of black-tie and a formal dinner.

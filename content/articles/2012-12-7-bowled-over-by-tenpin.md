@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Pinheads like bowling... Jessica Chan reports on their latest exploits
 date: "2012-12-07 03:08:38 +0000"
-
-# Attributes from Felix Online V1
-id: "3061"
-old_path: /sport/3061/bowled-over-by-tenpin
+image: "http://felixonline.co.uk/img/upload/201212070308-tna08-bowling1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3061/bowled-over-by-tenpin
-imported: true
 comments:
  - value: >
      Imperial For the Win!
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070308-tna08-bowling1.jpg"
-image_caption: ""
 ---
 
 Having already achieved impressive 13.5-2.5 and 9-7 victories over Southampton and last year runners-up Portsmouth, Imperial Tenpin Bowling has had a promising start to the year. Portsmouth and Southampton, having suffered their defeat on Sunday 11th November in Newbury, must now wait to find out who can enter the BUTBA Cup finals, while IC had automatically qualified. With the strong support of the best bowlers in London, Matt Miller and Mike Quarry, the Imperial team is getting well-prepared as we make our way to our first ever tournament finals, which will be against Sheffield, Loughborough and the winner from the group stage.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   ‘Wilson Old Boys’ victorious after defeating ‘Handball’ in RAG Dodgeball Tournament
 date: "2012-03-15 21:18:16 +0000"
-
-# Attributes from Felix Online V1
-id: "2376"
-old_path: /news/2376/dodgeball-tournament-takes-no-prisoners
+image: "http://felixonline.co.uk/img/upload/201203152117-ig711-010.jpg"
+image_caption: "The clue’s in the name"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2376/dodgeball-tournament-takes-no-prisoners
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - ig711
  - twp10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152117-ig711-010.jpg"
-image_caption: ""
 ---
 
 At 12:00 on Saturday 10 March, Imperial College’s second ever dodgeball tournament kicked off at Ethos Sports Centre. 12 teams entered but only a few had paid attention to the poster stating: ‘Fancy Dress Advised’! ‘Dodgey Balls’ came in a football kit and at first thought it seemed they had turned up to the wrong event, while ‘Why Always Us?’ came wearing hats which were used to distract their opposition throughout the tournament! However, the prize for best costume went to ‘Orient Hurricanes’ (representing Orient House) who turned up wearing suits and steaming drunk. Apparently this had been from early morning drinking and not the night before!

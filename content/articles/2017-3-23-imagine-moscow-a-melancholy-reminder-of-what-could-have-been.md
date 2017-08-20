@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Design Museum's latest exhibition has its flaws, but reveals a new side to Soviet architecture
 date: "2017-03-23 16:41:52 +0000"
-
-# Attributes from Felix Online V1
-id: "6922"
-old_path: /arts/6922/imagine-moscow--a-melancholy-reminder-of-what-could-have-been-
+image: "http://felixonline.co.uk/img/upload/201703231640-ff712-Valentina Kulagina.jpeg"
+image_caption: "Valentina Kulagina, Front cover design"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6922/imagine-moscow--a-melancholy-reminder-of-what-could-have-been-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +21,6 @@ authors:
  - scc114
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703231640-ff712-Valentina Kulagina.jpeg"
-image_caption: ""
 ---
 
 With _Imagine Moscow_, the newly-opened Design Museum makes its contribution to the range of events marking the centennial of Russia’s October Revolution. The concept is certainly an interesting one: _Imagine Moscow_ focuses on six architectural landmarks around Moscow’s Red Square, conceptualised in the 1920s and early 30s; from health resorts to monumental government buildings, these grand plans all had one thing in common: they were never actually built. Curiously fitting, for what other period was so marked by idealistic aspiration and delusions of grandeur? _Imagine Moscow_ invites us to view these architectural phantoms – radical buildings that, despite never being realised, persisted in the collective consciousness, continuing to inspire modern architects years after they were first conceived.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   University has started and pretty soon things will really get into full swing. You’ll feel overwhelemed, anxious and like the whole world is against you. But have no fear! felix is here to tell you all about why gaming is your outlet in such a situation to relax and think about something other than
 date: "2016-10-10 12:16:54 +0100"
-
-# Attributes from Felix Online V1
-id: "6320"
-old_path: /games/6320/gaming-unis-best-stress-relief
+image: "http://felixonline.co.uk/img/upload/201610101416-felix-11912982694_4bd45dd89f_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/6320/gaming-unis-best-stress-relief
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - sa8713
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610101416-felix-11912982694_4bd45dd89f_o.jpg"
-image_caption: ""
 ---
 
 If you’re a fresher, welcome to Imperial! If you’re a returning student, welcome back. Right now it’s only been a week or so of University so things are probably still feeling pretty relaxed. You’re just going through introductory lectures, there’s no coursework to be on top of, and you’ve basically just been chilling, partying and having some fun.

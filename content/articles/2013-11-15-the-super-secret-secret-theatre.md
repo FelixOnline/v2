@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Buy the ticket – take the ride
 date: "2013-11-15 02:30:38 +0000"
-
-# Attributes from Felix Online V1
-id: "4073"
-old_path: /arts/4073/the-super-secret-secret-theatre
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4073/the-super-secret-secret-theatre
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - cfc111
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 First, a word of warning. This review is about a Secret Theatre production. The entire premise is that it’s secret. So please bear with me: I’m being cryptic for a reason, I’m not just trying to be a ponce.

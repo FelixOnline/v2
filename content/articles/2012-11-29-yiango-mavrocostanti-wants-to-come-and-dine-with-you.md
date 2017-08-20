@@ -4,16 +4,13 @@ title: >
 subtitle: >
   An affordable feast
 date: "2012-11-29 22:54:19 +0000"
-
-# Attributes from Felix Online V1
-id: "2992"
-old_path: /food/2992/yiango-mavrocostanti-wants-to-come-and-dine-with-you
+image: "http://felixonline.co.uk/img/upload/201211292253-csw09-pasta.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2992/yiango-mavrocostanti-wants-to-come-and-dine-with-you
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +22,6 @@ authors:
  - ym1310
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211292253-csw09-pasta.jpg"
-image_caption: ""
 ---
 
 It’s Saturday. You want to go to a nice restaurant to enjoy a proper meal (for once!) with your friends. You are dreaming of a huge three course meal, a delicious starter, a great main dish and a luxurious dessert accompanied with good wine of course but then you suddenly realise that you can’t afford it!

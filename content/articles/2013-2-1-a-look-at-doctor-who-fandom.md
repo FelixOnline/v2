@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Time may be unravelled, but the plot is not tightly strung
 date: "2013-02-01 00:18:03 +0000"
-
-# Attributes from Felix Online V1
-id: "3225"
-old_path: /books/3225/a-look-at-doctor-who-fandom
+image: "http://felixonline.co.uk/img/upload/201302010018-tna08-unravel.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3225/a-look-at-doctor-who-fandom
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - mtm10
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302010018-tna08-unravel.jpg"
-image_caption: ""
 ---
 
 I have had, shall we say, an unsteady relation with Doctor Who. While occasionally brilliant far more often it is painfully frustrating or just plain disappointing. Whatever my personal views on the show, however, I have to admit that, over its extraordinarily long run, it has been both hugely popular and influential, and is therefore deserving of study.

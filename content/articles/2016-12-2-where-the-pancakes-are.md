@@ -4,16 +4,13 @@ title: >
 subtitle: >
   felix visits a new home for pancakes from around the world, Where the Pancakes Are, and devours culinary delights such as Dutch Babies, corn fritters, and more.
 date: "2016-12-02 15:20:16 +0000"
-
-# Attributes from Felix Online V1
-id: "6544"
-old_path: /food/6544/where-the-pancakes-are
+image: "http://felixonline.co.uk/img/upload/201612021519-felix-IMG_0529.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6544/where-the-pancakes-are
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - yyl114
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612021519-felix-IMG_0529.jpg"
-image_caption: ""
 ---
 
 Evenings on a Wednesday for me are often spent alone in bed, propped up by a few lumpy pillows and my loyal companion, Netflix. The one that just passed was no exemption, with the addition of feeling betrayed after a solid five hours binge-watching the last episodes of The Crown, and left having to entertain myself with my nose in the BS 5500:1991 (which is, in engineering lingo, the specification for unfired fusion welded pressure vessels), looking for the definition of some Factor C.

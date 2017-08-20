@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Angels in America is on at the National Theatre. Normal tickets are sold out but hundred of £20 tickets are being released by ballot. NT Live will begin streaming performances from the 20th of July.
 date: "2017-05-15 17:10:15 +0100"
-
-# Attributes from Felix Online V1
-id: "6958"
-old_path: /arts/6958/angels-in-america
+image: "http://felixonline.co.uk/img/upload/201705151909-felix-16_0.jpg"
+image_caption: "Denise Gough as Harper and Andrew Garfield as Prior in Angels in America : Perestroika"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6958/angels-in-america
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - im1413
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705151909-felix-16_0.jpg"
-image_caption: ""
 ---
 
 A gay fantasia on national themes” is the label Tony Kushner gave his play Angels in America, which is being staged at the National theatre for the first time since the 90s; and what a fantasia it is.  Grounded in 1980s New York, the action sprawls across reality and delusion, from Salt Lake City to Washington DC, from Antarctica to Heaven, dancing on the edge of utter madness but never stumbling. Tony Kushner’s writing is bold, profound, and urgent, with frequent bright sparks of comedic brilliance. Even on the occasions the script spirals into dense segments of over-arching philosophising, this cast and crew make it soar.

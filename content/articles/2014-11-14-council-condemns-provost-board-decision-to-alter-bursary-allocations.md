@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Philippa Skett reports on Council’s damning motion
 date: "2014-11-14 20:03:22 +0000"
-
-# Attributes from Felix Online V1
-id: "4865"
-old_path: /news/4865/council-condemns-provost-board-decision-to-alter-bursary-allocations
+image: "http://felixonline.co.uk/img/upload/201411142003-ps3110-download.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4865/council-condemns-provost-board-decision-to-alter-bursary-allocations
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411142003-ps3110-download.jpeg"
-image_caption: ""
 ---
 
 Union Council on Tuesday voted to “condemn” the College’s Provost Board decision after the changes in bursary allocations for undergraduate students were announced.

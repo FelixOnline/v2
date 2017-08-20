@@ -4,16 +4,13 @@ title: >
 subtitle: >
   BBOXX, a spinout company from Imperial, brings solar energy products to developing countries has been given investment backing from a Silicon Valley venture capital company.
 date: "2013-11-24 15:39:55 +0000"
-
-# Attributes from Felix Online V1
-id: "4097"
-old_path: /news/4097/imperial-born-bboxx-gets-silicon-valley-funding
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4097/imperial-born-bboxx-gets-silicon-valley-funding
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - nm708
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 BBOXX, a spinout company from Imperial, brings solar energy products to developing countries has been given investment backing from a Silicon Valley venture capital company. BBOXX have received $1.5m backing from Vinod Khosla, who runs a billion dollar venture capitalist firm. Additionally, the company has also received $400,000 from Synergy Growth, a British venture capital fund.

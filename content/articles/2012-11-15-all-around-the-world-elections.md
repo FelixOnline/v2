@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Marie-Laure Hicks keeps you up to speed with the elections from anywhere but the US
 date: "2012-11-15 22:11:01 +0000"
-
-# Attributes from Felix Online V1
-id: "2910"
-old_path: /politics/2910/all-around-the-world-elections
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2910/all-around-the-world-elections
-imported: true
 comments:
  - value: >
      We should all be so gauetfrl that we can get advice from a drunken teenage professor that just found the key to his mother's liquor cabinet.I truly believe that you ARE a comedian.I'd recommend that you continue playing Risk or Stratego with your lil buddies.Getting the fuck out of Barrie would also do you good.
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -28,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Americans have chosen the man to lead them for the next four years. China is easing its way to a new leadership. How are other countries doing?

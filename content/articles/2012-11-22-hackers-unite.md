@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Sam Wong introduces Imperial’s very own Hackathon
 date: "2012-11-22 23:11:46 +0000"
-
-# Attributes from Felix Online V1
-id: "2941"
-old_path: /biz/2941/hackers-unite-
+image: "http://felixonline.co.uk/img/upload/201211222311-tna08-social_network_jesse_eisenberg_04.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/2941/hackers-unite-
-imported: true
 comments:
  - value: >
      If you really want to know what a Hackathon is about, read someone who knows what she's talking about, Rewired State's Emma Mulqueeny: https://mulqueeny.wordpress.com/2011/06/19/whats-the-point-of-a-hack-day/,What's wrong with the above definition?
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211222311-tna08-social_network_jesse_eisenberg_04.jpg"
-image_caption: ""
 ---
 
 ackathons are magical. Hackathons are non-compulsory, unpaid, but last long enough to warrant overtime pay and a day off in a normal corporate environment. Yet somehow participants are highly engaged, and manage to produce creative solutions in a much tighter timeframe. Why do Hackathons work? What is the differentiating factor from regular work?

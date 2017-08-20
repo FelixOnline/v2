@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sorcha Cotter is, for some reason, a pirate...
 date: "2012-12-07 03:01:18 +0000"
-
-# Attributes from Felix Online V1
-id: "3058"
-old_path: /sport/3058/ichc-womens-1s-win-against-all-odds
+image: "http://felixonline.co.uk/img/upload/201212070302-tna08-hockeywebphoto.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3058/ichc-womens-1s-win-against-all-odds
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - sc3610
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070302-tna08-hockeywebphoto.jpg"
-image_caption: ""
 ---
 
 On the very cold afternoon on Wednesday the 5th December we went out to face a team that had not only beaten but really thrashed us at the beginning of the season 7-0. It was not an exciting prospect with a captain Gigi having now become captain hook and only able to watch from the side-lines after breaking her hand a few weeks ago. We have also been struggling though a few injuries and were depleted due to the usual end of term deadlines. But we set out with nothing to lose; at least we looked better than the mottled purple of Portsmouth!

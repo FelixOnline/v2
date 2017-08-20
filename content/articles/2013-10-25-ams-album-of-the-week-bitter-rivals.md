@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Sleigh Bells - Bitter Rivals
 date: "2013-10-25 00:37:53 +0100"
-
-# Attributes from Felix Online V1
-id: "3932"
-old_path: /music/3932/ams-album-of-the-week-bitter-rivals
+image: "http://felixonline.co.uk/img/upload/201310250137-felix-mus_sleigh-bells.jpg"
+image_caption: "Sleigh-Bells - Bitter Rivals"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3932/ams-album-of-the-week-bitter-rivals
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - sm5810
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250137-felix-mus_sleigh-bells.jpg"
-image_caption: ""
 ---
 
 First, some honesty, I chose to review this album because I expected it to be really bad. The hype died years ago for __Sleigh Bells__, and I’ve yet to find a positive review of this one. I fancied tearing this apart in the written press, because that is what makes me feel big. I’m disappointed on all levels. It’s not quite bad enough to completely tear apart, but it’s not good either.

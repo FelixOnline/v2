@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Max Eggl reviews the second installment from Green Day
 date: "2013-01-24 22:10:43 +0000"
-
-# Attributes from Felix Online V1
-id: "3164"
-old_path: /music/3164/dos-uno-tres
+image: "http://felixonline.co.uk/img/upload/201301242211-mc4509-green-day-dos.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3164/dos-uno-tres
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - mc4509
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301242211-mc4509-green-day-dos.jpg"
-image_caption: ""
 ---
 
 The aptly titled album [_¡Dos!_](http://www.greenday.com/album/dos) is the second instalment in the rapid-fire trilogy that [__Green Day__](http://www.greenday.com/) now has released. This album is a bit less clean than _[¡Uno!](http://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w),_ playing to a garage rock style vibe. Armstrong went as far to describe this as a second [__Foxboro Hot Tubs__](http://www.foxborohottubs.com/) album. If you have heard of the __Foxboro Hot Tubs__, then you will know that they have a raw musical style, which can be quite easily applied to _¡Dos!_ as well. In fact one of the songs ‘F*** Time’ is actually originally a __Foxboro Hot Tubs__ song.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A strike ballot follows the demonstration on Whitehall that saw 20,000 flock to parliament
 date: "2015-10-23 10:54:55 +0100"
-
-# Attributes from Felix Online V1
-id: "5663"
-old_path: /news/5663/imperial-medics-fight-contract-changes
+image: "http://felixonline.co.uk/img/upload/201510231224-ygr12-img_0833.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5663/imperial-medics-fight-contract-changes
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510231224-ygr12-img_0833.jpg"
-image_caption: ""
 ---
 
 Over 20,000 people took part in a protest march in London against proposed government changes to junior doctors’ contracts last Saturday. Protests also took place in Belfast, Nottingham and Dundee.

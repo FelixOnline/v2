@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Waste exposes the hypocrisy of Victorian morality and remains relevant today
 date: "2015-11-20 09:37:35 +0000"
-
-# Attributes from Felix Online V1
-id: "5759"
-old_path: /arts/5759/national-theatre-revives-banned-classic
+image: "http://felixonline.co.uk/img/upload/201511200937-ygr12-4.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5759/national-theatre-revives-banned-classic
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - bdw14
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511200937-ygr12-4.jpg"
-image_caption: ""
 ---
 
 Waste is true to the name, a play about dashed hopes and broken dreams. It’s a damnably English affair.

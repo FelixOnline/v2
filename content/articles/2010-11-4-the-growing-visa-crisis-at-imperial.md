@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The government's immigration cap and how it affects Imperial
 date: "2010-11-04 18:55:15 +0000"
-
-# Attributes from Felix Online V1
-id: "319"
-old_path: /news/319/the-growing-visa-crisis-at-imperial
+image: "http://felixonline.co.uk/img/upload/201011041901-jk708-Research.jpg"
+image_caption: "Visa restrictions could hamper Imperial's ability to attract talented researchers"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/319/the-growing-visa-crisis-at-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - yw3410
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011041901-jk708-Research.jpg"
-image_caption: ""
 ---
 
 The 20th of October. [Thousands of protestors are rallying outside Westminster](http://felixonline.co.uk/science/208/defend-our-geeks/) in an effort to convince the government that their proposed cuts to the scientific budget would have fatal implications on the world class reputation and research of UK universities. They succeeded. [The result was George Osborne freezing the science budget in cash terms for four years](http://felixonline.co.uk/news/242/imperial-wins-as-science-is-spared-major-cuts/), equating to a decrease in funding of less than 10%, over that period. Spared from major cuts in this period of austerity, with Osborne stating “Britain is a world leader in scientific research and that is vital to our future economic success”, the future of science seems bright. Those working in research and academia, however, have a much gloomier forecast.

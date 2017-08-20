@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Further details on recently-discovered planet leads to familiar results
 date: "2011-11-03 19:47:50 +0000"
-
-# Attributes from Felix Online V1
-id: "1655"
-old_path: /science/1655/dwarf-planet-eris-is-plutos-twin
+image: "http://felixonline.co.uk/img/upload/201111031947-pk1811-eris_lombry_big.jpg"
+image_caption: "An artist’s impression of Eris and its moon, Dysnomia."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1655/dwarf-planet-eris-is-plutos-twin
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ng411
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111031947-pk1811-eris_lombry_big.jpg"
-image_caption: ""
 ---
 
 Ever since Pluto’s demotion from planetary status, astronomers have been on the lookout for other similarly-sized and located dwarf planets. The region beginning from the orbit of Neptune and extending away from us is known as the Kuiper belt, inhabited by rocks, dust, debris and large numbers of small planetesimals and dwarf planets. Since its discovery in 1992, the known population of the Kuiper belt has increased to over 1000 objects, one of these being the small dwarf planet Eris.

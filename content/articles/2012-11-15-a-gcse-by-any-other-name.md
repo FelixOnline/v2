@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Joseph Spiking explains the EBacc is more than just a rebranding
 date: "2012-11-15 22:08:46 +0000"
-
-# Attributes from Felix Online V1
-id: "2909"
-old_path: /politics/2909/a-gcse-by-any-other-name
+image: "http://felixonline.co.uk/img/upload/201211152208-tna08-gove.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2909/a-gcse-by-any-other-name
-imported: true
 comments:
  - value: >
      The government aims to "get rid of the factors that encourage teaching to the test", by making the test the sole form of assessment... Right. <br> <br>Ladies and gentlemen, Michael Gove.
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211152208-tna08-gove.jpg"
-image_caption: ""
 ---
 
 In 2015, the biggest educational reform of our generation shall be put into place. The much maligned GCSE shall be replaced with the ‘English Baccalaureate’ (EBacc), the brain child of the Coalition’s combined educational reforms. This initial bout of reformation is reserved only for specific subjects – Mathematics, English Literature and Language, Chemistry, Biology and Physics. However, Geography, History and the languages shall also get to undergo the EBacc transformation in 2017, the inclusion of the Languages being hailed by Stephen Twigg, the shadow Minister for Education.

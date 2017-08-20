@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Wipers Times is at the Arts Theatre until the 13th May and will tour the UK for the remainder of 2017
 date: "2017-05-15 16:19:48 +0100"
-
-# Attributes from Felix Online V1
-id: "6951"
-old_path: /arts/6951/lost-gem-rediscovered--the-wipers-times
+image: "http://felixonline.co.uk/img/upload/201705151819-felix-17492802_233236447143022_5206466482755991129_o.jpg"
+image_caption: "'The Wipers Times' Play by Ian Hislop and Nick Newman performed"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6951/lost-gem-rediscovered--the-wipers-times
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - jmw216
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705151819-felix-17492802_233236447143022_5206466482755991129_o.jpg"
-image_caption: ""
 ---
 
 They are just a gang of back-chat comedians deliberately undermining morale with this impertinent, unpatriotic rag.” So goes Lieutenant Colonel Howfield’s complaint about The Wipers Times, a satirical trench newspaper brought to life in the Arts Theatre thanks to Ian Hislop and Nick Newman.

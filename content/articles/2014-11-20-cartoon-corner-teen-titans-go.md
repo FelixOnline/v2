@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tom Rivlin on cancellations and claims of ruined childhoods
 date: "2014-11-20 21:48:10 +0000"
-
-# Attributes from Felix Online V1
-id: "4920"
-old_path: /tv/4920/cartoon-corner--teen-titans-go
+image: "http://felixonline.co.uk/img/upload/201411202148-cj914-teen-titans-cmyk.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4920/cartoon-corner--teen-titans-go
-imported: true
 comments:
  - value: >
      Pretty sure the author is using entitlement in the wrong context. I think he means "false sense of entitlement. " <br>Regardless, pandering to Young Justice fans means the boycott of teen titans go! seems to be working. Kudos to the fans.,He used it correctly. They believe that it is their god given right for them to get what they want. It's not working, it's just a way to get them to shut up and stop whining.,Teen Titans Go still sucks .,cheap fitflop <br>fitflop shoes singapore http://fitflopsalesingapore2.blogspot.com/,fitflops clearance sale <br>fitflop in australia http://australiafitflops.blogspot.com/,birkenstocks sydney <br>birkenstock buy online http://birkenstocksaleaustralia.blogspot.com/,louboutin bianca canada <br>christian louboutin sale http://canadachristianlouboutin.blogspot.com/,Ng0SRZ http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com,Thanks, this site is extremely practical <br>fifa 17 http://rsd-series.com/community/forum/user/1915-skillnba2k17,No, it doesn't, you bastard! ????
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -28,12 +25,6 @@ authors:
  - tr511
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411202148-cj914-teen-titans-cmyk.jpg"
-image_caption: ""
 ---
 
 Fandoms can be weird places sometimes. Let me explain...

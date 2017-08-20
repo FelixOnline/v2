@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Max Eggl and the Felix Tech team play around on some of the latest tech
 date: "2012-12-07 02:52:24 +0000"
-
-# Attributes from Felix Online V1
-id: "3055"
-old_path: /tech/3055/we-went-to-the-gadget-show
+image: "http://felixonline.co.uk/img/upload/201212070247-tna08-gadget1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3055/we-went-to-the-gadget-show
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070247-tna08-gadget1.jpg"
-image_caption: ""
 ---
 
 Last Friday three young whippersnappers (i.e. the Felix Tech team) made their way to the Gadget Show Live, in the ExCeL, hoping to see the newest tech on the market, as well as have some well-earned time off. Once we arrived there and got our shiny press passes sorted out, we decided to split up so that each of us would have a different view of what actually was going on in the tech world.

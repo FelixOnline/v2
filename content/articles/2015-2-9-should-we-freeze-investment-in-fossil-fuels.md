@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Phoebe Tickell talks about her involvement with Fossil Free Imperial
 date: "2015-02-09 19:44:30 +0000"
-
-# Attributes from Felix Online V1
-id: "5227"
-old_path: /comment/5227/should-we-freeze-investment-in-fossil-fuels
+image: "http://felixonline.co.uk/img/upload/201502091943-ps3110-fossil.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5227/should-we-freeze-investment-in-fossil-fuels
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - tickell
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502091943-ps3110-fossil.jpg"
-image_caption: ""
 ---
 
 The world is waking up to the reality of approaching dangerous temperature rise. And that’s without considering the catastrophic hurricanes, changes to ocean currents, mass extinctions globally, political instability, war, famine, human displacement on a biblical scale, and the growing injustice of global inequality, with ever more power shifting to the 1%.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   "The press release promised a man bursting through walls at full throttle, and pairs of elegant swimmers hanging just on top of the audience’s head"
 date: "2013-01-10 22:38:26 +0000"
-
-# Attributes from Felix Online V1
-id: "3091"
-old_path: /arts/3091/not-waving-but-possibly-drowning-
+image: "http://felixonline.co.uk/img/upload/201301102237-csw09-swimming.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3091/not-waving-but-possibly-drowning-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - csw09
  - eb1408
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102237-csw09-swimming.jpg"
-image_caption: ""
 ---
 
 The Argentinian dance troop came to town preceded by its reputation. Some six years ago, Fuerzabruta re-opened the Roundhouse with an acrobatic extravaganza that left a permanent mark in the minds of so many Londoners as the most amazing show they had ever seen. The group, directed by Diqui James and Alejandro Garcia, combines high-tech light and sound effects with elegant pirouettes to create dashing visual effects.

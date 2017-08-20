@@ -4,18 +4,15 @@ title: >
 subtitle: >
   England Rugby Union 7’s Head Coach, Ben Ryan, attends ceremony
 date: "2011-06-16 21:21:40 +0100"
-
-# Attributes from Felix Online V1
-id: "1403"
-old_path: /sport/1403/2nd-annual-arcs-awards-celebrate-sports-at-imperial
+image: "http://felixonline.co.uk/img/upload/201106162213-felix-dsc_0183-(99).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1403/2nd-annual-arcs-awards-celebrate-sports-at-imperial
-imported: true
 comments:
  - value: >
      Wait his name is Rhett Butler?! For real? The pictures are great, but now that I've put his name toheegtr I can't think of anything else. That's a lot to live up to.,You can view photos by our good<a href="http://zsatgrw.com"> fiernd</a> and Rambler photographer, James Ruff over on the Rambler Collective site which can be viewed by clicking right here., average savings car insurance ct sell fake buy levitra due them
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106162213-felix-dsc_0183-(99).jpg"
-image_caption: ""
 ---
 
 Last Friday, Sport Imperial hosted the second annual Imperial ARCS (Appreciate, Recognise and Celebrate Sport) award ceremony championing those who have contributed to sport at Imperial College over the past year. The event was attented by over 140 guests including nominees for awards, supporting team members, coaches, teaching staff from Imperial, various officials, sponsors and partner organisations.

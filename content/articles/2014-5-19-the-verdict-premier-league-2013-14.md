@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Football Columnist James White take a look at a Premier League season that really did have it all.
 date: "2014-05-19 13:43:45 +0100"
-
-# Attributes from Felix Online V1
-id: "4609"
-old_path: /sport/4609/the-verdict-premier-league-2013-14
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4609/the-verdict-premier-league-2013-14
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - jpw12
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Arsenal__

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Don't judge a place by its handle
 date: "2012-01-19 21:03:54 +0000"
-
-# Attributes from Felix Online V1
-id: "2025"
-old_path: /music/2025/camping-in-an-old-street-basement
+image: "http://felixonline.co.uk/img/upload/201201192103-cac111-camp-inigo.jpg"
+image_caption: "Redrum in the basement"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2025/camping-in-an-old-street-basement
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - cac111
  - sh1207
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201192103-cac111-camp-inigo.jpg"
-image_caption: ""
 ---
 
 As acronyms go, the one belonging to the _City Arts & Music Project _is a bit awkward. The same goes for the name of its nightclub: _CAMP Basement_.

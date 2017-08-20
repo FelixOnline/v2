@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Islam Society warmly invite you to their week of events
 date: "2013-02-22 01:17:00 +0000"
-
-# Attributes from Felix Online V1
-id: "3357"
-old_path: /news/3357/keep-calm-and-discover-islam
+image: "http://felixonline.co.uk/img/upload/201302220116-tna08-diw.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3357/keep-calm-and-discover-islam
-imported: true
 comments:
  - value: >
      Dear Anonymous, yes you can. The Islamic Society have Islam Info stalls every Thursday in SAF or Sherfield, everyone welcome.,I admire Zara's involvement and clear thinking about Islam. I strongly encourage Zara to engage with Muslim's and non-Muslim's with a clear and non-judgmental way but in a very sure way about your own faith and believes. Great job. <br> <br>Amin Ansari,Hey, I'm gay, but I'm interested in discovering Islam. Is this possible?
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - zh709
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302220116-tna08-diw.jpg"
-image_caption: ""
 ---
 
 There seems to be a ‘KEEP CALM….’ slogan for every situation including ‘KEEP CALM IT’S ONLY THE OLYMPICS’. But here’s one you may not have thought of, ‘[KEEP CALM AND DISCOVER ISLAM’](http://theisoc.com/diw/), perhaps because mainstream media has done such an effective job in portraying that word ‘Islam’ with terrorsism…‘Islamism’...radicalism…list goes on. But just how much do you really know about it? There are loads of misconceptions and Discover Islam Week aims to address them.

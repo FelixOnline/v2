@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It’s the standard’s standard, a pennant for progress. And it certainly doesn’t use tables for layout
 date: "2011-01-27 19:17:14 +0000"
-
-# Attributes from Felix Online V1
-id: "665"
-old_path: /tech/665/is-it-a-bird-is-it-a-plane-no-its-super-html5-
+image: "http://felixonline.co.uk/img/upload/201101201959-ks607-html5555.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/665/is-it-a-bird-is-it-a-plane-no-its-super-html5-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - lc107
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101201959-ks607-html5555.jpg"
-image_caption: ""
 ---
 
 HTML5, the HTML standard’s newest major revision, was finally given a visual identity last week with the introduction of a shiny new logo. The logo’s bright and blocky visage, along with the shield-like shape, has almost martial connotations. It represents a considerable evolution of the existing HTML standard, which is determined to transform the web as we know it. According to the World Wide Web Consortium (W3C), the logo “stands [as] strong and true, resilient and universal as the markup you write. It shines as bright and as bold as the forward-thinking, dedicated web developers you are. It’s the standard’s standard, a pennant for progress. And it certainly doesn’t use tables for layout.”

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The fourth of our 'games that never made it'
 date: "2011-03-03 21:18:54 +0000"
-
-# Attributes from Felix Online V1
-id: "1024"
-old_path: /games/1024/lord-of-the-rings-white-council
+image: "http://felixonline.co.uk/img/upload/201103032117-ks607-Lordofth.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1024/lord-of-the-rings-white-council
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - dt1209
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103032117-ks607-Lordofth.jpg"
-image_caption: ""
 ---
 
 Thinking of a single reason why they didn’t make this game is really hard. If they were worried that it wasn’t going to sell enough copies to make it viable I really hope they’re reading this because I will commit right here to buying enough copies to make it worth it.

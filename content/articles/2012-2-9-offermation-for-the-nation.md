@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Tim Arbabzadah catches up with comedian Chris Ramsey about his latest tour, while giving you a master class in how to ask long, rambling and non-concise questions...
 date: "2012-02-09 22:12:58 +0000"
-
-# Attributes from Felix Online V1
-id: "2142"
-old_path: /news/2142/offermation-for-the-nation
+image: "http://felixonline.co.uk/img/upload/201202092211-felix-chris-ramsey-picture-for-feature.jpg"
+image_caption: "That’s right, it’s a totally unnecessary, time consuming, Photoshop. MSci project? What’s that? "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2142/offermation-for-the-nation
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202092211-felix-chris-ramsey-picture-for-feature.jpg"
-image_caption: ""
 ---
 
 __Tim: We’re a student newspaper and you went to university as I infer from the fact that you were in the Chortle Student Comedian of the Year Awards 2008?__

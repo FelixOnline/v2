@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Carol Ann Cheah with more NY Resolution-friendly healthy grub
 date: "2013-01-18 01:20:51 +0000"
-
-# Attributes from Felix Online V1
-id: "3152"
-old_path: /food/3152/the-lunchbox-lowdown-02
+image: "http://felixonline.co.uk/img/upload/201301180115-tna08-bento-done.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3152/the-lunchbox-lowdown-02
-imported: true
 comments:
  - value: >
      You mention defrosting frozen rice <br> <br>Do you mean you; <br> <br>1) microwave until defrosted (ie not frozen) Then eat cold later on <br> <br>Or <br> <br>2) microwave until hot. Then eat while warm later on <br> <br>?? <br> <br>Is letting defrost naturally and eating cold an option or not recommended? <br> <br>I am total beginner and have been asked to make them!,Not signed in and have no idea why I didn't get this notification - but you need to microwave until hot to sufficiently zap all the nasties, then pack into your box and let cool as you go about your day until it's time for lunch. <br> <br>Bento lunches are not meant to be eaten warm (they'll get to room temp by lunchtime and that's okay if you eat them then), though defrosting and eating cold isn't recommended because it's bloody unpalatable.
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301180115-tna08-bento-done.jpg"
-image_caption: ""
 ---
 
 ## __Intro__

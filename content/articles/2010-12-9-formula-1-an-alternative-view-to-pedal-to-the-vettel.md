@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A less 'mainstream' view of Formula 1
 date: "2010-12-09 20:19:05 +0000"
-
-# Attributes from Felix Online V1
-id: "520"
-old_path: /sport/520/formula-1-an-alternative-view-to-pedal-to-the-vettel
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/520/formula-1-an-alternative-view-to-pedal-to-the-vettel
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jat07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Having read the [Formula 1 review in Issue 1474](http://felixonline.co.uk/sport/399/pedal-to-the-vettel/), I found several points I completely disagree with.

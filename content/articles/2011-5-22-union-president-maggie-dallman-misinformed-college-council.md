@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The Head of Natural Sciences Faculty 'directly lied' to former Union President and 'misinformed' College Council says Alex Kendall
 date: "2011-05-22 13:08:27 +0100"
-
-# Attributes from Felix Online V1
-id: "1242"
-old_path: /news/1242/union-president-maggie-dallman-misinformed-college-council
+image: "http://felixonline.co.uk/img/upload/201105221412-felix-img_9716.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1242/union-president-maggie-dallman-misinformed-college-council
-imported: true
 comments:
  - value: >
      “there is no mechanism for students to make formal complaints about members of staff” <br> <br>Is that really true? Seems a bit ridiculous if it is! ,There is a complaints procedure outlined on the Registry's page: <br> <br>http://www3.imperial.ac.uk/secretariat/governance/charterandstatutes/e3 <br> <br>,@Hannah <br> <br>As it says, these are for academic or administrative services. My complaint would have been about general conduct and accountability. It is worrying that there is no method for this, but the point is that College Council is meant to be the ultimate accountability tool. If a lower internal mechanism could overide its authority then it would lose that authority by definition. Whether Council is indeed accountable we will find out at the next one (when I will bring this up),It could fall under either of those if you want to stretch it- particularly if you want to emphasis the effect it has on academia. It explicitly states the matters which it cannot deal with, which this does not fall under. The issue can then be
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105221412-felix-img_9716.jpg"
-image_caption: ""
 ---
 
 _The original headline for this article was changed on the 23rd of May at 16:05. An explanation is published at the bottom of the article._

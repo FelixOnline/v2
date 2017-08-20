@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Looking at the Kepler Telescope's newest discovery
 date: "2013-11-01 09:38:29 +0000"
-
-# Attributes from Felix Online V1
-id: "3973"
-old_path: /science/3973/7th-rock-from-another-sun
+image: "http://felixonline.co.uk/img/upload/201311010937-felix-science-kepler-space-telescope.jpg"
+image_caption: "The Kepler Space Telescope before launch in 2009"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3973/7th-rock-from-another-sun
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - pd111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311010937-felix-science-kepler-space-telescope.jpg"
-image_caption: ""
 ---
 
 Discovering exoplanets nearly 20 years ago allowed physicists to change their view of the universe. We had always known that our Sun was not the only star in the wide universe, but then came confirmation that there are star systems like ours too, with planets of all sizes orbiting one, two or three stars at a time. Now one dwarf star in particular, KIC 11442793 (catchy name!), may hold a record for the most number of exoplanets, with two separate research groups finding a seventh orbiting the star.

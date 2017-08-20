@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A short story by Eoghan Totten
 date: "2014-02-21 03:23:46 +0000"
-
-# Attributes from Felix Online V1
-id: "4426"
-old_path: /books/4426/tea--coffee-truths
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/4426/tea--coffee-truths
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -23,12 +20,6 @@ authors:
  - ejt11
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 One day I may look back on my life and realise that my first love was not a person but a place...

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   John Park on "Prisoners"
 date: "2013-10-12 00:48:01 +0100"
-
-# Attributes from Felix Online V1
-id: "3841"
-old_path: /film/3841/bring-her-hoooooome
+image: "http://felixonline.co.uk/img/upload/201310120147-jal08-809dd08308020ae3e3511ae43b_h498_w598_m2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3841/bring-her-hoooooome
-imported: true
 comments:
  - value: >
      People's actions are ditrcely correlated with the way the world occurs for them. Credit to Landmark Education. You are transforming your environment with your stand for people around you living their lives powerfully and living a life they love.I proved it to my loved one again by prosecuting a bully man ruined my life betraying me as a husband and infidelity in marriage. he may call himself a doctor but he was not it, a bad doctor for all. I owe it to me and my loved one in my community, I WON it shows his actions is dirctly correlated with consequences,I have been exploring for a <a href="http://cksvfngzcyq.com">litlte</a> for any high quality articles or weblog posts in this sort of space . Exploring in Yahoo I ultimately stumbled upon this website. Studying this information So i am glad to show that I have an incredibly just right uncanny feeling I came upon exactly what I needed. I most certainly will make certain to don?t put out of your mind this website and provides it a look on a relentless basis.
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - jgp09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310120147-jal08-809dd08308020ae3e3511ae43b_h498_w598_m2.jpg"
-image_caption: ""
 ---
 
 ￼__Prisoners__

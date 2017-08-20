@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Hasaan Choudry discovers that the President has lost his mojo
 date: "2012-11-01 23:13:50 +0000"
-
-# Attributes from Felix Online V1
-id: "2818"
-old_path: /music/2818/obama-and-hip-hope
+image: "http://felixonline.co.uk/img/upload/201211012313-tna08-obama-jay-z.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2818/obama-and-hip-hope
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211012313-tna08-obama-jay-z.jpg"
-image_caption: ""
 ---
 
 Music and the President of the United States of America has always had an interesting relationship. Music being played in the White House is a long standing tradition, dating back to ever since the Marine Band were invited to perform in the Executive Suite for President John Adams on New Year’s Day 1801. Fast forward to 20 January 2009, President Barack Obama was elected and that evening

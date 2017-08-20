@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Photosoc and ArtSoc are giving away tickets to Wicked if you can snap a picture on this theme
 date: "2016-02-05 12:52:32 +0000"
-
-# Attributes from Felix Online V1
-id: "5887"
-old_path: /cands/5887/friendship-in-the-name-of-art
+image: "http://felixonline.co.uk/img/upload/201602051251-felix-photosocheader4.jpg"
+image_caption: "Aw, friends."
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5887/friendship-in-the-name-of-art
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - mc4113
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602051251-felix-photosocheader4.jpg"
-image_caption: ""
 ---
 
 As an inaugural collaboration between Photography and Art Society, this photography contest revolves around the theme of ‘friendship’. Both societies organise activities of different natures: ArtSoc organises street art walking tours and musical outings every week, while PhotoSoc organises regular photo walks and workshops.

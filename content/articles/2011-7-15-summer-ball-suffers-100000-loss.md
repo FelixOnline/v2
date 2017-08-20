@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Union accepts that loss is unacceptable and promises that lessons will be learnt
 date: "2011-07-15 16:49:28 +0100"
-
-# Attributes from Felix Online V1
-id: "1450"
-old_path: /news/1450/summer-ball-suffers-100000-loss
+image: "http://felixonline.co.uk/img/upload/201107181209-felix-dsc_0021.jpg"
+image_caption: "This year's Summer Ball "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1450/summer-ball-suffers-100000-loss
-imported: true
 comments:
  - value: >
      How on earth did this happen? 3850 tickets - seriously? Shit needs to fall on whoever is responsible for this unacceptable loss. <br> <br>Hopefully Heath et al. will learn from this year's mistakes...,How on earth did this happen? 3850 tickets - seriously? Shit needs to fall on whoever is responsible for this unacceptable loss. <br> <br>Hopefully Heath et al. will learn from this year's mistakes...,I agree with all the above points apart from 3, I think that there are plenty of black tie events that happen throughout the year and the thing that made the summer ball a bit more impressive was the Music aspect. <br>I would debate the wisdom in getting a headline act who's career was effectively over when I was still playing with pogs but what the hell. <br> <br>BIG PROBLEM with having a festival that lasts all day though is NOT PROVIDING ANY FOOD (that was any good). <br> <br>Had anyone on this democratically representative and extremely knowledgeable "ents committee" (http://tinyurl.com/6ks7228) actually been to a festival, they would kn
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201107181209-felix-dsc_0021.jpg"
-image_caption: ""
 ---
 
 Management accounts from Imperial College Union show that this year’s Summer Ball made an estimated loss of £100,000.

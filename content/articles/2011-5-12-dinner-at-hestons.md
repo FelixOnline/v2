@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Laura Huckins visits the fabled new restaurant sensation
 date: "2011-05-12 18:36:51 +0100"
-
-# Attributes from Felix Online V1
-id: "1196"
-old_path: /food/1196/dinner-at-hestons
+image: "http://felixonline.co.uk/img/upload/201105121936-felix-pate.jpg"
+image_caption: "Oh sweet delicious meat fruit..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1196/dinner-at-hestons
-imported: true
 comments:
  - value: >
      More posts of this quality. Not the usual c***, plsaee,WEuNfZ <a href="http://jdmdhzbsyxdu.com/">jdmdhzbsyxdu</a>, <a href="http://www.zithromaxpills.com/">zithromax</a> &gt;:))) <a href="http://www.get-autoinsurance.com/">auto insurance</a> ueet
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -28,12 +26,6 @@ authors:
  - lmh07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105121936-felix-pate.jpg"
-image_caption: ""
 ---
 
 Long before I enter [Dinner](http://www.dinnerbyheston.com/), I have done my research. After four years at Imperial I am an engineer worth my salt: alongside my Lit Review I have menus and quotes, and the date pencilled into Outlook three months in advance. Less than two weeks before we are due to go, Dinner opens and the reviews come streaming in: Giles calls it “[the best restaurant in the world](http://www.thetimes.co.uk/tto/life/food/restaurants/article2896276.ece)” [paywall]. AA Gill is in [raptures](http://www.thesundaytimes.co.uk/sto/style/food/Eating_Out/article534399.ece) [paywall]. Suddenly, with two days to go, our reservations are worth more than that week’s rent: a few hours later, a pair of reservations are selling for £300. Luckily, it does not occur to us to sell them despite the fact that we may not make rent this month, or that we only have two aubergines and some rice left. I cannot say I will ever regret it.

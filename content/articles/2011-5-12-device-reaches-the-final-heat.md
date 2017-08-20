@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Scientists create generator to make use of waste heat
 date: "2011-05-12 16:25:39 +0100"
-
-# Attributes from Felix Online V1
-id: "1187"
-old_path: /science/1187/device-reaches-the-final-heat
+image: "http://felixonline.co.uk/img/upload/201105121720-felix-trafficjam11.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1187/device-reaches-the-final-heat
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - cjb07
  - jmp210
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105121720-felix-trafficjam11.jpg"
-image_caption: ""
 ---
 
 Ever looked at the squandered energy shimmering off hundreds of idling, traffic-jammed cars and wondered, “couldn’t we do something with that?”

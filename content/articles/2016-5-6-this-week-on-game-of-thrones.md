@@ -4,16 +4,14 @@ title: >
 subtitle: >
   It's series 6, episode 2!
 date: "2016-05-06 10:17:14 +0100"
-
-# Attributes from Felix Online V1
-id: "6135"
-old_path: /tv/6135/this-week-on-game-of-thrones-
+image: "http://felixonline.co.uk/img/upload/201605061116-felix-game-of-thrones-episode-2-4-810x539.jpg"
+image_caption: "That awkward moment when you’re older than your father."
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6135/this-week-on-game-of-thrones-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ad4013
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061116-felix-game-of-thrones-episode-2-4-810x539.jpg"
-image_caption: ""
 ---
 
 Following last week’s relatively uneventful, measured episode, _Game of Thrones_ cranks the dial up to eleven with this one. Last time was the safety briefing; now we’ve hit the first drop on the rollercoaster.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Pt. 4 elektronische Musik
 date: "2012-11-01 23:17:43 +0000"
-
-# Attributes from Felix Online V1
-id: "2823"
-old_path: /music/2823/you-dont-have-to-call-it-music-4
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2823/you-dont-have-to-call-it-music-4
-imported: true
 comments:
  - value: >
      Muy interesantes, Inigo. Te propongo que publiquemos un libro con mis entrevistas de Triunfo y un prologo tuyo sobre lo que es la musica concreta. dime y abrazos
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - im808
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 _or: drums are from Africa, synths are from Germany_

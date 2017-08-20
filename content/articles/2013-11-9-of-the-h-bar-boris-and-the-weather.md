@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Another editorial!
 date: "2013-11-09 12:47:51 +0000"
-
-# Attributes from Felix Online V1
-id: "4046"
-old_path: /comment/4046/of-the-h-bar-boris-and-the-weather
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4046/of-the-h-bar-boris-and-the-weather
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Hello again.

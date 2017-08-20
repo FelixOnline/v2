@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Last weekend saw Ethos sports centre nearly full to capacity as over one hundred and sixty competitors descended on Imperial College to take part in the Imperial College Open.
 date: "2014-01-17 04:45:41 +0000"
-
-# Attributes from Felix Online V1
-id: "4265"
-old_path: /sport/4265/ic-taekwondo-produce-strong-showing
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4265/ic-taekwondo-produce-strong-showing
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - ng611
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Last weekend saw Ethos sports centre nearly full to capacity as over one hundred and sixty competitors descended on Imperial College to take part in the Imperial College Open.

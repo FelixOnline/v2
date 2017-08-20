@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A review of the films on show
 date: "2012-10-11 21:16:54 +0100"
-
-# Attributes from Felix Online V1
-id: "2669"
-old_path: /film/2669/56th-bfi-london-film-festival
+image: "http://felixonline.co.uk/img/upload/201210112216-felix-crononrgb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2669/56th-bfi-london-film-festival
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112216-felix-crononrgb.jpg"
-image_caption: ""
 ---
 
 Caesar Must Die

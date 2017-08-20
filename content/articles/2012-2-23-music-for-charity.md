@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Raincatcher Imperial hosts a night at Metric in the name of charity
 date: "2012-02-23 21:42:23 +0000"
-
-# Attributes from Felix Online V1
-id: "2260"
-old_path: /news/2260/music-for-charity
+image: "http://felixonline.co.uk/img/upload/201202232142-pk1811-200562_10150445878495018_639375017_17427864_7710888_n.jpg"
+image_caption: "Raincatcher Imperial took over Metric last year as well"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2260/music-for-charity
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - mim11
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202232142-pk1811-200562_10150445878495018_639375017_17427864_7710888_n.jpg"
-image_caption: ""
 ---
 
 [Raincatcher Imperial](http://www.RaincatcherImperial.ac.uk) has been working tirelessly for the past months to fundraise for a water harvesting system in Tabora that will give clean, drinkable water for local schoolchildren. Coming up tomorrow (Saturday 25 February) is one of our biggest events of the year, our [Metric Night: Let it Rain](http://www.imperialcollegeunion.org/metric/event.html?Lid=0&Pevent=com.othermedia.imperial.model.EventHandle-L-2005#mainEvent).

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A selection of our writers let us know which film they think should take home the top prize of Best Picture at this Sunday’s Academy Awards Ceremony
 date: "2017-02-24 14:19:17 +0000"
-
-# Attributes from Felix Online V1
-id: "6818"
-old_path: /film/6818/and-the-best-picture-award-goes-to
+image: "http://felixonline.co.uk/img/upload/201702241415-felix-arrival-review.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6818/and-the-best-picture-award-goes-to
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702241415-felix-arrival-review.jpg"
-image_caption: ""
 ---
 
 ## Arrival | Cale Tilford's pick

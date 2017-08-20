@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lauren Hoskin discusses advancements in finding a vaccine for Malaria
 date: "2013-10-18 21:15:10 +0100"
-
-# Attributes from Felix Online V1
-id: "3889"
-old_path: /science/3889/releasing-a-vaccination-for-malaria
+image: "http://felixonline.co.uk/img/upload/201310182214-jal08-slideshow-zambia-malaria-03.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3889/releasing-a-vaccination-for-malaria
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - lh513
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310182214-jal08-slideshow-zambia-malaria-03.jpg"
-image_caption: ""
 ---
 
 Results released on the October 8th revealed that scientists are making promising progress in the development of an effective malaria vaccine called RTS,S. The vaccine could potentially save millions of lives as it aims to combat one of the world’s deadliest diseases.

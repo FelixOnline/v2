@@ -4,18 +4,15 @@ title: >
 subtitle: >
   (tho how can you not like waking people with a big stick?)
 date: "2017-03-10 14:46:13 +0000"
-
-# Attributes from Felix Online V1
-id: "6889"
-old_path: /sport/6889/kendo-or-kendont--you-be-the-judge
+image: "http://felixonline.co.uk/img/upload/201703101446-felix-kendo3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6889/kendo-or-kendont--you-be-the-judge
-imported: true
 comments:
  - value: >
      Good !|Cool! I love your this bolg. <br>buy albion online gold http://socialcrypto.net/blog/view/47796/albion-equipment-armour-and-assassin-jacket-hood,Good !|Cool! I love your this bolg. <br>buy albion online gold http://socialcrypto.net/blog/view/47796/albion-equipment-armour-and-assassin-jacket-hood,Do you have a good sense of humor . <br>cheapest madden 17 coins mobile coins http://www.madden-store.com,Do you have a good sense of humor . <br>cheapest madden 17 coins mobile coins http://www.madden-store.com,were so proud of you. <br>cheapest pokemon go rare pokemon seller pokemonbux http://www.pokemonbux.com,were so proud of you. <br>cheapest pokemon go rare pokemon seller pokemonbux http://www.pokemonbux.com,Now you tell me she's not a knock-out! <br>buy Dofus Touch Kamas http://dofustouch.thezenweb.com/Feel-Hard-To-Farm-Dofus-Touch-Kamas-In-Game-Visit-Here-3838739,Now you tell me she's not a knock-out! <br>buy Dofus Touch Kamas http://dofustouch.thezenweb.com/Feel-Hard-To-Farm-Dofus-Touch-Kamas-In-Game-Visit-Here-3838739,youre
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - gabrielng
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101446-felix-kendo3.jpg"
-image_caption: ""
 ---
 
 Last weekend on the 4th and 5th of March, the annual UK Kendo University Championships took place in Cambridge, where Imperial College took home several awards, including winning the kyu grade team competition.

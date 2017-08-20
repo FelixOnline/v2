@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Five Imperial students will take to the road this summer in an alternative road trip
 date: "2012-03-15 21:04:48 +0000"
-
-# Attributes from Felix Online V1
-id: "2368"
-old_path: /travel/2368/post-exam-paris-to-dakar
+image: "http://felixonline.co.uk/img/upload/201203152103-ams111-p2d_groupphoto.jpg"
+image_caption: "Sure, it’s all smiles now, but there are camels to face"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/2368/post-exam-paris-to-dakar
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -25,12 +23,6 @@ authors:
  - dth08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152103-ams111-p2d_groupphoto.jpg"
-image_caption: ""
 ---
 
 This summer I will be part of a group of five Imperial students cycling from Paris to Dakar. Dakar is the capital of Senegal, the most westerly point of continental Africa and over 5,500km from Paris. We will leave from Paris after exams, nipping through the traffic and cutting into the calmer interior of France. We will travel along the Way of St. James, a network of pilgrimage routes converging on the Cathedral of Santiago de Compostela in Galicia. We will depart from the Way around the Pyrenees, long before Galicia in the north west of Spain. Through Spain we will aim for Gibraltar, then taking the ferry across the Straits to the port of Cueta in Morocco.

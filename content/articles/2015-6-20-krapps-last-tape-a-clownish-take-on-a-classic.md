@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Fred Fyles finds that Robert Wilson disappoints in this production, which ignores the beauty of Beckett's language
 date: "2015-06-20 11:58:48 +0100"
-
-# Attributes from Felix Online V1
-id: "5645"
-old_path: /arts/5645/krapps-last-tape-a-clownish-take-on-a-classic
+image: "http://felixonline.co.uk/img/upload/201506201255-ff712-rsz_01.jpg"
+image_caption: "Robert Wilson in Krapp's Last Tape"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5645/krapps-last-tape-a-clownish-take-on-a-classic
-imported: true
 comments:
  - value: >
      Robert Wilson's Krapp's Last Tape was the worst directed/produced and abysmally acted play of any kind that I have ever seen in nearly 70 years' theatre going. Clowning it is wide off the mark and the poetry of Beckett's language was completely lost. Wilson moved like a would-be Marcel Marceau, his squeaks and squawks were irritating - this was an offence to Beckett's memory. Krapp isn't a funny play and shouldn't be treated as such. Complete waste of time and money. Plus: far, far too long and too noisy. It took 20 minutes' relentless noise for Krapp to start eating his first banana, and 30 until he finally spoke. Shame on Wilson and those who booked him.,Gosh that was dreadful. Thought I was at a Children's birthday party. Really bad. Why did I pay £35? Why did the audience clap? Wilson got 2 curtain calls and claimed a third just in the nick of time as we gathered our coats and made for the exit. The set was the only thing worth looking at and the taped narration was the only thing worth listening to.
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506201255-ff712-rsz_01.jpg"
-image_caption: ""
 ---
 
 As the __Barbican Centre__’s month-long celebration of Samuel Beckett comes to an end, what better production can see us out than _Krapp’s Last Tape_, a tale of a man looking back on the past, evaluating his actions? There is a palpable sense of excitement in the __Barbican Theatre__, as famed director Robert Wilson is taking on the role, but from the offset, it is clear that things are going to be different with this version.

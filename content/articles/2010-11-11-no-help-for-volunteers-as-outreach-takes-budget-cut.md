@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Belt-tightening continues with Outreach and Volunteer Centre the latest victims
 date: "2010-11-11 22:01:12 +0000"
-
-# Attributes from Felix Online V1
-id: "371"
-old_path: /news/371/no-help-for-volunteers-as-outreach-takes-budget-cut
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/371/no-help-for-volunteers-as-outreach-takes-budget-cut
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - yw3410
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Imperial Volunteering Centre (IVC) is to be almost entirely scrapped due to funding difficulties caused by a cut by the Higher Education Funding Council for England (HEFCE) and also a large reduction in the Outreach department budget. Heather Jones, Deputy President (Clubs & Societies) and Minna Ruohonen, Head of the Volunteering Centre, expressed their concern about the effect on volunteering activities of the cut, which the College blames on HEFCE.

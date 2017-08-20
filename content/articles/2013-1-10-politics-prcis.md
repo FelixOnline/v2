@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Key Stories from the Holiday Season
 date: "2013-01-10 22:21:55 +0000"
-
-# Attributes from Felix Online V1
-id: "3085"
-old_path: /politics/3085/politics-prcis
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/3085/politics-prcis
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - csw09
  - phc11
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Italian Elections Heat Up__

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Sentimental columnists concludes all science is worthwhile science
 date: "2016-06-17 09:20:09 +0100"
-
-# Attributes from Felix Online V1
-id: "6279"
-old_path: /science/6279/sht-scence
+image: "http://felixonline.co.uk/img/upload/201606171119-felix-19735677646_3f2b02c34f_o.jpg"
+image_caption: "A fitting tribute to the wackiest of fictional scientists."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6279/sht-scence
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - mguenot
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606171119-felix-19735677646_3f2b02c34f_o.jpg"
-image_caption: ""
 ---
 
 At Sh!t Sc!ence, we’ve been trying to provide evidence that the scientific method that is in place is an effective filter, and that as such, there is no such thing as ‘shit science’. But as it is the end of the year, and you might be going off to glorious academic careers, here are a few things you should know to be able to judge a scientific paper critically.

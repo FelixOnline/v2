@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It turns out that time waits for no man, or Fresher
 date: "2011-09-30 10:16:53 +0100"
-
-# Attributes from Felix Online V1
-id: "1456"
-old_path: /comment/1456/the-clock-is-ticking
+image: "http://felixonline.co.uk/img/upload/201104240246-jk708-rhys-davies.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1456/the-clock-is-ticking
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - rjd08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104240246-jk708-rhys-davies.jpg"
-image_caption: ""
 ---
 
 Mesdames et messieurs, meine damen und herren, ladies and gentlemen, bienvenue, wilkommen and of course, welcome – to Imperial College.

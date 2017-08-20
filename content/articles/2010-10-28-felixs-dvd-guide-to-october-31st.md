@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Review by Matt Allinson, Oliver Calderbank, Chris Richardson and Jonathan Messing
 date: "2010-10-28 19:44:08 +0100"
-
-# Attributes from Felix Online V1
-id: "273"
-old_path: /film/273/felixs-dvd-guide-to-october-31st
+image: "http://felixonline.co.uk/img/upload/201010282037-ma1307-OMGDEATH.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/273/felixs-dvd-guide-to-october-31st
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +23,6 @@ authors:
  - ma1307
  - oc07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010282037-ma1307-OMGDEATH.jpg"
-image_caption: ""
 ---
 
 Halloween parties are like sex: either a dark, lusty and twisted extravaganza enhanced by elaborate costumes; or an over-hyped and disappointing charade we do once a year because we feel socially compelled to. Helping you make yours the former, here is our guide of some new and re-released Horror DVDs to get you going.

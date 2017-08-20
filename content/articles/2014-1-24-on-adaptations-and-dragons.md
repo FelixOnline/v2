@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Spoiler Alert: If you haven’t seem The Hobbit yet, stop reading
 date: "2014-01-24 09:54:21 +0000"
-
-# Attributes from Felix Online V1
-id: "4284"
-old_path: /comment/4284/on-adaptations-and-dragons
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4284/on-adaptations-and-dragons
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - pa07
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 As you are all undoubtedly aware, the Peter-Jackson-directed Tolkien-related orc-genociding movie trilogy for this decade is The Hobbit, which was for many cause of puzzlement and bewilderment, as the novel it is based upon is much shorter than The Lord of the Rings, and hence does not seem to be the kind of story that needs nine hours to fully tell. The way it was stretched in a trilogy became readily apparent as soon as the first movie was shown and subsequently reinforced by second one, and that is by way of adding a lot of made up stuff that was not present in the book. This move has had a lot of fans and purists up in arms, who have regarded all these additions with the suspicion reserved for a filthy hyperactive child who excitedly asks to hold some valuable item. The fear in both cases is that our precious’ pristine original beauty will be dirtied and destroyed by this immature peasant and RUINED FOREVER because it is not handled with the reverence and respect due to holy relics. Rivers of ink and fields of pixels (if pixels are indeed measured by the fieldful) have been written in nerdrage about this subject, and I cannot understand why some people are so upset by the additions.

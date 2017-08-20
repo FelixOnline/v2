@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jason Parmar coos over his new Nokia Lumia 800
 date: "2011-12-08 19:55:42 +0000"
-
-# Attributes from Felix Online V1
-id: "1904"
-old_path: /tech/1904/nokiasoft-a-match-made-in-heaven
+image: "http://felixonline.co.uk/img/upload/201112081952-cac111-nokia.jpg"
+image_caption: "deadmau5 helped to launch the Nokia Lumia 800 at Millbank Tower in late November"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/1904/nokiasoft-a-match-made-in-heaven
-imported: true
 comments:
  - value: >
      It's called Windows Phone 7, Windows Mobile refers to versions 6.5 and below. Microsoft ran a campaign rebranding the operating system to indicate its vast difference. I use the HTC HD7 Windows Phone and I love it :),??? <br>It says Windows Phone 7, where does it say Windows Mobile?,The article in print, which you can find in the issue archive online, this one just got changed :P,Ergh, slipped right by us. <br> <br>We were too busy on Photoshop I reckon.,I found some pretty awesome deals here: <br>http://www.e2save.com/mobile-phone/contract/nokia/Nokia-Lumia-800.html?network=orange&amp;tariffcode=C11TESEP11 <br> <br>But in the end, I just rang up Vodaphone (my network) and convinced them to give me an awesome deal.,Also noted, I meant iPhone 4S instead of iPhone 3G in the price section,Now compare it to what that phone was meant to be, the Nokia N9: <br>http://www.engadget.com/2011/10/22/nokia-n9-review/ <br> <br>The review doesn't really do it justice, you've got to play with one to see how good a phone it really is, but still. MeeGo is d
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112081952-cac111-nokia.jpg"
-image_caption: ""
 ---
 
 When Nokia announced their partnership with [Windows Phone 7](http://www.microsoft.com/windowsphone/en-us/default.aspx) instead of Android back in February I honestly thought that they’d made one of the biggest mistakes in the company’s history. How wrong I was.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Hockey celebrate another success
 date: "2015-03-19 23:58:27 +0000"
-
-# Attributes from Felix Online V1
-id: "5414"
-old_path: /sport/5414/hockey-win-lusl-cup
+image: "http://felixonline.co.uk/img/upload/201503192358-kmw13-p3140416%20%282%29.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5414/hockey-win-lusl-cup
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - kmw13
  - rcp12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503192358-kmw13-p3140416%20%282%29.jpeg"
-image_caption: ""
 ---
 
 Having won a hard fought battle against RUMS in the semi-final, IC travelled to Royal Holloway to take part in the final of the London Universities Cup against King’s GKT on Saturday. GKT had previously beaten IC in a pre-season friendly in the only meeting of the two teams this season, finishing 2nd in the BUCS league above IC meant that on paper they were surely favourites to take the Cup title. However, coach Cooper had prepared a game plan tailored their style of play and because of this IC were confident in their ability to cause an upset.

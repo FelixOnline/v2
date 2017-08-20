@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Frieze Fair is the glitzy international cattle market of contemporary art, but what if you’re not spending?
 date: "2010-10-21 18:45:57 +0100"
-
-# Attributes from Felix Online V1
-id: "221"
-old_path: /arts/221/cold-hard-cash-
+image: "http://felixonline.co.uk/img/upload/201010211944-ks607-brightli.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/221/cold-hard-cash-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - crc08
  - jk708
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010211944-ks607-brightli.jpg"
-image_caption: ""
 ---
 
 As a classical art enthusiast, I would be the first to admit that I can be somewhat pessimistic when it comes to contemporary art. Long have I held the somewhat closed-minded view that a number of today’s more renowned modern artists are in fact talentless criminals with a license to print/paint money because they’re able to tell some quite exotic lies about what their pieces mean. In short, I was perhaps a little harsh...

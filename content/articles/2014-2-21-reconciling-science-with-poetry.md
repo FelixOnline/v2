@@ -4,16 +4,13 @@ title: >
 subtitle: >
   I am sat at a pew in Westminster Abbey, filled with a sense of awe and reverence. Unlike the elderly lady to my right, her hands clasped in silent petition, I am not here for prayer. I am, however, here on a pilgrimage of sorts in an attempt to understand the power and limits of science.
 date: "2014-02-21 03:28:21 +0000"
-
-# Attributes from Felix Online V1
-id: "4429"
-old_path: /comment/4429/reconciling-science-with-poetry
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4429/reconciling-science-with-poetry
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I am sat at a pew in Westminster Abbey, filled with a sense of awe and reverence. Unlike the elderly lady to my right, her hands clasped in silent petition, I am not here for prayer. I am, however, here on a pilgrimage of sorts in an attempt to understand the power and limits of science.

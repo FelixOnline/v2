@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Nope. Take Me Out hasn't started shacking up elements. Yet...
 date: "2012-10-26 02:30:30 +0100"
-
-# Attributes from Felix Online V1
-id: "2745"
-old_path: /science/2745/improvements-in-carbon-dating
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2745/improvements-in-carbon-dating
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - mjp109
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A new study of sediment cores from Lake Suigetsu, Japan, has the potential to improve the accuracy of the radiocarbon dating techniques used widely by archaeologists and climate scientists.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Drought. Fire. Floods. Numerous factors are causing food prices to rise. Is this the start of another global food crisis?
 date: "2011-03-01 21:38:30 +0000"
-
-# Attributes from Felix Online V1
-id: "974"
-old_path: /science/974/words-will-not-feed-the-world
+image: "http://felixonline.co.uk/img/upload/201103012134-ks607-rainfore.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/974/words-will-not-feed-the-world
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - nar110
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103012134-ks607-rainfore.jpg"
-image_caption: ""
 ---
 
 Last month the United Nations’ global food price index hit its highest peak since its record began in 1990. In doing so it has raised fears of a return to the food crisis of 2008, when high prices sparked violent riots around the world.

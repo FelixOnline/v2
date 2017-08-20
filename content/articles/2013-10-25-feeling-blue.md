@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fred Fyles reviews "Blue is the Warmest Colour"
 date: "2013-10-25 00:50:59 +0100"
-
-# Attributes from Felix Online V1
-id: "3940"
-old_path: /film/3940/feeling-blue
+image: "http://felixonline.co.uk/img/upload/201310250151-felix-128743804_blue_416028b.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3940/feeling-blue
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - ff712
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250151-felix-128743804_blue_416028b.jpg"
-image_caption: ""
 ---
 
 Blue is the Warmest Colour

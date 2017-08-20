@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Felix games team, given the opportunity, wracked the brains of Amplitude Studio's CEO Romain de Waubert de Genlis and Director of Marketing Max Von Knorring to see what their games as well as gaming are all about!
 date: "2014-07-10 16:44:42 +0100"
-
-# Attributes from Felix Online V1
-id: "4723"
-old_path: /games/4723/endlessly-fun-talking-to-amplitude-studio
+image: "http://felixonline.co.uk/img/upload/201407231455-me1711-endless-legend--the-roving-clans.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4723/endlessly-fun-talking-to-amplitude-studio
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201407231455-me1711-endless-legend--the-roving-clans.jpg"
-image_caption: ""
 ---
 
 Recently Felix games was invited to the press tour of Amplitude Studios, who are promoting their two newest games in their Endless Franchise: Endless Legend and Dungeon of the Legend. We were able to discuss their upcoming releases, Steam Early-Access, Indie Gaming as well as the gaming industry as a whole. We were able to meet CEO Romain de Waubert de Genlis as well as Director of Marketing Max Von Knorring, and see some incredibly promising games!

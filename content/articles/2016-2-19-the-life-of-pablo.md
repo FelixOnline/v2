@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Kanye West causes tidal waves with his eighth album
 date: "2016-02-19 12:19:52 +0000"
-
-# Attributes from Felix Online V1
-id: "5942"
-old_path: /music/5942/the-life-of-pablo
+image: "http://felixonline.co.uk/img/upload/201602191219-felix-kanye.jpg"
+image_caption: "Shut the fuck up and enjoy the greatness."
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5942/the-life-of-pablo
-imported: true
 comments:
  - value: >
      Great looking website. Presume you did a lot of your very own html coding.| <br>Buy 2k15 VC Coins http://forum.tronsmart.com/forum/vega-s95/2068-northrop-grumman-lands-usaf-deal-for-brand-new-lon#11273,Great looking website. Presume you did a lot of your very own html coding.| <br>Buy 2k15 VC Coins http://forum.tronsmart.com/forum/vega-s95/2068-northrop-grumman-lands-usaf-deal-for-brand-new-lon#11273,Love the site-- really user friendly and lots to see!| <br>buy mt nba 2k16 http://www.gamedesire.com/#/?dd=16&amp;n=2&amp;player=coinsbest&amp;show_blog=2555358&amp;view=blog_new,Love the site-- really user friendly and lots to see!| <br>buy mt nba 2k16 http://www.gamedesire.com/#/?dd=16&amp;n=2&amp;player=coinsbest&amp;show_blog=2555358&amp;view=blog_new,I benefit from perusing your internet site. Thanks for your time!| <br>cs go skins paypal http://koolfriends.com/forums/topic/36261/the-2k-vintage-features-of-cheap/view/post_id/36873,I benefit from perusing your internet site. Thanks for your time!| <br>cs go skins paypal http://koolfriends.com/forums/topic/36
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +24,6 @@ authors:
  - bsc14
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602191219-felix-kanye.jpg"
-image_caption: ""
 ---
 
 For those of us who have been following the run-up to _The Life of Pablo_ album, it’s been a ride. The release cycle was so messy at times many people began to expect disappointment. Four album names and endless delays later however, **Kanye West**’s seventh studio album has finally dropped. And, despite all the drama, _The Life of Pablo_ is absolutely phenomenal.

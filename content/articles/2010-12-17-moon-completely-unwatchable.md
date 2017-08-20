@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Maciej Matuszewski takes aim at the gaping plot holes in the acclaimed film 'Moon'
 date: "2010-12-17 10:52:46 +0000"
-
-# Attributes from Felix Online V1
-id: "558"
-old_path: /film/558/moon-completely-unwatchable
+image: "http://felixonline.co.uk/img/upload/201012171047-ks607-moonfilm.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/558/moon-completely-unwatchable
-imported: true
 comments:
  - value: >
      I was under the impression that the illness was caused by Sam being a clone rather than the environment on the moon, otherwise, good comments.,The more I think about David's explanation about the use of clones the more satisfing it seems. I still think that film could have tried to provide an explanation of its own to the viewers and of course the other problems still exist. <br>On the topic of the "realistic looking base" perhaps "plausible" would have been a better word for me to use.,Granted, GERTY's loopholes do seem to be a rather large oversight. However, it appears that clones are used rather than the training of new staff due to the illness caused by the environment rather than the cost of training. ,How does "realistic looking base" come under "scientific accuracy", when a moon-base has never been built? Surely this is a matter of opinion/taste? <br> <br>Secondly, the film contains a lot of mystery (probably deliberately so), therefore stating that the premise "lacks logic" by making assumptions about future
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +23,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012171047-ks607-moonfilm.jpg"
-image_caption: ""
 ---
 
 In my [previous column](http://felixonline.co.uk/?article=473) I mentioned my dislike of the film ‘Moon’. I’ve always been surprised by its popularity so I’d thought I’d talk a bit more about it this week. Spoiler Alert: If you don’t want to know the plot of this film then stop reading.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In recent times I have become quite disillusioned with Apple. The keynotes were kinda boring, and there was nothing really interesting. I usually tuned in to the keynotes just because I felt that I should. In fact, it got to the point that this time around, I almost missed the keynote. When I did op
 date: "2014-06-11 21:33:26 +0100"
-
-# Attributes from Felix Online V1
-id: "4669"
-old_path: /tech/4669/os-x-ios-and-full-frontal-apple
+image: "http://felixonline.co.uk/img/upload/201406112233-me1711-tech_ios8.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4669/os-x-ios-and-full-frontal-apple
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406112233-me1711-tech_ios8.png"
-image_caption: ""
 ---
 
 In recent times I have become quite disillusioned with Apple. The keynotes were kinda boring, and there was nothing really interesting. I usually tuned in to the keynotes just because I felt that I should. In fact, it got to the point that this time around, I almost missed the keynote. When I did open the stream, I found I had missed out completely on the new OS X presentation, named Yosemite, but just managed to catch iOS 8.

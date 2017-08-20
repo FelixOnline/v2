@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Our society is pretty tolerant of all lifestyles, right? Stuart Haylock and Chris Socha debate the prevalence of homophobia in the UK today
 date: "2011-03-10 20:13:27 +0000"
-
-# Attributes from Felix Online V1
-id: "1064"
-old_path: /comment/1064/is-our-society-less-homophobic-than-it-was-in-the-past
+image: "http://felixonline.co.uk/img/upload/201103102008-ks607-rainbowf.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1064/is-our-society-less-homophobic-than-it-was-in-the-past
-imported: true
 comments:
  - value: >
      HHIS I should have toghuht of that!,HHIS I should have toghuht of that!,IMiQ8l <a href="http://xshpwbelktoo.com/">xshpwbelktoo</a>,IMiQ8l <a href="http://xshpwbelktoo.com/">xshpwbelktoo</a>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -30,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103102008-ks607-rainbowf.jpg"
-image_caption: ""
 ---
 
 Yes – Stuart Haylock

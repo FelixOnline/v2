@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Oil and Water
 date: "2011-06-09 18:00:09 +0100"
-
-# Attributes from Felix Online V1
-id: "1328"
-old_path: /phoenix/1328/oil-and-water
+image: "http://felixonline.co.uk/img/upload/201106091858-felix-oilandwater.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/1328/oil-and-water
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -24,12 +21,6 @@ authors:
  - cjb07
  - oo2409
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106091858-felix-oilandwater.jpg"
-image_caption: ""
 ---
 
 Just like oil and water...

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   But will it succeed where the last one failed?
 date: "2017-03-17 12:59:12 +0000"
-
-# Attributes from Felix Online V1
-id: "6895"
-old_path: /news/6895/imperial-divestment-campaign-revived
+image: "http://felixonline.co.uk/img/upload/201703171259-felix-divest_rectangle.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6895/imperial-divestment-campaign-revived
-imported: true
 comments:
  - value: >
      Up yours! <br>Albion Online Silver http://www.ibase45.net/blogs/2014/23381/albion-allows-players-to-collect-resources-and-creat-weapons,I'll be there for you . <br>buy cheapest madden 17 coins mobile coins http://www.madden-store.com,this is a very helpful website! <br>pokemon go rare pokemon buy pokemonbux http://www.pokemonbux.com,I have no idea what you have said <br>Dofus Touch Kamas for sale http://forum.innjoo.com/forum.php?mod=viewthread&amp;tid=159621,hi!this is very good website! <br>buy Albion Online Gold https://albiononline.yolasite.com/upalbion.php
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - rhidianthomas
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171259-felix-divest_rectangle.png"
-image_caption: ""
 ---
 
 This Monday will see the relaunch of the fossil fuel divestment campaign at Imperial. The new campaign will be called Divest Imperial, and at the official Launch Party on Monday evening campaigners are hoping to convince students that the recent successes of divestment groups such as the one based in King’s, can be replicated at Imperial.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   But is it all worth it in the end? Three people who've campaigned in the Big Elections share their views
 date: "2015-03-19 23:52:51 +0000"
-
-# Attributes from Felix Online V1
-id: "5412"
-old_path: /comment/5412/campaigning-is-hard-work
+image: "http://felixonline.co.uk/img/upload/201503192356-cj914-random-election-balloons.jpg"
+image_caption: "Campaigning for the Big Elections can be rough, but is it all worthwhile?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5412/campaigning-is-hard-work
-imported: true
 comments:
  - value: >
      "It has been said that democracy is the worst form of government, except all others that have been tried." <br> <br>- Leonard Nemoy, Civilization IV sound byte for the research "Democracy".,"It has been said that democracy is the worst form of government, except all others that have been tried." <br> <br>- Leonard Nemoy, Civilization IV sound byte for the research "Democracy".,"It has been said that democracy is the worst form of government, except all others that have been tried." <br> <br>- Leonard Nemoy, Civilization IV sound byte for the research "Democracy".
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -31,12 +29,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503192356-cj914-random-election-balloons.jpg"
-image_caption: ""
 ---
 
 __Tom Rivlin: Deputy President (Clubs and Societies) candidate, 2015__

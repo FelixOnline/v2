@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Episode 2: In the beginning...
 date: "2013-11-05 09:38:50 +0000"
-
-# Attributes from Felix Online V1
-id: "3997"
-old_path: /music/3997/emiels-guide-to-classical-music-episode-2
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3997/emiels-guide-to-classical-music-episode-2
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - ed812
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Welcome to the first real instalment of my guide to Classical Music! I hope to start introducing the great composers and some of the masterpieces which address the issues raised in my column last week, but I feel it’s necessary to describe the historical and theoretical context from which “classical music” arose first. To this end I will start at the beginning, or rather, in the middle; for music existed long before the “beginning” and continued its course unperturbed for a long time afterwards. The moment I am referring to is of course the birth of the literate tradition in music; the earliest point from which we have written music which is still performable today, and the start of a rich tradition.

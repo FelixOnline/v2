@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sophie Kirk and Eoghan J Totten on the muddy running
 date: "2013-02-08 00:30:26 +0000"
-
-# Attributes from Felix Online V1
-id: "3273"
-old_path: /sport/3273/mud-mud-glorious-mud
+image: "http://felixonline.co.uk/img/upload/201302080029-tna08-537998_10152553235430607_652088575_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3273/mud-mud-glorious-mud
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -26,12 +23,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302080029-tna08-537998_10152553235430607_652088575_n.jpg"
-image_caption: ""
 ---
 
 1000 runners, miles of mud and one epic after party can only mean one thing, BUCS Cross Country 2013!

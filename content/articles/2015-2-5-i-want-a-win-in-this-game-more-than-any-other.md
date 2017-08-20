@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jonny Pratt previews tomorrow’s Six Nations opener between England and Wales
 date: "2015-02-05 13:22:53 +0000"
-
-# Attributes from Felix Online V1
-id: "5192"
-old_path: /sport/5192/i-want-a-win-in-this-game-more-than-any-other
+image: "http://felixonline.co.uk/img/upload/201502051322-kmw13-maxresdefault.jpg"
+image_caption: "The rivalry between England and Wales is fierce and steeped in tradition"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5192/i-want-a-win-in-this-game-more-than-any-other
-imported: true
 comments:
  - value: >
      I was wondering if you ever conesderid changing the layout of your website? Its very well written; I love what youve got to say. But maybe you could a little more in the way of content so people could connect with it better. Youve got an awful lot of text for only having 1 or 2 pictures. Maybe you could space it out better?
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +26,6 @@ authors:
  - kmw13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502051322-kmw13-maxresdefault.jpg"
-image_caption: ""
 ---
 
 This week, the best (annual) sporting event kicks off with the Six Nations, with a mouth-watering Wales vs England game under the Friday night lights in Cardiff. With England and Wales in the same World Cup group later this year the game is steeped in significance.

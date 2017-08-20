@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Alcohol is a drug and it's time we include it the converastion
 date: "2017-06-09 15:34:01 +0100"
-
-# Attributes from Felix Online V1
-id: "7020"
-old_path: /millennials/7020/were-all-a-bunch-of-boozy-drug-addicts
+image: "http://felixonline.co.uk/img/upload/201706091836-felix-Screen Shot 2017-06-09 at 18.36.00.png"
+image_caption: "LADSLADSLADSLADSLADS"
+headline: true
+featured: true
+imported: true
 aliases:
  - /millennials/7020/were-all-a-bunch-of-boozy-drug-addicts
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - millennials
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - theofarah13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706091836-felix-Screen Shot 2017-06-09 at 18.36.00.png"
-image_caption: ""
 ---
 
 Every single one of us has as some point been lectured about the dangers of cocaine, Adderall, and heroin. Take them once and it might not be long before you’re finding an excuse to take them again. Regardless of whether it’s the oh-so-good high or a few too many nights out one week, you can easily stumble from a ‘managed’ habit into an addiction without realising it. The risk of addiction and its woes are hammered home by our parents and teachers in school, and most of us enter University holding an oath never to touch ‘those bad drugs’. Financial destitution, a septum on permanent leave, and those “This is your brain on drugs” PSAs haunt our thoughts at the mention of Class As. Yet despite this oath (however long it remains intact throughout our years at University), many of us become addicts in our first week here. Our drug of choice? Alcohol.

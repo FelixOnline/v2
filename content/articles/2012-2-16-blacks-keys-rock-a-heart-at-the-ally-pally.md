@@ -4,16 +4,13 @@ title: >
 subtitle: >
   That's the Alexandra Palace to you and me...
 date: "2012-02-16 21:50:01 +0000"
-
-# Attributes from Felix Online V1
-id: "2198"
-old_path: /music/2198/blacks-keys-rock-a-heart-at-the-ally-pally-
+image: "http://felixonline.co.uk/img/upload/201202272116-sh1207-theblackkeys_gq_14feb12_rex_b.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2198/blacks-keys-rock-a-heart-at-the-ally-pally-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - sh1207
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202272116-sh1207-theblackkeys_gq_14feb12_rex_b.jpg"
-image_caption: ""
 ---
 
 Like most people who spent the better half of their teenage years during the mid-noughties, my music tastes were fairly rigidly constrained to the world of indie rock. My iTunes library was full of guitar bands and the ideal school night involved necking a few tins, getting on the train and sweating copious amounts in the poorly ventilated gig venues of Leeds. These days there are maybe three guitar bands that I pay any real attention to, with the rest of my attention falling on the world of electronic and hip hop music. Thinking about it, I’ve probably been to two gigs featuring bands playing ‘actual instruments’ in the past year. Perhaps this makes me less qualified to comment on this whole thing, perhaps it makes me more so, perhaps I couldn’t give a tuppeny fuck either way.

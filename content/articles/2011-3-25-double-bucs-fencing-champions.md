@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Imperials men's and women's fencers win BUCS Championships
 date: "2011-03-25 14:56:37 +0000"
-
-# Attributes from Felix Online V1
-id: "1127"
-old_path: /sport/1127/double-bucs-fencing-champions
+image: "http://felixonline.co.uk/img/upload/201103251451-jn104-BUCSFenc.jpg"
+image_caption: "Imperial's fencing teams celebrate their win"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1127/double-bucs-fencing-champions
-imported: true
 comments:
  - value: >
      Nobody cares,Normally, new students start in the spnirg or fall. If you want to start some other time, then you should contact Coach Thad Schmenk at 843-697-1528 or to see if there are open slots. Please note that Thad is a school Principal. He's a busy (and nice) guy. It may take him a few days to get back to you.The East of the Cooper Fencing club does not over lessons during the summer.,No. Coach Thad Schmenk takes the summer off to <a href="http://jipang.com">reijuce</a> his batteries. Classes resume in the fall. Registration is through City of Charleston Recreation or Mount Pleasant Recreation. Be sure to make their deadlines. Call coach Thad with questions. His phone number can be found on the About tab of this web site. Thanks for your interest. Fencing is a great mental and physical sport.
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103251451-jn104-BUCSFenc.jpg"
-image_caption: ""
 ---
 
 Imperial Fencing’s first teams came to the BUCS Championships semi-finals with an amazing season in the bag. Both of the teams were undefeated in their leagues and had confidently gone through their knock out rounds. In everyone’s mind were the double silvers from last year, where both men and women were close to grabbing the gold but in the end were defeated. For the women this year was of extra importance, having ended up second two years in a row.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Women’s ultimate frisbee a fun place to be
 date: "2011-01-27 20:22:02 +0000"
-
-# Attributes from Felix Online V1
-id: "691"
-old_path: /sport/691/imperials-ultimate-frisbee-full-of-double-ds
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/691/imperials-ultimate-frisbee-full-of-double-ds
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - prs09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Ultimate is played across three divisions: Open, Mixed and Women’s. Any player is eligible to play in the Open division, although the highest levels are dominated by men. The Mixed division requires a combination, usually split three to four, of both men and women where the two genders compete as equals, an unusual scenario in team sports. Finally the Women’s division, although the smallest, is becoming increasingly competitive not only at national and international level but also in university sport. Three of Imperial’s female players give their insight into what makes women’s Ultimate unique.

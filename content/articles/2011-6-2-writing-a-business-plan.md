@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Continuing our series on student enterprise, Paolo Strampelli talks business plans
 date: "2011-06-02 19:12:23 +0100"
-
-# Attributes from Felix Online V1
-id: "1304"
-old_path: /biz/1304/writing-a-business-plan
+image: "http://felixonline.co.uk/img/upload/201106022011-felix-business%20plan.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/1304/writing-a-business-plan
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -24,12 +21,6 @@ authors:
  - cjb07
  - ps6110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106022011-felix-business%20plan.jpg"
-image_caption: ""
 ---
 
 If you are a young, aspiring entrepreneur, with an idea that will earn you millions (or at least enough money to pay for drinks on a night out), you are likely to eventually receive a speech from an older, more experienced entrepreneur on the importance of writing a business plan. A business plan describes the business, its objectives, its strategies and its market, allowing you, the entrepreneur, to give answers to the questions you are bound to have.

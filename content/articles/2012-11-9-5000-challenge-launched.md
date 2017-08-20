@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Open to many students to win the chance to develop a project further
 date: "2012-11-09 00:15:46 +0000"
-
-# Attributes from Felix Online V1
-id: "2836"
-old_path: /news/2836/5000-challenge-launched
+image: "http://felixonline.co.uk/img/upload/201211090015-tna08-marketing-challenge.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2836/5000-challenge-launched
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - nj1211
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211090015-tna08-marketing-challenge.jpg"
-image_caption: ""
 ---
 
 The Institute of Global Health Innovation (IGHI) has announced that it is holding its student challenges competition, with an increased prize of £5000 to develop the winning project further.

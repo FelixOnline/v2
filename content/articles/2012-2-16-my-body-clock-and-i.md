@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Finally, a possible explanation for those self-inflicted Facebook/Youtube-laden all-nighters...
 date: "2012-02-16 22:00:48 +0000"
-
-# Attributes from Felix Online V1
-id: "2205"
-old_path: /science/2205/my-body-clock-and-i
+image: "http://felixonline.co.uk/img/upload/201202162200-cac111-homer_sleeping2.jpg"
+image_caption: "Sleeping like a log..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2205/my-body-clock-and-i
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - cac111
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162200-cac111-homer_sleeping2.jpg"
-image_caption: ""
 ---
 
 How many times have you ended up staring at Facebook at 3am on a Monday? If you’re me, the answer is too many to count. A lot of people out there have trouble keeping their sleeping pattern in check. It can be very detrimental to your life (and really annoying). It seems my body clock just wants to troll me constantly, smugly making me stumble bleary eyed out of bed after too little sleep. The recent freezing weather doesn’t help. It makes the warm confines of the covers look incredibly appealing.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Looking for Love...
 date: "2016-12-16 14:50:56 +0000"
-
-# Attributes from Felix Online V1
-id: "6606"
-old_path: /film/6606/through-the-wall
+image: "http://felixonline.co.uk/img/upload/201612161450-felix-through-the-wall-laavor-et-hakir-venice.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6606/through-the-wall
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - lawrencegood
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612161450-felix-through-the-wall-laavor-et-hakir-venice.jpg"
-image_caption: ""
 ---
 
 I’m tired of being alone – I just want to love, and to be loved” laments Michal (Noa Kooler), voicing a complaint that many Imperial students share. Yet instead of just drowning her sorrows like the rest of us, Michal resolves to marry in 22 days’ time, trusting in God to find her a husband. From here on hope, heartbreak, and Orthodox Judaism permeate this rom-com, the second feature from Israeli-American director Rama Burshtein. It’s a significant tonal departure from her award-winning debut (and Golden Lion-nominated) Fill the Void, whose soulful, meditative exploration of love and marriage contrasts with Through the Wall’s lighter-hearted approach. But this difference belies its similar ambitions to delve deep into the complex nature of romance.

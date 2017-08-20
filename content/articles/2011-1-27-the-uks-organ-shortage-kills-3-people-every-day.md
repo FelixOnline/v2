@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Katy Bettany and Anna Perman on why you should donate
 date: "2011-01-27 18:41:01 +0000"
-
-# Attributes from Felix Online V1
-id: "657"
-old_path: /news/657/the-uks-organ-shortage-kills-3-people-every-day
+image: "http://felixonline.co.uk/img/upload/201101271839-ks607-organdon.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/657/the-uks-organ-shortage-kills-3-people-every-day
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - klb09
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101271839-ks607-organdon.jpg"
-image_caption: ""
 ---
 
 Imagine. Something in your machinery has stopped working. Somewhere in your body, a vital organ, your kidneys, eyes, your heart, has malfunctioned. Your doctor says that the damage is irreversible and that you need a replacement.

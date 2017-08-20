@@ -4,16 +4,14 @@ title: >
 subtitle: >
   James Beioley reviews the London Climate Forum
 date: "2012-11-29 21:57:55 +0000"
-
-# Attributes from Felix Online V1
-id: "2984"
-old_path: /news/2984/just-the-right-climate
+image: "http://felixonline.co.uk/img/upload/201211292157-tna08-255103_307100902729978_431362906_n.jpg"
+image_caption: "Photo by Sonali Campion"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2984/just-the-right-climate
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211292157-tna08-255103_307100902729978_431362906_n.jpg"
-image_caption: ""
 ---
 
 The [London Climate Forum](http://www.londonclimateforum.org/), in short, is a fascinating and cutting-edge forum which anybody interested in climate change and sustainability, and even those who aren’t, should endeavour to get involved with.

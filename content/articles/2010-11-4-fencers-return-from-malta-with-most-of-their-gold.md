@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Summer tour to Malta sees a haul of medals
 date: "2010-11-04 18:47:42 +0000"
-
-# Attributes from Felix Online V1
-id: "313"
-old_path: /sport/313/fencers-return-from-malta-with-most-of-their-gold-
+image: "http://felixonline.co.uk/img/upload/201011041845-ks607-maltamal.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/313/fencers-return-from-malta-with-most-of-their-gold-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jrp08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011041845-ks607-maltamal.jpg"
-image_caption: ""
 ---
 
 The [Imperial College Fencing Club](http://www.union.ic.ac.uk/acc/fencing/) summer tour saw them invade Malta, escaping from their exams, and starting the week with a bit of night swimming at the villa they had rented in Mellieha for the competition.

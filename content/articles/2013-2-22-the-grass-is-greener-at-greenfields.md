@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Chris Witham reviews the independent café Greenfields
 date: "2013-02-22 03:02:19 +0000"
-
-# Attributes from Felix Online V1
-id: "3378"
-old_path: /food/3378/the-grass-is-greener-at-greenfields
+image: "http://felixonline.co.uk/img/upload/201302220302-tna08-green.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3378/the-grass-is-greener-at-greenfields
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - ctw11
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302220302-tna08-green.jpg"
-image_caption: ""
 ---
 
 Despite the oft-heard claims of how great it is to be studying in central London, many of us rarely dare to venture off campus during lunch, resigned to eating JCR fried chicken or soggy home-made sandwiches. South Kensington is not ideal for the student lunch habit, but with its 10% discount to Imperial students and location mere minutes away on Exhibition Road, Greenfields is hoping to change your ways.

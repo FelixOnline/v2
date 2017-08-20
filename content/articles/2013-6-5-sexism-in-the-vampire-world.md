@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Byzantium: a great vampire tale
 date: "2013-06-05 12:24:11 +0100"
-
-# Attributes from Felix Online V1
-id: "3652"
-old_path: /film/3652/sexism-in-the-vampire-world
+image: "http://felixonline.co.uk/img/upload/201306051322-tna08-byzantium09.jpg"
+image_caption: "The same meal every single day must get boring"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3652/sexism-in-the-vampire-world
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306051322-tna08-byzantium09.jpg"
-image_caption: ""
 ---
 
 In this day and age when vampires of fiction are all-powerful, untouchable creatures, it’s undeniably refreshing to have a more human spin on the ever popular genre. Plus it’s an extra bonus point to not have to endure a cring inducing love subplot between an immortal and mortal – what we get here is something entirely different – a more patient, slow-burning approach to telling a familiar but not at all predictable story of supernatural beings we can’t ever stop hearing about no matter what.

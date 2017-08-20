@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A serious review by Maximilian Eggl on the latest Battlefield game beta
 date: "2014-06-19 18:37:25 +0100"
-
-# Attributes from Felix Online V1
-id: "4694"
-old_path: /games/4694/battlefield-hardline
+image: "http://felixonline.co.uk/img/upload/201406191937-me1711-games_bfhardline.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4694/battlefield-hardline
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406191937-me1711-games_bfhardline.jpg"
-image_caption: ""
 ---
 
 Recently EA announced a closed beta for its newest instalment in its Battlefield franchise. All you needed to do (and still can do at __battlefield.com/hardline/beta__) was give in your details and hope that EA decided to pick you. To be honest with you, I would honestly go for it. You only lose about 2 minutes of your time, and potentially get to test a triple-A title for zilch. I mean, what do you have to lose?

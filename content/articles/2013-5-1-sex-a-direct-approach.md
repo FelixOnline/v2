@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Whether you’re in a committed relationship or having a one night stand, you shouldn’t be too afraid to ask for what you want
 date: "2013-05-01 17:59:10 +0100"
-
-# Attributes from Felix Online V1
-id: "3517"
-old_path: /comment/3517/sex-a-direct-approach
+image: "http://felixonline.co.uk/img/upload/201305011900-tna08-russellbrand.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3517/sex-a-direct-approach
-imported: true
 comments:
  - value: >
      I really don't see the point to this article. Even if I extrapolate to try and make your article meaningful, and say that people in relationships of any sort should communicate more to get what they want out of it, I just end up stating the obvious. So I return to my original point. <br> <br>It's nice to hear that you're having highly gratifying sex but why only talk about your own experiences and then make massive generalisations? I mean, this is something I would expect in heat magazine; and then at least they would have had feedback from their readership in terms of a poll or something. You could have even quoted this to make this a more interesting article. <br> <br>Felix, what has happened since the days of Dan Wan's editorship?,Be fair, Kadhim wasn't a half-bad editor.,"What if I’d been a demure, reserved kind of girl, who only enjoyed missionary and spooning?" <br> <br>"coming from someone I’d only met a couple of times" <br> <br>The evidence seems unlikely.,Matt, such blatant sycophancy will get you nowhere.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305011900-tna08-russellbrand.jpg"
-image_caption: ""
 ---
 
 "Can I come on your tits?” – I thought this was a somewhat forward request for our first night together but personally I’m quite sexually liberated and as a result didn’t think much to it. Well not until later when he asked to come on my face. Don’t get me wrong It’s not that I have anything against experimental ejaculation per se, hell I think it’s kind of hot. However, it did strike me as pretty unorthodox coming from someone I’d only met a couple of times. What if I’d been a demure, reserved kind of girl, who only enjoyed missionary and spooning? And whilst I think it’s fair to assume that I don’t exactly exude timid wallflower, the question remains: what made this guy think it was okay to make such a request?

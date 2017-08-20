@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Pavitar Devgon reviews the ageing treaty
 date: "2012-11-22 23:17:38 +0000"
-
-# Attributes from Felix Online V1
-id: "2943"
-old_path: /politics/2943/has-kyoto-really-been-successful
+image: "http://felixonline.co.uk/img/upload/201211222317-tna08-dsc_0236capacity-building.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2943/has-kyoto-really-been-successful
-imported: true
 comments:
  - value: >
      KIDS Zone is where the action is going on! Today with 26 cerdlihn on a hay wagon singing God is God . Roasting hot dogs and marshmallows on the fire! Learning that thier is only ONE God and we are to love him with all of our heart, soul, mind and strength. Oh we must not forget the egg toss! scrabbled eggs anyone? Thank you to Ray , Rick, Anna, Jan, for all your help! and for all the candy thank you from the kids!Sister Marsha,/ January 11th, 2006, 9:17 am / I also think one major solution is <a href="http://orqvyoloc.com">telconhogy</a>. Lets put it this way: if a company can produce a car that consumes less fuel, consumers will want to buy it up for gas savings. I dunno about you Blacksun, but Im seeing alot of hybrid Toyotas and Hondas on the roads today in Los Angeles. And lets talk about non-automotive air pollution. Lots of the pollution out there is related to manufacturing and processing and power plant style machinery. Those types of things require different solutions than the automotive industry.
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211222317-tna08-dsc_0236capacity-building.jpg"
-image_caption: ""
 ---
 
 It has been nearly 15 years since the governments gathered in a stuffy assembly hall on a December evening and decided to enact the Kyoto Protocol. It legally came into effect in 2005 and during this Green Week, we have decided to see if it has really made any difference.

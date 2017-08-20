@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Musings about last week's storm in a teacup
 date: "2012-02-16 22:18:23 +0000"
-
-# Attributes from Felix Online V1
-id: "2211"
-old_path: /comment/2211/this-weeks-potential-scandal
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2211/this-weeks-potential-scandal
-imported: true
 comments:
  - value: >
      It's hard to tell whether or not this is satire, but I'll assume not: <br> <br>"jumping to the conclusion that we need an armed feminist society ready to kick ass, chew gum and live their lives in an independent, thoughtful and personally satisfying way seems like a knee jerk in the opposite direction. We shouldn’t need to do this." <br> <br>Whether we need this society or not is irrelevant. We don't need a Harry Potter society, or an Irish society, or an LGBT society, but people want them which is why they exist. The online petition for the feminist society now has 78 signatures, so clearly people want it. If people want to sit around talking about feminism, go collectively on protests, and in general try to promote gender equality why is that a problem? <br> <br>Do you also feel the same way about the LGBT society or the Interfaith society, both of which stand for equality in their various ways?,Could you maybe also leave this comment on the article about the Union's rejection of the Gender Equality Society? It sums up th
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - mrangry
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Deep breaths everyone. Let’s open with the statement that no-one finds rape funny. So let’s do that: it’s not funny. No-one likes to see or hear about anyone being abused in such a way. I’m not particularly interested if you think male rape is under-represented, or if rape law only protects women, or anything like that. This is not Reddit. Rape isn’t ha-ha funny, plain and simple. I’ve never seen an episode of Friends about someone getting jovially drugged, abused and dumped somewhere.

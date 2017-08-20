@@ -4,16 +4,13 @@ title: >
 subtitle: >
   What would your tech editors do, if they were crapping money?
 date: "2014-01-15 16:27:22 +0000"
-
-# Attributes from Felix Online V1
-id: "4213"
-old_path: /tech/4213/fancy-shmancy-tech-from-santa
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4213/fancy-shmancy-tech-from-santa
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -23,12 +20,6 @@ authors:
  - me1711
  - ywc110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Every year, as Christmas nears, I would like to think that I have some really rich and wealthy relative who is a Lord somewhere, perhaps some Lord of the Silicon. I would then write up a list of five items I would really like to have and then present it to them, knowing that I would probably get almost all of the items on the list that very Christmas. So this year, I am going to do the same. To help those busy Lords out, I’m going to list the prices of the items in my list, just to show them how little it would cost them. Of course, because they are so busy, I would like to help them out by including the prices from Amazon UK too, so that they could just click those “1-click order” buttons and send them my way.

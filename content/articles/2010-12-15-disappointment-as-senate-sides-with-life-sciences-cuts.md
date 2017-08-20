@@ -4,18 +4,15 @@ title: >
 subtitle: >
   160 students turn out in the rain to lobby Imperial College Senate to protect teaching in the Life Sciences department to no avail
 date: "2010-12-15 17:35:35 +0000"
-
-# Attributes from Felix Online V1
-id: "557"
-old_path: /news/557/disappointment-as-senate-sides-with-life-sciences-cuts
+image: "http://felixonline.co.uk/img/upload/201012151740-ks607-lifescie.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/557/disappointment-as-senate-sides-with-life-sciences-cuts
-imported: true
 comments:
  - value: >
      Ian Owens = a joke. <br> <br>what's to say this won't happen to every department in imperial? <br> <br>people aren't going to see Imperial as a respectable institution if it is unable to provide adequate teaching staff - when people come to LEARN. <br> <br>It's about time Imperial appreciated that it is a UNIVERSITY and not a research institution. <br> <br>Staff should be rewarded for being great teachers and not persecuted for focusing on teaching rather than research. It is the students these members are teaching now (at the consequence of their jobs) who will be the researchers tomorrow.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012151740-ks607-lifescie.jpg"
-image_caption: ""
 ---
 
 The movement to [stop the Life Sciences cuts](http://www.facebook.com/home.php?sk=group_122828327782072) suffered a setback today as Imperial College Senate rejected the Imperial College Union [paper](http://www.imperialcollegeunion.org/data/files/imperial-college-senate-859.pdf) that called for a halt to the restructure. The [Senate](http://www3.imperial.ac.uk/secretariat/governance), which is made up of senior members of College management, including the Rector, failed to support the paper to the disappointment of students who [assembled outside the meeting](http://www.facebook.com/album.php?aid=313242&id=151335511288&saved) at the Rector's house. However pressure has continued to build this week as Mustafa Djamgoz, a Professor of Cancer Biology at Imperial and Chair of the Science Council at the College of Medicine, warned that the cuts could cause "long-term damage" and Union President Alex Kendall told Imperial College Union Council that he felt that the department was "lying" about the effect of the cuts on teaching.

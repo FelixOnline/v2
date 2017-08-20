@@ -4,16 +4,13 @@ title: >
 subtitle: >
   An interview with Physics’ artist in residence
 date: "2012-11-09 13:13:59 +0000"
-
-# Attributes from Felix Online V1
-id: "2855"
-old_path: /arts/2855/fusion-achieved-at-last-in-huxley
+image: "http://felixonline.co.uk/img/upload/201211091311-tna08-all-matter-is-the-same-rgb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2855/fusion-achieved-at-last-in-huxley
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091311-tna08-all-matter-is-the-same-rgb.jpg"
-image_caption: ""
 ---
 
 I met Geraldine Cox in a windy garet on the roof of the physics building. The abandoned weather station is an octagonal room half-open to the elements and filled with drying clothes, bits of mouldering, esoteric looking equipment and empty beer bottles. It was an appropriately idiosyncratic setting for an interview with a unusual person. Geraldine is the Department of Physics’ artist in residence.

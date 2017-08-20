@@ -4,18 +4,15 @@ title: >
 subtitle: >
   An anonymous writer shares their love letter to their room- (and soul-) mate
 date: "2017-02-24 13:49:04 +0000"
-
-# Attributes from Felix Online V1
-id: "6813"
-old_path: /comment/6813/an-ode-to-my-roommate-whom-i-love
+image: "http://felixonline.co.uk/img/upload/201702241401-felix-Screen Shot 2017-02-24 at 13.58.25.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6813/an-ode-to-my-roommate-whom-i-love
-imported: true
 comments:
  - value: >
      You've got it in one. Co'lundt have put it better.,You've got it in one. Co'lundt have put it better.,This is a topic which is near to my heart... Many thanks! Exactly where are your contact details though? <br>stock quotes http://financehints.eu,This is a topic which is near to my heart... Many thanks! Exactly where are your contact details though? <br>stock quotes http://financehints.eu,If you want to increase your know-how simply keep visiting this website and be updated with the most recent news posted here. <br>http://educationguide.eu,If you want to increase your know-how simply keep visiting this website and be updated with the most recent news posted here. <br>http://educationguide.eu,This design is wicked! You obviously know how to keep a reader amused. Between your wit and your videos, I was almost moved to start my own blog (well, almost...HaHa!) Wonderful job. I really enjoyed what you had to say, and more than that, how you presented it. Too cool! <br>recommended financial advisors http://financehints.eu,This
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +23,6 @@ authors:
  - icanon
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702241401-felix-Screen Shot 2017-02-24 at 13.58.25.png"
-image_caption: ""
 ---
 
 I love my roommate. Quite the statement, isn’t it?

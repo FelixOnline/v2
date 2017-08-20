@@ -4,18 +4,16 @@ title: >
 subtitle: >
   This is the bling of three of Afghanistan’s ancient nomad rulers
 date: "2011-03-10 20:13:30 +0000"
-
-# Attributes from Felix Online V1
-id: "1065"
-old_path: /arts/1065/afghanistans-magnificent-heirlooms
+image: "http://felixonline.co.uk/img/upload/201103102011-nm1010-goldgold.jpg"
+image_caption: "A pair of clasps depicting warriors"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1065/afghanistans-magnificent-heirlooms
-imported: true
 comments:
  - value: >
      It was a little of both. The arsitt has heard some of the album, but made the art particularly because of the title. Her and I are close friends and we read each others mind =). I am glad you liked it.
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103102011-nm1010-goldgold.jpg"
-image_caption: ""
 ---
 
 Afghanistan. What images are conjured up in your mind? The sad reality is that, for many of us, 3000 years of history has been eclipsed by 30 years of chaos. Fortunately the aim of the British Museum’s exhibition [Afghanistan: Crossroads of the Ancient World](http://www.britishmuseum.org/whats_on/exhibitions/afghanistan.aspx) is to remind us of the country’s crucial historic role as a junction of the silk routes between Rome, India and China.

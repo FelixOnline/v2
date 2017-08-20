@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Imperial hits back
 date: "2017-05-12 16:23:58 +0100"
-
-# Attributes from Felix Online V1
-id: "6937"
-old_path: /news/6937/homeless-period-hits-imperial
+image: "http://felixonline.co.uk/img/upload/201705121823-felix-17039277_1275990769149131_8994981921398345635_o.jpg"
+image_caption: "The Homeless Period Imperial week"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6937/homeless-period-hits-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ea3211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705121823-felix-17039277_1275990769149131_8994981921398345635_o.jpg"
-image_caption: ""
 ---
 
 ICU has opened a branch of The Homeless Period, an initiative lobbying government to provide a yearly allowance to homeless shelters for the provision of female hygiene products to shelter seekers. The founders of the initiative believe that just as access to condoms and razors is facilitated for men by these institutions, access to clean clothes as a result of access to female hygiene products should not be a luxury.

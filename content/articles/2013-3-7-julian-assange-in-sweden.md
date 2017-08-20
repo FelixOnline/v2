@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Christopher Reynolds reviews a biased and inaccurate account of the WikiLeaks founder’s troubles with the law
 date: "2013-03-07 23:56:39 +0000"
-
-# Attributes from Felix Online V1
-id: "3449"
-old_path: /books/3449/julian-assange-in-sweden
+image: "http://felixonline.co.uk/img/upload/201303072356-tna08-wikileaks-founder-julian-assange-arrives-at-data.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3449/julian-assange-in-sweden
-imported: true
 comments:
  - value: >
      Thank goodness a tried and true conventionalist as Christopher Reynolds are on the case. The outrage we all feel when America, England, Sweden and NATO (industries) are suggested to be devious, is again avenged,,If we fail to protect the "Assanges" of the world, we condemn ourselves to tyranny. <br>Julian Assange for the Nobel prize for freedom of the press: <br>(Please type 3w).avaaz.org/en/petition/Juli­an_Assange_for_Nobel_prize_Fre­edom_of_the_Press/ <br>PLEASE HELP PROMOTE THIS LINK.,... is that Assange's case has gone to court. Multiple times. First a judge granted the arrest warrant (although that was rather perfunctory), then Assange appealed to the Svea court of appeals. His attorney gave a full defense of his case. He lost; the court found probable cause that he did do it. He then appealed to the Supreme Court. He lost there, too. <br> <br>Now we have a couple options. We can either believe that every court in Sweden is secretly under the control of the CIA. Or we can believe that Assange's attorney is s
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303072356-tna08-wikileaks-founder-julian-assange-arrives-at-data.jpg"
-image_caption: ""
 ---
 
 One effect of digital distribution is that books become that would previously be unreleasable become available. This is not necessarily a bad thing, as books with potential audiences too low to justify a print run can now reach their target market. Julian Assange in Sweden however, is less a book, and more of an assemblage of internet message board rantings. Literally so, as much of the book is given over to conspiracy theories which are noted as being proposed on a Swedish internet forum (the logo of which features a cat smoking a spliff, which tells you all you need to know).

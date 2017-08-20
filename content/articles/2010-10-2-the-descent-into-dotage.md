@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Amusing, startling, moving: Krapp's Last Tape at the Duchess Theatre
 date: "2010-10-02 12:22:19 +0100"
-
-# Attributes from Felix Online V1
-id: "170"
-old_path: /arts/170/the-descent-into-dotage
+image: "http://felixonline.co.uk/img/upload/201010021304-ck806-gambon.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/170/the-descent-into-dotage
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - ck806
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010021304-ck806-gambon.jpg"
-image_caption: ""
 ---
 
 One actor, no more than a few minutes of monologue and the rest tape recordings. Combined with little action and the ponderous nature of Samuel Beckett’s plays, Krapp’s Last Tape doesn’t necessarily promise the most easy going of theatre experiences. Michael Gambon (no introductions necessary) plays the decaying and decrepit Krapp – a role previously played by Harold Pinter – in a version directed by Michael Colgan at the [Duchess Theatre](http://www.duchesstheatre.co.uk/).

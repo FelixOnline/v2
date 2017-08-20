@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It’s an unbelievably touching story of human survival, love, and forgiveness.
 date: "2014-01-17 04:09:33 +0000"
-
-# Attributes from Felix Online V1
-id: "4251"
-old_path: /film/4251/from-one-station-of-life-to-the-next
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4251/from-one-station-of-life-to-the-next
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __The Railway Man__

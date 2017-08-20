@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Great story, but nothing new
 date: "2011-03-21 11:55:34 +0000"
-
-# Attributes from Felix Online V1
-id: "1121"
-old_path: /games/1121/youll-need-a-lot-of-gray-matter-to-enjoy-this-one
+image: "http://felixonline.co.uk/img/upload/201103211148-ks607-graymatt.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1121/youll-need-a-lot-of-gray-matter-to-enjoy-this-one
-imported: true
 comments:
  - value: >
      Hey, sbutle must be your middle name. Great post!,eXj9RC <a href="http://eymvefqmavbw.com/">eymvefqmavbw</a>, <a href="http://www.protomeds.net/">propecia</a> 062009 <a href="http://www.allpillsonline.net/">cialis</a> 12324
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -28,12 +25,6 @@ authors:
  - skh10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103211148-ks607-graymatt.jpg"
-image_caption: ""
 ---
 
 [Gray Matter](http://www.graymatter-game.com/) starts off as any mystery game would: a creepy old mansion, half an hour’s bus ride from Oxford, during the middle of a storm. Sam Everett is an American who practices magic and is searching for a secret magicians’ club known as the Daedalus Club. Her motorbike breaks down in the rain and she happens to stop near the mansion. To blag a room for the night, she pretends to be the new assistant to the owner, Dr. David Styles, an expert in the field of ‘unusual neurological abnormalities’. In the morning, Sam realises that she can make a bit of money by continuing her deception, and so starts performing tasks for Dr Styles. She must gather up several guinea pigs for his next experiment, so she goes to Oxford to find students (pretentious or otherwise) to take part. Of course, the good Doctor has a shady past, about which more is discovered throughout the storyline.

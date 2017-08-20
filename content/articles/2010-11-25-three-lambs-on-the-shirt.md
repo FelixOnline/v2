@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Three lambs on the shirt
 date: "2010-11-25 21:55:48 +0000"
-
-# Attributes from Felix Online V1
-id: "444"
-old_path: /comment/444/three-lambs-on-the-shirt
+image: "http://felixonline.co.uk/img/upload/201011252153-nm1010-charles.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/444/three-lambs-on-the-shirt
-imported: true
 comments:
  - value: >
      **McClaren not McLaren... <br> <br>also you might have the best eggs, that doesnt necessarily mean you're gonna have a great ommelette. in fact you might even lose 5-0 to barcelona.,hello. <br>-<a href="http://www.finepoloshirts.com/dsquared2-replicas-1161.html">fine Dsquared2 shirts</a> <br>,hello. <br>-<a href="http://www.finepoloshirts.com/dsquared2-replicas-1161.html">fine Dsquared2 shirts</a> <br>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +23,6 @@ authors:
  - cb403
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011252153-nm1010-charles.jpg"
-image_caption: ""
 ---
 
 Barack Obama has something in common with the England Football team. For good or bad, he made politics interesting again during the 2008 Presidential campaign. Yet since he has been in power, his approval ratings have started to drop as people realise with just how unreachable their levels of expectation were.

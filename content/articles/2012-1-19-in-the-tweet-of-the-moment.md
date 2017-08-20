@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Pirates of Carthage looks at social media’s pivotal role in bringing down Ben Ali
 date: "2012-01-19 21:28:34 +0000"
-
-# Attributes from Felix Online V1
-id: "2030"
-old_path: /arts/2030/in-the-tweet-of-the-moment
+image: "http://felixonline.co.uk/img/upload/201201192128-pk1811-ali-saleh-gaddafi-mubarak.jpg"
+image_caption: "North Africa’s Got Talent had whittled thousands of hopefuls down to its final four"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2030/in-the-tweet-of-the-moment
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - pk1811
  - wsp10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201192128-pk1811-ali-saleh-gaddafi-mubarak.jpg"
-image_caption: ""
 ---
 
 Beyond being an interminable stream of the thoughts of Lethal Bizzle, Twitter for this reviewer had always been just another tool for procrastination. In 2006, many of the angel investors running their rule over the nascent microblogging site figured the same. To have said to them then that tweets of 140 characters would one day be enough to catalyse the downfall of governments, they would have dismissed you as mad. How wrong they all were.

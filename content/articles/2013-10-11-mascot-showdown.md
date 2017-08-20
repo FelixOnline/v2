@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Faculty Unions mutually hold mascots at ransom
 date: "2013-10-11 22:43:50 +0100"
-
-# Attributes from Felix Online V1
-id: "3820"
-old_path: /news/3820/mascot-showdown
+image: "http://felixonline.co.uk/img/upload/201310120206-jal08-1275276_10153350305460195_1433117591_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3820/mascot-showdown
-imported: true
 comments:
  - value: >
      You should note that the definition of "inviolate" is: "Free or safe from injury or violation." <br> <br>This has two distinct meanings, and the two should not be mixed up: <br> <br>1) Theta is "inviolate" as a whole. i.e, she has not been "violated". <br>2) Bo', Jez' and Clem' (and some other mascots) are "inviolate". i.e, they should be free from the RISK of violation, should never be stolen and their theft would be a criminal matter, rather than a jovial one...,is subscribed with their fariovte reader or by email. Also, if you haven't read my review of Optiontradingpedia.com, make sure to check it out, it was a good one! With that said, here are some quality reads,RobMike I am really ccneorned…. Trackbot has been timing out recently and is not staying connected. Is Trackbot broken? My BIG question is will Trackbot be functionable in the future. Like whenever Sensei comes in November..will Trackbot keep failing? I know trackbot is and always will be the best. I am hoping Trackbot will be ok but I just am worried. My goa
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310120206-jal08-1275276_10153350305460195_1433117591_o.jpg"
-image_caption: ""
 ---
 
 Two of Imperial’s Faculty Unions, the Royal College of Science Union (RCSU) and the City & Guilds College Union (CGCU) have recently been involved with various “mascotry” activities over the last month. The activities began when the RCSU President Plabon Saba was escorted to the RCSU office in a slightly inebriated state before the start of term. One of the escorts, an engineer took advantage of the RCSU President’s state and was able to remove the RCSU mascot, Theta the Thermometer, from the office.

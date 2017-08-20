@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Council vote in favour of reducing the rent for new halls in Acton, but increasing the rent for halls closer to campus
 date: "2015-02-15 23:04:02 +0000"
-
-# Attributes from Felix Online V1
-id: "5260"
-old_path: /news/5260/union-council-votes-in-favour-of-new-rent-proposals
+image: "http://felixonline.co.uk/img/upload/201502152303-ps3110-newseventsimages.jpg"
+image_caption: "An Artist's impression of the new halls in Acton"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5260/union-council-votes-in-favour-of-new-rent-proposals
-imported: true
 comments:
  - value: >
      It's going to end up in a situation where all the rich upper class guys are in South Ken and everyone else in Acton. Terrible for diversity and culture. Glad I got into halls when I did!,basically building up a ghetto with this <br>Richkids on campus, everyone else not...,They're already the most expensive. <br> <br>New pricing simply charges more from people that can afford it, lowering the cost for others.,Except if you get Eastside in the lottery and are stung for rents that cost more than an individual studio. Over 200 a week for student accommodation is ridiculous. ,You're (the fresher is) welcome to decline the offer of accommodation and rent elsewhere. <br> <br>If this is truly as unfair as people are claiming, we'll simply see a great decline in take-up of rooms in halls as more first years choose to live elsewhere.,At the meeting we were told it is College's aspiration to let students pick and get the exact type(/cost) of room they want, so not a preferences system. <br> <br>Of course, who knows when this will happen! Po
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502152303-ps3110-newseventsimages.jpg"
-image_caption: ""
 ---
 
 Students present at Union Council this week voted in favour of new rent proposals, which included lowering the suggested rates for the new student accommodation based in Acton. The new hall, now named Woodward, will open next academic year; students will face a commute time upwards of thirty minutes to get to campus.

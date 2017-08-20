@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Emma Lisle on a drug that could end those mornings after
 date: "2014-12-11 20:12:45 +0000"
-
-# Attributes from Felix Online V1
-id: "5026"
-old_path: /science/5026/the-ultimate-hangover-cure
+image: "http://felixonline.co.uk/img/upload/201412112017-cj914-beer-guy.jpg"
+image_caption: "A new drug could reduce the impact of alcohol on the brain."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5026/the-ultimate-hangover-cure
-imported: true
 comments:
  - value: >
      So yes, the media is large advertisement talking about Tim Tebow. But shouldn't we be at liberty that very best dog enrolled in college Football is Tim Tebow, the ultimate leader, the fifa 16 hack ultimate team player and best nice guy and not the poisonous T.O? Shouldn't we be very honored that Tim Tebow doesn't drink and drive, abuse anybody, get in fights or shoot himself in the lower limb? I mean come on, during spring break when most college babies are getting drunk and doing God knows what Tim Tebow was a student in the Philippines performing surgeries and preaching to orphans. <br>fifa 16 hack http://creditsfut.com/,Passion the website-- extremely individual pleasant and great deals to see! <br>nba 2k16 mt coins http://www.viviencecilia.e-blogi.pl/
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - esl13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412112017-cj914-beer-guy.jpg"
-image_caption: ""
 ---
 
 Could hangovers be a thing of the past? Scientists from the University of Huddersfield have developed a new drug that could reduce the side effects of binge drinking. The compound, called ethane-beta-sultam, is a taurine ‘pro-drug’ that can easily enter the blood stream before being processed by the body. Professor Mike Page, Dr Karl Hemming and colleagues believe that taking the drug during a heavy night of drinking will prevent alcohol from damaging the brain.

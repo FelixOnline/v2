@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Chair Baroness Manningham-Buller will step down later this year, reports Cecily Johnson
 date: "2015-03-13 01:24:37 +0000"
-
-# Attributes from Felix Online V1
-id: "5393"
-old_path: /news/5393/sir-philip-dilley-appointed-as-chair-of-imperials-council
+image: "http://felixonline.co.uk/img/upload/201503130123-cj914-new-council-chair-sir-philip-dilley.jpeg"
+image_caption: "Sir Philip will take over as Chair this May"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5393/sir-philip-dilley-appointed-as-chair-of-imperials-council
-imported: true
 comments:
  - value: >
      To think, I was coesfund a minute ago.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503130123-cj914-new-council-chair-sir-philip-dilley.jpeg"
-image_caption: ""
 ---
 
 Imperial alumnus Sir Philip Dilley will take over as Chair of Imperial’s governing Council this May. The leading engineer and businessman will succeed Baroness Manningham-Buller, who has been in the role since July 2011.

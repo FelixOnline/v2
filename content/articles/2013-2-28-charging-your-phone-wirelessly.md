@@ -4,20 +4,17 @@ title: >
 subtitle: >
   Will the lack of Wires (or lack thereof) ever conspire to be desired?
 date: "2013-02-28 17:35:39 +0000"
-
-# Attributes from Felix Online V1
-id: "3380"
-old_path: /tech/3380/charging-your-phone-wirelessly
+image: "http://felixonline.co.uk/img/upload/201302281731-txl11-jk.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3380/charging-your-phone-wirelessly
-imported: true
 comments:
  - value: >
      Apparently Qi may be making way for PMA (another standard).
  - value: >
      if you're in Europe, PowerKiss are setting up in wireless charging tables McDonalds (they already have some in the UK, in Harrods and Paddington station). <br> <br>http://www.engadget.com/2013/03/18/powerkiss-power-matters-alliance/,lol,September 16, 2012 at 7:31 ambest buy has a really nice hp detskop at a great price, it says its refurbishedshould i take advantage of the great deal or stay away from refurbished computers??here is the pc .. HP Refurbished Pavilion DesktopProduct FeaturesFrom our expanded online assortment; not available in all Best Buy stores 2nd Gen Intelae Core™ i5-2400 processor Features a 6MB cache and 3.1GHz processor speed with Turbo Boost up to 3.4GHz. Intelae Core™ i5 processor Features smart 4-way processing performance with a speed boost. Intelae Turbo Boost Technology Automatically speeds up your processor when your PC needs extra performance. 8GB DDR3 SDRAM For multitasking power. Multiformat DVDb1RW/CD-RW dri
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -30,12 +27,6 @@ authors:
  - ywc110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302281731-txl11-jk.jpg"
-image_caption: ""
 ---
 
 Qi. This sounds like some sort of Chinese “life energy” philosophy, but that’s not what we are talking about here. Pronounced “chee”, Qi is a wireless inductive power standard that is increasingly being adopted by handset manufacturers such as Nokia and LG for inclusion into their handsets. For phones that do not support the wireless charging standards, there are cases designed to envelope the devices and provide wireless charging capabilities. But is wireless charging even necessary, or is it just a solution to no one’s problem?

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sage(!) advice on how to shop, cook and eat smart - fresher’s 15 begone!
 date: "2013-10-12 19:55:30 +0100"
-
-# Attributes from Felix Online V1
-id: "3860"
-old_path: /food/3860/the-self-catering-cheatsheet
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3860/the-self-catering-cheatsheet
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - ykc111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Understandably everyone reading this article will have a different view or preference/budget when it comes to eating or food shopping. Even within Carol’s household, the boys prefer to bag everything from Sainsbury’s (everything’s in one location), whereas she doesn’t mind scouring the North End Road market and butcher’s for cheaper produce.

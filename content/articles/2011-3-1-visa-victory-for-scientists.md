@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Government alters visa restrictions to favour researchers
 date: "2011-03-01 20:32:36 +0000"
-
-# Attributes from Felix Online V1
-id: "954"
-old_path: /news/954/visa-victory-for-scientists
+image: "http://felixonline.co.uk/img/upload/201103012028-ks607-imrankha.jpg"
+image_caption: "Imran Khan, Director of CaSE"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/954/visa-victory-for-scientists
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - yw3410
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103012028-ks607-imrankha.jpg"
-image_caption: ""
 ---
 
 Last week, the government announced [alterations to the proposals](http://www.ukba.homeoffice.gov.uk/sitecontent/documents/aboutus/reports/soi-tier2/) to curb immigration to reflect the importance of research to the UK amid much fanfare from activists and campaigners. The change will see a new restricted ‘certificate of sponsorship’ (‘CoS’) system where researchers are favoured significantly over other applicants. From April of this year, the government will implement an extra monthly system for sponsoring institutions to apply for extra ‘CoS’s.

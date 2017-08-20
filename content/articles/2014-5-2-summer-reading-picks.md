@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Maciej Matuszewski presents an eclectic selection of five great books to help you help you relax during the busy revision period
 date: "2014-05-02 01:43:02 +0100"
-
-# Attributes from Felix Online V1
-id: "4554"
-old_path: /books/4554/summer-reading-picks
+image: "http://felixonline.co.uk/img/upload/201405020243-jal08-h2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/4554/summer-reading-picks
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405020243-jal08-h2.jpg"
-image_caption: ""
 ---
 
 __Hitchhiker’s Guide to the Galaxy__

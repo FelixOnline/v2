@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A freedom of information request to Imperial College has revealed that undergraduate and taught postgraduate students graduating from Imperial College left over £13,465.09 of unused printer credit on the College’s system...
 date: "2014-02-07 04:58:59 +0000"
-
-# Attributes from Felix Online V1
-id: "4353"
-old_path: /news/4353/graduating-students-leave-thousands-of-pounds-on-print-service
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4353/graduating-students-leave-thousands-of-pounds-on-print-service
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A freedom of information request to Imperial College has revealed that undergraduate and taught postgraduate students graduating from Imperial College left over £13,465.09 of unused printer credit on the College’s system at the end of the 2012/2013 academic year. This is significantly more than the same figure for most other UK universities. Students at the University of Cambridge only left £5,142.23 on the University’s print service while University of St Andrew’s students left £4,302.80.

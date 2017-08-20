@@ -4,18 +4,15 @@ title: >
 subtitle: >
   We are all responsible for demanding action on climate change
 date: "2015-12-04 15:19:06 +0000"
-
-# Attributes from Felix Online V1
-id: "5795"
-old_path: /comment/5795/dont-turn-your-back-on-cop21
+image: "http://felixonline.co.uk/img/upload/201512041518-ygr12-follow-the-leaders-london.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5795/dont-turn-your-back-on-cop21
-imported: true
 comments:
  - value: >
      Hey I know this is off topic but I was wondering if you knew of any widgets I could add to my blog that automatically tweet my newest twitter updates. I've been looking for a plug-in like this for quite some time and was hoping maybe you would have some experience with something like this. Please let me know if you run into anything. I truly enjoy reading your blog and I look forward to your new updates. <br>canada goose jassen utrecht 30 http://skek.nl/?nl-canada-goose-jassen-utrecht-30--6512.html,Saved as a favorite, I love your blog! <br>stivali scontati http://www.be-simple.it/?it-stivali-scontati-5227.html,I like the helpful information you provide in your articles. I'll bookmark your weblog and check again here regularly. I'm quite certain I'll learn plenty of new stuff right here! Best of luck for the next! <br>outlet moncler online http://www.thegrandpavilion.co.uk/?uk-outlet-moncler-online-16876.html,iQ0CVE http://brothosonkonlonwon.ru
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201512041518-ygr12-follow-the-leaders-london.jpg"
-image_caption: ""
 ---
 
 On Monday, 25,000 official delegates from 150 countries descended on Paris for the COP21 Climate Talks. Of all the talks we have seen to date, they are the best organised international talks, with the most potential. The biggest progress is that they are focussed around the climate action targets that countries have agreed meet by 2020, called Intended Nationally Determined Contributions or INDCs. They are also set to acknowledge at least some of the great potential of local and grassroots action on climate change by emphasising the role of individual cities, like London, in setting their own targets and actions.

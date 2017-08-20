@@ -4,16 +4,13 @@ title: >
 subtitle: >
   RAG Week 2014 is coming! RAG gives you a unique opportunity to have the time of your life, while doing something good for the world.
 date: "2014-02-21 03:08:46 +0000"
-
-# Attributes from Felix Online V1
-id: "4417"
-old_path: /features/4417/get-ready-for-rag-week
+image: "http://felixonline.co.uk/img/upload/201402210310-felix-screenshot-2014-02-21-03.09.00.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4417/get-ready-for-rag-week
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - mg2411
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201402210310-felix-screenshot-2014-02-21-03.09.00.png"
-image_caption: ""
 ---
 
 RAG Week 2014 is coming! RAG gives you a unique opportunity to have the time of your life, while doing something good for the world.This year we are supporting three great charities: Caritas Anchor House, a residential and lifeskills centre in London for single homeless people aged 19 to 65; Breakthrough Breast Cancer, a force of thousands of people across the UK working together with a single-minded ambition to stop women dying from breast cancer; and Practical Action, a charity that uses technology to challenge poverty in developing countries.

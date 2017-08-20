@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Annual Science Fiction convention celebrates 2012 with apocalypse theme
 date: "2012-02-09 22:01:45 +0000"
-
-# Attributes from Felix Online V1
-id: "2138"
-old_path: /news/2138/picocon-returns-to-imperial-college
+image: "http://felixonline.co.uk/img/upload/201202092201-ams111-picocon29-artwork.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2138/picocon-returns-to-imperial-college
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ams111
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202092201-ams111-picocon29-artwork.jpg"
-image_caption: ""
 ---
 
 The Science Fiction, Fantasy and Gothic Horror Society is preparing for its annual convention, [Picocon](http://www.union.ic.ac.uk/scc/icsf/social/events/picocon/), due to take place on Saturday 18 February at the Imperial College Union. Picocon has gone from strength to strength since it started in 1984 and this year’s event has all the makings of being one the best ones yet.

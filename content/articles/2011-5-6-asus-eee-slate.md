@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Avoids clashing with the iPad by packing more of a punch
 date: "2011-05-06 08:25:00 +0100"
-
-# Attributes from Felix Online V1
-id: "1156"
-old_path: /tech/1156/asus-eee-slate
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/1156/asus-eee-slate
-imported: true
 comments:
  - value: >
      Didnt know the forum rules alwleod such brilliant posts.,QZlXEI <a href="http://uwbrpncrzrbe.com/">uwbrpncrzrbe</a>
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Currently, the tablet market is undeniably dominated by Apple, with Google’s Android looking to take some share with Honeycomb. The tablet OS that has seen far less of the limelight so far however is Windows 7. Known of course as a desktop and laptop OS, it’s also perfectly useable on a tablet, and this is what the Asus EEE Slate EP121 brings to the table.

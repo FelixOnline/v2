@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The annual convention returns
 date: "2016-02-12 12:01:47 +0000"
-
-# Attributes from Felix Online V1
-id: "5918"
-old_path: /cands/5918/picocon-33-origins---20th-february
+image: "http://felixonline.co.uk/img/upload/201602121200-felix-tumblr_static_24anzp00fvesog8sk00wg44sg.jpg"
+image_caption: "Guest of Honour, Carrie Hope Fletcher"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5918/picocon-33-origins---20th-february
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -23,12 +21,6 @@ authors:
  - nm2713
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602121200-felix-tumblr_static_24anzp00fvesog8sk00wg44sg.jpg"
-image_caption: ""
 ---
 
 Picocon is a small convention run by Imperial College Science Fiction and Fantasy Society (ICSF). It is one of the only entirely student-run conventions, and it has been held in late February each year for 33 years – this February 20th marking Picocon 33.

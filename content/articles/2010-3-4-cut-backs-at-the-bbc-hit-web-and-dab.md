@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The BBC pre-Tory cut backs mean the loss of BBC 6 Music and Asian network plus 25% cut from BBC online
 date: "2010-03-04 13:14:08 +0000"
-
-# Attributes from Felix Online V1
-id: "120"
-old_path: /tech/120/cut-backs-at-the-bbc-hit-web-and-dab
+image: "http://felixonline.co.uk/img/upload/201003041310-srg03-BBCTestC.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/120/cut-backs-at-the-bbc-hit-web-and-dab
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - srg03
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201003041310-srg03-BBCTestC.jpg"
-image_caption: ""
 ---
 
 This week saw something I fundamentally disagree with: cut backs at the BBC in preparation for a Tory government.

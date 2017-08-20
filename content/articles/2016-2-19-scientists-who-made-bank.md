@@ -4,16 +4,14 @@ title: >
 subtitle: >
   In honour of Mary Somerville appearing on the new RBS £10 note, FELIX explores which other scientists have previously been represented, and asks who’s next?
 date: "2016-02-19 11:22:08 +0000"
-
-# Attributes from Felix Online V1
-id: "5930"
-old_path: /science/5930/scientists-who-made-bank
+image: "http://felixonline.co.uk/img/upload/201602191121-felix-800px-Thomas_Phillips_-_Mary_Fairfax,_Mrs_William_Somerville,_1780_-_1872._Writer_on_science_-_Google_Art_Project.jpg"
+image_caption: "Mary Somerville, a scientific badass in astronomy and mathematics, proposed to be the new face of the Scottish £10."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5930/scientists-who-made-bank
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - mw4414
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602191121-felix-800px-Thomas_Phillips_-_Mary_Fairfax,_Mrs_William_Somerville,_1780_-_1872._Writer_on_science_-_Google_Art_Project.jpg"
-image_caption: ""
 ---
 
 RBS last week announced the results from a Facebook poll (welcome to the future folks) whereby the mathematician and astronomer, Mary Somerville,  was chosen by the people of Scotland to be the face of the £10 note for the foreseeable future. And yes, since Scottish money is legal tender in England, that means a new face will be on the funny looking notes that momentarily confuse you every now and then at the ATM. Personally I think it’s a solid choice considering that by all accounts, Mary Somerville was a textbook scientific badass. Despite showing great intelligence from a young age, Somerville’s education was largely informal and partially self-taught due to the social conventions restricting her from higher education. The restrictions placed upon her only worsened after the death of her 10 year-old sister, which her parents blamed on Mary’s determination to be educated. Regardless of these hurdles Somerville became a respected name in the scientific community as an adult, her translations and original works about astronomy becoming widely popular. She became the first female member of the Royal Astronomical Society and her work was instrumental in predicting the presence of the 9th planet, Neptune in our solar system. On top of all that, Somerville continued to fulfil the expectations of a well-connected socialite, supported women’s suffrage and  was one of the most influential science writers of her time.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Christian Burgess delivers a no frills production of Great Expectations superbly carried by convincing performances and slick directing
 date: "2016-12-02 15:03:09 +0000"
-
-# Attributes from Felix Online V1
-id: "6538"
-old_path: /arts/6538/great-expectations--a-worthy-adaptation
+image: "http://felixonline.co.uk/img/upload/201612021502-felix-15220217_10154159183271365_7284543474375567080_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6538/great-expectations--a-worthy-adaptation
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ezrakitson14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612021502-felix-15220217_10154159183271365_7284543474375567080_n.jpg"
-image_caption: ""
 ---
 
 The advice of Mr Jaggers is "Take nothing on its looks; take everything on evidence. There’s no better rule." It is keenly observed by Christian Burgess who delivers a no frills production of Great Expectations superbly carried by convincing performances and slick directing.

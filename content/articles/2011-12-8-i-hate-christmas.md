@@ -4,18 +4,16 @@ title: >
 subtitle: >
   It's beginning to look a lot like Christmas, but not everyone is pleased about it...
 date: "2011-12-08 22:05:42 +0000"
-
-# Attributes from Felix Online V1
-id: "1951"
-old_path: /comment/1951/i-hate-christmas
+image: "http://felixonline.co.uk/img/upload/201112082203-felix-grinch.jpg"
+image_caption: "He hates Christmas, I hate writing witty captions to please the masses"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1951/i-hate-christmas
-imported: true
 comments:
  - value: >
      Gym closes on Christmas day, boo. Otherwise, Christmas and I are cool. ,Ya learn soiethmng new everyday. It's true I guess!,We're getting <a href="http://xxcuslyy.com">norewhe</a> with respect to deep reform of the tax code, but it's back on the table, as it is during every presidential election campaign. If we're serious about it, then we should start taking an ax not only to the mortgage-interest deduction but also to the charitable-donation deduction. Because every time I see reports of a family charitable trust which carefully makes only the minimum outlays each year, I wonder just how charitable a lot of these donations are.Source: victorfleischer.com
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082203-felix-grinch.jpg"
-image_caption: ""
 ---
 
 It’s about that time of year again. Bloody Christmas time. You’re probably reading this right now with the most appalled look on your face. I suggest you remove it before someone notices. ‘But why? Why do you hate Christmas?’ You must be asking. Well let me tell you. Because its frickin’ irritating. Irritating as hell.

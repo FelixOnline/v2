@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Every type of gentleman is catered for on the menswear runways this season, from the fashionably daring to the handsomely debonair
 date: "2011-01-20 19:46:05 +0000"
-
-# Attributes from Felix Online V1
-id: "613"
-old_path: /fashion/613/menswear-in-milan-trendwatch-
+image: "http://felixonline.co.uk/img/upload/201101202033-ks607-blueboat.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/613/menswear-in-milan-trendwatch-
-imported: true
 comments:
  - value: >
      You have shed a ray of sunshine into the forum. Taknhs!,t4TF7a <a href="http://jwrnljpfhgpv.com/">jwrnljpfhgpv</a>
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -26,12 +23,6 @@ authors:
  - stv07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101202033-ks607-blueboat.jpg"
-image_caption: ""
 ---
 
 __Crayola Bright Colour__

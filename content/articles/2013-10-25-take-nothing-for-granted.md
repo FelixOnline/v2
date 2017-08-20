@@ -4,16 +4,13 @@ title: >
 subtitle: >
   “In the world according to Garp, we are all terminal cases. “
 date: "2013-10-25 00:14:14 +0100"
-
-# Attributes from Felix Online V1
-id: "3925"
-old_path: /books/3925/take-nothing-for-granted
+image: "http://felixonline.co.uk/img/upload/201310250113-felix-garp.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3925/take-nothing-for-granted
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ie411
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250113-felix-garp.jpg"
-image_caption: ""
 ---
 
 “In the world according to Garp, we are all terminal cases. “ This motif, recurring multiple times throughout the novel, is perhaps somewhat overdramatised, yet painfully accurate. From the first page through to the last one, the reader is infected with the subtle anticipation that the characters are inevitably approaching something horrible. Something tremendous, something that will change everything, forever: An intangible danger; a monster introduced into the storyline by Garp’s young son Walt. He misunderstands his parents warning him of the undertow along the shore, and how it can “Pull you under, suck you out to sea”, and one day Walt stares fiercely toward the ocean, looking for the Under Toad (“How big is it? What colour is it? How fast can it swim?”).

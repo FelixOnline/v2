@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Fine, it's not a hypothesis, but the Hyperloop concept could revolutionise medium and long distance transport in the blink of an eye...
 date: "2013-08-13 09:32:12 +0100"
-
-# Attributes from Felix Online V1
-id: "3750"
-old_path: /tech/3750/the-hyperloop-hypothesis
+image: "http://felixonline.co.uk/img/upload/201308131028-jal08-screen-shot-2013-08-13-at-10.10.20-am.png"
+image_caption: "Hyperloop or snazzy remote control?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3750/the-hyperloop-hypothesis
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -23,12 +21,6 @@ authors:
  - jal08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201308131028-jal08-screen-shot-2013-08-13-at-10.10.20-am.png"
-image_caption: ""
 ---
 
 Los Angeles to San Francisco, a six hour, 382 mile drive along the West coast of the USA. Monotonous and arduous.

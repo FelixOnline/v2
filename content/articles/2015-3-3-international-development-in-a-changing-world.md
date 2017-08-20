@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Marcus Bishop reviews the key themes and outcomes of the London International Development Conference
 date: "2015-03-03 14:31:11 +0000"
-
-# Attributes from Felix Online V1
-id: "5323"
-old_path: /cands/5323/international-development-in-a-changing-world
+image: "http://felixonline.co.uk/img/upload/201503031431-ps3110-screen-shot-2015-03-03-at-14.30.58.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5323/international-development-in-a-changing-world
-imported: true
 comments:
  - value: >
      thought provoking but it doesn't answer some of the critical questions posed. ,http://acheter-ciajis-pascher.com/ cialis <br>http://prezzocia1isgenerico.com/ acquistare cialis <br>http://prix-ciajis-generique.com/ cialis <br>http://comprarcia1isgenericobarato.net/ cialis generico <br>http://comprargenericociajisespana.com/ comprar cialis,http://acheter-ciajis-pascher.com/ cialis generique <br>http://prezzocia1isgenerico.com/ acquistare cialis <br>http://prix-ciajis-generique.com/ cialis sans ordonnance <br>http://comprarcia1isgenericobarato.net/ cialis sin receta <br>http://comprargenericociajisespana.com/ comprar cialis,achat cialis cialis achat <br>cialis acquisto cialis <br>vente cialis vente cialis <br>cialis cialis generico <br>cialis cialis generico,cialis achat vente cialis <br>cialis acquisto comprare cialis <br>vente cialis vente cialis <br>precio cialis precio cialis <br>comprar cialis comprar cialis
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503031431-ps3110-screen-shot-2015-03-03-at-14.30.58.png"
-image_caption: ""
 ---
 
 At the Millennium Summit in September 2000, the largest gathering of world leaders in history adopted the UN Millennium Declaration, committing their nations to a new global partnership to reduce extreme poverty and setting out a series of time-bound targets, with a deadline of 2015, that have become known as the Millennium Development Goals (MDGs). Now we’ve hit 2015, the London International Development Conference (IDC) asked what progress has been made, and more significantly, how can the global development agenda adapt to address a different set of challenges?

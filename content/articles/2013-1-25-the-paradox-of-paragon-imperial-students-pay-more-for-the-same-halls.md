@@ -4,18 +4,15 @@ title: >
 subtitle: >
   College give multiple reasons for the disparity
 date: "2013-01-25 01:14:17 +0000"
-
-# Attributes from Felix Online V1
-id: "3174"
-old_path: /news/3174/the-paradox-of-paragon-imperial-students-pay-more-for-the-same-halls
+image: "http://felixonline.co.uk/img/upload/201301250107-tna08-halls-drawing.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3174/the-paradox-of-paragon-imperial-students-pay-more-for-the-same-halls
-imported: true
 comments:
  - value: >
      Nice article, but as someone who lives in Paragon, just wanted to get the facts straight... South Ealing is in fact in Zone 3, not Zone 2, which makes a fair bit of difference in terms of travel costs! ;)
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301250107-tna08-halls-drawing.jpg"
-image_caption: ""
 ---
 
 Imperial College London students are paying more for the same room in the same halls than students from two other London universities. Freshers from Imperial pay [£155 per week for a room in Paragon](http://www3.imperial.ac.uk/accommodation/prospectivestudents/prospectiveundergraduatestudents/hallsofresidenceug/paragon). Students from [West Thames College London](http://www.west-thames.ac.uk/en/higher-education/accommodation/) (West Thames) and [University of West London](http://www.uwl.ac.uk/students/support_for_students/Accommodation.jsp) (UWL) both pay £133.55 a week.

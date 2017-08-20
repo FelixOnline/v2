@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Starbucks is more than just a coffee house
 date: "2012-06-07 19:53:00 +0100"
-
-# Attributes from Felix Online V1
-id: "2535"
-old_path: /comment/2535/helping-to-raise-a-latte-for-equality
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2535/helping-to-raise-a-latte-for-equality
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - pk1811
  - rjd08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 First off, I’m not a natural coffee drinker. Fair enough, unless your mother had a very peculiar physiology while breast-feeding, none of us are natural coffee drinkers. My point is, if given a choice, I would rather pick a pot of peppermint tea than choose a cafetiere of cappuccino. This puts me in a very adversarial relationship with the various coffee-shop chains on the high street. First among equals in my derision of them is Starbucks.

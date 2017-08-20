@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Indira Mallik gives her tips for a term full of culture
 date: "2017-01-13 14:42:20 +0000"
-
-# Attributes from Felix Online V1
-id: "6646"
-old_path: /arts/6646/this-term-in-arts
+image: "http://felixonline.co.uk/img/upload/201701131441-felix-L2017.4_vanMeene-e1478536802365.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6646/this-term-in-arts
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - im1413
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701131441-felix-L2017.4_vanMeene-e1478536802365.jpg"
-image_caption: ""
 ---
 
 It’s safe to say that 2016 wasn’t kind to the world of culture. In a year of blow after blow to the pantheon of iconic cultural stars, the passing of two more bright lights – Carrie Fisher and her mother Debbie Reynolds – left the arts world reeling once more. 2017 brings with it a new hope that we’ve left the curse of the past year behind us – at least in the world of art, dance, and theatre (the political climate of course is quite another matter). A brand new year means brand new shows and exhibitions to look forward to; in less than a week the first tickets for Hamilton will be put on sale, just as the cast of Lin Manuel Miranda’s other great musical In the Heights take their final bows in the West End. Hamilton will land in London in October, but before that there’s lots, lots more to get excited about, here are our 3 top picks for this term...

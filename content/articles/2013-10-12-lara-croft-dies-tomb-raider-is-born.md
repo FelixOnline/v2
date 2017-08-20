@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tomb Raider 2013 provides the long awaited origin story
 date: "2013-10-12 19:29:29 +0100"
-
-# Attributes from Felix Online V1
-id: "3855"
-old_path: /games/3855/lara-croft-dies-tomb-raider-is-born
+image: "http://felixonline.co.uk/img/upload/201310122029-jal08-games_tombraider-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3855/lara-croft-dies-tomb-raider-is-born
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ir112
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310122029-jal08-games_tombraider-copy.jpg"
-image_caption: ""
 ---
 
 The Lara Croft we see in this game is very different to how we might usually perceive her: confident, strong, comfortable with diving into dark caves or putting bullets into enemies. Instead, our main character starts off as anxious, afraid and averse to violence. This game takes us back to the beginning of the metamorphosis from Lara Croft to the Tomb Raider.

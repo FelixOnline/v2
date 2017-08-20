@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Knowing your history, a blast from the past, part 1.
 date: "2014-06-11 22:18:33 +0100"
-
-# Attributes from Felix Online V1
-id: "4677"
-old_path: /film/4677/get-out-the-hankies-weepies-from-the-eighties---beaches
+image: "http://felixonline.co.uk/img/upload/201406112318-me1711-beaches2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4677/get-out-the-hankies-weepies-from-the-eighties---beaches
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jgp09
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406112318-me1711-beaches2.jpg"
-image_caption: ""
 ---
 
 __Beaches (1988)__

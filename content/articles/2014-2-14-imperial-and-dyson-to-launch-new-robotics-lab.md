@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A new centre that collaborates with Dyson will be launching at Imperial in the Department of Computing, this will be the Dyson Robotics Laboratory.
 date: "2014-02-14 04:30:09 +0000"
-
-# Attributes from Felix Online V1
-id: "4376"
-old_path: /news/4376/imperial-and-dyson-to-launch-new-robotics-lab
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4376/imperial-and-dyson-to-launch-new-robotics-lab
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - nm708
  - snb11
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A new centre that collaborates with Dyson will be launching at Imperial in the Department of Computing, this will be the Dyson Robotics Laboratory.

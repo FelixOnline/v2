@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Philip Kent reports on the last calamitous cabinet days of the Defence Secretary
 date: "2011-10-20 21:58:42 +0100"
-
-# Attributes from Felix Online V1
-id: "1567"
-old_path: /politics/1567/the-cunning-of-dr-fox
+image: "http://felixonline.co.uk/img/upload/201110202257-felix-e47cb8eaf1245a16fb0e6a706700f8d7_2.jpg"
+image_caption: "A whirlwind of business cards and political bust ups for Dr Liam Fox"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1567/the-cunning-of-dr-fox
-imported: true
 comments:
  - value: >
      Dude split infinitives make life worth living. And anyway, the 'don't use them or we'll kill the kitten' rule is taken from Latin, where it makes sense, and unceremoniously dropped into English, where it doesn't. <br> <br>Peace and Love, <br> <br>R <br> <br>x,I notice a split infinitive and one or two superfluous commas, but overall pretty impressive Philip!
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -28,12 +26,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110202257-felix-e47cb8eaf1245a16fb0e6a706700f8d7_2.jpg"
-image_caption: ""
 ---
 
 Last Friday, after a week of revelations over wrongdoing in his affairs, the Defence Secretary Dr Liam Fox, announced his resignation to the Prime Minister. The first Tory cabinet minister to resign has been replaced by Philip Hammond, whose Transport brief is now to be fulfilled by Treasury minister Justine Greening.

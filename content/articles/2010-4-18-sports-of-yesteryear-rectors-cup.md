@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Carrying on in his sporting series, Jovan Nedic moves out of the depths of the Thames and into the ring
 date: "2010-04-18 16:50:08 +0100"
-
-# Attributes from Felix Online V1
-id: "126"
-old_path: /sport/126/sports-of-yesteryear-rectors-cup
+image: "http://felixonline.co.uk/img/upload/201004181801-jn104-RectorsC.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/126/sports-of-yesteryear-rectors-cup
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jn104
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201004181801-jn104-RectorsC.jpg"
-image_caption: ""
 ---
 
 Blood, sweat and beers. If there were ever three words that would describe the Rector's Cup, they would be it. Last week, we discovered the wonder that was Morphy Day and how it was a sporting and social highlight for half a century. But what of the other events? This week, we delve into the sweet science that is boxing.

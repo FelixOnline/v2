@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Time to vote! The Student Rep and Union Council elections have begun!
 date: "2013-10-18 20:43:51 +0100"
-
-# Attributes from Felix Online V1
-id: "3885"
-old_path: /news/3885/union-elections-now-open
+image: "http://felixonline.co.uk/img/upload/201310182143-jal08-screen-shot-2013-10-17-at-20.34.14.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3885/union-elections-now-open
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - nm708
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310182143-jal08-screen-shot-2013-10-17-at-20.34.14.png"
-image_caption: ""
 ---
 
 Union elections are kicking off again on Friday 17 at 12pm, they will be open till Tuesday 22 at 12pm.

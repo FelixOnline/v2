@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philippa Skett investigates the financial state of the team after the punishments received for smashed coach window on tour
 date: "2014-11-28 00:42:43 +0000"
-
-# Attributes from Felix Online V1
-id: "4962"
-old_path: /news/4962/medicals-rugby-team-left-broke-after-union-sanctions-put-in-place
+image: "http://felixonline.co.uk/img/upload/201411280041-ps3110-rugby-for-web.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4962/medicals-rugby-team-left-broke-after-union-sanctions-put-in-place
-imported: true
 comments:
  - value: >
      THIS IS RIDICULOUS! ! The commitee have gone completely over the top with sanctions. Stundents are supposed to have a laugh and let their hair down! ! Utterly disgraceful.,Boo hoo. I'm a medic and I think this whole thing shows how pathetic and afraid of responsibility some of us are. <br> <br>Even if the union had done nothing at all the medicals team would STILL be bankrupt - because people were idiots and did almost 8k of damage. Should every other team, including medic teams be forced to pay for a medics rugby mistake? No. They did it, they suffer the consequences. End of. <br> <br>Also how can the medical captain say with a straight face they don't encourage drinking? They required people to bring port to a rugby game. They do drinking initiations. We've all been to Reynolds. That's like saying being a student at Imperial doesn't mean you are encouraged to do science. Oh no wait you fucking are, that's all you fucking do all day long. <br> <br>We are not in nursery any more. People fucked up and got caught. Blaming the
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411280041-ps3110-rugby-for-web.jpg"
-image_caption: ""
 ---
 
 Imperial Medicals Rugby Football Club, one of the rugby teams suspended earlier this term for smashing a coach window, appealed against the sanctions placed against them last week.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   FELIX recieves a response to last week’s article from a morally minded vegetarian
 date: "2016-05-06 10:20:37 +0100"
-
-# Attributes from Felix Online V1
-id: "6137"
-old_path: /food/6137/seeding-the-veggie-power
+image: "http://felixonline.co.uk/img/upload/201605061119-felix-Russell_Brand_London_Revolution_Protest_2.jpg"
+image_caption: "Even crazed communists can be vegetarians – it’s very inclusive group."
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6137/seeding-the-veggie-power
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +21,6 @@ authors:
  - sk5814
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061119-felix-Russell_Brand_London_Revolution_Protest_2.jpg"
-image_caption: ""
 ---
 
 The foodies, meat lovers or simply punctilious readers amongst you may remember last week’s article raising arguments for meat consumption, or rather, for not feeling guilty about it as long as you accepted the responsibilities. And I thought there would be nothing better than hunting my friend’s arguments by growing from them.

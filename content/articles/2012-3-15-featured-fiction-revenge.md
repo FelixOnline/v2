@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Pavitar Devgon tells a shocking tale of violent hatred and gruesome vengeance
 date: "2012-03-15 21:22:46 +0000"
-
-# Attributes from Felix Online V1
-id: "2379"
-old_path: /news/2379/featured-fiction-revenge
+image: "http://felixonline.co.uk/img/upload/201203152122-pk1811-tree.jpg"
+image_caption: "A lonely tree stood solitary on a darkening hill..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2379/featured-fiction-revenge
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - pd111
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152122-pk1811-tree.jpg"
-image_caption: ""
 ---
 
 A lonely tree stood solitary on a darkening hill. Its branches were bare and no birds would roost in its empty canopy. The bark towards its trunk was peeling off and patchy in many places giving a diseased appearance. Gnarled roots grew twisted in the parched earth, meaning that the whole tree leaned crookedly on its base.

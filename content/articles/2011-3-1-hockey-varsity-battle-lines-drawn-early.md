@@ -4,16 +4,13 @@ title: >
 subtitle: >
   IC 2s 1-1 Medicals 2s
 date: "2011-03-01 21:30:40 +0000"
-
-# Attributes from Felix Online V1
-id: "972"
-old_path: /sport/972/hockey-varsity-battle-lines-drawn-early
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/972/hockey-varsity-battle-lines-drawn-early
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jzy08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A miserable day befell Harlington, but a bright spirit dawned upon it - a historical rivalry that stretches back many a year. The result of this fixture would be a precursor to the sacred Varsity match.

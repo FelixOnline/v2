@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fred Fyles chats with Jeff James about theatre, traditions, and treacle
 date: "2014-12-18 16:08:13 +0000"
-
-# Attributes from Felix Online V1
-id: "5068"
-old_path: /arts/5068/taking-on-the-classics-a-directors-how-to
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5068/taking-on-the-classics-a-directors-how-to
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ authors:
  - ff712
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 How do you go about reinventing the wheel? This was the question facing Jeff James when he decided to take on Sophocles’ classic piece of drama _Philoctetes_; directing and writing the adaptation himself, James has shaped the play into something new, renaming it _Stink Foot_ after Philoctetes’ main feature: his rotting, stinking foot. It was this foot that led to him being abandoned on the island of Lemnos for ten years, until it is prophesied that he is needed back in Troy in order for the Greeks to win the war; it is up to young Neoptolemus to convince him to return, using every ounce of skill and cunning in his mind. It’s a heavy mantle to take on, and so we sat down with James for a chat about the challenges of adapting Greek drama, the relevance of the play to modern life, and the dangers of using gallons of treacle on stage.

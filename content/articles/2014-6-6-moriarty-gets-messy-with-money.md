@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Birdland is thought-provoking but mainly just confusing, says Chris Witham
 date: "2014-06-06 02:48:26 +0100"
-
-# Attributes from Felix Online V1
-id: "4664"
-old_path: /arts/4664/moriarty-gets-messy-with-money
+image: "http://felixonline.co.uk/img/upload/201406060348-jal08-arts-birdland_2877186b.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4664/moriarty-gets-messy-with-money
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - ctw11
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406060348-jal08-arts-birdland_2877186b.jpg"
-image_caption: ""
 ---
 
 __I__t is a strange quirk of the human condition that we can enjoy being uncomfortable. Simon Stephens’ new play_ Birdland_ at the Royal Court Theatre manages to captivate an audience whilst remaining incredibly painful to watch.

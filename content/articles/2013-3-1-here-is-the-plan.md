@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Malaysian Society introduce this year’s event
 date: "2013-03-01 00:07:15 +0000"
-
-# Attributes from Felix Online V1
-id: "3400"
-old_path: /news/3400/here-is-the-plan
+image: "http://felixonline.co.uk/img/upload/201303010007-tna08-mnight-poster-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3400/here-is-the-plan
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303010007-tna08-mnight-poster-1.jpg"
-image_caption: ""
 ---
 
 Keep yourselves free on the 9th/10th of March – Imperial College Union Malaysian Society returns with Malaysian Night 2013, the annual production that’s been entertaining audiences across the UK for years. With great moves, great laughs, great music (and amazing food after!), it promises to be an unforgettable experience.

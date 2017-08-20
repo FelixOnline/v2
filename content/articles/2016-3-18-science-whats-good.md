@@ -4,18 +4,15 @@ title: >
 subtitle: >
   This week's science news
 date: "2016-03-18 11:52:33 +0000"
-
-# Attributes from Felix Online V1
-id: "6063"
-old_path: /science/6063/science-whats-good
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6063/science-whats-good
-imported: true
 comments:
  - value: >
      hei hÃ¸pp!!Jammen hadde du ogsÃ¥ fÃ¥tt shoppet,sÃ¥ mye genialt du har fÃ¥tt med deg.Kjenner suget etter Ikea her nÃ¥,mÃ¥ nok snart ta meg en tur..SÃ¸te prinsessa i voeig,hgrlna!!Ha en fin helg:=)Klem linda
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - jc5412
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Mechanical heartbreak fix

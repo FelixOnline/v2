@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Work around the clock?
 date: "2012-06-01 12:04:02 +0100"
-
-# Attributes from Felix Online V1
-id: "2507"
-old_path: /news/2507/central-library-for-24-hour-opening-over-summer
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2507/central-library-for-24-hour-opening-over-summer
-imported: true
 comments:
  - value: >
      I think that's great - it's always been very annoying that campus operates as if only undergrads exist on it, so I think it's a brilliant decision and has my support!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 For the first time in Imperial College history, the Central Library will continue its [24-hour opening times throughout the summer holidays](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/administration/library/newssummary/news_17-5-2012-10-25-51). Imperial College has decided to keep its library door open to students who wish to use the library, starting from 30 June through until 30 September.

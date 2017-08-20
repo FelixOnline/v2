@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Andrea Levy implores you to take up this opportunity to hear a first-hand testimony from Mrs Ruth Barnett, a Holocaust survivor, at Imperial College
 date: "2012-01-19 21:06:55 +0000"
-
-# Attributes from Felix Online V1
-id: "2026"
-old_path: /news/2026/for-the-dead-and-for-the-living-we-must-bear-witness
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2026/for-the-dead-and-for-the-living-we-must-bear-witness
-imported: true
 comments:
  - value: >
      If you want more information about the event, join our Facebook event: http://www.facebook.com/events/327164153971607/?ref=ts
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Holocaust Memorial Day is a day of remembrance held annually on the anniversary of the liberation, by Soviet soldiers, of the concentration camp Auschwitz-Birkenau on 27 January 1945. Auschwitz was the largest of the Nazi killing camps, where approximately 1.1 million men, women and children, including Jews, gypsies, the handicapped, homosexuals, Soviet prisoners of war and political dissidents, were killed, out of a total estimate of 11 million assassinations throughout the Holocaust across Europe at the hands of the Nazis, from 1933 to 1945. However, what meaning do these figures hold, with no knowledge of the personal experiences of those involved?

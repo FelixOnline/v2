@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Surprise, surprise, another TV show with an indefensible plot...
 date: "2011-01-27 19:10:18 +0000"
-
-# Attributes from Felix Online V1
-id: "663"
-old_path: /science/663/primeval-monumentally-stupid
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/663/primeval-monumentally-stupid
-imported: true
 comments:
  - value: >
      It's even worse. I've watched exactly 3 &amp; a half episodes now all from a 1st season syfy marathon. They were all so bad. If it weren't Saturday I'd be watching or doing something else. Unfortunately, for me, I'm a sci fi fiend with Fringe withdrawal symptoms. <br> <br>S1e3 has the GENIUS (of all things) decide to traverse an anomaly where victims of unknown status disappeared in an airplane. HE FOLLOWS THEM ON FOOT! I'm like wtf? What if the ground level is lower and you fall? How are you going to get back? <br> <br>That EXACTLY happens! The genius says, well I wasn't expecting that. LMAO! Even Stargate sg1 KNEW to send probes first! <br> <br>A big deal is made about killing the beasts screwing up the timeline. WTF?! What about all the swapped microorganisms hither &amp; yon, folks eaten &amp; shat out in the age of dinos? <br> <br>I'm ALMOST inclined to smoke some medical marijuana and watch the whole marathon. Almost. And you say this has been on for 3 seasons, while decent series were being canceled? WTF?!?,Just watched most of the f
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Those of you who complained about me focusing so much on the plot holes in my [Moon review](http://www.felixonline.co.uk/?article=558) should stop reading now because this is much of the same. I’m sorry, but I just couldn’t pass up the opportunity to review a show as monumentally stupid as Primeval.

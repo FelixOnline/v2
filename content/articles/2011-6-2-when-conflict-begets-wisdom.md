@@ -4,16 +4,13 @@ title: >
 subtitle: >
   There are some who are strong enough to forgive
 date: "2011-06-02 19:33:19 +0100"
-
-# Attributes from Felix Online V1
-id: "1308"
-old_path: /comment/1308/when-conflict-begets-wisdom
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1308/when-conflict-begets-wisdom
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - rtf08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Two years ago, on a January afternoon, an Israeli shell hit Dr. Izzeldin Abuelaish’s home in Gaza, killing three of his daughters and his niece. Nothing can replace the hole left in his life by that shell. Yet the Harvard educated gynaecologist stood in front of the Imperial College Israeli Society in March and proclaimed that “good deeds, wisdom and good works” were the only weapons he wanted. His war wasn’t against those who took his daughters away, but with himself. “Hate”, he said, “hate was my greatest enemy. I knew I would only drown in it; I had to look beyond”.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   “I’m sorry, but you have no right to dictate to me what I have to say.”
 date: "2010-12-02 21:10:54 +0000"
-
-# Attributes from Felix Online V1
-id: "487"
-old_path: /politics/487/norman-finkelstein-on-hamas-boycotts-and-liberty
+image: "http://felixonline.co.uk/img/upload/201012022107-ac1507-norman.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/487/norman-finkelstein-on-hamas-boycotts-and-liberty
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - hj408
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022107-ac1507-norman.jpg"
-image_caption: ""
 ---
 
 __You’ve said previously that there is a possibility of resolving the Arab-Israeli conflict and it’s not an eternal conflict that can’t be resolved. What keeps you so optimistic?__

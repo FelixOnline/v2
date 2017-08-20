@@ -4,18 +4,15 @@ title: >
 subtitle: >
   LiYan Chow on their victories
 date: "2012-11-29 23:15:35 +0000"
-
-# Attributes from Felix Online V1
-id: "3011"
-old_path: /sport/3011/taekwondo-inauguration-huge-success
+image: "http://felixonline.co.uk/img/upload/201211292316-tna08-lalala.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3011/taekwondo-inauguration-huge-success
-imported: true
 comments:
  - value: >
      WOOO LIYAN
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211292316-tna08-lalala.jpg"
-image_caption: ""
 ---
 
 The work from countless months of planning, organisation and training finally came together as Imperial College Union TaeKwonDo (ICUTKD) hosted their very own competition at the Ethos sports hall last Sunday. The Imperial College Open 2012 was the kick-start to the competitive year for many university clubs around the country and also the first TaeKwonDo competition to be held on Imperial grounds in the history of the club.

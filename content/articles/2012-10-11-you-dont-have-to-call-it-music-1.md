@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Pt. 1 Contemporary classical
 date: "2012-10-11 21:25:28 +0100"
-
-# Attributes from Felix Online V1
-id: "2675"
-old_path: /music/2675/you-dont-have-to-call-it-music-1
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2675/you-dont-have-to-call-it-music-1
-imported: true
 comments:
  - value: >
      What is this. This is useless.
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - im808
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 _or: what the atom bomb and the death of God_

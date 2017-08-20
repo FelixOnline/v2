@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Charles Titmuss thinks that in order to combat terrorism, we must first understand its root causes
 date: "2017-06-09 14:53:24 +0100"
-
-# Attributes from Felix Online V1
-id: "7009"
-old_path: /comment/7009/defeating-isis-is-impossible-dealing-with-them-is-not
+image: "http://felixonline.co.uk/img/upload/201706091653-ea3211-Screen Shot 2017-06-09 at 16.53.05.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/7009/defeating-isis-is-impossible-dealing-with-them-is-not
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - charlestitmuss
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706091653-ea3211-Screen Shot 2017-06-09 at 16.53.05.png"
-image_caption: ""
 ---
 
 The UK has been subjected to a number of terrorist acts. At this point in time it is appropriate to mourn and honour the dead and remember that nothing can justify these acts. At the same time, it is important to look at this topic with nuance if we as a nation wish to solve this problem. Two questions need to be answered: what are the driving factors behind these attacks, and what can be done to reduce the impact that terrorism can have on our daily lives? The emphasis in this article will be on Islamist terrorism.

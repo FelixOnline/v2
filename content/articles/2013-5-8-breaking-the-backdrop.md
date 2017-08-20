@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fred Fyles reviews Fraulein Julie, which seamlessly merges technology and stagecraft to form a new kind of theatrical experience
 date: "2013-05-08 13:48:09 +0100"
-
-# Attributes from Felix Online V1
-id: "3548"
-old_path: /arts/3548/breaking-the-backdrop
+image: "http://felixonline.co.uk/img/upload/201305081448-tna08-fraulein-julie.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3548/breaking-the-backdrop
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - ff712
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305081448-tna08-fraulein-julie.jpg"
-image_caption: ""
 ---
 
 The world of theatre revolves around the invisible. Behind the actors, off to the side, there will be a dedicated team of people bringing the stage to life; lighting, staging, and sound design all form the invisible heart of the production, playing with the audience’s emotions in subtle ways and creating the magic that keeps people returning to the stalls. This team are usually hidden, their work not fully appreciated – nor understood – by the theatre-going crowd. But what happens when this world is brought into the open, placed under the brilliantly bright stage lights? It is a question that director Katie Mitchell has attempted to answer with her stunning production of Fraülein Julie, which seamlessly merges technology and stagecraft to form a new kind of theatrical experience.

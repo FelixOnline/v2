@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Anastasia Eleftheriou pays a visit to Los Locos
 date: "2011-06-23 21:18:27 +0100"
-
-# Attributes from Felix Online V1
-id: "1436"
-old_path: /food/1436/ai-chihuahua
+image: "http://felixonline.co.uk/img/upload/201106232218-felix-bar_small-(1).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1436/ai-chihuahua
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - ae1409
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106232218-felix-bar_small-(1).jpg"
-image_caption: ""
 ---
 
 Drinking, Dancing and Dining is the motto of this place - a place where you can drop in after a walk at Covent Garden market and have a tasty and relatively cheap Mexican meal. There are fantastically named cocktails, like “Orgasm please!” and “Blow work”, and tunes blasting from 11pm until 3am.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jennifer Eden condemns the West’s lack of attention to post-war effects.
 date: "2016-10-07 18:02:25 +0100"
-
-# Attributes from Felix Online V1
-id: "6315"
-old_path: /comment/6315/the-west-needs-to-learn-from-its-mistakes-or-be-doomed-to-repeat-them-again
+image: "http://felixonline.co.uk/img/upload/201610072001-felix-9716045331_00e1f7bfa1_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6315/the-west-needs-to-learn-from-its-mistakes-or-be-doomed-to-repeat-them-again
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - je615
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610072001-felix-9716045331_00e1f7bfa1_o.jpg"
-image_caption: ""
 ---
 
 It’s the 2nd of August 1990. Saddam Hussain has just invaded Kuwait in order to absorb the country as the ‘19th province’ of Iraq. The next year a counter invasion to expel the Iraqis from Kuwait (known as Operation Desert Storm) is launched by the US and other western countries on the orders of President George H. W. Bush. While the coalition suffers casualties, the Iraqi army is much worse off and surrenders within 42 days. The operation is hailed as a ‘success’ by the international community. However, the success is to be very short lived, as it marks the beginning of deep tensions between the US and Saddam; distrust was to linger and with terrible consequences.

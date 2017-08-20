@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Exams cancelled and student union disbands
 date: "2015-05-29 01:13:26 +0100"
-
-# Attributes from Felix Online V1
-id: "5581"
-old_path: /news/5581/students-death-prompts-riots-at-ain-shams-university-cairo
+image: "http://felixonline.co.uk/img/upload/201505290213-ps3110-03e975a3-54e7-43d8-9fff-d7e4bd681e0f.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5581/students-death-prompts-riots-at-ain-shams-university-cairo
-imported: true
 comments:
  - value: >
       (Edit)Hey guys I am enjoying the site and thnaks for caring enough to post to allow us to study and exam cram with.1 question though, why give the answers away shaded in green when we haven't had a chance to look at possible answers before we hit read more Just curious if I am doing something incorrect here in using the site or what.Just seems it would be more helpful if the answers were not divulged when you are looking to see what the choices are.Thanks for a reply.Reply
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505290213-ps3110-03e975a3-54e7-43d8-9fff-d7e4bd681e0f.jpg"
-image_caption: ""
 ---
 
 Ain Shams University in Cairo has had to cancel exams after fears of protests by students following the controversial death of Engineering student Islam Salah Al-Din Atitu.

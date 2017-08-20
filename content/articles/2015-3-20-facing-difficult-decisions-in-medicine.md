@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Lauren Ratcliffe reports on a trail revealing the most effective pre-natal monitoring technique
 date: "2015-03-20 00:48:13 +0000"
-
-# Attributes from Felix Online V1
-id: "5416"
-old_path: /science/5416/facing-difficult-decisions-in-medicine
+image: "http://felixonline.co.uk/img/upload/201503200048-cj914-ultrasound-.jpg"
+image_caption: "Ultrasound photo of a foetus unaffected by fetal growth restriction, a syndrome that affects 8% of all pregnancies"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5416/facing-difficult-decisions-in-medicine
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - cj914
  - ltr11
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503200048-cj914-ultrasound-.jpg"
-image_caption: ""
 ---
 
 During some pregnancies, abnormal blood flow from the placenta can deprive the foetus of sufficient oxygen and nutrients to grow to its full potential. This condition is known as foetal growth restriction and affects up to 8% of all pregnancies, a total of 60,000 babies per year in Europe and the USA. The condition is associated with an increased risk of stillborn birth, neonatal death and neurological and cardiovascular disorders later in life. When diagnosed, doctors sometimes decide to deliver these babies early, before the lack of oxygen and increased acidity becomes too damaging. However, this can be a tricky decision to make and involves balancing the risks of keeping the baby in a poor womb environment with the increased risk of morta that’s associated with premature births.

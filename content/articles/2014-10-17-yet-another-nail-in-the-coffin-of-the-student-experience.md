@@ -4,18 +4,15 @@ title: >
 subtitle: >
   George Butcher offers his opinion on the cuts in amenities funds.
 date: "2014-10-17 15:24:15 +0100"
-
-# Attributes from Felix Online V1
-id: "4740"
-old_path: /comment/4740/yet-another-nail-in-the-coffin-of-the-student-experience
+image: "http://felixonline.co.uk/img/upload/201411102234-ps3110-aj532146_429long.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4740/yet-another-nail-in-the-coffin-of-the-student-experience
-imported: true
 comments:
  - value: >
      fitflop australia buy online <br>buy fitflops http://fitflopsau.blogspot.com/,christian louboutin shoes <br>christian louboutin shoes sale http://canadachristianlouboutin.blogspot.com/,louboutin pointed toe <br>christian louboutin online store http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin rolando shoes <br>christian louboutin outlet canada http://christianlouboutincanadaoutlet.blogspot.com/,Thanks with regard to furnishing this sort of good write-up. <br>nba 2k16 mtdb packs http://www.espacopranico.com.br/portal/index.php?option=com_ccboard&amp;view=postlist&amp;forum=1&amp;topic=10553
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102234-ps3110-aj532146_429long.jpg"
-image_caption: ""
 ---
 
 What does £220,000 a year get you? It’s more than the combined rent of the 22 new beds in Beit Hall over a calendar year, two-thirds of the former rector’s salary of £364,000 (Times High Education Supplement) and 0.22%of Imperial College London’s £97 million endowment. £220,000 is also how much has left the amenities fund for halls events and activities this year.

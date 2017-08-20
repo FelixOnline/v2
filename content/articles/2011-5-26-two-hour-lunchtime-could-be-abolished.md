@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Proposed changes would give departments flexibility to set classes during lunchtime
 date: "2011-05-26 18:42:38 +0100"
-
-# Attributes from Felix Online V1
-id: "1251"
-old_path: /news/1251/two-hour-lunchtime-could-be-abolished
+image: "http://felixonline.co.uk/img/upload/201105261949-felix-mg_0289.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1251/two-hour-lunchtime-could-be-abolished
-imported: true
 comments:
  - value: >
      Too often i've been annoyed at how long the lunch break is. There is nothing more annoying than having a day with only a few hours of lectures split by a two hour break. This proposal sounds perfectly reasonable and i welcome it... although i won't be around to see it implemented.,If it ain't broke don't fix it?
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105261949-felix-mg_0289.jpg"
-image_caption: ""
 ---
 
 The current two-hour lunch break could be abolished to allow departments more flexibility in scheduling classes, according to proposals from the College Day Working Party. The Chair of the working party, Professor Dorothy Griffiths, said that departments would still be expected to schedule a one-hour lunch break.

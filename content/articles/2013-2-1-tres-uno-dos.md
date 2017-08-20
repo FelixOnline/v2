@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Max Eggl reviews the final instalment from Green Day
 date: "2013-02-01 00:50:54 +0000"
-
-# Attributes from Felix Online V1
-id: "3235"
-old_path: /music/3235/tres-uno-dos
+image: "http://felixonline.co.uk/img/upload/201302010051-tna08-tre-cover.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3235/tres-uno-dos
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - me1711
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302010051-tna08-tre-cover.jpg"
-image_caption: ""
 ---
 
 Ladies and gentlemen, we have come to the last album of our trilogy, and thus the last of these articles. However I promise last should not be least! ¡Tré!, as the last album is called, features the drummer on the cover as well as carrying his nickname. It was released a month before schedule, due to the band cancelling their promotion tours. Green Day, in accordance with their attempt to vary musical approaches on each album, decided to go for the stadium rock style, with the odd punk rock song thrown in (a lá Dookie). There is a more grand feeling to this album, especially when in some songs when you have the string arrangements and vocal harmonies.

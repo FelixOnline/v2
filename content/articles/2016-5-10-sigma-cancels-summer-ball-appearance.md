@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The headliner will now be DJ Fresh
 date: "2016-05-10 13:11:34 +0100"
-
-# Attributes from Felix Online V1
-id: "6140"
-old_path: /news/6140/sigma-cancels-summer-ball-appearance
+image: "http://felixonline.co.uk/img/upload/201605101515-ygr12-sigma copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6140/sigma-cancels-summer-ball-appearance
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605101515-ygr12-sigma copy.jpg"
-image_caption: ""
 ---
 
 FELIX has learnt that Sigma, the DJ duo who were due to play the ICU Summer Ball, have cancelled and will be replaced by DJ Fresh. Despite the fact that a contract had already been signed, Sigma told the union last week that they would not be playing the Summer Ball on the 18th of June, presumably because they’ve had a better offer.

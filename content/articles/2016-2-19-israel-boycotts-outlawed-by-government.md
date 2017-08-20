@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Public bodies will no longer be able to opt out of buying products made on the West Bank
 date: "2016-02-19 11:07:51 +0000"
-
-# Attributes from Felix Online V1
-id: "5924"
-old_path: /news/5924/israel-boycotts-outlawed-by-government
+image: "http://felixonline.co.uk/img/upload/201602191107-felix-guardianadvert4palestine-finalv2-page-001.jpg"
+image_caption: "Several Imperial academics signed this boycott in 2015. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5924/israel-boycotts-outlawed-by-government
-imported: true
 comments:
  - value: >
      SOAS knows how to do it... https://twitter.com/MoleFred/status/700781971966976000,This is a good thing. Just because you hate Jews for some sort of Hitlery reason or whatever, doesn't mean you should be using your trivial piece of council purchasing power to take it out on Israel. That's just embarrassing for the UK.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602191107-felix-guardianadvert4palestine-finalv2-page-001.jpg"
-image_caption: ""
 ---
 
 Boycotts have long been a way for local government to use direct action to condemn government approved policies, such as apartheid.

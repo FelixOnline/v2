@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Joshua Renken interviews Brandon Brown about his new book and the state of science communication around the world
 date: "2015-06-17 22:44:55 +0100"
-
-# Attributes from Felix Online V1
-id: "5626"
-old_path: /science/5626/talking-to-physicist-brandon-brown-author-of-max-planck-driven-by-vision-broken-by-war
+image: "http://felixonline.co.uk/img/upload/201506172351-jr2514-10464820173_d1564dbee0.jpg"
+image_caption: "Brandon Brown, giving his talk "
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5626/talking-to-physicist-brandon-brown-author-of-max-planck-driven-by-vision-broken-by-war
-imported: true
 comments:
  - value: >
      I have been exploring for a little bit for any high quality articles or blog posts in this sort of area . Exploring in Yahoo I ultimately stumbled upon this web site. Reading this information So i am glad to exhibit that I've a very excellent uncanny feeling I discovered just what I needed. I so much definitely will make sure to do not disregard this website and give it a glance on a relentless basis. <br>wholesale new era fitted hats http://www.twofangtu.cn/fitted-hats,gizeh birkenstock <br>birkenstock shoes sale http://birkenstockaustralia.blogspot.com/,black christian louboutin <br>christian louboutin shoes http://christianlouboutincanadaoutlet.blogspot.com/,Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means more now than ever since the new Google update: Panda. No longer are backlinks and simply pinging or sending out a RSS feed t
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -26,12 +24,6 @@ authors:
  - jr2514
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506172351-jr2514-10464820173_d1564dbee0.jpg"
-image_caption: ""
 ---
 
 <a name="OLE_LINK4"></a><a name="OLE_LINK3"></a>Brandon Brown has spent his career teaching Physics. Starting off as physics graduate from Rice University, Brandon got his PhD from Oregon State University and later attained a certificate in Science Communication at the University of Califronia, Santa Cruz. Now a professor at the University of San Francisco, Brandon’s research focus has shifted to sensory biophysics and high-temperature superconductivity. Research students at his laboratory have explored the electric and magnetic sensory abilities of a variety of creatures.

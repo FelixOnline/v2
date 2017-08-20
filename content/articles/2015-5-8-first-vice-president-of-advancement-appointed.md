@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Cecily Johnson introduces the College’s newest Vice President
 date: "2015-05-08 00:26:17 +0100"
-
-# Attributes from Felix Online V1
-id: "5502"
-old_path: /news/5502/first-vice-president-of-advancement-appointed
+image: "http://felixonline.co.uk/img/upload/201505080126-ps3110-screen-shot-2015-05-08-at-01.26.03.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5502/first-vice-president-of-advancement-appointed
-imported: true
 comments:
  - value: >
      Great beat ! I wish to apprentice at the same time as you amend your website, how could i subscribe for a blog web site? The account aided me a applicable deal. I have been a little bit acquainted of this your broadcast provided bright clear idea <br>moncler eyewear http://www.be-simple.it/?it-moncler-eyewear-6653.html,fit flops cheap <br>fitflops australia sale http://australiafitflops.blogspot.com/,buy christian louboutin <br>christian louboutin shoes online http://christianlouboutincanadaoutlet.blogspot.com/,I treasure the data on your websites. Kudos!. <br>nhl 17 coins http://www.volley24.pl/forum/viewtopic.php?p=46203#46203,Thanks a ton! It is definitely an good online site!. <br>madden 17 http://khleothomas.com/profiles/blogs/cheap-fifa-17-coins-where-you-can-buy-cheap-bed-skirts,I was drawn by the hoestny of what you write
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505080126-ps3110-screen-shot-2015-05-08-at-01.26.03.png"
-image_caption: ""
 ---
 
 Sarah Porter Waterbury has this week taken up the new role of Vice President of Advancement at Imperial College London. The appointment, which was first announced in January, is among the first at such a level for a University in the UK.

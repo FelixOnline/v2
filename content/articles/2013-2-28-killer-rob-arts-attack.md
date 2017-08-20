@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Meredith Thomas walks through a baroque sci-fi future
 date: "2013-02-28 23:40:19 +0000"
-
-# Attributes from Felix Online V1
-id: "3392"
-old_path: /arts/3392/killer-rob-arts-attack
+image: "http://felixonline.co.uk/img/upload/201302282339-tna08-aadlab---fallenstar2012_03.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3392/killer-rob-arts-attack
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - cmt09
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302282339-tna08-aadlab---fallenstar2012_03.jpg"
-image_caption: ""
 ---
 
 There is an underground space near Baker Street that feels a lot like a baroque sci-fi future. The half-light is illuminated by occasional flashes of neon. Blue and green lasers strafe the ceiling and an eerie soundscape of ambient electronic squawks and whirring servos greets the intrepid. Skulls in mechatronic legs stalk the space and glowing orbs shimmer with undulating constellations of colour.

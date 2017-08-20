@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Babbage brings in the hits
 date: "2012-05-04 00:52:54 +0100"
-
-# Attributes from Felix Online V1
-id: "2424"
-old_path: /news/2424/imperial-tedx-talks-prove-popular-online
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2424/imperial-tedx-talks-prove-popular-online
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Video footage of March’s [TEDxImperialCollege](http://tedximperialcollege.com/) event is now [available to view](http://tedximperialcollege.com/watch/) on YouTube, with a talk by programmer John Graham-Cumming about Charles Babbage’s Analytical Machine enjoying over 18,000 views at the time of going to print.

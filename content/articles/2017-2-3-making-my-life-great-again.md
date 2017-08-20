@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jian Li Chew takes you through his day channelling his new idol
 date: "2017-02-03 15:25:00 +0000"
-
-# Attributes from Felix Online V1
-id: "6710"
-old_path: /comment/6710/making-my-life-great-again
+image: "http://felixonline.co.uk/img/upload/201702031606-felix-Screen Shot 2017-02-03 at 16.02.10.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6710/making-my-life-great-again
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702031606-felix-Screen Shot 2017-02-03 at 16.02.10.png"
-image_caption: ""
 ---
 
 As I watched Trump’s inauguration ceremony at fivesixeight, where I work, and observed exuberant Americans celebrating with champagne, I got thinking about my life. It’s been in a rut lately, just doing my tutorial sheets, coursework, revising, cooking my meals, feeling homesick over Chinese New Year, dealing with crippling insecurity etc. I needed to do something to pump some excitement into my boring life. After all, you’re only young once.

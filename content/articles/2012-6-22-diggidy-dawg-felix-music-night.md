@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix Music sees out the year in Metric
 date: "2012-06-22 16:21:37 +0100"
-
-# Attributes from Felix Online V1
-id: "2580"
-old_path: /music/2580/diggidy-dawg-felix-music-night
+image: "http://felixonline.co.uk/img/upload/201206221719-felix-fmn-img_0976-phrij.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2580/diggidy-dawg-felix-music-night
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - sh1207
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206221719-felix-fmn-img_0976-phrij.jpg"
-image_caption: ""
 ---
 
 Last Saturday saw the return of Felix Music Night for their final party of the year and boy, was it a party. Things were kicked off with an uplifting jazz & bass set from __Phrij__. Accompanying his selection, __Gabor Kerekes__ shone the hypnotic motion of oils, colours and washing up liquid swirling through each other through an old-school over-head projector.

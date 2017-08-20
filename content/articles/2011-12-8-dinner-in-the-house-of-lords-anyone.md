@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Two tickets up to grab at the RCSU Science Challenge launch
 date: "2011-12-08 20:07:14 +0000"
-
-# Attributes from Felix Online V1
-id: "1908"
-old_path: /news/1908/dinner-in-the-house-of-lords-anyone
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1908/dinner-in-the-house-of-lords-anyone
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - pjb09
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This Wednesday the [Royal College of Science Union (RCSU](http://rcsu.org.uk)) announced via email to the Faculty of Natural Sciences that it will be holding the Science Challenge 2012 Final in the House of Lords.

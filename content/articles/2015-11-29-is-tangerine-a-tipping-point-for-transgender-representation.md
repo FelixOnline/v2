@@ -4,18 +4,16 @@ title: >
 subtitle: >
   As transgender rights become more prominent in popular culture, we are seeing an increasing momentum for films that break the binary
 date: "2015-11-29 17:00:32 +0000"
-
-# Attributes from Felix Online V1
-id: "5786"
-old_path: /film/5786/is-tangerine-a-tipping-point-for-transgender-representation
+image: "http://felixonline.co.uk/img/upload/201511291650-ff712-tangerine_041-1600x900-c-default.jpg"
+image_caption: "Changing the conversation – Mya Taylor and Kitana Kiki Rodriguez in the ground-breaking film Tangerine."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5786/is-tangerine-a-tipping-point-for-transgender-representation
-imported: true
 comments:
  - value: >
      I'm now not certain the place you're getting your info, however good topic. I needs to spend some time learning much more or figuring out more. Thanks for magnificent info I used to be in search of this information for my mission. <br>moncler jas arnhem zuid http://www.blosrtv.nl/?nl-moncler-jas-arnhem-zuid-13624.html,These are genuinely fantastic ideas in about blogging. You have touched some good points here. Any way keep up wrinting. <br>peuterey 722 uomo http://test.negrifirman.com/?it-peuterey-722-uomo-11107.html,You're a very valuable internet site; couldn't make it without ya!| <br>2k15 MT Points http://fubar.com/cs-go-skins-shop-online-games-articles/b363830-1306953,Wow cuz this is very greatexcellent job! Congrats and keep it up <br>nhl 17 coins http://www.peace-for-earth.org/barter/item/2376,I appreciate the information on your internet site. Thank you!. <br>nba 2k17 coins http://www.postanads.com/ads/fifa-coins-the-best-kinect-games-in-2011/,I enjoy this website - its so usefull and helpfull <br>pokemongo http://sac
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511291650-ff712-tangerine_041-1600x900-c-default.jpg"
-image_caption: ""
 ---
 
 On 9th June 2014, American actor Laverne Cox became the first transgender person to appear on the cover of _Time _magazine. Statuesque in a deep blue dress, Cox’s face, framed by flowing tresses, stares deep into the viewer’s eyes; to her left, the title of the lead article is written – _The Transgender Tipping Point: America’s Next Civil Rights Frontier_; it is a direct challenge, a confrontation for those who stand in the way of trans rights.

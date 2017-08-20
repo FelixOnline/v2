@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A year after he joined the Conservatives in coalition, he has gone from national hero to possibly the most hated man in Britain
 date: "2011-05-20 05:51:58 +0100"
-
-# Attributes from Felix Online V1
-id: "1229"
-old_path: /comment/1229/can-nick-clegg-redeem-himself
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1229/can-nick-clegg-redeem-himself
-imported: true
 comments:
  - value: >
      After the coalition it is going to put the Lib Dems back on the margines of British Politics. For Cleggy he will have to work extremely hard to salvage his political career
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 _Yes_ – __Sam Horti__

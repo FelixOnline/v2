@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Alice Yang talks to the Chairman of Chiltern Railways about careers in industry
 date: "2011-11-10 21:16:52 +0000"
-
-# Attributes from Felix Online V1
-id: "1727"
-old_path: /news/1727/interview-adrian-shooter
+image: "http://felixonline.co.uk/img/upload/201111102111-pk1811-te_blr_2069.jpg"
+image_caption: "Mr Shooter’s Darjeeling Himalayan Steam Locomotive – in his own back garden"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1727/interview-adrian-shooter
-imported: true
 comments:
  - value: >
      I'm sure him being responsible for the sale of the franchise had nothing to do with him winning it. Nope. Not at all.,This is a joke, right? He straight up says that he was responsible for selling the franchise and that out of 13 competing companies his company won. <br> <br>"On behalf of my employer, I had to sell the business – it was competitive and we had 13 companies bidding for it. [...] Thirdly, in my own time, I had to work out, with my team, how to buy it.” <br> <br>However, I'll admit that this isn't proof that he behaved inappropriately; the appearance of wrongdoing is not the same as actual wrongdoing. ,He has amazing eyebrows
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102111-pk1811-te_blr_2069.jpg"
-image_caption: ""
 ---
 
 Behind a large brown door in Marylebone station are the offices of Chiltern Railways, the UK’s fastest growing train operating company over the past 15 years. A few minutes after being shown into a modest meeting room on the top floor of the building, Adrian Shooter, CBE and Chairman of Chiltern Railways, enters, apologising for the delay.

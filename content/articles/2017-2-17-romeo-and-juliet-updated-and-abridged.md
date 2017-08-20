@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Romeo and Juliet is on at the National Theatre until 24th February
 date: "2017-02-17 15:15:55 +0000"
-
-# Attributes from Felix Online V1
-id: "6793"
-old_path: /arts/6793/romeo-and-juliet--updated-and-abridged
+image: "http://felixonline.co.uk/img/upload/201702171515-felix-ROMEO&JULIET17_0534.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6793/romeo-and-juliet--updated-and-abridged
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - helenmoneykyrle
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702171515-felix-ROMEO&JULIET17_0534.jpg"
-image_caption: ""
 ---
 
 Regardless of whether you're madly in love, or frankly you've had enough of it this week, there's still something inherently appealing about the tragic tale of Romeo and Juliet.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Imperial 1st 2–6 Bath 1st.
 date: "2011-03-03 08:29:49 +0000"
-
-# Attributes from Felix Online V1
-id: "995"
-old_path: /sport/995/-badminton-ladies-lose-to-bath-ending-bucs-cup-hopes
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/995/-badminton-ladies-lose-to-bath-ending-bucs-cup-hopes
-imported: true
 comments:
  - value: >
      I do really hope can find an easy job and earn alot..where can I find those..some born lucky some are not..some born rich some are not..but don't worry, you are the lucky grheucopers~~,Great shots!LOVE the one of her eyes. Not just her eyes (which ARE amazing!) but the<a href="http://pamamtl.com"> lntigihg</a> and exposure and focus are all Just Right. You are getting really good with that camera! :)
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -27,12 +24,6 @@ authors:
  - lbb06
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 We arrived in Bath to lovely sunshine and the picturesque view the city is famous for.

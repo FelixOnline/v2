@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Steve Wozniak, known by many as Woz was the keynote speaker of Apps-World 2013 at Earls Court, London.
 date: "2013-10-30 16:10:51 +0000"
-
-# Attributes from Felix Online V1
-id: "3963"
-old_path: /tech/3963/steve-wozniak-at-apps-world-2013
+image: "http://felixonline.co.uk/img/upload/201310301610-me1711-tech_appsworld-2013.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3963/steve-wozniak-at-apps-world-2013
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - me1711
  - wfd13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310301610-me1711-tech_appsworld-2013.jpg"
-image_caption: ""
 ---
 
 Steve Wozniak, known by many as Woz was the keynote speaker of Apps-World 2013 at Earls Court, London. As a member of the press via my website, I was invited and given a press pass. The whole day was a very surreal experience, basically being treated like a member of royalty as each exhibitor tries to get your attention. For the keynote I got to use the special press area! (The front row in other words!) Being sandwiched between reporters from The Guardian and TechRadar was an interesting experience to say the least!

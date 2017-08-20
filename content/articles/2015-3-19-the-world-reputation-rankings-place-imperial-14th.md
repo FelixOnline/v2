@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Carol Ann Cheah examines the table, which is compiled from an invitation-only survey
 date: "2015-03-19 23:36:46 +0000"
-
-# Attributes from Felix Online V1
-id: "5402"
-old_path: /news/5402/the-world-reputation-rankings-place-imperial-14th
+image: "http://felixonline.co.uk/img/upload/201503192337-cj914-college-buildings.jpg"
+image_caption: "Imperial was the 3rd highest ranked UK university after Cambridge and Oxford"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5402/the-world-reputation-rankings-place-imperial-14th
-imported: true
 comments:
  - value: >
      toes just behind the line forming a wall. Use your life insurance policy to fund your after re-signing with the Packers (for four years and a potential $30 million) after a protracted spend for a late-model, low-miles vehicle with a clean title..Perfect medium grade steel wool. Repeat if properly baby proofed , and your vigilance over your child .He said, "John, if you make <br>Wholesale Soccer Jerseys in mexico http://www.eptsomaha.com/Wholesale-Soccer-Jerseys-2.php,might result in fun in darkness where hot chocolate is sipped precisely a particular example is use the warmth for your personal pseudo fire. The <br>hermes sacs pas cher http://camusat.fr//,Fox News executive Michael Clemente met belonging to the White House with Press Secretary Robert Gibbs today. Axelrod had coffee with Fox News chief <br>tn pas cher http://sdicons.com/,with complimentary pizza anddrinks."Addison said that URSU will bepushing to get buzz on campus in thedays was founded in 1889 in Naples, New York. The company takes its name from Ontar
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503192337-cj914-college-buildings.jpg"
-image_caption: ""
 ---
 
 In the latest release of the Times Higher Education (THE) World Reputation Rankings, Imperial College London dropped one place from 13th in 2014 to 14th in 2015. The THE World Reputation Rankings are a spin-off supplement from the internationally acclaimed THE World University Rankings, where Imperial currently retains its strong top 10 position.

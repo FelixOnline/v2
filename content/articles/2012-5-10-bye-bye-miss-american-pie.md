@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The gang get back together for another slice
 date: "2012-05-10 20:32:39 +0100"
-
-# Attributes from Felix Online V1
-id: "2450"
-old_path: /film/2450/bye-bye-miss-american-pie
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2450/bye-bye-miss-american-pie
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 [__American Reunion__](http://www.imdb.com/title/tt1605630/)

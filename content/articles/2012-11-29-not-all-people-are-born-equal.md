@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Yasser Mahmoud on the recent conflict in Gaza
 date: "2012-11-29 23:12:12 +0000"
-
-# Attributes from Felix Online V1
-id: "3007"
-old_path: /comment/3007/not-all-people-are-born-equal
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3007/not-all-people-are-born-equal
-imported: true
 comments:
  - value: >
      good article Yasser,It's a tragedy that every few years Israel goes unchallenged in its intimidation of the Palestinians in Gaza via its carpet bombing campaigns. The real victims here are the children as shown in this recent conflict, and Israel will very soon lose its credibility if it's allowed to continue with such behaviour. As intellectual students we must all stand up for justice.,Dear anonymous, <br> <br>You commented, "Israel will very soon lose its credibility if it's allowed to..." <br> <br>Are you implying that Israel has credibility at the moment?,Funny how the author talks about wanting peace, but when Gaza attacks it's "fighting back" and when Israel attacks it's a "massacre". <br>Both sides need to stop the violence. Unfortunately Hamas have made it entirely clear that they have no intention of that (i.e. Mashaal's comments about not ceding a single inch and that the violence will continue until all of that land belongs to Palestine). How is it possible to make peace with Hamas if Hamas don't want it? <br>If th
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - ykm09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I’m sat across the table from my friend from Gaza; he only got back a week ago but somehow home has managed to find its way back on the news. In between bites of SCR chicken he tells me about his friends back home. I ask if they’re OK and he nods. Suddenly he remembers that one of his friend’s sisters has died. He tells me that she left behind a baby, a little girl only 14 months old – another orphan and another dead mother. Of course she was Palestinian, nationless and now dead, her only crime to have been born in Gaza.

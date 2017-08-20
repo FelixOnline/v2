@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Hayley Lesserstein tells you how to do ghetto gourmet
 date: "2013-06-20 23:25:45 +0100"
-
-# Attributes from Felix Online V1
-id: "3721"
-old_path: /food/3721/epicly-broke-meal-time---instant-ramen
+image: "http://felixonline.co.uk/img/upload/201306210030-tna08-emt2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3721/epicly-broke-meal-time---instant-ramen
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306210030-tna08-emt2.jpg"
-image_caption: ""
 ---
 
 This week – we get broke from eating out all the time during exams. *SQUAWK* being domestic gods or goddesses, we’re tired. And skint. We don’t got “YouTube money” to blow on real food like Harley and that lot – we need cash for the post-exam booze. So we buy cheap like *SQUAWK* instant ramen and pimp it with *SQUAWK*ing leftovers to silence our *SQUAWK*ing stomachs.

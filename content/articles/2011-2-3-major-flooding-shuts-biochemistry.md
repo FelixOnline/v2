@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Pipe connection failure sends water gushing down through Biochemistry building
 date: "2011-02-03 19:37:37 +0000"
-
-# Attributes from Felix Online V1
-id: "719"
-old_path: /news/719/major-flooding-shuts-biochemistry
+image: "http://felixonline.co.uk/img/upload/201102031934-ks607-floodflo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/719/major-flooding-shuts-biochemistry
-imported: true
 comments:
  - value: >
      Thank you for sharing Ann. I too am short shgtied and have worn specs since I was about 7.........no contact lenses for me, although I did try them once but my eyes were too dry.Thank you for sharing today. I love the fact that you love setting things on fire.....I love sticking things to unusual places...like the soles of my shoes lol I think I mean that I am un untidy crafter who drops things!!!Love and hugsAnnie xxx,Thank you for sharing Ann. I too am short shgtied and have worn specs since I was about 7.........no contact lenses for me, although I did try them once but my eyes were too dry.Thank you for sharing today. I love the fact that you love setting things on fire.....I love sticking things to unusual places...like the soles of my shoes lol I think I mean that I am un untidy crafter who drops things!!!Love and hugsAnnie xxx,600 million is here and there ? I guess what I have a hard time<a href="http://kmbgieob.com"> imgniaing</a>, is how we would cope with the same kind of massive power outa
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102031934-ks607-floodflo.jpg"
-image_caption: ""
 ---
 
 The Biochemistry building has been hit with two serious floods this past week. A failure of a pipe connection to a rooftop water tank is believed to have caused the flood on Thursday morning while a suspected valve failure, or pump malfunction, caused a 6ft flood of water in the sub-basement during the weekend.

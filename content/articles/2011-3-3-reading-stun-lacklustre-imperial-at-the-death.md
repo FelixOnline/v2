@@ -4,16 +4,13 @@ title: >
 subtitle: >
   IC 1st 17 - 20 Reading 1st. Second half Reading fightback leaves Imperial in second place
 date: "2011-03-03 08:23:37 +0000"
-
-# Attributes from Felix Online V1
-id: "992"
-old_path: /sport/992/reading-stun-lacklustre-imperial-at-the-death
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/992/reading-stun-lacklustre-imperial-at-the-death
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - dmw08
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Reading staged a second half fightback to stun Imperial and dash their hopes of topping their league table this season.

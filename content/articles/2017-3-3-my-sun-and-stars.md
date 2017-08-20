@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2017-03-03 15:13:38 +0000"
-
-# Attributes from Felix Online V1
-id: "6843"
-old_path: /science/6843/my-sun-and-stars
+image: "http://felixonline.co.uk/img/upload/201703031513-felix-Star Dust.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6843/my-sun-and-stars
-imported: true
 comments:
  - value: >
      Hey Kate,Looking forward to reading all about it. Could you do me a favor? If you go to the library at MBL, there’s a quote on the wall… something about not always looking at books but going outside. Could you post a pic of it? I liked the quote a lot — especially given the con#8xt&amp;te211; and can’t remember exactly how it goes.Thanks!
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -26,12 +23,6 @@ authors:
  - aranshaunak16
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703031513-felix-Star Dust.jpg"
-image_caption: ""
 ---
 
 Fact: humans are 90% stardust.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   An incredible night of thoughtful rap
 date: "2012-11-09 14:22:30 +0000"
-
-# Attributes from Felix Online V1
-id: "2871"
-old_path: /music/2871/return-of-the-rebels-
+image: "http://felixonline.co.uk/img/upload/201211091420-tna08-immortaltechnique.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2871/return-of-the-rebels-
-imported: true
 comments:
  - value: >
      record, For My Parents, will be released on August 22nd in our ntaive Japan on our new label, Magniph. You can see more here: To celebrate the release, we will be playing these shows in Japan over the next three months:,Most has been commented on <a href="http://jrcyitx.com">alaedry</a> but in case this helps as well.It is a bit confusing as to how the daughter of a dead couple can be immortal? Although fantasy allows for such logic leaps through the specific mechanics of an alternate reality it may be best left out of the logline. May be good to clarify the type of story being either revenge or love based and accordingly change the order of the logline. If it is a revenge story then perhaps start with the inciting incident such as the parents murder and then bring in the hero giving chase imbuing her with motivation to clash with the antagonist. In which case maybe don't mention the love interest, which could very well be the B plot.EG: When her parents murderer is at large a warrior princes seeks revenge t
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091420-tna08-immortaltechnique.jpg"
-image_caption: ""
 ---
 
 So last Thursday i had the good fortune to visit the Electric Brixton for the ‘Return of the Rebels’ tour. The set included Harlem based rappers Swave Sevah, Mazzi, Poison Pen and Dj Static, one of UK’s finest namely Lowkey, and the main event himself was Immortal Technique. Those who know who he is and have heard his music will probably realise that it must have been an incredible gig. And boy it was.

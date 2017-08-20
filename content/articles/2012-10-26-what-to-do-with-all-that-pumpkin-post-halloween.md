@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Yiango Mavrocostanti shows you how to make Pumpkin Soup, while Kevin Ng talks you through Pumpkin Chips and Pumpkin Cake
 date: "2012-10-26 02:51:20 +0100"
-
-# Attributes from Felix Online V1
-id: "2758"
-old_path: /food/2758/what-to-do-with-all-that-pumpkin-post-halloween
+image: "http://felixonline.co.uk/img/upload/201210260351-tna08-pumpkin-soup.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2758/what-to-do-with-all-that-pumpkin-post-halloween
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - felfood
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210260351-tna08-pumpkin-soup.jpg"
-image_caption: ""
 ---
 
 __Pumpkin Soup__

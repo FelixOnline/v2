@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Thomas McFadden isn’t impressed with the caffeine on campus
 date: "2011-05-20 04:26:46 +0100"
-
-# Attributes from Felix Online V1
-id: "1216"
-old_path: /food/1216/please-sir-where-can-i-find-good-coffee
+image: "http://felixonline.co.uk/img/upload/201105200525-felix-kapow-coffee.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1216/please-sir-where-can-i-find-good-coffee
-imported: true
 comments:
  - value: >
      1. Making an espresso shot doesn't involve any water vapour. Hot liquid water is forced through at _high pressure_ through the puck of finely ground coffee. <br> <br>2. "The water must not be boiling so that the beans are not cooked, resulting in the bitter flavour in the espresso." No--nothing to do with boiling! The bitterness in an espresso shot arises when the water takes too long to pass through the puck, resulting in overextraction from the grounds. <br> <br>Two factors affect how long the water takes to pass through the puck: the grind and tamping. For espresso, the beans are ground very finely. The problem with the espresso from the majority of outlets in college is that the baristas tamp the coffee down ridiculously hard and pack loads of coffee in (watch them do it, then go somewhere like Prufock Coffee). Consequently, the water takes ages to get through the puck of grounds and all the bitter flavours are extracted from the coffee. <br> <br>Continued on next comment...,Continued... <br> <br>It's nothing to do with the roa
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105200525-felix-kapow-coffee.jpg"
-image_caption: ""
 ---
 
 Coffee. Most people have tried it, some are addicted to it and at this time of year it is used by many students to help with revision. The coffee bean is one of the biggest agriculture commodities in the world, while the drink is omnipresent in today’s 24 hour culture. Coffee bars are everywhere, as are vending machines offering a hot, sweet, rich tasting beverage for little more than the loose change most of us carry in our pockets.

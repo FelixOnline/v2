@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sometimes artists we love have characters that we don’t. In our new weekly feature, we examine some of the artists whose antics regularly embarrass their fans. Can we separate the music from the artist? First up is German singer, Nico.
 date: "2016-12-09 15:41:34 +0000"
-
-# Attributes from Felix Online V1
-id: "6576"
-old_path: /music/6576/problematic-faves--nico-
+image: "http://felixonline.co.uk/img/upload/201612091541-felix-Nico1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6576/problematic-faves--nico-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ff712
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612091541-felix-Nico1.jpg"
-image_caption: ""
 ---
 
 My problematic fave is the German-born singer Nico, who found fame as a Warhol Superstar, working with The Velvet Underground on their debut album. She then went on to discover the harmonium and make a series of experimental albums that have only recently begun to be recognised for the masterpieces they are. Nico’s work is Gothic in the true sense of the word: her icy, deep vocals, chillingly accented by the sound of slow progressions on the harmonium, feel like a cold wind blowing through the crypt of a cathedral, all dust and rust and power.

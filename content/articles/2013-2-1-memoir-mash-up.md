@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Giulia Gabrielli reads (well, listens) to the best of the celebrity autobiographys
 date: "2013-02-01 00:16:42 +0000"
-
-# Attributes from Felix Online V1
-id: "3224"
-old_path: /books/3224/memoir-mash-up
+image: "http://felixonline.co.uk/img/upload/201302010016-tna08-collage.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3224/memoir-mash-up
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302010016-tna08-collage.jpg"
-image_caption: ""
 ---
 
 I am currently looking through Audible.co.uk. This is the Amazon sister-company dedicated to providing audiobooks to the poor souls, such as myself, that have countless hours of free mental time, and a bank card. But, why do I have all this time? Since starting work at the Centre for Functional Ecology in Montpellier, France, my life has been dedicated to saving Alpine forests from climate change. This has mostly involved weighing hundreds of plant samples, a sciency way of saying leaves. This is a repetitive process that leaves my mind free to wonder and I am not complaining: I study ecology! The task is long and time consuming, but to be honest, it’s not even the first time I have weighed leaves. I am a pro leaf-weigher.

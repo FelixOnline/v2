@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Michael Benson’s photographic journey of the solar system shines at the NHM
 date: "2016-02-12 11:37:08 +0000"
-
-# Attributes from Felix Online V1
-id: "5907"
-old_path: /arts/5907/the-visual-legacy-of-space-exploration
+image: "http://felixonline.co.uk/img/upload/201602121136-felix-1..jpg"
+image_caption: "Saturn, dark side of the rings. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5907/the-visual-legacy-of-space-exploration
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +21,6 @@ authors:
  - av3514
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602121136-felix-1..jpg"
-image_caption: ""
 ---
 
 The latest offering from the Natural History Museum is a photography exhibition titled _Otherworlds_. Like all great collections of art, it aims to intrigue the intellect as well as stir the emotions. In its own words, _Otherworlds_ aims no less than to “embod[y] the symbiosis between art and science”, and “simultaneously reveal the ethereal beauty of far-off worlds and clues to how the solar system…began”.

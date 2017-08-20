@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Charles Betts eventually uncovers the joy of Heston
 date: "2012-01-26 22:51:48 +0000"
-
-# Attributes from Felix Online V1
-id: "2070"
-old_path: /comment/2070/higgs-boson-probably-heston-again
+image: "http://felixonline.co.uk/img/upload/201201262249-felix-heston.jpg"
+image_caption: "NO, LEFT THE CHIPS IN THE OVEN FOR 10ns TOO LONG. WHY ALWAYS ME?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2070/higgs-boson-probably-heston-again
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +22,6 @@ authors:
  - cb403
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201262249-felix-heston.jpg"
-image_caption: ""
 ---
 
 Heston Blumenthal can be a bit pretentious. Take his recipe for green bean salad:

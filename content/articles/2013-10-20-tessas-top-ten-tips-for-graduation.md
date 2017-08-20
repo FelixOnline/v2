@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Comment Editor Tessa Davey gives tips on how to survive Commemoration Day!
 date: "2013-10-20 02:38:45 +0100"
-
-# Attributes from Felix Online V1
-id: "3906"
-old_path: /features/3906/tessas-top-ten-tips-for-graduation
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/3906/tessas-top-ten-tips-for-graduation
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +21,6 @@ authors:
  - tad08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Commemoration Day at Imperial is pretty well labelled, signposted and explained, and it’s pretty difficult to fail to do any of the essential parts. But as with anything else, it’s good to be aware of any potential stumbling blocks so that you can streamline your day. And so as a voice of potentially embarrassing experience, here are some tips that I wish someone had given me.

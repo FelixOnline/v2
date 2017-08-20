@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Our own American Football team smash Brighton Tsunami 12-6
 date: "2015-02-09 19:09:15 +0000"
-
-# Attributes from Felix Online V1
-id: "5219"
-old_path: /sport/5219/immortals-win-on-super-bowl-sunday
+image: "http://felixonline.co.uk/img/upload/201502091909-ps3110-screen-shot-2015-02-09-at-19.09.06.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5219/immortals-win-on-super-bowl-sunday
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - ps3110
  - sjh213
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502091909-ps3110-screen-shot-2015-02-09-at-19.09.06.png"
-image_caption: ""
 ---
 
 Sunday 1st February saw the Immortals take a trip to the seaside to face Brighton Tsunami for the second time in the season. The first time saw the Immortals dominate with a 12-6 win at home. The team all packed onto the coach at 8am for the two-hour drive to Brighton; looking ready to take the second, and most important, win of the season. This game was the most important in the Immortals’ season because it almost certainly decided who would be relegated from the Premiership South division.

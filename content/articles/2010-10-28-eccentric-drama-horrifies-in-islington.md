@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Insti2ute is half theatre and half 'House of Horrors'
 date: "2010-10-28 19:15:10 +0100"
-
-# Attributes from Felix Online V1
-id: "256"
-old_path: /arts/256/eccentric-drama-horrifies-in-islington
+image: "http://felixonline.co.uk/img/upload/201010282007-nm1010-scarykid.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/256/eccentric-drama-horrifies-in-islington
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - wsp10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010282007-nm1010-scarykid.jpg"
-image_caption: ""
 ---
 
 As one of the bigger names on the Edinburgh Fringe Festival scene, Pleasance has nearly 25 years experience in giving highly unconventional productions a stage. Halloween thriller The Insti2ute is no exception to the trend, being poles apart from your West End night out in both setting and, sadly, in substance.

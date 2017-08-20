@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Reasonable food in a fantastic atmosphere to be found in Soho
 date: "2011-11-10 21:58:23 +0000"
-
-# Attributes from Felix Online V1
-id: "1738"
-old_path: /food/1738/place-of-the-week-soho-joe
+image: "http://felixonline.co.uk/img/upload/201111102158-pk1811-pizza.jpg"
+image_caption: "Perfect Pizza... indeed!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1738/place-of-the-week-soho-joe
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +22,6 @@ authors:
  - mh3210
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102158-pk1811-pizza.jpg"
-image_caption: ""
 ---
 
 _Soho Joe is the product of a husband and wife team who both have more than twenty years experience in the catering industry. Open from early morning until late at night, Soho Joe is an exciting new venture situated in the heart of Soho, serving a range of food and drinks at extremely affordable prices._

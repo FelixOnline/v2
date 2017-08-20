@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Aki Matsushima shows you how to impress and indulge your date on the cheap
 date: "2011-02-11 06:56:37 +0000"
-
-# Attributes from Felix Online V1
-id: "803"
-old_path: /food/803/how-not-to-shell-out-for-the-ultimate-luxury-oysters
+image: "http://felixonline.co.uk/img/upload/201102110653-ks607-oysterso.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/803/how-not-to-shell-out-for-the-ultimate-luxury-oysters
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - am709
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102110653-ks607-oysterso.jpg"
-image_caption: ""
 ---
 
 Is there any food more seductive than the oyster, with its shells brimming with succulent juices? Knowing where to look, the classic Valentine’s Day treat for grown-ups is cheaper than you’d think.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   You feeling the post Valentine's blues yet
 date: "2017-02-17 15:59:30 +0000"
-
-# Attributes from Felix Online V1
-id: "6799"
-old_path: /features/6799/love-is-the-drug-you-cant-get-enough-of
+image: "http://felixonline.co.uk/img/upload/201702171559-felix-Screen Shot 2017-02-17 at 15.59.15.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6799/love-is-the-drug-you-cant-get-enough-of
-imported: true
 comments:
  - value: >
      OlÃ¡ a todos ! quero comunicar que jÃ¡ estÃ¡ nos planos da SÃ£o Paulo Dog &amp; Burger futuramente ter uma filial da haigurbuerma em munique. Aguardem !!!!
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -26,12 +23,6 @@ authors:
  - tad08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702171559-felix-Screen Shot 2017-02-17 at 15.59.15.png"
-image_caption: ""
 ---
 
 Let’s be real. Love is a drug. It inhibits our ability to think clearly, turns us into terrible people, and makes us do stupid things. Face it, it’s far more harmful than a few hours gurning at the weekend. But just like with drugs, there are different kinds of highs, and so now, in honour of the just-passed Valentine’s Day, I present you the different people you have fallen in love with, and the associated stupid things they will make you do.

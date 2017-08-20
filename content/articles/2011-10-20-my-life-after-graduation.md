@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Anum Farooq on how getting your degree is just the beginning
 date: "2011-10-20 23:20:37 +0100"
-
-# Attributes from Felix Online V1
-id: "1580"
-old_path: /comment/1580/my-life-after-graduation
+image: "http://felixonline.co.uk/img/upload/201110210020-sjw209-anum-cutout.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1580/my-life-after-graduation
-imported: true
 comments:
  - value: >
      hehehe Anum.. i love your article :). good advice. <br> <br>Im still laughing :D <br> <br>,Heyyyyyyyyyyy!!! WE FOUND YOU!! :D GREAT ARTICLE BTW ;) <br>Happy to see you some where!!!,YESSSSS!!! We found you Anum... ;) <br>It feels good to read your article... <br> <br>May God bless you all the way... Ameen :),great article....,AAAAAAAAnum, <br> <br>School days are the best :) Cross stitching, running on the ground...good times. <br>Strong women :),Great :)
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110210020-sjw209-anum-cutout.jpg"
-image_caption: ""
 ---
 
 This is an irrelevant time of the year for this article. As usual, my timing is wrong (must set a reminder to be in sync with the rest of the herd). Thoughts and hopes of graduation begin to emanate at about early May to late June, sparkly spring seems to set in motion a chain of celebration. Then, reality hits: you still have to get through those exams.

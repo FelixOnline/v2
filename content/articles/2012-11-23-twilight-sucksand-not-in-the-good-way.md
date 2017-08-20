@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Katy Bettany is not impressed with this long and boring end to the saga
 date: "2012-11-23 00:38:35 +0000"
-
-# Attributes from Felix Online V1
-id: "2976"
-old_path: /film/2976/twilight-sucksand-not-in-the-good-way
+image: "http://felixonline.co.uk/img/upload/201211230038-tna08-twilight-breaking-dawn-part-2-plot-twist-spoiler-fight-scene.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2976/twilight-sucksand-not-in-the-good-way
-imported: true
 comments:
  - value: >
      Quite true! Your words of pure truth transformed me from a Twi-tard to a Potterhead. Thank you for rescuing me, helpful person. I am in your debt.,Thank you, thank you. I was a former Twi-tard, yet you rescued me out of it. However may I repay you? I am in forever debt to you, kind person.
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211230038-tna08-twilight-breaking-dawn-part-2-plot-twist-spoiler-fight-scene.jpg"
-image_caption: ""
 ---
 
 The Twilight Saga comes to a much needed close with its final instalment. The main problem with this film is that Meyer’s final book barely contained enough content for one film, let alone two franchise-bleeding epics. Consequently, this film ended up being two hours in which essentially, nothing happened.

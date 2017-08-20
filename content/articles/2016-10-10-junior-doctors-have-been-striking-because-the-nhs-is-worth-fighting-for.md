@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Aaina Mittal explains why junior doctors are striking not for their wallets, but for the future of the NHS.
 date: "2016-10-10 10:37:32 +0100"
-
-# Attributes from Felix Online V1
-id: "6316"
-old_path: /comment/6316/junior-doctors-have-been-striking-because-the-nhs-is-worth-fighting-for
+image: "http://felixonline.co.uk/img/upload/201610101235-felix-22069935418_188fd0efcd_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6316/junior-doctors-have-been-striking-because-the-nhs-is-worth-fighting-for
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610101235-felix-22069935418_188fd0efcd_o.jpg"
-image_caption: ""
 ---
 
 Not only is the economic forecast of the country already in uncertainty post-Brexit, bringing with it the threatened loss of some of the biggest financial companies’ headquarters, but we are also on the verge of setting off along a trajectory of losing one of our most prized possessions – the NHS.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   New Hilary Swank movie reviewed by John Park
 date: "2010-10-28 19:53:29 +0100"
-
-# Attributes from Felix Online V1
-id: "281"
-old_path: /film/281/felix-film-review--conviction
+image: "http://felixonline.co.uk/img/upload/201010282044-ma1307-convicti.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/281/felix-film-review--conviction
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010282044-ma1307-convicti.jpg"
-image_caption: ""
 ---
 
 Director Tony Goldwyn

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Young was more than just a physicist, he also made fortunes in insurance
 date: "2011-11-17 21:02:35 +0000"
-
-# Attributes from Felix Online V1
-id: "1767"
-old_path: /biz/1767/thomas-youngs-entrepreneurial-endeavours
+image: "http://felixonline.co.uk/img/upload/201111172101-pk1811-sir_thomas_young_frs_hi.jpg"
+image_caption: "Thomas Young – the man, the myth, the polymath"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/1767/thomas-youngs-entrepreneurial-endeavours
-imported: true
 comments:
  - value: >
      Thanks for a fascinating article on yet another side of the amazing Thomas Young. I still remember the first time I read Daniel Kline's biography of him and learned that the 'Young' of Young's Modulus in structural engineering and the 'Young' of Young's Fringes in the theory of light were both the same man. Somehow these ceased to be basic terms of physics and engineering - they became links to an extraordinary forgotten genius. Why don't they tell us about these things at school? <br>(A couple of papers about Young's contibution to structural engineering are available on my website www.anbeal.co.uk.),Thanks for helping me to acqiure new suggestions about computer systems. I also have belief that certain of the best ways to keep your laptop computer in primary condition is by using a hard plastic case, or even shell, that will fit over the top of the computer. A majority of these protective gear are model unique since they are made to fit perfectly within the natural casing. You can buy them directly from the v
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172101-pk1811-sir_thomas_young_frs_hi.jpg"
-image_caption: ""
 ---
 
 It was perhaps due to the imperfect knowledge or absolute ignorance humankind had back then that true polymaths could still exist; nowadays, in the age of specialization, it seems almost impossible. But back in the old days, the same person, if gifted and lucky enough, could undertake forefront research in the most diverse areas and make enormous contributions, large enough for their names to be remembered. Thomas Young (1773-1890), a physician by training, was such a polymath.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   MAI and Alice Yang interview fashion’s top activist and All Walks founder Caryn Franklin
 date: "2012-02-16 21:39:22 +0000"
-
-# Attributes from Felix Online V1
-id: "2193"
-old_path: /fashion/2193/embracing-diversity-in-fashion
+image: "http://felixonline.co.uk/img/upload/201202162138-ams111-caryn-blank.jpg"
+image_caption: "All Walks Founder: Caryn Franklin"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/2193/embracing-diversity-in-fashion
-imported: true
 comments:
  - value: >
      Hi Randy — Thanks so much for your comments, and I agree with you. I almost wrote a paragraph on just this, citing both Michael Moore and Rush Limbaugh, but in the interest in keeping the post readable length, I didn’t. The Left is as guilty as the Right in fanning the flames of labeling each other, and I cringe sometimes at what my peeps are saying (although I’m guilty at times of enjoying one-sided views that mirror mine at times, and I’m trying to look at this reaction too and learn from it). But I’m not saying it’s wrong in any way whatsoever to defend your convictions; in fact, I say the opposite: to listen to people with the intention of truly understanding what they’re saying, and here is where I’m thinking of people at the extreme right and extreme left and all over the middle. One thing that’s essential for true dialogue is to listen to each other without the intention of “I’m-right-and-I-will-convince-you” all the time, but inst
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -29,12 +27,6 @@ authors:
  - mai210
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162138-ams111-caryn-blank.jpg"
-image_caption: ""
 ---
 
 A fashion industry expert for over 30 years having co-edited i-D magazine, renowned for its rebellion to conventional views towards art, fashion and music, and presented BBC’s The Clothes Show for over a decade, Caryn Franklin is anything but your ordinary fashion journalist. With no less than four books under her name as well as a range of charitable commitments including Fashion Targets Breast Cancer, and the recently launched All Walks Beyond The Catwalk campaign, Caryn Franklin is an activist, not just in fashion but in regard to the general racial, size and age discrimination that exists in the modern world.

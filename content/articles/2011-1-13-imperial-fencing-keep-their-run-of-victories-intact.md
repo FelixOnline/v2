@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Foilists foiled by University of London team
 date: "2011-01-13 20:21:42 +0000"
-
-# Attributes from Felix Online V1
-id: "579"
-old_path: /sport/579/imperial-fencing-keep-their-run-of-victories-intact
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/579/imperial-fencing-keep-their-run-of-victories-intact
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - cl3510
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It’s a Saturday morning in Cambridge as Imperial Fencing’s first men’s team arrive at the sports venue. Ahead of them lays their first BUCS weekend of the year, with matches against University of Oxford, University of Cambridge, Bristol University and University of London Union (ULU).

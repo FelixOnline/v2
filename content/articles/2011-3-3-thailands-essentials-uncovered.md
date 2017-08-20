@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Chris Richardson overviews this backpacker's Mecca
 date: "2011-03-03 06:27:23 +0000"
-
-# Attributes from Felix Online V1
-id: "990"
-old_path: /travel/990/thailands-essentials-uncovered
+image: "http://felixonline.co.uk/img/upload/201103030622-ks607-fullmoon.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/990/thailands-essentials-uncovered
-imported: true
 comments:
  - value: >
      Koh Phangan is world-famous for its Full Moon parties, with up to 30,000 people partying on the beach in Koh Phangan Resort to share sweat with people from all over the world! The party peaks at sunrise and eventually tapers off in the afternoon, leaving a scene of carnage behind on the beach. Full Moon Parties are chaotic but lots of fun, and generally considered a rite of passage in Southeast Asia. <br>
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103030622-ks607-fullmoon.jpg"
-image_caption: ""
 ---
 
 _The lowdown_: The track is well beaten, but this certainly doesn’t detract from its charm. From the plush northern hills, down through the urban centre through to the islands of paradise, Thailand has something for all.

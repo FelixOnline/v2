@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Two Imperial teams have entered the Summer of Student Innovation competition. This is a competition to fund ideas that use technology that can improve research and education.
 date: "2014-05-23 14:23:50 +0100"
-
-# Attributes from Felix Online V1
-id: "4628"
-old_path: /news/4628/imperial-students-to-take-part-in-summer-of-student-innovation-competition
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4628/imperial-students-to-take-part-in-summer-of-student-innovation-competition
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - nm708
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Two Imperial teams have entered the Summer of Student Innovation competition. This is a competition to fund ideas that use technology that can improve research and education.

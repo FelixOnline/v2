@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Dan Wan hacks away at the new news
 date: "2010-02-12 01:41:40 +0000"
-
-# Attributes from Felix Online V1
-id: "82"
-old_path: /comment/82/oh-hackery
+image: "http://felixonline.co.uk/img/upload/201002131126-felix-BeitQUAD.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/82/oh-hackery
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002131126-felix-BeitQUAD.jpg"
-image_caption: ""
 ---
 
 As Editor of a student newspaper in a student union without any real political agenda, you know these kind of weeks are coming. Those weeks where almost nothing happens of any worth are the ones when you try to prepare for, you think you've prepared for, but when push comes to shove, you haven't really. Well last week was the push, and this week's the callous shove into an oblivion of unfilled and pointless headlines.

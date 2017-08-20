@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Blue Sky Black Death – Noir (2011)
 date: "2011-10-28 10:05:56 +0100"
-
-# Attributes from Felix Online V1
-id: "1636"
-old_path: /music/1636/kadhims-totally-hot-album-of-the-week-4
+image: "http://felixonline.co.uk/img/upload/201110281103-felix-cover.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1636/kadhims-totally-hot-album-of-the-week-4
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110281103-felix-cover.jpg"
-image_caption: ""
 ---
 
 Of all the shit stage-names artists have given themselves in the history of music, ‘[Bono](http://www.youtube.com/watch?v=Eih_ybKdVXU)’ has got to be the worst. But ‘Young God’, one-half of Seattle-based [__Blue Sky Black Death__](http://www.bsbdmusic.com/) (BSBD), is definitely a close second. In fact, if BSBD weren’t so damn fantastic, I’d say he was an arrogant so-and-so (thankfully __U2__’s songs [afford them no such protection](http://www.youtube.com/watch?v=19KstSgU-c0&ob=av2e)).

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Poppy Pinnock: IC vs. Essex
 date: "2012-10-18 21:08:53 +0100"
-
-# Attributes from Felix Online V1
-id: "2690"
-old_path: /sport/2690/the-only-way-is-ic-netball
+image: "http://felixonline.co.uk/img/upload/201210191356-tna08-photo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2690/the-only-way-is-ic-netball
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - fsport
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210191356-tna08-photo.jpg"
-image_caption: ""
 ---
 
 On Wednesday the netball first team played Essex 1’s at home in Ethos to kick off their BUCS season. With only 3 returning members no one was quite sure how the team would perform under match pressure and there were a lot of nerves before the first whistle.

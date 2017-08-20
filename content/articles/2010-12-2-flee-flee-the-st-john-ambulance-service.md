@@ -4,16 +4,13 @@ title: >
 subtitle: >
   They’re like vultures with high-vis jackets
 date: "2010-12-02 21:46:59 +0000"
-
-# Attributes from Felix Online V1
-id: "496"
-old_path: /comment/496/flee-flee-the-st-john-ambulance-service
+image: "http://felixonline.co.uk/img/upload/201012022140-dr910-RhyDavis.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/496/flee-flee-the-st-john-ambulance-service
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - rjd08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022140-dr910-RhyDavis.jpg"
-image_caption: ""
 ---
 
 Before coming to London, my friends and family loaded me up with good advice. A common theme running through these kernels of sagacity was that London is a very dangerous place – something I won’t even try and refute.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   In brief
 date: "2013-02-21 23:47:52 +0000"
-
-# Attributes from Felix Online V1
-id: "3349"
-old_path: /news/3349/asbestos-has-been-found-in-skempton
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3349/asbestos-has-been-found-in-skempton
-imported: true
 comments:
  - value: >
      Unless you breathe the fibres in in large quantities asbestos is no more dangerous than sand, and should certainly not be described as "highly toxic". In particular, asbestos in building materials is very likely to be locked into a cement matrix which makes it pretty much harmless. The correct way to deal with asbestos is to leave it alone and mark it so that no unsuspecting builder drills through it. This is almost certainly what the uni Asbestos Management Plan entails.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Recently released [College Council minutes](https://workspace.imperial.ac.uk/secretariat/Public/Minutes/Council/Council%20Minutes%2025%20Sept%202012.pdf) from last September have revealed the discovery of asbestos in the Skempton Building. The material, which is no longer used in construction, is highly toxic and leads to a range of respiratory illnesses.

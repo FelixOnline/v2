@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Bernadett Tildy interviews Felix’s favourite DPE
 date: "2014-11-10 23:29:11 +0000"
-
-# Attributes from Felix Online V1
-id: "4852"
-old_path: /features/4852/pascal-loose-deputy-president-education-is-here-to-give-students-the-satisfaction-they-deserve
+image: "http://felixonline.co.uk/img/upload/201411102329-ps3110-dpe_by_tlim-for-site.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4852/pascal-loose-deputy-president-education-is-here-to-give-students-the-satisfaction-they-deserve
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102329-ps3110-dpe_by_tlim-for-site.jpg"
-image_caption: ""
 ---
 
 __Bernadett: Where are you from?__

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Shaul Rosten explains why Donald Trump’s candidacy isn’t much of a surprise after all
 date: "2016-10-28 14:59:56 +0100"
-
-# Attributes from Felix Online V1
-id: "6350"
-old_path: /comment/6350/the-donald-was-not-created-in-a-vacuum
+image: "http://felixonline.co.uk/img/upload/201610311321-felix-8566718339_12e9bed54f_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6350/the-donald-was-not-created-in-a-vacuum
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - shaulsimmonds
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610311321-felix-8566718339_12e9bed54f_o.jpg"
-image_caption: ""
 ---
 
 Donald Trump is, as a bullyish toddler of a man, a hugely amusing individual. Except, perhaps, to those in the US whose lives may be a little more impacted by his caricature lunacy.

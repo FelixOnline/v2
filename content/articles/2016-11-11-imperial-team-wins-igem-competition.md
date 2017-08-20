@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The team's project 'Ecolibrium' not only landed them the Gold Medal but five other major prizes.
 date: "2016-11-11 11:50:30 +0000"
-
-# Attributes from Felix Online V1
-id: "6415"
-old_path: /news/6415/imperial-team-wins-igem-competition
+image: "http://felixonline.co.uk/img/upload/201611111140-so515-newseventsimages.jpeg"
+image_caption: "Wooh! Science!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6415/imperial-team-wins-igem-competition
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - mjj15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611111140-so515-newseventsimages.jpeg"
-image_caption: ""
 ---
 
 Imperial triumphed at the International Genetically Engineered Machine (iGEM) competition in Boston last week, with their project ‘Ecolibrium’ beating almost 300 other undergraduate teams from around the globe.

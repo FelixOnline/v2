@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The concrete colossus captures the optimism of the architechural era
 date: "2016-05-13 08:53:42 +0100"
-
-# Attributes from Felix Online V1
-id: "6147"
-old_path: /comment/6147/reflections-on-the-barbican-estate
+image: "http://felixonline.co.uk/img/upload/201605131053-felix-Barbican Estate Today - Michael Shaw.jpg"
+image_caption: "Shafts of light astride weathered concrete columns: The Barbican Estate today. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6147/reflections-on-the-barbican-estate
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +21,6 @@ authors:
  - haljabir
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605131053-felix-Barbican Estate Today - Michael Shaw.jpg"
-image_caption: ""
 ---
 
 Friends of mine will know that I have a great affinity for F. Scott Fitzgerald’s _The Great Gatsby_. His timeless exposé of the superficiality of the nouveau riche and the upper classes, examined in cinematic description, is simply breath-taking, with a message that is as pertinent today as in the contemporary era. Though the book is more usually associated with love and materialism, the spectacular and haunting descriptions at the close of the novel shed light on failed aspirations; something which I encountered myself not too long ago.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fiona Calcutt has some timely advice for those times behind the sofa
 date: "2011-10-27 22:02:01 +0100"
-
-# Attributes from Felix Online V1
-id: "1614"
-old_path: /film/1614/five-films-to-watch-on-halloween-if-youre-a-massive-wuss
+image: "http://felixonline.co.uk/img/upload/201110272300-felix-11-ffilm2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1614/five-films-to-watch-on-halloween-if-youre-a-massive-wuss
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ffilm
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110272300-felix-11-ffilm2.jpg"
-image_caption: ""
 ---
 
 So, it’s Halloween and your friends suggest you have a group trip to the cinema to watch [Paranormal Activity 3](http://www.youtube.com/watch?v=90r3CnPI0AM&ob=av3e). There’s just one problem: last time you watched a scary film, it was [The Ring](http://www.youtube.com/watch?v=TuH5FaUpFm4) when it came out on DVD ten years ago, and despite watching it in the middle of the day you still shat yourself. Have no fear! Here’s a list of ‘safe films’ for utter wimps like you.

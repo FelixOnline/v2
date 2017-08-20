@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The relationship between scientists, the media and the public is fraught with the dangers of miscommunication and exploitation. The question of where the responsibility must lie when a patient becomes a victim is not easily answered. This is particularly true of fertility research, an area that...
 date: "2013-10-11 23:15:10 +0100"
-
-# Attributes from Felix Online V1
-id: "3825"
-old_path: /science/3825/hype-hope-and-headlines
+image: "http://felixonline.co.uk/img/upload/201310120014-jal08-fertility_02_panorama2_tcm1113_64957.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3825/hype-hope-and-headlines
-imported: true
 comments:
  - value: >
      After 3 failed cleycs using Clomid, my OB referred me to Dr. Gago. We determined that I was not ovulating on my own (because no follicles were maturing) and would need to use injectible follicle stimulating meds. My body did not respond easily to the medication too much medicine would cause too many of the follicles to respond at once; too little would have no effect at all so each cycle meant anywhere from 10 to 20 days of injections at different dosages and daily trips to the clinic for ultrasounds to check on follicular growth and hormone levels to see what the next day's dose would be. Everyone at Dr. Gago's office was so wonderful my emotions were all over the place, but they did everything they could to be encouraging and supportive. I especially have to thank Jenny and Laurelle, the ultrasound techs, for keeping my spirits up through every long cycle. After several attempts with injectibles and regular intercourse, we moved on to several attempts at IUI, which were not successful. At that point we knew
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - jr1709
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310120014-jal08-fertility_02_panorama2_tcm1113_64957.jpg"
-image_caption: ""
 ---
 
 The relationship between scientists, the media and the public is fraught with the dangers of miscommunication and exploitation. The question of where the responsibility must lie when a patient becomes a victim is not easily answered. This is particularly true of fertility research, an area that touches on one of the most profound aspects of all our lives.

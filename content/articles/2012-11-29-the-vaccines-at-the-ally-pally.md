@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Mark England find a band who can inspire young and old alike
 date: "2012-11-29 22:58:07 +0000"
-
-# Attributes from Felix Online V1
-id: "2996"
-old_path: /music/2996/the-vaccines-at-the-ally-pally
+image: "http://felixonline.co.uk/img/upload/201211292257-tna08-vaccines.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2996/the-vaccines-at-the-ally-pally
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211292257-tna08-vaccines.jpg"
-image_caption: ""
 ---
 
 Wandering around the large and looming Alexandra Palace, simultaneuosly trying to avoid drunky, lairy forty year old men who wanted to “ave it large” while attempting not to trip over the large number of excited teenage girls scurrying about, it became blindingly obvious how much of a big deal The Vaccines have become. Few bands at the moment could captivate such a diverse crowd whilst releasing a new album, which although not revolutionary, provided a darker, more sinister step up from their wide-eyed debut.

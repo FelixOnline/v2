@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Max Eggl tells the tale of Imperial Chess Heros’ campaign in the land of Freedom. Ah, ‘Murica
 date: "2013-10-12 23:57:26 +0100"
-
-# Attributes from Felix Online V1
-id: "3874"
-old_path: /features/3874/hardcore-pawn-ic-chess-takes-the-americas-by-storm-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/3874/hardcore-pawn-ic-chess-takes-the-americas-by-storm-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +21,6 @@ authors:
  - me1711
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 After a very successful year dominating British chess, the British Uni and London Uni Champions (your resident chess team) decided that they needed a new challenge. So when ex-President Sam “Sporter” Porter began organizing the trip to the US, a lot of excitement and anticipation started to arise. With big names like Princeton and Columbia on the menu, Imperial Chess was really looking forward to making a name for themselves out there in the land of opportunity. In fact we set out with a very strong team with big ambitions, including our own FIDE Master (FM) Ryan Griffiths and El Presidente Arijit Gupta.

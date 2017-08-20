@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alexandru Podgurschi sees history repeating itself
 date: "2011-06-16 20:17:06 +0100"
-
-# Attributes from Felix Online V1
-id: "1390"
-old_path: /biz/1390/a-new-tech-bubble
+image: "http://felixonline.co.uk/img/upload/201106162117-felix-linkedinipo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/1390/a-new-tech-bubble
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -24,12 +21,6 @@ authors:
  - ap7110
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106162117-felix-linkedinipo.jpg"
-image_caption: ""
 ---
 
 You might have still been running around your primary school grounds in the late 1990s, but the Internet was about to witness its largest market revolution. While Silicon Valley has seen its fair share of bubbles over the last decade, the [dot-com bubble](http://en.wikipedia.org/wiki/Dot-com_bubble) that marked the turn of the century was probably the most significant. Now economists warn us that a new bubble may threaten the stability of Internet-based companies: the initial public offering (IPO) bubble. And the first company to define it is [LinkedIn](http://www.linkedin.com/).

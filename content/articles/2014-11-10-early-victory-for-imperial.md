@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Imperial Cross Country and Athletics Club take on other London Colleges and come out on top
 date: "2014-11-10 22:01:21 +0000"
-
-# Attributes from Felix Online V1
-id: "4834"
-old_path: /sport/4834/early-victory-for-imperial
+image: "http://felixonline.co.uk/img/upload/201411102201-ps3110-olley%20win%20crop.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4834/early-victory-for-imperial
-imported: true
 comments:
  - value: >
      DÃ¡vate ako kritÃ©rium vzdialenosÅ¥ do prÃ¡ce, ktorÃº si veÄ¾kÃ¡ vÃ¤ÄÅ¡ina zvoliÅ¥ nemÃ´Å¾e, ale konkrÃ©tny druh dopravy Ã¡no (a/lt-uorotejbus, bicykel, peÅ¡o) a toto sa bodovo nezohÄ¾adÅˆuje. A i keÄ rozumiem filozofii preÄo nie, pri finÃ¡lnom hodnotenÃ­ by pri rovnosti bodov mohol byÅ¥ zvÃ½hodnenÃ½ sÃºÅ¥aÅ¾iaci, ktorÃ½ sa v najvÃ¤ÄÅ¡ej miere prepravoval sÃ¡m. Na tie km sa niekto mÃ´Å¾e pozeraÅ¥ aj cez optiku, Å¾e ekologickejÅ¡Ã­ je predsa ten, kto mÃ¡ prÃ¡cu bliÅ¾Å¡ie a minie na presun menej energie.
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102201-ps3110-olley%20win%20crop.jpg"
-image_caption: ""
 ---
 
 It was cold and windy last Wednesday afternoon when 25 members of the Imperial Cross Country and Athletics Club arrived at Hampstead Heath to take on the other London Colleges in the first Cross Country race of the season: Parliament Hill.

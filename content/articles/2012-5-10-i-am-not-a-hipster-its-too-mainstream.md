@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Being a hipster is not a black and white situation
 date: "2012-05-10 20:10:44 +0100"
-
-# Attributes from Felix Online V1
-id: "2443"
-old_path: /comment/2443/i-am-not-a-hipster--its-too-mainstream
+image: "http://felixonline.co.uk/img/upload/201205102110-pk1811-nathanbarley.jpg"
+image_caption: "Well fucking Mexico yeah. That’s a Nathan Barley reference, you’ve probably never heard of it"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2443/i-am-not-a-hipster--its-too-mainstream
-imported: true
 comments:
  - value: >
      I know that, but I want people to like the things I like. <br> <br>The fact you're honest about this is the only thing in the entire comment piece that would convince me that you're not a hipster. Hipsters are most annoying when trying to introduce you to something by dismissing it in fromt of your face. And denying that they're hipsters.,You start off reasonably well. Yes, the act of doing something only BECAUSE it is out of the ordinary is stupid. <br> <br>You then go on to explain that you just happen to diverge from the mainstream, but don't do so intentionally. Sure, why not. I can only agree with that, it seems like the most reasonable position to hold. <br> <br>It's when you dedicate 4 paragraphs to your inane qualms with the lowest-common-denominator excuses for popular entertainment that you lose me. <br>Do you seriously think that not liking Harry Potter qualifies as "fighting against the current"? <br>Do you think there's anything venerable in simply shrugging your shoulders and going "meh", and not reading / watching any
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - rjd08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205102110-pk1811-nathanbarley.jpg"
-image_caption: ""
 ---
 
 Firstly, let me clarify – I am not a hipster.

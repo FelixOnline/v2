@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Planning application proposes conversion of Fisher Hall to care homes for the elderly
 date: "2011-01-13 21:45:23 +0000"
-
-# Attributes from Felix Online V1
-id: "595"
-old_path: /news/595/uncertain-future-for-evelyn-gardens-
+image: "http://felixonline.co.uk/img/upload/201101132143-ks607-fisherha.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/595/uncertain-future-for-evelyn-gardens-
-imported: true
 comments:
  - value: >
      However, Jane Neary denied that Fisher Hall was sub-standard saying: “It’s not that [the hall isn’t] good enough, it’s completely legal, they’re all completely legal. […] We’ve done all the urgent work.” <br> <br>when you have to defend something with "it's legal" then you're clearly on shaky ground...,I don't see why investing for the next 38 years doesn't make sense. They'd need refurbishing again within 15-20 years anyway.,In defence of the college, they'd practically have to rebuild Fisher to get it up to scratch, which really doesn't make sense for only about 30-40 years (they said EIGHT figure sum. That's not just a lick of paint). I also like the idea of looking for accommodation further away from the college - you really don't *need* to live walking distance away from the college, and you'll do it in 2nd year anyway (unless you're rich in which case there's no problem)! <br> <br>This is all assuming that the college follows through on its promises. Frankly, I can see them saying "fuck it, just pay
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101132143-ks607-fisherha.jpg"
-image_caption: ""
 ---
 
 The long-term future of student accommodation in the Evelyn Gardens area is currently under review, with the high cost of necessary refurbishment likely to mean the closure of halls such as Fisher. The uncertainty comes as Imperial is reviewing all areas of its accommodation provision including the wardening system and an investigation by Facilities Management into state of repair of all halls. The Director of Commercial Services, Jane Neary, stressed that the College is committed to providing accommodation for 1st year students and that the halls would remain open for the foreseeable future, until they could be replaced.

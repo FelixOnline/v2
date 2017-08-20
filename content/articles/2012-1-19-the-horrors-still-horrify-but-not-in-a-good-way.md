@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lily Le is left disappointed by their live "offering"
 date: "2012-01-19 21:08:10 +0000"
-
-# Attributes from Felix Online V1
-id: "2027"
-old_path: /music/2027/the-horrors-still-horrify-but-not-in-a-good-way
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2027/the-horrors-still-horrify-but-not-in-a-good-way
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - cac111
  - lwl09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The most offensive thing __The Horrors__ have probably ever done is release _Strange House_. The best thing they have ever done would have to be a toss-up between recognising this embarrassment and recording _Sea within a Sea_. What lies inbetween was the live show I attended.

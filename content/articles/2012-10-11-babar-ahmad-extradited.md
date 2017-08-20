@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Former Imperial employee now in USA. High Court refused last minute application
 date: "2012-10-11 20:19:43 +0100"
-
-# Attributes from Felix Online V1
-id: "2638"
-old_path: /news/2638/babar-ahmad-extradited
+image: "http://felixonline.co.uk/img/upload/201210112119-felix-barbar.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2638/babar-ahmad-extradited
-imported: true
 comments:
  - value: >
      Stop making this editor's bias your front page.,That's a rather unfair comment. Given that Babar was a member of Imperial College London staff and was arrested on-campus by anti-terror police, it's an incredibly relevant story for Felix to be covering. Maybe it's more relevant to the staff who knew Babar than new Freshers who don't have a clue who he is, but it is still incredibly relevant... even before you consider the fact that he was brutally beaten up by police upon his arrest and held without charge for over eight years. <br> <br>My only criticism of the editor would be that the article doesn't make any mention of this what-so-ever, leading to "Who cares?" being left without any reason to believe that the article is at all relevant to the students and staff of Imperial.,How about doing a tiny bit of research before randomly slandering the editor?,This editor 'Reza' continually uses Felix as a forum for her political views having contributed to more than 5 posts of this detainee alone. <br> <br>Let the courts decide
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ar3310
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112119-felix-barbar.jpeg"
-image_caption: ""
 ---
 
 Babar Ahmad has been extradited to the United States after the High Court refused to review his case. Last month, the European Court of Human Rights (ECHR) gave its final approval for the extradition. At a federal district court hearing in New Haven, Connecticut, Babar Ahmad pleaded not guilty and is currently in custody.

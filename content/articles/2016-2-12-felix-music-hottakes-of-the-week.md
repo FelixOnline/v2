@@ -4,16 +4,13 @@ title: >
 subtitle: >
   What is a hot take?
 date: "2016-02-12 11:55:39 +0000"
-
-# Attributes from Felix Online V1
-id: "5914"
-old_path: /music/5914/felix-music-hottakes-of-the-week
+image: "http://felixonline.co.uk/img/upload/201602121154-felix-lilly.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5914/felix-music-hottakes-of-the-week
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - cet13
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602121154-felix-lilly.jpg"
-image_caption: ""
 ---
 
 In a tweet that would probably enrage most Imperial students, Allen’s response to the Education Minister asked the same question school children have been asking for years. She’s right that a lot of people are unlikely to ever use  the maths or science they learnt at school in real life, but the same could be said for P.E. I haven’t got off my fat arse and  done any real physical exercise for years.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   “You better watch out. You better not cry. Better not pout, I’m telling you why: Santa Claus is coming to town. He’s making a list, checking it twice. He’s gonna find out who’s naughty or nice. Santa Claus is coming to town!”
 date: "2013-12-02 21:46:35 +0000"
-
-# Attributes from Felix Online V1
-id: "4153"
-old_path: /comment/4153/on-the-naughty-list
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4153/on-the-naughty-list
-imported: true
 comments:
  - value: >
      Do you have any idea how ridiculous this sounds?,am i good or bad but i want to know mesige my dad ifyou can,Cool,I will listen to people I will do my homework every day I will take my Medicine every day,i think i been bad but i just want to be good but it won't happen i tell you i even tell god to that i want to be have please i just want to be have i hope i can get all of presants from your elfs and i think that they are rally nice to you and i just want to be nice to you and to my parents.,you better watch out. you better not cry.better not pout.i am telling you why.santa is comeing to town.he's making a list cheking it twice.he's going to find out who's noughty and nice.santa claus is comeing to town.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Whether naughty or nice, all are warmly welcome to the Imperial Christians’ Carol Service on December 6th in Holy Trinity with All Saints Church at 6PM.

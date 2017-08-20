@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The Switch made the news for its innovation but is it any good? Cale Tilford dishes on its performance
 date: "2017-03-17 17:31:54 +0000"
-
-# Attributes from Felix Online V1
-id: "6919"
-old_path: /games/6919/my-first-week-with-switch
+image: "http://felixonline.co.uk/img/upload/201703171731-felix-screen-shot-2016-10-20-at-10-07-34-am.jpg"
+image_caption: "Technology: helping to put people either with each other or against each other"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/6919/my-first-week-with-switch
-imported: true
 comments:
  - value: >
      I don't have a clue ! <br>best madden 17 coins mobile coins supplier http://www.madden-store.com,That makes two of us. <br>buy pokemon go rare pokemon http://www.pokemonbux.com,Leave me alone ! <br>albion online gold https://www.followone.com/blog/3793/albion-craft-creating-procedure-and-also-items,I let myself become a fool . <br>dofus touch kamas http://dofustouch.thezenweb.com/Using-The-New-Year-Gift-Code-To-Get-A-Snow-Bow-Meow-In-Dofus-Touch-3838199,Proud of you . <br>Albion Online Power Leveling http://rsmoneysell.com/choose-upalbion-as-the-safest-place-to-buy-cheap-albion-online-gold/
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -26,12 +24,6 @@ authors:
  - cet13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171731-felix-screen-shot-2016-10-20-at-10-07-34-am.jpg"
-image_caption: ""
 ---
 
 The first thing I did after unboxing my Nintendo Switch was to lick the game cartridge. Videos of games and tech journalists doing the same went viral during the week of the Switch’s launch after Jeff Gertsmann of Giant Bomb discovered their bitter aftertaste. However, the taste serves a purpose beyond internet virality: Nintendo coats them with a “bittering agent” to stop young children from accidentally swallowing the micro sized games. The Switch certainly isn’t a console for kids. It’s not foldable, small, and easily carriable like the 3DS and it doesn’t follow playful design of the GameCube, Wii, or even Wii U. The console looks and feels like a device built for adults (unless you buy the garish neon colour option).

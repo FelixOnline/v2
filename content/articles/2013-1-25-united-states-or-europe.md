@@ -4,18 +4,15 @@ title: >
 subtitle: >
   We need more, not less European integration. Much, much more.
 date: "2013-01-25 01:46:31 +0000"
-
-# Attributes from Felix Online V1
-id: "3184"
-old_path: /comment/3184/united-states-or-europe
+image: "http://felixonline.co.uk/img/upload/201301250146-tna08-map-of-europe.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3184/united-states-or-europe
-imported: true
 comments:
  - value: >
      Dear Pietro and Felix Editors, <br>I would like to comment on a tragic mistake in the picture of this article, which is also included in the printed version. In the picture one would think that all the countries that are supposed to be in the Europe region are coloured, however, the small country of Cyprus is not coloured, while an active member of the European Union, holding the presidency last year. Also another tragic mistake of the picture is that the country of Turkey, which is not a member of the European Union is displayed in colour. You might say that I am overreacting, however if you are trying to be politically aware, you have to do it correctly. Turkey cannot enter the EU at the moment because it illegally occupies a 36% of land in Cyprus after the illegal Turkish invasion in the island in 1974. There were many deaths and also thousands of refugees including my father and also relatives of many other students at Imperial, hence mistakes like this cannot be accepted.,Dear Renos, <br>I speak for myself in
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301250146-tna08-map-of-europe.jpg"
-image_caption: ""
 ---
 
 One of the most baffling things I’ve come across constantly when talking to British people is their use of the word “European” to mean “Beyond The Channel”, as if sharing strong political, historical, geographical, economic and cultural ties weren’t enough to make the UK part of the continent. Rule Britannia, God Save The Queen, and all of that, but isn’t it time to put the nostalgia for the 19th century away in favour of some common sense?

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Lauren Ratcliffe on converting waste carbon dioxide into useful materials
 date: "2015-03-13 00:39:34 +0000"
-
-# Attributes from Felix Online V1
-id: "5385"
-old_path: /science/5385/methods-developed-at-imperial-could-make-burning-fossil-fuels-guilt-free-
+image: "http://felixonline.co.uk/img/upload/201503130040-cj914-ferrybridge-powerstation---photoshopped-.jpg"
+image_caption: "Ferrybridge Powerstation, UK, where the experiments took place"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5385/methods-developed-at-imperial-could-make-burning-fossil-fuels-guilt-free-
-imported: true
 comments:
  - value: >
      Hello! <br>If you need Cephalexin, you must view http://cephalexin.name/ website. <br>keflex 500mg dosage, cephalexin 500mg capsule antibiotic|cephalexin for dogs|cephalexin 500 mg side effects|cefalexin|keflex 500mg cephalexin|cephalexin 500 mg capsule|what is cephalexin used for|cephalexin 500mg|cephalexin side effects|what is cephalexin|cephalexin 500 mg|keflex|cephalexin 500|cephalexin 250 mg|antibiotic cephalexin|cephalexin antibiotic|cephalex|side effects of cephalexin|cephalexin keflex|keflex antibiotic|keflex 500 mg|cefalexina 500 mg|cephalexin 500mg capsule antibiotic for dogs|teva cephalexin|cephalexin 500 mg capsule for dogs|cephalexin 250 mg for dogs|cephalexin 500 mg capsules|cephalexin brand name|cefalexina|keflex medication|keflex side effects|what is keflex|generic for keflex|keflex 500 mg side effects|keflex capsules 500mg what is it used for|keflex 500|keflex dosing|keflex 500mg|keflex generic|kefalex|pill|side effects of keflex|keflex dosage|identify pill|ceflex|keflex 500mg dosage|keflex aller
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - ltr11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503130040-cj914-ferrybridge-powerstation---photoshopped-.jpg"
-image_caption: ""
 ---
 
 If we are to avoid further aggravating climate change we need to find a way to store or transform the hundreds of billions of tonnes of carbon dioxide produced by power stations worldwide into something useful. A team at Imperial’s Department of Chemistry have done just this. Working with the spin-off company, Econic Technologies, they have developed a cleaner way to produce valuable materials from waste carbon dioxide and are bringing it to the market.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Joshua Renken on the protests across the country, and how the biggest are yet to come
 date: "2015-05-15 12:38:26 +0100"
-
-# Attributes from Felix Online V1
-id: "5534"
-old_path: /news/5534/anti-austerity-riots-break-out-in-whitehall-and-beyond
+image: "http://felixonline.co.uk/img/upload/201505151337-cj914-whitehallriots.jpg"
+image_caption: "Thousands took to the streets in peaceful anti-austerity demonstrations, but riots persisted"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5534/anti-austerity-riots-break-out-in-whitehall-and-beyond
-imported: true
 comments:
  - value: >
      Great looking web site. Presume you did a great deal of your very ownyour very own html coding <br>nba 2k17 coins http://ibadanland.org/myblog/index.php?blog=FUTCOINS
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - jr2514
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505151337-cj914-whitehallriots.jpg"
-image_caption: ""
 ---
 
 Hundreds of anti-austerity protesters took part in impromptu protests across the UK on Saturday, with a London rally starting outside the Conservative Party headquarters.

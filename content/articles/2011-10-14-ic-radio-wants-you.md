@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Aislinn Hayes tunes in as new Station Manager
 date: "2011-10-14 00:03:01 +0100"
-
-# Attributes from Felix Online V1
-id: "1531"
-old_path: /music/1531/ic-radio-wants-you
+image: "http://felixonline.co.uk/img/upload/201110140100-felix-screen-shot-2011-10-12-at-13.43.41.png"
+image_caption: "Now in Technicolour! IC Radio keeping current in 1986"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1531/ic-radio-wants-you
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +23,6 @@ authors:
  - icr
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110140100-felix-screen-shot-2011-10-12-at-13.43.41.png"
-image_caption: ""
 ---
 
 When I got elected as station manager of IC Radio for the coming year, many people were surprised… including myself! I stood a clueless (albeit enthusiastic) fresher whose first suggestion to get the station on FM airwaves was very swiftly shot down (An on-air radio license in the middle of London? Good one, fresher!). Honestly, I don’t know how I got elected – I remember saying the phrase “I’m charming, so vote for me”. Must be the Irish accent that made that statement seem endearing rather than obscenely obnoxious. Anyway, I can tell you now, that despite being barraged with hundreds of emails, being station manager of a student radio station really is as awesome as it sounds.

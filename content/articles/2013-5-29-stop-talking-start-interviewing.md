@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ananya Das interviews Sháá Wasmund, the author of Stop Talking, Start Doing: A Kick in the Pants in Six Parts
 date: "2013-05-29 14:34:24 +0100"
-
-# Attributes from Felix Online V1
-id: "3630"
-old_path: /biz/3630/stop-talking-start-interviewing
+image: "http://felixonline.co.uk/img/upload/201305291616-tna08-shaa_wasmund.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/3630/stop-talking-start-interviewing
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305291616-tna08-shaa_wasmund.jpg"
-image_caption: ""
 ---
 
 __Ananya Das: You have a fantastic entrepreneurial career, have there been moments when you needed ‘A Kick in the Pants’ similar to in Stop Talking, Start Doing? If so, who or what did you turn to for a bit of encouragement or motivation?__

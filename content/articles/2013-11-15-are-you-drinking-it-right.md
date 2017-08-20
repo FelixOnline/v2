@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Researchers conclude that coffee first thing in the morning might not be as effective as you thought
 date: "2013-11-15 11:41:45 +0000"
-
-# Attributes from Felix Online V1
-id: "4086"
-old_path: /food/4086/are-you-drinking-it-right
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/4086/are-you-drinking-it-right
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - ykc111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The coursework season has descended at Imperial - many of us are spending endless hours at the library. No matter if you are writing up your research project on rotor stator disk rim sealing, a model of the thermal structure of the North American lithosphere, or an essay answering the question “What is a gene?”, you are probably looking for ways to top up your body’s caffeine level every now and then. If you want to make the most of your tea / coffee / Redbull / Monster, you might want to read on.

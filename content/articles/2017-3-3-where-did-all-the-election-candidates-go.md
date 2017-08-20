@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Could marketing efforts be behind poor nomination numbers?
 date: "2017-03-03 14:15:41 +0000"
-
-# Attributes from Felix Online V1
-id: "6834"
-old_path: /news/6834/where-did-all-the-election-candidates-go
+image: "http://felixonline.co.uk/img/upload/201703031415-felix-leadership elections.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6834/where-did-all-the-election-candidates-go
-imported: true
 comments:
  - value: >
      Thought it wo'ulndt to give it a shot. I was right.,Thought it wo'ulndt to give it a shot. I was right.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ea3211
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703031415-felix-leadership elections.png"
-image_caption: ""
 ---
 
 A lukewarm candidate turnout marks the beginning of this year’s Leadership Elections, as revealed by the publication of the manifestos earlier last Monday, after nominations closed on Sunday.

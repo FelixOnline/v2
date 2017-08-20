@@ -4,16 +4,13 @@ title: >
 subtitle: >
   French gourmet named UN heritage
 date: "2010-12-02 21:00:06 +0000"
-
-# Attributes from Felix Online V1
-id: "483"
-old_path: /food/483/some-like-it-haute
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/483/some-like-it-haute
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - cb403
  - nm1010
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Italy may be home to the greatest number of UNESCO World Heritage Sites in the world, however, as of last week the French can boast pipping the Italians to arguably the most questionable of awards ever granted by the United Nations’ cultural organisation. The French multi-course gastronomic meal has been named to the Convention of Intangible Cultural Heritage.

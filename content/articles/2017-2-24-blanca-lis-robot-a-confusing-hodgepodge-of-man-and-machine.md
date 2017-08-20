@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Blanca Li's show mixes human dancers with robot androids, but its message seems unclear
 date: "2017-02-24 17:25:11 +0000"
-
-# Attributes from Felix Online V1
-id: "6833"
-old_path: /arts/6833/blanca-lis-robot--a-confusing-hodgepodge-of-man-and-machine-
+image: "http://felixonline.co.uk/img/upload/201702241722-ff712-04.jpg"
+image_caption: "Blanca Li Dance Company, Robot"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6833/blanca-lis-robot--a-confusing-hodgepodge-of-man-and-machine-
-imported: true
 comments:
  - value: >
      Imiresspve brain power at work! Great answer!
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
  - scc114
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702241722-ff712-04.jpg"
-image_caption: ""
 ---
 
 There is little doubt that technology has pervaded every inch of our modern lives. From people plugged in on their daily commutes, to the seas of smartphones at concerts, we seem to be constantly immersed in gadgetry. But is that a good or bad thing? This question has become something of a hot topic in recent months, with shows such as _Westworld_ and _Black Mirror_ exploring the darker consequences of a future dominated by technology. Choreographer Blanca Li takes a more playful approach with _Robot,_ a production filled with dancers both human and humanoid.

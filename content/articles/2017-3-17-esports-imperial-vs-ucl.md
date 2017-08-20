@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Two of London’s universities go head to head in an all-day battle for glory on the small screens
 date: "2017-03-17 17:29:34 +0000"
-
-# Attributes from Felix Online V1
-id: "6917"
-old_path: /features/6917/esports--imperial-vs-ucl
+image: "http://felixonline.co.uk/img/upload/201703171729-felix-thumbnail_DSC_0008.jpg"
+image_caption: "et that APM (actions per minute you noob!) just right"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6917/esports--imperial-vs-ucl
-imported: true
 comments:
  - value: >
      look great today. <br>cheap madden 17 coins mobile coins buy http://www.madden-store.com,I'll be there for you . <br>cheap albion online gold http://www.ifl-forum.com/blog-e15720-Tips-On-How-To-Obtain-A-Lot-More-Methods-Along-With-Strategies-Inside-Albion.html,You started it ! <br>pokemonbux pokemon go rare pokemon online store http://www.pokemonbux.com,youre really talented. <br>buy cheapest Dofus Touch Kamas http://collabfamilylawsurrey.co.uk/forum/forum_posts.asp?TID=48825&amp;PN=1&amp;TPN=1,Proud of you . <br>buy Albion Online Gold http://albion.blogsport.de/2017/03/04/upalbion-safe-albion-online-gold-store-online-24-hours/
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -26,12 +24,6 @@ authors:
  - sa8713
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171729-felix-thumbnail_DSC_0008.jpg"
-image_caption: ""
 ---
 
 For most people, the 12th of March was just another Sunday. For a group of certain individuals, however, it was a chance for lasting and eternal glory. Well, more like temporary happiness for a few days, but hey, we all have to take what we can get.

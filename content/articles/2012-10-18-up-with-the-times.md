@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Aemun Reza looks at The Times’ league tables to see our place
 date: "2012-10-18 21:53:40 +0100"
-
-# Attributes from Felix Online V1
-id: "2727"
-old_path: /news/2727/up-with-the-times
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2727/up-with-the-times
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ar3310
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Overall Rankings__

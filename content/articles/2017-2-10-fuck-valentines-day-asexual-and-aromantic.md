@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Joanna Wormald doesn’t really have anything against V Day, but they do mind the complete invisibility of asexuals and aromantics in mainstream culture
 date: "2017-02-10 14:40:57 +0000"
-
-# Attributes from Felix Online V1
-id: "6759"
-old_path: /sex/6759/fuck-valentines-day--asexual-and-aromantic
+image: "http://felixonline.co.uk/img/upload/201702101440-felix-Screen Shot 2017-02-10 at 14.40.39.png"
+image_caption: "Things I shockingly don’t identify with despite being an aromantic asexual"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sex/6759/fuck-valentines-day--asexual-and-aromantic
-imported: true
 comments:
  - value: >
      Interesting article. I see your point about the mis/under representation of asexuals in the media. Bojack Horseman did an interesting character reveal recently and I hope this could be the the start of increased representations of asexuals in the media whereby they aren't simply the butt of a "aren't they odd" joke. ,Interesting article. I see your point about the mis/under representation of asexuals in the media. Bojack Horseman did an interesting character reveal recently and I hope this could be the the start of increased representations of asexuals in the media whereby they aren't simply the butt of a "aren't they odd" joke. ,Interesting article. I see your point about the mis/under representation of asexuals in the media. Bojack Horseman did an interesting character reveal recently and I hope this could be the the start of increased representations of asexuals in the media whereby they aren't simply the butt of a "aren't they odd" joke. ,Interesting article. I see your point about the mis/under represent
-
-# Article Taxonomies
 categories:
  - sex
 tags:
@@ -28,12 +26,6 @@ authors:
  - jmw216
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101440-felix-Screen Shot 2017-02-10 at 14.40.39.png"
-image_caption: ""
 ---
 
 The first two weeks in February are an infernal nightmare of constant bombardment with advertisements for jewellery, chocolates, and lingerie – all for that ‘special someone’. People in relationships presumably don’t mind. Single people complain incessantly about it. For aromantics however, Valentine’s Day represents a whole new level of hell. One which is at best an irritation. On a bad day, it can provoke outright nausea.

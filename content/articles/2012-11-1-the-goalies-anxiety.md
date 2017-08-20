@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alejandro Torrado Pacheco discovers Peter Handke’s great novel
 date: "2012-11-01 23:02:00 +0000"
-
-# Attributes from Felix Online V1
-id: "2806"
-old_path: /books/2806/the-goalies-anxiety
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2806/the-goalies-anxiety
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -23,12 +20,6 @@ authors:
  - csw09
  - felart
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Peter Handke has been a very prolific artist during his lifetime, leaving behind several novels, plays and film scripts. He started his career working closely with the German literary avant-garde, which promoted works of post-war authors, unknown at the time, of the calibre of Günter Grass and Heinrich Böll.

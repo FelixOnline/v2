@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Why do anything if it doesn’t earn you a good chunk of money?
 date: "2016-05-27 09:03:54 +0100"
-
-# Attributes from Felix Online V1
-id: "6219"
-old_path: /tv/6219/-a-eulogy-for-shows-no-more
+image: "http://felixonline.co.uk/img/upload/201605271103-felix-o-CASTLE-facebook.jpg"
+image_caption: "On the plus side, Nathan Fillion’s schedule is free! "
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6219/-a-eulogy-for-shows-no-more
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - hmw15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605271103-felix-o-CASTLE-facebook.jpg"
-image_caption: ""
 ---
 
 As the renewal period for shows finally winds down and writers once more begin plotting ahead, networks start to announce which shows didn’t make the cut. The major victims for this season are the singing competition powerhouse _American Idol_, the country-music drama _Nashville_, and a personal favourite of mine, the Nathan Fillion driven, crime procedural _Castle_. But, as much as we mourn the recently departed, the reasons why individual shows are cancelled are quite varied.

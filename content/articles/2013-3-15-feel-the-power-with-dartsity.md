@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Onnnnneeee hundred and eiiiighttttyyyy. Wasn't uttered.
 date: "2013-03-15 01:53:42 +0000"
-
-# Attributes from Felix Online V1
-id: "3481"
-old_path: /sport/3481/feel-the-power-with-dartsity
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3481/feel-the-power-with-dartsity
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - ljb110
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ICSM Darts Society is the only Imperial Club dedicated to the sport. Shocking right? We consider it a sport. Not just prime man boob jiggle time or a pint of beer resting on a beer belly time – darts is a game of skill, contrary to stereotypes. We usually play in a Monday night league SKADL (South Ken Academic Darts League) which started out as a competition between Imperial halls, but now includes a lot of previous students, and other universities around London. Other teams include the Holland Club, which has had to find an alternative venue since the club shut over the Christmas period.

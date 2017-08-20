@@ -4,16 +4,13 @@ title: >
 subtitle: >
   La cross, isn't that what Joey Barton calls a ball into the box from the wing?
 date: "2012-12-07 03:07:29 +0000"
-
-# Attributes from Felix Online V1
-id: "3060"
-old_path: /sport/3060/savvy-stickwork-spells-victory-for-lacrosse
+image: "http://felixonline.co.uk/img/upload/201212070307-tna08-010.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3060/savvy-stickwork-spells-victory-for-lacrosse
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - ht910
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070307-tna08-010.jpg"
-image_caption: ""
 ---
 
 Wednesday 4th December brought the Ladies 1st Lacrosse team a brilliant win following a 16-4 score finish against the University of Reading.

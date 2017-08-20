@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tim Hecker's Ravedeath
 date: "2011-10-21 11:27:07 +0100"
-
-# Attributes from Felix Online V1
-id: "1599"
-old_path: /music/1599/piano-drops-in-iceland
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1599/piano-drops-in-iceland
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - ak6309
  - im808
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Tim Hecker’s latest outpouring, Ravedeath, 1972, wraps around the billows of an organ in a church in Reykjavik. Sampled and reconfigured, casting a brume of disbelief, its song is suspended like a gasp in deep sleep. The sounds disintegrate like a snowball melting in your hand. Each remaining echo slipping down a liquefied trace collecting on the underside.

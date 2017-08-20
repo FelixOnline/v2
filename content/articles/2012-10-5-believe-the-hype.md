@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Maciej Matuszewski looks at Hyperion — a classic of SF
 date: "2012-10-05 11:24:11 +0100"
-
-# Attributes from Felix Online V1
-id: "2592"
-old_path: /books/2592/believe-the-hype
+image: "http://felixonline.co.uk/img/upload/201210051223-felix-hyperion5.jpg"
+image_caption: "Some facelifts just don’t work as well as others"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2592/believe-the-hype
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -25,12 +23,6 @@ authors:
  - mtm10
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210051223-felix-hyperion5.jpg"
-image_caption: ""
 ---
 
 I very much enjoy short works of fiction. What they may lack in depth compared to longer works they often make up for in greater focus. You can read the story in one sitting and not be distracted by any filler — making it easier for you to get to the core of the issues being explored.

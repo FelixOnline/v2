@@ -4,18 +4,16 @@ title: >
 subtitle: >
   We continue our selection of unappreciated gems with three alternative sports films
 date: "2015-11-20 14:01:48 +0000"
-
-# Attributes from Felix Online V1
-id: "5766"
-old_path: /film/5766/top-three-sports-films-that-arent-rocky
+image: "http://felixonline.co.uk/img/upload/201511201400-ff712-4a3fbd7e-0cab-40f5-84a8-8649e3da18db.jpg"
+image_caption: "Yeah, hold off on that celebrating Sylvester"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5766/top-three-sports-films-that-arent-rocky
-imported: true
 comments:
  - value: >
      I really LOVE Mickey Rourke (so many peploe are wondering why...but I don t no why,I just do it) and I m looking forward to the end of february, when this movie arrives in germany!!! I NEED to watch this film, I m shure, Mickey does a great work in this movie! Snowy greetings from germany, geisslein,Exceptionally user pleasant website. Great info readily available on couple of clicks <br>pokemongo http://peoplespace.com/blogs/post/57
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +26,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511201400-ff712-4a3fbd7e-0cab-40f5-84a8-8649e3da18db.jpg"
-image_caption: ""
 ---
 
 People always say the original _Rocky_ is a classic, but I’ve never really seen this. I challenge its fans to watch it again today, and tell me it’s aged well. Yes, there are some iconic scenes, but this is not because they’re good – rather it’s because the film was popular. What we have here is a serious case of nostalgia goggles. Here are some alternatives:

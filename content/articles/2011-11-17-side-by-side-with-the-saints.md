@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Jonathan Wang talks about Volition Inc.’s latest offering Saints Row: The Third attempts to not just eclipse the GTA franchise, but to beat it into the dust. With a dildo bat
 date: "2011-11-17 20:36:03 +0000"
-
-# Attributes from Felix Online V1
-id: "1762"
-old_path: /games/1762/side-by-side-with-the-saints
+image: "http://felixonline.co.uk/img/upload/201111172034-pk1811-saintsrowthethirdbox.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1762/side-by-side-with-the-saints
-imported: true
 comments:
  - value: >
      This is such a good game...you should all get it
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172034-pk1811-saintsrowthethirdbox.jpg"
-image_caption: ""
 ---
 
 To someone who has never heard of Saints Row before, there's only one comparison you can make, so I’ll get it out of the way: it’s like Grand Theft Auto. The behemoth that is Rockstar studios’ third-person, driving-shooting free-roam franchise single-handedly created a new genre and also influenced a whole slew of games over the last decade. However, whilst rival studios were taking note and adopting some of the successful elements of GTA, whether it’s the driving or the shooting or the open city, Volition was taking notes. Like scientists citing and Kanye sampling, Volition knew that the better the original source, the more you should put in.

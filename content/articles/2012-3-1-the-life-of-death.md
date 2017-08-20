@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Alexander Karapetian takes to Malaysian Night 2012
 date: "2012-03-01 21:31:15 +0000"
-
-# Attributes from Felix Online V1
-id: "2275"
-old_path: /news/2275/the-life-of-death
+image: "http://felixonline.co.uk/img/upload/201203012129-cac111-398471_372303862789382_100000293150658_1381444_1727893044_n.jpg"
+image_caption: "He whipped out his katana...it was super effective"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2275/the-life-of-death
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - ak6309
  - cac111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203012129-cac111-398471_372303862789382_100000293150658_1381444_1727893044_n.jpg"
-image_caption: ""
 ---
 
 I was lucky enough to buy a ticket to the [Malaysian Society’s](http://www.union.ic.ac.uk/osc/malaysia/) MNight long before the sales rush which rendered the Saturday showing sold out. It was a two-day production held in the Great Hall, and I attended the Sunday showing. It was the first time I’d been to such an event in my three years here, and my main motivation for going was to support one of my copy editors here in Felix who was on the cast. A review simply had to follow.

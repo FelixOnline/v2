@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Jonathan Kingsley is on a mission to help Bangladesh’s rural poor
 date: "2012-12-07 02:34:35 +0000"
-
-# Attributes from Felix Online V1
-id: "3050"
-old_path: /comment/3050/putting-the-bang-in-bangladesh-an-alternative-way-to-spend-spring
+image: "http://felixonline.co.uk/img/upload/201212070233-tna08-bangladesh.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3050/putting-the-bang-in-bangladesh-an-alternative-way-to-spend-spring
-imported: true
 comments:
  - value: >
      Good effort. Never thought to do anything like this till now. Will see you at the bake sale next week. <br> Thanks, ,What's a good life if it isn't a collection of the most eye opening and horizon broadening experiences? Well done John!
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070233-tna08-bangladesh.jpg"
-image_caption: ""
 ---
 
 Tor many, life has been normal so far; most have attended school, the lucky progressing onto university, the majority then graduating. However, I realised the next 10 years of my (professional) life could creep up on me as quickly as the last 16 years, during which time I was being unwittingly conveyor-belted along an education system and churned out into real life. I felt like doing something different, just for a while.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Maggie Smith is acerbic and rancid in this Alan Bennett-scripted film
 date: "2015-11-20 14:05:31 +0000"
-
-# Attributes from Felix Online V1
-id: "5767"
-old_path: /film/5767/the-lady-doth-protest-too-much
+image: "http://felixonline.co.uk/img/upload/201511201404-ff712-3296.jpg"
+image_caption: "Maggie Smith and Alex Jennings in The Lady in the Van"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5767/the-lady-doth-protest-too-much
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ff712
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511201404-ff712-3296.jpg"
-image_caption: ""
 ---
 
 The reputation _The Lady in the Van _has gained in the run up to its release can perhaps be best illustrated by the fact that during a recent phone-call to my grandma – a woman in her late 80s whose closest cinema is the civic centre, where all films are released 3 months later than anywhere else – she mentioned that she was very excited to go and see it. This is what happens when you blend together director Nicholas Hynter, actor Maggie Smith, and playwright Alan Bennett: you get a national treasure smoothie, palatable to all.

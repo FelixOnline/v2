@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Mark England on the coolest, baldest, and beardiest man in town
 date: "2012-02-16 21:55:45 +0000"
-
-# Attributes from Felix Online V1
-id: "2201"
-old_path: /music/2201/the-fresh-prince-of-kentucky
+image: "http://felixonline.co.uk/img/upload/201202162156-pk1811-bonnie-prince-billy.jpg"
+image_caption: "How you doin’?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2201/the-fresh-prince-of-kentucky
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - me1409
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162156-pk1811-bonnie-prince-billy.jpg"
-image_caption: ""
 ---
 
 [__Bonnie ‘Prince’ Billy__](http://www.myspace.com/princebonniebilly), aka Will Oldham, is a name who should be on everyone’s lips. Instead, in the current landscape of indie-folk/Americana he has been overlooked for the watered-down beige-athon that is [__Mumford and Sons__](http://www.mumfordandsons.com/). Many commendable elements of the current scene can be seen in Bonnie ‘Prince’ Billy’s prodigious output; the stark, naked beauty of [__Bon Iver__](http://boniver.org/), the lyrical twist of [__Conor Oberst__](http://www.conoroberst.com/) and [__Laura Marling__](http://www.lauramarling.com/)’s ability to take your breath away with a tune. Thankfully, Mumford’s equation for success (an abundance of waistcoats, combined with inane choruses) is nowhere to be seen on any of the Prince’s eleven albums.

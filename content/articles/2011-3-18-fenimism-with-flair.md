@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Fen kicks off a showcase of female playwrights in Fulham
 date: "2011-03-18 08:28:05 +0000"
-
-# Attributes from Felix Online V1
-id: "1112"
-old_path: /arts/1112/fenimism-with-flair
+image: "http://felixonline.co.uk/img/upload/201103180827-ks607-fenwoman.jpg"
+image_caption: "Katharine Burford as Val"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1112/fenimism-with-flair
-imported: true
 comments:
  - value: >
      Hola <br>Exactamente! Me parece esto la idea buena. Soy conforme con Ud. <br>http://easyddl.cz.cc/ <br>Edwas
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103180827-ks607-fenwoman.jpg"
-image_caption: ""
 ---
 
 My first impressions on entering the [Finborough Theatre](http://www.finboroughtheatre.co.uk/productions/2011/production-fen.php), having climbed the stairs from the wine bar below, were dubious. The middle of the theatre was covered in earth, liberally strewn with potatoes, the room hummed with eerie folky music and for a good five minutes an actress in farmer’s garb darted from side to side, shaking her rattle at imaginary birds.

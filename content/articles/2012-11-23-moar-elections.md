@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The low turnout at the recent PCC elections is a bad sign
 date: "2012-11-23 00:03:43 +0000"
-
-# Attributes from Felix Online V1
-id: "2957"
-old_path: /comment/2957/moar-elections
+image: "http://felixonline.co.uk/img/upload/201211230003-tna08-p16_18davidcameron05.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2957/moar-elections
-imported: true
 comments:
  - value: >
      I'm very dubious about this claim that local policing priorities can now be chosen by the people; surely, such concerns could already be raised through existing mechanisms like council (and indeed police) surgeries? <br> <br>Besides, as Keir points out in the article, the purpose and remit of these PCCs is entirely vague, and many people are either unsure of their purpose or flat-out unaware they exist. ,I agree with you that 'more' democracy doesn't mean 'better' democracy. <br> <br>I think one of the reasons we're so fed up with voting is because increasingly little power is being spread between more and more institutions. Many of us now have four tiers of government: The EU with its tenuous democratic mandate, then Westminster, S/W/NI./London Assembls, and local authorities as well. <br> <br>That is far too many and the dilution of direct accountability just hands power to mandarins. <br> <br>However on policing I think there was a real gap in the democratic 'market'. <br> <br>We would be naive to think that the previously unelected r
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211230003-tna08-p16_18davidcameron05.jpeg"
-image_caption: ""
 ---
 
 Much like a promise to lower taxes, a call for more democracy is a cheap tactic for winning votes, yet one that, in what seems to be a continuing trend, the Conservative party have managed to completely cock up.

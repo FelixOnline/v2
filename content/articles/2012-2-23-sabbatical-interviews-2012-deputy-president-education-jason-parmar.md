@@ -4,18 +4,16 @@ title: >
 subtitle: >
   DPE Jason Parmar tackles the calendar highlights and lowlights
 date: "2012-02-23 23:28:59 +0000"
-
-# Attributes from Felix Online V1
-id: "2266"
-old_path: /news/2266/sabbatical-interviews-2012-deputy-president-education--jason-parmar
+image: "http://felixonline.co.uk/img/upload/201202232326-felix-jasonparmar.jpg"
+image_caption: "Deputy President (Education) Jason Parmar"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2266/sabbatical-interviews-2012-deputy-president-education--jason-parmar
-imported: true
 comments:
  - value: >
      there were never going to be any 8am starts
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202232326-felix-jasonparmar.jpg"
-image_caption: ""
 ---
 
 __What have you enjoyed most?__

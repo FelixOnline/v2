@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lucy Adkins gives a short guide to the great South American continent
 date: "2011-02-28 20:59:44 +0000"
-
-# Attributes from Felix Online V1
-id: "938"
-old_path: /travel/938/highlights-of-south-america
+image: "http://felixonline.co.uk/img/upload/201102282053-ks607-southama.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/938/highlights-of-south-america
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -25,12 +22,6 @@ authors:
  - la410
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102282053-ks607-southama.jpg"
-image_caption: ""
 ---
 
 The lowdown: Once reserved for the likes of more experienced backpackers, South America is now a haven for anyone wanting to escape the normality of home. Budget accommodation and tour operators are frequent and more than willing to provide you with services, and the area is also becoming increasingly safe for tourists as local troublemakers begin to see the long-term benefits that tourism can provide the economy.

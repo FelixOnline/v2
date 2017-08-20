@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Douglas Heaven takes a look at the French rock scene
 date: "2011-10-28 11:36:31 +0100"
-
-# Attributes from Felix Online V1
-id: "1641"
-old_path: /music/1641/punk-planet-chevreuil
+image: "http://felixonline.co.uk/img/upload/201110281236-felix-fa5f01a8-466f-11e0-aebf-00144feab49a.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1641/punk-planet-chevreuil
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110281236-felix-fa5f01a8-466f-11e0-aebf-00144feab49a.jpg"
-image_caption: ""
 ---
 
 There’s more to French rock than [__Serge Gainsbourg__](http://www.youtube.com/watch?v=NkyJ07TK2dQ&feature=related). For a time there was [__Sloy__](http://www.youtube.com/watch?v=EVz3CDC6gW8) (1991–2000) who looked like they were going places after playing shows with [__Shellac__](http://www.youtube.com/watch?v=mxbTRh1o_RU) and being invited on tour by [__P J Harvey__](http://www.youtube.com/watch?v=Va0w5pxFkAM). John Peel took a shine to them too, back in the day. But despite sexing up their sleazy punk sound with a bugle solo on their third album _Electrelite_ (1998) it still ended up being their last.

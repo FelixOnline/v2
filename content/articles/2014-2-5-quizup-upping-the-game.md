@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The quiz-gaming sensation storming the nation.
 date: "2014-02-05 10:27:15 +0000"
-
-# Attributes from Felix Online V1
-id: "4334"
-old_path: /games/4334/quizup-upping-the-game
+image: "http://felixonline.co.uk/img/upload/201402051027-me1711-games_qup.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4334/quizup-upping-the-game
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201402051027-me1711-games_qup.jpg"
-image_caption: ""
 ---
 
 This is not the kind game that our section would usually review. In fact, when I told my fellow games editor Calum what I was planning to write about, he retorted in disgust “that’s not a proper game!” However, I believe that mobile gaming is here to stay, which means that we should start considering them. Also, the addictiveness of QuizUp could not be discounted.

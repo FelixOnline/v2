@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The infamous A. Geek on what has changed at Imperial over the years
 date: "2015-03-09 19:06:00 +0000"
-
-# Attributes from Felix Online V1
-id: "5375"
-old_path: /comment/5375/angry-geek-returns-one-last-time
+image: "http://felixonline.co.uk/img/upload/201503091905-ps3110-201104240247-jk708-angry-geek.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5375/angry-geek-returns-one-last-time
-imported: true
 comments:
  - value: >
      fitflops discount <br>fitflop sandals singapore http://fitflopssalesingapore.blogspot.com/,fit flop shoes <br>fitflop shoes http://australiafitflops.iemiller.net/,If you would like to improve your experience just keep visiting this web page and be updated with the most up-to-date news update posted here. <br>womens bailey bow uggs uk http://www.londongdhandball.co.uk/phocamapskml/spip.php?uk-womens-bailey-bow-uggs-uk-687.html,fit flop footwear <br>fitflops sale http://australiafitflops.iemiller.net/,birkenstock best price <br>birkenstock mayari http://birkenstockaustralia.rochecap.org/,birkenstock mayari <br>birkenstock discount http://birkenstockaustraliamalls.com/,christian louboutin canada sale <br>christian louboutin sale http://christianlouboutincanadaoutlet.blogspot.com/,red soles <br>christian louboutin shoes sale http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin glitter shoes <br>christian louboutin sale outlet http://canadachristianlouboutinoutlet.blogspot.com/,louboutin womens flats canada <br>christian lou
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503091905-ps3110-201104240247-jk708-angry-geek.jpg"
-image_caption: ""
 ---
 
 Hello, readers. It’s been quite a while. I’m still a part of Imperial, just hanging onto the edges here, but it’s been years since I last graced these pages. New writers have to come in, and old ones have to shrivel up and quietly die in the corner under a pile of back issues – it’s the way it’s always been. It also helps that you’re all a fucking disgrace and I probably would’ve burned several key departments to the ground by now in complete disbelief at the pathetic and cynical way they’re run. But mostly it’s the new writer thing.

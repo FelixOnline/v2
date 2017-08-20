@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A Cappella and Musical Theatre came together for the midweek ArtsFest showcase
 date: "2015-02-20 00:19:59 +0000"
-
-# Attributes from Felix Online V1
-id: "5284"
-old_path: /cands/5284/artsfest-a-very-vocal-evening-30
+image: "http://felixonline.co.uk/img/upload/201502200017-ps3110-screen-shot-2015-02-20-at-00.17.20.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5284/artsfest-a-very-vocal-evening-30
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -24,12 +21,6 @@ authors:
  - bwh12
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502200017-ps3110-screen-shot-2015-02-20-at-00.17.20.png"
-image_caption: ""
 ---
 
 On Wednesday night I had the pleasure of attending my first ArtsFest event of the year – A Very Vocal Evening (3.0), presented by The A Cappella and Musical Theatre societies. All four established A Cappella groups gave performances, and various solos and duets were performed by members of both societies old and new.

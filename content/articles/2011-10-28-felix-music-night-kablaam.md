@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Mikill Pane headlines as Imperial's music scene comes to the fore
 date: "2011-10-28 10:30:22 +0100"
-
-# Attributes from Felix Online V1
-id: "1637"
-old_path: /music/1637/felix-music-night-kablaam
+image: "http://felixonline.co.uk/img/upload/201110281118-felix-scary_cat_fin.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1637/felix-music-night-kablaam
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - im808
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110281118-felix-scary_cat_fin.jpg"
-image_caption: ""
 ---
 
 Imperial’s music scene is certainly underground. The bright morning sunshine rarely reaches its dark recesses and its artists receive little attention. The [Felix Music Nights](http://www.facebook.com/event.php?eid=289649254397857) are our way of celebrating this under-appreciated scene and also fostering it; bringing more students into the tent and saying, “Hey, there’s a good thing going on here.” The formula hasn’t changed since [last year’s successes](http://felixonline.co.uk/music/946/1902-felix-music-night/): scout the finest DJs from [Music Tech](http://www.imperialcollegeunion.org/clubs-and-societies/a-to-z/m/music-tech/), sniff out some red-hot bands from [Jazz & Rock](http://www.union.ic.ac.uk/arts/jazzrock/), and grab London’s most hyped up-and-coming artists to headline.

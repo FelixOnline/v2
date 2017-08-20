@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix Travel competition winners Charlie, Mandy and Bobby Brown re-live whatever they can remember of this year’s High Times Cannabis Cup
 date: "2011-12-08 22:14:30 +0000"
-
-# Attributes from Felix Online V1
-id: "1952"
-old_path: /travel/1952/friends-in-high-places-a-cannabis-cup-special
+image: "http://felixonline.co.uk/img/upload/201112082207-cac111-panoramic.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/1952/friends-in-high-places-a-cannabis-cup-special
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082207-cac111-panoramic.jpg"
-image_caption: ""
 ---
 
 As a kid, Usain Bolt probably dreamt of the Olympics while he was outstripping all his mates on the running track. Neil Armstrong probably gazed at the Moon and wondered “what if?” Charlie, Mandy and Bobby Brown almost certainly sat monged in the wee hours of the morning and all agreed they really fucking wanted to go to the Cannabis Cup.

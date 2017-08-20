@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Nida Mahmud on the items collect and #getinvolved
 date: "2013-02-14 21:06:52 +0000"
-
-# Attributes from Felix Online V1
-id: "3328"
-old_path: /news/3328/sos-syria-is-underway
+image: "http://felixonline.co.uk/img/upload/201302142107-tna08-itemscollections-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3328/sos-syria-is-underway
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - nm708
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302142107-tna08-itemscollections-1.jpg"
-image_caption: ""
 ---
 
 There has been a fantastic response to the student lead initiative, Action Syria, raising awareness about the situation in Syria at Imperial College. The turmoil in Syria has become dramatically worse over the last two years. The situation in Syria is typically reported as political issue in the headlines; however, the focus of Action Syria has been solely on the humanitarian side.

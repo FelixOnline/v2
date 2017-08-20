@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Changes will have consequences for teams, and will be discussed with captains.
 date: "2012-10-11 20:21:56 +0100"
-
-# Attributes from Felix Online V1
-id: "2640"
-old_path: /news/2640/bucs-changes-could-affect-sports-teams
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2640/bucs-changes-could-affect-sports-teams
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Changes to the league that Imperial College London’s sports teams play in could require some reorganisation.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Which means, kick a whole lot of ass in Assassins Creed: Brotherhood
 date: "2010-12-09 19:49:51 +0000"
-
-# Attributes from Felix Online V1
-id: "510"
-old_path: /games/510/when-in-rome-do-as-the-assassins-have-always-done
+image: "http://felixonline.co.uk/img/upload/201012091947-ma1307-ASSassin.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/510/when-in-rome-do-as-the-assassins-have-always-done
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -25,12 +22,6 @@ authors:
  - skh10
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012091947-ma1307-ASSassin.jpg"
-image_caption: ""
 ---
 
 After having your mind completely blown by Assassin’s Creed II’s preposterous ending [(spoiler)](http://www.giantbomb.com/assassins-creed-ii/61-22928/ending-to-assassin-creed-2wtf-spoiler/35-272387/), Brotherhood returns to connect the dots in the bizarre tale and explain what exactly is going on. But in doing so, does it bring any new and redeeming features to expand the series and is it worth it as a game in its own right?

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rob Kyle talks of rugby's reclaiming of their rightful place: a team that wins
 date: "2012-11-15 22:28:16 +0000"
-
-# Attributes from Felix Online V1
-id: "2919"
-old_path: /sport/2919/rugby-return-to-winning-ways
+image: "http://felixonline.co.uk/img/upload/201211152227-tna08-ruggy2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2919/rugby-return-to-winning-ways
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211152227-tna08-ruggy2.jpg"
-image_caption: ""
 ---
 
 After a slow start to the season as the 1stXV get used to a new league, their opening cup fixture against last seasons opposition Kent was an ideal way to get back to winning ways. After a rushed warm up, and with Imperial have to don a somewhat village playing jersey to avoid a kit clash, the game got underway. Imperial kicked off proceedings, quickly leading to a turn over and good possession in the opposing 22. It didn’t take long before the first points of the game, and after an inch perfect pass from fly-half “Big” George Lane – who admits himself fly-half is not his natural position – Oli Benton crossed the line for a 5-0 lead. Soon after the restart, the pressure was back on Kent. The ball was charged down by the face of Jon Hardisty (some say his most useful contribution to the game) resulting in a lineout in opposition territory. This again produced an Imperial try, with good hands by the backline finished off well by Nathan “Brucey” Fitzpatrick in the corner. After the initial burst of tries by Imperial, the game started to get tighter. With the exchanging of tries, Kent started to get back into the game – due mainly to

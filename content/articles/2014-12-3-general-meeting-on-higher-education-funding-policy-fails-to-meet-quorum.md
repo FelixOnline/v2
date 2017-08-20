@@ -4,16 +4,14 @@ title: >
 subtitle: >
   49 students out of the required 200 attended the meeting on Monday
 date: "2014-12-03 00:53:53 +0000"
-
-# Attributes from Felix Online V1
-id: "4983"
-old_path: /news/4983/general-meeting-on-higher-education-funding-policy-fails-to-meet-quorum-
+image: "http://felixonline.co.uk/img/upload/201412030056-ps3110-img_0007.jpg"
+image_caption: "Those in attendance of the meeting"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4983/general-meeting-on-higher-education-funding-policy-fails-to-meet-quorum-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - pk1811
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412030056-ps3110-img_0007.jpg"
-image_caption: ""
 ---
 
 The General Meeting took place Monday evening, but with only 45 people showing up, failed to meet quorum. The General Meeting, proposed by Imperial College Union Council member Andrew Tranter, aimed to finalise the Union’s stance on education funding and formalise a Higher Education Funding Policy to reflect this.

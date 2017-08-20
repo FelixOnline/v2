@@ -4,18 +4,16 @@ title: >
 subtitle: >
   With a combination of persuasive power, begging and bribery we’ve managed to get together three of Gaming section’s biggest writers to talk about videogaming through the ages, as well as what they think the future holds in store when Felix 2000 rolls around...
 date: "2011-11-03 20:28:34 +0000"
-
-# Attributes from Felix Online V1
-id: "1667"
-old_path: /games/1667/gaming-through-the-ages-when-this-baby-reaches-88-miles-per-hour
+image: "http://felixonline.co.uk/img/upload/201111032029-sjw209-atari_2600.jpg"
+image_caption: "This stuff’s so retro even hipsters don’t know what that console is"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1667/gaming-through-the-ages-when-this-baby-reaches-88-miles-per-hour
-imported: true
 comments:
  - value: >
      I work in a school ceupmtor lab and this is what I know in general Macs seem to be the better bet if you're into things like graphics, movies, music. I'm not a gamer but I think just a regular ceupmtor if that is what you will mainly use it for. I am fine today, thanks for asking.,I work in a school ceupmtor lab and this is what I know in general Macs seem to be the better bet if you're into things like graphics, movies, music. I'm not a gamer but I think just a regular ceupmtor if that is what you will mainly use it for. I am fine today, thanks for asking.,I work in a school ceupmtor lab and this is what I know in general Macs seem to be the better bet if you're into things like graphics, movies, music. I'm not a gamer but I think just a regular ceupmtor if that is what you will mainly use it for. I am fine today, thanks for asking.,If you use the<a href="http://edrihhpzxv.com"> aopaicltipns</a> that a Mac comes with, then get a Mac. The cost of<a href="http://edrihhpzxv.com"> aopaicltipns</a> alone ca
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -31,12 +29,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111032029-sjw209-atari_2600.jpg"
-image_caption: ""
 ---
 
 _Interested in what our writers think of the future of gaming? [See the companion article here!](http://felixonline.co.uk/games/1678/the-future-of-gaming/)_

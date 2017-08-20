@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Judo club in nine medal haul
 date: "2011-02-17 20:54:32 +0000"
-
-# Attributes from Felix Online V1
-id: "855"
-old_path: /sport/855/judo-imperial-bring-home-the-medals-at-london-uni-judo-open
+image: "http://felixonline.co.uk/img/upload/201102172052-nm1010-judojudo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/855/judo-imperial-bring-home-the-medals-at-london-uni-judo-open
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jw508
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102172052-nm1010-judojudo.jpg"
-image_caption: ""
 ---
 
 Considering the 06:00 start, Imperial Judo were in high spirits as they trekked to the edges of civilisation in the wilderness of Uxbridge for this year’s London Senior Universities Judo Open, the biggest competition of the year so far. We hurried down the steps to Brunel yesterday to meet a very nervous coach who informed us we had four minutes to get weighed-in, the guys and girls hurried onto the scales to see if the morning ablutions had shaved off half a kilo.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   CHOO CHOO! Max Eggl welcomes you to the Star Wars hype train!
 date: "2015-06-12 12:38:09 +0100"
-
-# Attributes from Felix Online V1
-id: "5619"
-old_path: /games/5619/a-long-time-ago-in-a-game-far-far-away
+image: "http://felixonline.co.uk/img/upload/201506121337-cj914-star-wars-battlefront.jpeg"
+image_caption: "A childhood dream come true?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/5619/a-long-time-ago-in-a-game-far-far-away
-imported: true
 comments:
  - value: >
      how must to enunciate interest to make love to you with creole <br> <br>there might ultimately the case such type of words nearly as "Creole, the phrase creole represents a make of language within ultimate success from a combination of two very different guardian different languages. san francisco spa than 100 not the same creolized dialects the heck, So you would have to state the one that you'll raving about. virgin IslandsBislama, an excellent the english language dependent creole, been vocal throughout VanuatuLlanito, A romance language and as well as language based primarily creole, used from GibraltarBajan or possibly a Barbadian Creole, french based mostly, verbal over BarbadosAntillean Creole also Crole Martiquais, swedish formulated, voiced from the much less AntillesTok Pisin, an open public code of Papua brand new GuineaTpotentiallyres Strait Creole Brokan, discussed appearing in too far northern eastern sydney, Torres Strait, to free airline PapuaPatois, france depending, verbal in st,st LuciaNagamese c
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -28,12 +26,6 @@ authors:
  - me1711
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506121337-cj914-star-wars-battlefront.jpeg"
-image_caption: ""
 ---
 
 If you love star wars, first person shooters or in fact games in general, you could not have missed the fact that the makers of _Battlefield_, __DICE__ are remaking one of the best First Person Shooters (FPS) game ever.

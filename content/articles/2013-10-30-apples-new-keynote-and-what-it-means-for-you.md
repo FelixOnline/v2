@@ -4,16 +4,13 @@ title: >
 subtitle: >
   As mentioned in last weeks news bubble Apple had a key note last tuesday.
 date: "2013-10-30 15:59:20 +0000"
-
-# Attributes from Felix Online V1
-id: "3961"
-old_path: /tech/3961/apples-new-keynote-and-what-it-means-for-you
+image: "http://felixonline.co.uk/img/upload/201310301604-me1711-retina-ipad-mini-ipad-air-2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3961/apples-new-keynote-and-what-it-means-for-you
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310301604-me1711-retina-ipad-mini-ipad-air-2.jpg"
-image_caption: ""
 ---
 
 As mentioned in last weeks news bubble Apple had a key note last tuesday. That day confirmed most rumours on the internet as well as some pleasant surprises. However if you are looking at the news, scratching your head and wondering how this will affect anything in your life, read on dear reader and all shall be explained!

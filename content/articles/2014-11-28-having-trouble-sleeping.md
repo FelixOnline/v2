@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Utsav Radia reports on Imperial’s research into getting a good nights sleep
 date: "2014-11-28 01:01:09 +0000"
-
-# Attributes from Felix Online V1
-id: "4973"
-old_path: /science/4973/having-trouble-sleeping-
+image: "http://felixonline.co.uk/img/upload/201411280101-ps3110-mouse-sleeping.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4973/having-trouble-sleeping-
-imported: true
 comments:
  - value: >
      Very nice write-up. I definitely love this site. Thanks! <br>nike air max 90 hyperfuse volt neon http://www.assolowcost.it/?it-nike-air-max-90-hyperfuse-volt-neon-17611.html,Spot on with this write-up, I truly believe this web site needs a great deal more attention. I'll probably be back again to see more, thanks for the advice! <br>ray ban 3016 clubmaster http://www.politica2cero.es/?es-ray-ban-3016-clubmaster-13095.html,http://coach.outletsonlinesale.com/ coach factory outlet online <br> http://www.michaelkorsoutletonline.biz cheap michael kors handbags <br> http://www.2015oakleysunglasses.com/ cheap oakleys <br> http://raybanoutlet.vintagelicio.us cheap ray ban sunglasses <br> <br>cheap ray bans http://cheapraybans.outletonlinestores.net/,http://www.outlets-coach.org coach outlet <br> http://www.michaelkorsoutlethandbags.us michael kors handbags <br> http://www.oakley-sales.org/ oakley sunglasses <br> http://rb.outletonlinesalecc.com ray ban sunglasses <br> <br>coach factory outlet online http://www.coachoffic
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - ur13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411280101-ps3110-mouse-sleeping.jpg"
-image_caption: ""
 ---
 
 In the UK, 1 in 4 people suffer from some form of sleep disorder resulting in excessive daytime sleepiness. Researchers at Imperial College London, led by Professors William Wisden and Nicholas Franks of the Department of Life Sciences and Dr Mick Hastings’ group at the MRC Laboratory of Molecular Biology in Cambridge, have shined new light on exactly how the body controls when you wake up and when you fall asleep (the circadian rhythm).

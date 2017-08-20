@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Meat and fish? It may well be all about insects
 date: "2012-06-03 16:10:41 +0100"
-
-# Attributes from Felix Online V1
-id: "2521"
-old_path: /food/2521/has-the-time-come-to-accept-insect-cuisine
+image: "http://felixonline.co.uk/img/upload/201206031711-felix-edible-insects-6-006-500x333.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2521/has-the-time-come-to-accept-insect-cuisine
-imported: true
 comments:
  - value: >
      Or, y'know, vegetarianism. ,Genetically engineer me a lettuce that tastes of beef and I'll switch in an instant.
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -28,12 +25,6 @@ authors:
  - lap08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206031711-felix-edible-insects-6-006-500x333.jpg"
-image_caption: ""
 ---
 
 Grasshopper steak, anyone? If that doesn’t tickle your fancy, how about an ant lollipop? Though these ideas may sound revolting, entomophagy, the consumption of insects, may well become more popular in the Western world as fish stocks dwindle and rising population reduces the space available for traditional meat farming.

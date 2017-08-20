@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Rory Fenton shares him impressions from the first meeting of The Sunday Assembly, London’s new ‘atheist church’
 date: "2013-01-10 22:54:52 +0000"
-
-# Attributes from Felix Online V1
-id: "3098"
-old_path: /comment/3098/religion-for-atheists
+image: "http://felixonline.co.uk/img/upload/201301102254-tna08-sany00693_2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3098/religion-for-atheists
-imported: true
 comments:
  - value: >
      Hi Felix, <br> <br>Thanks very much for coming. I am so glad you liked it in the main. We were delighted by the turn out and overwhelmed with the response. So many great things were said afterwards, with so much help offered. <br> <br>You totally hit the nail on the head when you said it is a work in progress. We went for this format because it was something with which everyone was familiar, and to save time. <br> <br>We could have wasted years coming up with some totally new thing that was just right. Or, we could start with the something that worked, then improve it every week, with feedback from the congregation. <br> <br>Yep. It's a peer reviewed service. <br> <br>The main thing that I have to answer is the whole 'pseudo-science' and 'self-help' things you wrote about. I will go into the specific details later, but what I have to say is this: we will try to ensure any tool, tip or way of thinking we put forward is evidence based and transparent. <br> <br>Scientific atheists, do not worry. This is a safe place for you. <br> <br>SJx,As an atheist,
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102254-tna08-sany00693_2.jpg"
-image_caption: ""
 ---
 
 "An atheist church”

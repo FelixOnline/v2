@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Veli Akiner fails to mourn a very dead phenomenon
 date: "2012-02-23 20:02:36 +0000"
-
-# Attributes from Felix Online V1
-id: "2228"
-old_path: /comment/2228/imperial-memes-a-post-mortem
+image: "http://felixonline.co.uk/img/upload/201202231958-ams111-philosorapter.jpg"
+image_caption: "Does this caption help clear it up? Probably not"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2228/imperial-memes-a-post-mortem
-imported: true
 comments:
  - value: >
      Inventor of FOIL commenting....just saying.,#syaing,Haters be hatin...,Well imperial memes only lasted a day but you'll be a miserable prick for life!,I would like to remind everyone that most of the messages to be taken from the memes had already pretty much all been posted on FOIL back in early 2010....just syaing.,LOL par
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - va208
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202231958-ams111-philosorapter.jpg"
-image_caption: ""
 ---
 
 Late on a Tuesday night, [a monster was born](http://www.facebook.com/ImperialMemes). One that would increase exponentially with size; prove that Imperial students, for all their academic brilliance, follow the same behavioural patterns in a crowd as anyone else; and leave many of us sleep-deprived during our 9 o’clock lectures the following day.

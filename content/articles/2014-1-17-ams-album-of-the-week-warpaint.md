@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Warpoint by Warpoint
 date: "2014-01-17 03:55:25 +0000"
-
-# Attributes from Felix Online V1
-id: "4246"
-old_path: /music/4246/ams-album-of-the-week---warpaint
+image: "http://felixonline.co.uk/img/upload/201401170355-jal08-music_warpaint_warpaint_album_cover.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4246/ams-album-of-the-week---warpaint
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - mto11
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201401170355-jal08-music_warpaint_warpaint_album_cover.jpg"
-image_caption: ""
 ---
 
 _Warpaint_, the eponymous follow-up to 2010’s well-received debut, _The Fool_, offers a different manifestation of the LA foursome’s brand of delicate rock music. It smacks of the same cohesion which _The Fool _was noted for, however, whereas _The Fool_ was generally characterised by a restless streak, _Warpaint_ presents a departure towards a more natural, slow burn. Indeed, it opens with a clue that this might be the case: a peek behind the abstracting mask of musical production at a quirk of their recording process. __Warpaint__ are inviting us into their world rather than presenting it to us from the outside.

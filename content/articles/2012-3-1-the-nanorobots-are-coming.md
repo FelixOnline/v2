@@ -4,16 +4,14 @@ title: >
 subtitle: >
   DNA Origami techniques reveal advances in medical technology
 date: "2012-03-01 21:10:11 +0000"
-
-# Attributes from Felix Online V1
-id: "2271"
-old_path: /science/2271/the-nanorobots-are-coming
+image: "http://felixonline.co.uk/img/upload/201203012106-ams111-dna-nano-robot.jpg"
+image_caption: "Is it just me or do these look like hammocks?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2271/the-nanorobots-are-coming
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203012106-ams111-dna-nano-robot.jpg"
-image_caption: ""
 ---
 
 The once distinct lines between fact and science fiction are getting increasingly blurred almost on a daily basis. This month, it’s biology taking the lead. The Wyss Institute, a department committed to Biologically Inspired Engineering at Harvard University, recently unveiled its first ever cellular robot. It could be little to no time before these miniature machines are flowing through your body as they look to be the big players in medicine for the future.

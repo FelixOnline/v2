@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Officers' lawyer says they are hoping to put "unfounded allegations behind them"
 date: "2011-06-03 14:21:09 +0100"
-
-# Attributes from Felix Online V1
-id: "1324"
-old_path: /news/1324/all-four-officers-acquitted-in-babar-ahmad-assault-trial
+image: "http://felixonline.co.uk/img/upload/201106031520-felix-use.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1324/all-four-officers-acquitted-in-babar-ahmad-assault-trial
-imported: true
 comments:
  - value: >
      Get a grip! <br> <br>There are two distinctly different standards between civil and criminal courts, the former is based on the balance of probabilities and the latter beyond all reasonable doubt. Odd that a lawyer should not note the distinction. Such a bad loser.,Nice one Scallster!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106031520-felix-use.jpg"
-image_caption: ""
 ---
 
 All four of the officers accused of assaulting Babar Ahmad in 2003 have been acquitted this morning at Southwark Crown Court. Detective Constable John Donohue said that he was "relieved" by the jury's decision. The officers' solicitor Colin Reynolds said that "they are hoping to put these unfounded and unsubstantiated allegations behind them."

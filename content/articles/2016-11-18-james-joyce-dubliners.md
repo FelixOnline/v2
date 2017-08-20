@@ -4,16 +4,13 @@ title: >
 subtitle: >
    Joyce lets us sink into those delicate in-between emotions of melancholy.
 date: "2016-11-18 15:13:10 +0000"
-
-# Attributes from Felix Online V1
-id: "6473"
-old_path: /arts/6473/james-joyce--dubliners
+image: "http://felixonline.co.uk/img/upload/201611181512-felix-img_15671.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6473/james-joyce--dubliners
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - av3514
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611181512-felix-img_15671.jpg"
-image_caption: ""
 ---
 
 James Joyce was a modernist master with game-changing style, literary gonads the size of Dublin and –quite literally–Homeric ambition. Few writers can boast of having drunk with Hemingway, dined with Picasso, and picked a quarrel with Proust. His influence reaches far and wide: people have named everything from rock bands to subatomic particles after his writing. Joyce was something of an enigmatic figure (his last words were “Does nobody understand?”), and the only thing more inscrutable than the man himself was his work. Ulysses was banned for a long time in most of the English-speaking world before being named by critical consensus as "the most important novel in the English language". Finnegans Wake, his masterpiece that took seventeen years to write, has been called "the most colossal leg-pull in literature", and has even been compared to Egyptian hieroglyphics.

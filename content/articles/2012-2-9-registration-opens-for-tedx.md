@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Google announced as main event sponsor
 date: "2012-02-09 22:44:23 +0000"
-
-# Attributes from Felix Online V1
-id: "2159"
-old_path: /news/2159/registration-opens-for-tedx
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2159/registration-opens-for-tedx
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ks607
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Ticket prices for TEDxImperialCollege have been revealed as [registration](http://tedximperialcollege.com/registration/) opens today. Tickets for students will be £10, while all others will pay £25. It has also emerged that Google is to be the main sponsor of the event.

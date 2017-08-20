@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ian Green returns to Discworld and finds even more Pratchett magic
 date: "2011-10-28 09:46:29 +0100"
-
-# Attributes from Felix Online V1
-id: "1635"
-old_path: /arts/1635/lets-do-the-vime-warp-again
+image: "http://felixonline.co.uk/img/upload/201110281046-felix-terry-pratchett-snufflarge.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1635/lets-do-the-vime-warp-again
-imported: true
 comments:
  - value: >
      Peter, per your comment above, I did listen to Hersh Sawhney's mention of Chandler and how he was disappointed that Chandler did not change his attitudes towards race and ethnicity in his later fiction. Well, without really wanting to play the role of a Chandler apologist, I don't think this is quite true. Many of the slangy epithets are greatly reduced, even gone, by the later books. One of the problems of Chandler's status as a "literary" crime fiction writer is that he is held to a higher moral standard than other writers in the genre. I think this paragraph from a discussion about "raciness" (questions as to whether it was a strategy to get published in book form, encouraged by editors for artistic reasons, part of an artistic movement that advocated frankness and naturalism) in an entry at gadetection.pbworks.com/ sums up the problem:"One problem with the Great Artist treatment Chandler often gets today is that these questions do not get asked. Chandler is considered
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +23,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110281046-felix-terry-pratchett-snufflarge.jpg"
-image_caption: ""
 ---
 
 In his thirty-ninth “Discworld” novel, ‘[Snuff](http://www.terrypratchett.co.uk/index.php/books/snuff)’, Terry Pratchett takes his beleaguered officer of the law Sam Vimes on a well-deserved holiday (the relaxation bit does not last long, of course) to the countryside. Pratchett has built, over the course of the novels, an entire self-contained universe set on the disc of a world on the back of four elephants standing on the back of the a giant turtle, with a cast numbering in the hundreds.

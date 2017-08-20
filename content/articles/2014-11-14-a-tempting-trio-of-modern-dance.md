@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jiaqi Shi reviews the Ceremony of Innocence/The Age of Anxiety/Aeternum at the Royal Opera House, Covent Garden
 date: "2014-11-14 21:01:41 +0000"
-
-# Attributes from Felix Online V1
-id: "4884"
-old_path: /arts/4884/a-tempting-trio-of-modern-dance
+image: "http://felixonline.co.uk/img/upload/201411142101-ps3110-7127875081_dfbc91a38a_z.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4884/a-tempting-trio-of-modern-dance
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411142101-ps3110-7127875081_dfbc91a38a_z.jpg"
-image_caption: ""
 ---
 
 In front of a warm, receptive crowd, last Friday saw the opening of an exciting programme at the __Royal Opera House__, including a new ballet by Liam Scarlett, choreographed to Bernstein’s _Symphony no. 2, The Age of Anxiety_.

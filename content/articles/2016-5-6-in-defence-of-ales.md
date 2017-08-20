@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Ales are heavenly elixirs that don’t need to be cold and fizzy to taste wonderful
 date: "2016-05-06 09:48:54 +0100"
-
-# Attributes from Felix Online V1
-id: "6118"
-old_path: /comment/6118/in-defence-of-ales
+image: "http://felixonline.co.uk/img/upload/201605061048-felix-squirrel ale.jpg"
+image_caption: "Like me, you can enjoy classy beverages like this. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6118/in-defence-of-ales
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +21,6 @@ authors:
  - jlc14
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061048-felix-squirrel ale.jpg"
-image_caption: ""
 ---
 
 Every Friday I pick up a copy of FELIX to glance at the headline, look at the centrefold to see if I recognise anyone in it, quietly complain to myself that my half-hearted attempts at developing a six-pack have yet to succeed, read Hangman, lament the fact that it's only one page long, and amuse myself with the idea of running for Felix Editor just to convert the whole damn thing into 32 pages of Hangman 4 teh lulz (note to Grace, I’m not actually seriously going to do it).

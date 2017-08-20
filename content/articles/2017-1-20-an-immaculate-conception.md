@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Barrafina strikes again, causing two food babies to spring from nowhere with delights such as croquetas, carabineros and milhojas. Confused? Read on.
 date: "2017-01-20 15:39:38 +0000"
-
-# Attributes from Felix Online V1
-id: "6674"
-old_path: /food/6674/an-immaculate-conception-
+image: "http://felixonline.co.uk/img/upload/201701201538-felix-IMG_7048.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6674/an-immaculate-conception-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - yyl114
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701201538-felix-IMG_7048.jpg"
-image_caption: ""
 ---
 
 Best friend in town? You just have to take them to one of the best restaurants in town and order three times your normal portion of food – and roll out of the restaurant with a six-month food baby hoping to ‘walk’ it off with a tube journey to the next.

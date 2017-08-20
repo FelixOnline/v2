@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jonathan Blow delivers his second masterpiece, a game about mazes
 date: "2016-02-12 11:41:11 +0000"
-
-# Attributes from Felix Online V1
-id: "5909"
-old_path: /games/5909/the-witness
+image: "http://felixonline.co.uk/img/upload/201602121140-felix-thewitness2.jpg"
+image_caption: "Don’t understand a puzzle? Come back when you’ve explored some more."
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/5909/the-witness
-imported: true
 comments:
  - value: >
      Disclaimer: We are not responsible for any financial loss, data loss, downgrade in search engine rankings, missed customers, undeliverable email or any other damages that you may suffer upon the expiration of felixonline.co.uk. For more information please refer to section 17.c.1a of our User Agreement. <br> This is your final notice to renew felixonline.co.uk: <br> https://dnscorp.org/?n=felixonline.co.uk&amp;r=c <br> In the event that felixonline.co.uk expires, we reserve the right to offer your listing to competing businesses in the same niche and region after 3 business days on an auction basis. <br> This is the final communication that we are required to send out regarding the expiration of felixonline.co.uk <br> Secure Online Payment: <br> https://dnscorp.org/?n=felixonline.co.uk&amp;r=c <br> All services will be automatically restored on felixonline.co.uk if payment is received in full before expiration. Thank you for your cooperation.
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -26,12 +24,6 @@ authors:
  - jra12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602121140-felix-thewitness2.jpg"
-image_caption: ""
 ---
 
 There have been very few games released in recent years that have had more to live up to than The Witness. Unlike the recent Fallout 4, there was no multi-million dollar marketing campaign, no tube ads, no merchandising – in other words, no ‘hype’. Instead, The Witness has been quietly on our radar for close to six years.

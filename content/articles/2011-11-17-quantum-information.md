@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Alexander Karapetian takes a look at the latest developments in quantum systems
 date: "2011-11-17 20:30:30 +0000"
-
-# Attributes from Felix Online V1
-id: "1761"
-old_path: /science/1761/quantum-information
+image: "http://felixonline.co.uk/img/upload/201111172030-pk1811-nvcenter.jpg"
+image_caption: "An individual nitrogen vacancy centre in diamond can be used as a Qubit"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1761/quantum-information
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ak6309
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172030-pk1811-nvcenter.jpg"
-image_caption: ""
 ---
 
 Two developing technologies have been touted to mark the emergence of new quantum systems. Published in the journal Science last month, the fields of plasmonics and nanophotonics promise to speed up the advent of quantum information systems, which are capable of achieving processing powers that are orders of magnitude larger than classical computers.

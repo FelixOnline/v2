@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Let's talk dogging
 date: "2017-03-17 17:28:08 +0000"
-
-# Attributes from Felix Online V1
-id: "6916"
-old_path: /sex/6916/a-beginners-guide-to-public-sex
+image: "http://felixonline.co.uk/img/upload/201703171727-felix-Screen Shot 2017-03-17 at 17.27.33.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sex/6916/a-beginners-guide-to-public-sex
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sex
 tags:
@@ -23,12 +20,6 @@ authors:
  - bcmaile
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171727-felix-Screen Shot 2017-03-17 at 17.27.33.png"
-image_caption: ""
 ---
 
 So, since this is the last issue before the Spring break, and as people customarily tend to travel during breaks, this article is going to be about taking advantage of opportunities to have sex in unusual locations. Of course, I’m not referring to France (their love of cheese is not unusual – just deal with it) or other travel destinations, but I’m trying to make a tenuous link with fucking in weird places. So, take a break from revision and prepare to be entertained.

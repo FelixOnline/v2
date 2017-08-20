@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Our face is one of the main things that identifies us as an individual.
 date: "2012-01-19 20:13:08 +0000"
-
-# Attributes from Felix Online V1
-id: "2009"
-old_path: /science/2009/how-we-find-faces
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2009/how-we-find-faces
-imported: true
 comments:
  - value: >
      Etc, Etc. Interesting point. I don't know how it is with other brain scientists, but in the case of Zeki, his book retclefs deeply on Plato and Schopenhauer, and connects them to the new brain science. In my exchanges with Zeki, he seems to value many lines of inquiry, and he emphasizes that the science of visual perception and visual cognition are very much in their infancy, so there's room for many new theoretical frameworks.Sam, thanks for that really illuminating story. By understanding how we think and how we see, we can definitely draw and paint better. Betty Edwards has been a great contributor to this idea.Anonymous, I've mentioned animals studies in the field of eyetracking, and there are certainly primate studies on mirror neurons and such. Again, that's an area where there's much more to learn.Anon 1. Not familiar with that show. Is it on YouTube?MdMattin, I've heard of those studies on direction of gaze vs. cognition. Do you have links?,Ladies,For men sexual <a href="http://ijlvamt.com">atoaictrtn</a>
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Babies have a tendency to attend to face and “face-like” stimuli (such as a triangle on a point as opposed to on a base). With faces practically hard-wired into our systems from a young age, it makes sense that there is a part of the brain dedicated to recognising faces in opposition to non faces – the fusiform gyrus.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Felix sends undercover reporter MC Hämmer on a night out...
 date: "2012-10-11 20:51:03 +0100"
-
-# Attributes from Felix Online V1
-id: "2655"
-old_path: /news/2655/one-night-in-gem-bar
+image: "http://felixonline.co.uk/img/upload/201210112150-felix-gem-bar-mc-hammerrgb.jpg"
+image_caption: "A quick panoramic view of the venue"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2655/one-night-in-gem-bar
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112150-felix-gem-bar-mc-hammerrgb.jpg"
-image_caption: ""
 ---
 
 Undercover reporting allows for the scythe of truth to cut through wrongdoings like a wieldy knife through butter. Corruption can be unmasked! Bureaucracy criticized! All with a single tap of the keyboard, preferably followed by several more. But how could one possibly decide what deserving targets to strike? The answer, in this case, was determined by the fact that there was nothing better to do on Tuesday night. The fickle finger of fate fell upon the RCSU Autumn Ball, held at Soho’s Gem Bar.

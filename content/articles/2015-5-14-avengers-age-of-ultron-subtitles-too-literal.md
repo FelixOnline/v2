@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Avengers: Age of Ultron is a worldwide hit, but in China the subtitles are causing issues
 date: "2015-05-14 21:47:27 +0100"
-
-# Attributes from Felix Online V1
-id: "5517"
-old_path: /film/5517/avengers-age-of-ultron-subtitles-too-literal
+image: "http://felixonline.co.uk/img/upload/201505142246-js5913-age-of-ultron-cmyk.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5517/avengers-age-of-ultron-subtitles-too-literal
-imported: true
 comments:
  - value: >
      birkenstocks australia <br>birkenstock best price http://birkenstockaustraliamalls.com/,christianlouboutin <br>christian louboutin sale http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin boots canada <br>cheap christian louboutin canada http://canadachristianlouboutin.blogspot.com/,FXtRcE http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com,fVjkOP http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com,We4GzQ http://www.y7YwKx7Pm6OnyJvolbcwrWdoEnRF29pb.com,Thanks really handy. Will certainly share site with my good friends <br>buy nba 2k17 mt http://socearn.com/blogs/1350/2286/nba-2k17-mt-coins-for-sale-howto-replicate-wii-activities,Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means more now than ever since the new Google update: Panda. No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Googl
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +23,6 @@ authors:
  - js5913
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505142246-js5913-age-of-ultron-cmyk.jpg"
-image_caption: ""
 ---
 
 _Age of Ultron_ is rapidly approaching a worldwide box office take of one billion US dollars (a touch under £650 million), but that doesn’t mean it hasn’t encountered its fair share of problems.

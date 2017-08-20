@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Shooting the breeze with the popular club
 date: "2012-01-20 17:19:46 +0000"
-
-# Attributes from Felix Online V1
-id: "2043"
-old_path: /sport/2043/captains-interviews-netball
+image: "http://felixonline.co.uk/img/upload/201201201718-felix-img_8914.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2043/captains-interviews-netball
-imported: true
 comments:
  - value: >
      Dear Author, <br> <br>Personally I like the outfit more than the game itself. <br>Particularly when worn by the treasurer. <br>Very sweet. <br>
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - ial08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201201718-felix-img_8914.jpg"
-image_caption: ""
 ---
 
 After a nice, long (but not long enough) Christmas break, your Felix Sport captains’ interviews are back! This week, two lovely ladies from Netball: Lucie Hazell, Club Captain, and Feroza Kassam, Club Treasurer.

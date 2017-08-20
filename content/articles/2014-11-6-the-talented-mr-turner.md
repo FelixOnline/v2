@@ -4,18 +4,15 @@ title: >
 subtitle: >
   John Park's Ramblings about Mr Turner
 date: "2014-11-06 19:22:26 +0000"
-
-# Attributes from Felix Online V1
-id: "4777"
-old_path: /film/4777/the-talented-mr-turner
+image: "http://felixonline.co.uk/img/upload/201411061923-snb11-mr-turner-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4777/the-talented-mr-turner
-imported: true
 comments:
  - value: >
      fitflop fiorella for sale <br>fitflops sale http://singaporeasalefitflops.blogspot.com/,price fitflops <br>fitflops buy online http://www.australiafitflops.com/,cheapest fitflops online <br>fitflops sale online http://www.australiafitflops.com/,birkenstock sale clearance <br>birkenstock sale australia http://birkenstockaustralia.rochecap.org/,louboutin new york <br>christian louboutin shoes canada http://christianlouboutincanadaoutlet.blogspot.com/,With thanks! This is an impressive site!. <br>madden 17 news https://vk.com/event127155530,2UqdQI http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - snb11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411061923-snb11-mr-turner-copy.jpg"
-image_caption: ""
 ---
 
 Acclaimed director Mike Leigh has an array of impressive films to his name. And _Mr Turner _is no exception when it comes to his expert craftsmanship. It is a hugely ambitious biopic, one that covers decades of an eccentric artist’s life, packing the narrative full with rich, colourful settings, memorable characters, and a deep, poignant view into the protagonist.

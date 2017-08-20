@@ -4,18 +4,15 @@ title: >
 subtitle: >
   In Brief
 date: "2013-03-15 00:14:08 +0000"
-
-# Attributes from Felix Online V1
-id: "3459"
-old_path: /news/3459/london-based-hedge-fund-donates-20m-to-set-up-research-centre
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3459/london-based-hedge-fund-donates-20m-to-set-up-research-centre
-imported: true
 comments:
  - value: >
      That's hell lot of P'a <br> <br>Man went haaaaaaard ,Kudos for the great job on Stern. Grew up listening to your Dad and after herinag you Thursday morning I love the fun innocence in your voice. This will give you some really good exposure. You handled it with great composure. Hard to believe how you have grown up so fast or worse yet.. that I have grown old as quickly. Thank you for doing the show!,I was so excited to hear you on Howard this <a href="http://vfkwls.com">moinnrg</a>. I heard your music a couple years ago and loved it, but could never find it anywhere. After listening to your interview, I went directly to iTunes and downloaded your single. I look forward hearing a lot more! You are a very smart girl;I could tell by the way you handled yourself this <a href="http://vfkwls.com">moinnrg</a>!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A London-based Hedge Fund, [Brevan Howard](http://www.brevanhoward.com/), have decided to donate £20.1 million ($30 million) to Imperial College in order to set up a finance research centre after them.

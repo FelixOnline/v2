@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Pushing for cheaper food and drink in pubs and restaurants!
 date: "2013-10-04 00:25:24 +0100"
-
-# Attributes from Felix Online V1
-id: "3797"
-old_path: /biz/3797/axe-vat-for-the-hospitality-industry
+image: "http://felixonline.co.uk/img/upload/201310040124-jal08-bus_vat1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/3797/axe-vat-for-the-hospitality-industry
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - jt2010
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310040124-jal08-bus_vat1.jpg"
-image_caption: ""
 ---
 
 How can reducing VAT help the economy?

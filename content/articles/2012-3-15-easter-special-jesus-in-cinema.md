@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Read the book first!
 date: "2012-03-15 20:16:00 +0000"
-
-# Attributes from Felix Online V1
-id: "2358"
-old_path: /film/2358/easter-special-jesus-in-cinema
+image: "http://felixonline.co.uk/img/upload/201203152014-ams111-jesus.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2358/easter-special-jesus-in-cinema
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - jgp09
  - lw408
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152014-ams111-jesus.jpg"
-image_caption: ""
 ---
 
 __The King of Kings (1927) – H. B. Warner__

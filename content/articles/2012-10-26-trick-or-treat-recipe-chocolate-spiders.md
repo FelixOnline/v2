@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Rosemary Peters hopes you like creepy crawlers
 date: "2012-10-26 02:52:24 +0100"
-
-# Attributes from Felix Online V1
-id: "2759"
-old_path: /food/2759/trick-or-treat-recipe---chocolate-spiders-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2759/trick-or-treat-recipe---chocolate-spiders-
-imported: true
 comments:
  - value: >
      we got yuban. taster's chocie and nescafe, and as for chocolate, we got swiss miss, nesquik, and that hershey's syrup. and I almost forgot to tell you, the coffee we stole from the motels, we happen to have that also.,Bonsoir ma che8re Diana! Heureuse de te retrouver en 2012 !!!... ravie de de9couvrir tes <a href="http://luqrshyx.com">toetus</a> dernie8res cre9ations...Je m'imagine avec la toque du cuisinier... J'en posse8de une !, car en 2003 j'ai passe9 et re9ussi le diplf4me d'e9tat de la gastronomie ... pousse9 par mes enfants et un ami grand cuisinier suisse...Je te fais de gros bisous et hum!! comme j'aimerais de9guster tous ces ge2teaux!, extra energy erythromycin macrolide accutane online system guide , good statistic propecia usa cheap list of auto insurance levitra online
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -27,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Want to make some treats this year for Halloween? Try your hand at these frightfully delicious chocolate-covered peanut butter spiders. Your friends and family will be screaming with delight after they take their first bite.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial 5 – 3 & 6 – 1 Cambridge
 date: "2011-03-10 21:15:36 +0000"
-
-# Attributes from Felix Online V1
-id: "1081"
-old_path: /sport/1081/double-win-for-ice-hockey-b-team-against-cambridge
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1081/double-win-for-ice-hockey-b-team-against-cambridge
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - wm207
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Devils were confident going up against the bottom-of-the-league Cambridge, but remained cautious after their previous close call with Oxford Women’s.

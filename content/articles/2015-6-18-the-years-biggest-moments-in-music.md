@@ -4,17 +4,14 @@ title: >
 subtitle: >
   Grace Rahman reflects on the events of a year that hasn’t really ended
 date: "2015-06-18 19:56:51 +0100"
+image: "http://felixonline.co.uk/img/upload/201506182049-jyg11-kate-bush.jpg"
 draft: true
-
-# Attributes from Felix Online V1
-id: "5631"
-old_path: /music/5631/the-years-biggest-moments-in-music
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5631/the-years-biggest-moments-in-music
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +23,6 @@ authors:
  - ygr12
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506182049-jyg11-kate-bush.jpg"
-image_caption: ""
 ---
 
 No one else thinks it’s the end of the year, but we’re going to summarise the best, worst and most important moments in music of this year. So while you spent the year locked in labs, cramming or pretending to do your FYP, you might have missed the following.

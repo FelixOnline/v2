@@ -4,18 +4,16 @@ title: >
 subtitle: >
   We need to end the trope that women make love, and accept that they like sex
 date: "2016-04-29 10:45:18 +0100"
-
-# Attributes from Felix Online V1
-id: "6103"
-old_path: /features/6103/im-a-slut-and-proud
+image: "http://felixonline.co.uk/img/upload/201604291144-felix-Screen Shot 2016-04-26 at 19.34.49.png"
+image_caption: "Who here has ever been called a slut?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6103/im-a-slut-and-proud
-imported: true
 comments:
  - value: >
      If you're proud then why did you not put your name on the article? Seems a bit hypocritical to me.,If you're proud then why did you not put your name on the article? Seems a bit hypocritical to me.,If you're proud then why did you not put your name on the article? Seems a bit hypocritical to me.,Society needs functioning families. If all women become whores in the image of the anonymous author of this article, the elementary unit of our society - the family - breaks down. <br>It is not about "empowerment". It is about discipline. Society as a whole suffers from promiscuity. It destroys civil society. No self-respecting man wants a steady relationship with a "slut". No man needs to pursue a steady relationship with a woman if he gets sex "for free". This mode of thinking is why marriage is in decline, and ultimately it are children that are paying the price. <br>Since women bear the main cost of extra-marital child birth, they have acquired the role of the "chooser" in our society and in nature. Courtship is the m
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -26,12 +24,6 @@ authors:
  - icanon
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201604291144-felix-Screen Shot 2016-04-26 at 19.34.49.png"
-image_caption: ""
 ---
 
 _This article was published as part of FELIX's Sex Survey launch. Do the survey [here](http://felixonline.co.uk/go/sexsurvey)._

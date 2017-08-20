@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Theron rules over latest summer blockbuster
 date: "2012-06-03 16:27:38 +0100"
-
-# Attributes from Felix Online V1
-id: "2522"
-old_path: /film/2522/long-live-the-evil-queen
+image: "http://felixonline.co.uk/img/upload/201206031727-felix-snow-white-huntsman-movie-image-charlize-theron-5.jpg"
+image_caption: "Theron a roll! Sorry, that caption attempt was a bit Grimm..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2522/long-live-the-evil-queen
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +23,6 @@ authors:
  - jgp09
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206031727-felix-snow-white-huntsman-movie-image-charlize-theron-5.jpg"
-image_caption: ""
 ---
 
 __Snow White and the Huntsman__

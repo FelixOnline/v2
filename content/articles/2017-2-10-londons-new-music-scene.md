@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tired of the same old songs, or just like listening to live music? The new music scene in London is vibrant and flourishing, beginning with the Roundhouse Rising Festival next week.
 date: "2017-02-10 15:23:13 +0000"
-
-# Attributes from Felix Online V1
-id: "6762"
-old_path: /music/6762/londons-new-music-scene-
+image: "http://felixonline.co.uk/img/upload/201702101522-felix-5847999331_7d0a5f8f9c_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6762/londons-new-music-scene-
-imported: true
 comments:
  - value: >
      This is great! ,I’ll immediately grab yourr rsss feeed as I ccan not too find our e-mail subscrription lik orr newsleter service. <br>Do youu hae any? Kindoy allow mee understtand iin order that I maay subscribe. <br>Thanks. It's perfct tome to make somee plans for thhe future andd iit is <br>tie tto bee happy. I hve rea tnis post annd if I could I want to suggeat you <br>skme ineresting tuings or suggestions. Perthaps you couldd writte next artticles refedrring to thius article. <br>I wwish tto rdad mlre thints aboutt it! I’ll mmediately seize yourr rss <br>as I caan nott tto fihd yourr e-mail subscription liink orr nesletter service. <br>Do you’ve any? Kindl permit mee understand soo that <br>I may subscribe. Thanks. http://Cspan.co.uk
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +23,6 @@ authors:
  - theofarah13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101522-felix-5847999331_7d0a5f8f9c_o.jpg"
-image_caption: ""
 ---
 
 Part of the allure of moving to London for music lovers is the incredible access to up and coming artists. Many times while living here, I’ve high-fived myself for gaining hipster points after discovering artists who’ve yet to break into the charts. Vanity aside, the ease with which Londoners can listen to new sounds and find quality acts is exciting and inspiring.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tim Zuehlsdorff discusses solutions to the apparent conflict between a free financial market and a stable economy
 date: "2012-01-19 20:05:30 +0000"
-
-# Attributes from Felix Online V1
-id: "2004"
-old_path: /biz/2004/democracy-and-capitalism-an-unhappy-marriage
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/2004/democracy-and-capitalism-an-unhappy-marriage
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -23,12 +20,6 @@ authors:
  - ams111
  - tjz07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 When Lehman Brothers filed for bankruptcy on 15 September 2008, it marked the most dramatic collapse of an U.S. firm in history. In many ways, the name of the once fourth biggest investment bank in the United States has become a synonym for the global financial meltdown that shook the world in 2008 and whose aftershocks are still felt today.

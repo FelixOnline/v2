@@ -4,16 +4,13 @@ title: >
 subtitle: >
   After months of anticipation, Felix releases its review.
 date: "2014-01-22 14:29:10 +0000"
-
-# Attributes from Felix Online V1
-id: "4267"
-old_path: /games/4267/confessions-of-gta-gamer-style
+image: "http://felixonline.co.uk/img/upload/201401221429-me1711-games_gtargb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4267/confessions-of-gta-gamer-style
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - css11
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201401221429-me1711-games_gtargb.jpg"
-image_caption: ""
 ---
 
 As a massive player of Grand Theft Auto 4, suprisingly I was not that excited for the new Grand Theft game. I felt that 4 would forever be my Grand Theft Auto game of choice and that 5 would just be more of the same in a disappointing way. The adverts showcasing the three new characters for this game and the way you could switch between them just seemed like a gimmick to me, and the city it takes place in, really a copy of Los Angeles, seemed samey. On Christmas day of 2013 Santa showed me just how wrong I was by giving me a copy of this game. Here follows everything about Grand Theft Auto 5 that managed to change my mind!

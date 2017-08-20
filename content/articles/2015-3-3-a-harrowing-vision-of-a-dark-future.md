@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Fred Fyles questions what’s real at the Duke of York’s The Nether
 date: "2015-03-03 14:10:50 +0000"
-
-# Attributes from Felix Online V1
-id: "5319"
-old_path: /arts/5319/a-harrowing-vision-of-a-dark-future
+image: "http://felixonline.co.uk/img/upload/201503031410-ps3110-07-the-nether---isabella-pappas,-stanley-townsend---1200px.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5319/a-harrowing-vision-of-a-dark-future
-imported: true
 comments:
  - value: >
      I love this website - its so usefull and helpfull <br>nba 2k17 mt http://www.in2-travel.com/travel-blogs/nhl_17_coins_definate_yes_in_case_you_.html,We are a professional and reliable online shopping center providing a variety of hot selling products at reasonable prices and shipping them globally. As a global online store, likecheapjordans.com has developed long lasting ties with factories, distributors and warehouses throughout the wholesale community. Eliminating unnecessary costs and delivering the lowest possible prices to customers worldwide, our aim is to make every one of our customers can access to their favorite products with the lowest price. We understand every customers have different needs about the prices and the quality of the products, so the prices of our products are set are based on the different quality of our products. We are committed to making every customers are able to buy what they really need when they are in likecheapjordans.com, and enjoy shopping time. <br>cheap jordans online http://
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503031410-ps3110-07-the-nether---isabella-pappas,-stanley-townsend---1200px.jpg"
-image_caption: ""
 ---
 
 _“Any sufficiently advanced technology is indistinguishable from magic”_

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Interesting points raised at Council
 date: "2014-02-14 05:06:13 +0000"
-
-# Attributes from Felix Online V1
-id: "4381"
-old_path: /news/4381/in-appointments-we-trust
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4381/in-appointments-we-trust
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - snb11
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 During Tuesday’s Union Council meeting, one of the tabled papers proposed the ratification of two student trustees who were appointed last term.

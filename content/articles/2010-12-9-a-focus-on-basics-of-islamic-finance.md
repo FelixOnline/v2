@@ -4,16 +4,13 @@ title: >
 subtitle: >
   An introduction to the world of Sharia-compliant finance
 date: "2010-12-09 19:29:02 +0000"
-
-# Attributes from Felix Online V1
-id: "505"
-old_path: /biz/505/a-focus-on-basics-of-islamic-finance
+image: "http://felixonline.co.uk/img/upload/201012091925-ac1507-minarets.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/505/a-focus-on-basics-of-islamic-finance
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ac1507
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012091925-ac1507-minarets.jpg"
-image_caption: ""
 ---
 
 __So, what is Islamic Finance, really? Give me the [basics](http://www.google.co.uk/url?sa=t&source=web&cd=3&ved=0CCYQFjAC&url=http://www2.standardandpoors.com/spf/pdf/media/An_Introduction_To_Islamic_Finance.pdf&rct=j&q=standard%20%26%20poor's%20islamic%20finance%20FAQ&ei=Kj0BTZSqHsfPhAf5vajvBw&usg=AFQjCNFux9d60WTnBP2Kqfy1AimeRbaC0Q&sig2=8wi2LiZvE8SGK5CwTqyp5Q&cad=rja).__

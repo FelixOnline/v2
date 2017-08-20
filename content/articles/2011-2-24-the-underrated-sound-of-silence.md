@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In this edition of Priya Garg’s tales, we find her off the track in Argentina’s answer to the Lake District, uncovering hidden beauties and inner tranquillity
 date: "2011-02-24 19:20:30 +0000"
-
-# Attributes from Felix Online V1
-id: "860"
-old_path: /travel/860/the-underrated-sound-of-silence-
+image: "http://felixonline.co.uk/img/upload/201102241916-nm1010-mountain.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/860/the-underrated-sound-of-silence-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - pg405
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102241916-nm1010-mountain.jpg"
-image_caption: ""
 ---
 
 A bus took us round meandering long corners and sharp curves on our way to San Carlos de Bariloche, which rests at the foothills of the Andes, until we finally reached Argentina’s answer to the Lake District. Snow-capped mountains lay in the distance as we rumbled towards our destination, huge geographical reliefs looming in the bright blue sky. The chill of the air began to cut through our clothes. However, the undisputed masterpiece of the area, an unbelievably beautiful lake named Nahuel Huapi, quickly removed us from this vapid distraction.

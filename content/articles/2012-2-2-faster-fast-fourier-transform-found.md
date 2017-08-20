@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A group of MIT researchers recently presented their findings regarding an improved algorithm for Fast Fourier Transforms.
 date: "2012-02-02 19:37:09 +0000"
-
-# Attributes from Felix Online V1
-id: "2092"
-old_path: /science/2092/faster-fast-fourier-transform-found
+image: "http://felixonline.co.uk/img/upload/201202030340-ak6309-sfft4.png"
+image_caption: "Fourier Transforms are highly useful for signal processing"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2092/faster-fast-fourier-transform-found
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +21,6 @@ authors:
  - ak6309
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202030340-ak6309-sfft4.png"
-image_caption: ""
 ---
 
 Researchers at MIT have discovered a new method of performing the Fast Fourier Transform algorithm which, in a large set of use cases, adds performance improvements. The MIT group submitted their paper, “[Nearly Optimal Sparse Fourier Transform](http://arxiv.org/abs/1201.2501)” to ArXiv on 12 January and presented their findings in the Symposium on Discrete Algorithms (SODA) last week.

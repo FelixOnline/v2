@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Not every student has the luxury of a healthy bank balance
 date: "2012-06-07 19:50:54 +0100"
-
-# Attributes from Felix Online V1
-id: "2534"
-old_path: /comment/2534/the-importance-of-funded-scholarships
+image: "http://felixonline.co.uk/img/upload/201206072049-pk1811-money.png"
+image_caption: "Disappointingly, they transfer the money into your account, and don’t just give a massive pile"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2534/the-importance-of-funded-scholarships
-imported: true
 comments:
  - value: >
      test comment,Due to a bug in our commenting system your comment was categorised at spam and so didn't show up. Apologies for this and it shouldn't happen again. <br> <br>Jonathan Kim <br>Web admin,I think given the current situation you can expand that question to "How many people doing degrees go on to get jobs?" and get the same answer your looking for.,This is just poorly veiled advertising. I'm sure the College is glad to hear that you're spending their money on "a few beers".,I'm sure daddy would be thrilled to hear that you're spending his hard-earned cash on "a few lines of coke"? <br> <br>Christ, admire the honesty. I think everyone at IC needs "the occasional beer or two". It's probably what keeps us from having so many people going postal. <br> <br>Best of luck with the fundraising for this worthy cause. And keep savouring the sweet taste of those pricey £2 pints...,Nice to see felix removing a comment which doesn't break the commenting policy just because it disagrees with the article.,I live off a loan, grant and bu
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206072049-pk1811-money.png"
-image_caption: ""
 ---
 
 Like an excitable kid on Christmas morning, A-level results day saw me up before dawn, frantically refreshing the beloved UCAS track page to see whether or not I’d cut the mustard. Unfortunately, I had to be up and at work early that morning, so couldn’t make it in to school to find out my exact results or jump into one of those coveted Guardian photographs (though I’m sure I lack the breasts and extra X chromosome to meet their criteria, anyway).

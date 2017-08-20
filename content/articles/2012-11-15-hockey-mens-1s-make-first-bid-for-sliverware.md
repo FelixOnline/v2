@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Anthony Vaquero on Men's 1sts going for gold. Well, silver...
 date: "2012-11-15 22:24:36 +0000"
-
-# Attributes from Felix Online V1
-id: "2917"
-old_path: /sport/2917/hockey-mens-1s-make-first-bid-for-sliverware-
+image: "http://felixonline.co.uk/img/upload/201211152223-tna08-icsm-hockey.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2917/hockey-mens-1s-make-first-bid-for-sliverware-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - av809
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211152223-tna08-icsm-hockey.jpg"
-image_caption: ""
 ---
 
 Despite the almost blinding light from the dying sun, a strong start from IC produced the first opportunity within just a few minutes. Graham took it perfectly, dribbling easily into the D and dragging the ball straight past the keeper for a great first goal. This, however, was shortly followed with a quick response from UCL which equalised the game at 1-1.

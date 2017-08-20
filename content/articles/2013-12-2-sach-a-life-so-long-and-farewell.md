@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In today’s world I would challenge any reader of this newspaper to nominate a sportsperson that they could truly say they have an emotional attachment to. Messi, Ronaldo, Federer, Nadal, Tiger Woods; these names roll off the tongue as behemoths of their respective sports.
 date: "2013-12-02 21:40:06 +0000"
-
-# Attributes from Felix Online V1
-id: "4152"
-old_path: /comment/4152/sach-a-life-so-long-and-farewell
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4152/sach-a-life-so-long-and-farewell
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In today’s world I would challenge any reader of this newspaper to nominate a sportsperson that they could truly say they have an emotional attachment to. Messi, Ronaldo, Federer, Nadal, Tiger Woods; these names roll off the tongue as behemoths of their respective sports. Hearing these names evokes admiration, loyalty, respect, but never a sense of identification, brotherhood, or, most importantly, a sense that that particular player could ever possibly be bigger than the game itself.

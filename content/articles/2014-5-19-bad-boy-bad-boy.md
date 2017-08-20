@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It’s comedy season again, and things are kicking off in the most family-unfriendly way possible (in both a literal ‘this is a crude comedy’ and ‘this is a comedy where unfriendly acts are committed against a family’ sense)
 date: "2014-05-19 13:59:08 +0100"
-
-# Attributes from Felix Online V1
-id: "4614"
-old_path: /film/4614/bad-boy-bad-boy
+image: "http://felixonline.co.uk/img/upload/201405191459-jal08-neighbors-seth-rogen-rose-byrne.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4614/bad-boy-bad-boy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - js5913
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405191459-jal08-neighbors-seth-rogen-rose-byrne.jpg"
-image_caption: ""
 ---
 
 __Bad Neighbours__

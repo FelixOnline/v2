@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Laurence Pope gets all green-fingered (and goo-stained) in Plants vs Zombies DS
 date: "2011-05-20 04:31:40 +0100"
-
-# Attributes from Felix Online V1
-id: "1218"
-old_path: /games/1218/flower-power-in-your-pocket
+image: "http://felixonline.co.uk/img/upload/201105200531-felix-logo9.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1218/flower-power-in-your-pocket
-imported: true
 comments:
  - value: >
      TIDAK ADA
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105200531-felix-logo9.jpg"
-image_caption: ""
 ---
 
 I cannot stand writing articles. There, I said it.

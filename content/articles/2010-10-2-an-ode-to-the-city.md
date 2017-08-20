@@ -4,18 +4,15 @@ title: >
 subtitle: >
   London’s nightlife is constantly evolving. A prescriptive list of clubs would be futile
 date: "2010-10-02 07:17:04 +0100"
-
-# Attributes from Felix Online V1
-id: "169"
-old_path: /music/169/an-ode-to-the-city
+image: "http://felixonline.co.uk/img/upload/201010020815-ks607-TowerBri.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/169/an-ode-to-the-city
-imported: true
 comments:
  - value: >
      be happy and love. kiss,Eseis, paidia, xeerte polla pou emena den me endiaferoun. Egw lew oti den prepei na yparxei fanatismos kai h epistolh toy Katholikou ths Syrou mou arese. Einai s' auto to pneuma.
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010020815-ks607-TowerBri.jpg"
-image_caption: ""
 ---
 
 This is a tough job. Combine the thousands of clubs there are in London with the overbearing feeling that I’m approaching a very premature mid-life crisis and you’ll understand why introducing London’s nightlife to a Fresher is incredibly difficult.

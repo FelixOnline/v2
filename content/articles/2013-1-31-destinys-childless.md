@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Lucy Hagger teaches us about the birds, the bees and the pill with some biology thrown in
 date: "2013-01-31 23:28:46 +0000"
-
-# Attributes from Felix Online V1
-id: "3208"
-old_path: /science/3208/destinys-childless
+image: "http://felixonline.co.uk/img/upload/201301312328-tna08-destinys-child-love-songs-nuclear.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3208/destinys-childless
-imported: true
 comments:
  - value: >
      very well said
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301312328-tna08-destinys-child-love-songs-nuclear.jpg"
-image_caption: ""
 ---
 
 The pill has been letting women grab life by the balls instead of washing those of unwanted children for over 50 years. Roughly 100 million women worldwide take the pill and this has led to improved quality of living across the globe, huge reductions in numbers of deaths during childbirth and an understandably massive decrease in the number of unwanted pregnancies.

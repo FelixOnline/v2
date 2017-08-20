@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Study sheds new light on contagious canine cancer mechanism
 date: "2011-01-27 19:04:02 +0000"
-
-# Attributes from Felix Online V1
-id: "661"
-old_path: /science/661/contagious-canine-cancer-
+image: "http://felixonline.co.uk/img/upload/201101271859-ks607-skatedog.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/661/contagious-canine-cancer-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - cem10
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101271859-ks607-skatedog.jpg"
-image_caption: ""
 ---
 
 Researchers working on a contagious cancer found in dogs have discovered that the cancerous cells adopt an unusual method of genetic repair. The results of this study, published in Science last week, suggest that this particular cancer combats genetic decay by “stealing” genes from its canine host.

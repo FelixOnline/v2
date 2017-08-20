@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial College Symphony Orchestra play Rachmaninov, Khachaturian and Beal…
 date: "2013-11-24 23:57:51 +0000"
-
-# Attributes from Felix Online V1
-id: "4134"
-old_path: /features/4134/dont-miss-a-treat-ic-symphony-orchestra-take-you-on-a-musical-journey
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4134/dont-miss-a-treat-ic-symphony-orchestra-take-you-on-a-musical-journey
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +20,6 @@ authors:
  - felart
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 If you’ve never seen Imperial College Symphony Orchestra play, you’re missing out! Full of science-loving musicians, ICSO is Imperial’s flagship orchestra playing great music to the highest standards.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Mean Girls, but with a west country accent
 date: "2011-02-10 20:07:26 +0000"
-
-# Attributes from Felix Online V1
-id: "765"
-old_path: /tv/765/sex-drugs--growing-old
+image: "http://felixonline.co.uk/img/upload/201102102003-dr910-corriebe.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/765/sex-drugs--growing-old
-imported: true
 comments:
  - value: >
      Thanks for shirnag. What a pleasure to read!
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102102003-dr910-corriebe.jpg"
-image_caption: ""
 ---
 
 Skins, Season 5, has just started, and the first comment on Twitter was “Where is all the sex, drugs and rock ‘n’ roll?”

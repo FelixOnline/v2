@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Rufus Norris ushers in his tenure at the National Theatre with this updated morality play, featuring a powerhouse performance by Chiwetel Ejiofor
 date: "2015-05-07 09:52:48 +0100"
-
-# Attributes from Felix Online V1
-id: "5497"
-old_path: /arts/5497/the-extraordinary-journey-of-everyman
+image: "http://felixonline.co.uk/img/upload/201505071050-ff712-jpeg-7-everyman.jpg"
+image_caption: "A scene from Everyman - Chiwetel Ejiofor - Everyman"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5497/the-extraordinary-journey-of-everyman
-imported: true
 comments:
  - value: >
      Thanks intended for delivering these types of superior posting <br>nfl 17 http://paycationiq.com/blogs/10/47/fifa-coins-played-for-themselves-with-a-psp,http://viagracheapestprice-pills.org/ - viagracheapestprice-pills.org.ankor levitrafor-salegeneric.com.ankor http://without-prescription-onlinepropecia.net/,http://viagracheapestprice-pills.org/ - viagracheapestprice-pills.org.ankor levitrafor-salegeneric.com.ankor http://without-prescription-onlinepropecia.net/,http://viagracheapestprice-pills.org/ - viagracheapestprice-pills.org.ankor levitrafor-salegeneric.com.ankor http://without-prescription-onlinepropecia.net/,http://viagracheapestprice-pills.org/ - viagracheapestprice-pills.org.ankor levitrafor-salegeneric.com.ankor http://without-prescription-onlinepropecia.net/,http://viagracheapestprice-pills.org/ - viagracheapestprice-pills.org.ankor levitrafor-salegeneric.com.ankor http://without-prescription-onlinepropecia.net/,http://viagracheapestprice-pills.org/ - viagracheapestprice-pills.org.ankor levitrafor-sa
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505071050-ff712-jpeg-7-everyman.jpg"
-image_caption: ""
 ---
 
 For British actor Chiwetel Ejiofor, no role is too large. Coming to national prominence after his showstopping turn in _Othello_ in 2008, for which he won the Olivier Award for Best Actor, he returns to the UK this year with a spade of awards and nominations under his belt thanks to his stirring performance as Solomon Northup in the 2013 Steve McQueen film _12 Years A Slave_, which nabbed the top spot of numerous critics’ end of year lists. However, if any role is to give him pause it would be his latest one: Ejiofor is the titular character in the National Theatre’s production of _Everyman_, taking on the mantle of humanity. Rufus Norris’ first directorial effort as head of the National Theatre, _Everyman_ is a mixed bag, with strong performances and excellent physicality coming up against a lackluster script, whose elements jar in all the wrong places.

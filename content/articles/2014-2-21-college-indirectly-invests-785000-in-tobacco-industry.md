@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Earlier this week the London Student revealed that Imperial College has £785,000 indirectly invested in tobacco companies. This conflicts with the extensive cancer research done by Imperial academics.
 date: "2014-02-21 03:01:28 +0000"
-
-# Attributes from Felix Online V1
-id: "4412"
-old_path: /news/4412/college-indirectly-invests-785000-in-tobacco-industry
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4412/college-indirectly-invests-785000-in-tobacco-industry
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - nm708
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Earlier this week the London Student revealed that Imperial College has £785,000 indirectly invested in tobacco companies. This conflicts with the extensive cancer research done by Imperial academics.

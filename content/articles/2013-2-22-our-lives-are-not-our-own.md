@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Cloud Atlas is a masterpiece, says John Park
 date: "2013-02-22 01:32:25 +0000"
-
-# Attributes from Felix Online V1
-id: "3362"
-old_path: /film/3362/our-lives-are-not-our-own
+image: "http://felixonline.co.uk/img/upload/201302220131-tna08-13fb86ba0bb9f049b72b5b99e504dd08.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3362/our-lives-are-not-our-own
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302220131-tna08-13fb86ba0bb9f049b72b5b99e504dd08.jpg"
-image_caption: ""
 ---
 
 There isn’t an easy way to describe or to compliment the team effort from the Wachowski siblings and Tom Tykwer, and their boldest, grandest feature adaptation of Cloud Atlas, based on the novel of the same name by David Mitchell. All that can be said is that it’s brilliant. Absolutely brilliant. Here is a film of unimaginable scale and ambition, six (and maybe an extra half) different narrative strands all put together and connected beautifully with endless smart editing, a true work of wonder that needs to be seen. It would be a crime to miss this masterpiece on the big screen.

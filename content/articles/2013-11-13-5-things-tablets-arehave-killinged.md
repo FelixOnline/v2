@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Next Murderer in our series: finding the ultimate Culprit
 date: "2013-11-13 22:53:26 +0000"
-
-# Attributes from Felix Online V1
-id: "4051"
-old_path: /tech/4051/5-things-tablets-arehave-killinged
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4051/5-things-tablets-arehave-killinged
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ###  Elegance of making a photo:

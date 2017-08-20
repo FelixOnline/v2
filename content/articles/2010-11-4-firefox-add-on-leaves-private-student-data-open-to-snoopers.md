@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Unsecured Department of Computing network at hijacking app FireSheep’s mercy
 date: "2010-11-04 19:00:49 +0000"
-
-# Attributes from Felix Online V1
-id: "322"
-old_path: /news/322/firefox-add-on-leaves-private-student-data-open-to-snoopers-
+image: "http://felixonline.co.uk/img/upload/201011041857-ma1307-fbstalki.jpg"
+image_caption: "FireSheep is a little more subtle than this..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/322/firefox-add-on-leaves-private-student-data-open-to-snoopers-
-imported: true
 comments:
  - value: >
      It's a shame Imperial-WPA coverage in DoC is so poor. I hate using IC-DoC but don't really have a choice! It is scary how easy this add-on makes session hijacking :/,Facebook is now blocked on IC-DoC :p,https://www.facebook.com/ simples.,It'd be nice if that link kept its SSL... not great needing to copy link location and add an 's' for each click!,I hope SSL equivalents become more widespread yeah..,zomg - unsecure network isn't secure?!?!11eoen,If you want your data to be private, it’s your responsibility to ensure this is so. The argument that its more convenient to use the DoC wifi than Imperial-WPA is silly. That’s equivalent to saying that sex without a condom is more convenient. Possibly true, but you should know the consequences... <br>In both cases - Have Fun, Play Safe <br>,I bow down humbly in the persecne of such greatness.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011041857-ma1307-fbstalki.jpg"
-image_caption: ""
 ---
 
 Wireless network security has very often been the subject of criticism, and a proof of concept tool released two weeks ago called [FireSheep](http://codebutler.github.com/firesheep/) outlined how a combination of security problems on websites and wireless networks can result in the disclosure of personal information. Felix was able to use FireSheep in certain areas on campus to gain access to over twenty unsuspecting users’ Facebook, Twitter, Flickr, Tumblr and Gmail accounts.

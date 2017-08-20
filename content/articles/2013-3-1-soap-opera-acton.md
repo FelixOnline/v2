@@ -4,18 +4,15 @@ title: >
 subtitle: >
   An editorial on Acton, and a bit on the Translation Studies Unit – the line from College is rather vague at the moment
 date: "2013-03-01 00:58:00 +0000"
-
-# Attributes from Felix Online V1
-id: "3413"
-old_path: /comment/3413/soap-opera-acton
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3413/soap-opera-acton
-imported: true
 comments:
  - value: >
      I entirely agree that College should keep Evelyn Gardens open until the end of the lease. The halls are not in particularly bad condition (with the exception of Fisher), and would therefore not need a massive amount of investment over the next 32 years. <br> <br>Your argument regarding the lease extension is, however, misguided. Indeed, the way a leasehold typically works is that you pay a large amount of money upfront to purchase the leasehold, every year you pay ground rent (which is set at the time of the purchase, and normally doesn't increase much/at all after that), and at the end of the lease, you're left with nothing. <br> <br>Because the ground rent will have been set many decades ago, College could be paying ground rent of a few hundred pounds per year (essentially nothing). You claim that College could easily negotiate an extension of the lease, and I'm sure that's true, but the costs would be staggering: given the location, we're talking 8-9 figures for a reasonable extension.,I entirely agree that College s
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 [The new halls saga continues](http://felixonline.co.uk/arts/3417/pressure-continues-over-acton/).

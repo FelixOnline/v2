@@ -4,20 +4,17 @@ title: >
 subtitle: >
   Stephen Smith shares the easiest way to gourmet cooking with the Souffle Omelette
 date: "2011-02-17 19:46:49 +0000"
-
-# Attributes from Felix Online V1
-id: "825"
-old_path: /food/825/souffl-omelette
+image: "http://felixonline.co.uk/img/upload/201102171943-nm1010-omelette.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/825/souffl-omelette
-imported: true
 comments:
  - value: >
      But it looks so tasty with cheese. Why can't we have cheese?,Stephen, oh Stephen. Your name is pure poetry, alliteration at its best. Your writing flows like swiftly flowing river. Your recipes make me drool. All in all, you seem like a knowledgeable, wise and all-round grand guy. <br>So why, oh why, would you not want to add cheese?!,Cheese
  - value: >
      Eggs = so, so, wrong... Add cheese if you must but don't hold me to account when you take the first bite and wish you'd used rosemary instead.
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -30,12 +27,6 @@ authors:
  - ss10210
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102171943-nm1010-omelette.jpg"
-image_caption: ""
 ---
 
 Ingredients:

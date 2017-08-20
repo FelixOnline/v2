@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fast & Furious 6 is furiously fun
 date: "2013-05-23 21:39:11 +0100"
-
-# Attributes from Felix Online V1
-id: "3603"
-old_path: /film/3603/fast--furious--fierce--fearless
+image: "http://felixonline.co.uk/img/upload/201305232238-tna08-fast-furious-6-vin-diesel.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3603/fast--furious--fierce--fearless
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305232238-tna08-fast-furious-6-vin-diesel.jpg"
-image_caption: ""
 ---
 
 Letty (Rodriguez) died. She died right in front of our eyes when she was shot after a car-flip. We know it, the characters know it, but running out of fresh new ideas to carry on with the popular vehicular franchise, they have decided to bring her back from the dead. But rest assured that this isn’t the most absurd thing you’ll see in the film. See, The Fast & the Furious series isn’t exactly known for its credibility: the more it embraces its stupidity and its tight, succinct structure, the better.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The veteran playwright packs a punch with a powerful and lyrical indictment of modernity
 date: "2016-02-05 12:12:44 +0000"
-
-# Attributes from Felix Online V1
-id: "5872"
-old_path: /arts/5872/escaped-alone-is-churchill-at-her-surrealist-best
+image: "http://felixonline.co.uk/img/upload/201602051211-felix-escaped.jpg"
+image_caption: "Escaped Alone at the Royal Court."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5872/escaped-alone-is-churchill-at-her-surrealist-best
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +21,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602051211-felix-escaped.jpg"
-image_caption: ""
 ---
 
 Maybe Caryl Churchill should be worried. The past 14 months have seen a mass excavation of her earlier work, with four of her works being produced in the UK. From Maxine Peake’s tongue-twisting turn in _The Skriker_, a highlight of the Manchester International Festival, to the National Theatre’s double bill of _Light Shining in Buckinghamshire_ and _Here We Go_, Churchill’s work has been granted an attention normally reserved for the recently deceased.

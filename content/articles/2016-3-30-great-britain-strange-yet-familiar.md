@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Martin Parr brings together pictures of Britain as seen through the outsider's lens
 date: "2016-03-30 15:50:14 +0100"
-
-# Attributes from Felix Online V1
-id: "6082"
-old_path: /arts/6082/great-britain-strange-yet-familiar
+image: "http://felixonline.co.uk/img/upload/201603301649-jc7413-10. Strange and Familiar. Cas Oorthuys.jpg"
+image_caption: "An old man blows bubbles in London, 1953."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6082/great-britain-strange-yet-familiar
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +21,6 @@ authors:
  - jc7413
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603301649-jc7413-10. Strange and Familiar. Cas Oorthuys.jpg"
-image_caption: ""
 ---
 
 It is often said that familiarity breeds contempt. While that may not be true in life all the time, in photography at least, introducing a new observer to a tired scene can definitely produce some fresh perspectives. It is with this notion that British photographer Martin Parr curates _Strange and Familiar_, a photography exhibition of British subjects by foreign photographers. Known for his work scrutinising all manner of British clichés, Parr now turns his attention to what Britain might look like to an outsider.

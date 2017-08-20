@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Wandering through the misty morass: India's Western Ghats
 date: "2012-02-16 21:11:18 +0000"
-
-# Attributes from Felix Online V1
-id: "2186"
-old_path: /travel/2186/welcome-to-the-jungle
+image: "http://felixonline.co.uk/img/upload/201202162111-ams111-elephant.gif"
+image_caption: "A revitalising coconut scrub after a rough day at the office"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/2186/welcome-to-the-jungle
-imported: true
 comments:
  - value: >
      The Kerala becoming an increasing popular destination for tourists.The Kerala houseboat is not only economical but also non-polluting and environment friendly. The backwaters of Kerala is a remarkable experience, an opportunity to enjoy and contain an unhurried pace of life. The Kerala Houseboats have all the creature comforts of a good hotel including furnished bedrooms.
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -28,12 +26,6 @@ authors:
  - cr709
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162111-ams111-elephant.gif"
-image_caption: ""
 ---
 
 By the time I hit Kerala I was more than ready for it: with Rajasthan’s dusty forts a distant memory I was ready to hit up something a little more tropical. That’s the incredible thing about Kerala: after a short and breezy (read: forty hour and mosquito-infested) coastal train down from the north, you find yourself in paradise. Of course, to the rational mind that doesn’t doubt the existence of continental drift, this shouldn’t really come as much of a shock. But I was still in awe of the abundant African-esque flora and fauna at my disposal.

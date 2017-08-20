@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Cecily Johnson reports on the amazing fundraising achievement that has been accomplished in tragic circumstances
 date: "2015-03-19 23:39:31 +0000"
-
-# Attributes from Felix Online V1
-id: "5404"
-old_path: /news/5404/25000-raised-by-imperial-college-phd-student-for-cyclone-hit-vanuatu
+image: "http://felixonline.co.uk/img/upload/201503192339-cj914-rachel-1.jpg"
+image_caption: "Rachel with a group of Tanbok islanders"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5404/25000-raised-by-imperial-college-phd-student-for-cyclone-hit-vanuatu
-imported: true
 comments:
  - value: >
      Deeply moving. The world is indeed filled with good hearted people. Thank you for publishng this. I a very gratefu to get this short list of agencies direclty involved in the disaster relief and will donate right away. Thank you again.,Thank you so much "nothing is more powerful than a heart of a volunteer". God bless you,Many thanks, this site is very valuable.| <br>nba 2k16 mt database http://spaces.covers.com/blog/nhlcoins/NCAAB/04072016-cs-go-skins-has-assured-freedom-of-navigat.html
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503192339-cj914-rachel-1.jpg"
-image_caption: ""
 ---
 
 A PhD student of the Department of Chemistry has raised more than £13,000 since Sunday 15th March for relief efforts in the cyclone-hit island nation Vanuatu, after previously raising £12,000 to build a library for a school on one of the remote islands.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-05-20 09:16:02 +0100"
-
-# Attributes from Felix Online V1
-id: "6188"
-old_path: /film/6188/documentary-corner-a-riot-of-our-own
+image: "http://felixonline.co.uk/img/upload/201605201115-felix-A-Riot-Of-Our-Own (1).jpg"
+image_caption: "12 Bar Club – the last of a dying breed of the London gig scene. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6188/documentary-corner-a-riot-of-our-own
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - dmm04
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605201115-felix-A-Riot-Of-Our-Own (1).jpg"
-image_caption: ""
 ---
 
 No Nazis. No dark metal. Live acts seven days a week. These simple admission criteria meant that gigs could be booked in the same day, regardless of band size or experience, to play in front of the music-loving crowd who religiously converged on the 12 Bar Club, hidden in Denmark Street.

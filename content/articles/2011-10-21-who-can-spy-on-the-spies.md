@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Despite its labyrinthine plot, Lucy Wiles finds much to enjoy in Tomas Alfredson's latest project
 date: "2011-10-21 09:44:39 +0100"
-
-# Attributes from Felix Online V1
-id: "1582"
-old_path: /film/1582/who-can-spy-on-the-spies
+image: "http://felixonline.co.uk/img/upload/201110211044-felix-21:10:11-ffilm.jpg"
+image_caption: "Where the hell's Johnny English when you need him?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1582/who-can-spy-on-the-spies
-imported: true
 comments:
  - value: >
      This film hurt my brain. <br> <br>But maybe I'm just simple. <br> <br>I DON'T KNOW ANYMORE!
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +26,6 @@ authors:
  - ffilm
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110211044-felix-21:10:11-ffilm.jpg"
-image_caption: ""
 ---
 
 __Tinker Tailor Soldier Spy__

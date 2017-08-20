@@ -4,16 +4,13 @@ title: >
 subtitle: >
   On Wednesday 20th October, a very rare public lecture was given by one of the most famous and respected physicists alive today, Stephen Hawking, at the Royal Albert Hall in South Kensington
 date: "2010-11-04 18:47:17 +0000"
-
-# Attributes from Felix Online V1
-id: "312"
-old_path: /science/312/hawkings-lesson-for-life
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/312/hawkings-lesson-for-life
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - ae1409
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 On Wednesday 20th October, a very rare public lecture was given by one of the most famous and respected physicists alive today, Stephen Hawking, at the Royal Albert Hall in South Kensington.

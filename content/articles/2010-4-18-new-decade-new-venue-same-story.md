@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial unimpressive as Medicals take JPR Williams Cup for 8th consecutive year
 date: "2010-04-18 17:11:41 +0100"
-
-# Attributes from Felix Online V1
-id: "128"
-old_path: /sport/128/new-decade-new-venue-same-story
+image: "http://felixonline.co.uk/img/upload/201004181736-jn104-Varsity1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/128/new-decade-new-venue-same-story
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jn104
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201004181736-jn104-Varsity1.jpg"
-image_caption: ""
 ---
 
 IMPERIAL MEDICALS 29

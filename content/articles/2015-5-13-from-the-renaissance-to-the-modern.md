@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Fred Fyles finds common ground between two very different shows
 date: "2015-05-13 14:23:09 +0100"
-
-# Attributes from Felix Online V1
-id: "5516"
-old_path: /arts/5516/from-the-renaissance-to-the-modern
+image: "http://felixonline.co.uk/img/upload/201505131521-ps3110-image-2.-meiko-laughing-2005.jpg"
+image_caption: "Kodak Three Point Reflection Guide (Meiko laughing) by Christopher Williams. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5516/from-the-renaissance-to-the-modern
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505131521-ps3110-image-2.-meiko-laughing-2005.jpg"
-image_caption: ""
 ---
 
 The end of last month saw the opening of two exhibitions that delve into the world of art history and theory, taking a critical look at the development, continuation, and deconstruction of certain techniques within the art world. At first glance, the two couldn’t seem more different, one dealing with renaissance drawings and the other focussed on modern photography. But scratch beneath the surface, and they actually share many things in common: an appreciation of the production of images, an exploration of their forms’ respective pasts, and an emphasis on the importance of context within the fine arts.

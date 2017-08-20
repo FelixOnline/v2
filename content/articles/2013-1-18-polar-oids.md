@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lily Le lets the inner biologist out and checks out the Wildlife Photographer of the Year
 date: "2013-01-18 00:41:02 +0000"
-
-# Attributes from Felix Online V1
-id: "3138"
-old_path: /arts/3138/polar-oids
+image: "http://felixonline.co.uk/img/upload/201301180040-tna08-gull-fina.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3138/polar-oids
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301180040-tna08-gull-fina.jpg"
-image_caption: ""
 ---
 
 The Wildlife Photographer of the Year exhibition always proves an exciting, engaging, and inspiring visit if the permanent NHM displays were not already enough.

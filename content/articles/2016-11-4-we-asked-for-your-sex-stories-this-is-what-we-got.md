@@ -4,16 +4,13 @@ title: >
 subtitle: >
   We took to social media and asked you for some of the funniest sex stories you felt like sharing with us. These are the best of the bunch. If you have any stories that you think deserve to be featured in the paper, send them to us at milfelix@ic.ac.uk
 date: "2016-11-04 15:48:56 +0000"
-
-# Attributes from Felix Online V1
-id: "6400"
-old_path: /sex/6400/we-asked-for-your-sex-stories-this-is-what-we-got
+image: "http://felixonline.co.uk/img/upload/201611041546-felix-Screen Shot 2016-11-04 at 15.45.25.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sex/6400/we-asked-for-your-sex-stories-this-is-what-we-got
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sex
 tags:
@@ -23,12 +20,6 @@ authors:
  - felixteam
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611041546-felix-Screen Shot 2016-11-04 at 15.45.25.png"
-image_caption: ""
 ---
 
 ## Call me James

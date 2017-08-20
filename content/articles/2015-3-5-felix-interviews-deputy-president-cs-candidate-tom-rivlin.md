@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:33:07 +0000"
-
-# Attributes from Felix Online V1
-id: "5342"
-old_path: /comment/5342/felix-interviews-deputy-president-cs-candidate-tom-rivlin
+image: "http://felixonline.co.uk/img/upload/201503052132-snb11-tr511-5162.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5342/felix-interviews-deputy-president-cs-candidate-tom-rivlin
-imported: true
 comments:
  - value: >
      fitflop store <br>fitflop sandals http://australiafitflops.blogspot.com/,fit flops clearance <br>fitflop stores http://fitflopsau.blogspot.com/,cheap christian louboutin canada <br>cheap christian louboutin http://canadachristianlouboutinoutlet.blogspot.com/,cheap christian louboutin peep toes shoes <br>christian louboutin outlet http://canadachristianlouboutinoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503052132-snb11-tr511-5162.jpg"
-image_caption: ""
 ---
 
 __Voting is now open! Click [here ](https://vote.union.ic.ac.uk/)to take part now. __

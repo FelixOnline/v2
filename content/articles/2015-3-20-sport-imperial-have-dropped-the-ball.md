@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Editorial: Why I am so pissed off with what happened at Varsity
 date: "2015-03-20 14:18:24 +0000"
-
-# Attributes from Felix Online V1
-id: "5419"
-old_path: /comment/5419/sport-imperial-have-dropped-the-ball
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5419/sport-imperial-have-dropped-the-ball
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This week was meant to be a celebration of women at Imperial, as the women’s rugby team was set to headline Varsity for the very first time. The evening was meant to pay homage to the incredible progression of women’s sport and in fact women at Imperial in general, but in reality, due to the thoughtlessness of the staff of Sport Imperial, it fell flat on its face.

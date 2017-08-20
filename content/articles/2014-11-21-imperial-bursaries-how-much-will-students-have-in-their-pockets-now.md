@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Philippa Skett investigates the recent “Anti-Robin Hood” bursary change
 date: "2014-11-21 13:11:07 +0000"
-
-# Attributes from Felix Online V1
-id: "4923"
-old_path: /news/4923/imperial-bursaries-how-much-will-students-have-in-their-pockets-now
+image: "http://felixonline.co.uk/img/upload/201411211311-ps3110-website-picture-version.jpg"
+image_caption: "The change in the bursaries funds from 2016"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4923/imperial-bursaries-how-much-will-students-have-in-their-pockets-now
-imported: true
 comments:
  - value: >
      I adore this website - its so usefull and helpfull.| <br>csgo skins exchange http://www.nurmuslim.com/index.php/blogs/4497/11758/nba-2k16-mt-coins-a-lover-of-the,Thanks after sharing <br>http://www.skilledpills.com/topical-treatments-for-ED.php ,To enforce the policy, those seeking to market financial products through Google's sprawling advertising network will be required to disclose the length of the loan and the annual interest rate before they will be allowed to place ads. In addition to the broad http://mwtank.com/ - payday loans ad ban, Google will not display ads from lenders who charge annual interest rates of 36 percent or more in the United States. The same standards will apply to sites that serve as middlemen who connect distressed borrowers to those lenders. ,chalk langteraloo sunglows serohepatitis clubroot <br>http://buffalojobs.com/fArAGcb-prada-medium-python-hobo http://www.gordongreen.com/kUhGGXh-Hermes-Birkin-30cm-Togo-leather-Handbags-dark-grey-silver http://www.gordongreen.com/mihiXmO-prada-tess
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411211311-ps3110-website-picture-version.jpg"
-image_caption: ""
 ---
 
 It was announced in Union Council last week that the bursary scheme for new entrants starting in Autumn 2016 was to change. It has altered to decrease funding for those from lower-income households and funding to increase for those students from households who have slightly more money.

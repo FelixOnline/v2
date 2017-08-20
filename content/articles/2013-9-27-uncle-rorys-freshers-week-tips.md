@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Everybody's favourite uncle, Uncle Rory has a few tips for you young whippersnappers.
 date: "2013-09-27 23:17:01 +0100"
-
-# Attributes from Felix Online V1
-id: "3762"
-old_path: /features/3762/uncle-rorys-freshers-week-tips
+image: "http://felixonline.co.uk/img/upload/201309280015-jal08-screen-shot-2013-09-12-at-23.27.05.png"
+image_caption: "Uncle Rory and the rest of his floor during Freshers’ Week. Sorry Rory! (Ed.)"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/3762/uncle-rorys-freshers-week-tips
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +22,6 @@ authors:
  - jal08
  - rtf08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309280015-jal08-screen-shot-2013-09-12-at-23.27.05.png"
-image_caption: ""
 ---
 
 You’ll be hearing this a lot this week but things were quite different back in my day. My day was 2008- Metric was a box called DB’s, Southside and Eastside were building sites, Facebook was a new thing and Justin Bieber was still an embryo. It was amazing. But as you prepare for the modern freshers’ week with your smartphones and status updates and hip-hop music and all that, there is one thing you will face that all freshers have faced since the first freshers guzzled WKD from a hollowed out wooly mammoth tooth; social interaction.

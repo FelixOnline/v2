@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Michael Krestas shares his top ten resolutions for a healthier, tastier year!
 date: "2012-01-19 21:35:34 +0000"
-
-# Attributes from Felix Online V1
-id: "2031"
-old_path: /food/2031/2012-a-food-odyssey
+image: "http://felixonline.co.uk/img/upload/201201192130-felix-red-fruit-pulp659.jpg"
+image_caption: "Stock those cupboards with delicious goods, but remember to clear them out once in a while, yeah?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2031/2012-a-food-odyssey
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - mk4410
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201192130-felix-red-fruit-pulp659.jpg"
-image_caption: ""
 ---
 
 __1. I shall not skip breakfast again__

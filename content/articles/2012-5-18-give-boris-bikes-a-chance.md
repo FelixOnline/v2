@@ -4,18 +4,15 @@ title: >
 subtitle: >
   In praise of the blue scheme
 date: "2012-05-18 06:29:14 +0100"
-
-# Attributes from Felix Online V1
-id: "2462"
-old_path: /comment/2462/give-boris-bikes-a-chance
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2462/give-boris-bikes-a-chance
-imported: true
 comments:
  - value: >
      Taking the time to bother considering something and reaching a viable conclusion rather than just lazily decreeing 'Aw that's crap' ? Now THERE'S something we don't see often enough. <br> <br>MORE of this open-mindedness please, you lovely girl.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - skw10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I should be on Transport for London’s pay roll. Why? Because the times that I have helped people release bikes from Boris’ blue stands are innumerable. The people requiring assistance are mostly tourists, whom I often have little patience with. So what is it that makes their plight so important to me?

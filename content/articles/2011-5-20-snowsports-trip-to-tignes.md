@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Playing the claim game
 date: "2011-05-20 03:09:08 +0100"
-
-# Attributes from Felix Online V1
-id: "1214"
-old_path: /sport/1214/snowsports-trip-to-tignes
+image: "http://felixonline.co.uk/img/upload/201105200408-felix-4-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1214/snowsports-trip-to-tignes
-imported: true
 comments:
  - value: >
      Haha, Tignes, not Ignes =),Having looked at ski ststiatics, such as they are, for many years, I doubt that France ever attracted anything approaching 500,000 skiers and snowboarders from the UK. This figure almost certainly represents a wild over estimation of the number of independent travellers. Austria at one time had a bigger share of the market than France, but lost its preeminence partly because British skiers wanted bigger ski areas at higher altitudes and partly because Austrian resorts, made complacent by the huge German market on their doorstep, failed to respond adequately to a weakening of sterling. Austria has always had higher quality accommodation and I would argue a better average standard of resort and slopeside restaurant cooking. Maybe their comeback is down to that. Maybe it's because the Brits are becoming less obsessed with size and height. Maybe it's tales of occasionally ridiculous prices in French resorts. Or, most likely, a combination of all three
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105200408-felix-4-1.jpg"
-image_caption: ""
 ---
 
 Give me your clothes, your boots, and your dignity – a common cry across the land as 40 eager Imperialites joined hundreds of students from around the country in preparation for the British Universities Snowsports Council (BUSC) Main event 2011. The stench of sweaty ski/board boots filled the air as old gear was dug out from the back of cupboards and chucked on coaches for the 24-hour drive to Tignes, during which our star snowboard freestyler Luke Bridgestock became a much loathed mini-celebrity among Bristol University students for his embarrassingly loud “the first time I ever...” life recollections at 5am.

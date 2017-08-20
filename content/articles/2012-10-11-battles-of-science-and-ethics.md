@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Battle of Ideas
 date: "2012-10-11 20:42:18 +0100"
-
-# Attributes from Felix Online V1
-id: "2650"
-old_path: /science/2650/battles-of-science-and-ethics
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2650/battles-of-science-and-ethics
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jr1709
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Battle of Ideas is a weekend long festival of talks and debates hosted by the Institute of Ideas, an independent think tank. On the 20th and 21st of October, 350 speakers and 2000+ attendees are expected to gather at the Barbican centre for 80 talks and debates on some of the most pressing contemporary issues in politics, culture and science. The battles are an opportunity, says the Institute, to be fearless in the face of controversy and to explore the intellectual legacy of our generation, summed up by their punchy tag-line: FREE SPEECH ALLOWED.

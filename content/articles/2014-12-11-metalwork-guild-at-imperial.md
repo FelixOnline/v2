@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Owen Leech on why we should all hit hot metal with hammers
 date: "2014-12-11 21:26:35 +0000"
-
-# Attributes from Felix Online V1
-id: "5040"
-old_path: /cands/5040/metalwork-guild-at-imperial
+image: "http://felixonline.co.uk/img/upload/201412112126-cj914-blacksmith.jpg"
+image_caption: "This is basically blacksmithing. We promise."
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5040/metalwork-guild-at-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -24,12 +22,6 @@ authors:
  - cj914
  - ol913
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412112126-cj914-blacksmith.jpg"
-image_caption: ""
 ---
 
 Well, what can I say? Blacksmithing is one of the most rewarding things I have ever done. The satisfaction that you get from turning a lump of dull metal into something useful or beautiful, and on the rare occasion both, is incomparable to anything else!

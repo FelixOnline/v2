@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Jack Steadman reports on the dodgy translations of the recent Avengers film
 date: "2015-05-21 23:22:05 +0100"
-
-# Attributes from Felix Online V1
-id: "5558"
-old_path: /film/5558/avengers-subtitles-too-literal
+image: "http://felixonline.co.uk/img/upload/201505220022-jmm311-avengers-hulkbuster.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5558/avengers-subtitles-too-literal
-imported: true
 comments:
  - value: >
      cheap fit flops <br>fitflops online http://australiafitflops.blogspot.com/,I'm very pleased to uncover this website. I need to to thank you for ones time for this particularly fantastic read!! I definitely loved every bit of it and i also have you saved as a favorite to see new information in your website. <br>ray ban sunglasses prices in sri lanka http://www.sanctus1.co.uk/?uk-ray-ban-sunglasses-prices-in-sri-lanka-25733.html,birkenstocks sale <br>birkenstock sandals online http://birkenstocksaleaustralia.blogspot.com/,louboutin world <br>christian louboutin sale outlet http://canadachristianlouboutinoutlet.blogspot.com/,mens christian louboutin flats <br>christian louboutin http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin wedding shoes <br>christian louboutin cheapest http://canadachristianlouboutinoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - js5913
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505220022-jmm311-avengers-hulkbuster.jpg"
-image_caption: ""
 ---
 
 _A__ge of Ultron_ is rapidly approaching a worldwide box office take of one billion US dollars (a touch under £650 million), but that doesn’t mean it hasn’t encountered its fair share of problems.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The director tells us about their very unusual interpretation of a seasonal favourite
 date: "2010-10-14 19:20:17 +0100"
-
-# Attributes from Felix Online V1
-id: "203"
-old_path: /arts/203/-imperial-students-make-their-last-panto
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/203/-imperial-students-make-their-last-panto
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - oh106
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Over the last couple of years I have had the pleasure of putting on three little known, but well received, performances of what was codenamed ‘Panto’. In two weeks time we’ll stage the final Panto Show, laying the series to rest once and for all.

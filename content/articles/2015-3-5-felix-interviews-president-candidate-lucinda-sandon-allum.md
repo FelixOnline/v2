@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:27:41 +0000"
-
-# Attributes from Felix Online V1
-id: "5339"
-old_path: /comment/5339/felix-interviews-president-candidate-lucinda-sandon-allum
+image: "http://felixonline.co.uk/img/upload/201503052127-snb11-ljs112-5171.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5339/felix-interviews-president-candidate-lucinda-sandon-allum
-imported: true
 comments:
  - value: >
      utuEhv http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com,I was just looking at your Felix Interviews President Candidate: Lucinda Sandon-Allum - Comment - Felix Online site and see that your site has the potential to get a lot of visitors. I just want to tell you, In case you didn't already know... There is a website network which already has more than 16 million users, and most of the users are interested in websites like yours. By getting your site on this network you have a chance to get your site more visitors than you can imagine. It is free to sign up and you can read more about it here: http://lis.ovh/hy - Now, let me ask you... Do you need your site to be successful to maintain your way of life? Do you need targeted visitors who are interested in the services and products you offer? Are looking for exposure, to increase sales, and to quickly develop awareness for your website? If your answer is YES, you can achieve these things only if you get your site on the service I am describing. This traffic netwo
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503052127-snb11-ljs112-5171.jpg"
-image_caption: ""
 ---
 
 __Voting is now open! Click [here ](https://vote.union.ic.ac.uk/)to take part now. __

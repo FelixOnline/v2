@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The London Student has challenged Felix to a duel of epic proportions (ok, maybe not 'epic'). This is no less than a battle between Imperial and the University of London and have no doubt, we will prevail!
 date: "2011-05-18 07:07:06 +0100"
-
-# Attributes from Felix Online V1
-id: "1210"
-old_path: /music/1210/london-student-vs-felix-30-day-challenge
+image: "http://felixonline.co.uk/img/upload/201105180808-felix-182937_10150111413718588_505563587_6305490_4324313_n.jpg"
+image_caption: "Joe Rennison looking worried about the ass-whupping he's about to receive"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1210/london-student-vs-felix-30-day-challenge
-imported: true
 comments:
  - value: >
      Groovy. Are you in need of writers?,Just song recommendations :),guilty pleasures - basically anything by erasure.,Ok, if I can remember to post every preceding day... <br> <br>Day 01: Your favourite song: <br> <br>Right now it's still the Jamie xx remix of 'Running' by Gil Scott-Heron!,Most definitely,Day 01 is a tough one; maybe Roses by OutKast - the song that Big Boi omitted at ATP! Been listening to a lot of Big Boi and OutKast again recently hehe. Newish favourite song would probably be The Party &amp; The After Party by The Weeknd...,Or maybe You by Gold Panda...or Monster by Yeezy...or Summer Babe by Pavement...damn.,Day 02: Your least favourite song <br> <br>Rihanna - S&amp;M <br>Black Eyed Peas - The Time (Dirty Bit) <br>David Guetta &amp; Chris Willis - Love Is Gone <br>Bruno Mars - Just The Way You Are <br>Tinie Tempah - Pass Out (lyrically dreadful) <br>Lady Gaga - Judas <br> <br>Are all rather terrible x,Sorry, the David Guetta one I meant was 'Gettin' Over You'. In my head they all merge into one big, steaming musical santorum (word of the day)
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105180808-felix-182937_10150111413718588_505563587_6305490_4324313_n.jpg"
-image_caption: ""
 ---
 
 On the evening of May 17th, the Editor of the London Student newspaper, Joe Rennison, threw his gauntlet down at Felix's feet. [He challenged us to play the 30-day Song Challenge](http://www.london-student.net/breaking-news/the-30-day-challenge-felix-vs-london-student/). Felix heartily accepted. Every day each newspaper will post a new article on their website with their song of choice. The newspaper with the most likes, unique comments, and tweets on their article will win that day. Follow this page to stay up-to-date with the competition.

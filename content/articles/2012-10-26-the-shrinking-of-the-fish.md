@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Are fish getting smaller?
 date: "2012-10-26 02:26:54 +0100"
-
-# Attributes from Felix Online V1
-id: "2743"
-old_path: /science/2743/the-shrinking-of-the-fish
+image: "http://felixonline.co.uk/img/upload/201210260327-tna08-1389783_52303175.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2743/the-shrinking-of-the-fish
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - ams111
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210260327-tna08-1389783_52303175.jpg"
-image_caption: ""
 ---
 
 It is, by now, almost common knowledge that changes in water temperatures will affect the biodiversity of marine life. Less research has been invested into the topic of how individuals and populations of surviving species will change in response to such developments. A model devised by a collaboration of scientists attempts to answer this question.

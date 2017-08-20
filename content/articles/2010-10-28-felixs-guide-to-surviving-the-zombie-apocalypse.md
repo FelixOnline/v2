@@ -4,16 +4,14 @@ title: >
 subtitle: >
   brrraaaaaaaiiiiiiiinnnnnsssssss.....
 date: "2010-10-28 19:19:51 +0100"
-
-# Attributes from Felix Online V1
-id: "258"
-old_path: /games/258/felixs-guide-to-surviving-the-zombie-apocalypse-
+image: "http://felixonline.co.uk/img/upload/201010282017-ma1307-Zombie.jpg"
+image_caption: "Damn student protestors..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/258/felixs-guide-to-surviving-the-zombie-apocalypse-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - lap08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010282017-ma1307-Zombie.jpg"
-image_caption: ""
 ---
 
 So we all know the zombie apocalypse is coming at some point, most likely arising from some combination of a genetically modified virus, a dodgy business venture and a mad Imperial graduate. When it does strike, what on Earth do you do? No idea? Well, after days of careful thought I’ve come up with a list of five important things you need to take into consideration when you’re battling though the infected hordes, with additional notes supplied by my celebrity guest Chuck Greene, star and survivor of [Dead Rising 2](http://deadrising-2.com/) and true zombie killing expert.

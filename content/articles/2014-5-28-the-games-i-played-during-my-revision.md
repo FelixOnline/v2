@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Studying is important, but so is taking a break. Here I take a break in style!
 date: "2014-05-28 21:37:52 +0100"
-
-# Attributes from Felix Online V1
-id: "4633"
-old_path: /games/4633/the-games-i-played-during-my-revision
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4633/the-games-i-played-during-my-revision
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +19,6 @@ authors:
  - me1711
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 #### Mount And Blade Warband: Veiled Stars Mod

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Maciej Matuszewski explores one of the best and most influential graphic novels
 date: "2014-02-07 04:50:45 +0000"
-
-# Attributes from Felix Online V1
-id: "4348"
-old_path: /books/4348/neil-gaimans-sandman
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/4348/neil-gaimans-sandman
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Comic books and graphic novels have a, not entirely undeserved, reputation for not being the finest example of modern literature. Poor plotting, tired characters and woeful dialogue still continue to plague the medium. However, there have always been a small number of creators – such as Alan Moore, Warren Ellis and Neil Gaiman – who have been held in much higher regard than their compatriots and who have managed to elevate the medium into a respectable art from. Of these, I have always admired Gaiman the most. This is partly due to his versatility – as well as working on comics he is an acclaimed novelist and screenwriter – but mainly the because of his amazing writing talent. This talent is on fine display in one his earliest and most enduringly popular works, The Sandman series.

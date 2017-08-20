@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Yung Nam Cheah lists some reasons why spending your holiday in London is awesome
 date: "2015-06-09 15:52:43 +0100"
-
-# Attributes from Felix Online V1
-id: "5608"
-old_path: /travel/5608/london-calling---summer-in-the-captial
+image: "http://felixonline.co.uk/img/upload/201506091649-ync111-p1100238.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/5608/london-calling---summer-in-the-captial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -24,12 +21,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506091649-ync111-p1100238.jpg"
-image_caption: ""
 ---
 
 Not all of us have the time to jet off to a different location and spend the summer holidays hopping from one destination to another, but that doesn’t mean that you can’t have fun in good old London either. In fact, London is one of the most visited cities of all times and there’s probably a thousand people out there who would swap places with you in a heartbeat.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   There other issues that we should be more concerned about than fee increases, writes Stephen Smith
 date: "2012-01-26 22:58:23 +0000"
-
-# Attributes from Felix Online V1
-id: "2072"
-old_path: /comment/2072/tuition-fees-protests-wastes-good-placards
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2072/tuition-fees-protests-wastes-good-placards
-imported: true
 comments:
  - value: >
      You profoundly underestimate how much the reduced financial support packages will affect poorer students.,Also fees should be seen as one aspect of a unified whole of Bad Things and not as something that should be ignored because there are some worse things out there.,Financial support for the poorest students is increasing. Check your facts.,Financial support for the poorest students usually consists of fee rebates - in other words HMG pays off part of the student debt. Why? When these students graduate they are in exactly the same financial situation as other graduates, except that they have less debt. How is this fair? Poorer students should get a bigger loan, not have money given to them by the Government.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - ss10210
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Apparently 2012 is going to be a bumper year for protests, and I am quite looking forward to them. As the late Christopher Hitchens once wrote, “seek out argument and disputation for their own sake; the grave will provide plenty of time for silence”. But what would the brilliant man have made of the recent tuition fees increase? Having earned a third class degree in PPE from Oxford, and having achieved in his short life much more of merit than David Cameron – who got a first class degree in precisely the same course – he would probably advise against going to university at all. He’d say that it’s vastly overrated, except for the cheap alcohol.

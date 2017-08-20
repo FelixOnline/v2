@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Sam Horti talks to the renowned Christian philosopher about his work
 date: "2011-11-03 21:41:50 +0000"
-
-# Attributes from Felix Online V1
-id: "1691"
-old_path: /news/1691/interview-william-lane-craig
+image: "http://felixonline.co.uk/img/upload/201111041214-felix-wlc.jpg"
+image_caption: "William Lane Craig recently lectured at Imperial"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1691/interview-william-lane-craig
-imported: true
 comments:
  - value: >
      Sam, <br> <br>Your commentary hit the nail on the head. Craig is an excellent speaker but definitely not a beacon for rationality or reason. <br> <br>Dawkins tries to de-bunk his philosophy credentials in his recent piece in the Guardian. It seems Craig is not much more than a theologian, which, of course, makes him a master of relatively little. <br> <br>Good stuff!,What a good interview! I was a little shocked about the reporter's commentary (it seemd to paint Dr Craig's statements in the worst possible light eg: his reference to internal arguments, misinterpreting "lightly" in reference to internal arguments), I have to argee that Dr Craig should ideally clarify his points (words like "faith" and "lightly") further. <br> <br>I think an aspect of critical reporting missing is to portray even the arguments that we disagree with in the best possible light, before proceeding to disagree with them. <br> <br>Other than that, I have no complaints. Keep up the good reporting!,Good interview - thanks. <br> <br>If anyone's interested - people can see
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111041214-felix-wlc.jpg"
-image_caption: ""
 ---
 
 _Watch the interview in full below – with thanks to [STOIC TV](http://www.stoictv.com/)_

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Andrew Olson thinks it's time the exclusive drinking societies were held to the same standard as everyone else
 date: "2017-03-17 17:01:58 +0000"
-
-# Attributes from Felix Online V1
-id: "6908"
-old_path: /comment/6908/theres-no-place-at-imperial-for-elitist-secret-clubs
+image: "http://felixonline.co.uk/img/upload/201703171701-felix-Screen Shot 2017-03-17 at 17.01.43.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6908/theres-no-place-at-imperial-for-elitist-secret-clubs
-imported: true
 comments:
  - value: >
      What is wrong with networking? I'm sure many a job opportunity has been passed along in the sci-fi club or the knitting club. Shall we ban people from trying to give their friends opportunities? If you disagree you clearly have a very naive outlook on the world. <br>Furthermore if you think that the only qualification you require for any job nowadays is that you are a member of a club you are even thicker than you sound. I wish you luck when you enter the real world where you can't blame your lack of opportunities on not being a member of a college alumni club. <br>,What is wrong with networking? I'm sure many a job opportunity has been passed along in the sci-fi club or the knitting club. Shall we ban people from trying to give their friends opportunities? If you disagree you clearly have a very naive outlook on the world. <br>Furthermore if you think that the only qualification you require for any job nowadays is that you are a member of a club you are even thicker than you sound. I wish you luck when you enter t
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171701-felix-Screen Shot 2017-03-17 at 17.01.43.png"
-image_caption: ""
 ---
 
 Everyone studying at Imperial is aware that this place is not perfect. Yes, there are problems with student engagement, mental health, even sexism. But despite these issues, I feel it is the place which has mainly contributed at making me who I am today; the fantastic wardening team in my halls in first year, the challenging environment and, more importantly, the Imperial community of incredibly interesting people from all over the world which I could always learn something from.

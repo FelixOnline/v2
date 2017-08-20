@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Reminiscent geeks confirm: Super Mario Bros is hard
 date: "2016-06-03 09:18:57 +0100"
-
-# Attributes from Felix Online V1
-id: "6237"
-old_path: /science/6237/sht-scence
+image: "http://felixonline.co.uk/img/upload/201606031118-felix-6510960541_2d1e558622_o.jpg"
+image_caption: "Itsame! Mario!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6237/sht-scence
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - mguenot
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606031118-felix-6510960541_2d1e558622_o.jpg"
-image_caption: ""
 ---
 
 At Sh!t Sc!ence, we like to show how all science is special, a little bouncing 1-UP that your character runs towards to let it continue through  the game. This version of Sh!t Sc!ence is a little different. Because this week, I’m not going to be talking about research that sounds silly, or  useless. This week, I’m talking about research that, to me, sounds so cool it makes my eyes water a little bit.

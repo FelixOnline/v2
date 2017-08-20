@@ -4,18 +4,15 @@ title: >
 subtitle: >
   As California attempts to decriminalise marijuana but Amsterdam tries to introduce new controls we debate the legalisation of weed
 date: "2011-02-27 12:31:06 +0000"
-
-# Attributes from Felix Online V1
-id: "900"
-old_path: /politics/900/should-we-legalise-marijuana
+image: "http://felixonline.co.uk/img/upload/201102271218-ks607-marijuan.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/900/should-we-legalise-marijuana
-imported: true
 comments:
  - value: >
      Why Lingxi Huang is a terrible scientist: <br> <br>"smoking weed... damages the lungs" - so that'd be related to the action of smoking and not the cannabis <br> <br>"contains over 400 chemicals" - a cup of coffee contains over 1000 chemicals. Number of chemicals is directly proportional to problems caused? Please. <br> <br>"stepping stone drug" - total rubbish and no evidence for it. Could it just be that those who try cannabis are also more likely to dabble with other things too? Lots of heroin users would never take cannabis, and vice-versa. <br> <br>"difficult to quantify the long term effects" - not really. Extensive studies have been done. See http://news.bbcimg.co.uk/media/images/49735000/gif/_49735645_drugs_comparisons_464gr.gif <br> <br>"impact the user's learning capabilities" - over what time period? Source? <br> <br>"the laws of economics dictate" - no, putting price down will not increase consumption. I guess Electrical Engineering students shouldn't bother trying to understand the laws of economics,Why Lingxi Huang is a terrible sc
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -30,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102271218-ks607-marijuan.jpg"
-image_caption: ""
 ---
 
 __Yes – Chris Dillon__

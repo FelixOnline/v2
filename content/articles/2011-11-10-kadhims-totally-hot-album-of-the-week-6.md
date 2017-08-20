@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Real Estate – Days (2011)
 date: "2011-11-10 20:33:33 +0000"
-
-# Attributes from Felix Online V1
-id: "1715"
-old_path: /music/1715/kadhims-totally-hot-album-of-the-week-6
+image: "http://felixonline.co.uk/img/upload/201111102033-felix-real-estate-days.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1715/kadhims-totally-hot-album-of-the-week-6
-imported: true
 comments:
  - value: >
      "verbalize" <br> <br>NO <br> <br>*verbalise
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +23,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102033-felix-real-estate-days.jpeg"
-image_caption: ""
 ---
 
 It was cold this morning, wasn’t it? Like most students, myself included, you’re probably a bit suspicious of the thermostat and slightly paranoid that if you turn the heating on your next gas bill will be enough to bankrupt you. (I’m not talking about you, “1%” students; [you know who you are](http://felixonline.co.uk/comment/1714/protest-is-sacred-hypocrisy-is-really-not/)…)

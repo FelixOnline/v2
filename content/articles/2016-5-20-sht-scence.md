@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-05-20 09:08:42 +0100"
-
-# Attributes from Felix Online V1
-id: "6184"
-old_path: /science/6184/sht-scence
+image: "http://felixonline.co.uk/img/upload/201605201108-felix-12446542923_a85e11e511_o.jpg"
+image_caption: "The study suggests that our ancenstors might have had a better diet than us, but maybe they just never stopped eating."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6184/sht-scence
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - mguenot
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605201108-felix-12446542923_a85e11e511_o.jpg"
-image_caption: ""
 ---
 
 At Sh!t Sc!ence we like to defend the lil’ science, the science that gets bullied, the science that gets wedgies from the bigger sciences when it tries to speak up, because we believe that every science, no matter how puny, has value and should be respected. This week: archaeology. Need I say more?

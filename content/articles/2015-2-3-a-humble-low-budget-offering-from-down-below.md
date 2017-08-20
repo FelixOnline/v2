@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park reviews Son of a Gun
 date: "2015-02-03 15:03:51 +0000"
-
-# Attributes from Felix Online V1
-id: "5190"
-old_path: /film/5190/a-humble-low-budget-offering-from-down-below
+image: "http://felixonline.co.uk/img/upload/201502031503-ps3110-son-of-a-gun-1-cmyk.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5190/a-humble-low-budget-offering-from-down-below
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jgp09
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502031503-ps3110-son-of-a-gun-1-cmyk.jpg"
-image_caption: ""
 ---
 
 __SON OF A GUN__

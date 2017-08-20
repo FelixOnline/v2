@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Government Immigration Bill deemed to have possible impact on international students
 date: "2013-11-01 09:09:20 +0000"
-
-# Attributes from Felix Online V1
-id: "3965"
-old_path: /news/3965/immigration-bill-discussed-at-union-council
+image: "http://felixonline.co.uk/img/upload/201311010940-felix-icu-council.jpg"
+image_caption: "Imperial College Union"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3965/immigration-bill-discussed-at-union-council
-imported: true
 comments:
  - value: >
      It's the National Health Service, not the International Health Service. When you are working in the UK and paying sufficient taxes, then you can use the NHS for free. Slamming down on health tourism, and overuse from non-tax paying residents can't be done fairly without charging international students also. <br> <br>The amount of times I've seen international students misuse the college health centre says a lot to me... if you've got a cold, go to the pharmacy.,I'm not sure how you can tell an international student by sight... let alone the severity of their illness?
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311010940-felix-icu-council.jpg"
-image_caption: ""
 ---
 
 The second meeting of the Union Council was held on Tuesday, October 29. The main issue of discussion was the Union’s response to the government’s Immigration Bill 2013-2014. Proposed by Home Secretary Theresa May on October 10 the Bill had its second reading on October 22 and is expected to pass through parliament and receive royal assent early next spring. The Bill is of potential concern to international students since it would require them to pay a minimum fee of £200 a year to use non-emergency NHS services and would place a legal obligation on landlords to check the immigration status of their tenents – potentially biasing them against international students.

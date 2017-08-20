@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Or , a strong argument for cooking your own food. felix investigates the what really goes on in many kitchens and why some of the practices might turn you away.
 date: "2016-12-02 15:21:36 +0000"
-
-# Attributes from Felix Online V1
-id: "6545"
-old_path: /food/6545/whats-really-in-your-meal-
+image: "http://felixonline.co.uk/img/upload/201612021521-felix-6906431581_b7a83538e8_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6545/whats-really-in-your-meal-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - sb6213
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612021521-felix-6906431581_b7a83538e8_o.jpg"
-image_caption: ""
 ---
 
 I have to be honest with you – chefs are doing the job for one of two reasons. Either they absolutely love the food, job and ethos or, they are doing it as it’s the only option available to them. Frankly, the peanuts that you get paid for working 14 hour shifts, often for six days straight, wouldn’t make any job worth it for the money alone. At the restaurant I worked at over my holidays, which would be considered fancy by some and expensive by most, one might assume that staff have a better living. That is not the case – we calculated my co-workers wages at £3.35/hr, if you took into account his salary and lack of any pay for overtime. I was not nearly so lucky – I worked for completely free – but I had chosen to do so to build my skillset and pursue my career. I was being paid in the knowledge and skills that I learnt. But, I think it’s imperative that you bear in mind that chefs are not all there for the food. Some really are only doing it as it’s the only option available to them!

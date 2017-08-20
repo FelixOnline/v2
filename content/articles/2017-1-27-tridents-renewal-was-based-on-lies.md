@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Avirup Banerjee thinks Trident is an expensive accident waiting to happen
 date: "2017-01-27 16:24:12 +0000"
-
-# Attributes from Felix Online V1
-id: "6689"
-old_path: /comment/6689/tridents-renewal-was-based-on-lies
+image: "http://felixonline.co.uk/img/upload/201701271638-felix-Screen Shot 2017-01-27 at 16.27.24.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6689/tridents-renewal-was-based-on-lies
-imported: true
 comments:
  - value: >
      "Naive to unilaterally disarm?" The real naivety is to believe that there is room is this world for more than one nuclear armed state. As we speak both the major and minor players in this madness are ramping up their nuclear capabilities. The certain outcome is clear, but so few are willing to acknowledge it. Unilateral nuclear disarmament is not naive. It is, in fact, the only action that can save the world from the disaster of global nuclear war.<br>See! The disaster spreads<br>from nation to nation;<br>a might tempest rises<br>from the far ends of the world.<br>Those slaughtered by YHWH that day will be scattered across the earth from end to end. No dirge will be raised for them; no one will gather them or bury them; they will stay lying on the ground like dung.,"Naive to unilaterally disarm?" The real naivety is to believe that there is room is this world for more than one nuclear armed state. As we speak both the major and minor players in this madness are ramping up their nuclear capabilities. The certain o
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +23,6 @@ authors:
  - avirupbanarjee
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701271638-felix-Screen Shot 2017-01-27 at 16.27.24.png"
-image_caption: ""
 ---
 
 In the small town of Goldsboro, North Carolina there lies a casual road sign saying that it is a site of a “nuclear mishap”. If that's not an understatement, what the hell is? In 1961 a B52 bomber carrying two nuclear bombs blew up mid-air, dropping the nuclear payload which came excruciatingly close to detonating. The surprisingly long list of barely averted accidents involving nuclear weapons has gained a new member. Last week it was revealed that Britain's nuclear deterrent experienced a catastrophic test failure in which unarmed Trident missiles were fired on the coast of Florida in the summer of 2016 before being aborted. Whilst they were unarmed, it does dispel the idea of ‘smart weapons’ – the missiles were targeted on West Africa instead of North America, so were only off target by a few thousand kilometres. Furthermore, what is outrageous was the inexcusable concealment of the important failed test results from MPs before parliament voted in favour of a £100 billion multi-decade commitment on the next generation of Trident. Even the government’s excuse of secrecy in the name of national security does not hold weight considering that nations usually inform other nuclear powers, especially their rivals, before conducting nuclear tests to prevent dangerous misunderstandings. In 2012, the last time Britain conducted nuclear test, Russian ships monitored and even congratulated the Royal Navy after carrying out the successful tests.

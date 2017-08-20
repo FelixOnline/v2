@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Catching up with the Indian film industry with Aamir Shamsi
 date: "2011-05-30 12:08:43 +0100"
-
-# Attributes from Felix Online V1
-id: "1285"
-old_path: /film/1285/bollywood-bite-20th-may
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1285/bollywood-bite-20th-may
-imported: true
 comments:
  - value: >
      I agree with you - the trailers are not that amazing and actually rather disappointing. But keeping in mind that the film is to release much later these were just tasters of what is to come (latest trailer that released on Wed is actually much better). <br> <br>I'm actually glad they arent like the Endhiran because that film was so silly lol. It has a much more serious tone to it probably because superhero flicks these days tend to have a dark aura about them (cf. Dark Knight, transformation of Harry Potter films, Bond). <br> <br>With regards to the buzz, I think its quite obvious if you're living in India why its creating so much hype. Firstly, SRK always creates a hype. Secondly, sci-fi has not been tapped into Bollywood so its a new experience, the special effects are drawing people in and as always in India, if some people are bigging something up then some people will do anything to drag it back down which just ends up creating more buzz about how succesful the movie will become. <br> <br>Thanks yaar :),So basically your
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __GupShup (Chit Chat) Corner__

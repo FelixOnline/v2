@@ -4,18 +4,16 @@ title: >
 subtitle: >
   A vote to remain in the EU is a vote for right-wing idealogies
 date: "2016-05-27 08:49:02 +0100"
-
-# Attributes from Felix Online V1
-id: "6206"
-old_path: /comment/6206/the-left-vs-the-eu
+image: "http://felixonline.co.uk/img/upload/201605271048-felix-conservatives say yes.jpg"
+image_caption: "The referendum is not just a left-right debate."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6206/the-left-vs-the-eu
-imported: true
 comments:
  - value: >
      I didn't realise Felix got hacks from The Daily Mash now too.,:)
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +24,6 @@ authors:
  - bs2314
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605271048-felix-conservatives say yes.jpg"
-image_caption: ""
 ---
 
 Before Obama’s recent tour of the country (mainly London, of course), I was largely on the fence over how I’d vote in the EU referendum. Unfortunately for him however, he didn’t manage to convince me to vote to remain. Instead, his warnings of being put at the back of the line for neoliberal negations like TTIP reinforced my left wing case against the EU.

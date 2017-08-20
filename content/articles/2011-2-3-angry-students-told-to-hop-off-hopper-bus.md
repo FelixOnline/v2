@@ -4,18 +4,15 @@ title: >
 subtitle: >
   No prior warning given, says Medic President
 date: "2011-02-03 19:19:21 +0000"
-
-# Attributes from Felix Online V1
-id: "712"
-old_path: /news/712/angry-students-told-to-hop-off-hopper-bus-
+image: "http://felixonline.co.uk/img/upload/201102031914-ks607-hopperbu.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/712/angry-students-told-to-hop-off-hopper-bus-
-imported: true
 comments:
  - value: >
      “ICSMSU has not been given any information about the change" - why should they have been? The hopper bus was never meant for students. The priority has rightly been reserved for NHS staff with clinical or academic responsibilities whose job it is to get to different sites. <br> <br>Medical Students have long been exploiting a system which was not designed for their use, potentially depriving doctors and other NHS staff from getting to where they need to be, and are now unhappy that the loophole has been shut. Complaining about this is ridiculous - it's akin to getting angry after being found out that you've been using your gran's Freedom Pass to get around. <br> <br>Maybe now they can start paying for public transport like all the other Imperial students have to - they have to deal with the problem of living costs too, you know!,Dear Realist, <br>As clinical students we often have to travel extensively to sites as far as Ashford and Hillingdon. For GP placements and Paediatric residency placements, you can sometimes end u
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - klb09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102031914-ks607-hopperbu.jpg"
-image_caption: ""
 ---
 
 Disgruntled students have this week found themselves unable to use the NHS Trust ‘Hopper Bus’ service, a shuttle service that runs between [NHS Trust](http://www.imperial.nhs.uk/) sites.

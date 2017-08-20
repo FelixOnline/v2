@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Medics make substantial donation to local Hammersmith food bank
 date: "2015-01-16 13:08:49 +0000"
-
-# Attributes from Felix Online V1
-id: "5096"
-old_path: /news/5096/medics-laughing-all-the-way-to-the-food-bank
+image: "http://felixonline.co.uk/img/upload/201501161308-ps3110-screen-shot-2015-01-16-at-13.09.00.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5096/medics-laughing-all-the-way-to-the-food-bank
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501161308-ps3110-screen-shot-2015-01-16-at-13.09.00.png"
-image_caption: ""
 ---
 
 Imperial medical students made a last-minute but sizable donation to the local food bank earlier this month, after collecting dried goods before the Christmas bop at the end of last year.

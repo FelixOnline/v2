@@ -4,16 +4,13 @@ title: >
 subtitle: >
   London plays host to a French connection
 date: "2013-01-24 22:51:20 +0000"
-
-# Attributes from Felix Online V1
-id: "3167"
-old_path: /music/3167/a-doomy-night-with-katatonia-and-alcest
+image: "http://felixonline.co.uk/img/upload/201301242251-mc4509-img_0850.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3167/a-doomy-night-with-katatonia-and-alcest
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - jlp210
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301242251-mc4509-img_0850.jpg"
-image_caption: ""
 ---
 
 Following the release of their sumptuous ninth album, _Dead End Kings_, the Swedish doom metal quintet [__Katatonia__](http://katatonia.com/) returned to London, for another evening of great music and melancholia. This time they were accompanied by the French shoe-gazing concept band [__Alcest__](http://www.alcest-music.com/) and an American rock band, called [__Junius__](http://juniusmusic.com/). As a fan of both Katatonia and Alcest my expectations for this show were high and, of course, I definitely was not disappointed.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Two of the most sinister threats that we face today
 date: "2011-11-17 21:48:05 +0000"
-
-# Attributes from Felix Online V1
-id: "1786"
-old_path: /comment/1786/cats-and-babies
+image: "http://felixonline.co.uk/img/upload/201111172148-felix-catsandbabies.jpg"
+image_caption: "The only thing terrifying about this whole situation is that yarn ball. Dang"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1786/cats-and-babies
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +23,6 @@ authors:
  - rjd08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172148-felix-catsandbabies.jpg"
-image_caption: ""
 ---
 
 The fact that I’m still alive is surprising to say the least.

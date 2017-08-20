@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Although nerve-racking at times, the team were able to pull out a win
 date: "2016-11-14 14:19:25 +0000"
-
-# Attributes from Felix Online V1
-id: "6448"
-old_path: /sport/6448/ic-dd-dazzle-dive-and-dart-at-mixed-regionals
+image: "http://felixonline.co.uk/img/upload/201611141419-felix-and it was all yellow - smiles all round.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6448/ic-dd-dazzle-dive-and-dart-at-mixed-regionals
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ajf14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611141419-felix-and it was all yellow - smiles all round.jpg"
-image_caption: ""
 ---
 
 After a great start to the year for the disc Doctors (dD - Imperial’s Ultimate Frisbee club) with the women performing brilliantly at SICKO and our very own beginners’ tournament, the women in particular were outstanding, scoring an impressive number of points and maintaining the quality of their game. #ImperialGirlsCan.

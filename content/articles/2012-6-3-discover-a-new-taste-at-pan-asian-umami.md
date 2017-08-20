@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Outside of Imperial lies a Thai paradise
 date: "2012-06-03 16:08:41 +0100"
-
-# Attributes from Felix Online V1
-id: "2520"
-old_path: /food/2520/discover-a-new-taste-at-pan-asian-umami
+image: "http://felixonline.co.uk/img/upload/201206031707-felix-umami---ped-mekham.jpg"
+image_caption: "Cromwell Road's Umami offers a unique and peaceful atmosphere"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2520/discover-a-new-taste-at-pan-asian-umami
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +23,6 @@ authors:
  - felix
  - mk4410
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206031707-felix-umami---ped-mekham.jpg"
-image_caption: ""
 ---
 
 There’s no way you can stand another lunch at Queen’s Tower, or the Library Cafe, or even the JCR after your exams. It’s just unacceptable! If you feel that life at Imperial has become monotonic (and at the moment your mind thinks of functions) then you need a getaway. Today we’ll present you with an alternative choice.

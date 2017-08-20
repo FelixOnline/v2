@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Ooh, gravitational waves!
 date: "2016-02-19 11:20:44 +0000"
-
-# Attributes from Felix Online V1
-id: "5929"
-old_path: /science/5929/this-weeks-science-picture
+image: "http://felixonline.co.uk/img/upload/201602191120-felix-7632898002_49046bc6c8_o.jpg"
+image_caption: "Colours signify the degree of perturbation of the spacetime fabric (the gravitational waves)"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5929/this-weeks-science-picture
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - nk1515
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602191120-felix-7632898002_49046bc6c8_o.jpg"
-image_caption: ""
 ---
 
 Two black holes merged billions of light years away, causing a ripple in the fabric of spacetime big enough to be measured by scientists at the LIGO Collaboration. The results provide further support for Einstein’s theory of general relativity.

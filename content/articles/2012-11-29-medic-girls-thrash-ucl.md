@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Elke Wynberg on hockey destroying UCL.
 date: "2012-11-29 23:14:34 +0000"
-
-# Attributes from Felix Online V1
-id: "3009"
-old_path: /sport/3009/medic-girls-thrash-ucl
+image: "http://felixonline.co.uk/img/upload/201211292313-tna08-hockeyinnit.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3009/medic-girls-thrash-ucl
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - ew509
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211292313-tna08-hockeyinnit.jpg"
-image_caption: ""
 ---
 
 Having lost a match a few days earlier during a freak weather storm in the remote countryside, the ICSM Ladies 1st XI definitely felt we could use a giant dose of good luck when we trooped out to play on Sunday 25 November. The early morning sunshine and prospect of playing at Harlington boded well for our second LUSL match of the season, but with the loss of several forwards as well as a key defender (who had been beaten up by Wednesday’s opposition with a hockey stick) meant that we all had butterflies in our stomach.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Nutcracker is on at the Royal Opera House until 12th January 2017.
 date: "2016-12-02 15:00:30 +0000"
-
-# Attributes from Felix Online V1
-id: "6536"
-old_path: /arts/6536/the-nutcracker--londons-christmas-countdown-has-begun
+image: "http://felixonline.co.uk/img/upload/201612021459-felix-23602280866_31701f4877_b.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6536/the-nutcracker--londons-christmas-countdown-has-begun
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - im1413
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612021459-felix-23602280866_31701f4877_b.jpg"
-image_caption: ""
 ---
 
 The Royal Opera House’s The Nutcracker, like the switching on of the lights on Oxford Street, or the Selfridge’s window display, marks London’s countdown to Christmas. The Christmas themed ballet is a tradition that has roots in Imperial Russia. The ballet, which was commissioned by the director of the Russian Imperial theatres – complete with score from Pyotr Ilyich Tchaikovsky, story by Marius Petipa (who based it on a E.T.A Hoffman fairytale), and choreography by Lev Ivanov – was first performed in 1892 at the Mariinsky Theatre in St Petersburg. At the time, it received negative reviews, but since then, countless adaptations around the world have ensured its place as one of the most well known, and most beloved ballets. The score and the story are so ubiquitous in Western art, and music, that the chances are you will have heard bars of The Dance of Sugarplum Fairy, even if you’re not able to name it as such.

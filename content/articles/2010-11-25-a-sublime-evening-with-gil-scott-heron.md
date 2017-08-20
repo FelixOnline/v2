@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Gil Scott-Heron gets the blues with Tytus Murphy, on a gloomy Sunday in The Brixton Academy
 date: "2010-11-25 20:58:50 +0000"
-
-# Attributes from Felix Online V1
-id: "436"
-old_path: /music/436/a-sublime-evening-with-gil-scott-heron
+image: "http://felixonline.co.uk/img/upload/201011252056-nm1010-GillScot.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/436/a-sublime-evening-with-gil-scott-heron
-imported: true
 comments:
  - value: >
      Very good description of gil's reapearance as the minister for information,the set as stated by young mr murphy was very staid in comparison with a full band but none the less very proffessionally performed ,the procussion solo dragged on a bit in my mind but that's showbiz.Well must go,got to go and collect some coal..do..do..do.do.dooo d do do....,GIL SCOTT-HERON – 27/05/2011 <br> <br>Genuinely stunned and saddened by the news of the passing of Gil Scott-Heron. <br> <br>I saw him perform on many occasions at venues such as the JAZZ CAFE and, similar to Kevin and Margaret, I would play his back-catalogue through to the early hours of the morning. <br> <br>The most memorable set at for me was when Brian Jackson performed with him again at the JAZZ CAFE. <br> <br>I’ll certainly miss him being on this earth. <br> <br>A true artist, and what a legacy he has left! <br> <br>R.I.P. <br>,GIL SCOTT-HERON – 27/05/2011 <br> <br>Genuinely stunned and saddened by the news of the passing of Gil Scott-Heron. <br> <br>I saw him perform on many occasions at venues such
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - tm208
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011252056-nm1010-GillScot.jpg"
-image_caption: ""
 ---
 
 Gil Scott-Heron has entered the musical consciousness of 2010 with the release of his comeback LP ‘I’m new here’.He entered mine as a young boy of 10 years when my parents played his records on that beloved turntable that span at 33rpm.

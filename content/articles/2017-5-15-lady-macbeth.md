@@ -4,16 +4,13 @@ title: >
 subtitle: >
   William Oldroyd’s Lady Macbeth is an exploration of Victorian social codes, and their claustrophobic effects
 date: "2017-05-15 17:22:21 +0100"
-
-# Attributes from Felix Online V1
-id: "6962"
-old_path: /film/6962/lady-macbeth
+image: "http://felixonline.co.uk/img/upload/201705151922-felix-4a6a8922-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6962/lady-macbeth
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - lawrencegood
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705151922-felix-4a6a8922-copy.jpg"
-image_caption: ""
 ---
 
 How far would you be willing to go to assert your freedom? Who and what would you risk to pursue your own desires? Facing these questions is Katherine, the protagonist of Lady Macbeth, who, having been ‘bought’ to be the wife of a wealthy old man, finds passion through an affair with a stable boy named Sebastian. Adapted from Nikolai Leskov’s 1865 novel Lady Macbeth of the Mtsensk, writer Alice Birch and director William Oldroyd transpose the setting to Victorian Yorkshire, trapping their characters in a bleak and unrelenting world, determined to impose itself on those contained within its grasp.

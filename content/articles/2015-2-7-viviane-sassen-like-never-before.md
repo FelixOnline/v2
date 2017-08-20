@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Kamil McClelland explores Pikin Slee, Sassen’s exhibition at the ICA
 date: "2015-02-07 19:12:48 +0000"
-
-# Attributes from Felix Online V1
-id: "5205"
-old_path: /arts/5205/viviane-sassen-like-never-before
+image: "http://felixonline.co.uk/img/upload/201502071912-ps3110-warrior-2013-viviane-sassen-courtesy-the-artist-and-stevenson-gallery-copya.jpg"
+image_caption: "Viviane Sassen, Warrior, 2013. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5205/viviane-sassen-like-never-before
-imported: true
 comments:
  - value: >
      You're a really helpful website; could not make it without ya!| <br>cs go skins blurry http://odeliaelsie.moonfruit.com/blog/4592032329/An-Unbiased-Review-Involving-League-Of-Legends---A-Fast-Paced-Competitive-Online-Game/10617915
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502071912-ps3110-warrior-2013-viviane-sassen-courtesy-the-artist-and-stevenson-gallery-copya.jpg"
-image_caption: ""
 ---
 
 In my opinion, the __ICA__ is simply not appreciated enough. It is on the front line of contemporary art and this means that, although all shows aren’t guaranteed to thrill (such is the risk of pushing boundaries!), you will have an exciting time no matter what — much better this than the rather soulless blockbuster shows of the __Tate__.

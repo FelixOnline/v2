@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Responding to fears regarding accidental release and bioterrorism, researches studying a mutant strain of influenza A have paused their work.
 date: "2012-02-02 19:40:20 +0000"
-
-# Attributes from Felix Online V1
-id: "2093"
-old_path: /science/2093/putting-a-pause-on-influenza-research
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2093/putting-a-pause-on-influenza-research
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - ams111
  - lap08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Research involving a virulent mutant strain of the influenza A virus has been temporarily halted over fears of potential bioterrorism and accidental release.

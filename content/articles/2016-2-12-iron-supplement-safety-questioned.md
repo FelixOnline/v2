@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Imperial research suggests iron uptake through supplement use may damage cells
 date: "2016-02-12 11:27:45 +0000"
-
-# Attributes from Felix Online V1
-id: "5902"
-old_path: /science/5902/iron-supplement-safety-questioned
+image: "http://felixonline.co.uk/img/upload/201602121127-felix-Lucky_Iron_Fish_package.jpg"
+image_caption: "A ‘lucky iron fish’,  a cast iron fish to cook with that is meant to enrich food with iron, claiming to successfully helping against iron deficiency and iron deficiency anaemia."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5902/iron-supplement-safety-questioned
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ea3211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602121127-felix-Lucky_Iron_Fish_package.jpg"
-image_caption: ""
 ---
 
 An investigation of the genetic mechanisms activated in reaction to the elevated iron concentration, and a subsequent examination of the cells in higher detail, revealed that just within ten minutes, cells treated with the iron solution had activated DNA repair systems, which were still activated six hours later.

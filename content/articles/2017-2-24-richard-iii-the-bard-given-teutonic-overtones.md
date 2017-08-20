@@ -4,19 +4,17 @@ title: >
 subtitle: >
   from 16th – 19th February
 date: "2017-02-24 14:33:58 +0000"
+image: "http://felixonline.co.uk/img/upload/201702241433-felix-02.jpg"
+image_caption: "Schaubühne Berlin, Richard III, Lars Eidinger and Jenny König"
 draft: true
-
-# Attributes from Felix Online V1
-id: "6821"
-old_path: /arts/6821/richard-iii--the-bard-given-teutonic-overtones
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6821/richard-iii--the-bard-given-teutonic-overtones
-imported: true
 comments:
  - value: >
      Ce juge qui ne respecte pas la loi, est il poursuivi et /ou sanctionnÃ© devant une instance disciplinaire? En outre, des fonctionnaires rÃ©galiens qui n’en font que selon « leur bon vo;&amp;oir&amp;nbspulraquo; au mÃ©pris des lois devraient etre expulses de la fonction publique.
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -27,12 +25,6 @@ authors:
  - ezrakitson14
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702241433-felix-02.jpg"
-image_caption: ""
 ---
 
 Thomas Ostermeier’s production of Richard III is a celebration of the wicked, the tragic, and the profane. The play is on tour from Schaubühne Berlin and is performed entirely in German with English surtitles on the stage.

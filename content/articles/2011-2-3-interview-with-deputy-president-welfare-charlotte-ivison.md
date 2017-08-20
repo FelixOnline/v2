@@ -4,18 +4,15 @@ title: >
 subtitle: >
   "Make sure that you actually care about student welfare or you’ll end up being bored"
 date: "2011-02-03 19:42:57 +0000"
-
-# Attributes from Felix Online V1
-id: "723"
-old_path: /news/723/interview-with-deputy-president-welfare-charlotte-ivison-
+image: "http://felixonline.co.uk/img/upload/201102031939-ks607-charlott.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/723/interview-with-deputy-president-welfare-charlotte-ivison-
-imported: true
 comments:
  - value: >
      The one time I came into contact with Ms. Ivison she seemed far far more interested in not steping on toes than protecting students, which is typical of our good-for-noting union
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102031939-ks607-charlott.jpg"
-image_caption: ""
 ---
 
 __What has been your biggest challenge as Deputy President (Welfare)?__

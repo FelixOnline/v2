@@ -4,16 +4,13 @@ title: >
 subtitle: >
   No one likes a know-it-all. But for Evelyn Castor (Rebecca Hall), her significant other, her partner in science and in life, Will Castor (Johnny Depp) really does know it all. This is after a deadly assassination attempt with a bullet laced in radiation slowly starts to shut down his body.
 date: "2014-05-09 15:14:34 +0100"
-
-# Attributes from Felix Online V1
-id: "4583"
-old_path: /film/4583/rise-of-the-machine
+image: "http://felixonline.co.uk/img/upload/201405091615-jal08-transcendence.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4583/rise-of-the-machine
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405091615-jal08-transcendence.jpg"
-image_caption: ""
 ---
 
 __Transcendence__

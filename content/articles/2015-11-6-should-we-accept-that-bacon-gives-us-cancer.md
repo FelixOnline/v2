@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The writing is on the wall when it comes to the benefits of vegetarianism
 date: "2015-11-06 13:58:21 +0000"
-
-# Attributes from Felix Online V1
-id: "5703"
-old_path: /comment/5703/should-we-accept-that-bacon-gives-us-cancer
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5703/should-we-accept-that-bacon-gives-us-cancer
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - bs2314
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 First you find out you’re not actually eating beef, nay, horses. Then you find out it causes cancer too. Hard times to be a meat eater.

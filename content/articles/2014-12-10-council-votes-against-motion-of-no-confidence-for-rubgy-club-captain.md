@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Council votes to let Hobson live to play another day
 date: "2014-12-10 15:15:07 +0000"
-
-# Attributes from Felix Online V1
-id: "5023"
-old_path: /news/5023/council-votes-against-motion-of-no-confidence-for-rubgy-club-captain-
+image: "http://felixonline.co.uk/img/upload/201412101513-ps3110-edited_council.jpg"
+image_caption: "Council met to discuss the sanctions against Hobson"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5023/council-votes-against-motion-of-no-confidence-for-rubgy-club-captain-
-imported: true
 comments:
  - value: >
      Screw the union bureaucrats #LongLiveHobson #Hobson4President,There wouldn't be a rugby club at all without the 'hacks' and 'bureacrats' who keep the whole system ticking over.,Shocking cowardice by Council in not censuring someone who has brought the whole of College into disrepute. I hope College disciplinary procedures are more rigorous, impartial and severe. If a random member of the public had done this the police would have charged them. <br> <br>Hobson's disingenuous ignorance of what the Union actually does should rule him incompetent to be club captain &amp; chair on its own. Where does he think the money comes from?,With all due respect, that isn't fair. We didn't have a motion of censure to vote on. <br>The fact is that the Union isn't the police, we should only remove someone from their position (i.e. punish them) if it would be for the greater good of our membership as a whole. Many of us did not believe that the vote of no-confidence would deliver this outcome. I personally would throw my full support behi
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412101513-ps3110-edited_council.jpg"
-image_caption: ""
 ---
 
 Union Council saw the motion of no confidence against Imperial College Union Rugby Football Union (ICURFC) Club Captain rejected Tuesday evening.

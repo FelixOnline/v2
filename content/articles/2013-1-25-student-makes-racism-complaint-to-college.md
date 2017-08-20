@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Student angered by being stopped and asked for ID
 date: "2013-01-25 01:16:33 +0000"
-
-# Attributes from Felix Online V1
-id: "3175"
-old_path: /news/3175/student-makes-racism-complaint-to-college
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3175/student-makes-racism-complaint-to-college
-imported: true
 comments:
  - value: >
      The reason that this is unacceptable is unfortunately buried deep in the article. What happened was a group of students were walking along and the one black guy in the group was stopped by security. This should have been made more clear in the article.,Security receives a staff member's concern that someone on campus is not a student. Security ask people matching a description for their College card. Security were professional and polite. Matter is resolved. <br> <br>The person stopped happens to be black, which presumably formed part of the description given to Security. Could have equally been described as having pink hair or wearing yellow socks. <br> <br>huh? <br> <br>If you seek to be offended, you'll usually find a way to be.,I've witnessed this happen in the Blackett building about a month and a half ago. The guy being questioned for his ID was black, but he was also wearing his Sport Imperial tracksuit(!!). I'm a little worried that this is a trend! Not sure if the person involved will want to say anything about it but
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A black student has raised a complaint of racism after being asked to show identification by security officers following a call made to College by a member of staff who thought the student may not be a member of Imperial.

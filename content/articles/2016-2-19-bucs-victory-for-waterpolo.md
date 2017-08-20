@@ -4,16 +4,13 @@ title: >
 subtitle: >
   With a number of starting players missing things were not looking good
 date: "2016-02-19 12:32:03 +0000"
-
-# Attributes from Felix Online V1
-id: "5949"
-old_path: /sport/5949/bucs-victory-for-waterpolo-
+image: "http://felixonline.co.uk/img/upload/201602191231-felix-IMG_20160217_154920.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5949/bucs-victory-for-waterpolo-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jm4513
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602191231-felix-IMG_20160217_154920.jpg"
-image_caption: ""
 ---
 
 After securing 4th place in the Premier South division, a home draw against Northumbria awaited the Imperial College Men’s waterpolo team in the first cup round of BUCS on Wednesday. With a number of starting players missing, things were not looking good, and early in the week they quickly got a lot worse. Problems with pool bookings left the team with nowhere to play the match and at risk of conceding a walkover.

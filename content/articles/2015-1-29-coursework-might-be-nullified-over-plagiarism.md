@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Philippa Skett reports as Business Economics module is investigated
 date: "2015-01-29 23:36:31 +0000"
-
-# Attributes from Felix Online V1
-id: "5153"
-old_path: /news/5153/coursework-might-be-nullified-over-plagiarism
+image: "http://felixonline.co.uk/img/upload/201501292336-ps3110-imperial.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5153/coursework-might-be-nullified-over-plagiarism
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501292336-ps3110-imperial.jpg"
-image_caption: ""
 ---
 
 Students were informed on Monday that the marks from an online coursework may be nullified after reports of “widespread plagiarism.”

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Max Falkenberg explores Anslem Kiefer's enduring influence
 date: "2014-12-18 15:34:38 +0000"
-
-# Attributes from Felix Online V1
-id: "5055"
-old_path: /arts/5055/romance-and-ruins-at-the-royal-academy
+image: "http://felixonline.co.uk/img/upload/201501212224-ps3110-anselm-kiefer-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5055/romance-and-ruins-at-the-royal-academy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501212224-ps3110-anselm-kiefer-1.jpg"
-image_caption: ""
 ---
 
 Anselm Kiefer is not an artist to approach in half measures. When I read that, in 1992, he turned his 35 acre studio in Barjac, France, into a giant Gesamtkunstwerk comprised of storerooms, installations, paintings, underground chambers, corridors, striking glass structures and huge lead sculptures, I thought that maybe, in the pretty, well presented halls of the Royal Academy of Art (RAA), a certain undertone of Kiefer’s work may well be lost on me. It wasn’t.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Universities are an important source of intellectual property, with only 2% of patents now owned by individuals
 date: "2011-03-03 20:25:05 +0000"
-
-# Attributes from Felix Online V1
-id: "1008"
-old_path: /news/1008/the-battle-for-imperials-intellectual-property
+image: "http://felixonline.co.uk/img/upload/201103032022-ks607-harrietg.jpg"
+image_caption: "Harriet Gliddon explains her campaign"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1008/the-battle-for-imperials-intellectual-property
-imported: true
 comments:
  - value: >
      hello friends this is a very smart and diplomatic answer . it is really appreciable and general. really it is a very nice genric comments. <br>======== <br> ,hello friends this is a very smart and diplomatic answer . it is really appreciable and general. really it is a very nice genric comments. <br>============= <br><a href="http://builders.fastrealestate.com.au" rel="dofollow">project home builders</a>,hello friends this is a very smart and diplomatic answer . it is really appreciable and general. really it is a very nice genric comments. <br>================== <br><a href="http://builders.fastrealestate.com.au" rel="dofollow&gt;project home builders&lt;/a&gt;,hello friends this is a very smart and diplomatic answer . it is really appreciable and general. really it is a very nice genric comments. <br>======== <br>&lt;a href=" http:="">project home builders</a>,hello friends this is a very smart and diplomatic answer . it is really appreciable and general. really it is a very nice genric comments. <br>=
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103032022-ks607-harrietg.jpg"
-image_caption: ""
 ---
 
 Harriet Gliddon is the latest student to join the campaign. A student campaign that first sparked in the classrooms of Yale and burned across the world; it has finally reached Imperial College London. Harriet is the founder of the newest chapter of [Universities Allied for Essential Medicines](http://essentialmedicine.org/) (UAEM), here at Imperial. The organisation lobbies universities to show their commitment to aiding the developing world by ensuring that potential new drugs developed are made affordable in poorer countries.

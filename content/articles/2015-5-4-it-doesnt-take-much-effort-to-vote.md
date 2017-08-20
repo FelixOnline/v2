@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Thomas Lim asks why students don’t care about the election
 date: "2015-05-04 16:14:52 +0100"
-
-# Attributes from Felix Online V1
-id: "5486"
-old_path: /comment/5486/it-doesnt-take-much-effort-to-vote
+image: "http://felixonline.co.uk/img/upload/201505041714-ps3110-studentvoting.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5486/it-doesnt-take-much-effort-to-vote
-imported: true
 comments:
  - value: >
      "I pledge, TO VOTE AGAINST ANY INCREASE IN FEES, in the next parliament and to pressure the government to introduce A FAIRER ALTERNATIVE." <br> <br>That is what Nick Clegg said. Many stupidly believed him and voted. Now we pay £9k a year. <br> <br>It's not just a one-off, history is full of examples of politicians lying to get elected. Voters can't do anything except put up with it, until another politician comes along saying THIS TIME it will be different. <br> <br>Actually we CAN hold the system to account without voting, the best way I can see is emigration. Deny the politicians your future labour, deny them your tax revenue, deny them your participation in economic, social and cultural life. Emigrate because you can put behind you this shitty UK housing sector. Emigrate because there are other better managed countries which are run in the interests of the many and not the few. <br> <br>One election day I will be researching the country I want to emigrate to after my degree. That is a far better use of my time.,This picture is
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - txl11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505041714-ps3110-studentvoting.jpg"
-image_caption: ""
 ---
 
 Conversations with friends around campus have reminded me that those of us keenly following the General Election are in the minority. Hardly surprising given that it’s exam season, but it doesn’t take much effort to go and vote next Thursday. What surprised me more was how people hadn’t registered, believing their vote was either worthless or would not make a difference.

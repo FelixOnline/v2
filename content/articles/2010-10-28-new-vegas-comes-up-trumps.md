@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Fresh out of his Vault, Sean Harbinson is bowled over by Fallout: New Vegas
 date: "2010-10-28 19:26:46 +0100"
-
-# Attributes from Felix Online V1
-id: "262"
-old_path: /games/262/new-vegas-comes-up-trumps
+image: "http://felixonline.co.uk/img/upload/201010282024-ma1307-fallpout.jpg"
+image_caption: "The harsh realities of government have really changed Nick Clegg..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/262/new-vegas-comes-up-trumps
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -25,12 +23,6 @@ authors:
  - skh10
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010282024-ma1307-fallpout.jpg"
-image_caption: ""
 ---
 
 Fallout: New Vegas brings us back to post-apocalyptic America to travel the vast wastelands once again. The story begins with you awaking in a room to discover you’ve just gone through surgery after being found shot and left for dead.

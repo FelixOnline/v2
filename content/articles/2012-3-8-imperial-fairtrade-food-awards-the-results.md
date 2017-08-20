@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The second Imperial Food Awards have ended – Anastasia Eleftheriou and Michael Krestas sift through the entries in search of Imperial’s best cookery maestros
 date: "2012-03-08 22:14:29 +0000"
-
-# Attributes from Felix Online V1
-id: "2331"
-old_path: /food/2331/imperial-fairtrade-food-awards-the-results
+image: "http://felixonline.co.uk/img/upload/201203082208-ams111-muffin.jpg"
+image_caption: "The winner: gooey fibre and mango infused blackberry muffins"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2331/imperial-fairtrade-food-awards-the-results
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -26,12 +24,6 @@ authors:
  - mk4410
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203082208-ams111-muffin.jpg"
-image_caption: ""
 ---
 
 __First Place:____Brigitte Jessica Janssen__’s __Gooey, Fibre And Mango infused Blackberry Muffins__ earned her the top prize: a £30 voucher for online shopping site [ethicalsuperstore.com](http://ethicalsuperstore.com). Congratulations!

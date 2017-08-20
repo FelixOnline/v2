@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The word ‘fracking’ has become aligned with unconditional taboo in the United Kingdom in a two year interval. Strong public scepticism has been fuelled by the parade of paraphernalia arriving from the USA...
 date: "2013-11-08 03:45:07 +0000"
-
-# Attributes from Felix Online V1
-id: "4025"
-old_path: /comment/4025/fracking-versus-science-communication
+image: "http://felixonline.co.uk/img/upload/201311080922-felix-screen-shot-2013-11-08-at-09.22.14.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4025/fracking-versus-science-communication
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - ejt11
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311080922-felix-screen-shot-2013-11-08-at-09.22.14.png"
-image_caption: ""
 ---
 
 The word ‘fracking’ has become aligned with unconditional taboo in the United Kingdom in a two year interval. Strong public scepticism has been fuelled by the parade of paraphernalia arriving from the USA. Images ranging from flaming taps right through to ominous ‘frack pads’ litter the internet. In the summer of 2013 protestors took to the streets at the G8 Summit in Fermanagh. Balcombe became the focal point in the notorious Cuadrilla row, exhibiting some of the most vitriolic resistance.

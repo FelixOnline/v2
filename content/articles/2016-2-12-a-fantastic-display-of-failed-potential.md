@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Young Vic presents an inspiring but shallow take on a Hindu classic
 date: "2016-02-12 11:35:53 +0000"
-
-# Attributes from Felix Online V1
-id: "5906"
-old_path: /arts/5906/a-fantastic-display-of-failed-potential
+image: "http://felixonline.co.uk/img/upload/201602121134-felix-battlefield.jpg"
+image_caption: "The cast of Battlefield at the Young Vic."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5906/a-fantastic-display-of-failed-potential
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - av3514
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602121134-felix-battlefield.jpg"
-image_caption: ""
 ---
 
 I really wanted to like _Battlefield._ Usually, a statement like this foreshadows ruthless panning and heartless criticism, especially when it makes an appearance at the beginning of a review. But I shall try and be objective.

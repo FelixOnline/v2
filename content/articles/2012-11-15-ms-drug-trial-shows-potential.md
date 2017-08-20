@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Nick Kennedy on a potential cure to an awful disease
 date: "2012-11-15 21:03:20 +0000"
-
-# Attributes from Felix Online V1
-id: "2890"
-old_path: /science/2890/ms-drug-trial-shows-potential
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2890/ms-drug-trial-shows-potential
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - njk12
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A new drug is the most effectivetreatment for multiple sclerosis (MS), say researchers at the University of Cambridge.

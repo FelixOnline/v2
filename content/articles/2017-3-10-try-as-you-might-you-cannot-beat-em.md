@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Women's rugby that is
 date: "2017-03-10 14:47:23 +0000"
-
-# Attributes from Felix Online V1
-id: "6890"
-old_path: /sport/6890/try-as-you-might-you-cannot-beat-em
+image: "http://felixonline.co.uk/img/upload/201703101447-felix-IMG_20170215_154942.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6890/try-as-you-might-you-cannot-beat-em
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - beckssimpson
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101447-felix-IMG_20170215_154942.jpg"
-image_caption: ""
 ---
 
 It’s been an amazing couple of weeks for women’s rugby, with three consecutive wins, all the hard work this season has really started to pay off. Most recently with a glowing 69-10 win over Kingston and a 38-5 win against Roehampton the week before, propelling Women’s Rugby into the South-Eastern Conference Cup Semi-Finals.This improvement can in part be attributed to the decision to focus solely on the BUCS league, and the organisation of weekly weight lifting sessions to supplement their training.

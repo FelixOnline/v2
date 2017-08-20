@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Despite knowing about it since November, college officials have decided to stop the charity event just three days beforehand
 date: "2016-02-22 18:53:14 +0000"
-
-# Attributes from Felix Online V1
-id: "5952"
-old_path: /news/5952/college-puts-a-stop-to-rag-bungee-jump
+image: "http://felixonline.co.uk/img/upload/201602221908-felix-bungee.jpg"
+image_caption: "The bungee jump in full swing over Queen's Lawn last year."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5952/college-puts-a-stop-to-rag-bungee-jump
-imported: true
 comments:
  - value: >
      Seems Xi Jinping rubbed off on our Dear Leader Alice Gast more than we had previously thought!,Seems Xi Jinping rubbed off on our Dear Leader Alice Gast more than we had previously thought!,Seems Xi Jinping rubbed off on our Dear Leader Alice Gast more than we had previously thought!,Seems Xi Jinping rubbed off on our Dear Leader Alice Gast more than we had previously thought!,Seems Xi Jinping rubbed off on our Dear Leader Alice Gast more than we had previously thought!,Seems Xi Jinping rubbed off on our Dear Leader Alice Gast more than we had previously thought!,Dear Lucinda, <br>Please note: <br>Removal of Trustees by the Members or the Union Council: <br>61 The office of a Trustee shall be vacated if:<br>61.1 <br>a motion of no confidence in the Trustee is passed by a simple majority <br>of the Members voting in a Referendum, provided that at least 10% <br>of Members cast a vote in the Referendum. Such a motion shall only <br>be triggered by a petition of no confidence signed by at least 10% of <br>Members; or<br>61.2 <br>a motion of n
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602221908-felix-bungee.jpg"
-image_caption: ""
 ---
 
 UPDATE 24/02/16 : FELIX has now learnt the bungee jump has been green-lit by college, although a new date is yet to be set.

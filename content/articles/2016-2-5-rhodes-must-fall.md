@@ -4,18 +4,15 @@ title: >
 subtitle: >
   We should be remembering the victims of the British Empire, not the perpetrators
 date: "2016-02-05 11:52:18 +0000"
-
-# Attributes from Felix Online V1
-id: "5864"
-old_path: /comment/5864/rhodes-must-fall
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5864/rhodes-must-fall
-imported: true
 comments:
  - value: >
      Oh, it's you again.<br>Like many lefties, you patronisingly refer to people who disagree with you as "not educated". It turns out that the legacy of the Empire is more complex than you make out. Do you really think Zimbabwe, with its hyperinflation and famines, is better off under Mugabe than it was as a colony? What about Jamaica, where 60% of the population believe they would have been better off remaining under British rule (http://www.bbc.co.uk/news/world-latin-america-13952592)? Or do you only care about the "voices and stories of the oppressed" when they support your argument?<br>Yes, in its 350-year history the British Empire committed many atrocities. But so did the "proud nations" it replaced, such as the Maratha Empire. Warfare, slavery and oppression have basically been the norm throughout human history, so it's odd that Britain should be more ashamed of itself than any other nation. <br>You've also ignored the positive effects of Empire. We brought education, industrialisation, medicine, and, eventually
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - cet13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Last week Oriel College, Oxford confirmed that a monument commemorating Cecil Rhodes, a 19th century British imperialist, would remain despite a massive movement by students seeking the removal of the statue. Like many of the students at Oxford University, I’m disappointed by the college’s decision which goes against the views of the university’s student union. Rhodes must fall, and be moved to a more suitable location – the dark and dusty corner of a museum.

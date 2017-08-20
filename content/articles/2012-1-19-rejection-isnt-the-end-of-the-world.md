@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Imperial isn't the be all and end all
 date: "2012-01-19 23:16:24 +0000"
-
-# Attributes from Felix Online V1
-id: "2037"
-old_path: /comment/2037/rejection-isnt-the-end-of-the-world
+image: "http://felixonline.co.uk/img/upload/201201192317-felix-interview.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2037/rejection-isnt-the-end-of-the-world
-imported: true
 comments:
  - value: >
      When you meet prospective students, you are not meeting a cross-section of 17 year olds doing A-levels. There are about 2.5k UGs in each year at Imperial, and about 720k in each year in secondary education. There are 3941 schools in Britain. I'll let you work out the percentages. The number you get reflects a group of able pupils who care about their future. <br> Another perspective is that people are surprisingly different from one another. It follows that groups of people are, too, especially when groups of people are divided up on a basis dominated by A-level results. This contributes to the reputation of an institution, which in turn reflects upon its students. So, when an employer is faced with a CV from someone who got a 2:2 from Cambridge and a 1st from a middling University in the provinces, it is not hard to imagine which they might go for on that score (fairly or not). <br>If you mean 'be kind to interviewees', that's fine, but your reason for being so is misguided. <br> <br> <br>,What I am saying is t
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - mrangry
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201192317-felix-interview.jpg"
-image_caption: ""
 ---
 
 I’ve been helping out at interview days this year. Normally this is a task I avoid in the same way I avoid slapping my own balls with a wooden paddle – that is, by not agreeing to do it when I’m asked by my superiors (it happens more than you’d think). However, this year I am short on money and, like all people short on money, I am not averse to a little ball-slapping in return for cash.

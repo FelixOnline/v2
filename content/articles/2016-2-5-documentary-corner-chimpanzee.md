@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Disney made a doc!
 date: "2016-02-05 12:34:43 +0000"
-
-# Attributes from Felix Online V1
-id: "5878"
-old_path: /film/5878/documentary-corner-chimpanzee
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5878/documentary-corner-chimpanzee
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - bsc14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Oh a genuine big-budget nature documentary," I thought excitedly. As a biologist and lover of all things primate I was instantly excited to watch this film upon seeing its name online. Unfortunately, my excitement quickly flip-flop’d when I saw the second part of the title: ‘Disney nature’. Expectations dropped considerably. Disney, as a company, has several connotations which, whilst fitting for children’s cartoons and comedies, doesn’t seem to blend well with the themes and tropes of a mature nature documentary.

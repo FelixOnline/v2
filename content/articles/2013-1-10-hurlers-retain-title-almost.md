@@ -4,16 +4,14 @@ title: >
 subtitle: >
   10 Imperial hurlers in Birmingham
 date: "2013-01-10 23:23:27 +0000"
-
-# Attributes from Felix Online V1
-id: "3113"
-old_path: /sport/3113/hurlers-retain-title-almost
+image: "http://felixonline.co.uk/img/upload/201301102322-csw09-hurlers-at-champs.jpg"
+image_caption: "Winning smiles all round"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3113/hurlers-retain-title-almost
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +22,6 @@ authors:
  - csw09
  - mc5112
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102322-csw09-hurlers-at-champs.jpg"
-image_caption: ""
 ---
 
 Much like Leonidas and his 300 Spartans, Sat 3rd November found me leading 10 Imperial hurlers. This time however the hammer would fall, not in Thermopylae, but in Birmingham. Same difference some would say. The challenge facing us was very much as daunting. Our titanic adversaries were University of Dundee, Robert Gordon University (Aberdeen) and University of Liverpool.

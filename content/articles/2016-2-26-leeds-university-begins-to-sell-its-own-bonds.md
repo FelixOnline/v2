@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The Russell Group uni will be investing the £250 million in student facilities
 date: "2016-02-26 11:26:31 +0000"
-
-# Attributes from Felix Online V1
-id: "5957"
-old_path: /news/5957/leeds-university-begins-to-sell-its-own-bonds
+image: "http://felixonline.co.uk/img/upload/201602261126-felix-580_inside_Brotherton_library_uni_leeds20120906-2-cfwtmt.jpg"
+image_caption: "They have bonds, and arguably a nicer library."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5957/leeds-university-begins-to-sell-its-own-bonds
-imported: true
 comments:
  - value: >
      What's up, well put together web page you possess presently.| <br>nba 2k16 mt cheat http://nba2k16mttrade.pen.io/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261126-felix-580_inside_Brotherton_library_uni_leeds20120906-2-cfwtmt.jpg"
-image_caption: ""
 ---
 
 Leeds university has issued its own bond, with an interest rate comparable to the UK government’s own low-risk Gilts.

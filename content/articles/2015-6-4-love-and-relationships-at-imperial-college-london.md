@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Cecily Johnson on the stories behind your relationship statuses
 date: "2015-06-04 23:33:48 +0100"
-
-# Attributes from Felix Online V1
-id: "5600"
-old_path: /features/5600/love-and-relationships-at-imperial-college-london
+image: "http://felixonline.co.uk/img/upload/201506050033-cj914-tower.jpg"
+image_caption: "Did you meet your partner at Imperial?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/5600/love-and-relationships-at-imperial-college-london
-imported: true
 comments:
  - value: >
      fitflop butterfly flower singapore <br>fitflop online sale singapore http://singaporeasalefitflops.blogspot.com/,fit flops discount <br>fitflops shops http://australiafitflops.iemiller.net/,cheap birkenstock <br>birkenstock shoes clearance http://birkenstockaustralia.blogspot.com/,christian loubiton <br>christian louboutin outlet http://canadachristianlouboutinoutlet.blogspot.com/,http://online-diflucanfluconazole.net/ - Diflucan Viagra Pharmacy Usa http://lasixwithoutprescriptionfurosemide.net/,http://online-diflucanfluconazole.net/ - Buy Fluconazole Canadian Pharmacy http://lasixwithoutprescriptionfurosemide.net/,http://online-diflucanfluconazole.net/ - Diflucan For Oral Thrush Us Cialis Pharmacy http://lasixwithoutprescriptionfurosemide.net/,http://online-diflucanfluconazole.net/ - Diflucan No Prescription Pharmacy Online http://lasixwithoutprescriptionfurosemide.net/,http://online-diflucanfluconazole.net/ - Diflucan Tadalafil 10mg Uk Pharmacy http://lasixwithoutprescriptionfurosemide.net/,http://online-diflucanflucon
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -26,12 +24,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506050033-cj914-tower.jpg"
-image_caption: ""
 ---
 
 According to this year’s survey data, just 41% of Imperial students are single or “not seeing anyone” exclusively. A surprisingly high 46% of you are in an exclusive relationship at the moment, and 8% are seeing someone but “non-exclusively”.

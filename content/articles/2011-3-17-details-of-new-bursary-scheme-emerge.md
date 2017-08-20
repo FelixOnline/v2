@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Threshold for bursary likely to rise from £50,000 to £60,000
 date: "2011-03-17 19:46:55 +0000"
-
-# Attributes from Felix Online V1
-id: "1089"
-old_path: /news/1089/details-of-new-bursary-scheme-emerge
+image: "http://felixonline.co.uk/img/upload/201103172006-ks607-img_2989.jpg"
+image_caption: "Financial support will be provided for households earning up to £60,000 "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1089/details-of-new-bursary-scheme-emerge
-imported: true
 comments:
  - value: >
      Greatings, <br>Es conforme, este mensaje admirable <br>Garretot,Hey, youre the goto expert. Thkans for hanging out here.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - klb09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103172006-ks607-img_2989.jpg"
-image_caption: ""
 ---
 
 A College committee is working on proposals to increase Imperial’s bursary provision that could see more students receiving financial aid. The proposals from the Fees and Financial Aid Working Group would see students from families earning £60,000 receiving bursaries (up from the current £50,000), while the amount being paid kept constant, if not increased. The news comes as Imperial College Union announced the results of the [Bursaries Survey](http://www.imperialcollegeunion.org/news/bursaries-survey-results,472,ICUNS.html), showing that students valued financial aid during university above tuition fee reductions.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Right motives, wrong methods – Occupy isn't all some claim it to be
 date: "2012-01-19 23:21:51 +0000"
-
-# Attributes from Felix Online V1
-id: "2038"
-old_path: /comment/2038/occupy-the-new-year-but-grow-up-first
+image: "http://felixonline.co.uk/img/upload/201201192321-felix-occupy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2038/occupy-the-new-year-but-grow-up-first
-imported: true
 comments:
  - value: >
      Emm, not all Occupiers are revolutionaries. Also a “complete overhaul of democracy” does not imply revolution. <br> <br>From their own newspaper. http://theoccupiedtimes.co.uk/?p=643 <br> <br>"there are a variety of views within the camp on capitalism. Many dislike the system and wish to see an alternative; many more wish to see the current model reformed. The initial statement released by the camp, which was agreed upon by consensus, makes no mention of overthrowing capitalism, yet many media outlets have taken to describing the camp as anti-capitalist. This is either lazy journalism, or it is by design. Much of the press has an agenda to discredit or marginalise the Occupy movement" <br> <br>I've been trying to find the quote at the start of the article and only found a blog (yours, I presume.) <br>Since your article's premise relies on that quote, it seems a little strange it can't be found anywhere on the internet and that you didn't cite it's source. <br>It looks suspiciously like you're setting up a strawman.,Hi Jakov, <br> <br>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ss10210
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201192321-felix-occupy.jpg"
-image_caption: ""
 ---
 
 _Revolution! With its impassioned rhetoric and gritty anger the Occupy movement is intent on overhauling democracy as we know it. Bitter, disaffected people around the world are answering Occupy’s call, and governments are beginning to pay attention to the voice of the disillusioned masses!

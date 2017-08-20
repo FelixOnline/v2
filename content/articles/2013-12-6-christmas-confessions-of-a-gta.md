@@ -4,16 +4,13 @@ title: >
 subtitle: >
   There will come a time when you don’t have to work at Christmas
 date: "2013-12-06 04:04:58 +0000"
-
-# Attributes from Felix Online V1
-id: "4188"
-old_path: /comment/4188/christmas-confessions-of-a-gta
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4188/christmas-confessions-of-a-gta
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - gta
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Christmas at Imperial as an undergrad quite literally sucks. All I can remember was all my friends from alternative universities having a fantastic time with mulled wine, carols, slightly questionable decisions at the Christmas dinners, and retiring home to make snowmen with all their lovely family. Meanwhile I had more than five peices of coursework on the go, numerous tests, and ‘fun’ end of term activities on my course, that were hideously weighted so you could not pass if you were slightly the worse for wear in the morning. Instead of acting out the Christmas dream, I was struggling to get out of the department, at all. I often found myself wondering what halls actually looked like at this time of year, or whether it was light outside (there’s an app for that). I was at my most excited on the last day of term, at my joyful reunion with my bed.

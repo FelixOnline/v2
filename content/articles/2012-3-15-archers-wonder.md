@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sally Archer will be performing at ICU on Friday 16 March
 date: "2012-03-15 21:32:40 +0000"
-
-# Attributes from Felix Online V1
-id: "2386"
-old_path: /music/2386/archers-wonder
+image: "http://felixonline.co.uk/img/upload/201203152130-ams111-sally-archer.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2386/archers-wonder
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - ams111
  - pjb108
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152130-ams111-sally-archer.jpg"
-image_caption: ""
 ---
 
 Imagine the strength in the voice of Adele, the soul of Corinne Bailey Rae and the mellow vibe of Regina Spektor in one artist. Ever since starting her vocal career at the WOMAD festival in 2007, Sally Archer has performed in many gigs around the country and has recorded in Abbey Road Studios. Her songs include a selection of heartfelt melodies with beautiful piano and soulful guitar parts; and of course the wonderful blend of her voice can’t help but make you smile.

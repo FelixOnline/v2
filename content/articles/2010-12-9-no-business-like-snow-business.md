@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Lisa Ashari's joyous first experience of snow
 date: "2010-12-09 20:31:33 +0000"
-
-# Attributes from Felix Online V1
-id: "525"
-old_path: /comment/525/no-business-like-snow-business
+image: "http://felixonline.co.uk/img/upload/201104231939-felix-5214127497_3c2de2f081_b.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/525/no-business-like-snow-business
-imported: true
 comments:
  - value: >
      pants! also, still joyous about them snows?,Hi Lisa. We're really pleased you used our photo with your article, and thanks for the credit. Be joyous, it's a good way...,That's a mold-breaker. Great tihnikng!,P7jzVw <a href="http://hcvvjupmfjgo.com/">hcvvjupmfjgo</a>, <a href="http://www.get-autoinsurance.com/">auto insurance</a> 66132 <a href="http://www.cheapautoinsurancehere.com/">florida auto insurance</a> 643
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - la710
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104231939-felix-5214127497_3c2de2f081_b.jpeg"
-image_caption: ""
 ---
 
 After a month at imperial, my friends had found out that I hadn’t ever touched snow. Naturally I was mildly teased as they took amusement from my winter noobness. As soon as the prospect of snow arrived in the form of a little icon on the BBC online weather forecast, I was over the moon. Of course, I was expecting to wake up to a snow day the next day so when I went to lectures that day I was rather excited. As soon as people said “it won’t settle”, I just nodded and toned down the outward enthusiasm. One Google search later I realised that meant it’ll be in the sky but not on the ground. Sad face.

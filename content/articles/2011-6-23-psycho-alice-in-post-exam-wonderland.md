@@ -4,18 +4,15 @@ title: >
 subtitle: >
   DramSoc’s free re-imagining of the intoxicating tale goes on the rampage on the Queen’s Lawn
 date: "2011-06-23 21:01:05 +0100"
-
-# Attributes from Felix Online V1
-id: "1431"
-old_path: /arts/1431/psycho-alice-in-post-exam-wonderland
+image: "http://felixonline.co.uk/img/upload/201106232201-felix-the%20duchess.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1431/psycho-alice-in-post-exam-wonderland
-imported: true
 comments:
  - value: >
      Come and see Alice tonight - last chance! 6.30pm on the lawn, unless it rains in which case we'll move to the union. Then join us for drinks afterwards! <br> <br>More info here: http://www.facebook.com/event.php?eid=135225219887091 <br> <br>
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - slb08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106232201-felix-the%20duchess.jpg"
-image_caption: ""
 ---
 
 Staring at a pile of Civ Eng textbooks proved too much for one Imperial student today, as Alice Liddell was reportedly seen wandering around the Queen’s Lawn talking to flowers. A friend told Felix that Alice had had “a bit of a Donnie Darko moment” earlier in the library and had since been behaving extremely irrationally. “She started following me around earlier,” reported Union Fellow Tosin Ajayi “I was running really late and I’d lost my gloves or I would have stayed to help.”

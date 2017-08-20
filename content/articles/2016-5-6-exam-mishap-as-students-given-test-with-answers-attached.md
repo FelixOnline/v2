@@ -4,18 +4,15 @@ title: >
 subtitle: >
   First year geophysics students surprised to open file that included solutions
 date: "2016-05-06 09:40:28 +0100"
-
-# Attributes from Felix Online V1
-id: "6112"
-old_path: /news/6112/exam-mishap-as-students-given-test-with-answers-attached
+image: "http://felixonline.co.uk/img/upload/201605061040-felix-THE ONE.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6112/exam-mishap-as-students-given-test-with-answers-attached
-imported: true
 comments:
  - value: >
      Hello! I just wanted to ask if you ever have any problems with hackers? My last blog (wordpress) was hacked and I ended up losing a few months of hard work due to no backup. Do you have any methods to protect against hackers? <br>buildbox windows crack http://blackworldforum.com/showthread.php?tid=9662,Hello! I just wanted to ask if you ever have any problems with hackers? My last blog (wordpress) was hacked and I ended up losing a few months of hard work due to no backup. Do you have any methods to protect against hackers? <br>buildbox windows crack http://blackworldforum.com/showthread.php?tid=9662,Great looking website. Assume you did a lot of your very ownyour very own html coding <br>NHL 17 http://kristincollins.com/event/424,Great looking website. Assume you did a lot of your very ownyour very own html coding <br>NHL 17 http://kristincollins.com/event/424,x3VaYz http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com,x3VaYz http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com,I agree your opinion, Thank you for your post, Your
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061040-felix-THE ONE.jpg"
-image_caption: ""
 ---
 
 In a classic example of exam season drama, first year geophysics students were given a paper with the answers at the bottom.

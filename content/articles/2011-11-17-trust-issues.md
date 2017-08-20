@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial NHS Trust must resolve recent media allegations
 date: "2011-11-17 21:42:47 +0000"
-
-# Attributes from Felix Online V1
-id: "1785"
-old_path: /comment/1785/trust-issues
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1785/trust-issues
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The news that the management training company Coalescence Consulting has received payments of £39,570 this financial year may raise a few eyebrows. While Mark Davies, Chief Executive of the Imperial College Healthcare NHS Trust, has stated that, “On joining Imperial I rightly declared an interest in the company and resigned as a director of Coalescence to avoid any issues of a conflict of interest. I have had nothing to do with the commissioning of any work historic or ongoing,” he remains a Senior Consultant and Executive Coach for the company, with his wife in the position of Managing Director.

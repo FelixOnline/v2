@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Daniel Adams on the joy of dichotomy
 date: "2013-10-25 00:05:02 +0100"
-
-# Attributes from Felix Online V1
-id: "3919"
-old_path: /comment/3919/the-joy-of-dichotomy
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3919/the-joy-of-dichotomy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - fcomment
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Dichotomy is the act of separating anything into two separate components, A and B. A great asset of this is to keep things simple, easy to manage, and reduce variables to a minimum.

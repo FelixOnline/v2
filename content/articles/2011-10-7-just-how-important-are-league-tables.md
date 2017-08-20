@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Action must always be taken, yet the university ranking system is not perfect
 date: "2011-10-07 10:06:32 +0100"
-
-# Attributes from Felix Online V1
-id: "1483"
-old_path: /comment/1483/just-how-important-are-league-tables
+image: "http://felixonline.co.uk/img/upload/201002271742-rsp07-imperial.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1483/just-how-important-are-league-tables
-imported: true
 comments:
  - value: >
      Chances are when they make those coffee taelbs, they make an X' amount discountinue them. So it's very hard to find a replacement. However you can go into any glass shop have one custom made if your set is worth the money! If not it might be cheaper to get a new set! Good luck,Get the measurements of the table or bring the table with you to a glass shop that cuts glass. They will be able to <a href="http://igsrjgil.com">reaplce</a> it that way. I had to do that once and it was very inexpensive and it worked great! Peace, size prednisone viagra online without prescription put lots car insurance quotes brevard county fl
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +23,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002271742-rsp07-imperial.jpg"
-image_caption: ""
 ---
 
 Earlier this month it was revealed that [Imperial College London had slipped eleven places in the Sunday Times University League Table for 2012](http://felixonline.co.uk/news/1467/student-satisfaction-hits-tables/). With such a dramatic fall from third to fourteenth position nationally, this is undoubtedly a cause for concern.

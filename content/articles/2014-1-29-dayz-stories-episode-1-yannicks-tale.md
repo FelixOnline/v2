@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The DayZ standalone has been released, and given the amazing stories that occur in that game, I decided to make a kind of series out it! So here it goes:
 date: "2014-01-29 16:44:02 +0000"
-
-# Attributes from Felix Online V1
-id: "4308"
-old_path: /games/4308/dayz-stories-episode-1-yannicks-tale
+image: "http://felixonline.co.uk/img/upload/201401291643-me1711-games_dayz.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4308/dayz-stories-episode-1-yannicks-tale
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201401291643-me1711-games_dayz.jpg"
-image_caption: ""
 ---
 
 I woke up to find myself cold and thirsty on beach in chernarus. All I had on me was a the clothes I was wearing and a flashlight. Time to survive the Zombie apocalypse. I saw immediately a town sign which said Камышово which, I knew from my limited Russian, was Kamyshovo. However my knowledge of my location did not help that much, and therefore in dire of need of water I decided to loot the nearby abandoned houses. As I made my way through the wreckage a glint on the floor caught my eye. A compass! Now I could actually get somewhere. My tired and thirsty mind vaguely remembered that due west of my position there was the big town Electro, where I new that there were several supermarkets which must have some kind of food and drink.

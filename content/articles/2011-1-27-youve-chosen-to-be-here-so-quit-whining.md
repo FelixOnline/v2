@@ -4,16 +4,13 @@ title: >
 subtitle: >
   We should be more content that we're at Imperial
 date: "2011-01-27 19:52:34 +0000"
-
-# Attributes from Felix Online V1
-id: "679"
-old_path: /comment/679/youve-chosen-to-be-here-so-quit-whining-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/679/youve-chosen-to-be-here-so-quit-whining-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - ws1009
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 "I have so much work! I hate Imperial!" Heard this before? Mmm... I thought so - there is a lot of this Imperial hate around. The same university that everyone has chosen to attend also appears to be the root of all of their misfortunes and unhappiness.

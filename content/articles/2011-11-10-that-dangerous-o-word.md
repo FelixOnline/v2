@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Michael Cook questions Baroness Greenfield’s claims that videogames cause ADHD, schizophrenia and other mental disorders
 date: "2011-11-10 22:26:58 +0000"
-
-# Attributes from Felix Online V1
-id: "1747"
-old_path: /games/1747/that-dangerous-o-word
+image: "http://felixonline.co.uk/img/upload/201111102226-pk1811-gta1.jpg"
+image_caption: "Claims that games like GTA IV negatively impact on one’s mental state need to be supported"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1747/that-dangerous-o-word
-imported: true
 comments:
  - value: >
      Nice article!
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -28,12 +26,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102226-pk1811-gta1.jpg"
-image_caption: ""
 ---
 
 Opinion is something of a dirty word when it comes to science. Opinion happens all the time within the walls of Imperial, but it comes in the form of chitchat, idle speculation and the exchange of ideas. It rarely, if ever, worms its way into academic papers and serious propositions, and when it does it's usually questioned, dissected and made demands of. We're keen to segregate speculation and fact unless the former shows itself worthy of being considered the latter.

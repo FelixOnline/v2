@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Stephen Fry’s claim, that women don’t cruise because they are uninterested in sex, outraged feminist groups
 date: "2010-11-11 21:41:50 +0000"
-
-# Attributes from Felix Online V1
-id: "366"
-old_path: /comment/366/is-stephen-fry-right-about-womens-sexuality
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/366/is-stephen-fry-right-about-womens-sexuality
-imported: true
 comments:
  - value: >
      @ Anna <br> <br>You and your friends might not talk about guys as much as people believe. But guys sure as hell spend 80% of their time talking about girls! <br> <br>Stephen fry's comments are clearly ludicrous. Half the girls I know are more interested in sex and filthier than I am.,"But guys sure as hell spend 80% of their time talking about girls!" <br> <br>Well as a guy who works in a factory, that is news to me. I've just finished an 8 hour shift on a pretty slow day, and in all that time women were only mentioned once, and that was a joke about how Prince William is batting above his average with Kate Middleton. Hardly 80% of our time. <br> <br> <br> <br>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Thou shalt not question Stephen Fry? Oh dear, I may as well go watch Hollyoaks and eat a Kit Kat. While we’re at it, the Beatles aren’t just a band – they are a way of life.

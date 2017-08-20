@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Imperial College Hockey Club serve up free shots and more!
 date: "2012-02-16 21:32:26 +0000"
-
-# Attributes from Felix Online V1
-id: "2191"
-old_path: /news/2191/vintage-bar-night-for-hockey-club
+image: "http://felixonline.co.uk/img/upload/201202162132-pk1811-img_0069-(copy).jpg"
+image_caption: "When they break out the pens, it’s time to get out"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2191/vintage-bar-night-for-hockey-club
-imported: true
 comments:
  - value: >
      How can our sabbaticals and our union claim to be run effectively by students when this article quite clearly shows otherwise. At some point along the management chain of 568 and Metric something is going wrong. If a club in Fulham can take business away from the Student Union, purely due to financial risk/gain, good music and good drinks deals, something must be wrong. The expectations and needs of clubs and most importantly students who attend Imperial are not being fulfilled. It is great to see this being highlighted. Well done Felix.,As the article mentioned, this is not the first time that a club or society has held an event here - the Rugby club held two events here even before Hockey came along - and Artsfest are doing one this week. This is pretty much a direct consequence of the horrific reputation that the Union has with Clubs and Societies at the moment, what with the Responsible Retailing of Alcohol policy casting a shadow over what's supposed to be a student-led bar.,I have been vocal on this bef
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - ak6309
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162132-pk1811-img_0069-(copy).jpg"
-image_caption: ""
 ---
 
 The [Imperial College Hockey Club](http://www.union.ic.ac.uk/acc/hockey/) (ICHC) hosted a bar night at Vintage, formerly Chateau 6, on Thursday last week. The event was open to all students and served as a way for both students involved in sports and others to blow off some steam before the all-important Varsity games this March.

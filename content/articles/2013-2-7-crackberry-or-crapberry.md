@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Maximilian Eggl looks at the fortunes of a different fruity company
 date: "2013-02-07 23:47:47 +0000"
-
-# Attributes from Felix Online V1
-id: "3267"
-old_path: /tech/3267/crackberry-or-crapberry-
+image: "http://felixonline.co.uk/img/upload/201302072347-tna08-wpid-photo-feb-4-2013-452-pm.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3267/crackberry-or-crapberry-
-imported: true
 comments:
  - value: >
      really what is your problem? Don't you have anything better to do? <br> <br>@Anon, sadly Felix does not have unlimited resources, meaning the tech section has to review either things that are extremely cheap, or things they own themselves. As I am currently locked in a contract getting a new phone would be a bit steep for me. However I have emailed BB, to see if I could get a Z10 for review. Now that I do look at it, I did miss the hub feature as well as the keyboard (which looks really nice), however in writing this article I didn't have much time and thus missed out some features. However I appreciate all constructive input as it really does help me write better articles, thank you! On another note, the tech section is always looking for writers, and if you have a Z10 or any BB10 device, it would be really great if you could write something about it! <br> <br>@Sanchit Sharma <br>I imagine having no home button would be pretty cool, but for some reason I need some button in case some thing goes wrong:P,(Previously "Anonymo
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302072347-tna08-wpid-photo-feb-4-2013-452-pm.jpg"
-image_caption: ""
 ---
 
 Back in the early days of mobile electronics, a BlackBerry phone was the thing to have. The first true smartphone, BlackBerry (formerly known as RIM), was the first company to really attempt to make a really portable computer. With the miniature keyboard, BBM, Mail services etc, it really was a success in the corporate market, as well as with the general consumer. However with the advent of the touchscreen based smartphone, BlackBerry failed to keep up with the market. In fact over the last 5 years their stock has shed more than 90% of its value, wiping roughly 70 billion dollars of the value of the company. They have released several failures, most notably the Playbook and in general have been making losses the last few quarters. Even their core business, the corporations and governments have started to drop them in favour of Apple, Android and Microsoft.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Humans have the ability to perform automated tasks whilst subconscious
 date: "2014-11-10 22:50:54 +0000"
-
-# Attributes from Felix Online V1
-id: "4849"
-old_path: /science/4849/learning-in-lectures-whilst-sleeping--a-dream-come-true
+image: "http://felixonline.co.uk/img/upload/201411102250-ps3110-students_sleeping_in_lecture_theatre_is0266n3b.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4849/learning-in-lectures-whilst-sleeping--a-dream-come-true
-imported: true
 comments:
  - value: >
      sale on fitflops <br>fitflop sale australia http://australiafitflops.blogspot.com/,birkenstock outlet online shop <br>birkenstock gizeh http://birkenstocksaleaustralia.blogspot.com/,buy louboutin <br>christian louboutin shoes http://christianlouboutincanadaoutlet.blogspot.com/,louboutin for men <br>christian louboutin sale http://canadachristianlouboutinoutlet.blogspot.com/,PJ5MO6 http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - ur13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102250-ps3110-students_sleeping_in_lecture_theatre_is0266n3b.jpg"
-image_caption: ""
 ---
 
 Scientists at the University of Cambridge and the Ecole Normale Superieure Paris working on a joint research project have discovered a new phenomenon of the human brain: the ability to perform automated tasks even whilst the subject is unconscious.

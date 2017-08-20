@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Ian MacNeil is the set designer for Everyman, currently on at the National Theatre. Felix Arts’ Jack Steadman caught up with Ian during the run of Everyman for a chat about his work on the show, as well as a look back at his career.
 date: "2015-05-26 13:20:44 +0100"
-
-# Attributes from Felix Online V1
-id: "5563"
-old_path: /arts/5563/in-conversation-ian-macneil
+image: "http://felixonline.co.uk/img/upload/201505261414-js5913-everyman.jpg"
+image_caption: "A scene from the National Theatre’s current production of Everyman, for which Ian MacNeil designed the set."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5563/in-conversation-ian-macneil
-imported: true
 comments:
  - value: >
      Simply just had to point out I'm delighted I came on the web site!| <br>nba 2k16 mt database http://opportunityexchange.com/node/190239,thank so a lot for your site it assists a lot.| <br>nba 2k16 mt fast http://daisyalice.bcz.com/2016/04/11/everything-that-you-ought-to-know-about-the-madden-nfl-16-game/,say thanks to so a lota lot for your internet site it assists a whole lot <br>nba 2k17 http://user1470994313182.yep.com/blog/375986_General/1561690_Learn_Information_About_NHL_17
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505261414-js5913-everyman.jpg"
-image_caption: ""
 ---
 
 Ian MacNeil is the set designer for _Everyman_, currently on at the __National Theatre__. Directed by Rufus Norris, the new Director of the National, and starring Academy Award-winning Chiwetel Ejiofor, the play runs until 30th August. Ian’s previous work includes the likes of _Billy Elliot: The Musical_, for which he won the Tony Award for Best Scenic Design of a Musical, and the critically acclaimed _An Inspector Calls_, which won an Olivier Award for Best Set Design.

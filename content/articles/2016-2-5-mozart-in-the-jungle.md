@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The show’s wit is sharp and rarely predictable
 date: "2016-02-05 12:45:50 +0000"
-
-# Attributes from Felix Online V1
-id: "5883"
-old_path: /tv/5883/mozart-in-the-jungle
+image: "http://felixonline.co.uk/img/upload/201602051244-felix-Mozart-in-the-Jungle-TV-Series-Cast-Poster-Wallpaper.jpg"
+image_caption: "Full of style and substance."
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5883/mozart-in-the-jungle
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ad4013
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602051244-felix-Mozart-in-the-Jungle-TV-Series-Cast-Poster-Wallpaper.jpg"
-image_caption: ""
 ---
 
 If you followed this year’s Golden Globes, you might’ve been surprised by Mozart in the Jungle sweeping the Best Television series – Comedy, and Best Actor in a Television series – Musical or Comedy categories. By virtue of being an Amazon Original, this show has flown under most people’s radars.

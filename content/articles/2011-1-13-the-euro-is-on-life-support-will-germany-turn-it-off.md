@@ -4,18 +4,15 @@ title: >
 subtitle: >
   2010 was a turning point for the euro
 date: "2011-01-13 20:04:13 +0000"
-
-# Attributes from Felix Online V1
-id: "574"
-old_path: /politics/574/the-euro-is-on-life-support-will-germany-turn-it-off-
+image: "http://felixonline.co.uk/img/upload/201101132003-ks607-euroeuro.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/574/the-euro-is-on-life-support-will-germany-turn-it-off-
-imported: true
 comments:
  - value: >
      I have to mention that there is an error in my article. The above article says that the current account balance of Iceland was 15% of its GDP in 2008, but the truth is that it was minus 15% of its GDP. <br> <br>I'd like to correct it. ,OK. The article has been corrected. Thank you, Editor.,. Remember that in a double-whammy eoleticn year, he is locked not only in a grand coalition, but in a struggle with the ex-comunnist Left party. The bottom-line of the SPD's argument is that Anglo-American capitalism is to blame for the crisis, not the lovely German social market economy . The SPD blasts the lack of financial regulation. You wonder, of course, where German/European regulators were when Hypo Real Estate's Irish subsidiary went off the cliffs. Never mind that Mr. Steinbrfcck's party has been holding the Finance Ministry ever since 1998, which is responsible for the regulation of the financial sector. So it may be all It's politics stupid . And so far the strategy has been holding up: The left has not gained in t
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -28,12 +25,6 @@ authors:
  - tm1510
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101132003-ks607-euroeuro.jpg"
-image_caption: ""
 ---
 
 “We can abandon the euro if our proposal is refused.” Angela Merkel, the German chancellor, said to George Papandreou, the Greece prime minister, during dinner at the EU summit in Brussels last October. The summit was held to discuss the euro crisis and a plan to bail out Ireland. Merkel had demanded a new legislation stating that bailed-out countries should lose certain voting rights in EU councils. Since it is only Germany that can pay a large amount of money as a bailout, the country is asked to bear the greatest burden whenever a debt crisis happens. Such unfairness has certainly made the German populace uncomfortable, but insisting on the loss of EU council voting rights was opposed by many other EU governments.

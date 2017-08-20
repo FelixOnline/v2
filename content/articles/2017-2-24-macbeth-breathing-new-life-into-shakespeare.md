@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Macbeth was on at the National Theatre from the 6th – 20th February
 date: "2017-02-24 14:33:03 +0000"
-
-# Attributes from Felix Online V1
-id: "6820"
-old_path: /arts/6820/macbeth--breathing-new-life-into-shakespeare
+image: "http://felixonline.co.uk/img/upload/201702241432-felix-ShakespeareYA-160.JPG"
+image_caption: "Madeline Appiah in rehearsal as Lady Macbeth"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6820/macbeth--breathing-new-life-into-shakespeare
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - wbe15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702241432-felix-ShakespeareYA-160.JPG"
-image_caption: ""
 ---
 
 Shakespeare for schools is an attempt by director Justin Audibert to bring Shakespeare closer to a ‘younger audience’: school children, especially those who may have been disillusioned by endless GCSE English lessons analysing iambic pentameter, may not have had the chance to step back and simply appreciate gripping Shakespearean narratives, such as Macbeth.

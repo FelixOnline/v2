@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lynch is the master of creating unsettling dreamlike visions and the surreal. He has written and directed cult classics such as Eraserhead (1977), Blue Velvet (1986) and Mulholland Drive (2001).
 date: "2014-01-17 04:04:20 +0000"
-
-# Attributes from Felix Online V1
-id: "4249"
-old_path: /film/4249/director-masterclass-david-lynch
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4249/director-masterclass-david-lynch
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - pob12
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Lynch is the master of creating unsettling dreamlike visions and the surreal. He has written and directed cult classics such as _Eraserhead_ (1977), _Blue Velvet_ (1986) and _Mulholland Drive _(2001). He also directed the more mainstream _Elephant Man_ (1980). Though the he has been making films for 37 years there has been a set of aesthetics and themes throughout his work which bind them together to create a consistent body of work. Critics Le Blanc and Odell stated that “his films are so packed with motifs, recurrent characters, images, compositions and techniques that you could view his entire output as one large jigsaw puzzle of ideas.”

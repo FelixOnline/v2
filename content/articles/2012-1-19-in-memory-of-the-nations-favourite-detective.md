@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Final episode has more holes than dutch cheese, says Maciej Matuszewski
 date: "2012-01-19 19:47:01 +0000"
-
-# Attributes from Felix Online V1
-id: "1999"
-old_path: /tv/1999/in-memory-of-the-nations-favourite-detective
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1999/in-memory-of-the-nations-favourite-detective
-imported: true
 comments:
  - value: >
      Im going to have to disagree with you about this. The film smeeed like a typical Richie film. Poorly shot fast fight scene followed by an over the top, almost holding your hand thru it, fight scene. The story was forgettable, and very boring. It also did not need to be told in 2 hours, an hour and a half would have been fine.I also felt like it got away from the feel of the books a lot. Holmes had way more depth than some arrogant snarky detective. And he used his powers of deduction to help him solve case, not pretend to be psychic before he fights someone.All and all a easily overlooked snooze, that is certainly not more of the year.
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -27,12 +24,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 So the second series of the BBC’s brilliant Sherlock has come to an end. The first series showed that it is possible to make a fresh, modern television adaptation while remaining impressively faithful to the hundred year old source material. The second showed that the creative team has lost none of their spark in the intervening time.

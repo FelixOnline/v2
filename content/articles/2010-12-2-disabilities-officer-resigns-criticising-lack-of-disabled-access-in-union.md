@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Union says issues are being resolved
 date: "2010-12-02 21:59:49 +0000"
-
-# Attributes from Felix Online V1
-id: "502"
-old_path: /news/502/disabilities-officer-resigns-criticising-lack-of-disabled-access-in-union-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/502/disabilities-officer-resigns-criticising-lack-of-disabled-access-in-union-
-imported: true
 comments:
  - value: >
      I wish Nicola Hopkins had not resigned so she could help me.I have Aspergers Syndrome and distrust the Disabilities Services and my department head and few others who have mistreated me since I started.They made me feel bad about myself.I worked very hard to get accepted by Imperial College having gone through major knee surgeries and now after 2 years I feel bad being there.Everyone finds me strange and I have no friends.Please tell others about Aspergers so they understand people like me cannot help the way we are. <br> <br> <br> <br> <br> <br> <br>,I'm sorry to hear this. I too felt very mistreated by the College's disability services when I approached them for help. They treated me like it was my fault. So I've decided to get help privately.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Union’s commitment to disabled students was called into question last week as the Union Disabilities Officer resigned saying that the Union “should be leading the way in accessibility for students, not lagging behind the rest of the university”.

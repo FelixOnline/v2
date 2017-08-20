@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A series of mini-reviews
 date: "2012-05-03 18:25:58 +0100"
-
-# Attributes from Felix Online V1
-id: "2412"
-old_path: /film/2412/in-brief-what-we-watched-over-easter
+image: "http://felixonline.co.uk/img/upload/201205031926-ams111-21-jump-street-007.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2412/in-brief-what-we-watched-over-easter
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205031926-ams111-21-jump-street-007.jpg"
-image_caption: ""
 ---
 
 __21 Jump Street__

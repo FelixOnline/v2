@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Kadhim Shubber interviews Hot Chip
 date: "2010-01-14 14:34:14 +0000"
-
-# Attributes from Felix Online V1
-id: "27"
-old_path: /music/27/hot-chip-interview
+image: "http://felixonline.co.uk/img/upload/201001141431-ks607-HotChip.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/27/hot-chip-interview
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - ks607
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001141431-ks607-HotChip.jpg"
-image_caption: ""
 ---
 
 __Kadhim:__ The new album sounds less brash than your previous records, it’s a little more laid back.

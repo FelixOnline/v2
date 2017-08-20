@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Ellen Mathieson takes you through the last one hundred and fifty years of projection, film, and sound in the cinema industry
 date: "2015-03-25 11:55:51 +0000"
-
-# Attributes from Felix Online V1
-id: "5423"
-old_path: /arts/5423/once-more-into-the-lens-the-history-of-projection
+image: "http://felixonline.co.uk/img/upload/201503251152-ff712-zoetrope.png"
+image_caption: "A modern zoetrope, to be veiwed by looking through the slits "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5423/once-more-into-the-lens-the-history-of-projection
-imported: true
 comments:
  - value: >
      2) Complication-- Refers to the several functions a watch possesses. Stop watch abilities, better known as the chronograph side-effect, tend to be an idea. Some other example of some complication certainly is the moonphase mechanism complication, and that is a screen within the falta time period. <br>nike running shoes for women http://runningshoes-shop.com,When it reaches this rate, the quantity of video games does the Cavs in addition to Warriors have enough game enthusiasts to stop? <br>paul kariya mighty ducks jersey http://nhlducksgearshop.com/13-paul-kariya-jersey,Many folks brag about how precisely precisely excellent content spinner baits are located in the " light " water most fisher folks dont possibly even attempt these in profound h2o. Whenever you apply just a little to check out amazing they are definitely this will be strategy you really need to apply again and again for many years in to the future. <br>Brooks Robinson http://orioles-jerseys.com/7-brooks-robinson-jersey,You can find issues to consider t
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251152-ff712-zoetrope.png"
-image_caption: ""
 ---
 
 The field of optics was founded during the scientific revolution, leading to large improvements in lenses. Photographic paper was first developed in the 19th century, around the same time that the first phonographic sound recordings were happening. Once these three existed, it was only a matter of time until they were combined to make the first moving pictures.

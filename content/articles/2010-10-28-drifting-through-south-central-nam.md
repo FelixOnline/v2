@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Aggressive off-road biking, token temple exploration and a cheeky mud spa – cruising along Vietnam’s South Central Coast
 date: "2010-10-28 19:45:53 +0100"
-
-# Attributes from Felix Online V1
-id: "276"
-old_path: /travel/276/drifting-through-south-central-nam
+image: "http://felixonline.co.uk/img/upload/201010282042-ks607-Mudmadne.jpg"
+image_caption: "Gotta be careful when you visit the elephants..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/276/drifting-through-south-central-nam
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010282042-ks607-Mudmadne.jpg"
-image_caption: ""
 ---
 
 I was already well acquainted with Vietnam’s somewhat inconvenient electricity shortages and Facebook firewall (hey, who needs an international social networking site when you’ve got access to ‘go.vn’, where the Communist Party are more than happy to be your “friend”) by the time I arrived in Nha Trang, a quaint little town in the South Central Coast. Unfortunately this place is often equated to Koh Phangan, Thailand’s infamous full moon party island, when in actual fact it has a lot of hidden pleasures beyond the cheap beer and easy girls (and guys).

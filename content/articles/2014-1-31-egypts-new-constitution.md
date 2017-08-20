@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The metamorphosis of an Arab state from autocracy to anarchy
 date: "2014-01-31 17:56:17 +0000"
-
-# Attributes from Felix Online V1
-id: "4326"
-old_path: /politics/4326/egypts-new-constitution
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/4326/egypts-new-constitution
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - jr1911
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In January 2011, when Egypt’s political landscape was marred by widespread distrust in President Hosni Mubarak’s regime the citizens of Egypt took to the streets with zeal for new hope and better governance. Protests were bolstered by the involvement of youth and there was a unanimous demand for transfer of power. Today, in 2014 young secular Eqyptians voicing opinions against the military are languishing in jails at the mercy of a coup which once enjoyed their outright support.

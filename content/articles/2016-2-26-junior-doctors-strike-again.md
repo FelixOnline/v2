@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Three dates set for 48-hour strikes
 date: "2016-02-26 11:20:59 +0000"
-
-# Attributes from Felix Online V1
-id: "5954"
-old_path: /news/5954/junior-doctors-strike-again
+image: "http://felixonline.co.uk/img/upload/201602261120-felix-IMG_7506.JPG"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5954/junior-doctors-strike-again
-imported: true
 comments:
  - value: >
      Great content you've here.| <br>nba 2k16 mtdb http://anastasia135.angelfire.com/blog-nba-2k16-vc.html,Great content you've here.| <br>nba 2k16 mtdb http://anastasia135.angelfire.com/blog-nba-2k16-vc.html,Great content you've here.| <br>nba 2k16 mtdb http://anastasia135.angelfire.com/blog-nba-2k16-vc.html,Not that I know of. <br>Cheap NBA 2K17 MT for sale http://www.prolifesingles.com/blogs/entry/Have-A-Glimpse-At-2K17-s-All-Time-Connecticut-Squad,Not that I know of. <br>Cheap NBA 2K17 MT for sale http://www.prolifesingles.com/blogs/entry/Have-A-Glimpse-At-2K17-s-All-Time-Connecticut-Squad,Not that I know of. <br>Cheap NBA 2K17 MT for sale http://www.prolifesingles.com/blogs/entry/Have-A-Glimpse-At-2K17-s-All-Time-Connecticut-Squad,Your company is very impressive . <br>UPAlbion.com https://www.boonex.com/forums/topic/Pre-Wipe-Occasions-Regarding-Albion-Online.htm,Your company is very impressive . <br>UPAlbion.com https://www.boonex.com/forums/topic/Pre-Wipe-Occasions-Regarding-Albion-Online.htm,Your company is very impressive . <br>UPAl
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - mjj15
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261120-felix-IMG_7506.JPG"
-image_caption: ""
 ---
 
 England's Junior Doctors are set to strike again with three 48-hour walkouts planned for the coming two months, meaning that planned operations and procedures may well be affected, but emergency care will be maintained.

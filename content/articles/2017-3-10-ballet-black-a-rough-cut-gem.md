@@ -4,17 +4,15 @@ title: >
 subtitle: >
   Ballet Black will return to London on 1st April as part of the Barbican on Broadway programme, which runs from 31st March – 1st April
 date: "2017-03-10 13:44:42 +0000"
+image: "http://felixonline.co.uk/img/upload/201703101344-felix-3.jpg"
+image_caption: "Ballet Black, Triple Bill, Cira Robinson, José Alves and Mthuthuzeli November in Captured, choreographed by Martin Lawrance"
 draft: true
-
-# Attributes from Felix Online V1
-id: "6876"
-old_path: /arts/6876/ballet-black--a-rough-cut-gem
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6876/ballet-black--a-rough-cut-gem
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +21,6 @@ tags:
 authors:
  - ezrakitson14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101344-felix-3.jpg"
-image_caption: ""
 ---
 
 Ballet Black’s triple bill at the Barbican consisted of three works, which covered an eclectic range of compositions and dances. The first work, House of Dreams, was a non-narrative work consisting of three pas de deux and a finale to a diverse selection of compositions by Debussy. The compositions were not entirely disparate: all were solo compositions for piano, producing a minimalist atmosphere which was matched by the sparsity of props on stage and the simple lighting used throughout. Each piece conveyed a distinct emotional tone – the work opened with the melodic and whimsical Prelude from the Suite Bergamasque but proceeded to the haunting and introspective Des Pas Sur La Neige before finishing with the frantic and bold Passepied. However abrupt, these transitions were not jarring as they were confidently handled by the dancing pairs: in particular the partnership of Sayaka Ichikawa and Damien Johnson stood out as terrifically coordinated and emotive.

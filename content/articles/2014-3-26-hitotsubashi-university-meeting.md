@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Kendo Club went international recently as it played host to a score of students from Hitosubashi University, Tokyo. As the only University in Japan specialising entirely in the Social Sciences, and one of the top-ranking Japanese Universities, it may be helpful to think of it as the Japanese LSE
 date: "2014-03-26 15:31:20 +0000"
-
-# Attributes from Felix Online V1
-id: "4509"
-old_path: /sport/4509/hitotsubashi-university-meeting
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4509/hitotsubashi-university-meeting
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - jbh111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Kendo Club went international recently as it played host to a score of students from Hitosubashi University, Tokyo. As the only University in Japan specialising entirely in the Social Sciences, and one of the top-ranking Japanese Universities, it may be helpful to think of it as the Japanese LSE.

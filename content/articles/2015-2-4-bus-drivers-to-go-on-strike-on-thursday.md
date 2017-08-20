@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Students are advised to allow extra time for travelling to and from university.
 date: "2015-02-04 13:32:25 +0000"
-
-# Attributes from Felix Online V1
-id: "5191"
-old_path: /news/5191/bus-drivers-to-go-on-strike-on-thursday
+image: "http://felixonline.co.uk/img/upload/201502041332-kmw13-bus10.jpg"
+image_caption: "Commuters wait for a bus during last month's strikes"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5191/bus-drivers-to-go-on-strike-on-thursday
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - kmw13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502041332-kmw13-bus10.jpg"
-image_caption: ""
 ---
 
 On Thursday 5th February bus drivers will go on strike in a protest over pay. It will be the second time this year that a strike has taken place this calendar year over the issue, and a further two walkouts are scheduled for February 13th and February 16th.

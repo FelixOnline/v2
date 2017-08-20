@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The team wept, but through their tears they could see victory on the horizon.
 date: "2015-11-06 14:26:15 +0000"
-
-# Attributes from Felix Online V1
-id: "5715"
-old_path: /sport/5715/medic-kings-toppled-by-imperial-might
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5715/medic-kings-toppled-by-imperial-might
-imported: true
 comments:
  - value: >
      Always reinfsherg to hear a rational answer.
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -27,12 +24,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imperial hosted Kings’ Medics at Harlington, looking for a win to bounce back from a disappointing defeat last week. IC got off to a bright start, dominating possession, territory and hitting hard in the contact.

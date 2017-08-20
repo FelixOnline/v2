@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Survey collects results from over one thousand Imperial students about mental wellbeing
 date: "2015-05-29 00:27:43 +0100"
-
-# Attributes from Felix Online V1
-id: "5572"
-old_path: /news/5572/three-out-of-four-students-at-imperial-suffer-from-stress-or-have-a-mental-health-condition
+image: "http://felixonline.co.uk/img/upload/201505290126-ps3110-screen-shot-2015-05-29-at-01.26.25.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5572/three-out-of-four-students-at-imperial-suffer-from-stress-or-have-a-mental-health-condition
-imported: true
 comments:
  - value: >
      too little too late for me,I hope this is just hyped up pseudo-journalism or that the students were answering the questions in jest. If not then many of you spoilt brats need to wake up and smell the coffee. If having to stay up all night in the library occasionally or being upset about not being in the top of the class is your idea of stress then you need a slap. Even if you flunk out of your course, you still have a very good high school education. It may not get you your "dream job" at Goldman Sachs, Google or wherever the hell else half you twats want to work but you'd be doing a hell of a lot better than almost all of the population in Africa and Asia. You also have your health(apologies to any of you who don't) , you aren't blind, paralysed, a triple amputee etc(again abject apologies to anyone who has any of these afflictions). I have other things I should be doing, you know woe is me the workload at Imperial is so hard, so I am rushing this and that explains any poor grammar/punctuation. I just read t
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505290126-ps3110-screen-shot-2015-05-29-at-01.26.25.png"
-image_caption: ""
 ---
 
 A College-wide survey has found that three out of four students have suffered from high levels of stress or a mental health condition whilst at Imperial.

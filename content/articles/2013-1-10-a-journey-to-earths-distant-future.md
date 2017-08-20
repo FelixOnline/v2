@@ -4,18 +4,16 @@ title: >
 subtitle: >
   A book is set in the distant future, when the sun has started to cool
 date: "2013-01-10 22:42:58 +0000"
-
-# Attributes from Felix Online V1
-id: "3093"
-old_path: /books/3093/a-journey-to-earths-distant-future
+image: "http://felixonline.co.uk/img/upload/201301102241-csw09-new-sun2cmyk.jpg"
+image_caption: "Earth’s not doing so well."
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3093/a-journey-to-earths-distant-future
-imported: true
 comments:
  - value: >
      Urth of the New Sun was fantastic. It is the seueql to the , though, and it would be a mistake to read it first. It puts the pieces of the previous book together in ways that are really wonderful and surprising. Book and Urth are both great and unusual fantasy / sci-fi tales, which make the narrative itself the subject of the genre's characteristic world-building wonder. As your view of the world changes, the significance of the earlier plot changes again and again. Etc.
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -28,12 +26,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102241-csw09-new-sun2cmyk.jpg"
-image_caption: ""
 ---
 
 The Book of the New Sun is universally acclaimed as a speculative fiction classic, with its author, Gene Wolfe, having been recently awarded the title of Grand Master of the genre. However, seeing how it comes in at 1200 pages, I have never really had the time to read it. Finding myself with relatively little to do over the winter break I decided to rectify this mistake – something that I’ve not come to regret doing.

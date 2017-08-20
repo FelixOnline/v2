@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Undercover investigation on standard of animal care at Imperial Researchers alleged to not understand terms and abuse animals Allegations to be investigated by Imperial Letter calling for independent inquiry delivered to Home Office
 date: "2013-05-02 14:16:35 +0100"
-
-# Attributes from Felix Online V1
-id: "3539"
-old_path: /news/3539/alleged-animal-abuse
+image: "http://felixonline.co.uk/img/upload/201305021508-tna08-buav.jpg"
+image_caption: "A photo from the BUAV investigation"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3539/alleged-animal-abuse
-imported: true
 comments:
  - value: >
      you shouldnt show these videos,Why? Truth hurts?,I think it's a lot more sensible to be in the know about what you're paying for with your taxes than to be completely ignorant. ,Granted, as a researcher who has observed some of the methods, they do appear crude and cruel. But I must insist that procedures are almost always performed with the utmost care and attention with welfare of the animal at the highest priority. However, should this video be 100% true, there are areas that need to be dealt with by the College. ,This is just absolutely disgusting.,The Home office is VERY strict with animal welfare nowadays. Those responsible for the breach of their licenses may be fined and possibly serve jail time. The PPL/PIL licensees know the rules and the ultimate responsibility is the College to ensure all staff and students are skilled and trained. Imperial College could lose its certificate of designation if the investigative panel find it negligent. That means ALL animal work there will be halted until improveme
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305021508-tna08-buav.jpg"
-image_caption: ""
 ---
 
 During the Easter break Imperial came under national scrutiny after a seven month undercover investigation by the British Union for the Abolition of Vivisection (BUAV) alleges that there is a poor standard of professional conduct by Imperial scientists. Researchers from Imperial, one of the signatories of the Declaration of Openness on Animal Research, were apparently filmed experimenting on animals in a way that the BUAV claim are inhumane; this includes operating on animals that the BUAV say were improperly anaesthetised and culling animals that were not needed by researchers. The BUAV sent an undercover veterinary nurse to Imperial, who over the course of her stay alleges that some researchers not only showed callous disregard for the animals under their care but she also claims that others acknowledged that they were untrained and some were clearly in breach of their licences.

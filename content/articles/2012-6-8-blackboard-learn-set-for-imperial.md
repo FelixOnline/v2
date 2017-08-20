@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Current Blackboard to be replaced with entirely new system
 date: "2012-06-08 08:32:08 +0100"
-
-# Attributes from Felix Online V1
-id: "2541"
-old_path: /news/2541/blackboard-learn-set-for-imperial-
+image: "http://felixonline.co.uk/img/upload/201206080932-mc4509-gateway_learn.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2541/blackboard-learn-set-for-imperial-
-imported: true
 comments:
  - value: >
      Blackboard sucks hairy ass I hate it and it's so so terrible,I agree with above poster! They say it's all new, and it looks all new, until you click a link to one of your courses, and then you're back to good old stabbing yourself in the eyes and crying yourself to sleep!,Why didn't they just roll out Earth Science and Engineering's VLE, ESESIS? It is amazing! No wonder why their student satisfaction is so high
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206080932-mc4509-gateway_learn.jpg"
-image_caption: ""
 ---
 
 Imperial College’s virtual learning environment (VLE) is set to undergo an overhaul in time for next September, following a two year process to determine a successor for the College’s current VLE.

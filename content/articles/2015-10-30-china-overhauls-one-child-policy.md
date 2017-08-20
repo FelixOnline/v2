@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Couples can now have two children
 date: "2015-10-30 12:30:42 +0000"
-
-# Attributes from Felix Online V1
-id: "5683"
-old_path: /news/5683/china-overhauls-one-child-policy
+image: "http://felixonline.co.uk/img/upload/201510301230-ygr12-i-wish-i-was-making-this-up.png"
+image_caption: "China also announced its latest five year plan, through this stunning video"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5683/china-overhauls-one-child-policy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - js5913
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510301230-ygr12-i-wish-i-was-making-this-up.png"
-image_caption: ""
 ---
 
 China has scrapped its infamous one-child policy after more than three decades, it was revealed this week.

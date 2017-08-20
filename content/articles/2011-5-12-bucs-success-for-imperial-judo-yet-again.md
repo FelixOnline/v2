@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Range of medals for Imperial Judo in Sheffield
 date: "2011-05-12 18:19:39 +0100"
-
-# Attributes from Felix Online V1
-id: "1193"
-old_path: /sport/1193/bucs-success-for-imperial-judo-yet-again
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1193/bucs-success-for-imperial-judo-yet-again
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - ace09
  - cjb07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 On Friday the 18th of March Imperial College judo sent their elite squad of Judoka to fight in the British University Championships. On the journey up to Sheffield there were many hungry and thirsty players in the minibus, hoping to make their weight for the upcoming weekend. Thankfully, everyone made it and could relax after a long slog up the country and a rather large meal.

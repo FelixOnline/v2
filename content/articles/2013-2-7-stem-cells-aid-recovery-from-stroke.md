@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Sarah Byrne investigates a new, fat-derived stem cell therapy
 date: "2013-02-07 23:26:32 +0000"
-
-# Attributes from Felix Online V1
-id: "3260"
-old_path: /science/3260/stem-cells-aid-recovery-from-stroke-
+image: "http://felixonline.co.uk/img/upload/201302072326-tna08-human_embryonic_stem_cell_colony_phase.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3260/stem-cells-aid-recovery-from-stroke-
-imported: true
 comments:
  - value: >
      Well I am atheist, but that's tltaoly cool that you believe in God or whatever, that stuff doesn't bother me. My mom died when I was 10 [of cervical cancer] and she wrote to me in a journal. She frequently would say stuff like, I'm sorry to put you guys through this, you and your brother are too young and now all I can think is how sorry I am she had to put up with the cancer. So yes, I have felt that way sometimes, that I wish she could have been peaceful. I don't want to say died sooner because that doesn't look right to me. Our family friend's dad died at age 76 after having like 3 different types of cancers and 3 strokes. He was basically a vegetable in a bed for a year and half, and I think his daughter was happy to know that he was at last at peace.I am truly sorry for your mother. Best of luck to you.,My spouse and i ended up being<a href="http://qmmrspgbhtm.com"> aulslbteoy</a> comfortable that Ervin managed to round up his basic research while using the ideas he received using your blog. It's no
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302072326-tna08-human_embryonic_stem_cell_colony_phase.jpg"
-image_caption: ""
 ---
 
 he effects of a stroke can be devastating, with the initial loss of blood supply to part of the brain setting in motion a series of biochemical events called the ‘ischaemic cascade’. This causes cumulative damage to brain cells and blood vessels during the first few hours after the stroke, often resulting in severe and irreversible brain injury.

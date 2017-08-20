@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Seriously, what television were they watching?
 date: "2011-02-03 20:29:15 +0000"
-
-# Attributes from Felix Online V1
-id: "747"
-old_path: /tv/747/national-television-awards
+image: "http://felixonline.co.uk/img/upload/201102032023-dr910-vickyvic.jpg"
+image_caption: "Oh fuck off"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/747/national-television-awards
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - vj05
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102032023-dr910-vickyvic.jpg"
-image_caption: ""
 ---
 
 Tis’ the season. Award ceremonies are everywhere as the ultimate narcissists congratulate themselves on just how wonderful they are.

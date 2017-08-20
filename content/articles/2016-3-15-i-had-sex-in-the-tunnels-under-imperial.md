@@ -4,16 +4,14 @@ title: >
 subtitle: >
   We sent a lot of Snapchats
 date: "2016-03-15 09:45:07 +0000"
-
-# Attributes from Felix Online V1
-id: "6049"
-old_path: /features/6049/i-had-sex-in-the-tunnels-under-imperial
+image: "http://felixonline.co.uk/img/upload/201603150943-felix-tunnel.jpg"
+image_caption: "Under decency rules, the referred to Snapchats cannot be shown here."
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6049/i-had-sex-in-the-tunnels-under-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -25,12 +23,6 @@ authors:
  - icanon
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603150943-felix-tunnel.jpg"
-image_caption: ""
 ---
 
 > > Heads were banged, and knees were scraped

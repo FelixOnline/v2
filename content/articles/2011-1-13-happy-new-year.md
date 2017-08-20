@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Look backing at last year's films and looking forward to an exciting 2011
 date: "2011-01-13 19:42:55 +0000"
-
-# Attributes from Felix Online V1
-id: "568"
-old_path: /film/568/happy-new-year-
+image: "http://felixonline.co.uk/img/upload/201101131941-ks607-milakuni.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/568/happy-new-year-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +23,6 @@ authors:
  - ghc07
  - jl4310
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101131941-ks607-milakuni.jpg"
-image_caption: ""
 ---
 
 As another year begins again and starts us off right at the beginning of Oscar season, the Felix Film writers take a look back at the best of cinema in 2010 – in case you were in some kind of year-long coma – and discuss some of our most anticipated films of 2011.

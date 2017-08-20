@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The video is conclusive, Anselmo’s actions were horrific
 date: "2016-02-05 12:39:51 +0000"
-
-# Attributes from Felix Online V1
-id: "5880"
-old_path: /music/5880/racism-is-so-metal
+image: "http://felixonline.co.uk/img/upload/201602051238-felix-philsalute.jpg"
+image_caption: "Moments after Anselmo raises his right hand."
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5880/racism-is-so-metal
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - rg2112
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602051238-felix-philsalute.jpg"
-image_caption: ""
 ---
 
 This article is something I need to get off my chest. I love heavy music with aggressive themes, from Black metal to hardcore to grind – I love it all. I love the catharsis and thrill that a pounding drum and palm muted guitar line can provide but sometimes the shit that comes with it really makes me wonder why.

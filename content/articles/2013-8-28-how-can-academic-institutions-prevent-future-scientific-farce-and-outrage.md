@@ -4,18 +4,16 @@ title: >
 subtitle: >
   After the sentencing of Gary Bolton, the man who had been caught selling fake bomb detectors to governments worldwide, comment editor Eoghan Totten wonders how the world's scientific minds could join to prevent this from occurring again.
 date: "2013-08-28 08:52:02 +0100"
-
-# Attributes from Felix Online V1
-id: "3754"
-old_path: /comment/3754/how-can-academic-institutions-prevent-future-scientific-farce-and-outrage
+image: "http://felixonline.co.uk/img/upload/201308280949-jal08-the-ade-651.jpg"
+image_caption: "The ADE 651, the false detector sold by McCormick"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3754/how-can-academic-institutions-prevent-future-scientific-farce-and-outrage
-imported: true
 comments:
  - value: >
      Interesting idea - Scientifiques sans frontieres? ,Heckuva good job. I sure apctipeare it.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201308280949-jal08-the-ade-651.jpg"
-image_caption: ""
 ---
 
 On August 20th 2013 Gary Bolton was dealt a seven year prison sentence for the sale of fake bomb detectors. His chief crime was classed as fraud, having pocketed up to £10,000 per unit.

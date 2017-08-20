@@ -4,18 +4,15 @@ title: >
 subtitle: >
   What really is budget travelling? Dylan Lowe discovers more to it than counting pennies and baked-bean meals
 date: "2010-11-18 20:47:32 +0000"
-
-# Attributes from Felix Online V1
-id: "393"
-old_path: /travel/393/stingy-travelling-git-
+image: "http://felixonline.co.uk/img/upload/201011182045-ks607-dubai.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/393/stingy-travelling-git-
-imported: true
 comments:
  - value: >
      Democratic U.S. Rep. Jackie Speier, a member of the House Armed Services Committee, said she was encouraged by policy changes at Lackland Air Force Base following a tour and meetings with commanders but remained concerned with whether the changes will stick. She said the goal is to reverse a culture of intimidation that left some trainees afraid to speak up. <br> Nike Free
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -26,12 +23,6 @@ authors:
  - yll08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011182045-ks607-dubai.jpg"
-image_caption: ""
 ---
 
 Irony simply cannot be expressed in a better way: I was attempting to explain the concept of budget travelling to a PR guy representing Dubai Tourism.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Stephen Stopyra explores the gender imbalance in physics
 date: "2013-03-01 00:22:12 +0000"
-
-# Attributes from Felix Online V1
-id: "3404"
-old_path: /news/3404/a-problem-of-perception
+image: "http://felixonline.co.uk/img/upload/201303010020-tna08-einstein.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3404/a-problem-of-perception
-imported: true
 comments:
  - value: >
      Thank-you. That is indeed the most important thing to take away from this - that we need to be aware of how our perceptions influence us. It isn't enough to believe there is somehow a vague 'them' causing discrimination. Everyone, both women and men, needs to think about their own perceptions more if we are ever to change things. If all the people mentioned in the study had stopped to think twice about whether they were really making the right decision, I bet it would have made a big difference. But when pressed for time, that is obviously a very hard thing to do, something we shouldn't underestimate. <br> <br>And you are quite right that this is only the tip of the iceberg with regards the effect of perceptions. It's not realistic to do away with them altogether, nor would that even be a good thing to want (we'd be little more than machines if we were 100% rational, after-all). It's something we should strive to be aware of whenever important decisions are made, however.,The example you put of ‘Noether’s Theor
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303010020-tna08-einstein.jpg"
-image_caption: ""
 ---
 
 I‘d like to perform a small experiment. Picture a scientist in your mind. Now answer this: what gender is your scientist? What colour is their skin? I’d hazard a guess that a large number of you pictured a white male. Mine has a beard too – and he’s scrunched over a desk in a solitary room, calculating something. His clothes are scruffy, and he clearly doesn’t care over-much about his appearance.

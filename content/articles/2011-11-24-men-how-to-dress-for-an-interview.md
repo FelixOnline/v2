@@ -4,16 +4,13 @@ title: >
 subtitle: >
   As the dreaded season of interrogation kicks in, even the most macho of men start to wonder how they can dress to impress. Ross Gray shows you what to wear to that all important interview
 date: "2011-11-24 21:19:28 +0000"
-
-# Attributes from Felix Online V1
-id: "1818"
-old_path: /fashion/1818/men-how-to-dress-for-an-interview
+image: "http://felixonline.co.uk/img/upload/201111242119-felix-shirttie.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/1818/men-how-to-dress-for-an-interview
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -24,12 +21,6 @@ authors:
  - ffashion
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242119-felix-shirttie.jpg"
-image_caption: ""
 ---
 
 __Shirt and Tie__

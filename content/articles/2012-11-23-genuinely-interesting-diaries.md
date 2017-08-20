@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Despoina Paschou is glad to have finally watched the Che Guevara documentary
 date: "2012-11-23 00:37:18 +0000"
-
-# Attributes from Felix Online V1
-id: "2975"
-old_path: /film/2975/genuinely-interesting-diaries
+image: "http://felixonline.co.uk/img/upload/201211230037-tna08-0318462_2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2975/genuinely-interesting-diaries
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - dp1710
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211230037-tna08-0318462_2.jpg"
-image_caption: ""
 ---
 
 Well, there are some films that when you are a bit too pretentious, you always act as you have seen them (I am one of thefew people on this planet to admit that I have yet to watch The Godfather trilogy. And I am too pretentious for my own good). In the past decade, Walter Salles’ The Motorcycle Diaries (Spanish: Diarios de Motocicleta), came to be added in this list.

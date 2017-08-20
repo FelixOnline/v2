@@ -4,16 +4,13 @@ title: >
 subtitle: >
   ICVC sees their mens team becoming BUCS Trophy Champions
 date: "2015-05-04 16:51:37 +0100"
-
-# Attributes from Felix Online V1
-id: "5491"
-old_path: /sport/5491/imperials-volleyball-club-is-served-sweet-sucess-this-year
+image: "http://felixonline.co.uk/img/upload/201505041751-ps3110-img_1015.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5491/imperials-volleyball-club-is-served-sweet-sucess-this-year
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - icvc
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505041751-ps3110-img_1015.jpg"
-image_caption: ""
 ---
 
 The start of the year already hinted at a great volleyball season to come; with over 120 people attending the taster session and a record-high membership of 87.

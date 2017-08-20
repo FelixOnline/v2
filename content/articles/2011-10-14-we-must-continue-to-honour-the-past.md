@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A move to a new system would raise immediate problems for students
 date: "2011-10-14 00:26:52 +0100"
-
-# Attributes from Felix Online V1
-id: "1536"
-old_path: /comment/1536/we-must-continue-to-honour-the-past-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1536/we-must-continue-to-honour-the-past-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 University College London (UCL) [this week announced their planned adoption of the American-style grade point average system](http://felixonline.co.uk/news/1503/ucl-to-introduce-grade-point-average/) in lieu of traditional degree classifications. Naturally, this raises the question as to whether UCL are leading the charge against a “crude and undistinguished” system in an attempt to improve the value of a degree, or whether they are simply hoping to ensure easier comparison with American institutions.

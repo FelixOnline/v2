@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alex Savell looks at the early work of Peter F. Hamilton
 date: "2013-02-01 00:24:39 +0000"
-
-# Attributes from Felix Online V1
-id: "3226"
-old_path: /books/3226/a-mindstar-was-rising
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3226/a-mindstar-was-rising
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -23,12 +20,6 @@ authors:
  - as906
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 To those that follow the science fiction scene Peter Hamilton will most likely be a name that sets bells ringing. For me the name stand up next to all the other modern giants; Banks, Reynolds, Baxter and so on and Hamilton’s Night’s Dawn Trilogy will be familiar to many as the sort of epic space opera that took the subgenre from something regularly worthy of scorn to a legitimate field in its own right. But today we look back at one of Hamilton’s earlier works, the beginning of a series of three books (he is loath to name it a trilogy it seems) starring a hero with a difference; Greg Mandel.

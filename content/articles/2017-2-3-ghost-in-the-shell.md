@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Appreciating the original before Scarlett Johansson ruins it forever
 date: "2017-02-03 16:52:30 +0000"
-
-# Attributes from Felix Online V1
-id: "6722"
-old_path: /film/6722/ghost-in-the-shell
+image: "http://felixonline.co.uk/img/upload/201702031652-felix-ghost-in-the-shell-7.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6722/ghost-in-the-shell
-imported: true
 comments:
  - value: >
      Hey, that's a clever way of thnkinig about it.,Hey, that's a clever way of thnkinig about it.
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - petershatwell
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702031652-felix-ghost-in-the-shell-7.jpg"
-image_caption: ""
 ---
 
 If you wish to dive into the world of Japanese animation, you cannot miss Mamoru Oshii’s profound 1995 cyberpunk film Ghost in the Shell. It stands as a science-fiction classic and has gone on to inspire other films such as The Matrix, Surrogates, and Avatar. But why am I talking now about a film released more than two decades ago? Well, this March we are to see a live-action remake of the film, with Scarlett Johansson as the lead character. Ahead of its release, this week saw cinemas showing the animated original, so I took the opportunity to finally see this classic on the big screen.

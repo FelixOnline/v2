@@ -4,16 +4,14 @@ title: >
 subtitle: >
   We're going harder... on filling out the NSS
 date: "2013-01-31 22:25:47 +0000"
-
-# Attributes from Felix Online V1
-id: "3195"
-old_path: /news/3195/increase-in-uptake-of-the-nss
+image: "http://felixonline.co.uk/img/upload/201301312223-tna08-this-year.png"
+image_caption: "The graph from this year"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3195/increase-in-uptake-of-the-nss
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +21,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301312223-tna08-this-year.png"
-image_caption: ""
 ---
 
 There has been a large increase in the percentage of students filling in the [NSS](http://www.thestudentsurvey.com/) when compared to the same time last year.

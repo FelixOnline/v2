@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Forgotten what happened last night? Now you know why
 date: "2010-02-01 16:49:40 +0000"
-
-# Attributes from Felix Online V1
-id: "61"
-old_path: /science/61/reversing-the-arrow-of-time
+image: "http://felixonline.co.uk/img/upload/201002011648-rsp07-arrowtim.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/61/reversing-the-arrow-of-time
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - rsp07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002011648-rsp07-arrowtim.jpg"
-image_caption: ""
 ---
 
 This may end up in the bullshit graveyard of sensationalist physics speculation, but seemingly impossible occurrences – such as a shattered pane of glass returning instantaneously to its original form, a Latte separating back into pure coffee and milk, or Megan Fox replying to my emails – are not as conceptually absurd as they may appear at first glance.

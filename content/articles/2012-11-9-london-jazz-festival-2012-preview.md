@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Matt Earnshaw looks ahead to this year’s London Jazz Festival
 date: "2012-11-09 13:59:26 +0000"
-
-# Attributes from Felix Online V1
-id: "2864"
-old_path: /music/2864/london-jazz-festival-2012-preview
+image: "http://felixonline.co.uk/img/upload/201211091400-tna08-london_jazz_festival.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2864/london-jazz-festival-2012-preview
-imported: true
 comments:
  - value: >
      That is wonderful news. Having your fialmy around will not only help you with the things you can't do on your own but renew your emotional endurance to beat tb and be with them in health. I wish you the best of luck, you are in our thoughts. Thank you for sharing your story.,I told my <a href="http://wtohtqtvtx.com">gratdmonher</a> how you helped. She said, "bake them a cake!"
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091400-tna08-london_jazz_festival.jpg"
-image_caption: ""
 ---
 
 Tonight sees the return of the London Jazz Festival. The capital’s largest pan-city festival, this two week affair comprises hundreds of events spanning dozens of venues.

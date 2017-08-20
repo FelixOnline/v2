@@ -4,18 +4,15 @@ title: >
 subtitle: >
   There will be dance, there will be scantily clad dancers.
 date: "2017-03-10 14:41:35 +0000"
-
-# Attributes from Felix Online V1
-id: "6887"
-old_path: /cands/6887/the-dance-imperial-show-2017
+image: "http://felixonline.co.uk/img/upload/201703101441-felix-Image uploaded from iOS (1).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/6887/the-dance-imperial-show-2017
-imported: true
 comments:
  - value: >
      You're so cute. <br>madden coins mobile for sale http://www.madden-store.com,You fall for it every time. <br>cheap pokemon go rare pokemon pokemonbux http://www.pokemonbux.com,this site might help me personally to find good quality suggestions! <br>buy cheap albion online gold http://albiononline.wordpressy.pl/2017/03/15/feel-relieved-buying-albion-online-gold-at-upalbion/
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -26,12 +23,6 @@ authors:
  - aaa208
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101441-felix-Image uploaded from iOS (1).jpg"
-image_caption: ""
 ---
 
 Next week, for the third year in a row, all dancers at Imperial are going to come together and show that it is not wise to underestimate the motor skills of scientists and that it’s time to start thinking about taking dance classes to become just as light-footed as DI’s performers!

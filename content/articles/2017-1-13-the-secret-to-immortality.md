@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2017-01-13 14:12:16 +0000"
-
-# Attributes from Felix Online V1
-id: "6639"
-old_path: /science/6639/the-secret-to-immortality
+image: "http://felixonline.co.uk/img/upload/201701131412-felix-Zooplankton1_300.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6639/the-secret-to-immortality
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - aranshaunak16
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701131412-felix-Zooplankton1_300.jpg"
-image_caption: ""
 ---
 
 Fact: There is a jellyfish that can live forever.

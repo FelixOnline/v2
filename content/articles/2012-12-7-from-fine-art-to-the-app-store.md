@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ausrine Kersanskaite discuss a lucky break with YPlan
 date: "2012-12-07 02:04:17 +0000"
-
-# Attributes from Felix Online V1
-id: "3044"
-old_path: /biz/3044/from-fine-art-to-the-app-store
+image: "http://felixonline.co.uk/img/upload/201212070156-tna08-yplan.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/3044/from-fine-art-to-the-app-store
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070156-tna08-yplan.jpg"
-image_caption: ""
 ---
 
 Just a short while ago, I was a Fine Art graduate slowly coming to realisation that conceptual art & me is not a good match. Back then, looking for a ‘real’ job, I accidentally stumbled across [Songkick](http://www.songkick.com/) and got to be one of the lucky ones to become their intern. Starting out as a Data Warrior (don’t ask), after just a few months I progressed to full-time project assistant role working with the hiring team. The office was smack dab in the middle of Silicon Roundabout, where the start-up scene is buzzing (and before Songkick, I didn’t even know it existed).

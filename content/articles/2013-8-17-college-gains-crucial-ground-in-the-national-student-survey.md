@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Comment Editor Eoghan Totten reflects on student satisfaction at Imperial following the release of the National Student Survey results last week.
 date: "2013-08-17 18:33:35 +0100"
-
-# Attributes from Felix Online V1
-id: "3751"
-old_path: /comment/3751/college-gains-crucial-ground-in-the-national-student-survey
+image: "http://felixonline.co.uk/img/upload/201308190610-jal08-66355719.png"
+image_caption: "Are our students really more satisfied?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3751/college-gains-crucial-ground-in-the-national-student-survey
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +22,6 @@ authors:
  - ejt11
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201308190610-jal08-66355719.png"
-image_caption: ""
 ---
 
 On the [21st June](http://bit.ly/12ZEVdV) I stated that students in third level education in the UK 'feel undervalued, merely ushered through the system'. From National Student Survey results released on August 13th it would appear that recent graduates from Imperial College have broken free from this stigma.

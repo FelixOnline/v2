@@ -4,16 +4,13 @@ title: >
 subtitle: >
   All aboard the Good Ship Aardman!
 date: "2012-05-10 20:26:39 +0100"
-
-# Attributes from Felix Online V1
-id: "2448"
-old_path: /film/2448/curse-of-the-dead-man-at-worlds-stranger-tides
+image: "http://felixonline.co.uk/img/upload/201205102149-felix-www.fact.co.uk_pirates__in_.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2448/curse-of-the-dead-man-at-worlds-stranger-tides
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - rjd08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205102149-felix-www.fact.co.uk_pirates__in_.jpg"
-image_caption: ""
 ---
 
 [__The Pirates! In an Adventure with Scientists!__](http://www.imdb.com/title/tt1430626/)

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Lauren Ratcliffe interviews Imperial researcher and learns how and why LSD could be used to treat depression and addictions
 date: "2014-11-28 00:57:13 +0000"
-
-# Attributes from Felix Online V1
-id: "4971"
-old_path: /science/4971/dr-robin-carhart-harris-talks-about-lsd-and-the-psychedelic-state-psychedelic-state-
+image: "http://felixonline.co.uk/img/upload/201412011305-ps3110-for-web.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4971/dr-robin-carhart-harris-talks-about-lsd-and-the-psychedelic-state-psychedelic-state-
-imported: true
 comments:
  - value: >
      mont blanc ball pen refill iso 12757, montblanc cruise collection white rollerball, vintage montblanc pens for sale, michael kors jet set travel tote, boots on high heels, discount ugg coquette, tall grey uggs with buttons, uggs high heels, michael kors buckle bracelet, michael kors satchels, discount mont blanc ballpoint pens, mont blanc 75th anniversary ballpoint pen, montblanc greta garbo ballpoint pen, montblanc stores singapore, mont blanc starwalker fineliner, michael kors hamilton bags, michael kors over the shoulder purse, ugg bailey bow cheap, uggs mens shoes, mont blanc starwalker ballpoint pen <br>michael kors new handbags http://emmeti-srl.it/script/id=michael-kors-new-handbags-p5119.asp,buy mont blanc starwalker pen, montblanc ballpoint pen refills, pluma montblanc starwalker original, michael kors jet set travel tote, quilted michael kors handbag, cheapest price ugg boots, leather ugg boots outlet, uggs i do, michael kors carla sandal, michael kors platform sandals, michael kors wallets on sale, mo
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412011305-ps3110-for-web.jpg"
-image_caption: ""
 ---
 
 Complete understanding behind the powerful effects of psychedelics on the mind has remained a mystery for many decades. Over 60 years has passed since the first discovery of lysergic acid diethylamide (LSD) and since then surprisingly little concrete knowledge of its effects on the brain has been established.

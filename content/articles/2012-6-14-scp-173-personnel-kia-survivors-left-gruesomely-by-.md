@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A horror game that fits the genre's name
 date: "2012-06-14 20:23:38 +0100"
-
-# Attributes from Felix Online V1
-id: "2563"
-old_path: /games/2563/scp-173----personnel-kia-survivors-left-gruesomely----------by--------------
+image: "http://felixonline.co.uk/img/upload/201206142122-ams111-games.jpg"
+image_caption: "Don’t blink. Blink and you’re dead. Don’t turn your back. Don’t look away. And don’t blink. Good Lu "
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2563/scp-173----personnel-kia-survivors-left-gruesomely----------by--------------
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - lap08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206142122-ams111-games.jpg"
-image_caption: ""
 ---
 
 Any class D personnel are to stop reading this article immediately. Further reading with result in immediate termination.

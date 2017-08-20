@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The question of Quantitative Easing. By Rajvinder Virdee
 date: "2011-10-20 22:35:23 +0100"
-
-# Attributes from Felix Online V1
-id: "1570"
-old_path: /biz/1570/qe-or-not-qe-that-is-the-question
+image: "http://felixonline.co.uk/img/upload/201110202334-felix-ben-bernanke-mervyn-king-2011-2-18-10-1-17.jpg"
+image_caption: "Ben Bernanke, Chairman of the Federal Reserve, and Sir Mervyn King, Govenor of the Bank of England, "
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/1570/qe-or-not-qe-that-is-the-question
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -24,12 +22,6 @@ authors:
  - extuser0
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110202334-felix-ben-bernanke-mervyn-king-2011-2-18-10-1-17.jpg"
-image_caption: ""
 ---
 
 There was a global economic meltdown in 2008. World governments have since spent their time running through plans A-Z to try and reboot economies, but so far any recovery has been wiped out by other problems such as the crisis in the Eurozone. The problem of what to do with the levels of debt has been puzzling politicians all over the world. Big players, including Ben Bernanke, Chairman of the Federal Reserve, and Sir Mervyn King, Governor of the Bank of England, seem to think Quantitative Easing (QE) is the solution.

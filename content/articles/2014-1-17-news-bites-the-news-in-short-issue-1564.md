@@ -4,16 +4,13 @@ title: >
 subtitle: >
   News Editor Nida bring you the news in short
 date: "2014-01-17 03:11:26 +0000"
-
-# Attributes from Felix Online V1
-id: "4227"
-old_path: /news/4227/news-bites---the-news-in-short-issue-1564
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4227/news-bites---the-news-in-short-issue-1564
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - nm708
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 FINANCE

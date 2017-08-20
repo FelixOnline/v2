@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Why are university students still so afraid to admit they need help?
 date: "2015-01-23 01:33:53 +0000"
-
-# Attributes from Felix Online V1
-id: "5128"
-old_path: /comment/5128/its-time-for-action-on-mental-illness
+image: "http://felixonline.co.uk/img/upload/201501230132-ps3110-screen-shot-2015-01-23-at-01.33.22.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5128/its-time-for-action-on-mental-illness
-imported: true
 comments:
  - value: >
      christian louboutin online <br>christian louboutin sale canada http://canadachristianlouboutin.blogspot.com/
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - yw2113
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501230132-ps3110-screen-shot-2015-01-23-at-01.33.22.png"
-image_caption: ""
 ---
 
 I’ve never been a good writer, and have never before written for Felix. However, I have lately felt a strong desire to write, as a voice for those who may be suffering in silence.

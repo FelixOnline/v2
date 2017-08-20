@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The evolution of blonde hair
 date: "2012-06-01 13:49:46 +0100"
-
-# Attributes from Felix Online V1
-id: "2517"
-old_path: /science/2517/how-many-blondes-in-melanesia
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2517/how-many-blondes-in-melanesia
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - mc4509
  - rt1810
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It’s been nearly sixty years since Marilyn Monroe and Jane Russell told of the gentleman’s penchant for blondes, but it has recently come to light that mother nature herself may feel the same way: blonde hair evolved twice.

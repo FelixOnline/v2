@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Tom Rivlin on the past and future of the internet sensation
 date: "2014-11-06 20:42:58 +0000"
-
-# Attributes from Felix Online V1
-id: "4791"
-old_path: /games/4791/twitch-plays-pokmon-alive-and-kicking
+image: "http://felixonline.co.uk/img/upload/201411062043-snb11-tpp_homage-(1).jpg"
+image_caption: "The team that conquered all...you will never be forgotten! ALL HAIL LORD HELIX"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4791/twitch-plays-pokmon-alive-and-kicking
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +22,6 @@ authors:
  - snb11
  - tr511
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411062043-snb11-tpp_homage-(1).jpg"
-image_caption: ""
 ---
 
 Remember that thing that everyone cared about for one week in February? To a future historian it’ll look like a weird mind virus infected everyone for exactly a week and then disappeared. Let’s talk about it again!

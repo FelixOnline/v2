@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lilly Le examines the intricacies of Laura Marling’s latest effort
 date: "2013-05-28 14:04:31 +0100"
-
-# Attributes from Felix Online V1
-id: "3625"
-old_path: /music/3625/soar-like-an-eagle
+image: "http://felixonline.co.uk/img/upload/201305281503-tna08-laura-marling-once-i-was-an-eagle-1024x1024.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3625/soar-like-an-eagle
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305281503-tna08-laura-marling-once-i-was-an-eagle-1024x1024.jpg"
-image_caption: ""
 ---
 
 It is slightly perplexing for a few seconds. Laura Marling is a name seemingly sliding off everyone’s lips at the moment, yet still, seems to be unheard of to more than a fair few. Widely known but remaining anonymous, this enigma-like quality continues to run through her music, her fourth album being no exception.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Our regular column on classics in a genre you might've missed
 date: "2015-11-06 14:11:25 +0000"
-
-# Attributes from Felix Online V1
-id: "5707"
-old_path: /film/5707/the-top-three-animated-films-that-arent-made-by-pixar
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5707/the-top-three-animated-films-that-arent-made-by-pixar
-imported: true
 comments:
  - value: >
      These are very cool. I usually have a sense that Star Wars mbieraomlia is a bit done'. The same evocation as 40-year-olds wearing skater jeans or business-men riding micro scooters, but this is something different. I think it's fitting with the sarcastic nature of modern pop culture. I can see this sitting more appropriately above a fireplace among tankards and rifles than in amongst action figures and DVDs.Thumbs up.
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -27,12 +24,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I love Pixar. Chances are you love Pixar. too. In all honesty, I’d hazard a guess that the vast majority of sane people on earth love them. Their films are iconic and have set the precedent for animated films that both children, adolescents and their parents can enjoy. But instead of watching Finding Nemo for the eleventh time, why not give some other storytellers a chance to wow you?

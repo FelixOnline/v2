@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The pressure was on, and at the tail-end of 2016, Stormzy went AWOL
 date: "2017-03-03 15:24:50 +0000"
-
-# Attributes from Felix Online V1
-id: "6847"
-old_path: /music/6847/gang-signs-and-prayer-
+image: "http://felixonline.co.uk/img/upload/201703031708-felix-7bb6e11ec2fa4e8ce6293eb27c37e2b9.1000x1000x1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6847/gang-signs-and-prayer-
-imported: true
 comments:
  - value: >
      You make thngis so clear. Thanks for taking the time!,You make thngis so clear. Thanks for taking the time!
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703031708-felix-7bb6e11ec2fa4e8ce6293eb27c37e2b9.1000x1000x1.jpg"
-image_caption: ""
 ---
 
 Over recent years, the UK grime and urban scene has had a renaissance and one man has been at the forefront of this wave – the WickedSkengMan live in the flesh, Stormzy (Michael Omari Jr.) In addition to his raw musical talent, Stormzy’s omnipresence on social media: uploading daily Snapchat stories, tweeting regularly, and releasing viral videos (the Stormzy hype reached its peak with the Shut Up video, which propelled him to 8th place in the Christmas 2015 UK Singles charts), has led to him generating such a large global fan base. Stormzy had emerged as the ‘chosen one’ of the new wave of grime artists and, to justify this hype, he simply had to deliver a hard-hitting debut album. The pressure was on, and at the tail-end of 2016, Stormzy went AWOL. He de-activated all his social media accounts and cancelled all but one of his remaining live shows, seemingly to finish his highly anticipated album. After a few months of silence, Stormzy’s social media started flickering back to life and he launched a mysterious billboard campaign across London. The release of the album’s lead single Big For Your Boots soon followed. Announcement of a UK tour (now sold out) and a string of surprise performances later, including joining Ed Sheeran on stage at the Brits to perform a remix of Sheeran’s number one banger Shape of You, and Stormzy’s debut album is finally here.

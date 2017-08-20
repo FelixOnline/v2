@@ -4,16 +4,13 @@ title: >
 subtitle: >
   All this Royal Wedding tosh has got me reminiscing
 date: "2010-11-25 22:02:48 +0000"
-
-# Attributes from Felix Online V1
-id: "446"
-old_path: /comment/446/all-this-royal-wedding-tosh-has-got-me-reminiscing
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/446/all-this-royal-wedding-tosh-has-got-me-reminiscing
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - ann09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Very fleetingly, at the age of nine I had a special interest in marrying Prince Harry. I chose Harry over William believing us to be better suited if we were closer in age (6 years rather than 8). I then proceeded to foster sincere hopes of such a relationship in the future. My ideas of the wedding were Barbie-like, i.e. there would be a carriage drawn by four white horses. (At that time I didn't see Barbie for the tart she is; check out how easy she is when she encounters Ken in Toy Story 3, that ho bag.)

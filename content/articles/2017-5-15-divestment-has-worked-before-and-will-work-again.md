@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Conor O’Riordan wants to harness the power of student activism
 date: "2017-05-15 15:57:18 +0100"
-
-# Attributes from Felix Online V1
-id: "6948"
-old_path: /comment/6948/divestment-has-worked-before-and-will-work-again
+image: "http://felixonline.co.uk/img/upload/201705151757-felix-Screen Shot 2017-05-15 at 17.56.50.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6948/divestment-has-worked-before-and-will-work-again
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705151757-felix-Screen Shot 2017-05-15 at 17.56.50.png"
-image_caption: ""
 ---
 
 As the threat of climate change continues to loom large over society, activists are turning to more creative methods to encourage the large-scale change that we urgently need. Where traditional political methods have failed, divestment is now making serious progress on university campuses, in city halls, and financial institutions around the world.

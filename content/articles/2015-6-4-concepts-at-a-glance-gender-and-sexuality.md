@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Madeline and Vin present a guide to the terminology of sexual and gender identity
 date: "2015-06-04 23:48:03 +0100"
-
-# Attributes from Felix Online V1
-id: "5604"
-old_path: /welfare/5604/concepts-at-a-glance-gender-and-sexuality
+image: "http://felixonline.co.uk/img/upload/201506050048-cj914-caitlynjenner2.jpg"
+image_caption: "Caitlyn Jennner, formerly known as Bruce, received much support and media attention when she recently came out as transgender."
+headline: true
+featured: true
+imported: true
 aliases:
  - /welfare/5604/concepts-at-a-glance-gender-and-sexuality
-imported: true
 comments:
  - value: >
      fitflops compare price <br>fitflop singapore outlet http://fitflopssalesingapore.blogspot.com/,fitflop online <br>fitflop sandals sale http://australiafitflops.blogspot.com/,fitflops sale online australia <br>buy fitflops online australia http://fitflopsau.blogspot.com/,fitflops sandal <br>fitflop shoes http://australiafitflops.iemiller.net/,birkenstock clearance <br>birkenstock best price http://birkenstockaustraliamalls.com/,christian louboutin size chart <br>christian louboutin sale canada http://canadachristianlouboutin.blogspot.com/,louboutin heels <br>christian louboutin sale http://canadachristianlouboutinoutlet.blogspot.com/,I read your post and wished I'd wreittn it,louboutin pointed toe <br>christian louboutin sale outlet http://canadachristianlouboutin.blogspot.com/,Greetings, good website you possess at this time there.| <br>nba 2k16 mt cheat engine http://support.interresolve.co.uk/entries/108104943-Kinguin-Has-Launched-counter-strike-skins,Thanks very valuable. Will certainly share site with my friends.| <br>csgo skins dream
-
-# Article Taxonomies
 categories:
  - welfare
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506050048-cj914-caitlynjenner2.jpg"
-image_caption: ""
 ---
 
 When discussing gender, sexuality, and similar topics, there are a lot of terms and concepts that you might come across. This article will provide a brief introduction to these concepts, what they mean, and how to use the words correctly. Let’s start with concepts.

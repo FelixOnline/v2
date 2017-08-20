@@ -4,16 +4,14 @@ title: >
 subtitle: >
   So I heard you like superheroes
 date: "2012-05-03 18:33:08 +0100"
-
-# Attributes from Felix Online V1
-id: "2414"
-old_path: /film/2414/assemble-for-avengers-assemble
+image: "http://felixonline.co.uk/img/upload/201205031932-ams111-vlcsnap-2012-03-01-04h52m59s90.jpg"
+image_caption: "Place your bets everyone, place your bets! Who'll win this fight?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2414/assemble-for-avengers-assemble
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205031932-ams111-vlcsnap-2012-03-01-04h52m59s90.jpg"
-image_caption: ""
 ---
 
 __[Avengers Assemble](http://www.imdb.com/title/tt0848228/)__

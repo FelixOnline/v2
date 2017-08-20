@@ -4,18 +4,15 @@ title: >
 subtitle: >
   “Design-wise, the system is a refinement, rather than a complete transformation”
 date: "2011-02-03 20:20:11 +0000"
-
-# Attributes from Felix Online V1
-id: "742"
-old_path: /tech/742/sony-unveils-psp-successor
+image: "http://felixonline.co.uk/img/upload/201102032017-nm1010-pspspspp.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/742/sony-unveils-psp-successor
-imported: true
 comments:
  - value: >
      This article is incredibly well written. Good job.
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +25,6 @@ authors:
  - nm1010
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102032017-nm1010-pspspspp.jpg"
-image_caption: ""
 ---
 
 Last week, media outlets and industry professionals began receiving invites for Sony’s “PlayStation Meeting”, to be held in Tokyo on the 27th of January. Though the company kept tight-lipped as to what exactly the event was for, not a single person from journalist to feverish Internet forum-goer was in any doubt that this was to be the day of the official announcement of the oft-rumoured successor to the PlayStation Portable (PSP).

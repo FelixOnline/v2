@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A look at the re-issue of one of the 90’s greatest albums
 date: "2010-12-02 20:51:08 +0000"
-
-# Attributes from Felix Online V1
-id: "479"
-old_path: /music/479/i-wanna-go-back
+image: "http://felixonline.co.uk/img/upload/201012022049-ac1507-Weezer.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/479/i-wanna-go-back
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - cdd09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022049-ac1507-Weezer.jpg"
-image_caption: ""
 ---
 
 There has always been one paradoxical quote about Weezer that amused me. I’m paraphrasing, but it goes along the lines that “Weezer are the worst rock band in America to release two of the greatest albums of the last 20 years”.

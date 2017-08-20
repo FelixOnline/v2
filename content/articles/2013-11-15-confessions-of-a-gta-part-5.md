@@ -4,16 +4,13 @@ title: >
 subtitle: >
   GTAs are helpful only when asked nicely
 date: "2013-11-15 02:28:20 +0000"
-
-# Attributes from Felix Online V1
-id: "4070"
-old_path: /comment/4070/confessions-of-a-gta-part-5
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4070/confessions-of-a-gta-part-5
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - gta
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Week 6 in a GTA calendar is filled with the undergraduates’ horror of fifth week mid-term tests. I honestly never thought that marking papers could be worse than sitting them. I was certain that this would be the subject of my confession today. However, on Monday I was highly irritated, which I know is fairly easy for me, but nevertheless this kind of behaviour should be stamped out immediately as it was certainly not like this in my day...

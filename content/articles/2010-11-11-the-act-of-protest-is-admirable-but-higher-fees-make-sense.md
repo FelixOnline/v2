@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The government's proposals are fair
 date: "2010-11-11 21:36:03 +0000"
-
-# Attributes from Felix Online V1
-id: "364"
-old_path: /comment/364/the-act-of-protest-is-admirable-but-higher-fees-make-sense
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/364/the-act-of-protest-is-admirable-but-higher-fees-make-sense
-imported: true
 comments:
  - value: >
      казино игровые автоматы играть бесплатно - Goldfishka (Голдфишка), интернет казино рулетка, игровые интернет казино, интернет автоматы казино, интернет казино игровые автоматы. Сайт goldfishka.tv,зароботок в интернет казино - Goldfishka (Голдфишка), интернет казино рулетка, игровые интернет казино, интернет автоматы казино, интернет казино игровые автоматы. Сайт goldfishka.tv,как выйграть в интернет казино - Goldfishka (Голдфишка), интернет казино рулетка, игровые интернет казино, интернет автоматы казино, интернет казино игровые автоматы. Сайт goldfishka.tv
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It is informative that students, of all the victims of the coalition's cuts, are the first to stand up for themselves, instead of blithely accepting the extreme austerity of the current parliament. The growing sense that older generations have used up all the hot water, so to speak, has created a great sense of injustice amongst young people. Add to this the coming Lib Dem betrayal, of their election pledge to vote against tuition fee increases, and it's easy to understand why 50,000 students marched on Wednesday.

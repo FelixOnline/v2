@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Get a taste of South American salsa, Ozy Shyne style
 date: "2011-10-07 10:18:47 +0100"
-
-# Attributes from Felix Online V1
-id: "1485"
-old_path: /arts/1485/sabor-sabor
+image: "http://felixonline.co.uk/img/upload/201110071119-felix-l-2.jpg"
+image_caption: "Ozy Shyne"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1485/sabor-sabor
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - ae1409
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110071119-felix-l-2.jpg"
-image_caption: ""
 ---
 
 One roof, three party rooms, four teachers, five DJs and hundreds of guest make for one of London’s most interesting dance events. It takes place every first Friday of the month at [Firefly Bars & Restaurants](http://www.fireflybar.co.uk/) across London, and for those that prefer to have a warm-up before the event, dance classes are held beforehand at a small extra cost.

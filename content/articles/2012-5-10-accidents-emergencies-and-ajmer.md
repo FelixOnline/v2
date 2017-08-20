@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Stephanie Walton recounts an Indian Easter with some very important people
 date: "2012-05-10 19:09:42 +0100"
-
-# Attributes from Felix Online V1
-id: "2430"
-old_path: /travel/2430/accidents-emergencies-and-ajmer
+image: "http://felixonline.co.uk/img/upload/201205102009-felix-stephanie-walton-photo.jpg"
+image_caption: "Fans, cricket, presidents... it’s all go in Ajmer"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/2430/accidents-emergencies-and-ajmer
-imported: true
 comments:
  - value: >
      One has to admire the "glass-half-full" outlook needed to claim being "blessed" with good luck while driving on dangerous roads, one of you having just had a close encounter with a ceiling fan.
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -28,12 +26,6 @@ authors:
  - skw10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205102009-felix-stephanie-walton-photo.jpg"
-image_caption: ""
 ---
 
 How far is it to Ajmer?”, I asked, concerned.

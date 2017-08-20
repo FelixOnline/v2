@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Trouble at Metric launch forces security re-think at Union
 date: "2010-11-26 07:22:56 +0000"
-
-# Attributes from Felix Online V1
-id: "450"
-old_path: /news/450/major-changes-to-security-staff-after-metric-launch-violence-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/450/major-changes-to-security-staff-after-metric-launch-violence-
-imported: true
 comments:
  - value: >
      What on earth does an "overzealous" removal mean. You're a student paper, you don't have to be totally euphemistic. Surely your photographer was there - what happened? <br> <br>Poor form.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The otherwise trouble-free opening night of Metric was tainted by violence after a student was forcibly ejected by stewards and a member of security staff who the Union have said "will not work at the Union again".

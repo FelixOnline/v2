@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Caroline Wood and Pedro Silva Pereira on Imperial’s start-up scene
 date: "2013-05-01 21:02:48 +0100"
-
-# Attributes from Felix Online V1
-id: "3524"
-old_path: /news/3524/venture-catalyst-challenge-13--icstartup-just-the-start-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3524/venture-catalyst-challenge-13--icstartup-just-the-start-
-imported: true
 comments:
  - value: >
      If you want to read more articles by me feel free to link in google+ or linkedin https://plus.google.com/+PedroPereiraMarketing
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Have you ever looked at the entrepreneurial activities offered by universities such as Harvard (The Harvard innovation Lab), MIT ($100K Entrepreneurship Competition) and Stanford (The BASES $150K challenge) and wondered why Imperial doesn’t have more of this kind of stuff going on?

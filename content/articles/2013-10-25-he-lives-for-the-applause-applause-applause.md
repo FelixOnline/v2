@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park on the latest Coen Brothers' Film: Inside Llweyn Lewis
 date: "2013-10-25 00:44:16 +0100"
-
-# Attributes from Felix Online V1
-id: "3936"
-old_path: /film/3936/he-lives-for-the-applause-applause-applause
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3936/he-lives-for-the-applause-applause-applause
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Inside Llewyn Davis

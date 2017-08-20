@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Easter eggs are lining the shelves, but watch out
 date: "2013-03-15 01:03:57 +0000"
-
-# Attributes from Felix Online V1
-id: "3468"
-old_path: /science/3468/choccy-and-the-dangers-towards-doggies
+image: "http://felixonline.co.uk/img/upload/201303150103-tna08-doggy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3468/choccy-and-the-dangers-towards-doggies
-imported: true
 comments:
  - value: >
      We have Folders and Maxwell Housewe also have Lipton teahotcoco.My Kids and Husband Drink the coco and Tea and cofefe.I will drink Hot coco once in a blue Moon.I am mountaindew drinker .
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303150103-tna08-doggy.jpg"
-image_caption: ""
 ---
 
 Chocolate is well known to be toxic to dogs – but why?

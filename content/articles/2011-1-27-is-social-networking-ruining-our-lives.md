@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Is the rise of Facebook and Twitter a positive or negative influence in the 21st century?
 date: "2011-01-27 19:58:46 +0000"
-
-# Attributes from Felix Online V1
-id: "682"
-old_path: /comment/682/is-social-networking-ruining-our-lives
+image: "http://felixonline.co.uk/img/upload/201101271956-ks607-facebook.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/682/is-social-networking-ruining-our-lives
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - ann09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101271956-ks607-facebook.jpg"
-image_caption: ""
 ---
 
 __Ben Good– No__

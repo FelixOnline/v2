@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Nonsense, much like Christmas, is all around
 date: "2011-12-08 21:18:25 +0000"
-
-# Attributes from Felix Online V1
-id: "1935"
-old_path: /comment/1935/balderdash-and-other-lies
+image: "http://felixonline.co.uk/img/upload/201112082117-felix-balderdash-final.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1935/balderdash-and-other-lies
-imported: true
 comments:
  - value: >
      Sorry, what? ,My video was much better tbh also I'd just like to point out that I'm not EDL so go fuck yourselves with your false reporting. U MAD ???, want your head chopped off you white cunt
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - gb610
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082117-felix-balderdash-final.jpg"
-image_caption: ""
 ---
 
 I discovered a game called [Balderdash](http://www.google.co.uk/products/catalog?q=balderdash&um=1&ie=UTF-8&tbm=shop&cid=13763470449642851178&sa=X&ei=3SfhTsLeOsqi8gPpsKHeBA&ved=0CG8Q8wIwAw) at a dinner party last week (I can feel the mid-life beckoning me already – damn). For those of you unaware of the game, it essentially involves making things up to trick people. A player reads something off a card; an acronym, a name, a law, or something else of that nature. The other players then have to write down a response; what the acronym stands for, why the name is (supposedly) famous, that sort of thing. Answers are collected and read out by the individual who originally wrote the card. Following this the players pick what they believe to be the correct response and duly advance around the board if they’re right. Some of the answers really were absurd; I wish I could provide some examples but they have eluded me somewhat (maybe it’s that middle aged thing again). In essence, you do well in this game by writing bullshit that’s believable. I’ve used the word ‘bullshit’ because I really don’t think any other word would portray exactly what I’m trying to say in this article (advanced apologies for the overuse of that particular word).

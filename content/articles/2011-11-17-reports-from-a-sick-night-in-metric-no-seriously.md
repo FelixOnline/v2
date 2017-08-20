@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Kadhim Shubber reports from KABLAAM
 date: "2011-11-17 21:21:57 +0000"
-
-# Attributes from Felix Online V1
-id: "1774"
-old_path: /music/1774/reports-from-a-sick-night-in-metric-no-seriously
+image: "http://felixonline.co.uk/img/upload/201111172121-pk1811-csc_0605.jpg"
+image_caption: "Mikill Pane poses with students"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1774/reports-from-a-sick-night-in-metric-no-seriously
-imported: true
 comments:
  - value: >
      I was there...stop being anal
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172121-pk1811-csc_0605.jpg"
-image_caption: ""
 ---
 
 _See photos of the night [here](http://felixonline.co.uk/media/photo/19/kablaam-felix-music-night/)_

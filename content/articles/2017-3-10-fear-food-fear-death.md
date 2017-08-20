@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alexandra Lim discusses on how our choice of food gones beyond the need of eating for survival
 date: "2017-03-10 13:33:25 +0000"
-
-# Attributes from Felix Online V1
-id: "6868"
-old_path: /science/6868/fear-food-fear-death
+image: "http://felixonline.co.uk/img/upload/201703101333-felix-White-chocolate-strawberry-cheesecake1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6868/fear-food-fear-death
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - al4915
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101333-felix-White-chocolate-strawberry-cheesecake1.jpg"
-image_caption: ""
 ---
 
 Last week I was at a posh restaurant, because pretending to have money with mediocre savings is this new and dangerous trend I have undertaken. Dessert being my ultimate weakness, I made a big deal out of the pre-dessert and dessert. Meringuelets shrouded in freeze-dried raspberries, swimming blissfully in Chantilly. Then, a brown sugar tart with a delicate scoop of stem ginger ice cream. The ice cream melted atop the chocolate mousse nestled under a skinny membrane of coffee jelly, and I started to think about the unspoken connections between food, body and mind.

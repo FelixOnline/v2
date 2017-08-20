@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Search begins for replacement
 date: "2011-01-27 18:11:41 +0000"
-
-# Attributes from Felix Online V1
-id: "650"
-old_path: /news/650/lord-kerr-resigns-after-six-years-as-imperial-council-chair-
+image: "http://felixonline.co.uk/img/upload/201101271807-ks607-lordlord.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/650/lord-kerr-resigns-after-six-years-as-imperial-council-chair-
-imported: true
 comments:
  - value: >
       A divisive choice: Lord Browne, president of the Royal Academy of Engineering, recently broke with convention by criticising maths and physics as having too much government funding compared with engineering. ,Your awsner was just what I needed. Its made my day!,utIgZy <a href="http://fnazitfcxnaa.com/">fnazitfcxnaa</a>, <a href="http://www.ultraprix.net/">pravachol buy tramadol</a> 499488 <a href="http://www.onlinemedico.com/">cymbalta</a> 87458 <a href="http://www.equimedics.net/">synthroid</a> 681 , <a href="http://www.insuroffers.net/">cheap car insurance</a> 732656 <a href="http://www.cheaplifeinsurance-site.com/">cheap life insurance</a> %-[[
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101271807-ks607-lordlord.jpg"
-image_caption: ""
 ---
 
 Lord Kerr, Chairman of the Imperial College Council for over six years, intends to step down in the Summer, a staff briefing indicated. The briefing included an announcement inviting members of the College to encourage people they know as suitable candidates to express interest.

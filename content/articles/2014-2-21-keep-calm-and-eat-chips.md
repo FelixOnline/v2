@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix Food tells you all about the crispy potatoes pieces
 date: "2014-02-21 03:34:47 +0000"
-
-# Attributes from Felix Online V1
-id: "4434"
-old_path: /food/4434/keep-calm-and-eat-chips
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/4434/keep-calm-and-eat-chips
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - ykc111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __O__h chips, glorious chips. The humble deep fried potato strips have been one of the most accessible and consumed foods across the world. It also provides a great subject for banter when stealing your friends’ chips becomes the top priority in the pub. As we near the end of the National Chip Week, it is perhaps time to take a deeper look into the world of chips.

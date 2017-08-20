@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sadly, it has to be said that we are a wasteful species - and this is often most apparent on our plates. We’ve got some ideas as to how you can change that, and why you should bother doing so.
 date: "2017-03-03 15:57:58 +0000"
-
-# Attributes from Felix Online V1
-id: "6853"
-old_path: /food/6853/the-ugly-truth-behind-food-waste
+image: "http://felixonline.co.uk/img/upload/201703031557-felix-food-waster-hero1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6853/the-ugly-truth-behind-food-waste
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - sk5814
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703031557-felix-food-waster-hero1.jpg"
-image_caption: ""
 ---
 
 There is no way of denying it: we overproduce. Constantly. We throw. Shamelessly. We waste. Consciously. Every day, tonnes of food are thrown away simply because some food legislation has put a standardized limit ‘eat before’ date or due to surplus. Worse, because we buy more than we really need. However, for catering companies, restaurants and cafés, for which food waste is a daily issue, acknowledging it is still something inconsiderable. As if by admitting a truth we all know – although we refuse to believe it ourselves – it would expose them to shame, customers’ disapproval and ultimately to bankruptcy.

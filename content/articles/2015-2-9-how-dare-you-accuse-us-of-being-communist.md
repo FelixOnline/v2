@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ben Howitt meets the Socratic Society’s committee
 date: "2015-02-09 18:04:34 +0000"
-
-# Attributes from Felix Online V1
-id: "5213"
-old_path: /cands/5213/how-dare-you-accuse-us-of-being-communist
+image: "http://felixonline.co.uk/img/upload/201502091804-ps3110-screen-shot-2015-02-09-at-18.04.10.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5213/how-dare-you-accuse-us-of-being-communist
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -23,12 +20,6 @@ authors:
  - bwh12
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502091804-ps3110-screen-shot-2015-02-09-at-18.04.10.png"
-image_caption: ""
 ---
 
 The Socratic Society (SocSoc) became a full society in December of last year, as a revival of the previously inactive Philosophy Society.

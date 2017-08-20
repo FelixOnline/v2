@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ben Aaronovitch's new work brings magic to the police
 date: "2011-10-07 10:25:46 +0100"
-
-# Attributes from Felix Online V1
-id: "1486"
-old_path: /arts/1486/rivers-of-london
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1486/rivers-of-london
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - extuser0
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A deft mix of police procedural and urban fantasy, [Aaronovitch's](http://www.the-folly.com/) Rivers of London follows Peter Grant, police constable in central London and all round nice guy. After coming across a voluble witness to a murder (who himself is already dead), Grant is plunged into the magical and twisted underside of the city and apprenticed (in more ways than one) to England’s last wizard, Inspector Nightingale. Together they must attempt to hunt down a vengeful spirit that threatens to bring chaos to the city whilst avoiding the wrath of varying Chief Constables.

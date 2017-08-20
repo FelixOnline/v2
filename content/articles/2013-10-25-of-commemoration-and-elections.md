@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Looking back on a week of graduation, elections, rain, rain and rain.
 date: "2013-10-25 00:11:03 +0100"
-
-# Attributes from Felix Online V1
-id: "3923"
-old_path: /comment/3923/of-commemoration-and-elections
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3923/of-commemoration-and-elections
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Thank goodness it’s Friday!

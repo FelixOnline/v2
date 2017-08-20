@@ -4,16 +4,13 @@ title: >
 subtitle: >
   App is designed by Imperial researchers
 date: "2015-02-05 23:39:21 +0000"
-
-# Attributes from Felix Online V1
-id: "5194"
-old_path: /news/5194/phone-app-designed-to-aid-sickle-cell-anaemia-management
+image: "http://felixonline.co.uk/img/upload/201502052339-ps3110-screen-shot-2015-02-05-at-23.38.28.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5194/phone-app-designed-to-aid-sickle-cell-anaemia-management
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502052339-ps3110-screen-shot-2015-02-05-at-23.38.28.png"
-image_caption: ""
 ---
 
 SiKL, a new app aimed to help Sickle Cell Anaemia (SCA) Patients, has been launched by Clinicians of Imperial Health Care Trust, after collaboration with the Sickle Cell Society and participants from the TalkLab Initiative.

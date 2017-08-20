@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It is now summer (for most of us at least!). If you have nothing lined up for you, and would like to learn something new or do something productive, why not consider learning how to program?
 date: "2014-06-11 21:37:11 +0100"
-
-# Attributes from Felix Online V1
-id: "4670"
-old_path: /tech/4670/programming-easy-peasy
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4670/programming-easy-peasy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -23,12 +20,6 @@ authors:
  - me1711
  - ywc110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It is now summer (for most of us at least!). If you have nothing lined up for you, and would like to learn something new or do something productive, why not consider learning how to program?

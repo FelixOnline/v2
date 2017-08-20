@@ -4,18 +4,15 @@ title: >
 subtitle: >
   "Has the world fell? Each of us in our own way was broken. It was hard to know who was more crazy; me, or everyone else.” - Max Rockatansky
 date: "2015-05-19 21:22:27 +0100"
-
-# Attributes from Felix Online V1
-id: "5543"
-old_path: /film/5543/mad-max-fury-road-review-
+image: "http://felixonline.co.uk/img/upload/201505192221-jr2514-madmax.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5543/mad-max-fury-road-review-
-imported: true
 comments:
  - value: >
      "Fury road is really quite a dumb film." <br> <br>Yeah, about as dumb as a review that starts, "Picture the seen". The word you're looking for there is 'scene'.
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +23,6 @@ authors:
  - jr2514
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505192221-jr2514-madmax.jpg"
-image_caption: ""
 ---
 
 In the distant future, water wars have destroyed society, law and order has broken down and human civilisation has fallen. “Mad” Max Rockatansky, played by Tom Hardy, is a lone survivor in the arid desert wastelands of Australia. Captured by the 'War Boys’ - led by King Immortan Joe (Hugh Keays-Byrne) - Max is designated a universal blood donor and used as a blood bag for the weak War Boy Nux (Nicholas Hault). Elsewhere, Imperator Furiosa (Charlize Theron) drives her weaponised War Rig oil tanker to collect gasoline - a resource now far less coveted than water. Furiosa veers her War Rig off the predetermined route in an attempt to escape, alerting King Immortan Joe who realises that his five wives - specially selected for breeding - have also legged it. Immortan leads his entire fleet of vehicles and War Boys in hot pursuit of Furiosa and his wives. He’s particularly keen on getting his child - who he hopes is a son - out of his favourite wife, played by Rosie Huntington-Whiteley. (This casting decision suggests that Fury Road is going to be as terrible as Transformers, but mercifully this is not the case.)

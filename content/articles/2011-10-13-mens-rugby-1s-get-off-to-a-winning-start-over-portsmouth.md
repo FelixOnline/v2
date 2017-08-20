@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial's firsts win over Portsmouth at Harlington
 date: "2011-10-13 22:41:31 +0100"
-
-# Attributes from Felix Online V1
-id: "1515"
-old_path: /sport/1515/mens-rugby-1s-get-off-to-a-winning-start-over-portsmouth
+image: "http://felixonline.co.uk/img/upload/201110132340-ak6309-img_6158.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1515/mens-rugby-1s-get-off-to-a-winning-start-over-portsmouth
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - dmw08
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110132340-ak6309-img_6158.jpg"
-image_caption: ""
 ---
 
 Rugby:__ Imperial 22 - 20 Portsmouth__

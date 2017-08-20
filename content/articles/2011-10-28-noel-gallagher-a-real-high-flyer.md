@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Alex Roocroft is impressed by the Oasis guitarist’s solo debut
 date: "2011-10-28 11:27:26 +0100"
-
-# Attributes from Felix Online V1
-id: "1640"
-old_path: /music/1640/noel-gallagher-a-real-high-flyer
+image: "http://felixonline.co.uk/img/upload/201110281213-felix-noel-1.jpg"
+image_caption: "Noel takes particular care when framing his shots"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1640/noel-gallagher-a-real-high-flyer
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110281213-felix-noel-1.jpg"
-image_caption: ""
 ---
 
 With universal song lyrics, occasional falsetto vocals and a collection of sing-along anthemic choruses, to an extent [Noel Gallagher’s High Flying Birds](http://www.youtube.com/watch?v=kFx_IniNjfE) contains all the ingredients that have characterised his later Oasis contributions.

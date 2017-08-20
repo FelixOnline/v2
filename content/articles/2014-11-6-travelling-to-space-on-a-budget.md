@@ -4,18 +4,15 @@ title: >
 subtitle: >
   James Bezer looks at the future of commercial space flight
 date: "2014-11-06 19:45:56 +0000"
-
-# Attributes from Felix Online V1
-id: "4783"
-old_path: /science/4783/travelling-to-space-on-a-budget-
+image: "http://felixonline.co.uk/img/upload/201411061945-snb11-white_knight_two_and_spaceshiptwo_from_directly_below-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4783/travelling-to-space-on-a-budget-
-imported: true
 comments:
  - value: >
      SBB:&gt;&gt; .... 鄧玉嬌 事件Thank you for sharing the info. Even tho it was one of the top-ten 2009 news in China, I meissd it completely. According to Wikipedia, it appears some of the local officials and/or supporters were trying to cover it up.&gt;&gt; ... 倪匡 .... 中國國內很多不可思議的怪現象I should go to the Chinese section of the local public library and see if I can borrow some of his books.&gt;&gt; ... 李怡 ... 不過與智慧人生有關的文字 應該是歷久常新 恆久而不會變舊 每個年代都是同樣的真理 I am not sure of that. More often than not, what we call "facts" are actually ppl's opinions!!! And opinions are hardly universal truths !!
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - snb11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411061945-snb11-white_knight_two_and_spaceshiptwo_from_directly_below-copy.jpg"
-image_caption: ""
 ---
 
 Not many of us have a spare quarter-of-a-million dollars to blow on a half-hour joy-ride.

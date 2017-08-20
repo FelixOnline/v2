@@ -4,16 +4,13 @@ title: >
 subtitle: >
   IC Crowd (get it?) power to the top 3
 date: "2012-11-29 21:43:48 +0000"
-
-# Attributes from Felix Online V1
-id: "2980"
-old_path: /news/2980/imperial-teams-on-top
+image: "http://felixonline.co.uk/img/upload/201211292144-tna08-coding_day_2-194.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2980/imperial-teams-on-top
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211292144-tna08-coding_day_2-194.jpg"
-image_caption: ""
 ---
 
 83 technology students from 15 different Universities participated in J.P Morgan’s first ever Tech Coding Challenge. 17 teams competed in this Hackathon-style event that took place in the headquarters of J.P. Morgan in Canary Wharf. Their coding skills were put to the test as they used technology to choose and solve a social challenge presented by three leading charities: Centrepoint, WaterAid or The Nature Conservancy.

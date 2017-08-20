@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Challenging task ahead for Brad Amos
 date: "2012-05-18 11:10:24 +0100"
-
-# Attributes from Felix Online V1
-id: "2465"
-old_path: /science/2465/inventor-of-confocal-microscope-develops-new-giant-lens
+image: "http://felixonline.co.uk/img/upload/201205181210-felix-screen-shot-2012-05-15-at-5.57.22-pm.jpg"
+image_caption: "Nerve cells captured with Amos’ mesolens"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2465/inventor-of-confocal-microscope-develops-new-giant-lens
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +23,6 @@ authors:
  - jc211
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205181210-felix-screen-shot-2012-05-15-at-5.57.22-pm.jpg"
-image_caption: ""
 ---
 
 Brad Amos, who contributed significantly to the development of the laser scanning confocal microscope while working at the Medical Research Council in Cambridge, has developed a new giant microscope, the ‘Mesolens’, that allows the imaging of an entire mouse embryo in subcellular detail.

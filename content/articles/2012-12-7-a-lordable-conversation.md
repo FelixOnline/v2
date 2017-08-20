@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Alex Morton interviews constitutional expert Lord Norton about constitutional reform
 date: "2012-12-07 01:12:50 +0000"
-
-# Attributes from Felix Online V1
-id: "3031"
-old_path: /news/3031/a-lordable-conversation
+image: "http://felixonline.co.uk/img/upload/201212070112-tna08-lord-norton-msp_79121.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3031/a-lordable-conversation
-imported: true
 comments:
  - value: >
      Smashing event in RSM last week. More guests like LNoL please! <br> <br>Well done Morty.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070112-tna08-lord-norton-msp_79121.jpg"
-image_caption: ""
 ---
 
 __Alex Morton: Thank you very much for giving up your time this afternoon Lord Norton. Could you briefly explain the principal functions of the House of Lords, and why it matters?__

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   According to an American study from academics at the Universities of Washington and Maine, “students in classes with traditional lecturing [were] 1.5 times more likely to fail than were students in classes with active learning.”
 date: "2014-05-16 01:38:38 +0100"
-
-# Attributes from Felix Online V1
-id: "4596"
-old_path: /news/4596/new-study-claims-that-lectures-are-ineffective
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4596/new-study-claims-that-lectures-are-ineffective
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 According to an American study from academics at the Universities of Washington and Maine, “students in classes with traditional lecturing [were] 1.5 times more likely to fail than were students in classes with active learning.”

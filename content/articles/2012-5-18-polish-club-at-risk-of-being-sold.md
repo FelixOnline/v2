@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Petition to protect popular cultural and social venue attracts support
 date: "2012-05-18 06:04:00 +0100"
-
-# Attributes from Felix Online V1
-id: "2456"
-old_path: /news/2456/polish-club-at-risk-of-being-sold
+image: "http://felixonline.co.uk/img/upload/201205180703-felix-ct1fdd3p5oes0mod.jpg"
+image_caption: "Ognisko Polskie is situated opposite the main entrance of Imperial College"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2456/polish-club-at-risk-of-being-sold
-imported: true
 comments:
  - value: >
      Another opportunity for Imperial Catering to continue their mission for world domination?,When I came to Prince Eugeniusz Lubomirski was a Chairman of the Club. One could never imagine such idea of a sale of a home for Polish people then even if they needed Help and struggled as well. These people fought for years to keep Polish Heart Club alive and our Chairman finds it impossible to make this place profitable despite 2 biggest museums within 500 metres and proposes to sell .!!! What a misery!!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - skd09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205180703-felix-ct1fdd3p5oes0mod.jpg"
-image_caption: ""
 ---
 
 A petition has been set up to save the Polish Club, Ognisko Polskie, based in Princes Gardens, which is at risk of being sold. The South Kensington club includes the Ognisko restaurant, popular with staff and students from Imperial.

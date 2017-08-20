@@ -4,16 +4,13 @@ title: >
 subtitle: >
   From death row to founder of North Korea’s first independent university, Dr James Kim’s story is told by Lord David Alton, in the second part of this exclusive series
 date: "2010-11-11 21:15:01 +0000"
-
-# Attributes from Felix Online V1
-id: "356"
-old_path: /politics/356/the-incredible-dr-kim
+image: "http://felixonline.co.uk/img/upload/201011112113-ks607-kimkimki.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/356/the-incredible-dr-kim
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - lorddavidalton
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011112113-ks607-kimkimki.jpg"
-image_caption: ""
 ---
 
 It’s hard not to be captivated by Korean culture, dignity, and manners. They are a deeply civilized and hospitable people who have suffered grievously: tortured by half a century of degrading and cruel Japanese occupation followed by an ideological war which massacred millions, severed their homeland, and divided their people.

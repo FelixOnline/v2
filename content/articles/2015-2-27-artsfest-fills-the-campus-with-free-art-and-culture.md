@@ -4,16 +4,14 @@ title: >
 subtitle: >
   From music to films; choir to books, there was something for everyone at ArtsFest
 date: "2015-02-27 00:14:53 +0000"
-
-# Attributes from Felix Online V1
-id: "5310"
-old_path: /news/5310/artsfest-fills-the-campus-with-free-art-and-culture
+image: "http://felixonline.co.uk/img/upload/201502270034-pk1811-10985232_10153097597971838_5231120717161212174_n.jpg"
+image_caption: "Imperial College String Ensemble play a lunchtime concert in the College Main Entrance"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5310/artsfest-fills-the-campus-with-free-art-and-culture
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502270034-pk1811-10985232_10153097597971838_5231120717161212174_n.jpg"
-image_caption: ""
 ---
 
 Last week, the Arts and Entertainments Board of Imperial College Union put on ArtsFest, a week-long celebration of the arts in association with Arts Imperial.

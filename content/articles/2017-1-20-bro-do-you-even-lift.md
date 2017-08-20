@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2017-01-20 15:08:49 +0000"
-
-# Attributes from Felix Online V1
-id: "6663"
-old_path: /science/6663/bro-do-you-even-lift
+image: "http://felixonline.co.uk/img/upload/201701201511-felix-weightlifting-1872377_1920.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6663/bro-do-you-even-lift
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - aranshaunak16
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701201511-felix-weightlifting-1872377_1920.png"
-image_caption: ""
 ---
 
 Fact: The strongest living thing on the planet is gonorrhea.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Frank Herbert wrote six Dune novels; read the first and forget the rest
 date: "2011-03-03 20:36:13 +0000"
-
-# Attributes from Felix Online V1
-id: "1012"
-old_path: /science/1012/frank-herberts-dune
+image: "http://felixonline.co.uk/img/upload/201103032034-ks607-frankher.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1012/frank-herberts-dune
-imported: true
 comments:
  - value: >
      "You might have noticed that I’ve been carefully referring to only the first book. Herbert wrote six Dune novels, each worse than the previous one. The plots begin to get far too convoluted, to the point where I barely understood what was going on and the story begins to feel boring." <br> <br>The plots are complex. That's the nature of the game... You were probably bored because you didn't understand the plot... <br> <br> <br>"My advice is to read the first book and forget about the rest." <br> <br>My advice is to read the Frank Herbert books and forget about the rest.
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103032034-ks607-frankher.jpg"
-image_caption: ""
 ---
 
 I’ve done very few book reviews over the past few weeks so I thought that I’d remedy this today by reviewing one of the most well known and respected series of science fiction novels: Frank Herbert’s Dune.

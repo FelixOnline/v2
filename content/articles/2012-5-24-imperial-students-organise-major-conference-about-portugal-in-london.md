@@ -4,16 +4,14 @@ title: >
 subtitle: >
   LUSO 2012 to go ahead as speakers are confirmed
 date: "2012-05-24 23:04:54 +0100"
-
-# Attributes from Felix Online V1
-id: "2485"
-old_path: /news/2485/imperial-students-organise-major-conference-about-portugal-in-london
+image: "http://felixonline.co.uk/img/upload/201205250001-mc4509-luso-meeting-29jan12-006.jpg"
+image_caption: "The LUSO 2012 organising committee"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2485/imperial-students-organise-major-conference-about-portugal-in-london
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - jmoscoso
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205250001-mc4509-luso-meeting-29jan12-006.jpg"
-image_caption: ""
 ---
 
 Following the success of previous editions, this year welcomes LUSO 2012, the Sixth Meeting of Portuguese Researchers and Students in the United Kingdom.

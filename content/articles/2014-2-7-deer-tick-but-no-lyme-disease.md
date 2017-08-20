@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Stuart Masson reviews the alt-country band’s Garage performance
 date: "2014-02-07 04:36:40 +0000"
-
-# Attributes from Felix Online V1
-id: "4337"
-old_path: /music/4337/deer-tick-but-no-lyme-disease
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4337/deer-tick-but-no-lyme-disease
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - sm5810
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I have managed to catch Providence based alt-country act Deer Tick a couple of times at festivals before. I allegedly first caught them back in 2010, although the performance was unmemorable to the point where I actually have no memory of the set. Of course, this could well not be indicative of the quality of the performance; I have forgotten any number of mid-afternoon festival sets over the years.

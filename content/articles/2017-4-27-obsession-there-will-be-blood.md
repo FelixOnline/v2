@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jude Law excels in Ivo van Hove's adaptation of Visconti's original film
 date: "2017-04-27 19:00:19 +0100"
-
-# Attributes from Felix Online V1
-id: "6927"
-old_path: /arts/6927/obsession--there-will-be-blood
+image: "http://felixonline.co.uk/img/upload/201704272058-ff712-21.jpg"
+image_caption: "Barbican/Toneelgroep Amsterdam, Obsession, Halina Reijn, Jude Law and Gijs Scholten van Ascha"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6927/obsession--there-will-be-blood
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - agneseabrusci16
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201704272058-ff712-21.jpg"
-image_caption: ""
 ---
 
 For fans of Brutalism, the Barbican’s architecture is a fixation in itself, so I thought that was the perfect venue for the world premiere of _Obsession_, the new play by the highly acclaimed Belgian director Ivo van Hove.

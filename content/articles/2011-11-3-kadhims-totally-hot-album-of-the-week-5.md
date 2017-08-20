@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Balam Acab – Wander/Wonder (2011)
 date: "2011-11-03 20:41:53 +0000"
-
-# Attributes from Felix Online V1
-id: "1671"
-old_path: /music/1671/kadhims-totally-hot-album-of-the-week-5
+image: "http://felixonline.co.uk/img/upload/201111032041-pk1811-timthumb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1671/kadhims-totally-hot-album-of-the-week-5
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111032041-pk1811-timthumb.jpg"
-image_caption: ""
 ---
 
 You know [those music writers who twist meaningless metaphor around meaningless metaphor](http://pitchfork.com/search/?query=Mark+Pytlik) in a futile attempt to recreate the music on paper? Wander/Wonder is basically that kind of reviewer’s wet dream. But it also a bear-trap for anyone who thinks they’re going to slide along without using the word “arrangements” – dammit Pitchfork, wtf does that even mean?!? So I’m going to try my best not to fall into douchebaggery and be completely straightforward about this intensely beautiful album.

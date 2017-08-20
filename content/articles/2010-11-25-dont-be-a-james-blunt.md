@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Don’t be a James Blunt...
 date: "2010-11-25 21:38:43 +0000"
-
-# Attributes from Felix Online V1
-id: "442"
-old_path: /comment/442/dont-be-a-james-blunt-
+image: "http://felixonline.co.uk/img/upload/201011261007-ks607-bluntjam.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/442/dont-be-a-james-blunt-
-imported: true
 comments:
  - value: >
      Somewhat reminiscent of the Hoff's claims that he was to thank for the end of the Cold War. But who are we to doubt the Hoff? <br> <br>"I find it a bit sad that there is no photo of me hanging on the walls in the Berlin Museum at Checkpoint Charlie." <br> <br>http://news.bbc.co.uk/1/hi/3465301.stm,Thats more than snesible! Thats a great post!,fcdxKz <a href="http://fzmsrdadcmom.com/">fzmsrdadcmom</a>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011261007-ks607-bluntjam.jpg"
-image_caption: ""
 ---
 
 Anyone can claim to have saved the world. I stopped the toast from going that little bit too brown this morning. I don't know it yet, but this could have saved the world.

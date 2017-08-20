@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rhys Davies finally gets down to reading a dated classic of SF literature
 date: "2012-05-03 18:39:07 +0100"
-
-# Attributes from Felix Online V1
-id: "2415"
-old_path: /books/2415/will-this-book-crash-and-burn
+image: "http://felixonline.co.uk/img/upload/201205031938-ams111-snow-crash.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2415/will-this-book-crash-and-burn
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - ams111
  - rjd08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205031938-ams111-snow-crash.jpg"
-image_caption: ""
 ---
 
 My friend read this and raved about it to me. Quickly sold (mainly by the main character’s name, Hiro Protagonist), I vowed I’d read it as soon as I could. That was in high school. Some ten years later, I’ve finally got around to it.

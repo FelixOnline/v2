@@ -4,17 +4,14 @@ title: >
 subtitle: >
   4 games you have to play before 2016, with GIFs
 date: "2015-12-14 16:16:46 +0000"
+image: "http://felixonline.co.uk/"
 draft: true
-
-# Attributes from Felix Online V1
-id: "5817"
-old_path: /games/5817/felixs-top-games-of-2015-gif-edition
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/5817/felixs-top-games-of-2015-gif-edition
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -23,12 +20,6 @@ authors:
  - cet13
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 

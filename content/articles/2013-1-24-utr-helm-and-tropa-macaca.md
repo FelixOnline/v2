@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Bethnal Green brings the beats
 date: "2013-01-24 22:05:27 +0000"
-
-# Attributes from Felix Online V1
-id: "3163"
-old_path: /music/3163/utr-helm-and-tropa-macaca
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3163/utr-helm-and-tropa-macaca
-imported: true
 comments:
  - value: >
      I believe it actually implies that split opinion on which artist was better = two strong live performers.,Split opinion = strong live performance?
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -27,12 +24,6 @@ authors:
  - rbg10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Promoters and record label Upset The Rhythm have really been having a good run so far this year, throwing the phenomenal [__Pete Swanson__](http://typerecords.com/artists/pete-swanson) (of [__Yellow Swans__](http://www.youtube.com/watch?v=1RrModDAsO8)) and [__Mark Fell__](http://www.markfell.com/wiki/) (of [__SND__](http://www.youtube.com/watch?v=ddq7PzDSqHY)) event last Monday, and last night putting on a small show in The Sebright Arms for hot-topic [__Helm__](http://soundcloud.com/pan_recs/helm-impossible-symmetry) (on the hot-topic label PAN, which I only recently realised is the same label that put out Sewer Election’s fantastic Vidöppna Sår in 2010) and the obscure Portuguese synth and guitar duo [__Tropa Macaca__](http://tropamacaca.com/).

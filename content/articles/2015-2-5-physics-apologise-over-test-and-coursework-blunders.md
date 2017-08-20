@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Email sent all second years offering to rectify marking mistake
 date: "2015-02-05 23:45:20 +0000"
-
-# Attributes from Felix Online V1
-id: "5197"
-old_path: /news/5197/physics-apologise-over-test-and-coursework-blunders
+image: "http://felixonline.co.uk/img/upload/201502052344-ps3110-screen-shot-2015-02-05-at-23.44.51.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5197/physics-apologise-over-test-and-coursework-blunders
-imported: true
 comments:
  - value: >
      This article gives clear idea in favor of the new visitors of blogging, that truly how to do running a blog. <br>timberland femme gris clair 2015 http://www.thurgovia.ch/detail/spip.php?fr-timberland-femme-gris-clair-2015-14784.html,Genuinely no matter if someone doesn't know then its up to other viewers that they will assist, so here it takes place. <br>moncler sale weste 98 http://www.essenceofeden.co.uk/?uk-moncler-sale-weste-98-18260.html,I pay a quick visit every day a few websites and information sites to read articles or reviews, except this webpage offers feature based content. <br>soldes oakley jupiter squared http://www.ccracan.fr/error/spip.php?fr-soldes-oakley-jupiter-squared-19101.html
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502052344-ps3110-screen-shot-2015-02-05-at-23.44.51.png"
-image_caption: ""
 ---
 
 An email was sent out this week to all second year physics students, apologising for the department’s response to a series of assessment blunders that went uncorrected.

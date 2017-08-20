@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Carol Ann Cheah recaps some of the last month’s news stories
 date: "2015-04-30 22:58:02 +0100"
-
-# Attributes from Felix Online V1
-id: "5472"
-old_path: /news/5472/what-you-may-have-missed-over-easter
+image: "http://felixonline.co.uk/img/upload/201504302357-ps3110-jamesdyson_web1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5472/what-you-may-have-missed-over-easter
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201504302357-ps3110-jamesdyson_web1.jpg"
-image_caption: ""
 ---
 
 __420: Thousands gather in Hyde Park, more than 50 arrested__

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   "You do need to be a dynamic person. Since it’s so new, you need to want to shape the position"
 date: "2011-02-03 19:26:50 +0000"
-
-# Attributes from Felix Online V1
-id: "714"
-old_path: /news/714/interview-with-deputy-president-education-alex-dahinten-
+image: "http://felixonline.co.uk/img/upload/201102031920-ks607-dahinten.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/714/interview-with-deputy-president-education-alex-dahinten-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ap1310
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102031920-ks607-dahinten.jpg"
-image_caption: ""
 ---
 
 __For other people who are thinking about running, what’s the one thing you wish you’d known before you started?__

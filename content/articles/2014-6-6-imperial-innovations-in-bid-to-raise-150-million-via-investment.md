@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial Innovations, a company based at Imperial College, is planning to issue new shares on the stock market in a bid to raise up to £150 million.
 date: "2014-06-06 02:38:41 +0100"
-
-# Attributes from Felix Online V1
-id: "4655"
-old_path: /news/4655/imperial-innovations-in-bid-to-raise-150-million-via-investment
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4655/imperial-innovations-in-bid-to-raise-150-million-via-investment
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - kmw13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imperial Innovations, a company based at Imperial College, is planning to issue new shares on the stock market in a bid to raise up to £150 million. The firm, which is listed on the AIM stock market (a sub market of the London Stock Exchange), intends to use the money to fund future investments in fledgling companies.

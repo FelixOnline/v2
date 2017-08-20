@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A new solar cell is being pioneered by researchers at the Northwestern University, USA. Rather than using lead perovskite as the conductor to harvest light, the research team developed cells which utilise tin.
 date: "2014-05-09 02:07:26 +0100"
-
-# Attributes from Felix Online V1
-id: "4573"
-old_path: /science/4573/reseachers-produce-an-even-greener-solar-cell
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4573/reseachers-produce-an-even-greener-solar-cell
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - pd111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A new solar cell is being pioneered by researchers at the Northwestern University, USA. Rather than using lead perovskite as the conductor to harvest light, the research team developed cells which utilise tin. The research paper was published in the Nature Photonics journal earlier this week.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix fanatic looking for like-minded lover to spend Wednesday afternoons in the west basement together. WLTM writer with GSOH, preferably who edits Hangman but could edit science, news or sport (just not fashion or travel). Message me and we can arrange a journalistic rendez-vous, and I reckon we
 date: "2014-02-03 15:41:36 +0000"
-
-# Attributes from Felix Online V1
-id: "4331"
-old_path: /features/4331/felix-lonely-hearts-wltm-singletons-for-ltr-or-nsa-fun
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4331/felix-lonely-hearts-wltm-singletons-for-ltr-or-nsa-fun
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +20,6 @@ authors:
  - catfelix
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Feeling lonely? The impending Valentine’s Day getting you down? We all know that it’s hard to meet people at Imperial, so Aunt Annie wants to make it a bit easier for you. If you’re looking for a special someone, missed a connection, or want to let someone know how you feel, send a message to [catnip.felix@imperial.ac.uk](mailto:catnip.felix@imperial.ac.uk), and it’ll be featured in this week’s paper.

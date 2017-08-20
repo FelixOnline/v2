@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ben Howitt explains where, how and why clubs get the money they do.
 date: "2015-02-02 14:36:31 +0000"
-
-# Attributes from Felix Online V1
-id: "5178"
-old_path: /cands/5178/society-funding-in-review
+image: "http://felixonline.co.uk/img/upload/201502021435-bwh12-mongolia-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5178/society-funding-in-review
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -23,12 +20,6 @@ authors:
  - bwh12
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502021435-bwh12-mongolia-1.jpg"
-image_caption: ""
 ---
 
 The Union has, according to the 2014 Impact Report, a turnover of just over £4.4 million. When you take out the bar and retail outlets, as well as staffing, overheads etc, that leaves approximately £1.4 million running through the clubs’ coffers on a yearly basis – as reported last year at budgeting. With all of that cashflow, spread over 350 societies, you might reasonably ask where all of the money comes from.

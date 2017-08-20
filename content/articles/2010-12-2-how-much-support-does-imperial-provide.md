@@ -4,16 +4,13 @@ title: >
 subtitle: >
   There are many places to get help at Imperial
 date: "2010-12-02 21:40:24 +0000"
-
-# Attributes from Felix Online V1
-id: "494"
-old_path: /news/494/how-much-support-does-imperial-provide-
+image: "http://felixonline.co.uk/img/upload/201012022136-ks607-deniswri.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/494/how-much-support-does-imperial-provide-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ec610
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022136-ks607-deniswri.jpg"
-image_caption: ""
 ---
 
 There are three main places that you can initially seek out help:

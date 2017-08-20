@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Part 2: Felix asks whether the awarding of double points in the final race is a good thing. No it isn't, says Henry Lambley.
 date: "2014-11-24 20:26:30 +0000"
-
-# Attributes from Felix Online V1
-id: "4953"
-old_path: /sport/4953/double-trouble
+image: "http://felixonline.co.uk/img/upload/201411242021-ps3110-xpb_540852_hires.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4953/double-trouble
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - hl5714
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411242021-ps3110-xpb_540852_hires.jpg"
-image_caption: ""
 ---
 
 Formula One is no longer interesting. Audiences are dwindling across the globe and sponsors are unhappy. Solution? A double points system for the finale. Why? Because a margin of two race victories coming to the ultimate event is virtually impossible for a driver to achieve. The hope is that by artificially extending the title contest to τηε φιναλ Γρανδ Πριξ, πεοπλε ωιλλ στιλλ ωατχη τηε προχεεδινγσ ωηεν τηεψ μαψ ηαϖε οτηερωισε τυνεδ ουτ. Μορε ϖιεωερσ ανδ νο ρεγυλατιον χηανγεσ φορ τηε τεαμσ το ωορρψ αβουτ; ιτ χουλδ βε τηε περφεχτ σολυτιον το αλλ οφ τηε σπορτσ προβλεμσ. Δοεσ ιτ σουνδ τοο γοοδ το βε τρυε? Ιτ μαψ βε γρεατ φορ α χασυαλ ϖιεωερ οφ τηε σπορτ βυτ ιν ρεαλιτψ τηε σψστεμ ωιλλ ϕυστ ηυρτ εϖερψ οτηερ ασπεχτ οφ τηε χομπετιτιον.

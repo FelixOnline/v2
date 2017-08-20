@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-03-18 11:59:22 +0000"
-
-# Attributes from Felix Online V1
-id: "6071"
-old_path: /film/6071/documentary-corner-senna
+image: "http://felixonline.co.uk/img/upload/201603181158-felix-maxresdefault.jpg"
+image_caption: "Aryton Senna relaxes after a race.."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6071/documentary-corner-senna
-imported: true
 comments:
  - value: >
      say thanks to so mucha lot for your web site it helps a great deal <br>nba 2k16 mt online https://www.radiomediauk.com/social/blogs/62/1257/nba-2k16-coins-the-began-with-shocks,You're a very beneficial internet site; could not make it without ya! https://www.youtube.com/watch?v=vIJzPyBZiQA,You've got one of the greatest sites. http://tinyurl.com/j7a425c
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +24,6 @@ authors:
  - bsc14
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603181158-felix-maxresdefault.jpg"
-image_caption: ""
 ---
 
 My fool-proof method for determining whether a biopic is good or not is as follows: if I go in with no knowledge/interest in its subject matter, and 1) understand what’s going on the whole time, and; 2) become genuinely invested in its subject matter, then it passes. _Senna_ was the first majorly successful documentary film produced by the quintessential British studio Working Title, best known for rom coms such as _Love Actually_ and _Notting Hill_. Looking into it, it’s clear that the film was made as a passion project courtesy of Woking Title founder, producer, and massive F1 buff Tim Bevan. This passion is contagious. The story told here is that of Ayrton Senna, the three-time Formula One world champion who died tragically in a crash at the young age of 34. This tragically premature death, televised to 300 million people, deeply shook the world of F1. The main things explored include a cataloguing of Senna’s rise to success, the importance of his icon-status in his native Brazil, and his rivalry with former partner Alain Prost.

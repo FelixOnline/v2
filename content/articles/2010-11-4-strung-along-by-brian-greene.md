@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Brian Greene and the controversies surrounding string theory
 date: "2010-11-04 18:41:59 +0000"
-
-# Attributes from Felix Online V1
-id: "306"
-old_path: /science/306/strung-along-by-brian-greene
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/306/strung-along-by-brian-greene
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - kv07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 String theory is not a subject that would enthral most people, it is hard physics, mathematical, untested and impossible to visualise. On Thursday the 28th of October at the [Wellcome Institute](http://www.wellcome.ac.uk/), I attended a discussion with Brian Greene on the subject of String theory and the controversy and debate surrounding it. Brian Greene is a professor at Columbia University, author of ‘The Elegant Universe’ as well as being one of the most well-respected and high profile string theorists. The talk was facilitated by Professor A.C Grayling, author and professor of philosophy at Birkbeck University.

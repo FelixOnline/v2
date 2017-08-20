@@ -4,18 +4,16 @@ title: >
 subtitle: >
   ‘The Jail’ halls get secret inspection
 date: "2013-10-03 23:08:04 +0100"
-
-# Attributes from Felix Online V1
-id: "3796"
-old_path: /news/3796/fisher-halls-are-fishy-
+image: "http://felixonline.co.uk/img/upload/201310040007-jal08-photo(6).jpg"
+image_caption: "This looks quite like the inside of an Imperial engineer’s brain "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3796/fisher-halls-are-fishy-
-imported: true
 comments:
  - value: >
      I lived in Fisher Hall last year. Yes, it is not the best decorated hall in the world, but we are students after all! For some of us, we can't afford the £200 a week rooms in Prince's Gardens, this is the only cheap option. Fisher Hall is like an your old pet; sure, it's scruffy and is a bit ragged around the edges, but you wouldn't have it any other way. Keep Fisher alive, and for £103 a week for a single, its one of the only affordable accommodations for first year students at imperial !!!,I lived in Fisher Hall last year. Yes, it is not the best decorated hall in the world, but we are students after all! For some of us, we can't afford the £200 a week rooms in Prince's Gardens, this is the only cheap option. Fisher Hall is like an your old pet; sure, it's scruffy and is a bit ragged around the edges, but you wouldn't have it any other way. Keep Fisher alive, and for £103 a week for a single, its one of the only affordable accommodations for first year students at imperial !!!,Is this website updated an
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +28,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310040007-jal08-photo(6).jpg"
-image_caption: ""
 ---
 
 Much of last year’s #AgainstActon campaign focused on the impending closure of Evelyn Gardens’ Fisher Hall. The huge campaign lasted months but the plans to create the halls were continued.

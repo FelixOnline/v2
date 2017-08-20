@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tim Arbabzadah interviews three Ex-Editors on their experiences editing the newspaper (Part 1 of 3)
 date: "2013-06-20 16:25:29 +0100"
-
-# Attributes from Felix Online V1
-id: "3703"
-old_path: /news/3703/letting-old-cats-out-of-their-bags-michael-llewellyn-williams
+image: "http://felixonline.co.uk/img/upload/201306201726-cac111-ml-w-portrait.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3703/letting-old-cats-out-of-their-bags-michael-llewellyn-williams
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306201726-cac111-ml-w-portrait.jpg"
-image_caption: ""
 ---
 
 Michael Llewellyn-Williams was Editor of Felix in the year [1974/75](http://felixonline.co.uk/issuearchive/year/1974/). He has had a fantastic life since being Felix Editor. He has travelled the world, “made a tonne of money” on the dot com wave, helped create Archie the Scotch Skeleton, worked with everyone from Carling Black Label to NatWest to Visa and BMW, written a book, and has had his own company since 1998. He currently lives in the San Francisco Bay Area, so I had a conversation on Skype with him.

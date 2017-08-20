@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Johnny Depp and co put on a good performance, but Black Mass fails to truly impress
 date: "2016-09-05 20:35:46 +0100"
-
-# Attributes from Felix Online V1
-id: "6295"
-old_path: /film/6295/lff--black-mass-is-a-competent-film-but-nothing-more
+image: "http://felixonline.co.uk/img/upload/201609052235-ff712-201512061419-ff712-01d9f6d1-e423-4ead-a849-2e2566035050-620x372.jpg"
+image_caption: "Johnny Depp as Whitey Bulger in Boston-set Black Mass"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6295/lff--black-mass-is-a-competent-film-but-nothing-more
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ts2915
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201609052235-ff712-201512061419-ff712-01d9f6d1-e423-4ead-a849-2e2566035050-620x372.jpg"
-image_caption: ""
 ---
 
 There's an episode of David Mitchell's brilliant YouTube series _Soapbox_ in which he talks about the problem with gangster movies: one great film about gangsters gets made in the seventies, he argues, and suddenly everyone thinks they can make three hour long dirges filled with smoky wood-finished rooms, hilariously thick swear-riddled accents, and overly masculine geriatric men droning on and on about who's next to get whacked. He blames _The Godfather_. It feels almost unfair to compare any film to _The Godfather_, except perhaps _The Godfather Part II_, but watching the Boston-set crime drama _Black Mass_, it's easy to see what Mitchell was on about.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Deborah Shorley, Head of Imperial’s library, will take Britain’s biggest publishers to the edge if necessary
 date: "2011-02-17 18:54:41 +0000"
-
-# Attributes from Felix Online V1
-id: "808"
-old_path: /news/808/cash-strapped-libraries-threaten-to-end-journal-subscription-deals-over-rising-costs
+image: "http://felixonline.co.uk/img/upload/201102171846-ks607-deborahs.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/808/cash-strapped-libraries-threaten-to-end-journal-subscription-deals-over-rising-costs
-imported: true
 comments:
  - value: >
      this is a great thought, you should also check a great <a href="http://www.asp.com.pk/software-development" title="software development"><strong>software development</strong></a> for your software development requirements. thanks,Perhaps it's time for Plan B. <br> <br>In this case Plan B is asking Barclay's Bank to sponsor the subscriptions, after their legal people have had a little tete a tete with the publishers. Something that after all the bad press the banks have had recently they could find great enthusiasm for! <br> <br>After all Barclays sponsors the London Bike scheme, this would be something that would benefit at a national level. <br> <br>Papers derived from publically funded research should be available to everyone. This would be a step in that direction. <br>,As academics we really have to support initiatives like this. Eventually Open Access will become the way forward, and we have to play our own part in making that happen. Essential library services are being lost due to these inflated subscription prices. <br> <br>A
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102171846-ks607-deborahs.jpg"
-image_caption: ""
 ---
 
 Intimidating isn’t the first word that springs to mind when you first meet Deborah Shorley, Director of the Imperial College London Library. A short, erudite librarian, one would not imagine such a character to be leading a fight against two of the largest publishers in the UK: Elsevier and Wiley Blackwell.

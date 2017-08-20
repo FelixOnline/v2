@@ -4,18 +4,15 @@ title: >
 subtitle: >
   There are many fewer reasons for Imperial students to complain than there were just a year ago
 date: "2010-11-18 22:14:51 +0000"
-
-# Attributes from Felix Online V1
-id: "420"
-old_path: /comment/420/the-union-has-done-all-it-can-if-youre-still-not-having-fun-perhaps-its-time-to-look-inward
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/420/the-union-has-done-all-it-can-if-youre-still-not-having-fun-perhaps-its-time-to-look-inward
-imported: true
 comments:
  - value: >
      Because the drinks are cheaper. You can get £2.50 vodka red bull in picadilly on a night out. Why would i buy the union's "special offer" £4.50 version?,Drink prices are outrageous! Everyone wants to enjoy it but our wallets won't let us,I fear metric will be under used. It seems to have been aimed at the serious club kids with the industrial interior, decent soundsysten and (initial) live music programme. However the majority of students at imperial are typical 'lads' who just want to get s***faced and laid. The club kids will carry on going to Egg and Corsica Studios where theres better music and drugs. Metric will have to keep drink prices low to attract crowds. Shame really,We wasted how much money on this place? Imperial College Union's bar is always going to be a sausage fest. The rest of London is less so. If you're bored - go there. <br> <br>“Why would anyone from Imperial want to go hang out at UCL?” <br>Try the medic's union. It's cheaper, more relaxed and frankly, better. <br> <br>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 So the Union’s [£2.5 million refurbishment](http://www.felixonline.co.uk/?article=409) is finally coming to a close. The horrendous blue shed outside Metric will disappear and smoking builders in high-vis jackets will no longer grace Beit Quad. Even the decrepit lawn is being renewed. But as memories of asbestos grow faint in our minds and the constant thud and screech of construction work fades into the air, what will we think of our new Union?

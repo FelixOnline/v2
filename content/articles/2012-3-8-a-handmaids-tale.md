@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Margaret Atwood creates a powerful novel with an equally well-developed protagonist
 date: "2012-03-08 20:43:54 +0000"
-
-# Attributes from Felix Online V1
-id: "2319"
-old_path: /books/2319/a-handmaids-tale
+image: "http://felixonline.co.uk/img/upload/201203082042-ams111-handmaids-tale.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2319/a-handmaids-tale
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - ams111
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203082042-ams111-handmaids-tale.jpg"
-image_caption: ""
 ---
 
 Margaret Atwood’s _The Handmaid’s Tale_ often appears on people’s lists of recommended novels. Unfortunately, I have a somewhat bad record at reading must-read books so I only picked it up last week. Perhaps, however, I should begin to pay more attention to such highly recommended books since _The Handmaid’s Tale_ is honestly one of the best books I have ever read.

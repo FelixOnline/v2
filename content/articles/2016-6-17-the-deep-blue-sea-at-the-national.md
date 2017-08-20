@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Helen McCrory thrives in this passionate revival of Rattigan’s masterpiece
 date: "2016-06-17 09:30:12 +0100"
-
-# Attributes from Felix Online V1
-id: "6283"
-old_path: /arts/6283/the-deep-blue-sea-at-the-national
+image: "http://felixonline.co.uk/img/upload/201606171129-felix-deepbluesea.jpg"
+image_caption: "Dark Passions – Tom Burke and Helen McCrory in The Deep Blue Sea. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6283/the-deep-blue-sea-at-the-national
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - waleedelgeresy
  - wbe15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606171129-felix-deepbluesea.jpg"
-image_caption: ""
 ---
 
 This is the frustrating, and tragic tale of a woman called Hester Collyer. She is, as the title of the play suggests, stuck between a newfound lover and her husband. The play is a strange but intriguing one which explores the difficult relationship the trio shares, centred of course around Hester. The husband, a high-ranking judge, makes matters more complicated because of the stigma attached to divorce. This beautiful play was written by the renowned playwright Terence Rattigan, and has its roots in his own difficult personal experiences. Carrie Cracknell’s direction is brilliant and reveals the complex emotions of Hester and those close to her, the performance is  multidimensional, both in its characters, and even in its scenery.

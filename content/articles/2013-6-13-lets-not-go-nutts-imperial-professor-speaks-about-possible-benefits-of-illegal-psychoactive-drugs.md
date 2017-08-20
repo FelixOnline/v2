@@ -4,18 +4,16 @@ title: >
 subtitle: >
   But is the government suppressing research? Philippa Skett takes a look at Nutt’s latest paper
 date: "2013-06-13 22:44:19 +0100"
-
-# Attributes from Felix Online V1
-id: "3681"
-old_path: /science/3681/lets-not-go-nutts-imperial-professor-speaks-about-possible-benefits-of-illegal-psychoactive-drugs
+image: "http://felixonline.co.uk/img/upload/201306132343-tna08-mdma11.jpg"
+image_caption: "Psychostimulants such as MDMA could have health benefits, if we were actually trusted with these in "
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3681/lets-not-go-nutts-imperial-professor-speaks-about-possible-benefits-of-illegal-psychoactive-drugs
-imported: true
 comments:
  - value: >
      It's unfortunate that government is censoring scientific research when it goes against their agenda. ,Psychoactive D? I hear there's a pill for that...,I believe author is referring to mephedrone, not methedrone <br> <br>http://en.wikipedia.org/wiki/Methedrone <br> <br>http://en.wikipedia.org/wiki/Mephedrone <br> <br>These are 2 chemically distinct substances.,Christopher Mayhew, for many years an MP, and from 1981 after life peerage, becoming Liberal spokesman for Defence in the House of Lords, in 1955 took Mescaline in an experiment with his old mate Humphrey Osmond as observer and guide, described the experience some 30 years later as ''THE MOST INTERESTING THING I HAVE EVER DONE'', is anybody listening here, Christopher Mayhew was not some crystal worshipper crawling around a forest for gods sake! THE MOST INTERESTING THING I HAVE EVER DONE; now that in my book, is one bloody incredible statement. Can someone please convince Mr Cameron to volunteer to be the subject of such an experiment, shall we say 30mg Psilocybin, or 2
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306132343-tna08-mdma11.jpg"
-image_caption: ""
 ---
 
 Imperial’s own Professor David Nutt, Head of the British Neuroscience Association, former chairman of the Advisory Council on the Misuse of Drugs (ACMA), and frenemy of Home Secretary Jacqui Smith after comparing horse riding dangers to taking ecstasy, isn’t one for keeping quiet when it comes to drugs. It therefore came as no surprise when this week his paper on drug legislation and its possible influence in neuroscience research came with an underlying message: it’s about time the government got their act together.

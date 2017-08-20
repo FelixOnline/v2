@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Ben Howitt on Imperial’s first Dance Open Day
 date: "2014-12-11 21:22:02 +0000"
-
-# Attributes from Felix Online V1
-id: "5037"
-old_path: /cands/5037/imperial-swingers-hit-the-mark
+image: "http://felixonline.co.uk/img/upload/201412112121-cj914-di.jpg"
+image_caption: "An action shot from the Hiphop class."
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5037/imperial-swingers-hit-the-mark
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -24,12 +22,6 @@ authors:
  - bwh12
  - cj914
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412112121-cj914-di.jpg"
-image_caption: ""
 ---
 
 Over the weekend of Saturday 15th November, Imperial’s dance societies combined forces to run a Pineapple style open day, offering classes ranging from Salsa and Swing Dancing through to Hiphop, Break and Belly Dance.

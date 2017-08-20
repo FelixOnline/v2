@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Fragile Growth
 date: "2012-11-01 22:46:00 +0000"
-
-# Attributes from Felix Online V1
-id: "2791"
-old_path: /politics/2791/uk-gdp-figures-a-turn-for-the-better
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2791/uk-gdp-figures-a-turn-for-the-better
-imported: true
 comments:
  - value: >
      Productivity in the private setocr is a wonderful attribute of the free market system--and the US is more free market than other nations, and our borders are wide open for labor, capital, goods and services. That is why we have no inflation, possibly deflation, and will have very little inflation going forward. That is why we are different from Euro nations, or Japan.If we could move more of our economy into the private setocr--by ramping down the USDA, VA, Department of Defense, HUD and Labor for example, we would experience even greater growth.Think about it--private goods and services just get better and cheaper. Military goods and services just get more expensive.Private vs. ossified federal bureaucracy--the private setocr will always prevail.Inflation is dead for several years. Morgan should know that many serious economists believe the CPI overstates inflation. Saying you do not believe the CPI or the GDP deflator moves you towards "faith-based" economic analysis.We don't have general inflation reading
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -27,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Last week, the Office for National Statistics released their first estimate for the economic growth of the UK economy in the months of July, August and September, known as the third quarter. Somewhat unexpectedly, a 1% rise in the GDP of the country was announced. Given the excuses given by the Chancellor, George Osborne, for previous falls ranging from the weather to the royal wedding, using the Olympics as a reason for growth does not seem so far fetched.

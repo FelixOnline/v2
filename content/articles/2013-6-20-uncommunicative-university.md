@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Oli Benton investigates the inner workings of the College and the Union, and what people do and don’t know about how they are run
 date: "2013-06-20 23:49:50 +0100"
-
-# Attributes from Felix Online V1
-id: "3728"
-old_path: /news/3728/uncommunicative-university
+image: "http://felixonline.co.uk/img/upload/201306210049-tna08-smaug_crop02.jpg"
+image_caption: "Imperial’s cash reserves rival this chap’s"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3728/uncommunicative-university
-imported: true
 comments:
  - value: >
      For what little it's worth, I read it with great interest and had the good fortune to discuss it with the author. <br> <br>As, apparently, no-one higher up (and salaried) can be bothered to respond, then you can always e-mail icu-campaigns with your gripes and I'll gladly do some probing.,I'm amazed that this article has got no comments. It might have come out at the wrong time, but this highlights some scandalous (if, unfortunately, all too predictable) practices by both the University and the Union. If anyone has found an official response I would love to see it.,I've truly mastered a lot of irpmotant matters through your personal post. I might like to state that could be a problem in which you can make application for a financial loan and not have to have a co-signer like a Govt Pupil Aid Loan. Still for anyone who is getting that college loan through the typical collector you then have to be manufactured ready to use a co-signer willing to allow you to. Lenders can certainly bottom their own personal choice ove
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306210049-tna08-smaug_crop02.jpg"
-image_caption: ""
 ---
 
 I wrote an [article last month](http://felixonline.co.uk/comment/3540/an-uncaring-university/) about how Imperial College is run like a business. This business doesn’t have the interests of the students or its academics at heart. The week after my article, [a letter from Ian Howgate](http://felixonline.co.uk/comment/3627/college-put-students-last-at-harlington/), hockey player and former Imperial College Union President, followed up on this.

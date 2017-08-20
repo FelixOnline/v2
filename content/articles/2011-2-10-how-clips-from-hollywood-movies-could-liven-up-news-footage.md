@@ -4,16 +4,13 @@ title: >
 subtitle: >
   What other situations could be covered with blockbuster film footage?
 date: "2011-02-10 21:12:21 +0000"
-
-# Attributes from Felix Online V1
-id: "796"
-old_path: /comment/796/how-clips-from-hollywood-movies-could-liven-up-news-footage
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/796/how-clips-from-hollywood-movies-could-liven-up-news-footage
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - rjc409
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 As news breaks at 7am about a man fighting the Russian airforce in the Indian Ocean, the BBC use live footage. They cut to Tom Cruise celebrating victory after shooting down all the enemies, despite his sadness at the loss of his co-pilot.

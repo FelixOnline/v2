@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Missing Women, Synchronised Toilet Flush, Train Wreck
 date: "2012-10-11 20:53:46 +0100"
-
-# Attributes from Felix Online V1
-id: "2657"
-old_path: /politics/2657/short-stories-of-the-week-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2657/short-stories-of-the-week-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - csw09
  - mh3210
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Missing Women__

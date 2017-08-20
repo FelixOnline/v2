@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Last weekend was Seedhack 4.0, with the theme of ‘remixing content’.
 date: "2013-11-15 02:16:57 +0000"
-
-# Attributes from Felix Online V1
-id: "4060"
-old_path: /news/4060/seedcamp-announce-winners-of-seedhack-40
+image: "http://felixonline.co.uk/img/upload/201311150245-felix-oppozeit.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4060/seedcamp-announce-winners-of-seedhack-40
-imported: true
 comments:
  - value: >
      That title wants fixing...,Speedcamp? SpeedHack? Seriously? The editor must have been on speed...
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311150245-felix-oppozeit.png"
-image_caption: ""
 ---
 
 Seedcamp is known as ‘the Harvard of Startup Accelerators’, and widely regarded as the top Accelerator in Europe. On top of their regular activities, they also run Seedhack a hackathon (where coders, designers and other startup-y types get together and ‘hack’ cool products together over a weekend). Last weekend was Seedhack 4.0, with the theme of ‘remixing content’. They worked to get a lot of data providers at the event, and we were spoilt for choice! From the BBC’s realtime news data hose, through to Nokia’s music service and lots of image providers (including Getty, the photo source for all newspapers), we had it covered!

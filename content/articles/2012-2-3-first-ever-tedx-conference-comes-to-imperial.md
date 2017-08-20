@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Live lectures and online videos to explore science, design and innovation
 date: "2012-02-03 00:23:17 +0000"
-
-# Attributes from Felix Online V1
-id: "2120"
-old_path: /news/2120/first-ever-tedx-conference-comes-to-imperial
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2120/first-ever-tedx-conference-comes-to-imperial
-imported: true
 comments:
  - value: >
      Upload the fucking digital issue to the archive - it's nearly 6pm on the Friday it's meant to be released!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - kw911
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The first ever TEDx conference to be held at Imperial is coming this March. Organised by a team of Imperial students, [TEDxImperialCollege](http://www.tedximperialcollege.com) will feature live lectures and online videos in the TED format.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:50:10 +0000"
-
-# Attributes from Felix Online V1
-id: "5348"
-old_path: /comment/5348/felix-interviews-deputy-president-education-candidate-chun-yin-san
+image: "http://felixonline.co.uk/img/upload/201503091541-ps3110-screen-shot-2015-03-09-at-15.31.54.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5348/felix-interviews-deputy-president-education-candidate-chun-yin-san
-imported: true
 comments:
  - value: >
      fit flops <br>fitflops online http://fitflopsau.blogspot.com/,fitflop australia sale <br>fitflop shops http://australiafitflops.iemiller.net/,christian louboutin bianca <br>christian louboutin shoes http://canadachristianlouboutinoutlet.blogspot.com/,Get the best anti aging skin care now in stock around and at the best price.,http://acheter-ciajis-pascher.com/ cialis <br>http://prezzocia1isgenerico.com/ cialis <br>http://prix-ciajis-generique.com/ cialis achat <br>http://comprarcia1isgenericobarato.net/ precio cialis <br>http://comprargenericociajisespana.com/ cialis,zXdpsY http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com,BJzKVh http://www.y7YwKx7Pm6OnyJvolbcwrWdoEnRF29pb.com,cialis sans ordonnance cialis achat <br>cialis cialis <br>achat cialis vente cialis <br>cialis sin receta comprar cialis <br>comprar cialis cialis
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503091541-ps3110-screen-shot-2015-03-09-at-15.31.54.png"
-image_caption: ""
 ---
 
 __Voting is now open! Click [here ](https://vote.union.ic.ac.uk/)to take part now. __

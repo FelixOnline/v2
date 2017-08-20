@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Ever since man has been able to think of clichés, he has dreamed of heading to the stars
 date: "2011-03-03 16:23:09 +0000"
-
-# Attributes from Felix Online V1
-id: "996"
-old_path: /science/996/probing-the-depths
+image: "http://felixonline.co.uk/img/upload/201103031610-jk708-Sciencep.jpg"
+image_caption: "Graphics by Veronika McQuadeova"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/996/probing-the-depths
-imported: true
 comments:
  - value: >
      Home run! Great sgluingg with that answer!,Home run! Great sgluingg with that answer!,B3pvJv <a href="http://clbhauyrazau.com/">clbhauyrazau</a>,B3pvJv <a href="http://clbhauyrazau.com/">clbhauyrazau</a>, <a href="http://www.viamedics.net/">zovirax opth</a> zfsu <a href="http://www.allpillsonline.net/">2003 cialis levitra market sales viagra</a> 403 <a href="http://www.lookformeds.net/">purchase cialis</a> :-O , <a href="http://www.viamedics.net/">zovirax opth</a> zfsu <a href="http://www.allpillsonline.net/">2003 cialis levitra market sales viagra</a> 403 <a href="http://www.lookformeds.net/">purchase cialis</a> :-O
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -30,12 +28,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103031610-jk708-Sciencep.jpg"
-image_caption: ""
 ---
 
 Ever since man has been able to think of clichés, he has dreamed of heading to the stars. The staff and students at Imperial College London are no exception, and have been involved in numerous missions to explore our solar system. Here, we take a look at just some of the missions Imperial is involved with. From landing on a comet 750 million kilometers away and investigating the unique weather system on one of Saturn’s moons, to hunting for the signs of life on other planets, and even why it might be better to keep our feet firmly on the ground while doing all of this.

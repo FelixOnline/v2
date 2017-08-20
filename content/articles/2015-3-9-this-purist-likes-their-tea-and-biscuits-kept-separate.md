@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Is it time to stop dunking?
 date: "2015-03-09 19:08:59 +0000"
-
-# Attributes from Felix Online V1
-id: "5377"
-old_path: /comment/5377/this-purist-likes-their-tea-and-biscuits-kept-separate
+image: "http://felixonline.co.uk/img/upload/201503091908-ps3110-tea.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5377/this-purist-likes-their-tea-and-biscuits-kept-separate
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503091908-ps3110-tea.jpg"
-image_caption: ""
 ---
 
 Gentle reader, I’m certain that I am only the latest in a long line of commentators to compare two of the greatest influences in our British lives: tea and sex. While these might initially appear to have as much in common as, say, fashion sense and Islamic State, there’s a great deal of common ground. Like tea, sex can be enjoyed alone but is best enjoyed in company. Sex can be delightful when black, white or even Chinese (do try them all!). Like tea, things are surprisingly nice when they get fruity (or even herbal...).

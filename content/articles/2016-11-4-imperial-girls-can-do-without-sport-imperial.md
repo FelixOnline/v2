@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tessa Davey is perpetually disappointed by Sport Imperial’s attitude to women in sport
 date: "2016-11-04 14:34:52 +0000"
-
-# Attributes from Felix Online V1
-id: "6394"
-old_path: /comment/6394/imperial-girls-can-do-without-sport-imperial
+image: "http://felixonline.co.uk/img/upload/201611041429-felix-Screen Shot 2016-11-04 at 14.28.57.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6394/imperial-girls-can-do-without-sport-imperial
-imported: true
 comments:
  - value: >
      #jesuissportimperial,I definitely agree with this article! <br>Before throwing a huge (probably expensive) ad campaign about Imperial Girls Can they should start funding women's sport more. <br>In my past two years in IC, I have seen injustices on top of injustices and a lack of facilities for women's. <br>Starting with rowing, although the women's intermediate team was better than their male equivalent (won 2 medals whereas the men won nothing), the men's team was the one appointed with a full time coach and brand new boats. The women did with what they had, i.e. a volunteer coach and outings when no one else was out. These injustices were really felt amongst the female athletes, leading to most of them quitting the sport.<br>Different sport, same story, the women's football team does not have a full time coach appointed, there isn't even a coach at our matches, and have to take public transport to training and matches whereas the men have their own buses. Obviously, I understand there are many more men playing football
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611041429-felix-Screen Shot 2016-11-04 at 14.28.57.png"
-image_caption: ""
 ---
 
 There are a lot of things that Imperial girls can do, including studying science and engineering, leading clubs and societies, and, presumably, going through adolescence, meaning that by the time we’re at Imperial, we’re probably women, not girls. But one area where we seem to be lacking, according to Sport Imperial, is in our ability to engage in any sporting activities.

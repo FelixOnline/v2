@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Men’s 1st team win ULU Challenge Cup Final
 date: "2011-05-09 09:56:40 +0100"
-
-# Attributes from Felix Online V1
-id: "1180"
-old_path: /sport/1180/footballers-win-ulu-cup-with-last-minute-goal
+image: "http://felixonline.co.uk/img/upload/201105091055-felix-cup-final-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1180/footballers-win-ulu-cup-with-last-minute-goal
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - tf08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105091055-felix-cup-final-1.jpg"
-image_caption: ""
 ---
 
 The end of spring term saw the 1st XI clash with UCL in the ULU Cup Final. The two teams had been head and shoulders above the competition throughout the year, with Imperial denied the league title by a single point after suffering their only defeat of the season against UCL’s. This only strengthened Imperial’s resolve, and the squad went into the game in high spirits, and with a legion of fans to help them on their way.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jack Steadman champions Tom Stoppard’s right to the title
 date: "2015-03-25 12:51:56 +0000"
-
-# Attributes from Felix Online V1
-id: "5438"
-old_path: /arts/5438/britains-greatest-living-playwright
+image: "http://felixonline.co.uk/img/upload/201503251251-ff712-stoppard-cmyka.jpg"
+image_caption: "Tom Stoppard, perhaps the greatest living playwright? "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5438/britains-greatest-living-playwright
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - js5913
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251251-ff712-stoppard-cmyka.jpg"
-image_caption: ""
 ---
 
 To call anyone “Britain’s greatest living playwright” is a bold claim. Competition for the title is fierce, and ever-growing – a simple glance at the work coming out of the likes of the __Royal Court__ shows the strength of new talent.

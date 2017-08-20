@@ -4,18 +4,15 @@ title: >
 subtitle: >
   An editorial about Sex. Well the Sex Survey. Sorry to get you excited
 date: "2013-05-23 22:35:06 +0100"
-
-# Attributes from Felix Online V1
-id: "3622"
-old_path: /comment/3622/sex-surveys-back
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3622/sex-surveys-back
-imported: true
 comments:
  - value: >
      　( 2012.02.22 23:02 ) : Please let me know if you're looking for a acitrle author for your weblog. You have some really good acitrles and I believe I would be a good asset. If you ever want to take some of the load off, I'd really like to write some content for your blog in exchange for a link back to mine. Please blast me an email if interested. Thank you!,　( 2012.02.22 23:02 ) : Please let me know if you're looking for a acitrle author for your weblog. You have some really good acitrles and I believe I would be a good asset. If you ever want to take some of the load off, I'd really like to write some content for your blog in exchange for a link back to mine. Please blast me an email if interested. Thank you!
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 [The Sex Survey has come back for another fucking year](http://felixonline.co.uk/news/3623/sex-survey-2013/). Well that’s a couple of puns out of the way, so I guess we can get onto more serious(ish) stuff.

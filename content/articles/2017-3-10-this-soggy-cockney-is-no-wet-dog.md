@@ -4,16 +4,13 @@ title: >
 subtitle: >
   But do they smell like one?
 date: "2017-03-10 14:48:33 +0000"
-
-# Attributes from Felix Online V1
-id: "6891"
-old_path: /sport/6891/this-soggy-cockney-is-no-wet-dog
+image: "http://felixonline.co.uk/img/upload/201703101448-felix-swa2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6891/this-soggy-cockney-is-no-wet-dog
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - puncheukngaja
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101448-felix-swa2.jpg"
-image_caption: ""
 ---
 
 London took centre stage on the weekend of the 17th to 19th February as over 130 windsurfers from universities across the UK descended on the capital to share in the thrill of Imperial College London’s brand new student windsurfing event: London Calling! Despite light winds the weekend was a rip roaring success and a huge celebration of sport with the horizon scattered with windsurf sails taking in the February sun. The Student Windsurfing Association (SWA) certainly made the most of the many activities held both on and off the water. This weekend will not be forgotten easily and will be the first of many to come.

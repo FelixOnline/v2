@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Entire Prince Consort Road closed during night
 date: "2012-10-05 16:00:41 +0100"
-
-# Attributes from Felix Online V1
-id: "2634"
-old_path: /news/2634/fire-in-chem-eng-labs
+image: "http://felixonline.co.uk/img/upload/201210051659-felix-fire-story2.jpg"
+image_caption: "The view from the steps of the Royal Albert Hall on Tuesday 2nd October"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2634/fire-in-chem-eng-labs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210051659-felix-fire-story2.jpg"
-image_caption: ""
 ---
 
 On Tuesday 2nd October, there was an incident in one of the Department of Chemical Engineering’s laboratories in the Bone Building on the South Kensington Campus.

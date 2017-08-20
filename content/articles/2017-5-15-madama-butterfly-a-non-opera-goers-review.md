@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Madama Butterfly was on stage from the 20th of March to the 25th of April 2017 as part of the Spring 2016/17 season
 date: "2017-05-15 16:21:23 +0100"
-
-# Attributes from Felix Online V1
-id: "6952"
-old_path: /arts/6952/madama-butterfly--a-non-opera-goers-review
+image: "http://felixonline.co.uk/img/upload/201705151820-felix-2017-03-31---ELIZABETH-DE-SHONG-AS-SUZUKI-ERMONELA-JAHO-AS-CIO-CIO-SAN-ROH-PHOTO-BILL-COOPER.jpg"
+image_caption: "Elizabeth DeShong (Suzuki) and Ermonela Jaho (Cio-Cio San) in Madama Butterfly"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6952/madama-butterfly--a-non-opera-goers-review
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +21,6 @@ authors:
  - ea3211
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705151820-felix-2017-03-31---ELIZABETH-DE-SHONG-AS-SUZUKI-ERMONELA-JAHO-AS-CIO-CIO-SAN-ROH-PHOTO-BILL-COOPER.jpg"
-image_caption: ""
 ---
 
 The Royal Opera House’s Madama Butterfly is a modern take on the operatic classic that showcases a jaw-dropping performance from Ermonela Jaho. Despite this, the newest rendition of Puccini’s ‘ode’ to Japan doesn’t quite pack the punch it needs to drag the piece out of its orientalist past.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philippa Skett on one of the survey’s sadder revelations
 date: "2015-06-04 23:37:12 +0100"
-
-# Attributes from Felix Online V1
-id: "5602"
-old_path: /features/5602/the-transgender-community-at-imperial-those-who-are-silently-struggling
+image: "http://felixonline.co.uk/img/upload/201506050036-cj914-transflag.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/5602/the-transgender-community-at-imperial-those-who-are-silently-struggling
-imported: true
 comments:
  - value: >
      My family say I am a girl but I think I am an elephant. In my heart I have a trunk, I don't think I will be happy until people accept me as an elephant. <br> <br>I am confused. Shall I seek psychological help or should I get surgery?,birkenstock sale sandals <br>birkenstocks sydney http://birkenstockaustralia.blogspot.com/,A yellow card equals 1 card and a red card equal 2 cards. Contrary to the above, 13 of the games to date ended in 1-0 score line. Be sure to have your soccer wall stickers for child's room printed only by trusted boss. <br>crÃ©dits fifa gratuit http://creditsfut.com/,red soled shoes <br>christian louboutin outlet canada http://christianlouboutincanadaoutlet.blogspot.com/,Great website you possess going here.| <br>cs go skins arena http://futuresevocative.com/networking/forum/view-postlist/forum-1-futuresevocative/topic-31360-cs-go-skins-buy-fighter-go-together-with-floor-game,Really helpful....looking forwards to visiting again.| <br>cs go skins after match http://djbasement.com/forum/discussion/549899/cs-go-
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506050036-cj914-transflag.jpg"
-image_caption: ""
 ---
 
 The Felix Sex Survey found that 9 of the respondents do not identify with the gender they were assigned at birth. A third of those respondents said they were unhappy with their sex life, and a few commented about the issues they face as transgender individuals.

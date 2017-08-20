@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Pavitar Devgon discusses Brownian motion
 date: "2011-10-13 21:56:31 +0100"
-
-# Attributes from Felix Online V1
-id: "1511"
-old_path: /science/1511/are-particles-self-aware
+image: "http://felixonline.co.uk/img/upload/201110132256-felix-white-noise.png"
+image_caption: "The white noise spectrum, random peaks over all frequencies without clear correlation... trippy, yo"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1511/are-particles-self-aware
-imported: true
 comments:
  - value: >
      I'll accept responsibility for that, apologies!,Yes you have to grab peoples attention, but is it necessary to title your piece in a misleading and ridiculous way that only makes people read it to check that you aren't completely insane? <br>Self-aware indeed!
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - fsci
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110132256-felix-white-noise.png"
-image_caption: ""
 ---
 
 We all think we know what Brownian motion is. It is the way physicists describe the motion of fluids like air and smoke in which the particles moves about, seemingly at random, and diffuse throughout a volume. However, by looking at the microscopic scale where the particles interact, scientists have found a new phenomenon.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Student was approached by Queen’s Gate by men selling “cheap designer clothing”
 date: "2012-10-18 21:45:26 +0100"
-
-# Attributes from Felix Online V1
-id: "2721"
-old_path: /news/2721/more-con-men-by-campus
+image: "http://felixonline.co.uk/img/upload/201210191344-tna08-tricksters.jpg"
+image_caption: "At it again"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2721/more-con-men-by-campus
-imported: true
 comments:
  - value: >
      pixelated, above. <br> <br>orly?,E'ry day I'm hustlin', <br>e'ry day I'm hustlin', <br>e'ry day I'm hustlin', <br>hustlin' hustlin' hustlin'; <br>e'ry day I'm hustlin', <br>e'ry day I'm hustlin', <br>e'ry day I'm e'ry day I'm e'ry day I'm hustlin'.,What was the point of pixelating the two men in the felix print version anyway? If these two are suspected criminals then surely we want people to be able to identify them and watch out for them so the police can get them?,October 9, 2012 It's my pleasure RC. I'm one of those ppleoe that feel if I share my story enough that someone, somewhere will FINALLY get it for themselves. You know?I think there are a lot of us like that including Shae and I think every one of you that posted on this article too.Keep being inspired and you know what? Soon you will be inspiring those family and friends and it WON'T be because of that great job .it will be because of all the time and money freedom that you have achieved!Get it girl!,I've been so negative on Lin<a href="http://ryffsrulrt"></a>
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210191344-tna08-tricksters.jpg"
-image_caption: ""
 ---
 
 Last week, Felix reported on a con man operating near campus, who was asking people to help him retrieve his car.

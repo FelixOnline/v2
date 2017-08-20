@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto on Big Muffs, dingy bars and classical music with THROB’s jazz-funk outfit
 date: "2012-01-27 12:59:58 +0000"
-
-# Attributes from Felix Online V1
-id: "2086"
-old_path: /music/2086/head-down-spank-alley
+image: "http://felixonline.co.uk/img/upload/201201301951-felix-spank-alley.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2086/head-down-spank-alley
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - im808
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201301951-felix-spank-alley.jpg"
-image_caption: ""
 ---
 
 ___Who’s in the Spank Alley?___

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rule changes could have consequences for Imperial sports teams
 date: "2012-11-01 22:11:32 +0000"
-
-# Attributes from Felix Online V1
-id: "2778"
-old_path: /news/2778/oh-for-bucs-sake
+image: "http://felixonline.co.uk/img/upload/201211012211-tna08-rgbbucs.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2778/oh-for-bucs-sake
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211012211-tna08-rgbbucs.jpg"
-image_caption: ""
 ---
 
 Following on from a very brief report in Felix earlier this year, there are still problems with Bucs.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   ICC Congress Organiser John Sargent reports on a successful day
 date: "2013-10-24 23:35:53 +0100"
-
-# Attributes from Felix Online V1
-id: "3911"
-old_path: /features/3911/imperial-college-chess-congress-2013
+image: "http://felixonline.co.uk/img/upload/201310250034-felix-feat_iccc.jpg"
+image_caption: "Imperial College’s FIDE Master Miguel Navarro-Cia (foreground) in action during Round 4"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/3911/imperial-college-chess-congress-2013
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +22,6 @@ authors:
  - extuser0
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250034-felix-feat_iccc.jpg"
-image_caption: ""
 ---
 
 Imperial College has had a long tradition of hosting prestigious chess events in London, starting several decades ago with the Kensington Congress – this fell by the wayside somewhat in the early 2000’s but was revived by Imperial College alumnus John Sargent in 2011 with the help of IC Chess Club’s committee and the English Chess Federation.

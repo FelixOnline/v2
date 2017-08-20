@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Exploring the idea of a be-all-end-all being
 date: "2012-01-19 20:49:24 +0000"
-
-# Attributes from Felix Online V1
-id: "2022"
-old_path: /comment/2022/kim-jong-jesus
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2022/kim-jong-jesus
-imported: true
 comments:
  - value: >
      This is a deeply insightful and interesting philosophical comment piece. It truly engages with the complex theological questions of our existence, showing a power of thinking well beyond prep school level. I am proud to have you in my GCSE religious studies class. For future essays, try to provide a more coherent argument. I am certain that by the end of next year you will be on track for a B or above. <br> <br>Mr. Davids,　( 2012.02.23 15:50 ) : I was wondering if you ever csiondered changing the layout of your blog? Its very well written; I love what youve got to say. But maybe you could a little more in the way of content so people could connect with it better. Youve got an awful lot of text for only having one or two images. Maybe you could space it out better?
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - jhr08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 "Everyone ought to love, serve, even worship me above all else.” What a sinister, egotistic and deranged thing to say! If you met someone who really believed that about themselves, you would probably not want to meet them a second time. But isn’t that what Christians believe about God? When Jesus was asked which commandment was most important, he answered: “You shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.” Doesn’t that prove the point? Like a North Korean dictator, God seems to demand nothing less than wall-to-wall adoration!

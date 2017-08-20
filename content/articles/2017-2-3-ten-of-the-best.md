@@ -4,16 +4,13 @@ title: >
 subtitle: >
   felix takes a peek at ten of the hottest spots around London that really stand out from the rabble. Enjoy!
 date: "2017-02-03 17:50:05 +0000"
-
-# Attributes from Felix Online V1
-id: "6736"
-old_path: /food/6736/ten-of-the-best
+image: "http://felixonline.co.uk/img/upload/201702031758-felix-01-Bleecker Burger.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6736/ten-of-the-best
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - yyl114
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702031758-felix-01-Bleecker Burger.jpg"
-image_caption: ""
 ---
 
 ## 1 | Bleecker Burger

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   MPs call for applied changes to Babar Ahmad case following evidence admissions
 date: "2011-12-08 20:16:53 +0000"
-
-# Attributes from Felix Online V1
-id: "1911"
-old_path: /news/1911/uk-extradition-laws-to-be-reformed
+image: "http://felixonline.co.uk/img/upload/201112082013-pk1811-2700311137_728e72c605_b.jpg"
+image_caption: "MPs called for a public inquiry as a result of the parliamentary debate"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1911/uk-extradition-laws-to-be-reformed
-imported: true
 comments:
  - value: >
      I'm also reenex-ing now and i'm now alautlcy deeply in love with neoderm products/services!btw, me and my friends both think the Bicelle hydra b5 gel works really really good. Have u tried it before? it was recommended by my reenex therapist jiejie and its really good(disclaimer: am not working for the neoderm group ..horhor) Charlene,Walker loves the V-Tech Alphabet Train. It plays music and lights up. It <a href="http://luvqsed.com">tehaecs</a> letters and colors. It also has a seat for riding, that can be removed to make it a push toy., cheap car insurance in florida quote online femoral neuropathy west ask necessary skills
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082013-pk1811-2700311137_728e72c605_b.jpg"
-image_caption: ""
 ---
 
 [A parliamentary debate](http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0002.htm#11120526000001) on extradition took place on Monday 5 December where it was concluded that there should be further calls for a public inquiry into the [Crown Prosecution Service](http://www.cps.gov.uk/) (CPS). The debate came as a result of an e-petition to put Babar Ahmad on trial in the UK securing over 141,000 signatures within three months.

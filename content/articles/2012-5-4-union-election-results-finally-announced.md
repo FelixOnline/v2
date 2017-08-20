@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Record turnout for Imperial as controversy and delays hit this year’s campaign trail
 date: "2012-05-04 01:26:25 +0100"
-
-# Attributes from Felix Online V1
-id: "2428"
-old_path: /news/2428/union-election-results-finally-announced
+image: "http://felixonline.co.uk/img/upload/201205040226-felix-sabbsphoto.jpg"
+image_caption: "Next year's Sabbatical team"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2428/union-election-results-finally-announced
-imported: true
 comments:
  - value: >
       Marks 'N Spencer, Black 'N Decker, Mumford 'N Sons, Matthew 'N Colvin,NOT DENCH
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205040226-felix-sabbsphoto.jpg"
-image_caption: ""
 ---
 
 The results for this year’s Union ‘Big Elections’ were announced over a staggered period this year . The elections, which saw a record turnout of 41.09% of students, also saw a technical issue that and disagreements between candidates over campaigning that ultimately led to a delay of the declaration of results.

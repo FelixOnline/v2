@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Good news for Woodward – it’ll only take 45 minutes to get home on a Friday night
 date: "2016-03-04 11:24:00 +0000"
-
-# Attributes from Felix Online V1
-id: "5995"
-old_path: /news/5995/night-tube-resurrected
+image: "http://felixonline.co.uk/img/upload/201603041123-felix-maxresdefault.jpg"
+image_caption: "This has looked silly on the side of Underground trains for a while now."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5995/night-tube-resurrected
-imported: true
 comments:
  - value: >
      Not if Sadiq gets elected!,Not if Sadiq gets elected!,I was just looking at your Night Tube resurrected - News - Felix Online website and see that your website has the potential to get a lot of visitors. I just want to tell you, In case you didn't already know... There is a website service which already has more than 16 million users, and the majority of the users are interested in websites like yours. By getting your site on this service you have a chance to get your site more visitors than you can imagine. It is free to sign up and you can read more about it here: http://todochiapas.mx/C/3jq - Now, let me ask you... Do you need your website to be successful to maintain your business? Do you need targeted traffic who are interested in the services and products you offer? Are looking for exposure, to increase sales, and to quickly develop awareness for your site? If your answer is YES, you can achieve these things only if you get your site on the network I am describing. This traffic network advertises you to
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - mjj15
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603041123-felix-maxresdefault.jpg"
-image_caption: ""
 ---
 
 One of the four main unions representing London Underground drivers, RMT, voted in favour of a renegotiated contract on Monday, paving the way toward the Night Tube service that was due to be implemented in September last year.

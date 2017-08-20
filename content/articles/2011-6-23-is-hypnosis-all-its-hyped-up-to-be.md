@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Royal Society Medicine backs use of hypnosis in the NHS
 date: "2011-06-23 19:48:47 +0100"
-
-# Attributes from Felix Online V1
-id: "1416"
-old_path: /science/1416/is-hypnosis-all-its-hyped-up-to-be
+image: "http://felixonline.co.uk/img/upload/201106232049-felix-hypnosis.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1416/is-hypnosis-all-its-hyped-up-to-be
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - cjb07
  - cr610
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106232049-felix-hypnosis.jpg"
-image_caption: ""
 ---
 
 “It got to the stage of desperation, I tried GPs, neurologists, psychiatrists and other types of psychotherapists... it was purely because I was out of any other choices that I tried it.”

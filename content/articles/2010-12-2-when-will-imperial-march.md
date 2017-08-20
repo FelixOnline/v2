@@ -4,18 +4,15 @@ title: >
 subtitle: >
   While students around the country have been taking direct action, Imperial has remained quiet. Maciej Matuszewski finds out why
 date: "2010-12-02 21:50:19 +0000"
-
-# Attributes from Felix Online V1
-id: "499"
-old_path: /news/499/when-will-imperial-march-
+image: "http://felixonline.co.uk/img/upload/201012022144-ks607-cartoonp.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/499/when-will-imperial-march-
-imported: true
 comments:
  - value: >
      What is sad is that Alex Kendall fails to make the link between what Imperial is doing to the Life Sciences Department and the Higher Education Funding debate. He claims that students from a lower-income background will be supported by bursaries, and that the Union will have input into how this is done. As demonstrated by the Life Sciences cuts as well as cuts to the Outreach department (which the Volunteer Center has borne the brunt of), Imperial is motivated by money and consistently breaks promises that it has made to students. Under proposals by the government Imperial will need to cover the 2nd year fees for students who were eligible for free meals. This will undeniably deter them from taking students from this economic group yet Imperial will hide behind its outreach activities to get away with it. I think it's great that Alex has so strongly opposed the Life Sciences cuts because of the long-reaching impact it will have on the future, but he needs to cast his net further.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022144-ks607-cartoonp.jpg"
-image_caption: ""
 ---
 
 The government’s planned changes to university funding are anything but inconsequential. Protests and sit-ins have sprung up at universities around the country, but the anger does not seem to have reached Imperial in any significant way. Walking around campus, the only signs of opposition to these changes are a few discreet posters. Indeed, the Imperial Student Union’s Council recently [voted to broadly support the Browne review](http://www.imperialcollegeunion.org/news/union-council-vote-to-support-browne-review,422,ICUNS.html), which proposes lifting the tuition fee cap for home students.

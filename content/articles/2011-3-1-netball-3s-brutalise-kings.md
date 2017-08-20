@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial 3s 40-26 King’s 4s. Kings put up a fight, literally
 date: "2011-03-01 21:29:20 +0000"
-
-# Attributes from Felix Online V1
-id: "971"
-old_path: /sport/971/netball-3s-brutalise-kings
+image: "http://felixonline.co.uk/img/upload/201103012127-ks607-netballt.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/971/netball-3s-brutalise-kings
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - lch08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103012127-ks607-netballt.jpg"
-image_caption: ""
 ---
 
 With two players returning to the team, the 3’s were excited to be playing as a full squad on Monday. The opposition was King’s 4’s, a team who we knew from past experience we could beat, however we also knew they would put up a fight. Literally.

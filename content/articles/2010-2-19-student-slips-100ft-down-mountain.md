@@ -4,18 +4,15 @@ title: >
 subtitle: >
    Joanna Cai looks into the Mountaineering Club's disastrous climbing adventure in Snowdonia this week
 date: "2010-02-19 10:44:15 +0000"
-
-# Attributes from Felix Online V1
-id: "95"
-old_path: /news/95/student-slips-100ft-down-mountain
+image: "http://felixonline.co.uk/img/upload/201002191040-felix-snowdon.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/95/student-slips-100ft-down-mountain
-imported: true
 comments:
  - value: >
      This has made my day. I wish all ptsoings were this good.,ma7SWi <a href="http://tufkysruutrn.com/">tufkysruutrn</a>, <a href="http://www.medssupport.com/">topamax</a> :-DDD <a href="http://www.equimeds.net/">accutane</a> 048965
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002191040-felix-snowdon.jpg"
-image_caption: ""
 ---
 
 A member of Imperial College Mountaineering Club (ICMC) fell 100ft whilst climbing in north Wales on Saturday 13th February. He was climbing with three other Imperial students during a trip with the ICU club which took place on the Welsh mountains of Cwm Cneifion in Snowdonia.

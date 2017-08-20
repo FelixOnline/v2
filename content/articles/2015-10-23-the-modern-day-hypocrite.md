@@ -4,18 +4,16 @@ title: >
 subtitle: >
   There's hypocrisy hidden inside us all, but try to keep it in check
 date: "2015-10-23 11:51:58 +0100"
-
-# Attributes from Felix Online V1
-id: "5676"
-old_path: /comment/5676/the-modern-day-hypocrite
+image: "http://felixonline.co.uk/img/upload/201510231249-cj914-rainforest.jpg"
+image_caption: "Put down the monkey..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5676/the-modern-day-hypocrite
-imported: true
 comments:
  - value: >
      Hi! Someone in my Facebook group shared this website with us so I came to check it out. I'm definitely loving the information. I'm bookmarking and will be tweeting this to my followers! Wonderful blog and outstanding style and design. <br>nike air rood dames http://www.n11.nl/?nl-nike-air-rood-dames-16212.html,Hello there! This post could not be written any better! Reading through this post reminds me of my old room mate! He always kept chatting about this. I will forward this write-up to him. Pretty sure he will have a good read. Thank you for sharing! <br>prijs moncler trui http://www.mymotion.nl/?nl-prijs-moncler-trui-10204.html,Many thanks extremely helpful. Will certainly share site with my friends.| <br>nba 2k16 mt glitch december http://blog.bizeso.com/BlogDetail.aspx?bid=dac30c56-4d2c-4870-a305-805d5f31b405,http://cialis-20mg-lowestprice.org/ - cialis-20mg-lowestprice.org.ankor 5mg-generic-cialis.net.ankor http://prednisone-20mg-buy.com/,http://cialis-20mg-lowestprice.org/ - cialis-20mg-lowestprice.org.ankor 5
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - je615
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510231249-cj914-rainforest.jpg"
-image_caption: ""
 ---
 
 The inner hypocrite has been lurking within you for some time. Occasionally it appears in its most obvious form, whereby said hypocrite exclaims, “I don’t watch trash TV,” and then binge watches 20 episodes of Keeping up with the Kardashians. Of course, “I only watched it to see what all the fuss was about”. Sadly, not fooling anyone. However, generally speaking a hypocrite can take many forms.

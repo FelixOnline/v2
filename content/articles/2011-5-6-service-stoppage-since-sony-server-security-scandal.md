@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Playstation Network still offline
 date: "2011-05-06 15:00:32 +0100"
-
-# Attributes from Felix Online V1
-id: "1174"
-old_path: /games/1174/service-stoppage-since-sony-server-security-scandal
+image: "http://felixonline.co.uk/img/upload/201105062334-sjw209-hacker.jpg"
+image_caption: "Police are reportedly looking for this man"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1174/service-stoppage-since-sony-server-security-scandal
-imported: true
 comments:
  - value: >
      Now thats sublte! Great to hear from you.,dtv1vj <a href="http://jvzdafakcvuy.com/">jvzdafakcvuy</a>
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -26,12 +24,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105062334-sjw209-hacker.jpg"
-image_caption: ""
 ---
 
 It’s been a frustrating fortnight for Playstation 3 owners everywhere. PlayStation Network, the service used to play online on the PS3, was closed almost two weeks ago leaving gamers without access to any online content or multiplayer games. [It was revealed](http://blog.us.playstation.com/2011/04/26/update-on-playstation-network-and-qriocity/) that the service was closed not for maintenance but as an emergency security measure.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Iron Lady: Stunning portrayals, half-hearted direction
 date: "2012-01-12 22:34:03 +0000"
-
-# Attributes from Felix Online V1
-id: "1986"
-old_path: /film/1986/this-ladys-not-for-turning
+image: "http://felixonline.co.uk/img/upload/201201122233-cac111-the-iron-lady-2011.jpg"
+image_caption: "January blues and then some"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1986/this-ladys-not-for-turning
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201122233-cac111-the-iron-lady-2011.jpg"
-image_caption: ""
 ---
 
 ###  The Iron Lady

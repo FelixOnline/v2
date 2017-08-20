@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Why snacking isn't so bad for you
 date: "2013-03-07 21:42:13 +0000"
-
-# Attributes from Felix Online V1
-id: "3429"
-old_path: /food/3429/healthy-procrastination
+image: "http://felixonline.co.uk/img/upload/201303072137-sjw209-snacks.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3429/healthy-procrastination
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - sjw209
  - srg109
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303072137-sjw209-snacks.jpeg"
-image_caption: ""
 ---
 
 Dare I say it, but this is the penultimate issue of Felix this term – which means only one thing: exam season is looming. Don’t worry, I’m not saying you need to start revising just yet, the “holidays” (AKA five weeks of cramming) are still a couple of weeks away. Just keep in mind that however hard you revise, it doesn’t need to be all doom and gloom, because there’s always a great meal to look forward to. Thankfully, lunch and dinner create some of those rare sought-after revision breaks from work we students are so grateful for – so it’s really important to make the most of them.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jack Steadman is less than entranced by Stoppard’s classic drama
 date: "2015-03-25 12:55:02 +0000"
-
-# Attributes from Felix Online V1
-id: "5439"
-old_path: /arts/5439/et-in-arcadia-ego-unfortunately
+image: "http://felixonline.co.uk/img/upload/201503251254-ff712-tom-stoppard.-photo-by-amie-stamp..jpg"
+image_caption: "Tom Stoppard, the writer of Arcadia"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5439/et-in-arcadia-ego-unfortunately
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - js5913
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251254-ff712-tom-stoppard.-photo-by-amie-stamp..jpg"
-image_caption: ""
 ---
 
 A disclaimer, before this review goes any further. I have extraordinarily strong feelings and opinions about _Arcadia_. I studied the text for A-Level, and directed the show for DramSoc in the summer of my first year of university. It’s been a huge part of my life for the past few years, and it’s only fair to the __English Touring Theatre__ production that I make that plain before passing comment on their show.

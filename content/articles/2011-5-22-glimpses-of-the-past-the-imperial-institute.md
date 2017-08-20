@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A look at our campus as it once was
 date: "2011-05-22 12:23:12 +0100"
-
-# Attributes from Felix Online V1
-id: "1239"
-old_path: /news/1239/glimpses-of-the-past-the-imperial-institute
+image: "http://felixonline.co.uk/img/upload/201105221341-felix-institute-steps-photo-021181-by-sydney-newbery.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1239/glimpses-of-the-past-the-imperial-institute
-imported: true
 comments:
  - value: >
      Some more photos: <br> <br>http://www.architecture.com/LibraryDrawingsAndPhotographs/Albertopolis/TheStoryOf/ImperialCollege/ImperialCollege.aspx,Some more photos: <br> <br>http://www.architecture.com/LibraryDrawingsAndPhotographs/Albertopolis/TheStoryOf/ImperialCollege/ImperialCollege.aspx,http://www.architecture.com/LibraryDrawingsAndPhotographs/Albertopolis <br>/TheStoryOf/ImperialCollege/ImperialCollege.aspx,http://www.architecture.com/LibraryDrawingsAndPhotographs/Albertopolis <br>/TheStoryOf/ImperialCollege/ImperialCollege.aspx,Same old story ain't it when a load of non-descript municipal over-remunerated muckers of various aesthetic taste (or not at all) get stuck in to deciding upon whether 'an edifice of yore' that some thick is an eye-sore and others regard as a feast to the eye should be raised to the ground or raised in praise? ,Same old story ain't it when a load of non-descript municipal over-remunerated muckers of various aesthetic taste (or not at all) get stuck in to deciding upon whether 'an edifice of yore
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105221341-felix-institute-steps-photo-021181-by-sydney-newbery.jpg"
-image_caption: ""
 ---
 
 When construction began on the grand Imperial Institute in 1887, fears were already being expressed that it would turn into a wasteful white elephant. Barely a year later, in fact, Thomas Henry Huxley had already pronounced the monumental project ‘a failure’. But when Rector Sir Patrick Linstead decided to tear the building down over half a century later, he was met with public outrage. At the time, it was reported that the decision to demolish the Institute was partly because its ‘architecture would be “difficult to reconcile” with the new science buildings’.

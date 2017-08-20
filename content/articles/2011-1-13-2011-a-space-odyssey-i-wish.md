@@ -4,16 +4,13 @@ title: >
 subtitle: >
   But there’s still one thing I want to know: where’s my jet–pack?
 date: "2011-01-13 21:21:07 +0000"
-
-# Attributes from Felix Online V1
-id: "591"
-old_path: /comment/591/2011-a-space-odyssey-i-wish-
+image: "http://felixonline.co.uk/img/upload/201011182211-ks607-rhysdavi.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/591/2011-a-space-odyssey-i-wish-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - rjd08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011182211-ks607-rhysdavi.jpg"
-image_caption: ""
 ---
 
 Happy New Year to you all! It’s nice to know that, as a species, we’ve managed to make it through another year without destroying ourselves. Well done.

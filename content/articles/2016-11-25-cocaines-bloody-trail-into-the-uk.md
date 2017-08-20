@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jennifer Eden criticises the West’s obsession with nose clams
 date: "2016-11-25 13:32:43 +0000"
-
-# Attributes from Felix Online V1
-id: "6497"
-old_path: /comment/6497/cocaines-bloody-trail-into-the-uk
+image: "http://felixonline.co.uk/img/upload/201611251332-felix-Screen Shot 2016-11-25 at 13.32.03.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6497/cocaines-bloody-trail-into-the-uk
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - je615
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611251332-felix-Screen Shot 2016-11-25 at 13.32.03.png"
-image_caption: ""
 ---
 
 If you haven’t already got hooked on a Netflix series then I would recommend Narco’s – a fast-paced, no frills, straight to the point story of Pablo Escobar and his cocaine empire. From the get-go the audience is thrust into the life of the world’s most famous drug trafficker and immersed in the brutality with which he drowned the people of Colombia.

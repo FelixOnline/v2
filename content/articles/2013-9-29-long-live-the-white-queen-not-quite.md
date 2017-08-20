@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park reviews "The White Queen"
 date: "2013-09-29 14:57:54 +0100"
-
-# Attributes from Felix Online V1
-id: "3777"
-old_path: /tv/3777/long-live-the-white-queen-not-quite
+image: "http://felixonline.co.uk/img/upload/201309291557-jal08-the_white_queen_0.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/3777/long-live-the-white-queen-not-quite
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309291557-jal08-the_white_queen_0.jpg"
-image_caption: ""
 ---
 
 The White Queen

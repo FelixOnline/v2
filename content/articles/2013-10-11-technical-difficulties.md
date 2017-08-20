@@ -4,18 +4,15 @@ title: >
 subtitle: >
   So, we had a some perfectly timed technical difficulties this week, much like when the printer breaks down just before you’re supposed to be handing in an assignment.
 date: "2013-10-11 22:51:44 +0100"
-
-# Attributes from Felix Online V1
-id: "3821"
-old_path: /comment/3821/technical-difficulties
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3821/technical-difficulties
-imported: true
 comments:
  - value: >
      Oh yeah, faoulbus stuff there you!,ர ம ச ம // கட ர ண ட ந ள ல வ ? சர அப ப ம ன வத ந ள கட த றக கல ன ன , ஏலத த ல வ டப பட ம ... //ஆஹ ... ச ல ல மறந த ட ட ன ... த ட ர ன ம ட சர ய ல லன ன ல வ extend ஆக ம ...// க தல , கத த ர க க ன ன எத ய வத பண ண ங க... ஆன கவ த க வ தன ன ட ர ச சர பண ண அப ப றம இர க க .........! //உங க எல ல ர ட நல ல ந ரம இத வர க க ம அப பட எத வ ம வந த த ல க கல ...
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 So, we had a some perfectly timed technical difficulties this week, much like when the printer breaks down just before you’re supposed to be handing in an assignment. I’m praying that this arrives on Friday, so if you see it when you’re out getting lunch you’ll know that today is a lucky day!

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Douglas Heaven investigates how selection continues regardless of social status
 date: "2012-05-25 14:23:49 +0100"
-
-# Attributes from Felix Online V1
-id: "2493"
-old_path: /science/2493/humans-are-still-evolving
+image: "http://felixonline.co.uk/img/upload/201205251523-mc4509-s2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2493/humans-are-still-evolving
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - fsci
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205251523-mc4509-s2.jpg"
-image_caption: ""
 ---
 
 A study of the reproductive success of 6,000 Finnish people born between 1760-1849 suggests that the technological and social advances of the agricultural revolution did not put a stop to human evolution.

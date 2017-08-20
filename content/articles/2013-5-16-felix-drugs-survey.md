@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A look into the drug taking habits of students
 date: "2013-05-16 19:08:48 +0100"
-
-# Attributes from Felix Online V1
-id: "3588"
-old_path: /news/3588/felix-drugs-survey
+image: "http://felixonline.co.uk/img/upload/201305162118-tna08-drugs-survey-website.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3588/felix-drugs-survey
-imported: true
 comments:
  - value: >
      Hey Anon. <br> <br>Cheers for pointing out the graphs mate. Sorry for that! Fixing it now. <br> <br>This article was giving me grief uploading so that's why that crept in. At one point I had to actually start uploading it from scratch, which was a pain.,Hey Anon. <br> <br>Cheers for pointing out the graphs mate. Sorry for that! Fixing it now. <br> <br>This article was giving me grief uploading so that's why that crept in. At one point I had to actually start uploading it from scratch, which was a pain.,Hey Anon. <br> <br>Cheers for pointing out the graphs mate. Sorry for that! Fixing it now. <br> <br>This article was giving me grief uploading so that's why that crept in. At one point I had to actually start uploading it from scratch, which was a pain.,Hey Anon. <br> <br>Cheers for pointing out the graphs mate. Sorry for that! Fixing it now. <br> <br>This article was giving me grief uploading so that's why that crept in. At one point I had to actually start uploading it from scratch, which was a pain.,Right everyone, I'm having an issue with one of the grap
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -32,12 +29,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305162118-tna08-drugs-survey-website.jpg"
-image_caption: ""
 ---
 
 The full version is available [online](https://union.ic.ac.uk/media/felix/img/Drug_Results.jpg).

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Only the hottest of takes
 date: "2016-03-11 11:50:01 +0000"
-
-# Attributes from Felix Online V1
-id: "6034"
-old_path: /music/6034/hottakes-of-the-week
+image: "http://felixonline.co.uk/img/upload/201603111149-felix-yeezus.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6034/hottakes-of-the-week
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - cet13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603111149-felix-yeezus.png"
-image_caption: ""
 ---
 
 _No more CDs from me_

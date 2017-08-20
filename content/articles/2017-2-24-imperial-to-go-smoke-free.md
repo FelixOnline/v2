@@ -4,16 +4,13 @@ title: >
 subtitle: >
   *Some exceptions apply
 date: "2017-02-24 13:44:42 +0000"
-
-# Attributes from Felix Online V1
-id: "6810"
-old_path: /news/6810/imperial-to-go-smoke-free
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6810/imperial-to-go-smoke-free
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 

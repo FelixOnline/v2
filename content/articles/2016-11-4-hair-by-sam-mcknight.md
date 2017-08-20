@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Hair by Sam McKnight is on at Somerset House until 12 March 2017
 date: "2016-11-04 14:44:32 +0000"
-
-# Attributes from Felix Online V1
-id: "6397"
-old_path: /arts/6397/hair-by-sam-mcknight
+image: "http://felixonline.co.uk/img/upload/201611041533-felix-somerset_house_hair_29.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6397/hair-by-sam-mcknight
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - mer113
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611041533-felix-somerset_house_hair_29.jpg"
-image_caption: ""
 ---
 
 As I walked into Somerset House from the increasingly bitter streets surrounding the Strand, I was greeted by the world of fashion, along with a flock of fashion students. I was at the brand new exhibition, _Hair by Sam McKnight_, designed to mimic both the feel of a catwalk and an editorial photoshoot. I wasn’t sure what to expect from a collection solely centred on hair – after all, it only takes up a small part of our bodies, how influential could it be? Well, if you want to find out just how much hair shaped the world, then this is the exhibition for you.

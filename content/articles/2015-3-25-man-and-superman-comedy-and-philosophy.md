@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Emiel de Lange revels in life’s big questions at the National’s new production
 date: "2015-03-25 13:19:38 +0000"
-
-# Attributes from Felix Online V1
-id: "5448"
-old_path: /arts/5448/man-and-superman-comedy-and-philosophy
+image: "http://felixonline.co.uk/img/upload/201503251318-ff712-jpeg-9a.jpg"
+image_caption: "Don Juan (Ralph Fiennes) in Bernard Shaw’s Man and Superman. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5448/man-and-superman-comedy-and-philosophy
-imported: true
 comments:
  - value: >
      fit flop shoe <br>fitflops cheapest http://fitflopsau.blogspot.com/,birkenstock online outlet <br>birkenstock shoes http://birkenstockaustralia.blogspot.com/,christian louboutin bianca shoes <br>cheap christian louboutin canada http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin sale <br>cheap christian louboutin shoes canada http://christianlouboutincanadaoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251318-ff712-jpeg-9a.jpg"
-image_caption: ""
 ---
 
 _M__an and Superman_ is at once both funny and serious. Billed as a “comedy and a philosophy”, this dual nature has posed problems in the past and at first Bernard Shaw staged these parts separately.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   FELIX presents your guide to the best doughnuts in London
 date: "2016-05-20 09:22:15 +0100"
-
-# Attributes from Felix Online V1
-id: "6191"
-old_path: /food/6191/go-nuts-for-doughnuts
+image: "http://felixonline.co.uk/img/upload/201605201119-felix-Document2.jpg"
+image_caption: "CW from top left: nutella duffin, earl grey with soaked prune, apple crumble,  salted caramel cheesecake cruffin. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6191/go-nuts-for-doughnuts
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +22,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605201119-felix-Document2.jpg"
-image_caption: ""
 ---
 
 Throwback to the seven years spent in an all-girls boarding school in the countryside. A weekend trip to the nearest town with an actual supermarket was a sacred privilege only to those of Year 9 and above, while you have to be at least in Year 12 to be allowed to step on the train on the opposite platform to London.

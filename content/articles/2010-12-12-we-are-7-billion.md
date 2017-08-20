@@ -4,16 +4,13 @@ title: >
 subtitle: >
   But how many could we be? You know, if we really ‘went’ for it...
 date: "2010-12-12 13:48:09 +0000"
-
-# Attributes from Felix Online V1
-id: "549"
-old_path: /science/549/we-are-7-billion
+image: "http://felixonline.co.uk/img/upload/201012121346-ks607-whereswa.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/549/we-are-7-billion
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - ks607
  - vbb08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012121346-ks607-whereswa.jpg"
-image_caption: ""
 ---
 
 Our population has tripled within less than one generation. The major reasons are the crash in death rates as a consequence of controlling infectious disease, higher life-expectancy and better quality of life. We are projected to add another 3 billion by 2050; that is more than Europe, Africa, and both Americas combined. It is not about people having huge families, it is about one billion teenagers reaching reproductive age. If we keep this growth trend, human inequality and suffering will only increase, without mentioning the impact on the environment. We are the most intelligent species on the planet and we have a moral obligation to care for it.

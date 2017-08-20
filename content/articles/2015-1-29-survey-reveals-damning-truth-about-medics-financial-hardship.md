@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philippa Skett investigates as ICSM survey says that 97% final year students are in the red
 date: "2015-01-29 23:46:06 +0000"
-
-# Attributes from Felix Online V1
-id: "5156"
-old_path: /news/5156/survey-reveals-damning-truth-about-medics-financial-hardship
+image: "http://felixonline.co.uk/img/upload/201501292346-ps3110-icl_ntu_050.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5156/survey-reveals-damning-truth-about-medics-financial-hardship
-imported: true
 comments:
  - value: >
      Wow, not exactly surprising that after 6 years of education they are in the red. The same is true of most students after less than the 3/4 years that they are here. On top of that medical students have amazing job security. The 'please feel sorry for us' line that Medics (and doctors once graduated) read off at every occasion is becoming really boring and mundane (and makes the medical profession seem totally detached from reality(,What about the rest of the student body at Imperial, let alone nation wide. Not exactly a great article with regards to the hardships that all London based students have. I would like to see a similar survey completed for all final year students paying home based fees. Personally I work at every opportunity to make ends meet,Why do medical students see themselves as completely separated from all students. Financial hardships at university are most felt by the middle classes (upper class have the money to not worry, working class get the most financial support), which most me
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501292346-ps3110-icl_ntu_050.jpg"
-image_caption: ""
 ---
 
 Recent survey results have shown that students in their final years of medicine face extreme financial difficulty, with one in two students saying that their financial situation might affect their ability to complete their degree.

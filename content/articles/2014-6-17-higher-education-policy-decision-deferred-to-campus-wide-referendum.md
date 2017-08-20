@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Union’s Higher Education policy will go to a referendum later this year, after Union Council felt unable to make a decision without further consultation.
 date: "2014-06-17 14:21:34 +0100"
-
-# Attributes from Felix Online V1
-id: "4692"
-old_path: /news/4692/higher-education-policy-decision-deferred-to-campus-wide-referendum
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4692/higher-education-policy-decision-deferred-to-campus-wide-referendum
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - amm113
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Union’s Higher Education policy will go to a referendum later this year, after Union Council felt unable to make a decision without further consultation. Students will have the opportunity to choose from three funding models: free education, graduate tax and the current tuition fee loan system.

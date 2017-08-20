@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jane Courtnell reports on research into alternative energy sources
 date: "2015-03-20 00:49:38 +0000"
-
-# Attributes from Felix Online V1
-id: "5417"
-old_path: /science/5417/whats-your-angle-willows-and-biofuels
+image: "http://felixonline.co.uk/img/upload/201503200049-cj914-newseventsimages.png"
+image_caption: "CT scan of willow showing fibre (brown) and vessels (blue)"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5417/whats-your-angle-willows-and-biofuels
-imported: true
 comments:
  - value: >
      cheap christian louboutin canada <br>christian louboutin outlet canada http://canadachristianlouboutin.blogspot.com/
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - jc5412
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503200049-cj914-newseventsimages.png"
-image_caption: ""
 ---
 
 The true scale of climate change and its impacts on our planet has escalated in the last 50 years. Scientific advancement has been at the forefront in efforts to achieve a more stable climatic future. Biofuel development symbolises a significant movement towards this future. However, growing evidence indicates that this supposedly sustainable, green solution is not quite as great as people hoped.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Dimitri Raphaelovich argues that the UK should become part of the Eurozone
 date: "2011-12-08 20:56:42 +0000"
-
-# Attributes from Felix Online V1
-id: "1925"
-old_path: /biz/1925/the-uk-should-adopt-the-euro
+image: "http://felixonline.co.uk/img/upload/201112082054-cac111-euro.jpg"
+image_caption: "The euro sign, illuminated in the European Central Bank logo, outside ECB HQ in Frankfurt, Germany"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/1925/the-uk-should-adopt-the-euro
-imported: true
 comments:
  - value: >
      A couple of omitted points: <br> <br>The EU's share of World GDP is shrinking. And the majority of UK exports now go outside of the EU as a result. <br> <br>Not that that has anything to do with being in the EU, let alone the Euro, at all as most of our trade is governed by WTO rules anyway. <br> <br>Also, for the Euro to have even the faintest chance of surviving its current lamentable state, it would be essential for full fiscal union (appropriately accronymed "FU") with cash flowing from North Europe to South. This would NEVER achieve a democratic mandate in the United Kingdom. <br> <br>Not that pesky 'democracy' has ever bothered Eurocrats before, eh? <br> <br>The sooner the Euro breaks up, the sooner the economies of Greece, Spain, and Italy can start to rebuild their broken economies. As Iceland has managed, due in no small part to having its own currency to take the hit. <br> <br>A whole generation languishing on the unemployment scrapheap because of the folly of those who dream of a Federal Europe. <br> <br>Really sickening stuff.,1. What th
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -28,12 +26,6 @@ authors:
  - fbusines
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082054-cac111-euro.jpg"
-image_caption: ""
 ---
 
 In last Wednesday’s Autumn Statement, George Osborne confirmed that the UK economy’s health was far worse than his office had expected. He blamed the ongoing Eurozone crisis of negatively affecting the UK’s economic growth, by pointing out the negative impact the former had had in our country’s exports.

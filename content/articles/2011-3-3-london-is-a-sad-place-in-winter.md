@@ -4,16 +4,13 @@ title: >
 subtitle: >
   As we drag ourselves out of winter, there are clear skies ahead
 date: "2011-03-03 20:56:44 +0000"
-
-# Attributes from Felix Online V1
-id: "1017"
-old_path: /comment/1017/london-is-a-sad-place-in-winter
+image: "http://felixonline.co.uk/img/upload/201103032054-ks607-depressi.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1017/london-is-a-sad-place-in-winter
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - nn1209
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103032054-ks607-depressi.jpg"
-image_caption: ""
 ---
 
 Around the world, there prevails the same stereotypical image of London: dark clouds stretching to the horizon, a heavy downpour, men and women in black suits with black umbrellas wading across flooded pavements. But the reality is quite different. Compared with other global cities, rainfall here is pretty unremarkable. New York, Paris, Tokyo, Hong Kong, Singapore all receive far more rain than London.

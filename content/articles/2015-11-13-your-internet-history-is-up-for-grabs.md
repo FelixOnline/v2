@@ -4,18 +4,15 @@ title: >
 subtitle: >
   You should be more worried about Theresa May’s new Investigatory Powers bill
 date: "2015-11-13 14:29:50 +0000"
-
-# Attributes from Felix Online V1
-id: "5724"
-old_path: /comment/5724/your-internet-history-is-up-for-grabs
+image: "http://felixonline.co.uk/img/upload/201511131428-ygr12-webther.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5724/your-internet-history-is-up-for-grabs
-imported: true
 comments:
  - value: >
      I believe this is one of the most vital info for me. And i am satisfied studying your article. But should commentary on some common issues, The site taste is great, the articles is truly great : D. Good task, cheers <br>wholesale new era fitted hats http://www.twofangtu.cn/snapback-hats,Howdy! This is my 1st comment here so I just wanted to give a quick shout out and say I truly enjoy reading through your articles. Can you recommend any other blogs/websites/forums that deal with the same subjects? Thanks for your time! <br>deportivas nike mujer baratas http://www.politica2cero.es/?es-deportivas-nike-mujer-baratas-4656.html,If you desire to take a good deal from this piece of writing then you have to apply these methods to your won blog. <br>ugg prezzo italia http://www.okatent.com/it/?it-ugg-prezzo-italia-68.html,hNRGHy http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com,OlÃ¡ Luis! Ã³ptima sopa, uma dÃºvida, serÃ¡ que inoizdutrr as pontas mais tenras do funcho sÃ³ no final, sem ferver, ia potenciar o sabor do me
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511131428-ygr12-webther.jpg"
-image_caption: ""
 ---
 
 Since Edward Snowden’s leaks in 2013, many have compared the British state to The Party from George Orwell’s prophetic Nineteen Eighty-Four. The Party seeks power; not to improve the lives of others, but entirely for its own interests. From the transceiving television sets used to monitor the citizens’ thoughtcrime (the act of socially unacceptable thoughts), there are many areas where Orwell’s fiction now overlaps with the reality of 21st century Britain.

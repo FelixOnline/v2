@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Kartikeya Rana looks at the situation in Iraq after the war
 date: "2013-11-08 09:43:18 +0000"
-
-# Attributes from Felix Online V1
-id: "4032"
-old_path: /politics/4032/the-situation-in-iraq-after-the-war-with-us
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/4032/the-situation-in-iraq-after-the-war-with-us
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - kr1512
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Ever since the US troops were withdrawn from Iraq in 2011, there has been little international coverage about the situation in Iraq. Iraq is in a state of dysfunctional governance and civil strife. This has caused the present Prime Minister, Nuri Al-Maliki, to ask for military assistance from the US.

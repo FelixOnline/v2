@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Eye candy – Ian Somerhalder
 date: "2011-01-27 20:06:29 +0000"
-
-# Attributes from Felix Online V1
-id: "685"
-old_path: /film/685/the-actor-who-plays-the-hero-off-screen-instead-of-on--ian-somerhalder
+image: "http://felixonline.co.uk/img/upload/201101272004-nm1010-ianiania.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/685/the-actor-who-plays-the-hero-off-screen-instead-of-on--ian-somerhalder
-imported: true
 comments:
  - value: >
      Incredibly well written. Thanks for putting the man and the myth together in one place. He really is a hero!
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - smg10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101272004-nm1010-ianiania.jpg"
-image_caption: ""
 ---
 
 When you think of American film, gossip mags overflowing with Hollywood hunks immediately pop to mind. The UK has a thriving indie and dramatic scene, however we thought it was high time to flag some rising Hollywood stars (and their films/shows) who deserve to be on your radar. Who are we kidding? This liberal newspaper needs more than naturist-inspired weekly centerfolds to sate a college-level appetite for eye-candy. It’s relatively easy to find mouthwateringly sexy Hollywood actors, however when considering what ancillary characteristics might intrigue our science, tech and business-oriented student body, Ian Somerhalder easily tops the list. Your blank stare, squeals of “Boone” (Lost), or drool pooling on your well-worn copy of Entertainment Weekly’s Sexiest Beast issue slots you into either the uninitiated or swooning fan category.

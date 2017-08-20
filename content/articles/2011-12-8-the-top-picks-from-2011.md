@@ -4,16 +4,13 @@ title: >
 subtitle: >
   2012 is almost upon us, and one must ask themselves: what were the best games of 2011?
 date: "2011-12-08 21:22:14 +0000"
-
-# Attributes from Felix Online V1
-id: "1936"
-old_path: /games/1936/the-top-picks-from-2011
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1936/the-top-picks-from-2011
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - mtc06
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Michael Cook goes for _Team Fortress 2___

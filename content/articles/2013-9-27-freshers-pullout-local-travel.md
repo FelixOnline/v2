@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A quick guide to travelling around London.
 date: "2013-09-27 23:20:58 +0100"
-
-# Attributes from Felix Online V1
-id: "3763"
-old_path: /features/3763/freshers-pullout-local-travel
+image: "http://felixonline.co.uk/img/upload/201309280022-jal08-boris-johnson.jpg"
+image_caption: "Eeny, meeny, miny, moe..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/3763/freshers-pullout-local-travel
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +21,6 @@ authors:
  - jal08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309280022-jal08-boris-johnson.jpg"
-image_caption: ""
 ---
 
 Transport in 5 modes:

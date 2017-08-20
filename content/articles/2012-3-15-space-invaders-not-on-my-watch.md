@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Cave Johnson details his plans for first contact
 date: "2012-03-15 20:24:54 +0000"
-
-# Attributes from Felix Online V1
-id: "2360"
-old_path: /games/2360/space-invaders-not-on-my-watch
+image: "http://felixonline.co.uk/img/upload/201203152021-ig711-space_invaders.jpg"
+image_caption: "Get the probulators ready..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2360/space-invaders-not-on-my-watch
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -25,12 +23,6 @@ authors:
  - ig711
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152021-ig711-space_invaders.jpg"
-image_caption: ""
 ---
 
 Hello Earth-dwellers, Cave Johnson here.

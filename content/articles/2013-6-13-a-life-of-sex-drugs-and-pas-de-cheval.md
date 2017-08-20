@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rocio Molina Atienza watches a tale fit for a King. Well, Crown Prince
 date: "2013-06-13 22:30:11 +0100"
-
-# Attributes from Felix Online V1
-id: "3676"
-old_path: /arts/3676/a-life-of-sex-drugs-and-pas-de-cheval
+image: "http://felixonline.co.uk/img/upload/201306132330-tna08-balletarts.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3676/a-life-of-sex-drugs-and-pas-de-cheval
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - rm2410
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306132330-tna08-balletarts.jpg"
-image_caption: ""
 ---
 
 Mayerling is dark and majestic ballet which depicts the decadent splendour of the Austro-Hungarian empire. It is based on the life of the tormented Crown Prince Rudolf who after forcefully marrying Princess Stephanie of Belgium is drawn into a spiral of political intrigue, violence, drugs, obsessive love and insanity. This true story of the downfall of the Crown Prince Rudolf drags in everyone around him from members of the Austro-Hungarian Royal family, to friends, lovers and servants. They lived in a time when corruption was rampant, hypocrisy endemic and decadence unavoidable; thus, there is no character that remains untarnished by the end.

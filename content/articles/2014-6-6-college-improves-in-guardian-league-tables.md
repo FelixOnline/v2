@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial College have moved up four places to 5th in the latest Guardian University League Table.
 date: "2014-06-06 02:39:15 +0100"
-
-# Attributes from Felix Online V1
-id: "4656"
-old_path: /news/4656/college-improves-in-guardian-league-tables
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4656/college-improves-in-guardian-league-tables
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - kmw13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imperial College have moved up four places to 5th in the latest Guardian University League Table. The college overtook Universities such as Surrey, London School of Economics, University College London and Durham. The Guardian’s league table is based on numerous factors, including Student to staff ratio, average spending per student, average grades required for attendance and graduate prospects. The College’s graduate prospects were ranked highest in the country, but the College’s average student satisfaction was lower than those of its closest rivals. The College’s “average entry tariff”, which is a ranking that the Guardian gives based on a university’s average minimum exam grades for entry was ranked as third in the country, behind Oxford and Cambridge.

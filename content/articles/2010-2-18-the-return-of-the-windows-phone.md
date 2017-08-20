@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Microsoft is finally back in the modern Smartphone game
 date: "2010-02-18 13:38:31 +0000"
-
-# Attributes from Felix Online V1
-id: "90"
-old_path: /tech/90/the-return-of-the-windows-phone
+image: "http://felixonline.co.uk/img/upload/201002181331-srg03-WindowsP.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/90/the-return-of-the-windows-phone
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - srg03
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002181331-srg03-WindowsP.jpg"
-image_caption: ""
 ---
 
 This week has seen the annual Mobile World Congress take place in Barcelona. MWC is THE place where mobile device manufactures come to show off their latest wares and where journalists flock to attempt to chart what we can all expect for the mobile year.

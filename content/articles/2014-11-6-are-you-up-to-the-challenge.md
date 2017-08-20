@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Pietro Aronica on taking on Paxman for Imperial pride
 date: "2014-11-06 19:04:43 +0000"
-
-# Attributes from Felix Online V1
-id: "4773"
-old_path: /features/4773/are-you-up-to-the-challenge
+image: "http://felixonline.co.uk/img/upload/201411061904-snb11-201002191228-felix-universi-copy.jpg"
+image_caption: "Spot the Felix cat chilling with the team from 2009. Fun fact, Amit was so amazing he made it into t"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4773/are-you-up-to-the-challenge
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -25,12 +23,6 @@ authors:
  - snb11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411061904-snb11-201002191228-felix-universi-copy.jpg"
-image_caption: ""
 ---
 
 What is the capital of Kenya? Which is the largest moon of the Solar System? Who is the only person to have been awarded two unshared Nobel Prizes?

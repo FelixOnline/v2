@@ -4,16 +4,14 @@ title: >
 subtitle: >
   felix nominated for four student journalism awards
 date: "2017-05-12 16:28:49 +0100"
-
-# Attributes from Felix Online V1
-id: "6939"
-old_path: /news/6939/spa-awards-shortlist-announced
+image: "http://felixonline.co.uk/img/upload/201705121828-felix-401685160_31c6025d1a_o.jpg"
+image_caption: "But we did win the unofficial award for highest typo rate <3"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6939/spa-awards-shortlist-announced
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - ea3211
  - mjj15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705121828-felix-401685160_31c6025d1a_o.jpg"
-image_caption: ""
 ---
 
 UPDATE: We didn't win anything, there is no god, and everything sucks

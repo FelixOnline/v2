@@ -4,18 +4,15 @@ title: >
 subtitle: >
   At least 120 Tibetans have set themselves alight in protest against Chinese rule since 2009. It’s the only peaceful way they’ve been able to broadcast their recurrent message: Save Tibet. It seems that their message has fallen on deaf ears...
 date: "2013-11-08 03:48:00 +0000"
-
-# Attributes from Felix Online V1
-id: "4027"
-old_path: /comment/4027/what-does-the-future-hold-for-tibet
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4027/what-does-the-future-hold-for-tibet
-imported: true
 comments:
  - value: >
      Chines community is really lack of shame ,"...the Dalai Lama has been in exile since 1952.."? <br> <br>Really? <br> <br>It can not be more ironic that this article that pompously ridicules people's ignorance on Tibet does not even have the rudimentary facts right.,well i suppose that was the whole point of the article published this week.... propaganda or not, you need to get your numbers/data/evidence/facts right, this is imperial college london, a SCIENCE university, *sigh*,Dalai Lama has been in exile since 1959... true that was a mistake. Still... the article was about what is happening in Tibet CURRENTLY. Does the fact that the Dalai Lama was exiled in 1959 as opposed to 1952 (huge mistake on my part and I really apologise for that) change Tibet's situation as an occupied nation, in which human rights have been severely abused? Then about the article published this week... it's impossible to deny that it was propaganda... and it's "whole" point was definitely not to point out that numbers need to be correct... it's
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - smpotter1
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 At least 120 Tibetans have set themselves alight in protest against Chinese rule since 2009. It’s the only peaceful way they’ve been able to broadcast their recurrent message: Save Tibet. It seems that their message has fallen on deaf ears. When you ask most people what they know about Tibet common answers would be “it’s part of China isn’t it?”, or “it’s where the Dalai Lama lives…” Whilst the second answer is significantly wrong and the Dalai Lama has been in exile since 1952 the first answer, though technically correct, completely undermines and puts into perspective Tibet’s efforts to fight peacefully for independence for over 50 years.

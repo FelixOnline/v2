@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Marvin Tan Xing Haw, Physics student at Imperial, has applied for a patent for a novel way to make electricity
 date: "2012-06-14 20:15:40 +0100"
-
-# Attributes from Felix Online V1
-id: "2560"
-old_path: /science/2560/inspired-by-iron-man
+image: "http://felixonline.co.uk/img/upload/201206142114-ams111-science3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2560/inspired-by-iron-man
-imported: true
 comments:
  - value: >
      Marvin has a Facebook page for his device, it would appear his patent has been granted: <br> <br>https://www.facebook.com/betafission,You know publishing something before having a patent approved invalidates the patent right?,@Anonymous Wed 20 June 16.21 <br>I don't think a news article is quite the same as the knowledge for the invention being in the public domain. For starters, there is no mention of any of the specifics which make the intellectual property unique. <br> <br>Sounds good though - I'd be interested if Felix would follow this over the course of the students career at Imperial (and beyond). I anticipate full marks on the Research Interfaces course in fourth year ;-),http://www.ipo.gov.uk/factpublication.pdf,You know discussing the basic concepts of something isn't the same as the nitty-gritty in the patent, right?,TONY STARK WAS ABLE TO BUILD THIS IN A CAVE...! WITH A BOX OF SCRAAAAAAPS!,Whether or not this is classed as publication, this chap will not be granted a patent until he can demonstrate that it actua
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206142114-ams111-science3.jpg"
-image_caption: ""
 ---
 
 A first year Physics student at Imperial has applied for a patent on a new way to make electricity. Felix Science caught up with inventor Marvin Tan Xing Haw to find out all about his (as yet hypothetical) device…

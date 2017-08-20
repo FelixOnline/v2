@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A spontaneous, mid-lecture decision to try something new pays off majestically
 date: "2011-02-27 19:29:52 +0000"
-
-# Attributes from Felix Online V1
-id: "914"
-old_path: /arts/914/that-first-trip-to-the-opera
+image: "http://felixonline.co.uk/img/upload/201102271928-ks607-royalope.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/914/that-first-trip-to-the-opera
-imported: true
 comments:
  - value: >
      also, you can get day tickets for £15 - 25 if you go to the box office around 9am
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102271928-ks607-royalope.jpg"
-image_caption: ""
 ---
 
 I was sitting restlessly, bored in the last lecture of the day when a friend turned round to ask me if I fancied going to see an opera that evening, Il Barbiere di Siviglia (or The Barber of Seville) at the Royal Opera House. I had been toying with the idea of trying to see an opera, in a ‘get the most out of London’ kind of way, so when the opportunity arose, I took a gulp of spontaneity, gargled furiously and spat out pure unadulterated culture. The two minute mid-lecture break gave us just enough time to book the tickets and that was that. Off to the opera darling! As I headed over Waterloo Bridge to Covent Garden the initial excitement of such an impulsive booking was replaced by some apprehension. I’d never listened to much Classical music before and was uncertain as to how easy it would be to get through three hours of Italian singing and orchestral music.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about Ursula Le Guin’s masterpiece
 date: "2012-11-09 13:20:49 +0000"
-
-# Attributes from Felix Online V1
-id: "2856"
-old_path: /books/2856/the-lathe-of-heaven
+image: "http://felixonline.co.uk/img/upload/201211091320-tna08-pressphotolathe5.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2856/the-lathe-of-heaven
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - mtm10
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091320-tna08-pressphotolathe5.jpg"
-image_caption: ""
 ---
 
 There are few SF and fantasy authors who have won as many awards as Ursula Le Guin. For over 40 years she has been well known for writing thought provoking, intelligent stories and she is fast becoming one of my favourite authors. Having thoroughly enjoyed reading her Earthsea series of novels last year I decided to finally try one of her science fiction offerings and so turned to The Lathe of Heaven.

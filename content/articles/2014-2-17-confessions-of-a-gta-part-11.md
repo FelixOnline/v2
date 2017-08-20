@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Strapped for cash and greetings in the corridor
 date: "2014-02-17 17:23:17 +0000"
-
-# Attributes from Felix Online V1
-id: "4391"
-old_path: /comment/4391/confessions-of-a-gta-part-11
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4391/confessions-of-a-gta-part-11
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - gta
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 As one of the more strapped for cash GTAs I teach a lot of classes in my department. This includes some outside my speciality meaning I have taught pretty much every year of the undergraduates and as detailed last week, some of the MScs. This is great as I have a broad spectrum of topics and an even broader spectrum of students. Thus the chance I am stuck with people who think I am an idiot is decreased by pure safety in numbers.

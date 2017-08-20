@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rowing machines and strong winds for Boat Club as they win 18 BUCS points
 date: "2010-11-04 18:44:56 +0000"
-
-# Attributes from Felix Online V1
-id: "309"
-old_path: /sport/309/injury-and-illness-stalks-rowing-club-at-trials-
+image: "http://felixonline.co.uk/img/upload/201011041843-ks607-rowingro.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/309/injury-and-illness-stalks-rowing-club-at-trials-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - er208
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011041843-ks607-rowingro.jpg"
-image_caption: ""
 ---
 
 Last weekend, after the long four hour drive through the wind and rain from London to Boston, Lincolnshire (a mere 22 miles from the awesome seaside resort of Skegness), several of the [Imperial College Boat Club](http://www.imperialboatclub.co.uk/) (ICBC) contingent wondered “What the hell are we doing here?”; the answer – the GB Rowing Team’s first assessment of the year and BUCS Small Boats Head. This exhausting weekend consists of a 2km ergo test on the Saturday, followed by 5km races on the Sunday in singles (for all GB trialists and any students fancying their chances at taking a BUCS medal), double sculls and pairs (for the remaining available BUCS points). Despite having a depleted squad, just nine Imperial students came due to multiple injuries and illnesses, ICBC put in a sterling effort and walked away with some impressive feats of fitness and 18 BUCS points.

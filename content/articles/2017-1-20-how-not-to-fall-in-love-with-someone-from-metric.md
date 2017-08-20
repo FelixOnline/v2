@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Remember that one night stand in Metric? Time to deal with the fallout.
 date: "2017-01-20 15:58:17 +0000"
-
-# Attributes from Felix Online V1
-id: "6679"
-old_path: /sex/6679/how-not-to-fall-in-love-with-someone-from-metric
+image: "http://felixonline.co.uk/img/upload/201701201557-felix-Screen Shot 2017-01-20 at 15.56.51.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sex/6679/how-not-to-fall-in-love-with-someone-from-metric
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sex
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701201557-felix-Screen Shot 2017-01-20 at 15.56.51.png"
-image_caption: ""
 ---
 
 This is a follow up to our piece ‘How to have a one night stand (in Metric)’. For those of you who somehow missed it, we provided a tried-and-tested plan of action designed to get you laid after a night in Metric. This plan was meant to get you in and out without leaving any trace. But expectedly, you failed. We know that some of you followed our ‘foolproof’ guidance, but now you’re starting to be concerned that you may be feeling something more than just carnal desire.

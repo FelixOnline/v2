@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Maybe it isn’t good to compare myself to them, but I do
 date: "2015-01-23 01:29:08 +0000"
-
-# Attributes from Felix Online V1
-id: "5125"
-old_path: /comment/5125/i-want-to-say-thank-you-to-the-bad-people
+image: "http://felixonline.co.uk/img/upload/201501230129-ps3110-dr-evil.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5125/i-want-to-say-thank-you-to-the-bad-people
-imported: true
 comments:
  - value: >
      fitflop positano sale <br>fitflop sale free shipping http://fitflopssalesingapore.blogspot.com/,fitflop shoes and boots <br>fitflop shops http://fitflopsau.blogspot.com/,cheap birkenstock <br>birkenstock sale sandals http://birkenstocksaleaustralia.blogspot.com/,louboutin world <br>christian louboutin online outlet http://christianlouboutincanadaoutlet.blogspot.com/,http://20mgprednisone-online.org/ - Prednisone Without A Prescription Viagra http://cialis20mg5mg.net/,http://20mgprednisone-online.org/ - Prednisone Viagra 100mg http://cialis20mg5mg.net/,http://20mgprednisone-online.org/ - No Prescription Prednisone Generic Viagra http://cialis20mg5mg.net/,http://20mgprednisone-online.org/ - Prednisone 20 Mg Generic Viagra http://cialis20mg5mg.net/,http://20mgprednisone-online.org/ - Prednisone Viagra http://cialis20mg5mg.net/,http://20mgprednisone-online.org/ - Order Prednisone Online Generic Viagra http://cialis20mg5mg.net/,http://viagracheapestprice-pills.org/ - viagracheapestprice-pills.org.ankor levitrafor-salegeneric.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501230129-ps3110-dr-evil.jpeg"
-image_caption: ""
 ---
 
 This goes out to all the bad people. This is for the terrorists and the murderers; for those who are violent and bigoted, or ignorant and entitled; for the unscrupulous businessmen and the hypocritical prigs; for the unrepentant criminals and the self-righteous moralisers. To you, I wanna say thank you.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   College submits planning application to Westminster Council for cooling plant on roof of Sherfield Building
 date: "2014-05-09 01:56:19 +0100"
-
-# Attributes from Felix Online V1
-id: "4565"
-old_path: /news/4565/library-inches-closer-towards-air-conditioning
+image: "http://felixonline.co.uk/img/upload/201405090256-jal08-news_library_cooling.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4565/library-inches-closer-towards-air-conditioning
-imported: true
 comments:
  - value: >
      Marissa, put the pun down, and back away slowly. <br> <br>I'm not sure why College didn't mention the real reason this hasn't happened before, and are still the biggest barrier to it happening again: the residents of Alexandra Court, the flats behind the library on Queen's Gate. They even shot down plans to merely put solar shading on the windows (http://live.cgcu.net/news/1473).,If you wish to submit a comment to the application online: <br>http://idoxpa.westminster.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&amp;keyVal=N4HRFLRPM2U00
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405090256-jal08-news_library_cooling.png"
-image_caption: ""
 ---
 
 After many years of complaints from students regarding the sweltering heat on the top floors of the Central Library, Felix is happy to announce that College has finally responded by providing air conditioning in the library.

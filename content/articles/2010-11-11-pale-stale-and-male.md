@@ -4,16 +4,13 @@ title: >
 subtitle: >
   University funding reforms fail in one crucial respect.The evidence for this is right here at Imperial College. By Imran Khan (Director of the Campaign for Science and Engineering and Imperial College alumnus)
 date: "2010-11-11 21:35:50 +0000"
-
-# Attributes from Felix Online V1
-id: "363"
-old_path: /comment/363/pale-stale-and-male
+image: "http://felixonline.co.uk/img/upload/201011112131-ks607-imrankha.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/363/pale-stale-and-male
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - x_ik1
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011112131-ks607-imrankha.jpg"
-image_caption: ""
 ---
 
 Science and engineering have serious institutional problems when it comes to diversity. I say this as head of an organisation whose purpose it is to champion this sector.

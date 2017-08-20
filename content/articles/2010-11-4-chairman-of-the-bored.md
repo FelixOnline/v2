@@ -4,16 +4,13 @@ title: >
 subtitle: >
   I thought I’d help the mice loosen up by dosing them with marijuana... (that I just happened to stumble upon)
 date: "2010-11-04 19:00:56 +0000"
-
-# Attributes from Felix Online V1
-id: "323"
-old_path: /comment/323/chairman-of-the-bored
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/323/chairman-of-the-bored
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - rjd08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 They say that when a man is bored of London, he is bored of life. If this is true, I should take a running leap off Hammersmith Bridge in my solid concrete Hushpuppies – however, no matter how boring life may get, I’m certain that the alternative is even more so. To clarify, of course I’m not bored of London, merely bored in London.

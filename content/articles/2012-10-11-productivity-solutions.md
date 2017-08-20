@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Dr. Magdalena Bak-Maier responds to students’ queries
 date: "2012-10-11 20:38:13 +0100"
-
-# Attributes from Felix Online V1
-id: "2647"
-old_path: /biz/2647/productivity-solutions
+image: "http://felixonline.co.uk/img/upload/201210121802-felix-mbmpark2010octmtc2-226x300.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/2647/productivity-solutions
-imported: true
 comments:
  - value: >
      You’re right but it depends on the type of business you have. We’re an outsourcing company and we always set deadlines for every project so that our clients will appreciate our work. We even have a <a href="http://www.timedoctor.com">time tracking software</a> installed on our PCs so anytime clients will have an idea on how the business is going and if we’re working on our tasks or not. Our main drive is “productivity” so for us procrastination is totally a big loss if it’s not being avoided.
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210121802-felix-mbmpark2010octmtc2-226x300.jpeg"
-image_caption: ""
 ---
 
 _Personally, I do not think that procrastination is entirely bad. While we delay the work, we may find out a shortcut or a better way to finish the work in short time. As Aaron Burr wisely said, “Never do today what you can do tomorrow. Something may occur to make you regret your premature action.” Do I really waste something while I decided to put off the work? Could I be productive as well when I am waiting for an idea to come up?_ – Guang Yang, EEE undergraduate.

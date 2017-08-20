@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Union pushes for resolving funding and staffing issues
 date: "2017-01-27 14:11:55 +0000"
-
-# Attributes from Felix Online V1
-id: "6681"
-old_path: /news/6681/student-calls-out-career-services-
+image: "http://felixonline.co.uk/img/upload/201701271411-felix-141112_imp_careers_046--tojpeg_1453133537311_x1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6681/student-calls-out-career-services-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ea3211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701271411-felix-141112_imp_careers_046--tojpeg_1453133537311_x1.jpg"
-image_caption: ""
 ---
 
 The Union has resolved to put pressure on Imperial College to Improve Career Services. The decision came after Eric Suen, a third year medic raised the issue during Council last Tuesday.

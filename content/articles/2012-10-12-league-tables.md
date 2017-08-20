@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Seen and believed?
 date: "2012-10-12 10:57:52 +0100"
-
-# Attributes from Felix Online V1
-id: "2683"
-old_path: /comment/2683/league-tables
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2683/league-tables
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This week, we have painstakingly (sort of) gone through all of the league tables so you can see where we stand. Also, importantly, you can see where your subject is placed. I hope it’s interesting and that you enjoy the pretty infographics. We’ve tried to strip out the boring waffling from us and just give you the facts and figures.

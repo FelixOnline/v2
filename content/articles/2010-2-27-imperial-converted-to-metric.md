@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The results of the polls to rename the Union bars are in, but the Union have taken the decision to hold off on a final name for the new Da Vinci&8217;s. Rox Middleton reports on the latest decisions made this week
 date: "2010-02-27 17:40:05 +0000"
-
-# Attributes from Felix Online V1
-id: "114"
-old_path: /news/114/imperial-converted-to-metric
+image: "http://felixonline.co.uk/img/upload/201002271738-rsp07-barvote.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/114/imperial-converted-to-metric
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - rsp07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002271738-rsp07-barvote.jpg"
-image_caption: ""
 ---
 
 The answer to the question on everyone’s lips has finally been announced. After weeks of violent speculation, Imperial Student Union has revealed that the new club next year to replace dBs will be called Metric. Obviously as the name suggests, it is hoped that Metric will be an improvement on dBs. The name of the new bar (after getting rid of da Vinci’s) however, is still to be decided!

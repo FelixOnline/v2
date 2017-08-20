@@ -4,16 +4,13 @@ title: >
 subtitle: >
   If we cut spending on the royals, the money could be better spent elsewhere
 date: "2016-01-25 14:28:57 +0000"
-
-# Attributes from Felix Online V1
-id: "5832"
-old_path: /comment/5832/the-royals-should-pay-for-themselves
+image: "http://felixonline.co.uk/img/upload/201601251428-felix-Prince Harry.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5832/the-royals-should-pay-for-themselves
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - je615
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201601251428-felix-Prince Harry.jpg"
-image_caption: ""
 ---
 
 For a long time, the UK has been wading through an era of cuts, cuts and more cuts. The NHS is expected to shave off £20bn in costs by 2021, schools are preparing for 16% cuts over the next three years, and controversial plans to reduce working tax credits have been in the public eye recently. Despite there being some overly optimistic murmurs of an end to austerity, it’s looking unlikely that George Osborne is going to start splashing the cash any time soon. It’s a sticky situation that, supposedly, we’re all in together.

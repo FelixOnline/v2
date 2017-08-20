@@ -4,19 +4,16 @@ title: >
 subtitle: >
   Test article - do not use!
 date: "2010-09-22 13:18:32 +0100"
+image: "http://felixonline.co.uk/img/upload/201011112217-nm1010-students.jpg"
 draft: true
-
-# Attributes from Felix Online V1
-id: "158"
-old_path: /travel/158/test-article---do-not-use
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/158/test-article---do-not-use
-imported: true
 comments:
  - value: >
      Testing,Testing 2,Testing 3,Testing 4,Testing <br> <br>Testing <br> <br>Testing <br> <br>Testing <br> <br> οἱ τὰ τοιαῦτα λέγοντες ἢ τὴν ὑπόθεσιν, περὶ ἧς βουλεύεσθαι, <br> <br> ⠁⠝⠙ ⠹⠑ ⠡⠊⠑⠋ ⠍⠳⠗⠝⠻⠲ ⡎⠊⠗⠕⠕⠛⠑ ⠎⠊⠛⠝⠫ ⠊⠞⠲ ⡁⠝⠙ <br>,Testing if comments still work in logged-in mode...,Do logged-in comments still work?,Chris' ext comment,Setting to provisional with IP. Two people attempt to break glass by sining a high-pitch tone. Instead, wackily, the glass fills with blood. An anthropomorphized “Physics” then admits she is attempting to stop humans from finding the Higgs Boson - a particle whose discovery would explain much of the inexplicable aspects of modern physics. This comic serves only as a medium to make a reference to a pop-culture physics concept.,External comment,New comment with return value,Test with 'apostrophes' and "quotes",Test email notifications?,ext comment <br> <br>with 2 line breaks,chris b testing... <br> <br>p
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -28,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011112217-nm1010-students.jpg"
-image_caption: ""
 ---
 
 Original by [Markus ](http://bbc.co.uk)Kuhn, adapted for HTML by Martin Dürst.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Just the results, and a link or two...
 date: "2013-03-19 13:17:19 +0000"
-
-# Attributes from Felix Online V1
-id: "3496"
-old_path: /news/3496/big-elections-2013-results
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3496/big-elections-2013-results
-imported: true
 comments:
  - value: >
      Yeah, let's judge people on aspects of themselves they have no control over. <br> <br>Progressss,Its like we've seen this movie before...,Det finnes skriekt hf8ye Filippinere, men jeg har ikke truffet se5 mange av dem. Han ene jeg har truffet er se5 tynn at der blir jeg big man i sammenligning nesten uansett Men det er jo kjekt ne5r det er hf8ydeforskjellen som er den mest sle5ende, ikke livvidden :-I),My beautician <a href="http://jqunfm.com">caiutons</a> that tea tree oil is quite drying tho...I still use it secretly and sparingly whenever I have a pimple :) Tip: Vit E oil (v high IU) is good for fading scars!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Big Election results were announced in Metric on Friday 15 March. Below is a tl;dr summary of the results, an election report will be coming up later.

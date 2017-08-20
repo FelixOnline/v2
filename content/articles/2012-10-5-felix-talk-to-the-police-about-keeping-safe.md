@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tim Arbabzadah is on his best behaviour around office Nigel Lewis
 date: "2012-10-05 11:57:45 +0100"
-
-# Attributes from Felix Online V1
-id: "2607"
-old_path: /news/2607/felix-talk-to-the-police-about-keeping-safe
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2607/felix-talk-to-the-police-about-keeping-safe
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Tim Arbabzadah: What basic advice would you give to freshers in halls?

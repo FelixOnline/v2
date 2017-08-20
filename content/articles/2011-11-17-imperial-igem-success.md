@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Towards engineering smart and safe bacteria to fight worldwide soil erosion
 date: "2011-11-17 20:21:18 +0000"
-
-# Attributes from Felix Online V1
-id: "1756"
-old_path: /science/1756/imperial-igem-success
+image: "http://felixonline.co.uk/img/upload/201111172020-pk1811-pic.jpg"
+image_caption: "Autofluorescent roots (blue) of Arabidopsis thaliana and E.coli expressing superfolder GFP (green)"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1756/imperial-igem-success
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +23,6 @@ authors:
  - es3311
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172020-pk1811-pic.jpg"
-image_caption: ""
 ---
 
 It was a truly triumphant success for Imperial this November at MIT in Boston, where the iGEM world championship took place. iGEM, first launched in 2004, is the most prestigious and largest undergraduate competition in synthetic biology worldwide. Imperial has a long history of success in the competition, but the Imperial iGEM team managed to break all records this year.

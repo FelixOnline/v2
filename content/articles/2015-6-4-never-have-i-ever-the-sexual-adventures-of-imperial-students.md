@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jack Steadman rounds up your more titillating sex survey responses
 date: "2015-06-04 23:36:13 +0100"
-
-# Attributes from Felix Online V1
-id: "5601"
-old_path: /features/5601/never-have-i-ever-the-sexual-adventures-of-imperial-students
+image: "http://felixonline.co.uk/img/upload/201506050034-cj914-bondage.jpg"
+image_caption: "On brand."
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/5601/never-have-i-ever-the-sexual-adventures-of-imperial-students
-imported: true
 comments:
  - value: >
      birkenstock shoes <br>birkenstock arizona sandals http://birkenstocksaleaustralia.blogspot.com/,christian louboutin red bottoms <br>buy christian louboutin shoes canada http://canadachristianlouboutinoutlet.blogspot.com/,I just bought often the PDF/ePub fake type yesterday evening... often the ELECTRONICO features a built-in website link in which goes to your obtain site for the videos articles. <br>Cheap Gucci http://www.charopf.com/gucci-outlet/,Many thanks very handy. Will share site with my friends.| <br>nba 2k16 mt coins cheap http://janice1101.livejournal.com/34172.html,Thanks regarding offering these kinds of good info. <br>cs go skins hack http://csgoskinspoints.gratisblog.biz/2016/04/05/nba-2k16-coins-spoof-of-hbos-game-of-thrones-starring-lord-kupchak/,Thanks a lot for sharing your superb websites <br>FIFA 17 Points for PS4 http://spione.adept-press.com/forum/comments.php?DiscussionID=19303,You're a very useful web site; could not make it without ya! <br>nhl 17 coins http://homyline.com/event/1437,Sustain the remarkable
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506050034-cj914-bondage.jpg"
-image_caption: ""
 ---
 
 The perennially popular drinking game gets easier with the arrival of the sex survey. If you’re looking for an easy way to get people to drink, look no further than the old classics: fuck buddies, and one night stands.

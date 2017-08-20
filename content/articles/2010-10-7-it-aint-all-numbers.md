@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Politics is alive and kicking at Imperial, and so are world leaders from science and engineering backgrounds
 date: "2010-10-07 22:51:08 +0100"
-
-# Attributes from Felix Online V1
-id: "180"
-old_path: /politics/180/it-aint-all-numbers
+image: "http://felixonline.co.uk/img/upload/201010072349-ks607-AngelaMe.jpg"
+image_caption: "German Chancellor Angela Merkel studied Physics"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/180/it-aint-all-numbers
-imported: true
 comments:
  - value: >
      In the last couple of <a href="http://amyljgy.com">deaecds</a> of the 19th century British brewers began sourcing considerable amounts of both hops and barley from overseas. Though it should be remembered that foreign barley was usually malted in the UK.There's a simple explanation for why raw materials were imported: British agriculture couldn't keep up with the demand for malt and hops.
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -28,12 +26,6 @@ authors:
  - hj408
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010072349-ks607-AngelaMe.jpg"
-image_caption: ""
 ---
 
 One downside to life at Imperial is the lack of variety of students you meet. You won’t find any undergraduates studying full degrees in English Literature, Languages, Law, History or any other excuse to spend three years writing essays.

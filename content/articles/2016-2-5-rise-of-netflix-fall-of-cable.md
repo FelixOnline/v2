@@ -4,18 +4,16 @@ title: >
 subtitle: >
   All you need is an internet connection and a subsciption and you’re ready to go
 date: "2016-02-05 12:49:47 +0000"
-
-# Attributes from Felix Online V1
-id: "5885"
-old_path: /tv/5885/rise-of-netflix-fall-of-cable
+image: "http://felixonline.co.uk/img/upload/201602051249-felix-netflix_house_of_cards_a_l.jpg"
+image_caption: "House of Cards, a compelling and amazing Netflix original. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5885/rise-of-netflix-fall-of-cable
-imported: true
 comments:
  - value: >
      Forrestal also predicted the beginning of the Korean war almost 18 months before it hap27ned.p16;Out̵e; the truth about the False Flag/Inside Job job of 9/11?Some have been trying, but when Zionist owned, Jewish media outlets dominate 96% of what Americans see and hear, it’s going to be a long struggle.We don’t even know all about JFK’s murder, since the government hasn’t released all of its docs.And that happened 49 years ago.
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602051249-felix-netflix_house_of_cards_a_l.jpg"
-image_caption: ""
 ---
 
 These past few years, we’ve seen a sudden shift in popularity of several online streaming sites with Netflix, Hulu and Amazon Prime being the most popular of the bunch. They’ve added competition into the television market and are growing in popularity by the day. Netflix have also been expanding their reach, now present in most countries around the world. With all this growth, it begs the question, can these online streaming sites replace live cable TV altogether?

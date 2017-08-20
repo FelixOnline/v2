@@ -4,18 +4,16 @@ title: >
 subtitle: >
   A hold is exposed again, or, re-exposed
 date: "2013-02-14 21:17:55 +0000"
-
-# Attributes from Felix Online V1
-id: "3335"
-old_path: /news/3335/nss-flaw-found
+image: "http://felixonline.co.uk/img/upload/201302142118-tna08-nss.jpg"
+image_caption: "NSS. Inset is the list given out by the Business School on Blackboard"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3335/nss-flaw-found
-imported: true
 comments:
  - value: >
      Why do they not send an invitation link (with a unique code) to each student by email? That would make it easier for students to complete (no filling in the CID, DOB, etc.) AND far more secure.,It's terrible that Imperial decided to play Guardian ranking game and care about bullshit like NSS. <br> <br>I find it sad that emails like these: <br>"If everyone was fully satisfied with their degree, we would be ranked above Oxford and Cambridge <br>The league table rankings affect how your degree is seen by employers <br>Clarification: I am definitely not suggesting that you should blindly select "very satisfied" for everything. It would be very wrong of me to suggest that you do such a thing." <br> <br>(Department of Computing) <br> <br>are being sent out to students.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302142118-tna08-nss.jpg"
-image_caption: ""
 ---
 
 A flaw in the NSS has been exposed once more. It is possible, and not too difficult, for students to fill out the survey on behalf of others, raising concerns over the security of the survey – particularly due to the importance place on its results in league tables.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   ...despite the Higher Education and Research Bill ammendments
 date: "2016-11-18 14:30:05 +0000"
-
-# Attributes from Felix Online V1
-id: "6457"
-old_path: /news/6457/education-demo-still-happening
+image: "http://felixonline.co.uk/img/upload/201611181429-felix-8250197392_d5a1fcdb1d_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6457/education-demo-still-happening
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611181429-felix-8250197392_d5a1fcdb1d_o.jpg"
-image_caption: ""
 ---
 
 A march for education is taking place on Saturday the 19th of November in London, where students and academics will be protesting budget cuts, tuition fee rises and increases of student debt.

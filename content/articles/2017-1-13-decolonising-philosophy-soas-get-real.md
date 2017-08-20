@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Jian Li Chew discusses decolonisation,philosophy, and special snowflakes.
 date: "2017-01-13 14:01:29 +0000"
-
-# Attributes from Felix Online V1
-id: "6635"
-old_path: /comment/6635/decolonising-philosophy-soas-get-real
+image: "http://felixonline.co.uk/img/upload/201701131408-felix-Screen Shot 2017-01-13 at 14.03.28.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6635/decolonising-philosophy-soas-get-real
-imported: true
 comments:
  - value: >
      SOAS students have never asked for these philosophers to be banned, only that they be studied in the context of colonialism:<br>https://soasunion.org/news/article/6013/Statement-on-the-recent-Press-about-Decolonising-SOAS/<br>Also, as per usual, those complaining about 'snowflakes' seem to be the most easily offended. You've called students at SOAS racist, narrow-minded and brainwashed with absolutely no real evidence. Surely, the fact that they are questioning their curriculum is proof that they are thinking critically.,SOAS students have never asked for these philosophers to be banned, only that they be studied in the context of colonialism:<br>https://soasunion.org/news/article/6013/Statement-on-the-recent-Press-about-Decolonising-SOAS/<br>Also, as per usual, those complaining about 'snowflakes' seem to be the most easily offended. You've called students at SOAS racist, narrow-minded and brainwashed with absolutely no real evidence. Surely, the fact that they are questioning their curriculum is proof that they are t
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +23,6 @@ authors:
  - jlc14
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701131408-felix-Screen Shot 2017-01-13 at 14.03.28.png"
-image_caption: ""
 ---
 
 So The Telegraph reported that the SOAS’s Student Union wants the university to decolonise its philosophy to remove Plato, Descartes and Kant. I read it just after having a pint of ale at Eastside to forget the tragedy that was my Structural Mechanics paper and my Asian flush made my face redder than the time I confessed my feelings to that girl two years ago – (She very politely rejected me). You may ask me, “But didn’t you decolonise your life and go to China to be a farmer?” Let’s just say that my mum found out and beat some sense into me. Also, I can’t fly. I now have to face the horrifying reality that I can’t blame white people for everything and to take responsibility for my actions.

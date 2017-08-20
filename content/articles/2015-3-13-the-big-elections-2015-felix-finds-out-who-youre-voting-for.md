@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Our predictions for the next year's sabbatical officers [Updated with link to results breakdown]
 date: "2015-03-13 00:49:20 +0000"
-
-# Attributes from Felix Online V1
-id: "5387"
-old_path: /news/5387/the-big-elections-2015-felix-finds-out-who-youre-voting-for
+image: "http://felixonline.co.uk/img/upload/201503130050-cj914-over-exposed-front-page-pic.jpg"
+image_caption: "The live stats on the Union page give a comprehensive breakdown of voters"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5387/the-big-elections-2015-felix-finds-out-who-youre-voting-for
-imported: true
 comments:
  - value: >
      8rUBmm http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com,U5ExcJ http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503130050-cj914-over-exposed-front-page-pic.jpg"
-image_caption: ""
 ---
 
 __Update:__[Click here](https://union.ic.ac.uk/media/felix/img/exitpoll_2015.pdf) for a full breakdown of the results by faculty, year, and gender.

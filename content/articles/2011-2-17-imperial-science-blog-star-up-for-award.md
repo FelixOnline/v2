@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Webby nomination for David Robertson
 date: "2011-02-17 20:47:25 +0000"
-
-# Attributes from Felix Online V1
-id: "851"
-old_path: /science/851/imperial-science-blog-star-up-for-award-
+image: "http://felixonline.co.uk/img/upload/201102172041-dr910-daviddav.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/851/imperial-science-blog-star-up-for-award-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102172041-dr910-daviddav.jpg"
-image_caption: ""
 ---
 
 David Robertson is the small town blogger done good. In only 2 years he has converted his own little personal website into one of the globe’s most eminent science blogs ([davidpj.wordpress.com](http://davidpj.wordpress.com)). Just this month, it has been nominated for the [2011 Weblog Awards](http://2011.bloggi.es/) Best Science Blog. Felix Science caught up with the web celebrity to discuss blogging, science, and blatant self promotion.

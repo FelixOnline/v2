@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A select group of fashion obsessives are bringing fashion to the masses: Fashion Editor Saskia Verhagen explores the burgeoning online world of fashion blogging
 date: "2010-12-02 20:10:32 +0000"
-
-# Attributes from Felix Online V1
-id: "460"
-old_path: /fashion/460/the-rise-and-rise-of-the-fashion-blog-
+image: "http://felixonline.co.uk/img/upload/201012022008-ks607-thesarto.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/460/the-rise-and-rise-of-the-fashion-blog-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -23,12 +20,6 @@ authors:
  - stv07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022008-ks607-thesarto.jpg"
-image_caption: ""
 ---
 
 The fashion industry has always been deemed inaccessible, elitist and perhaps slightly indimidating by general consensus. It seems only natural, then, for people to start taking fashion into their own hands, and out of the perfectly manicured talons of the fashion editrixes at Vogue and the like. Such is the world of fashion blogging. Now very popular, just a few have gained a loyal following, and even fewer have earned endorsements from the heavy-hitters in the fashion world – PRs and designers alike – gaining entry into runway shows and press days alongside the very editors who have always held fashion at arms reach, on the page of a magazine, on the body of a supermodel.

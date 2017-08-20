@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Jeremy Hunt’s plans for junior doctor contracts will affect the care you receive
 date: "2015-11-19 22:44:33 +0000"
-
-# Attributes from Felix Online V1
-id: "5748"
-old_path: /comment/5748/this-is-everyones-fight
+image: "http://felixonline.co.uk/img/upload/201511192244-ygr12-hunt_2329078b.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5748/this-is-everyones-fight
-imported: true
 comments:
  - value: >
      Do you have a spam issue on this website; I also am a blogger, and I was wanting to know your situation; we have developed some nice procedures and we are looking to swap techniques with other folks, why not shoot me an e-mail if interested. <br>moncler baby jas roze maandag http://www.thibor.nl/?nl-moncler-baby-jas-roze-maandag-13501.html,Hey there! I know this is somewhat off topic but I was wondering which blog platform are you using for this website? I'm getting sick and tired of Wordpress because I've had issues with hackers and I'm looking at options for another platform. I would be fantastic if you could point me in the direction of a good platform. <br>woolrich eugene coat cos'猫 http://www.be-simple.it/?it-woolrich-eugene-coat-cos'猫-28696.html
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511192244-ygr12-hunt_2329078b.jpg"
-image_caption: ""
 ---
 
 I’m aware that the media and Facebook may have recently reached saturation with heartfelt pleas for help from the medic community. I have undoubtedly littered friends’ timelines with tearjerking videos, angry statistic-riddled rants and protest photos. However, Jeremy Hunt still refuses to listen and I believe you, the voting public and NHS patients, deserve to know what’s happening. I hope you might even join the debate.

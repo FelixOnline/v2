@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A review of Arthur C. Clarke's latest novel
 date: "2011-02-03 20:11:38 +0000"
-
-# Attributes from Felix Online V1
-id: "738"
-old_path: /science/738/the-fountains-of-paradise
+image: "http://felixonline.co.uk/img/upload/201102032009-ks607-fountain.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/738/the-fountains-of-paradise
-imported: true
 comments:
  - value: >
      - Sensuous. Glamorous. tantalizing. Mesmerizing. HOT. Yes, that is what every woman wants her imeags to portray and Tamara you captured all that in these imeags. WELL DONE! I think you would make my BBW physique be hot and you would bring out my sexy self.That is how confident i am in your abilities!,- Thank you so much, Elena. Miss D made it easy and I'm sure you will, too. I'm looking<a href="http://hemefii.com"> fwraord</a> to the day I get to photograph you in all your voluptuous divine glory! There's some dangerous curves ahead of me! Whoohoo!!
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102032009-ks607-fountain.jpg"
-image_caption: ""
 ---
 
 You might remember my review of Arthur C. Clarke’s Childhood’s End last term in the Arts section in which I announced it to be my favourite book. Since then I’ve had a chance to read some more of his work, which has cemented my opinion of him as one of history’s finest science fiction authors. This week I’d like to review, The Fountains of Paradise, the latest of his novels I’ve had the pleasure of reading.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Is loving the Royal Family a prerequisite for being British?
 date: "2011-05-06 08:39:50 +0100"
-
-# Attributes from Felix Online V1
-id: "1159"
-old_path: /comment/1159/how-to-be-british-apparently
+image: "http://felixonline.co.uk/img/upload/201105060939-felix-royal-wedding-london.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1159/how-to-be-british-apparently
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - rjd08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105060939-felix-royal-wedding-london.jpeg"
-image_caption: ""
 ---
 
 There was a wedding last Friday. One of slightly more importance than normal. Did you see it?

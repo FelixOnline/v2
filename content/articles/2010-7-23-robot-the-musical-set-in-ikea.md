@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Caz Knight gets her first taste of Improv, hidden in tunnels beneath Waterloo station
 date: "2010-07-23 10:47:50 +0100"
-
-# Attributes from Felix Online V1
-id: "153"
-old_path: /arts/153/robot-the-musical-set-in-ikea
+image: "http://felixonline.co.uk/img/upload/201007231139-ks607-tunnels.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/153/robot-the-musical-set-in-ikea
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201007231139-ks607-tunnels.jpg"
-image_caption: ""
 ---
 
 For 3 days, the bare bricked and musty tunnels under Waterloo station have been home to Slapdash – London’s first ever Improv festival. Improvisation, that is. Using nothing more than themselves, a guy on piano and a few shouted suggestions from the audience, a unique performance is simultaneously thought up and acted on the spot by a team of actors. Needless to say, what one sees is a one off occasion. Which means anything can go down. Be prepared to discard all previous preconceptions and experiences of the theatre.

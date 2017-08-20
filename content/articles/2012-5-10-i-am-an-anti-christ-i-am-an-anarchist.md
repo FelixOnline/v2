@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Plabon Saha tells of his encounter with Johnny Rotten
 date: "2012-05-10 20:22:03 +0100"
-
-# Attributes from Felix Online V1
-id: "2446"
-old_path: /music/2446/i-am-an-anti-christ-i-am-an-anarchist
+image: "http://felixonline.co.uk/img/upload/201205102157-felix-johnnyrottenglaremic.jpg"
+image_caption: "The world indeed moves in mysterious ways"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2446/i-am-an-anti-christ-i-am-an-anarchist
-imported: true
 comments:
  - value: >
      Here's PIL's new material from the EP they released recently. Could the editor possibly put this up as well? <br> <br>http://www.youtube.com/watch?v=gmu8iPLJ0-8,No problem!
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205102157-felix-johnnyrottenglaremic.jpg"
-image_caption: ""
 ---
 
 For anyone who knows about the history of punk music, they will instantly recognise the title as part of one of the most famous songs that went on to define the genre. In the 70’s the Sex Pistols, fronted by Johnny Rotten a.k.a John Lydon, started a revolution in the music scene with just one album. To this day music critics recognise that album as one of the most original pieces of work in the industry. I would not bore you with my praise for that album as I’m sure you hear enough of it from your parents (_Not sure what you imagine normal parents to be like, but you must have some seriously cool ones – Music Ed_). This is about one of the best nights I’ve had at Imperial, when I found Mr Rotten in Eastside bar having a pint with his friends on St. Patrick’s Day.

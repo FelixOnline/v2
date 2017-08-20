@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Some feel good reading for the weekend
 date: "2017-06-02 14:25:02 +0100"
-
-# Attributes from Felix Online V1
-id: "7004"
-old_path: /features/7004/the-election-and-the-nhs
+image: "http://felixonline.co.uk/img/upload/201706021624-felix-6127363514_d7529610b3_o (1).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/7004/the-election-and-the-nhs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +21,6 @@ authors:
  - danfaehndrich
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706021624-felix-6127363514_d7529610b3_o (1).jpg"
-image_caption: ""
 ---
 
 Since the surprise of 7th May 2015, the NHS has fallen into its darkest times since its inception. As a medical student, seeing my colleagues here and across the whole medical profession has, frankly, made becoming a doctor look the least appealing it’s looked since 14 year-old me decided it was the route I was going to take. And I’m not alone in thinking this: since 2014, applications for medical school have been in constant decline. Tahe most recent figures released showed that (from UK applicants) the number of students applying in 2016 compared to 2014 had fallen roughly 13.5%, with one of our fellow London medical schools, St George’s, offering clearing places for the last two years running.

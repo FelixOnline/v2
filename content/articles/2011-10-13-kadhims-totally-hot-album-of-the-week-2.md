@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A supremely (un)knowledgeable column about music
 date: "2011-10-13 23:40:33 +0100"
-
-# Attributes from Felix Online V1
-id: "1526"
-old_path: /music/1526/kadhims-totally-hot-album-of-the-week-2
+image: "http://felixonline.co.uk/img/upload/201110140040-felix-fatherson-holy-ghost-album-cover.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1526/kadhims-totally-hot-album-of-the-week-2
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110140040-felix-fatherson-holy-ghost-album-cover.jpg"
-image_caption: ""
 ---
 
 __Girls__

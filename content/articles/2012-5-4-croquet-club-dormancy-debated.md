@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Clubs and Societies Board decision leads to question of legitimacy
 date: "2012-05-04 00:47:06 +0100"
-
-# Attributes from Felix Online V1
-id: "2423"
-old_path: /news/2423/croquet-club-dormancy-debated
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2423/croquet-club-dormancy-debated
-imported: true
 comments:
  - value: >
      ...straight after being elected RCC Chair. Good luck RCC next year.,It should be noted that the content of this article is factually incorrect and unrepresentative of the truth. ,Thanks for pointing that out. Obviously croquet scandals are still in vogue, even four months on. People obviously weren't ready for the shocking and scintillating truth originally. Keep fighting for justice!,The problem is that the scandal is on going - and runs SO MUCH DEEPER. <br> <br>While raking muck over these petty non-compliances, Felix is tacitly complicit in the total COVER-UP of the widespread embezzlement that is STILL taking place among the Croquet Club elite - We're talking MILLION$. <br> <br>Until we can rely on something other than the Lame-Stream Student Media to uncover such corruption, the sheeple that make up most of the students will still be at the mercy of the greedy corporate interests that REALLY dominate the Croquet Club.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A Clubs and Societies Board (CSB) meeting on 27 February 2012 resulted in a decision to close the dormant Croquet Club along with 6 other clubs. According to Deputy President of Clubs and Societies (DPCS) Monya Zard’s “Clubs to Close” paper, the decision was on the grounds that the club had less than 20 members (3 members in fact) and had not completed the relevant documentation or training.

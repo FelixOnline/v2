@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Yung Nam Cheah breaks down the process of booking so you know what to expect
 date: "2015-02-03 14:18:12 +0000"
-
-# Attributes from Felix Online V1
-id: "5182"
-old_path: /travel/5182/is-buying-travel-deals-on-groupon-safe
+image: "http://felixonline.co.uk/img/upload/201502031418-ps3110-screen-shot-2015-02-03-at-14.17.51.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/5182/is-buying-travel-deals-on-groupon-safe
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -25,12 +22,6 @@ authors:
  - ync111
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502031418-ps3110-screen-shot-2015-02-03-at-14.17.51.png"
-image_caption: ""
 ---
 
 With Groupon becoming more and more universally well known, one can purchase virtually anything, from clothes to household appliances to restaurant deals, at a discounted price. However, a lot of people hesitate in the face of travel deals.

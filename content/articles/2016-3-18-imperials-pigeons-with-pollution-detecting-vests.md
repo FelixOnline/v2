@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The results are being tweeted at concerned citizens
 date: "2016-03-18 11:31:54 +0000"
-
-# Attributes from Felix Online V1
-id: "6051"
-old_path: /news/6051/imperials-pigeons-with-pollution-detecting-vests
+image: "http://felixonline.co.uk/img/upload/201603181131-felix-Screen Shot 2016-03-16 at 15.10.42.png"
+image_caption: "No, seriously, the pigeons are wearing vests."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6051/imperials-pigeons-with-pollution-detecting-vests
-imported: true
 comments:
  - value: >
      https://www.facebook.com/pigeonsoflondon/,nice going! <br>Runescape gold http://www.catedralrio.org.br/utfifa/2015/04/22/bts-video-–-easter-eggs-periments-with-runescape/,Even call it. <br>u4fifa https://disqus.com/by/u4fifa/,No one can do it better than you. <br>cheap nba mt coins pc supplier http://www.nba2k16store.com/nba-2k16/PC-2200,I do not have a clue ! <br>leading nba 2k mt pc seller http://www.nba2k16store.com/nba-2k16/PC-2200,No one can do it better than you. <br>u4fifa http://u4fifa.tumblr.com/,I do not know what you are saying <br>Albion Online Gold http://albiononline.gratisblog.biz/2016/05/20/albion-economy-the-role-of-currency/,How are you, good online site you have presently <br>nba 2k17 mt coins http://www.sigma-game.com/forum/discussion/35087/buy-nhl-17-coins-added-some-good
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603181131-felix-Screen Shot 2016-03-16 at 15.10.42.png"
-image_caption: ""
 ---
 
 Pigeons fitted with ultralight air-monitoring vests have been flying across London this week in an attempt to highlight the capital’s pollution problem.

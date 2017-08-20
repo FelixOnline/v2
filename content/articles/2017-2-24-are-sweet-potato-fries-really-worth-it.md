@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In a rare twist, they might actually taste better when they’re cold
 date: "2017-02-24 13:39:36 +0000"
-
-# Attributes from Felix Online V1
-id: "6808"
-old_path: /news/6808/are-sweet-potato-fries-really-worth-it
+image: "http://felixonline.co.uk/img/upload/201702241338-felix-fivesixeightlogo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6808/are-sweet-potato-fries-really-worth-it
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ea3211
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702241338-felix-fivesixeightlogo.jpg"
-image_caption: ""
 ---
 
 The Union has launched a new menu and is now a proud server of sweet potato fries. The new dish is another addition to the Union’s growing vegetarian and vegan options in support of Go Green Week (yes, sweet potato fries are vegan, we asked).

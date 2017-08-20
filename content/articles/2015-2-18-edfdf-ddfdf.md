@@ -4,17 +4,14 @@ title: >
 subtitle: >
   efjefkjdn fjkdfg dfdf ddfd
 date: "2015-02-18 15:49:35 +0000"
+image: "http://felixonline.co.uk/img/upload/201502181549-ps3110-cash.png"
 draft: true
-
-# Attributes from Felix Online V1
-id: "5271"
-old_path: /politics/5271/edfdf-ddfdf
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/5271/edfdf-ddfdf
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -25,12 +22,6 @@ authors:
  - jr2514
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502181549-ps3110-cash.png"
-image_caption: ""
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

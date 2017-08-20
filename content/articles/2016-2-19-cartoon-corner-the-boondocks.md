@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Our regular run down of animated flicks
 date: "2016-02-19 12:23:12 +0000"
-
-# Attributes from Felix Online V1
-id: "5944"
-old_path: /tv/5944/-cartoon-corner-the-boondocks
+image: "http://felixonline.co.uk/img/upload/201602191222-felix-tumblr_mt6jj9UTQa1rgam01o1_1280.jpg"
+image_caption: "Huey and Riley, partners in crime and brothers at odds. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5944/-cartoon-corner-the-boondocks
-imported: true
 comments:
  - value: >
      L8HkgB http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com,Space Horses, Katherine! Now there's a new idea! Lynn, I think the reason my bits of writing have survived may be because I was unreasonably secretive about them and hid them away at the bottom of drawers, etc. Anyway, I'm glad thery're still around, and I don't feel the need to burn them - unlike my journals: those are TRULY emLsrrasaing.biz, I know some of your childhood writing has survived! Poetry, too! :-))
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -26,12 +24,6 @@ authors:
  - sa8713
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602191222-felix-tumblr_mt6jj9UTQa1rgam01o1_1280.jpg"
-image_caption: ""
 ---
 
 Created by Aaron McGruder and based on the comic strip of the same name, The Boondocks is a show that takes a sharp and satirical look at American society with an emphasis on social issues, as well as icons like Oprah Winfrey and Barack Obama. It was controversial right from the start (as you can tell from the opening line) but it was able to address hot button issues in unconventionally humorous ways.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Yingwei Ouyang gives her perspective on her big night with ICSO
 date: "2015-02-20 00:16:07 +0000"
-
-# Attributes from Felix Online V1
-id: "5282"
-old_path: /cands/5282/crystals-and-concertos
+image: "http://felixonline.co.uk/img/upload/201502200016-ps3110-screen-shot-2015-02-20-at-00.15.43.png"
+image_caption: "The ICSO musicians"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5282/crystals-and-concertos
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -24,12 +22,6 @@ authors:
  - ps3110
  - yo113
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502200016-ps3110-screen-shot-2015-02-20-at-00.15.43.png"
-image_caption: ""
 ---
 
 It was the end of one of the last weeks of term; uni life was definitely hectic by that point, or at least it was for me. It was lab week, so although I was knackered from a long week of afternoons at the bench, Friday was exciting and rewarding. I had finally completed the third experiment of the term and obtained large, defined crystals. This seemed to bode well for the concert later that night, or perhaps it placed me in a better mood in advance of the performance. Going straight from labs to pre-concert rehearsal was quite a transition, but also a lovely way to celebrate the end of the week by doing something that I love, besides Chemistry!

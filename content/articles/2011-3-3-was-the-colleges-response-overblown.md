@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Victoria Druce takes a deeper look at the recent controversies involving online student content
 date: "2011-03-03 20:17:46 +0000"
-
-# Attributes from Felix Online V1
-id: "1006"
-old_path: /news/1006/was-the-colleges-response-overblown
+image: "http://felixonline.co.uk/img/upload/201103032015-ks607-wheresth.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1006/was-the-colleges-response-overblown
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - vd207
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103032015-ks607-wheresth.jpg"
-image_caption: ""
 ---
 
 Almost two weeks ago, [the College took down the Union server](http://felixonline.co.uk/news/863/college-pulls-plug-on-union-server/) in a move aimed at removing an article concerning the latest antics of the rugby club. After receiving a complaint from a member of the public and an accusation of libel, the College took steps to remove the allegedly offensive material (and the rest of the Union [clubs] website) from public access. This action by the College comes just weeks after [IC Radio was taken off the air](http://www.felixonline.co.uk/?article=727) following concerns over the content of a show. The seemingly radical reaction of the College to these recent events has pushed the issue of student media censorship into the limelight.

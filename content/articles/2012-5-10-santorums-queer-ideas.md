@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Rick Santorum... more queer than a strangely frothy mixture
 date: "2012-05-10 20:07:48 +0100"
-
-# Attributes from Felix Online V1
-id: "2442"
-old_path: /comment/2442/santorums-queer-ideas
+image: "http://felixonline.co.uk/img/upload/201205102107-pk1811-rick-santorum.jpg"
+image_caption: "Just be glad we didn’t put a picture of the Wiktionary definition up..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2442/santorums-queer-ideas
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +22,6 @@ authors:
  - jwk11
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205102107-pk1811-rick-santorum.jpg"
-image_caption: ""
 ---
 
 Those of you who aren’t following the United States presidential race may not be familiar with Rick Santorum. In order to save you time and limit my own personal biases, I will impartially copy and paste the Wiktionary definition for Santorum:

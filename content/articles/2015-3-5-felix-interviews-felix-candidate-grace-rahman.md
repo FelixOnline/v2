@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:48:28 +0000"
-
-# Attributes from Felix Online V1
-id: "5347"
-old_path: /comment/5347/felix-interviews-felix-candidate-grace-rahman
+image: "http://felixonline.co.uk/img/upload/201503052148-snb11-grace-headshot1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5347/felix-interviews-felix-candidate-grace-rahman
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - snb11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503052148-snb11-grace-headshot1.jpg"
-image_caption: ""
 ---
 
 __What made you run for this position?__

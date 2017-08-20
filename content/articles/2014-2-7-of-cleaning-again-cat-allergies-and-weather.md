@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Soooo, Imperial’s reseach on cat immunotherapy lead to the creation of a startup and more recently an IPO worth £175m during an upcoming stock market float (see page 3)?
 date: "2014-02-07 05:12:05 +0000"
-
-# Attributes from Felix Online V1
-id: "4363"
-old_path: /comment/4363/of-cleaning-again-cat-allergies-and-weather
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4363/of-cleaning-again-cat-allergies-and-weather
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Soooo, Imperial’s reseach on cat immunotherapy lead to the creation of a startup and more recently an IPO worth £175m during an upcoming stock market float (see page 3)?

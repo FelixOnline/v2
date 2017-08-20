@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The incident happened on Cornwall Gardens
 date: "2016-03-04 11:23:04 +0000"
-
-# Attributes from Felix Online V1
-id: "5994"
-old_path: /news/5994/violent-gloucester-road-mugging-video-released
+image: "http://felixonline.co.uk/img/upload/201603041159-felix-11]police.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5994/violent-gloucester-road-mugging-video-released
-imported: true
 comments:
  - value: >
      Wow because this is great work! Congrats and keep it up <br>Madden nfl 17 http://queena.blogfree.biz/note/114692/cheap-fifa-17-points-for-the.html,Wow because this is great work! Congrats and keep it up <br>Madden nfl 17 http://queena.blogfree.biz/note/114692/cheap-fifa-17-points-for-the.html,Wow because this is great work! Congrats and keep it up <br>Madden nfl 17 http://queena.blogfree.biz/note/114692/cheap-fifa-17-points-for-the.html,Astonishingly individual friendly site. Great info available on couple of clicks on <br>NFL 17 coins http://www.dreamblog.net/free/arvin1010/index.php?title=buy-nba-2k17-vc-of-the-specials&amp;more=1&amp;c=1&amp;tb=1&amp;pb=1,Astonishingly individual friendly site. Great info available on couple of clicks on <br>NFL 17 coins http://www.dreamblog.net/free/arvin1010/index.php?title=buy-nba-2k17-vc-of-the-specials&amp;more=1&amp;c=1&amp;tb=1&amp;pb=1,Astonishingly individual friendly site. Great info available on couple of clicks on <br>NFL 17 coins http://www.dreamblog.net/free/arvin1010/index.php?title=buy-nba-2k17-vc-of-the-s
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - mjj15
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603041159-felix-11]police.jpg"
-image_caption: ""
 ---
 
 CCTV of a violent mugging that took place last month near Gloucester Road has been released by the Metropolitan Police, in the hopes that the perpetrators will be found.

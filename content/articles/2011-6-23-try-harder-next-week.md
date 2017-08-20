@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Four years of Felix
 date: "2011-06-23 20:41:03 +0100"
-
-# Attributes from Felix Online V1
-id: "1426"
-old_path: /comment/1426/try-harder-next-week
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1426/try-harder-next-week
-imported: true
 comments:
  - value: >
      Well said!!,Kadhim, you are the star of your generation in the family, too young to talk about the next generation!
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I hope that you will excuse me for writing in the first person. This is the last article I will ever write as Editor of this publication and, as such, it is quite a significant moment for me.

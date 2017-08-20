@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Michael Krestas finds reason to celebrate with the release of Wrecking Ball
 date: "2012-03-11 16:15:17 +0000"
-
-# Attributes from Felix Online V1
-id: "2339"
-old_path: /music/2339/is-springsteen-still-the-boss
+image: "http://felixonline.co.uk/img/upload/201203111614-mc4509-bruce.jpg"
+image_caption: "Bruce wants to know why you haven’t bought the album. It was out March 5th!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2339/is-springsteen-still-the-boss
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +23,6 @@ authors:
  - mk4410
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203111614-mc4509-bruce.jpg"
-image_caption: ""
 ---
 
 __Bruce Springsteen__ is ﬁnally back. After the unfortunate death of his long-time friend and music companion, saxophonist Clarence Clemons, the Boss has been preparing for the release of his 17th studio album titled _Wrecking Ball_ packed with a tour across the US and Europe starting late March.

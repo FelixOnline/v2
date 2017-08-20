@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Frog proteins could help treat cancer, diabetes, stroke and transplant patients
 date: "2011-06-12 15:46:36 +0100"
-
-# Attributes from Felix Online V1
-id: "1362"
-old_path: /science/1362/kermit-ted-to-helping-out-
+image: "http://felixonline.co.uk/img/upload/201106121645-felix-frog.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1362/kermit-ted-to-helping-out-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - ch1810
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106121645-felix-frog.jpg"
-image_caption: ""
 ---
 
 [Scientists at Queen’s University Belfast](http://www.qub.ac.uk/home/TheUniversity/GeneralServices/News/PressReleases/Title,238595,en.html) have discovered proteins in frog skins that could be used to treat cancer, diabetes, stroke and transplant patients by regulating the growth of blood vessels.

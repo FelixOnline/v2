@@ -4,20 +4,17 @@ title: >
 subtitle: >
   Laura Kor finds the link between bees, pesticides, and people waving dusters at trees
 date: "2013-05-16 18:09:02 +0100"
-
-# Attributes from Felix Online V1
-id: "3578"
-old_path: /science/3578/not-the-bees-not-the-bees-neonicotinoid-ban-comes-with-a-sting
+image: "http://felixonline.co.uk/img/upload/201305161909-tna08-tumblr_m1zlh4cujl1r8czhco1_400.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3578/not-the-bees-not-the-bees-neonicotinoid-ban-comes-with-a-sting
-imported: true
 comments:
  - value: >
      Since no one is 100% sure what is causing this bee decline it only makes sense to start eliminating some of the causes and the best place to start is on the man made ones like neonicotinoids. Tonio Borg is exactly right.,It seems like common sense to preserve the source of crop pollination. Thanks Laura for highlighting the impact
  - value: >
      value of bees.
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -30,12 +27,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305161909-tna08-tumblr_m1zlh4cujl1r8czhco1_400.jpg"
-image_caption: ""
 ---
 
 The European Union has voted in favour of a ban on neonicotinoids, the most widely used pesticide in the world. However, with fierce behind-the-scenes campaigns and passionate lobbying from all parties involved, this result was by no means easily decided. So why have neonicotinoids been banned? How much will this help honey bee populations? And why does it matter to us?

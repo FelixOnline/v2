@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Kicking off a new year, Alice Yang shows us the style resolutions to adopt for life, not just for novelty
 date: "2012-01-12 19:54:04 +0000"
-
-# Attributes from Felix Online V1
-id: "1963"
-old_path: /fashion/1963/fashion-faux-pas-to-avoid
+image: "http://felixonline.co.uk/img/upload/201201131004-felix-uggs.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/1963/fashion-faux-pas-to-avoid
-imported: true
 comments:
  - value: >
      Dear Shruti, <br> <br>Thanks for the comment and expressing your views, however although your statement that Uggs can be worn with everything may be true, it is only in the physical sense and not in a fashionable related sense. For example, one could say that trainers or walking boots could be worn with everything - a literally true statement, however that does not mean they look good and it definitely does not mean they are the recommended footwear for any stylish outfit. <br> <br>If you find heeled or wedged boots uncomfortable, you could perhaps look towards flat boots in leather, or if you prefer something softer, in suede - most high street stores stock a good range in very reasonable prices. <br> <br>As for Uggs being worn for centuries, that is a statement I can not agree with and God forbid that it does prove to be true. <br> <br>Alice,love this, totally agree about the Uggs, i have a fake pair from shoe zone i wore during the snow last year because i didn't want my nice boots being ruined, other than that, they are just gl
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201131004-felix-uggs.jpg"
-image_caption: ""
 ---
 
 ###  GIRLS: Bin those Uggs

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rajat Jain writes about Johnny Foreigner as we approach the New Year
 date: "2011-12-08 21:09:06 +0000"
-
-# Attributes from Felix Online V1
-id: "1930"
-old_path: /politics/1930/recent-elections-and-scandals
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1930/recent-elections-and-scandals
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +21,6 @@ authors:
  - rj408
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Russian Election__

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial has made savings of over £70,000 in the past two years due to ceased subscriptions
 date: "2011-06-16 19:08:04 +0100"
-
-# Attributes from Felix Online V1
-id: "1380"
-old_path: /news/1380/management-board-took-decision-to-leave-case
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1380/management-board-took-decision-to-leave-case
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It has emerged that the decision to [cut Imperial’s £3,000 per year membership](http://felixonline.co.uk/news/1291/imperial-cuts-ties-with-case/) of the Campaign for Science and Engineering (CaSE) was made by the College’s [Management Board](http://www3.imperial.ac.uk/secretariat/governance/committees/managementboard).

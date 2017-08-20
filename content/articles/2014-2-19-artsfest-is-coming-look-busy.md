@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Yes the biggest event of the union calendar has arrived. And I don’t mean the Big Elections. ArtsFest sees our scientists’ paradise turned over to our Artistic under culture for a week of something different.
 date: "2014-02-19 17:25:16 +0000"
-
-# Attributes from Felix Online V1
-id: "4403"
-old_path: /arts/4403/artsfest-is-coming-look-busy
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4403/artsfest-is-coming-look-busy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - as906
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Yes the biggest event of the union calendar has arrived. And I don’t mean the Big Elections. ArtsFest sees our scientists’ paradise turned over to our Artistic under culture for a week of something different. The festivities this year include lunchtime concerts, an art exhibit, singing, dancing, comedy, colour, noise and fun. This will be at least the 5th ArtsFest, records go back to at least 2010; a time where, as far as ArtsFest was concerned, even the internet didn’t exist. But it’s been growing and learning every year. In my tenure as Arts and Ents chair I’ve already been impressed by so many talented clubs and societies performances and I really hope as many people as possible will seek out this showcase of what’s on offer.

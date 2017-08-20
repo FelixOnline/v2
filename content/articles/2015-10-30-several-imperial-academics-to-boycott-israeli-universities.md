@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The letter was signed by 343 lecturers, including three from Imperial
 date: "2015-10-30 12:26:54 +0000"
-
-# Attributes from Felix Online V1
-id: "5681"
-old_path: /news/5681/several-imperial-academics-to-boycott-israeli-universities
+image: "http://felixonline.co.uk/img/upload/201510301226-ygr12-guardianadvert4palestine-finalv2-page-001.jpg"
+image_caption: "The advert itself"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5681/several-imperial-academics-to-boycott-israeli-universities
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +21,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510301226-ygr12-guardianadvert4palestine-finalv2-page-001.jpg"
-image_caption: ""
 ---
 
 On Tuesday, a letter pledging an ‘academic boycott’ of Israeli universities was published in The Guardian, signed by 343 lecturers including three from Imperial.

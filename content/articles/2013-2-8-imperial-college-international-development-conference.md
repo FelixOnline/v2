@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Dhanvi Bosamia introduces you to the inaugural event
 date: "2013-02-08 00:43:01 +0000"
-
-# Attributes from Felix Online V1
-id: "3277"
-old_path: /news/3277/imperial-college-international-development-conference
+image: "http://felixonline.co.uk/img/upload/201302080043-tna08-idc-poster.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3277/imperial-college-international-development-conference
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - db1809
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302080043-tna08-idc-poster.jpg"
-image_caption: ""
 ---
 
 Imperial Hub will be bringing to you Imperial College’s inaugural International Development Conference (IC IDC) on 23rd February 2013. The conference will bring together leading thinkers in academia, government and global development to consider “The Role of Science and Technology in International Development”.

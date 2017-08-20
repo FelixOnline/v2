@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Experiment between staff and PhD students breaks down
 date: "2011-10-27 20:22:53 +0100"
-
-# Attributes from Felix Online V1
-id: "1610"
-old_path: /news/1610/phd-coffee-row-in-mechanical-engineering-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1610/phd-coffee-row-in-mechanical-engineering-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - skd09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 An experiment in the [Mechanical Engineering department](http://www3.imperial.ac.uk/mechanicalengineering) whereby PhD students have been allowed to share the academic common room (701) with staff members has ended after six months – with the eviction of students. In an email sent to the students involved, [Mike Lowe, Chair of the Space Committee](http://www3.imperial.ac.uk/people/m.lowe), listed a combination of contributing reasons why “the facility is no longer working out to be convenient.”

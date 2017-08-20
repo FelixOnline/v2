@@ -4,18 +4,15 @@ title: >
 subtitle: >
   FELIX gets that fizzy feeling
 date: "2016-01-29 09:33:51 +0000"
-
-# Attributes from Felix Online V1
-id: "5849"
-old_path: /music/5849/sophie-sweet-like-whipped-cream
+image: "http://felixonline.co.uk/img/upload/201602011702-cet13-sophie1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5849/sophie-sweet-like-whipped-cream
-imported: true
 comments:
  - value: >
      Many thanks for sharing this great internet site <br>fifa 17 points http://bc24team.com/forum/topic/5206,Many thanks for sharing this great internet site <br>fifa 17 points http://bc24team.com/forum/topic/5206
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +23,6 @@ authors:
  - cet13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602011702-cet13-sophie1.jpg"
-image_caption: ""
 ---
 
 Over the last few years, **SOPHIE** (the stage name of Samuel Long) has played many times in London and around the world. I’ve been lucky enough to see him twice. This time he played at Village Underground, one of London’s most hip venues. With each successive live performance he has debuted new material to the audience and each time a new song is debuted the reaction is the same: pure unadulterated joy.

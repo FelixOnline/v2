@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Aperture Science CEO Cave Johnson on why you should hand over your money
 date: "2011-05-06 14:59:38 +0100"
-
-# Attributes from Felix Online V1
-id: "1173"
-old_path: /games/1173/portal-2-like-portal-but-better-dummy
+image: "http://felixonline.co.uk/img/upload/201105061559-felix-games_portal2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1173/portal-2-like-portal-but-better-dummy
-imported: true
 comments:
  - value: >
      Excellent idea for an article, and a great way to differentiate from all the other Portal 2 write-ups. Grand!,Sonuds great to me BWTHDIK,DjHGSh <a href="http://bwvftvnstetm.com/">bwvftvnstetm</a>
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -28,12 +25,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105061559-felix-games_portal2.jpg"
-image_caption: ""
 ---
 
 Hello Felix readers, Cave Johnson here, founder and CEO of [Aperture Science](http://half-life.wikia.com/wiki/Aperture_Science). Now I’m sure you’re all wondering, “Cave, why are you writing about _Portal 2_? Why are you breaking the fourth wall?” I’ll tell you why, it’s because I’m Cave Johnson and I don’t let silly little things like rules and regulations get in MY way. I’ll do whatever I damn well please and damn the consequences.

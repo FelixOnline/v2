@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Simon Worthington chats to Imperial alumni James Fairbairn about the gaming industry
 date: "2011-05-27 13:36:16 +0100"
-
-# Attributes from Felix Online V1
-id: "1271"
-old_path: /games/1271/game-2011-james-fairbairn-from-media-molecule
+image: "http://felixonline.co.uk/img/upload/201105271436-felix-dsc01266resized.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1271/game-2011-james-fairbairn-from-media-molecule
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -25,12 +22,6 @@ authors:
  - sjw209
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105271436-felix-dsc01266resized.jpg"
-image_caption: ""
 ---
 
 __What did you study at Imperial?__

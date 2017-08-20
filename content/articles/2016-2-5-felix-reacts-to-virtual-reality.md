@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The future is here and you’ll look like a fool wearing it
 date: "2016-02-05 12:42:05 +0000"
-
-# Attributes from Felix Online V1
-id: "5881"
-old_path: /games/5881/felix-reacts-to-virtual-reality
+image: "http://felixonline.co.uk/img/upload/201602051241-felix-IMG_0018.JPG"
+image_caption: "Indira the Arts Editor wonders round a virtual gallery."
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/5881/felix-reacts-to-virtual-reality
-imported: true
 comments:
  - value: >
      Kick the tires and light the fires, problem ofiflialcy solved!,Kick the tires and light the fires, problem ofiflialcy solved!,Kick the tires and light the fires, problem ofiflialcy solved!,Kick the tires and light the fires, problem ofiflialcy solved!,Kick the tires and light the fires, problem ofiflialcy solved!,Kick the tires and light the fires, problem ofiflialcy solved!
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -32,12 +30,6 @@ authors:
  - sa8713
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602051241-felix-IMG_0018.JPG"
-image_caption: ""
 ---
 
 The year of virtual reality is finally upon us. This week, the FELIX team tried Gear VR, Samsung’s mobile virtual reality headset.

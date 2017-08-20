@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Trauma and Science come together to make new art
 date: "2011-12-08 21:05:17 +0000"
-
-# Attributes from Felix Online V1
-id: "1929"
-old_path: /arts/1929/trauma-on-chiltern-street
+image: "http://felixonline.co.uk/img/upload/201112082105-pk1811-luke.jpg"
+image_caption: "Luke Jerram, T4 Bascteriophage, Glass"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1929/trauma-on-chiltern-street
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - rm2410
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082105-pk1811-luke.jpg"
-image_caption: ""
 ---
 
 _Trauma,_[__GV Art__](http://www.gvart.co.uk/)’s new science-inspired exhibition revolves around the different manifestations of trauma. The exhibition explores physical and biological trauma, revealing the effect they have on those who suffer from them and investigating our own personal perception of them.

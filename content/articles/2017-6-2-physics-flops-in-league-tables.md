@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Oh how the mighty have fallen. NOT
 date: "2017-06-02 12:28:42 +0100"
-
-# Attributes from Felix Online V1
-id: "6983"
-old_path: /news/6983/physics-flops-in-league-tables
+image: "http://felixonline.co.uk/img/upload/201706021428-felix-Screen Shot 2017-06-02 at 14.28.04.png"
+image_caption: "ouch"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6983/physics-flops-in-league-tables
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - jmw216
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706021428-felix-Screen Shot 2017-06-02 at 14.28.04.png"
-image_caption: ""
 ---
 
 Imperial is regularly declared one of the best universities in the world. The latest Guardian university league tables reaffirms this, placing us in joint 6th place overall. Imperial ranked top in Earth and Marine Sciences, Civil Engineering, Electronic and Electrical Engineering, and Engineering (general).

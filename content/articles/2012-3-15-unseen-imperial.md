@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Anonymous accounts of student experiences
 date: "2012-03-15 21:27:56 +0000"
-
-# Attributes from Felix Online V1
-id: "2384"
-old_path: /news/2384/unseen-imperial-
+image: "http://felixonline.co.uk/img/upload/201203152127-pk1811-frayed_rope.jpg"
+image_caption: "Email icu-disabilities@imperial.ac.uk if you would like to share your anonymous experiences of topic"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2384/unseen-imperial-
-imported: true
 comments:
  - value: >
      This is a really great idea, almost an antidote to all of Felix's recent failures. Hopefully it will go some way to reducing stigma about mental health issues and others, particularly if some people share their stories with their names attached. <br> <br>Thank you to all the anonymous contributors for their bravery; hope you got something out of putting into words your experiences.,One of the best Felix articles I've read. We should definitely be doing more to destigmatise mental illness and this is a big push in that direction - keep it up!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152127-pk1811-frayed_rope.jpg"
-image_caption: ""
 ---
 
 _There are some aspects of our lives that we just don’t talk about. This makes it easy to think that we’re alone in our experiences, when in fact, we’re probably not. Last week the Union asked the student body to submit anonymous accounts of their experiences of mental health. Sincere thanks to everyone who took part – here are the responses:_

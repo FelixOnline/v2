@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In ten years time a doctor may no longer be prodding around inside you
 date: "2013-05-01 19:16:37 +0100"
-
-# Attributes from Felix Online V1
-id: "3520"
-old_path: /science/3520/intelligent-robots-to-take-over-the-operating-theatre-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3520/intelligent-robots-to-take-over-the-operating-theatre-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Would you trust a robot to operate on your brain? Why not? Robotic neurosurgery can provide a less painful, less dangerous and less invasive alternative to traditional open methods.

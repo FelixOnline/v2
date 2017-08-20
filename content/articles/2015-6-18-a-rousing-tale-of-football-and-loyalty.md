@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Red Lion may or may not refer to the football club
 date: "2015-06-18 21:18:02 +0100"
-
-# Attributes from Felix Online V1
-id: "5638"
-old_path: /arts/5638/a-rousing-tale-of-football-and-loyalty
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5638/a-rousing-tale-of-football-and-loyalty
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - jyg11
  - ps5714
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 To start with, just to avoid confusion – _The Red Lion_ is in and of itself not a humorous play. Certain scenes were found particularly funny by the audience – perhaps partly because laughing prevents them from thinking too deeply about the situation, and partly because those scenes were meant to be funny; but the play itself has a deadly serious message.

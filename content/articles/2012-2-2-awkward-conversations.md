@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Plumbing the depths of society and swimming
 date: "2012-02-02 23:54:50 +0000"
-
-# Attributes from Felix Online V1
-id: "2116"
-old_path: /comment/2116/awkward-conversations
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2116/awkward-conversations
-imported: true
 comments:
  - value: >
      க , ம ணவன , வ க க உலகம , ச லம த வ , வ க , எப ப ட .., ப ண ட ச ச ர வல ப ப , க ழந த நல மர த த வன !, ச .ப .ச ந த ல க ம ர , SUREஷ (பழன ய ல ர ந த ), தம ழ வ ச - Prakash, ய வ ய ஸ (ய க ), Ananthi (அன ப டன ஆனந த ), ப ரஷ , ந .மண வண ணன , அர ண ப ரச த , Speed Master, பன ன க க ட ட ர ம ச ம , ம.த .ச த , ஜ .ஜ , ச ட ட க க ரன , ட ல ப , ஜ ல தண ண - ய க ஷ , இரவ வ னம , dineshkumar, Nirmal, ஹ ஜ ம ஹ த ன , dr sueenl krishnan, எம அப த ல க தர , Jana, ரஹ ம கஸ ல , ச வக ம ர , Kanchana Radhakrishnan, ச ங க வ , அஞ ச ச ங கம , கல ந சன , Vinu, இளம த யவன , ஜ ...வர க க க ம கர த த கள க க ம நன ற நண பர கள .
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Now I’m not really one to feel self-conscious. If we’re being brutally honest here, I actually quite like getting attention – a hangover from my Mum never looking at how high I was going. Recent experience, however, has taught me that I have boundaries – lines that should not, under any circumstances, be crossed.

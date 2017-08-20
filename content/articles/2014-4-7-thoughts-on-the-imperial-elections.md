@@ -4,16 +4,13 @@ title: >
 subtitle: >
   I must have manifestos on the brain because after three weeks writing about a certain famous Communist one, I turn to our own election manifestos. Voting has occasioned the re-emergence of some long dormant reflections, recounted here.
 date: "2014-04-07 13:02:11 +0100"
-
-# Attributes from Felix Online V1
-id: "4529"
-old_path: /comment/4529/thoughts-on-the-imperial-elections
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4529/thoughts-on-the-imperial-elections
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - ck2513
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I must have manifestos on the brain because after three weeks writing about a certain famous Communist one, I turn to our own election manifestos. Voting has occasioned the re-emergence of some long dormant reflections, recounted here.

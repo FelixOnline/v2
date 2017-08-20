@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Chris Self quizzes Mindy Lee, curator of Imperial’s Blyth Gallery
 date: "2010-10-10 15:21:01 +0100"
-
-# Attributes from Felix Online V1
-id: "187"
-old_path: /arts/187/discovering-art-at-imperial
+image: "http://felixonline.co.uk/img/upload/201104182008-felix-mindy_lee_02.jpg"
+image_caption: "Mindy Lee has curated the Blyth Gallery for six years"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/187/discovering-art-at-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104182008-felix-mindy_lee_02.jpg"
-image_caption: ""
 ---
 
 As the current Joint President of Imperial College’s fine arts society ‘Leonardo’, I am frequently in touch with some of those more creative individuals who wash up from the proverbial sea of scientists that form the basis of this university. These are the people who tire from time to time of the constant prodding, poking and general abuse given to the fabric of reality. Some of these people, however, see it as a full-time job to give the fabric of reality a bit of a miss and live in a world without boundaries or rules, sticking with just the imagination.

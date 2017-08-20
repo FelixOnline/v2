@@ -4,16 +4,13 @@ title: >
 subtitle: >
    The real fun is in seeing the different characters interact
 date: "2016-12-09 15:45:49 +0000"
-
-# Attributes from Felix Online V1
-id: "6580"
-old_path: /tv/6580/invasion
+image: "http://felixonline.co.uk/img/upload/201612091545-felix-legends-of-tomorrow-invasion-crossover-dc-tv-justice-league-asse-213819-1280x0.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6580/invasion
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - sa8713
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612091545-felix-legends-of-tomorrow-invasion-crossover-dc-tv-justice-league-asse-213819-1280x0.jpg"
-image_caption: ""
 ---
 
 Having four shows set in a shared universe and on the same channel meant a crossover was inevitable. It was certainly ambitious, especially on a TV network budget, but I’m glad to say they were able to pull it off.

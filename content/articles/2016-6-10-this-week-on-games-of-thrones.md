@@ -4,16 +4,14 @@ title: >
 subtitle: >
   It’s season six, episode seven
 date: "2016-06-10 08:35:17 +0100"
-
-# Attributes from Felix Online V1
-id: "6265"
-old_path: /tv/6265/this-week-on-games-of-thrones
+image: "http://felixonline.co.uk/img/upload/201606101034-felix-ep57-ss05-1280.jpg"
+image_caption: "Smug-face Margery is back."
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6265/this-week-on-games-of-thrones
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - hjw13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606101034-felix-ep57-ss05-1280.jpg"
-image_caption: ""
 ---
 
 A big reveal this episode, hope you’re ready to board the hype train.

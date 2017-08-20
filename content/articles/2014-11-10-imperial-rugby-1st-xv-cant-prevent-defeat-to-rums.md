@@ -4,16 +4,13 @@ title: >
 subtitle: >
   UCL vs ICURFC doesn't end too well for our boys
 date: "2014-11-10 22:04:29 +0000"
-
-# Attributes from Felix Online V1
-id: "4835"
-old_path: /sport/4835/imperial-rugby-1st-xv-cant-prevent-defeat-to-rums
+image: "http://felixonline.co.uk/img/upload/201411102204-ps3110-crotch%20stretch%20icurfc.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4835/imperial-rugby-1st-xv-cant-prevent-defeat-to-rums
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - jb2013
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102204-ps3110-crotch%20stretch%20icurfc.jpg"
-image_caption: ""
 ---
 
 The unbeaten ICURFC boys proudly journeyed all the way out to North London to challenge the medics of UCL – officially the RUMS rugby club – in what was sure to be a crucial, possibly title-deciding fixture.

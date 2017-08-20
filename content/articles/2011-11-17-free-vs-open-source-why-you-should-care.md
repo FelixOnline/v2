@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sanchit Sharma on why ‘Free’ is more than you expect
 date: "2011-11-17 21:38:11 +0000"
-
-# Attributes from Felix Online V1
-id: "1782"
-old_path: /tech/1782/free-vs-open-source-why-you-should-care
+image: "http://felixonline.co.uk/img/upload/201111172137-pk1811-press_richard_stallman2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/1782/free-vs-open-source-why-you-should-care
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - pk1811
  - ss9011
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172137-pk1811-press_richard_stallman2.jpg"
-image_caption: ""
 ---
 
 I recently had the opportunity to attend a talk by Richard Stallman, founder of the Free Software Foundation, and a strong Free software advocate. He spoke on Free software, and the rights of us all as users of software, and in the process he brought something to my attention.

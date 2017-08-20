@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Cameron could learn from Irish PM’s collapsed coalition
 date: "2011-02-03 20:15:25 +0000"
-
-# Attributes from Felix Online V1
-id: "740"
-old_path: /politics/740/cowen-fecks-off
+image: "http://felixonline.co.uk/img/upload/201102032011-nm1010-amamamma.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/740/cowen-fecks-off
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102032011-nm1010-amamamma.jpg"
-image_caption: ""
 ---
 
 While Ireland’s media reports on the in-fighting and dithering of its main parties, the Irish people remain focused on the forthcoming general election - a long-awaited opportunity to choose the politicians they believe to be most capable of managing the greatest crisis in the state’s short history.

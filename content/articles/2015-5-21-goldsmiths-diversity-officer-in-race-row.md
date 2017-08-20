@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jonathan Masters is on the case as officer lands herself in hot water
 date: "2015-05-21 20:06:28 +0100"
-
-# Attributes from Felix Online V1
-id: "5547"
-old_path: /news/5547/goldsmiths-diversity-officer-in-race-row
+image: "http://felixonline.co.uk/img/upload/201505212105-kmw13-screen-shot-2015-05-21-at-18.52.00.png"
+image_caption: "Diversity Officer Ms Mustafa shown here taking her job very seriously"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5547/goldsmiths-diversity-officer-in-race-row
-imported: true
 comments:
  - value: >
      cheap fit flops <br>fitflops australia sale http://australiafitflops.iemiller.net/,christian louboutin peep toes <br>christian louboutin cheapest http://canadachristianlouboutinoutlet.blogspot.com/,daffodile christian louboutin <br>christian louboutin online outlet http://canadachristianlouboutinoutlet.blogspot.com/,You've gotten probably the greatest online sites <br>nba 2k16 mt australia http://beverly815.inube.com/blog/4957464/2k16-mt-xbox360-red-blinking/,Good day, awesome online site you possess in here <br>nfl 17 http://www.photonlounge.com/post/69996/#p69996
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - kmw13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505212105-kmw13-screen-shot-2015-05-21-at-18.52.00.png"
-image_caption: ""
 ---
 
 A petition has been launched to remove Bahara Mustafa, the current Diversity officer for Goldsmiths University, from her position following a recent tweet featuring the inflammatory hashtag “Kill all white men”.

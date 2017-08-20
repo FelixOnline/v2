@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-06-03 09:10:27 +0100"
-
-# Attributes from Felix Online V1
-id: "6233"
-old_path: /science/6233/science-whats-good
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6233/science-whats-good
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - ea3211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 16 and not pregnant

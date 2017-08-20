@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A modern hard SF classic
 date: "2012-05-03 18:42:08 +0100"
-
-# Attributes from Felix Online V1
-id: "2416"
-old_path: /books/2416/alastair-reynolds-pushing-ice
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2416/alastair-reynolds-pushing-ice
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -23,12 +20,6 @@ authors:
  - ams111
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 While hard SF writers such as Asimov are some of the best known names in science fiction I feel that the sub-genre has been somewhat neglected of late. There are of course, several exceptions, some of the most notable of which have to be the works of Alastair Reynolds.

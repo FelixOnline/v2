@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Helen Pennington with a meaty (groan!) review
 date: "2013-10-12 19:57:07 +0100"
-
-# Attributes from Felix Online V1
-id: "3861"
-old_path: /food/3861/prime-meat-soc-meet
+image: "http://felixonline.co.uk/img/upload/201310122056-jal08-food_green_door.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3861/prime-meat-soc-meet
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - hgp08
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310122056-jal08-food_green_door.jpg"
-image_caption: ""
 ---
 
 On Tuesday Oct 1, Meat Soc held its primary trip this academic year to the Green Door Steakhouse, on Gloucester Road. It was great to meat new members, and to ketchup with some of our older ones. We felt that we should begin in style, dining on really good food.

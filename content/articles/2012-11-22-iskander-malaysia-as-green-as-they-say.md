@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fiona Hartley explores how green a city will actually be. Can the hopes be true? Do we have a trendsetter(/badass) on our hands?
 date: "2012-11-22 23:20:34 +0000"
-
-# Attributes from Felix Online V1
-id: "2946"
-old_path: /politics/2946/iskander-malaysia--as-green-as-they-say
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2946/iskander-malaysia--as-green-as-they-say
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - frh10
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 You don’t have to be an urban planner or an environmentalist to recognise that continued urbanisation alongside green living is the future of the planet. I’m certainly not. So we might as well do it right by considering the environmental implications of new urban development projects, and any scheme that does this will get at least one big green tick in my book.

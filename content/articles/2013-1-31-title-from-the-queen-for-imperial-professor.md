@@ -4,18 +4,15 @@ title: >
 subtitle: >
   One of only twelve in the UK
 date: "2013-01-31 22:34:04 +0000"
-
-# Attributes from Felix Online V1
-id: "3198"
-old_path: /news/3198/title-from-the-queen-for-imperial-professor
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3198/title-from-the-queen-for-imperial-professor
-imported: true
 comments:
  - value: >
      What is this "Department of Engineering" and why have I never heard of it? ;),Well done to Professor Toumazou. <br> <br>If anyone has ever wondered when Our Sovereign Lady last visited the Imperial College of Science, Technology and Medicine, there is a brief clip on the internet from the day when she Most Graciously granted us a Royal Charter. <br> <br>http://www.youtube.com/watch?v=0MkLcsg8SRA <br> <br>Hopefully She will visit again soon.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imperial College London’s Faculty of Engineering has been awarded a rare honour from Her Majesty the Queen to mark the Diamond Jubilee. The title is Regius Professor, and only two have been awarded in the past 100 years.

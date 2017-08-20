@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tessa Davey teaches you how to look like you know what you’re talking about, without any of the pesky consequences of expressing an opinion.
 date: "2016-10-03 18:47:19 +0100"
-
-# Attributes from Felix Online V1
-id: "6305"
-old_path: /comment/6305/how-to-blag-your-way-through-politics
+image: "http://felixonline.co.uk/img/upload/201610032046-felix-29726247376_386e18525f_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6305/how-to-blag-your-way-through-politics
-imported: true
 comments:
  - value: >
      If the Palestinians had stopped shooting rockets over the border then complaining when Israel defends itself, we could have seen peace in the region decades ago.,If the Palestinians had stopped shooting rockets over the border then complaining when Israel defends itself, we could have seen peace in the region decades ago.,Human Rights Watch in their World Report 2016 disagrees with you.<br>"Israel continued in 2015 to enforce severe and discriminatory restrictions on Palestinians’ human rights, and to build unlawful settlements in and facilitate the transfer of Israeli civilians to the occupied West Bank. Israeli authorities also arbitrarily detained peaceful Palestinian demonstrators, including children.",Human Rights Watch in their World Report 2016 disagrees with you.<br>"Israel continued in 2015 to enforce severe and discriminatory restrictions on Palestinians’ human rights, and to build unlawful settlements in and facilitate the transfer of Israeli civilians to the occupied West Bank. Israeli authorities
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - tad08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610032046-felix-29726247376_386e18525f_o.jpg"
-image_caption: ""
 ---
 
 Are you more _won’t_ than _woke_ when it comes to talking politics? Do you despair at any mention of David Cameron, tremble at the thought of Theresa May, or cower away from Corbyn?

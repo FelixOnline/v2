@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The white crystalline powder that really drives us mad
 date: "2017-02-03 18:13:22 +0000"
-
-# Attributes from Felix Online V1
-id: "6739"
-old_path: /millennials/6739/that-moment-youre-rushing-on-sugar
+image: "http://felixonline.co.uk/img/upload/201702031813-felix-Screen Shot 2017-02-03 at 18.13.07.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /millennials/6739/that-moment-youre-rushing-on-sugar
-imported: true
 comments:
  - value: >
      Mrgroingtime22Serpge clooney is a scum bag coward.with charleton heston dying of alzheimers he made fum of him.heston was a great american and actor and was president of the NRAfor a time. clooney was born with a silver spoon in his mouth. how low can you go, making fun of someone for having a terminal disease.This man is sick!
-
-# Article Taxonomies
 categories:
  - millennials
 tags:
@@ -26,12 +23,6 @@ authors:
  - felixteam
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702031813-felix-Screen Shot 2017-02-03 at 18.13.07.png"
-image_caption: ""
 ---
 
 The dictionary definition of a drug is either “A medicine or other substance which has a physiological effect when ingested or otherwise introduced to the body” or “A substance taken for its narcotic or stimulant effects”. Each of these definitions are perfectly valid, and classify drugs as having either a medicinal or recreational purpose. This is all well and good, but what happens when the lines are blurred? Ingesting caffeine results in stimulation, leading many to take coffee frequently as their opium, yet society views only one of these addictions to be harmful (bet you can’t guess which one).

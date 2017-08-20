@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philippa Skett reports from the charity auction
 date: "2014-11-28 00:49:24 +0000"
-
-# Attributes from Felix Online V1
-id: "4966"
-old_path: /news/4966/rag-holds-successful-charity-bike-auction
+image: "http://felixonline.co.uk/img/upload/201411280049-kmw13-rag-bike-auction-20-11-14-(2).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4966/rag-holds-successful-charity-bike-auction
-imported: true
 comments:
  - value: >
      I used to be very pleased to seek out this internet-site.I wanted to thanks in your time for this wonderful read!! <br>coach factory http://www.coachfactorys.us.com/,An interesting dialogue is worth comment. I believe that you must write more on this topic, it won't be a taboo subject however usually persons are. <br>Coach Factory http://coachoutlet.outletstore.us.com/,Aw, this was a really nice post. In concept I would like to put in writing like this additionally ?taking time and actual effort to make an excellent article?but what can I say?I procrastinate alot and on no account appear to get something done. <br>oakley sunglasses discount http://www.oakley-sales.org/,It's extremely helpful for me. Massive thumb up for this weblog put up!Pls try my web page as properly and let me know what you think. <br>coach outlet online http://www.outlets-coachhandbags.org/,I positively enjoying every little little bit of it and I have you bookmarked to take a look at new stuff you blog post. <br>coach factory http://coach.outletsonlin
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411280049-kmw13-rag-bike-auction-20-11-14-(2).jpg"
-image_caption: ""
 ---
 
 RAG held their charity bike auction last Thursday, raising an impressive £4,500 after selling roughly 30 bikes.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ben Collier reviews a film that will send chills down your spine
 date: "2016-12-09 15:50:21 +0000"
-
-# Attributes from Felix Online V1
-id: "6583"
-old_path: /film/6583/documentary-corner--citizenfour
+image: "http://felixonline.co.uk/img/upload/201612091549-felix-2_CITIZENFOUR.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6583/documentary-corner--citizenfour
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - bsc14
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612091549-felix-2_CITIZENFOUR.jpg"
-image_caption: ""
 ---
 
 Sometimes a perfect opportunity can just present itself to a director. Citizenfour is a film whose mere existence is incredible. Based on the drama of Edward Snowden’s whistleblowing on the mass surveillance being performed by the NSA in America, Citizenfour is the final film in director Laura Poitras’ America After 9/11 trilogy. What makes it so unique is the privileged access that Poitras had to Snowden (codename: Citizenfour) as he decided to pull the trigger on his leak. Poitras and journalist Glenn Greenwald are the two people Snowden personally reached out to via encrypted emails to help him get his message out, awarding us a much more personal look at Snowden as a person. Speaking as someone relatively ignorant to the entire situation, I found his portrayal deeply humanising: Snowden comes off as a deeply humble, intelligent, and responsible man. We leave the film with an understanding of his character and his values which would be unachievable through any interview or other piece of media.

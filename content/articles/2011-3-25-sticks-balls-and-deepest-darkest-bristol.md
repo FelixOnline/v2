@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Riding and Polo heads to the Arena Polo Nationals
 date: "2011-03-25 15:14:17 +0000"
-
-# Attributes from Felix Online V1
-id: "1129"
-old_path: /sport/1129/sticks-balls-and-deepest-darkest-bristol
+image: "http://felixonline.co.uk/img/upload/201103251630-jn104-Polowith.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1129/sticks-balls-and-deepest-darkest-bristol
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103251630-jn104-Polowith.jpg"
-image_caption: ""
 ---
 
 The problem with starting a tournament on a Thursday during reading week is that we don’t get a reading week. As such it was a somewhat slapdash crew that converged on Clevedon for the University Polo Nationals. Despite what might charitably be described as an exuberant driving style from one of our players we all made it to the rural side of Bristol more or less intact, though one of our two train goers got a bit of a dent to his wallet when he realised that booking his tickets in advance would have been four times cheaper.

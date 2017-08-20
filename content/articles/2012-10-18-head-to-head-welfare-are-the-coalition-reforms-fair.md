@@ -4,18 +4,15 @@ title: >
 subtitle: >
   GH argues for, and Luke Sheldon argues against. Let battle commence...
 date: "2012-10-18 21:19:05 +0100"
-
-# Attributes from Felix Online V1
-id: "2699"
-old_path: /comment/2699/head-to-head-welfare---are-the-coalition-reforms-fair
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2699/head-to-head-welfare---are-the-coalition-reforms-fair
-imported: true
 comments:
  - value: >
      I don't really understand why George has written this. We've heard it all before with better fact checking and better writing quality, and even then, it was still wrong. <br> <br>I could write a lengthy sarcastic reply, but I doubt you'd be able to appreciate the subtlety.,george i hear you man i'm completely opposed to the something-for-nothing culture of thick-headed public schoolboys granted massive inheritences, social contact with the most powerful in society and nepotistic feet in the door by the previous generation (who themselves received all that something from the generation before for nothing as well) swanning about like they're ubermensch, making lives they can't comprehend immeasureably worse by depriving them of basic human dignity and sustenance <br> <br>the leading lights of the conservatives are truly the people we should be emulating - david cameron, whom the fucking royals greased into the conservative party, and gideon osborne, whose only proper job (i doubt you think NHS jobs count as jobs) was refol
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Yes __

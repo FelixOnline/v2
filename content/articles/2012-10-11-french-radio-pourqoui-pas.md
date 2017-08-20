@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The French really do it well. Radio that is
 date: "2012-10-11 21:29:01 +0100"
-
-# Attributes from Felix Online V1
-id: "2679"
-old_path: /music/2679/french-radio-pourqoui-pas
+image: "http://felixonline.co.uk/img/upload/201210112228-felix-lemouv.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2679/french-radio-pourqoui-pas
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - lwl09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112228-felix-lemouv.jpg"
-image_caption: ""
 ---
 
 It seems as though the older you get, the less time there is for doing fun things, like having sex or keeping up with the best new music. (Or maybe that’s just because you have a frigid boyfriend from Imperial and you finally have better things to do with your time than read the slightly ridiculous and shit NME). Although the getting-more-sex issue hasn’t been resolved, a great solution to the latter is the Laura Leishman Project, a show on French radio station Le Mouv.

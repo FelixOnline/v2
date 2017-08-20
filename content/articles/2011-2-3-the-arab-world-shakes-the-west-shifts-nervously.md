@@ -4,16 +4,13 @@ title: >
 subtitle: >
   “It is reminiscint of the Polish Solidarity movement”
 date: "2011-02-03 20:05:36 +0000"
-
-# Attributes from Felix Online V1
-id: "734"
-old_path: /politics/734/the-arab-world-shakes-the-west-shifts-nervously
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/734/the-arab-world-shakes-the-west-shifts-nervously
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - rj408
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The suicide of a young Tunisian salesman last month could well change the world’s political scene. In much the same way that Paris sneezed and Europe caught a cold, which lead to (admittedly slow) liberal reform in the nineteenth century, Mass political protest in Tunisia has triggered popular movements throughout North Africa and the Near East, much of it planned on Facebook, Twitter and Internet forums.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   ICSM Boat Club cycle nearly 300km to Paris for RAG
 date: "2016-03-04 11:55:16 +0000"
-
-# Attributes from Felix Online V1
-id: "6013"
-old_path: /sport/6013/boat-club-head-off-on-a-tour-de-france
+image: "http://felixonline.co.uk/img/upload/201603041154-felix-Boat club paris.JPG"
+image_caption: "The Boat Club took on Paris in a blistering ride in aid of charity."
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6013/boat-club-head-off-on-a-tour-de-france
-imported: true
 comments:
  - value: >
      Posted by on October 17, 2011 at 9:11 pm Thanks Lynda, it is the magic sauce. It is a practice of faith, thereby attracting exactly what we need. Some times we sell ourselves short, but we ask for something and get something bigger than we exte.pedcDonna Merrill recently posted..,Posted by on October 17, 2011 at 9:11 pm Thanks Lynda, it is the magic sauce. It is a practice of faith, thereby attracting exactly what we need. Some times we sell ourselves short, but we ask for something and get something bigger than we exte.pedcDonna Merrill recently posted..
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +26,6 @@ authors:
  - lir14
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603041154-felix-Boat club paris.JPG"
-image_caption: ""
 ---
 
 Annually, the Imperial College School of Medicine Raising and Giving team organise a trip to a European city for a night out; with this year’s destination being Paris. When this was announced, the ICSM Boat Club thought, why take the coach when you can cycle there for charity instead? It’s only 295km after all!

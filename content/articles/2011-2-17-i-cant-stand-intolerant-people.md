@@ -4,16 +4,13 @@ title: >
 subtitle: >
   My position works bcause I don’t differentiate; I simply hate everyone
 date: "2011-02-17 19:56:13 +0000"
-
-# Attributes from Felix Online V1
-id: "828"
-old_path: /comment/828/i-cant-stand-intolerant-people
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/828/i-cant-stand-intolerant-people
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - mrangry
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I was linked to a post on Political Scrapbook this week, a blog which seems to mostly cover UK politics from the sort of left–wing perspective that makes you want to pat in on the head and pinch its cheek. The post in question highlighted the genocide–worthy activities of the York University Young Conservatives (YUYC), a bunch of incredibly distasteful foetuses who have taken to the Tory stereotype like a particularly fascist duck to a pond full of army uniforms. There were the usual arse–faced drunk Facebook photographs, of course. But mixed in with these were some unbelievable ‘hilarious’ posters offering a buffet of horrible, insulting slogans like a Cadbury’s selection box of human faeces.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Rounding off a successful season for the ladies
 date: "2012-03-02 17:42:22 +0000"
-
-# Attributes from Felix Online V1
-id: "2309"
-old_path: /sport/2309/promotion-and-port-for-ic-hockey-ladies-1s-after-brunel-tussle
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2309/promotion-and-port-for-ic-hockey-ladies-1s-after-brunel-tussle
-imported: true
 comments:
  - value: >
      Thibaut - We loved dragging you aonurd Munich Ann and can't wait for the truckload of pics :). We are cool with sharing another giant mug of beer again, am besten ein dunkel weidfbier Just pass by our home ;)June 7, 2012 10:04 pm,KIDS Zone Junior Class Putting the Puzzles togather ??? Come find out what it's all about!Kindergarten Class Bible Land Alot of <a href="http://zcusdfv.com">acnitg</a> going on!Beginer Class ages 3-5 stories from the Bible February 19th 12 noon at the church! Jumpin Around Inflatables will be here. Bring a friend!
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The new Harry Potter film proves controversial.
 date: "2010-11-25 19:52:56 +0000"
-
-# Attributes from Felix Online V1
-id: "422"
-old_path: /film/422/so-is-it-any-good-after-all
+image: "http://felixonline.co.uk/img/upload/201011251948-nm1010-harrypot.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/422/so-is-it-any-good-after-all
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jgp09
  - nm1010
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011251948-nm1010-harrypot.jpg"
-image_caption: ""
 ---
 
 __God help me it’s bad...__

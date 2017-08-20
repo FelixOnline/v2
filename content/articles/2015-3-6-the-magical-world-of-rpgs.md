@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The expert himself, Sanchit Sharma, introducing you to a world that you definitely want to join
 date: "2015-03-06 16:46:17 +0000"
-
-# Attributes from Felix Online V1
-id: "5358"
-old_path: /games/5358/the-magical-world-of-rpgs
+image: "http://felixonline.co.uk/img/upload/201503061647-cj914-tower.jpg"
+image_caption: "Welcome to the wonderful world of tabletop RPGs!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/5358/the-magical-world-of-rpgs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -25,12 +23,6 @@ authors:
  - ss9011
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503061647-cj914-tower.jpg"
-image_caption: ""
 ---
 
 RPG is an arguably misleading term, which stands for “Role-Playing Game”. The reason I say it is arguably misleading is that there are very few games, both tabletop and otherwise, in which the player does not take on a role. Yet the term roleplaying game nevertheless has a very precise definition. An RPG is, specifically, a game in which the player takes on the role of a specific character and controls that character through various encounters. Often, the character is represented by various numbers and statistics, but the key part is that RPGs are about each player controlling a single character.

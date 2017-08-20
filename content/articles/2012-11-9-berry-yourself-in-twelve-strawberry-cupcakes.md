@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Yiango shares her latest recipe. This time, strawberry cupcakes for the perfect treat.
 date: "2012-11-09 12:36:42 +0000"
-
-# Attributes from Felix Online V1
-id: "2849"
-old_path: /food/2849/berry-yourself-in-twelve-strawberry-cupcakes
+image: "http://felixonline.co.uk/img/upload/201211091236-tna08-strawberry-cupcakes.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2849/berry-yourself-in-twelve-strawberry-cupcakes
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - tna08
  - ym1310
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091236-tna08-strawberry-cupcakes.jpg"
-image_caption: ""
 ---
 
 __Ingredi____ents:__

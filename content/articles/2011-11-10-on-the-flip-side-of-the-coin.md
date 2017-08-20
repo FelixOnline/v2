@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A Muslim perspective on the afterlife and religion in society
 date: "2011-11-10 20:41:57 +0000"
-
-# Attributes from Felix Online V1
-id: "1718"
-old_path: /comment/1718/on-the-flip-side-of-the-coin
+image: "http://felixonline.co.uk/img/upload/201111110955-felix-umair-aasem.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1718/on-the-flip-side-of-the-coin
-imported: true
 comments:
  - value: >
      Very sensible words, indeed... Let this be an eye-opener for us to start thinking for the betterment of the greater part of us.,Thought provoking.,You could interpret that last quote in many ways. Submitting to God appears to be servitude in my eyes, only in the freedom provided by an existence unencumbered by the trivialities of worship and faith can life be truly a boundless ocean.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ua108
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111110955-felix-umair-aasem.jpg"
-image_caption: ""
 ---
 
 After reading the ‘[Hell of Heaven](http://felixonline.co.uk/comment/1568/the-hell-of-heaven/)’ article from two weeks back, and reading a bit of Christian perspective on the subject in last week’s edition, I decided to shed some light on the subject from a Muslim’s point of view. As well as writing on the general importance of religion within a society.

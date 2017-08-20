@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Cecily Johnson summarises your sexual satisfaction
 date: "2015-06-04 23:32:36 +0100"
-
-# Attributes from Felix Online V1
-id: "5599"
-old_path: /features/5599/so-how-happy-are-imperial-students-with-their-sex-lives
+image: "http://felixonline.co.uk/img/upload/201506050032-cj914-imperial.jpg"
+image_caption: "It’s like a giant game of Where’s Wanker?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/5599/so-how-happy-are-imperial-students-with-their-sex-lives
-imported: true
 comments:
  - value: >
      When twice as many students fill out a mental health survey, you know there's a serious problem.,birkenstock shoes online <br>birkenstock gizeh http://birkenstockaustralia.blogspot.com/,birkenstock outlet online shop <br>where to buy birkenstocks http://birkenstockaustralia.rochecap.org/,Especially as the eventual qualifying equation might come right down to goal difference, in this group of death. It will function group opener for both squads your market 2010 FIFA World Wine glass. <br>crÃ©dits fifa gratuit http://creditsfut.com/,red sole shoes <br>christian louboutin sale clearance http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin shoes sale <br>christian louboutin canada stores http://christianlouboutincanadaoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -26,12 +24,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506050032-cj914-imperial.jpg"
-image_caption: ""
 ---
 
 Overall, 62% of us are ‘happy’ or ‘very happy’ with our sex lives at Imperial. Only 21% reported that they were ‘unhappy’ or ‘very unhappy’ (sorry folks), while 15% didn’t feel one way or the other.

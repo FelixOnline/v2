@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Read on to find out more about the Tanzanian scheme
 date: "2012-01-19 21:03:42 +0000"
-
-# Attributes from Felix Online V1
-id: "2024"
-old_path: /news/2024/have-you-heard-about-raincatcher-imperial
+image: "http://felixonline.co.uk/img/upload/201201192103-pk1811-raincatcher-logo2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2024/have-you-heard-about-raincatcher-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - mc4509
  - pd111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201192103-pk1811-raincatcher-logo2.jpg"
-image_caption: ""
 ---
 
 We all take for granted that when we switch on the tap, clean, drinkable water will pour out. Sadly, for millions of people around the globe, this is not the case.

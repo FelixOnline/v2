@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Tessa Davey thinks that millennial entitlement is a good thing
 date: "2017-05-15 15:52:57 +0100"
-
-# Attributes from Felix Online V1
-id: "6946"
-old_path: /comment/6946/are-millennials-too-entitled-or-do-we-just-deserve-better
+image: "http://felixonline.co.uk/img/upload/201705151751-felix-32514422900_c9365314fa_o.jpg"
+image_caption: "This generation is soooooo entitled"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6946/are-millennials-too-entitled-or-do-we-just-deserve-better
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - tad08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705151751-felix-32514422900_c9365314fa_o.jpg"
-image_caption: ""
 ---
 
 The media is obsessed with millennials being more entitled than previous generations, what with all those years of praise, encouragement, and social media. It’s a great rhetoric: we’re all narcissistic nightmares, who are too obsessed with our personal brand and too lazy to put our heads down and memorise things that we could easily Google.

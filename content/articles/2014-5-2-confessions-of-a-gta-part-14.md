@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Are GTAs working hard or hardly working?
 date: "2014-05-02 01:02:00 +0100"
-
-# Attributes from Felix Online V1
-id: "4538"
-old_path: /comment/4538/confessions-of-a-gta-part-14
+image: "http://felixonline.co.uk/img/upload/201405020202-jal08-money-pooping-unicorn.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4538/confessions-of-a-gta-part-14
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - gta
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405020202-jal08-money-pooping-unicorn.jpg"
-image_caption: ""
 ---
 
 In the early days of my GTAing I thought it strange that all the other GTAs became twitchy when there was a quiet tutorial. I mean what is better than getting paid a decent wage just to stand there, literally sometimes for hours. Some of the longer labs can be up to three, not a bad little break from banging your head against the wall of “research”. I mean after a few years at Imperial a bit of boredom is welcome.

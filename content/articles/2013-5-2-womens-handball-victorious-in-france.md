@@ -4,16 +4,13 @@ title: >
 subtitle: >
   First and Third place for Imperial
 date: "2013-05-02 12:16:08 +0100"
-
-# Attributes from Felix Online V1
-id: "3526"
-old_path: /sport/3526/womens-handball-victorious-in-france
+image: "http://felixonline.co.uk/img/upload/201305021316-tna08-handball-pic-2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3526/womens-handball-victorious-in-france
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - sg1511
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305021316-tna08-handball-pic-2.jpg"
-image_caption: ""
 ---
 
 As the plane door opened, the cold French, garlic and baguette ridden air hit us. We knew the challenge, to go to the French engineering university championships and beat them at their own sport, handball.

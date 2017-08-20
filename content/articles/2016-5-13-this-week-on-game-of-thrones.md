@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Series 6, Episode 3
 date: "2016-05-13 09:23:17 +0100"
-
-# Attributes from Felix Online V1
-id: "6160"
-old_path: /tv/6160/this-week-on-game-of-thrones
+image: "http://felixonline.co.uk/img/upload/201605131122-felix-929f1cb0-f83c-0133-8045-0e31b36aeb7f.jpeg"
+image_caption: "Welcome back home!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6160/this-week-on-game-of-thrones
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - hjw13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605131122-felix-929f1cb0-f83c-0133-8045-0e31b36aeb7f.jpeg"
-image_caption: ""
 ---
 
 Another week, another load of dead characters. We start off where we left last time with Jon Snow wondering what the hell just happened after being stabbed in the heart, Melisandre wondering how on Earth she just did that and Davos trying to remember how he got involved in this storyline in the first place. Jon then puts some pants on to talk to the Night’s Watchmen and Wildlings that had gathered to see him. He doesn’t end up saying much and it’s not even 5 minutes back in the realm of the living before Tormund says he’s got a small dick. Jon seems to have a thing about getting insulted by gingers.

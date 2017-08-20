@@ -4,18 +4,15 @@ title: >
 subtitle: >
   IC 7s 3 - 1 St Bart’s 4s
 date: "2011-02-28 21:41:52 +0000"
-
-# Attributes from Felix Online V1
-id: "952"
-old_path: /sport/952/football-mens-7s-extend-their-unbeaten-run-in-the-league
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/952/football-mens-7s-extend-their-unbeaten-run-in-the-league
-imported: true
 comments:
  - value: >
      Hi Charles,I can see your thinking. We aim to have BuildorPro run in FF, IE 7+, Safari and Chrome and the brewsor that your using the app in will render whatever CSS/HTML it understands first (for the new CSS3 rules too) but you will be able to edit all code directly through the HTML/CSS view.For IE 6, you can preview your changes and load them in that brewsor for checking as frequently as you like but we haven't done any serious testing in terms of runing the app in IE6.Thanks for your interest in Buildor,James
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -27,12 +24,6 @@ authors:
  - jag07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imperial 7s travelled to Chislehurst to play St Bart's 4s away on a pitch that was, for lack of a better word, soupy.

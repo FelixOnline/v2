@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-06-17 09:38:52 +0100"
-
-# Attributes from Felix Online V1
-id: "6290"
-old_path: /film/6290/where-to-invade-next
+image: "http://felixonline.co.uk/img/upload/201606171138-felix-where-to-invade-next.jpg"
+image_caption: "Michael Moore takes to the seas, raiding Europe for his latest documentary work. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6290/where-to-invade-next
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ff712
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606171138-felix-where-to-invade-next.jpg"
-image_caption: ""
 ---
 
 Michael Moore is back. After an absence of seven years, the agent provocateur of American documentary filmmaking returns to our cinemas with his latest, _Where to Invade Next?_, a light-hearted look at the benefits of European-style socialism, which Moore hopes to import as a solution for the problems in his home country.

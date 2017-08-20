@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Unfortunately, men dominate the best roles in television. So, you’d think that they’d at least be represented with nuance, right? Well, that tends not to be the case.
 date: "2016-11-18 15:06:33 +0000"
-
-# Attributes from Felix Online V1
-id: "6469"
-old_path: /tv/6469/tv-mourns-for-adonas
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6469/tv-mourns-for-adonas
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +19,6 @@ authors:
  - ad4013
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 

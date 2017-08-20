@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Research suggest that methane increases are natural, not man-made
 date: "2011-02-10 20:21:53 +0000"
-
-# Attributes from Felix Online V1
-id: "770"
-old_path: /science/770/orbit-shift-led-to-ancient-methane-increase-
+image: "http://felixonline.co.uk/img/upload/201102102020-ks607-marshesm.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/770/orbit-shift-led-to-ancient-methane-increase-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - tbc09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102102020-ks607-marshesm.jpg"
-image_caption: ""
 ---
 
 An investigation into the mysterious rise of methane levels in the atmosphere over the past 5,000 years has suggested its causes are natural, not anthropogenic.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Fred Fyles is horrified and awed by this display of Goya’s lost album
 date: "2015-03-25 13:11:28 +0000"
-
-# Attributes from Felix Online V1
-id: "5445"
-old_path: /arts/5445/goyas-grotesques-the-image-and-the-fury
+image: "http://felixonline.co.uk/img/upload/201503251310-ff712-regozijo-mirtha.jpg"
+image_caption: "Regozijo (Mirth), red chalk and scraping. 237 x 148mm. Francisco Goya (1746-1828)"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5445/goyas-grotesques-the-image-and-the-fury
-imported: true
 comments:
  - value: >
      http://kamagrabuy-jelly.org/ - Kamagra Celebrex Online http://synthroidonlinebuy.net/,http://kamagrabuy-jelly.org/ - Kamagra Jelly Celebrex http://synthroidonlinebuy.net/,http://flagylantibioticmetronidazole.net/ - Metronidazole 500 Mg Antibiotic Cialis Generic Tadalafil http://levitra-20mg-prices.com/,http://flagylantibioticmetronidazole.net/ - Iv Flagyl Treatment Hepatic Encephalopathy Cialis http://levitra-20mg-prices.com/,http://viagracheapestprice-pills.org/ - viagracheapestprice-pills.org.ankor levitrafor-salegeneric.com.ankor http://without-prescription-onlinepropecia.net/,http://viagracheapestprice-pills.org/ - viagracheapestprice-pills.org.ankor levitrafor-salegeneric.com.ankor http://without-prescription-onlinepropecia.net/,http://viagracheapestprice-pills.org/ - viagracheapestprice-pills.org.ankor levitrafor-salegeneric.com.ankor http://without-prescription-onlinepropecia.net/,http://viagracheapestprice-pills.org/ - viagracheapestprice-pills.org.ankor levitrafor-salegeneric.com.ankor http://without
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251310-ff712-regozijo-mirtha.jpg"
-image_caption: ""
 ---
 
 Rarely has there been a painter who represents the darkest recesses of humanity more skillfully than Spanish artist Francisco Goya. Making his living as a court painter for the latter half of the 18th Century, it wasn’t until 1793, whilst recuperating from a disease that would leave him permanently deaf, that he began to paint the violently disturbing scenes for which he is best known today. _Saturn Devouring His Son_; _The Sleep of Reason Produces Monsters_; the entire _The Disasters of War _series; all of these are deeply unsettling visions of the blackness fundamental to human nature, and it is for these, more than for his masterful court scenes, that he is most celebrated today.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Antonia Weitzer on the annual conference in London
 date: "2012-11-23 00:33:02 +0000"
-
-# Attributes from Felix Online V1
-id: "2973"
-old_path: /news/2973/roll-up-roll-up-for-the-carbon-show
+image: "http://felixonline.co.uk/img/upload/201211230033-tna08-858.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2973/roll-up-roll-up-for-the-carbon-show
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211230033-tna08-858.jpg"
-image_caption: ""
 ---
 
 The annual ‘Carbon show’, that took place at London’s Business Design Centre this October, is a chance for industry-types and Carbon aficionados to network, mingle and promote. However, what was advertised as ‘ the leading annual event on energy efficiency and the low carbon economy’ presented a very dire image of the carbon economy. The Carbon Show shrunk to around 1/3 of its size from last year, to only having around twenty exhibitors (and last year’s event was in itself still somewhat underwhelming, with many stallholders leaving dissatisfied). The exhibitors this year included consultants, certification companies and verifiers; although really it appeared to just focus on companies with the name Carbon in them: Carbon Clear, Carbon Credentials, The Carbon Trust, Carbon Advice Group. Presentations and Seminars ran throughout the day on energy efficiency, carbon investment and green technologies. These represented companies and organisations ranging from Jaguar Land Rover to Kingfischer Plc, RBS and the Energy Saving Trust. Although informative and sometimes enjoyable, the entire show seemed marked from the very beginning by the sense of a lacklustre under-performance.

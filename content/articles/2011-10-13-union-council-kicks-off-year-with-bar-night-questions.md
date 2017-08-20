@@ -4,16 +4,14 @@ title: >
 subtitle: >
   First meeting brings financial questions
 date: "2011-10-13 20:22:12 +0100"
-
-# Attributes from Felix Online V1
-id: "1502"
-old_path: /news/1502/union-council-kicks-off-year-with-bar-night-questions
+image: "http://felixonline.co.uk/img/upload/201110132119-felix-smith.jpg"
+image_caption: "David Smith takes the chair this year"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1502/union-council-kicks-off-year-with-bar-night-questions
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110132119-felix-smith.jpg"
-image_caption: ""
 ---
 
 Monday 10 October saw the first Imperial College Union Council meeting of the academic year. Held in the Union Dining Hall and open to all students, the meeting saw this year’s sabbatical officers provide updates of their progress over the summer, presided over by this year’s Council Chair, David Smith.

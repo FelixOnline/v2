@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Conflicting evidence over particle 'discovered' by Collider Detector at Fermilab
 date: "2011-06-16 20:04:01 +0100"
-
-# Attributes from Felix Online V1
-id: "1388"
-old_path: /science/1388/collaborations-clash-at-tevatron
+image: "http://felixonline.co.uk/img/upload/201106162103-felix-cdf-detector.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1388/collaborations-clash-at-tevatron
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ko407
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106162103-felix-cdf-detector.jpg"
-image_caption: ""
 ---
 
 Earlier this year, the Collider Detector at Fermilab (CDF) collaboration tentatively put forward new results [suggesting that they had observed a new, unpredicted particle](http://prl.aps.org/abstract/PRL/v106/i17/e171801). A month later [they published more results](http://www-cdf.fnal.gov/physics/ewk/2011/wjj/7_3.html) that seemed to reinforce the earlier data. But last week the DZero collaboration, also at Fermilab, [announced that they had tried to find the same particle – and failed](http://www-d0.fnal.gov/Run2Physics/WWW/results/final/HIGGS/H11B/).

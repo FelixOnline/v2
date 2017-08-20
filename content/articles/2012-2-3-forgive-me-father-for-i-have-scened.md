@@ -4,16 +4,14 @@ title: >
 subtitle: >
   I need more money ‘cause I need more drugs
 date: "2012-02-03 11:16:20 +0000"
-
-# Attributes from Felix Online V1
-id: "2130"
-old_path: /music/2130/forgive-me-father-for-i-have-scened
+image: "http://felixonline.co.uk/img/upload/201202031115-sjw209-times-new-viking.png"
+image_caption: "The bubblegum border does it for me"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2130/forgive-me-father-for-i-have-scened
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - me1409
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202031115-sjw209-times-new-viking.png"
-image_caption: ""
 ---
 
 Times New Viking’s third album Rip It Off, their first to be released on Matador Records, became the darling of the so called ‘shitgaze’ scene. Whichever Pitchfork employee exhausted the synonym function on his computer to come up with such labels as witch house, chillwave and nu-gaze certainly surpassed his or herself by dreaming up the genre of shitgaze. It was a short lived explosion of lo-fi guitar wailings trying to overshadow its more sullen older brother, shoegaze. At first it was hard to comprehend such a proposition as anything but a joke that I couldn’t find the punchline for. Yet there have been some promising bands to emerge, namely the gut-wrenching fuzz of A Place To Bury Strangers and the dreamy distortion of Times New Viking. Revisiting the latter’s best release, Rip It Off, and having discovered how impressive it was, I refuse to let it be forgotten in some scene which has lost its hipster appeal.

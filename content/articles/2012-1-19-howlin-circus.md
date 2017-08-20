@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto shares liquid bread while chatting house fires and the blues ahead of THROB
 date: "2012-01-19 20:46:02 +0000"
-
-# Attributes from Felix Online V1
-id: "2021"
-old_path: /music/2021/howlin-circus
+image: "http://felixonline.co.uk/img/upload/201201192045-ams111-howlin-circus.jpg"
+image_caption: "Gothic architecture makes a singular appearance in the Wild West"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2021/howlin-circus
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - im808
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201192045-ams111-howlin-circus.jpg"
-image_caption: ""
 ---
 
 __So you guys just had rehearsal. How did it go?

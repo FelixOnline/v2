@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Banning an activity will never stop its practice, merely move its location.
 date: "2010-02-12 02:03:02 +0000"
-
-# Attributes from Felix Online V1
-id: "86"
-old_path: /comment/86/stephen-long-on-the-proposed-smoking-ban
+image: "http://felixonline.co.uk/img/upload/201002120201-rsp07-smokingb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/86/stephen-long-on-the-proposed-smoking-ban
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - rsp07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002120201-rsp07-smokingb.jpg"
-image_caption: ""
 ---
 
 The other week, the idea of banning smoking in our Union Quad was mooted. On Monday, a proposal will be made to the Council to pass this into Union rules. This appears to me to be very ill thought- out, and hopefully after reading this article, it will to you too.

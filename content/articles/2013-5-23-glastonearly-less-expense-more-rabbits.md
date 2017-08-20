@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lara Meade introduces the festival put on at Imperial
 date: "2013-05-23 22:33:11 +0100"
-
-# Attributes from Felix Online V1
-id: "3621"
-old_path: /news/3621/glastonearly--less-expense-more-rabbits
+image: "http://felixonline.co.uk/img/upload/201305232333-tna08-silfest_poster_icu.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3621/glastonearly--less-expense-more-rabbits
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - lm3712
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305232333-tna08-silfest_poster_icu.jpg"
-image_caption: ""
 ---
 
 Summer is on its way and festival season is nearly upon us. Do you long to frolic in the sunshine with live music, alcohol and food… but don’t want to spend a fortune? Have your heard of Silfest?

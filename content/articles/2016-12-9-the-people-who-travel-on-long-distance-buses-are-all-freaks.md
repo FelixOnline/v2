@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tessa Davey explores what it is about coach travel that makes people so inconsiderate.
 date: "2016-12-09 15:39:01 +0000"
-
-# Attributes from Felix Online V1
-id: "6575"
-old_path: /comment/6575/the-people-who-travel-on-long-distance-buses-are-all-freaks
+image: "http://felixonline.co.uk/img/upload/201612091538-felix-Screen Shot 2016-12-09 at 15.36.58.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6575/the-people-who-travel-on-long-distance-buses-are-all-freaks
-imported: true
 comments:
  - value: >
      This is true. Convinience and comfort are worth so much more than the moral degradation of getting a long distance bus.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612091538-felix-Screen Shot 2016-12-09 at 15.36.58.png"
-image_caption: ""
 ---
 
 There are three types of people who take overnight coaches: the stupid, those trying to fulfil a stereotype, and the desperate.

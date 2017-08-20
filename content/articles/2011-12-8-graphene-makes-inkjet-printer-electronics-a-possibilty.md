@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Graphene based printers could print transistors
 date: "2011-12-08 20:44:47 +0000"
-
-# Attributes from Felix Online V1
-id: "1919"
-old_path: /science/1919/graphene-makes-inkjet-printer-electronics-a-possibilty
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1919/graphene-makes-inkjet-printer-electronics-a-possibilty
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - mtm10
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Graphene is a unique material consisting of single layer of carbon atoms bonded in a hexagonal pattern. As the thinnest and most conductive material ever discovered it has countless possible applications in electronics. Research into the material is progressing quickly, with the government setting aside £50m for this purpose earlier this year.

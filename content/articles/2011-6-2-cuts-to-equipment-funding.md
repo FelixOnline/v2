@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Funding for equipment costing between £10,000 and £121,000 will see a 50% cut
 date: "2011-06-02 18:14:03 +0100"
-
-# Attributes from Felix Online V1
-id: "1293"
-old_path: /news/1293/cuts-to-equipment-funding
+image: "http://felixonline.co.uk/img/upload/201106021911-felix-apprenticeship-10.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1293/cuts-to-equipment-funding
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - sf305
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106021911-felix-apprenticeship-10.jpg"
-image_caption: ""
 ---
 
 Research in engineering and science disciplines took another blow last week when it was announced that a second round of research budget cuts would be effective on research proposals submitted after 1st May 2011.

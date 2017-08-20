@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Researchers have found the hobbit is not human
 date: "2016-02-26 11:33:57 +0000"
-
-# Attributes from Felix Online V1
-id: "5962"
-old_path: /science/5962/back-to-the-shire
+image: "http://felixonline.co.uk/img/upload/201602261133-felix-one skull.jpg"
+image_caption: "One skull tells a different story."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5962/back-to-the-shire
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +21,6 @@ authors:
  - mw4414
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261133-felix-one skull.jpg"
-image_caption: ""
 ---
 
 Scientists are sent back to the drawing board as researchers suggest “hobbit” skull probably doesn’t belong to an ancient human.

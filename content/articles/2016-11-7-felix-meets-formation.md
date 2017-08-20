@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This down to earth outfit talks Glastonbury, being Kylie super-fans, and what’s next after a huge 2016
 date: "2016-11-07 17:37:41 +0000"
-
-# Attributes from Felix Online V1
-id: "6413"
-old_path: /music/6413/felix-meets--formation
+image: "http://felixonline.co.uk/img/upload/201611071737-felix-Screen Shot 2016-11-02 at 13.48.29.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6413/felix-meets--formation
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - theofarah13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611071737-felix-Screen Shot 2016-11-02 at 13.48.29.png"
-image_caption: ""
 ---
 
 _felix_ catches up with Formation while they’re on tour with Jagwar Ma. Another notch on their belt after playing Glastonbury, Field Day and having their song Pleasure chosen for the FIFA 17 soundtrack. In the room are front-man Will Ritson, his twin brother Matt (synths), Jonny Tams (bass) and Kai Akinde-Hummel (drums).

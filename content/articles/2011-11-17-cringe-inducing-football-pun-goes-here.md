@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Simon Carnochan kicks about some of his thoughts on Sports Interactive’s latest product, Football Manager 2012
 date: "2011-11-17 20:40:06 +0000"
-
-# Attributes from Felix Online V1
-id: "1763"
-old_path: /games/1763/cringe-inducing-football-pun-goes-here
+image: "http://felixonline.co.uk/img/upload/201111172038-pk1811-football-manager-2012-cover.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1763/cringe-inducing-football-pun-goes-here
-imported: true
 comments:
  - value: >
      Haha, this is all very true. I think this is a 'marmite' game, and boy I love it!,Best article in Felix so far this year.
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172038-pk1811-football-manager-2012-cover.jpg"
-image_caption: ""
 ---
 
 Football Manager, undeniably the best football management game on Earth, is back again. My addictive relationship with the game began at the tender age of seven and I’ve been hooked ever since, even turning up fifteen minutes late to my GCSE Religious Studies exam due to an FA Cup semi-final with Hull running into extra-time. Anyone who claims to be a football fan but has never owned a copy of this game is clearly lying – the two are mutually exclusive. Rugby fans (wrong ball), Americans (can’t even name the sport right) and girls (computer game plus football equals unfortunate sausagefest) have never understood the joys of playing Football Manager, and although a full tutorial for novices has been included in the game for the first time, this article may have little relevance to those who have never played the series before.

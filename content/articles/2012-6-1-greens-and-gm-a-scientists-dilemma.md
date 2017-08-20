@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Despite recent faults, the Green Party is the lesser of four evils
 date: "2012-06-01 12:43:40 +0100"
-
-# Attributes from Felix Online V1
-id: "2512"
-old_path: /comment/2512/greens-and-gm-a-scientists-dilemma
+image: "http://felixonline.co.uk/img/upload/201206011343-mc4509-pinky-and-the-brain.jpg"
+image_caption: "Don’t blame the genetic modification for Brain’s insanity"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2512/greens-and-gm-a-scientists-dilemma
-imported: true
 comments:
  - value: >
      Hello, I suspect we aren't going to agree on much, but nonetheless... <br> <br>With respect to companies and social justice in GM, see this: <br> <br>http://en.wikipedia.org/wiki/Monsanto#As_plaintiff <br> <br>A company's first duty (by law, usually) is to its shareholders, which almost always prohibits social justice from taking place. <br> <br>On your next point, perhaps "highly-educated people" would be better than "scientists" given that the Greens Party has by far the highest proportion of PhDs amongst its members. Moreover, scientists tend to be very aware of the importance of combating climate change, hence more likely to vote Green. <br> <br>On your next point, I was referring to people who had voted Green in the recent local elections, but decided to not vote Green in future because of the GM debacle. So presumably they are, at least to some extent, socialists. <br> <br>,Firstly Stephen, it is always a pleasure to read your writing, because it is so readable. <br> <br>You point out that Shell has had a terrible track record on Human Rights
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - ss10210
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206011343-mc4509-pinky-and-the-brain.jpg"
-image_caption: ""
 ---
 
 I like the Green Party. I voted for them in May, on all three ballots, and I would vote for them again if there were a General Election tomorrow. But, as with most friends, they often disappoint me. While I was severely depressed by their pledge to offer homeopathic “medicine” on the NHS, and their plans to implement a health service for pets, the recent news about their opposition to genetically modified crops has been the most disappointing thing of all.

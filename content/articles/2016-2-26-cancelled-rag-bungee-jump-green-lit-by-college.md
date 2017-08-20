@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Alice Gast believed to have worried about proximity to buildings
 date: "2016-02-26 11:27:32 +0000"
-
-# Attributes from Felix Online V1
-id: "5958"
-old_path: /news/5958/cancelled-rag-bungee-jump-green-lit-by-college
+image: "http://felixonline.co.uk/img/upload/201602261127-felix-bungee.jpg"
+image_caption: "Each to their own. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5958/cancelled-rag-bungee-jump-green-lit-by-college
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261127-felix-bungee.jpg"
-image_caption: ""
 ---
 
 Despite knowing about it since November, college officials cancelled the jump just three days before it was due to  take place, over health and safety concerns.

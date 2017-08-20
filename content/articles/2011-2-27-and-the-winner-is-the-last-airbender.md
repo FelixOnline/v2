@@ -4,18 +4,15 @@ title: >
 subtitle: >
   We all knew it was last year's worst film, but now its got an award to prove it!
 date: "2011-02-27 19:09:30 +0000"
-
-# Attributes from Felix Online V1
-id: "908"
-old_path: /film/908/and-the-winner-is-the-last-airbender
+image: "http://felixonline.co.uk/img/upload/201102271906-ks607-lastbend.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/908/and-the-winner-is-the-last-airbender
-imported: true
 comments:
  - value: >
      Yes, absolutely. Momentary brain death. ,"All about steve," not "All about eve." "All about eve" is a fantastic classic starring Bette Davis and Anne Baxter. "Steve" was the one Bullock starred in to win her Razzie.,I read that M. Night was inspired to do this movie because he watched the series with his kids and all shared great enthusiasm for the series. I'm going to hold my judgment until I see the movie but Capone's previous movie reviews have been pretty spot on. It seems that sequel is on work and have a poster ... http://www.the-last-airbender-2.com/
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102271906-ks607-lastbend.jpg"
-image_caption: ""
 ---
 
 Los Angeles this weekend was buzzing even more than usual with the awards ceremony seeing the great minds behind Sex and the City 2 and M. Night Shyamalan’s The Last Airbender scooping most of the major prizes. At the 2011 Razzies.

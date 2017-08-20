@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Moved by the Hayward Gallery’s latest immersive offering
 date: "2011-01-07 09:46:52 +0000"
-
-# Attributes from Felix Online V1
-id: "562"
-old_path: /arts/562/swinging-from-the-chandeliers
+image: "http://felixonline.co.uk/img/upload/201101070943-ks607-hayward.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/562/swinging-from-the-chandeliers
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - ck806
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101070943-ks607-hayward.jpg"
-image_caption: ""
 ---
 
 It all started in the early Sixties, in New York, of course. The clear delineations between artists and dancers were broken down and the Judson Dance Theatre came into being. A dance troupe operating in the spirit of its time, rebelling against the conventions of modern dance and ballet – a community where trained dancers and untrained poets, musicians, visual artists and film makers alike came together to conceive collectively created dance. Today at the [Hayward Gallery](http://www.haywardgallery.org.uk/), the delineations between artist and dancer are tested once again, but this time the dancers are you.

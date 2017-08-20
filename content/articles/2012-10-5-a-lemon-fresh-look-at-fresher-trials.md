@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Felix Sport Brings you a rough and incomplete guide to some of the fresher trial events
 date: "2012-10-05 13:34:51 +0100"
-
-# Attributes from Felix Online V1
-id: "2630"
-old_path: /sport/2630/a-lemon-fresh-look-at-fresher-trials
+image: "http://felixonline.co.uk/img/upload/201210051436-felix-sam_0236.jpg"
+image_caption: "Just wondering how to put a bib on. Hang on, I'll get Balotelli to explain it"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2630/a-lemon-fresh-look-at-fresher-trials
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +23,6 @@ authors:
  - fsport
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210051436-felix-sam_0236.jpg"
-image_caption: ""
 ---
 
 __Women’s Rugby__

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Tattoos are nothing new
 date: "2016-01-29 09:39:16 +0000"
-
-# Attributes from Felix Online V1
-id: "5852"
-old_path: /arts/5852/the-ancient-art-of-being-illustrated-
+image: "http://felixonline.co.uk/img/upload/201601290938-felix-Maud_Stevens_Wagner.jpg"
+image_caption: "Maud Wagner, the first known female tattooist in the US 1911."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5852/the-ancient-art-of-being-illustrated-
-imported: true
 comments:
  - value: >
      Hey there, <br> Look I know you get people bombarding you with messages telling you how they can get you ranked on Google, <br> and if you you pay them 10,000 pound they may or may not rank you in 3 to 6 months..! <br> sucks right? <br> How about I put a video commercial in front of EVERYONE that is LOOKING for your business service in the areas you cover... <br> and more to the point what if I do some work FREE for you to prove I am the real deal and not some kind of all talk no action type of guy.... <br> sound good? <br> Get all the info and some live proof <br> here http://abouttrillions.com <br> thanks .Dean. <br>let me get you clients for free http://abouttrillions.com
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
  - im1413
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201601290938-felix-Maud_Stevens_Wagner.jpg"
-image_caption: ""
 ---
 
 Skin as a blank canvas is not a new idea; Ötzi the Iceman, frozen sometime between 3239 and 3105 BCE had a tattoo. Inking or marking skin unites cultures and continents across the ages.

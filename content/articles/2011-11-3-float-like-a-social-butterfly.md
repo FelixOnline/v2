@@ -4,18 +4,15 @@ title: >
 subtitle: >
   How your online presence may relate to your real life presence
 date: "2011-11-03 21:43:31 +0000"
-
-# Attributes from Felix Online V1
-id: "1692"
-old_path: /comment/1692/float-like-a-social-butterfly
+image: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1692/float-like-a-social-butterfly
-imported: true
 comments:
  - value: >
      I'm not sure how I'd react if anthropologists in 200 years' time say with all seriousness that Facebook was an advance -- certainly it can't be ruled out. <br> <br>How many people have you ever deleted/blocked? ,It leaves me curious about the long term impact the Internet is having on our cognitive processes and brain structures, if any! <br> <br>I'm not sure how many I've blocked or deleted, but I wouldn't say it's completely out of the picture. I don't really tend to accept requests from people I haven't met (or don't believe I will in the foreseeable future).,Further reading: <br> <br>http://news.yahoo.com/no-facebook-not-ruining-grades-study-173303114-20111012.html,i think u look very sexy in your pic yes i do ur face is very round and sexy,I actually think his face isn't at all sexy. But it is round.,I actually think his face isn't at all sexy. But it is round.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-image_caption: ""
 ---
 
 You may notice a story I ran [in the Science section last week](http://felixonline.co.uk/science/1628/study-links-facebook-friends-with-brain-regions/) regarding a study which linked the amount of Facebook friends to the size of an individual’s grey matter. It is interesting to note that there have been many studies which have correlated changing brain structures to internet usage. Although we must not misinterpret correlation as causation in any case, we can discuss the potential implications.

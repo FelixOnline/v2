@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The perfect summer hangout spot is ten minutes from Imperial
 date: "2012-06-07 18:47:55 +0100"
-
-# Attributes from Felix Online V1
-id: "2524"
-old_path: /arts/2524/weiwei-to-the-serpentine-
+image: "http://felixonline.co.uk/img/upload/201206071946-ams111-arts1.gif"
+image_caption: "I’m like Jamiroquai, going deeper underground"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2524/weiwei-to-the-serpentine-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - lj1409
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206071946-ams111-arts1.gif"
-image_caption: ""
 ---
 
 Walking up from College, along West Carriage Drive through Hyde Park, it’s easy to miss __The Serpentine Gallery__’s latest pavilion. Contained underground, it will quickly become West London’s coolest summer hangout. But what makes this installation particularly interesting is the story behind it and the extraordinary collaboration of artists that have designed it.

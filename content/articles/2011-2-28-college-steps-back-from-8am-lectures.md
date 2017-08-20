@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Reduced lunch hour still on the cards
 date: "2011-02-28 21:21:33 +0000"
-
-# Attributes from Felix Online V1
-id: "945"
-old_path: /news/945/college-steps-back-from-8am-lectures
+image: "http://felixonline.co.uk/img/upload/201101202044-ks607-timetabl.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/945/college-steps-back-from-8am-lectures
-imported: true
 comments:
  - value: >
      Fell out of bed feielng down. This has brightened my day!,71GcF6 <a href="http://bufntkwrbvnx.com/">bufntkwrbvnx</a>, <a href="http://www.getyourmeds.net/">ultram</a> sfzfjc <a href="http://www.medbalance.net/">priligy</a> 9880
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101202044-ks607-timetabl.jpg"
-image_caption: ""
 ---
 
 Last Wednesday saw the first meeting of the committee in charge of discussing the possibility of changing college hours. Members of the committee, a mix of representatives for students, staff and Imperial College had the opportunity to begin debating the feasibility of changing college hours and possible solutions.

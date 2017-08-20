@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Giulia Gabrielli looks at the Nation’s new addiction to Poldark
 date: "2015-05-04 16:58:10 +0100"
-
-# Attributes from Felix Online V1
-id: "5492"
-old_path: /tv/5492/my-new-wind-swept-muscly-hero
+image: "http://felixonline.co.uk/img/upload/201505041758-ps3110-screen-shot-2015-05-04-at-17.57.59.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5492/my-new-wind-swept-muscly-hero
-imported: true
 comments:
  - value: >
      That's an inventive answer to an ineertsting question
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505041758-ps3110-screen-shot-2015-05-04-at-17.57.59.png"
-image_caption: ""
 ---
 
 I rarely write an article about a programme and focus so much interest on its main character. Of course there are heartthrobs who keep you glued to the screen, but Ross Poldark is different. The reason why he is different, is that rarely such a hype has been built around a single character, to the detriment of an otherwise rather empty show.

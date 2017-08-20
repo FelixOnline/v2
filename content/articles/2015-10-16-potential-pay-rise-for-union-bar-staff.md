@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Union council asked about paying students the London Living Wage
 date: "2015-10-16 14:28:40 +0100"
-
-# Attributes from Felix Online V1
-id: "5656"
-old_path: /news/5656/potential-pay-rise-for-union-bar-staff
+image: "http://felixonline.co.uk/img/upload/201510161528-ygr12-201101132133-ks607-fivesixe.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5656/potential-pay-rise-for-union-bar-staff
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510161528-ygr12-201101132133-ks607-fivesixe.jpg"
-image_caption: ""
 ---
 
 At last Monday’s Union Council meeting, the question was raised as to whether the union should be paying student bar workers the London Living Wage.

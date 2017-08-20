@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Rowers take on Nottingham
 date: "2012-05-18 16:46:48 +0100"
-
-# Attributes from Felix Online V1
-id: "2478"
-old_path: /sport/2478/bank-holiday-boat-bucs-
+image: "http://felixonline.co.uk/img/upload/201205181750-felix-tim-richards-and-wilf-kimberley.jpg"
+image_caption: "Tim Richards and Wilf Kimberley bask in the glory of BUCS"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2478/bank-holiday-boat-bucs-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +23,6 @@ authors:
  - felix
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205181750-felix-tim-richards-and-wilf-kimberley.jpg"
-image_caption: ""
 ---
 
 The annual three day BUCS regatta at Nottingham’s Holme Pierrepont is usually a test of endurance, both physical and mental, and this year was no exception. With competitors entered in multiple events on a single day and with weather ranging from pouring rain to brilliant sunshine, ICBC was put through its paces from start to finish. By the end of the weekend, 126 BUCS points had been accumulated as well as an array of medals, many coming from the lightweight men.

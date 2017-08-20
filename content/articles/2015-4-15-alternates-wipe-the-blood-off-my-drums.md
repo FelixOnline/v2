@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Joshua Renken reviews Whiplash
 date: "2015-04-15 22:43:58 +0100"
-
-# Attributes from Felix Online V1
-id: "5465"
-old_path: /film/5465/alternates-wipe-the-blood-off-my-drums
+image: "http://felixonline.co.uk/img/upload/201504152334-jr2514-whiplashimage.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5465/alternates-wipe-the-blood-off-my-drums
-imported: true
 comments:
  - value: >
      Thanks very nice blog! <br>oakley frogskins infinite hero http://www.be-simple.it/?it-oakley-frogskins-infinite-hero-20237.html,fitflop australia sale <br>buy fitflops online http://fitflopsau.blogspot.com/,shoes with red bottoms <br>christian louboutin outlet http://canadachristianlouboutin.blogspot.com/,Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means more now than ever since the new Google update: Panda. No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings, You now NEED On-Page SEO. So what is good On-Page SEO?First your keyword must appear in the title.Then it must appear in the URL.You have to optimize your keyword and make sure that it has a nice keyword density of 3-5% in your article with relevant LSI (Latent Semantic Indexing). Then you should spread all H
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +23,6 @@ authors:
  - jr2514
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201504152334-jr2514-whiplashimage.jpg"
-image_caption: ""
 ---
 
 Written and shot by the young American director Damien Chazelle, Whiplash is an ambitious piece of storytelling that chronicles the development and suffering of a young musician with dreams of becoming one of the greatest drummers of his generation. The film follows Shaffer Conservatory of Music freshman Andrew Neyman (Miles Teller), who is handpicked by the demanding and much-feared teacher, Terrence Fletcher (J.K. Simmons), to be a drummer in a jazz orchestra created for the competition circuit.

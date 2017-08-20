@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Halls survey asks whether Ethos should remain free or not
 date: "2011-03-10 19:45:28 +0000"
-
-# Attributes from Felix Online V1
-id: "1056"
-old_path: /news/1056/union-launches-welfare-and-long-awaited-halls-surveys
+image: "http://felixonline.co.uk/img/upload/201102171936-ks607-hallshal.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1056/union-launches-welfare-and-long-awaited-halls-surveys
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102171936-ks607-hallshal.jpg"
-image_caption: ""
 ---
 
 The Union’s delayed [survey on hall rents](http://www.surveymonkey.com/s/hallrent) has launched this week. It comes after weeks of debate about the value of the halls Amenities fund, which subsidises social events and is paid into by all students in halls. The survey asks a range of questions including whether or not students think that Ethos should remain free or not.

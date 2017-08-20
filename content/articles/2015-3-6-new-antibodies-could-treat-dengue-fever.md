@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Utsav Radia on Imperial research that could lead to the first vaccine
 date: "2015-03-06 17:07:19 +0000"
-
-# Attributes from Felix Online V1
-id: "5364"
-old_path: /science/5364/new-antibodies-could-treat-dengue-fever
+image: "http://felixonline.co.uk/img/upload/201503061707-cj914-aedes_aegypti_biting_human-copy.jpg"
+image_caption: "The Aedes aegypti mosquito: dengue fever causes severe flu-like symptoms, but no vaccine currently exists."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5364/new-antibodies-could-treat-dengue-fever
-imported: true
 comments:
  - value: >
      louboutin shoes sale <br>discount christian louboutin http://canadachristianlouboutinoutlet.blogspot.com/,NAuIc4 http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - ur13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503061707-cj914-aedes_aegypti_biting_human-copy.jpg"
-image_caption: ""
 ---
 
 Researchers from the Department of Medicine at Imperial have identified a new class of antibodies that is effective against the virus that causes dengue fever.

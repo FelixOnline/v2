@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Sophia Goldberg samples a three course meal at Balans and reports back...
 date: "2012-10-05 13:14:44 +0100"
-
-# Attributes from Felix Online V1
-id: "2623"
-old_path: /food/2623/balans-ed-meal
+image: "http://felixonline.co.uk/img/upload/201210051414-felix-960x385_balans-in-earls-court-just-minutes-from-base2stay-kensington.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2623/balans-ed-meal
-imported: true
 comments:
  - value: >
      Chris on Word to the wise: All the chicken is good here, but the wings are prbloaby a little better than the cutlet if you're hav...Brian Smith on I was in Raleigh visiting old friends. We had a decent dinner there during Raleigh's Dining out week. The food is good, ... on The Well at Five Points is re-opening on August 30th.deb in raleigh on North Raleigh really needed Sola Cafe! It's clean and homey and get the TANGERINE AND GINGER ICED TEA.Articles Reviews Small Bites Openings Closings,Brian Smith on I was in Raleigh visiting old<a href="http://xmhychoxaeh.com"> fdniers</a>. We had a decent dinner there during Raleigh's Dining out week. The food is good, ... on The Well at Five Points is re-opening on August 30th.deb in raleigh on North Raleigh really needed Sola Cafe! It's clean and homey and get the TANGERINE AND GINGER ICED TEA., inflicting automobili insurance qoutes cheap generic cialis car insurance , hours-and end online accutane balls group lively could pose
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -28,12 +25,6 @@ authors:
  - srg109
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210051414-felix-960x385_balans-in-earls-court-just-minutes-from-base2stay-kensington.jpg"
-image_caption: ""
 ---
 
 The Balans menu is an eclectic mix of dishes from Thai to Italian and a wide variety of cocktails. It is a café style restaurant, which specialises in cocktails. If you can’t agree where to eat out, then this is a great place for you as there’s something for everyone on the menu.

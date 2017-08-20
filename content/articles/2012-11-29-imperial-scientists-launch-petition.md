@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Petition for the government to protect imports of research animals.
 date: "2012-11-29 21:53:05 +0000"
-
-# Attributes from Felix Online V1
-id: "2981"
-old_path: /news/2981/imperial-scientists-launch-petition
+image: "http://felixonline.co.uk/img/upload/201211292150-tna08-image.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2981/imperial-scientists-launch-petition
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - nj1211
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211292150-tna08-image.jpg"
-image_caption: ""
 ---
 
 [A new government e-petition](http://epetitions.direct.gov.uk/petitions/40111) has recently been launched in opposition to the perceived growing effect that an animal rights activist campaign has had on the transport sector. The petition urges the government to protect the transportation of laboratory animals to halt the loss of vital medical research. This is a response to the increased refusal by haulage companies to import the animals from overseas due to increased lobbying by the activists’ campaign.

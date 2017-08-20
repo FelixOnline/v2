@@ -4,16 +4,13 @@ title: >
 subtitle: >
   After having been woken up by bright lights and house music at three o’clock in the morning, it’s safe to say that I was barely awake when me, Siân, Will and Sophie got into Sophie’s car at 05.45...
 date: "2014-05-23 14:19:06 +0100"
-
-# Attributes from Felix Online V1
-id: "4625"
-old_path: /sport/4625/imperial-take-on-europe-at-biggest-student-relay-in-europe---and-come-15th-out-of-320---part-two
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4625/imperial-take-on-europe-at-biggest-student-relay-in-europe---and-come-15th-out-of-320---part-two
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - wlj05
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 [___Continued from last week’s issue___](../sport/4610/imperial-put-in-marathon-performance-to-place-15th-in-europes-largest-student-relay/)

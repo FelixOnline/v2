@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Paul Beaumont takes a look at a typical Friday night down at the Apollo
 date: "2011-11-24 22:32:50 +0000"
-
-# Attributes from Felix Online V1
-id: "1836"
-old_path: /arts/1836/friends-of-the-mirth
+image: "http://felixonline.co.uk/img/upload/201111242232-pk1811-screen-shot-2011-11-23-at-12.25.47-pm.png"
+image_caption: "Greg clocked up his sixth failed marriage proposal this year"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1836/friends-of-the-mirth
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - pjb09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242232-pk1811-screen-shot-2011-11-23-at-12.25.47-pm.png"
-image_caption: ""
 ---
 
 Me being me, and this being only my second ever comedy gig, I was a little sceptical about certain aspects of last Friday’s line-up at __The Hammersmith Apollo__. A childrens’ entertainer? Musicians telling jokes? Charity?! Retrospectively, however, my aversion to live comedy was wholly unfounded. I loved it. Being a one-night-only gig, I’m not sure however as to what a Felix report should say other than “ha, I got to see the show and you didn’t”. My perception of reviews is that they are a tool for promoters yearning to sell more tickets to subsequent nights’ shows. Perhaps I’m supposed to plug next year’s concert (it’s an annual thing for ‘Friends of the Earth’, a charity whose main focus for the foreseeable future is Climate Change). Or perhaps I’m supposed to plug comedy gigs in particular. Whatever it is, overall the whole night was exemplary.

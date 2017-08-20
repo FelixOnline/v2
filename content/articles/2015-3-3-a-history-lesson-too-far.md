@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fred reviews the Tate Britain's exhibition on salt prints
 date: "2015-03-03 14:14:56 +0000"
-
-# Attributes from Felix Online V1
-id: "5322"
-old_path: /arts/5322/a-history-lesson-too-far
+image: "http://felixonline.co.uk/img/upload/201503031414-ps3110-screen-shot-2015-03-03-at-14.14.13.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5322/a-history-lesson-too-far
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503031414-ps3110-screen-shot-2015-03-03-at-14.14.13.png"
-image_caption: ""
 ---
 
 From one history lesson to another, this week also sees the opening of __Tate Britain__’s _Salt and Silver 1840-1860_, the first major exhibition devoted to salt prints, an early form of paper photography. Invented by Henry Fox Talbot, and set up as a competitor to the French _daguerreotype_, salt prints had a sharp focus but also a softness, which made them appear somewhat like charcoal rubbings.

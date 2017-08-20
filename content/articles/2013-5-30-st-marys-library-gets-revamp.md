@@ -4,16 +4,14 @@ title: >
 subtitle: >
   £3 million renovation is completed
 date: "2013-05-30 12:11:48 +0100"
-
-# Attributes from Felix Online V1
-id: "3642"
-old_path: /news/3642/st-marys-library-gets-revamp
+image: "http://felixonline.co.uk/img/upload/201305301310-tna08-st-mary-2.jpg"
+image_caption: "Dammit there’s ALWAYS a queue for the printer when you need it most"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3642/st-marys-library-gets-revamp
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305301310-tna08-st-mary-2.jpg"
-image_caption: ""
 ---
 
 The medical library at St Mary’s has been reopened following six months of renovation works on the building and facilities.

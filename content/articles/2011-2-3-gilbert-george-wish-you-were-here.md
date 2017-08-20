@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The postcard display at the White Cube gallery until 19th Feb .
 date: "2011-02-03 19:39:30 +0000"
-
-# Attributes from Felix Online V1
-id: "720"
-old_path: /arts/720/gilbert--george-wish-you-were-here-
+image: "http://felixonline.co.uk/img/upload/201102031935-nm1010-gilbertg.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/720/gilbert--george-wish-you-were-here-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - er310
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102031935-nm1010-gilbertg.jpg"
-image_caption: ""
 ---
 
 A seemingly endless tapestry of postcards greets visitors to the latest [Gilbert & George exhibition at White Cube](http://www.whitecube.com/exhibitions/gg%202011/). The aesthetic quality of the show is tangible from the start, even when one is not quite sure of the content of the pictures. The overall effect is that of giant, multicoloured quilts that cover the walls of two rooms. And then you get closer to the pictures; and each one is a surprise.

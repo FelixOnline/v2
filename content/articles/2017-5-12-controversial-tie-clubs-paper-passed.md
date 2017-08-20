@@ -4,16 +4,14 @@ title: >
 subtitle: >
   But not without drama (and extensive amendments)
 date: "2017-05-12 15:29:30 +0100"
-
-# Attributes from Felix Online V1
-id: "6930"
-old_path: /news/6930/controversial-tie-clubs-paper-passed
+image: "http://felixonline.co.uk/img/upload/201705121726-felix-18318761_10206484962882684_617786527_o.jpg"
+image_caption: "Media Chair Rob Garside literally eating popcorn at Council"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6930/controversial-tie-clubs-paper-passed
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ea3211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705121726-felix-18318761_10206484962882684_617786527_o.jpg"
-image_caption: ""
 ---
 
 During the final Council Meeting of spring term, a paper was passed that will limit the presence of the Tie Clubs at the Union. The invite only ‘secret’ clubs have been accused of sexism, discrimination, and elitism among other things in the past and the Union has time and time again reiterated it is not in any way affiliated with them.  The paper, proposed by Andrew Olson, attempted to limit tankard use by Tie Clubs by enforcing the Equal Opportunities Policy.

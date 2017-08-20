@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philip Kurukgy tells us how the Tories won him over
 date: "2017-06-02 14:14:03 +0100"
-
-# Attributes from Felix Online V1
-id: "7002"
-old_path: /comment/7002/why-im-voting-conservative-
+image: "http://felixonline.co.uk/img/upload/201706021613-felix-33331160870_f0a3690f0e_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/7002/why-im-voting-conservative-
-imported: true
 comments:
  - value: >
      Why do you presume May will be better at negotiating than Corbyn? She's already taken a needlessly aggressive stance and put the hackers of the rest of the EU up. <br>Not guaranteeing the rights of EU nationals from the outset was stupid, an attempt to use people's rights as a bargaining chip. May and Trump have to realise that international agreements are not games or chess, where one side loses and the gains, these international agreements are formed of compromise. <br>Don't lap up Theresa May's rhetoric, her strong and stable mantra is an attempt to undermine the opposition, nothing more.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +23,6 @@ authors:
  - pnk14
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706021613-felix-33331160870_f0a3690f0e_o.jpg"
-image_caption: ""
 ---
 
 Anyone who thinks that this election is not about Brexit, is out of touch with the reality of the task ahead. Brexit will be looked upon as a turning point in this country’s relationship with its neighbours. Some argued that this was the worst political choice this country has ever made. For a long time, I was one of those people. I found economic security in the status quo and certainty in the confines of a dysfunctional EU. However, the way Britain has been treated after Brexit by the EU highlights the divergences in the core of the European project. For Europe, the EU was an emotional peace project after WWII and the end of the cold war. For Britain, it was all about trade and never about giving up sovereignty. In the light of this disturbing EU tone, we must forge new trade agreements to secure our future. This country was always a merchant trading country. We need to be where the buyers are and it is not Corbyn who is going to deliver these trade deals.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Rory Fenton talks about his struggles with free market and government interaction
 date: "2011-10-14 10:19:40 +0100"
-
-# Attributes from Felix Online V1
-id: "1541"
-old_path: /politics/1541/one-little-piggy-went-to-market
+image: "http://felixonline.co.uk/img/upload/201110141114-felix-markets.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1541/one-little-piggy-went-to-market
-imported: true
 comments:
  - value: >
      'The problem with lemons' is real good, but didn't John Hassard say that the optimum solution to the Prisoners' Dilemma was co-operation? (With selective, restrained amounts of dicking on people...),Damn straight! But the market won't provide proper incentives for this, other than forming competition- killing cartels. Cooperation is the optimum solution, but regulation may be required to make sure it's the one people go for. A rational individual will snitch on his friend, a rational system will force them to cooperate. (I think)
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110141114-felix-markets.png"
-image_caption: ""
 ---
 
 I have a confession to make. Over the last year or so, I’ve been really quite evil. I really never meant to be, but there it is. Evil as a doorknob. Like many of my ilk, I can pin point the exact day the evil started, it was in November 2009 and I was in the Felix office, chatting to the Business Editor. The chat went something like this:

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Clara Clark Nevola reviews the latest from Imperial’s art gallery
 date: "2013-10-04 01:57:05 +0100"
-
-# Attributes from Felix Online V1
-id: "3807"
-old_path: /arts/3807/the-artistic-influences-of-mountain-sitting
+image: "http://felixonline.co.uk/img/upload/201310040247-jal08-arts-poster-copy3.jpg"
+image_caption: "A painting of a lumpen knot of thumbed clay maps out the awkward spread of entwined figures, alludin"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3807/the-artistic-influences-of-mountain-sitting
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - cfc111
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310040247-jal08-arts-poster-copy3.jpg"
-image_caption: ""
 ---
 
 What: Sitting With The Qualities of a Mountain Exhibition

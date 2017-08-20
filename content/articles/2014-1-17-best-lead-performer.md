@@ -4,16 +4,13 @@ title: >
 subtitle: >
   There are a many strange things about trying to decide who is the ‘best actor’ because whatever performance they give is through the lens of a director and rewritten by the editor.
 date: "2014-01-17 04:11:00 +0000"
-
-# Attributes from Felix Online V1
-id: "4253"
-old_path: /film/4253/best-lead-performer
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4253/best-lead-performer
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - pob12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 _Why we should join the Oscar for Best Actor and Best Actress into one award._

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Nida Mahmud on this Sunday’s ladies only event
 date: "2013-11-05 09:47:50 +0000"
-
-# Attributes from Felix Online V1
-id: "4005"
-old_path: /features/4005/smoky-not-smudgy-is-back
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4005/smoky-not-smudgy-is-back
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - nm708
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 As Charity Week draws to an end, this Sunday marks the return of Smoky Not Smudgy (SnS); this is a flagship ladies only pampering event.

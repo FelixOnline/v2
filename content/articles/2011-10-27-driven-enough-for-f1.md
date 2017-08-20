@@ -4,18 +4,16 @@ title: >
 subtitle: >
   James Cronshaw talks to Formula 1 engineer Dirk DeBeer about all things motorsport
 date: "2011-10-27 23:39:41 +0100"
-
-# Attributes from Felix Online V1
-id: "1622"
-old_path: /news/1622/driven-enough-for-f1
+image: "http://felixonline.co.uk/img/upload/201110280038-felix-2011-09-01_0044_edited-1.jpg"
+image_caption: "Lotus test their 2011 car in Cambridgeshire"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1622/driven-enough-for-f1
-imported: true
 comments:
  - value: >
      it's Peter Bearman!,Thanks for cogtributinn. It's helped me understand the issues.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110280038-felix-2011-09-01_0044_edited-1.jpg"
-image_caption: ""
 ---
 
 I’m standing on a windswept airfield somewhere in Cambridgeshire. In the distance there’s the scream of a V8. A black silhouette of a car is racing at great speed down the runway. Behind me a radio crackles and the car turns off the runway, heading to where I’m standing, engine warbling at each downshift.

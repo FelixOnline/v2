@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lillan Agerup reports as IC Water Polo record their first ever victory in Germany
 date: "2013-11-24 23:59:44 +0000"
-
-# Attributes from Felix Online V1
-id: "4137"
-old_path: /sport/4137/water-polo-germany-tour-diary
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4137/water-polo-germany-tour-diary
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - lma211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 To kick off the season, the water polo team returned for the fifth time to Germany for the Aachen Annual Water Polo Tournament. Not having previously won any matches in Germany, the team arrived with no expectations other than giving it their best shot and getting in a lot of playing time to allow all levels of players improve their skills.

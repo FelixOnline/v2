@@ -4,18 +4,15 @@ title: >
 subtitle: >
   I don't mind getting old, it's just the ageing and dying that annoys me
 date: "2010-12-02 21:48:36 +0000"
-
-# Attributes from Felix Online V1
-id: "497"
-old_path: /comment/497/a-way-to-reverse-ageing-yes-please
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/497/a-way-to-reverse-ageing-yes-please
-imported: true
 comments:
  - value: >
      Now I know who the braniy one is, Ill keep looking for your posts.,i0YQPm <a href="http://vokudgfshtkg.com/">vokudgfshtkg</a>, <a href="http://www.latimeds.net/">what is nexium used for</a> 95331 <a href="http://www.onlinemedico.com/">buying cymbalta</a> &gt;:(( <a href="http://www.medicahelp.net/">purchase seroquel</a> :-DDD
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - ma1307
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Ah yes, Nature: everyone’s favourite science journal. We slag it off as populist bullshit but secretly dream of the day our paper will be published in its glossy, simplistic covers. What garbage have they thrown at us this week? Oh hurrah, we’re going to be able to reverse the aging process. And no doubt, by the time the mainstream media has finished bouncing on this story like Berlusconi on a power hungry teenie-bopper; we will be queuing up in our thousands to have this wonder enzyme pumped into our bodies. Let’s get one thing straight: if I earn enough money, I will probably get plastic surgery when I’m older to sort myself out.

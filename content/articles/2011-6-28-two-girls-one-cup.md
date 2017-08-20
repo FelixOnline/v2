@@ -4,18 +4,16 @@ title: >
 subtitle: >
   It’s shit...
 date: "2011-06-28 11:34:21 +0100"
-
-# Attributes from Felix Online V1
-id: "1443"
-old_path: /tv/1443/two-girls-one-cup
+image: "http://felixonline.co.uk/img/upload/201106281234-felix-cup-copy.jpg"
+image_caption: "Two girls in a cup, not quite the same..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1443/two-girls-one-cup
-imported: true
 comments:
  - value: >
      I LOLd.
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -28,12 +26,6 @@ authors:
  - tvfelix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106281234-felix-cup-copy.jpg"
-image_caption: ""
 ---
 
 Two Girls One Cup is a scatological fantasy drama centered around a solitary cup, which is shared by the two girls named in the title. Produced by Brazilian company MFX Media in 2007, it is the notorious work of the self-described “compulsive fetishist” Marco Fiorito. What a dirty bastard he is.

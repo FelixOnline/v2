@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A Holland based pun for an editorial suggesting a solution to the Holland Club issue
 date: "2012-11-23 12:22:45 +0000"
-
-# Attributes from Felix Online V1
-id: "2978"
-old_path: /comment/2978/dutch-courage
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2978/dutch-courage
-imported: true
 comments:
  - value: >
      This. Exactly this.,This. Exactly this.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 [The Holland Club has closed](http://felixonline.co.uk/news/2931/holland-club-closed/). The space will be redeveloped by College and Commercial Services into something new. Apparently, everyone was crying out for more food outlets. Dinner and such.

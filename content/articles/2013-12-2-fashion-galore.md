@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A brand new exhibition opened at Somerset house last week, documenting the life of the late Isabella Blow; a lady highly regarded within the fashion industry. Born into the privileged world of British aristocracy...
 date: "2013-12-02 22:05:57 +0000"
-
-# Attributes from Felix Online V1
-id: "4162"
-old_path: /arts/4162/fashion-galore
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4162/fashion-galore
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - ml2510
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 What: Isabella Blow: Fashion Galore!

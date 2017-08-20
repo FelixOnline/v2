@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Giulia Costa gives top tips on how to be a better human being
 date: "2017-02-17 14:36:09 +0000"
-
-# Attributes from Felix Online V1
-id: "6782"
-old_path: /comment/6782/you-have-no-excuse-for-not-recycling
+image: "http://felixonline.co.uk/img/upload/201702171436-felix-Screen Shot 2017-02-17 at 14.35.53.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6782/you-have-no-excuse-for-not-recycling
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - giuliacosta
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702171436-felix-Screen Shot 2017-02-17 at 14.35.53.png"
-image_caption: ""
 ---
 
 Have you ever spent a long time staring at the coloured bins wondering where your everything should go? Wondering if someone is judging your bin choice? Well good, because recycling is important.

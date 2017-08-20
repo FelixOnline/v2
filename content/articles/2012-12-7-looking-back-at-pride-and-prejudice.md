@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rhys Davies reads a classic
 date: "2012-12-07 01:24:18 +0000"
-
-# Attributes from Felix Online V1
-id: "3034"
-old_path: /books/3034/looking-back-at-pride-and-prejudice
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3034/looking-back-at-pride-and-prejudice
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -23,12 +20,6 @@ authors:
  - rjd08
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Pride and Prejudice by Jane Austen was first published in 1813. It hardly belongs on the latest bestsellers chart so why have I landed on this book, now? A few reasons. One, it’s one of those classic books that you always promise yourself that you’ll read (but never do). Indeed, I’ve put off reading this book for nearly two hundredyears. Two, my girlfriend adores Austen and I wanted to know what all the fuss with this chick-lit is. So, in total, a milieu of self-improving and self-motivated reasons.

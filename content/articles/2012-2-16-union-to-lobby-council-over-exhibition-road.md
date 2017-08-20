@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Unclear roundabout highlighted as potential risk
 date: "2012-02-16 22:25:26 +0000"
-
-# Attributes from Felix Online V1
-id: "2214"
-old_path: /news/2214/union-to-lobby-council-over-exhibition-road
+image: "http://felixonline.co.uk/img/upload/201202162224-sjw209-dsc_6844.jpg"
+image_caption: "The unveiling of the new Exhibition Road, not lobbying in action"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2214/union-to-lobby-council-over-exhibition-road
-imported: true
 comments:
  - value: >
      Seriously? This is the only thing I've heard Massie do all year, and let's be honest it's a complete load of bollocks. Maybe he should spend less time with miss palm and her five children and more time doing his job.,In a week where you would expect your student representative to actually do some work (This week is Eating Disorders Awareness Week), the only substance cuming from the office of our DPW is “uncertainty about the boundaries of the road on the west side, particularly the tactile borders”. When there are way more important issues in the country to campaign about, I begin to loose faith. FFS there's even a banner about LGBT month, yet another week of welfare is missed by Massie. <br> <br>How the student body accepts the colossal waste of money that is a sabbatical salary in such an absent representative is beyond me. Then again the only people who can do anything about it are most likely part of the "inner circle" constructed by incestuous Union polotics.,I'm not even going to try and post as just ano
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162224-sjw209-dsc_6844.jpg"
-image_caption: ""
 ---
 
 [In a paper](http://www.imperialcollegeunion.org/data/files/imperial-college-union-stance-on-exhibition-road-3971.pdf) brought to Union Council on Monday 13 February by Deputy President (Welfare) Nicolas Massie, the Union proposed to lobby Westminster City Council about multiple concerns with [the new Exhibition Road layout](http://felixonline.co.uk/news/2121/exhibition-road-closes-for-grand-opening-/). The paper pointed out the “uncertainty about the boundaries of the road on the west side, particularly the tactile borders”.

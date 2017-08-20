@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Chris Kaye reflects on this year's centenary of the end of The Great War
 date: "2014-11-14 19:55:16 +0000"
-
-# Attributes from Felix Online V1
-id: "4859"
-old_path: /comment/4859/chris-kaye-discusses-remembrance-day
+image: "http://felixonline.co.uk/img/upload/201411141954-ps3110-l0l.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4859/chris-kaye-discusses-remembrance-day
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411141954-ps3110-l0l.jpg"
-image_caption: ""
 ---
 
 This week I had the honour of laying a wreath, on behalf of the Students of Imperial College, to those staff and students who paid the Ultimate sacrifice in service during the First and Second World Wars. The moving ceremony was held in the foyer of the City & Guilds Building and was led by the College Chaplain with a reading from the College Archivist.

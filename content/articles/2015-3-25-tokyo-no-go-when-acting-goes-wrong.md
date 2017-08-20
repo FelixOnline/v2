@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Arianna Sorba finds bad acting deflates Harajuku Girl’s fine script
 date: "2015-03-25 13:02:42 +0000"
-
-# Attributes from Felix Online V1
-id: "5443"
-old_path: /arts/5443/tokyo-no-go-when-acting-goes-wrong
+image: "http://felixonline.co.uk/img/upload/201503251302-ff712-harukaabeandnomogakujiandmegkubota-alexander-newton.jpg"
+image_caption: "Haruka Abe (Mari), Nomo Gakuji (Mr Okada), and Meg Kubota (Mrs Okada) in Finborough Theatre’s Harajuku Girls "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5443/tokyo-no-go-when-acting-goes-wrong
-imported: true
 comments:
  - value: >
      Howdy! I could have sworn I've been to this web site before but after looking at many of the articles I realized it's new to me. Nonetheless, I'm definitely delighted I discovered it and I'll be book-marking it and checking back frequently! <br>ugg boots elle http://www.be-simple.it/?it-ugg-boots-elle-1765.html,Today, I went to the beach with my children. I found a sea shell and gave it to my 4 year old daughter and said "You can hear the ocean if you put this to your ear." She placed the shell to her ear and screamed. There was a hermit crab inside and it pinched her ear. She never wants to go back! LoL I know this is totally off topic but I had to tell someone! <br>moncler outlet online switzerland 2015 http://www.metskinderschoenen.nl/?nl-moncler-outlet-online-switzerland-2015-14974.html,Thank you for sharing your superb web site <br>NHL 17 http://www.diygeo.com/content/buy-nba-2k17-vc-gambling-visiting-movie-theater-chair-near-you,Many thanks, this site is really helpful <br>nhl 17 coins http://bestnba2k16coins.activ
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251302-ff712-harukaabeandnomogakujiandmegkubota-alexander-newton.jpg"
-image_caption: ""
 ---
 
 I’m pretty obsessed with Japanese culture. I’m also an ardent feminist, and I’m constantly moaning to anyone who’ll listen about the lack of interesting female characters in modern literature. So I was more than ready to love _Harajuku Girls_, a new play about three women growing up in modern day Tokyo, treading the line between empowerment and victimhood as they take up work in Tokyo’s notorious red light district. Heck, they even gave me a free pint with my press ticket. When I settled in to my excellent seat at the __Finborough Theatre__, a tiny venue above a pub, I was already glowing with admiration for the whole thing.

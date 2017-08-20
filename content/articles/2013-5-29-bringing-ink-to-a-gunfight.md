@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Sanchit Sharma is showing off his brand new tatts...
 date: "2013-05-29 16:12:45 +0100"
-
-# Attributes from Felix Online V1
-id: "3634"
-old_path: /games/3634/bringing-ink-to-a-gunfight
+image: "http://felixonline.co.uk/img/upload/201305291709-tna08-mark-of-the-ninja-review-thumb-large.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3634/bringing-ink-to-a-gunfight
-imported: true
 comments:
  - value: >
      Shame we have to put up with Microsoft's desperate sclrmbae for timed exclusivity on yet another great looking game, but guys, as soon you have this available on PC, I'm gonna be right there on day one. Looks awesome.I know you can't talk about it, but I'm assuming like so many other MS Studios co-productions (Limbo, Braid, Joe Danger 2, etc) this will find it's way to PSN sooner or later wink wink nudge nudge, eh? Just saying cos I'd probably double dip if and when it does.No interest in another Xbox at this stage. Those things couldn't be any less reliable if they were made out of tissue paper.,Son las sorpresas que da el<a href="http://vyuexuyamv.com"> coimprtamoento</a> humanoO son las estadisticas? Quie9n sabe?No todos piensan como tfa , esta lista no se corresponde ni de cof1a con la que tfa imaginas que deberia ser.
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305291709-tna08-mark-of-the-ninja-review-thumb-large.jpg"
-image_caption: ""
 ---
 
 "Hey. You. Don’t you hear the bell? We need to get out of here, and fast. I’m here to help you. Rule number one: Don’t get me killed. Wait, where’s your sword? Stick to the darkness until you find it. Good thing you were out cold, looks like they don’t know you’re alive. Let’s keep it that way. Now come on, we’ve got to save Master Azai!”

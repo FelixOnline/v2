@@ -4,18 +4,15 @@ title: >
 subtitle: >
   This week: Pairs
 date: "2011-11-03 20:45:30 +0000"
-
-# Attributes from Felix Online V1
-id: "1673"
-old_path: /music/1673/punk-planet-by-douglas-heaven
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1673/punk-planet-by-douglas-heaven
-imported: true
 comments:
  - value: >
       $2? 200 RMB is more like 30 dollars!@SHE in China Sorry, I have made (okay, found not made) and Sweden didn't make the list. Nah, just kididng, I've looked up where it is (zone C) and will pop by to say hi. Hopefully get a picture together too.@Dingle Thanks for the minute by minute text updates! I am gonna let the early crowd die down and head over around 10am.
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 With the Eurozone gone to the dogs and its leaders making gold-digger eyes at China, it’s probably a good time to check out the best of Shanghai’s eclectic punk scene. Sure, there’s a whole Beijing vs Shanghai thing, but what Beijing has in the way of a distinct and cohesive sound, Shanghai more than makes up for in its DIY ethic.

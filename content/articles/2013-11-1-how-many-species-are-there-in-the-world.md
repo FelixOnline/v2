@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Philippa Skett discusses the difficulties associated with determining biodiversity
 date: "2013-11-01 09:34:32 +0000"
-
-# Attributes from Felix Online V1
-id: "3972"
-old_path: /science/3972/how-many-species-are-there-in-the-world
+image: "http://felixonline.co.uk/img/upload/201311010934-felix-science-snake.jpg"
+image_caption: "A new species of snake, Chironius challenger"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3972/how-many-species-are-there-in-the-world
-imported: true
 comments:
  - value: >
      8 ;)
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311010934-felix-science-snake.jpg"
-image_caption: ""
 ---
 
 Just how many species actually are there in the world? This mystery is up there with the other big questions that dominate science, and has been pursued by all manner of scientists over the years. The flummoxing phylogeny of organisms throughout history is one of the many factors as to why we just can’t seem to pinpoint a magic number, alongside the natural ebbing and flowing of numbers of species all the time; after all, it is the ultimate goal of genes to propagate their organismal stronghold into something bigger, better, faster or stronger, so species come and go as fast as evolution allows.

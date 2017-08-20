@@ -4,16 +4,13 @@ title: >
 subtitle: >
   ...our minds, will keep on ‘involving’, until we return to the dark ages where knowledge and logic were too scared to fight mythology and bullshit.
 date: "2012-11-01 22:51:22 +0000"
-
-# Attributes from Felix Online V1
-id: "2797"
-old_path: /comment/2797/a-dangerous-step-backwards
+image: "http://felixonline.co.uk/img/upload/201211021639-tna08-med3.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2797/a-dangerous-step-backwards
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - dmm04
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211021639-tna08-med3.jpeg"
-image_caption: ""
 ---
 
 In 1615, Galileo was tried and convicted by the Italian inquisition for his unorthodox views on the heliocentrism of our solar system. His denial to comply and bend over before the established power threw him into house arrest until the end of his life. However, it also sparked a scientific revolution, an attempt to distance knowledge from established sayings, dogmas and stories, whilst giving birth to one of the brightest periods of humanity. For the first time, knowledge and the logical search for truth was put ahead of fairy tales and excuses to sit on gold thrones under marble cupules.

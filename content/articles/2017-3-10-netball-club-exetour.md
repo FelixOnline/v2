@@ -4,16 +4,14 @@ title: >
 subtitle: >
   15 of Imperial Netball Club’s finest take Devon (and also play some Netball)
 date: "2017-03-10 14:40:12 +0000"
-
-# Attributes from Felix Online V1
-id: "6886"
-old_path: /cands/6886/netball-club-exetour
+image: "http://felixonline.co.uk/img/upload/201703101439-felix-17016472_10212239375399489_54928250_o (1).jpg"
+image_caption: "Partay! "
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/6886/netball-club-exetour
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - mw4414
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101439-felix-17016472_10212239375399489_54928250_o (1).jpg"
-image_caption: ""
 ---
 
 In the lead up to Varsity, most clubs double up on training, start running extra fitness classes and generally work even harder on their sport. Naturally, netball chose to spend the weekend partying in Exeter. Getting the first bus out of London, 15 girls from a mixture of all 6 teams headed into Exeter tired but excited to see what the night life is like for other universities. Despite not getting to the hotel until ten, the squad headed back out an hour later.

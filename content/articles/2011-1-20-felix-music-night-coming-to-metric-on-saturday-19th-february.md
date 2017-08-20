@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Awesome night of Felix-approved music coming to you Union
 date: "2011-01-20 20:04:07 +0000"
-
-# Attributes from Felix Online V1
-id: "622"
-old_path: /music/622/felix-music-night-coming-to-metric-on-saturday-19th-february
+image: "http://felixonline.co.uk/img/upload/201101201957-nm1010-mmetricf.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/622/felix-music-night-coming-to-metric-on-saturday-19th-february
-imported: true
 comments:
  - value: >
      you are mentioning a good point <a href="http://www.dalwax.com/web-enabling.html" title="Web Enabling"><strong>web enabling</strong></a> is definitely required for this work.
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - gep07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101201957-nm1010-mmetricf.jpg"
-image_caption: ""
 ---
 
 Students of Imperial College, UNITE! Sorry, I’ve always wanted to say that.

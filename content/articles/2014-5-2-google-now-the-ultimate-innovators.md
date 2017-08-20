@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Google announced a few weeks ago via a Google+ post that it has plans to create its very own smartwatch.
 date: "2014-05-02 01:48:20 +0100"
-
-# Attributes from Felix Online V1
-id: "4556"
-old_path: /tech/4556/google-now-the-ultimate-innovators
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4556/google-now-the-ultimate-innovators
-imported: true
 comments:
  - value: >
      innovator <br>noun <br>a person who introduces new methods, ideas, or products. <br> <br>"Returning to the smartwatch, Google aren’t the first to conceive of the idea of making the wearable device." <br> <br>So not really innovating then? <br> <br>And they bought Android, hardly Google innovating. They are great at spotting other people innovating and paying enough money to get the Google brand on it.,innovator noun: a person who introduces new methods, ideas, or products. "Returning to the smartwatch, Google aren’t the first to conceive of the idea of making the wearable device." So not really innovating then? And they bought Android, hardly Google innovating. They are great at spotting other people innovating and paying enough money to get the Google brand on it.
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -27,12 +24,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Google announced a few weeks ago via a Google+ post that it has plans to create its very own smartwatch. No concrete details on the wearable device are known as of yet, but the sources across the netscape indicate that it could build on already established partnerships with HTC, Asus, LG and others.

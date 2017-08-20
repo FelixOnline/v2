@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Emilie Beauchamp gives the account of the latest goings on in the US Presidential Election
 date: "2012-10-26 02:17:18 +0100"
-
-# Attributes from Felix Online V1
-id: "2738"
-old_path: /politics/2738/obama-vs-romney-the-presidential-debates-blow-by-blow-
+image: "http://felixonline.co.uk/img/upload/201210260317-tna08-romney-obama-debate-main.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2738/obama-vs-romney-the-presidential-debates-blow-by-blow-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210260317-tna08-romney-obama-debate-main.jpeg"
-image_caption: ""
 ---
 
 For the whole month of October, millions of people have held their breath as the highly climatic presidential debates took place, culminating in next Tuesday’s federal election. Beginning on October 3rd, the series of three debates enable the Democrat and Republican hopefuls to hammer their electoral platform onthe American populace and try to smash their opponent’s arguments into pieces. Here’s a recap for those who missed the fights:

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Last Exorcism? Probably not.
 date: "2013-06-05 12:18:38 +0100"
-
-# Attributes from Felix Online V1
-id: "3650"
-old_path: /film/3650/will-this-truly-be-the-last
+image: "http://felixonline.co.uk/img/upload/201306051317-tna08-the_last_exorcism_part2-2.jpg"
+image_caption: "Purging all of that useless knowledge after exams"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3650/will-this-truly-be-the-last
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +23,6 @@ authors:
  - mc4509
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306051317-tna08-the_last_exorcism_part2-2.jpg"
-image_caption: ""
 ---
 
 The last Last Exorcism certainly was not the “last” as it is followed by this pretty disastrous sequel that is somehow trying to bridge a gap for a potential third entry to turn the franchise into a trilogy – because any mildly successful horror series must at least have three.

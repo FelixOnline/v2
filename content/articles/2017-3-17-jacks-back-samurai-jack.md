@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Time doesn’t heal all wounds
 date: "2017-03-17 17:04:54 +0000"
-
-# Attributes from Felix Online V1
-id: "6909"
-old_path: /tv/6909/jacks-back--samurai-jack
+image: "http://felixonline.co.uk/img/upload/201703171704-felix-31.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6909/jacks-back--samurai-jack
-imported: true
 comments:
  - value: >
      i can find numerous great solutions basically have difficulty! <br>cheap madden mobile coins buy http://www.madden-store.com,Call it even. <br>pokemonbux pokemon go rare pokemon cheap http://www.pokemonbux.com,I do not have the slightest idea <br>albion online gold https://www.gopipol.com/blogs/2225/2272/new-albion-online-trailer-the-lore-of-the-keepers,nice going! <br>cheap Dofus Touch Kamas http://microvoltshackz.punbb-hosting.com/viewtopic.php?pid=2030,This is really a nice place. <br>Albion Online Gold http://www.imfaceplate.com/albion/upalbion-notices-albion-online-players-to-buy-safe-gold
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -26,12 +23,6 @@ authors:
  - ad4013
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171704-felix-31.jpg"
-image_caption: ""
 ---
 
 After an 11 year hiatus, cult-classic Samurai Jack makes a long awaited return to our screens. Wandering samurai Jack is still locked in an uphill battle against the demon Aku, and still stuck in a hellish future spawned from him. Genndy Tartakovsky’s aesthetic delight begins in media res, as had become a staple of the show’s original run. An opening monologue helpfully informs us that 50 years have passed since Jack was thrown into an unfamiliar future, and in that time he has not aged. Not physically, at least.

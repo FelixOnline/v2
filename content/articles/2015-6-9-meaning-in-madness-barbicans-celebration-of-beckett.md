@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Fred Fyles heads to the Barbican, where they are currently celebrating the work of Samuel Beckett, to watch Lessness and Waiting for Godot
 date: "2015-06-09 11:59:52 +0100"
-
-# Attributes from Felix Online V1
-id: "5605"
-old_path: /arts/5605/meaning-in-madness-barbicans-celebration-of-beckett
+image: "http://felixonline.co.uk/img/upload/201506091256-ff712-02.jpg"
+image_caption: "Sydney Theatre Company, Waiting for Godot, Hugo Weaving, Philip Quast, Richard Roxburgh and Luke Mullins"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5605/meaning-in-madness-barbicans-celebration-of-beckett
-imported: true
 comments:
  - value: >
      Hello there, just became aware of your blog through Google, and found that it is really informative. I'm going to watch out for brussels. I'll appreciate if you continue this in future. Many people will be benefited from your writing. Cheers! <br>canada goose jas den haag 2015 http://www.acmel.nl/nl/?nl-canada-goose-jas-den-haag-2015-9855.html,Excellent post. I used to be checking continuously this blog and I am inspired! Very helpful info particularly the closing section :) I handle such information much. I used to be looking for this certain info for a long time. Thank you and best of luck. <br>moncler careers 360 http://www.targettisportingclub.it/?it-moncler-careers-360-8783.html,Schmid's career record in Open Cup play is 15-7-1. Offer chosen to feature Clive Tyldesley from ITV as well as the UK announcer Andy Townsend. In order to can't, just search online for famous teams and manufacturers. <br>crÃ©dits fifa gratuit http://creditsfut.com/,
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506091256-ff712-02.jpg"
-image_caption: ""
 ---
 
 The great Irish dramatist and writer Samuel Beckett, whose oeuvre the __Barbican Centre__ are celebrating through the month of June, said that he wrote because writing was all that he was good for. Far be it from me to disagree with him, but the man greatly misestimated his talents. Beckett’s writing does not really exist in the realm of the written word; instead, what he was exceptionally talented at was creating an atmosphere. His works may be endlessly interpreted by generation upon generation of scholars, eager to eake out more and more meaning from every syllable, but it is upon the stage that his words really come to life, forcing us to sit up, pay attention, and be awed.

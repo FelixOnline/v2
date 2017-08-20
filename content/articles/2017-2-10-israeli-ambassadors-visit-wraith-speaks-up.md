@@ -4,18 +4,15 @@ title: >
 subtitle: >
   One-sidedness of the event down to miscommunication
 date: "2017-02-10 13:36:12 +0000"
-
-# Attributes from Felix Online V1
-id: "6742"
-old_path: /news/6742/israeli-ambassadors-visit--wraith-speaks-up
+image: "http://felixonline.co.uk/img/upload/201702101334-felix-IMG_6981.JPG"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6742/israeli-ambassadors-visit--wraith-speaks-up
-imported: true
 comments:
  - value: >
      Since when was it unacceptable to invite a speaker to explain his position and to then grill him about his position? To say this was a one sided event and that it was biased is an out and out lie, Mr Regev was questioned exstensively about the topics he had spoken about. The complete apathy obviously displayed by the PalSoc at not even bothering to reply to an email means that it is a disgrace they feel that they can criticise at all. Not only that, Proffesor Wraith clearly said at the end of the event that he would be delighted to do more and represent more sides of a wide and vast debate. This attempt at condemnation of an event that the PalSoc rejected being involved in displays the descent into the closed mindedness of many, if questioning their own beliefs and perceptions.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - mjj15
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101334-felix-IMG_6981.JPG"
-image_caption: ""
 ---
 
 Two weeks ago the Israeli ambassador to the UK, Mark Regev, visited Imperial to give a talk to students in an event that was shrouded in secrecy. An article detailing what went on at the event and the build-up to the day itself was published in felix last week but since then the chair of the talk, Dr. Matthew Wraith, and his students have contested points in the article (namely Palestinian Society’s statement). A piece on the subject can be found in Comment.

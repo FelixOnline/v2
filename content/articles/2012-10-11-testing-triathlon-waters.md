@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Sarah Lewis tells you all you need to know about the Triathalon
 date: "2012-10-11 20:30:01 +0100"
-
-# Attributes from Felix Online V1
-id: "2644"
-old_path: /sport/2644/testing-triathlon-waters
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2644/testing-triathlon-waters
-imported: true
 comments:
  - value: >
      If you are interested in joining, email triathlon@imperial.ac.uk or visit our website at http://dougal.union.ic.ac.uk/acc/triathlon/,bfQue es lo que te mueve a participar en el Half-Challenge Maresme?Despues de preedr 50 kg, iniciarme el las maratones, aprender a nadar sin aletas y empezar con la bici de mi nif1o, he empezado a prepararme para correr LA MAS GRANDE y cual sereda la mejor si no volver a mi tierra, vivo en Granada pero soc Db4Arenys de Mar y quiero estrenar mi bici nueva por todo lo alto, espero tener una plaza para mi, para demostrarme a mi mismo que estoy preparado para este reto, desde que hice el Triathlon de Motril, que me mueve? el orgullo, la superacion, la competicif3n, el reto, quizas, todo un poco.Saludos. Miguel Gonze1lez Pascual.
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -27,12 +24,6 @@ authors:
  - fsport
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I joined Imperial’s triathlon club in October 2011, with no real intention of ever competing in any triathlon; all I wanted was to come to the swimming sessions so that I could keep eating pies while a stress fracture healed. But even as Christmas rolled round and my foot went back to working order, I somehow didn’t manage to quit swimming. And every morning, no matter how gentle my intentions as I left home, I’d arrive at the lab a sweaty mess, after half an hour of silly commuter racing on my rattling, pannier-laden bike.

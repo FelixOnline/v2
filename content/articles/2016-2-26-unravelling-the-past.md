@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Coldwood Interactive’s Unravel is smart, but frustrating
 date: "2016-02-26 11:56:37 +0000"
-
-# Attributes from Felix Online V1
-id: "5977"
-old_path: /games/5977/unravelling-the-past
+image: "http://felixonline.co.uk/img/upload/201602261156-felix-unravel.jpg"
+image_caption: "Look at that swagger."
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/5977/unravelling-the-past
-imported: true
 comments:
  - value: >
      Many thanks very useful. Will certainly share website with my pals <br>fifa http://www.powerpress.fr/author/demetriabid/,Francy disse:ParabÃ©ns novamente ao CP! Lina vocÃª conseguiu desenvolver um Blog ,que Ã© unanimidade ,todos recorrem ao CP quando a viagem Ã© nÃ£o sÃ³ Paris ,como a FranÃ§a.Onde encontrar dicas atualizadas ,testadas e comprovadas?SÃ³ mesmo aqui, e tendo como companhia o cb#0;8lu2&amp;28221; do conexÃ£o .JÃ¡ se vÃ£o mais de 4 anos e cada dia gosto mais do teu blog.
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -26,12 +24,6 @@ authors:
  - cet13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261156-felix-unravel.jpg"
-image_caption: ""
 ---
 
 Platformers (that aren’t made by Nintendo) have seen a revival in recent years, with a large focus on artstyle and graphical fidelity. _Rayman Legends_, _LittleBigPlanet_, _Bionic Commando_, and _Shadow Complex_ are all notable for their presentation, whether realistic or stylised. Innovating within the platforming genre is hard, so developers often use visuals to distinguish their work.

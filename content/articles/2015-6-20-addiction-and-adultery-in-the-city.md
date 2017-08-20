@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Fred Fyles finds that the bravado of The Motherfucker with the Hat hides subtler themes
 date: "2015-06-20 16:25:58 +0100"
-
-# Attributes from Felix Online V1
-id: "5646"
-old_path: /arts/5646/addiction-and-adultery-in-the-city
+image: "http://felixonline.co.uk/img/upload/201506201721-ff712-jpeg-8.jpg"
+image_caption: "Ricardo Chavira and Yul Vázquez in The Motherfucker with the Hat"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5646/addiction-and-adultery-in-the-city
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506201721-ff712-jpeg-8.jpg"
-image_caption: ""
 ---
 
 ‘I mean, what are we - Europeans or some shit?’ cries Jackie, the hot-headed, recently-out-of-prison, honour-bound, macho-man central character of Stephen Adly Guirgis’ 2011 play _The Motherfucker with the Hat_, making its UK debut at the __National’s__ Lyttelton Theatre. And he’s right. This play, with its screeching city soundscape, larger-than-life characters, and tendency for expletives in every line, positively screams New York City. There are even the iconic fire escapes, hanging over the stage like swords of Damocles, reminding us that this certainly isn’t a European domestic drama.

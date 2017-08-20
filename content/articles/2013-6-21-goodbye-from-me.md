@@ -4,18 +4,15 @@ title: >
 subtitle: >
   An editorial on this year. My last as Felix Editor!
 date: "2013-06-21 00:05:31 +0100"
-
-# Attributes from Felix Online V1
-id: "3729"
-old_path: /comment/3729/goodbye-from-me
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3729/goodbye-from-me
-imported: true
 comments:
  - value: >
      Thank-you, Tim. :),Thank-you, Tim. :),Cheers Tim, you did a amazing job! Was great working with you this year! All the best for the future,Cheers Tim, you did a amazing job! Was great working with you this year! All the best for the future,Thanks Tim. <br>You have been great. Sometimes I felt you/the paper played it a bit safe, but on the whole the paper has been really well done this year,Thanks Tim. <br>You have been great. Sometimes I felt you/the paper played it a bit safe, but on the whole the paper has been really well done this year,Take a bow, son.,Take a bow, son.,Great work, Tim. Of course I'm a little biased.,Great work, Tim. Of course I'm a little biased.,Thank you so much Tim, it's been great to work with you, best of luck with what ever you do next, don't be a stranger, keep in touch,Thank you so much Tim, it's been great to work with you, best of luck with what ever you do next, don't be a stranger, keep in touch
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Well here we are. Nearly 30 issues later and we have come to the end. It’s pretty emotional really. I’ve invested an entire year of my life into this newspaper and I’m not sure what I can say that will do justice to how strange this feels. I will say that I hope you have enjoyed this year of Felix. I hope you have laughed, learnt, been shocked, been happy, and all feelings in between, while you casually flick through these pages on a Friday. I would first of all like to thank everyone involved in the production of the paper, especially the editorial team. Thanks for putting up with me for a year! Now, most importantly, I would like to thank you, the reader. You see, you are the lifeblood of this newspaper. You are what makes it great, not me. This paper would be nothing without you; it would be words whispered into the wind.

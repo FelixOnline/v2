@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Chewing over dietary restrictions
 date: "2012-03-13 14:19:41 +0000"
-
-# Attributes from Felix Online V1
-id: "2340"
-old_path: /comment/2340/a-revision-of-dietary-laws
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2340/a-revision-of-dietary-laws
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - va208
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 One of the overarching themes displayed by the main religions of the world is a set of dietary restrictions. An example is Islam, and its recommendation/order that you abstain from alcohol and swine. Many of these dietary restrictions were possibly in response to practical issues in the society in which the religion was born into. It’s reasonable to propose that avoiding pork and alcohol was a very good idea at the time of the birth of Islam because of the hazards of either in an arid climate: pigs rot quickly in the heat and harbour salmonella while alcohol is a diuretic.

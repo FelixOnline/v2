@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This Knightsbridge hotel doesn’t do snooty or pretentious
 date: "2010-10-28 19:35:46 +0100"
-
-# Attributes from Felix Online V1
-id: "266"
-old_path: /food/266/lunch-at-the-rembrandt
+image: "http://felixonline.co.uk/img/upload/201104201750-felix-868678.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/266/lunch-at-the-rembrandt
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - dhl106
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104201750-felix-868678.jpeg"
-image_caption: ""
 ---
 
 The mere mention that I am having lunch at [The Rembrandt](http://www.sarova.com/rembrandt/) in Knightsbridge brings gasps of excitement and jeers of disbelief. It’s not everyday that you dine in the Knightsbridge area, so I made every chance to boast about it!

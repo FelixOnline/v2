@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Max Falkenberg asks if this play glosses over an important issue
 date: "2014-11-06 21:44:52 +0000"
-
-# Attributes from Felix Online V1
-id: "4808"
-old_path: /arts/4808/king-charles-iii--princely-propaganda-or-royalist-treat
+image: "http://felixonline.co.uk/img/upload/201411062144-snb11-kc3-4766---tim-pigott-smith-by-johan-persson.jpg"
+image_caption: "Tim Pigott-Smith as King Charles III"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4808/king-charles-iii--princely-propaganda-or-royalist-treat
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - snb11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411062144-snb11-kc3-4766---tim-pigott-smith-by-johan-persson.jpg"
-image_caption: ""
 ---
 
 Royally entertaining…”, “stimulating comedy”, “a victoriously vulgar piece of light entertainment.” Not so fast!

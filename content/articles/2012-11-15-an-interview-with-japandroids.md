@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Mark England chews the cud with Japandroids
 date: "2012-11-15 21:33:17 +0000"
-
-# Attributes from Felix Online V1
-id: "2898"
-old_path: /music/2898/an-interview-with-japandroids
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2898/an-interview-with-japandroids
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - me1409
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Brian King, lead singer and guitarist of Japandroids, talked to me about London. his favourite record and where their awesome name originates from.

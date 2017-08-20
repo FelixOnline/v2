@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Astrid Armgarth has a nerdy fascination with Bones
 date: "2012-11-09 13:27:29 +0000"
-
-# Attributes from Felix Online V1
-id: "2858"
-old_path: /tv/2858/the-science-in-the-series
+image: "http://felixonline.co.uk/img/upload/201211091327-tna08-bones.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/2858/the-science-in-the-series
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +21,6 @@ authors:
  - aa18810
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091327-tna08-bones.jpg"
-image_caption: ""
 ---
 
 Recently, I read an interesting article about outraged nerds demanding a change of the outdated definition of the term nerd. As it stands, the official translation according to the Oxford English Dictionary is “a foolish or contemptible person who lacks social skills or is boringly studious”. At a university such as this there is no shortage of nerds or people that may be considered boringly studious. Most Imperial students would probably join in this uproar against old-fashioned terminology that fails to convey the full meaning of what it means to be a nerd!

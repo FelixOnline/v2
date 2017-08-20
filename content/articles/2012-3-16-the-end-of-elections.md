@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Union hopes for record turnout
 date: "2012-03-16 01:41:07 +0000"
-
-# Attributes from Felix Online V1
-id: "2401"
-old_path: /news/2401/the-end-of-elections
+image: "http://felixonline.co.uk/img/upload/201203160140-felix-screen-shot-2012-03-15-at-23.58.05.jpg"
+image_caption: "Procrastination tool of the now: the Elections statistics website"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2401/the-end-of-elections
-imported: true
 comments:
  - value: >
      Well said,Important stuff from Court, there are 2 other points which aren't as relevant as to what will happen to the results this time, the full paper will be out in a matter of weeks. <br> <br>ORDERS: <br> <br> <br>1. The decision of the Elections Committee to set aside all votes cast in the Deputy President (Welfare) Election from the start of voting to 1000 on Monday 12th March is declared unconstitutional. <br> <br>2. The decision of the Elections Committee in the above respect is quashed. <br> <br>3. It is declared that the Election for Deputy President (Welfare) was otherwise run constitutionally before the decision of the Elections Committee. <br> <br>4. The Court ratifies the election; it is declared that there will be no re-run of the election and all votes cast in the election will be counted.,Results haves now been announced <br> <br>http://www.imperialcollegeunion.org/news/deputy-president-welfare,548,ICUNS.html,Hi there, thanks for the post. <br> <br>I'm currently in the process of covering these stories, but I'm su
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203160140-felix-screen-shot-2012-03-15-at-23.58.05.jpg"
-image_caption: ""
 ---
 
 Voting in the Union’s “[Big Elections](http://union.ic.ac.uk/marketing/elections/index.php)” opened on Monday. As well as the Sabbatical, Student Trustee and Faculty Union Executive positions students can also use the Union’s online system to vote for members of their Departmental Society committee. 186 votes were cast in the first five minutes of voting, with well over 80,000 votes having been cast by over 5,200 voters at the time of going to print. This represents a turnout of 49% of the Undergraduate population and 13% of the Postgraduates, just over 30% of all Imperial students. This is already far above the average national turnout in UK university student elections, 16%. Imperial Union hopes to have achieved the largest turnout in the nation by the end of voting, with at least 55% of Undergraduates and 20% of Postgraduates having voted.

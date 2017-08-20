@@ -4,16 +4,13 @@ title: >
 subtitle: >
   How many of these will be under YOUR Christmas tree in a few weeks time?
 date: "2014-12-11 21:16:27 +0000"
-
-# Attributes from Felix Online V1
-id: "5035"
-old_path: /tv/5035/tis-the-season-for-stand-up-comedy-dvds
+image: "http://felixonline.co.uk/img/upload/201412112116-cj914-russell-howard-cmyk.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5035/tis-the-season-for-stand-up-comedy-dvds
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -25,12 +22,6 @@ authors:
  - gg2110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412112116-cj914-russell-howard-cmyk.jpg"
-image_caption: ""
 ---
 
 Chestnuts roasting on an open fire, it’s beginning to look a lot like Christmas, the goose is getting fat. In other words, though you may not know, not having ventured outside South Kensington since the second week of October, Santa is here!

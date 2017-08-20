@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Madeleine Maxwell let’s you know what it’s all about, and why you should care
 date: "2013-02-08 00:51:42 +0000"
-
-# Attributes from Felix Online V1
-id: "3278"
-old_path: /news/3278/its-finally-here-student-volunteering-week-13
+image: "http://felixonline.co.uk/img/upload/201302080047-tna08-hubs_svw_postersgenblue.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3278/its-finally-here-student-volunteering-week-13
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302080047-tna08-hubs_svw_postersgenblue.jpg"
-image_caption: ""
 ---
 
 Students – other than being the drunken, lazy, selfish creatures we’re perceived to be by all those people with real jobs – are also an amazing resource. We are young, healthy (hopefully), intelligent people with a massive capacity to bring about real change.

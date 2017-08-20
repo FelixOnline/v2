@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A guide to cinematic experiences during the five-week holiday
 date: "2012-03-08 21:47:33 +0000"
-
-# Attributes from Felix Online V1
-id: "2328"
-old_path: /film/2328/ten-new-releases-to-look-out-for-over-the-easter-break
+image: "http://felixonline.co.uk/img/upload/201203111450-mc4509-hunger-games.jpg"
+image_caption: "Jennifer Lawrence in The Hunger Games"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2328/ten-new-releases-to-look-out-for-over-the-easter-break
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +24,6 @@ authors:
  - mc4509
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203111450-mc4509-hunger-games.jpg"
-image_caption: ""
 ---
 
 __We Bought a Zoo (16 March)__

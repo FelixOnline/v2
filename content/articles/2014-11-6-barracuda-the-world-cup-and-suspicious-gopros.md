@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Imperial College Underwater Club takes a dive.
 date: "2014-11-06 21:11:42 +0000"
-
-# Attributes from Felix Online V1
-id: "4797"
-old_path: /cands/4797/barracuda-the-world-cup-and-suspicious-gopros-
+image: "http://felixonline.co.uk/img/upload/201411062111-cj914-gopr0234-copy.jpg"
+image_caption: "It is rumoured that one of the divers in this picture was celebrating a world cup result."
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/4797/barracuda-the-world-cup-and-suspicious-gopros-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -24,12 +22,6 @@ authors:
  - cj914
  - mk3809
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411062111-cj914-gopr0234-copy.jpg"
-image_caption: ""
 ---
 
 At midday on a Monday six Imperial College Underwater Club members met at Stanstead Airport. Some having already passed through check in the rest of us hurried to security, which was to delay us for far longer than anticipated, with one member having to have their bag unpacked and swept not once, but twice, due to a highly suspicious item… a GoPro handle (apparently they look like they contain liquid on X-ray).

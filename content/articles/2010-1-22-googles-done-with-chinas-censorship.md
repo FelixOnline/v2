@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Simon Worthington takes a look at the story that has the technology press going crazy over censorship
 date: "2010-01-22 19:04:37 +0000"
-
-# Attributes from Felix Online V1
-id: "56"
-old_path: /tech/56/googles-done-with-chinas-censorship
+image: "http://felixonline.co.uk/img/upload/201001221902-rsp07-technolo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/56/googles-done-with-chinas-censorship
-imported: true
 comments:
  - value: >
      Good for Google. Information is a right, and should be censored in any way or form.,lol why has it got ravi as author,Ravi uploaded this and I'm a little behind schedule with the back-end of this site so you can't select other authors at upload-time just yet... will fix this soon. <br> <br>Good article! As Ravi says, good for Google.
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001221902-rsp07-technolo.jpg"
-image_caption: ""
 ---
 
 Google and China have never really been the best of friends, and now finally it's all over. Following security breaches of Google servers by hackers thought to originate from China, last week Google announced that it would be removing censorship from all of its Chinese services. Although the future is still uncertain, it's extremely likely that we'll see the end of Google.cn and the company effectively exiled from the country. As is usual, Google claims the moral high ground and reinforces its “don't be evil” attitude, but other evidence suggests that Google may have another hidden agenda.

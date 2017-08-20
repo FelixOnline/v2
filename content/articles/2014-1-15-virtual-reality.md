@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Here Felix Games presents a poem for you: gamers are artists
 date: "2014-01-15 17:07:02 +0000"
-
-# Attributes from Felix Online V1
-id: "4217"
-old_path: /games/4217/virtual-reality
+image: "http://felixonline.co.uk/img/upload/201401151706-me1711-games_mario.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4217/virtual-reality
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - extuser0
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201401151706-me1711-games_mario.png"
-image_caption: ""
 ---
 
 Ah, what a powerful feeling!

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   "With performances like this, the 7s are sure to quickly rise up the table."
 date: "2011-12-01 21:24:43 +0000"
-
-# Attributes from Felix Online V1
-id: "1891"
-old_path: /sport/1891/football-mens-7s-make-light-work-of-heythrop
+image: "http://felixonline.co.uk/img/upload/201112012123-ams111-picture.jpg"
+image_caption: "Darren Ambrose, eat your heart out"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1891/football-mens-7s-make-light-work-of-heythrop
-imported: true
 comments:
  - value: >
      You put the wrong teams and scores at the top...otherwise great report!,don't blame me, blame the editors! <br> <br>:)
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +26,6 @@ authors:
  - ejl09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012123-ams111-picture.jpg"
-image_caption: ""
 ---
 
 __Football__

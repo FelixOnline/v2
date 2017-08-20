@@ -4,18 +4,15 @@ title: >
 subtitle: >
   During October 3.5 million French workers took to the streets to protest against changes to pension plans
 date: "2010-11-04 19:09:40 +0000"
-
-# Attributes from Felix Online V1
-id: "328"
-old_path: /comment/328/were-the-french-right-to-strike
+image: "http://felixonline.co.uk/img/upload/201011050937-ks607-frenchst.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/328/were-the-french-right-to-strike
-imported: true
 comments:
  - value: >
      An inneillgett point of view, well expressed! Thanks!,An inneillgett point of view, well expressed! Thanks!
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
  - sf305
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011050937-ks607-frenchst.jpg"
-image_caption: ""
 ---
 
 Samuel Furse

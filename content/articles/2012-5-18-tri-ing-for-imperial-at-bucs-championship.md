@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Swim, bike, run, done
 date: "2012-05-18 17:03:46 +0100"
-
-# Attributes from Felix Online V1
-id: "2479"
-old_path: /sport/2479/tri-ing-for-imperial-at-bucs-championship
+image: "http://felixonline.co.uk/img/upload/201205181803-felix-sprinttri-090.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2479/tri-ing-for-imperial-at-bucs-championship
-imported: true
 comments:
  - value: >
      A decade or so ago I told my rtehar slow young boss that there were a lot of good baseball movies but very few football movies. In the last few years that has changed. But there are still differences.Baseball movies are almost always about presonal transformation. Some are blatantly supernatural. But they almost always focus on an individual player. The baseball manager is a supporting actor. The star typically plays an over the hill pitcher or hitter.Football movies are built around an charismatic coach. The above-the-title star is in management. He transforms the losing squad into winners.The charismatic football coach is one of the few managers still aceptable in a Hollywood script. Ghetto school teacher scripts still get filmed, but in few other genres are leaders condidered appropriate for praise.I caught Executibe Suite on Turner Classic Movies the other night. This was 1951 major studio release about the death of a corporation CEO and the subsequent power struggle to fill his seat. The drammatic climax
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - sc308
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205181803-felix-sprinttri-090.jpg"
-image_caption: ""
 ---
 
 A 6-strong team from TriIC donned their lycra (or to be precise a pleasant Nylon-Spandex mix) to compete in the 340-strong field of May’s BUCS sprint triathlon championship. Arriving at the sunny Wiltshire in the morning, avoiding the wealth of carbon time trial bikes in the car park, the task of 750m of swimming, 25km of cycling and 5km of running lay ahead.

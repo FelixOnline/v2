@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Readers write in to tell us what they think of the cuts
 date: "2010-12-09 21:42:30 +0000"
-
-# Attributes from Felix Online V1
-id: "540"
-old_path: /comment/540/life-sciences-cuts-letters
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/540/life-sciences-cuts-letters
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ authors:
  - felix
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Dear Rector,__

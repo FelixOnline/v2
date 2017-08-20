@@ -4,16 +4,14 @@ title: >
 subtitle: >
   New insights into mysterious black holes
 date: "2012-02-23 20:46:05 +0000"
-
-# Attributes from Felix Online V1
-id: "2244"
-old_path: /science/2244/black-holes-cosmic-creators
+image: "http://felixonline.co.uk/img/upload/201202232043-cac111-black-hole.gif"
+image_caption: "Artist’s impression of a black hole"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2244/black-holes-cosmic-creators
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - pd111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202232043-cac111-black-hole.gif"
-image_caption: ""
 ---
 
 In the 1930s, soon after Einstein came up with his equations on general relativity, [Karl Schwarzchild ](http://www-history.mcs.st-and.ac.uk/Biographies/Schwarzschild.html)developed a solution that predicted what became known as a black hole. Essentially a mass compressed into such a small volume that its gravitational pull is literally irresistible; not even light is fast enough to escape. But then you already knew that.

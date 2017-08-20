@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sophie Middleton on how good vegetarian food can really be
 date: "2013-02-22 03:01:14 +0000"
-
-# Attributes from Felix Online V1
-id: "3377"
-old_path: /food/3377/vegsoc-do-sushi
+image: "http://felixonline.co.uk/img/upload/201302220301-tna08-sushii.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3377/vegsoc-do-sushi
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - felfood
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302220301-tna08-sushii.jpg"
-image_caption: ""
 ---
 
 Think vegetarian food is boring? Think again! VegSoc, Imperial’s Vegetarian Society was created five years ago to celebrate how amazing and diverse vegetarian cooking can be. We have regular events and always aim to do something unique, exciting and internationally inspired from hands-on vegan sushi rolling to American vegan pumpkin pie night.

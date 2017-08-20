@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Vittorio De Sica's 1948 masterpiece is a beautifully crafted portrayal of suffering and poverty in post war Rome
 date: "2011-02-17 19:23:05 +0000"
-
-# Attributes from Felix Online V1
-id: "816"
-old_path: /film/816/bicycle-thieves
+image: "http://felixonline.co.uk/img/upload/201102171909-nm1010-bicyclye.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/816/bicycle-thieves
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - egk08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102171909-nm1010-bicyclye.jpg"
-image_caption: ""
 ---
 
 A man searching for his bike hardly sounds like a great plot for one of the most beloved films of all time, but Vittorio De Sica's 1948 masterpiece is a beautifully crafted portrayal of suffering and poverty in post war Rome. Being the definitive Italian Neorealist film, Bicycle Thieves has all the anti-Hollywood touches that made this genre so refreshing. The cast are all amateurs, the script largely improvised and the whole film is shot on location.

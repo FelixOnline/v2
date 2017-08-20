@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Say goodbye to those foreign flings
 date: "2016-10-03 16:00:25 +0100"
-
-# Attributes from Felix Online V1
-id: "6299"
-old_path: /news/6299/uk-unis-fear-erasmus-drop-post-brexit
+image: "http://felixonline.co.uk/img/upload/201610031759-felix-eu create.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6299/uk-unis-fear-erasmus-drop-post-brexit
-imported: true
 comments:
  - value: >
      http://cialis-20mg-lowestprice.org/ - cialis-20mg-lowestprice.org.ankor 5mg-generic-cialis.net.ankor http://prednisone-20mg-buy.com/,http://cialis-20mg-lowestprice.org/ - cialis-20mg-lowestprice.org.ankor 5mg-generic-cialis.net.ankor http://prednisone-20mg-buy.com/,http://cialis-20mg-lowestprice.org/ - cialis-20mg-lowestprice.org.ankor 5mg-generic-cialis.net.ankor http://prednisone-20mg-buy.com/,http://cialis-20mg-lowestprice.org/ - cialis-20mg-lowestprice.org.ankor 5mg-generic-cialis.net.ankor http://prednisone-20mg-buy.com/,http://cialis-20mg-lowestprice.org/ - cialis-20mg-lowestprice.org.ankor 5mg-generic-cialis.net.ankor http://prednisone-20mg-buy.com/,http://cialis-20mg-lowestprice.org/ - cialis-20mg-lowestprice.org.ankor 5mg-generic-cialis.net.ankor http://prednisone-20mg-buy.com/,http://cialis-20mg-lowestprice.org/ - cialis-20mg-lowestprice.org.ankor 5mg-generic-cialis.net.ankor http://prednisone-20mg-buy.com/,http://cialis-20mg-lowestprice.org/ - cialis-20mg-lowestprice.org.ankor 5mg-generic-cialis.ne
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610031759-felix-eu create.jpg"
-image_caption: ""
 ---
 
 Studying with a year abroad might soon be a thing of the past, as Britain edges closer to implementing Brexit. The exchange scheme allowing UK students to spend up to a year in participating universities across the EU, is for the first time in its 30 year-long history facing a “moment of uncertainty”, according to UK director of Erasmus+, Ruth Sinclair-Jones.

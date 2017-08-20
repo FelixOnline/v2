@@ -4,17 +4,15 @@ title: >
 subtitle: >
   Former MI5 head to become first woman Chairman of Imperial
 date: "2011-05-22 13:04:31 +0100"
+image: "http://felixonline.co.uk/img/upload/201105221403-felix-img_0467.jpg"
+image_caption: "Baroness Eliza Manningham-Buller"
 draft: true
-
-# Attributes from Felix Online V1
-id: "1241"
-old_path: /news/1241/new-college-chairman-appointed
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1241/new-college-chairman-appointed
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - felix
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105221403-felix-img_0467.jpg"
-image_caption: ""
 ---
 
 Baroness Eliza Manningham-Buller, a former Director-General of the Security Service, or MI5, has been appointed as the new College Chairman. Her appointment follows the resignation of the previous Chairman, Lord Kerr, in January.

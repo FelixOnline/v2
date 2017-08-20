@@ -4,18 +4,15 @@ title: >
 subtitle: >
   One bacteria derived vaccine for many infectious diseased
 date: "2011-02-24 20:17:54 +0000"
-
-# Attributes from Felix Online V1
-id: "885"
-old_path: /science/885/genetically-engineered-vaccination
+image: "http://felixonline.co.uk/img/upload/201102242014-nm1010-kidvacci.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/885/genetically-engineered-vaccination
-imported: true
 comments:
  - value: >
      Its like you read my mind! You seem to know so much about this, like you wrote the book in it or something. I think that you could do with some pics to drive the mesgase home a bit, but other than that, this is great blog.,Try Looking up some natural<a href="http://uhwgofviwy.com"> eenistsal</a> oils. Tea tree is a good antibiotic, lemon grass, all the citrus<a href="http://uhwgofviwy.com"> eenistsal</a> oils like lemon, orange, bergamot, Also lavendar and peppermint, eucalyptus, there all great.
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102242014-nm1010-kidvacci.jpg"
-image_caption: ""
 ---
 
 A new type of vaccine for pneumonia based on genetically engineered bacteria has been developed, and may help in the fight against many other infectious diseases.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Dylan Lowe on the delights of a country which is both naturally beautiful and an adrenalin junkie's paradise
 date: "2011-03-01 21:15:46 +0000"
-
-# Attributes from Felix Online V1
-id: "967"
-old_path: /travel/967/regal-charms-of-new-zealand
+image: "http://felixonline.co.uk/img/upload/201103012110-ks607-newzealn.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/967/regal-charms-of-new-zealand
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103012110-ks607-newzealn.jpg"
-image_caption: ""
 ---
 
 _The lowdown_: Two million tourists tread the two islands of New Zealand every year – for a very good reason. Its natural beauty is second to none; its reputation as an adrenaline junkie’s wettest of dreams well deserved.

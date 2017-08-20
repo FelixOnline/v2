@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Facebook's Privacy?
 date: "2011-01-20 19:26:37 +0000"
-
-# Attributes from Felix Online V1
-id: "606"
-old_path: /tech/606/facebook-in-address-privacy-u-turn-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/606/facebook-in-address-privacy-u-turn-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -23,12 +20,6 @@ authors:
  - fa608
  - nm1010
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Facebook was forced to beat a hasty retreat over the previous week as plans to allow third party access to user phone numbers and addresses caused strong concerns among security experts, even before the feature was fully rolled out. Less than 72 hours after a blog post announced the new capabilities, another posting was made stating that the capabilities were ‘temporarily on hold’ until required changes were made to the system.

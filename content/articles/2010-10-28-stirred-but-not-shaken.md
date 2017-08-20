@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Professor Christopher Andrew, MI5’s official historian, speaks on science in the security service at the Vincent Briscoe Annual Security Lecture
 date: "2010-10-28 19:25:18 +0100"
-
-# Attributes from Felix Online V1
-id: "260"
-old_path: /science/260/stirred-but-not-shaken-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/260/stirred-but-not-shaken-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - ms4110
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 As I sat down in the lecture theatre, I slowly became aware of a feeling that I was surrounded. I looked around. The audience was a mass of white and grey hair, glasses, and suits. As a whole, it was summed up by a rather elderly man who passed behind me, shouting to his wife: “Sorry dear, I was stuck behind a buffoon!” I was slightly worried for my safety.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   We sit down to chat with singer-songwriter/actor Michael Malarkey, following his performance in London this week
 date: "2015-01-11 11:55:38 +0000"
-
-# Attributes from Felix Online V1
-id: "5087"
-old_path: /music/5087/interview-with-a-vampire
+image: "http://felixonline.co.uk/img/upload/201501212159-ps3110-michael-malarkey-3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5087/interview-with-a-vampire
-imported: true
 comments:
  - value: >
      Michael Malarkey is a breath of FRESH Air both in the music industry &amp; on TV! He's REAL &amp; you can see&amp;feel the realness in his songs he writes. He truly breaks through any boundaries to raise the bar for greatness. Keep following his music &amp; acting careers because he's AMAZING!!! ,Just everything that Kelly said. ,Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means more now than ever since the new Google update: Panda. No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings, You now NEED On-Page SEO. So what is good On-Page SEO?First your keyword must appear in the title.Then it must appear in the URL.You have to optimize your keyword and make sure that it has a nice keyword density of 3-5% in your article with relevant LSI (Latent Semantic Indexing). Then you s
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501212159-ps3110-michael-malarkey-3.jpg"
-image_caption: ""
 ---
 
 Tucked just off Cable Street, a short walk from the hustle and bustle of Aldgate, __Wilton’s Music Hall__ is one of the hidden treasures of London’s East End. Positively steeped in history and tradition, it is one of the capital’s oldest music halls, and one of the very few surviving ones that retains its original features. With such an illustrious legacy, it is understandable that some musicians may feel nervous when they emerge onto the stage; however, last week saw the London debut of a performer who is no stranger to treading the boards, and commanded the audience with poise and grace.

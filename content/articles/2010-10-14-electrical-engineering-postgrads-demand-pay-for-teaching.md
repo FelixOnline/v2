@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Department of Electrical and Electronic Engineering deny foul play and points to confusion over departmental bursary
 date: "2010-10-14 19:16:23 +0100"
-
-# Attributes from Felix Online V1
-id: "200"
-old_path: /news/200/electrical-engineering-postgrads-demand-pay-for-teaching-
+image: "http://felixonline.co.uk/img/upload/201010142013-ks607-peterche.jpg"
+image_caption: "Head of Department, Peter Cheung"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/200/electrical-engineering-postgrads-demand-pay-for-teaching-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010142013-ks607-peterche.jpg"
-image_caption: ""
 ---
 
 The [Department of Electrical and Electronic Engineering](http://www3.imperial.ac.uk/electricalengineering) has been forced to clarify its position regarding the payment of its postgraduate students.

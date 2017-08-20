@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Feroz Salam on how equality is a long way away in the world of ‘brogrammers’
 date: "2012-05-24 23:24:09 +0100"
-
-# Attributes from Felix Online V1
-id: "2488"
-old_path: /tech/2488/too-few-women-and-no-change-in-sight
+image: "http://felixonline.co.uk/img/upload/201205250026-mc4509-lego.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/2488/too-few-women-and-no-change-in-sight
-imported: true
 comments:
  - value: >
      To apply simple metrics of male/female ratios and infer that "something is wrong" is to miss an important fact. Men and women are DIFFERENT when considered as mass groups. To refute this is political; not empirical. <br>Brain structure differences are easily discerned. Ask anyone who does Functional MRI scanning. You can tell without looking the (very probable) sex of the subject. <br>This isn't to imply ALL women or ALL men conform to the observed mass patterns, and certainly not to imply that one or other is "better". They are simply different. Differences leading to choices made in early life which lead to differences in the mass outcomes for University and career choice. There are "Chicken and Egg" arguments to be had. Autism being predominate in men points to the mindset of good programmers being inbuilt. Nerds are born not made. <br> <br>The real trick is to ensure that all people are able to pursue their choices and in this, granted, there are many concerns.
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205250026-mc4509-lego.png"
-image_caption: ""
 ---
 
 If you like your Felix lighthearted, you may want to turn the page, because this article is anything but. The seeds of my piece were planted when I heard that one of my friends was planning to attend [CodeF](http://www.ukcodef.com/), a Google networking event ‘exclusively for female computer scientists’ attending top universities here in the UK. These kind of events are commonplace at Imperial, women-only events meant to encourage female scientists and engineers to apply to the top jobs in the country, jobs that are skewed heavily towards men. Unfortunately, these firms are fighting a battle that is very near lost in a fashion that places gestures over results. The losers are not the women already at Imperial, but the many women who will be turned away before they even get the chance to wine and dine with Britain’s best.

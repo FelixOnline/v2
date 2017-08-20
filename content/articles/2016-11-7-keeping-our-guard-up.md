@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Good start for IC fencing
 date: "2016-11-07 13:20:14 +0000"
-
-# Attributes from Felix Online V1
-id: "6408"
-old_path: /sport/6408/keeping-our-guard-up
+image: "http://felixonline.co.uk/img/upload/201611071319-felix-image00.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6408/keeping-our-guard-up
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jamiesimpson
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611071319-felix-image00.jpg"
-image_caption: ""
 ---
 
 B

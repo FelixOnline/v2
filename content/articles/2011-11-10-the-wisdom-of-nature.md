@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Going organic with the latest natural foods
 date: "2011-11-10 21:56:15 +0000"
-
-# Attributes from Felix Online V1
-id: "1737"
-old_path: /food/1737/the-wisdom-of-nature
+image: "http://felixonline.co.uk/img/upload/201111102155-pk1811-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1737/the-wisdom-of-nature
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - ae1409
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102155-pk1811-1.jpg"
-image_caption: ""
 ---
 
 The truth is that organic products have managed to attract a large number of people in the United Kingdom. In addition, the increase in the number of people buying organic goods is showing no signs of slowing down. The supporters of this ‘green lifestyle’ believe that it is not just a fashion trend that is going to disappear in the future, as they argue that organic products are of greater quality despite their slightly higher cost.

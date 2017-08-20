@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Evolution linked to climate change, say Imperial
 date: "2011-12-08 20:31:46 +0000"
-
-# Attributes from Felix Online V1
-id: "1913"
-old_path: /science/1913/wolves-help-predict-climate-effects
+image: "http://felixonline.co.uk/img/upload/201112082030-pk1811-20090302155850.jpg"
+image_caption: "A pack of wolves bed down in Yellowstone National Park"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1913/wolves-help-predict-climate-effects
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - pk1811
  - sb1911
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082030-pk1811-20090302155850.jpg"
-image_caption: ""
 ---
 
 Scientists at Imperial College have devised an evolutionary model based on climate change and a study of grey wolves.

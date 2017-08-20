@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Now officially known as the Devil's Persil
 date: "2016-12-02 15:30:46 +0000"
-
-# Attributes from Felix Online V1
-id: "6547"
-old_path: /millennials/6547/drug-bible--cocaine
+image: "http://felixonline.co.uk/img/upload/201612021529-felix-Screen Shot 2016-12-02 at 15.29.30.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /millennials/6547/drug-bible--cocaine
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - millennials
 tags:
@@ -23,12 +20,6 @@ authors:
  - felixteam
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612021529-felix-Screen Shot 2016-12-02 at 15.29.30.png"
-image_caption: ""
 ---
 
 ## What it does

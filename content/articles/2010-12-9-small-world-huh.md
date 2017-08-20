@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Travellers have a higher chance of getting laid, but more often rendered heartbroken
 date: "2010-12-09 20:08:23 +0000"
-
-# Attributes from Felix Online V1
-id: "516"
-old_path: /travel/516/small-world-huh
+image: "http://felixonline.co.uk/img/upload/201012092005-ma1307-Lakeb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/516/small-world-huh
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - yll08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012092005-ma1307-Lakeb.jpg"
-image_caption: ""
 ---
 
 Nestled on the stool, the silhouette was none other than what obstructed me as I wrestled, pints in both grasps, my way to the booth where my friends were seated. I bellowed a ’scuse-me – my voice drowned out amid patrons of the busy Queenstown bar – and attracted his attention. Hysteria, on both our parts, ensued and overwhelmed the venue.

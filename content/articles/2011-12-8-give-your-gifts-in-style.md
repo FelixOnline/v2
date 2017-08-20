@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Saskia Verhagen and Alice Yang bring you this Christmas’ most fashionable presents
 date: "2011-12-08 21:50:18 +0000"
-
-# Attributes from Felix Online V1
-id: "1946"
-old_path: /fashion/1946/give-your-gifts-in-style-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/1946/give-your-gifts-in-style-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -25,12 +22,6 @@ authors:
  - stv07
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __UNDER £20

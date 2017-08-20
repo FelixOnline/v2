@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Gaming is no longer all about consoles. Welcome to HTML5 gaming!
 date: "2011-01-20 20:01:38 +0000"
-
-# Attributes from Felix Online V1
-id: "620"
-old_path: /games/620/html5-the-next-level-for-web-games-
+image: "http://felixonline.co.uk/img/upload/201101201959-ks607-html5555.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/620/html5-the-next-level-for-web-games-
-imported: true
 comments:
  - value: >
      <a href="http://jaej.co.cc/cat-3-67.html">Простетутки верея</a> - шлюхи Авиамоторная <br><a href="http://etern1ty.co.cc/prostitutki-lomonosovskaya.html">Проститутки ломоносовская</a> - шлюхи кириллов <br><a href="http://thedunlapdarlings.co.cc/individualki-shlyhi-prostitutki.html">Индивидуалки шлюхи проститутки</a> - проститутки салават <br><a href="http://etern1ty.co.cc/znakomstvo-v-gorode-neryngri.html">Знакомство в городе нерюнгри</a> - проститутки одинцово <br><a href="http://thedunlapdarlings.co.cc/prostituki-bogorodick.html">Проституки богородицк</a> - шлюхи Спортивная <br><a href="http://craizer.co.cc/shlyhi-borovickaya.html">Шлюхи Боровицкая</a> - шлюхи Беляево <br><a href="http://nravi.co.cc/znakomstva-seks-porno.html">Знакомства секс порно</a> - пр
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -26,12 +23,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101201959-ks607-html5555.jpg"
-image_caption: ""
 ---
 
 Gaming is no longer all about consoles. Web games have gone from being the domain of bespectacled nerds to the salvation of the chronically bored masses. As game authors set the bar increasingly higher and tax our browsers to the limit, a new contender enters the eternal web format wars. To make a difference, it’s going to have to be fast, good-looking and feature-rich.

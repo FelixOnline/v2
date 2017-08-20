@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Simon Hunter gets to grips with London’s latest dance music pioneers
 date: "2012-03-15 21:34:22 +0000"
-
-# Attributes from Felix Online V1
-id: "2387"
-old_path: /music/2387/techno-nonsense-hyperdub
+image: "http://felixonline.co.uk/img/upload/201203152133-ig711-hyperdub.jpg"
+image_caption: "Honey for the bears of the future."
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2387/techno-nonsense-hyperdub
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - ig711
  - sh1207
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152133-ig711-hyperdub.jpg"
-image_caption: ""
 ---
 
 Regular readers of my column probably need little introduction to the label that I concern myself with this week. Hyperdub has, with not a hint of exaggeration, been the most influential electronic music label to have come out of London in a long, long time. Why then, you may ask, has it taken me so goddamn long to dedicate some prime Felix real-estate to the imprint? Well Hyperdub is the music label equivalent of a seven foot, teardrop-tattooed, switchblade-wielding nut job: fucking intimidating.

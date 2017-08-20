@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Samuel Furse takes a critical look at a highly praised feminist work
 date: "2012-03-01 21:35:40 +0000"
-
-# Attributes from Felix Online V1
-id: "2277"
-old_path: /books/2277/how-to-be-a-woman
+image: "http://felixonline.co.uk/img/upload/201203012135-ams111-caitlin_moran_5048.jpg"
+image_caption: "Caitlin Moran is an acclaimed broadcaster and columnist at The Times"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2277/how-to-be-a-woman
-imported: true
 comments:
  - value: >
      I shall respond to your points also in a list. <br> <br>1) This book is to Feminist literature what The DaVinci Code was to Thrillers. It's very easy to read, and it will probably get several people interested, but it's very near the trashy end of the spectrum. It can serve as nothing more than an extremely limited introduction to Feminism. <br> <br>2) "There will always be wankers." I am sure this is true, but I fail to see its relevance. How come racism and homophobia are so unacceptable in our society, and yet sexism is perfectly normal? Why is it so rare to see "wankers" hurling abuse at Black people, and yet so common to see them abuse women? If the problem is, as you claim, that these people are just idiots, then why are they so selective in their discrimination? <br> <br>3) "Men do not have all the power or all the influence. " No, but they have the vast majority of the power and influence. <br> <br>...,... <br> <br>4) Your suggestion that, in general, women care about how they look while men care about "money, influence or intell
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -28,12 +26,6 @@ authors:
  - sf305
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203012135-ams111-caitlin_moran_5048.jpg"
-image_caption: ""
 ---
 
 I had been resisting reading this book for a while. Partly because I have no desire to lose the meat and two veg, and partly because publishers are canny enough to know their target audience and design the cover accordingly. Having worked for a bookshop as an undergraduate I also know that the covers are as much of a fiction as the text they are attached to. But, on a day between Christmas and New Year, having lost all my dignity by finding myself both in a Waterstone’s and in a provincial town, I seized the opportunity to satisfy my curiosity.

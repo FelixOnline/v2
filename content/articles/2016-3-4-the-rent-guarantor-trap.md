@@ -4,16 +4,14 @@ title: >
 subtitle: >
   College ignores the fact that many students struggle to afford rented accommodation
 date: "2016-03-04 11:33:02 +0000"
-
-# Attributes from Felix Online V1
-id: "6001"
-old_path: /comment/6001/the-rent-guarantor-trap
+image: "http://felixonline.co.uk/img/upload/201603041132-felix-Mayfair-Monopoly.jpg"
+image_caption: "It’s not easy finding affordable accommodation in the most expensive neighbourhood in the country."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6001/the-rent-guarantor-trap
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +23,6 @@ authors:
  - pm1912
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603041132-felix-Mayfair-Monopoly.jpg"
-image_caption: ""
 ---
 
 Unknown to many home students, there is an unholy pitfall for those trying to find accommodation without a guarantor.

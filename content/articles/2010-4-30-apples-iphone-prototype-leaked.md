@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Gizmodo ends up with an iPhone prototype lost in a bar and spills the details
 date: "2010-04-30 11:23:29 +0100"
-
-# Attributes from Felix Online V1
-id: "132"
-old_path: /tech/132/apples-iphone-prototype-leaked
+image: "http://felixonline.co.uk/img/upload/201004301218-srg03-iPhonePr.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/132/apples-iphone-prototype-leaked
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - jk708
  - srg03
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201004301218-srg03-iPhonePr.jpg"
-image_caption: ""
 ---
 
 Love it or hate it, the iPhone is a pretty big part of the modern smartphone market, and as such is currently the phone to beat. Apple is expected to release a brand new iPhone in the summer, but normally it's legendary culture of secrecy keeps leaks to an absolute minimum, leaving the technology press to rely on assumption and rumour. This month however Apple's vice-like grip slipped and out popped an iPhone prototype. Encased in a custom cover to make it look like an ordinary everyday iPhone 3GS, the iPhone prototype was dropped by an Apple engineer in a bar in California, where it was picked up and promptly sold to Gizmodo for a purported $5000. When Gizmodo unwrapped the now remote-wiped and non-functional device, they found an iPhone without the curvaceous back of the current generation and a metal strip around it's edges. As you can see in the photo above, the front of the device resembles that of the previous generation, but the rest of the device makes a distinct departure from what's currently available from Apple.

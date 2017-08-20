@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lesson 3: Glassjaw
 date: "2012-01-27 12:29:19 +0000"
-
-# Attributes from Felix Online V1
-id: "2084"
-old_path: /music/2084/a-beginners-guide-to-post-hardcore
+image: "http://felixonline.co.uk/img/upload/201201271225-felix-glassjawlive2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2084/a-beginners-guide-to-post-hardcore
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - gj309
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201271225-felix-glassjawlive2.jpg"
-image_caption: ""
 ---
 
 The point of this column is to give you enough guidance so that you can go out into the big bad world of post-hardcore and not end up naked, lying in filth and eating your own rancid faeces. That was meant to be symbolic for listening to poor music by the way. To set you up with a solid foundation, the first few episodes in this saga consist of the older but integral champions of this genre and to add another sturdy block to this foundation, this week I give you __[Glassjaw](http://www.myspace.com/glassjaw)__.

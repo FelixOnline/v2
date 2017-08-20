@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philip Kent scrutinises the pledges each party has made ahead of the election
 date: "2015-05-01 00:05:11 +0100"
-
-# Attributes from Felix Online V1
-id: "5476"
-old_path: /news/5476/the-main-parties-and-their-promises-
+image: "http://felixonline.co.uk/img/upload/201505010105-ps3110-tv-debate-pic.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5476/the-main-parties-and-their-promises-
-imported: true
 comments:
  - value: >
      What's Happening i am new to this, I stumbled upon this I have found It positively helpful and it has helped me out loads. I am hoping to contribute &amp; assist other users like its aided me. Great job. <br>botas ugg gijon kilometros http://www.globalenergy.es/?es-botas-ugg-gijon-kilometros-2830.html,Have you ever thought about publishing an e-book or guest authoring on other sites? I have a blog centered on the same subjects you discuss and would really like to have you share some stories/information. I know my viewers would appreciate your work. If you are even remotely interested, feel free to shoot me an e mail. <br>rei oakley sunglasses http://crownmodels.com/?usa-rei-oakley-sunglasses-35187.html
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505010105-ps3110-tv-debate-pic.jpg"
-image_caption: ""
 ---
 
 __LABOUR __

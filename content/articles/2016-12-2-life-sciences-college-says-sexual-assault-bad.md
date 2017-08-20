@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Department sends weird email mentioning sexual assault incident
 date: "2016-12-02 13:49:04 +0000"
-
-# Attributes from Felix Online V1
-id: "6524"
-old_path: /news/6524/life-sciences-college-says-sexual-assault--bad
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6524/life-sciences-college-says-sexual-assault--bad
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 An email was sent out on Wednesday, to the Department of Life Sciences, informing recipients of a serious incident of sexual assault taking place last year between members of the department.

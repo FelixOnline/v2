@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jingjie Cheng takes on Verdi’s classic La Traviata
 date: "2015-02-22 17:32:13 +0000"
-
-# Attributes from Felix Online V1
-id: "5301"
-old_path: /arts/5301/beauty-and-betrayal-at-the-eno
+image: "http://felixonline.co.uk/img/upload/201502221731-ps3110-11315.jpeg"
+image_caption: "Elizabeth Zharoff as Vittoria, in ENO’s production of Verdi’s La Traviata "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5301/beauty-and-betrayal-at-the-eno
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502221731-ps3110-11315.jpeg"
-image_caption: ""
 ---
 
 When it was first performed in 1853, the Venetian opera house __La Fenice __insisted that Verdi’s _La Traviata_ be staged in the past, around 1700, despite his original intention of a contemporary staging. Perhaps the initial resistance was due to the opera’s controversial nature painting the main character of a prostitute as a human and a victim, but it was not until the 1880s that Verdi’s intentions were realized. In this modern production with the __English National Opera__ however, director Peter Konwitschny is acutely aware of the timeless appeal and relevance of love, death, and the hypocrisy of society. What struck me was the minimalism of the production, with basic, monochromatic costumes and hardly any set – a story that could have happened anywhere, in any period of time.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In 1956 a boy named Lewis Allen Reed was marched into a New York county psychiatric hospital by his parents and given electric shock therapy to ‘cure’ his bisexual instincts.
 date: "2013-11-05 09:35:56 +0000"
-
-# Attributes from Felix Online V1
-id: "3994"
-old_path: /music/3994/lou-reeds-life
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3994/lou-reeds-life
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - fmusic
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In 1956 a boy named Lewis Allen Reed was marched into a New York county psychiatric hospital by his parents and given electric shock therapy to ‘cure’ his bisexual instincts. The effect this had on his future career is debatable, however speaking in 1996 Reed recalled:

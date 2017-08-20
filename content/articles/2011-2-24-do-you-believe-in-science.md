@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Heretic, a stone’s throw from Imperial, asks about evidence and whether climate change is our new religion
 date: "2011-02-24 19:08:53 +0000"
-
-# Attributes from Felix Online V1
-id: "859"
-old_path: /arts/859/do-you-believe-in-science
+image: "http://felixonline.co.uk/img/upload/201102241906-nm1010-gurlgurl.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/859/do-you-believe-in-science
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - wsp10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102241906-nm1010-gurlgurl.jpg"
-image_caption: ""
 ---
 
 Personally, I thought Al Gore had flogged the climate change donkey for all it was worth. Most people recycle now, protesters have found new things to riot over and we have a Liberal Democrat as Minister for Climate Change – the war seemed, to all intents and purposes, won. Was I wrong? Is climate change killing us? Will someone I’ve heard of ever play Metric? Will we ever find out? Personally, I don’t know but I’m sure the Rector has it all in hand.

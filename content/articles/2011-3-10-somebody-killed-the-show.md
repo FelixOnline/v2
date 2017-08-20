@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This version of Hitchcock’s classic 'Dial M for Murder' seemed to be more of a technical run through than an opening night
 date: "2011-03-10 20:16:55 +0000"
-
-# Attributes from Felix Online V1
-id: "1066"
-old_path: /arts/1066/somebody-killed-the-show
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1066/somebody-killed-the-show
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - ko409
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Sitting down in a dingy backroom of a pub in Camden, it seemed that we the audience were to play a more crucial role in this Hitchcock parody than previously anticipated. I turned to my ‘Partner in Crime’ and wryly noted that there were 13 members of the audience, indeed an unlucky number for the opening night of this performance. Over the next twenty minutes we witnessed the murder, not of a human being (it was clearly a red handkerchief and not blood spewing from the actress’s neck) but of the play itself.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Like a good meal, steak as the main and planets on the side
 date: "2013-10-12 19:27:57 +0100"
-
-# Attributes from Felix Online V1
-id: "3854"
-old_path: /games/3854/dumped-planetside-2-time-to-get-revenge
+image: "http://felixonline.co.uk/img/upload/201310122027-jal08-games_ps2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3854/dumped-planetside-2-time-to-get-revenge
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310122027-jal08-games_ps2.jpg"
-image_caption: ""
 ---
 
 Ever wanted to take part into a continent wide battle for control of an entire planet? PlanetSide 2 (released November 2012) the revamp of the succesful MMOFPS PlanetSide allows you to do exactly that! It revolves around the control of the mysterious planet of Auraxis.

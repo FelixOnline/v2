@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Shooting the Bries with Cathedral City’s very own ‘cheese grader’
 date: "2011-12-01 20:43:34 +0000"
-
-# Attributes from Felix Online V1
-id: "1875"
-old_path: /food/1875/interview-mark-pitts-tucker-
+image: "http://felixonline.co.uk/img/upload/201112012042-pk1811-mark-pitts-1024x840.jpg"
+image_caption: "Tuition Cheese – Mark Pitts-Tucker shares his cheese-based experiences"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1875/interview-mark-pitts-tucker-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +22,6 @@ authors:
  - ae1409
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012042-pk1811-mark-pitts-1024x840.jpg"
-image_caption: ""
 ---
 
 __A: You are the cheese grader for Cathedral City. What does Cathedral City Cheese have different from other cheese brands?__

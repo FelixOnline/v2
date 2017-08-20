@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Afonso Campos extoles the virtues of one of America’s finest pieces of modern literature, Midnight in the Garden of Good and Evil
 date: "2011-02-03 19:42:14 +0000"
-
-# Attributes from Felix Online V1
-id: "721"
-old_path: /arts/721/if-you-read-nothing-else-this-week-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/721/if-you-read-nothing-else-this-week-
-imported: true
 comments:
  - value: >
      Now I feel sutipd. That's cleared it up for me,LULYbo <a href="http://hhzinjypwvyy.com/">hhzinjypwvyy</a>
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Midnight in the Garden of Good and Evil, by John Berendt, is a welcome exception to my reading habits. It is not a work of fiction, but rather the enthralling true story of a murder and the events surrounding it. It is doubtlessly one of the finest works of modern American literature. It maintained a place on the New York Times' Bestsellers list for over 200 consecutive weeks after the initial publication.

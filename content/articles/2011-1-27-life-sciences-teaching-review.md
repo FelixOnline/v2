@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Details about the teaching review finally emerge but the review panel is criticised for not allowing enough time for staff and student questionnaire responses
 date: "2011-01-27 18:06:47 +0000"
-
-# Attributes from Felix Online V1
-id: "649"
-old_path: /news/649/life-sciences-teaching-review-
+image: "http://felixonline.co.uk/img/upload/201101271758-ks607-profiano.jpg"
+image_caption: "Professor Ian Owens announced the teaching review in a meeting with students"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/649/life-sciences-teaching-review-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - jk708
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101271758-ks607-profiano.jpg"
-image_caption: ""
 ---
 
 The long-awaited review of teaching in the Department of Life Sciences has finally been opened to staff and student input. The review panel, led by Professors Murray Selkirk and Andy Purvis, aims to submit its recommendations to the [Science Studies Committee](http://www3.imperial.ac.uk/registry/proceduresandregulations/committees) in late April, after an initial period of consultation in January and a follow-up period in March. However, opponents of the staff cuts in the Life Sciences Department have criticised the panel for not offering enough time for student submissions in the initial consultation and for a general lack of information about the on-goings of the review.

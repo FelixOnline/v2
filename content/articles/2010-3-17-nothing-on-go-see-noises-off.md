@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Shamini Bundell Sneaks into the dress rehearsal for Noises Off and gets totally confused.
 date: "2010-03-17 16:04:06 +0000"
-
-# Attributes from Felix Online V1
-id: "124"
-old_path: /arts/124/nothing-on-go-see-noises-off
+image: "http://felixonline.co.uk/img/upload/201003171601-lh106-NoisesOf.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/124/nothing-on-go-see-noises-off
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - lh106
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201003171601-lh106-NoisesOf.jpg"
-image_caption: ""
 ---
 
 When it comes to a play within a play, Dramsoc’s latest production takes full advantage of the confusion. Although I set out with the noble aim of relating to you the witty intricacies of the plot of Noises Off, at the time I was too busy wiping away tears of laughter to work out exactly what was going on.

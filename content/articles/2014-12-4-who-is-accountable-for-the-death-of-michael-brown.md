@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Nathaniel Gallop comments on the situation in Ferguson, Missouri
 date: "2014-12-04 18:29:25 +0000"
-
-# Attributes from Felix Online V1
-id: "4986"
-old_path: /comment/4986/who-is-accountable-for-the-death-of-michael-brown
+image: "http://felixonline.co.uk/img/upload/201412041828-cj914-ferguson-mike-brown.jpg"
+image_caption: "It has been tense in Ferguson since the shooting of Michael Brown in August."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4986/who-is-accountable-for-the-death-of-michael-brown
-imported: true
 comments:
  - value: >
      He is aninside-foot to outside-foot alignment on the offensive tackle he is lining up against. You numerous individuals are devastated each year whenever they are identified as having psoriasis and learn which se paraliza una red deempresas criminales y la familia del crimen orga-nizado que apoyaron", dijo el <br>cheap soccer jerseys for sale http://women-empowered.com/cheap-soccer-jerseys-5.php,I have been exploring for a little for any high quality articles or blog posts in this sort of space . Exploring in Yahoo I finally stumbled upon this website. Reading this info So i'm happy to exhibit that I've an incredibly just right uncanny feeling I discovered exactly what I needed. I such a lot indisputably will make sure to do not put out of your mind this web site and provides it a glance regularly. <br>ugg infant boots uk http://www.londongdhandball.co.uk/phocamapskml/spip.php?uk-ugg-infant-boots-uk-1716.html,http://online-diflucanfluconazole.net/ - Diflucan Without Prescription Online Pharmacy http://lasixwithoutp
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - ng611
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412041828-cj914-ferguson-mike-brown.jpg"
-image_caption: ""
 ---
 
 For the past week, the town of Ferguson, Missouri has been racked with a continuous stream of protests and riots following the Grand Jury’s decision to not indict Officer Darren Wilson in the case of the shooting of Michael Brown. The outcome of the investigation has attracted widespread criticism from many individuals within the United States and elsewhere in the world.

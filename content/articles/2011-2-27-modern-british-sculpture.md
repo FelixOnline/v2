@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The questions it poses are broader beyond even the breadth of the works it displays
 date: "2011-02-27 19:26:48 +0000"
-
-# Attributes from Felix Online V1
-id: "913"
-old_path: /arts/913/modern-british-sculpture
+image: "http://felixonline.co.uk/img/upload/201102271925-ks607-fishinca.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/913/modern-british-sculpture
-imported: true
 comments:
  - value: >
      Reference to Adam Walker seems a bit bizarre and unnecessary...
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - wsp10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102271925-ks607-fishinca.jpg"
-image_caption: ""
 ---
 
 On entering Modern British Sculpture, a vast trunk of stone stands before you. It fills the high-walled room almost up to its domed ceiling, making it more temple than art gallery. Smooth, cold, awesome in the most formidable sense, you have to lean back to see it as it ascends, narrowing in linear sections, where, at its height, a tomb sits. Colossal in size, yet not extravagant; mournful yet imperious. I can’t think of a situation where in the space of passing through a set of double-doors, I have ever been more awestruck, as I was upon entering Modern British Sculpture. Had I not been in as respectable a setting as the RA, I might’ve even audibly had a ‘Clay Davis’ moment.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   As the statistically most depressing day of the year nears, Channel 4 is prepared with a little treat
 date: "2012-01-12 22:57:43 +0000"
-
-# Attributes from Felix Online V1
-id: "1996"
-old_path: /tv/1996/theres-a-new-girl-on-channel-4
+image: "http://felixonline.co.uk/img/upload/201201122257-cac111-new-girl.jpg"
+image_caption: "This picture is in no way sexual"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1996/theres-a-new-girl-on-channel-4
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - mh3210
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201122257-cac111-new-girl.jpg"
-image_caption: ""
 ---
 
 Blue Monday (the statistically most depressing day of the year) is approaching. The weather is ever gloomier. Work starts to pile up. Festive feelings slowly disintegrate into utter misery. In a desperate attempt to cheer yourself up, you splash your student loan in the sales, fill your house with the smell of baking cake, or finish _Skyrim_. I’m going to recommend an alternative measure: Channel 4’s new sitcom, _New Girl_.

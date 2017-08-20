@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rory Fenton worries for Irish politics
 date: "2010-02-01 17:00:48 +0000"
-
-# Attributes from Felix Online V1
-id: "63"
-old_path: /comment/63/worries-for-irish-politics
+image: "http://felixonline.co.uk/img/upload/201002011659-rsp07-roryfent.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/63/worries-for-irish-politics
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - rsp07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002011659-rsp07-roryfent.jpg"
-image_caption: ""
 ---
 
 This New Year, the media’s focus was back on Northern Ireland, my home country. Only this time it wasn’t about bombings, shootings or kidnappings, but the extra- marital affair of NI’s First Lady, Iris Robinson.

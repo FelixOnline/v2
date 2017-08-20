@@ -4,16 +4,14 @@ title: >
 subtitle: >
   There’s plenty more fish in the sea – or are there?
 date: "2012-10-05 11:56:31 +0100"
-
-# Attributes from Felix Online V1
-id: "2606"
-old_path: /science/2606/fishing-for-the-facts
+image: "http://felixonline.co.uk/img/upload/201210051256-nn1209-1-020.jpg"
+image_caption: "National papers would have you think these could soon be a rarity, but not is all as it seems..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2606/fishing-for-the-facts
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - lap08
  - nn1209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210051256-nn1209-1-020.jpg"
-image_caption: ""
 ---
 
 'Only 100 adult cod in North Sea’; ‘Just 100 cod left in North Sea’; ‘Just 100 mature fish in North Sea’ are but three of the headlines published by The Sunday Times, The Telegraph Online, and The Sun respectively, a little over two weeks ago. One is not required to be a fisherman or marine conservationist to stop and question such bold headlines, variations of which have been bandied about by several American and Canadian news outlets. Whilst the population of Northern White Rhinoceri can be written with a single digit, are North Sea cod really on the brink of extinction? How did these newspapers come up with such a figure – and was there any truth behind their extraordinary claims?

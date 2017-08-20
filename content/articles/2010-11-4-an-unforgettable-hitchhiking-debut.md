@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Karolina Mazan recalls her treasured memories of aimlessly hopping from car to car across mainland Europe, armed with nothing but a tiny backpack and a loyal sidekick to keep her thoroughly entertained.
 date: "2010-11-04 18:34:16 +0000"
-
-# Attributes from Felix Online V1
-id: "301"
-old_path: /travel/301/an-unforgettable-hitchhiking-debut
+image: "http://felixonline.co.uk/img/upload/201011041830-jk708-Hitchhik.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/301/an-unforgettable-hitchhiking-debut
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - km3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011041830-jk708-Hitchhik.jpg"
-image_caption: ""
 ---
 
 I’ve always put travelling as my passion under the interests section of my CV. Name any European country and all I can think is ‘been there, done that’. But what have I really seen in all of those places? Fancy hotels with pleasantly warm swimming pools, crowded promenades holding gazillions of restaurants you’ve already seen in London, every minute of your excursions ‘kindly’ organised by a travel agency. It all merges into one commercial vacation experience – everything looks and feels the same.

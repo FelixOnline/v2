@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2017-03-10 13:35:40 +0000"
-
-# Attributes from Felix Online V1
-id: "6869"
-old_path: /science/6869/moon-of-my-life
+image: "http://felixonline.co.uk/img/upload/201703101335-felix-Moon.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6869/moon-of-my-life
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - aranshaunak16
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101335-felix-Moon.jpg"
-image_caption: ""
 ---
 
 Fact: Your body has ‘tides’ because of the moon.

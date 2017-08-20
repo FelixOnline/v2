@@ -4,16 +4,13 @@ title: >
 subtitle: >
   With the biggest turn out the triathlon club has ever seen, twenty five athletes travelled in an entourage of cars, minibus and van down the M4. The term was to culminate on Sunday 24th at the 2013 BUCS Duathlon at Castle Combe.
 date: "2013-12-11 00:40:08 +0000"
-
-# Attributes from Felix Online V1
-id: "4200"
-old_path: /sport/4200/triathlon-club-take-on-the-bucs-chilly-duathlon-to-end-2013
+image: "http://felixonline.co.uk/img/upload/201312110041-jal08-triathlon-bucs-duath.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4200/triathlon-club-take-on-the-bucs-chilly-duathlon-to-end-2013
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - jal08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201312110041-jal08-triathlon-bucs-duath.png"
-image_caption: ""
 ---
 
 With the biggest turn out the triathlon club has ever seen, twenty five athletes travelled in an entourage of cars, minibus and van down the M4. The term was to culminate on Sunday 24th at the 2013 BUCS Duathlon at Castle Combe.

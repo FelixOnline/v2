@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Samuel Bodansky asks how our economy affects the individual
 date: "2014-12-04 18:33:25 +0000"
-
-# Attributes from Felix Online V1
-id: "4987"
-old_path: /comment/4987/what-does-the-economy-have-to-do-with-me
+image: "http://felixonline.co.uk/img/upload/201412041831-cj914-jobcentre-plus.jpeg"
+image_caption: "Unemployment perpetuates unemployment."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4987/what-does-the-economy-have-to-do-with-me
-imported: true
 comments:
  - value: >
      Succinct and interedting overviee,cheap louboutin <br>christian louboutin canada sale http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin quotes <br>christian louboutin online outlet http://christianlouboutincanadaoutlet.blogspot.com/,BzaDZD http://www.y7YwKx7Pm6OnyJvolbcwrWdoEnRF29pb.com
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - sib114
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412041831-cj914-jobcentre-plus.jpeg"
-image_caption: ""
 ---
 
 One question commonly asked of economists is “as a member of the public, what exactly does the economy have to do with me?” People often feel that as individuals, they are fighting personal battles against household bills or focusing on their own consumption, rather than being part of a larger group or society.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   No, extraditing criminals ... is an example of snide and sneaky backdoor politics says Eleanor Angwin.
 date: "2012-10-11 21:16:32 +0100"
-
-# Attributes from Felix Online V1
-id: "2668"
-old_path: /comment/2668/are-extradition-treaties-justified
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2668/are-extradition-treaties-justified
-imported: true
 comments:
  - value: >
      Half baked (and with much less knowledge), politically motivated comment on a matter of Justice. It's simply too important for that. You expose your personal prejudice (Americans are bad - the same xenophobia that would not be acceptable in other cases, but this is quite fine...) and seem to care not a jot for Justice and the rights of those you point out have been harmed. What damage done to Justice when a person accused of a crime is allowed to hide from his accusers? "Can't touch me - I've run to the United Kingdom." <br>Extradition treaties aren't perfect. They were devised by humans. They doubtless have much room for improvement. But the line you are putting forward is to discard them entirely, not seek improvement. Cowardly and lazy. "Better to let accused to hide in my country than than to face up to the challenge. So what, I'm not the one who has been wronged." <br> <br>Justice needs not only to be blind; it needs to have no blind spots. <br>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Extraditing criminals is both damaging to overall world justice and an example of snide and sneaky backdoor politics.

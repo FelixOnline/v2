@@ -4,18 +4,16 @@ title: >
 subtitle: >
   College is in the final stages of buying a new 27-acre plot of land two miles from Harlington for the use of Imperial’s sports teams. The site has outside space for 5 football pitches and 2 rugby pitches, an assortment of tennis, netball and cricket facilities and a shooting range.
 date: "2014-06-26 13:15:40 +0100"
-
-# Attributes from Felix Online V1
-id: "4717"
-old_path: /news/4717/college-acquiring-new-sports-ground-in-west-london
+image: "http://felixonline.co.uk/img/upload/201406261415-jal08-concorde_club.jpg"
+image_caption: "A view of the new grounds"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4717/college-acquiring-new-sports-ground-in-west-london
-imported: true
 comments:
  - value: >
      So SI have bought a bit of land off BA; presumably they got a bargain in return for not putting up too much of a fight against the proposed 3rd runway if it comes to squish Harlington? <br> <br>Why do we need more space - unless some of our space is going? Teddington is in a very pricey bit of London. Odds on that gets sold pretty soon (for housing?). If I was really cynical I'd guess that little to no money of that would go directly back into student sport (apart from maybe to the elite rowers?) <br> <br> If I was really really cynical, I'd say the sale on Teddington has already been done, nobody knows due to 'commercial sensitivity'. Apart from maybe a few Sabbs who won't risk warning the masses. <br> <br>Without these revenue streams, where has this massive pot of money to buy 27 acres of London land come from? <br> <br>As usual, no student consultation or feedback. But then what do we expect from Sport Imperial; they are just an extension of College so abide by the same guiding principles - mo' money! ,Couple of things: <br> <br>1. I
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406261415-jal08-concorde_club.jpg"
-image_caption: ""
 ---
 
 College is in the final stages of buying a new 27-acre plot of land two miles from Harlington for the use of Imperial’s sports teams. The site has outside space for 5 football pitches and 2 rugby pitches, an assortment of tennis, netball and cricket facilities and a shooting range. Meanwhile inside the clubhouse students will be provided with squash and basketball courts. The sports ground, in Heston, Hounslow, will be available for student use from Autumn 2014.

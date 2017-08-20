@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Student loses £70 to a man near campus
 date: "2012-10-11 20:20:48 +0100"
-
-# Attributes from Felix Online V1
-id: "2639"
-old_path: /news/2639/con-man-near-campus-takes-students-money
+image: "http://felixonline.co.uk/img/upload/201210112236-felix-hustle-adrian-lest_1215162c.jpeg"
+image_caption: "DAMMIT MICKEY"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2639/con-man-near-campus-takes-students-money
-imported: true
 comments:
  - value: >
      Every year! These kids never learn,Great picture - http://www.youtube.com/watch?v=JU9TouRnO84#t=0m33s,I wonder what white/dark hair looks like...,Just to clarify, I can't cheat an honest man. This American guy is obviously a bell-end.,I am the son of the ex-President of Nigeria and can help recover the lost money. Coincidentally - I am also in need to people to help me distribute some funds and just need your bank details to allow me to transfer them to you. I guarantee that you will make large amounts of money - you can obviously trust me as you met me on the internet. <br> <br>Seriously, although I have no reason to doubt the story given by this unfortunate, the basic motive that these guys rely on is GREED. Hard to understand what inspired the victim to get into the cab. An obviously articulate English speaker with directions, money enough for a cab and and a cabby at his service. Doesn't sound like the type of person who you need to help further. But not for me to question.,Same guy tried to con me! As so
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112236-felix-hustle-adrian-lest_1215162c.jpeg"
-image_caption: ""
 ---
 
 Last Thursday 4 October at around 10:30am, a student at Imperial College London has had £70 taken by a confidence trickster.

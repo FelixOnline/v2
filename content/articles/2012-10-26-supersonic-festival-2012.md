@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Riaz Agahi on Supersonic’s 10th year
 date: "2012-10-26 03:14:22 +0100"
-
-# Attributes from Felix Online V1
-id: "2770"
-old_path: /music/2770/supersonic-festival-2012
+image: "http://felixonline.co.uk/img/upload/201210260413-tna08-supersonic-festival.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2770/supersonic-festival-2012
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210260413-tna08-supersonic-festival.jpg"
-image_caption: ""
 ---
 
 The 10th Supersonic Festival was held in the Custard Factory in Birmingham. Since the line-up was announced some months ago, I had been excited about attending. The slogan on a lot of the commemorative t-shirts was ‘celebrating 10 years of adventurous music.’ My experiences ranged from the obscure to the experimental to the just plain weird, so the slogan seems apt enough.

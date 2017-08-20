@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Hassan Joudi assesses the coalition’s new openness website
 date: "2010-11-25 21:18:15 +0000"
-
-# Attributes from Felix Online V1
-id: "438"
-old_path: /politics/438/a-gimmick-or-new-era-of-transparency
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/438/a-gimmick-or-new-era-of-transparency
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - hj408
  - nm1010
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Earlier this month, David Cameron launched a new government “transparency” website as part of his Big Society plans for Britain.

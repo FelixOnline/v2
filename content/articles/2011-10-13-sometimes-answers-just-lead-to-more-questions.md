@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Lucia Podhorska takes a retrospective look at LOST
 date: "2011-10-13 23:06:00 +0100"
-
-# Attributes from Felix Online V1
-id: "1519"
-old_path: /tv/1519/sometimes-answers-just-lead-to-more-questions
+image: "http://felixonline.co.uk/img/upload/201110132357-felix-lost.png"
+image_caption: "WE HAVE TO GO BAAAACK... to reading this review"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1519/sometimes-answers-just-lead-to-more-questions
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - lp707
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110132357-felix-lost.png"
-image_caption: ""
 ---
 
 Writing reviews on shows I love is something I have found to be quite difficult. When I try to persuade someone to watch something I like, it generally ends with me saying, “Erm, yeah, you just need to watch it, cos it’s amazing.” And reviewing a show like LOST is even harder, because I never want to give away too much, because it’s the secrets and surprises that make it so enjoyable.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Union’s tuition fees policy, to be debated at Council on Monday, backs Browne Review but demands greater focus on postgraduate funding
 date: "2010-10-28 19:59:08 +0100"
-
-# Attributes from Felix Online V1
-id: "285"
-old_path: /news/285/union-presents-tuition-fees-policy-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/285/union-presents-tuition-fees-policy-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - rjd08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It seems like a lifetime ago now when, on the 12th October, [Lord Browne finally published his review of higher education funding](http://felixonline.co.uk/news/198/lord-browne-points-to-higher-fees-/). Already, it is a topic that has been endlessly deconstructed and analysed and which every student in Imperial and the UK feels strongly about.

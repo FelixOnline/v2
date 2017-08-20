@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A poem by John Hilliard
 date: "2011-12-06 11:34:29 +0000"
-
-# Attributes from Felix Online V1
-id: "1903"
-old_path: /politics/1903/who-is-silvio
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1903/who-is-silvio
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - extuser0
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Who is Silvio? What is he,

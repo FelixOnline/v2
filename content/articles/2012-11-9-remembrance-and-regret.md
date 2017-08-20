@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Remembrance day is increasingly going against its original meaning, argues Angry Geek
 date: "2012-11-09 11:50:24 +0000"
-
-# Attributes from Felix Online V1
-id: "2841"
-old_path: /comment/2841/remembrance-and-regret
+image: "http://felixonline.co.uk/img/upload/201211091149-tna08-rgb-poppy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2841/remembrance-and-regret
-imported: true
 comments:
  - value: >
      Well buddy you've given me over half a decade of laughter and insight and I figured I'd eventually have to disagree with you on something; and irritatingly I still don't disagree that badly. <br>I primarily wear a poppy because I have family ties to the military and I would feel like a bit of a dick otherwise. I would wear a white poppy BUT: 1/I lose poppies frequently and I cannot be arsed to keep painting them and 2/The red of the poppy co-ordinates very nicely with my new vans. <br>I agree with the eloquent gentleman above (except you can't buy white poppies anymore, perhaps he should do some research himself) that your article was perhaps a bit wonkily written, and you seem to be ill-advisedly going off-on-one at dead service personal of recent conflicts more than is entirely necessary. <br>However I agree with the over-all sentiment that poppy appeal has lost its way and has become more pro-military as opposed to being about remembrance. I call it the "Help For Heroes" effect. ,In conclusion, I draw a parallel
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091149-tna08-rgb-poppy.jpg"
-image_caption: ""
 ---
 
 You’d think that ‘anti-war’ would be a pretty easy position to present, wouldn’t you? When you think of things that we name Horsemen of the Apocalypse after, it’s not exactly a list of things that split opinion. There is no pro-Pestilence lobby. There is no Society for the Advancement of Famine. Famine especially, Famine’s a right dick. Keeps enough food around to keep an undead horse running for all eternity, and then goes around taking away everyone else’s dinner? That’s the sort of thing that makes it hard to run Horseman PR effectively.

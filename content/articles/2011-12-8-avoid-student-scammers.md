@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Stay safe when out in London
 date: "2011-12-08 20:09:17 +0000"
-
-# Attributes from Felix Online V1
-id: "1909"
-old_path: /news/1909/avoid-student-scammers
+image: "http://felixonline.co.uk/img/upload/201112082009-pk1811-f_200702_february19e_18665a.jpg"
+image_caption: "A genuine police warrant card"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1909/avoid-student-scammers
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - nm406
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082009-pk1811-f_200702_february19e_18665a.jpg"
-image_caption: ""
 ---
 
 Since the start of term Imperial students have lost thousands of pounds to practised conmen and women. ‘How could they be so stupid?’ you might wonder… it’s not as straightforward as that. These people employ all sorts of tactics – and they’re doing their Christmas shopping. Below are examples of the three most common scams, all of which have happened to IC students since the beginning of term:

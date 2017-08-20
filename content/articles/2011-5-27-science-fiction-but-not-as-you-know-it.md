@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The British Library’s intrepid new exhibition
 date: "2011-05-27 14:14:32 +0100"
-
-# Attributes from Felix Online V1
-id: "1278"
-old_path: /arts/1278/science-fiction-but-not-as-you-know-it-
+image: "http://felixonline.co.uk/img/upload/201105271514-felix-tri-pod-visual-v9-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1278/science-fiction-but-not-as-you-know-it-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105271514-felix-tri-pod-visual-v9-copy.jpg"
-image_caption: ""
 ---
 
 The small, dusty and cramped environs of the Imperial College Science Fiction Library may serve as a true reflection of how the genre is valued and viewed by many... and this is the science fiction library of the country’s leading science university. The tiny library houses over 7000 books and 1000 films: extrapolate those figures to get a more realistic size of the realm of science fiction on a global scale.

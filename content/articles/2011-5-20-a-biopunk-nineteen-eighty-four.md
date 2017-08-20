@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Gene-hacking in a dystopian future
 date: "2011-05-20 05:37:36 +0100"
-
-# Attributes from Felix Online V1
-id: "1222"
-old_path: /arts/1222/a-biopunk-nineteen-eighty-four
+image: "http://felixonline.co.uk/img/upload/201105200636-felix-the-windup-girl-pb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1222/a-biopunk-nineteen-eighty-four
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ghc07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105200636-felix-the-windup-girl-pb.jpg"
-image_caption: ""
 ---
 
 Biopunk has always been considered a mere sub-genre. But recently things are beginning to change. As genomics and biotechnology are becoming more integral in our lives, there is more interest in biotech speculative fiction. All biopunk needs is a landmark book that lifts it from its ‘sub-genre’ label. Paolo Bacigalupi’s The Windup Girl, which recently became the latest recipient of the ‘double crown’ in science fiction (refer to article by the side) might just be the book that biopunk is looking for. It’s quite something for a science fiction piece to be considered by TIME magazine to be a top 10 read of the year.

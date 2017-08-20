@@ -4,18 +4,15 @@ title: >
 subtitle: >
   We review the most detailed mass transit simulator yet
 date: "2011-02-24 20:09:55 +0000"
-
-# Attributes from Felix Online V1
-id: "882"
-old_path: /games/882/cities-in-motion-finally-a-simcity-destroyer
+image: "http://felixonline.co.uk/img/upload/201102242008-nm1010-simsimsi.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/882/cities-in-motion-finally-a-simcity-destroyer
-imported: true
 comments:
  - value: >
      And I thought I was the ssenible one. Thanks for setting me straight.,O51lzp <a href="http://qrnkngodttby.com/">qrnkngodttby</a>, <a href="http://www.protomeds.net/">get online prescription for propecia</a> innjc <a href="http://www.keypills.com/">accutane</a> %OO
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102242008-nm1010-simsimsi.jpg"
-image_caption: ""
 ---
 
 _[C](http://www.citiesinmotion.com/)__[ities in Motion](http://www.citiesinmotion.com/)_ is a complex transport simulator based on a simple concept – you have to build and manage the public transport system in a city. While this isn’t the type of game I’d usually opt for, I decided to take the plunge and take a look at what it had to offer.

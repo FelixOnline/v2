@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial students do what we do best: revise. Well, procrastinate on the internet...
 date: "2012-11-09 00:09:05 +0000"
-
-# Attributes from Felix Online V1
-id: "2831"
-old_path: /news/2831/imperial-students-create-online-learning-database
+image: "http://felixonline.co.uk/img/upload/201211090009-tna08-open-academy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2831/imperial-students-create-online-learning-database
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ncj10
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211090009-tna08-open-academy.jpg"
-image_caption: ""
 ---
 
 Students who met at Imperial College have created a website offering free online education courses.

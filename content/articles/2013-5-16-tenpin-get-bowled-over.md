@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial come fourth, but weren't too upset by it. Josephine Chiu reports
 date: "2013-05-16 17:50:02 +0100"
-
-# Attributes from Felix Online V1
-id: "3573"
-old_path: /sport/3573/tenpin-get-bowled-over
+image: "http://felixonline.co.uk/img/upload/201305161850-tna08-bowling1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3573/tenpin-get-bowled-over
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305161850-tna08-bowling1.jpg"
-image_caption: ""
 ---
 
 The British University Tenpin Bowling Association (BUTBA) Cup final against Loughborough, Sheffield, and Portsmouth took place in Rugby last bank holiday Sunday.

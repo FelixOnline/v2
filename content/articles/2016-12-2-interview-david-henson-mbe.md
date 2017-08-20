@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Military veteran, bronze medallist PhD student
 date: "2016-12-02 16:40:07 +0000"
-
-# Attributes from Felix Online V1
-id: "6549"
-old_path: /sport/6549/interview--david-henson-mbe
+image: "http://felixonline.co.uk/img/upload/201612021739-felix-IMG_8389 (2).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6549/interview--david-henson-mbe
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612021739-felix-IMG_8389 (2).jpg"
-image_caption: ""
 ---
 
 I struggle to get out of bed some mornings. OK, most mornings. OK, OK, I’m still in bed watching Jeremy Kyle yell at someone for having 3 wives and 1 kid whom they all swear is theirs, but we’ve gone off topic. Seeing as this is ‘disability week’ I figured I should talk to someone who knows enough about overcoming a disability to be awarded an MBE, win an athletics bronze medal and participate in research on their own prostheses. Talk about owning your disability  (which we will actually do, later on)! Meet David Henson. He has agreed to play host to my first celebrity interview and talk about how he tackles playing multiple roles at once as well as re-adjusting to life as a bi-lateral amputee. Why is my lethargic attitude to an early morning relevant? Well read on and see why asking “What’s your excuse?” becomes painfully clear.

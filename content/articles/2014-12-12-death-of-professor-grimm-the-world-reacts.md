@@ -4,18 +4,15 @@ title: >
 subtitle: >
   How the online community and the University and College Union have responded
 date: "2014-12-12 12:53:37 +0000"
-
-# Attributes from Felix Online V1
-id: "5048"
-old_path: /news/5048/death-of-professor-grimm-the-world-reacts
+image: "http://felixonline.co.uk/img/upload/201412121253-ps3110-20141212_125030.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5048/death-of-professor-grimm-the-world-reacts
-imported: true
 comments:
  - value: >
      8C40VQ http://www.y7YwKx7Pm6OnyJvolbcwrWdoEnRF29pb.com,tTBKFm http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com,KFT41H http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412121253-ps3110-20141212_125030.jpg"
-image_caption: ""
 ---
 
 After the initial uproar amongst academics caused by the publication of Stefan Grimm’s damning posthumous email, discussion has spread amongst academics outside the English-speaking scientific community.

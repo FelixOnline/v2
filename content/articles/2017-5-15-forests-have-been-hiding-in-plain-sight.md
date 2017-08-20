@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Andrada Balmez explains how we’ve only just discovered 467 million hectares of forest
 date: "2017-05-15 17:33:43 +0100"
-
-# Attributes from Felix Online V1
-id: "6965"
-old_path: /science/6965/forests-have-been-hiding-in-plain-sight
+image: "http://felixonline.co.uk/img/upload/201705151933-felix-140094.jpg"
+image_caption: "A Coolabah forest in the Pilbara region of Western Australia"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6965/forests-have-been-hiding-in-plain-sight
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +21,6 @@ authors:
  - aib116
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705151933-felix-140094.jpg"
-image_caption: ""
 ---
 
 Scientists have been missing the forest for the trees; literally, it turns out. A team of international scientists have found that dryland forest cover could be 40% to 47% higher than previously estimated. This corresponds to 467 million hectares (Mha) of forest that have never been reported before (and this is approximately 250 times the size of Wales or seven times the surface of France). The report increases the current estimates of global forest by at least 9%, the team reported.

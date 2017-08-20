@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Malia Bouattia needs to accept that some will disagree with her
 date: "2016-04-29 10:19:01 +0100"
-
-# Attributes from Felix Online V1
-id: "6095"
-old_path: /comment/6095/the-nus-doesnt-represent-jewish-students
+image: "http://felixonline.co.uk/img/upload/201604291118-felix-Screen Shot 2016-04-28 at 13.25.55.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6095/the-nus-doesnt-represent-jewish-students
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - gib13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201604291118-felix-Screen Shot 2016-04-28 at 13.25.55.jpg"
-image_caption: ""
 ---
 
 On Wednesday 20th April, the NUS voted in Malia Bouattia as the first female black Muslim president. It is great that at a time when Islamophobia is increasing and London mayoral candidate Sadiq Khan is pettily attacked over past acquaintances, the largest student body stands together with it’s minorities by celebrating diversity, voting in someone with immense life experience in wartime troubles.

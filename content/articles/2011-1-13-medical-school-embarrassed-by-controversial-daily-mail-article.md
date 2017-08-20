@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Excessive drinking clampdown enforced at Reynolds bar
 date: "2011-01-13 21:38:32 +0000"
-
-# Attributes from Felix Online V1
-id: "593"
-old_path: /news/593/medical-school-embarrassed-by-controversial-daily-mail-article-
+image: "http://felixonline.co.uk/img/upload/201101132135-ks607-dailymai.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/593/medical-school-embarrassed-by-controversial-daily-mail-article-
-imported: true
 comments:
  - value: >
      Blow me Felix,To think such a grand institute could be pressurised to change by such an obnoxious and idiotic newspaper. Quite sad.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - klb09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101132135-ks607-dailymai.jpg"
-image_caption: ""
 ---
 
 In an unpromising start to the New Year, the reputation of Imperial College School of Medicine was brought into disrepute by a scathing article published in the Daily Mail.

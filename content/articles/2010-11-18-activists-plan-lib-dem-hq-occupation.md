@@ -4,16 +4,14 @@ title: >
 subtitle: >
   ‘Day of Action’ planned for 24th November
 date: "2010-11-18 21:50:55 +0000"
-
-# Attributes from Felix Online V1
-id: "412"
-old_path: /news/412/activists-plan-lib-dem-hq-occupation-
+image: "http://felixonline.co.uk/img/upload/201011182149-ks607-millbank.jpg"
+image_caption: "Protestors at Millbank Tower"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/412/activists-plan-lib-dem-hq-occupation-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - jk708
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011182149-ks607-millbank.jpg"
-image_caption: ""
 ---
 
 The dust has barely settled from the thousands of students who [descended on London last week](http://felixonline.co.uk/gallery/?albumID=2) to demonstrate against the planned rise of tuition fees, but plans are already being set in motion across the country for further protests. [Wednesday 24th November](http://www.facebook.com/event.php?eid=134751449911080&ref=ts) has been proposed by several anti-cuts groups as the next significant occasion to bring the issue to the forefront of both the political and public mindset.

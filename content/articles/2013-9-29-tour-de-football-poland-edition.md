@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Spencer Bennett goes on a lads holiday (they even got matching shirts)
 date: "2013-09-29 16:30:55 +0100"
-
-# Attributes from Felix Online V1
-id: "3791"
-old_path: /sport/3791/tour-de-football-poland-edition
+image: "http://felixonline.co.uk/img/upload/201309291730-tna08-footytour.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3791/tour-de-football-poland-edition
-imported: true
 comments:
  - value: >
      Hi Darren !Notarize, that after an acquaintance with fndreily Ukrainians, you will regret as little time selected for Ukraine. Trust Ukraine not worse than Bulgaria or Romania. And bureaucracy in relation to foreigners is not such frightful, as seem. Can advise such route on Ukraine. I can recommend this route to Ukraine. A border with Moldova/Pridnistrov’y Odesa – a transfer to Sevastopol Yalta – Kerch – Arabatska pointer – Genichesk – Zaporizhzhya Poltava – Kyiv Zhytomyr – Rivne Lutsk – Lviv – Mukacheve – Uzhgorod Border with Poland.There is a geographical center of Europe exactly in Ukraine. You that does not want him to see? In Ukraine produce most in the world airplanes abMriabb(abDreambb), reliable space aircrafts, here conducted abEuro-2012bb. Here a singer Ruslana, which with the song of Wild of dances won on a competition Eurovision 2004, lives and works. And also, the best footballer of Europe Andrey Shevchenko, world-wide boxer Vitalij Klichko. And the known
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309291730-tna08-footytour.jpg"
-image_caption: ""
 ---
 
 Tour began on the final Friday of the summer term. Amongst the celebrations, that are usual at this time of year, there was a sense of trepidation amongst some of the younger members of the touring party. What lay ahead was the football club’s summer tour to Poland by the end of which this feeling of trepidation had been truly justified.

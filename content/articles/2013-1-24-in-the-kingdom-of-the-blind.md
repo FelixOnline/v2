@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Disaster on a smaller scale spells a recipe for success
 date: "2013-01-24 22:55:50 +0000"
-
-# Attributes from Felix Online V1
-id: "3168"
-old_path: /books/3168/in-the-kingdom-of-the-blind
+image: "http://felixonline.co.uk/img/upload/201301242254-mc4509-100_4875.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3168/in-the-kingdom-of-the-blind
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - mc4509
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301242254-mc4509-100_4875.jpg"
-image_caption: ""
 ---
 
 I don’t read much modern literary fiction so José Saramago’s _Blindness_ is not something that I would usually pick up. I am, however, always looking to expand my horizons and so, having heard good things about the book, I decided to give it a go.

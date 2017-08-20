@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Kunal Wagle thinks that a gesture is due to those of us who care
 date: "2015-03-09 19:01:11 +0000"
-
-# Attributes from Felix Online V1
-id: "5374"
-old_path: /comment/5374/its-time-for-football-fans-to-reap-the-benefits
+image: "http://felixonline.co.uk/img/upload/201503091901-ps3110-screen-shot-2015-03-09-at-19.01.02.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5374/its-time-for-football-fans-to-reap-the-benefits
-imported: true
 comments:
  - value: >
      mont blanc fountain pen australia, mont blanc pens, pluma montblanc starwalker original, michael kors book bag, cheap junior ugg boots, john lewis ugg slippers, mens uggs bloomingdales, uggs on sale classic short, michael kors brown handbag, michael kors kempton small tote, red michael kors, mont blanc pens gold, montblanc meisterstuck classique fountain pen review, montblanc platinum line classique kugelschreiber, montblanc fountain pen repair, michael kors fulton purse, cheap ugg boots classic tall, ugg boots youth size 5, michael kors cynthia satchel, montblanc pens outlet uk <br>mont blanc pens cost http://196.37.111.59/script/id=mont-blanc-pens-cost-q10943.php,mont blanc meisterstuck fountain pens, mont blanc pens usa, refill for montblanc rollerball, michael kors fulton crossbody bag, michael kors used handbags, cheap uggs england, price of ugg boots in america, uggs outlet store online, michael kors girls boots, michael kors official outlet website, michael kors wristlet cheap, mont blanc john lennon ball
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503091901-ps3110-screen-shot-2015-03-09-at-19.01.02.png"
-image_caption: ""
 ---
 
 A

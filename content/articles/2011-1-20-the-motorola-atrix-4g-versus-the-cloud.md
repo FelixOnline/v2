@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The device that rule them all, Motorola Atrix
 date: "2011-01-20 19:16:51 +0000"
-
-# Attributes from Felix Online V1
-id: "602"
-old_path: /tech/602/the-motorola-atrix-4g-versus-the-cloud
+image: "http://felixonline.co.uk/img/upload/201101201911-nm1010-atrixlap.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/602/the-motorola-atrix-4g-versus-the-cloud
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - cf308
  - nm1010
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101201911-nm1010-atrixlap.jpg"
-image_caption: ""
 ---
 
 With the introduction of the Motorola Atrix at CES, we saw a modern implementation of the “One Device to Rule them All” paradigm. Smartphones have reached a state where they encompass our phone, media player, casual web browser and camera, all to a level that is more than acceptable to the average user. The Atrix takes this to the next level with its laptop dock accessory, potentially making it our primary computer on top of everything else.

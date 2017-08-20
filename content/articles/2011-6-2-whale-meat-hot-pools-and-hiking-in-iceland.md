@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Guo Heng Chin spends two weeks in the great Icelandic outdoors
 date: "2011-06-02 20:15:10 +0100"
-
-# Attributes from Felix Online V1
-id: "1319"
-old_path: /travel/1319/whale-meat-hot-pools-and-hiking-in-iceland
+image: "http://felixonline.co.uk/img/upload/201106022114-felix-dsc_0255.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/1319/whale-meat-hot-pools-and-hiking-in-iceland
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -25,12 +22,6 @@ authors:
  - ghc07
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106022114-felix-dsc_0255.jpg"
-image_caption: ""
 ---
 
 The eruption of the glacial volcano Eyjafjallajökull last year severely disrupted European airspace but pinned Iceland on the tourist map. It’s easy to see why the island in the middle of the North Atlantic was not exactly the place most opt to go for vacation: it is not heir to a rich cultural heritage as many European countries are, nor does it exude an exotic charm and sun of Asian escapes.

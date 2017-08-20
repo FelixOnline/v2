@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Fred Fyles selects a powerful work from W. Eugene Smith
 date: "2014-11-14 20:48:51 +0000"
-
-# Attributes from Felix Online V1
-id: "4876"
-old_path: /arts/4876/my-art-tomoko-uemure-in-her-bath
+image: "http://felixonline.co.uk/img/upload/201411142048-ps3110-eugenesmith-tomokouemurainherbath1971big.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4876/my-art-tomoko-uemure-in-her-bath
-imported: true
 comments:
  - value: >
      Great looking site. Presume you did a whole lot of your ownyour very own html coding <br>madden 17 coins http://www.camerestudenti.it/bologna/1255_nba_2k17_vc_were_never_in_it_in_the_first_place
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411142048-ps3110-eugenesmith-tomokouemurainherbath1971big.jpg"
-image_caption: ""
 ---
 
 A picture tells a thousand words, as the old adage goes. But some of the best photos go deeper; not satisfied with a word-limit of a thousand, the photographer instead expands their range, taking in entire movements, nations, and histories with their lens.

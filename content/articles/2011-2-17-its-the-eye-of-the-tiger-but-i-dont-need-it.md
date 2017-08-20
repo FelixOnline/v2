@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Do you know how Omar Hafeez-Bore got those abs? By playing video games!
 date: "2011-02-17 20:02:44 +0000"
-
-# Attributes from Felix Online V1
-id: "831"
-old_path: /games/831/its-the-eye-of-the-tiger-but-i-dont-need-it
+image: "http://felixonline.co.uk/img/upload/201102171950-nm1010-tigertig.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/831/its-the-eye-of-the-tiger-but-i-dont-need-it
-imported: true
 comments:
  - value: >
      Gosh I wish I could censor this picture. <br>And for that matter all those degrading images that objectify women. Tomb raider, Street fighter, or whatever else. <br> <br>I object to it. It's disgusting and cheapens women to the degree of making it seem alright, even to little kids as well as grown men, to see, and WANT to see (!) parts of a woman in such detail as is frankly vulgar to describe. Even if it is a drawing. It's sick.
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -26,12 +23,6 @@ authors:
  - oh106
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102171950-nm1010-tigertig.jpg"
-image_caption: ""
 ---
 
 Is Survivor’s 80s classic ‘Eye of the Tiger’ the sweatiest song of all time? Whilst Elvis can take credit for millions of broken teenage hearts, and Barry White for millions of unplanned children, Survivor can take pride in being responsible for a sea of sweat lost by inspired gym-goers since _Rocky III_ in 1982. Did you ever wonder why the Pacific Ocean only appears on maps made since the 1990s (maybe a lie)? Well, now you know where it came from.

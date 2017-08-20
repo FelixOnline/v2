@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Investigation of suspect caught on CCTV
 date: "2011-03-17 20:46:34 +0000"
-
-# Attributes from Felix Online V1
-id: "1095"
-old_path: /news/1095/police-warn-about-bicycle-thefts
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1095/police-warn-about-bicycle-thefts
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The police are investigating a recent series of bicycle thefts from the bike shed, including one student who placed a lock around the front wheel and thus lost the whole bike, apart from the front wheel. The suspect, caught on CCTV, tends to wait for a user to let him in, as a card is required for access. Then he carries a bicycle in and leaves some time later with a stolen one, often of high value.

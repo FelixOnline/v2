@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The best of the year in cinema
 date: "2012-12-07 14:48:46 +0000"
-
-# Attributes from Felix Online V1
-id: "3072"
-old_path: /film/3072/2012-felix-film-awards-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3072/2012-felix-film-awards-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ## __Best Ac____tor:__

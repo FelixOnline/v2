@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Cruelty Free International aren’t buying it
 date: "2017-01-13 13:54:18 +0000"
-
-# Attributes from Felix Online V1
-id: "6630"
-old_path: /news/6630/animal-rights-group-protest-imperials-receipt-of-animal-research-award
+image: "http://felixonline.co.uk/img/upload/201701131354-felix-8224204466_4f0dfafd90_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6630/animal-rights-group-protest-imperials-receipt-of-animal-research-award
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ad4812
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701131354-felix-8224204466_4f0dfafd90_o.jpg"
-image_caption: ""
 ---
 
 Just before the end of last term we ran an article about the fact that Imperial College had been awarded for Public Engagement Activity in the annual ‘Openness on Animal Research Awards’. In response we were contacted by Cruelty Free International and given a press release from the animal rights group.

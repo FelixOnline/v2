@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Over £750,000 was raised internationally
 date: "2015-12-04 15:13:48 +0000"
-
-# Attributes from Felix Online V1
-id: "5793"
-old_path: /news/5793/imperials-charity-week-raises-over-61000
+image: "http://felixonline.co.uk/img/upload/201512041513-ygr12-cw-mosque-cake-.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5793/imperials-charity-week-raises-over-61000
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201512041513-ygr12-cw-mosque-cake-.jpg"
-image_caption: ""
 ---
 
 This week it was announced that Imperial College’s Islamic Society (ISoc) have managed to raise £61,648.31 for good causes as part of Charity Week.

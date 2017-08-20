@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Imperial Entrepreneurs report on the service failure that failed BlackBerry users, and its impact on both companies and the markets
 date: "2011-10-27 22:40:23 +0100"
-
-# Attributes from Felix Online V1
-id: "1617"
-old_path: /biz/1617/blackberrys-outage-and-its-aftermath
+image: "http://felixonline.co.uk/img/upload/201110272335-felix-rim-holds-developers-conference-blackberry-devcon2010-15.jpg"
+image_caption: "Mike Lazaridis, founder and co-CEO of RIM, the creators and manufacturers of the BlackBerry"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/1617/blackberrys-outage-and-its-aftermath
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - ms7210
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110272335-felix-rim-holds-developers-conference-blackberry-devcon2010-15.jpg"
-image_caption: ""
 ---
 
 During the evening of Monday October 10 you were possibly one of the frustrated Imperial students that couldn’t get their BBM working. That was [the day on which all BlackBerry devices lost their email and BlackBerry Messenger services](http://felixonline.co.uk/tech/1563/the-blackberry-crumble/). Some devices lost internet access as well, leaving many bewildered students unable to update their Facebook statuses or tweet any random thoughts. The situation stretched on, and became much more irritating when on early Tuesday morning these student BlackBerry users had no means to entertain themselves during lectures. Later that day there was an announcement by [RIM](http://www.rim.com/) stating that the issue had been resolved. This probably brought hope to those who had been yearning to have their fully functional smartphones back, however, right after that announcement the delays and outages spread worldwide. These outages would end one day later with all services being restored, but leaving many displeased users all across the world.

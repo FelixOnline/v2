@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Saying goodbye isn’t easy, no matter how often you do it
 date: "2011-06-23 20:44:32 +0100"
-
-# Attributes from Felix Online V1
-id: "1427"
-old_path: /comment/1427/well-meet-again
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1427/well-meet-again
-imported: true
 comments:
  - value: >
      In these days of austerity along with rvtilaee anxiousness about incurring debt, many people balk resistant to the idea of having a credit card in order to make acquisition of merchandise or perhaps pay for a vacation, preferring, instead just to rely on the actual tried and also trusted technique of making repayment cash. However, if you've got the cash available to make the purchase in whole, then, paradoxically, this is the best time to use the cards for several causes.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - nd507
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 One might think that, after having changed nine schools and two universities, I’d have gotten the hang of farewells.

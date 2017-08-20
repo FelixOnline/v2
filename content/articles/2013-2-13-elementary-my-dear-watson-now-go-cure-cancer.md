@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Yong Wen Chua is wondering if he could beat Watson at Jeopardy
 date: "2013-02-13 12:38:58 +0000"
-
-# Attributes from Felix Online V1
-id: "3296"
-old_path: /tech/3296/elementary-my-dear-watson-now-go-cure-cancer
+image: "http://felixonline.co.uk/img/upload/201302131230-tna08-watson_jeopardy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3296/elementary-my-dear-watson-now-go-cure-cancer
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -25,12 +22,6 @@ authors:
  - ywc110
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302131230-tna08-watson_jeopardy.jpg"
-image_caption: ""
 ---
 
 Watson might be becoming smarter than Holmes after all, if IBM gets its way.

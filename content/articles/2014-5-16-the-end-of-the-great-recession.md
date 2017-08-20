@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The ‘Great Recession’ is over. To quote the Times: ‘It’s official’. This verdict, coming as it does from ‘one of the country’s leading economic bodies,’ is very impressive no doubt.
 date: "2014-05-16 01:50:54 +0100"
-
-# Attributes from Felix Online V1
-id: "4600"
-old_path: /comment/4600/the-end-of-the-great-recession
+image: "http://felixonline.co.uk/img/upload/201405160251-jal08-osbourne.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4600/the-end-of-the-great-recession
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - jal08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405160251-jal08-osbourne.jpg"
-image_caption: ""
 ---
 
 The ‘Great Recession’ is over. To quote the Times: ‘It’s official’. This verdict, coming as it does from ‘one of the country’s leading economic bodies,’ is very impressive no doubt. The National Institute of Economic and Social Research (NIESR) (from whence the claim), is an institution blessed with an authoritative name and steeped in history. In fact, we learn from their website that they are ‘Britain’s longest established independent research institute’ … Sorry, ‘independent’? That sounds very, umm, ‘official’.

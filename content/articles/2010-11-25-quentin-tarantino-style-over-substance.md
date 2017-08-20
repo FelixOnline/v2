@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Navid Nabijou profiles the controversial director and his latest work, Inglourious Basterds
 date: "2010-11-25 19:56:32 +0000"
-
-# Attributes from Felix Online V1
-id: "423"
-old_path: /film/423/quentin-tarantino-style-over-substance
+image: "http://felixonline.co.uk/img/upload/201011251953-nm1010-tarantin.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/423/quentin-tarantino-style-over-substance
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - nn1209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011251953-nm1010-tarantin.jpg"
-image_caption: ""
 ---
 
 Over the past two decades, few directors have managed to excite such acclaim – and controversy – as Quentin Tarantino. His work has sharply polarised critics, spawning a plethora of varied interpretations and deconstructions. Each new release is followed by a blaze of feverish publicity, and through all of this, Tarantino and his films remain something of an enigma.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Comedy for nerds of any experience
 date: "2012-06-14 19:12:56 +0100"
-
-# Attributes from Felix Online V1
-id: "2545"
-old_path: /arts/2545/not-for-standing-awkwardly-in-the-corner
+image: "http://felixonline.co.uk/img/upload/201206142012-ams111-arts1.jpg"
+image_caption: "Keeping up the Imperial ratio with FOTSN"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2545/not-for-standing-awkwardly-in-the-corner
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - wsp10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206142012-ams111-arts1.jpg"
-image_caption: ""
 ---
 
 One of the few enduring life lessons I learnt during my time in halls is that some guilty pleasures are more acceptable than others. Even in the relatively tolerant enclave of Imperial College, pulling an all-nighter in the kitchen with your mates playing StarCraft until dawn will still draw some rolled eyes and tuts under the breath.

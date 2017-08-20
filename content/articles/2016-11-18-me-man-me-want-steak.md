@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Intrinsically manly, some might argue. felix investigates the rise of sous-vide technology, and how it can turn the most manly of dishes into something more refined.
 date: "2016-11-18 15:24:49 +0000"
-
-# Attributes from Felix Online V1
-id: "6477"
-old_path: /food/6477/me-man-me-want-steak
+image: "http://felixonline.co.uk/img/upload/201611181524-felix-Screen Shot 2016-11-18 at 15.24.28.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6477/me-man-me-want-steak
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - sb6213
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611181524-felix-Screen Shot 2016-11-18 at 15.24.28.png"
-image_caption: ""
 ---
 
 Steak: at its finest, a juicy, browned hunk of meat, bursting with flavour, and apparently quintissentialy manly. At its worst, a drab, uninspired piece of “grilling” that disappoints in every mouthful.

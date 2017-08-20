@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fiona Hartley tells us why scientists will soon be adding a new weapon to our arsenal against flu
 date: "2013-10-04 00:30:55 +0100"
-
-# Attributes from Felix Online V1
-id: "3798"
-old_path: /science/3798/blood-snot-and-students
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3798/blood-snot-and-students
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - frh10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I’m sure several of you are suffering with freshers’ flu by now, as I am, because sharing your germs via sniffling and/or coughing on your unfortunate peers in lectures is akin to physical intimacy here at Imperial. You’d rather be healthy, or at least in bed, as you sip your Lemsip Max and wish that you hadn’t shuffled through crowds of virus-laden students in the QTR at Freshers’ Fair.

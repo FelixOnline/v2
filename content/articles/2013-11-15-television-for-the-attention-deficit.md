@@ -4,16 +4,13 @@ title: >
 subtitle: >
   From Shakespeare to the Iraq War, Emily Fulham celebrates the unsung art of the miniseries
 date: "2013-11-15 18:13:46 +0000"
-
-# Attributes from Felix Online V1
-id: "4083"
-old_path: /tv/4083/television-for-the-attention-deficit
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4083/television-for-the-attention-deficit
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Ever wanted to watch a new TV show without, you know, committing to it? We’ve all been there: start watching a new series, thinking it looks pretty cool, and next thing you know, you’re nine series in and have no idea why you’re still watching, but too emotionally invested to stop (here’s looking at you, Supernatural).

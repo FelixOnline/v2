@@ -4,16 +4,13 @@ title: >
 subtitle: >
   If you're looking for alternative facts please go away
 date: "2017-02-03 16:36:30 +0000"
-
-# Attributes from Felix Online V1
-id: "6716"
-old_path: /science/6716/does-trumps-presidency-signal-the-start-of-a-post-truth-era-in-science
+image: "http://felixonline.co.uk/img/upload/201702031636-felix-Oxford dictionaries.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6716/does-trumps-presidency-signal-the-start-of-a-post-truth-era-in-science
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - sarahamilton14
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702031636-felix-Oxford dictionaries.jpg"
-image_caption: ""
 ---
 
 You know something is seriously wrong in the scientific community when you hear “post-truth” and science put together. Indeed, this term, coined international word of 2016 by Oxford dictionary has recently been appearing in headlines worldwide as a new way of thinking about science in this new world we live in. A world in which – post-truth defenders claim – objective facts are less influential in shaping the public than emotional appeals. Many see the election of Trump, despite his dismissal of what we often see as clear-cut science facts (see vaccination and climate change) as an exemplification of this new world order. They see it as a time of crisis in the science community, brought about by the ongoing war between the educated liberal left and the ignorant conservative right, and an opportunity to reform it. Some even venture to claim that science is partially responsible for this change in world order. Even before the US election, Nature magazine columnist Colin Macilwain stated, “If Donald Trump were to trigger a crisis in Western democracy, scientists would need to look at their part in its downfall”. Has science become out of touch with society, or vice-versa? Is 21st century science really post-truth? A little analysis on the nature of scientific enquiry itself helps to answer these questions.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A cheap ticket to plays with many big names
 date: "2012-12-07 02:27:00 +0000"
-
-# Attributes from Felix Online V1
-id: "3048"
-old_path: /arts/3048/a-grand-age
+image: "http://felixonline.co.uk/img/upload/201212070225-tna08-pop_image_small.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3048/a-grand-age
-imported: true
 comments:
  - value: >
      I went to Privates on Parade and I wrote a short review of it. <br>This is the first of the five plays put on by Michael Grandage at the Noel Coward theatre and Grandage has chosen this light comedic musical piece by Peter Nichols with music by Denis King. Although this was not the first time Grandage directed this play, (he previously did at Donmar in 1991), this was the first collaboration between Grandage and Simon Russell Beale. This was a great role for Beale as the flamboyant yet sensitive drag performer, bearing the responsibility of most of the musical numbers and jokes. Beale didn’t disappoint with his casual flips between playful and serious, and ability to carry all the costumes with true ease and comfort that the character seemed to enjoy. The rest of the cast was adequate but there was a slightly under par performance by Angus Wright in the first couple of his scenes. ,The rhythm of the show was not quite there yet which may be explained by the show still being in preview. There seemed to be a di
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070225-tna08-pop_image_small.jpg"
-image_caption: ""
 ---
 
 This autumn, a new theatre company has joined the ranks of the prestigious London scene: the [Michael Grandage Company ](http://www.michaelgrandagecompany.com/)(MGC). Born from the union of two notorieties of the UK repertoire, artistic director Michael Grandage and executive producer James Bierman, this new troop has only just revealed its first 15-month season of five plays that will be nestled in the heart of the West End at the Noel Coward theatre.

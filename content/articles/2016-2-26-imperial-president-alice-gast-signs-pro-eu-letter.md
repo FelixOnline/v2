@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Sunday Times published the open letter condemning 'Brexit'
 date: "2016-02-26 11:23:00 +0000"
-
-# Attributes from Felix Online V1
-id: "5955"
-old_path: /news/5955/imperial-president-alice-gast-signs-pro-eu-letter
+image: "http://felixonline.co.uk/img/upload/201602261122-felix-Screen Shot 2016-02-25 at 17.42.05.png"
+image_caption: "Brexit-er Boris out on Exhibition Road. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5955/imperial-president-alice-gast-signs-pro-eu-letter
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261122-felix-Screen Shot 2016-02-25 at 17.42.05.png"
-image_caption: ""
 ---
 
 Over one hundred leaders of UK universities, including the President of Imperial, Alice Gast, have signed an open letter published in the _Sunday Times_, asking the British public to reject a ‘Brexit’ and vote to stay in the European Union.

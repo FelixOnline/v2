@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Chanon Wongsatayanont talks about coping with long distance relationships
 date: "2015-02-03 13:30:46 +0000"
-
-# Attributes from Felix Online V1
-id: "5180"
-old_path: /welfare/5180/overcoming-the-distance
+image: "http://felixonline.co.uk/img/upload/201502031330-ps3110-long_distance_relationship___sleep_by_tabby_like_a_cat-d68iq5b.png.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /welfare/5180/overcoming-the-distance
-imported: true
 comments:
  - value: >
      birkenstock shoe <br>birkenstocks cheap http://birkenstocksaleaustralia.blogspot.com/,Scrapped that plan and played defense the other five games, winning four of every one of them. It's a unique incontrovertible fact that some players appreciate as well as others dislike. For example, an end is worth a one point. <br>fifa 16 hack http://creditsfut.com/,louboutin pigalle 120 <br>christian louboutin sale outlet http://canadachristianlouboutin.blogspot.com/,christian louboutin pigalle <br>christian louboutin canada sale http://canadachristianlouboutinoutlet.blogspot.com/,I value the knowledge on your website. Thanks a bunch.| <br>nba 2k16 mt hack pc http://alicedeirdre.moonfruit.com/blog/4592107951/Tom-Clancy%E2%80%99s-The-Division-Ultimate-Guide-To-Level-Rapidly-Up/10641994,Neat page, Keep up the great work. With thanks!| <br>csgo skins checker http://blog1.de/HuldaDinah/3731302/Top+Five+Strategies+For+Choosing+The+Right+Success+Knife%3A+CS+Go+Knives.html
-
-# Article Taxonomies
 categories:
  - welfare
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502031330-ps3110-long_distance_relationship___sleep_by_tabby_like_a_cat-d68iq5b.png.jpeg"
-image_caption: ""
 ---
 
 The world is getting more globalised and people seem to end up all over the place, smattered here and there like dots of paint. Unfortunately, this also applies to couples, out of necessity or to chase after an opportunity elsewhere. Both sides mean well and they each want the best for each other, but it’s painful for a relationship to be reduced to a window on Skype or a voice over the phone.

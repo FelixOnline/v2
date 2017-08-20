@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:31:34 +0000"
-
-# Attributes from Felix Online V1
-id: "5341"
-old_path: /comment/5341/felix-interviews-deputy-president-cs-candidate-isabelle-barrett
+image: "http://felixonline.co.uk/img/upload/201503091749-ps3110-screen-shot-2015-03-09-at-17.49.11.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5341/felix-interviews-deputy-president-cs-candidate-isabelle-barrett
-imported: true
 comments:
  - value: >
      How do you propose to alter these allocations to help smaller clubs? In particular, minibuses?,fitflops cheapest <br>fitflop sales http://fitflopsau.blogspot.com/,fitflops slippers <br>fitflop sandals http://fitflopsau.blogspot.com/,christian loubiton <br>cheap christian louboutin shoes canada http://canadachristianlouboutin.blogspot.com/,louboutin mens shoes canada <br>discount christian louboutin http://christianlouboutincanadaoutlet.blogspot.com/,The material is amazingly unique.| <br>cs go skins amazon http://smssaff.sagada.org/profiles/blogs/the-risk-of-nba-2k16-mt-that-nobody-is-discussing,Thank you so much for sharing your well put together site <br>NFL 17 coins http://www.malluz.com/blogs/post/763,You've very well info right here <br>nhl 17 coins http://pal.aircooledtreasury.com/forum/topic/7541,Wow because this is very greatexcellent work! Congrats and keep it up <br>madden 17 coins http://zrupy.com/index.php?dll=profile&amp;sub=blogview&amp;item_id=230006&amp;item2_id=2050
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503091749-ps3110-screen-shot-2015-03-09-at-17.49.11.png"
-image_caption: ""
 ---
 
 __What made you run for this position?__

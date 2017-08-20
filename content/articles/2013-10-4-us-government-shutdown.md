@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Disaster strikes as bipartisan talks break down
 date: "2013-10-04 00:39:38 +0100"
-
-# Attributes from Felix Online V1
-id: "3801"
-old_path: /politics/3801/us-government-shutdown
+image: "http://felixonline.co.uk/img/upload/201310040140-jal08-us_government_shutdown.jpg"
+image_caption: "Wow, who feeds the ducks?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/3801/us-government-shutdown
-imported: true
 comments:
  - value: >
      hey there, <br>Actually theres a bigger problem facing them right now. To pass such a bill, they have to have a clear majority in the parliament but they cant get that due to ideological differences. So if Republicans dont agree, Obama cant pass it even if he really wants to. I feel both sides are to blame for this mess as they are simply trying to please their vote banks and are not willing to see what is the best for all. This is Obama's big scheme that he talked about last election as well whereas the Republicans cant let it pass if they want to do well in the next elections. <br>Their military spending is actually gradually falling rather than rising but I agree with you in principle though. <br>Kartik,I am biased as I come from a "socialist" country (Norway, which by the way has the highest standards of living, virtually no unemployement, full medical coverage etc..) but I find it indeed utterly wrong of them to postpone agreeing to a bill for what seems to be a simple ideological disagreement, if not fear of l
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -28,12 +26,6 @@ authors:
  - kr1512
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310040140-jal08-us_government_shutdown.jpg"
-image_caption: ""
 ---
 
 The non-essential services provided by the US government have grinded to a halt as there is disagreement in Congress about the current budget. This not only weakens the country financially but also shows the inefficiency US congress has to deliberate and compromise in situations where ideologies clash.

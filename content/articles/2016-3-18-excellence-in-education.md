@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The President of Imperial speaks
 date: "2016-03-18 11:37:12 +0000"
-
-# Attributes from Felix Online V1
-id: "6054"
-old_path: /comment/6054/excellence-in-education
+image: "http://felixonline.co.uk/img/upload/201603181134-felix-Imperial_College_-_South_Kensington_Campus.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6054/excellence-in-education
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - agast
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603181134-felix-Imperial_College_-_South_Kensington_Campus.jpg"
-image_caption: ""
 ---
 
 Since arriving at Imperial, I have been extremely impressed with our students’ excellence. I’ve seen brilliant scholars explaining their research, talented entrepreneurs describing their spin-out company and gifted musicians inspiring a rapt audience. I love to walk through College in the evening and see the ballroom dance team practicing with the jazz band rehearsing next door. This is an incredible place thanks to the great talent, energy and motivation of our students.

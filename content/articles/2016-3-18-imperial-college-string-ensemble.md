@@ -4,18 +4,16 @@ title: >
 subtitle: >
   ICSE fills us in on their weekend away
 date: "2016-03-18 12:04:41 +0000"
-
-# Attributes from Felix Online V1
-id: "6075"
-old_path: /cands/6075/imperial-college-string-ensemble
+image: "http://felixonline.co.uk/img/upload/201603181204-felix-ICSE-Image-2.jpg"
+image_caption: "A very happy ensemble on a very successful trip! "
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/6075/imperial-college-string-ensemble
-imported: true
 comments:
  - value: >
      If you do any more Grace Williams, let me know! Here's a link to a whole concert: http://www.bbc.co.uk/programmes/b071cyg7, available for another 12 days.,A wonderful job. Super helpful inaotmfrion. ,it is very helpful for me personally searching on this site! <br>fut16coin http://fifa16coinblog.blog.hr/2016/02/1632000328/barcelona-point-to-sign-nolito-mestre.html,youre really talented. <br>buy blade &amp; soul gold http://www.sythe.org/showthread.php?p=15861603#post15861603,i'm able to discover numerous great answers if i have trouble! <br>Runescape Gold http://www.kuchikomi.gr.jp/blogs/item/solomons-store-–-bank-boosters-with-runescape,This is really a nice place. <br>nba2k16store http://www.terrificpets.com/forum/97105.asp,I'll fix it! <br>cheap nba 2k mt xbox one supplier http://www.nba2k16store.com/nba-2k16/Xbox-one-2211,Hold it! <br>cheap nfl 17 coins ps4 store at madden-store http://www.madden-store.com/madden-nfl-17/PS4-2363,Even call it. <br>buy nba 2k17 mt http://codebirth.com/index.php?topic=45047.0,Hold it! <br>cheapest nb
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -26,12 +24,6 @@ authors:
  - jr2014
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603181204-felix-ICSE-Image-2.jpg"
-image_caption: ""
 ---
 
 We all know that feeling. The moment of closure as something wonderful comes to an end. You look back and realise that it will stay with you for many years to come,  as a glowing memory in your life. This year’s weekend away  has been one of those moments for us!

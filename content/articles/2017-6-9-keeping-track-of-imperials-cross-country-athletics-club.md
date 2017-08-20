@@ -4,16 +4,13 @@ title: >
 subtitle: >
   if you're gonna follow them tho get a golf cart or something 'cos they're fast
 date: "2017-06-09 15:42:56 +0100"
-
-# Attributes from Felix Online V1
-id: "7022"
-old_path: /sport/7022/keeping-track-of-imperials-cross-country--athletics-club
+image: "http://felixonline.co.uk/img/upload/201706091742-ea3211-Picture2.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/7022/keeping-track-of-imperials-cross-country--athletics-club
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - fergusjohnson
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706091742-ea3211-Picture2.png"
-image_caption: ""
 ---
 
 Saturday the 27th of May saw the final event in the London Universities and Colleges Athletics (LUCA) outdoors championship take place. The series of three athletics meets between the London universities had previously visited St. Mary’s and Woodford athletics tracks, and the destination for the final was Battersea’s Millennium Arena.

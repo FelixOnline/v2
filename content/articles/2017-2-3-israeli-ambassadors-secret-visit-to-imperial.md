@@ -4,18 +4,15 @@ title: >
 subtitle: >
   felix reports from the mystery talk
 date: "2017-02-03 14:59:49 +0000"
-
-# Attributes from Felix Online V1
-id: "6706"
-old_path: /news/6706/israeli-ambassadors-secret-visit-to-imperial
+image: "http://felixonline.co.uk/img/upload/201702031459-felix-4018064852_215def2815_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6706/israeli-ambassadors-secret-visit-to-imperial
-imported: true
 comments:
  - value: >
      Conferences left out a "confidential" sheet of paper regarding security arrangements for this events. You should probably ask them why it was left in a public corridor. You can tell them it was genuine as the speaker was referred to as 724.,So much for a "candid debate". Sounds like IC pretty much got approached to be a mouthpiece for the Israeli govt. and agreed!<br>Perhaps, had anyone thought to invite an alternative viewpoint, it might have been mentioned that both Hamas and the PLO have repeatedly expressed acceptance of coexistence within 1967 borders.<br>As the ambassador moans, so too does pretty much every UN member state (how awful, that such things might be subject to the scrutiny of the international community) bar the US, and the usual abstainers. What he neglects to mention is that even such overwhelming consensus is utterly meaningless. And certainly, having been protected from Security Council censure 42 times by US veto would constitute unfair treatment, though not in the sense he means!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702031459-felix-4018064852_215def2815_o.jpg"
-image_caption: ""
 ---
 
 Last week the Israeli Ambassador to Britain, Mark Regev visited Imperial College, giving a talk in the Clore Lecture Theatre in Huxley Building. The talk, for which publicity was incredibly limited, was attended by around 200 students and was shrouded in secrecy right up until the very last moment.

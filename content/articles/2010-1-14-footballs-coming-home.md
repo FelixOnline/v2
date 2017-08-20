@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Gaelic football is a quickly budding game on Imperial's sports scene; ic gaelic athletic club boasts full rosters for both Mens' and Ladies' teams this year. Dan Wan follows them on their tour of Dublin and even gets stuck in himself
 date: "2010-01-14 16:49:12 +0000"
-
-# Attributes from Felix Online V1
-id: "32"
-old_path: /sport/32/footballs-coming-home
+image: "http://felixonline.co.uk/img/upload/201001141646-felix-gaelicgi.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/32/footballs-coming-home
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001141646-felix-gaelicgi.jpg"
-image_caption: ""
 ---
 
 As I follow IC GAC throughout their tour of Dublin, it is clear that their captain Andrew Lavery is taking on-field performance seriously and looks to establish Gaelic Football amongst the rugbies, footballs and the hockeys of Imperial’s sporting frontline.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Students can now get funding for taught and research masters courses
 date: "2014-12-09 13:45:25 +0000"
-
-# Attributes from Felix Online V1
-id: "5016"
-old_path: /news/5016/postgraduate-loan-system-announced
+image: "http://felixonline.co.uk/img/upload/201412091345-ps3110-george-osborne.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5016/postgraduate-loan-system-announced
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412091345-ps3110-george-osborne.jpg"
-image_caption: ""
 ---
 
 A student loan system has finally been introduced for postgraduate study. The decision, announced in the Chancellor’s Autumn statement, is said to “revolutionise’ access to postgraduate university courses.

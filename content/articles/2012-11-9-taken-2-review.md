@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The follow up to the action packed Taken is disappointing
 date: "2012-11-09 13:33:25 +0000"
-
-# Attributes from Felix Online V1
-id: "2861"
-old_path: /film/2861/taken-2-review
+image: "http://felixonline.co.uk/img/upload/201211091333-tna08-taken.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2861/taken-2-review
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - klb09
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091333-tna08-taken.jpg"
-image_caption: ""
 ---
 
 Producer Luc Besson and director Olivier Megaton had a smash hit on their hands with 2008’s Taken, starring Liam Neeson as the ex-CIA guy whose daughter was kidnapped by traffickers in Europe. Needless to say, Liam went after the bad guys, found them and killed them. Sorted. It was such a success that a sequel was inevitable – and it’s got a strange twist, this one. This time around, it’s Liam who’s got himself kidnapped, and his daughter who is trying to save him.

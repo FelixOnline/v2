@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Teams have been suspended and made to miss key matches
 date: "2014-11-14 19:58:53 +0000"
-
-# Attributes from Felix Online V1
-id: "4862"
-old_path: /news/4862/penalties-for-rugby-teams-announced-
+image: "http://felixonline.co.uk/img/upload/201411142015-ps3110-rugby-ball.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4862/penalties-for-rugby-teams-announced-
-imported: true
 comments:
  - value: >
      What is Paul Beaumont still doing around, he was at least a year above me and I left yonks ago!,What is Paul Beaumont still doing around, he was at least a year above me and I left yonks ago!,@Anon: PhD according to Exchange.,@Anon: PhD according to Exchange.,The hippest sport regarding world - there is no doubt in it - is association sports. There are 193 independent states in the world and several 208 men's national football teams affiliated to Fifa. This is not surprisingly due into the fact that some territories are not separate states but nevertheless have personal football teams - England, Scotland, Wales and Northern Ireland are perfect examples. <br>credits fut rapidement http://creditsfut.com/,The hippest sport regarding world - there is no doubt in it - is association sports. There are 193 independent states in the world and several 208 men's national football teams affiliated to Fifa. This is not surprisingly due into the fact that some territories are not separate states but nevertheless have persona
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411142015-ps3110-rugby-ball.jpg"
-image_caption: ""
 ---
 
 Earlier this week, in light of the recent incidents concerning anti-social behaviour, Imperial College Union released the penalties that will be held against both Imperial College Union Rugby Football Club (ICURFC) and Imperial Medicals Rugby Football Club.

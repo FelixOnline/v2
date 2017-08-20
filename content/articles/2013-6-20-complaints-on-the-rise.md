@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Upward trends as 2012 is a record year for complaints
 date: "2013-06-20 23:39:53 +0100"
-
-# Attributes from Felix Online V1
-id: "3725"
-old_path: /news/3725/complaints-on-the-rise
+image: "http://felixonline.co.uk/img/upload/201306210038-tna08-shouting.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3725/complaints-on-the-rise
-imported: true
 comments:
  - value: >
      Anon: If Labour manages to successfully implement policy (and that's the big if, given past performance and the attitudes of their coalition "partners"), then I don't expect National to roll it back. Their position has always been about avoiding the political cost to themselves (and maximising it for Labour) than anything else. And I think ACT will be the same (Dunne even more so).Insider: Treasury seems to be deliberately underestimating the cost of credits. The level of emissions depends on what assumptions you make (especially around the effects of policy); at least the current batch are a little more transparent in what we should expect.As for "overhyping our credit", previous governments seem to have made a genuine error in calculating our baseline, which led them all to believe that we would be in credit; Labour can hardly be faulted for using the numbers MfE's experts gave them in 2001 - 2002. Their policy was significantly weaker than necessary as a result, but it was based on the information they
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306210038-tna08-shouting.jpg"
-image_caption: ""
 ---
 
 [Figures](http://oiahe.org.uk/news-and-media/news-and-press-releases.aspx) from the official watchdog, the[ Office of the Independent Adjudicato](http://oiahe.org.uk/news-and-media/news-and-press-releases.aspx)r (OIA), show that complaints by students at universities in England and Wales have reached an all time high.

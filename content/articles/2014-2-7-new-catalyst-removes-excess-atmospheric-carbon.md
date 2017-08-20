@@ -4,16 +4,13 @@ title: >
 subtitle: >
   University of Delaware finds a new non-porous silver catalyst
 date: "2014-02-07 05:14:43 +0000"
-
-# Attributes from Felix Online V1
-id: "4365"
-old_path: /science/4365/new-catalyst-removes-excess-atmospheric-carbon
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4365/new-catalyst-removes-excess-atmospheric-carbon
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - pd111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Researchers from the University of Delaware have developed a new catalyst that may reduce the surplus carbon dioxide in the atmosphere. The proposed nano-porous silver catalyst encourages the conversion of carbon dioxide into carbon monoxide.

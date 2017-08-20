@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Byron, reviewed
 date: "2011-10-21 11:54:58 +0100"
-
-# Attributes from Felix Online V1
-id: "1604"
-old_path: /food/1604/byron-means-burger
+image: "http://felixonline.co.uk/img/upload/201110211254-ak6309-byron-burgerw.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1604/byron-means-burger
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - ak6309
  - lap08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110211254-ak6309-byron-burgerw.jpg"
-image_caption: ""
 ---
 
 “I want to keep fighting because it is the only thing that keeps me out of the hamburger joints. If I don’t fight, I’ll eat this planet.” Take this George Foreman quote, replace ‘fight’ with ‘study’ and ‘hamburger joints’ with ‘Byron’ and it’s instantly applicable to me. Well, sort of. OK, not really, but I still really like Byron.

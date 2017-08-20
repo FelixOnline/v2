@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This week saw another session of Union Council, the body of elected representatives that create and approve policies that shape the views and the functionality of the Union. The week saw another inquorate session of Council, during which the body was unable to vote effectively on papers...
 date: "2014-05-02 01:03:47 +0100"
-
-# Attributes from Felix Online V1
-id: "4539"
-old_path: /comment/4539/does-union-council-need-a-fresh-coat-of-paint
+image: "http://felixonline.co.uk/img/upload/201405020203-jal08-1574---beit-quadrangle.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4539/does-union-council-need-a-fresh-coat-of-paint
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405020203-jal08-1574---beit-quadrangle.jpg"
-image_caption: ""
 ---
 
 This week saw another session of Union Council, the body of elected representatives that create and approve policies that shape the views and the functionality of the Union. The week saw another inquorate session of Council, during which the body was unable to vote effectively on papers due to poor attendance.

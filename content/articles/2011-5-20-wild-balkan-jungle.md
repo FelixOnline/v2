@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Daniel Oppenheimer kicks off the Felix Summer Festival Guide with a preview of Croatia’s Outlook
 date: "2011-05-20 05:41:31 +0100"
-
-# Attributes from Felix Online V1
-id: "1224"
-old_path: /music/1224/wild-balkan-jungle
+image: "http://felixonline.co.uk/img/upload/201105200640-felix-outlook-festival.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1224/wild-balkan-jungle
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - dyo10
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105200640-felix-outlook-festival.jpg"
-image_caption: ""
 ---
 
 The idea behind Outlook Festival is straightforward: a large number of people; an 18th century fort; a strictly UK-Jamaican bass and dub sound; beach parties; boat parties and, if you need it, a coach named “The Sunshine Bus” to get you from England to Croatia.

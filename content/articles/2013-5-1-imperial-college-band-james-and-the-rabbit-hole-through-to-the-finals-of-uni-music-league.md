@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Another league table that we dominate at.
 date: "2013-05-01 14:27:33 +0100"
-
-# Attributes from Felix Online V1
-id: "3514"
-old_path: /music/3514/imperial-college-band-james-and-the-rabbit-hole-through-to-the-finals-of-uni-music-league
+image: "http://felixonline.co.uk/img/upload/201305012039-tna08-james.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3514/imperial-college-band-james-and-the-rabbit-hole-through-to-the-finals-of-uni-music-league
-imported: true
 comments:
  - value: >
      Yaaaaaaaaaaaaayyyyyyy
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305012039-tna08-james.png"
-image_caption: ""
 ---
 
 Uni Music League is a unique project that has hit the UK with a bang. Acting as a support system for up-and-coming student musicians and bridging the gap between the unsigned world and the professional music industry, Uni Music League is the UK’s biggest student-based music competition. The immense prize package which James and the Rabbit Hole from Imperial College are hoping to win is an EP recording deal with Metropolis Studios, the opportunity to perform at the Wilderness Festival, support slots at KOKO, full PR campaign and professional photography shoots. Yes, it really is a dream prize for any up and coming musician…

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Medical Student Suha Bachir discovers how to balance a successful academic career with teaching, and even editing!
 date: "2011-04-07 21:06:20 +0100"
-
-# Attributes from Felix Online V1
-id: "1131"
-old_path: /science/1131/interview-with-professor-stanley-siegelman
+image: "http://felixonline.co.uk/img/upload/201104072208-ks607-pr-siegelman.jpg"
+image_caption: "Professor Siegelman in his office at Johns Hopkins "
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1131/interview-with-professor-stanley-siegelman
-imported: true
 comments:
  - value: >
      Facinating and thoughtful piece. Particularly liked the quote ‘GO FOR THE JOY’.,Great interview. <br> <br>GO FOR THE JOY
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104072208-ks607-pr-siegelman.jpg"
-image_caption: ""
 ---
 
 When I was told I would be undertaking my medical elective at the very hospital House graduated from, I was over the moon. The famous Johns Hopkins Hospital has not only had 33 Nobel Laureates associated with it, but has also been voted best US hospital for twenty consecutive years. When I first saw the hospital, I must admit, I thought it was more of an enchanted castle than a hospital. Having read up about the many influential physicians and scientists from Hopkins, I was desperate to find out if it was possible to follow in their footsteps. So when I came across Professor Siegelman, a hugely influential radiologist at Johns Hopkins, I jumped at the chance to interview him. Throughout his career he has taught, edited, made scientific discoveries and has treated patients. I was keen to find out the secrets of his success in combining medicine, science and teaching.

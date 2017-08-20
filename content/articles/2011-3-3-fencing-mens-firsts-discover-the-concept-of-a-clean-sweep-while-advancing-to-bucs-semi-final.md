@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Men’s Fencing : Imperial 1st 135 - 74 Bath 1st
 date: "2011-03-03 21:27:07 +0000"
-
-# Attributes from Felix Online V1
-id: "1027"
-old_path: /sport/1027/fencing-mens-firsts-discover-the-concept-of-a-clean-sweep-while-advancing-to-bucs-semi-final
+image: "http://felixonline.co.uk/img/upload/201103032124-nm1010-menmenme.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1027/fencing-mens-firsts-discover-the-concept-of-a-clean-sweep-while-advancing-to-bucs-semi-final
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - cl3510
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103032124-nm1010-menmenme.jpg"
-image_caption: ""
 ---
 
 Men’s first fencing team had a visit by University of Bath’s first team on Wednesday afternoon.

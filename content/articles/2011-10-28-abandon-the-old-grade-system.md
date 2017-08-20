@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The only opposition to American-style Grade Point Averages is because of fear, argues Richard Oberdieck
 date: "2011-10-28 00:12:50 +0100"
-
-# Attributes from Felix Online V1
-id: "1627"
-old_path: /comment/1627/abandon-the-old-grade-system
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1627/abandon-the-old-grade-system
-imported: true
 comments:
  - value: >
      The fear is that decision about inviting peron to the interview will be based strongly upon the result on the degree. I believe that with system we have today - 70%-100% are the same grade, people who do worse at exams, work slower, but are commited and talented have a chance of getting invited to an interview and showing their true ability. <br> <br>I know people with 2.1's who got hired by top tier companies, and people from dean's list who failed to secure a summer intership solely because they were awful at interviews. <br> <br>I like the way employer does not know the exact grade, because this way he is pushed to check your skill on the interview, instead of rejecting you straight away.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Last week, [it was announced](http://felixonline.co.uk/news/1503/ucl-to-introduce-grade-point-average/) that UCL is going to change their grade system towards the American model. They are abandoning the first, 2:1 etc. leading Imperial students to ask: is this also going to happen to us? The Union immediately said: we won’t allow that to happen because then this will become a (more) competitive university.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Far from being just a mathematical expression, Polynomial is a (dull) 3D music action game
 date: "2010-11-04 18:27:48 +0000"
-
-# Attributes from Felix Online V1
-id: "297"
-old_path: /games/297/polynomial-proves-maths-isnt-fun
+image: "http://felixonline.co.uk/img/upload/201011282018-sjw209-Polynomi.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/297/polynomial-proves-maths-isnt-fun
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - lap08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011282018-sjw209-Polynomi.jpg"
-image_caption: ""
 ---
 
 [The Polynomial – Space Of The Music](http://dmytry.com/games/), far from being just a mathematical expression, is a 3D music action game in which you pilot a space ship through a brightly coloured universe that pulsates along to currently playing song.

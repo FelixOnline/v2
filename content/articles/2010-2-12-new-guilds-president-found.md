@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Dan Lundy wins CGCU elections for Presidency
 date: "2010-02-12 16:23:43 +0000"
-
-# Attributes from Felix Online V1
-id: "89"
-old_path: /news/89/new-guilds-president-found
+image: "http://felixonline.co.uk/img/upload/201002121614-ak6309-CGCULogo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/89/new-guilds-president-found
-imported: true
 comments:
  - value: >
      Kudos to you! I hadn't tuoghht of that!,BwAYwC <a href="http://kpvppsoyhyjc.com/">kpvppsoyhyjc</a>
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ak6309
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002121614-ak6309-CGCULogo.jpg"
-image_caption: ""
 ---
 
 Following the departure of Kirsty Patterson, former CGCU President, the City and Guilds College Union held elections to appoint a new President and Guildsheet Editor. The elections attracted respective candidates Dan Lundy and Richard Bennett, who attained their positions unopposed.

@@ -4,17 +4,14 @@ title: >
 subtitle: >
   Vote of no confidence to take place at Imperial College Union Council next Tuesday
 date: "2014-12-02 15:22:44 +0000"
+image: "http://felixonline.co.uk/img/upload/201412021522-ps3110-20141202_150133.jpg"
 draft: true
-
-# Attributes from Felix Online V1
-id: "4980"
-old_path: /news/4980/imperial-college-rugby-launch-petition-to-support-club-captain-facing-a-vote-of-no-confidence
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4980/imperial-college-rugby-launch-petition-to-support-club-captain-facing-a-vote-of-no-confidence
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ tags:
 authors:
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412021522-ps3110-20141202_150133.jpg"
-image_caption: ""
 ---
 
 ICURFC have launched an online petition that has already amassed 500 signatures at the time of press. The petition, to show support for the Club Captain, Thomas Hobson, currently at risk of losing his position, was launched yesterday, and has been signed by students and clubs and societies as a whole.

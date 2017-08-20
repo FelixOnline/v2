@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Matt Colvin talks to the former MI5 Director General and current College Chairman about her role and the future of Imperial College
 date: "2011-10-13 21:24:06 +0100"
-
-# Attributes from Felix Online V1
-id: "1507"
-old_path: /news/1507/interview-eliza-manningham-buller
+image: "http://felixonline.co.uk/img/upload/201110132223-felix-img_0459.jpg"
+image_caption: "Baronness Eliza Manningham-Buller"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1507/interview-eliza-manningham-buller
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - mc4509
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110132223-felix-img_0459.jpg"
-image_caption: ""
 ---
 
 Late September – it’s the week before the beginning of a new academic year. As a new intake of students prepare to acclimatise to their new surroundings, a more experienced senior member of staff is also preparing for the hardships of the year ahead, as one should expect from someone in charge of the long and arduous process of appointing the Rector. Sitting across a table from someone with such a varied career (teacher, Director General of MI5, attendee to the House of Lords) is at least a little intimidating to begin with, especially since I have no idea of the manner in which to address a Baroness. Baroness Eliza Manningham-Buller is keen to do away with any such preconceptions almost instantly. “It’s just Eliza,” she tells me as we are introduced.

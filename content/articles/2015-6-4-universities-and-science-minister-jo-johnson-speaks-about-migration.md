@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Cecily Johnson on the recent speech by Jo Johnson concerning international students
 date: "2015-06-04 23:18:14 +0100"
-
-# Attributes from Felix Online V1
-id: "5597"
-old_path: /news/5597/universities-and-science-minister-jo-johnson-speaks-about-migration
+image: "http://felixonline.co.uk/img/upload/201506050017-cj914-5fda2009-e2f0-4423-89f9-7072eb598891-2060x1236.jpg"
+image_caption: "Mr Johnson affirmed his commitment to addressing the drop in students coming from India."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5597/universities-and-science-minister-jo-johnson-speaks-about-migration
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - cj914
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506050017-cj914-5fda2009-e2f0-4423-89f9-7072eb598891-2060x1236.jpg"
-image_caption: ""
 ---
 
 In his first speech as Minister for Universities and Science, Jo Johnson stated that the government has “an ambition to grow” its activity in international education. Highlighting the economic and social value of international students, he affirmed his commitment to addressing the drop in numbers of students coming to the UK from India.

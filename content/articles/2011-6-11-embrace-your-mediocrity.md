@@ -4,16 +4,13 @@ title: >
 subtitle: >
   I urge you, be lazy. Be satisfied with your simplicity. Be average. Be mediocre
 date: "2011-06-11 17:29:56 +0100"
-
-# Attributes from Felix Online V1
-id: "1359"
-old_path: /comment/1359/embrace-your-mediocrity
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1359/embrace-your-mediocrity
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - pa07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Greatness is overrated. Being awesome, epic, or whichever other adjective you want to use to describe superiority, is not worth it. It’s too much effort, spurred by exaggerated accounts of others who will fail to recognize your achievements. We’ve spent our entire lives being indoctrinated to aim high and attempt to emulate great people, to reach success in any way we can measure it. Whether you want to be a skilled scientist, a powerful politician or a respected artist, you have to work hard for a long time and invest a lot of resources to achieve your goals.

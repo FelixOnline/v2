@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The crowd greeted Yannis almost like a messiah
 date: "2015-11-20 09:25:42 +0000"
-
-# Attributes from Felix Online V1
-id: "5755"
-old_path: /music/5755/what-went-down-at-dreamland
+image: "http://felixonline.co.uk/img/upload/201511200925-ygr12-foals2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5755/what-went-down-at-dreamland
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - al1913
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511200925-ygr12-foals2.jpg"
-image_caption: ""
 ---
 
 Foals are one of the most legendary live bands of this generation in music. A bold statement, perhaps, but I honestly believe that to be the truth.

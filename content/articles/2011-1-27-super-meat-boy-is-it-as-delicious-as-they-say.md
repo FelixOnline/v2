@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Let’s not sugar-coat this, Super Meat Boy is balls to the wall hard
 date: "2011-01-27 20:23:59 +0000"
-
-# Attributes from Felix Online V1
-id: "692"
-old_path: /games/692/super-meat-boy-is-it-as-delicious-as-they-say-
+image: "http://felixonline.co.uk/img/upload/201101281253-sjw209-SuperMea.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/692/super-meat-boy-is-it-as-delicious-as-they-say-
-imported: true
 comments:
  - value: >
      A BLAST FROM DA PAST, This is a great post. you got <a href="http://www.designerhandbags-outlet.com" title="cheap handbags">cheap handbags online</a> .I like <a href="http://www.designerhandbags-outlet.com" title="cheap designer handbags">cheap designer handbags</a> as well give you designer handbags outlet, This is a great post. you got <a href="http://www.designerhandbags-outlet.com" title="cheap handbags">cheap handbags online</a> .I like <a href="http://www.designerhandbags-outlet.com" title="cheap designer handbags">cheap designer handbags</a> as well give you designer handbags outlet,Mbt Shoes is the first physiological<a href="http://www.mbtshoesuksales.com/">MBT Shoes Sales</a> footwear that has a positive effect on the whole body. MBT stands for Masai Barefoot Technology. MBT Shoes is also known as the anti-shoe. The uniquely-designed, multi-layered, cured sole is designed<a href="http://www.mbtshoesuksales.com/mbt-tunisha-womens-sale-c-70.html">MBT Tunisha</a> to simulate <a href="http://www.mbtsh"></a>
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -26,12 +23,6 @@ authors:
  - lap08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101281253-sjw209-SuperMea.jpg"
-image_caption: ""
 ---
 
 Three things are required to complete a game like _Super Meat Boy_ successfully: The first is a sturdy keyboard or controller, the second is a level of patience few devout Zen Buddhists can ever hope to attain and the third is more free time than your average Arts or Media Studies student. Whilst I’m rich enough to afford the first and lazy enough to possess the third, I sadly fall short on requirement two, and boy does it show when I play.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   An expat’s secret food indulgences unveiled courtesy of Aki Matsushima
 date: "2011-03-03 06:30:23 +0000"
-
-# Attributes from Felix Online V1
-id: "991"
-old_path: /food/991/exploring-the-alternative-of-japan
+image: "http://felixonline.co.uk/img/upload/201103030629-ks607-japenese.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/991/exploring-the-alternative-of-japan
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103030629-ks607-japenese.jpg"
-image_caption: ""
 ---
 
 We’re all familiar with sushi and tempura, courtesy of Yo! Sushi, but there’s a whole lot more that Japanese cuisine has to offer and is awaiting diners like you to take the first step to explore. Here’s some fresh ideas you might want to try out :

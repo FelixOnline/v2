@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Despite its flaws, The Grand Tour is an amicable successor to the Top Gear of old
 date: "2016-12-09 15:44:56 +0000"
-
-# Attributes from Felix Online V1
-id: "6579"
-old_path: /tv/6579/the-grand-tour
+image: "http://felixonline.co.uk/img/upload/201612091544-felix-the-grand-tour-first-season.59873.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6579/the-grand-tour
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ad4013
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612091544-felix-the-grand-tour-first-season.59873.jpg"
-image_caption: ""
 ---
 
 Top Gear is dead. Long Live Top Gear? Following Jeremy Clarkson’s, lets face it, rightful dismissal from the BBC and the subsequent decline of Top Gear’s quality, fans have been hanging their hopes on The Grand Tour. Thankfully, the new series does not disappoint. Well, mostly.

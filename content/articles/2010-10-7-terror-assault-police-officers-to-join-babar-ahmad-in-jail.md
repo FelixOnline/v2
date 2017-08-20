@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Police Officers to face prosecution for Babar Ahmad attack
 date: "2010-10-07 22:03:12 +0100"
-
-# Attributes from Felix Online V1
-id: "173"
-old_path: /news/173/terror-assault-police-officers-to-join-babar-ahmad-in-jail
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/173/terror-assault-police-officers-to-join-babar-ahmad-in-jail
-imported: true
 comments:
  - value: >
      Seems like justice has been done and not before time. Mr Ahmed goes back to prison and the officers are probably out, this evening, celebrating. <br> <br>Fantastic result and congratulations to the legal team and Officers involved.,why are some people saying that muslims are terrorists when they don't even know any thing about them. <br>you cant just go up 2 a muslim and say to them that you are a terrorist.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A group of police officers accused of attacking former employee of Imperial College and terrorist suspect Babar Ahmad appeared in court last month. Police Constables Mark Jones, 43, Roderick James-Bowen, 40, Nigel Cowley, 33, and Detective Constable John Donohue, 36, appeared at City of Westminster Magistrates’ Court, intending to plead not guilty. The case has been committed to Southwark Crown Court for October 29th.

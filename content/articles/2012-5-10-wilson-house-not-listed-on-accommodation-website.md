@@ -4,18 +4,16 @@ title: >
 subtitle: >
   New hall in Waterloo takes its place
 date: "2012-05-10 19:17:11 +0100"
-
-# Attributes from Felix Online V1
-id: "2432"
-old_path: /news/2432/wilson-house-not-listed-on-accommodation-website
+image: "http://felixonline.co.uk/img/upload/201205102018-pk1811-252_5283.jpg"
+image_caption: "Wilson House"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2432/wilson-house-not-listed-on-accommodation-website
-imported: true
 comments:
  - value: >
      K, Waterloo isn't exactly far away, save money, get a bike! <br>£200 is ridiculous money though, more than twice as much as i paid in fisher two years ago. <br>Glad I'm not a fresher next year, would have to sell a kidney I think.,£130-£140 pw, is that even affordable on student loans? The main reason I and many others chose Wilson was because of the cost of the rooms being the most reasonable in 2007 entry, and I even remember one of the terms being a tight squeeze to pay the terms rent on the loan alone. <br> <br>Seems Imperial assume everyone has parents who will subsidise their rents and for many this isn't true.,It's bad enough the fees are high next year, I feel sorry for those paying £200 a week plus tube fares to get to lectures. Too expensive in my opinion.,Disaster. Wilson's the cheapest you can go for single rooms, and it's brilliant. Pretty sure they're undermining a large number of undergrads looking for less spanking new/overpriced accommodation. <br>A shame.,I was strapped for cash paying £155 for Orien
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205102018-pk1811-252_5283.jpg"
-image_caption: ""
 ---
 
 Wilson House has been removed from Imperial College’s accommodation website for prospective students. In February, it was [reported](http://felixonline.co.uk/news/2152/wilson-review-could-lead-to-rehousing/) in Felix that the hall could potentially be closed for refurbishment for the 2012-2013 academic year.

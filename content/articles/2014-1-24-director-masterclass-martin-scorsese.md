@@ -4,16 +4,13 @@ title: >
 subtitle: >
   “You talkin’ to me? Then who the hell else are you talking... you talking to me? Well I’m the only one here.” “I think I learn more in a movie or in a story when I see what a person does wrong and what happens because of that.”
 date: "2014-01-24 10:11:38 +0000"
-
-# Attributes from Felix Online V1
-id: "4297"
-old_path: /film/4297/director-masterclass-martin-scorsese
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4297/director-masterclass-martin-scorsese
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - pob12
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 _“You talkin’ to me? Then who the hell else are you talking... you talking to me? Well I’m the only one here.”_

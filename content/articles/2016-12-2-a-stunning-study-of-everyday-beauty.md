@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jim Jarmusch’s latest work Paterson is a breathtaking exploration of day-to-day life, blissful love, and the sheer power of poetry.
 date: "2016-12-02 14:06:22 +0000"
-
-# Attributes from Felix Online V1
-id: "6531"
-old_path: /film/6531/a-stunning-study-of-everyday-beauty
+image: "http://felixonline.co.uk/img/upload/201612021406-felix-paterson.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6531/a-stunning-study-of-everyday-beauty
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ff712
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612021406-felix-paterson.jpg"
-image_caption: ""
 ---
 
 Being made an adjective is a double-edged sword. Take pity on Kafka – while having an eponymous adjective may mean your style has made its lasting mark on popular culture, it also means that it has become ripe for parody; never mind the legions of individuals who use Kafkaesque as a synonym for ‘dark’, ‘alienating’, or ‘pertaining to queues’. As such, perhaps American director Jim Jarmusch should be worried: over his last eleven films, since his directorial debut in 1980, Jarmusch has carved out a niche for himself in independent American cinema with his trademark style. Going into a Jarmusch film, you sort of know what to expect: reels of exceptionally-crafted dialogue; an industrial, washed-out soundtrack; and probably a cameo from Tom Waits. Surely it’s only a matter of time before ‘Jarmuschian’ enters into our popular lexicon.

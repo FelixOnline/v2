@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Why did he not object to these [NHS] plans at a much earlier stage?
 date: "2011-05-26 23:46:03 +0100"
-
-# Attributes from Felix Online V1
-id: "1268"
-old_path: /comment/1268/make-your-mind-up-clegg
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1268/make-your-mind-up-clegg
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - sph109
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Last week I offered my thoughts on why I believe Nick Clegg’s stance on the tuition fee policy was requisite, citing the essential maintenance of government stability. This week, we have seen the Lib Dem leader chance his arm on the other side, and I think he will find out that the grass is decidedly less green. I am of course referring to his open chastising of the NHS reform plans set out by the coalition.

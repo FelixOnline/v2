@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Tessa Davey takes a look at female genital mutilation in Africa and closer to home
 date: "2015-06-12 12:35:20 +0100"
-
-# Attributes from Felix Online V1
-id: "5617"
-old_path: /comment/5617/nigeria-bans-fgm-but-how-much-still-needs-to-change
+image: "http://felixonline.co.uk/img/upload/201506121334-cj914-140327-fgm-somalia_8848dfa4754b4ff1bec6ead22b1b2e8c.jpg"
+image_caption: "In some parts of the world, FGM is the norm, but while it is seen as so horrific in the UK, it is rarely mentioned."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5617/nigeria-bans-fgm-but-how-much-still-needs-to-change
-imported: true
 comments:
  - value: >
      fit flops <br>buy fitflops online http://australiafitflops.blogspot.com/,birkenstock shoes <br>birkenstock shops http://birkenstockaustralia.rochecap.org/,christian louboutin slingbacks <br>cheap christian louboutin shoes canada http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin red bottoms <br>christian louboutin online store http://canadachristianlouboutin.blogspot.com/,I enjoy checking your web sites. Thanks for your time! <br>NHL 17 http://khleothomas.com/profiles/blogs/buying-pet-medications-online-fifa-17-points,Many thanks, this website is extremely practical <br>nhl 17 coins http://www.kcancer.com/content/nba-2k17-vc-sound-gives-levels-are-serious,Before there was the Swoosh, before there was NIKE, there were two visionary men who pioneered a revolution in athletic footwear that redefined the industry. In 1964 Bill Bowerman and Phil Knight combined their passion for athletic performance and innovation to create a company focused on furthering the performance of every athlete. Their mission is “To
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506121334-cj914-140327-fgm-somalia_8848dfa4754b4ff1bec6ead22b1b2e8c.jpg"
-image_caption: ""
 ---
 
 Female genital mutilation (FGM) has been performed on more than 130 million women and girls worldwide, and more than 20,000 girls under the age of 15 in the UK are considered at risk. It is often done using razors, sharpened rocks, glass or even fingernails as tools.

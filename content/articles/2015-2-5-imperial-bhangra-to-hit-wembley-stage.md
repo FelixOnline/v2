@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Troupes from all over the country will be dancing for the title of best student bhangra team
 date: "2015-02-05 23:37:54 +0000"
-
-# Attributes from Felix Online V1
-id: "5193"
-old_path: /news/5193/imperial-bhangra-to-hit-wembley-stage
+image: "http://felixonline.co.uk/img/upload/201502052337-ps3110-1794598_712918515419322_448982833_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5193/imperial-bhangra-to-hit-wembley-stage
-imported: true
 comments:
  - value: >
      Brazil is certain to dominate in relation to of ball possession, and make the most opportunities. A South African company called Stay Over South Africa has a database just about all hotels in the stadiums. <br>fifa 16 hack http://creditsfut.com/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502052337-ps3110-1794598_712918515419322_448982833_n.jpg"
-image_caption: ""
 ---
 
 Saturday will see almost 4,000 students come together for the biggest student Bhangra dance competition in the UK. The event is organised by Imperial College London students.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The science behind Never Let Me Go
 date: "2011-03-01 21:45:12 +0000"
-
-# Attributes from Felix Online V1
-id: "977"
-old_path: /science/977/the-clone-wars
+image: "http://felixonline.co.uk/img/upload/201103012144-ks607-neverlet.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/977/the-clone-wars
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - tbc09
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103012144-ks607-neverlet.jpg"
-image_caption: ""
 ---
 
 The film industry isn’t shy of a human cloning plot or two (Alien Resurrection, Multiplicity, The Island, anyone?) and last month was no exception with the UK release of Never Let Me Go, based on the 2005 novel by British author Kazuo Ishiguro. The film centers around three youths – Kathy, Tommy and Ruth – who are all pupils at a fictional English boarding school. So far, so normal. But behind its walls lies a dark secret, for Kathy and her peers are each a human clone, created from the DNA of members of society to act as organ donors. Throughout their lives, the clones are forced to undergo several ‘retrieval operations’, in which the required organs are plucked from their bodies, until one fateful day, when their original requires a vital organ, they ‘complete’, and their time is up.

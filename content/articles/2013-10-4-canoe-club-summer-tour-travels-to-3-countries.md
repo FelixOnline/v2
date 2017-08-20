@@ -4,16 +4,14 @@ title: >
 subtitle: >
   President Reece Blunt reveals all
 date: "2013-10-04 02:21:36 +0100"
-
-# Attributes from Felix Online V1
-id: "3813"
-old_path: /sport/3813/canoe-club-summer-tour-travels-to-3-countries
+image: "http://felixonline.co.uk/img/upload/201310040321-jal08-sport_iccc.jpg"
+image_caption: "ICU Canoe Club"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3813/canoe-club-summer-tour-travels-to-3-countries
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +22,6 @@ authors:
  - jal08
  - rb1311
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310040321-jal08-sport_iccc.jpg"
-image_caption: ""
 ---
 
 The faffless foursome (Alby, Tom, Reece and Patrick S.) had arrived in Bovec at 2PM and had already proceeded to buy beers and paddling permits, paddle a grade 3 river, and make a start on the first and certainly not last conspicuous looking meal, just in time for the minibus to arrive later that night.

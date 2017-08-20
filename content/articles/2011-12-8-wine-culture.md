@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Five things to know about red and white wines
 date: "2011-12-08 21:43:37 +0000"
-
-# Attributes from Felix Online V1
-id: "1943"
-old_path: /food/1943/wine-culture
+image: "http://felixonline.co.uk/img/upload/201112082143-pk1811-frugal_xmas_wine-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1943/wine-culture
-imported: true
 comments:
  - value: >
      If I cotmunicamed I could thank you enough for this, I'd be lying.,Good to see real expertise on display. Your <a href="http://nltjwhfjjpt.com">coniotbutirn</a> is most welcome.
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -28,12 +25,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082143-pk1811-frugal_xmas_wine-1.jpg"
-image_caption: ""
 ---
 
 1. There is one familiar rule which simply says that “Red with meat, white with fish”. Is it correct though? In most cases, a red wine is more suitable for a meat-based dish, simply because the tannins (particular ingredients of red wine) bind the proteins of meat, resulting in a harmonic matching. Moreover, white wine and seafood have many things in common, like their flavour ‘intensity’ and texture.

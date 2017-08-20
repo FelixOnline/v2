@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Chelsea and Westminster Hospital NHS Foundation Trust respond to a previous article in the paper
 date: "2012-10-18 21:46:45 +0100"
-
-# Attributes from Felix Online V1
-id: "2722"
-old_path: /news/2722/a-response-to-the-possible-ae-changes-article
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2722/a-response-to-the-possible-ae-changes-article
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Following the story in the 5 October 2012 issue, Chelsea and Westminster Hospital NHS Foundation Trust have responded with the following:

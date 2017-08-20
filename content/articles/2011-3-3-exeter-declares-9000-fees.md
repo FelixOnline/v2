@@ -4,16 +4,13 @@ title: >
 subtitle: >
   First non-Russell Group university to aim for highest rate
 date: "2011-03-03 20:09:31 +0000"
-
-# Attributes from Felix Online V1
-id: "1002"
-old_path: /news/1002/exeter-declares-9000-fees
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1002/exeter-declares-9000-fees
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - dr710
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The University of Exeter has [announced plans](http://www.exeter.ac.uk/news/featurednews/title,127640,en.html) to raise its undergraduate fees to £9,000, the new threshold set by the government last December.

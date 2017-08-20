@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philippa Skett watches as the nine singing troupes take the to stage
 date: "2015-01-29 23:56:47 +0000"
-
-# Attributes from Felix Online V1
-id: "5158"
-old_path: /news/5158/great-hall-packed-as-hundreds-flock-to-see-the-a-cappella-semi-finals
+image: "http://felixonline.co.uk/img/upload/201501292356-ps3110-img_3408.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5158/great-hall-packed-as-hundreds-flock-to-see-the-a-cappella-semi-finals
-imported: true
 comments:
  - value: >
      louboutins shoes <br>christian louboutin sale canada http://christianlouboutincanadaoutlet.blogspot.com/,Highly interesting looking onward to coming back again.| <br>cs go skins condition percentage http://nhl15coins.blogspot.tw/2016/04/the-nbas-best-players-by-position.html
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501292356-ps3110-img_3408.jpg"
-image_caption: ""
 ---
 
 The International Championship of Collegiate A Cappella (ICCA) Semi-Finals took over the Great Hall last Saturday, seeing three of our own groups competing and the Techtonics placing fourth.

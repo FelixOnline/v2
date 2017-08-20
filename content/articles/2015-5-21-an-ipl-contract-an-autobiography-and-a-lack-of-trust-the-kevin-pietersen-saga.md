@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Kunal Wagle voices his frustrations at the England Cricket Board
 date: "2015-05-21 20:25:28 +0100"
-
-# Attributes from Felix Online V1
-id: "5550"
-old_path: /sport/5550/an-ipl-contract-an-autobiography-and-a-lack-of-trust-the-kevin-pietersen-saga
+image: "http://felixonline.co.uk/img/upload/201505212124-kmw13-kevin-pietersen3.jpg"
+image_caption: "Pietersen walks off after his 355*"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5550/an-ipl-contract-an-autobiography-and-a-lack-of-trust-the-kevin-pietersen-saga
-imported: true
 comments:
  - value: >
      You're an extremely helpful web site; couldn't make it without ya! <br>Clemens Fritz http://hyperlapse-showcase.com/groups/2704
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -26,12 +24,6 @@ authors:
  - kmw13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505212124-kmw13-kevin-pietersen3.jpg"
-image_caption: ""
 ---
 
 If Andrew Strauss thought he’d have a pleasant honeymoon period in his new Director of Cricket role at the England and Wales Cricket Board (ECB), Kevin Pietersen had other ideas. As Strauss was partaking in his first interview with the media in the role Kevin Pietersen was piling the pressure on, smashing Leicestershire’s defenceless bowlers for 355 not out – his highest first class score.

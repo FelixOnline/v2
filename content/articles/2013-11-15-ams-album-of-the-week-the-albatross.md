@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Foxing released an EP last year called Old Songs. I did not care for it.
 date: "2013-11-15 18:08:22 +0000"
-
-# Attributes from Felix Online V1
-id: "4080"
-old_path: /music/4080/ams-album-of-the-week-the-albatross
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4080/ams-album-of-the-week-the-albatross
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - sm5810
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Foxing released an EP last year called Old Songs. I did not care for it. It was everything post-rock-tinged emo shouldn’t be. The three songs were overthought and overstretched, but worst of all, they were really dull. It was an emo band trying to be a post-rock band with little success. Since then they’ve appeared on a few splits that I’ve completely ignored and I didn’t really plan on giving them any more of my time. However, I saw The Albatross getting a lot of positive comments and decided to give them another chance. I’m really glad I did. It’s ruddy bloody good.

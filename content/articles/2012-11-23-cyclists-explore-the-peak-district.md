@@ -4,16 +4,13 @@ title: >
 subtitle: >
   George Barnett gets on his saddle
 date: "2012-11-23 00:12:13 +0000"
-
-# Attributes from Felix Online V1
-id: "2963"
-old_path: /sport/2963/cyclists-explore-the-peak-district
+image: "http://felixonline.co.uk/img/upload/201211230011-tna08-cycling-ting.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2963/cyclists-explore-the-peak-district
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211230011-tna08-cycling-ting.jpg"
-image_caption: ""
 ---
 
 It’s 5pm on a Friday as I join 16other somewhat intrepid cyclists by the Queen’s Tower, prepared for a weekend of cycling on some of the Peak District’s finest roads. The plan was pretty simple; load up the buses, drive in a vaguely northerly direction, find the Youth Hostel in Edale, spend the following two days bashing out some miles in some nice hilly terrain. Return to London unscathed. Simple.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   “Thank god for me”, says Rosalyn Rosenfeld (Jennifer Lawrence), after setting fire to her brand new microwave, ignoring her husband’s advice to not put something metallic in there.
 date: "2014-01-17 04:08:09 +0000"
-
-# Attributes from Felix Online V1
-id: "4250"
-old_path: /film/4250/every-day-im-hustlin
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4250/every-day-im-hustlin
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __American Hustle__

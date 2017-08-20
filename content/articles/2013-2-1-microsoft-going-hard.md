@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Jason Parmar looks at Microsoft’s new philosophy: go hard and soft
 date: "2013-02-01 01:07:47 +0000"
-
-# Attributes from Felix Online V1
-id: "3240"
-old_path: /tech/3240/microsoft-going-hard-
+image: "http://felixonline.co.uk/img/upload/201302010107-tna08-microsoft-badass.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3240/microsoft-going-hard-
-imported: true
 comments:
  - value: >
      omg looool...I have seen this so many times...I thought everyone had gotten wise by now,pretty sure it was a joke haha,Why do they call it the Xbox 360? <br> <br>Because when you see it you turn 360 degrees and walk away.,'Because when you see it you turn 360 degrees and walk away' <br> <br>Err, not sure you thought that one through.,@Jonas Just because it's an internet meme, does not make it funny (or worth listening to)
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +25,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302010107-tna08-microsoft-badass.jpg"
-image_caption: ""
 ---
 
 It’s not unfair to call Microsoft a reactive company, i.e. they follow trends and build on others innovations, it’s in their history.

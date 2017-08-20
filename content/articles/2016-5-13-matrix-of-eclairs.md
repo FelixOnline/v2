@@ -4,16 +4,14 @@ title: >
 subtitle: >
   FELIX reviews Maitre Choux, a snazzy patisserie in South Kensington
 date: "2016-05-13 09:34:05 +0100"
-
-# Attributes from Felix Online V1
-id: "6165"
-old_path: /food/6165/matrix-of-eclairs
+image: "http://felixonline.co.uk/img/upload/201605131133-felix-thumb_IMG_2809_1024.jpg"
+image_caption: "I wonder if he leaves chocolate squares wherever he goes. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6165/matrix-of-eclairs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - yyl114
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605131133-felix-thumb_IMG_2809_1024.jpg"
-image_caption: ""
 ---
 
 Engineers are pretty obsessed with matrices.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The handout will no longer be distributed after union tells RAG it's "an unacceptable personal attack"
 date: "2016-02-05 11:43:40 +0000"
-
-# Attributes from Felix Online V1
-id: "5860"
-old_path: /news/5860/rag-mag-accused-of-harassment-and-bullying
+image: "http://felixonline.co.uk/img/upload/201602051143-felix-rag.jpg"
+image_caption: "The cover of the offending leaflet"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5860/rag-mag-accused-of-harassment-and-bullying
-imported: true
 comments:
  - value: >
      Does anyone know where we can get the uncensored version?,Does anyone know where we can get the uncensored version?,Does anyone know where we can get the uncensored version?,Does anyone know where we can get the uncensored version?,There are loads in SAF. It's pretty bad banter,There are loads in SAF. It's pretty bad banter,There are loads in SAF. It's pretty bad banter,There are loads in SAF. It's pretty bad banter,cheap mlb jerseys Soccer Club cheap jerseys,cheap mlb jerseys Soccer Club cheap jerseys,cheap mlb jerseys Soccer Club cheap jerseys,cheap mlb jerseys Soccer Club cheap jerseys,cheap jerseys us cheap wholesale nba jerseys cheap jersey,cheap jerseys us cheap wholesale nba jerseys cheap jersey,cheap jerseys us cheap wholesale nba jerseys cheap jersey,cheap jerseys us cheap wholesale nba jerseys cheap jersey,Do they genuinely print one every year? First I've heard of it.,Do they genuinely print one every year? First I've heard of it.,Do they genuinely print one every year? First I've heard of it.,Do t
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602051143-felix-rag.jpg"
-image_caption: ""
 ---
 
 Yesterday the union told RAG its magazine of adverts and satire was “beyond the acceptable bounds of satire or mockery”. RAG were also warned that the individuals involved in writing it could be faced with serious consequences from the college if they continued to distribute the magazine as this would be considered “elevated harassment”.

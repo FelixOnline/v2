@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Keeping us glued to our screens, and how to monetize it
 date: "2014-02-21 03:25:56 +0000"
-
-# Attributes from Felix Online V1
-id: "4427"
-old_path: /tech/4427/future-of-social-media
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4427/future-of-social-media
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - oa1612
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 When you hear the term social media, what comes to mind? Facebook? Twitter? Or perhaps even that embarrassing video you were tagged in by your friends last night. Of the modern age of technology, social media has perhaps had the most profound effect on our lives, reaching out with its addictive grip to almost everyone with a smart device. Social media sure has come a long way, from the forums and chat rooms of the 90’s where people used to retreat to from their daily lives, hiding under their avatars and fantasy names, to the less private Facebook and Twitter where people you may have met but barely spoken to, can know more of your life than you think. People used to believe that with the invention of the mobile phone, human communication was at its finest, how wrong they were, but who’s to say that even now we are at our peak in terms of keeping in touch with each other? Social media still has a long road ahead, with its future promising, but there is still a mostly unseen dark side of it that has been seen creeping into society, from privacy breaches to cyber-bullying. We can expect to see a lot more changes in social media, from new platforms to more regulations on internet communication or maybe even cross platform communication.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   They were on point
 date: "2016-11-14 14:22:19 +0000"
-
-# Attributes from Felix Online V1
-id: "6451"
-old_path: /sport/6451/ic-fencing-sweep-aside-all-comers-
+image: "http://felixonline.co.uk/img/upload/201611141422-felix-fencing.PNG"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6451/ic-fencing-sweep-aside-all-comers-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jps112
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611141422-felix-fencing.PNG"
-image_caption: ""
 ---
 
 Last week the men’s 2s descended on King’s College for their third match of the season. The importance of this match cannot be underestimated: Imperial’s pride was at stake after the 1s narrowly lost to their counterparts at King’s the week before. Foil kicked things off for the 2s, showing our superiority by smashing King’s with a score of 45-10. Confident going into epee (one fencer forced to use their non-dominant hand), Imperial won 45-38 after our final fencer was subbed off until he could find a weapon to fence with. Victory was completed with a 45-35 win in sabre, putting the final score at 135-83, keeping up the winning margins for the men’s 2s for yet another week and propelling the team to the top of their league. A mention must go to Cosmin Badea, who normally only fences foil for the team and who was called upon to fence all three weapons. He stormed his way through all his opponents and was vital in our victory. What a trooper!

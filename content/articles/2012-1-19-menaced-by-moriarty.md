@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Tim Arbabzadah goes all Sherlock Holmes on the scriptwriting of the BBC hit
 date: "2012-01-19 19:44:46 +0000"
-
-# Attributes from Felix Online V1
-id: "1998"
-old_path: /tv/1998/menaced-by-moriarty
+image: "http://felixonline.co.uk/img/upload/201201192227-felix-moriarty.jpeg"
+image_caption: "Jim Moriarty's in the dock, in more ways than one"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1998/menaced-by-moriarty
-imported: true
 comments:
  - value: >
      Oh, oops, I forgot that there was some kind of reason why they wanted the stuff on the phone. I guess that's why they couldn't just blow it up. Sorry! No excuses for that really! I could only offer up exams frying my brain.,Moffat says, "Screw you, Arbabzadah!" Well, I paraphrased him slightly... http://www.guardian.co.uk/tv-and-radio/2012/jan/20/steven-moffat-sherlock-doctor-who,You've reviewed this series as if it were a television adaptation of the book series, rather than a television series with close reference to the books. <br> <br>You make very few other substantial complaints beyond the beginning of the series which was played as cheesy, so hardly worth a considered retort. <br> <br>Rewatch the series. Pretend you haven't read the books. Don't worry, I'll wait for your column next week.,Thank you for writing about Moriarty. I have had sleepless nights ranting in my brain how he is not Moriarty - from his first entrance to his final blow, I've never been convinced that he was supposed to the man himself. Or menac
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201192227-felix-moriarty.jpeg"
-image_caption: ""
 ---
 
 First of all, it’s worth saying that I enjoyed _[Sherlock](http://www.bbc.co.uk/programmes/b018ttws)_ and, overall, thought it was a good watch. In fact, I think that the first series was excellent, except for one major problem which I’ll get to later. However, in the second series, there are some things that bugged me about it. I thought I’d focus on those as you’re also getting another view focussing on the best bits (we spoil you).

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Adam Clancy asks if it’s fare to criticise the Chancellor
 date: "2012-10-26 02:37:18 +0100"
-
-# Attributes from Felix Online V1
-id: "2750"
-old_path: /comment/2750/traingate---first-class-fuss
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2750/traingate---first-class-fuss
-imported: true
 comments:
  - value: >
      Oh come on people. It's TICKETGATE. It wouldn't have even been a thing if not for that pun.,People dislike George Osborne because they elected him due to his promise to eradicate the deficit in one parliament. That isn't going to happen. Thus, all we are left with is the 'good' news we are coming out of a double dip recession, the future of more cuts and welfare being slashed whilst Starbucks pays an amazingly considerate 0% tax on UK profits. So I think its more than understandable that people just don't like the wanker. <br>As for your Stephen Fry comparison, that is just daft.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The whole ‘traingate’ fiasco actually makes me genuinely pity George Osborne. He must have thought he had it bad when 48 % of the public wanted him removed in a cabinet reshuffle (making him even less popular than Nick Clegg). He must have thought it was a notable low when thousands booed him at the Paralympics. In fact, it must have been pretty atrocious ever since his parents were told by doctors there is no cure for a complete lack of empathy. Still, he never could have thought it come to this, no one could ever conceive that their life could hit the depths it did that ominous day en route to Euston: a stranger high fived a train inspector for giving him a ticket.

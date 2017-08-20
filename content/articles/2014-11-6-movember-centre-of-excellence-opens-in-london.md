@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial College London, in collaboration with the Institute of Cancer Research and University College London, launched The London Movember Centre of Excellence.
 date: "2014-11-06 22:03:46 +0000"
-
-# Attributes from Felix Online V1
-id: "4810"
-old_path: /news/4810/movember-centre-of-excellence-opens-in-london
+image: "http://felixonline.co.uk/img/upload/201411101313-ps3110-newseventsimages.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4810/movember-centre-of-excellence-opens-in-london
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ar3310
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411101313-ps3110-newseventsimages.jpeg"
-image_caption: ""
 ---
 
 Earlier this year Imperial College London, in collaboration with the Institute of Cancer Research and University College London, launched The London Movember Centre of Excellence. The new centre has been created to redefine and personalise the care given to men with prostate cancer and was funded by the Movember Foundation and Prostate Cancer UK.

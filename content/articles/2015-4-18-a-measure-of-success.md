@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Fred Fyles applauds the physicality of this Russian production of Measure for Measure
 date: "2015-04-18 08:06:03 +0100"
-
-# Attributes from Felix Online V1
-id: "5466"
-old_path: /arts/5466/a-measure-of-success
+image: "http://felixonline.co.uk/img/upload/201504180904-ff712-alexander-matrosov-peter-rykov-alexander-arsentyev.-photographer-johan-persson.jpg"
+image_caption: "Alexander Matrosov, Peter Rykov, Alexander Arsentyev in Measure for Measure, Barbican, London."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5466/a-measure-of-success
-imported: true
 comments:
  - value: >
      buy viagra safley <br> http://viagra-withoutdoctorprescription.net - viagra without a doctor prescription viagra 10 mg 4 tablet you cannot reply to topics in this forum <br> viagra without a doctor prescription - viagra 20mg tablets location <br> buy viagra online say wordpress <br>,cialis 20 mg 4 tablet posts per day <br> http://cialisoverthecounterat-walmart.com - cialis over the counter at walmart viagera <br> cialis over the counter at walmart - cialis reviews side effects community <br> order cheap cialis <br>,does cialis work the first time submit.php <br> http://pharmshop-online.com - generic cialis cheapest cialis generic <br> generic cialis - cialis more:for_health_professionals <br> cialis 20mg dosage announcements <br>
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201504180904-ff712-alexander-matrosov-peter-rykov-alexander-arsentyev.-photographer-johan-persson.jpg"
-image_caption: ""
 ---
 
 _Measure for Measure_ is a Problem Play. This is not a reflection on the play’s quality, or the beauty of its verse, but rather an academic classification that has been applied to the Bard’s first Jacobean work. Not quite a tragedy, but retaining too much seriousness and darkness or a comedy, _Measure for Measure_ straddles a middle ground, making it ripe for interpretation and reinvention. And reinvention is precisely what we get with Cheek by Jowl’s version of the play, a collaboration with Moscow’s Pushkin Theatre that transports the rulers from dukes to plutocrats, the time from the Middle Ages to modernity, and the language from English to Russian. Far from ironing out any of the problems inherent within the play, this production revels in the messy, ambiguous nature of Shakespeare’s work.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   It’s time to try defying gravity
 date: "2016-02-12 11:39:17 +0000"
-
-# Attributes from Felix Online V1
-id: "5908"
-old_path: /games/5908/gravity-rush-remastered
+image: "http://felixonline.co.uk/img/upload/201602121137-felix-gravityrush3.jpg"
+image_caption: "Fuck gravity."
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/5908/gravity-rush-remastered
-imported: true
 comments:
  - value: >
      Wow cuz this is really goodexcellent work! Congrats and keep it up <br>cheap fifa 17 coins http://www.yhgd.com/home.php?mod=space&amp;uid=795127&amp;do=profile&amp;from=space,Seattle proper is more like the east coast model. The suburbs range from east coast model to west coast model and in between. I grew up on an island near Seattle and found it a perfect mix of the good parts of each model. I now live in one of the suburbs. The exreniepce for the youth in our stake, covering two suburban cities, is closer to eastcoast in my city and closer to west coast in the other.
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -26,12 +24,6 @@ authors:
  - cet13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602121137-felix-gravityrush3.jpg"
-image_caption: ""
 ---
 
 There are very few games that have provided the same joy and awe as _Super Mario Galaxy_. I remember fondly the moment when I, as Mario, was able to run around a small spherical planet for the first time. I wasn’t defying gravity; I was adhering to it, in a way no game had ever done before. It didn’t allow the player to control gravity, instead it offered up new environments where the concept of up and down was constantly in flux.

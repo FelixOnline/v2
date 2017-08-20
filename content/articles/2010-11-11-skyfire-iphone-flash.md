@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Want to watch Flash video on your iPhone even though Jobs doesn’t want you to? Get yourself SkyFire browser
 date: "2010-11-11 20:30:33 +0000"
-
-# Attributes from Felix Online V1
-id: "336"
-old_path: /tech/336/skyfire--iphone--flash
+image: "http://felixonline.co.uk/img/upload/201011112028-ks607-skyfires.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/336/skyfire--iphone--flash
-imported: true
 comments:
  - value: >
      At last! Someone who undesrtands! Thanks for posting!,knQNzX <a href="http://byomwxzjsbiw.com/">byomwxzjsbiw</a>
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011112028-ks607-skyfires.jpg"
-image_caption: ""
 ---
 
 It’s no secret that Apple isn’t the biggest fan of Adobe’s Flash. One of the big criticisms of the iPhone is its inability to display Flash content, which upon the device’s release, made up a huge portion of the internet’s streaming videos and games.

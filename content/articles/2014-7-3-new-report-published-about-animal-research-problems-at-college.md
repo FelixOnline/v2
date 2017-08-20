@@ -4,16 +4,13 @@ title: >
 subtitle: >
   "Pattern of infringements that reflected underlying systemic failings" at College according to a new report published by the Animals in Science Committee
 date: "2014-07-03 10:40:20 +0100"
-
-# Attributes from Felix Online V1
-id: "4718"
-old_path: /news/4718/new-report-published-about-animal-research-problems-at-college
+image: "http://felixonline.co.uk/img/upload/201405160244-jal08-1576_news_college_logo_entrance_web.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4718/new-report-published-about-animal-research-problems-at-college
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405160244-jal08-1576_news_college_logo_entrance_web.jpg"
-image_caption: ""
 ---
 
 “The regime at ICL [Imperial College London] clearly fell short of the standard required by the Animals (Scientific Procedures) Act 1986 (ASPA)” according to yesterday’s report by the government’s Animals in Science Committee (ASC).

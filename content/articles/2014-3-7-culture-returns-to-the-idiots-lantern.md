@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ryan Ehlers takes a ride in Stewart Lee’s Comedy Vehicle
 date: "2014-03-07 05:55:28 +0000"
-
-# Attributes from Felix Online V1
-id: "4469"
-old_path: /tv/4469/culture-returns-to-the-idiots-lantern
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4469/culture-returns-to-the-idiots-lantern
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - rae10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I am culture,” declares a delusional and ranting Stewart Lee in the final episode of the new series of Comedy Vehicle, 30 minute episodes of stand-up comedy. He lists some admittedly impeccable credentials: books published by Faber and Faber(1) (“not Tesco’s own brand”), having co-written and directed an award-winning opera(2), having curated jazz festivals, and performed John Cage pieces to paying audiences. He does not count among these credentials the BAFTA that the second series of Comedy Vehicle won in 2010 for Best Comedy Program(3). This is perhaps unsurprising, given that in previous series he has denounced television as “the idiots’ lantern”, and Channel 4 as “like a flood of sewage that comes unbidden into your home”. He has not, he assures us, seen Breaking Bad.

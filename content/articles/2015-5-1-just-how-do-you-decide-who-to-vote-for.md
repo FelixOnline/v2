@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Joshua Renken ponders the perils and pitfalls of picking a politician
 date: "2015-05-01 00:28:13 +0100"
-
-# Attributes from Felix Online V1
-id: "5481"
-old_path: /politics/5481/just-how-do-you-decide-who-to-vote-for
+image: "http://felixonline.co.uk/img/upload/201505010128-ps3110-screen-shot-2015-05-01-at-01.28.01.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/5481/just-how-do-you-decide-who-to-vote-for
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +21,6 @@ authors:
  - jr2514
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505010128-ps3110-screen-shot-2015-05-01-at-01.28.01.png"
-image_caption: ""
 ---
 
 The novelist and essayist George Orwell once said that political language is “designed to make lies sound truthful and murder respectable, and to give an appearance of solidity to pure wind.” He wrote that over half a century ago, but it is just as relevant today as it was then. Perhaps even more so.

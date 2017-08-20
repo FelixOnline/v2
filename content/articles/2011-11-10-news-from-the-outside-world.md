@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Joseph Letts takes a brief look at the political turmoil taking over the world
 date: "2011-11-10 20:16:01 +0000"
-
-# Attributes from Felix Online V1
-id: "1709"
-old_path: /politics/1709/news-from-the-outside-world
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1709/news-from-the-outside-world
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - rj408
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __More resignations in the Eurozone__

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Laugh out loud* at people who upgraded their phones before uni
 date: "2012-10-05 11:44:27 +0100"
-
-# Attributes from Felix Online V1
-id: "2602"
-old_path: /tech/2602/omg-new-smartphones
+image: "http://felixonline.co.uk/img/upload/201210051243-nn1209-tech-race.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/2602/omg-new-smartphones
-imported: true
 comments:
  - value: >
      Yeah - I kinda ran out of space and had to cut it short.,"iOS6 Apple Maps made news worldwide with levels of fail not seen since the Sega Dreamcast". Couldn't be truer.,This is just an iPhone 5 review article? <br>Little to nothing on Android phones...
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210051243-nn1209-tech-race.jpg"
-image_caption: ""
 ---
 
 Unless you’ve been trapped under a rock or on a ton of last minute holidays the last month before freshers’ week, you’ll be aware that a ton of great new smartphones been announced.

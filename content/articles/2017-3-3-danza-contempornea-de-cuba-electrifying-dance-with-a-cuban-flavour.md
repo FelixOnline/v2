@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Danza Contemporánea de Cuba was on at the Barbican on the 23rd February
 date: "2017-03-03 15:20:32 +0000"
-
-# Attributes from Felix Online V1
-id: "6846"
-old_path: /arts/6846/danza-contempornea-de-cuba--electrifying-dance-with-a-cuban-flavour
+image: "http://felixonline.co.uk/img/upload/201703031520-felix-The-Listening-Room-004.jpg"
+image_caption: "Danza Contemporánea de Cuba's production of Theo Clinkard's The Listening Room"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6846/danza-contempornea-de-cuba--electrifying-dance-with-a-cuban-flavour
-imported: true
 comments:
  - value: >
      Howdy are using WordPress for your blog platform? I’m new to the blog world but I’m trying to get started and create my own. Do you need any html coding knowledge to make your own blog? Any help would be greatly apaedcipter!
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
  - scc114
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703031520-felix-The-Listening-Room-004.jpg"
-image_caption: ""
 ---
 
 Cuba’s premier dance company stopped by London for one night last week during their whirlwind tour of the UK. Founded in 1959, Danza Contemporánea de Cuba has had over half a century to develop its distinct aesthetic – contemporary dance and classical ballet, with Spanish and Afro-Caribbean influences. While they have performed in London before – at the Royal Opera House, Sadler’s Wells, and the Coliseum – this is their first time on the Barbican stage. This tour sees them showcasing three completely new pieces from award-winning choreographers Annabelle Lopez Ochoa, Theo Clinkard, and George Céspedes.

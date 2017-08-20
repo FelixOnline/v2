@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The South Park: Stick of Truth is the latest game by the creators of the show of the same name (without the stick of truth bit) and was released march 2014. It is available on steam, Playstation 3 and Xbox 360 . After the epic trilogy that was the black friday parody of Game of Thrones that I really
 date: "2014-05-28 21:23:49 +0100"
-
-# Attributes from Felix Online V1
-id: "4632"
-old_path: /games/4632/farting-your-way-to-glory
+image: "http://felixonline.co.uk/img/upload/201405282223-me1711-games_stickoftruth2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4632/farting-your-way-to-glory
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -23,12 +20,6 @@ authors:
  - me1711
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405282223-me1711-games_stickoftruth2.jpg"
-image_caption: ""
 ---
 
 If you have ever watched south park, then you probably know that no taboo ever goes untouched. In episodes and movie we encounter swear words en masse, racial stereotypes, drugs, sex and unabashed toilet humour. Now imagine every south park episode that you have seen, take all the worst parts in them, make them 100 times more politically incorrect and you get the kind of taboos that are broken in the game.

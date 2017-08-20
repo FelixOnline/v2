@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Philip Kent caught up with the winners on results night
 date: "2015-03-19 23:44:39 +0000"
-
-# Attributes from Felix Online V1
-id: "5408"
-old_path: /news/5408/highest-ever-voter-turnout-as-big-elections-come-to-a-close
+image: "http://felixonline.co.uk/img/upload/201503192344-cj914-election-sabbs.jpg"
+image_caption: "Next year’s Officer Trustees celebrate on the Metric stage"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5408/highest-ever-voter-turnout-as-big-elections-come-to-a-close
-imported: true
 comments:
  - value: >
      Most of us BMS students groan inwardly when we're emailed yet another dull missive from Cyin. But well done anyway for getting the DPE position.,Mobiles that Micromax has launched have its own characteristic featuring. And Micromax is the name that keeps the mobile freaks amazed with its outstanding featuring products and models. Models with all the latest facilities and features are what Micromax always keeps marinating. A look inside wwopiightshopping.in/g/itb.as.?C=Micromax-Mobile-Phones&amp;b=Micrwmax&amp;crd=1 will give full idea of the Micromax offers.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503192344-cj914-election-sabbs.jpg"
-image_caption: ""
 ---
 
 Last Friday saw the end of another year of campaigning and voting for the Imperial College Union sabbatical positions, with the results of the Big Elections 2015 announced during the results party in Metric.

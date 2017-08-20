@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Maximilian Eggl on why No Man’s Sky, Star Citizen and Elite are the future
 date: "2015-01-23 18:24:17 +0000"
-
-# Attributes from Felix Online V1
-id: "5142"
-old_path: /games/5142/the-next-big-gaming-trend-space-simulations
+image: "http://felixonline.co.uk/img/upload/201501231823-jyg11-sc.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/5142/the-next-big-gaming-trend-space-simulations
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - jyg11
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501231823-jyg11-sc.jpg"
-image_caption: ""
 ---
 
 The past few years, ever since the release and subsequent re-release of _DayZ_, we have had an explosion of Zombie survival MMOs. In fact, I am surprised when there is a month when I don’t see news about a new one. However, it has become quite tiring, since there are only so many times I can wake up on an abandoned beach. It seems that most of the gaming market is coming to this conclusion, as we have reached a saturation point. Looking at upcoming releases, I feel that the next big gaming will be the open world _Space Sim_.

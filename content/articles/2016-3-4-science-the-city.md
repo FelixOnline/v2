@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-03-04 11:38:41 +0000"
-
-# Attributes from Felix Online V1
-id: "6003"
-old_path: /science/6003/science--the-city
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6003/science--the-city
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - nms15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Despite huge changes since the 19th century,  there is still an uneven playing field for women in STEM (science, technology, engineering, and maths).

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Role will look to address and improve alumni relations
 date: "2015-01-29 23:38:48 +0000"
-
-# Attributes from Felix Online V1
-id: "5154"
-old_path: /news/5154/imperial-appoint-its-first-vice-president-for-advancement
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5154/imperial-appoint-its-first-vice-president-for-advancement
-imported: true
 comments:
  - value: >
      obviously like your web-site but you have to check the spelling on several of your posts. Several of them are rife with spelling problems and I find it very troublesome to inform the reality on the other hand I'll surely come back again. <br>goedkope nike schoenen maat 24 http://paulram.nl/?nl-goedkope-nike-schoenen-maat-24-18944.html,Your method of telling the whole thing in this piece of writing is actually fastidious, every one be capable of easily know it, Thanks a lot. <br>moncler jassen lans tekst http://www.blosrtv.nl/?nl-moncler-jassen-lans-tekst-12988.html,buy fitflop online <br>discount fitflops http://australiafitflops.blogspot.com/,black christian louboutin <br>christian louboutin sale http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutins <br>cheap christian louboutin http://canadachristianlouboutin.blogspot.com/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imperial College London announced Sarah Porter Waterbury as its very first Vice President (Advancement) on 27th January. The new role, which she will take up in April this year, sees Mrs Waterbury in charge of all things encompassing alumni relations, events and development.

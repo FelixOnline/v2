@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Michelle Tan looks at some teas from further, er, afield
 date: "2014-12-04 19:12:43 +0000"
-
-# Attributes from Felix Online V1
-id: "4993"
-old_path: /food/4993/lets-just-get-oolong-now-shall-we
+image: "http://felixonline.co.uk/img/upload/201412041912-cj914-il_fullxfull.223711088.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/4993/lets-just-get-oolong-now-shall-we
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +22,6 @@ authors:
  - mwt12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412041912-cj914-il_fullxfull.223711088.jpg"
-image_caption: ""
 ---
 
 It’s no secret that Brits are known for being HUGE tea lovers. Songs are written about it, many jokes (sometimes with vicars) are made on the subject – it’s a national institution. But do you know about the many benefits of tea? Thankfully they’re not all hard-to-stomach bitter brews; there are so many different types out there that there is bound to be one that you’ll come to really enjoy the flavours of.

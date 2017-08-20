@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tim Arbabzadah considers on being too much of a coward for laser eye surgery
 date: "2011-10-20 22:36:25 +0100"
-
-# Attributes from Felix Online V1
-id: "1571"
-old_path: /comment/1571/would-i-be-this-hot-with-glasses-meh
+image: "http://felixonline.co.uk/img/upload/201110202333-sjw209-tim.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1571/would-i-be-this-hot-with-glasses-meh
-imported: true
 comments:
  - value: >
      Hello Richard, I just disadcovadered your site as I also just disadcovadered the Sandadhill Crane Fesadtiadval in Lodi. I won’t make it to your tour and preadsenadtaadtion today but I sure hope you have a workadshop in the near future. Now to exrlpoe your webadsite…!Thanks for includading me, Annmarie,that he saw the people of the<a href="http://hkoonvc.com"> furtue</a> living in a world of gadgets . People would have these gadgets in their homes and with them everywhere they went, and used them every chance they got. They all seemed quite caught up with them, enamored with them, and even defined themselves by them.When read this many years ago, this vision didn't make any sense to me. But now it sure does. Especially the last part of his story, where he said how distressing this was all to witness, because it was obvious that the people in the<a href="http://hkoonvc.com"> furtue</a> loved their gadgets more than they loved each other.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110202333-sjw209-tim.jpg"
-image_caption: ""
 ---
 
 Do you wear glasses? It seems like a decent proportion of the population do. If my unscientific, empirical study of looking around sometimes (leave the hardcore, well researched science for lectures) and thinking, “shit, a lot of people wear glasses” (I’m all eloquent like that, my parents are very proud) counts for anything then I have definitive evidence that a non negligible number of the population wear glasses. It seems that a lot of people don’t have 20/20 vision. As a side note, that’s a phrase that I find odd. Anyone who has good eyes says they have that; but I thought it was only those with perfect vision. I guess it’s like the way everyone over 5ft10 tells you that they’re 6ft.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Keir Little wishes a legendary game a very happy birthday
 date: "2011-11-17 20:50:13 +0000"
-
-# Attributes from Felix Online V1
-id: "1765"
-old_path: /games/1765/a-ode-to-the-beauty-of-minecraft
+image: "http://felixonline.co.uk/img/upload/201111172049-pk1811-5897451.jpg"
+image_caption: "Rolling hills and sweeping valleys compose the pristine landscape"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1765/a-ode-to-the-beauty-of-minecraft
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -25,12 +23,6 @@ authors:
  - kw911
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172049-pk1811-5897451.jpg"
-image_caption: ""
 ---
 
 Happy birthday, Minecraft, my sweetling. You’ve been like my own child all these years, but you’re all grown-up now, your features well formed and bug-free; yet you’re worth only a modest €20. It wasn’t always this way, you know. Oh yes - I remember before you were born.

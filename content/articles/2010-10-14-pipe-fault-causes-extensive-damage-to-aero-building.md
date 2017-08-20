@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A PhD student is rumoured to have bungled, resulting in damage to labs and lecture theatres
 date: "2010-10-14 19:04:55 +0100"
-
-# Attributes from Felix Online V1
-id: "197"
-old_path: /news/197/pipe-fault-causes-extensive-damage-to-aero-building-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/197/pipe-fault-causes-extensive-damage-to-aero-building-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - cb403
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A water leak in an Aeronautical Engineering lab has caused extensive material damage within the department.

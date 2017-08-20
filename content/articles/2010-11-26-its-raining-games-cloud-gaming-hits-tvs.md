@@ -4,16 +4,13 @@ title: >
 subtitle: >
   OnLive extends service to your front room with the launch of the new MicroConsole
 date: "2010-11-26 14:58:37 +0000"
-
-# Attributes from Felix Online V1
-id: "455"
-old_path: /games/455/its-raining-games-cloud-gaming-hits-tvs-
+image: "http://felixonline.co.uk/img/upload/201011261452-ks607-wireless.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/455/its-raining-games-cloud-gaming-hits-tvs-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - ks607
  - lap08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011261452-ks607-wireless.jpg"
-image_caption: ""
 ---
 
 Hear me now, peasants, with your antiquated computers, bowls of gruel and embarrassing outdated fashion sense! No longer are you quite so inferior to the glorious PC gaming master races with their diamond studded octo-core processors, water cooled graphics cards and jewel-encrusted laser mice, for today hear of [OnLive](http://www.onlive.com/game-system)!

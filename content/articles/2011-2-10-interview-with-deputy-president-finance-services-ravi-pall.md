@@ -4,16 +4,13 @@ title: >
 subtitle: >
   "The key is to stay focused on the bigger picture. If you get bogged down in petty issues, you can miss important milestones"
 date: "2011-02-10 20:04:58 +0000"
-
-# Attributes from Felix Online V1
-id: "763"
-old_path: /news/763/interview-with-deputy-president-finance--services-ravi-pall
+image: "http://felixonline.co.uk/img/upload/201102102002-ks607-ravipall.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/763/interview-with-deputy-president-finance--services-ravi-pall
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102102002-ks607-ravipall.jpg"
-image_caption: ""
 ---
 
 __What has been your biggest challenge?__

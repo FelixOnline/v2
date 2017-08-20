@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Today, for all intents and purposes, is Friday the 14th of February, 2014 A.D. Many people are divided over embracing a modern fad called St. Valentine’s Day, with those favoured by Cupid’s Arrows largely choosing to play along and pander...
 date: "2014-02-16 12:18:53 +0000"
-
-# Attributes from Felix Online V1
-id: "4385"
-old_path: /features/4385/im-single-what-should-i-do-today
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4385/im-single-what-should-i-do-today
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +20,6 @@ authors:
  - extuser0
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Today, for all intents and purposes, is Friday the 14th of February, 2014 A.D. Many people are divided over embracing a modern fad called St. Valentine’s Day, with those favoured by Cupid’s Arrows largely choosing to play along and pander to the irrational significance attributed to this day, while those (un)lucky enough to have been missed often grumbling sorely about how it’s all a money-making conspiracy instituted by the American floral industry making fine fools of all of us and even finer fools of those whom we desire to impress.

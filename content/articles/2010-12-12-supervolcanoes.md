@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Are they actually a big deal?
 date: "2010-12-12 13:45:46 +0000"
-
-# Attributes from Felix Online V1
-id: "548"
-old_path: /science/548/supervolcanoes
+image: "http://felixonline.co.uk/img/upload/201012121343-ks607-yellowst.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/548/supervolcanoes
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - mjp109
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012121343-ks607-yellowst.jpg"
-image_caption: ""
 ---
 
 If, like me, your entire scientific knowledge of this subject extends to the silly BBC drama about supervolcanoes called Supervolcano, you should be terrified at the long overdue volcanic eruptions to end all eruptions. A great deal was made that Yellowstone’s last three eruptions have taken place 2.1, 1.3 and 0.64 million years ago – we’re all living on borrowed time.

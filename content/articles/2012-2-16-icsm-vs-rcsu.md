@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The RCSU is challenging ICSMSU at the Tuesday Quiz Night on February 28 in FiveSixEight. Ahead of this, the Comment pages of Felix are taken over to see which is better.
 date: "2012-02-16 22:15:58 +0000"
-
-# Attributes from Felix Online V1
-id: "2210"
-old_path: /comment/2210/icsm-vs-rcsu
+image: "http://felixonline.co.uk/img/upload/201202162242-sjw209-img_9303.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2210/icsm-vs-rcsu
-imported: true
 comments:
  - value: >
      Thanks for sharing Whit! The first time Noah got sick he was 6 mohnts old, and I rushed him to Riverside Hospital! lol, They gently sent me home and told me to call my pediatrician.Sivan just recently has been saying her back hurts for no reason, after an xray, ultrasound and blood work, she's fine. But that week of testing and holding my breath? Forget it. I have a whole new found thankfulness in my children's health.,Thanks for sharing Whit! The first time Noah got sick he was 6 mohnts old, and I rushed him to Riverside Hospital! lol, They gently sent me home and told me to call my pediatrician.Sivan just recently has been saying her back hurts for no reason, after an xray, ultrasound and blood work, she's fine. But that week of testing and holding my breath? Forget it. I have a whole new found thankfulness in my children's health.,When Craig was in 3rd grade he had a syncope <a href="http://ihdsyyel.com">epoisde</a> like u have describe. Scary indeed and then the vagueness of the explainations and the cos
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -30,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162242-sjw209-img_9303.jpg"
-image_caption: ""
 ---
 
 ___Disclaimer: __If you read this as anything other than a bit of banterous free advertising for our joint event, then you read too hard._

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   What would your tech editors do, if they were crapping money
 date: "2014-01-15 16:20:50 +0000"
-
-# Attributes from Felix Online V1
-id: "4211"
-old_path: /tech/4211/who-doesnt-need-a-roomba
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4211/who-doesnt-need-a-roomba
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __iPhone 5S__

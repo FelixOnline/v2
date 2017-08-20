@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Recommendation for increase from £1.50 to £2.00 per person per week
 date: "2015-01-16 12:59:54 +0000"
-
-# Attributes from Felix Online V1
-id: "5092"
-old_path: /news/5092/union-review-recommends-an-increase-in-amenity-funds-for-hall-activities
+image: "http://felixonline.co.uk/img/upload/201501161259-ps3110-screen-shot-2015-01-16-at-13.00.07.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5092/union-review-recommends-an-increase-in-amenity-funds-for-hall-activities
-imported: true
 comments:
  - value: >
      I know this if off topic but I'm looking into starting my own blog and was wondering what all is required to get set up? I'm assuming having a blog like yours would cost a pretty penny? I'm not very web savvy so I'm not 100% certain. Any tips or advice would be greatly appreciated. Appreciate it <br>vintage ray bans http://www.thegrandpavilion.co.uk/?uk-vintage-ray-bans-25833.html
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501161259-ps3110-screen-shot-2015-01-16-at-13.00.07.png"
-image_caption: ""
 ---
 
 An increase of the Amenities fund from £1.50 to £2.00 per person per week has been recommended by Imperial College Union. The recommendation was made as part of the Student Amenities Fund Review, and was presented to Union Council on Tuesday by the Union President, Tom Wheeler.

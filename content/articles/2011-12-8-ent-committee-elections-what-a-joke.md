@@ -4,18 +4,16 @@ title: >
 subtitle: >
   An election only works if people actually know about it, says Philip Kent
 date: "2011-12-08 22:17:21 +0000"
-
-# Attributes from Felix Online V1
-id: "1953"
-old_path: /comment/1953/ent-committee-elections-what-a-joke
+image: "http://felixonline.co.uk/img/upload/201112082216-pk1811-jeff-bridges-best-actor-academy-awards-2010.jpg"
+image_caption: "A portrayal of how exciting being elected on the ents committee is"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1953/ent-committee-elections-what-a-joke
-imported: true
 comments:
  - value: >
      I strongly agree with the sentiments described. There should have been better awareness, at least online if anything. With regards to paying for entry into the union, I'm one of the section editors who's been affected by this. It's a tad annoying to have to explain that you work for the newspaper and that it's based inside when you're met with looks from security who's unaware thinking you're trying to lie to get free entry.,I spoke to Bilal (the winner) before and made sure he'd do his best to get rid of entry fees ;),We dont use metric though, why am I charged for something I won't use? <br> <br>Let's think of felix drinks again, we use 568, the bar. Not metric. <br>If I go to the pub I am not charged. <br>When I went to b@1 I was not charged. <br>If I go to ministry I will be, fair enough. <br> <br>So why do icu charge me to use their bar? <br> <br>You say it's because metric is open, there is nothing stopping the union from charging for metric but not 568. They could always lock the internal doors and put their gate on the external
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +24,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082216-pk1811-jeff-bridges-best-actor-academy-awards-2010.jpg"
-image_caption: ""
 ---
 
 Did you know that voting for First Year Entertainments Committee Members opened last week? Nope, me neither – until it was pointed out to me. In fact, for that matter, I never knew that you could stand for it!

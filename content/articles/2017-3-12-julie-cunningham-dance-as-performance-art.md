@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Dancer-turned-choreographer Julie Cunningham presents a modern mediation on gender identity
 date: "2017-03-12 21:24:05 +0000"
-
-# Attributes from Felix Online V1
-id: "6893"
-old_path: /arts/6893/julie-cunningham--dance-as-performance-art
+image: "http://felixonline.co.uk/img/upload/201703122123-ff712-01.jpg"
+image_caption: "Julie Cunningham & Company, Double Bill, Harry Alexander, Julie Cunningham, Alexander Williams and Hannah Burfield in Returning"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6893/julie-cunningham--dance-as-performance-art
-imported: true
 comments:
  - value: >
      I was wondering if after work we could grab a cup of coffee <br>buy cheapest madden 17 mobile coins http://www.madden-store.com,I was wondering if after work we could grab a cup of coffee <br>buy cheapest madden 17 mobile coins http://www.madden-store.com,Today looks great . <br>pokemon go rare pokemon safe pokemonbux http://www.pokemonbux.com,Today looks great . <br>pokemon go rare pokemon safe pokemonbux http://www.pokemonbux.com,Be good! <br>dofustouch-kamas Best Site to Buy Cheapest dofus touch kamas https://www.dofustouch-kamas.com/,Be good! <br>dofustouch-kamas Best Site to Buy Cheapest dofus touch kamas https://www.dofustouch-kamas.com/,I have no idea what you have said <br>cheap dofus touch kamas buy https://forums.obdev.at/viewtopic.php?f=6&amp;t=10740,I have no idea what you have said <br>cheap dofus touch kamas buy https://forums.obdev.at/viewtopic.php?f=6&amp;t=10740,look great today. <br>albion online gold http://www.albion.portfoliobox.net/upalbion-will-finish-your-albion-online-gold-order-within-15-minutes,look great today. <br>alb
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
  - scc114
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703122123-ff712-01.jpg"
-image_caption: ""
 ---
 
 **Julie Cunningham | Dance as performance art**

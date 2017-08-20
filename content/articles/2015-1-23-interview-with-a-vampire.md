@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Max Falkenberg interviews Vampire Diaries’ Michael Malarkey, as he releases his debut EP
 date: "2015-01-23 18:50:04 +0000"
-
-# Attributes from Felix Online V1
-id: "5147"
-old_path: /music/5147/interview-with-a-vampire
+image: "http://felixonline.co.uk/img/upload/201501231848-jyg11-screen-shot-2015-01-23-at-18.47.10.png"
+image_caption: "Michael Malarkey wowing crowds Wilton's Music Hall"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5147/interview-with-a-vampire
-imported: true
 comments:
  - value: >
      i6OVcP http://www.LnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gO.com
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +26,6 @@ authors:
  - mff113
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501231848-jyg11-screen-shot-2015-01-23-at-18.47.10.png"
-image_caption: ""
 ---
 
 Tucked just off Cable Street, a short walk from the hustle and bustle of Aldgate, __Wilton’s Music Hall__ is one of the hidden treasures of London’s East End. Positively steeped in history and tradition, it is one of the capital’s oldest music halls, and one of the very few surviving ones that retains its original features. With such an illustrious legacy, it is understandable that some musicians may feel nervous when they emerge onto the stage.

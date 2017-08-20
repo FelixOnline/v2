@@ -4,16 +4,13 @@ title: >
 subtitle: >
   As France pursues its intervention in Mali, Alexander Soloviev looks into Middle Eastern affairs.
 date: "2013-02-07 23:17:29 +0000"
-
-# Attributes from Felix Online V1
-id: "3257"
-old_path: /politics/3257/the-legacy-of-the-arab-spring
+image: "http://felixonline.co.uk/img/upload/201302072316-tna08-mali-hollande.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/3257/the-legacy-of-the-arab-spring
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +21,6 @@ authors:
  - as9810
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302072316-tna08-mali-hollande.jpg"
-image_caption: ""
 ---
 
 It has been just over two years since a street vendor in Tunisia set himself on fire. His act of protest against the country’s oppressive and corrupt regime was not extinguished: the protest resonated with citizens across the Arab world, engulfing the region in political demonstrations, revolutions and even civil war.

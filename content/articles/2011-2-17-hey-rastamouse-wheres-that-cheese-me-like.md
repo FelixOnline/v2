@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Welcome to the TV-obsessed world of James Simpson
 date: "2011-02-17 20:31:32 +0000"
-
-# Attributes from Felix Online V1
-id: "845"
-old_path: /tv/845/hey-rastamouse-wheres-that-cheese-me-like
+image: "http://felixonline.co.uk/img/upload/201102172029-nm1010-rastamou.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/845/hey-rastamouse-wheres-that-cheese-me-like
-imported: true
 comments:
  - value: >
      Best clip i've seen on youtube in a while, "Rastamouse taught my 17th month old son to say "Wagwan" <br>http://www.youtube.com/watch?v=348aU6tTldw&amp;feature=related
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -28,12 +25,6 @@ authors:
  - tvfelix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102172029-nm1010-rastamou.jpg"
-image_caption: ""
 ---
 
 Give it up for the 'Easy Crew' – "der to make de bad tings good" – Rastamouse, Scratchy and Zooma in CBeebies' new series titled __Rastamouse__. The show seems to be popular with adults too, with the widely held theory that "cheese" actually means "marijuana". Refreshingly, the mice are puppets in stop-motion, rather than CGI like the rest of children's TV these days. It's a pity that their English grammar is akin to that of an ill-educated rap-star, but the fact that they all sound like Lenny Henry more than makes up for it. If you're really pissed and bored it'll be the funniest thing you've seen since Susan Boyle.

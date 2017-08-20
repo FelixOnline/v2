@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alongside UFOs, homeopathy and all manners of conspiracy theories, the Shroud of Turin has long been known as a perennial source of pseudoscience.
 date: "2014-02-21 03:11:45 +0000"
-
-# Attributes from Felix Online V1
-id: "4419"
-old_path: /science/4419/the-pseudoscience-shaking-the-shroud
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4419/the-pseudoscience-shaking-the-shroud
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jb3112
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Alongside UFOs, homeopathy and all manners of conspiracy theories, the Shroud of Turin has long been known as a perennial source of pseudoscience. It has almost certainly lived up to its well-earned reputation this week. An army of journalists have flooded the internet with stories about a new paper explaining why radiocarbon dating may not have given the “right” answer when aging the religious icon. It already sounds suspicious, doesn’t it?

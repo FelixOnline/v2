@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Epigenetic differences are being found in an almost-unlimited number of diseases: cancer, epilepsy, arthritis, obesity. A recent paper published in PLoS Genetics has now found that epigenetic changes may influence how susceptible one is to type 2 diabetes.
 date: "2014-04-07 12:58:27 +0100"
-
-# Attributes from Felix Online V1
-id: "4527"
-old_path: /science/4527/epigenetics-implicated-in-type-2-diabetes
+image: "http://felixonline.co.uk/img/upload/201404071358-jal08-agouti-mouse-1024x802.jpg"
+image_caption: "These two mice have different epigenetic methylation pattern at a specific gene loci that impacts ha"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4527/epigenetics-implicated-in-type-2-diabetes
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - frh10
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201404071358-jal08-agouti-mouse-1024x802.jpg"
-image_caption: ""
 ---
 
 H

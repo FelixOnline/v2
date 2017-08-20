@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Nathaniel Gallop isn’t as impressed with Nolan’s science fiction epic
 date: "2014-11-17 18:14:12 +0000"
-
-# Attributes from Felix Online V1
-id: "4901"
-old_path: /film/4901/or-maybe-it-wont-be-that-great-after-all
+image: "http://felixonline.co.uk/img/upload/201411171814-ps3110-interstellar-hathaway.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4901/or-maybe-it-wont-be-that-great-after-all
-imported: true
 comments:
  - value: >
      Greetings! This is my first visit to your blog! We are a collection of volunteers and starting a new initiative in a community in the same niche. Your blog provided us useful infmaortion to work on. You have done a marvellous job!
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411171814-ps3110-interstellar-hathaway.jpg"
-image_caption: ""
 ---
 
 __INTERSTELLAR__

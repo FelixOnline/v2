@@ -4,18 +4,16 @@ title: >
 subtitle: >
   No, for real this time! Promise!
 date: "2016-10-03 17:02:09 +0100"
-
-# Attributes from Felix Online V1
-id: "6301"
-old_path: /news/6301/night-tube-dream-finally-a-reality
+image: "http://felixonline.co.uk/img/upload/201610031901-felix-freethenight.jpg"
+image_caption: "The night is free, just like your social calendar "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6301/night-tube-dream-finally-a-reality
-imported: true
 comments:
  - value: >
      I thought I should give it a shot! <br>buy cheap NBA 2K17 MT http://radiusnyc.com/profiles/blogs/your-nba-2k17-tips-how-to-boost-attributes-and-turn-into-a,I thought I should give it a shot! <br>buy cheap NBA 2K17 MT http://radiusnyc.com/profiles/blogs/your-nba-2k17-tips-how-to-boost-attributes-and-turn-into-a,I thought I should give it a shot! <br>buy cheap NBA 2K17 MT http://radiusnyc.com/profiles/blogs/your-nba-2k17-tips-how-to-boost-attributes-and-turn-into-a,I thought I should give it a shot! <br>buy cheap NBA 2K17 MT http://radiusnyc.com/profiles/blogs/your-nba-2k17-tips-how-to-boost-attributes-and-turn-into-a,I will be there for you. <br>fifa 17 android coins http://rayhanas.com/forum/14-tips-towards-excellence-staying-focussed-and-motivated/3159-fifa-17-cards-improve-guide#3159,I will be there for you. <br>fifa 17 android coins http://rayhanas.com/forum/14-tips-towards-excellence-staying-focussed-and-motivated/3159-fifa-17-cards-improve-guide#3159,I will be there for you. <br>fifa 17 android coins http://rayhanas.com/foru
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - mjj15
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610031901-felix-freethenight.jpg"
-image_caption: ""
 ---
 
 Remember last summer when London was oh-so close to having a 24 hour tube service on the weekend? Well it’s here, it’s finally bloody here.

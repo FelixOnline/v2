@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Smackdown Vs. Raw 2011 review
 date: "2010-11-15 18:24:03 +0000"
-
-# Attributes from Felix Online V1
-id: "378"
-old_path: /games/378/yet-another-gripping-game-from-the-wwe
+image: "http://felixonline.co.uk/img/upload/201011261501-ks607-wrestlin.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/378/yet-another-gripping-game-from-the-wwe
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011261501-ks607-wrestlin.jpg"
-image_caption: ""
 ---
 
 The last time I played a wrestling game was in 1998 on the original PlayStation 1. WWF Warzone was the first 3D wrestling game ever, and although I had no particular interest in wrestling it was a title I came back to every so often. So, twelve years on, how much have things changed?

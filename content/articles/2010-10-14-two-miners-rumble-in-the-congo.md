@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Kazakhstan’s largest miner battles Canadian rival over property rights in a war-torn and impoverished region
 date: "2010-10-14 19:33:38 +0100"
-
-# Attributes from Felix Online V1
-id: "209"
-old_path: /biz/209/two-miners-rumble-in-the-congo-
+image: "http://felixonline.co.uk/img/upload/201104191806-felix-file-|-dation-a-copper-mine-in-kolwezi,-katanga,-dr-congo.jpeg"
+image_caption: "A copper mine in the Congo"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/209/two-miners-rumble-in-the-congo-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - sa1908
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104191806-felix-file-|-dation-a-copper-mine-in-kolwezi,-katanga,-dr-congo.jpeg"
-image_caption: ""
 ---
 
 Last year, the Government of the Democratic Republic of Congo terminated the mining license of First Quantum Minerals, the Canadian owner of Kolwezi copper mine. This was a considerable blow for First Quantum, which spent US$750m developing the mine, a move that generated over a quarter of the company’s US$3bn profits in 2008.

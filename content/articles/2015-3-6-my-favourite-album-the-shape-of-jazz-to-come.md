@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Kamil McClelland shows us the power and beauty of Ornette Coleman's masterpiece
 date: "2015-03-06 13:18:48 +0000"
-
-# Attributes from Felix Online V1
-id: "5350"
-old_path: /music/5350/my-favourite-album--the-shape-of-jazz-to-come
+image: "http://felixonline.co.uk/img/upload/201503061314-ff712-ejc55450.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5350/my-favourite-album--the-shape-of-jazz-to-come
-imported: true
 comments:
  - value: >
      say thanks to so mucha lot for your site it helps a great deal <br>fifa 17 points http://ea-me.de/index.php?do=/blog/47248/cheap-nba-2k17-mt-nba-2k16-mt-overview/,Awesome Web-site, Continue the very good work. With thanks!. <br>fifa 17 http://giftbook.co.za/blog/view/5476/nhl-coins-playoff-intensity-is-adjusted-well-to-by-jonathon-blum
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - km2612
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503061314-ff712-ejc55450.jpg"
-image_caption: ""
 ---
 
 1959, probably the most important year in the history of jazz, a turning point away from bebop and its roots in blues and dixieland, towards a new path for jazz: free jazz. In the same year Miles Davis released _Kind of Blue_ and Dave Brubeck came out with _Time Out_, a lesser known artist called Ornette Coleman came out of the shadows to release his album _The Shape of Jazz to Come_. The implications of this album cannot be underplayed; it heralded the advent of free jazz: more a way of thinking than a genre in itself, that would revolutionise music for the rest of the 20th Century.

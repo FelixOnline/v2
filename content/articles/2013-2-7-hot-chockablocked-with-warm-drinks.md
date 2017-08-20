@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Kevin Ng explores the different options for hot chocolate
 date: "2013-02-07 23:03:08 +0000"
-
-# Attributes from Felix Online V1
-id: "3251"
-old_path: /food/3251/hot-chockablocked-with-warm-drinks
+image: "http://felixonline.co.uk/img/upload/201302072303-tna08-heart-hot-chocolate.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3251/hot-chockablocked-with-warm-drinks
-imported: true
 comments:
  - value: >
      I had a very good chocolate once in Whole Foods Market, which is not on this list
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302072303-tna08-heart-hot-chocolate.jpg"
-image_caption: ""
 ---
 
 Some January we’ve had this year, huh? College and tests right after Christmas, Britain’s coldest winter in 100 months (complete with that massive bout of dandruff from heaven), and the weather boffins are saying February won’t be much better. Not to worry, though: at times like these, you can always count on a lovely, steaming mug of hot chocolate to make you nice and toasty (well, other than a warm cuddle from thatspecial someone). Nope, not cocoa, not that mug of Nesquick, Swiss Miss, Milo or whatever you call it. There’s a time and place for that stuff, but today, we’re going to discuss real hot chocolate – the stuff that’s thick, rich and unctuous, the drink that warms you to your toes.

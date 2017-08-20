@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Commercial services to run Level 0 pub. Holland Club set to close on 21 December 2012. No current offer of alternate premises. Campaign to save the club didn’t work
 date: "2012-11-22 22:38:46 +0000"
-
-# Attributes from Felix Online V1
-id: "2931"
-old_path: /news/2931/holland-club-closed
+image: "http://felixonline.co.uk/img/upload/201211222237-tna08-holland-club-backup.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2931/holland-club-closed
-imported: true
 comments:
  - value: >
      Actually, the Holland Club isn't closed. Not if the first paragraph is to be believed.,A sad day. Not a single person in favour of this and yet it pushes through.,Possibly the biggest scandal of all is that over £3 million of public money is being p***ed up the wall on this project, just so catering can sell yet more school dinners.,Classic 'consultation' exercise. Judging by the other catering outlets I'm not optimistic that the new one will be able to fulfil the current role of the Holland Club. Sadly will lead to less socialising with colleagues. As a staff member I am not impressed by the College's handling of this. As usual the bottom line seems all important!,Finally PG (Taught) students have somewhere to go to rather than the even more crap JCR. i welcome the change since the current holland bar only attracts the SAME group of people, who will oppose to any changes anyway!! UNION SHOULD RUN THE BAR!,As to the previous comment -- many taught postgraduates frequent the bar, and I've never seen anybody t
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211222237-tna08-holland-club-backup.jpg"
-image_caption: ""
 ---
 
 The tender process has come to an end and the Holland Club will close the bar on 21 December 2012. Commercial Services will open a new, unnamed outlet in the space at the end of September 2013.

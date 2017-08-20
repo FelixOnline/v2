@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Hayley Thompson shares her thoughts on why she is voting for Lucinda Sandon-Allum
 date: "2015-03-05 11:54:24 +0000"
-
-# Attributes from Felix Online V1
-id: "5336"
-old_path: /comment/5336/why-im-voting-lucinda-for-union-president
+image: "http://felixonline.co.uk/img/upload/201503051156-ps3110-screen-shot-2015-03-05-at-11.55.52.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5336/why-im-voting-lucinda-for-union-president
-imported: true
 comments:
  - value: >
      but what will she actually do? Does she have anything concrete she actually wants to achieve over and above the vague "i'll make things a bit better". A consultation framework does not fall in this category I'm afraid. <br> <br>People ahev come into Sabb roles full of big ideas and wnating to change things for the better. Normally the Union has chewed them up and spat them out and they haven't achieved what they came in to do, but they've at least tried. they've had the dreams and they've taken small steps towards them. <br> <br>Armitage will never be able to offer 70p pints. Even free entry on a wednesday is too big a hill to climb, but at least he's trying.,Lucinda's manifesto clearly states her objectives if she were elected as Union President. Perhaps if you made an attempt to read her manifesto it would answer your questions, and you wouldn't need to try and undermine a candidate who is actively trying to improve the relationship between the student cohort and the Union through a well defined plan. ,fitflop aren
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503051156-ps3110-screen-shot-2015-03-05-at-11.55.52.png"
-image_caption: ""
 ---
 
 While there’s no denying that I’d love a 70p pint at the union on a Wednesday as much as the next person, I will be voting for Lucinda as our next union president and I’m here to tell you why.

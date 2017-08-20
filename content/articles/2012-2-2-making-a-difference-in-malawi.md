@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Loïc Baboulaz makes his mark on the Malawian healthcare system
 date: "2012-02-02 23:19:54 +0000"
-
-# Attributes from Felix Online V1
-id: "2108"
-old_path: /travel/2108/making-a-difference-in-malawi
+image: "http://felixonline.co.uk/img/upload/201202022319-sjw209-mb_primaryschool_014.jpg"
+image_caption: "Joining a Malawian primary school for the day "
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/2108/making-a-difference-in-malawi
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -25,12 +23,6 @@ authors:
  - sjw209
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202022319-sjw209-mb_primaryschool_014.jpg"
-image_caption: ""
 ---
 
 September 2011: From the air, it looked like a leopard’s coat: hills of dry grass were dotted with random dark spots of green mango trees and large boulders. I landed in the capital of Malawi, Lilongwe, at the peak of the dry season in south eastern Africa.

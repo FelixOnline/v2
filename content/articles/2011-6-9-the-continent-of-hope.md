@@ -4,16 +4,13 @@ title: >
 subtitle: >
   asfgadfasdfad
 date: "2011-06-09 20:21:43 +0100"
-
-# Attributes from Felix Online V1
-id: "1340"
-old_path: /phoenix/1340/the-continent-of-hope
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/1340/the-continent-of-hope
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -23,12 +20,6 @@ authors:
  - dyo10
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 [photo id=16]

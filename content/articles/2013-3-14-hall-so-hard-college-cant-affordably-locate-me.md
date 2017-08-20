@@ -4,18 +4,15 @@ title: >
 subtitle: >
   An editorial on halls, the new campus, BUCS, elections, and a quick good luck for exams...
 date: "2013-03-14 23:57:17 +0000"
-
-# Attributes from Felix Online V1
-id: "3455"
-old_path: /comment/3455/hall-so-hard-college-cant-affordably-locate-me
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3455/hall-so-hard-college-cant-affordably-locate-me
-imported: true
 comments:
  - value: >
      　( 2012.02.23 20:08 ) : Amazing weblog! Do you have any sgeugstions and hints for aspiring writers? I’m preparing to start my own web site soon but I’m a bit lost on everything. Would you suggest starting with a no cost platform like WordPress or go for a paid option? You will find so many options out there that I’m completely overwhelmed .. Any ideas? Kudos!,　( 2012.02.23 20:08 ) : Amazing weblog! Do you have any sgeugstions and hints for aspiring writers? I’m preparing to start my own web site soon but I’m a bit lost on everything. Would you suggest starting with a no cost platform like WordPress or go for a paid option? You will find so many options out there that I’m completely overwhelmed .. Any ideas? Kudos!
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 [And we’re back to some more of the same](http://felixonline.co.uk/news/3463/halls-woes-continue/). Yeah, I get it, I know, it’s been going on for a while. But, hey, if we all just forget this and say “this is boring now let’s talk about the email storm or something else” then we do a disservice to future students. It’s exactly what everyone at the top wants us to do: just forget it, get absorbed in our work/life, and let them just do whatever they want.

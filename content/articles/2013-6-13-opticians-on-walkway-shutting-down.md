@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Six months to leave the space after lease is rescinded Opticians told a catering facility will replace them
 date: "2013-06-13 23:16:44 +0100"
-
-# Attributes from Felix Online V1
-id: "3691"
-old_path: /news/3691/opticians-on-walkway-shutting-down
+image: "http://felixonline.co.uk/img/upload/201306140016-tna08-optician.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3691/opticians-on-walkway-shutting-down
-imported: true
 comments:
  - value: >
      If it doesn't get used enough, then I think it's fair. However, I wouldn't agree that another catering outlet is what we need. ,But we need more salad bars on campus.,More weak, watery coffee, short-dated petrol station sandwiches and stale soggy baguettes. Supposedly this will improve the student experience and move us another point up the league tables, so that's all right then.,The unbelievably large number of catering facilities on campus is very worrying. Study space - nah....baguettes. Teaching space, nah...baguettes. Maintain good eye care, nah....baguettes. Imperial Westfield shopping experience....baguettes, baguettes, get 'em while they're soggy, they're luvvly hails the recotor over the Queens Lawn. <br> <br>Is this really what college deems to be a good student experience, the oft -touted excuse for cultural vandalism? I don't think so. There's a very good reason such announcements are made during exam time and end of term. Student body too pre-occupied to see what's going on and Felix 'off air'
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306140016-tna08-optician.jpg"
-image_caption: ""
 ---
 
 The optician on the Sherfield Walkway is set to close. Just before Easter, the optician was called and told that the lease is being rescinded and that they have six months to leave – serving them notice is in the provisions of the lease. They will be gone by September and have been told that a new catering facility will be in their place.

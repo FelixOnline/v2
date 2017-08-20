@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ross Webster on UCL's cowardice
 date: "2012-11-29 22:54:46 +0000"
-
-# Attributes from Felix Online V1
-id: "2993"
-old_path: /games/2993/imperial-vs-ucl-round-2-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2993/imperial-vs-ucl-round-2-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -23,12 +20,6 @@ authors:
  - rw507
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This Tuesday, it was Imperial’s turn to host the Imperial vs. UCL gaming tournament. The room was packed, so I was expecting fierce fighting from both sides. Instead, I was met with familiar faces at every turn. In fact, about 80% of the room were Imperial students, from what I’ve heard.

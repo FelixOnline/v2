@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Maciej Matuszewski likes the latest from Charlie Brooker
 date: "2011-12-08 21:14:29 +0000"
-
-# Attributes from Felix Online V1
-id: "1933"
-old_path: /tv/1933/this-is-an-official-announcement
+image: "http://felixonline.co.uk/img/upload/201112082112-cac111-black-mirror-007.jpg"
+image_caption: "Look at the massive bogie i just mined from my nose!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1933/this-is-an-official-announcement
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -25,12 +23,6 @@ authors:
  - mtm10
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082112-cac111-black-mirror-007.jpg"
-image_caption: ""
 ---
 
 I am a great admirer of Charlie Brooker. He is a master of satire and biting social commentary and so I had very high expectations of his latest work – the three part anthology miniseries _Black Mirror_, the first episode of which was broadcast this Sunday. I am happy to say that these expectations were more than fulfilled.

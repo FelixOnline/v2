@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Immortals lacked fresh faces on the field and were unable to make big differences in the second quarter
 date: "2015-11-06 14:24:47 +0000"
-
-# Attributes from Felix Online V1
-id: "5714"
-old_path: /sport/5714/immortal-no-more-lions-take-the-glory
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5714/immortal-no-more-lions-take-the-glory
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - pt1114
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 After a successful scrimmage last Saturday, the Immortals travelled up to Birmingham for their season opener against the University of Birmingham Lions.

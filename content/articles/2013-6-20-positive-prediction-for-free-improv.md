@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Matt Earnshaw reviews Steve Noble and Ikue Mori’s new album
 date: "2013-06-20 22:59:20 +0100"
-
-# Attributes from Felix Online V1
-id: "3715"
-old_path: /music/3715/positive-prediction-for-free-improv
+image: "http://felixonline.co.uk/img/upload/201306210000-tna08-noble1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3715/positive-prediction-for-free-improv
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306210000-tna08-noble1.jpg"
-image_caption: ""
 ---
 
 "I think free improvisation’s great era is over”, lamented the late Derek Bailey in a 2004 interview with The Wire’s David Keenan. A key figure in the development of the artform, the guitarist was already sounding its death knell, barely more than thirty years since it had become a recognised movement. Indeed, although the venerable imprints of the likes of Incus, Emanem, and Psi continue to publish new editions, it’s now largely archive material, apparently corroborating Bailey’s pessimistic outlook on the state of the art.

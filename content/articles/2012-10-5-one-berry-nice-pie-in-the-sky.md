@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In this week's recipe corner is an exquisite berry pie
 date: "2012-10-05 13:19:15 +0100"
-
-# Attributes from Felix Online V1
-id: "2625"
-old_path: /food/2625/one-berry-nice-pie-in-the-sky
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2625/one-berry-nice-pie-in-the-sky
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - ym1310
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Berry Pie

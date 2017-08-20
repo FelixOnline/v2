@@ -4,16 +4,14 @@ title: >
 subtitle: >
   More highbrow reporting from Felix as we find out just what the hell went on
 date: "2015-01-22 16:35:15 +0000"
-
-# Attributes from Felix Online V1
-id: "5111"
-old_path: /news/5111/imperial-students-attempt-to-organise-a-jihad-themed-orgy-through-secrets-facebook-page
+image: "http://felixonline.co.uk/img/upload/201501221635-ps3110-pen-orgy-pencil-case.jpg"
+image_caption: "The only orgy Imperial students are likely to see"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5111/imperial-students-attempt-to-organise-a-jihad-themed-orgy-through-secrets-facebook-page
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +21,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501221635-ps3110-pen-orgy-pencil-case.jpg"
-image_caption: ""
 ---
 
 The Imperial Secrets facebook page has lent itself as a platform to a lot of odd posts, but one took a bizarre turn when it resulted in emails being sent to students inviting them to a “Jihad themed” orgy.

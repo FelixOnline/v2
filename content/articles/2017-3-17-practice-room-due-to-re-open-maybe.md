@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The due date has already been pushed back two months
 date: "2017-03-17 13:00:47 +0000"
-
-# Attributes from Felix Online V1
-id: "6896"
-old_path: /news/6896/practice-room-due-to-re-open-maybe
+image: "http://felixonline.co.uk/img/upload/201703171300-felix-soundproofing.jpg"
+image_caption: "Rising complaints shut down the J&R space"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6896/practice-room-due-to-re-open-maybe
-imported: true
 comments:
  - value: >
      The youre really talented . <br>madden mobile 17 coins for sale http://www.madden-store.com,I mean it! <br>cheapest pokemon go rare pokemon pokemonbux http://www.pokemonbux.com,look great today. <br>buy cheap albion online silver http://www.d3game.net/albion-online-update-details-work-work/,youre looking sharp! <br>cheap dofus touch kamas for sale on dofustouch-kamas.com https://www.dofustouch-kamas.com/,Your company is very impressive . <br>Cheap Albion Online gold http://indyarocks.com/blog/4194721/All-Albion-Online-Products-Offered-For-Sale-On-UPAlbion-Are-Cheapest
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - ea3211
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171300-felix-soundproofing.jpg"
-image_caption: ""
 ---
 
 As the Spring term draws to an end, so should the West Basement refurbishment which has seen numerous student media facilities intermittently being cordoned off over the course of the last few years. This last leg of the works should mark the end of a cumulative £1.27 million investment.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial suffers 0.1% decrease from 2011 to 2012
 date: "2012-02-02 23:58:42 +0000"
-
-# Attributes from Felix Online V1
-id: "2117"
-old_path: /news/2117/fewer-students-apply-to-university
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2117/fewer-students-apply-to-university
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ann09
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 There has been a fall in university applications for 2012 entry, Universities and Colleges Admissions Service (UCAS) statistics [have revealed](http://www.ucas.com/about_us/media_enquiries/media_releases/2012/20120130a). Referred to as a “headline drop of 7.4% in applicants” by UCAS Chief Executive Mary Curnock Cook, the newly published data includes all applications that met the 15 January equal-consideration deadline. Imperial College received 14,375 applications for 2012 entry, down from 14,397 for 2011, a 0.1% decrease. Increased fees appear to have taken a toll.

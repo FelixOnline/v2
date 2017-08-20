@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Dan Wan speaks to Islamic Societies President, Salman Butt, about the spotlight that UCL'S detroit bomber has brought
 date: "2010-01-21 21:29:15 +0000"
-
-# Attributes from Felix Online V1
-id: "43"
-old_path: /news/43/not-who-you-think-we-are
+image: "http://felixonline.co.uk/img/upload/201001212124-rsp07-SalmanHa.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/43/not-who-you-think-we-are
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - rsp07
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001212124-rsp07-SalmanHa.jpg"
-image_caption: ""
 ---
 
 Shockwaves of anger and relief reverberated across the world on Christmas Day 2009 as the news of Umar Farouk Abdulmutallab’s failed bombing of Northwest Airlines Flight 253, en route from Amsterdam to Detroit.

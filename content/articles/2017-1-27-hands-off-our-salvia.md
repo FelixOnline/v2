@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The state's fight against legal highs
 date: "2017-01-27 17:42:10 +0000"
-
-# Attributes from Felix Online V1
-id: "6704"
-old_path: /millennials/6704/hands-off-our-salvia
+image: "http://felixonline.co.uk/img/upload/201701272046-felix-Screen Shot 2017-01-27 at 20.44.24.png"
+image_caption: "Not sure why but we think this is relevant"
+headline: true
+featured: true
+imported: true
 aliases:
  - /millennials/6704/hands-off-our-salvia
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - millennials
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - christopherhaig
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701272046-felix-Screen Shot 2017-01-27 at 20.44.24.png"
-image_caption: ""
 ---
 
 Eight months ago the UK government banned so-called ‘legal highs’ under the Psychoactive Substances Act. The law was intended to stunt the trade of synthetic chemicals that reproduce the effect of traditional illegal drugs. According to the Office for National Statistics, deaths linked to new psychoactive substances (the catchy government-approved name for legal highs) rose from 82 in 2014 to 114 in 2015, so it’s easy to see why politicians wanted them banned so quickly.

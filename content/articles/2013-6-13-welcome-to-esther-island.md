@@ -4,16 +4,14 @@ title: >
 subtitle: >
   This week’s tour guide is Sanchit Sharma. Feel free to ask him any questions
 date: "2013-06-13 22:37:03 +0100"
-
-# Attributes from Felix Online V1
-id: "3680"
-old_path: /games/3680/welcome-to-esther-island
+image: "http://felixonline.co.uk/img/upload/201306132339-tna08-de_lighthouse.jpg"
+image_caption: "Oh God no! The UrbEx itch is back! Probably need some tetanus jabs after though...."
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3680/welcome-to-esther-island
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306132339-tna08-de_lighthouse.jpg"
-image_caption: ""
 ---
 
 _"Dear Esther. The morning after I was washed ashore, salt in my ears, sand in my mouth and the waves always at my ankles, I felt as though everything had conspired to this one last shipwreck. I remembered nothing but water, stones in my belly and my shoes threatening to drag me underwater to where only the most listless of creatures swim.”_

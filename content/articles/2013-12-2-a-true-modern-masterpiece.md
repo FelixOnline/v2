@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Satyagraha has been lauded as a masterpiece of modern opera since its premiere in 1980. After witnessing it for myself, I can’t help but agree.
 date: "2013-12-02 22:07:23 +0000"
-
-# Attributes from Felix Online V1
-id: "4163"
-old_path: /arts/4163/a-true-modern-masterpiece
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4163/a-true-modern-masterpiece
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 What: Satyagraha, with the English National Opera

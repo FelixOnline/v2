@@ -4,18 +4,16 @@ title: >
 subtitle: >
   First year Computing student Georg Zänker will be sorely missed
 date: "2015-03-13 01:05:53 +0000"
-
-# Attributes from Felix Online V1
-id: "5389"
-old_path: /news/5389/college-in-mourning-after-first-year-student-passes-away
+image: "http://felixonline.co.uk/img/upload/201503130105-cj914-11024720_10152681538801200_8754949963606033918_n.jpg"
+image_caption: "Georg Zänker sadly passed away on Saturday 7th March 2015"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5389/college-in-mourning-after-first-year-student-passes-away
-imported: true
 comments:
  - value: >
      did he commit suicide? is it okay to know what why he died?,Maybe you shouldn't ask about this stuff, especially after Felix has done our official story.,And why exactly do you need to know? I think Felix has given enough detail to understand what has happened - a talented and well loved student has passed away. <br>Whether or not it was suicide, it is still a tragedy for his friends and family as well as the department. Please save your curiosity and be more sensitive; such comments are not very appropriate at a time like this.,Actually I think it does matter how a student on college property and over whom college had a duty of care came to die. Does this sound inappropriate to ask? <br> <br>Obviously the topic should be dealt with very carefully and sensitively but it remains the role of the media to hold those in positions of responsibility to account when someone dies prematurely. <br> <br>I know no more about the incident than this article contains but surely it is important to determine if anything could and should h
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503130105-cj914-11024720_10152681538801200_8754949963606033918_n.jpg"
-image_caption: ""
 ---
 
 Students across Imperial have come together to mourn the loss of first year student Georg Zänker, 20, who passed away on Saturday.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ashton Carter spends his one day in the UK wondering round ICL
 date: "2015-10-16 14:21:59 +0100"
-
-# Attributes from Felix Online V1
-id: "5655"
-old_path: /news/5655/us-secretary-of-defence-visits-imperial-campus
+image: "http://felixonline.co.uk/img/upload/201510161521-ygr12-icimages.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5655/us-secretary-of-defence-visits-imperial-campus
-imported: true
 comments:
  - value: >
      this is a very useful mmorpg website! <br>madden 16 coins ps4 for sale http://www.madden-store.com/madden-nfl-16/PS4-2187,If he shows up, we stick with him. <br>Madden 16 Coins http://maddencoins.mywapblog.com/madden-nfl-16-top-5-defense-players.xhtml,Too bad we must return them. <br>bladesoulgold http://forum.nisim.com/Topic21264-16-1.aspx,Take my word for it. <br>www.fifa16mall.com http://forum.wastelands-interactive.com/member.php?26669-CeciliaIcesnow,nice going! <br>Runescape Gold http://iproface.com/blog/view/134190/the-most-fun-runescape-skill-—-thieving,I'll fix it! <br>nba 2k17 mt http://makemendel.com/forum/viewtopic.php?f=28&amp;t=4097,You are nothing like us . <br>buy nba 2k17 mt http://dfwvga.com/Forum/messages.aspx?TopicID=1992,Too bad we have to return them . <br>cheap fifa 17 coins http://somdmda.org/fifa_17_gameplay_better_fifa_16,this website might help me personally to find good quality suggestions! <br>buy cheapest nba 2k mt http://www.u4nba.com/,Thank you for your helping hand. <br>Buy Cheap NBA 2K17 MT http://btcjunkies
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510161521-ygr12-icimages.jpeg"
-image_caption: ""
 ---
 
 United States Secretary of Defence Dr Ashton Carter paid a visit to Imperial College London this week to discuss research ties between the UK and US, including how Imperial researchers are taking on a variety of challenges faced by both countries in the field of defence.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fred Fyles is impressed by the Barbican’s display of unseen collections
 date: "2015-02-17 16:39:50 +0000"
-
-# Attributes from Felix Online V1
-id: "5266"
-old_path: /arts/5266/artists-most-magnificent-obsessions
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5266/artists-most-magnificent-obsessions
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Keyrings. That was what I collected when I was younger. Every time someone I knew went abroad, I forced them to bring me back a trinket attached to a keychain, until I had boxes and boxes bursting with these gaudy accessories jam-packed above my wardrobe. Of course, being 8 there was no need for me to own a keyring, let alone hundreds, but this is what lies at the heart of collecting: buying and then not using, accumulating and storing ephemera whose sole purpose is to bring enjoyment to the collector.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Eoghan Totten analyses students' complaints
 date: "2013-06-20 16:30:58 +0100"
-
-# Attributes from Felix Online V1
-id: "3704"
-old_path: /comment/3704/2012-university-complaints-england--wales-in-2012
+image: "http://felixonline.co.uk/img/upload/201306201735-txl11-free-hd-sad-keanu-wallpapers.jpg"
+image_caption: "Sad Face Keanu"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3704/2012-university-complaints-england--wales-in-2012
-imported: true
 comments:
  - value: >
      This is precisely why you need to check your course thoroughly before you apply. Particularly at Postgraduate level. A postgraduate degree at Imperial is very pricy but worth it. But obviously there are a few people who are not content. <br> <br>Anyone reading this that is looking to study at postgraduate level, I cannot reccommend this website enough. http://www.postgraduatesearch.com It contains so much useful information that could make your choice easier. It's just a shame it doesn't have many course reviews.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306201735-txl11-free-hd-sad-keanu-wallpapers.jpg"
-image_caption: ""
 ---
 
 [I kid you not.](http://felixonline.co.uk/arts/3725/complaints-on-the-rise/) The title highlights a rise of 25% in complaints lodged to the Office of the Independent Adjudicator from academic institutions in England and Wales.

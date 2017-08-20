@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sanchit Sharma struggles with taming his titans, in a Reus review
 date: "2013-06-05 12:57:52 +0100"
-
-# Attributes from Felix Online V1
-id: "3654"
-old_path: /games/3654/an-otherworldly-tutor-
+image: "http://felixonline.co.uk/img/upload/201306051356-tna08-1029484828.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3654/an-otherworldly-tutor-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306051356-tna08-1029484828.jpg"
-image_caption: ""
 ---
 
 Ever wanted to build a boring wasteland of a planet into a thriving world? Or control giants that can influence the planet on a large scale? “Dammit, ocean giant, I said one space to the left!” Okay, command giants; they’re a bit imprecise. “Come back forest giant, I need you over here!” The silly things. Anyway, forget Black & White, four giants is much more fun than one creature that doesn’t even have complete control over the topography!

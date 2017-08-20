@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Gaddafi has once again demonstrated that he's a massive nutcase
 date: "2011-03-17 21:33:47 +0000"
-
-# Attributes from Felix Online V1
-id: "1103"
-old_path: /comment/1103/mad-muammar-
+image: "http://felixonline.co.uk/img/upload/201103172132-ks607-gaddafig.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1103/mad-muammar-
-imported: true
 comments:
  - value: >
      Kudos to you! I hadn't tuhoght of that!,GVgz28 <a href="http://qexseufmjatu.com/">qexseufmjatu</a>, <a href="http://www.buytramadolhcl.net/">buy check e tramadol</a> but <a href="http://www.medstips.net/">viagra</a> =-[
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103172132-ks607-gaddafig.jpg"
-image_caption: ""
 ---
 
 Muammar Gaddafi has been an outstanding figure on the world scene, in terms of absolute lunacy. When it comes to stories about him, it’s hard to separate fact from fiction. Usually, as is often the case, the fact is stranger than the fiction. His Facebook page lists his interests as: “Libya”, “Pan-Africanism”, “Hating America”, “Justin Bieber”, and “cock.” The last two were the result of an unimaginative Facebook rape, I assume.

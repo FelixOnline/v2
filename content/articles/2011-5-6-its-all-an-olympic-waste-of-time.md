@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A revolting logo, a nauseating sponsorship deal, and a peculiar ticketing system all leave me with a feeling that it is not quite cricket
 date: "2011-05-06 08:49:24 +0100"
-
-# Attributes from Felix Online V1
-id: "1162"
-old_path: /comment/1162/its-all-an-olympic-waste-of-time
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1162/its-all-an-olympic-waste-of-time
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - sf305
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I was in two minds about buying my Olympics tickets for some time. This was a chance to see some great riding. But champing at the bit, I was not.

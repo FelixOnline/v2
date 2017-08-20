@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Results criticised by external academics: “Imperial doesn’t get it.”
 date: "2015-04-30 23:09:03 +0100"
-
-# Attributes from Felix Online V1
-id: "5475"
-old_path: /news/5475/review-in-response-to-grimms-death-completed
+image: "http://felixonline.co.uk/img/upload/201505010008-ps3110-newseventsimages.jpeg"
+image_caption: "Stefan Grimm, professor of toxiology at Imperial, was struggling to acquire funding"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5475/review-in-response-to-grimms-death-completed
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +21,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505010008-ps3110-newseventsimages.jpeg"
-image_caption: ""
 ---
 
 The inquest into the death of Professor of toxicology Stefan Grimm, 51, took place last month, six months after he was found dead in his own home in Northwood, Middlesex.

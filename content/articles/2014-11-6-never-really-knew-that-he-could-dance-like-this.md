@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Yasmin Malik and IC Belly Dancing gets close and personal with Sunny the Shake Boy
 date: "2014-11-06 21:04:07 +0000"
-
-# Attributes from Felix Online V1
-id: "4794"
-old_path: /cands/4794/never-really-knew-that-he-could-dance-like-this
+image: "http://felixonline.co.uk/img/upload/201411062103-cj914-arabic-night--sunny.jpg"
+image_caption: "Sunny the Shake Boy at Arabic Night."
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/4794/never-really-knew-that-he-could-dance-like-this
-imported: true
 comments:
  - value: >
      fitflops australia outlet <br>fitflop outlet http://fitflopsau.blogspot.com/,christian loubutin <br>christian louboutin outlet http://canadachristianlouboutin.blogspot.com/,Incredibly enlightening looking frontward to returning.| <br>cs go skins prices http://blog.yam.com/nhl15news/article/138923924
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -28,12 +26,6 @@ authors:
  - ym1210
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411062103-cj914-arabic-night--sunny.jpg"
-image_caption: ""
 ---
 
 A_rabic Night_ is a monthly Middle Eastern dance showcase in central London and is a regular favourite of the Imperial College Belly Dancing Society. Last Sunday around 15 of us headed to the fancy Moroccan and Lebanese restaurant __Maison Touareg__, located in the heart of Soho.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Imperial Wolverines!
 date: "2012-10-11 21:19:26 +0100"
-
-# Attributes from Felix Online V1
-id: "2671"
-old_path: /sport/2671/imperial-wolverines-dodge-victory
+image: "http://felixonline.co.uk/img/upload/201210112218-csw09-action%20shot%201.jpg"
+image_caption: "Amazing Fresher Talent"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2671/imperial-wolverines-dodge-victory
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +22,6 @@ authors:
  - csw09
  - fsport
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112218-csw09-action%20shot%201.jpg"
-image_caption: ""
 ---
 
 The Imperial Wolverines had a fantastic start to their season with both teams taking home medals after a suspense-riddled day in Hatfield.

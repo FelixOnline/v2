@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Emily Beech thinks Felix Music needs more Wham!
 date: "2011-11-24 21:32:15 +0000"
-
-# Attributes from Felix Online V1
-id: "1822"
-old_path: /music/1822/music-elitism-begone
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1822/music-elitism-begone
-imported: true
 comments:
  - value: >
      Hi, <br> <br>I am one of the Music Editors, and I thought I should address some of your comments. <br> <br>Firstly, I acknowledge that the music we cover is almost exclusively underground and this is clearly a problem. There are reasons for this bias: <br> <br>1. Gig reviews are usually written for gigs that we can get press tickets to. Because we are a small newspaper, we aren't able to get tickets to see more popular musicians, and so only the more obscure artists get reviewed in Felix. <br> <br>2. For whatever reason, the non-gig articles we get sent by students are mainly about obscure albums/bands, very rarely do we receive articles about mainstream music. Therefore we necessarily print obscure articles. <br> <br>As the Music section prints obscure articles we ostracise those with more mainstream tastes, which means only those people who like underground music send us articles. In other words, we are stuck in a vicious cycle which entrenches obscurity in the section.,Evidently there is some annoyance amongst the student body about
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 What does your CD collection consist of? Oh, wait a second, I remember now. Nobody buys those things anymore… it’s all about the Internet nowadays.

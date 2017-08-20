@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Empower held its first mingle with a surprise VIP appearance from Imperial’s new President, Professor Alice Gast.
 date: "2014-10-24 13:02:01 +0100"
-
-# Attributes from Felix Online V1
-id: "4750"
-old_path: /news/4750/empower-the-new-feminist-society-to-hit-imperial
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4750/empower-the-new-feminist-society-to-hit-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ff712
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Empower, founded by two fourth year students at Imperial College London, held its first event last weekend, in the form of an icebreaker at the Union Dining Hall. Tea and cake were provided, along with a surprise VIP appearance in the form of Imperial’s new President, Professor Alice Gast, who gave a 10-minute speech to the assembled group of around 30 students. During the evening, founder Sophia Lewis set out their aims for the group.

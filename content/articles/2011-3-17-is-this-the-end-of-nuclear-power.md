@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The lessons of the past have been learned
 date: "2011-03-17 21:26:00 +0000"
-
-# Attributes from Felix Online V1
-id: "1101"
-old_path: /politics/1101/is-this-the-end-of-nuclear-power
+image: "http://felixonline.co.uk/img/upload/201103172123-ks607-nucleare.jpg"
+image_caption: "An explosion at one of the reactors at Fukushima nuclear power plant"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1101/is-this-the-end-of-nuclear-power
-imported: true
 comments:
  - value: >
      Nuclear energy is not low cost at all. Taking into account time to build new plants (10-20 years), costs for dealing with increasing radioactive waste, increasing price of nuclear fuel, and security problems it is <br>far wiser not to invest in new plants but in research <br>for alternative energy sources or alternative nuclear energy production cycles. Thorium seems to provide a much better scenario in terms of safety and nuclear waste amounts but, in my opinion, should be pursued only as alternative to research in renewable energy sources. The latter, when optimized and smartly "networked", will be by far the best option for a viable future.,Nuclear energy is not low cost at all. Taking into account time to build new plants (10-20 years), costs for dealing with increasing radioactive waste, increasing price of nuclear fuel, and security problems it is <br>far wiser not to invest in new plants but in research <br>for alternative energy sources or alternative nuclear energy production cycles. Thorium seems to pro
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -29,12 +27,6 @@ authors:
  - rtf08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103172123-ks607-nucleare.jpg"
-image_caption: ""
 ---
 
 On Friday 11th March 2011, an earthquake of magnitude 9.0 struck 230 miles off the coast of northern Japan. As well as triggering a devastating tsunami, the earthquake has also caused problems with a nuclear plant in Fukushima, with developments keeping the global community sitting on the edge of its seat.

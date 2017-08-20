@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In Heads of State (1920), two portly figures are pictured in their bathing suits before a feminine backdrop of butterflies, flowers and a woman with a parasol.
 date: "2014-03-07 05:42:22 +0000"
-
-# Attributes from Felix Online V1
-id: "4463"
-old_path: /arts/4463/witty-irreverent-political-collages
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4463/witty-irreverent-political-collages
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - jc7413
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 What: Hannah Hoch

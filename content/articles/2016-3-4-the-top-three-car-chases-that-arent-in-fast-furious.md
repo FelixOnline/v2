@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-03-04 11:48:13 +0000"
-
-# Attributes from Felix Online V1
-id: "6009"
-old_path: /film/6009/the-top-three-car-chases-that-arent-in-fast--furious
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6009/the-top-three-car-chases-that-arent-in-fast--furious
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - bsc14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 They’re great guilty pleasures, the _Fast and Furious_ films, aren’t they? How can anyone not enjoy having some drinks and a pizza while watching several ripped guys illegally street race and pull off stupid heists? _Fast and Furious_ is simply a very fun, enjoyable set of action films, and – of course – they feature some great car chases. However, my opinion that _Tokyo Drift_ is the best one is apparently some sort of cardinal sin… let’s see if my friends can agree with me on this list at least:

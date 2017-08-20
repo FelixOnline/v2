@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Techtonics experience a Bieber fever-esque reception in the USA
 date: "2012-11-01 22:24:35 +0000"
-
-# Attributes from Felix Online V1
-id: "2781"
-old_path: /news/2781/the-a-capella-tour-2012-east-coast-of-usa
+image: "http://felixonline.co.uk/img/upload/201211012223-tna08-techtonics-picture.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2781/the-a-capella-tour-2012-east-coast-of-usa
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211012223-tna08-techtonics-picture.jpg"
-image_caption: ""
 ---
 
 A packed out itinerary involved travelling over 2000 miles and visiting 8 different states on the 13-day tour. From NYC, we headed north to New Haven to visit Yale, where we were able to experience the oldest and most established a cappella scene in the world. We sang a set outside, amongst their beautiful campus buildings in the baking sun, before watching a ‘singing dessert’ concert from one of the 17(!) a cappella groups there, before attending an amazing house-party thrown for us by our guests there. For more detail of all these events, see our [tour blog](http://www.union.imperial.ac.uk/arts/acappella/groups/techtonics8/).

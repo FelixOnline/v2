@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Fred Fyles takes us through the work of his favourite writer
 date: "2015-03-06 13:10:05 +0000"
-
-# Attributes from Felix Online V1
-id: "5349"
-old_path: /arts/5349/my-favourite-author--margaret-atwood
+image: "http://felixonline.co.uk/img/upload/201503061309-ff712-il_fullxfull.324544108.jpg"
+image_caption: "Canadian author Margaret Atwood"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5349/my-favourite-author--margaret-atwood
-imported: true
 comments:
  - value: >
      Thanks, this website is extremely practical <br>nhl 17 coins http://apparelforums.com/forum/announcements/1648-fifa-17-coins-for-ps4-make-believe-games,You're a really beneficial site; could not make it without ya! <br>fifa 17 http://soupdogsoftware.com/forum/viewtopic.php?f=1&amp;t=80441
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503061309-ff712-il_fullxfull.324544108.jpg"
-image_caption: ""
 ---
 
 The first book that I can remember being upset at finishing, not just sad, but actually physically hurt, was Margaret Atwood’s _The Handmaid’s Tale_. A story of a future in which radical Christians have transformed America into a theocracy, and the declining fertility rate has led to the remaining fecund women being enslaved as ‘handmaids’, _The Handmaid’s Tale_ kick-started in this prepubescent boy a love of dystopian fiction; _1984_, _Brave New World_, _We_, these all followed in rapid succession, but none could match the joy I felt when reading Atwood’s carefully crafted prose.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Imperial is giving out more firsts and 2:1s than ever
 date: "2016-04-29 10:34:03 +0100"
-
-# Attributes from Felix Online V1
-id: "6097"
-old_path: /features/6097/whats-your-degree-worth-now
+image: "http://felixonline.co.uk/img/upload/201604291132-felix-hand.jpg"
+image_caption: "What did I freakin’ get?! "
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6097/whats-your-degree-worth-now
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201604291132-felix-hand.jpg"
-image_caption: ""
 ---
 
 We’re constantly being told that degrees aren’t as valuable as they used to be. And fair enough. Your mate from home’s 2:2 in film and media studies might not expect to be as valuable as your mum’s desmond in computing from the 80s, but an Imperial degree is an Imperial degree, right?

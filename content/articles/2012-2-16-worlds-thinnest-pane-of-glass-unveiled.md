@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Semi-accidental discovery made during the experimental production of graphene
 date: "2012-02-16 21:51:08 +0000"
-
-# Attributes from Felix Online V1
-id: "2199"
-old_path: /science/2199/worlds-thinnest-pane-of-glass-unveiled
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2199/worlds-thinnest-pane-of-glass-unveiled
-imported: true
 comments:
  - value: >
      I have to disagree with amsolt every point you make. Starting an electronics business just keeps getting easier. We don't have to make our own tubes because there are so many useful components available. We don't need to start out with 50,000 of anything, because PCB manufacturing and assembly techniques are now cheap enough that you can realistically test-market only 100 devices and not lose money.We don't have to come out with some amazing advance in fundamental semiconductor technology, because there is plenty of market for useful assemblies of available parts. With the communication standards and programmable devices of today, devices can become more than the sum of their parts.And it doesn't matter if you don't perceive your device as truly unique or revolutionary the fact that you're building it, and have it for sale as a real physical product, is a huge step. All of my products would be easy for someone else to duplicate, and in fact several of them have but people will buy an existing product before b
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A [paper](http://pubs.acs.org/doi/pdf/10.1021/ja01349a006) in 1932 by William Holder Zachariasen hinted at the atomic structure of glass, which at the time was unexplored. This deduction was based purely on the properties of glass known at the time. For example, the fact it does not have a crystalline structure indicated that molecules within it are not symmetric.

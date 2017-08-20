@@ -4,18 +4,15 @@ title: >
 subtitle: >
   There are questions to be answered about Justice Week
 date: "2010-11-25 21:41:45 +0000"
-
-# Attributes from Felix Online V1
-id: "443"
-old_path: /comment/443/justice-is-a-powerful-word-and-it-must-not-be-misused
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/443/justice-is-a-powerful-word-and-it-must-not-be-misused
-imported: true
 comments:
  - value: >
      Honesty cuts both ways. It's just always easier to face the honesty of others' misdeed rather than face your own.,Reading this reflective piece gives me hope that one day there will be reconciliation between the great traditions in the middle east. As an someone who just chanced on this article, it has restored my faith in British Education.,I find it difficult to relate to this editorial. Noon can deny the countless violations to human rights and infringements on civil liberties that take place in various Muslim countries. However as a Muslin in Britain, I hear about these all of the time on the media. They are constantly emphasised. However we rarely hear about the crimes of the democracies and so called upholders of liberal values being put on trial; and if we do it is only in passing. How many would regard a report on the malicious nature of Israel's domestic policy towards it arab population as serious. It would be considered a conspiracy theory by the deluded Muslims. <br> <br>Islamic society did well by hig
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Justice is a powerful word. It can transcend borders to liberate the wrongly accused, to rescue the vulnerable and to topple governments. If used cynically, however, it can provide a veneer of respectability where it is not deserved.

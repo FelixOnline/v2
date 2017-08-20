@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Josh Price gives us his thoughts on last weekend’s SimCity beta
 date: "2013-02-01 00:00:06 +0000"
-
-# Attributes from Felix Online V1
-id: "3219"
-old_path: /games/3219/simcity-not-5
+image: "http://felixonline.co.uk/img/upload/201301312358-tna08-untitled-2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3219/simcity-not-5
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301312358-tna08-untitled-2.jpg"
-image_caption: ""
 ---
 
 It’s been almost a year since I discovered the new SimCity was announced. Was it really, finally, possible that Maxis were making a new game, with that one feature that was missing from the previous versions? Could this really be the dawn of curved roads? Speculation aside, I was particularly pleased to find that I had an invitation to the beta, last weekend. Naturally, what follows is not a full feature review, there will of course be changes, but I still had a fun in the limited hour that the beta provided. Plenty of time to start oppressing the masses and begin industrialisation creating an idyllic suburban utopia.

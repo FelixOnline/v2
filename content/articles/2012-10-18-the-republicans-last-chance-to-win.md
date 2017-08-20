@@ -4,16 +4,13 @@ title: >
 subtitle: >
   US Presidential Elections 2012
 date: "2012-10-18 21:22:11 +0100"
-
-# Attributes from Felix Online V1
-id: "2703"
-old_path: /politics/2703/the-republicans-last-chance-to-win
+image: "http://felixonline.co.uk/img/upload/201210191349-tna08-mitt-romney-laughing.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2703/the-republicans-last-chance-to-win
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +21,6 @@ authors:
  - mh3210
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210191349-tna08-mitt-romney-laughing.jpeg"
-image_caption: ""
 ---
 
 Throughout the campaign, Obama has been depicted as having two advantages: the incumbent advantage and the demographic advantage. Since 1948, only three incumbent presidents have failed to be re-elected, with seven successful bids. As an incumbent, the candidate has already gone through the necessary amount of selection to become president in the first place and has four years’ experience doing the job. At the moment, with a dismal economy and gridlocked administration following the GOP takeover of the House of Representatives, many voters are disillusioned and even disappointed with Obama, reducing the momentum that carried him to victory in 2008. The demographic advantage, however, is most certainly playing its part in securing electoral votes.

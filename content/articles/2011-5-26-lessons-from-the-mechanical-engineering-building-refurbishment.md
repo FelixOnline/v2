@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Felix takes a tour of the nearly completed labs
 date: "2011-05-26 18:29:42 +0100"
-
-# Attributes from Felix Online V1
-id: "1248"
-old_path: /news/1248/lessons-from-the-mechanical-engineering-building-refurbishment
+image: "http://felixonline.co.uk/img/upload/201105261926-felix-img_4457.jpg"
+image_caption: "A section of a new undergraduate teaching lab."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1248/lessons-from-the-mechanical-engineering-building-refurbishment
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105261926-felix-img_4457.jpg"
-image_caption: ""
 ---
 
 The renovation of the Mechanical Engineering Department has not run smoothly, to put it mildly. As Felix has reported in [previous](http://felixonline.co.uk/news/1148/blunder-in-mechanical-engineering-department/)[weeks](http://felixonline.co.uk/news/1183/further-details-emerge-on-mechanical-engineering-refurbishment/), it has seen delays, hiccups, and errors that have caused snorts of derision around campus. With this in mind, we suggested to the College and the Department that they open the doors to the department to show us a renovation that is nearing completion, and also to open up about the challenges that they have faced and the reason why the renovation has experienced so many problems. They agreed and last Tuesday I found myself donning a high-vis jacket, a hard hat, and a pair of rugged black boots that wouldn’t look out of place at a Slayer concert, to head into what is very much an active construction site.

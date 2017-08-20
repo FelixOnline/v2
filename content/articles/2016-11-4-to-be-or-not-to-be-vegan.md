@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Why veganism isn’t for everyone
 date: "2016-11-04 12:59:50 +0000"
-
-# Attributes from Felix Online V1
-id: "6385"
-old_path: /science/6385/to-be-or-not-to-be-vegan
+image: "http://felixonline.co.uk/img/upload/201611041258-aib116-carrots-155715_1920.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6385/to-be-or-not-to-be-vegan
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - al4915
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611041258-aib116-carrots-155715_1920.jpg"
-image_caption: ""
 ---
 
 Let the flags fly and wars rage. Veganism is probably one of the most contentious topics of our time. Though I am not fully vegan due to personal reasons, I joined VegSoc because, after watching documentaries like Cowspiracy and Food Matters, anyone would be hard-pressed to lay off meat slightly. I think it’s time we appreciate the ups and downs of veganism, as contrary to popular belief, vegans aren’t the angry meat prosecutors most people think they are.

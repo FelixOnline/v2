@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Duke is on at the Jerwood Theatre (Royal Court Theatre) until the 14th of February 2017
 date: "2016-12-09 16:00:09 +0000"
-
-# Attributes from Felix Online V1
-id: "6589"
-old_path: /arts/6589/the-duke--innovative-political-theatre-
+image: "http://felixonline.co.uk/img/upload/201612091600-felix-0015-1709.2L.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6589/the-duke--innovative-political-theatre-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - im1413
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612091600-felix-0015-1709.2L.jpg"
-image_caption: ""
 ---
 
 Shôn Dale-Jones’ The Duke is about what we are willing to pay for the things we treasure. What is the value of a collectible piece of porcelain, of a script you’ve been working on for ten years, of a seat on a boat that is as likely to plunge you into the sea as to deliver you to safety? In the one-hour, one man show, Dale-Jones explores these issues, both personal and global, with humour, empathy, and considerable power.

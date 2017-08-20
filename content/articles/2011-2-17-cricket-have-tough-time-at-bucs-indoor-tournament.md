@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Hopes of reaching BUCS Final dashed
 date: "2011-02-17 20:52:21 +0000"
-
-# Attributes from Felix Online V1
-id: "853"
-old_path: /sport/853/cricket-have-tough-time-at-bucs-indoor-tournament
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/853/cricket-have-tough-time-at-bucs-indoor-tournament
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jm5109
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imperial took a squad of seven to Edgbaston, Birmingham on Sunday with genuine hopes of progressing from the semi-final of the BUCS men’s indoor tournament, despite a tough draw of Loughborough and Coventry Universities.

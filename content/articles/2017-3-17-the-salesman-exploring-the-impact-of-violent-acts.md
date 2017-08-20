@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Asghar Farhadi’s Academy Award-winning film examines how single incidents spiral out, affecting all aspects of our lives, as a couple deal with the fallout from an assault committed in their own home.
 date: "2017-03-17 17:07:55 +0000"
-
-# Attributes from Felix Online V1
-id: "6911"
-old_path: /film/6911/the-salesman--exploring-the-impact-of-violent-acts
+image: "http://felixonline.co.uk/img/upload/201703171707-felix-Salesman.jpg"
+image_caption: "Shahab Hosseini and Taraneh Alidooti play the couple at the heart of Asghar Farhadi’s latest film "
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6911/the-salesman--exploring-the-impact-of-violent-acts
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - lawrencegood
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171707-felix-Salesman.jpg"
-image_caption: ""
 ---
 
 Think of the worst thing you’ve seen a cowboy builder do. Is it bodging a driveway? Building the wrong wall? How about undermining the foundations of an entire apartment block, causing a mass exodus of tenants and starting a chain of events that drives sharp rifts between families and friends? So begins  The Salesman, Oscar-winner Asghar Farhadi’s latest film. Here, the Iranian filmmaker brings a tightly spun drama to the table, exploring the potentially devastating effects of trauma, shame, and revenge in contemporary Tehran.

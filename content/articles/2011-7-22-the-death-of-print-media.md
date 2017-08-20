@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The phone hacking scandal has left print media in an unenviable position, to say the least
 date: "2011-07-22 10:33:12 +0100"
-
-# Attributes from Felix Online V1
-id: "1452"
-old_path: /comment/1452/the-death-of-print-media
+image: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1452/the-death-of-print-media
-imported: true
 comments:
  - value: >
      I don't quite understand where this sentence comes from: 'The argument that messages being deleted was some sort of an indicator as to whether or not she was alive is, objectively, breathtakingly weak.' <br> <br>The point is that they thought that she had deleted those voicemail messages, and therefore she was still alive. Why is this logic 'breathtakingly weak'? <br> <br>Also, print media has not survived the Internet – it remains to be seen whether or not if it will continue to exist, and for how long.,It is of course perfectly understandable that her parents and sister would want to reassure themselves that she was alive and well. But that doesn't make the observations of changes to her messages into objective evidence that she was alive. Although it was not reasonable for anyone to think it was a tabloid journalist doing it at that time, several other people might well have done it -- there was no evidence that she still had the phone, it could have been lost or stolen, or been fiddled with by the killer/attacker
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - sf305
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-image_caption: ""
 ---
 
 I am not a journalist. I have never hacked a phone, written a meticulously-researched piece about an obscure detail concerning Princess Diana that would only be published because she was she, or lain doggo in one of Boris Johnson’s rhododendron bushes with pencil and paper at the ready to record indiscretions with his woman-who-does in assiduous detail. If I were a journalist, I would want these skills, but not just these ones. I would also want to be able to act.

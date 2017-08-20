@@ -4,16 +4,13 @@ title: >
 subtitle: >
   There is magic to be experienced in Britain's train network
 date: "2011-11-24 22:47:42 +0000"
-
-# Attributes from Felix Online V1
-id: "1843"
-old_path: /comment/1843/all-aboard-the-nostalgia-train
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1843/all-aboard-the-nostalgia-train
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - pk1811
  - rjd08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 There are many ways to travel and I like to think that I’ve experienced most of them. Each one has its own charm, best suited to different needs and situations; from the humdrum of buses to the out-of-this-world splendour of airplanes, and, for the adventurous among you, the awesome majesty of riding an ostrich to college. But there is one form that will hold a special place in my heart.

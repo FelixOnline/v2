@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Philippa Skett talks to the researcher who turned the boson data into the discovery
 date: "2013-11-15 02:19:59 +0000"
-
-# Attributes from Felix Online V1
-id: "4063"
-old_path: /science/4063/unblinded-by-greatness
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4063/unblinded-by-greatness
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Collider exhibition is moulded around the unveiling of the dataset confirming the boson detection earlier this year. It begins by telling the story through a film starring those at CERN in mid 2013, offering the different perspectives of students, fellows and researchers. One of these students is Mingming Yang, only a graduate in the fifth year of her PhD, but who plays one of the biggest parts in this story.

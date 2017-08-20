@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Carol Ann Cheah finds out which staff get the student’s vote
 date: "2015-05-14 22:32:33 +0100"
-
-# Attributes from Felix Online V1
-id: "5522"
-old_path: /news/5522/student-academic-choice-award-winners-announced
+image: "http://felixonline.co.uk/img/upload/201505142332-cj914-tbl_sacas_18h42m37s-copy.jpg"
+image_caption: "Pascal Loåose, left, hosted the evening"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5522/student-academic-choice-award-winners-announced
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505142332-cj914-tbl_sacas_18h42m37s-copy.jpg"
-image_caption: ""
 ---
 
 The Imperial College Union Student Academic Choice Awards (SACAs) award ceremony took place on Monday evening at the Union Concert Hall. Eight awards were featured that evening, with six shortlisted members of staff per award.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Kunal Wagle reports
 date: "2014-10-17 14:53:34 +0100"
-
-# Attributes from Felix Online V1
-id: "4731"
-old_path: /news/4731/nba-legend-kareem-abdul-jabbar-joins-diabetes-campaign
+image: "http://felixonline.co.uk/img/upload/201410171553-kmw13-o-kareem-abdul-jabbar-statue-facebook.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4731/nba-legend-kareem-abdul-jabbar-joins-diabetes-campaign
-imported: true
 comments:
  - value: >
      I believe that is among the so much vital information for me. And i'm happy reading your article. But want to remark on few basic things, The web site style is ideal, the articles is truly great : D. Excellent process, cheers <br>canadian goose jas kopen http://www.n11.nl/?nl-canadian-goose-jas-kopen-9697.html,This is a topic that's close to my heart... Thank you! Exactly where are your contact details though? <br>occhiali da sole ray ban femminili http://www.targettisportingclub.it/?it-occhiali-da-sole-ray-ban-femminili-24798.html,I enjoy looking at your website. thnx!| <br>nba 2k16 mt sell http://www.blogghy.com/blog.php?user=nfl15coinsexpert&amp;note=650681
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - kmw13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201410171553-kmw13-o-kareem-abdul-jabbar-statue-facebook.jpg"
-image_caption: ""
 ---
 
 NBA legend Kareem Abdul-Jabbar announced this week that he will be kicking off a diabetes week in the United Arab Emirates. Imperial College London’s Diabetes Centre (ICLDC) is the title partner of the Take a Step for Diabetes Week, which this year will start on the 28th October.

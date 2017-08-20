@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A student painted “Divest from Oil and Gas Now – Out of Time” on the front of King’s
 date: "2017-02-17 14:24:32 +0000"
-
-# Attributes from Felix Online V1
-id: "6778"
-old_path: /news/6778/kings-fossil-free-leads-to-student-arrest
+image: "http://felixonline.co.uk/img/upload/201702171424-felix-8266827474_c72cfd193b_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6778/kings-fossil-free-leads-to-student-arrest
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ad4812
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702171424-felix-8266827474_c72cfd193b_o.jpg"
-image_caption: ""
 ---
 
 Anyone that’s been around Imperial a while will remember the Fossil Free Campaign posters that went up during first term a few years ago. These declared “Imperial’s getting coal for Christmas” as part of a larger campaign to try and get Imperial to divest from fossil fuels. Whilst the Imperial group for this movement has become slightly quieter on campus lately, the national movement is going strong.

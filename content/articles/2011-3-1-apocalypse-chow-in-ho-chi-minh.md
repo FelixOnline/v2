@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Peter Quicke and Jamie Rickman share their Vietnamese food know-how
 date: "2011-03-01 21:19:05 +0000"
-
-# Attributes from Felix Online V1
-id: "968"
-old_path: /food/968/apocalypse-chow-in-ho-chi-minh
+image: "http://felixonline.co.uk/img/upload/201103012119-ks607-Apocalyp.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/968/apocalypse-chow-in-ho-chi-minh
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +22,6 @@ authors:
  - jr1709
  - peq10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103012119-ks607-Apocalyp.jpg"
-image_caption: ""
 ---
 
 It’s breakfast time in Vietnam, the sun’s not up yet but you can hear the clashing of pots and pans and the calling of the street vendors hawking all manner of foods from greasy deep fried spring rolls to crystal clear broths. Families congregate around their tiny matriarchs, little old ladies pouring out steaming bowls of noodle soup from cauldrons larger than themselves. They eat together, squatting outside their front doors, calling to their neighbours as the dawn breaks. Food is deeply rooted in the Vietnamese culture and is far more than just sustenance. The principle of Yin and Yang is even applied to the preparation of food; ingredients are put together in harmony with season, climate and the physical well-being of the diners. Food brings the family together; to be invited to share a meal in Vietnam is extending the hand of friendship and welcome.

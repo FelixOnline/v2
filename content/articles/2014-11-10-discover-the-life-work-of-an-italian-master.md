@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Lizzie Riach is transported back in time by the RA’s Moroni exhibition
 date: "2014-11-10 21:08:41 +0000"
-
-# Attributes from Felix Online V1
-id: "4814"
-old_path: /arts/4814/discover-the-life-work-of-an-italian-master
+image: "http://felixonline.co.uk/img/upload/201411102106-ps3110-key-23.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4814/discover-the-life-work-of-an-italian-master
-imported: true
 comments:
  - value: >
      Baseball and poker end up being the only teo activities rrn which you might still improve. Score some goals an individual will be rewarded. The running backs in this particular game always be the deciding factor. <br>fifa 16 hack http://creditsfut.com/
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102106-ps3110-key-23.jpg"
-image_caption: ""
 ---
 
 Are you interested in portraiture and the state of affairs in Italy during the sixteenth century? Have you ever wondered how the great masters like Caravaggio and Velasquez were inspired? The answers lie in the Royal Academy’s latest exhibition, where you are faced with works from throughout the life of Giovanni Battista Moroni, a relatively unknown Italian painter who was able to capture the likeness and personality of his sitters with apparent ease. The portraits are done with such skill that they seem to capture precise moments in time rather than simply standing in the room you are transported back to late Renaissance Italy.

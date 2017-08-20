@@ -4,18 +4,15 @@ title: >
 subtitle: >
   More than 2200 undergraduates passed through the Royal Albert Hall to receive their degrees in three separate ceremonies that took part during Commemoration Day.
 date: "2014-10-24 12:18:53 +0100"
-
-# Attributes from Felix Online V1
-id: "4743"
-old_path: /news/4743/imperial-graduands-flock-to-royal-albert-hall-for-graduation
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4743/imperial-graduands-flock-to-royal-albert-hall-for-graduation
-imported: true
 comments:
  - value: >
      christian louboutin canada <br>christian louboutin outlet online http://canadachristianlouboutinoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It was Imperial’s favourite day off this week, as graduands came back to touch the Gast hand and finally graduate completely. More than 2200 undergraduates passed through the Royal Albert Hall to receive their degrees in three separate ceremonies that took part during Commemoration Day.

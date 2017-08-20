@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Olivia Tillbert, ICU Fairtrade Society Treasurer, announces the kick-off of the second Imperial Food Awards. This time we go Fairtrade!
 date: "2012-02-16 21:51:21 +0000"
-
-# Attributes from Felix Online V1
-id: "2200"
-old_path: /food/2200/fairtrade-cooking-competition
+image: "http://felixonline.co.uk/img/upload/201202162150-ams111-fairtrade-mark.jpg"
+image_caption: "Fairtrade Fortnight starts on February 27"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2200/fairtrade-cooking-competition
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +23,6 @@ authors:
  - ost09
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162150-ams111-fairtrade-mark.jpg"
-image_caption: ""
 ---
 
 The annual Fairtrade Fortnight is soon upon us! To kick-start the festivities the ICU Fairtrade Society is hosting a competition to find the most scrumptious ethical chef at Imperial!

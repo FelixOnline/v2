@@ -4,16 +4,14 @@ title: >
 subtitle: >
   What happens now?
 date: "2016-07-04 09:55:26 +0100"
-
-# Attributes from Felix Online V1
-id: "6292"
-old_path: /features/6292/an-idiots-guide-to-a-post-brexit-world
+image: "http://felixonline.co.uk/img/upload/201607041151-felix-sadcorbyn.jpg"
+image_caption: "Feeling as lost as sad Corbyn on a night bus? Fear not, FELIX is here to explain what happens next."
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6292/an-idiots-guide-to-a-post-brexit-world
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +21,6 @@ authors:
  - mjj15
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201607041151-felix-sadcorbyn.jpg"
-image_caption: ""
 ---
 
 So, we’re out. What now, eh? What came to pass last Thursday and early Friday morning was, whichever way you cut it, historic. No full country, this deep in the EU, has left it before and now we’ve got to deal with the fallout for better or for worse.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   College Chaplain Andrew Willson discusses the ongoing conversations resulting from the Occupy movement
 date: "2012-03-08 21:13:08 +0000"
-
-# Attributes from Felix Online V1
-id: "2322"
-old_path: /news/2322/the-business-of-religion
+image: "http://felixonline.co.uk/img/upload/201203082110-ams111-dscf2614.jpg"
+image_caption: "The relationship between religious traditions and business could provide a new angle to Occupy"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2322/the-business-of-religion
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203082110-ams111-dscf2614.jpg"
-image_caption: ""
 ---
 
 The camp of Occupy London has finally been evicted from outside St Paul’s Cathedral. I had visited the site and talked with a few people. I liked the way they focused attention on the how the current economic crisis is being handled. The camp highlighted the close links between the Cathedral and the City of London. Yet it also had wide support from local UK Churches. Their members feel the economic issues themselves and hear the stories of hardship from their partner communities in developing nations.

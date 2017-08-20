@@ -4,18 +4,15 @@ title: >
 subtitle: >
   RCSU Science Challenge is back for another year, with a total prize pot of £4000 and an all expenses paid trip to CERN up for grabs
 date: "2013-01-17 23:53:22 +0000"
-
-# Attributes from Felix Online V1
-id: "3123"
-old_path: /news/3123/science-challenge-returns
+image: "http://felixonline.co.uk/img/upload/201301172353-tna08-scichalimperial.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3123/science-challenge-returns
-imported: true
 comments:
  - value: >
      *Robert, Lord Winston <br> <br>Lord [Christian Name] [Surname] format is a courtesy title for younger sons of Dukes and Marquesses only. <br> <br>Whereas Lord Winston is a life peer (rank of Baron) in his own right. <br> <br>http://en.wikipedia.org/wiki/Courtesy_titles_in_the_United_Kingdom#Courtesy_prefix_of_.22Lord.22,Where is Pallab Ghosh this year? He's only the greatest judge of all time.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301172353-tna08-scichalimperial.jpg"
-image_caption: ""
 ---
 
 The RCSU Science Challenge returns! With a total prize-pot of over £4,000 to give away and the chance to win an all-expenses paid trip to CERN, Geneva, this is a competition you don’t want to miss.

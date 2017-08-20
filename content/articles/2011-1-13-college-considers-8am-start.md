@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Committee to look at timetable changes
 date: "2011-01-13 21:42:00 +0000"
-
-# Attributes from Felix Online V1
-id: "594"
-old_path: /news/594/college-considers-8am-start-
+image: "http://felixonline.co.uk/img/upload/201101132139-ks607-timetabl.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/594/college-considers-8am-start-
-imported: true
 comments:
  - value: >
      We live in Orient House which is three miles away, to be in for 8am we'd have to get up at 6...,I got so frustrated with my ICL maths degree having only 12 lecture hours a week but counting as a full time degree...If I was paying the new higher tuition fees I would be so angry. With these higher fees, the maths degree could easily be fitted into 2 years, even more so if the ridiculously long summer break was curtailed to 6 weeks and the day extended to 9-6 with an hour for lunch. Having such a long lunch and holidays does not prepare us for real-life jobs!,i don't think my lecturer would even make it in for 8am lectures. this is so ridiculous,8 am lectures will never fly. Especially with Master's students. We're scattered all over the city with commute times up to and including an hour. I had issues making 8:30 classes in undergrad when I lived 5 minutes away. So me an 8am master's class, and I'll show you an empty classroom,@ W4chick <br> <br>You are aware that coursework and tutorials are counted into the t
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101132139-ks607-timetabl.jpg"
-image_caption: ""
 ---
 
 In a move sure to raise eyebrows among those who prefer an extra hour (or three) in bed, it has been revealed that a College committee is considering lengthening the academic day in order to ensure that Imperial is able to “accommodate the growing number of master’s courses and extracurricular programmes [that it] offers.” The proposals being discussed include allowing teaching during the current lunch break by reducing it to one hour.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Felix Sport gets the lowdown on cricket’s continued success
 date: "2013-05-16 17:59:31 +0100"
-
-# Attributes from Felix Online V1
-id: "3576"
-old_path: /sport/3576/summer-and-cricket-is-here
+image: "http://felixonline.co.uk/img/upload/201305161856-tna08-942774_527955110594822_767625679_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3576/summer-and-cricket-is-here
-imported: true
 comments:
  - value: >
      I simply want to meinotn I'm all new to blogging and definitely loved this web blog. Very likely I’m want to bookmark your website . You surely come with terrific stories. Appreciate it for revealing your web-site.,I simply want to meinotn I'm all new to blogging and definitely loved this web blog. Very likely I’m want to bookmark your website . You surely come with terrific stories. Appreciate it for revealing your web-site.,I simply want to<a href="http://iuemizwwbre.com"> moteinn</a> I am just all new to blogs and certainly enjoyed this blog. Likely I’m planning to bookmark your blog . You amazingly come with incredible writings. Many thanks for sharing your web page.,I simply want to<a href="http://iuemizwwbre.com"> moteinn</a> I am just all new to blogs and certainly enjoyed this blog. Likely I’m planning to bookmark your blog . You amazingly come with incredible writings. Many thanks for sharing your web page., buy cialas on line take sedan rather viagra cialis viagra for sale , buy ci
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -31,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305161856-tna08-942774_527955110594822_767625679_n.jpg"
-image_caption: ""
 ---
 
 After what was quite a comfortable win the previous week, we were full of confidence as we travelled to Sussex. The opposition won the toss and elected to bat first on a wicket that offered plenty of assistance to the seamers early on. The Sussex captains decision to bat first was seeming like the wrong one when Simon Mitchell had one of their openers caught behind in the second over, more tight bowling from Simon and our captain Jayanth Ganapathy saw the pressure mount on the Sussex batsman and Jayanth took advantage of this, flattening the Sussex number 3’s off stump in emphatic style. Some wayward bowling from first change bowler Jack McCurley relieved the opposition of the pressure that was applied by the opening bowlers. As soon as spin was introduced it seemed as though the pressure was back on the opposition as left-arm spinner Darshan Patel bowled his first two overs for just one run and controversially bowled their other opener. Sadly this was as good as it got for Patel as he continually conceded extras throughout his spell and although he ended with figures of seven overs 1-23, 14 of those runs were gifted to the batting side in sundries. From the other end, Vignesh Venkateswaran was unplayable (10-4-17-2) and if it wasn’t for a few edges his 10 overs would have gone for even less than they did. Despite this and some tidy bowling at the death by Jayanth (10-3-21-2) and Simon (9-1-30-1), extras flowed freely throughout the innings as well as seven dropped catches and Sussex closed their innings on 183-6, which was really 50 more than they should’ve gotten.

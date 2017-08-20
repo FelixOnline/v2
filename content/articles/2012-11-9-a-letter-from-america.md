@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A report from right inside San Francisco
 date: "2012-11-09 12:26:24 +0000"
-
-# Attributes from Felix Online V1
-id: "2846"
-old_path: /politics/2846/a-letter-from-america
+image: "http://felixonline.co.uk/img/upload/201211091220-tna08-img_6345edit.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2846/a-letter-from-america
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091220-tna08-img_6345edit.jpg"
-image_caption: ""
 ---
 
 At 6am on Monday morning, groggy from jetlag and the 15mg of valium I took on the plane, I sat in a taxi in downtown San Francisco waiting to be driven to a car rental company. The driver asked if it was my first time in San Francisco and I told him that it was. In the blunt light of dawn, we crashed up and down San Francisco’s inclined streets, and I noticed steam rising from the man-hole covers. It was America as I had imagined it. Lurching down another main road, he pointed and said, “There’s a lone midget hooker”. When I looked I saw a dwarf in an uncompromising red dress checking her long, blonde hair in a shop window. There was no hint of judgement by the taxi driver. This was not America as I had imagined it.

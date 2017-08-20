@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jack Steadman goes on a nightly stroll with Jake Gyllenhaal
 date: "2014-11-10 21:41:51 +0000"
-
-# Attributes from Felix Online V1
-id: "4824"
-old_path: /film/4824/creatures-of-the-night
+image: "http://felixonline.co.uk/img/upload/201411102141-ps3110-nightcrawler-teaser.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4824/creatures-of-the-night
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - js5913
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102141-ps3110-nightcrawler-teaser.jpg"
-image_caption: ""
 ---
 
 __NIGHTCRAWLER__

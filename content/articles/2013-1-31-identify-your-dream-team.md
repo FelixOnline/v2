@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Nitin Nihalani tells you the vital people you'll need for a successful startup
 date: "2013-01-31 23:53:55 +0000"
-
-# Attributes from Felix Online V1
-id: "3217"
-old_path: /biz/3217/identify-your-dream-team
+image: "http://felixonline.co.uk/img/upload/201301312354-tna08-1507.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/3217/identify-your-dream-team
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -24,12 +21,6 @@ authors:
  - nbn10
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301312354-tna08-1507.jpg"
-image_caption: ""
 ---
 
 I’m sure you’ve all heard the phrase ‘two heads are better than one’. Seems pretty obvious, right? By this logic, it follows that three heads are better than two, four better than three and so on. Unfortunately, when it comes to startups, the equation is not quite so simple. Finding the right team is a very long and difficult task, and one mistake could jeopardise the entire business. Ed Catmull, co-founder of Pixar, summarises it perfectly: “If you give a good idea to a mediocre team, they’ll screw it up. But if you give a mediocre idea to a great team, they’ll make it work.”

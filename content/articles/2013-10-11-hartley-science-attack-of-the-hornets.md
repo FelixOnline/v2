@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Fiona’s science corner: Attack of the hornets!
 date: "2013-10-11 23:24:37 +0100"
-
-# Attributes from Felix Online V1
-id: "3827"
-old_path: /science/3827/hartley-science-attack-of-the-hornets
+image: "http://felixonline.co.uk/img/upload/201310300323-frh10-china-hornet-vespa-mandarinia_72212_600x450.jpg"
+image_caption: "The giant hornet, Vespa mandarinia"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3827/hartley-science-attack-of-the-hornets
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - frh10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310300323-frh10-china-hornet-vespa-mandarinia_72212_600x450.jpg"
-image_caption: ""
 ---
 
 Here we are at the end of the first proper week and here’s a new spread of science to educate and hopefully entertain you. Philippa introduced me as a ‘bubbling biologist’ last week, which is an exaggeration, but true to form this week’s news story that has struck me is a biological one.

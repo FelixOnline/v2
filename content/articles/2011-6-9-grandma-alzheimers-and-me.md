@@ -4,18 +4,16 @@ title: >
 subtitle: >
   A very personal account of the impact of this terrible disease
 date: "2011-06-09 21:34:52 +0100"
-
-# Attributes from Felix Online V1
-id: "1352"
-old_path: /science/1352/grandma-alzheimers-and-me
+image: "http://felixonline.co.uk/img/upload/201106092234-felix-neur.jpg"
+image_caption: "Alzheimer’s causes neurons like these to become tangled by proteins, killing them"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1352/grandma-alzheimers-and-me
-imported: true
 comments:
  - value: >
      Great article. I had a similar situation last year with my Grandma.
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - gw210
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106092234-felix-neur.jpg"
-image_caption: ""
 ---
 
 It’s a strange feeling when you first step into an Alzheimer’s care home. What hits you immediately is the smell of urine and cheap school dinners, but the far more unnerving aspect is the sea of blank faces that greets you. I’m here to see my grandma, who has been suffering from [Alzheimer’s](http://en.wikipedia.org/wiki/Alzheimer's_disease) for a number of years.

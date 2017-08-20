@@ -4,16 +4,13 @@ title: >
 subtitle: >
   David Mitchell and Kazuo Ishiguro discuss ghosts, action and what they avoid writing
 date: "2016-02-26 12:01:55 +0000"
-
-# Attributes from Felix Online V1
-id: "5981"
-old_path: /arts/5981/on-the-shoulders-of-literary-giants
+image: "http://felixonline.co.uk/img/upload/201602261201-felix-2016.02.17_RFH_Ishiguro_and_Mitchell_Kazuo Ishiguro_credit_Jeff Cottenden.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5981/on-the-shoulders-of-literary-giants
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261201-felix-2016.02.17_RFH_Ishiguro_and_Mitchell_Kazuo Ishiguro_credit_Jeff Cottenden.jpg"
-image_caption: ""
 ---
 
 It was an odd set-up – the 2500-seater Royal Festival Hall packed to the brim, eagerly watching just two individuals on stage. Sat slightly angled towards each other and separated by an unassuming coffee table were two of the greatest literary figures of our time. I was seated right at the back (everything else was sold out), and their figures were dwarfed by the massive screen behind them with their names emblazoned across. Kazuo Ishiguro and David Mitchell may be the only two people on a vast stage regularly used for entire orchestras or dance troupes, but their presence filled the space around them and commanded the attention of rows upon rows of fans, writers, geeks and the curious.

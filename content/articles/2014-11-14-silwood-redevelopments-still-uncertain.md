@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philippa Skett investigates the plans to build flats on the Silwood site
 date: "2014-11-14 19:53:26 +0000"
-
-# Attributes from Felix Online V1
-id: "4858"
-old_path: /news/4858/silwood-redevelopments-still-uncertain
+image: "http://felixonline.co.uk/img/upload/201411142017-ps3110-66355716.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4858/silwood-redevelopments-still-uncertain
-imported: true
 comments:
  - value: >
      fitflops in australia <br>fitflop online sales http://australiafitflops.iemiller.net/,cheap birkenstocks online <br>birkenstock australia outlet http://birkenstockaustralia.rochecap.org/,shoes louboutin <br>christian louboutin outlet online http://christianlouboutincanadaoutlet.blogspot.com/,louboutin rolando shoes sale <br>christian louboutin canada http://canadachristianlouboutin.blogspot.com/,The stuff is very important.| <br>cs go skins coin flip http://www.gaymaintube.com/?view=profile&amp;page=profile_blog_post&amp;user=cheapfifa16points&amp;post=Z0iILrsUcOn
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411142017-ps3110-66355716.jpg"
-image_caption: ""
 ---
 
 A petition to “Protect Silwood from losing its identity” has amassed over 250 signatures, after it has been announced that redevelopment work on the site is to take place. However, with no straight answers yet available as to what this redevelopment may entail, rumours are running rife through the student body based at the campus.

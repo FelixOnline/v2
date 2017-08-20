@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This is 40 review
 date: "2013-02-12 18:30:26 +0000"
-
-# Attributes from Felix Online V1
-id: "3293"
-old_path: /film/3293/4-stars-for-4ty
+image: "http://felixonline.co.uk/img/upload/201302121830-tna08-this-is-40-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3293/4-stars-for-4ty
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - ffilm
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302121830-tna08-this-is-40-1.jpg"
-image_caption: ""
 ---
 
 A follow-up to Knocked Up without actually holding onto any of its main characters, we instead have a closer look at how aged, mature relationships work, and in this case, how the “happily ever after” is much easier said than done.

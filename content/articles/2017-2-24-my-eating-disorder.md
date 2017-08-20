@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Conchi Hermida Sánchez shares her relationship with food, the starving and the binge-eating, and hopes for a brighter healthier future
 date: "2017-02-24 13:48:26 +0000"
-
-# Attributes from Felix Online V1
-id: "6812"
-old_path: /comment/6812/my-eating-disorder
+image: "http://felixonline.co.uk/img/upload/201703031625-felix-Screen Shot 2017-02-24 at 14.00.16.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6812/my-eating-disorder
-imported: true
 comments:
  - value: >
      BaronBut for the West to do so would destroy its own collective soul. Not doing such things is what distinguishes us from them.I agree cotAlemely.plsoThe official US policy for decades is that the response to a nuclear attack will be a massive retailation in kind against the perpetrators, details not announced in advance.Anyone with at least a two digit IQ realizes this will happen. Any rational person will not use nuclear weapons against the US. Bin Laden, however, if had them, would think this a good reason to use them in the hope he could leat the islamic anger. Tancredo’s comments are an invitation to people like bin Laden.,BaronBut for the West to do so would destroy its own collective soul. Not doing such things is what distinguishes us from them.I agree cotAlemely.plsoThe official US policy for decades is that the response to a nuclear attack will be a massive retailation in kind against the perpetrators, details not announced in advance.Anyone with at least a two digit IQ realizes this will h
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703031625-felix-Screen Shot 2017-02-24 at 14.00.16.png"
-image_caption: ""
 ---
 
 As part of Eating Disorders Awareness Week, I would like to share my personal experience and hopefully help someone out there.

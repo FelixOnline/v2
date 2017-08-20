@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Venice has its charms, but more often than not the fact that I was a tourist was shoved in my face at every corner I turned
 date: "2011-05-20 04:24:22 +0100"
-
-# Attributes from Felix Online V1
-id: "1215"
-old_path: /travel/1215/venice-a-pragmatists-guide
+image: "http://felixonline.co.uk/img/upload/201105200523-felix-use-canal.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/1215/venice-a-pragmatists-guide
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -24,12 +21,6 @@ authors:
  - dhl106
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105200523-felix-use-canal.jpg"
-image_caption: ""
 ---
 
 “What do you think of Venice?” I asked. “Tourist trap”, replied Dylan. When he next told me that he hadn’t even been, I decided his opinion was invalid: I wasn’t prepared to discuss the pitfalls of this dream destination, considering the countless praise it gets.

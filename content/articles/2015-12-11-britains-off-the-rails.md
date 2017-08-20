@@ -4,17 +4,14 @@ title: >
 subtitle: >
   Perhaps it’s time to renationalise our railways and combat unacceptable service
 date: "2015-12-11 15:32:38 +0000"
+image: "http://felixonline.co.uk/img/upload/201512111532-felix-crowded-trains-2372669.jpg"
 draft: true
-
-# Attributes from Felix Online V1
-id: "5815"
-old_path: /comment/5815/britains-off-the-rails
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5815/britains-off-the-rails
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ tags:
 authors:
  - sdl15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201512111532-felix-crowded-trains-2372669.jpg"
-image_caption: ""
 ---
 
 > > Apparently operating a series of lights defies engineers’ best efforts

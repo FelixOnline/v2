@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Latest figures reveal further lack of interest in UK university applications
 date: "2011-12-01 21:16:05 +0000"
-
-# Attributes from Felix Online V1
-id: "1885"
-old_path: /news/1885/drop-in-university-applications
+image: "http://felixonline.co.uk/img/upload/201112012110-felix-ucas_logo_rgb300.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1885/drop-in-university-applications
-imported: true
 comments:
  - value: >
      The actual figures are not too worrying, we are up on Oversea students, and EU applications seem fairly steady, although slightly down. <br>Although home student applications are down, Imperial is doing well compared to the sector average. <br>I also suspect that more applicants this year will take gap years compared to last year because of the fee change. <br>Interestingly, on Admissions, people might want to read Scotts blog on post-qualification admissions (massive plug): https://www.union.ic.ac.uk/blogs/2011/11/14/post-qualification-admissions-pqas/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012110-felix-ucas_logo_rgb300.png"
-image_caption: ""
 ---
 
 The gap between the number of applicants to UK universities this year compared to last has widened. The [latest figures](http://www.ucas.com/about_us/media_enquiries/media_releases/2011/20111128) from the [Universities and Colleges Admissions Service](http://www.ucas.com/) (UCAS) reveal that the number of applicants for higher education courses has fallen by 12.9%, corresponding to over 23,000 people, compared to this time last year. Last month’s figures indicated a drop of only 9.0%.

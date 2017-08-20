@@ -4,18 +4,16 @@ title: >
 subtitle: >
   How Mirpuris shaped the British Isles and how they themselves were changed
 date: "2011-03-18 06:44:41 +0000"
-
-# Attributes from Felix Online V1
-id: "1110"
-old_path: /news/1110/from-the-midlands-back-to-mirpur
+image: "http://felixonline.co.uk/img/upload/201103172108-ks607-photo12.jpg"
+image_caption: "Look at those bulging biceps"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1110/from-the-midlands-back-to-mirpur
-imported: true
 comments:
  - value: >
      Nice article, looking forward to the next installment!,Nice article, looking forward to the next installment!,This is great. Had me in bits!,This is great. Had me in bits!,So much of this is TRUE!!! :) <br>You may be training to be a Doctor, but you’ve deconstructed the Pakistani community with surgical precession. <br>Great article. <br>MashAllah! ,So much of this is TRUE!!! :) <br>You may be training to be a Doctor, but you’ve deconstructed the Pakistani community with surgical precession. <br>Great article. <br>MashAllah! ,Correction: You may be training to be a Doctor, but you’ve deconstructed the Pakistani community with surgical precision.,Correction: You may be training to be a Doctor, but you’ve deconstructed the Pakistani community with surgical precision.,Good to let it out guys but rather diplomatic I felt. You're deviating from your Mirpuri roots! Anyhoo, who you guys supporting in this year's Cricket World Cup?,Good to let it out guys but rather diplomatic I felt. You're deviating from your Mirpuri r
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +28,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103172108-ks607-photo12.jpg"
-image_caption: ""
 ---
 
 _Read part one "[From Mirpur to the Midlands](http://www.felixonline.co.uk/?article=1058)" _

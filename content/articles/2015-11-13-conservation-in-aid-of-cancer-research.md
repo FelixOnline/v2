@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Cutting corners in conservation may cost us the cure
 date: "2015-11-13 14:42:31 +0000"
-
-# Attributes from Felix Online V1
-id: "5731"
-old_path: /science/5731/conservation-in-aid-of-cancer-research-
+image: "http://felixonline.co.uk/img/upload/201511131442-ygr12-12236867_917274504988883_1675332240_o.jpg"
+image_caption: "Behold the glorious mole rat. This lovable creature may hold the secrets to curing cancer."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5731/conservation-in-aid-of-cancer-research-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - sdl15
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511131442-ygr12-12236867_917274504988883_1675332240_o.jpg"
-image_caption: ""
 ---
 
 Cancer is one of the scourges of humanity.

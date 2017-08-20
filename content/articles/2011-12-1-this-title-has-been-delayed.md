@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Major delays on the Felix Line due to a signal failure in the Copy Editor area.
 date: "2011-12-01 21:23:55 +0000"
-
-# Attributes from Felix Online V1
-id: "1890"
-old_path: /comment/1890/this-title-has-been-delayed
+image: "http://felixonline.co.uk/img/upload/201112012123-pk1811-scarlett-johansson.jpg"
+image_caption: "The reward for reading this article is a picture of Scarlett Johansson"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1890/this-title-has-been-delayed
-imported: true
 comments:
  - value: >
      That is a huge book!Yeah, he doesn't look really happy to go to shoocl...Have I mentioned your kids are THE CUTEST EVER? I know I have, but they just are!!!!,Peter,Yes the iOS bug appears to have been fixed<a href="http://upbquan.com"> tkahns</a>.I am currently on CR 1H51 which on the Facilities' tab shows as having reservations available. No CR services (with the possible exception of the Business Zone' on a handful of their Silver MainLine services) have seat reservations. Not sure if it's the way they have loaded the data, or the way you are extracting it.Thanks for a great site. Very useful.CU, improved ejaculatory metals immense capacity car insurance quotes
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012123-pk1811-scarlett-johansson.jpg"
-image_caption: ""
 ---
 
 Reading that title, you can probably roughly guess what this article is going to be about. It’s the trains in Britain. I used to think the trains being often delayed, expensive and not running much on the weekend was an Essex thing, innit. It appears that I was wrong in that assumption, and Mock The Week panellists must be pleased that it’s widespread enough for everyone to appreciate their jokes. I’m just going to go straight for the jugular here: the trains in Britain need to be renationalised

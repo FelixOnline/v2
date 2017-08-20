@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jingjie Cheng gets a behind the scenes look at 170 Queen’s Gate
 date: "2015-01-31 18:34:00 +0000"
-
-# Attributes from Felix Online V1
-id: "5164"
-old_path: /arts/5164/imperials-hidden-artistic-treasures
+image: "http://felixonline.co.uk/img/upload/201501311836-ff712-3fa63a6f3d84t.jpg"
+image_caption: "For The Squire, Sir John Everett Millais, 1882"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5164/imperials-hidden-artistic-treasures
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - jc7413
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501311836-ff712-3fa63a6f3d84t.jpg"
-image_caption: ""
 ---
 
 Every morning, students stream into Imperial College from Queen’s Gate, turning in at Imperial College Road and passing by a red brick house on their left without as much as a second glance. Few students realise that the Victorian townhouse is both Grade II Listed, and the residence of the President of the College.

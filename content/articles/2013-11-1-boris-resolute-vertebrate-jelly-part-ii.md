@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Eoghan should probably have a chat to Boris next week...
 date: "2013-11-01 10:54:38 +0000"
-
-# Attributes from Felix Online V1
-id: "3979"
-old_path: /comment/3979/boris-resolute-vertebrate-jelly-part-ii
+image: "http://felixonline.co.uk/img/upload/201311011054-felix-boris.jpg"
+image_caption: "Boris Johnson not at Imperial"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3979/boris-resolute-vertebrate-jelly-part-ii
-imported: true
 comments:
  - value: >
      It appears comment moderators are deathly slow.<br>I'm not entirely sure what you're attempting to say here - there's not much cohesion. Are you saying that Boris Johnson is failing the poor and disadvantaged, and focussing on relatively insignificant superficial changes that benefit the wealthy? Are you saying he's talented and plucky?<br>If 'it could be misconstrued as clandestine and disengaged', where is the misunderstanding? You appear to demonstrate that it is, indeed, clandestine and disengaged.<br>Why is Boris Johnson the only man capable of continuing the 'legacy' of the olympic games? Again, it seems you've demonstrated that he is catering solely to the most powerful and able, and not succeeding at fostering a spirit of togetherness, participation and equal opportunity for all. I'm fairly sure the latter was the moral of the games, not the former.,I'm not entirely sure what you're attempting to say here - there's not much cohesion. Are you saying that Boris Johnson is failing the poor and disadvantaged, a
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311011054-felix-boris.jpg"
-image_caption: ""
 ---
 
 “If the ball came loose from the back of the scrum, which it won’t of course, it would be a great, great thing to have a crack at.”

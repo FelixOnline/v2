@@ -4,16 +4,13 @@ title: >
 subtitle: >
   London Underground and the Mayor of London announced new changes that will have a large impact on London’s tube system.
 date: "2013-11-22 03:31:42 +0000"
-
-# Attributes from Felix Online V1
-id: "4095"
-old_path: /news/4095/london-underground-plans-radical-changes-to-tube-system-by-2015
+image: "http://felixonline.co.uk/img/upload/201311241714-jal08-screen-shot-2013-11-24-at-17.13.53.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4095/london-underground-plans-radical-changes-to-tube-system-by-2015
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311241714-jal08-screen-shot-2013-11-24-at-17.13.53.png"
-image_caption: ""
 ---
 
 London Underground and the Mayor of London announced new changes that will have a large impact on London’s tube system. Under the proposed changes by 2015 most manned ticket offices at tube stations will be closed, leading to a loss of 750 jobs. These changes have been set in motion as part of a plan to reduce TfL’s budget by approximately £50 million every year.

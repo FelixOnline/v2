@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Osama Awara, new tech editor, informs you about 3D space printing!
 date: "2013-10-12 19:38:01 +0100"
-
-# Attributes from Felix Online V1
-id: "3858"
-old_path: /tech/3858/3-d-printers-take-off
+image: "http://felixonline.co.uk/img/upload/201310122037-jal08-tech_3d-space-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3858/3-d-printers-take-off
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - oa1612
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310122037-jal08-tech_3d-space-copy.jpg"
-image_caption: ""
 ---
 
 Launching a rocket into space is in itself a tricky business; well after all it is rocket science!

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Vivien Hadlow advocates a more realistic approach to life, Imperial and everything.
 date: "2016-10-03 18:39:49 +0100"
-
-# Attributes from Felix Online V1
-id: "6304"
-old_path: /comment/6304/the-vital-importance-of-being-mediocre
+image: "http://felixonline.co.uk/img/upload/201610101210-felix-3596476766_0feee3d08c_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6304/the-vital-importance-of-being-mediocre
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
  - vmh14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610101210-felix-3596476766_0feee3d08c_o.jpg"
-image_caption: ""
 ---
 
 University is a time for learning new things.  By the time you leave you’ll (hopefully) be able to make nutritionally passable food, complete group projects without stabbing anyone, and compose the perfect passive aggressive group chat message about washing up.  But, arguably apart from the content of your degree, the most important thing you will learn is that it’s okay to be average.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   A wise man once said that there is only one thing a man can do when he’s suffering from a spiritual and existential funk. Go to the zoo, flip off the monkeys? “No,” says Ron Burgundy, “buy new suits.” Saskia Verhagen and Alice Yang show you the ropes.
 date: "2012-02-02 20:32:58 +0000"
-
-# Attributes from Felix Online V1
-id: "2098"
-old_path: /fashion/2098/suit-up-an-idiots-guide-to-the-who-what-where-and-how-of-formalwear
+image: "http://felixonline.co.uk/img/upload/201202081511-pk1811-dg-db.jpg"
+image_caption: "Dolce & Gabbana"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/2098/suit-up-an-idiots-guide-to-the-who-what-where-and-how-of-formalwear
-imported: true
 comments:
  - value: >
      Just a couple of typos guys.. <br> <br>First section: <br>*Ferragamo <br> <br>Second section: <br>*Models (rather than "model's") <br> <br>Quite a nice read, even if it were making us all look like retards. Some of us are not! Didn't really realise Felix had a fashion section either... <br> <br>,Just a couple of typos guys.. <br> <br>First section: <br>*Ferragamo <br> <br>Second section: <br>*Models (rather than "model's") <br> <br>Quite a nice read, even if it were making us all look like retards. Some of us are not! Didn't really realise Felix had a fashion section either... <br> <br>,I benefit from looking through your site. Kudos!,I benefit from looking through your site. Kudos!,I <a href="http://xmscexc.com">rekcon</a> you are quite dead on with that.,I <a href="http://xmscexc.com">rekcon</a> you are quite dead on with that.
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -31,12 +29,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202081511-pk1811-dg-db.jpg"
-image_caption: ""
 ---
 
 ## Double-Breasted Suit

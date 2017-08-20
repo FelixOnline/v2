@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The newly discovered dwarf planet 2012 VP113 was discovered by astronomers at the Carnegie Institution of Science, Washington last week.
 date: "2014-04-02 11:14:20 +0100"
-
-# Attributes from Felix Online V1
-id: "4518"
-old_path: /science/4518/scientists-discover-dwarf-planet
+image: "http://felixonline.co.uk/img/upload/201404021214-jal08-orbit-diagram---n.jpg"
+image_caption: "This orbit diagram shows the paths of Oort cloud objects 2012 VP113 (red) and Sedna (orange), which "
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4518/scientists-discover-dwarf-planet
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201404021214-jal08-orbit-diagram---n.jpg"
-image_caption: ""
 ---
 
 The newly discovered dwarf planet __2012 VP____113__ was discovered by astronomers at the Carnegie Institution of Science, Washington last week.

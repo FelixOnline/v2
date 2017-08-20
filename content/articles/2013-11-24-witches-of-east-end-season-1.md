@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Remember how awful it is when an American actor tries to unsuccessfully imitate an English accent? Well here is the perfect example of where the opposite has gone completely wrong.
 date: "2013-11-24 16:31:36 +0000"
-
-# Attributes from Felix Online V1
-id: "4125"
-old_path: /tv/4125/witches-of-east-end-season-1
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4125/witches-of-east-end-season-1
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Remember how awful it is when an American actor tries to unsuccessfully imitate an English accent? Well here is the perfect example of where the opposite has gone completely wrong. Yes, an English actress who tries (and sometimes it doesn’t even sound like she’s trying one bit) to put on a convincing American accent. She fails every episode of course, although that alone isn’t enough to write this show off completely.

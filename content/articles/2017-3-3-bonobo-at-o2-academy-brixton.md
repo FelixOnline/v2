@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Each new song was met with a wave of euphoria among the crowd
 date: "2017-03-03 15:26:20 +0000"
-
-# Attributes from Felix Online V1
-id: "6848"
-old_path: /music/6848/bonobo-at-o2-academy-brixton
+image: "http://felixonline.co.uk/img/upload/201703031526-felix-20170225_221356.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6848/bonobo-at-o2-academy-brixton
-imported: true
 comments:
  - value: >
      This is just the pefcert answer for all of us
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +23,6 @@ authors:
  - philippantonas
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703031526-felix-20170225_221356.jpg"
-image_caption: ""
 ---
 
 This was a gig that, due to Bonobo’s incredible talent and sense of sound, engendered awe throughout the packed venue, however the occasion was let down by the poor sound setup at the Academy.

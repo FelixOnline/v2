@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Hollywood successfully takes on the challenge of re-working the first installment of the Millennium series, whilst still satisfying readers of the books
 date: "2012-01-12 22:45:41 +0000"
-
-# Attributes from Felix Online V1
-id: "1991"
-old_path: /film/1991/rooney-dons-her-new-tattoo
+image: "http://felixonline.co.uk/img/upload/201201122245-cac111-rooney-mara-the-girl-with-the-dragon-tattoo-review-2011.jpg"
+image_caption: "Let’s take this to the bed shall we, Agent Salacious-- I mean, Salander?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1991/rooney-dons-her-new-tattoo
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - lp707
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201122245-cac111-rooney-mara-the-girl-with-the-dragon-tattoo-review-2011.jpg"
-image_caption: ""
 ---
 
 ###  The Girl with the Dragon Tattoo

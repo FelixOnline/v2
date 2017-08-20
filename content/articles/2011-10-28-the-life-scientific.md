@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Arianna Sorba reviews the new scientifically slanted Radio 4 series
 date: "2011-10-28 00:22:44 +0100"
-
-# Attributes from Felix Online V1
-id: "1630"
-old_path: /science/1630/the-life-scientific
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1630/the-life-scientific
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - fsci
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ‘[The Life Scientific](http://www.bbc.co.uk/programmes/b015sqc7)’ is a new radio series currently being broadcast on BBC Radio 4. Each week [Jim Al-Khalili](http://www.jimal-khalili.com/), physicist and science communicator, interviews a different leading scientist, asking about their work, their life, and what motivates and inspires them.

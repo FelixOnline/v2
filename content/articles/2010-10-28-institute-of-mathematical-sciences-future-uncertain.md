@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Institute forced out of 53 Prince’s Gardens after review
 date: "2010-10-28 20:06:16 +0100"
-
-# Attributes from Felix Online V1
-id: "289"
-old_path: /news/289/institute-of-mathematical-sciences-future-uncertain
+image: "http://felixonline.co.uk/img/upload/201010282104-nm1010-imsimsim.jpg"
+image_caption: "53 Prince's Gardens"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/289/institute-of-mathematical-sciences-future-uncertain
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - mc4509
  - nn1209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010282104-nm1010-imsimsim.jpg"
-image_caption: ""
 ---
 
 The [Institute for Mathematical Sciences](http://www3.imperial.ac.uk/mathsinstitute) (IMS) has been restructured, and will be moved out of its home at 53 Prince’s Gardens into a uncertain future as the Faculty of Natural Sciences "rationalises" its resources. The previous model has been deemed unsustainable and a new model is being investigated by the Faculty.

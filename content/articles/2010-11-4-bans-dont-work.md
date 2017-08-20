@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Our out-dated attitude to drugs is doing more harm than good. Legalising them is the most sensible solution.
 date: "2010-11-04 18:52:19 +0000"
-
-# Attributes from Felix Online V1
-id: "317"
-old_path: /comment/317/bans-dont-work
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/317/bans-dont-work
-imported: true
 comments:
  - value: >
      Ties in neatly with Professor Nutt et al's latest conclusions that alcohol is in fact worse than heroin and every other substance out there. Hardly surprising results, though. <br> <br>The 'just say no' mentality is a bit dated - an ecstasy tablet won't kill you (and wouldn't have killed that girl if she'd been properly educated on water intoxication), and I swear the media hype about mephedrone turned out to be a hoax (i.e. mephedrone wasn't the cause of death). <br> <br>If the government was really concerned about safety they'd legalise drugs and make them state run. Similar to abortions, for example: before you had women being severely injured and killed by back-alley jobs, but it didn't put anyone off, whereas now they can go to a hospital and have it done safely (forget the cries of religious quacks).,"I sometimes realise that, if Britain still had the death penalty, no current political leader would have the guts to abolish it." <br> <br>Simon Jenkins,Legalising drugs would be a very bad idea. Mephedrone turned out to be
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Since the not so level-headed Mephedrone debate you’d have hoped that people could see how prohibition can only lead to problems and that legalisation of narcotics isn’t such a bad thing, but judging from the idiotic grumbles I keep hearing, it seems people still aren’t quite getting it.

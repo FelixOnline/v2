@@ -4,16 +4,14 @@ title: >
 subtitle: >
   True random numbers generated from laser light
 date: "2011-12-08 20:54:25 +0000"
-
-# Attributes from Felix Online V1
-id: "1924"
-old_path: /science/1924/lasers-may-hold-key-to-cryptography
+image: "http://felixonline.co.uk/img/upload/201112082053-pk1811-green-laser-pointer-diode-dpss-beam-show-(10)-1.jpg"
+image_caption: "The Diffie-Hellman Key Exchange system relies on random numbers"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1924/lasers-may-hold-key-to-cryptography
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ak6309
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082053-pk1811-green-laser-pointer-diode-dpss-beam-show-(10)-1.jpg"
-image_caption: ""
 ---
 
 “The generation of random numbers is too important to be left to chance.” This was the title of a 1970 article by recognised expert in pseudo-random number generation Robert R Coveyou. There are many controversies surrounding the various algorithms used to generate numbers with the illusion of randomness, but one Ottawa physicist appears to have developed a way to generate them truly randomly.

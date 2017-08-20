@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Though it’s not weak to ask for help, people often perceive this to be the case
 date: "2011-02-17 20:05:07 +0000"
-
-# Attributes from Felix Online V1
-id: "832"
-old_path: /comment/832/dont-be-afraid-to-ask-for-help
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/832/dont-be-afraid-to-ask-for-help
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - sh907
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Everybody has a coping mechanism; a way to ensure their heads don't explode from stress, annoyance or the general tedium of life. My own takes the form of cooking; every revision period you can guarantee a minimum of 5 three-course meals and a couple of home recipe cakes.

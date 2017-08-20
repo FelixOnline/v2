@@ -4,18 +4,15 @@ title: >
 subtitle: >
   So, is it worth it? Should you keep in touch with that girl you’re going to meet this summer?
 date: "2011-02-13 13:10:21 +0000"
-
-# Attributes from Felix Online V1
-id: "804"
-old_path: /comment/804/long-distance-relationships
+image: "http://felixonline.co.uk/img/upload/201101271938-ks607-indylecl.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/804/long-distance-relationships
-imported: true
 comments:
  - value: >
      Being somebody who dragged one out for about 3 years, I can quite definitively say that it's a fucking stupid idea, and anyone who finds out about it will rightly think you're an idiot.,Being somebody who dragged one out for about 3 years, I can quite definitively say that it's a fucking stupid idea, and anyone who finds out about it will rightly think you're an idiot.,<a href="http://blackmagicspells.co.cc">Black Magic Spells</a>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ial08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101271938-ks607-indylecl.jpg"
-image_caption: ""
 ---
 
 I’m banging out my comment piece quite quickly this week, as I haven’t had time to think about it much. I’ve been quite busy. Appropriately enough for the Valentine’s day issue, the thing that’s been taking up all of my time is my girlfriend. She’s visiting me for a week, for the second time in four months. Alas, I’m afraid I’m in one of those dreadful, love-you-but-hate-it long distance relationships.

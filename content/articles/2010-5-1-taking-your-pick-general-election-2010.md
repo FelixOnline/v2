@@ -4,16 +4,13 @@ title: >
 subtitle: >
   56% of Imperial students are voting Lib Dem at the General Election, but who should you be voting for?
 date: "2010-05-01 19:12:48 +0100"
-
-# Attributes from Felix Online V1
-id: "135"
-old_path: /news/135/taking-your-pick-general-election-2010
+image: "http://felixonline.co.uk/img/upload/201005012007-felix-shotsfor.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/135/taking-your-pick-general-election-2010
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201005012007-felix-shotsfor.jpg"
-image_caption: ""
 ---
 
 If it hadn't quite clicked already, this General Election is important; not just for the country as a whole, but for you too. As Imperial students, under- or postgraduate, you are the next generation of scientists, engineers, doctors and businessmen of the UK (if not the world). Graduating from a 'world-class' university certainly sets your bar high for career aspirations, and the fields of academia or business you'll be leading will either suffer or prosper under the new Government to be formed on May 7th. Hence, this General Election may have a significant bearing on all Imperial students graduating in the coming years.

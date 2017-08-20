@@ -4,16 +4,13 @@ title: >
 subtitle: >
   AHAAAAAAAAA. It's another Alan Partridge reference
 date: "2012-10-26 02:48:48 +0100"
-
-# Attributes from Felix Online V1
-id: "2757"
-old_path: /food/2757/steakday-bloody-steakday
+image: "http://felixonline.co.uk/img/upload/201210260348-tna08-grilled-steak.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2757/steakday-bloody-steakday
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - cac111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210260348-tna08-grilled-steak.jpg"
-image_caption: ""
 ---
 
 Here during the Halloween season, we’re more than happy to cater to all levels of “vampirism” – and by that, we mean we’re going to scrutinize how to cook the perfect beef steak.

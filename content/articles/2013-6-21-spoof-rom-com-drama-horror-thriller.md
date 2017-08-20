@@ -4,16 +4,14 @@ title: >
 subtitle: >
   John Park reviews a host of new films
 date: "2013-06-21 00:25:00 +0100"
-
-# Attributes from Felix Online V1
-id: "3732"
-old_path: /film/3732/spoof-rom-com-drama-horror-thriller
+image: "http://felixonline.co.uk/img/upload/201306210123-tna08-a-haunted-house-image01.jpg"
+image_caption: "Nope, that wasn’t a fart"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3732/spoof-rom-com-drama-horror-thriller
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306210123-tna08-a-haunted-house-image01.jpg"
-image_caption: ""
 ---
 
 __A Haunted House__

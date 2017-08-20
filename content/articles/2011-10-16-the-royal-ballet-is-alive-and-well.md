@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A ballet from the wings and a strong triple bill made for two very special evenings at Covent Garden. Dance in Britain is going strong
 date: "2011-10-16 14:27:32 +0100"
-
-# Attributes from Felix Online V1
-id: "1546"
-old_path: /arts/1546/the-royal-ballet-is-alive-and-well
+image: "http://felixonline.co.uk/img/upload/201110161526-felix-armand_2024074b.jpg"
+image_caption: "Rojo and Polunin: a lesson in passion"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1546/the-royal-ballet-is-alive-and-well
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - er310
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110161526-felix-armand_2024074b.jpg"
-image_caption: ""
 ---
 
 Watching a ballet from the wings is an experience akin to glancing through an open window into the life of a stranger. A voyeuristic experience perhaps. Dancers on a stage appear as magical and ethereal creatures, even in the most human of roles. They are perfectly poised, every movement apparently effortless. However, in ballet there is little that can be done without effort.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Chris Carr talks to James Bezer on his role in the Rosetta expedition and just how hard it is to do science in space
 date: "2014-11-21 13:34:21 +0000"
-
-# Attributes from Felix Online V1
-id: "4932"
-old_path: /science/4932/everyone-thought-it-was-a-bit-of-a-crazy-idea
+image: "http://felixonline.co.uk/img/upload/201411211334-ps3110-rosetta_s_philae_lander_on_comet_nucleus.jpg"
+image_caption: "Philae just chillin'"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4932/everyone-thought-it-was-a-bit-of-a-crazy-idea
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411211334-ps3110-rosetta_s_philae_lander_on_comet_nucleus.jpg"
-image_caption: ""
 ---
 
 __How did you get involved with Rosetta?__

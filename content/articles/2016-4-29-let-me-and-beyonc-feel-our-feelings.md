@@ -4,18 +4,16 @@ title: >
 subtitle: >
   There is as much dignity in being honest as in staying silent
 date: "2016-04-29 10:11:44 +0100"
-
-# Attributes from Felix Online V1
-id: "6094"
-old_path: /comment/6094/let-me-and-beyonc-feel-our-feelings
+image: "http://felixonline.co.uk/img/upload/201604291111-felix-beyonce-lemonade.jpg"
+image_caption: "What’s worse, lookin’ jealous or crazy?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6094/let-me-and-beyonc-feel-our-feelings
-imported: true
 comments:
  - value: >
      Your article made me think of this, from Chris Kraus - "Because I'm moved in writing to be irrepressible. Writing to you seems like some holy cause, cause there's not enough female irrepressibility written down. I've fused my silence and repression with the entire female gender's silence and repression. I think the sheer fact of women talking, being, paradoxical, inexplicable, flip, self-destructive but above all else public is the most revolutionary thing in the world.",7qIpr9 http://www.y7YwKx7Pm6OnyJvolbcwrWdoEnRF29pb.com,http://prednisone-order-20mg.com/ - Prednisone Viagra Bestellen Online http://cialis5mg-20mg.com/,http://prednisone-order-20mg.com/ - Prednisone Without A Prescription Viagra Generic 100mg http://cialis5mg-20mg.com/,http://prednisone-order-20mg.com/ - Prednisone 20mg Generic Viagra http://cialis5mg-20mg.com/,http://prednisone-order-20mg.com/ - Prednisone 20 Mg Viagra Pills http://cialis5mg-20mg.com/,You've gotten the most impressive websites <br>fifa 17 coins http://plumbingandheatingforum.c
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201604291111-felix-beyonce-lemonade.jpg"
-image_caption: ""
 ---
 
 A couple of months ago, I wrote an open letter in Felix. It was directed at my very recent ex-boyfriend, and in it I attempted to verbalise the pain I felt and some of the things I realised in the wake of our breakup. It wasn’t something that I wrote originally with the intention of publishing it in FELIX, but for me, the act of editing it for publication and seeing it printed was incredibly cathartic.

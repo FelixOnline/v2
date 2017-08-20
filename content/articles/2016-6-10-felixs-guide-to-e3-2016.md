@@ -4,16 +4,14 @@ title: >
 subtitle: >
   As console sales slow, the big three will be betting on E3 to give them a boost
 date: "2016-06-10 08:36:08 +0100"
-
-# Attributes from Felix Online V1
-id: "6266"
-old_path: /games/6266/felixs-guide-to-e3-2016
+image: "http://felixonline.co.uk/img/upload/201606101035-felix-watchdogs.jpg"
+image_caption: "It’s not just the rents that are high."
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/6266/felixs-guide-to-e3-2016
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - cet13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606101035-felix-watchdogs.jpg"
-image_caption: ""
 ---
 
 Despite a number of premature announcements earlier this week, E3 looks to be as exciting as ever. For gamers there’s no time of the year that is more anticipated and for gaming journalists (which I don’t qualify as yet) there is none hated more. While a few early leaks and reveals have surprised some, this offload ahead of the expo’s official start next week could be a sign that the major publishers have lots to show this year.

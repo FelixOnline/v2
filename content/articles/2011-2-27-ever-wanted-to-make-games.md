@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Michael Cook is doing just that this week, and he’ll tell you how you can too
 date: "2011-02-27 12:58:25 +0000"
-
-# Attributes from Felix Online V1
-id: "903"
-old_path: /games/903/ever-wanted-to-make-games
+image: "http://felixonline.co.uk/img/upload/201102271249-ks607-makeyour.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/903/ever-wanted-to-make-games
-imported: true
 comments:
  - value: >
      I guess that to get the <a href="http://bestfinance-blog.com">loan</a> from banks you ought to have a firm motivation. However, once I've got a credit loan, because I wanted to buy a bike.
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -28,12 +25,6 @@ authors:
  - mtc06
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102271249-ks607-makeyour.jpg"
-image_caption: ""
 ---
 
 _Read the article and ready to play IC.HACK? Get all the necessary materials [here](http://sn.im/ichack)! See the next day's tutorial at [Day 2 - AI](http://felixonline.co.uk/?article=934)._

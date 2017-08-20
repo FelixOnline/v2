@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Several leading institutions withdraw
 date: "2013-03-01 00:42:07 +0000"
-
-# Attributes from Felix Online V1
-id: "3407"
-old_path: /news/3407/imperial-pulls-out-of-new-university-ranking-system
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3407/imperial-pulls-out-of-new-university-ranking-system
-imported: true
 comments:
  - value: >
      Oh, they are afraid of what ???? The reality ???
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imperial College has announced that it is one of a number of universities pulling out of the new EU-led university ranking system, “[U-Multirank](http://www.universityworldnews.com/article.php?story=20130214134418891)”. The ranking system would not result in a league table, however many international universities and institutions have expressed opposition to the scheme.

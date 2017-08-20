@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial has opened a new centre for ICT innovation at Imperial West.
 date: "2014-01-24 09:41:06 +0000"
-
-# Attributes from Felix Online V1
-id: "4272"
-old_path: /news/4272/imperial-opens-new-ict-centre-at-imperial-west
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4272/imperial-opens-new-ict-centre-at-imperial-west
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - nm708
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imperial has opened a new centre for ICT innovation at Imperial West.

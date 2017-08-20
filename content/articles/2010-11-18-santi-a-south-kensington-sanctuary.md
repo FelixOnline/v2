@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Saskia Verhagen reveals the tucked-away West London spa which caters for worn-out professionals and students alike – luxury and affordable? Show me the way...
 date: "2010-11-18 20:03:20 +0000"
-
-# Attributes from Felix Online V1
-id: "381"
-old_path: /fashion/381/santi-a-south-kensington-sanctuary
+image: "http://felixonline.co.uk/img/upload/201011181955-nm1010-santisou.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/381/santi-a-south-kensington-sanctuary
-imported: true
 comments:
  - value: >
      The Imperial Health Centre does offer some sort of massage and aromatherapy too? This smells like an advertorial agreement which is rather unusual for a student publication. WHAT IS THIS?,The Health Centre offers no such thing; all they do is recommend external practitioners. I don't think it's unreasonable for Felix to write an article about a business offering students a 50% discount.,NHaksj <a href="http://lffzedywmssb.com/">lffzedywmssb</a>
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -28,12 +25,6 @@ authors:
  - stv07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011181955-nm1010-santisou.jpg"
-image_caption: ""
 ---
 
 There is a place, inconspicuous and elusive to the untrained eye, where the weathered creatures of West London emerge calm, bright and restored. A spa, in South Kensington, which offers the most advanced techniques to enhance and perfect the skin. Only what they don’t tell you, is that it all goes a little deeper than that.

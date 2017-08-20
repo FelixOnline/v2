@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rajat Jain & Joseph Letts consider what 2011 holds for world leaders. And Nick Clegg...
 date: "2011-01-13 20:02:31 +0000"
-
-# Attributes from Felix Online V1
-id: "573"
-old_path: /politics/573/new-years-resolutions
+image: "http://felixonline.co.uk/img/upload/201101131958-ks607-obamaoba.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/573/new-years-resolutions
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -25,12 +22,6 @@ authors:
  - jal08
  - rj408
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101131958-ks607-obamaoba.jpg"
-image_caption: ""
 ---
 
 __Silvio Berlusconi__

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Freshers suffer after Campus Services changes halls’ cleaning contract
 date: "2013-11-15 02:15:09 +0000"
-
-# Attributes from Felix Online V1
-id: "4058"
-old_path: /news/4058/cleaning-in-halls-confusion
+image: "http://felixonline.co.uk/img/upload/201311150242-felix-hallsbin.png"
+image_caption: "Someone needs to visit the kitchen bins..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4058/cleaning-in-halls-confusion
-imported: true
 comments:
  - value: >
      Looking at the terms set out in the accommodation contract there is no clause stating College can change the terms of the agreement without prior notice. I hope this gets sorted out soon as students are being shortchanged.,What did they expect to happen if they sack 46 cleaners "to save money."? This despite the college running one of the biggest surpluses in the HE sector. Brilliant.,Hi Joe, <br> <br>Please reject this comment, I am just testing the system.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311150242-felix-hallsbin.png"
-image_caption: ""
 ---
 
 Since the start of the year, residents in College halls have been coping with a reduced cleaning service, with bedrooms being cleaned only once every four weeks rather than once a fortnight. This is the result of a cleaning review carried our by College’s Campus Services department, the department that in is charge of Accommodation, Catering, Conferences and Events, Sport and the Student Hub. Over the Summer College re-tendered their cleaning contract, resulting in changes to the provision of cleaning services around College.

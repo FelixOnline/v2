@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tessa Davey takes us through the multitude of joys that is TayTay
 date: "2015-03-25 11:49:45 +0000"
-
-# Attributes from Felix Online V1
-id: "5421"
-old_path: /music/5421/my-favourite-musician-taylor-swift
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5421/my-favourite-musician-taylor-swift
-imported: true
 comments:
  - value: >
      |}Magic had Kareem, Worthy, Cooper, and Scott as he won his championships. Rondo had Allen, Garnett, and Pierce couple of years ago. What dominant point guard, besides Magic, has ever carried his team to a championship? And would the Lakers have won those battles in the Celtics and 76'ers without other star players, wing players and big men? <br>fifa 16 hack http://creditsfut.com/
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -27,12 +24,6 @@ authors:
  - tad08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Anyone who knows me will know that I have a particular penchant for Taylor Swift.

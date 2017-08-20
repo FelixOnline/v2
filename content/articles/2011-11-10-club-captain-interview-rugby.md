@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Indy Leclercq grills Charlie Esberger following the start of the season
 date: "2011-11-10 22:28:29 +0000"
-
-# Attributes from Felix Online V1
-id: "1748"
-old_path: /sport/1748/club-captain-interview-rugby
+image: "http://felixonline.co.uk/img/upload/201111102220-felix-rugby.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1748/club-captain-interview-rugby
-imported: true
 comments:
  - value: >
      Well we are prepared to serve over 100 spettaghi dinners tomorrow night! Our young people did a FANTASTIC job selling meal tickets! Congratulations to Stephanie Mignery, who was the top-seller, with 22 dinners sold! Her prize was a Cold Stone Creamery gift card, which was donated to us by the store manager there. Enjoy your ice cream, Stephanie!Now, we will all go to prayer that the GIGANTIC winter storm will hold off until about 9pm tomorrow night! We want to have our spettaghi dinner night!! Most of all, we just enjoy being together!Young people you are awesome! Matt and I appreciate each one of you. Every single one of you is special, you bring something unique and important to our youth group. We need you! It's so wonderful to see God blessing each one of you individually, and blessing us together as a unit!Keep up the good work, and ..Youth Convention here we come!!,Having been privvy to a press <a href="http://fqybrbmwaz.com">coefnrence</a> at the club today, it is refreshing to see the senior p
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - ial08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102220-felix-rugby.jpg"
-image_caption: ""
 ---
 
 After the mad rush that was Issue 1500, the Club Captains are back for a third interview! This week we feature the Captain of the Imperial College Rugby Union Football Club (to give him his full title), Charlie Esberger.

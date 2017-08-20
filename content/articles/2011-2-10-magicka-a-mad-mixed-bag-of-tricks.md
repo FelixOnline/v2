@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Laurence Pope is too much of a n00b to play Magicka
 date: "2011-02-10 20:36:59 +0000"
-
-# Attributes from Felix Online V1
-id: "778"
-old_path: /games/778/magicka-a-mad-mixed-bag-of-tricks-
+image: "http://felixonline.co.uk/img/upload/201102102035-ks607-magickam.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/778/magicka-a-mad-mixed-bag-of-tricks-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -23,12 +20,6 @@ authors:
  - lap08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102102035-ks607-magickam.jpg"
-image_caption: ""
 ---
 
 Ahh, cosplay. There’s nothing I like more than putting on my robe and wizard hat, striding round the Queen’s Lawn and waving about my enormous magical staff, casting spells of such power that mere mortals can only gasp in awe. Then, some killjoy policeman arrests me for public indecency, or something like that.

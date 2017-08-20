@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Shot or just attacked by other birds? The murder mystery of the year.
 date: "2013-01-10 22:07:26 +0000"
-
-# Attributes from Felix Online V1
-id: "3078"
-old_path: /news/3078/kestral-chaos
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3078/kestral-chaos
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 An investigation was launched after astaff member thought a kestral may have been either shot (yes, shot, as in by a gun) or had died after colliding with Sherfield.

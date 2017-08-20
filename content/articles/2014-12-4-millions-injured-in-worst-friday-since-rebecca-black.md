@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Is a six year queue worth it for 25% off? Jamie Dutton investigates
 date: "2014-12-04 19:29:15 +0000"
-
-# Attributes from Felix Online V1
-id: "4998"
-old_path: /tech/4998/millions-injured-in-worst-friday-since-rebecca-black
+image: "http://felixonline.co.uk/img/upload/201412041926-cj914-blackfriday-copy.jpg"
+image_caption: "Artist's impression of scene at Currys Worthington"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4998/millions-injured-in-worst-friday-since-rebecca-black
-imported: true
 comments:
  - value: >
      fitflop sandals singapore outlet <br>buy fitflop online singapore http://fitflopsalesingapore2.blogspot.com/,I'm gone to convey my little brother, that he should also visit this web site on regular basis to get updated from most up-to-date news. <br>collezione ray ban 2014 http://www.targettisportingclub.it/?it-collezione-ray-ban-2014-22662.html,Amazing issues here. I'm very glad to look your article. Thanks a lot and I am taking a look forward to contact you. Will you please drop me a mail? <br>pjs jas heren http://www.n11.nl/?nl-pjs-jas-heren-4342.html,There's definately a great deal to find out about this issue. I like all the points you've made. <br>moncler baby down http://test.negrifirman.com/?it-moncler-baby-down-9174.html,where to buy fitflops <br>fitflop sale australia http://fitflopsau.blogspot.com/,birkenstock australia sale <br>cheap birkenstock http://birkenstocksaleaustralia.blogspot.com/,There are a variety of reasons, though, to feel optimistic as the Celtics groupie. He has to be tend to be in "stay at home" d
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +26,6 @@ authors:
  - jdd11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412041926-cj914-blackfriday-copy.jpg"
-image_caption: ""
 ---
 
 Horror at Currys PC World Workington branch as millions of people flocked to the store to pick up excellent deals on the best and latest technology, ranging from 2.5mm microphone cables to ruby-encrusted vibrators.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   After last weeks Osama Awara’s “10 things the Internet has slaughtered”, I decided to write something in a similar vein, except of course exchanging one vital invention (internet) of our lives for something equally important (smartphones).
 date: "2013-11-06 17:20:55 +0000"
-
-# Attributes from Felix Online V1
-id: "4017"
-old_path: /tech/4017/10-things-smartphones-slaughtered
+image: "http://felixonline.co.uk/img/upload/201311061720-me1711-tech_preciousjpg.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4017/10-things-smartphones-slaughtered
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311061720-me1711-tech_preciousjpg.jpg"
-image_caption: ""
 ---
 
 After last weeks Osama Awara’s “10 things the Internet has slaughtered”, I decided to write something in a similar vein, except of course exchanging one vital invention (internet) of our lives for something equally important (smartphones). So here goes (in no particular order).

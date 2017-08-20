@@ -4,16 +4,14 @@ title: >
 subtitle: >
   You will be terminated
 date: "2013-05-22 14:29:09 +0100"
-
-# Attributes from Felix Online V1
-id: "3597"
-old_path: /science/3597/cyborg-yeast-is-out-to-get-you
+image: "http://felixonline.co.uk/img/upload/201305221529-tna08-yeast-spoons.jpg"
+image_caption: "Not as innocent as it looks"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3597/cyborg-yeast-is-out-to-get-you
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - jh3609
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305221529-tna08-yeast-spoons.jpg"
-image_caption: ""
 ---
 
 Scientists have succeeded in creating an artificial feedback loop between a computer and yeast. Algorithmic programs on the computer controlled flashes of light to start and stop gene expression, thus regulating how much protein was produced. This innovative technique could possibly be used in industry to control production of biofuel by microbes.

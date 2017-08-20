@@ -4,16 +4,13 @@ title: >
 subtitle: >
   James Simpson tries to forget the horrors of lolshock.com
 date: "2011-06-28 11:36:28 +0100"
-
-# Attributes from Felix Online V1
-id: "1444"
-old_path: /tv/1444/what-we-watched
+image: "http://felixonline.co.uk/img/upload/201106281236-felix-flashheart.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1444/what-we-watched
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - tvfelix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106281236-felix-flashheart.jpg"
-image_caption: ""
 ---
 
 Given that we have months of freedom in which one could watch anything one wanted to on TV, I thought that I might bring back a brilliant and unique series from the depths of Dave and Dave-ja-vu.

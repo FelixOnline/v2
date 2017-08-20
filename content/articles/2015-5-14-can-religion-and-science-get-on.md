@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Nick Farmer checks in at Debating Society’s public debate
 date: "2015-05-14 22:00:23 +0100"
-
-# Attributes from Felix Online V1
-id: "5518"
-old_path: /news/5518/can-religion-and-science-get-on
+image: "http://felixonline.co.uk/img/upload/201505142313-cj914-winston-copy.jpg"
+image_caption: "Lord Winston took the opinion that religion is not harmful to the progress of science at the debate."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5518/can-religion-and-science-get-on
-imported: true
 comments:
  - value: >
      I wanted to thank you for this excellent read!! I certainly enjoyed every bit of it. I've got you book-marked to look at new things you post… <br>ugg australia 6pm quiksilver http://test.negrifirman.com/?it-ugg-australia-6pm-quiksilver-3222.html,Saved as a favorite, I love your blog! <br>canada goose head office http://crownmodels.com/?usa-canada-goose-head-office-18818.html,Yet, John Wall getting spoken of as you obtain player which could turn around a operation. People merely don't recognize the amount of cash you can simply make making use of it. <br>crÃ©dits fifa gratuit http://creditsfut.com/,Maintain the good work and generating the crowd!| <br>nba 2k16 mt for sale http://www.sheffrec-cc.org.uk/modules.php?name=Forums&amp;file=viewtopic&amp;p=50804#50804
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - nf311
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505142313-cj914-winston-copy.jpg"
-image_caption: ""
 ---
 
 Imperial College Union Debating Society’s first public debate of the year saw students debate Lord Professor Robert Winston and Bioengineering Senior Lecturer Dr Jennifer Siggers on the motion “This house believes that religion is harmful to the progress of science” in front of a packed lecture theatre.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Thomas Lim reports as 450 students are left "confused and frustrated"
 date: "2014-11-28 00:43:18 +0000"
-
-# Attributes from Felix Online V1
-id: "4963"
-old_path: /news/4963/blackboard-crashes-during-test
+image: "http://felixonline.co.uk/img/upload/201411280043-kmw13-img1383.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4963/blackboard-crashes-during-test
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411280043-kmw13-img1383.jpg"
-image_caption: ""
 ---
 
 450 students were left confused and frustrated after Blackboard crashed during a Business Economics online test last Thursday. The test was scheduled to start at 18:00, and within ten minutes, students started reporting issues with their tests, such as images and formulae not loading as expected. Shortly afterwards, Blackboard went down.

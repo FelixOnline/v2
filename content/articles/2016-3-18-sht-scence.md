@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Scientists shocked to discover booze and pot make students horny
 date: "2016-03-18 11:49:50 +0000"
-
-# Attributes from Felix Online V1
-id: "6061"
-old_path: /science/6061/sht-scence
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6061/sht-scence
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - mguenot
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 At Sh!t Sc!ence, we try to show that all science, preposterous as it may sound, is useful to humanity and increases the sum of human knowledge. That is, even when the research seems to investigate something that is so bleeding self-evident, it makes you want to cry.

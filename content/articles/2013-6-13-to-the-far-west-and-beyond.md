@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Natalia Petrou explores the USA
 date: "2013-06-13 22:28:43 +0100"
-
-# Attributes from Felix Online V1
-id: "3675"
-old_path: /travel/3675/to-the-far-west-and-beyond
+image: "http://felixonline.co.uk/img/upload/201306132325-tna08-america3loukas.png"
+image_caption: "Kodachrome"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/3675/to-the-far-west-and-beyond
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306132325-tna08-america3loukas.png"
-image_caption: ""
 ---
 
 When listening to those words in the title immediately we all think of deserted cities with one main road, as these places were presented in the Western movies. This might be true for some places, though this article will present some nature’s most famous creations, namely the Canyons and the national parks within which they are located.

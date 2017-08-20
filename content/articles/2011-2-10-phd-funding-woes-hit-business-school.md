@@ -4,18 +4,15 @@ title: >
 subtitle: >
   As more issues with PhD funding arise, Union asks students to check their accounts
 date: "2011-02-10 19:50:16 +0000"
-
-# Attributes from Felix Online V1
-id: "758"
-old_path: /news/758/phd-funding-woes-hit-business-school-
+image: "http://felixonline.co.uk/img/upload/201102101946-ks607-business.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/758/phd-funding-woes-hit-business-school-
-imported: true
 comments:
  - value: >
      Hola <br>Hay un sitio al tema, que le interesa. <br>http://www.elcoru.com/ <br>Ivan
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102101946-ks607-business.jpg"
-image_caption: ""
 ---
 
 A group of five PhD students have expressed complaints after they encountered issues with funding from the [Imperial College Business School](http://www3.imperial.ac.uk/business-school). The students, ranging from second to third years on the Graduate Teaching Assistant (GTA) scholarship scheme complained that they were expected to perform teaching as part of their contract while first years have no such condition in the terms, therefore allowing them to earn more money for doing so.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Keir Little on why they may be successful, but never mention that they were also lucky
 date: "2011-11-10 20:27:11 +0000"
-
-# Attributes from Felix Online V1
-id: "1712"
-old_path: /comment/1712/why-i-hate-entrepreneurs
+image: "http://felixonline.co.uk/img/upload/201111102026-pk1811-alan-sugar-comment.jpg"
+image_caption: "“I’m the spoonful of sugar that makes your medicine go down, baby” - Lord Sugar's best chatup line"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1712/why-i-hate-entrepreneurs
-imported: true
 comments:
  - value: >
      Hater!!!!,Great article. It's the time-worn cringeworthy clichés that catch me everytime I have the misfortune to speak to someone going it alone. In the age of entrepreneurs telling us they're different (always from the last guy), they never fail at spewing forth their unashamed verbose, parrot-fashioned market folklore, supposedly designed to relegate me to an inferior peasant.,I can´t confirm these experiences. However I can imagine there are some people who have to compensate their feelings of inferiority in a world full of employed people. But there is no need for any side to fight the other. Good entrepreneurs know that their success depends on the best employees they can find. The rule is: Entrepreneurs search und develope a business model, employed specialists execute!,Your words are my words! Ihave made this argument countless times. Thanks for the validation.,Felix, I'm in the entrepreneur side. I've never FULLY gotten along with the employed, it seems we are very different. I've grown to acc
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - kw911
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102026-pk1811-alan-sugar-comment.jpg"
-image_caption: ""
 ---
 
 Don’t get me wrong – I take my hat off to anyone who can fashion a new idea, start a business, and successfully market it. But, despite this admiration (they’d be quick to call it envy), entrepreneurs are the most insufferable people that have ever talked at (rather than to) me.

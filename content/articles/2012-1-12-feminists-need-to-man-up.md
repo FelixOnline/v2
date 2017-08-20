@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Marie-Laure Hicks on the mis-portrayal of today's "feminists"
 date: "2012-01-12 21:44:16 +0000"
-
-# Attributes from Felix Online V1
-id: "1974"
-old_path: /comment/1974/feminists-need-to-man-up
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1974/feminists-need-to-man-up
-imported: true
 comments:
  - value: >
      Who chose the headline and thought it was even slightly acceptable. please,Hey if you actually want to understand the viewpoint of a feminist and why the issues go deeper than "gaining a better place within the patriarchy" I know some people who'd be only too happy to explain why they're feminists and what it means,Also why accepting nonsense patriarchal stereotypes is really damaging. There's some really nasty stuff here that's just used to dehumanise women and make them seem unable to think "rationally", allowing their views to be ignored,Clair, to answer your question, yes I am a feminist. I believe in gender equality. I believe that physical gender separation needs to evolve to simply “human being”. I believe that if a woman wants to wear short skirts, she should not be called a slut. In the same way, if a woman wants to wear a hijab as part of her beliefs, this right should be respected. Feminism however has many branches and I do not agree with all of them (hence the “them” that you pointed out)
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I am writing from the kitchen, the place where my family believe I belong, having given me an apron, tea towels, cookbooks and sponges for Christmas. Feminism is committing suicide. Last week, the BBC’s adaptation of Arthur Conan Doyle’s _Sherlock_ was criticised for being sexist. In my opinion, this was another example of where feminism is going wrong by creating bad press. The allegations were purely based on a far-fetched interpretation of the last fifteen minutes of the show.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Our writers and editors (as well as FilmSoc) choose their favourite films of the last twelve months, from big hitters to those that may have slipped under the radar...
 date: "2016-12-16 14:45:17 +0000"
-
-# Attributes from Felix Online V1
-id: "6605"
-old_path: /features/6605/your-favourite-films-of-2016
+image: "http://felixonline.co.uk/img/upload/201612161442-felix-TheLittlePrince.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6605/your-favourite-films-of-2016
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +21,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612161442-felix-TheLittlePrince.jpg"
-image_caption: ""
 ---
 
 ## Alex Heib, Max Lewis-Clarke and Meryl Anil

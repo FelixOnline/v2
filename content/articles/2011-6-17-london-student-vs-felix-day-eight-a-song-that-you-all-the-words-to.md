@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Like, tweet, or comment on this page to help us beat the London Student newspaper on day eight of our 30-day Song Challenge duel
 date: "2011-06-17 12:21:38 +0100"
-
-# Attributes from Felix Online V1
-id: "1405"
-old_path: /music/1405/london-student-vs-felix-day-eight--a-song-that-you-all-the-words-to
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1405/london-student-vs-felix-day-eight--a-song-that-you-all-the-words-to
-imported: true
 comments:
  - value: >
      Mortgage　( 2012.02.23 17:55 ) : You lost me, friend. I mean, I suppsoe I get what youre expressing. I understand what you're saying, but you just seem to have overlooked that you can find some other people inside the world who view this issue for what it really is and may perhaps not agree with you. You may be turning away a lot of men and women who might have been fans of your blog.
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -27,12 +24,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 My favourite line in this song is: "We got food everywhere as if the party was catered." If there is so much food (high-quality no doubt) at the party, such that the impression is given that someone has hired a catering company, but in fact it's not catered, then where the hell is all the food from? Did R Kelly just head down to [Walmart](http://www.youtube.com/watch?v=O1tufujnbzU) or something?

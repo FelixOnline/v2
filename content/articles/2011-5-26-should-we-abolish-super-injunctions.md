@@ -4,16 +4,13 @@ title: >
 subtitle: >
   With the identities of those with superinjunctions all over Twitter, mentioned in Parliament, and published in the Scottish papers, is it time to rid ourselves of the super injunction?
 date: "2011-05-26 23:43:04 +0100"
-
-# Attributes from Felix Online V1
-id: "1266"
-old_path: /comment/1266/should-we-abolish-super-injunctions
+image: "http://felixonline.co.uk/img/upload/201105270043-felix-herald.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1266/should-we-abolish-super-injunctions
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - mrangry
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105270043-felix-herald.jpg"
-image_caption: ""
 ---
 
 _Yes_ – __Gareth Rosser__

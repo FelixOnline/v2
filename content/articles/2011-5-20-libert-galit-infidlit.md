@@ -4,16 +4,13 @@ title: >
 subtitle: >
   IMF chief arrest leaves French politics in turmoil
 date: "2011-05-20 06:00:36 +0100"
-
-# Attributes from Felix Online V1
-id: "1236"
-old_path: /politics/1236/libert-galit-infidlit
+image: "http://felixonline.co.uk/img/upload/201105200659-felix-dsk-handcuffed.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1236/libert-galit-infidlit
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -25,12 +22,6 @@ authors:
  - nnk09
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105200659-felix-dsk-handcuffed.jpg"
-image_caption: ""
 ---
 
 France woke up on Sunday morning to widespread shock and disbelief: Dominique Strauss-Kahn, had been arrested in New York City during the night, on allegations that he had raped a chamber maid in Manhattan.

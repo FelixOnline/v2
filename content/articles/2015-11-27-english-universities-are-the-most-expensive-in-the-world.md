@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Study finds that on average, degrees in the England cost more than in the US
 date: "2015-11-27 11:47:35 +0000"
-
-# Attributes from Felix Online V1
-id: "5770"
-old_path: /news/5770/english-universities-are-the-most-expensive-in-the-world
+image: "http://felixonline.co.uk/img/upload/201511271147-ygr12-online.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5770/english-universities-are-the-most-expensive-in-the-world
-imported: true
 comments:
  - value: >
      So we've excluded private universities (massive in the US) and the stark differences the tuition fee loan system (which also casts doubt on the 14% vs the 20% student funded) ... So what we're really saying here is that the study is well... worthless!,College Students(and everyone else too) should get a Hand Held Bidet Sprayer and then they won't need to buy Toilet Paper anymore. With modern plumbing washing with water is the way to go and the best way to do that is with the Bidet Sprayer. 10X cleaner, healthier and saves money. See bathroomsprayers.com.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511271147-ygr12-online.jpg"
-image_caption: ""
 ---
 
 New research has uncovered that students working for degrees at English universities are paying more on average than those in China, Japan or the USA.

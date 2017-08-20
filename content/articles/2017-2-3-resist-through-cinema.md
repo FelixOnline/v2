@@ -4,16 +4,13 @@ title: >
 subtitle: >
   felix’s film section picks movies for the Trump-era
 date: "2017-02-03 16:55:46 +0000"
-
-# Attributes from Felix Online V1
-id: "6723"
-old_path: /film/6723/resist-through-cinema-
+image: "http://felixonline.co.uk/img/upload/201702031653-felix-19832365.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6723/resist-through-cinema-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - ff712
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702031653-felix-19832365.jpg"
-image_caption: ""
 ---
 
 ## if... (1968)

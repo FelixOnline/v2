@@ -4,16 +4,14 @@ title: >
 subtitle: >
   An old classic re-released
 date: "2012-05-03 18:29:36 +0100"
-
-# Attributes from Felix Online V1
-id: "2413"
-old_path: /film/2413/my-chart-reign-will-go-on-and-on-and-on
+image: "http://felixonline.co.uk/img/upload/201205031929-ams111-02012_titanic_3d_001.jpg"
+image_caption: "There’s nooooooooooooooooooooooooooooooooooooooooooooooothing I fear (ex"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2413/my-chart-reign-will-go-on-and-on-and-on
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - lw408
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205031929-ams111-02012_titanic_3d_001.jpg"
-image_caption: ""
 ---
 
 [__Titanic 3D__](http://www.imdb.com/title/tt1869152/)

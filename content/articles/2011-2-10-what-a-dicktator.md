@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Mubarak clinging to power has become pathetic. It’s time he got a life. Even Ban Ki–Moon is getting pissed off...
 date: "2011-02-10 21:03:08 +0000"
-
-# Attributes from Felix Online V1
-id: "792"
-old_path: /comment/792/what-a-dicktator
+image: "http://felixonline.co.uk/img/upload/201102102101-ks607-mubarakb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/792/what-a-dicktator
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102102101-ks607-mubarakb.jpg"
-image_caption: ""
 ---
 
 President Mubarak is currently in quite a mess and just about clinging on to power. The government resigned, on his request, and a new one has formed and held talks with opposition parties about the constitution. Mubarak has even banned some members of the political elite from travelling abroad. I assume a similar ban is imposed on people living in Birmingham, otherwise that place would be a ghost town, but I digress. The point is, I think it’s a fairly non–controversial statement to say that Egypt’s president Mubarak is currently under fire. By which I mean metaphorically, don’t worry; you didn’t miss anything big on YouTube.

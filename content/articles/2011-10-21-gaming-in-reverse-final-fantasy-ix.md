@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Because old gold is the best gold
 date: "2011-10-21 10:26:55 +0100"
-
-# Attributes from Felix Online V1
-id: "1589"
-old_path: /games/1589/gaming-in-reverse---final-fantasy-ix
+image: "http://felixonline.co.uk/img/upload/201110211607-sjw209-2032247.jpg"
+image_caption: "NO TIFFFAAAAAA!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1589/gaming-in-reverse---final-fantasy-ix
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +22,6 @@ authors:
  - oh106
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110211607-sjw209-2032247.jpg"
-image_caption: ""
 ---
 
 _See last week's 'Gaming in Reverse' [here](http://felixonline.co.uk/games/1514/gaming-in-reverse---quake/)!_

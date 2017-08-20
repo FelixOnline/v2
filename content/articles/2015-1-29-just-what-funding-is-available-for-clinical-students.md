@@ -4,16 +4,14 @@ title: >
 subtitle: >
   What grants and loans are medical students entitled to?
 date: "2015-01-29 23:55:41 +0000"
-
-# Attributes from Felix Online V1
-id: "5157"
-old_path: /news/5157/just-what-funding-is-available-for-clinical-students
+image: "http://felixonline.co.uk/img/upload/201501292355-ps3110-icl_ntu_047.jpg"
+image_caption: "Hospitals trusts, such as Imperial College Healthcare, will soon have to chase up foreign nationals for payment"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5157/just-what-funding-is-available-for-clinical-students
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501292355-ps3110-icl_ntu_047.jpg"
-image_caption: ""
 ---
 
 NHS student bursaries are available to students on pre-registration health professional training courses, which include students in their fifth or sixth year of studying medicine. A fees-only bursary from the NHS covers tuition fees, and these are paid directly to the university, much like Student Finance pay for any other home or EU undergraduate’s tuition fees. Students do not have to pay this back. The NHS also has an “extra weeks” allowance, that provides £107 per week when academic years are longer than 30 weeks (excluding holidays).

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Kunal Wagle reports
 date: "2014-10-17 14:48:30 +0100"
-
-# Attributes from Felix Online V1
-id: "4730"
-old_path: /news/4730/nus-rejects-motion-to-condemn-islamic-state
+image: "http://felixonline.co.uk/img/upload/201410171548-kmw13-alan-henning-isis.jpg"
+image_caption: "A video purporting to show the beheading of Alan Henning was released 2 weeks ago"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4730/nus-rejects-motion-to-condemn-islamic-state
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - kmw13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201410171548-kmw13-alan-henning-isis.jpg"
-image_caption: ""
 ---
 
 The National Union of Students (NUS) has rejected a motion condemning Islamic State after a stirring speech by Black Students Officer Malia Bouattia, in which she asserted that passing the motion would be akin to “a justification for war and blatant Islamaphobia (sic)”. The motion said that the NUS would “support unity between Muslims, condemn the bloody terror of ISIS, and support a boycott on people who fund the militants”.

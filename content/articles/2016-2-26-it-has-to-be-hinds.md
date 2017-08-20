@@ -4,16 +4,14 @@ title: >
 subtitle: >
   They played with a youthful exuberance
 date: "2016-02-26 11:50:09 +0000"
-
-# Attributes from Felix Online V1
-id: "5971"
-old_path: /music/5971/it-has-to-be-hinds
+image: "http://felixonline.co.uk/img/upload/201602261149-felix-hinds2.jpg"
+image_caption: "FKA Deers"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5971/it-has-to-be-hinds
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - mjj15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261149-felix-hinds2.jpg"
-image_caption: ""
 ---
 
 Ana Perrote, Carlotta Cosials, Ade Martin and Amber Grimbergen. Together they are **Hinds**, a Spanish band on the cutting edge of the garage rock scene in Madrid with a debut album poised to break them out further still. Formed in the summer of 2011 by Ana and Carlotta (the vocalists and guitarists of the quartet), the two went under the moniker of ‘Deers’ until a legal dispute made them change their name, but not before they added bassist Ade and drummer Amber.

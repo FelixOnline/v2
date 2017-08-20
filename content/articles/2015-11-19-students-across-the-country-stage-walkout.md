@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Neighbouring RCA protested outside the Daily Mail
 date: "2015-11-19 22:23:37 +0000"
-
-# Attributes from Felix Online V1
-id: "5741"
-old_path: /news/5741/students-across-the-country-stage-walkout
+image: "http://felixonline.co.uk/img/upload/201511192223-ygr12-screen-shot-2015-11-19-at-19.37.28.png"
+image_caption: "RCA students outside the Daily Mail"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5741/students-across-the-country-stage-walkout
-imported: true
 comments:
  - value: >
      Keep up the incredible job !! Lovin' it! <br>FIFA 17 POINTS http://www.sgdirectory.sg/nfl-17-coins-touch-upon/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511192223-ygr12-screen-shot-2015-11-19-at-19.37.28.png"
-image_caption: ""
 ---
 
 On Tuesday, a number of UK university students took part in mass walkouts, talks and demonstrations as part of a “day of solidarity” with refugees. The students were acting in protest of the government’s mistreatment of refugees, along with migrants and international students.

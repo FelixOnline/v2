@@ -4,16 +4,13 @@ title: >
 subtitle: >
   To say that Northern Ireland has come a long way since its sectarian civil war is a cliché but it’s worth saying: we’ve come a long way. The soldiers no longer patrol the streets.
 date: "2014-06-06 02:40:46 +0100"
-
-# Attributes from Felix Online V1
-id: "4658"
-old_path: /comment/4658/racism-in-northern-ireland
+image: "http://felixonline.co.uk/img/upload/201406060341-jal08-.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4658/racism-in-northern-ireland
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - rtf08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406060341-jal08-.jpg"
-image_caption: ""
 ---
 
 To say that Northern Ireland has come a long way since its sectarian civil war is a cliché but it’s worth saying: we’ve come a long way. The soldiers no longer patrol the streets. The curfews no longer empty the streets at night. The bombs no longer tear through shopping centres and flesh. The Northern Ireland of my childhood has rebranded as the land of the _Titanic _and _Game of Thrones_, Liam Neeson and Snow Patrol. But a look at headlines coming out of the country today gives good reason to doubt things really did change for good.

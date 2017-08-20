@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The accomodation rent hikes are extortion, plain and simple
 date: "2015-11-13 14:31:30 +0000"
-
-# Attributes from Felix Online V1
-id: "5725"
-old_path: /comment/5725/imperials-halls-solution-is-a-travesty
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5725/imperials-halls-solution-is-a-travesty
-imported: true
 comments:
  - value: >
      I fundamentally disagree with pretty much everything in this article: <br> <br>I think the logic of hiking the prices in South Kensington to compensate for Woodward’s prices is justifiable; if they didn’t, it would mean poorer students wouldn’t be able to afford to live at ANY of the halls. Think about it, if the price difference of £230 / £130 for en-suits was reduced to £200 / £160, the genuinely poor students wouldn't be able to afford anywhere and would have to live at home [although the south ken prices would be more affordable to students who aren't loaded, but aren't poor either.] I suspect you ignored this logic because you only really want the prices to come down so that you (as a halls senior in Eastside, must be quite nice, huh?) will have more spending money, but as I've just explained this would push the poorest from living at halls at all; bit of a dick move. <br> <br>There simply is no magical solution to creating a more diverse environment, out of my own experience in halls, it seems as diverse
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 For the past five years, when it comes to handling accommodation issues, Imperial has been following the mantra that two wrongs make a right and fixing problems by creating new ones. Last year prices were hiked in the South Kensington halls by 10% to compensate for the low rents in Woodward, since Freshers need to pay for a zone 3 travel card. In what seemed a victory last year, the Union Council was allowed to set the rents, but the College had a fixed bottom line, so rents had to be hiked somewhere else. The logic behind the increase in fees in Beit and Prince’s Gardens, was that if a fresher wants to live close to campus, let them pay a premium for it.

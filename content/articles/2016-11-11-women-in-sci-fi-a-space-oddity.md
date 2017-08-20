@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Do like Arrival and Gravity mark a breakthrough of the sci-fi glass ceiling, asks Fred Fyles? Or do they play into the tropes well established in the genre?
 date: "2016-11-11 13:44:59 +0000"
-
-# Attributes from Felix Online V1
-id: "6420"
-old_path: /film/6420/women-in-sci-fi--a-space-oddity
+image: "http://felixonline.co.uk/img/upload/201611111337-so515-amyadams_arrival.jpg"
+image_caption: "Amy Adams in Arrival"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6420/women-in-sci-fi--a-space-oddity
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611111337-so515-amyadams_arrival.jpg"
-image_caption: ""
 ---
 
 Around the halfway point of Denis Villeneuve’s latest sci-fi thriller _Arrival_, which touches down this week, I found myself questioning the circular nature of time. But while the film itself – with its focus on language, neurology, and chronology – does try and upset our conventionally-held notions of time (to say any more would risk spoiling it), my confusion was more simply explained as a regular case of déjà vu: haven’t we already seen this before?

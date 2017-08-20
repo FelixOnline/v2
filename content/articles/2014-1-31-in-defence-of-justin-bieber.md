@@ -4,16 +4,13 @@ title: >
 subtitle: >
   I love Justin Bieber. There, I said it, I outed myself as a Belieber.
 date: "2014-01-31 17:50:29 +0000"
-
-# Attributes from Felix Online V1
-id: "4321"
-old_path: /comment/4321/in-defence-of-justin-bieber
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4321/in-defence-of-justin-bieber
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - tad08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I love Justin Bieber. There, I said it, I outed myself as a Belieber. I am a self-confessed fan of The Biebs. I know that this proclamation generally elicits a fairly strong reaction, but let me defend this view before you cast me out to the place where Directioners go to die.

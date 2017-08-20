@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix Film takes you on a tour of the best films this year
 date: "2012-12-07 14:53:35 +0000"
-
-# Attributes from Felix Online V1
-id: "3073"
-old_path: /film/3073/top-fifteen-films-of-2012
+image: "http://felixonline.co.uk/img/upload/201212071453-tna08-2012_beasts_of_the_southern_wild_006.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3073/top-fifteen-films-of-2012
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - ffilm
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212071453-tna08-2012_beasts_of_the_southern_wild_006.jpg"
-image_caption: ""
 ---
 
 15) Brave

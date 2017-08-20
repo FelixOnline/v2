@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Riaz doesn't cover his ears
 date: "2013-02-13 13:15:46 +0000"
-
-# Attributes from Felix Online V1
-id: "3299"
-old_path: /music/3299/album-review-maranata---royal-hex
+image: "http://felixonline.co.uk/img/upload/201302131315-tna08-ttw48.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3299/album-review-maranata---royal-hex
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302131315-tna08-ttw48.jpg"
-image_caption: ""
 ---
 
 Free-noise duo Maranata have collaborated with some big figures in the experimental scene including Maja S.K Ratkje and C.Spencer Yeh. On this effort, released on a 175 cassette run (remember that, it’s important), they collaborate with Sayaka Himeno, Sakaya Himeno of Japanese all girl trio Nisennenmondai. This is probably the main thing that piqued my interest, as she is a drummer of the highest order and she shows it with aerobic but tightly controlled drumming which takes as much from free jazz as it does from Lightning Bolt.

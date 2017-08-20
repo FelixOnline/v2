@@ -4,16 +4,13 @@ title: >
 subtitle: >
   When an old friend finally announces that he is ready to settle down with a woman young enough to his granddaughter, his friends are nothing short of excitement as they get ready for the bachelor party of their lives.
 date: "2014-01-24 10:13:37 +0000"
-
-# Attributes from Felix Online V1
-id: "4299"
-old_path: /film/4299/make-it-last
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4299/make-it-last
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Last Vegas__

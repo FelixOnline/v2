@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The NSA known for its privacy breaching of internet users across the globe has been found ‘peeling’ the encryption that Tor provides for its users’ information sent online, in order to gain access to sensitive information.
 date: "2013-10-16 14:00:22 +0100"
-
-# Attributes from Felix Online V1
-id: "3879"
-old_path: /tech/3879/nsa-peeling-the-skin-off-tor-users
+image: "http://felixonline.co.uk/img/upload/201310161459-me1711-tech_nsa.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3879/nsa-peeling-the-skin-off-tor-users
-imported: true
 comments:
  - value: >
      Well, that told me nothing useful...
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +25,6 @@ authors:
  - oa1612
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310161459-me1711-tech_nsa.png"
-image_caption: ""
 ---
 
 The NSA known for its privacy breaching of internet users across the globe has been found ‘peeling’ the encryption that Tor provides for its users’ information sent online, in order to gain access to sensitive information. Tor is a piece of software, ironically funded by the US government, which enables the anonymity of its users surfing the web, posting on forums and general internet communication; a great way to aid journalists or even the average person in countries that prohibit certain sites and topics of discussion.

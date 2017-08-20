@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Careers Service gives you tips on choosing your future career path.
 date: "2013-10-12 20:03:32 +0100"
-
-# Attributes from Felix Online V1
-id: "3862"
-old_path: /features/3862/confused-about-your-career-choice-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/3862/confused-about-your-career-choice-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It’s the time of year when all around you fellow students are busy getting ready to make applications to graduate roles, internships and further study. Does it feel like everyone apart from you has their future planned out? Don’t worry, hopefully this article will give you some pointers about how to make that all important career decision and start planning for your future.

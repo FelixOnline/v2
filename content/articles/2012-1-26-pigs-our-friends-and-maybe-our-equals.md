@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Could our porcine chums be out of the frying pan?
 date: "2012-01-26 23:10:14 +0000"
-
-# Attributes from Felix Online V1
-id: "2074"
-old_path: /comment/2074/pigs--our-friends-and-maybe-our-equals
+image: "http://felixonline.co.uk/img/upload/201201262308-felix-pigs-dalton.jpg"
+image_caption: "Not even the ultra masculine Timothy Dalton can bring himself to shoot man’s equals: pigs"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2074/pigs--our-friends-and-maybe-our-equals
-imported: true
 comments:
  - value: >
      When someone<a href="http://slxvch.com"> witers</a> an piece of writing he/she keeps the thought of a user in his/hermind that how a user can know it. Thereforethat's why this piece of writing is perfect. Thanks!
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - rjd08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201262308-felix-pigs-dalton.jpg"
-image_caption: ""
 ---
 
 Getting home one day, I was met with an unwelcome, albeit familiar, sight. The living room looked like a bomb had gone off and the rubble had been picked over by looters. In the kitchen, scores of mice were defending the ceramic mountain range by the sink from an amorphous and strangely sentient fungus. I dared not step into the bathroom – from what I could see, I didn’t know whether to call a professional cleaner or an exorcist. Faced with this special circle of hell, there was only conclusion I could reach: I’m living with pigs!

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The classic cooking show : Master Chef
 date: "2011-02-24 19:42:12 +0000"
-
-# Attributes from Felix Online V1
-id: "866"
-old_path: /food/866/gastronomical-musings
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/866/gastronomical-musings
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - dhl106
  - nm1010
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Dana says:

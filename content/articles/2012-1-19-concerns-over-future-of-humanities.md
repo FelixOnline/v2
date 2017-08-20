@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Lecturer speaks out against "departmental cuts"
 date: "2012-01-19 22:20:19 +0000"
-
-# Attributes from Felix Online V1
-id: "2033"
-old_path: /news/2033/concerns-over-future-of-humanities
+image: "http://felixonline.co.uk/img/upload/201201192218-felix-human.jpg"
+image_caption: "The Department of Humanities has spent the last three years in a state of "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2033/concerns-over-future-of-humanities
-imported: true
 comments:
  - value: >
      As a Year in Europe student, I’ve experienced first-hand the changes happening in the Humanities Department and I too believe that the constant departmental re-structuring is posing a very real threat to is future. Luckily, there are people at Imperial who, like Mr Occhipinti, realise the importance of their subject and are prepared to fight for its worth. <br> <br>I consider the Humanities Department to be one of Imperial’s greatest assets, primarily as it succeeds in developing the creative minds of its students in what is otherwise a strictly science-based community. The result? Students emerging from Humanities come with a true breadth of knowledge and character that extends further from the resounding Imperial College stereotype of “I’m a Scientist and that’s that”.,I'm also a Year in Europe so I've been studying French in the Humanities Department for two years now. I can say with confidence that the teaching I've received has been excellent and I feel I've greatly benefited from the experienc
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201192218-felix-human.jpg"
-image_caption: ""
 ---
 
 Concerns have been raised about the future of the [Humanities department](http://www3.imperial.ac.uk/humanities) at Imperial by one of its lecturers, Didier Occhipinti. Mr Occhipinti, who teaches French at the College, was due to present a lecture to the Political Philosophy Society late last term but cancelled the event in protest of what he sees as the threat of a "death by a thousand cuts" to the department.

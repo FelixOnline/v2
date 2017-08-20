@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Read the title: sums it up...
 date: "2012-11-22 22:28:35 +0000"
-
-# Attributes from Felix Online V1
-id: "2928"
-old_path: /news/2928/student-protest-march-held-in-london-on-wednesday
+image: "http://felixonline.co.uk/img/upload/201211222228-tna08-protests4.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2928/student-protest-march-held-in-london-on-wednesday
-imported: true
 comments:
  - value: >
      george i hear you man like Victor Hugo said when we are forced to choose between the barbarians of civilisation and the civilised men of barbarism we should choose the civilised men because progress is an illusion and a society founded on anything other than the treadmill of money and the brutalisation of the other is obviously unworkable,I agree with a lot of Luke's sentiments, such as "No longer do we study for pleasure, but to obtain a piece of paper..." etc (I for one wish barclays would fuck off from our campus, I'm tired of seeing them and their admittedly nice free ice cream), but I don't follow how this relates to tuition fees. I would expect universities (or at least imperial) to get most of their money from international students and external funding/donations, none of which have anything to do with the fee rise. Yes people need jobs after graduating to pay off their student loan, but people are still going to be looking for jobs even without loans to pay off, and not being able to pay the student l
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211222228-tna08-protests4.jpg"
-image_caption: ""
 ---
 
 Last Wednesday, 21 November 2012, saw thousands of students marching through the streets of London to protest the rising cost of education. Dubbed “Demo 2012”, the demonstration, arranged by the National Union of Students (NUS)expected to have 10,000 attendees. The demonstration by the NUS passed through central London from the Embankment before heading south of the river at Westminster. Police refused to make an estimate of the crowd. However, it was estimated that between 3,000 and 4,000 were involved. Bad weather was cited as a reason for the lower than 10,000 attendance. This is still a much lower figure than the 50,000 strong crowd of two years ago when the protests occured over raising Tution Fees.

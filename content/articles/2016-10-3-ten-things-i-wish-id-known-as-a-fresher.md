@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Elisabeth Robinson offers nuggets of wisdom from the perspective of a hardened 4th year.
 date: "2016-10-03 18:08:53 +0100"
-
-# Attributes from Felix Online V1
-id: "6303"
-old_path: /comment/6303/ten-things-i-wish-id-known-as-a-fresher
+image: "http://felixonline.co.uk/img/upload/201610101206-felix-3438033141_b2dda9b651_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6303/ten-things-i-wish-id-known-as-a-fresher
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610101206-felix-3438033141_b2dda9b651_o.jpg"
-image_caption: ""
 ---
 
 ## 1

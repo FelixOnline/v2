@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Non-symmetrical tails leads on to speedy swimming
 date: "2011-12-08 20:35:42 +0000"
-
-# Attributes from Felix Online V1
-id: "1915"
-old_path: /science/1915/how-sharks-swim-faster-than-you
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1915/how-sharks-swim-faster-than-you
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - pk1811
  - sk9011
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Scientists have discovered how sharks are able to swim faster than most other fish. Making use of an advanced imaging technique, they were able to examine how sharks swing and stiffen their tails to swim more efficiently.

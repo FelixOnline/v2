@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Nina Freeman’s Cibele is a deeply personal vignette exploring the awkward sensuality of online relationships in your teens
 date: "2015-11-13 14:52:11 +0000"
-
-# Attributes from Felix Online V1
-id: "5734"
-old_path: /games/5734/love-sex-and-the-internet
+image: "http://felixonline.co.uk/img/upload/201511131450-cet13-cibele3.png"
+image_caption: "Nina Freeman easily wins the award for coolest hair in the gaming industry. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/5734/love-sex-and-the-internet
-imported: true
 comments:
  - value: >
      I could read a book about this without finding such real-world aphpoacres!
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511131450-cet13-cibele3.png"
-image_caption: ""
 ---
 
 Nina Freeman has made a name for herself developing weird and wonderful autobiographical games. Many of them only take minutes to play; however, in these vignettes, Freeman pushes the boundaries of the medium more than any ten hour epic has ever been able to do.

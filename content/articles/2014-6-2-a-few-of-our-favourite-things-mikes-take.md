@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Mike and Caz share their pick of foodie-related comforts
 date: "2014-06-02 13:12:34 +0100"
-
-# Attributes from Felix Online V1
-id: "4649"
-old_path: /food/4649/a-few-of-our-favourite-things---mikes-take
+image: "http://felixonline.co.uk/img/upload/201406021413-felix-photo-(1).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/4649/a-few-of-our-favourite-things---mikes-take
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +22,6 @@ authors:
  - ykc111
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406021413-felix-photo-(1).jpg"
-image_caption: ""
 ---
 
 Okay, it’s not winter - but summer term is still a high-stress term here in Imperial, we’ll grant you that. Everyone’s got their own comfort foods/snacks (season be damned), favourite eateries, kitchen gadgets they’re biased towards. Even us as Food editors - we’re not going to pretend we don’t have a few favourites of our own; things that keep us going when the chips (hurr!) are down.

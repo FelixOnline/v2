@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Omar Hafeez-Bore on why old games get better when you pretend they’re new
 date: "2011-10-13 22:31:42 +0100"
-
-# Attributes from Felix Online V1
-id: "1514"
-old_path: /games/1514/gaming-in-reverse---quake
+image: "http://felixonline.co.uk/img/upload/201110132323-felix-quake_4_by_id_software.jpg"
+image_caption: "Let's take a step back "
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1514/gaming-in-reverse---quake
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - oh106
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110132323-felix-quake_4_by_id_software.jpg"
-image_caption: ""
 ---
 
 So here’s my plan, to get my own back on the remakes. By actually going back. As in, back-WARDS in time! Yes, I’m going to use the power of artistic licence to reverse time, and see what pixelated gems of gaming goodness have been lost along the way.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   With cost the driving factor, quality of care will suffer
 date: "2011-03-03 21:06:46 +0000"
-
-# Attributes from Felix Online V1
-id: "1020"
-old_path: /comment/1020/lansleys-plans-will-stitch-up-the-nhs
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1020/lansleys-plans-will-stitch-up-the-nhs
-imported: true
 comments:
  - value: >
      it's extraordinary to determine a terrific blog like this one today..not surprisingly appreciate your website and you need to confirm the spelling upon <a href="http://trendy-jewelry1.com">tibetan jewelry</a> a number of your posts. Many of themare generally rife havingspellingdifficulties and that i think it isincredibly,Wow! Great tihiknng! JK,BskbKU <a href="http://litqsaikovov.com/">litqsaikovov</a>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - tn509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The NHS is one of Britain’s most cherished institutions – pretty much the only thing Labour and the Conservatives agreed on during the general election was the need to safeguard the NHS from budget cuts. It has gone through one of the biggest spending increases in it’s history.

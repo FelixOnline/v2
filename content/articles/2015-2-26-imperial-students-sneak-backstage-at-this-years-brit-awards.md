@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Students use fake press pass to bypass tens of security staff
 date: "2015-02-26 00:12:11 +0000"
-
-# Attributes from Felix Online V1
-id: "5308"
-old_path: /news/5308/imperial-students-sneak-backstage-at-this-years-brit-awards
+image: "http://felixonline.co.uk/img/upload/201502260018-ps3110-hassan-web.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5308/imperial-students-sneak-backstage-at-this-years-brit-awards
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502260018-ps3110-hassan-web.jpg"
-image_caption: ""
 ---
 
 Two [Imperial College Television (ICTV) ](https://www.youtube.com/channel/UCbnVV7tcJZlUJTh8zPQFxMQ)reporters managed to sneak past security and get backstage to the BRIT awards on Wednesday, and even managed to interview some celebrities before leaving undetected.

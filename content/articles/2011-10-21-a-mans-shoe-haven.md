@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Matthew Allinson tackles the hell of the High Street and finds heaven at Offspring
 date: "2011-10-21 10:24:49 +0100"
-
-# Attributes from Felix Online V1
-id: "1588"
-old_path: /fashion/1588/a-mans-shoe-haven
+image: "http://felixonline.co.uk/img/upload/201110211124-ak6309-offspringxtopshopbeg.jpg"
+image_caption: "Who needs shoes? I use reinforced bin bags – deal with it"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/1588/a-mans-shoe-haven
-imported: true
 comments:
  - value: >
      Sadly anon, this shop completely fails to sell anything resembling shoes that one could wear to, perhaps, either vespers or the Dorchester on a thursday afternoon. What is more it doesn't even sell footwear that one can do sport it. This is a shoe shop that sells comfortable shoes for chavs, but with the utmost customer service. ,So what about men who a bit of class Matt, does this shop sell actual shoes?,so what about bellends who think they've got class cause they wear a type of shoes? where can they get great service aside from a back alley in soho?,so what about bellends who think they've got class cause they wear a type of shoes? where can they get great service aside from a back alley in soho?,so what about bellends who think they've got class cause they wear a type of shoes? where can they get great service aside from a back alley in soho?,All about Vans
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -28,12 +26,6 @@ authors:
  - ma1307
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110211124-ak6309-offspringxtopshopbeg.jpg"
-image_caption: ""
 ---
 
 I rather like shoes, which is a problem because buying shoes is usually the low point of any shopping trip, especially for men. I guess we buy fewer shoes and don’t spend as much money on them, and thus as inferior customers get massively inferior treatment in shoe shops.

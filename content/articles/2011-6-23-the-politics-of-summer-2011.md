@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Who will come, who will see, who will conquer?
 date: "2011-06-23 20:14:25 +0100"
-
-# Attributes from Felix Online V1
-id: "1421"
-old_path: /politics/1421/the-politics-of-summer-2011
+image: "http://felixonline.co.uk/img/upload/201106232111-felix-mahmoud-ahmadinejad.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1421/the-politics-of-summer-2011
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106232111-felix-mahmoud-ahmadinejad.jpg"
-image_caption: ""
 ---
 
 With Felix Politics on holiday for the summer, you’re probably worried that you’ll either have to read a proper political paper for the next three months (really very dull) or become completely ignorant of the world around you. Fear not! Below are the only important headlines that may, or may not, occur. Read these and you can spend the rest of your summer lying on a beach, without a care in the world.

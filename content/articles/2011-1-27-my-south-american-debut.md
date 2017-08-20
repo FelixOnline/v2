@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Priya Garg begins her meandering journey in Rio de Janeiro, learning the importance of soccer and discovering how to embrace Latin passion
 date: "2011-01-27 20:20:57 +0000"
-
-# Attributes from Felix Online V1
-id: "689"
-old_path: /travel/689/my-south-american-debut-
+image: "http://felixonline.co.uk/img/upload/201101272019-ks607-rioriori.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/689/my-south-american-debut-
-imported: true
 comments:
  - value: >
      you are mentioning a good point <a href="http://www.socialton.com/facebook-applications.html" title="Facebook Application Development"><strong>Facebook Application Development</strong></a> is definitely required for social media experience.,Look at this - don't is skilful <a href="http://jfgih.co.cc/">site</a>? I yon so. <br>hdt6dsj
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -28,12 +25,6 @@ authors:
  - pg405
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101272019-ks607-rioriori.jpg"
-image_caption: ""
 ---
 
 We emerged from twenty-three hours of flying like wild animals, bleary eyed and not used to natural light. As the sun of Rio de Janeiro washed over us, we stumbled out of the airport dragging our bags behind us.

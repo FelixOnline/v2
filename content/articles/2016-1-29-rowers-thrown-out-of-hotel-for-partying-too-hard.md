@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Venue bars non-medic boat club after accusations of damage and disorder
 date: "2016-01-29 08:43:15 +0000"
-
-# Attributes from Felix Online V1
-id: "5833"
-old_path: /news/5833/rowers-thrown-out-of-hotel-for-partying-too-hard-
+image: "http://felixonline.co.uk/img/upload/201601290842-felix-ambassadors-bloomsbury.jpg"
+image_caption: "The swanky hotel in Bloomsbury where the rowers had their party"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5833/rowers-thrown-out-of-hotel-for-partying-too-hard-
-imported: true
 comments:
  - value: >
      That's appalling. Ashamed and embarrassed to share my time at Imperial with people who behave like this.,That's appalling. Ashamed and embarrassed to share my time at Imperial with people who behave like this.,Just a bit of banter ,Just a bit of banter ,I was there and yes it was worse than the boat club dinners I went to while I was at college but not nearly as bad as some other sports club dinners I went to. ,I was there and yes it was worse than the boat club dinners I went to while I was at college but not nearly as bad as some other sports club dinners I went to. ,cheap jerseys from china cheap jerseys usa cheap jerseys us,cheap jerseys from china cheap jerseys usa cheap jerseys us,Cheap NFL Jerseys, jerseys bulk order at wholesale price free shipping. <br> <br>We are specialized in football jerseys, and also supply styles of hockey jerseys, <br>soccer jerseys, baskestball jerseys. Find new arrivals 2016! <br> <br>Buy: cheapnfl-jerseys.us,Cheap NFL Jerseys, jerseys bulk order at wholesale price free shipping. <br> <br>We
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201601290842-felix-ambassadors-bloomsbury.jpg"
-image_caption: ""
 ---
 
 Last Saturday, Imperial College Boat Club’s annual party ended early when students were chucked out for bad behaviour.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Good Chance Theatre is aiming to offer escapism to refugees across the camp
 date: "2016-03-04 11:47:07 +0000"
-
-# Attributes from Felix Online V1
-id: "6008"
-old_path: /arts/6008/against-a-sea-of-troubles--theatre-in-the-jungle
+image: "http://felixonline.co.uk/img/upload/201603041146-felix-5832.jpg"
+image_caption: "The Globe to Globe tour perform Hamlet at the Jungle camp in Calais"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6008/against-a-sea-of-troubles--theatre-in-the-jungle
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603041146-felix-5832.jpg"
-image_caption: ""
 ---
 
 The question of whether the arts are a luxury or a necessity has become one of the issues surrounding the ‘Jungle’ refugee camp just outside Calais.

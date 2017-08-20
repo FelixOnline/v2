@@ -4,16 +4,13 @@ title: >
 subtitle: >
   a story about a Private Dick in every sense of the word
 date: "2017-06-09 15:08:17 +0100"
-
-# Attributes from Felix Online V1
-id: "7016"
-old_path: /tv/7016/death-in-dreamland--archer-s8
+image: "http://felixonline.co.uk/img/upload/201706091707-ea3211-seGvp80ysWo.market_maxres.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/7016/death-in-dreamland--archer-s8
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ad4013
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706091707-ea3211-seGvp80ysWo.market_maxres.jpg"
-image_caption: ""
 ---
 
 The ever popular action-spy-office-whatever comedy returns for yet another season; one that again opts to change the show’s setting altogether. Given the show’s relatively niche premise, and its ever-falling viewership, it’s quite impressive that it has made it this far. It has even managed to be renewed through till a tenth season. Not that I’m complaining, given that I’m a huge fan of the series. Over the past few seasons, however, the creative fatigue has become clear, with the show’s creator, Adam Reed, being quite vocal that he’d like to move onto something different. It is no surprise then, that Reed uses season seven’s cliff-hanger to completely renew Archer’s central premise, going even further than past efforts like Vice.

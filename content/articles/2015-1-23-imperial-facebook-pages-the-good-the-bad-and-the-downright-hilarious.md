@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A general overview of the stuff populating our feeds
 date: "2015-01-23 01:21:34 +0000"
-
-# Attributes from Felix Online V1
-id: "5121"
-old_path: /news/5121/imperial-facebook-pages-the-good-the-bad-and-the-downright-hilarious
+image: "http://felixonline.co.uk/img/upload/201501230121-cac111-screen-shot-2015-01-23-at-01.20.53.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5121/imperial-facebook-pages-the-good-the-bad-and-the-downright-hilarious
-imported: true
 comments:
  - value: >
      fitflop sale australia <br>fitflops shops http://www.australiafitflops.com/,Their only defeat came against Ukraine but till then, their place was shut. On the other hand, Colin Powell, Secretary of State, went towards country in 2004. The break doubles up as a summer summer vacation. <br>crÃ©dits fut rapidement http://creditsfut.com/,christian leboutin <br>christian louboutin canada sale http://christianlouboutincanadaoutlet.blogspot.com/,shoes with red bottoms <br>christian louboutin sale outlet http://christianlouboutincanadaoutlet.blogspot.com/,Passion the site-- extremely user friendly and lots to see! <br>nba 2k17 coins http://clarafrederica.snack.ws/madden-17-to-obtain-brandnew-equipment.html,Love the website-- really individual friendly and whole lots to see! <br>nba 2k17 http://zrupy.com/index.php?dll=profile&amp;sub=blogview&amp;item_id=230009&amp;item2_id=2065
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501230121-cac111-screen-shot-2015-01-23-at-01.20.53.png"
-image_caption: ""
 ---
 
 The rise of Imperial Facebook pages spans several years, but despite sprouting a number of different pages they are all for pretty much of the same audience. These include such as Imperial College Secrets, Spotted: Central Library and Humans of Imperial, some of which allow students to anonymously submit content to be posted on the page, with others having admins that track down and curate content themselves.

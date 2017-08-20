@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Here’s a guide of what’s good in London
 date: "2016-10-03 19:16:05 +0100"
-
-# Attributes from Felix Online V1
-id: "6307"
-old_path: /science/6307/so-i-heard-you-like-science
+image: "http://felixonline.co.uk/img/upload/201610032121-felix-8808113043_ce2160c2d4_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6307/so-i-heard-you-like-science
-imported: true
 comments:
  - value: >
      Я уже посмотрел этот фильм на нормальном сайте, просто супер, не зря его так долго ждал! <br>Кто ещё не видел, смотрим здесь, ребята - HD17.RU,Я уже посмотрел этот фильм на нормальном сайте, просто супер, не зря его так долго ждал! <br>Кто ещё не видел, смотрим здесь, ребята - HD17.RU,Я уже посмотрел этот фильм на нормальном сайте, просто супер, не зря его так долго ждал! <br>Кто ещё не видел, смотрим здесь, ребята - HD17.RU,Я уже посмотрел этот фильм на нормальном сайте, просто супер, не зря его так долго ждал! <br>Кто ещё не видел, смотрим здесь, ребята - HD17.RU,Я уже посмотрел этот фильм на н
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610032121-felix-8808113043_ce2160c2d4_o.jpg"
-image_caption: ""
 ---
 
 Ok! You made it, you’re in nerd centrali.e. Imperial College, 8th best university in the world (apparently). So you probably really, really, really like science. I get you, so do I. Don’t ask me why, it’s just one of those things, those guilty pleasures you don’t publicly admit to. In case your already science overflowing schedules aren’t quite quenching your thirstfor geekiness, I have compiled a little listof things to maybe check out. Some close, some far; some pretty , some gross; some weirdand some plain bizarre. Enjoy (?)

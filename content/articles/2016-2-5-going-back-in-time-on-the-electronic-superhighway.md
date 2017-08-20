@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The landmark exhibition brings together 50 years of art and technology co-evolution
 date: "2016-02-05 12:14:45 +0000"
-
-# Attributes from Felix Online V1
-id: "5873"
-old_path: /arts/5873/going-back-in-time-on-the-electronic-superhighway
+image: "http://felixonline.co.uk/img/upload/201602051213-felix-Lorna-5.jpg"
+image_caption: "“Lorna” by Lynn Hershman Leeson."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5873/going-back-in-time-on-the-electronic-superhighway
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +21,6 @@ authors:
  - ff712
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602051213-felix-Lorna-5.jpg"
-image_caption: ""
 ---
 
 The phrase ‘electronic superhighway’ has become, a mere 40 or so years after it was coined, no more than a vague anachronism. The concept, envisioned by artist Nam June Paik in the mid-70s, has fast become a relic of the bygone age of utopian technology. While Paik’s idea of a communication revolution that has become so far-reaching as to become, in his words, ‘a springboard for new and surprising human endeavors’, modern technology has instead brought with it the threat of coercion, manipulation, and ever-present surveillance. While such an optimistic view of human endeavors has since been consigned to the growing pile of historical disappointments, the Whitechapel Gallery is unafraid to take a retrospective look at the concept. Indeed, it forms the name of its newest exhibition, which looks back at the past 50 years of interaction between the artistic and the digital; the phrase’s ethos is reflected in this retrograde collection of work, which is exuberant, ground-breaking, and wholly revolutionarily.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In the Night Time at the Gate Theatre.
 date: "2016-02-26 11:59:14 +0000"
-
-# Attributes from Felix Online V1
-id: "5979"
-old_path: /arts/5979/a-trippy-look-at-first-time-parenthood
+image: "http://felixonline.co.uk/img/upload/201602261158-felix-night.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5979/a-trippy-look-at-first-time-parenthood
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - bdw14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261158-felix-night.jpg"
-image_caption: ""
 ---
 
 I read Nina Segal’s  script for in “In the Night Time” in a mad, streaming rush, coffee on fingertips on pages in the dregs of whisky and sleep. It deserved every one of my 5am minutes, and more.

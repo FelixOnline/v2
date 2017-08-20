@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Maciej Matuszewski tells of his first time with Sci-Fi
 date: "2011-02-17 20:29:24 +0000"
-
-# Attributes from Felix Online V1
-id: "844"
-old_path: /tv/844/stargate-sg-1-a-love-story
+image: "http://felixonline.co.uk/img/upload/201102172028-nm1010-stargate.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/844/stargate-sg-1-a-love-story
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102172028-nm1010-stargate.jpg"
-image_caption: ""
 ---
 
 The first science fiction television show I ever saw and the series that got me interested in the entire genre was Stargate SG-1, the follow-up to Roland Emmerich’s forgettable 1994 film.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Royal visits the Royal British Legion Centre for Blast Injury Studies on the South Kensington Campus
 date: "2013-10-18 20:34:51 +0100"
-
-# Attributes from Felix Online V1
-id: "3883"
-old_path: /news/3883/prince-harry-visits-imperial-
+image: "http://felixonline.co.uk/img/upload/201310182133-jal08-hrh-prince-harry.jpg"
+image_caption: "Prince Harry in the Centre for Blast Injury Studies"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3883/prince-harry-visits-imperial-
-imported: true
 comments:
  - value: >
       . Why did Simon get a Knighthood for calling Camelford a Legend and gulf war syndrome a Rumor? <br> <br> <br>The legend of Camelford: Medical consequences of a water pollution accident. <br> <br>Citation: <br>Journal of Psychosomatic Research, 01 1995, vol./is. 39/1(1-9), 0022-3999 (Jan 1995) <br> <br>Author(s): <br>David, Anthony S,Wessely, Simon C <br> <br>It is argued that the most likely explanation of these complaints is that the perception of normal and benign somatic symptoms among residents and health professionals was heightened and attributed to an external, physical cause. <br> <br>Thursday, September 19, 2013 <br>CG_News <br>Follow <br> <br>TWO ministers have issued an unreserved apology on behalf of the Government to all those affected by the Lowermoor water poisoning incident in North Cornwall in 1988. <br> <br> <br>
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310182133-jal08-hrh-prince-harry.jpg"
-image_caption: ""
 ---
 
 The Royal British Legion Centre for Blast Injury Studies (CBIS) officially opened at Imperial College today (Oct 17). The CBIS held its second networking event in the Royal School of Mines and invited HRH Prince Harry to unveil the centre.

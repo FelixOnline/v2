@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-03-11 11:53:38 +0000"
-
-# Attributes from Felix Online V1
-id: "6037"
-old_path: /film/6037/documentary-corner-20-feet-from-stardom
+image: "http://felixonline.co.uk/img/upload/201603111152-felix-darlene-love-in-20-feet-from-stardom-courtesy-of-radius-twc1.jpg"
+image_caption: "Darlene Love, one of the behind-the-scenes stars in 20 Feet From Stardom."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6037/documentary-corner-20-feet-from-stardom
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - bsc14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603111152-felix-darlene-love-in-20-feet-from-stardom-courtesy-of-radius-twc1.jpg"
-image_caption: ""
 ---
 
 Darlene Love, Merry Clayton, Lisa Fischer… you probably don’t know these names but I guarantee you know the voices. _20 Feet from Stardom_ is a talking-heads documentary that tells of the relatively unknown world of such backup vocalists. Prior to making this film, its director, Morgan Neville, spent much of his career documenting various musician’s careers, from Jack Clement to Johnny Cash to Iggy Pop; with this feature however, he gives us his most ambitious project, as well as his first Oscar winner. Going into this film I had a lot of expectations about what I was going to see; I anticipated a depressing tale of talent-gone-unnoticed, and failure to achieve one’s dreams. This isn’t what I got.

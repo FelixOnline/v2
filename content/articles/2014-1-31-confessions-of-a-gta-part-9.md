@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Here, let me Google that for you... Actually, that’s not our job
 date: "2014-01-31 17:52:45 +0000"
-
-# Attributes from Felix Online V1
-id: "4324"
-old_path: /comment/4324/confessions-of-a-gta-part-9
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4324/confessions-of-a-gta-part-9
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - gta
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This week’s confession is pretty bad. Most of the time I enjoy GTAing. The students are nice and unusually polite, but in every class there are always students you try to avoid. These have been getting more frequent and must stop for our sanity. So here are a few you might recognise:

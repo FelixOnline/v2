@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Emiel de Lange explains why he thinks Issie deserves your vote
 date: "2015-03-04 13:58:37 +0000"
-
-# Attributes from Felix Online V1
-id: "5333"
-old_path: /comment/5333/why-im-voting-for-issie-barrett-for-deputy-president-clubs-and-societies
+image: "http://felixonline.co.uk/img/upload/201503041356-ps3110-screen-shot-2015-03-04-at-13.56.30.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5333/why-im-voting-for-issie-barrett-for-deputy-president-clubs-and-societies
-imported: true
 comments:
  - value: >
      fitflops cheapest <br>fitflops australia sale http://australiafitflops.blogspot.com/,christian loboutin <br>christian louboutin online http://christianlouboutincanadaoutlet.blogspot.com/,louboutin cheap <br>christian louboutin online http://christianlouboutincanadaoutlet.blogspot.com/,Hi guys!I launched my business, The Raw Food Kitchen this year and its been a fantastic start so far, but I really want to take it to the next level next year. I want to grow my business and to really stand out in the market place. I want my clients to think of The Raw Food Kitchen as the go to place for all things raw, whether it be classes, eBooks or video content and more. Any training and education, (episceally when it comes to marketing) I can get on this would help me greatly! :-) Amanda
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503041356-ps3110-screen-shot-2015-03-04-at-13.56.30.png"
-image_caption: ""
 ---
 
 Clubs and societies needs someone who cares about them, and no one cares more than Issie. Clubs are where people make friends, try new things and do the things they love, and without them university life would be much poorer.

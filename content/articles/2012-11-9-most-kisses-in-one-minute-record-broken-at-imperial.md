@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Satisfaction skyrockets
 date: "2012-11-09 20:08:43 +0000"
-
-# Attributes from Felix Online V1
-id: "2882"
-old_path: /news/2882/most-kisses-in-one-minute-record-broken-at-imperial
+image: "http://felixonline.co.uk/img/upload/201211092008-tna08-kisses.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2882/most-kisses-in-one-minute-record-broken-at-imperial
-imported: true
 comments:
  - value: >
      Just had a gander, all 'could have got more in metric' jokes aside, how many did she get Tim? Would be nice to get a number for it down in the article.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211092008-tna08-kisses.jpg"
-image_caption: ""
 ---
 
 On Tuesday 6 November 2012, Sarah Greasley, a newly arrived PhD student in the Materials department at Imperial, broke a World Record in Ethos. The record was for most kisses received in one minute. Shockingly, at Imperial there must have been plenty of men out there willing to help her achieve this aim.

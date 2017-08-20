@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Science funding must be protected over welfare
 date: "2010-10-21 19:14:24 +0100"
-
-# Attributes from Felix Online V1
-id: "235"
-old_path: /politics/235/welfare-cuts-could-pay-for-science
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/235/welfare-cuts-could-pay-for-science
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - rtf08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Wednesday’s Spending Review brought with it the news, much speculated and feared in this paper, that science spending would itself face cuts. The research budget will be frozen, which means a real terms cut of 10%; about £500 million. This may not sound like too much but it comes at a time when countries like America and Germany are increasing research spending, seeing it as key to continued economic growth. Our own business school at Imperial recently produced at report showing how investment in science research leads directly to growth in other, seemingly unconnected, sectors.

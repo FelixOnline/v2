@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Source, prepare and make your own sushi, made easy.
 date: "2011-01-27 20:31:56 +0000"
-
-# Attributes from Felix Online V1
-id: "696"
-old_path: /food/696/homemade-sushi
+image: "http://felixonline.co.uk/img/upload/201101272030-nm1010-sushisus.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/696/homemade-sushi
-imported: true
 comments:
  - value: >
      Beautiful! And thank you for letting pelpoe know that Sushi is NOT the fish part but the vinegared rice. If you are eating the raw fish only, that's called Sashimi. Sashimi on top of sushi rice is called Nigiri Sushi (nigiri = shaped by hand). We have other forms of Sushis off course -- like Maki Sushi (rolls), Nama Chirashi Sushi (raw fish topped on bowl sushi rice/nama = raw, chirashi = scattered) and Chirashi Sushi (sushi rice topped with things other than raw fish/toppings depend on local custom).,Pattern LOGO Longchamp Xiang Ma has not been low-key and accurate <a href="http://tprmscjiqa.com">giivng</a>, widely away from the big create LOGO lawlessness, people indeed memorialize Longchamp folding handbag concept, are dumplings package deal of well-liked as well as paying duty to the extinct of Michaepopular the seal buttons. Longchamp pirated in the sell, there is no, compared to hundreds of thousands of brands, the essential to devote a scarcely any thousand dollars devise have to own a Longchamp ba
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101272030-nm1010-sushisus.jpg"
-image_caption: ""
 ---
 
 Japanese food is widely associated with expensive prices and not a lot of food. However that doesn’t always have to be the case. All you need to do is equip yourself with a tube map and a willingness to travel.

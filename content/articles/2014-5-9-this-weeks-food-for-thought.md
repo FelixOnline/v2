@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Procrastinating from work, I found myself looking at my Instagram stream, and I was quite surprised how many photos of food I had in my history.
 date: "2014-05-09 15:43:12 +0100"
-
-# Attributes from Felix Online V1
-id: "4589"
-old_path: /food/4589/this-weeks-food-for-thought
+image: "http://felixonline.co.uk/img/upload/201405091649-jal08-food_pedestrian.jpg"
+image_caption: "Someone left their breakfast on Bayswater Road #FELIXFOOD"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/4589/this-weeks-food-for-thought
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +22,6 @@ authors:
  - jal08
  - ykc111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405091649-jal08-food_pedestrian.jpg"
-image_caption: ""
 ---
 
 Procrastinating from work, I found myself looking at my Instagram stream, and I was quite surprised how many photos of food I had in my history. I’ve got to admit, not everything looked amazing, be it the colour reproduction of my phone (curry is not the most pleasant-looking dish ever), or just the lack of lighting in a restaurant.

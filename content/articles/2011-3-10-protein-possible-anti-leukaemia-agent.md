@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A newly-discovered protein could be used as an anti-leukemic agent
 date: "2011-03-10 19:08:33 +0000"
-
-# Attributes from Felix Online V1
-id: "1049"
-old_path: /science/1049/protein-possible-anti-leukaemia-agent
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1049/protein-possible-anti-leukaemia-agent
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - asn210
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A protein, CD19-ligand, demonstrates a promising cure for one of the most common forms of childhood cancer: Acute Lymphoblastic Leukaemia (ALL).

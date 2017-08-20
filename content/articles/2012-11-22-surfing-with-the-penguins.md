@@ -4,16 +4,13 @@ title: >
 subtitle: >
   SurfSoc catch some cold, cold waves. Why do they like it again?
 date: "2012-11-22 22:56:32 +0000"
-
-# Attributes from Felix Online V1
-id: "2936"
-old_path: /news/2936/surfing-with-the-penguins
+image: "http://felixonline.co.uk/img/upload/201211222256-tna08-surfing.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2936/surfing-with-the-penguins
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ld709
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211222256-tna08-surfing.jpg"
-image_caption: ""
 ---
 
 A warm sun bordered by a clean sky that covers you gently in its heat. Majestic palms, whose leaves softly wave in a light breeze, cast their shadows on white beaches touched by turquoise waters.

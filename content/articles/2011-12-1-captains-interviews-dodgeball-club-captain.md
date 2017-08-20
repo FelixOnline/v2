@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Essential info: Alan Soltani, 20, Physics 3rd year. 1m83, 76kg, throws with right arm. 3 years’ dodgeball experience. Likes: toe-snapping shots, wrenches. Dislikes: Minotaur dodgeball, wrenches.
 date: "2011-12-01 21:17:27 +0000"
-
-# Attributes from Felix Online V1
-id: "1886"
-old_path: /sport/1886/captains-interviews-dodgeball-club-captain
+image: "http://felixonline.co.uk/img/upload/201112012116-ams111-sportinterview.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1886/captains-interviews-dodgeball-club-captain
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - ams111
  - ial08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012116-ams111-sportinterview.jpg"
-image_caption: ""
 ---
 
 As we roll into December, the Captains’ interviews just keep on coming! This week, we have one of the quirkier Imperial sports on display: Dodgeball. Alan Soltani, a 3rd year physicist and Dodgeball club captain, is the man of the hour. We meet up in Beit quad to talk about balls, wrenches and more.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A flock of origami birds set loose in the Blyth Gallery
 date: "2011-02-27 19:24:47 +0000"
-
-# Attributes from Felix Online V1
-id: "912"
-old_path: /arts/912/untethered
+image: "http://felixonline.co.uk/img/upload/201102271923-ks607-untether.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/912/untethered
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - cf107
  - jk708
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102271923-ks607-untether.jpg"
-image_caption: ""
 ---
 
 The Untethered installation is the best use of the space in Imperial’s Blyth Gallery that I have seen since I started occasionally visiting four years ago. The normally minimalist gallery let go and featured a flock of origami birds surging out from one corner to finally disappear up into the spaces in the ceiling at the far end. The calm whiteness was a perfect setting for the 2208 delicate paper birds, folded from individual pen and ink drawings and black and white photographs. For me, perhaps even more exciting was the lighting, which was beautifully executed to throw a mirroring flock of hazy shadows onto the bare gallery walls.

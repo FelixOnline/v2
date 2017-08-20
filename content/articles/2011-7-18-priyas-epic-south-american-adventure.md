@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Priya's Epic South American Adventure
 date: "2011-07-18 12:45:22 +0100"
-
-# Attributes from Felix Online V1
-id: "1451"
-old_path: /travel/1451/priyas-epic-south-american-adventure
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/1451/priyas-epic-south-american-adventure
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -23,12 +20,6 @@ authors:
  - ks607
  - pg405
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 [photo id=17]_Click the linked text to read more about Priya's trip_

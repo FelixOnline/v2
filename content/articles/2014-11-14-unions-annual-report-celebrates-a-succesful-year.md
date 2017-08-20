@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Report heralds financial successes and plans for the future
 date: "2014-11-14 20:01:43 +0000"
-
-# Attributes from Felix Online V1
-id: "4864"
-old_path: /news/4864/unions-annual-report-celebrates-a-succesful-year
+image: "http://felixonline.co.uk/img/upload/201411142001-ps3110-report.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4864/unions-annual-report-celebrates-a-succesful-year
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - pk1811
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411142001-ps3110-report.png"
-image_caption: ""
 ---
 
 Earlier this week, the Union released the 2013/14 Annual Report. This document, prepared by Union managers and officer trustees, provides a summary of the activities of the Union over the last financial year.

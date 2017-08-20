@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Read here to find out about the highest paid wage at the Union and other fun facts!
 date: "2013-12-02 13:05:19 +0000"
-
-# Attributes from Felix Online V1
-id: "4146"
-old_path: /news/4146/union-releases-1213-annual-report
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4146/union-releases-1213-annual-report
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This Tuesday the Union released their most recent annual report, covering last year’s activities. There have been some changes in the Union’s financial reporting methods, after the recent change to full charity status it now has to present financial statements according to the Charities SORP (Statement of Recommended Practice). The SORP requires a charity to not only present its finances, but also to do it in such a way that shows how financial transactions relate to their charitable activities.

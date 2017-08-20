@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix reviews Enforce: Police Crime Action
 date: "2014-11-28 01:09:52 +0000"
-
-# Attributes from Felix Online V1
-id: "4978"
-old_path: /games/4978/enforcing-the-law-simulator-style
+image: "http://felixonline.co.uk/img/upload/201411280109-ps3110-enforcer.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4978/enforcing-the-law-simulator-style
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - me1711
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411280109-ps3110-enforcer.jpeg"
-image_caption: ""
 ---
 
 Recently Felix Games was offered a steam key to Enforce: Police Crime Action, to test and try out, review and break! And that is exactly what we have done.

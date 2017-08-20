@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The X-Men series has had its fair share of ups and downs over the years. The first two entries helped revive the comic book film industry (with X-2 being considered arguably the best of the genre pre-The Dark Knight), but the third film and the first spin-off received mixed reactions.
 date: "2014-06-02 13:09:16 +0100"
-
-# Attributes from Felix Online V1
-id: "4648"
-old_path: /film/4648/the-best-x-men-film-ever
+image: "http://felixonline.co.uk/img/upload/201406021409-felix-x-men-days-of-future-past-cast.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4648/the-best-x-men-film-ever
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - js5913
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406021409-felix-x-men-days-of-future-past-cast.jpg"
-image_caption: ""
 ---
 
 __X-Men: Days of Future Past__

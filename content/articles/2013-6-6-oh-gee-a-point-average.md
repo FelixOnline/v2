@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A quick word on the GPA. All too quick, unfortunately.
 date: "2013-06-06 18:07:44 +0100"
-
-# Attributes from Felix Online V1
-id: "3667"
-old_path: /comment/3667/oh-gee-a-point-average
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3667/oh-gee-a-point-average
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A while ago some universities announced the possibility of using a [UK GPA](http://felixonline.co.uk/news/3665/re-mark-for-the-grading-system/) instead of the traditional grading system that we use. This is an interesting idea, and one that is worthy of debate. The College will at some point ultimately have to choose whether or not they switch. Imperial are a cautious lot: College tend to wait until something is tried and tested rather than dive straight in. Maybe it’s the scientist mind set. Of course, this is both good and bad – it depends on the situation and context. Here, it will just give more time to mull over the idea. If many other UK universities switch, Imperial will start having serious discussions. If this ever does become a big topic, the upper management of College would be wise to consult with students and staff. The forgotten victims of examinations are often the lecturers and PhD students that have to mark the papers. It’s unlikely they will be keen to support a proposal that makes each piece of assessment critical and therefore puts them under a lot of extra strain.

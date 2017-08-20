@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Star Trek: Into Darkness review
 date: "2013-05-16 18:21:13 +0100"
-
-# Attributes from Felix Online V1
-id: "3583"
-old_path: /film/3583/may-jj-abrams-live-long-and-prosper
+image: "http://felixonline.co.uk/img/upload/201305161921-tna08-hr_star_trek_into_darkness_20.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3583/may-jj-abrams-live-long-and-prosper
-imported: true
 comments:
  - value: >
      This movie was overall pretty poor, unoriginal and an example of really lazy story telling. <br> <br>Only one good thing about this movie is Zachary Quinto, who completely outshines everyone else. <br> <br>SPOILER WARNING! <br> <br>This movie had so much potential, but played it far too safe with too much fan service. First half had potential, but the second half plugged every plot hole with bits of 'Wrath of Khan' (which is a much better movie - don't waste £15 on this). <br> <br>Introduced the KIingons (who looked impressive), but after one fight scene they did NOTHING with them. Despite Cumberbatch's character completely annihilating a squadron of Klingons, he later loses in a fucking fist fight with Spock! Also, the admiral's daughter character was completely pointless, except from being spank material. This is just the tip of the iceberg. This film is awful... <br> <br>If you're brain dead and like glossy, sleek and gleaming piles of shit, you'll like this. This series deserved better. <br>,I think Cumberbatch's stock will have w
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305161921-tna08-hr_star_trek_into_darkness_20.jpg"
-image_caption: ""
 ---
 
 Director J. J. Abrams no doubt reignited the dying Star Trek franchise and this follow-up to his 2009 reboot further cements his reputation as a director capable of delivering plenty of fun as well as a more than adequate plot and heart.

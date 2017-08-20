@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Gold medallist makes unexpected visit at judo training
 date: "2012-03-15 22:17:30 +0000"
-
-# Attributes from Felix Online V1
-id: "2396"
-old_path: /sport/2396/olympian-visits-ic-judo
+image: "http://felixonline.co.uk/img/upload/201203152216-pk1811-judo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2396/olympian-visits-ic-judo
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - cy1109
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152216-pk1811-judo.jpg"
-image_caption: ""
 ---
 
 In early March 2012, judoka from the Imperial College Judo club arriving for what was otherwise another regular evening of hard judo practice at ETHOS, found themselves very unexpectedly honoured by a visit from the Olympic Champion (Athens 2004) and World Championship judo gold medallist (Brazil 2007) and nine times All-Japan Women`s Judo Champion (2002-2010), and multiple silver & bronze medallist at various Olympic Games & World Championships, Ms Maki Tsukada sensei.

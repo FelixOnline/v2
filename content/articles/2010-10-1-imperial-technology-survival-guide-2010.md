@@ -4,18 +4,16 @@ title: >
 subtitle: >
   All you need to know about tech life here at Imperial
 date: "2010-10-01 22:00:02 +0100"
-
-# Attributes from Felix Online V1
-id: "162"
-old_path: /tech/162/imperial-technology-survival-guide-2010
+image: "http://felixonline.co.uk/img/upload/201104181033-felix-technology-based-life1.jpg"
+image_caption: "In the year 3025, moisturiser is a 'must' "
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/162/imperial-technology-survival-guide-2010
-imported: true
 comments:
  - value: >
      If anyone would like a hand connecting a Nokia smartphone to Imperial-WPA, post here and I'll reply with some certificate hackery! Not sure about Maemo etc but Symbian models definitely require a few tweaks to get connected.
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104181033-felix-technology-based-life1.jpg"
-image_caption: ""
 ---
 
 Welcome Freshers! You’ve made it to Imperial, a place where technology and life should go hand in hand. I’ll leave that up to you to decide whether that’s true, but here’s a quick guide to tech at college and the surrounding areas of London to see you through your first couple of weeks.

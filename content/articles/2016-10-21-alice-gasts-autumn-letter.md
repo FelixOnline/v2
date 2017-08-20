@@ -4,16 +4,14 @@ title: >
 subtitle: >
   felix reads it so you don’t have to (you’re welcome)
 date: "2016-10-21 09:18:38 +0100"
-
-# Attributes from Felix Online V1
-id: "6337"
-old_path: /news/6337/alice-gasts-autumn-letter
+image: "http://felixonline.co.uk/img/upload/201610211111-so515-Aghast.jpg"
+image_caption: "You Can Call me Al"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6337/alice-gasts-autumn-letter
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - mjj15
  - so515
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610211111-so515-Aghast.jpg"
-image_caption: ""
 ---
 
 Imperial College President, Alice Gast, released her autumn letter this week and set out College’s vision for the future, a post Brexit future.

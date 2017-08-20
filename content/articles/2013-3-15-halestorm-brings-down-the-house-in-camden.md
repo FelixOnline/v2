@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Plabon Saha reports back from the Electric Ballroom
 date: "2013-03-15 02:50:23 +0000"
-
-# Attributes from Felix Online V1
-id: "3492"
-old_path: /music/3492/halestorm-brings-down-the-house-in-camden
+image: "http://felixonline.co.uk/img/upload/201303150250-tna08-halestorm_1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3492/halestorm-brings-down-the-house-in-camden
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - ps3411
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303150250-tna08-halestorm_1.jpg"
-image_caption: ""
 ---
 
 I like to think my taste in music has greatly varied over the years. I have gone through the teenage phase of listening to Green Day, Sex Pistols, Fall out Boy, Panic! At the Disco etc. You get the gist of it all. There was also a time when I used to listen to hard rock in the form of System of a Down, Bullet for My Valentine and Slipknot amongst others. These days, I have moved onto a lot more indie pop, post-punk and dream pop. The reason I am telling you this is because Halestorm doesn’t fall in any of those categories. Halestorm is in essence a hard rock band which I came across when they supported Slash last year at the Hammersmith Apollo. That was a curious gig to say the least, since the supporting act, a Dutch new wave/electronic/art punk band called Minny Pops, was booed off stage. It wasn’t all disappointment before Slash’s appearance because that’s the moment that Halestorm came on. Their energy on stage was simply admirable and at this point I think drummer Arejay Hale should get a special mention for his acrobatic efforts of constantly juggling drumsticks in the middle of a song. Lzzy Hale’s strong vocals meant it was the perfect start to a rock gig and at that point I became a fan (and went home to download their music illegally, like all the cool kids do {fyi I am not a total prick, I tend to pay for gigs rather than buy records}).

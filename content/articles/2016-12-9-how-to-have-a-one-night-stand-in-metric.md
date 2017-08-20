@@ -4,16 +4,13 @@ title: >
 subtitle: >
   I know this says that this is about Metric, but really it could apply to any place, at any time, with any person.
 date: "2016-12-09 16:14:17 +0000"
-
-# Attributes from Felix Online V1
-id: "6591"
-old_path: /sex/6591/how-to-have-a-one-night-stand-in-metric
+image: "http://felixonline.co.uk/img/upload/201612091613-felix-Screen Shot 2016-12-09 at 16.13.07.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sex/6591/how-to-have-a-one-night-stand-in-metric
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sex
 tags:
@@ -23,12 +20,6 @@ authors:
  - felixteam
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612091613-felix-Screen Shot 2016-12-09 at 16.13.07.png"
-image_caption: ""
 ---
 
 ## 1 | Preparation

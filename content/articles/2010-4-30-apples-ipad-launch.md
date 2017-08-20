@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Apple launched the iPad whilst you were out
 date: "2010-04-30 10:47:38 +0100"
-
-# Attributes from Felix Online V1
-id: "130"
-old_path: /tech/130/apples-ipad-launch
+image: "http://felixonline.co.uk/img/upload/201004301144-srg03-ApplesiP.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/130/apples-ipad-launch
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - srg03
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201004301144-srg03-ApplesiP.jpg"
-image_caption: ""
 ---
 
 Whilst you were out, Apple launched a little thing called the iPad. You might have seen our feature on Mr. Jobs' 'magical' device last term, which was released in its WiFi only form to avid fans across the US on April 3rd. Is it as amazing as all Apple fanboys hoped and dreamed? Maybe.

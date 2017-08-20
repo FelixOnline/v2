@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Human-like dogs and more in one of the BBC's latest comedies
 date: "2011-11-03 20:24:33 +0000"
-
-# Attributes from Felix Online V1
-id: "1665"
-old_path: /tv/1665/wilfred---bizarre-humour-has-a-new-leash-of-life-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1665/wilfred---bizarre-humour-has-a-new-leash-of-life-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -23,12 +20,6 @@ authors:
  - gb610
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A hapless ex-lawyer (Elijah Wood) wakes up after trying to commit suicide the night before. Clearly a fruitless attempt – damn you sugar pills! Ryan is confronted by his neighbour, Jenna, asking him to look after her dog, the eponymous Wilfred (played superbly by Jason Gann, and no, I hadn’t heard of him either). Ryan’s opinion of Jenna is fairly self evident – she’s pretty hot – so he obliges.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   John Park sets the scene for this year's Oscar Race
 date: "2014-12-04 19:39:37 +0000"
-
-# Attributes from Felix Online V1
-id: "5001"
-old_path: /film/5001/and-the-oscar-goes-to
+image: "http://felixonline.co.uk/img/upload/201412041939-cj914-oscars-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5001/and-the-oscar-goes-to
-imported: true
 comments:
  - value: >
      A person necessarily assist to make seriously articles I'd state. This is the very first time I frequented your website page and up to now? I surprised with the analysis you made to make this particular publish extraordinary. Fantastic process! <br>ray ban aviators gold frame pink lens http://www.sanctus1.co.uk/?uk-ray-ban-aviators-gold-frame-pink-lens-21401.html,Difficulties features might be PSP can interact with PS3 in the event you have Wi-Fi connection. They'd to hire business outsourcing agents throughout the course of the fifa security. <br>fifa 16 hack http://creditsfut.com/
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - jgp09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412041939-cj914-oscars-copy.jpg"
-image_caption: ""
 ---
 
 It’s December, which means only one thing. The Oscar Race has officially begun. The New York Film Critics Circle has announced their winners, the Gotham Awards have given out their trophies to the independent films worthy of recognition, the National Board of Review have also announced, the Los Angeles Critics will soon follow, building up the excitement surrounding some of this year’s best films.

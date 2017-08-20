@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The effects will be devastating for hundreds of thousands across the country
 date: "2011-05-08 13:28:45 +0100"
-
-# Attributes from Felix Online V1
-id: "1179"
-old_path: /travel/1179/world-cup-woes-for-the-residents-of-rio
+image: "http://felixonline.co.uk/img/upload/201105081428-felix-protest.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/1179/world-cup-woes-for-the-residents-of-rio
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105081428-felix-protest.jpg"
-image_caption: ""
 ---
 
 2014 will no doubt arrive in the blink of an eye and it’ll be time again for that most glorious of sporting events. And with rocketing temperatures, minimal living costs and the nearby Copacabana beach boasting hot latina girls wearing next to nothing, what better venue for the World Cup than Rio’s towering Estádio do Maracanã?

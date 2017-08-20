@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Julian Iacoponi describes the action
 date: "2013-11-25 00:01:46 +0000"
-
-# Attributes from Felix Online V1
-id: "4140"
-old_path: /sport/4140/ic-do-the-double-over-kcl
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4140/ic-do-the-double-over-kcl
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - jhi13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 On both Wednesday 13th and Saturday 16th of November, the ICUAFC 3rd team played the King’s College 2nd team, home and away respectively.

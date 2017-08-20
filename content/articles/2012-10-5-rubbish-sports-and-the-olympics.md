@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Stephanie Walton puts herself in the firing line
 date: "2012-10-05 12:50:50 +0100"
-
-# Attributes from Felix Online V1
-id: "2618"
-old_path: /arts/2618/rubbish-sports-and-the-olympics
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2618/rubbish-sports-and-the-olympics
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - skw10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Forgive me, reader, if you’ve reached Olympic saturation point over the summer. No doubt I would have done so long ago, had I not spent a large part of those two weeks in a lecture theatre in The Netherlands. Utrecht train station, I excitedly discovered, had a large screen TV showing the Games. I stationed myself in front of the screen, keen to catch up on all the action…

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   “If we could produce our own, free, solar fuel on our rooftops, we could use it in fuel cells to power cars. You’d have free mileage for life.” James Bezer talks to Professor Keith Barnham about his vision for the future of solar energy
 date: "2014-12-04 21:32:01 +0000"
-
-# Attributes from Felix Online V1
-id: "5015"
-old_path: /science/5015/professor-keith-barnham-talks-about-his-vision-for-the-future-of-solar-energy
+image: "http://felixonline.co.uk/img/upload/201412042132-snb11-giant_photovoltaic_array.jpg"
+image_caption: "Will solar panels like this be on all our houses in the future?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5015/professor-keith-barnham-talks-about-his-vision-for-the-future-of-solar-energy
-imported: true
 comments:
  - value: >
      Honda built a Solar Hydrogen plant at their Swindon plant- I'm surprised it hasn't received more attention. It's the biggest Hydrogen news of the year. Details: <br> <br>The launch of the UK’s first commercial-scale hydrogen production and refuelling facility powered by solar energy heralds the dawn of an era of true carbon-free fuel. <br> <br>The gas will be generated at Honda UK's manufacturing plant in Swindon at the rate of 20 tonnes per year using a process called solar hydrolysis... <br>http://www.shdlogistics.com/news/view/hydrogen-fuel-becomes-a-practical-reality <br> <br>They are also working on a home unit: http://world.honda.com/FuelCell/SolarHydrogenStation/,Why does he make it sound like nuclear energy is detrimental to the environment when it has zero carbon emissions? <br> <br>While I respect scientists and engineers who work on renewable energy sources (even I'm working on a micro-CSP design at the moment), I believe it is ultimately highly myopic to think of a nuclear-free future. Nuclear reactors do not only pro
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412042132-snb11-giant_photovoltaic_array.jpg"
-image_caption: ""
 ---
 
 __James: You originally started your career in particle physics—why did you change to researching solar panels?__

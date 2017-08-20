@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Does John Terry’s personal life have any bearing on his skills as a footballer? No. He just happens to be shit at both
 date: "2010-11-04 18:56:30 +0000"
-
-# Attributes from Felix Online V1
-id: "320"
-old_path: /comment/320/were-all-fed-so-what
+image: "http://felixonline.co.uk/img/upload/201104202134-felix-john-terry.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/320/were-all-fed-so-what
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - mrangry
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104202134-felix-john-terry.jpeg"
-image_caption: ""
 ---
 
 Last week’s [Black Sheep certainly got the column started with a bang](http://felixonline.co.uk/comment/278/is-infidelity-really-such-a-crime-/). At least I thought it had, for the first hundred words. Then I realised the noise was coming from me smashing my head through the paper onto the desk underneath it.

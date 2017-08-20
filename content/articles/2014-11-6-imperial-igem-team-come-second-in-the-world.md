@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Philippa Skett talks to the team on their synthetic biology triumph
 date: "2014-11-06 19:18:23 +0000"
-
-# Attributes from Felix Online V1
-id: "4776"
-old_path: /news/4776/imperial-igem-team-come-second-in-the-world
+image: "http://felixonline.co.uk/img/upload/201411061918-cj914-5792312_orig.png"
+image_caption: "The contestants at the Jamboree in Boston, USA. Imperial won a number of awards at the event."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4776/imperial-igem-team-come-second-in-the-world
-imported: true
 comments:
  - value: >
      { <br>cs go skins are blurry http://support.planbtravel.com.au/entries/108115613-cs-go-skins-customize-your-enjoying-space-and-quick
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411061918-cj914-5792312_orig.png"
-image_caption: ""
 ---
 
 The International Genetically Engineered Machine (iGEM) competition saw our own Imperial team receive a number of awards at the Global Jamboree this week. The competition sees teams from hundreds of Universities bioengineer products using synthetic biology techniques and pits their ideas against each other in a giant conference held in the USA.

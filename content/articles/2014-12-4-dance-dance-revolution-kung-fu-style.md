@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Sanchit Sharma finally hooks up a XBox controller
 date: "2014-12-04 19:34:03 +0000"
-
-# Attributes from Felix Online V1
-id: "5000"
-old_path: /games/5000/dance-dance-revolution-kung-fu-style
+image: "http://felixonline.co.uk/img/upload/201412041934-cj914-kickbeat_22.jpg"
+image_caption: "Dancing her way to the top, and looking incredibly sassy while doing it!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/5000/dance-dance-revolution-kung-fu-style
-imported: true
 comments:
  - value: >
      You simply purchase points through The amazon website.com then purchase packs and/or players. Kansas City's return to the Northwest conjures not-so-fond stories. Did website visitor stays you can buy coins on eBay?!? <br>fifa 16 hack http://creditsfut.com/
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -28,12 +26,6 @@ authors:
  - ss9011
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412041934-cj914-kickbeat_22.jpg"
-image_caption: ""
 ---
 
 Kickbeat describes itself as “an innovative rhythm game with a kung fu theme, featuring fully 3D characters and high-energy music!” Which sounds pretty good. The reality is not quite as good as it seems at first.

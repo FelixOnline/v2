@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Four games you have to play before 2016
 date: "2015-12-12 16:02:00 +0000"
-
-# Attributes from Felix Online V1
-id: "5816"
-old_path: /games/5816/felixs-top-games-of-2015
+image: "http://felixonline.co.uk/img/upload/201512151436-cet13-201512121612-cet13-games.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/5816/felixs-top-games-of-2015
-imported: true
 comments:
  - value: >
      Require assistance with Kidney Disease? watch this movie http://renalimpairedfunction.blogspot.com/,A bit susrpired it seems to simple and yet useful.,Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means more now than ever since the new Google update: Panda. No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings, You now NEED On-Page SEO. So what is good On-Page SEO?First your keyword must appear in the title.Then it must appear in the URL.You have to optimize your keyword and make sure that it has a nice keyword density of 3-5% in your article with relevant LSI (Latent Semantic Indexing). Then you should spread all H1,H2,H3 tags in your article.Your Keyword should appear in your first paragraph and in the last sentence of the page. You should have relevant usag
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201512151436-cet13-201512121612-cet13-games.png"
-image_caption: ""
 ---
 
 ## 4. Rocket League

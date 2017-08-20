@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Blaise Verhasselt examines Rubens’ legacy at a new RA show
 date: "2015-02-07 19:02:09 +0000"
-
-# Attributes from Felix Online V1
-id: "5200"
-old_path: /arts/5200/a-journey-to-the-heart-of-western-art
+image: "http://felixonline.co.uk/img/upload/201502071902-ps3110-key-209-copya.jpg"
+image_caption: "Peter Paul Rubens, Tiger, Lion and Leopard Hunt, 1616"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5200/a-journey-to-the-heart-of-western-art
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - bjv12
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502071902-ps3110-key-209-copya.jpg"
-image_caption: ""
 ---
 
 In collaboration with the Royal Museum of Fine Arts of Antwerp, the __Royal Academy __presents the first exhibition in the UK exploring Rubens’ influence on subsequent art history.

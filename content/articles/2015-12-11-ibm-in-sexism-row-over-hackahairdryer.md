@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Female scientists wondered whether men would be asked to hack a beard trimmer
 date: "2015-12-11 15:27:39 +0000"
-
-# Attributes from Felix Online V1
-id: "5812"
-old_path: /news/5812/ibm-in-sexism-row-over-hackahairdryer
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5812/ibm-in-sexism-row-over-hackahairdryer
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This week, a misjudged campaign on the part of IBM to get women into science faced backlash online after being dubbed sexist.

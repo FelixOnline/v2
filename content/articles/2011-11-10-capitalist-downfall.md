@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Capdown – Koko (November 6, 2011)
 date: "2011-11-10 21:03:05 +0000"
-
-# Attributes from Felix Online V1
-id: "1724"
-old_path: /music/1724/capitalist-downfall
+image: "http://felixonline.co.uk/img/upload/201111102103-felix-capdown.png"
+image_caption: "Caution: angles may induce torticollis"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1724/capitalist-downfall
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - ajm209
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102103-felix-capdown.png"
-image_caption: ""
 ---
 
 It’s an unusual setting for [Capdown](http://www.capdown.net/)’s final gig, skin heads and punks looking incredibly out of place in the theatrical grandeur of [KOKO](http://www.koko.uk.com/). For years these veterans of the UK ska scene (and perhaps the only good thing ever to come out of Milton Keynes) have toured the country’s basements, only now, at the end, getting the recognition and large scale venues they deserve.

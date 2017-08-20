@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Max Falkenberg is less than impressed at Theatre 503's latest offering
 date: "2015-01-21 20:35:01 +0000"
-
-# Attributes from Felix Online V1
-id: "5110"
-old_path: /arts/5110/office-politics---a-car-crash-of-a-play
+image: "http://felixonline.co.uk/img/upload/201501212135-ps3110-screen-shot-2015-01-14-at-21.41.41.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5110/office-politics---a-car-crash-of-a-play
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - mff113
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501212135-ps3110-screen-shot-2015-01-14-at-21.41.41.png"
-image_caption: ""
 ---
 
 Two days before I went to see _Office Politics_, I was hit by a car cycling home. Unfortunately… it would not be the only time I came close to death that week.

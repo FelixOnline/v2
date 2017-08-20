@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alexandra Lim explains why the Mediterranean diet may be the best there is...
 date: "2017-01-20 15:13:09 +0000"
-
-# Attributes from Felix Online V1
-id: "6666"
-old_path: /science/6666/fish-from-the-med-good-for-the-head
+image: "http://felixonline.co.uk/img/upload/201701201513-felix-fish-1768103_1280.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6666/fish-from-the-med-good-for-the-head
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - al4915
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701201513-felix-fish-1768103_1280.png"
-image_caption: ""
 ---
 
 Think back to the last time you dipped sourdough into balsamic, mixed with a gleaming pool of olive oil. Extra virgin, please. As the world of nutrition science continues to shift our perceptions between food ideals, a new study has come to light featuring the sunny, olive oil lifestyle. The paper, published in the online journal Neurology, has shown that those who sustain themselves on a Mediterranean diet retain more brain volume than those who don’t. There is however, one key and slightly unusual exception – the amount of fish consumed, regardless of how much other meat is eaten, fails to make an overall difference. This particular finding contrasts with earlier studies looking into health benefits of a Mediterranean diet. So why is it so healthy for us, even without the fish?

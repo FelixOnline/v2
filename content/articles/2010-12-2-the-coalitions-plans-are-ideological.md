@@ -4,18 +4,15 @@ title: >
 subtitle: >
   It's time for us all to make it clear to the Union and College we oppose the changes and introduction of higher fees
 date: "2010-12-02 21:12:54 +0000"
-
-# Attributes from Felix Online V1
-id: "488"
-old_path: /comment/488/the-coalitions-plans-are-ideological
+image: "http://felixonline.co.uk/img/upload/201012022108-nm1010-felixpho.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/488/the-coalitions-plans-are-ideological
-imported: true
 comments:
  - value: >
      Posts like this brihtgen up my day. Thanks for taking the time.,YRFQGM <a href="http://tujnbibqrujm.com/">tujnbibqrujm</a>, <a href="http://www.symprix.net/">valtrex</a> %[[ <a href="http://www.medssupport.com/">topamax and excessive weight loss</a> =-[[[ , <a href="http://www.ramonenses.com/Generic-Cialis/">cialis</a> 8))) <a href="http://www.thesugarmamasblog.com/">バイアグラを購入する</a> &gt;:-DD , <a href="http://www.pillsprix.com/">propecia</a> %-PP <a href="http://www.equimedics.net/">cheap synthroid</a> noxgi <a href="http://www.medssupport.com/">topamax</a> azor
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +23,6 @@ authors:
  - rlg107
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022108-nm1010-felixpho.jpg"
-image_caption: ""
 ---
 
 Those who support the government’s cuts claim that people haven’t looked up or understood the propositions, and that there are no other viable options. I find this insulting and naive.

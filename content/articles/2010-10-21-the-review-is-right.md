@@ -4,16 +4,13 @@ title: >
 subtitle: >
   We should accept the Browne Review, it is only fair that students should pay for the benefits of their education
 date: "2010-10-21 18:53:49 +0100"
-
-# Attributes from Felix Online V1
-id: "225"
-old_path: /comment/225/the-review-is-right-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/225/the-review-is-right-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Browne Review aims to advise the Government on changes to the system of Higher Education Funding. Although the headline proposal has been to allow universities to set their own fees, the proposals in the review would, if enacted, mean that anyone could go to university regardless of wealth. It would provide more money for students to live on whilst at university. It would also mean that no one would have to start paying off their loan until they were earning £21,000, and that until then, there would be no interest on it. Why are the NUS against these proposals? For one reason: perception.

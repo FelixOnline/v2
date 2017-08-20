@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Since they move freely in time, one moment is as good as the next to them
 date: "2011-05-26 23:44:48 +0100"
-
-# Attributes from Felix Online V1
-id: "1267"
-old_path: /comment/1267/extra-dimensions-of-service
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1267/extra-dimensions-of-service
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - rjd08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I’m sure you’ve suffered the same experience. You’re at a restaurant, the food you’ve ordered has arrived and you tuck in. Thirty seconds later, a waiter will come across and obsequiously ask if everything is alright. Since there hasn’t been the time for anything to go wrong, you nod politely and thank them. They then disappear and leave you to eat the rest of your meal in peace. But they remain absent even once you’ve finished and are, in a moment of weakness, contemplating dessert. They will have been gone so long by the time you ask for the bill, you wonder if they ever existed in the first place. When you are still waiting at the end of the evening when they are wiping down the tables, you convince yourself that everyone, not only the waiter, has completely forgotten about you.

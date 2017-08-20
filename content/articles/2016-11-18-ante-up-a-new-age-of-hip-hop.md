@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Is hip-hop finally casting the spotlight on mental health issues, violence and gender identity?
 date: "2016-11-18 15:42:16 +0000"
-
-# Attributes from Felix Online V1
-id: "6483"
-old_path: /music/6483/ante-up--a-new-age-of-hip-hop
+image: "http://felixonline.co.uk/img/upload/201611181541-felix-Antonio Rull.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6483/ante-up--a-new-age-of-hip-hop
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611181541-felix-Antonio Rull.jpg"
-image_caption: ""
 ---
 
 For a form of music so deeply rooted in a culture of self-certainty and dazzling bravado, you might not expect artists of the genre to be tackling sensitive issues relating to isolation, depression, violence and substance abuse. This however, is exactly what we’ve seen take place with fresh new artists championing the cause to give these issues a well-deserved place in the spotlight.

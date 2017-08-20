@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Christian Franke lists how to end a dinner on a non-WINE note
 date: "2011-02-17 19:42:56 +0000"
-
-# Attributes from Felix Online V1
-id: "823"
-old_path: /food/823/when-the-dinners-over
+image: "http://felixonline.co.uk/img/upload/201102171937-nm1010-digestdi.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/823/when-the-dinners-over
-imported: true
 comments:
  - value: >
      <a href="http://tehnogame.tk">Бесплатная RPG онлайн игра Техномагия завоевала интерес тысяч пользователей различной возрастной категории оригинальным интерфейсом, геймплеем, игровым движком. Игра в стиле фэнтези совместила в себе элементы стратегии, тактики и логики. Мир Техномагии красочен и ярок, графика основана на флеш-анимации, при этом ее системные требования минимальны.</a>,[b]Some text::[/b] <br>Austin Auto Insurance Quotes - Car Insurance Texas Quote - Austin, TX Auto . MI Beauty Salons Adrian, MI Car Rental Adrian, MI Dentists Adrian, MI Doctors Adrian, MI Flowers Adrian, MI Hotels Adrian, MI Insurance. As a leading UK car insurance intermediary we offer specialist Audi car insurance. Kentucky Car Insurance
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102171937-nm1010-digestdi.jpg"
-image_caption: ""
 ---
 
 After having a long, drawn out and indulgent dinner, what does one have whilst engaging in sophisticated conversation and to cleanse the palate after the cheese board? To continue drinking wine simply lacks imagination, besides it wouldn’t be best suited to aid digestion. Fortunately a whole genre of drink has been developed over the past several hundred years purely for this purpose, I am of course writing about the digestif.

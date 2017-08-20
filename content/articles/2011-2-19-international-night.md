@@ -4,18 +4,15 @@ title: >
 subtitle: >
   And the winner is... Cypriot Society!
 date: "2011-02-19 15:55:07 +0000"
-
-# Attributes from Felix Online V1
-id: "857"
-old_path: /arts/857/international-night
+image: "http://felixonline.co.uk/img/upload/201102191551-ks607-internat.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/857/international-night
-imported: true
 comments:
  - value: >
      Is this supposed to be a review of the Night or a feature on the Cypriot Society and their secrets to their success? For an event review, there are remarkably sparse details of what the other acts were and in what way they dazzled the audience!,Of course is a review of the night man, but it is focused on the winners. Fair enough,lol what about some write up of the original 'winners' then?,how can she write about the "original winners" since they didn't even bother to stay until the end of the show??
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102191551-ks607-internat.jpg"
-image_caption: ""
 ---
 
 Last Friday, 11th of February at 7:00 p.m, the Great Hall of Sherfield Building was packed from Imperial College students, friends, parents and staff. The reason? One of the most entertaining and full of fun event that is organized annually by the Imperial College Overseas Societies Committee; the International Night 2011!

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   In short: upgrade your Wordpress plz. kthnxbai.
 date: "2012-11-29 21:55:30 +0000"
-
-# Attributes from Felix Online V1
-id: "2983"
-old_path: /news/2983/clubs-with-wordpress-sites-need-to-upgrade-or-be-hacked-intense
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2983/clubs-with-wordpress-sites-need-to-upgrade-or-be-hacked-intense
-imported: true
 comments:
  - value: >
      I'm not using SSL as some form of silver bullet that will magically solve all these issues, it's part of a number of things I am doing. Don't worry! I'm not going to sit in my chair and relax now! <br> <br>An added benefit of mandating SSL will hopefully be realised once I get the necessary approval from the powers that be, but you'll hopefully find out about that one soon.,It's too easy to hide behind the whole 'OMG USE SSL' thing, just because one of the Ss stands for "secure". Most browsers won't warn about iframes or cross-domain AJAX requests, particularly if the user has ticked the "don't warn me again" box. <br> <br>It's no substitute for writing secure code, and I would have thought that Wordpress, as an open source community-reviewed project, would be far more resilient to attack than some contributed code by Imperial students. <br> <br>I have seen code written by the current Union President and ex-Sysadmin that has made me feel physically sick. <br> <br>I say you force everyone to use PDO prepared statements.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imperial clubs with old Wordpress sites are vulnerable toattack from hackers.

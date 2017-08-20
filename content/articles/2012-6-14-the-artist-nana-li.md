@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Artist - Nana Li
 date: "2012-06-14 20:26:05 +0100"
-
-# Attributes from Felix Online V1
-id: "2564"
-old_path: /phoenix/2564/the-artist---nana-li-
+image: "http://felixonline.co.uk/img/upload/201206142124-pk1811-nana.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/2564/the-artist---nana-li-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206142124-pk1811-nana.png"
-image_caption: ""
 ---
 
 _Nana Li is a freelance illustrator currently based in London. Having previously completed a Biomedical Engineering degree, she now specialises in illustration, comics and character design. She has had several publications and a number of notable clients including Canon, ImgaineFX and SelfMadeHero._

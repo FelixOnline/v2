@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Michael Krestas reviews Betty Blythe
 date: "2011-10-21 12:06:10 +0100"
-
-# Attributes from Felix Online V1
-id: "1605"
-old_path: /food/1605/vintage-and-glamorous-betty
+image: "http://felixonline.co.uk/img/upload/201110211306-ak6309-betty-blythe-tea-shopw.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1605/vintage-and-glamorous-betty
-imported: true
 comments:
  - value: >
      I had not read that he was not under the influence of drugs or ETOH, but I was not trynig to state that it was a fact he was drunk. Toxicology screenings also cannot pick up designer drugs, such as synthetic marijuana or bath salts , both of which are possible to have caused increased bleeding and swelling to the brain due to hyperthermia. I am by no means an expert on the case or the man that died, I was just trynig to give a little medical incite.
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -28,12 +25,6 @@ authors:
  - mk4410
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110211306-ak6309-betty-blythe-tea-shopw.jpg"
-image_caption: ""
 ---
 
 London is filled with loads of cafés, which, let’s face it, look almost the same and offer very similar products. That’s why it’s completely OK to feel sick of them. There is, however, a place in London where you can have your coffee or tea like you’ve never have before. It’s small, it’s cozy, it’s friendly, it’s “Betty Blythe”. Named after the Hollywood starlet, “Betty Blythe” is a beautiful, vintage teashop and fine food pantry in west London – just 10 minutes walking from Hammersmith Station.

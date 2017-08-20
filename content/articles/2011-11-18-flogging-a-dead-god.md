@@ -4,18 +4,15 @@ title: >
 subtitle: >
   When will everyone realise that the debate on divine existence is over?
 date: "2011-11-18 00:09:23 +0000"
-
-# Attributes from Felix Online V1
-id: "1797"
-old_path: /comment/1797/flogging-a-dead-god
+image: "http://felixonline.co.uk/img/upload/201111180005-sjw209-god.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1797/flogging-a-dead-god
-imported: true
 comments:
  - value: >
      It's ok. Repent and accept Jesus and all of your sins will be forgiven and you will get to spend eternity in heaven with the likes of William Lane Craig. <br>Actually, now hell sounds more appealing.,It is interesting to note that you aren't offering any evidence for God's non-existance, in which you belive. Perhaps if you offered some proof of God's non-existance then you would have more to argue with than refutations of evidence for God's existance. ,We're scientists. We do not offer proof for the non-existence of things which others have failed to prove exists. This is akin to offering proof that another universe outside our own doesn't exist on the premise that someone might one day find some proof for one which does. It's actually less interesting that Kishan offers no proof for the non-existence of a god than anyone offering solid proof for the existence of god.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111180005-sjw209-god.jpg"
-image_caption: ""
 ---
 
 My unquestionable faith in the non-existence of an ineffable, unfathomable and utterly unintelligible being has been brought into question. “Aha! The fundamentalist atheist finally sees that the existence of the ultimate voyeur (as Sartre would put it…) is still very much up for debate.” What has brought about this paradigm shift?

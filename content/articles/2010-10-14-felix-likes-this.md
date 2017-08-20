@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Social Network is a contemporary tale of friendship, jealousy, betrayal and – above all – ambition
 date: "2010-10-14 19:58:15 +0100"
-
-# Attributes from Felix Online V1
-id: "216"
-old_path: /film/216/felix-likes-this
+image: "http://felixonline.co.uk/img/upload/201010142053-nm1010-zuckerbe.jpg"
+image_caption: "Justin Timberlake is actually quite good in The Social Network. Who would have thought?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/216/felix-likes-this
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - ghc07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010142053-nm1010-zuckerbe.jpg"
-image_caption: ""
 ---
 
 The Social Network may just be the movie that defines our generation. It tackles a subject that certainly defined our generation – Facebook – and after barely a month in the cinemas, critics already call it a classic. What’s the fuss about?

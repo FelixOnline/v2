@@ -4,18 +4,15 @@ title: >
 subtitle: >
   (spoilers rife!)
 date: "2012-10-18 21:36:01 +0100"
-
-# Attributes from Felix Online V1
-id: "2714"
-old_path: /film/2714/top-10-scariest-films-of-all-time
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2714/top-10-scariest-films-of-all-time
-imported: true
 comments:
  - value: >
      Wow! Great to find a post knikocng my socks off!
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -29,12 +26,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 10 The Silence of the Lambs

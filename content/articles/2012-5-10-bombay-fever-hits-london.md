@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Mark England catches up with Bombay Bicycle Club
 date: "2012-05-10 19:59:53 +0100"
-
-# Attributes from Felix Online V1
-id: "2438"
-old_path: /music/2438/bombay-fever-hits-london
+image: "http://felixonline.co.uk/img/upload/201205102101-felix-bombay4.jpg"
+image_caption: "Everyone in this photo looks very happy and relaxed, apart from Mr Serious on the left"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2438/bombay-fever-hits-london
-imported: true
 comments:
  - value: >
      Is this "girlfriend" still a part of jack's life? :/
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +26,6 @@ authors:
  - me1409
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205102101-felix-bombay4.jpg"
-image_caption: ""
 ---
 
 _I interviewed Jack Steadman from __Bombay Bicycle Club__ before they played the biggest ever UK headline show of thier career at London’s Alexandra Palace. With the North London band returning home to celebrate their extra-ordinary third album, _[A Different Kind of Fix](http://vimeo.com/30065851)_, it was to prove a memorable night._

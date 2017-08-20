@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Sanchit Sharma reviews a humble bundle purchase he actually plays
 date: "2014-11-28 01:08:34 +0000"
-
-# Attributes from Felix Online V1
-id: "4977"
-old_path: /games/4977/always-the-story-sometimes-the-choices-mostly-monsters
+image: "http://felixonline.co.uk/img/upload/201411280108-ps3110-asm.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4977/always-the-story-sometimes-the-choices-mostly-monsters
-imported: true
 comments:
  - value: >
      Brazil, 'the king of World Cup' will stop in group G with Korea DPR, Ivory Coast, and Portugal. Similarly, the answering services company manager cannot spend to much time poring over data of yesteryears. <br>fifa 16 hack http://creditsfut.com/,Thanks alot - your answer solved all my problems after several days stnuiglgrg
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -28,12 +25,6 @@ authors:
  - ss9011
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411280108-ps3110-asm.png"
-image_caption: ""
 ---
 
 Always Sometimes Monsters is an indie game by Vagabond Dog and Devolver Digital. The first time you load it up, you’ll see a tiny (560x454) window with the game logo and 3 buttons – New Game, Credits, and Quit. Yeah, no options. This is a pretty simple game. You can adjust the window by pressing F6 or F7, which make the window bigger and fullscreen respectively. If it didn’t have those options, the size of the window would make Always Sometimes Monsters pretty much unplayable.

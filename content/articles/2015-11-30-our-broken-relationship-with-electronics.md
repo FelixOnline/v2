@@ -4,18 +4,15 @@ title: >
 subtitle: >
   When your phone breaks, what do you do with it?
 date: "2015-11-30 12:03:51 +0000"
-
-# Attributes from Felix Online V1
-id: "5788"
-old_path: /cands/5788/our-broken-relationship-with-electronics-
+image: "http://felixonline.co.uk/img/upload/201511301200-ygr12-broken-phone.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5788/our-broken-relationship-with-electronics-
-imported: true
 comments:
  - value: >
      Hello, I log on to your blogs daily. Your humoristic style is awesome, keep up the good work! <br>canada goose london england http://www.sanctus1.co.uk/?uk-canada-goose-london-england-27295.html,With thanks! It is definitely an awesome web-site!. <br>fifa 17 coins http://christianbelieversfellowship.org/blogs/post/2664
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511301200-ygr12-broken-phone.jpg"
-image_caption: ""
 ---
 
 How many phones have you owned in the last ten years? Maybe the non-removable battery died or the device became unbearably slow and it was just cheaper to get a new one. Or maybe it was just time for an upgrade. The new model always seems to have the essential features that were missing from the old version. Short lifetimes, sealed hardware and shiny new designs every year. It’s almost like electronics companies want us to keep buying an endless supply of brand new devices from them.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jash Rughani looks into the escalating tensions between India and China
 date: "2013-11-01 09:33:33 +0000"
-
-# Attributes from Felix Online V1
-id: "3971"
-old_path: /politics/3971/talks-held-between-india-and-china-over-a-border-dispute
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/3971/talks-held-between-india-and-china-over-a-border-dispute
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jr1911
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 China’s presence on the global economic platform has been colossal since the turn of the millennium. It has followed the tenets of inclusive growth and has managed to eradicate rural poverty while the GDP is pegged at about 9 trillion dollars annually. However, the dragon country’s real problems and aspirations lie outside of its boundaries. Or so it appears from its relations with its neighbors.

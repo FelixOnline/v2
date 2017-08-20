@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Secrets of early humans' journey to Australia unlocked
 date: "2011-10-07 09:54:14 +0100"
-
-# Attributes from Felix Online V1
-id: "1481"
-old_path: /science/1481/aboriginal-australian-genome-sequenced
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1481/aboriginal-australian-genome-sequenced
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - ko407
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 An 100-year-old lock of hair has helped scientists to unravel the movements of early humans on their journey to Australia. Scientists have obtained a genomic sequence from the hair, donated in the early 20th century by a man who was an Aboriginal Australian.

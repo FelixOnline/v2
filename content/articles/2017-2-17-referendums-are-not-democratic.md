@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Divyen Vanniasegaram condemns the votes as a replacement for effective democracy
 date: "2017-02-17 14:38:49 +0000"
-
-# Attributes from Felix Online V1
-id: "6784"
-old_path: /comment/6784/referendums-are-not-democratic
+image: "http://felixonline.co.uk/img/upload/201702171438-felix-Screen Shot 2017-02-17 at 14.38.34.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6784/referendums-are-not-democratic
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - divyenvanniasega
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702171438-felix-Screen Shot 2017-02-17 at 14.38.34.png"
-image_caption: ""
 ---
 
 Referendums have been leading, and will continue to lead, to the slow erosion of Parliamentary sovereignty. The UK is a Parliamentary representative democracy, where the electorate elect a representative from their constituency to represent them in Parliament. These members of parliament should vote and act in good conscience and in what they believe is in the best interest of their constituents; we do not elect delegates to put across our everyday whims on every single issue. Anna Soubry MP made this exact point during the debate on triggering Article 50, saying that she did not go through the lobbies voting for what she believed in but rather what she had promised her constituents.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   You can forget about elections for the rest of the year
 date: "2017-03-17 13:03:25 +0000"
-
-# Attributes from Felix Online V1
-id: "6897"
-old_path: /news/6897/your-new-sabbs-are-here
+image: "http://felixonline.co.uk/img/upload/201703171303-felix-sabbs.jpg"
+image_caption: "Isn't there someone missing tho?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6897/your-new-sabbs-are-here
-imported: true
 comments:
  - value: >
      My way or the highway. <br>buy cheap albion online gold https://www.friendku.com/blog.php?user=8045&amp;blogentry_id=124995,Not that I know of. <br>cheap madden 17 mobile coins store http://www.madden-store.com,This is really a nice place. <br>top one pokemon go rare pokemon seller http://www.pokemonbux.com,You started it ! <br>cheap albion online gold http://www.albionsilver.net/albion-runs-various-platforms-next-update/,Why don't we give this a try? <br>buy cheapest Dofus Touch Kamas http://board.space-wars.xooit.biz/t69074-DofusTouch-Kamas-Assurance-Price-of-Kamas.htm
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - jmw216
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171303-felix-sabbs.jpg"
-image_caption: ""
 ---
 
 Following a 36.79% turnout (down a bit from last year but still the third-highest in the country according to the Union website), elections are finally over and winners have been announced.

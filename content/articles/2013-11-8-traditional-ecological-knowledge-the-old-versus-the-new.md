@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Nika Levikov on just how old customs can bring us up to speed for the future
 date: "2013-11-08 09:41:25 +0000"
-
-# Attributes from Felix Online V1
-id: "4030"
-old_path: /science/4030/traditional-ecological-knowledge-the-old-versus-the-new
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4030/traditional-ecological-knowledge-the-old-versus-the-new
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - nl1913
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Traditional ecological knowledge (TEK) is not a new concept, especially for indigenous peoples themselves or those who practice old customs. However, we still find ourselves merely engaging in dialogue about how TEK should be applied to policy-making and research. The world of conservation is only now recognising that incorporating other disciplines is necessary if any changes we try to make as scientists are going to stick.

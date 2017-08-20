@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Has voracious commercialism taken over a traditional expression of property rights? Theo Farah ventures into the heart of matrimonial hype to learn more about creating the perfect day.
 date: "2017-03-17 17:23:17 +0000"
-
-# Attributes from Felix Online V1
-id: "6914"
-old_path: /features/6914/the-national-wedding-show-is-decadent-and-depraved-
+image: "http://felixonline.co.uk/img/upload/201703171721-felix-nws3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6914/the-national-wedding-show-is-decadent-and-depraved-
-imported: true
 comments:
  - value: >
      If he shows up, we stick with him. <br>buy cheap albion online gold http://starbook.com/blogs/676/4048/albion-online-zoom-and-flagging-devices,This is really a nice place. <br>leading madden coins mobile seller http://www.madden-store.com,If I have the guts to quit my job . <br>cheap pokemon go rare pokemon store pokemonbux http://www.pokemonbux.com,I'll fix it! <br>buy cheap albion gold http://www.thysell.org/forum/viewtopic.php?t=191029,you have a good sense of humor. <br>cheap Albion Online gold for sale http://runescape3sell.com/the-dynamics-of-albion-online-dependent-on-how-you-perform/
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171721-felix-nws3.jpg"
-image_caption: ""
 ---
 
 As I walked along Hammersmith Road to the convention centre, Kensington Olympia, a faltering bundle of nerves, I scanned my brain for excuses not to enter the palatial structure. Fortified by a cocktail of stimulants, I still felt lacking in brass for my foray behind enemy lines. Twenty-one and male, I had been doubly inoculated from the mysterious world of weddings. My only experiences were the odd episode of Bridezilla or Cake Boss, highlight reels of caricatures resplendent in white, crazed by the slightest deviation from plan on their special day.

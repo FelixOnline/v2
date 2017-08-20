@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A Round-Heeled Woman: as cringeworthy as a Christmas dinner gone wrong
 date: "2011-12-08 21:02:50 +0000"
-
-# Attributes from Felix Online V1
-id: "1927"
-old_path: /arts/1927/sexagenarian-eager-beavers
+image: "http://felixonline.co.uk/img/upload/201112082102-pk1811-roundheeled.jpg"
+image_caption: "Sexy at sixty-seven"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1927/sexagenarian-eager-beavers
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - lj1409
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082102-pk1811-roundheeled.jpg"
-image_caption: ""
 ---
 
 The auditorium dims, the stage lights go up, and I’m faced with a sixty-six-year-old woman lying on a bed, masturbating to phone sex.

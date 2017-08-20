@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Michael Yat Kit Chung gives you breakfast and dinner ideas
 date: "2013-02-13 14:24:02 +0000"
-
-# Attributes from Felix Online V1
-id: "3302"
-old_path: /food/3302/flapjacks-pasta-and-meatballs-in-1
+image: "http://felixonline.co.uk/img/upload/201302131423-tna08-meatballs.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3302/flapjacks-pasta-and-meatballs-in-1
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - felfood
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302131423-tna08-meatballs.jpg"
-image_caption: ""
 ---
 
 When you see me, you would probably guess that I like eating. And you couldn’t be more right! I was lucky enough that my food was cooked for me for most of my life. So when I was finally let loose in the kitchen, I have been going bonkers. Here is some of my favourite recipes that I have made.

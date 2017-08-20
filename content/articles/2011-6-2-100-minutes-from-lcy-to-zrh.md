@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Richard Keller on a relaxing sojourn in Zurich
 date: "2011-06-02 20:19:33 +0100"
-
-# Attributes from Felix Online V1
-id: "1321"
-old_path: /travel/1321/100-minutes-from-lcy-to-zrh
+image: "http://felixonline.co.uk/img/upload/201106022119-felix-zurich2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/1321/100-minutes-from-lcy-to-zrh
-imported: true
 comments:
  - value: >
      Well, for what it's worth... Italy simply isn't Switzerland for everything other than the ice cream! Oh, and I don't speak the language...,You mention that tuscan ice-cream is better. Why didn't you just fly to Pisa instead of Zurich?
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -28,12 +25,6 @@ authors:
  - rk09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106022119-felix-zurich2.jpg"
-image_caption: ""
 ---
 
 I was in Zurich last week; a beautiful sunny day in what the Zürcher like to consider to be the best of Switzerland, its peak. It lacks the 15,203 ft altitude of the Dufourspitze, though, on a day like today the view across the lake is just as amazing. Strolling along Bahnhofstrasse the fashion statements (for women) walking by present themselves mainly as wearing shorts or a mini skirt, leather boots that go all the way up to the knees with flat heels and a top that has flowers printed all over it. In short, life is beautiful here.

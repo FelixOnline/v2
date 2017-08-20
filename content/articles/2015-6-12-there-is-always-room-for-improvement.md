@@ -4,18 +4,16 @@ title: >
 subtitle: >
   George Butcher takes a look back on his time at Imperial
 date: "2015-06-12 12:36:31 +0100"
-
-# Attributes from Felix Online V1
-id: "5618"
-old_path: /comment/5618/there-is-always-room-for-improvement
+image: "http://felixonline.co.uk/img/upload/201506121336-cj914-uk-imperial-college-albert-hall.jpg"
+image_caption: "Imperial is full of happy memories, but looking back there are always ways it could be better."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5618/there-is-always-room-for-improvement
-imported: true
 comments:
  - value: >
      fitflop oasis discount <br>fitflops buy online http://singaporeasalefitflops.blogspot.com/,fitflops australia sale <br>fitflop sale australia http://www.australiafitflops.com/,fitflops slippers <br>fitflops discount http://australiafitflops.iemiller.net/,cheap birkenstock <br>birkenstock shoes http://birkenstockaustralia.blogspot.com/,birkenstocks clearance <br>birkenstocks clearance http://birkenstockaustralia.blogspot.com/,buy christian louboutin shoes canada <br>christian louboutin canada stores http://canadachristianlouboutinoutlet.blogspot.com/,louboutin online <br>christian louboutin canada sale http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin mens shoes canada <br>christian louboutin outlet store http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin shoes online <br>christian louboutin shoes online http://canadachristianlouboutinoutlet.blogspot.com/,Within the exercise efficient, putt the main ball impressive it on the bottom on the putter's facial area. Do you really feel a unexciting fe
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - gb1311
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506121336-cj914-uk-imperial-college-albert-hall.jpg"
-image_caption: ""
 ---
 
 This week I finished my degree. “Congratulations, you have completed Mech Eng!” said the figurative game graphic as I answered the last question of my presentation. Somehow I managed to do four years of my degree without failing an exam (hopefully anyway, there’s still chance), and probably getting a 2:1 overall. Thanks for that.

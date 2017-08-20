@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The CGCU President Lejon Chua writes an open letter to engineers
 date: "2013-11-05 09:50:57 +0000"
-
-# Attributes from Felix Online V1
-id: "4008"
-old_path: /features/4008/presidents-open-letter-on-behalf-of-the-cgcu
+image: "http://felixonline.co.uk/img/upload/201311181840-cac111-lejon-chua---president.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4008/presidents-open-letter-on-behalf-of-the-cgcu
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +21,6 @@ authors:
  - cac111
  - lc3310
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311181840-cac111-lejon-chua---president.png"
-image_caption: ""
 ---
 
 My dear engineering friends,

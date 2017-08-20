@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Two of the five Evelyn Gardens halls will house Imperial students this year
 date: "2015-08-29 16:33:47 +0100"
-
-# Attributes from Felix Online V1
-id: "5649"
-old_path: /news/5649/college-u-turn-on-evelyn-gardens
+image: "http://felixonline.co.uk/img/upload/201508291730-ygr12-evelyn-gardens.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5649/college-u-turn-on-evelyn-gardens
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201508291730-ygr12-evelyn-gardens.jpg"
-image_caption: ""
 ---
 
 Imperial have announced that accommodation at Evelyn Gardens will indeed be offered to Imperial students joining this academic year.

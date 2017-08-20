@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Dan Slocombe shares hic concerns about the orwellian future we are headed towards
 date: "2016-11-25 13:34:01 +0000"
-
-# Attributes from Felix Online V1
-id: "6498"
-old_path: /comment/6498/they-want-our-data--the-uks-internet-crisis
+image: "http://felixonline.co.uk/img/upload/201611251333-felix-Screen Shot 2016-11-25 at 13.33.47.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6498/they-want-our-data--the-uks-internet-crisis
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - danslocombe
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611251333-felix-Screen Shot 2016-11-25 at 13.33.47.png"
-image_caption: ""
 ---
 
 Edward Snowden said that “Arguing that you don’t care about the right to privacy because you have nothing to hide is no different than saying you don’t care about free speech because you have nothing to say.” And, while we may have nothing to hide here at felix, we have plenty to say.

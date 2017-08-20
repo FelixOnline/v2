@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A first-year shares their experience of living in halls over six miles from the South Ken campus
 date: "2013-02-22 01:57:19 +0000"
-
-# Attributes from Felix Online V1
-id: "3369"
-old_path: /comment/3369/my-paragon-nightmare
+image: "http://felixonline.co.uk/img/upload/201302220157-tna08-brentford.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3369/my-paragon-nightmare
-imported: true
 comments:
  - value: >
      Is this a troll? I'm surprised he's not complaining that he had to do his own laundry and buy his own clothes.,I do agree that the Paragon halls are probably not in the most sensible location, and the same applies to the proposed new Acton accommodation. However a spoilt whiny rant like this doesn't do much for the cause. A 40 minute commute or longer is hardly unusual for people working or studying in London. Similarly most of us have to put up with crowded public transport, less-than-spacious accommodation, and not being able to living in a posh borough like Chelsea &amp; Kensington. <br> <br>As for the horror of having to get up '2 hours before lectures' - so 7am at the very earliest - I'm afraid the world of work is going to come as a big shock! ,My friend, ignore the two nasty comments above. They sound like they've been written by the typical social misanthropes you find around Imperial; the type who never left their murky rooms in first year and refused to speak to anyone in halls. Not everyone at this college
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302220157-tna08-brentford.jpg"
-image_caption: ""
 ---
 
 I was fully prepared for the difficulty of the first year. I was prepared for the step up in terms of work and difficulty of the course. I was prepared for the task of finding new friends all over again. I was even prepared to live alone and take care of myself. I was not however, prepared to find myself alienated from a lot of other ‘freshers’ by being shoved into Paragon. All the other difficulties of a first year are just common ground; everyone is in the same boat. For the students at Paragon, being there meant being in a completely different boat altogether.

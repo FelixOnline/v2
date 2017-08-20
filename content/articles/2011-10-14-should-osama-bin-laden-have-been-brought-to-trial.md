@@ -4,16 +4,13 @@ title: >
 subtitle: >
   IC Debating Society brings together two cunning linguists in a furious head-to-head
 date: "2011-10-14 00:26:54 +0100"
-
-# Attributes from Felix Online V1
-id: "1537"
-old_path: /comment/1537/should-osama-bin-laden-have-been-brought-to-trial
+image: "http://felixonline.co.uk/img/upload/201110140127-sjw209-james-osama.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1537/should-osama-bin-laden-have-been-brought-to-trial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110140127-sjw209-james-osama.jpg"
-image_caption: ""
 ---
 
 __Yes - James Clough__

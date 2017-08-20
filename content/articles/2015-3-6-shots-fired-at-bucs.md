@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ernest Lo reports as Imperial A team grab silver
 date: "2015-03-06 14:09:35 +0000"
-
-# Attributes from Felix Online V1
-id: "5356"
-old_path: /sport/5356/shots-fired-at-bucs
+image: "http://felixonline.co.uk/img/upload/201503061409-kmw13-photo-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5356/shots-fired-at-bucs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - kmw13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503061409-kmw13-photo-1.jpg"
-image_caption: ""
 ---
 
 Over BUCS weekend at the end of February, six brave Imperial souls left the comfort and warmth of their London flats to compete in the BUCS Smallbore Rifle Finals. After a hearty Chinese takeaway dinner, something of a team tradition, they set off for Sheffield ready for the upcoming two days of individual and team shooting.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The proposed halls will impact hugely on the welfare of students, argues Becky Lane
 date: "2013-02-22 01:40:17 +0000"
-
-# Attributes from Felix Online V1
-id: "3364"
-old_path: /comment/3364/w3-a-welfare-perspective
+image: "http://felixonline.co.uk/img/upload/201302220140-tna08-milliband.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3364/w3-a-welfare-perspective
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302220140-tna08-milliband.jpg"
-image_caption: ""
 ---
 
 It’s the topic of the moment – [the new halls that Imperial College London Council has approved in W3, North Acton](http://felixonline.co.uk/news/3347/anger-over-new-halls/). Some of you may have been following the Twitter hashtag #AgainstActon, seen the info about the campaign on the Union website or read Paul Beaumont’s blog post (opposite article). I’m going to assume you know the basics, but here is my lowdown on why I think the halls in W3 will have some pretty serious consequences for the welfare of the students who get allocated these halls.

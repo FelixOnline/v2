@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Part 2 of a 3 part feature brought to you by the London Climate Forum 2013
 date: "2013-11-01 09:25:17 +0000"
-
-# Attributes from Felix Online V1
-id: "3968"
-old_path: /features/3968/the-energy-problem-which-way-forward
+image: "http://felixonline.co.uk/img/upload/201311010927-felix-lcf-footer-2a.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/3968/the-energy-problem-which-way-forward
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - sg4812
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311010927-felix-lcf-footer-2a.jpg"
-image_caption: ""
 ---
 
 With David Cameron recently officially backing the development of a new nuclear power station in Britain for the first time in our generation, the UK looks to be more comfortable than not with accepting the presence of nuclear energy production operations, even as the discovery of healthy shale gas reserves were made known last year by a British Geological Survey report. However, not very many countries around the world are in a similarly happy dilemma about choosing which means of energy production to pursue. Further to that, which one ought the UK to be really pursuing as well, when climate change and environmental effects are considered?

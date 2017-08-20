@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In the world of Google and Apple, Rudolf Lai asks if there is a future for Microsoft
 date: "2011-02-10 20:50:21 +0000"
-
-# Attributes from Felix Online V1
-id: "785"
-old_path: /biz/785/is-microsoft-a-dying-firm
+image: "http://felixonline.co.uk/img/upload/201102102049-ks607-jobsgate.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/785/is-microsoft-a-dying-firm
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102102049-ks607-jobsgate.jpg"
-image_caption: ""
 ---
 
 Ten years ago, Microsoft’s products were synonymous with personal computing. The Internet was just stepping into households; Apple narrowly escaped bankruptcy, and its computers were seen as luxurious goods made for designers. In a blink of an eye, Apple became the largest technology company in US by market capitalization in May 2010; in 2009, Google attracted nearly two thirds of the worldwide search volume through its search engine and its sister sites. All that Microsoft seems to be doing is to follow what everybody else has done: launching Bing after Google, releasing Windows 7 Mobile after Apple’s iOS. In fact, many people have declared that Microsoft is “dead”.

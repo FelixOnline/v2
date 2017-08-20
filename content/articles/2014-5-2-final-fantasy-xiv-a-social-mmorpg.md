@@ -4,16 +4,13 @@ title: >
 subtitle: >
   I can’t talk about Final Fantasy XIV without first talking about its predecessor: Final Fantasy XI, Square Enix’s first MMORPG. Released way back in 2002, FFXI was an amazing and beautifully flawed game.
 date: "2014-05-02 01:59:16 +0100"
-
-# Attributes from Felix Online V1
-id: "4559"
-old_path: /games/4559/final-fantasy-xiv-a-social-mmorpg
+image: "http://felixonline.co.uk/img/upload/201405020259-jal08-games_ffxiv3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4559/final-fantasy-xiv-a-social-mmorpg
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - mb1111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405020259-jal08-games_ffxiv3.jpg"
-image_caption: ""
 ---
 
 I can’t talk about _Final Fantasy XIV_ without first talking about its predecessor: _Final Fantasy XI_, Square Enix’s first MMORPG. Released way back in 2002, FFXI was an amazing and beautifully flawed game. I have a bit of a love-hate relationship when it comes to MMOs. Of the several I’ve played they all seem to forget about the second “M” in their name: the one that stands for multiplayer. Sure the ‘World’ in _World of Warcraft _was massive and yes I was online but overall it felt like quite a lonely experience. There was some promise of multiplayer content in the distant endgame but for the most part it was me, alone in the woods, hitting boars over the head with an axe.

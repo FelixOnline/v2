@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Xuan Chen visits HYPER JAPAN and meets some of the stars behind the convention
 date: "2014-11-28 00:54:56 +0000"
-
-# Attributes from Felix Online V1
-id: "4969"
-old_path: /features/4969/lets-go-hyper
+image: "http://felixonline.co.uk/img/upload/201411280054-ps3110-for-website.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4969/lets-go-hyper
-imported: true
 comments:
  - value: >
      You've gotten the most effective webpages.| <br>nba 2k16 mtb http://www.someda.co/forum/discussion/11149/everything-you-dont-find-out-about-buy-cheap-nba-2k16-mt-coins,I enjoy this website - its so usefull and helpfull.| <br>nba 2k16 mt points cheap http://blog.xuite.net/olivia65xsh/blog/396389951,OAK26E http://www.y7YwKx7Pm6OnyJvolbcwrWdoEnRF29pb.com,jGdpIZ http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411280054-ps3110-for-website.jpg"
-image_caption: ""
 ---
 
 The biannual gathering of dedicated Japanese markets and exhibitors took place two weekends ago, and managed an exhibition which was a verifiable smorgasbord of Japanese culture.

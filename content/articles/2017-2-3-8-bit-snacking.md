@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Food in gaming as you've never seen it before
 date: "2017-02-03 17:34:20 +0000"
-
-# Attributes from Felix Online V1
-id: "6733"
-old_path: /games/6733/8-bit-snacking
+image: "http://felixonline.co.uk/img/upload/201702031734-felix-3473758739_9ae204f630_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/6733/8-bit-snacking
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - sa8713
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702031734-felix-3473758739_9ae204f630_o.jpg"
-image_caption: ""
 ---
 
 There are a million reasons as to why food appears in video games which is to say there is only really one reason: everybody eats. It might seem obvious but it’s the truth and when you think about it, food plays a much larger role in video games than what you think.

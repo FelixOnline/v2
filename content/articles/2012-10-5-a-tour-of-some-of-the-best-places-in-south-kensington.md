@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tim Arbabzadah and Caroline Wood spend loads of money selflessly eating out every night to bring you the best from the local area
 date: "2012-10-05 11:47:52 +0100"
-
-# Attributes from Felix Online V1
-id: "2603"
-old_path: /food/2603/a-tour-of-some-of-the-best-places-in-south-kensington
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2603/a-tour-of-some-of-the-best-places-in-south-kensington
-imported: true
 comments:
  - value: >
      No Chopstix? Easily the best place in SK ,No Chopstix? Easily the best place in SK
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Intro__

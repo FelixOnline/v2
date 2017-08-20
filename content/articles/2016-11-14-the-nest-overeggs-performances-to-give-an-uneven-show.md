@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Nest is on at the Young Vic until 26 November 2016.
 date: "2016-11-14 14:18:00 +0000"
-
-# Attributes from Felix Online V1
-id: "6447"
-old_path: /arts/6447/the-nest-overeggs-performances-to-give-an-uneven-show
+image: "http://felixonline.co.uk/img/upload/201611141417-felix-Caoilfhionn Dunne in The Nest at the Young Vic. Photo by David Sandison. (2).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6447/the-nest-overeggs-performances-to-give-an-uneven-show
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ezrakitson14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611141417-felix-Caoilfhionn Dunne in The Nest at the Young Vic. Photo by David Sandison. (2).jpg"
-image_caption: ""
 ---
 
 Having just read _We Need to Talk About Kevin_ I seated myself in the packed Young Vic theatre with considerable foreboding. All I knew of _The Nest_, Franz Xaver Kroetz’ parable with an ecological warning, was that it involved a great tragedy becoming two young parents. I quickly realised that my assumptions had been partly wrong, unlike Lionel Shirver’s portrait of a psychopath, there is no evil child here, or at least not an ostensible one, instead the demon lurks in poverty and the exploitation of labour.

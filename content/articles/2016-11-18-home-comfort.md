@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Caught something you wish you hadn’t? Aside from some Acyclovir, this is the next best thing. felix takes a look at the classic flu-buster: Chicken soup
 date: "2016-11-18 15:25:53 +0000"
-
-# Attributes from Felix Online V1
-id: "6478"
-old_path: /food/6478/home-comfort
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6478/home-comfort
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - aib116
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Do you remember when you were five and after a few cold autumn days, you got so sick that you couldn’t get out of bed? But, miraculously, your mum knew exactly what to do so you would feel better. More often than not, it was *suspense* chicken soup, and in just an instant, you felt better! Now I don’t say that it was the soup or you really wanting to go out again, but you get my point.

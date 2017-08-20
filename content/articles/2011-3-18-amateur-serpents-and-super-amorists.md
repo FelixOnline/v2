@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Mozart’s famous opera Die Zauberflöte was produced last week on Gloucester Road with London Youth Opera and Imperial’s own choir
 date: "2011-03-18 08:31:46 +0000"
-
-# Attributes from Felix Online V1
-id: "1113"
-old_path: /arts/1113/amateur-serpents-and-super-amorists
+image: "http://felixonline.co.uk/img/upload/201103180830-ks607-mozartmo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1113/amateur-serpents-and-super-amorists
-imported: true
 comments:
  - value: >
      Dear Kelly, <br> <br>Your account made interesting reading. I'd love to have more on the actual performances of the cast. Were there any other reviews in the London press? I can't seem to find any online. <br> <br>Best wishes, <br> <br>Luis
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - ko409
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103180830-ks607-mozartmo.jpg"
-image_caption: ""
 ---
 
 I was apprehensive when I heard that, because the budget would not allow for period costume, this production was to be a contemporary version of the opera. That is not to say I know anything about opera, but for me part of its appeal is the historic context and atmosphere that it exudes. However, I was very pleasantly proven wrong.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Second album looks set to impress
 date: "2012-05-23 16:27:45 +0100"
-
-# Attributes from Felix Online V1
-id: "2480"
-old_path: /music/2480/the-hundred-in-the-hands-are-back-in-the-fold
+image: "http://felixonline.co.uk/img/upload/201205231727-mc4509-thith1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2480/the-hundred-in-the-hands-are-back-in-the-fold
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - mc4509
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205231727-mc4509-thith1.jpg"
-image_caption: ""
 ---
 
 Following what appeared to be an indefinite hiatus after the release of their eponymous debut in 2010, [__The Hundred in the Hands__](http://www.myspace.com/thehundredinthehands) are back on the scene. And while that said debut managed to rapidly rack up favourable reviews from the likes of Pitchfork and Metacritic, it looks as though we can expect much more from their forthcoming second album _Red Night_, which gets released next month.

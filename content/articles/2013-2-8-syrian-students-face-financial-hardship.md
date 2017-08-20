@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Government urged to help those who face deportation to Syria if removed from courses
 date: "2013-02-08 01:19:08 +0000"
-
-# Attributes from Felix Online V1
-id: "3287"
-old_path: /news/3287/syrian-students-face-financial-hardship
+image: "http://felixonline.co.uk/img/upload/201302080118-tna08-action-syria.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3287/syrian-students-face-financial-hardship
-imported: true
 comments:
  - value: >
      This is the link to the petition http://www.avaaz.org/en/petition/Stop_UK_universities_from_expelling_Syrian_students/,A very important topic towards which people's attention should be turned. <br> <br>Thank you, Nida.,Thank you SW. <br>,And this is the link to the petition: <br>http://www.avaaz.org/en/petition/Stop_UK_universities_from_expelling_Syrian_students/,thanks for this great article and for highlighting the crisis Syrian students are facing. Thanks to the campaign many universities are already changing their attitudes and putting fee waivers and deferrals in place as well as giving Syrian students access to hardship funds. We want to see poorly performing universities like Salford, Brunel and Liverpool stop persecuting Syrian students and follow their example. <br> <br>Let's get to 50 000 signatures. Sign our petition here! https://secure.avaaz.org/en/petition/Stop_UK_universities_from_expelling_Syrian_students/,Let us look after our own people there are 200000 on food handouts deprt all who should not be here
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302080118-tna08-action-syria.jpg"
-image_caption: ""
 ---
 
 Over the last few weeks most students at university have settled back into a routine of lectures, coursework and exams as they return to university ready to face the challenges ahead. However, the story is very different for the Syrian students at UK universities; the civil war in Syria means they are unable to pay their fees or meet living costs, theyface the prospects of deportation and death. Topped with this, they are dealing with the continuous anguish facing their family and friends at home, in a war-torn country. A country that has had over 60,000 deaths since March 2011. It is currently uncertain what Imperial College will do if Syrian students are affected, although none have come forward to say they are at the present time.

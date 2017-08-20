@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Yep, pretty silent, except for all the screaming
 date: "2012-05-10 20:37:37 +0100"
-
-# Attributes from Felix Online V1
-id: "2451"
-old_path: /film/2451/whos-that-knocking-on-my-door
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2451/whos-that-knocking-on-my-door
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 [__Silent House__](http://www.imdb.com/title/tt1767382/)

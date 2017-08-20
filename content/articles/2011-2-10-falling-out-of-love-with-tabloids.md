@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Flicking through the pages, I get the feeling that a great deal of meanness remains
 date: "2011-02-10 21:05:41 +0000"
-
-# Attributes from Felix Online V1
-id: "794"
-old_path: /comment/794/falling-out-of-love-with-tabloids
+image: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/794/falling-out-of-love-with-tabloids
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - mc4509
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-image_caption: ""
 ---
 
 The tabloids and I, we’ve had a chequered past to say the least. I grew up on a diet of the Daily Mail, yet it wasn’t until the merits of secondary education that I realised what I was fervently devouring wasn’t exactly all that wholesome. As I began to write more and more, something clicked. The whinging, the constant references to burdened taxpayers, the preference for introspective scandal rather than global issues. Bias pervaded in the language, and it really didn’t taste very good.

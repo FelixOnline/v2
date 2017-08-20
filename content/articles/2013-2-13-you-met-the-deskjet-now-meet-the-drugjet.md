@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Printing drugs, Felix could be about to make a lot of money
 date: "2013-02-13 20:09:00 +0000"
-
-# Attributes from Felix Online V1
-id: "3316"
-old_path: /science/3316/you-met-the-deskjet-now-meet-the-drugjet
+image: "http://felixonline.co.uk/img/upload/201302132018-tna08-smartcolor-inkjet-printer-ft-1560-.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3316/you-met-the-deskjet-now-meet-the-drugjet
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - pk1811
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302132018-tna08-smartcolor-inkjet-printer-ft-1560-.jpg"
-image_caption: ""
 ---
 
 Everyone has heard of the inkjet printer, you probably have one yourself. However, one application of the venerable office supply you haven’t heard of is printing drugs, [recently developed at the UCL School of Pharmacy](http://pubs.rsc.org/en/Content/ArticleLanding/2013/CE/c2ce26519b).

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Get bag on trend with this selection of carrying paraphernalia
 date: "2012-07-16 12:03:13 +0100"
-
-# Attributes from Felix Online V1
-id: "2586"
-old_path: /fashion/2586/bag-to-basics
+image: "http://felixonline.co.uk/img/upload/201207161309-mc4509-bags.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/2586/bag-to-basics
-imported: true
 comments:
  - value: >
      at last! i've been on the look out for a new eyewear gadget bag! thank you, felix fashion.
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201207161309-mc4509-bags.jpg"
-image_caption: ""
 ---
 
 So summer has finally arrived and it’s time to pack up our precious belongings and start travelling. Whether it’s lugging a heavy laptop to the office, or, for those more fortunate, a chance to explore the world with SLRs slung around our necks, there’s no doubt that expensive pieces of technology are slowly swirling into the epicentre of our lives.

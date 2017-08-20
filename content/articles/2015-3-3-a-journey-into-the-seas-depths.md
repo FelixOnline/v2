@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jingjie Cheng takes to the ocean in the ROH’s opera
 date: "2015-03-03 14:09:35 +0000"
-
-# Attributes from Felix Online V1
-id: "5318"
-old_path: /arts/5318/a-journey-into-the-seas-depths
+image: "http://felixonline.co.uk/img/upload/201503031409-ps3110-screen-shot-2015-03-03-at-14.09.27.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5318/a-journey-into-the-seas-depths
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503031409-ps3110-screen-shot-2015-03-03-at-14.09.27.png"
-image_caption: ""
 ---
 
 A strip of water runs across the stage, which itself slopes upstage, with vague impressions of a ship’s windows in the distance. Daland’s crew shuffles around, clearing up after a storm as Daland announces that they will be heading home soon, and Senta, his daughter, will be waiting for him. This opening scene heralds the well-known tale of the Dutchman, who is bound to sail the seas for eternity unless a maiden swears to be true to him; Senta, deeply moved by his fate, swears to follow him unto death.

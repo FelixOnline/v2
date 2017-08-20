@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Afonso Campos talks to David Rivel, the founder of PathMotion – a new take on careers websites – about his own path and his opinions on entrepreneurship
 date: "2011-02-28 20:26:07 +0000"
-
-# Attributes from Felix Online V1
-id: "927"
-old_path: /biz/927/draw-yourself-a-new-path
+image: "http://felixonline.co.uk/img/upload/201102282012-gep07-pathmoti.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/927/draw-yourself-a-new-path
-imported: true
 comments:
  - value: >
      Nice presentation here. I visited the website once, and the idea behind seems promising.,You look great! Good luck guys!!,pretty cool...nice idea ,Sounds really great!!! Thanks to have thought of it! <br>Good luck!,What a joy to find someone else who tnihks this way.,GcFB2O <a href="http://qiqsatuyerwq.com/">qiqsatuyerwq</a>
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102282012-gep07-pathmoti.jpg"
-image_caption: ""
 ---
 
 You may not yet have heard of [PathMotion](http://www.pathmotion.com/) – a rather unorthodox, yet compelling new careers website with a lot of potential; the brainchild of entrepreneur David Rivel.

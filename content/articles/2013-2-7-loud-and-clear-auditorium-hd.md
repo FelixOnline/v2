@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Basically synesthesia, but with less LSD involved
 date: "2013-02-07 23:34:40 +0000"
-
-# Attributes from Felix Online V1
-id: "3263"
-old_path: /games/3263/loud-and-clear-auditorium-hd
+image: "http://felixonline.co.uk/img/upload/201302072334-tna08-js51683184060df8cc44aao.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3263/loud-and-clear-auditorium-hd
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - lg1310
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302072334-tna08-js51683184060df8cc44aao.jpg"
-image_caption: ""
 ---
 
 As a physicist there is something about making particles swirl round and making pretty pictures from the results which I totally get deepdown inside my soul. Auditorium HD is a game about directing a stream of coloured particles into audio containers. These audio containers light up when sufficient particles of the correct colour touch them, adding a new instrument or phrase into the mix progressively unlocking what are often beautifully atmospheric tracks. To achieve this each level gives you a wide variety of tools, including splitters, black holes, coloured bubbles that change the colour of particles and accelerators amongst others.

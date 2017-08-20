@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sylvia is a magical introduction to the best ticket in London this Christmas, a night at the Royal Opera House
 date: "2010-12-09 21:24:18 +0000"
-
-# Attributes from Felix Online V1
-id: "533"
-old_path: /arts/533/the-ballet
+image: "http://felixonline.co.uk/img/upload/201012092122-ks607-theballe.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/533/the-ballet
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - jb307
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012092122-ks607-theballe.jpg"
-image_caption: ""
 ---
 
 I was fifteen when I first went to the ballet. It was Onegin at the Royal Opera House, a birthday present from my mum to me and my brother. I didn’t know what to expect when I went, nor what the ballet was actually about. For me, the experience was quite alien to anything I had encountered before. I had already gone to see a few plays in the West End and a musical, but the ballet seemed to be neither and somehow both, at the same time. For those who have never seen a ballet before, the dancers ‘act’ through the choreography, which in turn is set to music. I left the opera house not knowing really what had happened and unable to appreciate it to any significant level. So when a friend of mine recently brought up the topic of going to the ballet I was a little apprehensive.

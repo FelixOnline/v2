@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Simone Buitendijk calls first ‘Town Hall’ meeting
 date: "2016-11-25 13:17:49 +0000"
-
-# Attributes from Felix Online V1
-id: "6491"
-old_path: /news/6491/vp-education-kicks-off-teaching-consultations
+image: "http://felixonline.co.uk/img/upload/201611251317-felix-IMG_6251.JPG"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6491/vp-education-kicks-off-teaching-consultations
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611251317-felix-IMG_6251.JPG"
-image_caption: ""
 ---
 
 Imperial launched its College-wide consultation on the Learning and Teaching Strategy this Wednesday with a Town Hall meeting which saw Vice-Provost of Education, Simone Buitendijk, address the issues raised by Imperial’s disappointing NSS scores.

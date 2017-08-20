@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Cecily Johnson finds out what the new Budget has to offer
 date: "2015-03-19 23:33:38 +0000"
-
-# Attributes from Felix Online V1
-id: "5401"
-old_path: /news/5401/budget-2015-government-announces-plans-for-25000-loans-for-phd-students
+image: "http://felixonline.co.uk/img/upload/201503192334-cj914-george-osborne.jpg"
+image_caption: "George Osborne and his red box"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5401/budget-2015-government-announces-plans-for-25000-loans-for-phd-students
-imported: true
 comments:
  - value: >
      fitflop sandals australia <br>fitflops http://australiafitflops.blogspot.com/,christian louboutin pigalle 120 <br>cheap christian louboutin shoes canada http://canadachristianlouboutin.blogspot.com/,Hi-ya, great site you've got here.| <br>nba 2k16 mt generator ps4 http://tmtctata.com/index.php/learning-resources/blogs/entry/nba-2k16-coins-have-won-both-highest-variety-of-finals.html,bZhkzt http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com,pe7D3W http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com,Third Flower hoM20#8n3&amp;;ry spouse and that i are actually now delighted that Albert could perform his studies as a result of the tips he had via your online page. It really is once in a while perplexing to only always be giving freely measures which some people might have bee…
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503192334-cj914-george-osborne.jpg"
-image_caption: ""
 ---
 
 The government has revealed plans to offer income-contingent loans of up to £25,000 for PhD and research-based masters students in the latest Budget report, George Osborne’s sixth as Chancellor of the Exchequer.

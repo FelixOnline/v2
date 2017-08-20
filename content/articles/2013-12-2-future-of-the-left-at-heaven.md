@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Clemy Walker reports on the Welsh rockers
 date: "2013-12-02 22:12:45 +0000"
-
-# Attributes from Felix Online V1
-id: "4167"
-old_path: /music/4167/future-of-the-left-at-heaven
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4167/future-of-the-left-at-heaven
-imported: true
 comments:
  - value: >
       It was a gig no one really waetnd to end, even (also ex-Mclusky) Jack Egglestone on drums didn’t want it to stop, requiring the bassist to dismantle his kit while he was still playing the end of adeadenemyalwayssmellsgood long after the guitarists had left the stage! This is actually a Shellac gimmick, one that Mclusky used to do as well I think it's some sort of homage!
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -27,12 +24,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It’s Wednesday night and I am at Heaven to see angry Welsh noise-rockers Future of the Left. Formed from the ashes of mclusky and Jarcrew, and now featuring Julia Ruzicka from Million Dead on bass, they are known for their heavy stop-start guitar riffs and front man Falco’s viciously delivered satirical lyrics.

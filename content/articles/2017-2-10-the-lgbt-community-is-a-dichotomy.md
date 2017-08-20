@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Elizabeth Windo discusses the good and the bad of the LGBT community
 date: "2017-02-10 13:51:43 +0000"
-
-# Attributes from Felix Online V1
-id: "6749"
-old_path: /comment/6749/the-lgbt-community-is-a-dichotomy
+image: "http://felixonline.co.uk/img/upload/201702101352-felix-Screen Shot 2017-02-10 at 13.51.38.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6749/the-lgbt-community-is-a-dichotomy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101352-felix-Screen Shot 2017-02-10 at 13.51.38.png"
-image_caption: ""
 ---
 
 ## I found a home in the LGBT community

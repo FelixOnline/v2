@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Academics affected by Life Sciences restructure among those recognised for teaching excellence
 date: "2011-05-26 18:32:24 +0100"
-
-# Attributes from Felix Online V1
-id: "1249"
-old_path: /news/1249/rectors-awards-announced
+image: "http://felixonline.co.uk/img/upload/201105261933-felix-dr_jane_saffell.jpg"
+image_caption: "Dr Jane Saffell: 'Outstanding Innovation in Teaching'"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1249/rectors-awards-announced
-imported: true
 comments:
  - value: >
      Evidently outstanding innovation in teaching doesn't actually count for anything in this establishment.,The Rector's Medal for Outstanding Innovation in Teaching for Dr Jane Saffell, followed by her being kicked out? <br> <br>Am I the only one who thinks there's just a *slight* discrepancy here? <br> <br>
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105261933-felix-dr_jane_saffell.jpg"
-image_caption: ""
 ---
 
 The recipients of the annual Rector’s Awards for Excellence in Teaching and in Research Supervision have been announced this week. The staff honoured range across departments and faculties and include two academics who were affected by the Life Sciences restructure.

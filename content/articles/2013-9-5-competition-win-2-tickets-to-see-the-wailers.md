@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Felix Music has an exciting competition this month, write a short article for them and you could win 2 tickets to see the Wailers live in concert.
 date: "2013-09-05 09:50:11 +0100"
-
-# Attributes from Felix Online V1
-id: "3756"
-old_path: /music/3756/competition-win-2-tickets-to-see-the-wailers
+image: "http://felixonline.co.uk/img/upload/201309051049-jal08-wailers.png"
+image_caption: "#Winning!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3756/competition-win-2-tickets-to-see-the-wailers
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - fmusic
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309051049-jal08-wailers.png"
-image_caption: ""
 ---
 
 COMPETITION ALERT!

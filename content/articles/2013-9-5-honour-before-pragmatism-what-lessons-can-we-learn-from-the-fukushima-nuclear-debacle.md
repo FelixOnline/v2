@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Comment Editor Eoghan Totten presents a stimulating article on the problems surrounding the nuclear reactor in Fukushima
 date: "2013-09-05 18:40:37 +0100"
-
-# Attributes from Felix Online V1
-id: "3757"
-old_path: /comment/3757/honour-before-pragmatism-what-lessons-can-we-learn-from-the-fukushima-nuclear-debacle
+image: "http://felixonline.co.uk/img/upload/201309051935-jal08-tumblr_mmstipuyid1rfyiu4o1_1280.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3757/honour-before-pragmatism-what-lessons-can-we-learn-from-the-fukushima-nuclear-debacle
-imported: true
 comments:
  - value: >
      So where will they be getting their eccttriliey from? Or will they be 'freezing in the dark' as the nuclear industry spokespeople used to say whenever people protested the construction of new nuclear reactors?
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309051935-jal08-tumblr_mmstipuyid1rfyiu4o1_1280.jpg"
-image_caption: ""
 ---
 
 When I began to put this article together the recorded radiation levels around the storage tanks of the Fukushima Nuclear Plant stood at 1,800 millisieverts. By Tuesday a ground reading of 2,200 mSv, a 22% rise, was duly noted.

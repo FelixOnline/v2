@@ -4,18 +4,16 @@ title: >
 subtitle: >
   First impressions are probably correct. An introduction to the life of a Graduate Teaching Assistant
 date: "2013-10-11 23:47:39 +0100"
-
-# Attributes from Felix Online V1
-id: "3832"
-old_path: /comment/3832/confessions-of-a-graduate-teaching-assistant-gta-part-one
+image: "http://felixonline.co.uk/img/upload/201310121330-jal08-comment_gta.jpg"
+image_caption: "Seriously starting to wonder if the GTA is actually Jack Black..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3832/confessions-of-a-graduate-teaching-assistant-gta-part-one
-imported: true
 comments:
  - value: >
      Could you possibly elaborate on "slightly foreign looking students" and your own nationality? <br> <br>On my course, there was a notable representation of British kids in the 'best in the year' awards, despite the course having a sizable population of "slightly foreign looking students". <br> <br>Best of luck with the GTAing...,　( 2012.02.23 17:53 ) : I precisely nedeed to thank you very much yet again. I do not know what I might have made to happen in the absence of the actual secrets shown by you on my area of interest. It actually was a difficult situation for me personally, but discovering the very specialised strategy you processed the issue took me to leap with fulfillment. I am happy for this advice and even hope you realize what an amazing job that you are accomplishing training some other people thru your site. Most probably you have never encountered all of us.,　( 2012.02.24 10:15 ) : After study a couple of with the <a href="http://cuxdxbvmhjq.com">weolbg</a> posts on your own site now, we genuinely l
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310121330-jal08-comment_gta.jpg"
-image_caption: ""
 ---
 
 I’ve always wanted to be a GTA. It wasn’t because they were doing amazing PhDs on their own desks, in which they cured cancer or published ground-breaking articles which they presented at world conferences. This was all pretty cool but actually, it had a lot to do with them being rubbish at teaching. As an undergraduate I saw them turn up late to lectures they were being paid to help with, chat with their colleagues and completely ignore any student of a different nationality from their own. They would stand right behind you in an exam breathing heavily, or when questioned on how to do the most impossible problem conceived by man, they would ask, “What do you think?” I always thought that it was startlingly clear that, at this point, being so confused and exasperated by this stupid question, that all I cared about was them telling me what I should be thinking. If there was one thing I was going to get right on my PhD it was being a good GTA.

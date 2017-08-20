@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Bake some romance!
 date: "2012-02-09 22:34:29 +0000"
-
-# Attributes from Felix Online V1
-id: "2154"
-old_path: /food/2154/classic-apple-pie
+image: "http://felixonline.co.uk/img/upload/201202092241-pk1811-apple-pie_-week-4.gif"
+image_caption: "Exact temperatures all round"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2154/classic-apple-pie
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +22,6 @@ authors:
  - pk1811
  - ym1310
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202092241-pk1811-apple-pie_-week-4.gif"
-image_caption: ""
 ---
 
 This recipe was taken from the book _Vegan Pie In The Sky_ by Isa Chandra Moskowitz.

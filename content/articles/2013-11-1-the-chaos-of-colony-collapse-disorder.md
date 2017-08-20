@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Laurence Pope on recent research into the humble honeybee
 date: "2013-11-01 09:43:48 +0000"
-
-# Attributes from Felix Online V1
-id: "3974"
-old_path: /science/3974/the-chaos-of-colony-collapse-disorder
+image: "http://felixonline.co.uk/img/upload/201311010943-felix-science-ccd.jpg"
+image_caption: "CCD has destroyed over 10 million honeybee hives and caused over US$2million in damage"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3974/the-chaos-of-colony-collapse-disorder
-imported: true
 comments:
  - value: >
      The term CCD was fabricated by the US EPA and big Agro business to take attention away from neonicotinoids which has decimated bees around the world, they cant hide this much longer.
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - lap08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311010943-felix-science-ccd.jpg"
-image_caption: ""
 ---
 
 The modern-day bee is in a bit of a sticky situation, and we’re not talking about honey.

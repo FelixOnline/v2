@@ -4,16 +4,14 @@ title: >
 subtitle: >
   More anonymous accounts of students and their experiences with depression
 date: "2012-05-04 01:17:02 +0100"
-
-# Attributes from Felix Online V1
-id: "2426"
-old_path: /news/2426/unseen-imperial-and-depression
+image: "http://felixonline.co.uk/img/upload/201205040214-felix-depression.jpg"
+image_caption: "Email icu-disabilities@imperial.ac.uk if you would like to share your anonymous experiences"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2426/unseen-imperial-and-depression
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205040214-felix-depression.jpg"
-image_caption: ""
 ---
 
 _There are some aspects of our lives that we just don’t talk about. This makes it easy to think that we’re

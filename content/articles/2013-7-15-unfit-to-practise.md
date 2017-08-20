@@ -4,16 +4,14 @@ title: >
 subtitle: >
   College Medical Researcher Thilanga Iddamalgoda has been suspended from practising after being caught filming up women's skirts in Trafalgar Square.
 date: "2013-07-15 15:09:44 +0100"
-
-# Attributes from Felix Online V1
-id: "3744"
-old_path: /news/3744/unfit-to-practise
+image: "http://felixonline.co.uk/img/upload/201307151714-jal08-thilanga-kasun-iddamalgoda.jpg"
+image_caption: "Dr. Thilanga Iddamalgoda - a rather blurry fellow"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3744/unfit-to-practise
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201307151714-jal08-thilanga-kasun-iddamalgoda.jpg"
-image_caption: ""
 ---
 
 Dr. Thilanga Iddamalgoda, a former Clinical Research Fellow at Imperial was arrested in August of last year in Trafalgar Square after plain clothed police officer PC Tiffany Anderson noitced his suspicious behaviour. Upon further examination it was discovered that Dr. Iddamalgoda, a former Senior House Officer in Cardiothoracic Surgery had been secretly filming up women's skirts in Trafalgar Square, taking videos of women's thigh, chest and groin regions on his iPhone. One of these videos included footage of the legs of the arresting officer, who was horrified to find the video of herself on his phone. Following his arrest Dr. Iddamalgoda accepted a caution at Charing Cross Police Station for outraging public decency.

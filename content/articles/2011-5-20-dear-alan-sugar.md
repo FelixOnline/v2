@@ -4,18 +4,15 @@ title: >
 subtitle: >
   An open letter from Charles Betts about The Apprentice
 date: "2011-05-20 04:29:05 +0100"
-
-# Attributes from Felix Online V1
-id: "1217"
-old_path: /tv/1217/dear-alan-sugar
+image: "http://felixonline.co.uk/img/upload/201105200528-felix-the-apprentice-hopefuls-2011.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1217/dear-alan-sugar
-imported: true
 comments:
  - value: >
      Despite/because of the fools, the show really is hilariously good entertainment. <br> <br>For examples of people showing excellence look at the production of the show itself, and compare it to the cheesy production (and weird 70s decor) of the Apprentice USA. Makes me proud to be British, under the good care of the BBC.
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105200528-felix-the-apprentice-hopefuls-2011.jpg"
-image_caption: ""
 ---
 
 Dear Alan, Lord, Sir, Del Boy,

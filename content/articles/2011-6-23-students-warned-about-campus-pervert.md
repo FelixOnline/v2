@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Student photographed in Central Library bathrooms
 date: "2011-06-23 18:55:24 +0100"
-
-# Attributes from Felix Online V1
-id: "1409"
-old_path: /news/1409/students-warned-about-campus-pervert
+image: "http://felixonline.co.uk/img/upload/201106232044-felix-img_4918.jpg"
+image_caption: "2nd floor ladies toilets"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1409/students-warned-about-campus-pervert
-imported: true
 comments:
  - value: >
      College has always had an issue with a poor level of CCTV coverage. The unsolved thefts that have happened in abundance over the last few years continue to show that this is a real problem. Having said that, stealing Spanner and Bolt wouldn't be half as easy if there were a load of CCTV in the Mech Eng corridor.,College is painfully aware of their shoddy CCTV. Often the cameras have the wrong timestamps so even if you know exactly when an incident occurred you're unlikely to find footage of the culprit. You'd think they'd work out how to set the time on what is basically a fancy VCR, right?,"it had significantly affected her revision" - this made me laugh so hard; I mean, really? If she saw the phone taking pics, why couldn't she pull it from the said perv's hands? Or if that sounds harsh, cover the camera with toilet paper or whatever. <br> <br>And waiting 4.5 hours at the police station? She's just looking for a way to get marks on her exams for "mitigating" circumstances.,"Oh dear it's exam time and I haven't re
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106232044-felix-img_4918.jpg"
-image_caption: ""
 ---
 
 On Saturday 18th June, during the Summer Ball, an at around 3pm in the Central Library, a female Imperial student, who has asked to remain anonymous, was followed into the 2nd floor toilets by another person who then attempted to take pictures of her by sliding their mobile phone underneath the stall.

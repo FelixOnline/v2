@@ -4,18 +4,16 @@ title: >
 subtitle: >
   We’re alienating future female scientists, says George Butcher
 date: "2014-11-20 21:00:51 +0000"
-
-# Attributes from Felix Online V1
-id: "4913"
-old_path: /comment/4913/shirtgate-just-what-is-the-problem
+image: "http://felixonline.co.uk/img/upload/201411202100-cj914-matt-taylor-shirt.jpg"
+image_caption: "Yeah, THAT shirt."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4913/shirtgate-just-what-is-the-problem
-imported: true
 comments:
  - value: >
      http://kamagrabuy-jelly.org/ - Generic Viagra Pills To Buy In Usa Celebrex Online http://synthroidonlinebuy.net/,http://kamagrabuy-jelly.org/ - Buy Kamagra Online Buy Celebrex Online http://synthroidonlinebuy.net/
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - gb1311
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411202100-cj914-matt-taylor-shirt.jpg"
-image_caption: ""
 ---
 
 I love a good space mission. Pushing the final frontier, venturing into the unknown, lots of robots, rockets and risk – as a budding engineer, what more could I want?

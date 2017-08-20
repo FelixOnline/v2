@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The polar vortex that swept across North America this holiday was one that left both the ground and politicians rather frosty, albeit for different reasons.
 date: "2014-01-17 03:29:25 +0000"
-
-# Attributes from Felix Online V1
-id: "4232"
-old_path: /science/4232/denial-on-ice-the-polar-vortex-of-confusion
+image: "http://felixonline.co.uk/img/upload/201401170329-jal08-2_20140109_1367144925.jpg"
+image_caption: "The Niagara Falls rendered stationary by the cold front of the Polar Vortex"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4232/denial-on-ice-the-polar-vortex-of-confusion
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201401170329-jal08-2_20140109_1367144925.jpg"
-image_caption: ""
 ---
 
 The polar vortex that swept across North America this holiday was one that left both the ground and politicians rather frosty, albeit for different reasons.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Council paper brings talk of adding responsibilities to the roles and changing the names
 date: "2013-05-30 13:22:07 +0100"
-
-# Attributes from Felix Online V1
-id: "3645"
-old_path: /news/3645/extra-sabbatical-remits-discussed
+image: "http://felixonline.co.uk/img/upload/201305301421-tna08-201110272007-felix-img_6764.jpg"
+image_caption: "The Union gives us its come to bed eyes"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3645/extra-sabbatical-remits-discussed
-imported: true
 comments:
  - value: >
      Why not rename DPFS as "Deputy President that's F***ing Screwed"? From what I've seen over the last 6 or 7 years here the DPFS is generally one of the most over-worked Sabbs. Not only would this increase their workload adding 3 new remits (that could arguably be divded between DPE and DPW - which were one Sabb originally and should probably be involved in the development of students and the postgraduate experience generally, including the social life), it would also effectively give them a demotion in the eyes of potential future employers who would not see "Community and Development" as being as significant as "Finance and Services" in many of the roles that F&amp;Ses often apply for (unsurprisingly they often want to work in the financial sector). Good idea to review the roles, but I suggest reviewing them better!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305301421-tna08-201110272007-felix-img_6764.jpg"
-image_caption: ""
 ---
 
 Union Council has discussed giving extra remits and remaing the Sabbatical positions in the Union (except for Felix Editor and Medics President). Over the last ten years, the Union roles and remits for the President and four deputy Presidents have been kept relatively constant.

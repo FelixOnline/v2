@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Final Union Council of the year sees Union Court question proposed constitution changes
 date: "2012-06-15 07:32:58 +0100"
-
-# Attributes from Felix Online V1
-id: "2576"
-old_path: /news/2576/constitution-troubles-at-council
+image: "http://felixonline.co.uk/img/upload/201206150832-mc4509-201110272007-felix-img_6764.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2576/constitution-troubles-at-council
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206150832-mc4509-201110272007-felix-img_6764.jpg"
-image_caption: ""
 ---
 
 Imperial College Union President Scott Heath found himself at loggerheads with Union Court (a committee designed to ensure that Union officers follow the rules of the Union) on Monday at the last session of Union Council of the academic year.

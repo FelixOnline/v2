@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alex Savell avoids sticking a knife in his eye at the Jam Cupboard
 date: "2012-11-09 12:34:42 +0000"
-
-# Attributes from Felix Online V1
-id: "2848"
-old_path: /food/2848/preserving-your-judgement
+image: "http://felixonline.co.uk/img/upload/201211091234-tna08-the-jam-cupboard[1].jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2848/preserving-your-judgement
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091234-tna08-the-jam-cupboard[1].jpg"
-image_caption: ""
 ---
 
 It’s a hard thing, striking a balance between hotel dining room and proper restaurant. The prospect instantly calls to mind several possibilities: the over cushioned, shag-pile of a seaside resort; or the soulless, whitewashed canteen – scrubbed so hard it removed all personality in its quest to achieve the Scandinavian, flat-pack finish. Though it perhaps strays a little into the undertow of this second swirling maelstrom, the Jam Cupboard on Gloucester Road does seem to manage to navigate the dangerous straits between Scylla and Charybdis without capsizing horribly along the way.

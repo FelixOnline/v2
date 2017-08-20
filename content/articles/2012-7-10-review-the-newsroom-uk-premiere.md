@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Stay with us for the latest developments as Alex Bellotti comments on Aaron Sorkin's return to the small screen
 date: "2012-07-10 11:43:58 +0100"
-
-# Attributes from Felix Online V1
-id: "2584"
-old_path: /tv/2584/review-the-newsroom-uk-premiere
+image: "http://felixonline.co.uk/img/upload/201207101243-mc4509-the-newsroom.jpg"
+image_caption: "Practically the Felix Office"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/2584/review-the-newsroom-uk-premiere
-imported: true
 comments:
  - value: >
      Thanks for a properly critical but optimistic review, rather than the mauling that has characterised several I've seen. <br>The show has potential, let's hope it's fulfilled.,Cheers, I did my dissertation on his stuff so I'm admittedly a big fan of Sorkin's. Think most feminist critiques of his work are usually quite overblown, and are usually a result of some lazy overall characterisation more than his specific depictions of females. His heart's clearly in the right place though and I like the way he tries to show how things should be, as opposed to most shows that are content to just show how things are. HBO rarely get their dramas wrong so I'm hoping they push Sorkin to the limit and get his writing firing on all cylinders. There's no network that'd suit him better, I'd say that much,VINICK-MCAVOY 2012
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201207101243-mc4509-the-newsroom.jpg"
-image_caption: ""
 ---
 
 It seems a long time ago that Aaron Sorkin was last on our TV screens. After the success of [_The West Wing_](http://www.youtube.com/watch?v=FScv89J6rro), everyone expected [_Studio 60 on the Sunset Strip_](http://www.youtube.com/watch?v=1INS1Rp3o9M) to be the next step towards greatness for the burgeoning screenwriter. Unfortunately, the show flopped within the first few episodes and was cancelled after one series. Sorkin disappeared off the radar and many thought that his best work was already behind him.

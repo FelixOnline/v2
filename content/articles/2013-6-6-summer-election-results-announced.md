@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Spoiler warning: DPE for next year is RON. Nah, just kidding, it's...
 date: "2013-06-06 10:53:19 +0100"
-
-# Attributes from Felix Online V1
-id: "3662"
-old_path: /news/3662/summer-election-results-announced
+image: "http://felixonline.co.uk/img/upload/201306071409-tna08-natdpe.jpg"
+image_caption: "Next year's Deputy President (Education): Natalie Kempson"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3662/summer-election-results-announced
-imported: true
 comments:
  - value: >
      Oh shit, christopher kaye in my union? Time I fucking left imperial
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306071409-tna08-natdpe.jpg"
-image_caption: ""
 ---
 
 Imperial College Union has announced the results for the Summer Elections. This election is for some of the part time positions but also included the sabbatical position of Deputy President (Education), as the former winner will be taking an interruption of studies and so is no longer able to take up the post.

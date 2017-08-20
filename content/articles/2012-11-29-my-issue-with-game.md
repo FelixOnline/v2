@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Angry Gamer gets all angry
 date: "2012-11-29 22:53:15 +0000"
-
-# Attributes from Felix Online V1
-id: "2991"
-old_path: /games/2991/my-issue-with-game
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2991/my-issue-with-game
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -23,12 +20,6 @@ authors:
  - fgames
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Once in a blue moon, I actually buy my games from a brick and mortar store. The UK (and the rest of the world, to be honest) has been losing high street games retailers, to the digital distribution mammoths (Steam, Amazon, etc) and their slightly smaller and odd nephews (see: EA’s Origin). Offering lower prices than their physical counterparts, these online retailers have been whittling away at the competition, causing a drop in sales of physical media. No longer will you find a standard edition of a game that contains the printed manual of old, and instead, all the physical goods come in the over-priced collected/limited/deluxe/SUCKA editions.

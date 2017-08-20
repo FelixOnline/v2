@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Seymour Dicks catches up with Operation Midnight Climax’s personal butler ahead of their reapparition at KABLAAM
 date: "2011-11-03 20:53:55 +0000"
-
-# Attributes from Felix Online V1
-id: "1676"
-old_path: /music/1676/op-0000-climax-still-climax
+image: "http://felixonline.co.uk/img/upload/201111032053-pk1811-opmidclim-uncrop.jpg"
+image_caption: "Operation Midnight Climax    getting BONED at the last Felix Music Night in June"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1676/op-0000-climax-still-climax
-imported: true
 comments:
  - value: >
      What is this I don't even
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +26,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111032053-pk1811-opmidclim-uncrop.jpg"
-image_caption: ""
 ---
 
 A lot has been said over the years about Operation Midnight Climax. Some have called them the saviours of rock music, others have called them evil space demons hell-bent on destroying humanity. I would say there is truth in both those statements.

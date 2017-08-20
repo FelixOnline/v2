@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Part 1 of a 3 part feature brought to you by the London Climate Forum 2013
 date: "2013-10-24 23:47:45 +0100"
-
-# Attributes from Felix Online V1
-id: "3913"
-old_path: /features/3913/ipcc-climate-report-2013-an-ultimate-warning
+image: "http://felixonline.co.uk/img/upload/201310250047-felix-fb-cover-photo-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/3913/ipcc-climate-report-2013-an-ultimate-warning
-imported: true
 comments:
  - value: >
      Switch to a plant based diet!!
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -28,12 +25,6 @@ authors:
  - sg4812
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250047-felix-fb-cover-photo-1.jpg"
-image_caption: ""
 ---
 
 The Intergovernmental Panel for Climate Change (IPCC) released merely one part of its six-yearly report last month, and alarm bells have begun ringing across the world: apparently, it is 95% certain humans have been the largest contributing factor to global warming since the 1950’s.

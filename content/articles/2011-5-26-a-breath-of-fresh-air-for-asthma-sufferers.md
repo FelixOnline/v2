@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Possible alternative to steroid-based inhaler treatments
 date: "2011-05-26 19:20:06 +0100"
-
-# Attributes from Felix Online V1
-id: "1258"
-old_path: /science/1258/a-breath-of-fresh-air-for-asthma-sufferers
+image: "http://felixonline.co.uk/img/upload/201105262019-felix-asthma-female-000010281053large.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1258/a-breath-of-fresh-air-for-asthma-sufferers
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jp1010
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105262019-felix-asthma-female-000010281053large.jpg"
-image_caption: ""
 ---
 
 An under-used class of prescription drug for treating asthma is just as effective as conventional methods according to new research. Scientists, from the University of East Anglia, say pills containing leukotriene receptor antagonists (LTRAs) can provide an alternative to steroid-based inhaler treatments for mild forms of the disease.

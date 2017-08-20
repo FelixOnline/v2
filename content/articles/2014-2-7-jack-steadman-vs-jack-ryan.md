@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The latest entry in the Jack Ryan franchise (a character who shares with James Bond and The Doctor the habit of being played by multiple different actors with varying degrees of respect for previous iterations) punches the big red ‘reboot’ button –
 date: "2014-02-07 04:40:50 +0000"
-
-# Attributes from Felix Online V1
-id: "4340"
-old_path: /film/4340/jack-steadman-vs-jack-ryan
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4340/jack-steadman-vs-jack-ryan
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - js5913
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Jack Ryan: Shadow Recruit

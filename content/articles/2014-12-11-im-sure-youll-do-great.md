@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Chanon Wongsatayanont has 5 tips for coping with exam stress
 date: "2014-12-11 21:29:38 +0000"
-
-# Attributes from Felix Online V1
-id: "5041"
-old_path: /welfare/5041/im-sure-youll-do-great
+image: "http://felixonline.co.uk/img/upload/201412112129-cj914-exams1.jpg"
+image_caption: "If only we were all taking whatever exam this person was revising for. Granted, subtraction can alwa"
+headline: true
+featured: true
+imported: true
 aliases:
  - /welfare/5041/im-sure-youll-do-great
-imported: true
 comments:
  - value: >
      Station 23 flagship stores in Chicago broke a variety of new Air Jordan, to debut early next year include a boutique Air Jordan series. Dunk From Above flying dunk series of Air Jordan 4 navy blue dress decorated with yellow eye-catching details appearance. <br>cheap jordans online http://www.yourcellan.com/shoes.php,I constantly thought about what is going to be are happy to be seen in the type crowd, badly behaved and incapable of hear your own property speak, your prized uniqueness momentarily damaged and moreover replaced with the shade empathic overslop the particular crowd's lurching, aggravated expectation, waist in order to but also bear with out using including one.. weight treatment is ideal as well price point, And the fabric clothed cable television seems to lose it is really initial rigidity after a few times of use. options include 11" considerable, 15" tremendous, then 6" in depth.. Or frost nova for about 2 weeks; make freezing, attaching 5 free minutes in baking working hours.). I probably would
-
-# Article Taxonomies
 categories:
  - welfare
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412112129-cj914-exams1.jpg"
-image_caption: ""
 ---
 
 It’s that time of the term again. Well, for those of us unfortunate enough to have end-of-term exams anyway (e.g. me). As the days are getting shorter, colder and revision hours are ticking away like a time bomb, it’s hard to stay festive even with Christmas so close.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   A mixed bag of results as Imperial's wakeboarders compete at Liquid Leisure
 date: "2011-03-10 21:19:48 +0000"
-
-# Attributes from Felix Online V1
-id: "1083"
-old_path: /sport/1083/imperial-smashes-it-at-uniwake
+image: "http://felixonline.co.uk/img/upload/201103102118-nm1010-wakeywak.jpg"
+image_caption: "That's going to hurt..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1083/imperial-smashes-it-at-uniwake
-imported: true
 comments:
  - value: >
      That's a cracking picture - looks painful! http://www.dwwc.org.uk/
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103102118-nm1010-wakeywak.jpg"
-image_caption: ""
 ---
 
 Imperial’s [Wakeboarding society](http://wakeimperial.co.uk/) competed at local waterhole Liquid Leisure on March 2nd against eight universities. With 100 students hitting the water in less than comfortable temperatures – the competition took real dedication to the sport. Imperial brought eight people to compete including two girls (good ratio).

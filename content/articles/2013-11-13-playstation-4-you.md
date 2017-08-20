@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sony has been releasing top notch consoles for almost 2 decades now, and therefore the PS4 has a lot riding on its shoulders.
 date: "2013-11-13 22:58:47 +0000"
-
-# Attributes from Felix Online V1
-id: "4053"
-old_path: /games/4053/playstation-4-you
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4053/playstation-4-you
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Sony has been releasing top notch consoles for almost 2 decades now, and therefore the PS4 has a lot riding on its shoulders. While the PS3 was a great console, somehow it just wasn’t the best that we expected of Sony. Enter the PS4. Almost 5 years in the making, this console just like the Xbox One has been surrounded by quite a lot of hype. However in stark contrast to Microsofts E3 announcement, Sony thrived during their announcement and were said to have “won” at that convention. Furthermore Sony has used all the negative publicity that their rival incurred to further their own cause. Quite an amusing “advert” as well as gleeful jibes by Sony executives has seen Sony’s stock rise, and their reputation as the defenders of hard core gaming has been cemented. This has lead to optimism about the potential of the upcoming PlayStation.

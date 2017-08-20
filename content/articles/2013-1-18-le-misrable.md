@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A story of tax increases, strong words, national identity and Russian passports. Not up for nominations at the Oscars
 date: "2013-01-18 00:26:07 +0000"
-
-# Attributes from Felix Online V1
-id: "3132"
-old_path: /politics/3132/le-misrable
+image: "http://felixonline.co.uk/img/upload/201301180026-tna08-french-film-star-gerard-depardieu-42c8-diaporama.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/3132/le-misrable
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +21,6 @@ authors:
  - phc11
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301180026-tna08-french-film-star-gerard-depardieu-42c8-diaporama.jpg"
-image_caption: ""
 ---
 
 “GéGé” is the affectionate nickname of famous French actor Gérard Depardieu; but lately he hasn’t been the recipient of much affection. Instead, Depardieu has found himself at the centre of a debate that has taken place in countless nations since the financial crisis began; how great should the tax burden be, and how should it be shared? In practice, the question is narrowed down further, so that the narrative focuses on the highest earners in society and the disparity of the “1%” versus the 99.

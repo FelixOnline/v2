@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Cough up, who’s been complaining to College?
 date: "2016-10-03 11:08:33 +0100"
-
-# Attributes from Felix Online V1
-id: "6298"
-old_path: /news/6298/college-contemplating-smoking-ban
+image: "http://felixonline.co.uk/img/upload/201610031307-cet13-first draft.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6298/college-contemplating-smoking-ban
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - cet13
  - mjj15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610031307-cet13-first draft.jpg"
-image_caption: ""
 ---
 
 If you follow the IC Union pages on Twitter or Facebook you may have seen the recent poll they ran on the question of “Should smoking be allowed on campus?”.

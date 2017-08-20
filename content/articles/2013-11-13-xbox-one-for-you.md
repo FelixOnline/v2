@@ -4,18 +4,15 @@ title: >
 subtitle: >
   After a super successful Xbox 360, which most people claim won the last console generation wars, Microsoft is now releasing the next iteration into a less clear cut market.
 date: "2013-11-13 22:59:35 +0000"
-
-# Attributes from Felix Online V1
-id: "4054"
-old_path: /games/4054/xbox-one-for-you
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4054/xbox-one-for-you
-imported: true
 comments:
  - value: >
      I like my <a href="http://www.newxboxone.net/">new Xbox one</a> it looks more promising to me.........
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -25,12 +22,6 @@ authors:
  - me1711
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 After a super successful Xbox 360, which most people claim won the last console generation wars, Microsoft is now releasing the next iteration into a less clear cut market. The hardcore gaming sector as such is being threatened by smartphone and tablet dominated casual games. This situation is now reflected by Microsofts approach with the One. Instead of just focusing on just gaming the redmond based company has packed the One with tons of features to bring in new customers that wouldn’t usually buy a console.

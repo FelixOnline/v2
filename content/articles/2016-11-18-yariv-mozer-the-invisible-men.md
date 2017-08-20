@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Yariv Mozer visits Imperial
 date: "2016-11-18 15:35:19 +0000"
-
-# Attributes from Felix Online V1
-id: "6479"
-old_path: /film/6479/yariv-mozer---the-invisible-men
+image: "http://felixonline.co.uk/img/upload/201611181535-felix-invisible-men-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6479/yariv-mozer---the-invisible-men
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ma7512
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611181535-felix-invisible-men-1.jpg"
-image_caption: ""
 ---
 
 You know something is amiss when innocent men have to abandon their homes and live as fugitives in a country where they are not welcome, in order to survive. However, this is the situation gay Palestinian men face today.

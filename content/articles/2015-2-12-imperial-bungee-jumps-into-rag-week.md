@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Philippa Skett reports on this year's charity extravaganza, which included walking on fire, jumping from cranes, and tunnelling
 date: "2015-02-12 21:36:57 +0000"
-
-# Attributes from Felix Online V1
-id: "5239"
-old_path: /news/5239/imperial-bungee-jumps-into-rag-week
+image: "http://felixonline.co.uk/img/upload/201502122150-jyg11-10407267_942051062474599_3107642702453607423_n.jpg"
+image_caption: "RAG Chair Ben Fernando shaking a collection tin for the campus-wide charity week"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5239/imperial-bungee-jumps-into-rag-week
-imported: true
 comments:
  - value: >
      http://fluconazolepurchasediflucan.com/ - Fluconazole For Sale Online Pharmacy Cialis http://furosemidelasixbuy.com/,http://fluconazolepurchasediflucan.com/ - 150 Mg Diflucan Canadian Pharmacy Online http://furosemidelasixbuy.com/,http://fluconazolepurchasediflucan.com/ - Diflucan In Men Canadian Pharmacy Online Drugstore http://furosemidelasixbuy.com/,http://fluconazolepurchasediflucan.com/ - Purchase Fluconazole Canadian Pharmacy http://furosemidelasixbuy.com/,http://fluconazolepurchasediflucan.com/ - Diflucan Yeast Infection Dose Canadian Online Pharmacy http://furosemidelasixbuy.com/,http://fluconazolepurchasediflucan.com/ - Diflucan Without A Prescription Online Pharmacy http://furosemidelasixbuy.com/,http://fluconazolepurchasediflucan.com/ - Buy Diflucan Canadian Pharmacy Online http://furosemidelasixbuy.com/,http://fluconazolepurchasediflucan.com/ - Taking Diflucan Pharmacy Viagra http://furosemidelasixbuy.com/,http://fluconazolepurchasediflucan.com/ - Watery Discharge After Using Fluconazole Fluconazo
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502122150-jyg11-10407267_942051062474599_3107642702453607423_n.jpg"
-image_caption: ""
 ---
 
 This week saw two days of bungee jumping, one evening of fire walking, a lunchtime of pancake-tossing and just under 900 doughnuts; all in the name of Raising And Giving (RAG).

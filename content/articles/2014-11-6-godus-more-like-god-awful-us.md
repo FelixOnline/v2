@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Maximilian Eggl doesn’t really feel like an omnipotent, omniscient god
 date: "2014-11-06 20:00:36 +0000"
-
-# Attributes from Felix Online V1
-id: "4785"
-old_path: /arts/4785/godus-more-like-god-awful-us
+image: "http://felixonline.co.uk/img/upload/201411062000-snb11-godus.jpg"
+image_caption: "Twenty minutes to get belief? God, my worshipers suck"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4785/godus-more-like-god-awful-us
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - me1711
  - snb11
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411062000-snb11-godus.jpg"
-image_caption: ""
 ---
 
 I am a big fan of big overarching civilization sims. Not just the really the strategic ones which give you control over empires, huge armies and the ability to control the entire world, but also the ones where you micromanage each individual citizen of your realm, telling them to chop down this specific tree or mine that ore. You start out with a tiny number of controllable units, which then expands into a huge city. However, the one thing that I always found missing was the fact that I was at the mercy of the elements/ the game that I always found kind of frustrating.

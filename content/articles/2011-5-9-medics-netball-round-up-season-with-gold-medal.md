@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Most successful season yet for Medics Netball
 date: "2011-05-09 09:58:07 +0100"
-
-# Attributes from Felix Online V1
-id: "1181"
-old_path: /sport/1181/medics-netball-round-up-season-with-gold-medal
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1181/medics-netball-round-up-season-with-gold-medal
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - lh408
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 With all the excitement of Varsity out the way, with the BUCS season finished, and with no fixtures left until October, it’s about time that Medics Netball had some of the limelight.

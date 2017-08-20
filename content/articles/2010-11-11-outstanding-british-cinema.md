@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Another Year is one of the finest works of Mike Leigh's career
 date: "2010-11-11 20:58:19 +0000"
-
-# Attributes from Felix Online V1
-id: "349"
-old_path: /film/349/outstanding-british-cinema
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/349/outstanding-british-cinema
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 What can be so interesting about an old but loving married couple who could not be happier with their lives? According to Mike Leigh, the director of one of this year’s best films, quite a lot. In a film that is separated over one year, it’s the people around them that present all the complex emotional problems with the four seasons bringing about four unique episodes of supporting characters with their own struggles. For Tom (Jim Broadbent) and Gerri (Ruth Sheen), the blissfully married couple, the coming year is just “Another Year,” but a year can bring out so much pain in others, pain that they have to acknowledge and deal with.

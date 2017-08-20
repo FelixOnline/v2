@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The annual artistic extravaganza returns to draw the crowds to the Royal Academy for a mixed bag of works
 date: "2011-06-23 21:10:02 +0100"
-
-# Attributes from Felix Online V1
-id: "1433"
-old_path: /arts/1433/have-a-ball-at-the-ras-summer-exhibition
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1433/have-a-ball-at-the-ras-summer-exhibition
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - wsp10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Over the past three terms, I’ve made a habit of sitting on the fence when it comes to reviewing. I’ve never known quite why we don’t include ratings in the Arts section, but I suspect it might be due to the fact that it would just be a constant stream of three star reviews. Having said this, I wouldn’t give the RA Summer Exhibition three stars. Well, at least some bits of it. Christ, other bits I wouldn’t even care to deign with attention. This, dear reader, is the Summer Exhibition dilemma.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A step forward in the fight against autism
 date: "2012-02-23 20:48:52 +0000"
-
-# Attributes from Felix Online V1
-id: "2245"
-old_path: /science/2245/new-autism-diagnosis-in-infants
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2245/new-autism-diagnosis-in-infants
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - ams111
  - mh3210
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Autistic Spectrum Disorder (ASD) affects approximately 1% of the population. The main characteristics of ASD are difficulties in social interaction, communication, and repetitive behaviours. It is a difficult condition to diagnose, especially in young children, but researchers at Birkbeck College have just published some promising findings that open a new path to early diagnosis.

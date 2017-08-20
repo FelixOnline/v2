@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Mindlessly erotic - Elizaveta looks at Egon Schiele's works
 date: "2014-11-06 21:49:04 +0000"
-
-# Attributes from Felix Online V1
-id: "4809"
-old_path: /arts/4809/voyeur-at-the-courtauld-schieles-radical-nude-impresses
+image: "http://felixonline.co.uk/img/upload/201411062149-snb11-two-girls-embracing-(friends)-1915-copy.jpg"
+image_caption: "Two Girls Embracing (Friends) 1915"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4809/voyeur-at-the-courtauld-schieles-radical-nude-impresses
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - snb11
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411062149-snb11-two-girls-embracing-(friends)-1915-copy.jpg"
-image_caption: ""
 ---
 
 A mention of sex in any context, really, is usually enough to get people excited (pun intended). After all, to quote Oscar Wilde: “Everything in the world is about sex, except sex. Sex is about power”.

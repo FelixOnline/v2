@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Engineering students prove they are smart and sporty
 date: "2015-03-03 14:51:18 +0000"
-
-# Attributes from Felix Online V1
-id: "5325"
-old_path: /cands/5325/chem-eng-place-sixth-in-quidditch-competition
+image: "http://felixonline.co.uk/img/upload/201503031451-ps3110-screen-shot-2015-03-03-at-14.51.03.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5325/chem-eng-place-sixth-in-quidditch-competition
-imported: true
 comments:
  - value: >
      Howdy, I think your blog might be having internet browser compatibility issues. Whenever I look at your blog in Safari, it looks fine however when opening in I.E., it's got some overlapping issues. I simply wanted to provide you with a quick heads up! Other than that, great website! <br>nike structure 17 heren http://www.mymotion.nl/?nl-nike-structure--17-heren-18835.html,Hello, I enjoy reading through your article post. I like to write a little comment to support you. <br>moncler bambino forte dei marmi http://www.targettisportingclub.it/?it-moncler-bambino-forte-dei-marmi-8394.html,This has made my day. I wish all posgnits were this good.,Highly beneficial look forward to visiting again.| <br>nba 2k16 mt cheat http://csgoknives.jimdo.com/2016/03/28/i-did-so-perhaps-not-know-that-top-ten-cheap-nba-2k16-mt-coins/
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -28,12 +25,6 @@ authors:
  - rg1212
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503031451-ps3110-screen-shot-2015-03-03-at-14.51.03.png"
-image_caption: ""
 ---
 
 4am on a weekday morning is rarely a time you see students trooping into College, far less seemingly excited about the prospect of doing so. Yet this was the scene on Tuesday 17th February, as 150 Chemical Engineering students set off to Birmingham to compete in their annual sports competition – Frank Morton’s.

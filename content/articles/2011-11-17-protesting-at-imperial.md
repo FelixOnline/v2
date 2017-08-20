@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Kelly Osborne on why she feels the need to protest
 date: "2011-11-17 21:13:49 +0000"
-
-# Attributes from Felix Online V1
-id: "1772"
-old_path: /news/1772/protesting-at-imperial
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1772/protesting-at-imperial
-imported: true
 comments:
  - value: >
      Interesting ideas about scientists being less able to empathy. Do you think also the fact that a large percentage of imperial's students are foreign, may cause them to protest less? ,Brilliant article Kelly!!! ... now off to the gum clinic
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __What protests have you been to recently?__

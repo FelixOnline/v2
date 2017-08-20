@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Mario Lepore visits the latest exhibition in Saatchiʼs gallery
 date: "2013-10-11 23:57:46 +0100"
-
-# Attributes from Felix Online V1
-id: "3834"
-old_path: /arts/3834/charles-saatchis-divorce-paper
+image: "http://felixonline.co.uk/img/upload/201310120058-jal08-artssaatchi4.jpg"
+image_caption: "Couch for a long time (2009) by Jessica Jackson Hutchins"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3834/charles-saatchis-divorce-paper
-imported: true
 comments:
  - value: >
      Just went to the Slash exhibit today saw your two amzaing pieces of art. I was so moved that I also purchased your book, "This is for You." I have never read something more true to my own heart, almost like you were speaking from my inside my head. Thank you. I am forever a fan and look forward to experiencing more of your honesty.Best, Tiffany,I just convo'd you on Etsy, but I had to add something here. Slash <a href="http://zzyavklu.com">clseos</a> next week, but I just want you to know that there were crowds of people standing in front of your two pieces, staring, silently. Including me. They are so touching, so wonderful.Please, bring the prints back. And is it true there's a book?, guy head insurance agencies for autos sildenafil small business insurance california
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - ml2510
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310120058-jal08-artssaatchi4.jpg"
-image_caption: ""
 ---
 
 What: Paper Exhibition

@@ -4,17 +4,14 @@ title: >
 subtitle: >
   A look at the technologies that helped create and run Felix Online
 date: "2011-03-27 11:21:00 +0100"
+image: "http://felixonline.co.uk/"
 draft: true
-
-# Attributes from Felix Online V1
-id: "1130"
-old_path: /tech/1130/behind-the-scenes-at-felix-online
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/1130/behind-the-scenes-at-felix-online
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jk708
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 So the new Felix website was launched just over a month ago and I hope that you all have enjoyed the change. Now that my exams are finished I thought that I would go over some of the tools and technologies that we used to create the site and what we are planning on doing in the future. Oh and I warn you that this is going to get quite technical!

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Lamb season will be starting in a couple weeks and this means only one thing – you are allowed to enjoy a fancy meat you normally ignore for the easier to cook beef or pork. Get ready to salivate with this easy to make lamb delicacy.
 date: "2017-03-17 17:26:12 +0000"
-
-# Attributes from Felix Online V1
-id: "6915"
-old_path: /food/6915/spiced-rack-of-lamb-with-char-grilled-smoked-aubergine-dip
+image: "http://felixonline.co.uk/img/upload/201703171725-felix-5918001239_4b5fcdbdfe_o.jpg"
+image_caption: "Don’t you just love how cute baby lambs are? And tasty. Don’t forget how tasty"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6915/spiced-rack-of-lamb-with-char-grilled-smoked-aubergine-dip
-imported: true
 comments:
  - value: >
      Do not rush me. <br>cheap albion silver http://microvoltshackz.punbb-hosting.com/viewtopic.php?id=1874,i love this site a lot! <br>top one madden 17 coins mobile coins seller http://www.madden-store.com,What if I had the guts to quit my job. <br>pokemonbux buy pokemon go rare pokemon http://www.pokemonbux.com,I don't know <br>cheapest Albion Online gold http://www.cheapguildwars2gold.net/upalbion-can-meet-your-need-of-albion-online-gold-at-any-time/,For a chili with a mild kick i like poblano chili but my other half favours fairly hot so i'd be tempted to try it with arbol chili. looks delicious, thanks for sharing
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -26,12 +24,6 @@ authors:
  - aib116
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171725-felix-5918001239_4b5fcdbdfe_o.jpg"
-image_caption: ""
 ---
 
 B ack home, lamb is usually cooked just as a traditional Easter dinner. Otherwise, I don’t believe we have lamb at any other point in the year.

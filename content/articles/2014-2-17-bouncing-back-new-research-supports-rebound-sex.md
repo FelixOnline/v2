@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It’s official: the popular belief that people who have been dumped are more likely to have “rebound” sex is true, at least among students.
 date: "2014-02-17 17:15:04 +0000"
-
-# Attributes from Felix Online V1
-id: "4387"
-old_path: /science/4387/bouncing-back-new-research-supports-rebound-sex-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4387/bouncing-back-new-research-supports-rebound-sex-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - kw911
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It’s official: the popular belief that people who have been dumped are more likely to have “rebound” sex is true, at least among students.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Kunal Wagle reports on the awards night that celebrates achievements of Union clubs, societies and projects
 date: "2015-06-19 13:33:42 +0100"
-
-# Attributes from Felix Online V1
-id: "5644"
-old_path: /news/5644/felix-is-shortlisted-for-club-of-the-year-at-imperial-college-union-awards-2015
+image: "http://felixonline.co.uk/img/upload/201506191433-ps3110-img_8134.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5644/felix-is-shortlisted-for-club-of-the-year-at-imperial-college-union-awards-2015
-imported: true
 comments:
  - value: >
      I respect your work. <br>cheap madden 16 coins ios for sale http://www.madden-store.com/madden-nfl-16/IOS-2191,You are the savior of my life. <br>fifa ultimate team coins http://fifa15coinss.freeblog.biz/2015/12/14/the-reason-that-ea-will-not-add-ronaldinho-in-fifa-16/,What is that guy? <br>UTfifa15coins.com http://b2bnetwork.us/the-network/my-blog/on-march-to-own-fut15-rare-gold-25k-packs.html,You are so cute. <br>Wynn SEO http://technologiesreview.com/2016/01/14/optimize-your-website-to-generate-leads-online/,The youre very eloquent . <br>SEO http://www.andeanodyssey.com/website-design-forthe-beginners-three-easy-and-effective-ways/,You bet ! <br>FIFA 15 Coins http://www.kiwibox.com/utfifa15coins/blog/entry/123925629/about-fifa-online-3-game-introduce-on-fifa-15/?pPage=0,I will be there for you. <br>FIFA16Mall FIFA 16 Coins http://firebaptizedholiness.ning.com/profiles/blogs/about-career-mode-in-fifa-16,You are nothing like us . <br>nfl 16 coins http://fifa16center.socialparadox.com/blog/read/605291/improve-run-game-in-madden-16,W
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506191433-ps3110-img_8134.jpg"
-image_caption: ""
 ---
 
 Felix was shortlisted for Club of the Year at Monday’s Union Awards ceremony, much to the club's delight. Sadly Felix closly missed out on taking the award home, which went instead to Islamic Society, but all were very deserved of the award.

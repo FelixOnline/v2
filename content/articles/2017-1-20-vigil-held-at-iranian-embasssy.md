@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Campaigners gather in South Kensington
 date: "2017-01-20 14:52:43 +0000"
-
-# Attributes from Felix Online V1
-id: "6656"
-old_path: /news/6656/vigil-held-at-iranian-embasssy
+image: "http://felixonline.co.uk/img/upload/201701201452-felix-16129638_10211985078284307_220271556_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6656/vigil-held-at-iranian-embasssy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - sk2214
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701201452-felix-16129638_10211985078284307_220271556_o.jpg"
-image_caption: ""
 ---
 
 A candle-lit vigil was held outside the Iranian embassy on Monday for Nazanin Zaghari-Ratcliffe, a British-Iranian Thompson-Reuters charity worker. Organised by Amnesty International, supporters including Imperial students gathered on Princes’ Gate calling for Nazanin’s release from Evin prison in Iran. The 38-year-old was arrested on the 3rd of April 2016 at the check-in desk of Tehran’s Imam Khomeni airport on her way back to the UK after visiting her parents. Nazanin, a British-Iranian dual national, was with her one-year-old daughter, who has British citizenship only. The child’s passport was also confiscated, preventing her from returning home to her father in Hampstead.

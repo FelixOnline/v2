@@ -4,18 +4,15 @@ title: >
 subtitle: >
   This year’s Imperial College Union elections include Faculty Union Presidents in the line-up for the first time. Felix speaks to the outgoing officers
 date: "2012-03-02 01:33:36 +0000"
-
-# Attributes from Felix Online V1
-id: "2305"
-old_path: /news/2305/interviewing-the-faculty-union-presidents
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2305/interviewing-the-faculty-union-presidents
-imported: true
 comments:
  - value: >
      You don't seem to have a clue. Producing 1,000 handbooks about the CGCU is hardly "improving" it. The CGCU has always produced handbooks! Archangel isn't a "traditional" CGCU event. It happened two years ago because ICU wouldn't let Guilds use the bar. Oh, and competitive rivalry doesn't "originate from mascotry". It's entirely the other way around. <br> <br>Oh well, at least you got to meet lots of important people.,Agree with the above comment.,Funny. GSA is a faculty union and even felix doesn't give a toss,lulz @ the GSA calling themselves a "faculty union"
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __LUKE KANCZES – ROYAL COLLEGE OF SCIENCE UNION (RCSU) PRESIDENT__

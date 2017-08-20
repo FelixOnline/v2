@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The state of current libel laws is ludicrous; they must adapt to the digital age, says George Butcher
 date: "2012-11-23 00:02:35 +0000"
-
-# Attributes from Felix Online V1
-id: "2955"
-old_path: /comment/2955/are-you-facing-charges
+image: "http://felixonline.co.uk/img/upload/201211230002-tna08-_001-(1).jpg"
+image_caption: "Lizzy Griffith's amazing drawing"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2955/are-you-facing-charges
-imported: true
 comments:
  - value: >
      You miss my point. <br> <br>The courts are trying to apply a law written for another time to today. Within eight months of the first twitter libel case, another case, involving thousands of people is being launched. What now? Will this become routine? What about tens of thousands next time? <br> <br>I don't think this is practical. I agree with the principle of libel laws, and I accept much of what you say, but I don't accept that forums like twitter can ever fairly be treated like a formal publication. Libel charges need to be focused at the source of an accusation, not at a mindless and pointless repetition of it.,I call bullshit. Whilst I agree with the sentiment of this article, your opinions about Twitter and the law are extremely naive and uninformed. <br> <br>Twitter is not "a text message or a chat with friends", it is a public forum where people post messages for all the world to see. Many may use it for 'private' conversations but that is irrelevant; these conversations are not private because, er, anybody can read t
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211230002-tna08-_001-(1).jpg"
-image_caption: ""
 ---
 
 This week the biggest libel case in legal history was launched – thousands of people are potentially facing legal action and most of them are ‘normal people’. Why? Because anyone who tweeted or re-tweeted Lord McAlpine’s name in relation to child abuse allegations is going to get a letter from his lawyers, and it doesn’t matter if you deleted it later.

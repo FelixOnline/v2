@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Greg Power declares open war on music haters, and invites you to the second Felix Music Night
 date: "2011-06-02 19:56:30 +0100"
-
-# Attributes from Felix Online V1
-id: "1314"
-old_path: /music/1314/boned-at-metric
+image: "http://felixonline.co.uk/img/upload/201106022053-felix-var-(1).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1314/boned-at-metric
-imported: true
 comments:
  - value: >
      Niceberg here - I'll actually be playing chipstep and neo-rave (if you saw Raath-Mon-Tet at the last one, you'll have a good idea of what that means). <br> <br>Look out for my Felix article appearing soon.
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - gep07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106022053-felix-var-(1).jpg"
-image_caption: ""
 ---
 
 [Felix is throwing another rocking party](http://www.facebook.com/event.php?eid=214310911933116) at Imperial College Union’s live music venue and all around super-club, Metric, on Saturday 11th June.

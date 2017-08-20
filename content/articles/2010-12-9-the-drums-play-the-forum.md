@@ -4,18 +4,15 @@ title: >
 subtitle: >
   3 out of 5, by Daniel Beatrup
 date: "2010-12-09 20:23:22 +0000"
-
-# Attributes from Felix Online V1
-id: "521"
-old_path: /music/521/the-drums-play-the-forum
+image: "http://felixonline.co.uk/img/upload/201012092021-ma1307-Thedrums.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/521/the-drums-play-the-forum
-imported: true
 comments:
  - value: >
      Harmonious of the newest U.S. fa‡ade online casinos to come up from the regulatory jurisdiction of Curacao (see homepage for the sake validation seal), Posh Vegas actually has many years of gaming face under its belt. The Grand Vegas Casino government troupe has been round since the emerge of online gambling, and in into the bargain to earning a solid reputation with players, has managed some of the most top online casinos to date.,Good Article <br>http://www.nowcheap.co.cc,<a href="http://railtrainsite.info/link/tramadol/1_style_name.html"><img>http://imgfeedget.com/36958/img0/tramadol/1_style_name.png</a> <br> <a href="http://www.mondaymellow.com/?p=153&amp;cpage=74#comment-4267">ultram genericoultram gives me a high</a> <br><a href="http://www.lacocotteminute.com/lacocotteprod/?attachment_id=1221#comment-46">kamagra uk paypalkamagra uk prices</a> <br><a href="http://doma-proekt.ru/soedinennyh-shtatov-i-kitaj-ot-proekta-vpolne-bolshoj-dvojki-k-prosto-naprosto-holodnoj-vojne/#comment-6382">europe pharmacy onli</a>
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +23,6 @@ authors:
  - ma1307
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012092021-ma1307-Thedrums.jpg"
-image_caption: ""
 ---
 
 The Drums took to the stage in a euphoric daze to the sound of electronic ambience that echoed the electro-pop roots of founder members Jonathan Pierce (vocals) and Jacob Graham (guitar). The four–piece were complete with Tom Haslow on guitar and Connor Hanwick providing the drums.

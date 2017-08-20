@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Though we’re often led to believe that having a disability automatically leads to a sexless existence this couldn’t be further away from the truth. Through the veil of complexities and social awkwardness what often awaits is just another sexual being.
 date: "2016-12-02 15:33:01 +0000"
-
-# Attributes from Felix Online V1
-id: "6548"
-old_path: /sex/6548/disabled-people-are-not-sexless
+image: "http://felixonline.co.uk/img/upload/201612021736-felix-Screen Shot 2016-12-02 at 17.36.00.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sex/6548/disabled-people-are-not-sexless
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sex
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felixteam
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612021736-felix-Screen Shot 2016-12-02 at 17.36.00.png"
-image_caption: ""
 ---
 
 Life is hard, and finding our way through the labyrinth of dating, relationships, and sex is one of the hardest and most formidable tasks we face as millennials. One thing that’s usually a given is that we all like sex (unless you’re asexual, which is totally okay, or you make the choice not to have sex for whatever reason (whether it’s because it causes you pain or mental turmoil, or because you believe that it is an affront to God), which is also totally okay). But when it comes to hunting for a potential mate (or mates), we often have a very narrow view of who fits into our dating pool.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   So bad it's awesome
 date: "2012-03-15 20:25:34 +0000"
-
-# Attributes from Felix Online V1
-id: "2361"
-old_path: /film/2361/all-hail-the-crime-fighting-hobo
+image: "http://felixonline.co.uk/img/upload/201203152025-ams111-2011_hobo_with_a_shotgun_002.jpg"
+image_caption: "Boris Johnson is getting serious about winning his London Mayor campaign"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2361/all-hail-the-crime-fighting-hobo
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - rjd08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152025-ams111-2011_hobo_with_a_shotgun_002.jpg"
-image_caption: ""
 ---
 
 [Hobo with a Shotgun](http://www.imdb.com/title/tt1640459/)

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The best of alternative music, from AMS
 date: "2012-12-07 14:29:49 +0000"
-
-# Attributes from Felix Online V1
-id: "3070"
-old_path: /music/3070/ams-albums-of-the-year
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3070/ams-albums-of-the-year
-imported: true
 comments:
  - value: >
      Weirdest moment of my summer was hearing Oblivion come on in a branch of Eroski in Palma De Mallorca.
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -29,12 +26,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ## Alt-J: An Awesome Wave

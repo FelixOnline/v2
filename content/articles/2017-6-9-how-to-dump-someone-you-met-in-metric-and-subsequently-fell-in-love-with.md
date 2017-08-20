@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Everyone knows breaking up is horrible. We’re here to make the process better for you (although probably worse for the other person)
 date: "2017-06-09 16:16:21 +0100"
-
-# Attributes from Felix Online V1
-id: "7023"
-old_path: /sex/7023/how-to-dump-someone-you-met-in-metric-and-subsequently-fell-in-love-with
+image: "http://felixonline.co.uk/img/upload/201706091818-ea3211-Screen Shot 2017-06-09 at 18.18.29.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sex/7023/how-to-dump-someone-you-met-in-metric-and-subsequently-fell-in-love-with
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sex
 tags:
@@ -25,12 +22,6 @@ authors:
  - tad08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706091818-ea3211-Screen Shot 2017-06-09 at 18.18.29.png"
-image_caption: ""
 ---
 
 You were weak. Despite our foolproof guides on how to have a one night stand (in Metric), ‘How to have a one night stand (in Metric)’, and how not to fall in love with someone (from Metric), ‘How not to fall in love with someone (from Metric)’, you went ahead and fell in love with someone (from Metric) and now you’ve been stuck in a relationship with them (someone you met in Metric) for months. Somehow, this relationship still sort of revolves around Metric. Congratulations, you’re trash. But, just like a gastrobug, it’s run its course, and more importantly, summer is nearly here and you want to bang some hotties in a hostel in Indonesia as you travel around trying to find yourself. Or, it’s your final year, and you’re ready to Gold Rush. You can’t do that with a relationship, or a gastrobug. So you want out. But how?

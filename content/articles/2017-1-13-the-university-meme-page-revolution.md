@@ -4,16 +4,13 @@ title: >
 subtitle: >
   How Memebridge reignited the university meme scene
 date: "2017-01-13 15:03:53 +0000"
-
-# Attributes from Felix Online V1
-id: "6651"
-old_path: /features/6651/the-university-meme-page-revolution
+image: "http://felixonline.co.uk/img/upload/201701131502-felix-15589998_1244623018909408_6555442564566862081_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6651/the-university-meme-page-revolution
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -25,12 +22,6 @@ authors:
  - pmb14
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701131502-felix-15589998_1244623018909408_6555442564566862081_n.jpg"
-image_caption: ""
 ---
 
 T        his strange world of memes which we currently find ourselves in – one where a president can be catapulted to the White House with the help of online fascists and Pepe the Frog – is terrifying. There was an undercurrent of darkness in the memes that defined 2016: we celebrated Harambe’s death as if he were a messiah, exposed our inner self through evil Kermit, and philosophised over the trolley problem. It wouldn’t be until the end of the year that the dankness would finally return.

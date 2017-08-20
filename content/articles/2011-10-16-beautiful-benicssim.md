@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Spanish Rototom Sunsplash impresses over ten days
 date: "2011-10-16 15:08:10 +0100"
-
-# Attributes from Felix Online V1
-id: "1550"
-old_path: /music/1550/beautiful-benicssim
+image: "http://felixonline.co.uk/img/upload/201110161606-felix-phoca_thumb_l_sun09_riddimcolony_009_ls.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1550/beautiful-benicssim
-imported: true
 comments:
  - value: >
      An unputdownable<a href="http://yezyqirgpk.com"> dcorsuise</a> is couturier remark. I cerebrate that you should pen writer on this matter, it might not be a bias dominate but mostly grouping are not enough to speak on such topics. To the next. Cheers like your Performance Videos | Andy Bassford.
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110161606-felix-phoca_thumb_l_sun09_riddimcolony_009_ls.jpg"
-image_caption: ""
 ---
 
 _Rototom Sunsplash_ is one of the largest and longest running Reggae, Dance Hall and Dub festivals in Europe. In fitting with the music it endorses, its appeal spans a cross-section of festival goers from the ignorant non-connoisseur to the dub-geek-stoner. The recipe is very simple: an entirely laid back dynamic, a hot climate and enough people to make you feel it was worth coming but leave you with space to move.

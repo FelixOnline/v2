@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The long-awaited Allen Jones Retrospective is panned by Fred Fyles
 date: "2014-12-18 16:05:18 +0000"
-
-# Attributes from Felix Online V1
-id: "5066"
-old_path: /arts/5066/a-lacklustre-show-from-the-father-of-misogyny
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5066/a-lacklustre-show-from-the-father-of-misogyny
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ authors:
  - ff712
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 If we look up the work ‘Objectification’ in the dictionary, it will tell us that it describes “treating a living person as a thing, with no regard to their dignity”. It appears that Allen Jones has misinterpreted this meaning. At least, that’s how things appear when entering the retrospective of his work currently being held at the __Royal Academy__, where one is immediately faced with a semi-naked mannequin, clad in leather and staring passively down, supporting a large glass table-top on her back.

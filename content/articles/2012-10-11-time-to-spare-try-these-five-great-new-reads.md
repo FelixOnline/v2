@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A quick review of five great new books
 date: "2012-10-11 20:35:37 +0100"
-
-# Attributes from Felix Online V1
-id: "2646"
-old_path: /books/2646/time-to-spare--try-these-five-great-new-reads
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2646/time-to-spare--try-these-five-great-new-reads
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Hydrogen Sonata

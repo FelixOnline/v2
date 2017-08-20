@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The Science Musuem Library is moving, change is coming to the 3rd Floor.
 date: "2014-01-24 09:40:27 +0000"
-
-# Attributes from Felix Online V1
-id: "4271"
-old_path: /news/4271/farewell-science-museum-library
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4271/farewell-science-museum-library
-imported: true
 comments:
  - value: >
      Why not use the extra space to house some air conditioning units to make Level 4 livable? <br> <br>(I'm not desperate or anything.) <br> <br>((But seriously, can Felix run an article on WHY the library is so hot? It's common knowledge to the point of being a running joke throughout college, but I don't understand why one can't just fix the problem.)),I graduated in 2006 and remember the library being incredibly hot on both the 4th and 5th floors (I also remember the annoying recorded announcements about the library closing in the years that it wasn't open 24hrs). Nice to see nothing has changed in 8 years!,That's a shame, the museum collection has always been pleasant for a Wednesday afternoon browse.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This week the Science Museum announced that they have come to a mutual agreement with College to relocate the Science Museum Library as part of a scheme that will create a new Science Museum research centre at it’s South Kensington site.

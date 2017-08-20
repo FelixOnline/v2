@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tom Rivlin looks into what's lurking behind the front page of the internet
 date: "2014-12-04 18:26:52 +0000"
-
-# Attributes from Felix Online V1
-id: "4985"
-old_path: /comment/4985/how-reddit-made-it-okay-to-hate-women
+image: "http://felixonline.co.uk/img/upload/201412041823-cj914-reddit.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4985/how-reddit-made-it-okay-to-hate-women
-imported: true
 comments:
  - value: >
      I take issue with two things in this comment article, which I list in order of increasing severity. <br> <br>1) 4chan is not an echo-chamber. In every thread there is ALWAYS someone offering a contrary opinion. Posts are displayed in order received, and while their might be a lot of posts supporting one viewpoint, their content stands on its own written merit for you to disregard should it not be a thoughtful, well-articulated response. Also bear in mind that what you see isn't necessarily what is being said: intense in-jokes, "ironic humour" and self-deprecation being the method of communication forming a barrier between members and non-members of the community. 4chan is a sea of shit, but eventually you'll learn how to dive for the gleaming pearls of quality beneath the shitty surface. <br> <br>2)There is no objective measure of what viewpoints are "correct" and which are "wrong". There are people who believe in views with just as much conviction as you do, with just as much "evidence" to support them as you have; who
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412041823-cj914-reddit.jpg"
-image_caption: ""
 ---
 
 Last week I wrote in _Felix_ about ‘GamerGate’, a loosely defined movement nominally about “ethics in video game journalism”. In the article I outlined how really the movement is about harassing women online.

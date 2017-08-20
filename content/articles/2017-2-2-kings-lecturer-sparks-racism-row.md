@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Racist pseudoscientific tweets cause KCLSU complaint
 date: "2017-02-02 23:30:07 +0000"
-
-# Attributes from Felix Online V1
-id: "6705"
-old_path: /news/6705/kings-lecturer-sparks-racism-row
+image: "http://felixonline.co.uk/img/upload/201702022329-felix-8381100558_c20e29bf98_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6705/kings-lecturer-sparks-racism-row
-imported: true
 comments:
  - value: >
      Very interesting points raised. I am concerned however that the factual arguments against Dr Perkins' points are lost within the biased emotional response. I think we shouldn't jump straight away to dismissing some claim because someone says they feel 'insulted' by it. <br>Perhaps Dr Perkins is wrong, perhaps his conclusions are incorrect, however if he is showing accurate data, and sparking an intellectual discussion about it, surely we should also respond as adult intellectuals. Facts remain facts even if they offend someone, and lies can be lies even if they don't offend anyone.<br>I believe that such elite scientific circles like KCL or Imperial should not resort to calling their intellectual opponents "racist" and "offensive" and instead use facts and reasoning to show that a given position is incorrect, as this article presents a tone closer to that of cheap tabloids than that of a world-renowned university.,Very interesting points raised. I am concerned however that the factual arguments against Dr Perkins
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702022329-felix-8381100558_c20e29bf98_o.jpg"
-image_caption: ""
 ---
 
 KCL’s feminist intersectional society has condemned a lecturer at King’s College London after he released a series of tweets which were described as “racist and incredibly insulting remarks directed at the Somali community”.

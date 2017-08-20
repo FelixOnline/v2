@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Straight to the point for the eight BUCS league match of the season
 date: "2012-02-16 23:43:38 +0000"
-
-# Attributes from Felix Online V1
-id: "2223"
-old_path: /sport/2223/fencing-womens-2nds-see-off-kings
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2223/fencing-womens-2nds-see-off-kings
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - hgp08
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 On Wednesday, the Women’s 2nd Fencing Team faced King’s for the 8th BUCS league match of the season. The team needed a win to defend their current ranking of 3rd place in the league, and to boost team morale as the two previous matches had both been losses.The situation initially looked dire, as one fencer was clearly ill, and two people were injured from the week before.

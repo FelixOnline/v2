@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Luke Sheldon asks where the student movement is now, twelve months after it began
 date: "2012-03-08 21:23:30 +0000"
-
-# Attributes from Felix Online V1
-id: "2324"
-old_path: /news/2324/student-protests-one-year-on
+image: "http://felixonline.co.uk/img/upload/201203082120-ams111-student-protest-in-london-001.jpg"
+image_caption: "No ifs, no buts..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2324/student-protests-one-year-on
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - ls411
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203082120-ams111-student-protest-in-london-001.jpg"
-image_caption: ""
 ---
 
 On the student march last term, as 10,000 people protesting against the government’s Higher Education white paper trundled through a path laid out by 4,000 riot police, a chant rose up: “Lets go back to Millbank, Na-Na-Na-Na, Hey!” But what is the student movement now?

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Carys Cook on why the Berkley Earth Project is a step in the right direction
 date: "2011-11-17 20:16:32 +0000"
-
-# Attributes from Felix Online V1
-id: "1754"
-old_path: /science/1754/global-warming-is-happening-say-sceptics
+image: "http://felixonline.co.uk/img/upload/201111172016-pk1811-two-baby-polar-bear-following-the-mother-bear-pictures.jpg"
+image_caption: "I didn’t commision this piece just so I could use a photo of baby polar bears. Honest"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1754/global-warming-is-happening-say-sceptics
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +23,6 @@ authors:
  - sjw209
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172016-pk1811-two-baby-polar-bear-following-the-mother-bear-pictures.jpg"
-image_caption: ""
 ---
 
 It’s officially official! The Earth is heating up. This is the conclusion of the most up-to-date and comprehensive study into recent changes in Earth’s land surface temperatures. The Berkeley Earth Project (BEP), based at the University of California, was developed by a group of climate scientists and statisticians in response to criticisms by climate sceptics of existing surface temperature records. The project combined over 1.6 billion measurements from the last two hundred years from over 39,000 weather stations globally, and utilised new statistical algorithms to integrate the multiple fragmented data sets available from the historical record. Their results reveal an 1°C increase in average global temperature since the 1950’s, a conclusion that is supported by multiple existing temperature records produced by the Met Office, NASA, the US National Oceanic and Atmospheric Administration and the Climate Research Unit (CRU) at the University of East Anglia.

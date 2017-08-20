@@ -4,16 +4,13 @@ title: >
 subtitle: >
   According to College medical researchers, statins have virtually no side effects.
 date: "2014-03-17 17:32:18 +0000"
-
-# Attributes from Felix Online V1
-id: "4487"
-old_path: /news/4487/imperial-medics-claim-statins-have-few-side-effects
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4487/imperial-medics-claim-statins-have-few-side-effects
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 According to College medical researchers, statins have virtually no side effects.

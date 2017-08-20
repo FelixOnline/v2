@@ -4,16 +4,14 @@ title: >
 subtitle: >
   If one more person asks me what ‘actually happens’ during fashion week I will stub you with my Manolo
 date: "2012-10-11 20:54:05 +0100"
-
-# Attributes from Felix Online V1
-id: "2658"
-old_path: /fashion/2658/a-guide-to-blagging-fashion-month
+image: "http://felixonline.co.uk/img/upload/201210112154-felix-fashiongirlfrontrgb.jpg"
+image_caption: "“Oh girl that Prada fox stole is from like, before I was born. Not chic.”"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/2658/a-guide-to-blagging-fashion-month
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -24,12 +22,6 @@ authors:
  - stv07
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112154-felix-fashiongirlfrontrgb.jpg"
-image_caption: ""
 ---
 
 For those unfamiliar, fashion month is a bi-annual occasion made up of fashion weeks in the four fashion capitals, where the fashion community (editors, buyers, bloggers and celebrities alike) collects to view the major designers’ collections for the following season. This September saw the presentations for spring/summer 2013, beginning in New York.

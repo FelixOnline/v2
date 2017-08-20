@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Victoria line on Thursday 23 January was partly suspended with severe delays for several hours due to fast-setting concrete. Trains were not running between Warren Street and Brixton.
 date: "2014-01-24 09:44:54 +0000"
-
-# Attributes from Felix Online V1
-id: "4276"
-old_path: /news/4276/victoria-line-suffers-from-civil-engineering-mishap
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4276/victoria-line-suffers-from-civil-engineering-mishap
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - nm708
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Victoria line on Thursday 23 January was partly suspended with severe delays for several hours due to fast-setting concrete. Trains were not running between Warren Street and Brixton.

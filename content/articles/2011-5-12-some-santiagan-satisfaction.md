@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Priya chills in and around Chile's capital
 date: "2011-05-12 18:25:48 +0100"
-
-# Attributes from Felix Online V1
-id: "1195"
-old_path: /travel/1195/some-santiagan-satisfaction
+image: "http://felixonline.co.uk/img/upload/201105121924-felix-ricardo-baeza-yates.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/1195/some-santiagan-satisfaction
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -25,12 +22,6 @@ authors:
  - pg405
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105121924-felix-ricardo-baeza-yates.jpg"
-image_caption: ""
 ---
 
 After finally recovering from my bout of food poisoning, we ventured out of the suburbs of Santiago and up through the drastically arid bush to the national park. Here we were able to see the Santiagans relaxing and socialising in typical South American fashion – as always, every day and night is a party.

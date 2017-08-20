@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Simon Hunter reviews Nicholas Jaarʼs Barbican Spectacular
 date: "2013-10-12 00:31:45 +0100"
-
-# Attributes from Felix Online V1
-id: "3838"
-old_path: /music/3838/armchair-techno
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3838/armchair-techno
-imported: true
 comments:
  - value: >
      Hello. I just realise that I found pcferet images for my dissertation. Would you mind if I use this images for my Phd dissertation? I will mentioned on the dissertation who took this images. Also, the date on the images 04/10/2010, is that Ron's writing or yours? If you could help me on this, it will be great! Thank you very much,Sua,Hello. I just realise that I found <a href="http://gdxneo.com">pecefrt</a> images for my dissertation. Would you mind if I use this images for my Phd dissertation? I will mentioned on the dissertation who took this images. Also, the date on the images 04/10/2010, is that Ron's writing or yours? If you could help me on this, it will be great! Thank you very much,Sua
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -27,12 +24,6 @@ authors:
  - sh1207
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 For a guy who has had such a spectacular rise to musical prominence, __Nicolas Jaar’s__ choice of the Barbican as the venue for a one off gig last weekend should perhaps not be too surprising. In many ways the concert hall is perfectly suited to Jaar’s delicate, jazz-infused melodies and masterful productions. Indeed, the Barbican is no stranger to hosting musicians strongly rooted in the electronic music sphere; the night before had seen __Pantha du Prince__ grace the stage. I was expecting an evening of Jaar’s more laid-back music, hopefully with some guest musicians to fill the acoustic slots from Space is only Noise. For these regions, along with the promise of a trippy accompanying light show, I was hyped.

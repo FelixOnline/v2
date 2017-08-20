@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sir Richard Sykes ousted in mining company coup
 date: "2011-06-16 19:25:14 +0100"
-
-# Attributes from Felix Online V1
-id: "1383"
-old_path: /news/1383/former-rector-sacked-from-board
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1383/former-rector-sacked-from-board
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ak6309
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Sir Richard Sykes, a former Rector of Imperial College, is one of two people to have be ousted in a boardroom coup within the Eurasian Natural Resources Company (ENRC) two weeks ago. The former chairman of GlaxoSmithKline and now ex-deputy chairman of the Kazakh mining company was removed from the 14-man board along with his fellow independent director Ken Olisa, after a vote by the company’s shareholders who claimed they were tired of the two interfering, [The Independent reports](http://www.independent.co.uk/news/business/news/ousted-sir-richard-calls-for-tighter-london-listing-rules-2296343.html).

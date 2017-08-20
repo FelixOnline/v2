@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Imperial takes on 15 of the best university ultimate frisbee teams
 date: "2012-01-12 20:36:24 +0000"
-
-# Attributes from Felix Online V1
-id: "1965"
-old_path: /sport/1965/discdoctors-grab-bucs-points
+image: "http://felixonline.co.uk/img/upload/201201122033-cac111-imgp9182.jpg"
+image_caption: "Well, you can tell it’s the indoor nationals"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1965/discdoctors-grab-bucs-points
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +22,6 @@ authors:
  - cac111
  - ial08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201122033-cac111-imgp9182.jpg"
-image_caption: ""
 ---
 
 On Friday 25 November, 11 of Imperial College discDoctors’ finest men embarked on a campaign to compete against the other 15 best university indoor teams in the country. It was the weekend of Open Indoor Nationals and it carried the potential for discDoctors (dD) to earn some BUCS points for Imperial College.

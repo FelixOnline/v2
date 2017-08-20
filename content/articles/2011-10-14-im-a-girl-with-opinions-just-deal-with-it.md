@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A word to the wise from 'the other side' of Imperial
 date: "2011-10-14 00:32:56 +0100"
-
-# Attributes from Felix Online V1
-id: "1538"
-old_path: /comment/1538/im-a-girl-with-opinions-just-deal-with-it
+image: "http://felixonline.co.uk/img/upload/201110140132-felix-gurl-with-opinions.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1538/im-a-girl-with-opinions-just-deal-with-it
-imported: true
 comments:
  - value: >
      This is why you shouldn't allow word processors in the kitchen.,What a load of rubbish. Climb out of your tight little arsehole and stop thinking you're in a position to advise anyone else. You don't consider yourself to be the most attractive girl at Imperial? Good stuff, you definitely managed to avoid coming across like an arrogant prick! <br>And if you are going to write crap, at least get it consistent. . . complaining about common courtesy in the first paragraph then praising your friends for "treating you like a lady" in the final paragraph displays the kind of idiocy that'll get you treated like walking pussy. Grow up.,<white_knighting> <br>Hey <insert above user name here>, leave <insert third person pronoun> alone! <insert third person pronoun>'s only trying to express a fun opinion! <br></insert></insert></insert></white_knighting>,Nice job, you've drawn out a shrieking misogynist already. It's perfectly fine, according to "anon" here, to treat women as "walking pussy" provided they display a certain level of idiocy. Maybe he s
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110140132-felix-gurl-with-opinions.png"
-image_caption: ""
 ---
 
 So I was told that my pseudonym was not particularly inventive, but that’s simply what I am: a girl with opinions. Got a problem with that!? Then go away and read something else. I’m here to get nitty and gritty and talk about the things that others are too afraid to even think about. In such a male-dominated university, it is imperative for us girls to stick together and fight for our rights as equals. I’m not saying that all men are sexist, but some of them don’t even realise they are. Like the other day this guy held a door open for me and I was like, “I can open doors, you know! What, you think my arms aren’t strong enough?”

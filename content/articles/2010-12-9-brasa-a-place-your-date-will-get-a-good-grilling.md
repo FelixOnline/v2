@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A mixed experience at Fulham's Mediterranean-style sharing restaurant
 date: "2010-12-09 19:37:55 +0000"
-
-# Attributes from Felix Online V1
-id: "508"
-old_path: /food/508/brasa-a-place-your-date-will-get-a-good-grilling
+image: "http://felixonline.co.uk/img/upload/201012091934-ac1507-brasa.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/508/brasa-a-place-your-date-will-get-a-good-grilling
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +22,6 @@ authors:
  - lj810
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012091934-ac1507-brasa.jpg"
-image_caption: ""
 ---
 
 This week, Felix returns to Fulham to review Brasa, the restaurant attached to the recently opened Broadway Bar & Grill which we [wrote about a few weeks ago](http://www.felixonline.co.uk/?article=354). Since our last visit, Brasa has acquired its own sign above the door, sending out the “Hello we exist!” message to passers-by, although the word probably hasn’t spread much yet: it was rather quiet on a Friday night when we visited.

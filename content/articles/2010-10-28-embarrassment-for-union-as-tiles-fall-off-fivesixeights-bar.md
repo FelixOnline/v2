@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Signs of wear and tear after refurbishment
 date: "2010-10-28 19:55:21 +0100"
-
-# Attributes from Felix Online V1
-id: "282"
-old_path: /news/282/embarrassment-for-union-as-tiles-fall-off-fivesixeights-bar
+image: "http://felixonline.co.uk/img/upload/201010282052-nm1010-unionemb.jpg"
+image_caption: "Everyone agreed that it was the worse game of Tetris in living memory"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/282/embarrassment-for-union-as-tiles-fall-off-fivesixeights-bar
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - nn1209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010282052-nm1010-unionemb.jpg"
-image_caption: ""
 ---
 
 For a moment there, it looked like everything was coming together. FiveSixEight, despite problems and delays, opened to a lively first night. Everyone - even the engineers - seemed to be having a good time.

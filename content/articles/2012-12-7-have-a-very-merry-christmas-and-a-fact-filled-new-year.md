@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Philippa Skett, signing off for Christmas with some festive facts
 date: "2012-12-07 01:44:59 +0000"
-
-# Attributes from Felix Online V1
-id: "3041"
-old_path: /science/3041/have-a-very-merry-christmas-and-a-fact-filled-new-year
+image: "http://felixonline.co.uk/img/upload/201212070143-tna08-532429-bigthumbnail.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3041/have-a-very-merry-christmas-and-a-fact-filled-new-year
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - ps3110
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070143-tna08-532429-bigthumbnail.jpg"
-image_caption: ""
 ---
 
 It’s beginning to look a lot like Christmas… isn’t it? No doubt you are reading this already snuggled up warm in your knitted jumper complete with reindeer design, sipping mulled wine and getting positively drunk on the festive cheer. Of course you aren’t; you are like any other Imperial student- walled up in the Library, slowly chewing your arm off. However, who said science can’t be joyous? Spice up your Christmas dinner banter with some of these festive facts, or use them to tell that particularly annoying younger relative once and for all why there is (probably) no Santa.

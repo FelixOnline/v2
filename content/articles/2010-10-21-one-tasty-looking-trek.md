@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Two Imperial graduates talk to Felix about plans to walk the entire length of New Zealand, on the Te Araroa trail
 date: "2010-10-21 18:49:10 +0100"
-
-# Attributes from Felix Online V1
-id: "223"
-old_path: /travel/223/one-tasty-looking-trek
+image: "http://felixonline.co.uk/img/upload/201010211945-nm1010-andersan.jpg"
+image_caption: "Landey Patton and Alexander Ford are planning to traverse the length of New Zealand"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/223/one-tasty-looking-trek
-imported: true
 comments:
  - value: >
      First of all, I would like to wish BEST OF LUCK both of you, Alexander &amp; Landey n the epic journey. I am sure you'll experience interesting &amp; challenging moments. NZ is the best country to be explored due to its terrains &amp; geological features. I always use NZ for my study cases in my previous assignments, Geotourism. ,When it comes to first impression to the customer, you have to have a great logo built by a <a href="http://www.logoturtle.com/logo-design.html" title="custom logo design"><strong>custom logo design</strong></a> company.
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010211945-nm1010-andersan.jpg"
-image_caption: ""
 ---
 
 New Zealand. For a land-of-the-long-white-cloud the size of United Kingdom, which secludes itself in the south-eastern corner of the world map, and houses a population of sheep outnumbering that of humans by 15:1, it boasts an uncanny amount of eccentrics and their heroic – yet insane – antics.

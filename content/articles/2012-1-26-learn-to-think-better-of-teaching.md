@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Individuals need to band together to help solve teaching
 date: "2012-01-26 23:05:18 +0000"
-
-# Attributes from Felix Online V1
-id: "2073"
-old_path: /comment/2073/learn-to-think-better-of-teaching
+image: "http://felixonline.co.uk/img/upload/201201262303-felix-large-coach-carter-blu-ray3.jpg"
+image_caption: "Samuel L. Jackson in Coach Carter, perhaps the most inspirational teacher ever?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2073/learn-to-think-better-of-teaching
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +22,6 @@ authors:
  - jal08
  - jm3309
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201262303-felix-large-coach-carter-blu-ray3.jpg"
-image_caption: ""
 ---
 
 Three out of four secondary school students are not taught physics by a specialist physics teacher. 16% of those eligible for school meals make it to university. Independent schools, however, manage to send 96% of theirs to higher education. These points are raised by [Teach First](http://www.teachfirst.org.uk/TFHome/) (whose mission is to address educational disadvantage and who have been active around Imperial recently). Their solution? Train as a teacher yourself. If enough individuals who are physics graduates become teachers, the problem will be solved.

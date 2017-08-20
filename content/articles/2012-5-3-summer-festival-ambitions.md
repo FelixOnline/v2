@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Why Benicassim should be the top of your list for 2012
 date: "2012-05-03 18:50:41 +0100"
-
-# Attributes from Felix Online V1
-id: "2418"
-old_path: /travel/2418/summer-festival-ambitions
+image: "http://felixonline.co.uk/img/upload/201205031950-ams111-festival-day.jpg"
+image_caption: "Sweaty, sun-singed and fired up on sangria: maybe you should reconsider those summer internship plan"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/2418/summer-festival-ambitions
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -24,12 +22,6 @@ authors:
  - cr709
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205031950-ams111-festival-day.jpg"
-image_caption: ""
 ---
 
 I’m sure we all agree that much of the British festival scene is in tatters. Sure, if you’re willing to deviate from the likes of Reading you might catch some acts that are a little (read: endlessly) more interesting than Kasabian, but ultimately you’ll probably still be forking out far too much money to drag your wellingtons through the rainy mud as the droves of post-GCSE revellers continue to feel each other up and piss on your tent.

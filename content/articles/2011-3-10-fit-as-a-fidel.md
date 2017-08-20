@@ -4,16 +4,13 @@ title: >
 subtitle: >
   We could learn from Cuba’s international health system
 date: "2011-03-10 20:06:23 +0000"
-
-# Attributes from Felix Online V1
-id: "1061"
-old_path: /politics/1061/fit-as-a-fidel
+image: "http://felixonline.co.uk/img/upload/201103101948-nm1010-cubacuba.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1061/fit-as-a-fidel
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - re107
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103101948-nm1010-cubacuba.jpg"
-image_caption: ""
 ---
 
 The Cuban healthcare system is renowned for being one of the most effective healthcare systems in the world today with life expectancies equal to those of some of the world’s wealthiest countries. Cubans have for some time been making a push to reach out far beyond their small island borders in order to export their methods of disease prevention and treatment worldwide, particularly in the developing world where their impact is most noticeable.

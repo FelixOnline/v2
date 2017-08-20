@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Radical Liberals look set to be incumbent's kingmaker
 date: "2011-10-14 10:24:17 +0100"
-
-# Attributes from Felix Online V1
-id: "1542"
-old_path: /politics/1542/poles-at-the-polls
+image: "http://felixonline.co.uk/img/upload/201110141122-felix-4c75738e07c92_o.jpg"
+image_caption: "10.2%! It brings a tear to my eye. Where's my hanky?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1542/poles-at-the-polls
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -25,12 +23,6 @@ authors:
  - pdf08
  - rj408
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110141122-felix-4c75738e07c92_o.jpg"
-image_caption: ""
 ---
 
 A radical libertarian party could hold the key to power in Poland after Sunday, when the EU’s sixth largest economy and only country to not contract in 2009 held parliamentary elections. Unsurprisingly, the incumbent centrist PM came out on top; Donald Tusk’s Civic Platform won 39.2% – a slight decline from the 41.5% gained in 2007. The main opposition, the right wing Law and Justice, gained 29.9% – also a small reduction from 32.1% in 2007. However, the newly formed breakaway from Tusk’s party, Palikot’s Movement, gained support from 10.2% of Poland (including myself), making it the third most popular party.

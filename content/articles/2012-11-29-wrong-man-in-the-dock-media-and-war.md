@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A weekend of Stop the War activities, discussed by Kelly Ameneshoa
 date: "2012-11-29 22:46:27 +0000"
-
-# Attributes from Felix Online V1
-id: "2989"
-old_path: /politics/2989/wrong-man-in-the-dock--media-and-war
+image: "http://felixonline.co.uk/img/upload/201212081536-tna08-blair_protest_leveson_inquiry_david-lawley-wakelin.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2989/wrong-man-in-the-dock--media-and-war
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212081536-tna08-blair_protest_leveson_inquiry_david-lawley-wakelin.jpg"
-image_caption: ""
 ---
 
 On Friday 16th November, Haringey Magistrates Court was the inconspicuous location for the trial of David Lawley-Wakelin. Mr Lawley-Wakelin memorably interrupted Tony Blair with cries of “This man should be arrested for war crimes” while the former Prime Minster was giving evidence at the Leveson enquiry. Following the combined efforts of two policemen he was arrested under Section 5 of the Public Order Act.

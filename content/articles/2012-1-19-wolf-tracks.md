@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto speaks to the animals ahead of their appearance at next Saturday’s Felix Music Night
 date: "2012-01-19 21:17:43 +0000"
-
-# Attributes from Felix Online V1
-id: "2028"
-old_path: /music/2028/wolf-tracks
+image: "http://felixonline.co.uk/img/upload/201201192114-cac111-wolf-tracks.jpg"
+image_caption: "Wolves are only ever this friendly on National Geographic"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2028/wolf-tracks
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - cac111
  - im808
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201192114-cac111-wolf-tracks.jpg"
-image_caption: ""
 ---
 
 ___Who’s who?___

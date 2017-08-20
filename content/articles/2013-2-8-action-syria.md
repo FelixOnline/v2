@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Nida Mahmud wants you to stay on top of this hot button issue
 date: "2013-02-08 01:20:22 +0000"
-
-# Attributes from Felix Online V1
-id: "3288"
-old_path: /comment/3288/action-syria
+image: "http://felixonline.co.uk/img/upload/201302080119-tna08-just-giving.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3288/action-syria
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - nm708
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302080119-tna08-just-giving.png"
-image_caption: ""
 ---
 
 Now the big question: how can you help? And how can you learn more about the situation in Syria? Everything can be answered by twosimple words: Action Syria.

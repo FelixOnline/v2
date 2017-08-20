@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Our weekly science round-up
 date: "2016-05-20 09:04:21 +0100"
-
-# Attributes from Felix Online V1
-id: "6180"
-old_path: /science/6180/science-whats-good
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6180/science-whats-good
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - ea3211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ## A break for wind power

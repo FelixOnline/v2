@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jenny Wilson urges awareness about long-term aid
 date: "2011-05-26 23:36:54 +0100"
-
-# Attributes from Felix Online V1
-id: "1265"
-old_path: /politics/1265/the-losers-of-international-aid
+image: "http://felixonline.co.uk/img/upload/201105270038-felix-img_7798.jpg"
+image_caption: "Girls at Herish School in Keleckchi Collective Town"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1265/the-losers-of-international-aid
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - jw1606
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105270038-felix-img_7798.jpg"
-image_caption: ""
 ---
 
 Much like the fashion houses of Milan and Paris, each season seems to bring with it a new or reinvented world crisis, whether it be natural or man-made. Iraq hasn’t yet reached the status of a likely holiday destination and yet trouble in other countries close by has overcast the problems left by decades of international and civil war, largely inflicted upon its population by Saddam Hussein’s regime. In a trend that seems to be becoming the norm, the western world stepped in to alleviate what it believes to be the bee in its bonnet, without realising there was a whole hive overhead.

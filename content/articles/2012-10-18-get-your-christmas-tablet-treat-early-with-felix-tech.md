@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Max Eggl compares four of the latest student friendly tablets to buy before the Christmas rush: pre-order before Halloween!
 date: "2012-10-18 20:59:14 +0100"
-
-# Attributes from Felix Online V1
-id: "2686"
-old_path: /tech/2686/get-your-christmas-tablet-treat-early-with-felix-tech
+image: "http://felixonline.co.uk/img/upload/201210191349-mc4509-final-ipad.jpg"
+image_caption: "We apologise to any Apple fanboys who just ejaculated all over their keyboard "
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/2686/get-your-christmas-tablet-treat-early-with-felix-tech
-imported: true
 comments:
  - value: >
      The Google Nexus 7 is made by Asus and not Acer... Please don't associate with Acer and its sub standard products...,The Google Nexus 7 is made by Asus and not Acer... Please don't associate with Acer and its sub standard products...,Updated. <br>Tomayto Tomarto,Updated. <br>Tomayto Tomarto
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -31,12 +29,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210191349-mc4509-final-ipad.jpg"
-image_caption: ""
 ---
 
 Seasons come and go, but Christmas never changes and considering that it’s only 65 shopping days away, you might as well get started making your wish list (parents do need something to spend money on!). So to help you get an idea, here are 4 budget tablets that might tickle your fancy!

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   ICSM Netball show that their team fun isn’t just restricted to the Netball Court by taking part in an afternoon of crafts in aid of Imperial College Healthcare Charity
 date: "2016-12-16 16:23:15 +0000"
-
-# Attributes from Felix Online V1
-id: "6625"
-old_path: /cands/6625/icsm-netball-get-crafty
+image: "http://felixonline.co.uk/img/upload/201612161623-felix-IMG-20161123-WA0003-20161214-171124447.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/6625/icsm-netball-get-crafty
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ifrahhussain
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612161623-felix-IMG-20161123-WA0003-20161214-171124447.jpg"
-image_caption: ""
 ---
 
 The start of the summer saw planning and preparations for the upcoming academic year get underway at ICSM Netball. With an ever-expanding club, we decided to shift some focus to the development of the club off-court whilst maintaining team progression on-court. One particular area of focus was club engagement within the community with the aim being to use match-free days to organise volunteering opportunities for our members.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Continuing our series on Sky Atlantic, Vicky Jeyaprakash and Navid Nabijou dice with death with two of the edgiest shows in recent years
 date: "2011-02-03 20:46:00 +0000"
-
-# Attributes from Felix Online V1
-id: "754"
-old_path: /tv/754/our-hbo-fest-continues
+image: "http://felixonline.co.uk/img/upload/201102032043-dr910-sapranos.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/754/our-hbo-fest-continues
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -25,12 +22,6 @@ authors:
  - nn1209
  - vj05
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102032043-dr910-sapranos.jpg"
-image_caption: ""
 ---
 
 __The Sopranos__

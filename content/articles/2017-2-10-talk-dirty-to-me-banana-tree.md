@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Shanzeh embarks on an Indonesian food trip for an amazing price and, on top of that near college, not eating but rather experiencing a whole spectrum of flavours and making memories
 date: "2017-02-10 16:10:40 +0000"
-
-# Attributes from Felix Online V1
-id: "6771"
-old_path: /food/6771/talk-dirty-to-me--banana-tree
+image: "http://felixonline.co.uk/img/upload/201702101610-felix-Picture13.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6771/talk-dirty-to-me--banana-tree
-imported: true
 comments:
  - value: >
      TELL MO UR WOES,TELL MO UR WOES,it's very useful for me personally searching for this site! <br>cheapest and fastest madden 17 mobile coins store http://www.madden-store.com,it's very useful for me personally searching for this site! <br>cheapest and fastest madden 17 mobile coins store http://www.madden-store.com,Proud of you . <br>pokemon go rare pokemon buy http://www.pokemonbux.com,Proud of you . <br>pokemon go rare pokemon buy http://www.pokemonbux.com,Good !|Cool! I love your this bolg. <br>dofustouch-kamas no.1 dofus touch kamas seller https://www.dofustouch-kamas.com/,Good !|Cool! I love your this bolg. <br>dofustouch-kamas no.1 dofus touch kamas seller https://www.dofustouch-kamas.com/,You fall for it every time. <br>Albion Online gold http://albion.bloog.pl/id,359719427,title,UPAlbion-Is-A-Reputable-Albion-Online-Gold-Provider,index.html,You fall for it every time. <br>Albion Online gold http://albion.bloog.pl/id,359719427,title,UPAlbion-Is-A-Reputable-Albion-Online-Gold-Provider,index.html
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101610-felix-Picture13.png"
-image_caption: ""
 ---
 
 ## Where to go

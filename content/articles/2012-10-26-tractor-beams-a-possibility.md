@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The real question here is: where are lightsabers?
 date: "2012-10-26 02:32:26 +0100"
-
-# Attributes from Felix Online V1
-id: "2747"
-old_path: /science/2747/tractor-beams-a-possibility
+image: "http://felixonline.co.uk/img/upload/201210260332-tna08-eptracsalv.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2747/tractor-beams-a-possibility
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - jcw108
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210260332-tna08-eptracsalv.png"
-image_caption: ""
 ---
 
 Researchers at the University of New York have conducted the first experimental demonstration of a tractor beam – a travelling wave that comes from one direction and pulls its target towards the beam’s origin.

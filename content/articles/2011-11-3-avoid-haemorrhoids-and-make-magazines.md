@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Painful health problems are totally worth it with literature this good
 date: "2011-11-03 21:18:44 +0000"
-
-# Attributes from Felix Online V1
-id: "1685"
-old_path: /comment/1685/avoid-haemorrhoids-and-make-magazines
+image: "http://felixonline.co.uk/img/upload/201110140110-sjw209-omar.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1685/avoid-haemorrhoids-and-make-magazines
-imported: true
 comments:
  - value: >
      This is brilliant! Hahahahahaha :)
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - oh106
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110140110-sjw209-omar.jpg"
-image_caption: ""
 ---
 
 I had a health scare the other day. In an otherwise innocuous tutorial about job applications, a renowned doctor casually joked that we shouldn’t spend too long on the toilet for fear of haemorrhoids. Everyone laughed. I froze.

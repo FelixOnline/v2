@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Hollywood superstar visits sports centre and trains with members of Team GB
 date: "2012-05-18 06:07:29 +0100"
-
-# Attributes from Felix Online V1
-id: "2457"
-old_path: /news/2457/now-this-is-the-story-all-about-how-will-smith-was-at-ethos
+image: "http://felixonline.co.uk/img/upload/201205181013-felix-ethos-sports-hall-1-690x430-copy.jpg"
+image_caption: "Obviously, things didn't pan out this way"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2457/now-this-is-the-story-all-about-how-will-smith-was-at-ethos
-imported: true
 comments:
  - value: >
      Obligatory: http://www.youtube.com/watch?v=hBe0VCso0qs,I feel mildly sick after finding this: http://www.youtube.com/watch?v=-p2eYrJA8ag,You need a dose of this then: http://www.youtube.com/watch?v=F8b5G7EV6f8,Apparently DJ Jazzy Jeff attempted to accompany him, but was ejected unceremoniously.,BARACK OBAMA WAS AT ETHOS??,I think you mean Samuel L. Jackson.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205181013-felix-ethos-sports-hall-1-690x430-copy.jpg"
-image_caption: ""
 ---
 
 Hollywood big-hitter and modern day renaissance man Will Smith [was to be found at Imperial’s very own Ethos Sports Centre](http://www.twitvid.com/DQHPJ) on Princes Gardens last Wednesday morning.

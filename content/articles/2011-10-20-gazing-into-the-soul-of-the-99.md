@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A report on the ongoing London protests, by Luke Seldon
 date: "2011-10-20 21:52:10 +0100"
-
-# Attributes from Felix Online V1
-id: "1566"
-old_path: /politics/1566/gazing-into-the-soul-of-the-99
+image: "http://felixonline.co.uk/img/upload/201110202251-felix-dsc07394.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1566/gazing-into-the-soul-of-the-99
-imported: true
 comments:
  - value: >
      Thanks for covering this.It's been said the eatsmite from the police helicopter was 70,000 but they were told they could only say 35,000.Plebgate seems to be a complex scam aimed at dispiriting the police during the festive' season. Christmas for coppers often means no time with the family, a heavy workload dealing with stupid drunks and an increase in fatal road traffic collisions.Life is simple if you don't look too deep.
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110202251-felix-dsc07394.jpg"
-image_caption: ""
 ---
 
 Saturday saw a [global day of occupation and protest in 951 cities across 82 countries](http://newsfeed.time.com/2011/10/17/solidarity-saturday-occupy-wall-street-goes-global/), making this day one of the most widespread days of resistance ever seen. Apart from Rome, they were also entirely peaceful. This was no random event but part of a global tide of uprising that began in the Arab spring and has swept across Europe and America. Although you may question the link between the protests in the Middle East and apparent Western democracies two common features have ran through them all: high unemployment combined with increasing difficulty to live on low wages and a feeling that the general public have no control over their governance.

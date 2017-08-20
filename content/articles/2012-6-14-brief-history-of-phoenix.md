@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Brief History of P h o e n i x
 date: "2012-06-14 21:05:00 +0100"
-
-# Attributes from Felix Online V1
-id: "2575"
-old_path: /phoenix/2575/brief-history-of-phoenix
+image: "http://felixonline.co.uk/img/upload/201206142204-pk1811-phoenix1.png"
+image_caption: "Front cover Phoenix Vol XVII"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/2575/brief-history-of-phoenix
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -24,12 +22,6 @@ authors:
  - cmt09
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206142204-pk1811-phoenix1.png"
-image_caption: ""
 ---
 
 In the 125 years since its inception Phoenix has changed its name, format and remit. In fact, in almost every way this issue would be completely alien (aliens being something of a preoccupation) to the man who founded the magazine in 1887. However it is just possible to trace a thread of continuity all the way back to the great founder himself, Herbert G. Wells.

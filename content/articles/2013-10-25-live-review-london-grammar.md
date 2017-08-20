@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Fred Fyles has an ambivalent experience at Electric Brixton
 date: "2013-10-25 00:30:52 +0100"
-
-# Attributes from Felix Online V1
-id: "3931"
-old_path: /music/3931/live-review---london-grammar
+image: "http://felixonline.co.uk/img/upload/201310250130-felix-mus_london_grammar.jpg"
+image_caption: "London Grammar"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3931/live-review---london-grammar
-imported: true
 comments:
  - value: >
      robertlula007:voniucii ty vseze ruskii pdoonok.. ty by lucshe zanyalsa delom, kretin, a ne komentiroval polskih idiotov . Mudilo -izza takih kak ty,{VAS TAKIH GADOV -NAZI :1% V RASIJI VSEGO ! } zlostnyh hamov, nevozmozno vostanovit horoshih otnoshenii ezdu narodami. gadenyshy sdelayut vse, ctoby byla rozn, eto vam nuzno kak vozduh: bez etogo velikorusy ,nazisty i drugaya pohozaya SVOLOC davno peredtala by﻿ sushestvovat'. Ponyal suka? ,,Well, at least the scruff <a href="http://ztgykrqi.com">baleacns</a> out Andy's face and makes him look more like a fan, especially when he was waving his arms up and down on the side lines on Sunday! For once he really seemed to be into the game and enjoying himself, maybe even understanding what all us fans were going through.Actually, though, it really is just a big marketing ploy by Jeff Laurie. He wasn't selling enough Eagles merchandise, so when the playoff, and hopefully even the SuperBowl, run is over, the Eagles pro-shop is going to be stocked with Eagles emblem
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +26,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250130-felix-mus_london_grammar.jpg"
-image_caption: ""
 ---
 
 As they play, the screens behind London Grammar display visuals of flocks of birds, and wisps of smoke; these are perhaps perfect representations of their music. Transient and fleeting, most of the tracks on their debut album If You Wait begin minimally, swelling to a crescendo as the different elements come together, before ending as quickly and quietly as it began.

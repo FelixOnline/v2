@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The Review's recommendations are the most viable path forward
 date: "2010-10-14 19:59:11 +0100"
-
-# Attributes from Felix Online V1
-id: "217"
-old_path: /comment/217/imperial-students-should-support-the-browne-reviews-recommendations
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/217/imperial-students-should-support-the-browne-reviews-recommendations
-imported: true
 comments:
  - value: >
      Never seen a betetr post! ICOCBW
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The ailments that afflict UK universities are well documented. A rapid increase in the number of students wishing to go to university, combined with declining government funding has left our higher education institutions short of cash and a generation of young people denied the opportunity to study at a higher level.

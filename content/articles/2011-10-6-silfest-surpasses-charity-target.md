@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Silwood Park music festival hailed as a 'massive success' by organisers
 date: "2011-10-06 23:26:17 +0100"
-
-# Attributes from Felix Online V1
-id: "1466"
-old_path: /news/1466/silfest-surpasses-charity-target
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1466/silfest-surpasses-charity-target
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Saturday 16 July saw Imperial’s Silwood Park campus in Berkshire play host to this year’s [Silfest](http://silfest.co.uk/), with the annual independent music festival raising enough money to buy two cows.

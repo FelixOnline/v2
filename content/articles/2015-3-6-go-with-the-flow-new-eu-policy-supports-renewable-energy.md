@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Joshua Emden discusses the impact of flow-based market coupling
 date: "2015-03-06 17:04:49 +0000"
-
-# Attributes from Felix Online V1
-id: "5363"
-old_path: /science/5363/go-with-the-flow-new-eu-policy-supports-renewable-energy
+image: "http://felixonline.co.uk/img/upload/201503061705-cj914-shutterstock_81466396---photoshop.jpg"
+image_caption: "Uniting gas and electricity markets, a new challenge for the Energy Union Strategic Framework."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5363/go-with-the-flow-new-eu-policy-supports-renewable-energy
-imported: true
 comments:
  - value: >
      christian louboutin wedges for women <br>christian louboutin sale canada http://canadachristianlouboutin.blogspot.com/,Love the website-- really user friendly and lots to see!| <br>nba 2k16 mt method http://maddenmobilecoinsrel.blogcindario.com/2016/04/00002-just-how-to-play-with-madden-mobile-game.html
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503061705-cj914-shutterstock_81466396---photoshop.jpg"
-image_caption: ""
 ---
 
 This article comes with a health warning. We will be discussing EU legislation and, as with all things EU, there will be a wealth of unhelpful acronyms and terminology fired at you, none more so than those forming the Commission’s new ‘Energy Union Strategic Framework’, officially revealed last Wednesday. Briefly speaking, this hugely ambitious plan intends to unite gas and electricity markets in the different regions of Europe and, eventually, Europe as a whole whilst facilitating the growth of renewables at the same time.

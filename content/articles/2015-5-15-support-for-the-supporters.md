@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Chanon Wongsatayanont has tips to make helping friends easier
 date: "2015-05-15 12:52:12 +0100"
-
-# Attributes from Felix Online V1
-id: "5538"
-old_path: /welfare/5538/support-for-the-supporters
+image: "http://felixonline.co.uk/img/upload/201505151351-cj914-eeyore-quotes-hd-wallpaper-23.jpg"
+image_caption: "A group of kind committed friends can bring even an old grey grumpy donkey to a smile"
+headline: true
+featured: true
+imported: true
 aliases:
  - /welfare/5538/support-for-the-supporters
-imported: true
 comments:
  - value: >
      I like the helpful info you supply to your articles. I'll bookmark your weblog and check again right here frequently. I'm fairly sure I'll learn a lot of new stuff proper here! Best of luck for the following! <br>cheap hats http://www.twofangtu.cn,hVcJoI http://www.y7YwKx7Pm6OnyJvolbcwrWdoEnRF29pb.com,Great web site you have got right here <br>cheap csgo skins http://www.nerdblast.com/blogs/post/571,Wow, gorgeous site. Thnx .. <br>FIFA 17 POINTS http://socialthat.extor.org/classifieds/244184/1985/fifa-17-coins-free-ea-sports-ac
-
-# Article Taxonomies
 categories:
  - welfare
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505151351-cj914-eeyore-quotes-hd-wallpaper-23.jpg"
-image_caption: ""
 ---
 
 This is the mental health awareness week and I’ll focus on a slightly different but related angle today. In welfare, mental health is a much discussed issue with ever-increasing helpful resources, but there is a group of people often left out from the media spotlight. These are the friends who support friends with eating disorders, those in relationships who lighten up their partner’s depression, or parents who calm their child with anxiety, to name a few examples.

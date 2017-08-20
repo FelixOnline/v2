@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Raincatcher Imperial on the vast importance of water provision
 date: "2012-01-26 22:30:24 +0000"
-
-# Attributes from Felix Online V1
-id: "2065"
-old_path: /news/2065/bringing-the-rain-to-those-in-need
+image: "http://felixonline.co.uk/img/upload/201201262227-pk1811-p1050282.png"
+image_caption: "Easy access to water is of huge benefit to developing countries"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2065/bringing-the-rain-to-those-in-need
-imported: true
 comments:
  - value: >
      A really well written article, touching on a vital issue. Go Raincatcher!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201262227-pk1811-p1050282.png"
-image_caption: ""
 ---
 
 It’s common knowledge that water is essential for survival. Lesser known, perhaps, is the multitude of water-related problems faced by people in areas without adequate water supplies such as Tabora.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The 'secret' Tie Clubs are the target of a new Council paper
 date: "2017-03-17 13:06:17 +0000"
-
-# Attributes from Felix Online V1
-id: "6898"
-old_path: /news/6898/drinking-societies-face-tankard-ban-
+image: "http://felixonline.co.uk/img/upload/201703171305-felix-Screen Shot 2017-03-17 at 13.04.16.png"
+image_caption: "Spot the sabbs"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6898/drinking-societies-face-tankard-ban-
-imported: true
 comments:
  - value: >
      While this may indeed be an issue that needs addressing as the tie clubs are most definitely not free for all to join and as such the use of union tankard storage space behind the bar may not be appropriate, this is genuinely appallingly written article. I appreciate that at Imperial we are more known for our science and engineering than our literacy skills, but even a cursory attempt at fact checking or even a basic spelling and grammar check would have allowed the legitimate purpose of this article to be the point of discussion, rather than the utter inadequacy of the research that has taken place to verify the claims made.<br>While it is true that the tie clubs are invite-only, the suggestion that they do not offer equal opportunities is completely incorrect.<br>"Olson told felix that he had been tasked by Council to find out whether the Links Club accepted women in their ranks"<br>Did 'Olson' actually ask any of the members? The links club is, in fact, well known for being the first of the tie clubs to admit fe
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - ea3211
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171305-felix-Screen Shot 2017-03-17 at 13.04.16.png"
-image_caption: ""
 ---
 
 A paper is to be presented at next week’s Council meeting asking the Union to stop handing out tankards to the so-called ‘Tie Clubs’. These are invite-only ‘secret’ clubs, members of which can be easily identified on a night out as they adorn characteristic ties.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Every Time I Die
 date: "2012-02-03 11:26:20 +0000"
-
-# Attributes from Felix Online V1
-id: "2132"
-old_path: /music/2132/a-beginners-guide-to-post-hardcore-4
+image: "http://felixonline.co.uk/img/upload/201202031124-sjw209-everytimeidie.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2132/a-beginners-guide-to-post-hardcore-4
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - gj309
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202031124-sjw209-everytimeidie.jpg"
-image_caption: ""
 ---
 
 What better way to wave goodbye to week 4 than with a timely fix of post-hardcore goodness. This week, I’ll be telling you all about __Every Time I Die__. As was the case with the second lesson’s band, __Refused__, Every Time I Die doesn’t strictly belong to the post-hardcore genre but for anyone following this column, this band cannot be missed.

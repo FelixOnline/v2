@@ -4,16 +4,14 @@ title: >
 subtitle: >
   They are back and as good as ever!
 date: "2012-02-23 20:28:01 +0000"
-
-# Attributes from Felix Online V1
-id: "2234"
-old_path: /film/2234/the-return-of-the-muppet-puppets
+image: "http://felixonline.co.uk/img/upload/201202232027-pk1811-muppetsmovie.jpg"
+image_caption: "Clearly you’re never too old to love The Muppets – he’s 32 and she’s 37"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2234/the-return-of-the-muppet-puppets
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - lw408
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202232027-pk1811-muppetsmovie.jpg"
-image_caption: ""
 ---
 
 [__The Muppets__](http://www.imdb.com/title/tt1204342/)

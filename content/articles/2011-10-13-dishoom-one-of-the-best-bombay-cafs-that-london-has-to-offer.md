@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Michael and Anastasia review Leicester Square Indian restaurant Dishoom
 date: "2011-10-13 23:27:28 +0100"
-
-# Attributes from Felix Online V1
-id: "1523"
-old_path: /food/1523/dishoom-one-of-the-best-bombay-cafs-that-london-has-to-offer
+image: "http://felixonline.co.uk/img/upload/201110140024-sjw209-dishoom2.jpg"
+image_caption: "Makes a change from KFC"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1523/dishoom-one-of-the-best-bombay-cafs-that-london-has-to-offer
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +23,6 @@ authors:
  - mk4410
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110140024-sjw209-dishoom2.jpg"
-image_caption: ""
 ---
 
 One minute away from Leicester Square Station, [Dishoom](http://g.co/maps/797c3) offers great Indian food at great prices in an extraordinary yet cosy atmosphere.

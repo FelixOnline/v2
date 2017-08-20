@@ -4,18 +4,15 @@ title: >
 subtitle: >
   As the Halls survey launches, we shouldn't ignore the fact that free access to Ethos is also under scrutiny
 date: "2011-03-10 20:03:43 +0000"
-
-# Attributes from Felix Online V1
-id: "1060"
-old_path: /comment/1060/should-ethos-be-free
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1060/should-ethos-be-free
-imported: true
 comments:
  - value: >
      I LIVE for the gym. Don't take it away from me. <br>I have no life, no friends and don't feel like a big man without the gym. <br>Women don't fancy a good personality, they fancy MASSIVE BICEPS!,I think that having free access to ethos is a massive perk of coming to Imperial. Given the high stress and work loads of most people on campus, it really helps to keep people healthy. Im not just talking about staving off the dreaded tummy bulge but also mental illness. I think making people pay for these facilities will mainly discourage students who already find it hard to squeeze health into their time tables. I dread to imagine how pent up and edgy people would get without the option of a long slog in the gym...,I'm a bit baffled that I only found out that my hall rent in first year subsidised my (all be it laughably small) gym usage throughout my 4 years here. And I still don't know what percentage of my £110 pw went to it. I think if we are to have any form of informed debate on the issue, the exact breakdown of hal
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 When the Union President Alex Kendall said that using the amenities fund to subsidise alcohol was immoral, there was an eruption of anger. Postgraduate students rose to the defense of the amenities fund, and Kendall claimed that he was merely encouraging debate. The discussions about hall rents have almost entirely focused on this subject, but beneath the furore another, perhaps more contentious, question is being asked by the [survey](http://www.surveymonkey.com/s/hallrent): Should Imperial continue to offer free gym and swim facilities at Ethos?

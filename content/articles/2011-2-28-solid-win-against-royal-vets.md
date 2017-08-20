@@ -4,16 +4,13 @@ title: >
 subtitle: >
   IC 3s 2 - 0 Royal Vet’s – Hockey's season back on track
 date: "2011-02-28 21:38:42 +0000"
-
-# Attributes from Felix Online V1
-id: "951"
-old_path: /sport/951/solid-win-against-royal-vets
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/951/solid-win-against-royal-vets
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - kvm08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Mens 3s reignited their BUCS campaign with a solid 2-0 win over the Royal Veternary College.

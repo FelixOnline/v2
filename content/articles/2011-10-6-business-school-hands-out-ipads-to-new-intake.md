@@ -4,18 +4,16 @@ title: >
 subtitle: >
   New scheme aims to harness latest technology
 date: "2011-10-06 22:55:41 +0100"
-
-# Attributes from Felix Online V1
-id: "1464"
-old_path: /news/1464/business-school-hands-out-ipads-to-new-intake
+image: "http://felixonline.co.uk/img/upload/201110071533-felix-ipad1.jpg"
+image_caption: "Strategic Marketing students receiving their new iPads"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1464/business-school-hands-out-ipads-to-new-intake
-imported: true
 comments:
  - value: >
      "We want our students to understand everything about these new and rapidly changing technologies and how to make the best use of them." No offence to the business school, but frankly I think today's young generation of students has a much better understanding of Facebook / Twitter / Wordpress etc. than their grey-haired lecturers. Thumbs up to new technologies, but the ACADEMIC reputation of Imperial needs to be maintained. This is a university that should teach people how to use their BRAINS, not so much how to use Twitter. ,So that's where the £9000 tuition fees are going.,Not true the MSc in Marketing is £19,500 of which all is paid by the student/sponsor..you can get a student loan for it.,Sorry that should be "can't get a goverment uk student loan for it",Kool Aid Marketing,I agree with anon, it's a typical Business School gimmick really, it just goes to prove their students have more money than sense if they bleat on about 'wonderful' a gift it is. They should really be more concerned with knuckling
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - skd09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110071533-felix-ipad1.jpg"
-image_caption: ""
 ---
 
 Imperial College Business School is welcoming its ﬁrst students of a new Masters programme and providing them with a free iPad 2 with which to carry out their studies. The programme leaders of the [MSc in Strategic Marketing](http://www3.imperial.ac.uk/business-school/programmes/msc-strategic-marketing) are scrapping the traditional paper-based learning and teaching methods and pioneering a novel approach centred on the use of digital and social media.

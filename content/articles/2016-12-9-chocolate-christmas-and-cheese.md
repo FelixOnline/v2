@@ -4,16 +4,13 @@ title: >
 subtitle: >
   felix visits Rococo Chocolates for a night of chocolate making paired with cheese and whiskey
 date: "2016-12-09 11:47:25 +0000"
-
-# Attributes from Felix Online V1
-id: "6557"
-old_path: /food/6557/chocolate-christmas-and-cheese
+image: "http://felixonline.co.uk/img/upload/201612091147-aib116-IMG_6301.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6557/chocolate-christmas-and-cheese
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612091147-aib116-IMG_6301.jpg"
-image_caption: ""
 ---
 
 If rolling in cash and taking baths in champagne in a mansion in Saint-Jean-Cap-Ferrat is your lifetime goal, may I suggest a better alternative: earning an OBE for “services to chocolate”.

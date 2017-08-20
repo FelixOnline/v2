@@ -4,18 +4,15 @@ title: >
 subtitle: >
   In a controversial redevelopment of the union offices, thousands of pounds were spent on stickers, a light-up reception desk and a glass wall
 date: "2015-11-27 11:52:12 +0000"
-
-# Attributes from Felix Online V1
-id: "5773"
-old_path: /news/5773/union-spends-five-grand-on-a-desk
+image: "http://felixonline.co.uk/img/upload/201511271152-ygr12-onlien.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5773/union-spends-five-grand-on-a-desk
-imported: true
 comments:
  - value: >
      Jetfuel can't melt steel beams tho,Joe Cooper the CEO has got the trustee board to increase his wages to over £80k while other staff were made redundant to cut costs. Long term staff were let go and replaced with inexperienced new people in the name of cutting staff wages. This is just a small example of the control exerted by the top bosses at the union while they hide behind "student trustees". The truth is our sabbs do nothing but seal and stamp on what they want to do. This is why a lot of major changes take over summer before the new sabbs completely know what's happening. There is a real focus on increasing revenue to make all this seem worthwhile, which is why FIveSixEight makes over £250k a year in profit. This is the money that the union says they invest in clubs but club money is provided in grant by the college. The total pot for money for clubs were increased for the first time last year but saw a cut for the previous five years. There was a time the total pot was over £400k. ,I like the wall
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511271152-ygr12-onlien.jpg"
-image_caption: ""
 ---
 
 This week it came to light that the union has spent something in the region of £20,000 on the refurbishment of its own office spaces, £5100 of which was spent on a new light-up reception desk. Other monumental costs included £1266 on the removal and disposal of the old reception desk, £4180 on the new glass separating the SAC from staff desks, and the new stickers adorning the area between Metric and FiveSixEight, which cost £1640 to create and install. It is unclear whether this last cost included the price of the perspex added to the wall to protect the adornments.

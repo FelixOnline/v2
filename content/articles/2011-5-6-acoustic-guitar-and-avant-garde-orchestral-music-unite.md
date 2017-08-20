@@ -4,18 +4,15 @@ title: >
 subtitle: >
   José González teams up with orchestral collective The Göteborg String Theory to great success
 date: "2011-05-06 11:05:24 +0100"
-
-# Attributes from Felix Online V1
-id: "1166"
-old_path: /music/1166/acoustic-guitar-and-avant-garde-orchestral-music-unite
+image: "http://felixonline.co.uk/img/upload/201105061200-felix-5615772569_70df24fe10_b.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1166/acoustic-guitar-and-avant-garde-orchestral-music-unite
-imported: true
 comments:
  - value: >
      I was also there at that concert and whole heartedly agree with your review. Thank you for bringing the evening back to me.
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105061200-felix-5615772569_70df24fe10_b.jpg"
-image_caption: ""
 ---
 
 _[The Barbican](http://www.barbican.org.uk/)

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Medics Netball girls are already BUCS Champions, can they get the United Hospitals Cup as well?
 date: "2011-04-16 19:34:17 +0100"
-
-# Attributes from Felix Online V1
-id: "1132"
-old_path: /sport/1132/medics-netball-win-bucs-final-with-uh-final-around-the-corner
+image: "http://felixonline.co.uk/img/upload/201104162030-jn104-netballb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1132/medics-netball-win-bucs-final-with-uh-final-around-the-corner
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - lh408
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104162030-jn104-netballb.jpg"
-image_caption: ""
 ---
 
 With all the excitement of varsity out the way, with the BUCS season finished, and with no fixtures left until October, it’s about time that Medics Netball had some of the limelight.

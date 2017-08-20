@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Facebook’s ‘I’m safe’ button and French flag filters have divided critics
 date: "2015-11-19 22:43:00 +0000"
-
-# Attributes from Felix Online V1
-id: "5747"
-old_path: /comment/5747/the-modern-way-of-dealing-with-crises-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5747/the-modern-way-of-dealing-with-crises-
-imported: true
 comments:
  - value: >
      Schmid's career record in Open Cup play is 15-7-1. Possess chosen to feature Clive Tyldesley from ITV along with the UK announcer Andy Townsend. In the event you can't, just search online for famous teams and experts. <br>fifa 16 hack http://creditsfut.com/
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In the deadliest attack on French soil since WWII, panic and chaos unfolded in the French capital this week. Many people were left worried that their relatives, family and friends had been amongst those murdered or injured.

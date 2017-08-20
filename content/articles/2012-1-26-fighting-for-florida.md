@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Joseph Letts comments on the current state of US Presidential elections
 date: "2012-01-26 22:01:15 +0000"
-
-# Attributes from Felix Online V1
-id: "2049"
-old_path: /politics/2049/fighting-for-florida
+image: "http://felixonline.co.uk/img/upload/201201262200-ams111-romneygingrichpaul.jpg"
+image_caption: "A tough choice for Republicans: behold the diverse range of old, rich white men"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2049/fighting-for-florida
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -25,12 +23,6 @@ authors:
  - jal08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201262200-ams111-romneygingrichpaul.jpg"
-image_caption: ""
 ---
 
 By the end of the year, Americans will have elected a new President. However, with no clear majority in public opinion for either the Democrats or the Republicans, who will become the next Leader of the Free World? Who will answer the call from visiting extra-terrestrial dignitaries?

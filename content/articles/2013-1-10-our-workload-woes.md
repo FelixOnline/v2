@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Matt Proctor compare us to Oxbridge to see who works harder
 date: "2013-01-10 22:37:51 +0000"
-
-# Attributes from Felix Online V1
-id: "3090"
-old_path: /news/3090/our-workload-woes
+image: "http://felixonline.co.uk/img/upload/201301102239-tna08-cambridge-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3090/our-workload-woes
-imported: true
 comments:
  - value: >
      “The boy girl [ratio] is a complete joke. It is bad enough being at 68:32 but when you look at the standard of girls you would cry” <br> <br>Wow your mate in Civ Eng is a cunt. Good luck to him getting a girl with a darling attitude like that. ,dare I say it, when one takes into account our longer term length and the fact that our first year actually contributes towards our degree classification, it would seem we work harder!,Feminism is about equality: What that includes is not objectifying women or holding them to unrealistic body images, something the 'standard of girls' comment implicitly furthers. ,"Only few courses run by oxbridge grads ... can live up to the standard" <br> <br>Seriously? Fuck you and your elitist prejudicial bullshit.,The point is that nobody is entitled to 'get a girl'. Women don't exist for gratification, and they have a choice in who, if anyone, 'gets' them. The 'standard of girls' comment also plays into the stereotype that women can be either attractive or intelligent, but not both, whic
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102239-tna08-cambridge-1.jpg"
-image_caption: ""
 ---
 
 As students of Imperial College, we often regard ourselves as some of the hardest worked students in the country. A quick Google search reveals many students’ reviews of their time at Imperial. One such review on a website called WhatUni.com, which offers advice to those applying to University, from a former Physics student says:

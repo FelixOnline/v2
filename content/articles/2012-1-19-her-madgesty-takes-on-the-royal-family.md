@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Madonna has made a film, and it is called W.E.
 date: "2012-01-19 20:34:18 +0000"
-
-# Attributes from Felix Online V1
-id: "2017"
-old_path: /film/2017/her-madgesty-takes-on-the-royal-family
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2017/her-madgesty-takes-on-the-royal-family
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - jgp09
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Director__ Madonna

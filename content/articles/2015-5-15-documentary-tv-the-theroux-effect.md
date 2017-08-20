@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jonathan Masters finds himself questioning the aims of TV docs
 date: "2015-05-15 12:28:20 +0100"
-
-# Attributes from Felix Online V1
-id: "5531"
-old_path: /tv/5531/documentary-tv-the-theroux-effect
+image: "http://felixonline.co.uk/img/upload/201505151328-cj914-louis-theroux-cmyk-copy.jpg"
+image_caption: "Louis Theroux and Camille, in the BBC Two documentary Transgender Kids, broadcast last month, which sparked a debate about transgender issues in childhood"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5531/documentary-tv-the-theroux-effect
-imported: true
 comments:
  - value: >
      Of the panoply of website I've pored over this has the most veiytrca.
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -28,12 +26,6 @@ authors:
  - jm5014
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505151328-cj914-louis-theroux-cmyk-copy.jpg"
-image_caption: ""
 ---
 
 Those of you that have a TV Licence, or have had a look at BBC IPlayer recently (much more likely), will have seen that Louis Theroux – the mild mannered, inherently awkward, bespectacled documentarian – has a new series, of which three episodes have already been broadcast early, due to the Clarkson-shaped hole in BBC Two’s Sunday scheduling. My question is, is it anything more than voyeurism or does he have a genuine positive effect?

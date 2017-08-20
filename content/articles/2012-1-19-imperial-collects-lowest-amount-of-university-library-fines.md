@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Leeds leads library fine table
 date: "2012-01-19 22:59:45 +0000"
-
-# Attributes from Felix Online V1
-id: "2035"
-old_path: /news/2035/imperial-collects-lowest-amount-of-university-library-fines
+image: "http://felixonline.co.uk/img/upload/201201192259-felix-dsc_6608.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2035/imperial-collects-lowest-amount-of-university-library-fines
-imported: true
 comments:
  - value: >
      Thanks for the quote Tim, I didn't think you'd actually put in "lol PAR" though. <br> <br>Kings president says she'll ask the kings principal to par off these library fines. <br> <br>Where's the par to Leeds you wrote in the paper version? <br>"As this is Leeds, the term academic is used lightly. The previous statement could be seen to be unfair; the amount raised could suggest that Leeds' students love their subjects so much that they can't bear to give the books back, or that they're just lazy and forgot",great read, nice one Tim :),lol at kings
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201192259-felix-dsc_6608.jpg"
-image_caption: ""
 ---
 
 Imperial College London are bottom of a league table. Luckily, this is a list of the amount of money raised from library fines. Only £26,703 was collected in fines in the period between the 2005/2006 academic year and now. As all students know, if you don’t pay your fines, you aren’t allowed to use the library. It’s hard to speculate, but maybe the thought of being barred from the library is so unnerving that Imperial students promptly return their books.

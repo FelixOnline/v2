@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park reviews "Captain Phillips" and "All is Lost"
 date: "2013-10-20 13:00:22 +0100"
-
-# Attributes from Felix Online V1
-id: "3907"
-old_path: /film/3907/the-old-men-and-the-sea
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3907/the-old-men-and-the-sea
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jgp09
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ###  Captain Phillips

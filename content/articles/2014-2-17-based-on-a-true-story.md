@@ -4,16 +4,13 @@ title: >
 subtitle: >
   According to the great uncitable (Wikipedia) before the year 2000 211 films had been produced based on a true story and after 2000, 221 films have been based on a true story.
 date: "2014-02-17 19:31:39 +0000"
-
-# Attributes from Felix Online V1
-id: "4401"
-old_path: /film/4401/based-on-a-true-story
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4401/based-on-a-true-story
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - pob12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 _“Based on a true story.”_

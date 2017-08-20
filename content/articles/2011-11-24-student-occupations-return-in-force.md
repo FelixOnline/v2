@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Further protests begin with sit-in protest at Cambridge
 date: "2011-11-24 22:08:36 +0000"
-
-# Attributes from Felix Online V1
-id: "1828"
-old_path: /news/1828/student-occupations-return-in-force
+image: "http://felixonline.co.uk/img/upload/201111242207-pk1811-148130-a-levels-accused-of-being-too-easy.jpg"
+image_caption: "Universities Minister David Willetts"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1828/student-occupations-return-in-force
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - felix
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242207-pk1811-148130-a-levels-accused-of-being-too-easy.jpg"
-image_caption: ""
 ---
 
 Students and staff affiliated with Members of Cambridge Defend Education have been staging a sit-in protest in a university lecture theatre at University of Cambridge since Wednesday 23 November.

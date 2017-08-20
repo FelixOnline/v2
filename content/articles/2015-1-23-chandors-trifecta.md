@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park's two cents on J. C. Chandor's new film
 date: "2015-01-23 16:56:45 +0000"
-
-# Attributes from Felix Online V1
-id: "5132"
-old_path: /film/5132/chandors-trifecta
+image: "http://felixonline.co.uk/img/upload/201501231655-jyg11-a-most-violent-year-cmyk.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5132/chandors-trifecta
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jgp09
  - jyg11
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501231655-jyg11-a-most-violent-year-cmyk.jpg"
-image_caption: ""
 ---
 
 __A MOST VIOLENT YEAR__

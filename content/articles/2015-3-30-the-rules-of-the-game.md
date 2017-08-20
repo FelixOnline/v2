@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Fred Fyles thinks that the National Theatre's latest production is a snappy, comedic diamond in the rough
 date: "2015-03-30 14:36:07 +0100"
-
-# Attributes from Felix Online V1
-id: "5459"
-old_path: /arts/5459/the-rules-of-the-game
+image: "http://felixonline.co.uk/img/upload/201503301533-ff712-jpeg-9.-deborah-findlay-(edith)-in-rules-for-living_credit-simon-annand.jpg"
+image_caption: "Deborah Findlay (Edith) in the National Theatre's Rules For Living "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5459/the-rules-of-the-game
-imported: true
 comments:
  - value: >
      Sustain the spectacular job !! Lovin' it! <br>fifa 17 http://forums.greenheating.com/post/cheap-nba-2k17-mtwith-a-contest-in-winter-park-8211834?pid=1293128410
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503301533-ff712-jpeg-9.-deborah-findlay-(edith)-in-rules-for-living_credit-simon-annand.jpg"
-image_caption: ""
 ---
 
 Any hope that the __National Theatre__’s _Rules For Living_ would be a quiet affair was quickly dashed upon reading the programme: in the cast list, tucked under the usual Lighting Designers and Sound Technicians, is an acknowledgement for Kate Waters - Fight Director. This gives us a clear indication of the direction the play is going to go in, but really it should be obvious from the start - _Rules For Living_ centres around that most volatile of environments: the middle-class christmas dinner.

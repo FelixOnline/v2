@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A film full of sex, failure, and relationships; Felix brings you Shame!
 date: "2012-01-19 20:23:15 +0000"
-
-# Attributes from Felix Online V1
-id: "2012"
-old_path: /film/2012/fassbender-just-cant-get-enough
+image: "http://felixonline.co.uk/img/upload/201201192023-pk1811-shame_3.jpg"
+image_caption: "Nothing like having a semi-nude lie-in on a day-off (watch where that hand is going, Michael!)..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2012/fassbender-just-cant-get-enough
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201192023-pk1811-shame_3.jpg"
-image_caption: ""
 ---
 
 __Shame__

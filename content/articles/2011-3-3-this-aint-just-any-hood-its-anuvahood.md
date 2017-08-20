@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Kidulthood’s Adam Deacon writes, directs and stars in this long-awaited British ghetto comedy. By Vishnu Aggarwal
 date: "2011-03-03 06:16:59 +0000"
-
-# Attributes from Felix Online V1
-id: "987"
-old_path: /film/987/this-aint-just-any-hood-its-anuvahood
+image: "http://felixonline.co.uk/img/upload/201103030615-ks607-anuvahoo.jpg"
+image_caption: "Adam Deacon is our hapless hero Kenneth"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/987/this-aint-just-any-hood-its-anuvahood
-imported: true
 comments:
  - value: >
      happy birthday harry,dis film made me get bare semi. :) it didnt go down for a week and a alf. ,dis film looks ard fam, bare geeza ting. i like salad, lol joke im a fat kid. bye,IT A BADMAN MOVIE AND FRUTELLERS IS A A BADMAN SWEET YOU GET ME <br>
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +26,6 @@ authors:
  - va07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103030615-ks607-anuvahoo.jpg"
-image_caption: ""
 ---
 
 So den, mans tinks he’s a top boi MC yeh? Well, despite the common perception that the youth of today all aspire to be the next ‘Nappy’ from N-Dubz, it appears the message from latest urban offering – Anuvahood – is that it’s perfectly acceptable to be ordinary. In a genre where almost every scene involves someone being shanked or whacked in the wedding vegetables with a baseball bat, this film stands out in stark contrast.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Imperial students launch happybirthdaystevejobs.com
 date: "2011-03-01 20:40:08 +0000"
-
-# Attributes from Felix Online V1
-id: "956"
-old_path: /news/956/enthusiasts-create-steve-jobs-birthday-website-
+image: "http://felixonline.co.uk/img/upload/201103012036-ks607-screensh.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/956/enthusiasts-create-steve-jobs-birthday-website-
-imported: true
 comments:
  - value: >
      Why, exactly, are you grateful to him? He's a CEO - he takes your money and gives you a laptop. If he failed to do that, I'd be pretty pissed off at him. <br> <br>Nothing for or against Macs here - just a comment on sad fanboyism.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103012036-ks607-screensh.jpg"
-image_caption: ""
 ---
 
 The time was 4am on the 23rd of February. A relatively large coursework deadline loomed over the heads of Department of Computing students Gabriel Lorin and Raoul Gabriel Urma, but this was not what they were pulling an all nighter for. Having purchased server equipment and spent since noon the previous day configuring it, the two launched [happybirthdaystevejobs.com](http://happybirthdaystevejobs.com).

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This genre of television is so vague you dream up the missing narrative so the writers don’t have to
 date: "2010-10-28 19:49:32 +0100"
-
-# Attributes from Felix Online V1
-id: "279"
-old_path: /comment/279/the-event-went-off-with-a-pfft-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/279/the-event-went-off-with-a-pfft-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - mrangry
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I decided I’d sit down and watch Channel 4’s latest purchase, “[The Event](http://www.channel4.com/programmes/the-event)”, last week. Partly because the advertising campaign had caught my eye, but mostly because it didn’t look anything like Lost. This turned out to be wrong on a level so fundamentally obvious it was only matched by the crushing inevitability of the show’s own plotline. The Event is a pile of turgid poo-poo.

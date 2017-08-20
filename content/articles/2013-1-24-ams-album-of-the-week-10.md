@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Dutch Uncles: Out of Touch in the Wild
 date: "2013-01-24 22:21:37 +0000"
-
-# Attributes from Felix Online V1
-id: "3165"
-old_path: /music/3165/ams-album-of-the-week-10
+image: "http://felixonline.co.uk/img/upload/201301242222-mc4509-198597_10151109398769232_868641925_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3165/ams-album-of-the-week-10
-imported: true
 comments:
  - value: >
      - these are awesome! She is<a href="http://jtkwjwb.com"> geogrous</a> and so are these portrait! And she totally does not look like that cat is giving her ANY trouble totally casual haha!
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - ym1210
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301242222-mc4509-198597_10151109398769232_868641925_n.jpg"
-image_caption: ""
 ---
 
 How many bands can say they have their own posh burger named after them? [__Dutch Uncles__](http://dutchuncles.co.uk/) can, at least. [The Godboy Burger Flexxin Out In The Wilds Of The Northern Quarter](http://dummymag.com/features/2013/01/16/you-ll-like-dutch-uncles-new-band-merch-because-you-can-eat-it/) was created to honour the release of their third album, _Out of Touch in the Wild_. It’s a wonderfully constructed album, albeit short, as I found myself disappointed it had ended so early. I really enjoy how Dutch Uncles manage to take their eclectic influences and formulate them in such an unpretentious, easy to listen to way. There’s none of those dodgy interludes, nor those rubbish slow songs you always skip. It’s a treat for the ears, with a lot of interesting percussion such as xylophones, vibraphones and marimbas adding to the jangly pop vibe.

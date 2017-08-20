@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Ben Howitt reports on Sport Imperial’s new programme, Impetus
 date: "2014-11-20 22:05:16 +0000"
-
-# Attributes from Felix Online V1
-id: "4922"
-old_path: /cands/4922/imperial-receives-65k-of-lottery-funding-for-casual-sport-initiative
+image: "http://felixonline.co.uk/img/upload/201411202205-cj914-ultimate-frisbee-copy.jpg"
+image_caption: "If you look carefully, there is actually a person waiting to catch the frisbee."
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/4922/imperial-receives-65k-of-lottery-funding-for-casual-sport-initiative
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -25,12 +23,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411202205-cj914-ultimate-frisbee-copy.jpg"
-image_caption: ""
 ---
 
 Sport Imperial have launched a new initiative, aimed at people who want to play casual sport without the pressure of being a part of a sports club or the atmosphere of being in Ethos for a fitness class or gym session.

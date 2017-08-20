@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Kunal Wagle reports as College team wins in Wembley Arena
 date: "2015-02-12 21:02:00 +0000"
-
-# Attributes from Felix Online V1
-id: "5238"
-old_path: /news/5238/imperial-win-the-bhangra-showdown
+image: "http://felixonline.co.uk/img/upload/201502130154-ps3110-screen-shot-2015-02-13-at-01.53.14.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5238/imperial-win-the-bhangra-showdown
-imported: true
 comments:
  - value: >
      fitflop on sale <br>fitflops outlets singapore http://singaporeasalefitflops.blogspot.com/,fitflops cheapest <br>fitflop sale http://fitflopssalesingapore.blogspot.com/,fitflop sandals australia <br>best price fitflops http://australiafitflops.blogspot.com/,fitflop shoes clearance <br>buy fitflops online http://australiafitflops.iemiller.net/,fitflop slipper <br>fitflops australia outlet http://australiafitflops.blogspot.com/,birkenstock shoes <br>cheap birkenstock http://birkenstockaustralia.rochecap.org/,birkenstock shops <br>birkenstocks sydney http://birkenstockaustralia.rochecap.org/,christian louboutin sneakers <br>christian louboutin shoes outlet http://christianlouboutincanadaoutlet.blogspot.com/,Brazil, 'the king of World Cup' will enter group G with Korea DPR, Ivory Coast, and Portugal. Similarly, the answering services company manager cannot spend extended periods poring over data of yesteryears. <br>fifa 16 hack http://creditsfut.com/,shoes with red soles <br>christian louboutin sale http://canadachristianlouboutinoutlet.blogs
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502130154-ps3110-screen-shot-2015-02-13-at-01.53.14.png"
-image_caption: ""
 ---
 
 Last week the team from Imperial College London won The Bhangra Showdown (TBS) at Wembley Arena. The event, which was in its eighth year, was organised by seven committee members from the Imperial Punjabi Society. In previous years the competition has been held at the Hammersmith Apollo, and was being held in North London for the first time.

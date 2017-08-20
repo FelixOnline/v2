@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Online petition aims to bring matter to Parliament debate
 date: "2011-10-13 21:14:28 +0100"
-
-# Attributes from Felix Online V1
-id: "1506"
-old_path: /news/1506/babar-ahmad-should-face-trial-in-the-uk-says-sister
+image: "http://felixonline.co.uk/img/upload/201110132213-felix-trial.jpg"
+image_caption: "Amna Ahmad claims that a UK based trial would ‘expose’ details of police treatment"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1506/babar-ahmad-should-face-trial-in-the-uk-says-sister
-imported: true
 comments:
  - value: >
      This is the best Felix article I have read. ,This is the best Felix article I have read. ,I enjoy the knowledge on your websites. Appreciate it!,I enjoy the knowledge on your websites. Appreciate it!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
  - nn1209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110132213-felix-trial.jpg"
-image_caption: ""
 ---
 
 With less than a month before [the online petition concerning Babar Ahmad](http://epetitions.direct.gov.uk/petitions/885) closes, his sister Amna spoke to Felix about her brother’s experience. For the past seven years, Babar Ahmad has been in prison fighting extradition to the United States. The current petition, launched two months ago, calls on the UK Government to put him on trial in the UK.

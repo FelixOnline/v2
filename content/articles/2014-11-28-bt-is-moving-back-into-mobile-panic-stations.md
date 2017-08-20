@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Kunal discusses the implactions the move could have
 date: "2014-11-28 00:50:52 +0000"
-
-# Attributes from Felix Online V1
-id: "4967"
-old_path: /comment/4967/bt-is-moving-back-into-mobile-panic-stations
+image: "http://felixonline.co.uk/img/upload/201411280050-ps3110-bt-tower.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4967/bt-is-moving-back-into-mobile-panic-stations
-imported: true
 comments:
  - value: >
      christian loubitin <br>christian louboutin outlet http://christianlouboutincanadaoutlet.blogspot.com/,that first he would bring us down to nothing before he saved us (Deuteronomy 32:36 “For the LORD shall judge his people, and repent himself for his servants, when he seeth that their power is gone, and there is none shut up, or left.”). At one time during the Middle Ages, the caucasian was in a lower estate than we’ve ever been. He was known as a “slav” (which is where we get both the word “slavic” and “SLAVE” from) and a “serf”. The lowest class of serf was known as a Ql0;vil2ein„, which is where you get the word “villain” from.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411280050-ps3110-bt-tower.jpg"
-image_caption: ""
 ---
 
 On Monday Spanish newspapers reported that BT were in talks with Telefonica over a potential takeover of O2. It later emerged that BT are also discussing the purchase of EE from French company Orange S.A. and German company Deutsche Telekom. But what would this mean for us? Should we be worried, or excited?

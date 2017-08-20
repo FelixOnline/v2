@@ -4,20 +4,18 @@ title: >
 subtitle: >
   Gilead Amit interviews Claire Fox, Director of the Institute of Ideas, ahead of its weekend of debates at the Royal College of Art
 date: "2010-10-14 19:13:21 +0100"
-
-# Attributes from Felix Online V1
-id: "199"
-old_path: /news/199/battle-of-ideas-comes-to-south-kensington
+image: "http://felixonline.co.uk/img/upload/201010142008-ks607-clairefo.jpg"
+image_caption: "Claire Fox says there's a climate of distrust in the UK"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/199/battle-of-ideas-comes-to-south-kensington
-imported: true
 comments:
  - value: >
      Read the inside story on the Battle of Ideas and the secretive LM network here: <br> <br>http://www.powerbase.info/index.php/Battle_of_Ideas,I bought this foawemrrk
  - value: >
      RichGRID on a leap of faith. I could not be more pleased. It's one of the few times that I've seen an honest product. I have little coding experience, but am able to easily tinker with the foawemrrk to achieve the look that I want. As for support, no question is too small for Felix to answer. I was hesitant to request assistance on such a small issue, but sure enough Felix responded in a matter of hours with the answer that I had been looking for !In the end, I highly recommended this tool-set to the average person, it's really user friendly and well designed. After about an hour of browsing through the options I had a basic understanding on how it all worked. I couldn't see myself using anything else to build my studio site.,I agree with Christopher above. Felix's theme is worth every penny. Not only is the product<a href="http://noelfzcea.com"> wfur</a>
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -31,12 +29,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010142008-ks607-clairefo.jpg"
-image_caption: "Claire Fox says there's a climate of distrust in the UK"
 ---
 
 __If I can start by being totally honest, I hadn’t heard of the ‘[Battle of Ideas](http://www.battleofideas.org.uk/)’ before I found out you were coming to the Royal College of Art this year. What would you like people to know before they come along?__

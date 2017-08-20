@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Chanon Wongs atayanont discusses the effects of depression how it feels
 date: "2014-11-06 20:22:02 +0000"
-
-# Attributes from Felix Online V1
-id: "4788"
-old_path: /welfare/4788/when-colours-fade-away
+image: "http://felixonline.co.uk/img/upload/201411062021-snb11-depression-xalt.png"
+image_caption: "You might know that different things are happening to you, but they don't feel very different. – Hyp"
+headline: true
+featured: true
+imported: true
 aliases:
  - /welfare/4788/when-colours-fade-away
-imported: true
 comments:
  - value: >
      http://birkenstocksaleaustralia.blogspot.com/ <br>cheapest birkenstock sandals http://birkenstocksaleaustralia.blogspot.com/,mayari birkenstock <br>birkenstock australia clearance http://birkenstocksaleaustralia.blogspot.com/,christian louboutin shoes outlet <br>christian louboutin online outlet http://christianlouboutincanadaoutlet.blogspot.com/,louboutin wedding shoes <br>christian louboutin canada stores http://canadachristianlouboutinoutlet.blogspot.com/,Great web website! It looks extremely good! Sustain the helpful job!| <br>cs go skins credit card http://madden15coinsguide.lofter.com/post/1d3e1fe4_a62d298,Many thanks, this site is extremely useful.| <br>cs go skins by price http://www.koledzyzwojska.pl/obraz/how-make-coins-2k16-mt,You've gotten fantastic thing on this website <br>NFL 17 http://koolkidstable.org/forum/thread/30/fifa-coins-helps-it-be-an-excellent/,Passion the site-- very individual pleasant and great deals to see! <br>madden 17 coins http://www.westechcomputers.com/forum/events/338-madden-nfl-coins-toronto-vid
-
-# Article Taxonomies
 categories:
  - welfare
 tags:
@@ -28,12 +26,6 @@ authors:
  - snb11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411062021-snb11-depression-xalt.png"
-image_caption: ""
 ---
 
 This week, let’s move on from anxiety to the more cheerful topic of depression. To the sufferers, it is the worst feeling in the world. But for those who have never experienced it, it is hard to truly understand how unpleasant or disruptive it is, so this article will try to explain how it feels.

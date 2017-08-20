@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Summer lovin’, happened so fast
 date: "2016-10-03 16:53:49 +0100"
-
-# Attributes from Felix Online V1
-id: "6300"
-old_path: /news/6300/an-idiots-guide-to-summer-2016
+image: "http://felixonline.co.uk/img/upload/201610031844-felix-6996026717_86a05ac440_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6300/an-idiots-guide-to-summer-2016
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610031844-felix-6996026717_86a05ac440_o.jpg"
-image_caption: ""
 ---
 
 Ah, summer. That brief and fleeting moment of respite between the end of one exam period and the start of the next? Well here’s a recap for those of you who either forgot what went down or were on one of those holidays where you’re in a cave for a month because it cleanses your soul.

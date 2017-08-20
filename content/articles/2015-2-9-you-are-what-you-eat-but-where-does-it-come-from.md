@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jane Courtnell on the woes of unsustainable agriculture
 date: "2015-02-09 19:30:25 +0000"
-
-# Attributes from Felix Online V1
-id: "5222"
-old_path: /science/5222/you-are-what-you-eat--but-where-does-it-come-from
+image: "http://felixonline.co.uk/img/upload/201502091930-ps3110-pesticides-bro---photoshop.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5222/you-are-what-you-eat--but-where-does-it-come-from
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502091930-ps3110-pesticides-bro---photoshop.jpg"
-image_caption: ""
 ---
 
 Fertile Crescent of Western Asia provides the earliest evidence so far of agricultural development; dated to have occurred in this region around 11,000 years ago. This behaviour originated independently at several locations and spread globally.

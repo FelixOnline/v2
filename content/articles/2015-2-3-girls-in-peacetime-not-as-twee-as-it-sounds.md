@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Philip Kent reviews the latest offering from Belle & Sebastian
 date: "2015-02-03 14:55:58 +0000"
-
-# Attributes from Felix Online V1
-id: "5186"
-old_path: /music/5186/girls-in-peacetime-not-as-twee-as-it-sounds
+image: "http://felixonline.co.uk/img/upload/201502031455-ps3110-belle-and-sebastian-photos.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5186/girls-in-peacetime-not-as-twee-as-it-sounds
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - pk1811
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502031455-ps3110-belle-and-sebastian-photos.jpg"
-image_caption: ""
 ---
 
 Twee is a word often used to describe Stuart Murdoch’s indie band, whose ninth album _Girls in Peacetime Want to Dance_ was released on Matador on 19th January. However having listened to the album a number of times since it was released one is immediately forced to consider whether this label still holds true.

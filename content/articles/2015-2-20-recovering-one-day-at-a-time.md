@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Diba Esbati shares some of her day-to-day coping strategies
 date: "2015-02-20 16:37:57 +0000"
-
-# Attributes from Felix Online V1
-id: "5290"
-old_path: /welfare/5290/recovering-one-day-at-a-time
+image: "http://felixonline.co.uk/img/upload/201502201638-ps3110-screen-shot-2015-02-20-at-16.37.06.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /welfare/5290/recovering-one-day-at-a-time
-imported: true
 comments:
  - value: >
      Hello there, You've done an excellent job. I'll certainly digg it and personally suggest to my friends. I am sure they wil be benefited from this website. <br>canada goose jassen origineel http://www.webenco.nl/?nl-canada-goose-jassen-origineel-6396.html,Hello, i think that i saw you visited my site thus i came to “return the favor”.I am attempting to find things to improve my website!I suppose its ok to use a few of your ideas!! <br>ugg baratas verdaderas http://www.politica2cero.es/?es-ugg-baratas-verdaderas-535.html,Keep up the great work and generating the crowd!| <br>nba 2k16 mt generator http://www.macintosh-user.com/t1965f69-What-They-Informed-You-About-nba-k-mt-cheap.html#msg2368,You've got good thing in this case.| <br>nba 2k16 mt free http://maddenmobilecoinstrading.blog.com/2016/04/13/play-madden-mobile-game/,I treasure the info on your web site. Thank you so much!. <br>NBA 2K17 MT http://webapro.org/classifieds/112/227/nba-2k17-vc-contemplating-which,Maintain the excellent work !! Lovin' it! <br>madden 17 coin
-
-# Article Taxonomies
 categories:
  - welfare
 tags:
@@ -28,12 +25,6 @@ authors:
  - ze111
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502201638-ps3110-screen-shot-2015-02-20-at-16.37.06.png"
-image_caption: ""
 ---
 
 Depression sucks, there’s no getting around that. It’s awful and makes you feel like you’re not in control of your own emotions, sleep pattern, or motivation. But something that’s worth remembering is that it’s not unmanageable.

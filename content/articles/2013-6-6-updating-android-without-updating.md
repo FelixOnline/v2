@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A slew of new features for Android revealed at Google I/O 2013!
 date: "2013-06-06 17:47:18 +0100"
-
-# Attributes from Felix Online V1
-id: "3666"
-old_path: /tech/3666/updating-android-without-updating
+image: "http://felixonline.co.uk/img/upload/201306061849-tna08-android-jelly-bean.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3666/updating-android-without-updating
-imported: true
 comments:
  - value: >
      May 9, 2012 You sir are completely cerrcot. You aren't a monkey being told when to dance and in what style. You do whatever make you feel good and feel accomplished when you finish editing a video. Many people don't realize just how hard just giving news it' as many commenters have never tried a youtube video for themselves. Thats totally fine but the key for any vid is for the host to be comfortable and do his or her own thing. Dave keep it up, i think your getting better every week. Peace bud.,salam mamnonam mano <a href="http://gvomllznvmw.com">raimhnaei</a> konid dar morede saptename googel+ onja az man keshvare mahale zendegi mikhad man nemidonam chi bezanam akhe irano ghabol nemikone badesh ye shomare mikhad hala bahar badbakhtiii man keshvare eragh baye shomareye jalii zadam safhaye badesh taze kod mikhad nemidonam chikar konam pak gijam kardelotfan rahnemaim konidmamnon
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +25,6 @@ authors:
  - ywc110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306061849-tna08-android-jelly-bean.jpg"
-image_caption: ""
 ---
 
 Google I/O has traditionally, for the past few years at least, been an event where Google unveils the newest and shiniest version of Android to the world. Although open source, Android is developed in-house with little known to the outside world save through the usual rumours and leaks. It’s been no different this year. Prior to Google I/O, there has been signs of a new version of Android, version 4.3 and widely believed to be a new iteration of Jelly Bean showing up in server logs. The talk of the grapevine was that this version would be unveiled during the I/O event.

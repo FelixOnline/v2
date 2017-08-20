@@ -4,18 +4,16 @@ title: >
 subtitle: >
   An intriguing documentary, My Nazi Legacy takes a look at how evil can change a family
 date: "2015-11-29 16:42:55 +0000"
-
-# Attributes from Felix Online V1
-id: "5783"
-old_path: /film/5783/the-sins-of-the-father
+image: "http://felixonline.co.uk/img/upload/201511291642-ff712-1799.jpg"
+image_caption: "Do the sins of the father reflect onto the children?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5783/the-sins-of-the-father
-imported: true
 comments:
  - value: >
      I get pleasure from, result in I discovered just what I was having a look for. You have ended my 4 day lengthy hunt! God Bless you man. Have a great day. Bye <br>woolrich bari negozi http://www.okatent.com/it/?it-woolrich-bari-negozi-27946.html
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +24,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511291642-ff712-1799.jpg"
-image_caption: ""
 ---
 
 While children are not responsible for the sins of the fathers, there are occasions where the legacy left behind by our forbearers is inescapable. Such is the case in _My Nazi Legacy_, where international genocide lawyer Philippe Sands explores the burden of history resting on the shoulders of Niklas Frank and Horst von Wächter, whose fathers were the Nazi governors of Poland and Galicia respectively, responsible for sending thousands upon thousands to their deaths.

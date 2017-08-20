@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Felix gauges student opinion after Daily Mail medic article
 date: "2011-01-20 21:11:48 +0000"
-
-# Attributes from Felix Online V1
-id: "643"
-old_path: /news/643/does-imperial-have-a-drinking-problem-
+image: "http://felixonline.co.uk/img/upload/201101202101-ks607-drinkind.jpg"
+image_caption: "Lads..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/643/does-imperial-have-a-drinking-problem-
-imported: true
 comments:
  - value: >
      Can anyone explain why 22s are affiliated with the RCSU if they don't allow females to join? Sounds like they're stuck in the dark ages.,Can anyone explain why 22s are affiliated with the RCSU if they don't allow females to join? Sounds like they're stuck in the dark ages.,Can anyone explain why 22s are affiliated with the RCSU if they don't allow females to join? Sounds like they're stuck in the dark ages.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -31,12 +29,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101202101-ks607-drinkind.jpg"
-image_caption: ""
 ---
 
 Following the [controversial exposure](http://www.dailymail.co.uk/news/article-1343184/Pass-sick-bag-The-antics-Imperial-College-medical-students-worry-all.html) of the drunken antics of Imperial medical students at the Reynolds Bar earlier this month, action has been taken to clamp down on the excessive drinking of “a minority of students”. However, as Felix found this week, many students have shrugged off concerns about drinking, while Royal College of Science Union President Scott Heath, has raised concerns that the bad press would be used as an excuse to interfere in students’ lives. So what do students think about the amount of alcohol that they drink, and of the fresh media interest into their drinking habits?

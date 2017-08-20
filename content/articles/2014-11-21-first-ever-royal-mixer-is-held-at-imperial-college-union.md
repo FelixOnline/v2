@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Event wth RVC, RCM and RCA is a sucess
 date: "2014-11-21 13:15:53 +0000"
-
-# Attributes from Felix Online V1
-id: "4925"
-old_path: /news/4925/first-ever-royal-mixer-is-held-at-imperial-college-union
+image: "http://felixonline.co.uk/img/upload/201411211315-ps3110-1526521_10152904433937526_445959434434131090_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4925/first-ever-royal-mixer-is-held-at-imperial-college-union
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411211315-ps3110-1526521_10152904433937526_445959434434131090_n.jpg"
-image_caption: ""
 ---
 
 The first ever Royal Mixer, which took place last Thursday 13th Nov 2014 at Metric, saw students from a host of other “Royal” institutions in London attend an Imperial-based social for the first time.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Officers' lawyer says they are hoping to put "unfounded allegations behind them"
 date: "2011-06-02 17:46:49 +0100"
-
-# Attributes from Felix Online V1
-id: "1290"
-old_path: /news/1290/all-four-officers-acquitted-in-babar-ahmad-assault-trial
+image: "http://felixonline.co.uk/img/upload/201106021846-felix-face-1.jpg"
+image_caption: "Babar Ahmad pictured after his arrest in 2003"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1290/all-four-officers-acquitted-in-babar-ahmad-assault-trial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106021846-felix-face-1.jpg"
-image_caption: ""
 ---
 
 Update 14:49

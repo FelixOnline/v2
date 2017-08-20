@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Report unveils move towards better teaching and automated feedback
 date: "2011-10-27 19:38:51 +0100"
-
-# Attributes from Felix Online V1
-id: "1606"
-old_path: /news/1606/union-first-to-provide-response-to-nss
+image: "http://felixonline.co.uk/img/upload/201110272007-felix-img_6764.jpg"
+image_caption: "Imperial College Union aim to combat Imperial’s low ranking for assessment and feedback in the NSS"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1606/union-first-to-provide-response-to-nss
-imported: true
 comments:
  - value: >
      Good article,Well done chaps, <br> <br>keep up with the good work
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110272007-felix-img_6764.jpg"
-image_caption: ""
 ---
 
 [Imperial College Union](http://www.imperialcollegeunion.org/) has become the only student union in the UK to publish an official response to the [National Student Survey](http://www.thestudentsurvey.com/) (NSS). A poor performance in this this year’s NSS has been widely blamed for the College slipping 11 places in the Sunday Times League Table for 2012 entry. This was the first year of a new methodology, which places greater weight on the survey, being used to compile the table.

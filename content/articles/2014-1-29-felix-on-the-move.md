@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix Tech interviewing Kunal Wagle, the creator of the Felix app.
 date: "2014-01-29 16:24:43 +0000"
-
-# Attributes from Felix Online V1
-id: "4305"
-old_path: /tech/4305/felix-on-the-move
+image: "http://felixonline.co.uk/img/upload/201401291629-me1711-tech_felapp.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4305/felix-on-the-move
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - kmw13
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201401291629-me1711-tech_felapp.jpg"
-image_caption: ""
 ---
 
 __ME: Introduce yourself!__

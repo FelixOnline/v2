@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Alexander Karapetian discusses issues regarding the NSS's reliability
 date: "2012-02-16 21:59:13 +0000"
-
-# Attributes from Felix Online V1
-id: "2203"
-old_path: /comment/2203/on-rigging-the-nss
+image: "http://felixonline.co.uk/img/upload/201202162157-ams111-alex-k-meme.jpg"
+image_caption: "Not sure if meme or caption. Oh, wait, caption. Oh well..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2203/on-rigging-the-nss
-imported: true
 comments:
  - value: >
      We're working on getting a response from Ipsos MORI, they've been unable to comment so far. I have spoken to some people who tested the survey before it was opened, and we maintain that they have weak identity verification because of the available inputs the NSS appears to take. I filled in my own NSS response using my CID, my name and date of birth from the website itself. If I had entered another valid CID with the associated name and details, I would be able to submit my reponse as another student and they would not be able to tell. <br> <br>The concept of mass impersonation is simply an upscaling and automation which reads an internal valid database. Our accusations of weak authentication are justified in that anyone can go and impersonate others right now with their responses being accepted and with Ipsos having no way to tell whether it is actually the student or a third party who responded.,If this is serious journalism you need to interview someone at Ipsos to understand how the survey works and how they ve
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +24,6 @@ authors:
  - ak6309
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162157-ams111-alex-k-meme.jpg"
-image_caption: ""
 ---
 
 [Our front page story this week](http://felixonline.co.uk/news/2212/flaws-exposed-in-national-student-survey/) uncovered a method students from the Department of Computing found to be able to mass impersonate final year students in the National Student Survey (NSS), effectively skewing the results in favour of Imperial. Of course, the aforementioned technique of programmatically scraping an internal database for the names and CID numbers of final year students may be easy, but is rigging the NSS really that simple?

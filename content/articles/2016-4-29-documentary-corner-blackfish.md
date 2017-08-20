@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-04-29 10:39:19 +0100"
-
-# Attributes from Felix Online V1
-id: "6101"
-old_path: /film/6101/documentary-corner-blackfish
+image: "http://felixonline.co.uk/img/upload/201604291139-felix-seaworld.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6101/documentary-corner-blackfish
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - bsc14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201604291139-felix-seaworld.jpg"
-image_caption: ""
 ---
 
 Back in November of last year I wrote one of my first ‘Documentary Corner’ features on the film _The Cove_ – a powerful environmentalist piece which showcased the grim reality of dolphin and whale hunting in Japan. As I mentioned in that review, _The Cove_ remains one of a relatively small list of documentaries which have made me properly address and re-think some of my own opinions and actions. One section of the film which really stood out to me was the discussion of where dolphins and whales who were caught in the wild were sent: ocean parks, it seems, pay top dollar for healthy Cetaceans to showcase, with little concern over their wellbeing. Therefore, it’s probably fair to say that my opinion of places like SeaWorld was already quite low going into this week’s film, the 2010 Oscar-winner _Blackfish_; it doesn’t get any better.

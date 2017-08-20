@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Twilight may be annoying, but it does actually have decent music
 date: "2011-11-10 21:48:56 +0000"
-
-# Attributes from Felix Online V1
-id: "1736"
-old_path: /music/1736/five-films-to-watch-for-their-soundtracks
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1736/five-films-to-watch-for-their-soundtracks
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Forget orchestral scores, these are songs you would actually listen to. Or maybe you like to have the shower scene from _Psycho_ on repeat during your walk to college every morning, I’m not here to judge.

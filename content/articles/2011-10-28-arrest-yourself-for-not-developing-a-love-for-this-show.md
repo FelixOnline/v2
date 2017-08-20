@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Any more punny headlines and I'll be forced to hand myself in...
 date: "2011-10-28 13:32:40 +0100"
-
-# Attributes from Felix Online V1
-id: "1643"
-old_path: /tv/1643/arrest-yourself-for-not-developing-a-love-for-this-show
+image: "http://felixonline.co.uk/img/upload/201110281427-felix-19944_arrested-development.jpg"
+image_caption: "Eccentric isn’t the word..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1643/arrest-yourself-for-not-developing-a-love-for-this-show
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110281427-felix-19944_arrested-development.jpg"
-image_caption: ""
 ---
 
 It was recently announced that a new series of [Arrested Development](http://www.imdb.com/title/tt0367279/) is in the works and will be aired at some point in the future. The plan is to then make a film. If you are anywhere near as big an AD fan (as those in the know call it – although it does make it sound a bit like a disorder) as I am you will have flipped your shit, I believe that is the technical term. Don’t worry, that is purely metaphorical shit-flipping going on.

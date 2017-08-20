@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Cambridge University commences initiative to digitise original scientific papers
 date: "2011-12-24 22:48:14 +0000"
-
-# Attributes from Felix Online V1
-id: "1962"
-old_path: /science/1962/plans-to-digitise-newtons-handwritten-principia-going-ahead
+image: "http://felixonline.co.uk/img/upload/201112242250-ak6309-cambridge.jpg"
+image_caption: "Newton's handwritten annotated notes, amongst others, are to be put online"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1962/plans-to-digitise-newtons-handwritten-principia-going-ahead
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ak6309
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112242250-ak6309-cambridge.jpg"
-image_caption: ""
 ---
 
 Cambridge University is to give the public access to Sir Isaac Newton's own [annotated copy of the Principia Mathematica online](http://cudl.lib.cam.ac.uk/), along with several of his other papers. Newton, born on Christmas Day in 1642, shares credit with Gottfried Leibniz for the developments in integral and differential calculus, along with several breakthroughs in mathematics and physics.

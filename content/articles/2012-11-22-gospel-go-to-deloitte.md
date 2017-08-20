@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Business and singing collide...
 date: "2012-11-22 22:51:51 +0000"
-
-# Attributes from Felix Online V1
-id: "2934"
-old_path: /news/2934/gospel-go-to-deloitte
+image: "http://felixonline.co.uk/img/upload/201211222251-tna08-ugcy-stage.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2934/gospel-go-to-deloitte
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - emm10
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211222251-tna08-ugcy-stage.jpg"
-image_caption: ""
 ---
 
 What do a university gospel choir and Deloitte, one of the four major professional services companies, have in common? Possibly morethan you might think...

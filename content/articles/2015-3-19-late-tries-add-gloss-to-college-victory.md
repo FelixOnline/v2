@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Kunal Wagle reports as College are victorious in the Men's match at the Stoop
 date: "2015-03-19 23:39:09 +0000"
-
-# Attributes from Felix Online V1
-id: "5403"
-old_path: /sport/5403/late-tries-add-gloss-to-college-victory
+image: "http://felixonline.co.uk/img/upload/201503192338-kmw13-tbl_varsity_quick_set_22h37m24s.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5403/late-tries-add-gloss-to-college-victory
-imported: true
 comments:
  - value: >
      cheapest fitflop <br>fitflops in australia http://www.australiafitflops.com/,fitflop slippers <br>fitflop buy online http://australiafitflops.iemiller.net/,louboutin heels <br>christian louboutin online outlet http://canadachristianlouboutin.blogspot.com/,shoes with red bottoms <br>cheap christian louboutin http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin shoes outlet <br>christian louboutin canada sale http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin wedges shoes <br>christian louboutin outlet http://christianlouboutincanadaoutlet.blogspot.com/,kdokZs http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -26,12 +23,6 @@ authors:
  - kmw13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503192338-kmw13-tbl_varsity_quick_set_22h37m24s.jpg"
-image_caption: ""
 ---
 
 Two dominant periods at the start and end of the match ensured that Imperial College claimed a more than comfortable victory over the Imperial Medicals at The Stoop on Wednesday. Having scored an early penalty, the College then put away two unanswered tries before the Medics hit back to give themselves a chance at 15-5 at half-time. Another try two minutes into the second half for the boys in red had the College worried. But their overall superiority shone through in the end as they went over three more times before the end of the game to underline their great performance, though the Medics may feel slightly aggrieved that the final score looked so one sided after an encouraging performance.

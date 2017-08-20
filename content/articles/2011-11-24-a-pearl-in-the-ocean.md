@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Festival winner delves into religion and ethics
 date: "2011-11-24 22:34:14 +0000"
-
-# Attributes from Felix Online V1
-id: "1837"
-old_path: /film/1837/a-pearl-in-the-ocean
+image: "http://felixonline.co.uk/img/upload/201111242230-felix-ocean-of-pearls.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1837/a-pearl-in-the-ocean
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - pd111
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242230-felix-ocean-of-pearls.jpg"
-image_caption: ""
 ---
 
 A couple of weeks ago, the British Sikh Doctors Organisation and Imperial Sikh Society worked together to put on an outstanding meet and greet event with Sikhs from all around London, a few charities and talks on a variety of topics, culminating in the screening of the new-to-the-UK movie: _[Ocean of Pearls](http://www.oceanofpearls.com/)_. Director Sarab Singh Neelam, a doctor living in Michigan, originally had the idea based on countless real life experiences of migrants throughout the world. _Ocean of Pearls_ won multiple awards at various film festivals: Best Feature Film at the Detroit Film Festival in 2009 and the Grand Jury Prize and Audience Choice Award at the 2008 Los Angeles Pacific Film Festival, to name a few.

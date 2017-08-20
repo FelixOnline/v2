@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A new term starts a new season, and what better way to break into your student loan than by updating your look with a few accessories. Alice Yang gives you this season’s best, and remember – detail is everything
 date: "2011-10-07 12:26:06 +0100"
-
-# Attributes from Felix Online V1
-id: "1491"
-old_path: /fashion/1491/post-summer-accessories-update
+image: "http://felixonline.co.uk/img/upload/201110071325-felix-earrings-dolce-.png"
+image_caption: "Shoulder skimming earrings from Dolce and Gabbana"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/1491/post-summer-accessories-update
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -24,12 +22,6 @@ authors:
  - ay310
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110071325-felix-earrings-dolce-.png"
-image_caption: ""
 ---
 
 __Hats__

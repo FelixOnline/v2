@@ -4,16 +4,14 @@ title: >
 subtitle: >
   FELIX takes a look at their second offering of the year
 date: "2015-10-23 11:51:43 +0100"
-
-# Attributes from Felix Online V1
-id: "5675"
-old_path: /music/5675/beach-houses-latest-is-dream-popfection
+image: "http://felixonline.co.uk/img/upload/201510231251-ygr12-beachhouse.jpg"
+image_caption: "Dolls aren’t only for girls - fuck gender stereotypes"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5675/beach-houses-latest-is-dream-popfection
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - cet13
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510231251-ygr12-beachhouse.jpg"
-image_caption: ""
 ---
 
 It’s rare to see bands produce such consistently great music, and the few that do offer substantial evolution of their sound over time. Beach House, on the other hand, have released six albums that all sound very similar, each a slight refinement of the one before. Thank Your Lucky Stars is no different in this respect; it’s a continuation of their sound that presents the dream-poppers at their best.

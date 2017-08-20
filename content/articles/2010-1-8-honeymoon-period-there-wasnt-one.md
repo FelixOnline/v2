@@ -4,16 +4,13 @@ title: >
 subtitle: >
   All I bloody hear is the clock ticking
 date: "2010-01-08 16:44:21 +0000"
-
-# Attributes from Felix Online V1
-id: "18"
-old_path: /comment/18/honeymoon-period-there-wasnt-one
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/18/honeymoon-period-there-wasnt-one
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - dww07
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 All I bloody hear is the clock ticking. We all know what that sounds like, and we all know what the stabbing sounds of each second, ‘tick’ or ‘tock’, means. Time is slipping away, and there’s just about nothing we can do to stop it (short from building a DeLorean and taking a joyride with Marty McFly).

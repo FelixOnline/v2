@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Yes, that's the real title. No, that's not a misprint.
 date: "2015-05-15 12:10:26 +0100"
-
-# Attributes from Felix Online V1
-id: "5528"
-old_path: /film/5528/this-week-in-film-terminator-genisys
+image: "http://felixonline.co.uk/img/upload/201505151309-cj914-screen-shot-2015-05-15-at-13.08.47.png"
+image_caption: "He'll be back! (in the latest reboot of the Terminator series)"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5528/this-week-in-film-terminator-genisys
-imported: true
 comments:
  - value: >
      birkenstock arizona sandals <br>birkenstock cheap http://birkenstockaustralia.blogspot.com/,christian louboutin peep toes <br>christian louboutin sale canada http://canadachristianlouboutin.blogspot.com/,Many thanks extremely beneficial. Will share website with my friends.| <br>csgo skins checker http://costacircle.com/community/forum/topic/6894
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +26,6 @@ authors:
  - js5913
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505151309-cj914-screen-shot-2015-05-15-at-13.08.47.png"
-image_caption: ""
 ---
 
 The marketing campaign for the latest reboot/revival of the _Terminator_ series continues rolling, with a new batch of character posters hitting the web this week.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Beacons of hope in this cursed year...
 date: "2016-11-11 15:59:49 +0000"
-
-# Attributes from Felix Online V1
-id: "6429"
-old_path: /science/6429/spotlight-on-medicine
+image: "http://felixonline.co.uk/img/upload/201611111555-felix-16701909933_d557ea5cba_o.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6429/spotlight-on-medicine
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - mer113
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611111555-felix-16701909933_d557ea5cba_o.png"
-image_caption: ""
 ---
 
 ## 1 | HIV Testing USB Sticks

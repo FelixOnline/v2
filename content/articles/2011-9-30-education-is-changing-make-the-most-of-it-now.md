@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Take an interest in the future of your education
 date: "2011-09-30 12:54:30 +0100"
-
-# Attributes from Felix Online V1
-id: "1463"
-old_path: /comment/1463/education-is-changing-make-the-most-of-it-now
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1463/education-is-changing-make-the-most-of-it-now
-imported: true
 comments:
  - value: >
      It's really true. Time passes so fast. That's why, we should enjoy learning everyday.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Although you attend a university blessed with a truly culturally diverse student body, you are, in one way, less diverse than you may care to believe. Home and international students alike, you are all united by the changing face of education.

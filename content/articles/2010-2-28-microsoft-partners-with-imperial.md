@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Microsoft has selected the Business School for support
 date: "2010-02-28 16:07:59 +0000"
-
-# Attributes from Felix Online V1
-id: "116"
-old_path: /news/116/microsoft-partners-with-imperial
+image: "http://felixonline.co.uk/img/upload/201002281603-ak6309-Microsof.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/116/microsoft-partners-with-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ak6309
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002281603-ak6309-Microsof.jpg"
-image_caption: ""
 ---
 
 The Imperial College Business School has been selected as the lead academic partner for Microsoft's Innovation Outreach Programme (IOP), following an agreement which came to light during a Global Investment Conference held by the Prime Minister. The role will make Imperial's innovation, management, technology and engineering qualities available to the IOP, of which a range of multinational companies are members.

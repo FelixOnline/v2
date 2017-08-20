@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The original Girl with the Dragon Tattoo's role in the new Sherlock Holmes film could've used some beefing up - nevertheless, the film is still an enjoyable watch
 date: "2012-01-12 22:51:17 +0000"
-
-# Attributes from Felix Online V1
-id: "1993"
-old_path: /film/1993/noomi-lands-her-h-debut
+image: "http://felixonline.co.uk/img/upload/201201122250-cac111-sherlock_holmes_2_3ab779b263ba0a04035f85f4b698ab96.jpg"
+image_caption: "Elementary my dear Watson, you should never start with French"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1993/noomi-lands-her-h-debut
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201122250-cac111-sherlock_holmes_2_3ab779b263ba0a04035f85f4b698ab96.jpg"
-image_caption: ""
 ---
 
 ###  Sherlock Holmes: A Game of Shadows

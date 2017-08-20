@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Any small changes have a big influence globally
 date: "2016-05-27 08:54:11 +0100"
-
-# Attributes from Felix Online V1
-id: "6210"
-old_path: /science/6210/ice-sheet-melting-faster-than-predicted
+image: "http://felixonline.co.uk/img/upload/201605271053-felix-8382308336_d80b1d49bb_o.jpg"
+image_caption: "Antarctica"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6210/ice-sheet-melting-faster-than-predicted
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - le14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605271053-felix-8382308336_d80b1d49bb_o.jpg"
-image_caption: ""
 ---
 
 Antarctica boasts the largest mass of ice on earth, a colossal 27 million km3, comprised of three vast ice sheets: the East, the West and the Antarctic Peninsula. With warming seas and climbing temperatures, scientists focused their attention on the West Antarctic Ice Sheet, due to its vulnerability to rising water temperatures, being grounded far below sea level.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Felix Sport learns of the strange goings on at IC Dodgeball...
 date: "2013-01-24 20:38:52 +0000"
-
-# Attributes from Felix Online V1
-id: "3153"
-old_path: /sport/3153/wolverine-1s-smashed-by-2s
+image: "http://felixonline.co.uk/img/upload/201301242044-mc4509-dodge.png"
+image_caption: "No medals for Steve"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3153/wolverine-1s-smashed-by-2s
-imported: true
 comments:
  - value: >
      12/7/2012 6:45am while hunting on the bzraos river in know county tx i saw the streak and then a blinding flash and sparkles to dim streak then nothing coulnt find any info till this site thank you my first thought was an EMP flash or satillite or plane so thank you for setting it straight,Hello:Your message today <a href="http://jaoekhppa.com">stetas</a> that Maps available here show where to look in the Chicago area to best observe the Quadrantid Meteor Shower ..where on the site are these to be found?Thank you., buy propecia hearing aids genuinely come propecia usa auto insurance quote , require staying assert started listening auto insurance quotes
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +26,6 @@ authors:
  - smn110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301242044-mc4509-dodge.png"
-image_caption: ""
 ---
 
 On Sunday 13th January, the Wolverines set off for Essex with 3 teams ready to hit their first tournament of 2013 in force. In a first in the club’s history, there were no delays in setting off, nor incidents on the way there (minus Scott Esnouf’s typical minibus stalling, mind).

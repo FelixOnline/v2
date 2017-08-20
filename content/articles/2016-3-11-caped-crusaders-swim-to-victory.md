@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A Batman theme won the syncronised swimmers a silver medal
 date: "2016-03-11 12:15:47 +0000"
-
-# Attributes from Felix Online V1
-id: "6047"
-old_path: /sport/6047/caped-crusaders-swim-to-victory
+image: "http://felixonline.co.uk/img/upload/201603111215-felix-synchro 3.JPG"
+image_caption: "Gotham City has a new swim group."
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6047/caped-crusaders-swim-to-victory
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +21,6 @@ authors:
  - ct112
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603111215-felix-synchro 3.JPG"
-image_caption: ""
 ---
 
 On Saturday 27th February Imperial College’s Synchronised Swimming Team swam in the Middlesex Synchronised Swimming championships, winning the silver medal in the “Masters 20+” age category.

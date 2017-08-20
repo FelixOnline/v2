@@ -4,16 +4,14 @@ title: >
 subtitle: >
   "Hopefully, with hard work and time for injuries to heal, a full Immortals team can take the rest of the season head-on, maybe even fighting their way to the playoffs."
 date: "2011-12-01 21:14:24 +0000"
-
-# Attributes from Felix Online V1
-id: "1883"
-old_path: /sport/1883/ic-immortals-crush-reading-but-succumb-to-portsmouth-
+image: "http://felixonline.co.uk/img/upload/201112012112-ams111-football.jpg"
+image_caption: "Kill it! Kill it with fire! Or with a brutal tackle"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1883/ic-immortals-crush-reading-but-succumb-to-portsmouth-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +23,6 @@ authors:
  - mp4310
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012112-ams111-football.jpg"
-image_caption: ""
 ---
 
 __American Football__

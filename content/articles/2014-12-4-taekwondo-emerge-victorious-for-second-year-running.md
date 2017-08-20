@@ -4,18 +4,15 @@ title: >
 subtitle: >
   As the hosts of the third Imperial College Open Taekwondo Competition, the club secured their second victory in a row
 date: "2014-12-04 20:42:16 +0000"
-
-# Attributes from Felix Online V1
-id: "5013"
-old_path: /sport/5013/taekwondo-emerge-victorious-for-second-year-running
+image: "http://felixonline.co.uk/img/upload/201412042039-cj914-icx_201-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5013/taekwondo-emerge-victorious-for-second-year-running
-imported: true
 comments:
  - value: >
      christian louboutin daffodile shoes <br>christian louboutin online store http://canadachristianlouboutinoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - ng611
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412042039-cj914-icx_201-copy.jpg"
-image_caption: ""
 ---
 
 The 10th anniversary of the Imperial College Taekwondo society got off to an explosive start over this past weekend, with the hosting of the third annual Imperial College Open Taekwondo Competition.

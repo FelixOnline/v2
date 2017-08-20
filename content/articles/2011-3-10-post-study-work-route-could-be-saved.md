@@ -4,18 +4,16 @@ title: >
 subtitle: >
   David Willetts suggests that government is considering reforming, not scrapping, the post-study work route
 date: "2011-03-10 19:35:38 +0000"
-
-# Attributes from Felix Online V1
-id: "1053"
-old_path: /news/1053/post-study-work-route-could-be-saved
+image: "http://felixonline.co.uk/img/upload/201103101929-ks607-internat.jpg"
+image_caption: "British universities would suffer financially from a drop in international student numbers"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1053/post-study-work-route-could-be-saved
-imported: true
 comments:
  - value: >
      Если вы еще не слышали звуков этого летнего моря, прочистите уши и услышьте! <br>http://more.com,jkl306,UK is overpopulated and in financual crises. It is very much needed to make positive changes to law to stop abusing the immigration system. This can be easily stopped by closing the fake colleges and closing the permanant residency route. But i condemn the government dicision of closing the Tier 1 Post study work route. It is not fair on the part of the brightest and competent students who used to gain valuable experience working in UK and were a good source of Skilled labour for United Kingdom. I think the intelligent and brightest students will prefer tp go to other countries like Austrailia and United states. I suggest the Government to reconsider its decision of closing Tier 1 post study work route.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - skd09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103101929-ks607-internat.jpg"
-image_caption: ""
 ---
 
 The government is reconsidering its student visa proposals announced at the end of January. These included raising the minimum level of English proficiency required for entry, limiting opportunities for work experience and part time work for students, total abolishment of the post-study work route and restricting the number of dependants that can enter the UK with students. After “[profound concern](http://www.guardian.co.uk/theobserver/2011/mar/05/letters-international-student-cuts)” expressed by sixteen university vice-chancellors in a letter to the Observer, universities minister, David Willetts, has said that the government is considering reforming rather than scrapping the post-study work route as well as re-thinking its restrictions on entry of dependants.

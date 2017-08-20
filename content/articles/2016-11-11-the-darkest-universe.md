@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Will Sharpe delights in The Darkest Universe
 date: "2016-11-11 18:07:18 +0000"
-
-# Attributes from Felix Online V1
-id: "6440"
-old_path: /film/6440/the-darkest-universe
+image: "http://felixonline.co.uk/img/upload/201611120957-ff712-TDU sandwich - Will Sharpe.jpeg"
+image_caption: "Will Sharpe as Zac in The Darkest Universe"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6440/the-darkest-universe
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ff712
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611120957-ff712-TDU sandwich - Will Sharpe.jpeg"
-image_caption: ""
 ---
 
 Tom Kingsley and Will Sharpe follow up their delightfully-dark 2011 debut _Black Pond_ with _The Darkest Universe_, a film that serves as both a subtle reminder about the intimacy of family relations and a stunning advertisement for the UK’s canal network.

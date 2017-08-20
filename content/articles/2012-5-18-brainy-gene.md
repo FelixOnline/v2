@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Genetic component of brain development uncovered
 date: "2012-05-18 11:18:33 +0100"
-
-# Attributes from Felix Online V1
-id: "2469"
-old_path: /science/2469/brainy-gene
+image: "http://felixonline.co.uk/img/upload/201205181218-felix-ca1-20080107-mosaicj_crop.jpg"
+image_caption: "A pyrimidal neuron and dendrites"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2469/brainy-gene
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - frh10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205181218-felix-ca1-20080107-mosaicj_crop.jpg"
-image_caption: ""
 ---
 
 A recent study published in the journal _Cell_ has identified a major genetic component of human brain development, with implications for research into autism and schizophrenia. Scientists at The Scripps Research Institute have found that the gene SRGAP2, the protein product of which is responsible for forming neuronal connections in neocortical development, has undergone two human-specific truncated duplications.

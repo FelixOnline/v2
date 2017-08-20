@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Have you even gone to Imperial if you haven't been to one of these?
 date: "2017-03-10 14:37:21 +0000"
-
-# Attributes from Felix Online V1
-id: "6884"
-old_path: /cands/6884/the-2017-ic-cinema-spring-all-nighter
+image: "http://felixonline.co.uk/img/upload/201703101435-felix-6883264549_91e06f3034_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/6884/the-2017-ic-cinema-spring-all-nighter
-imported: true
 comments:
  - value: >
      How come you are working here? <br>cheapest madden 17 mobile coins http://www.madden-store.com,How come you are working here? <br>cheapest madden 17 mobile coins http://www.madden-store.com,How come you are working here? <br>cheapest madden 17 mobile coins http://www.madden-store.com,You bet ! <br>buy cheapest pokemon go rare pokemon pokemonbux http://www.pokemonbux.com,You bet ! <br>buy cheapest pokemon go rare pokemon pokemonbux http://www.pokemonbux.com,You bet ! <br>buy cheapest pokemon go rare pokemon pokemonbux http://www.pokemonbux.com,Up yours! <br>cheap Dofus Touch Kamas for sale http://www.mury.pl/forum/?action=topic&amp;id=34814,Up yours! <br>cheap Dofus Touch Kamas for sale http://www.mury.pl/forum/?action=topic&amp;id=34814,Up yours! <br>cheap Dofus Touch Kamas for sale http://www.mury.pl/forum/?action=topic&amp;id=34814,it is very helpful for me searching on this site! <br>Cheap Albion Online gold http://zordis.com/albion/p/upalbion-has-cheapest-price-as-well-as-quick-delivery-gold/,it is very helpful for me searching on this site! <br>Che
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -28,12 +25,6 @@ authors:
  - sophiesagawe
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101435-felix-6883264549_91e06f3034_o.jpg"
-image_caption: ""
 ---
 
 This year’s Spring All-Nighter will take place on Tuesday the 21st of March at 6pm, ending at approximately 7.45am the next day. For those who are inexplicably out of the loop with this beloved Imperial College tradition: it’s a whole night of films, shown back to back, on a screen 8 meters wide, for a tenner. Oh, you want unlimited hot-dogs too? We got you.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Berlusconi’s disregard for democracy is reminiscent of another Italian strongman
 date: "2011-05-12 19:28:55 +0100"
-
-# Attributes from Felix Online V1
-id: "1207"
-old_path: /politics/1207/blasta-from-the-pasta
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1207/blasta-from-the-pasta
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - cjb07
  - mc2108
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 “[…] Naturally the majority did notice his criminal activity […] unfortunately, Italian People, if they have to choose between their duty and personal advantage, always chose the latter. He, a mediocre, rough man with vulgar but effective eloquence was and is a perfect specimen of his coevals. In an honest country he would have been at most the leader of a modest party, the not-too-brilliant author of verbose articles in his party newspaper, he would have been considered a ridiculous character for his manners, his megalomania, his offense to common sense due to his emphatic and shameless style.

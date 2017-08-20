@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Stars to return for sequel?
 date: "2013-05-16 18:17:08 +0100"
-
-# Attributes from Felix Online V1
-id: "3582"
-old_path: /film/3582/senior-star-wars
+image: "http://felixonline.co.uk/img/upload/201305161917-tna08-harrison-ford-confirms-re-010.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3582/senior-star-wars
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305161917-tna08-harrison-ford-confirms-re-010.jpg"
-image_caption: ""
 ---
 
 It’s bad enough that there’s going to be another Star Wars film. It’s even worse that it’s going to be made by Disney. Worse still are the hints that some of the original cast will be returning to reprise their roles.

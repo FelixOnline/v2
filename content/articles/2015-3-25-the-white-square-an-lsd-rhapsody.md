@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Anonymous explores a secret operatic world previously out of reach
 date: "2015-03-25 12:43:04 +0000"
-
-# Attributes from Felix Online V1
-id: "5435"
-old_path: /arts/5435/the-white-square--an-lsd-rhapsody
+image: "http://felixonline.co.uk/img/upload/201503251242-ff712-51a.jpg"
+image_caption: "About Yellow, Bridget Riley, 2013-2014, Oil on linen"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5435/the-white-square--an-lsd-rhapsody
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251242-ff712-51a.jpg"
-image_caption: ""
 ---
 
 Have I just made the stupidest mistake of my life?” I wondered as the white square dissolved in my mouth and passed down my throat. I reassured myself, the whole thing was thought through and the plan was bullet proof. I stepped out of the bathroom and an usher passed a few angry words in my direction. I didn’t hear what she said, but surely it wasn’t possible that she knew? “The men’s toilets are over there” she pointed.

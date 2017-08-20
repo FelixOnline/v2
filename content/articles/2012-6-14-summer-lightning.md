@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Summer Lightning
 date: "2012-06-14 20:52:22 +0100"
-
-# Attributes from Felix Online V1
-id: "2571"
-old_path: /phoenix/2571/summer-lightning
+image: "http://felixonline.co.uk/img/upload/201206142152-pk1811-img_2645.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/2571/summer-lightning
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -24,12 +21,6 @@ authors:
  - cac111
  - jlp210
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206142152-pk1811-img_2645.png"
-image_caption: ""
 ---
 
 _Jemma Pilcher is a fresher ariving at Imperial with an impressive portfolio following an art foundation. Phoenix commissioned this shoot to show off three beautiful bodices from her back catalogue. - Ed_

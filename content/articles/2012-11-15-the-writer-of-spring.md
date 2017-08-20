@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Medic playwright on the creative process
 date: "2012-11-15 21:24:12 +0000"
-
-# Attributes from Felix Online V1
-id: "2894"
-old_path: /arts/2894/the-writer-of-spring
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2894/the-writer-of-spring
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Every year, societies like DramSoc and MTSoc find new ways to impress me. You would not think that in a university filled with scientists, engineers and medics, the students would be that interested in theatre. However, these clubs are more than interested, they are good at it too, finding new ways to entertain their audiences with their talent and passion.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   WALK2014 has over 21,000 people take part
 date: "2014-11-14 20:05:44 +0000"
-
-# Attributes from Felix Online V1
-id: "4866"
-old_path: /news/4866/diabetes-walk-is-a-sweet-sucess
+image: "http://felixonline.co.uk/img/upload/201411142005-ps3110-kee_5292.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4866/diabetes-walk-is-a-sweet-sucess
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - kmw13
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411142005-ps3110-kee_5292.jpg"
-image_caption: ""
 ---
 
 On November 7th, nearly 21,000 people took part in WALK2014, a walk to raise awareness of diabetes, in Abu Dhabi. The walk was organised by the Imperial College London Diabetes Centre (ICLDC). It is estimated that over 150 million steps were taken in total during the walk, which was at the Yaz Marina Circuit.

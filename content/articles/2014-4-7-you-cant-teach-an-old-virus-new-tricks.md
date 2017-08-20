@@ -4,16 +4,14 @@ title: >
 subtitle: >
   James Bezer on the giant virus that is still infectious despite its age
 date: "2014-04-07 12:57:37 +0100"
-
-# Attributes from Felix Online V1
-id: "4526"
-old_path: /science/4526/you-cant-teach-an-old-virus-new-tricks
+image: "http://felixonline.co.uk/img/upload/201404071357-jal08-pithovirus-sibericum.jpg"
+image_caption: "Pithovirus sibericum will eat you alive... if you’re an amoeba. Phew!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4526/you-cant-teach-an-old-virus-new-tricks
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - jal08
  - jb3112
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201404071357-jal08-pithovirus-sibericum.jpg"
-image_caption: ""
 ---
 
 After spending 30,000 years lurking deep within the Siberian permafrost, an enormous virus has escaped its icy lair. Even after all those years encased in ice, it’s still deadly. But this isn’t the plot of a low-budget horror film. This is real science.

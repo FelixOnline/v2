@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Lauren Ratcliffe on the impact of logging in Borneo’s rainforests
 date: "2015-05-04 16:27:43 +0100"
-
-# Attributes from Felix Online V1
-id: "5489"
-old_path: /science/5489/kings-of-the-jungle-de-throned
+image: "http://felixonline.co.uk/img/upload/201505041727-ps3110-palm-oil-destruction.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5489/kings-of-the-jungle-de-throned
-imported: true
 comments:
  - value: >
      I for all time emailed this weblog post page to all my contacts, since if like to read it afterward my links will too. <br>goedkope uggs kopen online http://paulram.nl/?nl-goedkope-uggs-kopen-online-3424.html,North Korea were very defensive involving their approach the particular qualifiers. Remember that earning coins gets incredibly easier. He is far more commonly known in his country as Ronaldinho Gaucho. <br>fifa 16 hack http://creditsfut.com/,Wow, gorgeous site. Thnx ...| <br>nba 2k16 mt ratings http://eprintedbooks.com/Class/item/1526
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505041727-ps3110-palm-oil-destruction.jpg"
-image_caption: ""
 ---
 
 New research in Borneo by researchers from Imperial College London suggests that clear cutting rainforests changes which types of species perform vital ecosystem functions. In logged forests, vertebrates instead of invertebrates appear to be contributing a greater amount to key processes such as seed dispersal and predation. This switch in functional dominance renders these systems more vulnerable to future change.

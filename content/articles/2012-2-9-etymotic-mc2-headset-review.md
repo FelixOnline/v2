@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A good quality headset with decent sound... perfect!
 date: "2012-02-09 22:14:20 +0000"
-
-# Attributes from Felix Online V1
-id: "2143"
-old_path: /tech/2143/etymotic-mc2-headset-review
+image: "http://felixonline.co.uk/img/upload/201202092213-pk1811-d.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/2143/etymotic-mc2-headset-review
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - cb908
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202092213-pk1811-d.jpg"
-image_caption: ""
 ---
 
 The [Etymotic](http://www.etymotic.com/) MC2 headset is an in-ear, noise isolating headphone and microphone combination promising high-quality sound. It also has a single button that can be used for tasks such as answering calls or pausing what’s playing. I’ve been using them for the last week, and I have to say I’m finding them pretty good. Of course, compared to a particular known-brand of white earphones (don’t ask – my old earphones broke), most headphones are going to be a decent improvement. However, I also have a separate pair of over-the-ear ‘phones, so they’ll be my point of reference instead.

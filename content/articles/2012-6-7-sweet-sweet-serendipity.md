@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Victoria Charlton on a surprising discovery and a resisitor that remembers
 date: "2012-06-07 18:51:25 +0100"
-
-# Attributes from Felix Online V1
-id: "2525"
-old_path: /science/2525/sweet-sweet-serendipity
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2525/sweet-sweet-serendipity
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - pk1811
  - vc11
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 At first they thought that the experiment had gone awry. They’d spent years studying silicon compounds and thought they knew what to expect. But this compound was different. It was unstable, seemingly unpredictable – constantly shifting between electronic states. This compound was misbehaving.

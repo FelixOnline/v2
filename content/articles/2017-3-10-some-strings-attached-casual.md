@@ -4,16 +4,14 @@ title: >
 subtitle: >
   As far as young teenage characters go, Laura is a refreshing change of pace from the norm
 date: "2017-03-10 13:46:26 +0000"
-
-# Attributes from Felix Online V1
-id: "6877"
-old_path: /tv/6877/some-strings-attached--casual
+image: "http://felixonline.co.uk/img/upload/201703101346-felix-casual-hulu.jpg"
+image_caption: "Modern mother-daughter relationships are weird"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6877/some-strings-attached--casual
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - sa8713
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101346-felix-casual-hulu.jpg"
-image_caption: ""
 ---
 
 This is a show about relationships in every sense of the word, though as its name may imply, the focus here is one of those casual, one-off encounters that many people are engaged with in this day and age. This idea is explored with a very simple premise; a woman, in the wake of her divorce, moves herself and her daughter to her brother’s home.

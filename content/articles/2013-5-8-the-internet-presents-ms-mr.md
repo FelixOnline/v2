@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lily Le drops everything to find out who a band are while listening to the radio... NO IT'S NOT THAT DAFT PUNK SONG THAT IS ALWAYS ON
 date: "2013-05-08 20:15:20 +0100"
-
-# Attributes from Felix Online V1
-id: "3552"
-old_path: /music/3552/the-internet-presents-ms-mr-
+image: "http://felixonline.co.uk/img/upload/201305082115-tna08-ms-mr.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3552/the-internet-presents-ms-mr-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - lwl09
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305082115-tna08-ms-mr.jpg"
-image_caption: ""
 ---
 
 During a week’s worth of listening to the radio an average of 0-3 new songs make me drop everything, frown a little in an effort to identify the song / artist, then fiddle a little with the time bar on the listen-again player to figure out what exactly the wonderful noise is.

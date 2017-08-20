@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Graduation only disappoints by being difficult to find its flaws
 date: "2015-10-23 11:43:40 +0100"
-
-# Attributes from Felix Online V1
-id: "5670"
-old_path: /comment/5670/hating-on-graduation-is-hard
+image: "http://felixonline.co.uk/img/upload/201510231243-cj914-graduation.jpg"
+image_caption: "Angry Grad (not pictured) looked peng."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5670/hating-on-graduation-is-hard
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +23,6 @@ authors:
  - theangrygrad
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510231243-cj914-graduation.jpg"
-image_caption: ""
 ---
 
 Graduation day. Supposed to be a milestone, right? One of the happiest days of your lives, some people (morons) say. Well, not if I, the Angry Grad, have anything to do with it.

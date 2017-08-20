@@ -4,16 +4,13 @@ title: >
 subtitle: >
   \ The simplicity and warmth of Jansson’s defiance is what is striking: she made books that gave comfort to an oblivious audience, whilst including deeply personal and political messages. \
 date: "2017-01-20 15:28:44 +0000"
-
-# Attributes from Felix Online V1
-id: "6672"
-old_path: /arts/6672/taking-a-leaf-out-of-tove-janssons-book
+image: "http://felixonline.co.uk/img/upload/201701201528-felix-16129186_10210543447195334_431990530_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6672/taking-a-leaf-out-of-tove-janssons-book
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - jennyshelley
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701201528-felix-16129186_10210543447195334_431990530_o.jpg"
-image_caption: ""
 ---
 
 For many, the Moomins hold nothing more than the nostalgia of childhood. While some have no idea what they are, for others the word conjures up a vague image of a hippo-esque creature that adorns cutesy bottles and notepads. There is no particular reason to go any deeper than these associations, but it was during attendance at an interactive exhibit dedicated to all things Moomin – and when I say interactive, I mean ducking through ‘forests’, crouching in a sandy tent, and wading through ‘snow’ – that the depth of these children’s stories, and their importance at times such as ours, came to light.

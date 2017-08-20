@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The IC swimming team, a formidable force
 date: "2011-02-17 20:48:21 +0000"
-
-# Attributes from Felix Online V1
-id: "852"
-old_path: /sport/852/swimmers-in-command-of-the-situation
+image: "http://felixonline.co.uk/img/upload/201102172046-nm1010-swimswim.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/852/swimmers-in-command-of-the-situation
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - tiw06
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102172046-nm1010-swimswim.jpg"
-image_caption: ""
 ---
 
 Over the last two weekends, the IC swimming team have gone out and tested their credentials on a national level, proving themselves to be a formidable force.

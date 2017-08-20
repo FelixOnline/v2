@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Madeleine Webb discusses how to stay politically engaged now that the world has exploded
 date: "2017-01-27 16:25:09 +0000"
-
-# Attributes from Felix Online V1
-id: "6690"
-old_path: /comment/6690/so-you-went-to-the-march-whats-next
+image: "http://felixonline.co.uk/img/upload/201701271638-felix-Screen Shot 2017-01-27 at 16.26.49.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6690/so-you-went-to-the-march-whats-next
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - mw4414
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701271638-felix-Screen Shot 2017-01-27 at 16.26.49.png"
-image_caption: ""
 ---
 
 Protesting was the easy bit. Sorry to break it to you, but the Women’s March was not the finale, it was the opening number, and the rest of the show is no fun at all. I hate to ruin the mood because I was there on Saturday so I understand how intoxicating it can be – screaming “I’m mad as hell and I’m not going to take it anymore” is satisfying, but it doesn’t actually change anything. It’s important to recognise that the fight is only starting because you can’t win fights you aren’t in. So what can we do?

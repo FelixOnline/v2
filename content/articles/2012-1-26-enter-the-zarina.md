@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Emotions run high at film artist and photographer Zarina Bhimji’s retrospective at Whitechapel
 date: "2012-01-26 22:19:28 +0000"
-
-# Attributes from Felix Online V1
-id: "2059"
-old_path: /arts/2059/enter-the-zarina
+image: "http://felixonline.co.uk/img/upload/201201262218-ams111-your-sadness-is-drunk---003.jpg"
+image_caption: "‘Your Sadness is Drunk’"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2059/enter-the-zarina
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - as1911
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201262218-ams111-your-sadness-is-drunk---003.jpg"
-image_caption: ""
 ---
 
 To coincide with the world premiere of her latest film installation ‘Yellow Patch’, the [__Whitechapel Gallery__](http://www.whitechapelgallery.org/exhibitions/zarina-bhimji) in East London is currently showing the first major retrospective of the artwork of Zarina Bhimji. Born in Uganda to Indian parents, Bhimji left for Britain in the early 1970s to escape the brutal regime of Idi Amin. This complex cultural history cannot help but heavily influence her work, and partly explains her passionate focus on themes of loss, pain, and human displacement.

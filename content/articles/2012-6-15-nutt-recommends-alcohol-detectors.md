@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial Professor aims to curb drink driving with new suggestion
 date: "2012-06-15 07:41:12 +0100"
-
-# Attributes from Felix Online V1
-id: "2577"
-old_path: /news/2577/nutt-recommends-alcohol-detectors
+image: "http://felixonline.co.uk/img/upload/201206150841-mc4509-booze.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2577/nutt-recommends-alcohol-detectors
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - mc4509
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206150841-mc4509-booze.jpg"
-image_caption: ""
 ---
 
 Imperial [Professor David Nutt](http://www1.imperial.ac.uk/medicine/people/d.nutt/) has suggested that all cars should be fitted with an alcohol detector.

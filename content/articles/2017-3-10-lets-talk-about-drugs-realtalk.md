@@ -4,18 +4,15 @@ title: >
 subtitle: >
   David Charchoglyan discusses the discrepancy behind drug science and drug policy, by using the science and culture of MDMA as a case study
 date: "2017-03-10 14:13:13 +0000"
-
-# Attributes from Felix Online V1
-id: "6882"
-old_path: /features/6882/lets-talk-about-drugs-realtalk
+image: "http://felixonline.co.uk/img/upload/201703101412-felix-2613191889_c976de0412_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6882/lets-talk-about-drugs-realtalk
-imported: true
 comments:
  - value: >
      What is with that guy? <br>buy cheap albion gold http://www.asmap-inform.org/forum/viewtopic.php?f=2&amp;t=183245&amp;sid=354498344ccfd99d3f9bd23258059d2d,What is with that guy? <br>buy cheap albion gold http://www.asmap-inform.org/forum/viewtopic.php?f=2&amp;t=183245&amp;sid=354498344ccfd99d3f9bd23258059d2d,I do not know <br>cheap madden mobile coins for sale http://www.madden-store.com,I do not know <br>cheap madden mobile coins for sale http://www.madden-store.com,Take my word for it. <br>cheapest and fastest pokemon go rare pokemon store http://www.pokemonbux.com,Take my word for it. <br>cheapest and fastest pokemon go rare pokemon store http://www.pokemonbux.com,I don't know <br>dofus touch kamas https://www.dofustouch-kamas.com/news/make-kamas-by-selling-runes-in-dofus-touch-21031,I don't know <br>dofus touch kamas https://www.dofustouch-kamas.com/news/make-kamas-by-selling-runes-in-dofus-touch-21031,What is that guy? <br>buy Albion Online Gold http://albion.snack.ws/enjoy-wonderful-gaming-experience-with-albion-online-gold.html,What is that guy
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101412-felix-2613191889_c976de0412_o.jpg"
-image_caption: ""
 ---
 
 Do you know why some drugs are called ‘Drugs’ with a capital D? Or why your school was so eager to drill into you that some things are bad no-questions-asked-because-I-said-so during those insufferable PSHE lessons? Why some substances are kept completely out of our reach and have a seven year sentence attached, while others have the privileged liberty of being sought and found not just at the chemist’s, but even at the off-license? Let’s scrutinise rationally, calmly and scientifically on the question of why drugs are such a big deal, and why everyone appears to believe what they do about them. By examining the drug MDMA  and its potential utility. Let’s do away with the lies for good, and uncover the truth, shall we?

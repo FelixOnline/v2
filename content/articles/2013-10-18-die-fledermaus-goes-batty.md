@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Emiel De Lange reveals the disastrous results from ENO’s operetta
 date: "2013-10-18 21:59:45 +0100"
-
-# Attributes from Felix Online V1
-id: "3898"
-old_path: /arts/3898/die-fledermaus-goes-batty
+image: "http://felixonline.co.uk/img/upload/201310182258-jal08-arts-eno-die-fledermaus---web.jpg"
+image_caption: "Erm… what?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3898/die-fledermaus-goes-batty
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - ed812
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310182258-jal08-arts-eno-die-fledermaus---web.jpg"
-image_caption: ""
 ---
 
 __What:__ Die Fledermaus with the English National Opera

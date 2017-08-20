@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Social Justice Wizard Tom Rivlin gazes into the internet abyss
 date: "2014-11-28 01:07:27 +0000"
-
-# Attributes from Felix Online V1
-id: "4975"
-old_path: /games/4975/gamergate-not-about-ethics-in-journalism
+image: "http://felixonline.co.uk/img/upload/201411280107-ps3110-gg.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4975/gamergate-not-about-ethics-in-journalism
-imported: true
 comments:
  - value: >
      This article is complete garbage, at best it's poorly researched and ill informed and at worst it's outright wrong. Still, I don't blame you, sensationalist writing like this is far more interesting to read and write than the relatively boring and inconsequential reality of what gamergate really is. <br> <br>I don't really consider myself a strong supporter of gamergate and I have my own reservations about it, but it's hard not to be sympathetic after seeing how awful the media coverage of it has been. On the one hand I have articles like this one calling it a hateful misogynist movement and a disgrace to gaming, on the other hand I have the pretty calm civil behaviour of most gamergaters, who are mostly pretty nice people with moderate views, that I can see with my own eyes just by actually looking at their forums . They don't hate the "social justice warriors" because those are people who care about equality, but because they're people who hide behind those beliefs to promote themselves and excuse their own vile
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411280107-ps3110-gg.jpg"
-image_caption: ""
 ---
 
 Anyone with an interest in feminism, social media, video games or nerd culture in general has probably heard this term over the past few months: GamerGate. What exactly is it? Why is it so awful? To get to the bottom of this we need to take a long, ugly look at gaming culture…

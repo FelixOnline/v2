@@ -4,16 +4,13 @@ title: >
 subtitle: >
   That amounts to £342 million over the last decade
 date: "2016-05-27 08:37:39 +0100"
-
-# Attributes from Felix Online V1
-id: "6195"
-old_path: /news/6195/imperial-gets-20-of-its-research-money-from-the-eu
+image: "http://felixonline.co.uk/img/upload/201605271037-felix-eu create.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6195/imperial-gets-20-of-its-research-money-from-the-eu
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605271037-felix-eu create.jpg"
-image_caption: ""
 ---
 
 Imperial receives just over 20% of its research funding from the EU, according to a report by a research software firm.

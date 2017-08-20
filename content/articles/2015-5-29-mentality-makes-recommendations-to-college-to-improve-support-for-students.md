@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Training and student support groups are suggested
 date: "2015-05-29 00:42:34 +0100"
-
-# Attributes from Felix Online V1
-id: "5574"
-old_path: /news/5574/mentality-makes-recommendations-to-college-to-improve-support-for-students
+image: "http://felixonline.co.uk/img/upload/201505290143-ps3110-mentality-image.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5574/mentality-makes-recommendations-to-college-to-improve-support-for-students
-imported: true
 comments:
  - value: >
      fitflops australia outlet <br>fitflop australia sale http://fitflopsau.blogspot.com/,mens louboutin <br>christian louboutin shoes sale http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin for men <br>cheap christian louboutin shoes canada http://canadachristianlouboutinoutlet.blogspot.com/,womens christian louboutin flats <br>christian louboutin sale canada http://christianlouboutincanadaoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505290143-ps3110-mentality-image.jpg"
-image_caption: ""
 ---
 
 Mentality made a number of recommendations towards the end of the survey, which they think would improve the services available to Imperial students.

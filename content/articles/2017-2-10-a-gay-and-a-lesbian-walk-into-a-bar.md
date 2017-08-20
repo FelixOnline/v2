@@ -4,18 +4,15 @@ title: >
 subtitle: >
   ... and proceed to shatter any and all illusions you might have about gay sex
 date: "2017-02-10 14:16:31 +0000"
-
-# Attributes from Felix Online V1
-id: "6755"
-old_path: /sex/6755/a-gay-and-a-lesbian-walk-into-a-bar
+image: "http://felixonline.co.uk/img/upload/201702101418-felix-Screen Shot 2017-02-10 at 14.18.10.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sex/6755/a-gay-and-a-lesbian-walk-into-a-bar
-imported: true
 comments:
  - value: >
      That’s such a precious little mouse! I have him, but han;2v17et used him yet! I love the combination of oranges that you used with him and how you layered the Nesties! Ha! Very interesting facts. For a minute I thought you were talking about me!!,That’s such a precious little mouse! I have him, but han;2v17et used him yet! I love the combination of oranges that you used with him and how you layered the Nesties! Ha! Very interesting facts. For a minute I thought you were talking about me!!
-
-# Article Taxonomies
 categories:
  - sex
 tags:
@@ -26,12 +23,6 @@ authors:
  - bcmaile
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101418-felix-Screen Shot 2017-02-10 at 14.18.10.png"
-image_caption: ""
 ---
 
 This week, I met with B.R Coli, a female queer friend, to talk about sex. We wanted to shed some light on the general ins and outs and common misconceptions surrounding gay sex, as well as learn a bit about each other’s sex lives and see what common ground we have, and what’s different between man sex and… well, woman sex.

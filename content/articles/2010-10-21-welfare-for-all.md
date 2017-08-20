@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Should we have universal benefits?
 date: "2010-10-21 19:06:26 +0100"
-
-# Attributes from Felix Online V1
-id: "232"
-old_path: /politics/232/welfare-for-all
+image: "http://felixonline.co.uk/img/upload/201010212004-nm1010-osborne.jpg"
+image_caption: "Jeez, get a new bag bro!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/232/welfare-for-all
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - rj408
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010212004-nm1010-osborne.jpg"
-image_caption: ""
 ---
 
 The middle classes throughout the developed world complain of faring worst from their governments’ budgets. They are, by definition, hard-working and economically productive. They face taxes as high as the wealthiest in their society, but find this reduces their ability to pay for relatively basic goods, such as their mortgage, rather than the ability to buy luxuries, like a Mediterranean holiday home. Despite this, they receive far fewer free or subsidised public services and benefits than the poorest in their societies.

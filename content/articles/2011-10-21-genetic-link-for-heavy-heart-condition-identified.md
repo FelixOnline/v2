@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Douglas Heaven investigates new inroads into tackling a hereditary problem
 date: "2011-10-21 10:13:25 +0100"
-
-# Attributes from Felix Online V1
-id: "1586"
-old_path: /science/1586/genetic-link-for-heavy-heart-condition-identified
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1586/genetic-link-for-heavy-heart-condition-identified
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - fsci
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Folk remedies for a heavy heart have ranged from white wine heated with red-hot steel to the flesh of a screech owl. But an Imperial-led international team of scientists from Europe, the US, and Japan have eschewed such treatments in tracking down the gene that causes cardiac hypertrophy – literally, a heavy heart, caused by a thickening of the walls of the left ventricle. This condition often leads to heart failure as the thick and stiffened heart muscles struggle to pump blood around the body.

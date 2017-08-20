@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Dushi Arumuganesan sees in the New Year in the buzzing Czech capital
 date: "2012-01-19 20:07:48 +0000"
-
-# Attributes from Felix Online V1
-id: "2006"
-old_path: /travel/2006/picture-perfect-prague
+image: "http://felixonline.co.uk/img/upload/201201192002-cac111-p1010146.png"
+image_caption: "One of a few hidden European lovelock bridges – on Kampa Island"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/2006/picture-perfect-prague
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -25,12 +23,6 @@ authors:
  - da2309
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201192002-cac111-p1010146.png"
-image_caption: ""
 ---
 
 In Prague, New Year’s Eve (or Silvestr as the Czech would say) is a major celebratory holiday. With three days to experience Prague and see in 2012, my main concern was that I’d become one of the many that are inevitably frustrated by, or caught in, the tourist trap that Prague is famed for being. However, in a city that is over-run with visitors 365 days of the year, this is difficult to avoid – particularly over the New Year period. In the final couple of days leading up to the countdown, Prague is extraordinarily animated with an air of anticipation settling over the city.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Lib Dems put their country before party politics
 date: "2010-10-28 19:06:37 +0100"
-
-# Attributes from Felix Online V1
-id: "252"
-old_path: /politics/252/debate-whether-lib-dems-betrayed-voters-continues-
+image: "http://felixonline.co.uk/img/upload/201010282004-ks607-values.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/252/debate-whether-lib-dems-betrayed-voters-continues-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - hj408
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010282004-ks607-values.jpg"
-image_caption: ""
 ---
 
 The accusations that the Liberal Democrats have compromised or “betrayed” their principles has constantly been levelled at them since their rise to shared power in May 2010. These have only intensified with the recent comprehensive spending review and the announcement of a higher cap on university tuition fees. But is it fair to judge them so harshly?

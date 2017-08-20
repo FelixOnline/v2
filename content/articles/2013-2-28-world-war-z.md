@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Maximilian Eggl looks at an unusual depiction of the zombie story
 date: "2013-02-28 18:04:30 +0000"
-
-# Attributes from Felix Online V1
-id: "3384"
-old_path: /books/3384/world-war-z
+image: "http://felixonline.co.uk/img/upload/201302281804-txl11-worldwarz.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3384/world-war-z
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - me1711
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302281804-txl11-worldwarz.jpg"
-image_caption: ""
 ---
 
 Last year was the year of the Vampire, and it seems set that 2013 will be the year of the Zombie. Don’t understand me wrong, Zombies have always been present in movies, TV shows, games and books. However only recently this genre has achieved mainstream success, probably through a larger amount of zombie games than ever, the show The Walking Dead as well as a large amounts of movies dealing with the topic.

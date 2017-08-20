@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Chris Bowers becomes a global dictator while reviewing Fate of the World
 date: "2011-05-12 18:41:25 +0100"
-
-# Attributes from Felix Online V1
-id: "1197"
-old_path: /games/1197/who-knew-climate-change-could-be-so-much-fun
+image: "http://felixonline.co.uk/img/upload/201105121939-felix-08_globe-with-devastation-overlay-over-arctic-or-antarctic-(2050).jpg"
+image_caption: "All you need to be a world leader is to be able to use Google Earth"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1197/who-knew-climate-change-could-be-so-much-fun
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -25,12 +23,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105121939-felix-08_globe-with-devastation-overlay-over-arctic-or-antarctic-(2050).jpg"
-image_caption: ""
 ---
 
 The year is 2020 and climate change has reached critical levels. The global temperature is rising, the Maldives are being evacuated, and countries have realised that their individual efforts are no longer enough. 2018 brought what scientists called the world’s first ever “hypercane”, and the serious possibility of dangerously high temperatures by 2100, along with growing economic uncertainty, is leading to growing civil unrest.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Takes so hot they are literally hell
 date: "2016-02-19 12:21:32 +0000"
-
-# Attributes from Felix Online V1
-id: "5943"
-old_path: /music/5943/felix-music-hottakes-of-the-week
+image: "http://felixonline.co.uk/img/upload/201602191220-felix-kanyetweet.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5943/felix-music-hottakes-of-the-week
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - cet13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602191220-felix-kanyetweet.jpg"
-image_caption: ""
 ---
 
 _He wanted the world to know his struggle_

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   As the House of Lords blocks electoral reform recovers from the expenses scandal, is it time to look again at an elected upper house?
 date: "2011-02-28 20:40:33 +0000"
-
-# Attributes from Felix Online V1
-id: "932"
-old_path: /politics/932/is-it-time-we-elected-the-house-of-lords
+image: "http://felixonline.co.uk/img/upload/201102282032-dr710-houseofl.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/932/is-it-time-we-elected-the-house-of-lords
-imported: true
 comments:
  - value: >
      I believe my honourable colleague has grossly misrepresented the compositino of the Lords. A majority - 550 of 780 Lords are affiliated to political parties, and these are by far the dominant force in the Lords. Many of the so-called "expert" crossbenchers rarely turn up - Lord Rees, for example (Astronomer Royal), has only bothered to vote in 11% of the votes since the start of this parliament. This is a trend - the political hacks turn up to far more votes than the crossbenchers do and debate far more than the crossbenchers do. <br> <br>Furthermore, even when "precedence" prohibits use, the actualy fact that an unelected body has the power to disrupt the view of the people for it's own ends is not acceptable. The Lords, for example, attempted to derail the AV vote by adding clauses to it that completely defeated the point of having a referendum - and these efforts were led by recently appointed Labour lords, like Lord Prescott.,I believe my honourable colleague has grossly misrepresented the compositino of th
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -30,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102282032-dr710-houseofl.jpg"
-image_caption: ""
 ---
 
 __Yes – Tagore Nakornchai__

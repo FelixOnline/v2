@@ -4,18 +4,15 @@ title: >
 subtitle: >
   I prefer English service over both of them
 date: "2011-01-20 20:24:11 +0000"
-
-# Attributes from Felix Online V1
-id: "624"
-old_path: /food/624/russian-service-or-french
+image: "http://felixonline.co.uk/img/upload/201101202005-ks607-waitwait.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/624/russian-service-or-french
-imported: true
 comments:
  - value: >
      First things first, service à l'anglaise is a term that already exists in common use. It's very similar to service à la française as you describe it above, but also the horrors of clamp serving from a silver platter. <br> <br>As much as I like the way you describe your dinner parties, they do sound nice, you're looking in the wrong place to see if this is original to you. It's hard to say what you exactly mean with your english serving, but given the sparse info you give before you describe the example menu it seems to be a collection of smaller dishes with a pick and mix attitude but complimenting each other. Larousse and similar would be focused on western styles, but you would have to look east to find something like this. Your description basically pegs it as a poor mans version of Kaiseki or Korean royal cuisine.
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101202005-ks607-waitwait.jpg"
-image_caption: ""
 ---
 
 One of the things all the top chefs say is that one of the reasons they are in the job is because they like putting a plate of food in front of someone. A good recent example of this is Nigel Slater, whose early life was dramatised on the BBC over Christmas – arguably more for the gay kiss than for the lemon meringue, one might say.

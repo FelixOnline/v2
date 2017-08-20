@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Emiel De Lange is unimpressed by the ENO’s theatrical wizardry
 date: "2013-11-15 02:32:37 +0000"
-
-# Attributes from Felix Online V1
-id: "4075"
-old_path: /arts/4075/the-magic-flute-needs-a-fairy-godmother
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4075/the-magic-flute-needs-a-fairy-godmother
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - ed812
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 What: The Magic Flute with English National Opera

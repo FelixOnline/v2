@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Side Effects gets four stars
 date: "2013-03-15 02:18:44 +0000"
-
-# Attributes from Felix Online V1
-id: "3488"
-old_path: /film/3488/steven-soderberghs-swan-song
+image: "http://felixonline.co.uk/img/upload/201303150218-tna08-side2_2478602b.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3488/steven-soderberghs-swan-song
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303150218-tna08-side2_2478602b.jpg"
-image_caption: ""
 ---
 
 As a medic, I should know the most common side effects of any prescribed medication are nausea and vomiting. Brutally stabbing your husband to death whilst sleep-walking, isn’t usually one of them. But that is exactly what happens when Emily Taylor (Mara) starts on a new course of anti-depressants following her aforementioned husband’s (Tatum) release from prison. She is nervous, constantly anxious, and withdrawn from life, which is what prompts Dr Jonathan Banks (Law) to try out Ablixa.

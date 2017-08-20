@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Free dinner? Free cake? Islam? If you found yourself saying yes to one or more of the aforementioned, then carry on reading!
 date: "2014-02-26 12:52:09 +0000"
-
-# Attributes from Felix Online V1
-id: "4436"
-old_path: /features/4436/discover-islam-week
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4436/discover-islam-week
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - jf413
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Do you ever wonder why we are here? Does it make sense that everything around us has a purposeful order to it and we are the anomalies? Will our lives ever matter in the grand scheme of things, or are we just material beings, that can feel pleasure because of chemicals in the brain? ‘Who’ is it that actually feels?

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The college’s Europe-centric approach to overseas study is something we should change.
 date: "2012-11-09 12:07:31 +0000"
-
-# Attributes from Felix Online V1
-id: "2844"
-old_path: /comment/2844/united-states-of-eurasia
+image: "http://felixonline.co.uk/img/upload/201211091207-tna08-european_union_map.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2844/united-states-of-eurasia
-imported: true
 comments:
  - value: >
      I really want to go to MIT so I can live out my fantasy of being selected by Kevin Spacey for card-counting trips to Vegas, and then being reprimanded by casino security chief Laurence Fishburne.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091207-tna08-european_union_map.jpeg"
-image_caption: ""
 ---
 
 One of my manifesto points was that there needs to be more non-European study abroad opportunities as part of our undergraduate degrees. I believe this because when you benchmark some Imperial departments against others you will see some have the University of California and the University of Melbourne as partners, while others only have partners inside Europe.

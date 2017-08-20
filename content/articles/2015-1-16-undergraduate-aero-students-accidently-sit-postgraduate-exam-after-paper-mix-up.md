@@ -4,18 +4,15 @@ title: >
 subtitle: >
   These Aero-smiths didn’t want to miss a thing
 date: "2015-01-16 12:52:40 +0000"
-
-# Attributes from Felix Online V1
-id: "5089"
-old_path: /news/5089/undergraduate-aero-students-accidently-sit-postgraduate-exam-after-paper-mix-up
+image: "http://felixonline.co.uk/img/upload/201501161312-ps3110-18-1332719581.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5089/undergraduate-aero-students-accidently-sit-postgraduate-exam-after-paper-mix-up
-imported: true
 comments:
  - value: >
      fitflop freeway sale <br>fitflop shoes online http://fitflopssalesingapore.blogspot.com/,My brother suggested I may like this web site. He was entirely right. This post actually made my day. You cann't imagine just how so much time I had spent for this information! Thanks! <br>nike ontwerpen schoenen http://www.somar.nl/?nl-nike-ontwerpen-schoenen-17322.html,Very nice post. I just stumbled upon your weblog and wanted to say that I've truly enjoyed surfing around your blog posts. After all I will be subscribing to your feed and I hope you write again very soon! <br>oakley crowbar fire iridium lens http://crownmodels.com/?usa-oakley-crowbar-fire-iridium-lens-35304.html,fitflop retailers <br>fitflops australia http://www.australiafitflops.com/,fitflop trainers <br>fitflops sales http://www.australiafitflops.com/,fitflops sales <br>fitflop australia http://australiafitflops.iemiller.net/,cheapest birkenstocks <br>discount birkenstock http://birkenstockaustralia.blogspot.com/,http://birkenstockaustraliamalls.com/ <br>birkenstock gizeh ht
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501161312-ps3110-18-1332719581.jpg"
-image_caption: ""
 ---
 
 Undergraduate aeronautical students were given a postgraduate exam paper to sit this week, with no-one realising until the end of the exam the mistake that was made.

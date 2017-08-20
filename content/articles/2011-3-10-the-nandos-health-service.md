@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Omar Hafeez-Bore shows us how chicken is not just a finger lickin’ good sensation
 date: "2011-03-10 20:46:51 +0000"
-
-# Attributes from Felix Online V1
-id: "1076"
-old_path: /food/1076/the-nandos-health-service
+image: "http://felixonline.co.uk/img/upload/201103102040-ks607-nandoscr.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1076/the-nandos-health-service
-imported: true
 comments:
  - value: >
      Only some Nandos are halal. Most of them aren't - particularly the ones near Imperial - Gloucester, Road, Earl's Court, Fulham Broadway and Notting Hill Gate. As an atheist, I generally avoid eating halal meat when possible though. It's partly animal cruelty issues, but it's a lot to do with the fact that normal meat just tastes way better.,It was based off my experiences with BMTs at Halal and Non-Halal Subways. I now realise that's a ridiculous comparision to make, because non-halal subways use pork sausages and Halal ones don't, and of course it'd taste different. <br> <br>Yeah, facepalm.,Nando's should't be halal. Why do people only eat meat that is ritually slaughtered in accordance with a medieval religion? ,That McDonalds Filet-O-Fish comment is sooo true.,Great read, No backlash from me. <br>Just one point about ur P.S. if i may- If there is debate over Nando's Halal-ility, shouldn't that be confirmed before eating there, and then advertise it's deliciosity? <br>(Now that u are a journalist, maybe you can get
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103102040-ks607-nandoscr.jpg"
-image_caption: ""
 ---
 
 Everyone seems to love [Nandos](http://www.nandos.co.uk/index.cfm?fuseaction=model.restaurant&id=184&cat=REST&description=Gloucester_Road). This makes actually writing about the place a health hazard, so violent would the backlash be from a negative piece. On the potential-trouble gauge used by Felix writers it is only topped by ‘Doing a Review of the Rector’s Face’. The situation for me is even more risky, living as I do with one flatmate who would inject peri-peri sauce into his veins if he could, and two others who would happily settle for just showering in it.

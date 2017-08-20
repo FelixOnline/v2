@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Sorcha Cotter on the Bottle Match. Fortunately, not on the aftermath...
 date: "2013-02-28 23:56:32 +0000"
-
-# Attributes from Felix Online V1
-id: "3397"
-old_path: /sport/3397/the-bottle-returns-for-the-third-year-in-a-row
+image: "http://felixonline.co.uk/img/upload/201302282355-tna08-72360_10151269654966010_1083927323_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3397/the-bottle-returns-for-the-third-year-in-a-row
-imported: true
 comments:
  - value: >
      Just picking up on a few things. As a CSM player, the emphasis on RSM's dominance on this report offends both me and my team! Due to a series of bad decisions by the referee (on both sides I will admit), and some injuries, the game was not as close as we would have hoped. However, your slimy comments and unjust description of RSM being "all over" CSM, "running in tries" everywhere is a ridiculous exaggeration! Talking with your boys after the game, both teams agreed that it was a 5 point match, therefore it could have gone either way on any day. <br>See you boys next year. <br>"Oh CSM, is wonderfull!",Try and be gracious in defeat, you're just being a sore loser,And you sir, as well as the writer of this report, are being very bad winners!,Well Dave it is an Imperial magazine, I don't know what you expect. ,12,000 handwritten paiapcirtnt's names and handsigned signature from the Chairman EXCO NDP 2010, I'm impressed, Col. Benedict Lim. That's a nice touch that makes a BIG difference.A BIG Thank You to ALL paiapc
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302282355-tna08-72360_10151269654966010_1083927323_n.jpg"
-image_caption: ""
 ---
 
 Last weekend saw the battle commence [in this year’s Bottle Match](http://felixonline.co.uk/news/3279/the-111th-bottle-match/), which for anyone who doesn’t know what this is, it’s the varsity between the Royal School of Mines and their rivals Cambourne School of Mines. The varsity consists of seven different sports starting with the tame contests of squash and golf on the Friday afternoon, the tense netball in the evening followed by an early start for hockey and football on Saturday morning, these lead into the main event; the rugby.

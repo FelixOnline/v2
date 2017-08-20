@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Felix's resident Sports Editor studies Imperial's sporting past
 date: "2011-11-03 22:12:22 +0000"
-
-# Attributes from Felix Online V1
-id: "1700"
-old_path: /sport/1700/1500-weeks-of-sport
+image: "http://felixonline.co.uk/img/upload/201110202327-sjw209-indy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1700/1500-weeks-of-sport
-imported: true
 comments:
  - value: >
      How neat! Is it really this simpel? You make it look easy.,What a joy to find <a href="http://hrkkbwuyx.com">soenome</a> else who thinks this way., unscrupulous elements deleterious side erectile mg before liability
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - ial08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110202327-sjw209-indy.jpg"
-image_caption: ""
 ---
 
 This is it, then. The big one. The one you’ve all been waiting for. I don’t know about the rest of the Felix team, but I hope you have as much fun reading this one as us editors down here have had doing it.

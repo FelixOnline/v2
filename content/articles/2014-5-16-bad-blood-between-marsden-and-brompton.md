@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tensions develop between famous Chelsea hospitals
 date: "2014-05-16 01:40:55 +0100"
-
-# Attributes from Felix Online V1
-id: "4597"
-old_path: /news/4597/bad-blood-between-marsden-and-brompton-
+image: "http://felixonline.co.uk/img/upload/201405160240-jal08-screen-shot-2014-05-16-at-02.40.03.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4597/bad-blood-between-marsden-and-brompton-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405160240-jal08-screen-shot-2014-05-16-at-02.40.03.png"
-image_caption: ""
 ---
 
 A dispute has broken out between Chelsea’s famous Royal Brompton and Royal Marsden hospitals. Late last year the Royal Brompton, a specialist heart and lung centre which collaborates on much of its research with Imperial College, publicly announced plans to sell off its Fulham Road building in order to fund improvements on its nearby Sydney Street site. The Royal Marsden, a hospital focusing on cancer treatment and research, had expressed interest in buying the building, which is located between the Royal Marsden and the Institute of Cancer Research, as early as 2009. The Royal Marsden had set aside up to £30 million to purchase the site, however the Royal Brompton has decided to sell the building to a private housing developer, hoping to get a price of over £500 million.

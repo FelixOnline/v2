@@ -4,16 +4,13 @@ title: >
 subtitle: >
   As the committee and volunteers get back into the swing of work, RAG Chair David Goldsmith reflects on the week
 date: "2013-03-01 00:11:40 +0000"
-
-# Attributes from Felix Online V1
-id: "3401"
-old_path: /news/3401/a-whole-week-of-giving
+image: "http://felixonline.co.uk/img/upload/201303010010-tna08-headshave-(20-of-27).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3401/a-whole-week-of-giving
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303010010-tna08-headshave-(20-of-27).jpg"
-image_caption: ""
 ---
 
 Amidst a week of bungee jumping, cartoon collecting, pizza eating, Dark Knight-watching, serenading, raffling and masked dancing £11,305 worth of coins rained down on our buckets. This brought our total generated for charity in the year so far to £47,556.48 – more than TRIPLE that raised in the entirety of last year and we have yet to reach third term!

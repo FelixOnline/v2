@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Heading to an Oscars party and unsure of who to root for? Not seen Fences, but want to pretend you have? Just want to seem like someone who has an opinion? Then read on, as our Culture Editor Fred Fyles takes you through all the top prizes, letting you know what’s coming out on top, who’s coming hom
 date: "2017-02-24 14:21:57 +0000"
-
-# Attributes from Felix Online V1
-id: "6819"
-old_path: /features/6819/academy-awards-2017--our-predictions-of-who-will-win-and-who-should-win
+image: "http://felixonline.co.uk/img/upload/201702241420-felix-BarryJenkins_WPC.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6819/academy-awards-2017--our-predictions-of-who-will-win-and-who-should-win
-imported: true
 comments:
  - value: >
      That's 2 clever by half and 2x2 clever 4 me. Thaksn!
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -26,12 +23,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702241420-felix-BarryJenkins_WPC.jpg"
-image_caption: ""
 ---
 
 ## Best Director

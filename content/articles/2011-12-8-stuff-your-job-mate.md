@@ -4,16 +4,13 @@ title: >
 subtitle: >
   David Bowe thinks everyone should go take a gap year, instead of doing any of this working malarkey
 date: "2011-12-08 22:21:01 +0000"
-
-# Attributes from Felix Online V1
-id: "1955"
-old_path: /comment/1955/stuff-your-job-mate
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1955/stuff-your-job-mate
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - db1308
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I think I’m like most students heading into their last year of college. I like my student life and the thought of giving it up in place of a serious job is enough to make me want to repeat. Truth be told I’m a little terrified of stepping out into this big, bad world and experiencing life without a midweek party. Unfortunately for me, it seems the lunge is coming fast and I still lack that elusive spot of maturity which might actually make me in some way employable.

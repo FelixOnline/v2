@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Philippa Skett recaps the tragedy that has captured the world’s attention, and how it has resonated through the capital
 date: "2015-01-16 12:55:17 +0000"
-
-# Attributes from Felix Online V1
-id: "5090"
-old_path: /news/5090/one-city-mourns-for-another-citys-loss
+image: "http://felixonline.co.uk/img/upload/201501161254-ps3110-dsc_4725-for-online.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5090/one-city-mourns-for-another-citys-loss
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501161254-ps3110-dsc_4725-for-online.jpg"
-image_caption: ""
 ---
 
 The world was stunned by the news last Wednesday, when two masked gunmen entered the offices of Charlie Hebdo, a French satirical magazine. Within half an hour, twelve people had been shot dead, including the editor of the magazine, two policemen and several cartoonists that had drawn the “blasphemous” and controversial front covers.

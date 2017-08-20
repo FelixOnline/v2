@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Student Accommodation Awards refuse to choose winner
 date: "2016-10-31 13:35:24 +0000"
-
-# Attributes from Felix Online V1
-id: "6358"
-old_path: /news/6358/student-accommodation-situation-dire
+image: "http://felixonline.co.uk/img/upload/201610311334-felix-ImperialCampus-319--tojpeg_1433261472249_x2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6358/student-accommodation-situation-dire
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ad4812
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610311334-felix-ImperialCampus-319--tojpeg_1433261472249_x2.jpg"
-image_caption: ""
 ---
 
 The skyrocketing price of student accommodation has been an ongoing issue in the minds of students, one that certainly feels all too familiar for Imperial students living in London.  This week saw the publication _Property Week_ being forced to withdraw a category from their Student Accommodation Awards after the panel of student judges refused to choose a winner for Student Experience in a protest over increasing rent prices.

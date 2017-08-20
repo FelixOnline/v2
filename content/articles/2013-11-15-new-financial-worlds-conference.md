@@ -4,16 +4,13 @@ title: >
 subtitle: >
   ICFS tell us about their exciting upcoming conference
 date: "2013-11-15 11:44:16 +0000"
-
-# Attributes from Felix Online V1
-id: "4087"
-old_path: /features/4087/new-financial-worlds-conference
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4087/new-financial-worlds-conference
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 March 2011 saw Imperial College Finance Society hold their first ever conference at the highly impressive Bloomberg Headquarters. It was here that the New Financial Worlds Conference was born. With an attendance of over 200 individuals from a diverse range of backgrounds, universities and professions, it was a real opening success for the society. Now in its fourth iteration, the New Financial Conference 2013 will be held in the prestigious Barbican on the 30th November.

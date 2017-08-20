@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Art students protest against cuts to teaching budgets
 date: "2010-11-26 11:41:22 +0000"
-
-# Attributes from Felix Online V1
-id: "453"
-old_path: /news/453/royal-college-of-art-students-block-kensington-road-
+image: "http://felixonline.co.uk/img/upload/201011261137-ks607-rcaprote.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/453/royal-college-of-art-students-block-kensington-road-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011261137-ks607-rcaprote.jpg"
-image_caption: ""
 ---
 
 Around 200 students from the Royal College of Art (RCA) held an hour long protest as part of a national day of walkouts, sit-ins and marches against the government’s planned cuts to higher education.

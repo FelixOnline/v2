@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Tell Spring Not to Come This Year is a vital, beautiful exploration of a broken country
 date: "2015-11-20 14:13:16 +0000"
-
-# Attributes from Felix Online V1
-id: "5769"
-old_path: /film/5769/a-mournful-brilliantly-told-story-of-warfare-in-afghanistan
+image: "http://felixonline.co.uk/img/upload/201511201412-ff712-1874.jpg"
+image_caption: "Scared, tired and alone in the fight. Tell Spring paints an intimately grim picture of the lives of these Afghan soldiers"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5769/a-mournful-brilliantly-told-story-of-warfare-in-afghanistan
-imported: true
 comments:
  - value: >
      nfl shop cyber monday Seahawks Super Bowl Gear mlb <br>shop black friday deal (www.nfljerseysellers.com),UGGS factoiry ouflet store online wholesale nba jerseys hina discount uggs sale,discount uggs ssale cheap nfl erseys wholesale cheap UGGS <br>boots,Cheap UGGS Sale Online nfl shop outlet Cheap UGGS Sale Online,Cheap UGGS Boots wholesale mlb jersey Cheap UGGS Boots,Cheap UGGS Sale Online coupon nba shop Cheap UGGS Sale Online,Cheap UGGS Sale Online mlb shop cyber monday coupon codes Cheap UGGS Sale <br>Online,Cheap UGGS Boots Olympic USA Jersey Cheap UGGS Salle Online,wholesale sports jsrseys wholesale sports jerseys,UGGSfactory outlet store online cheap nnba jerseys for sale discount uggs sale,discount uggs sale cheap jerseys china UGGS factory outlet <br>store online (www.uggsoutletgoods.com),discount uggs sale cheap nba jerseys wholesale cheap UGGS boots,cheap UGGS boots UGGS factoryy outleet store online (www.uggsoutletgoods.com),cheap UGGS boots cheap nhl jerseys for sale UGGS factory <br>outlet store online,che
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +26,6 @@ authors:
  - toc15
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511201412-ff712-1874.jpg"
-image_caption: ""
 ---
 
 _Tell Spring Not to Come This Year_ is named after a poem chosen by one of its main subjects: Commander Jalaluddin of the 3rd Brigade of the Afghan National Army (ANA). The poem is a reflection on rebirth and renewal of a country, and the impossibility of such a renewal while the land is still full of death. A mournful poem, it is in many ways a perfect encapsulation of what the film wishes to show us.

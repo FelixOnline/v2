@@ -4,16 +4,13 @@ title: >
 subtitle: >
   As Imperial College Business School continues to gain international acclaim for the quality of its academic teaching and research, and the success of its alumni, felix interviews its Principal, Professor David Begg
 date: "2010-02-01 17:20:25 +0000"
-
-# Attributes from Felix Online V1
-id: "66"
-old_path: /biz/66/ic-business-school-climbs-ft-rankings
+image: "http://felixonline.co.uk/img/upload/201002011718-rsp07-tannaka.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/66/ic-business-school-climbs-ft-rankings
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - rsp07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002011718-rsp07-tannaka.jpg"
-image_caption: ""
 ---
 
 The Financial Times World Rankings is one of the most respected international league tables for Business Schools. In their latest annual assessment, released this week, Imperial College Business School has moved up seven places to 32nd place in the world. Its Principal, Professor David Begg, has given felix Business his thoughts on the School and its future plans.

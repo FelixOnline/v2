@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sarah Bryne attends a symposium at the South Kensington campus
 date: "2012-11-15 21:06:29 +0000"
-
-# Attributes from Felix Online V1
-id: "2892"
-old_path: /science/2892/agri-net-symposium-at-imperial
+image: "http://felixonline.co.uk/img/upload/201211152105-tna08-casp1_green_black_bckgrd.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2892/agri-net-symposium-at-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - fsci
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211152105-tna08-casp1_green_black_bckgrd.jpg"
-image_caption: ""
 ---
 
 One of the biggest challenges facingtoday’s world is how to feed an increasing population, particularly with the impending threats of climate change and water shortages.

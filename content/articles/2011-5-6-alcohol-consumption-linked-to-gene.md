@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Researchers discover gene that is linked to higher alcohol consumption
 date: "2011-05-06 08:13:33 +0100"
-
-# Attributes from Felix Online V1
-id: "1153"
-old_path: /science/1153/alcohol-consumption-linked-to-gene
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1153/alcohol-consumption-linked-to-gene
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - ch1810
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A gene associated with increased alcohol drinking behaviour has been identified, and may lead to a better understanding of the biological mechanisms that control drinking.

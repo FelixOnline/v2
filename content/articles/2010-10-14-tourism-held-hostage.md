@@ -4,16 +4,13 @@ title: >
 subtitle: >
   To travel, or not to travel – amidst travel alerts and predictions of terrorist activities, is submitting to the warnings and fears a safe choice?
 date: "2010-10-14 19:56:47 +0100"
-
-# Attributes from Felix Online V1
-id: "215"
-old_path: /travel/215/tourism-held-hostage-
+image: "http://felixonline.co.uk/img/upload/201010142054-ks607-hijack.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/215/tourism-held-hostage-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - yll08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010142054-ks607-hijack.jpg"
-image_caption: ""
 ---
 
 Despite being seven hundred miles away from the scene of the hostage situation, I felt trapped.

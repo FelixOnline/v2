@@ -4,16 +4,13 @@ title: >
 subtitle: >
   State of the union address the Obama way!
 date: "2011-01-27 19:23:58 +0000"
-
-# Attributes from Felix Online V1
-id: "667"
-old_path: /politics/667/-obamas-state-of-the-union-address-
+image: "http://felixonline.co.uk/img/upload/201101271921-nm1010-ObamaOba.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/667/-obamas-state-of-the-union-address-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - nm1010
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101271921-nm1010-ObamaOba.jpg"
-image_caption: ""
 ---
 
 Wednesday 25th saw Obama give his second State of the Union address – his first since his party’s ‘shellacking’ at the hands of the Republicans in November’s mid term elections. The speech was short on policy but included concessions to the Republicans. His speech included:

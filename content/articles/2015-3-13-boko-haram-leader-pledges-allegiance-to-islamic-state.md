@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Joshua Renken reports on the developments in the jihadist campaign
 date: "2015-03-13 01:25:37 +0000"
-
-# Attributes from Felix Online V1
-id: "5394"
-old_path: /news/5394/boko-haram-leader-pledges-allegiance-to-islamic-state
+image: "http://felixonline.co.uk/img/upload/201503130125-cj914-abubakar-shekau-boko-haram.png"
+image_caption: "Abubakar Shekau reportedly made the comments in a video posted on Twitter"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5394/boko-haram-leader-pledges-allegiance-to-islamic-state
-imported: true
 comments:
  - value: >
      http://www.outlets-coach.us.com/ coach factory <br> http://www.raybanussales.com/ ray bans on sale <br> http://www.cheapraybansales.net/ cheap ray bans <br> http://www.2015ray-bansales.com ray ban sunglasses <br> <br>ray ban sunglasses outlet http://www.rayban-outlet.name/,http://www.coachusaoutlet.net/ coach factory outlet <br> http://www.cheapmichaelkorsbags.org michael kors outlet online <br> http://www.cheap-oakleys.org/ cheap oakley sunglasses <br> http://raybanoutlet.verascafe.com ray ban sunglasses <br> <br>michael kors outlet online http://www.michael-korsoutlet.xyz/,http://www.official-coachsales.cc/ coach factory outlet <br> http://www.discountmichaelkorsbags.org michael kors <br> http://www.oakleyoutlet-sale.net/ oakley sunglasses wholesale <br> http://raybanoutlet.verascafe.com cheap ray ban sunglasses <br> <br>ray ban sunglasses outlet http://www.sunglasses-hut.cc,http://www.coach-factory-outlet.xyz/ coach outlet online <br> http://www.official-mkoutlet.cc/ michael kors outlet online <br> ht
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - jr2514
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503130125-cj914-abubakar-shekau-boko-haram.png"
-image_caption: ""
 ---
 
 A video of Abubakar Shekau, the leader of the militant extremist group Boko Haram, has emerged in which he swears allegiance to Islamic State (IS).

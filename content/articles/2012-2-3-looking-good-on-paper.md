@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The Builders Arms plays host to a monthly poetry evening
 date: "2012-02-03 10:27:06 +0000"
-
-# Attributes from Felix Online V1
-id: "2125"
-old_path: /arts/2125/looking-good-on-paper
+image: "http://felixonline.co.uk/img/upload/201202031030-sjw209-kad.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2125/looking-good-on-paper
-imported: true
 comments:
  - value: >
      Looking forward to the next one. Definitely have a set theme a la smoking for writers at the night: some of them brilliant! <br> <br>Dylan's haiku is class. I only managed to scrawl a few lines before I had to dash: <br> <br>Your ship of life will soon capsize, <br>As the cancer cells metastasize.
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202031030-sjw209-kad.jpg"
-image_caption: ""
 ---
 
 At first sight an event that describes itself as an open mic poetry night may not seem like something everyone can enjoy. You may even assume that it, and by extension anyone writing about it, will be pretentious; perhaps you think it will be the sort of night where somebody without a beret would be persona non grata (see, not pretentious, quod erat demonstrandum… too meta a joke?). I can assure you, _[Fluent on Paper](http://www.facebook.com/events/173620746075860/)_ is not at all like that.

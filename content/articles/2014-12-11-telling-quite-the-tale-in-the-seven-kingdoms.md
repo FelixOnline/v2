@@ -4,18 +4,16 @@ title: >
 subtitle: >
   James Dutton reviews the latest Game of Thrones game – SPOILER ALERT
 date: "2014-12-11 20:42:54 +0000"
-
-# Attributes from Felix Online V1
-id: "5030"
-old_path: /games/5030/telling-quite-the-tale-in-the-seven-kingdoms
+image: "http://felixonline.co.uk/img/upload/201412112042-cj914-2746943-ramsay-snow-and-lord-whitehill.png"
+image_caption: "They don't look it, but the Red Wedding has scarred them... scarred us all..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/5030/telling-quite-the-tale-in-the-seven-kingdoms
-imported: true
 comments:
  - value: >
      Okqpty http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -28,12 +26,6 @@ authors:
  - jdd11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412112042-cj914-2746943-ramsay-snow-and-lord-whitehill.png"
-image_caption: ""
 ---
 
 Telltale Games have put their name to another TV franchise and this time round it is the giant that is Game of Thrones. For those not familiar with the Telltale style, the game is a combination of point-and-click and quick-time events. Those wishing to run about Westeros as Benjen Stark/Daario Naharis wielding an axe, killing whoever they please should look away now. But what the game lacks in exciting play styles, it makes up completely with an absorbing and completely interactive story.

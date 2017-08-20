@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The obvious point to be made here is that not only is this yet another sequel, it’s also a sequel to a reboot to a film series that was barely a decade old the first time around. And so it is again, with this reboot sequel coming ten years after the best film in the original trilogy.
 date: "2014-05-02 01:20:48 +0100"
-
-# Attributes from Felix Online V1
-id: "4547"
-old_path: /film/4547/the-amazing-spider-man-2
+image: "http://felixonline.co.uk/img/upload/201405020221-jal08-asm_gwen_swing_header.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4547/the-amazing-spider-man-2
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - js5913
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405020221-jal08-asm_gwen_swing_header.jpg"
-image_caption: ""
 ---
 
 __The Amazing Spider-Man 2__

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:46:24 +0000"
-
-# Attributes from Felix Online V1
-id: "5346"
-old_path: /comment/5346/felix-interviews-deputy-president-welfare-candidate-jennifer-watson
+image: "http://felixonline.co.uk/img/upload/201503052146-snb11-jrw110-5173.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5346/felix-interviews-deputy-president-welfare-candidate-jennifer-watson
-imported: true
 comments:
  - value: >
      I have been surfing online more than 2 hours today, yet I never found any interesting article like yours. It's pretty worth enough for me. In my opinion, if all webmasters and bloggers made good content as you did, the net will be a lot more useful than ever before. <br>parajumpers yorkdale http://www.targettisportingclub.it/?it-parajumpers-yorkdale-30002.html,buy fitflop online <br>fitflop australia http://australiafitflops.iemiller.net/,discount fitflops <br>buy fitflops http://australiafitflops.blogspot.com/,christian louboutin cheap <br>christian louboutin sale clearance http://canadachristianlouboutin.blogspot.com/,Julian been recently a part of U.S youth National teams since he was 16 years-old. He played for that U-17 national team that took part in turmoil Championships in Finland in 2003. Anf the was a participant of the U-20 national team that played regarding fifa 16 hack U-20 World Cup in 07. A four-year starter for the Wake Forest Demon Deacons, he captained the team to a national championship in two thousan
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - snb11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503052146-snb11-jrw110-5173.jpg"
-image_caption: ""
 ---
 
 __What made you run for this position?__

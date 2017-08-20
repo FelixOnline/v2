@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A round up of the action from all the international societies
 date: "2012-11-22 22:55:04 +0000"
-
-# Attributes from Felix Online V1
-id: "2935"
-old_path: /news/2935/international-week-2012
+image: "http://felixonline.co.uk/img/upload/201211222254-tna08-qt-view.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2935/international-week-2012
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211222254-tna08-qt-view.jpg"
-image_caption: ""
 ---
 
 Last week at Imperial saw the celebration of the College’s first ever International Week with a great myriad of activities taking place. The Week was set up to promote the cultural diversity present at our university in the hope that all students and cultures are represented and encouraged to express themselves equally.

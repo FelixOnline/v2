@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The events of the summer highlight a split in the young generation
 date: "2011-09-30 10:28:11 +0100"
-
-# Attributes from Felix Online V1
-id: "1457"
-old_path: /comment/1457/why-didnt-we-riot
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1457/why-didnt-we-riot
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - ar3310
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I’m young. I’m a student. I’ve grown up with today’s British Culture and I am a part of ‘Today’s Generation’. So why didn’t you see me running around London setting fire to furniture stores and stealing carpets? Oh that’s right, because I’m not a complete and utter idiot.

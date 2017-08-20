@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Academics from the School of Public Health say voting Remain is the “logical” option
 date: "2016-06-03 08:38:57 +0100"
-
-# Attributes from Felix Online V1
-id: "6226"
-old_path: /news/6226/imperial-academics-warn-against-brexit
+image: "http://felixonline.co.uk/img/upload/201606031038-felix-Screen Shot 2016-05-19 at 11.36.17.jpg"
+image_caption: "Yes, this is our Brexit picture. Deal with it."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6226/imperial-academics-warn-against-brexit
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606031038-felix-Screen Shot 2016-05-19 at 11.36.17.jpg"
-image_caption: ""
 ---
 
 Professors and readers in public health at Imperial have published a letter in this month’s Journal of the Royal Society of Medicine on how staying in the EU would help safeguard the health of British people.

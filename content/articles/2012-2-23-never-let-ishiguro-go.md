@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Kazuo Ishiguro applies his unique writing style to the realm of science fiction
 date: "2012-02-23 20:26:34 +0000"
-
-# Attributes from Felix Online V1
-id: "2233"
-old_path: /books/2233/never-let-ishiguro-go
+image: "http://felixonline.co.uk/img/upload/201202232022-cac111-ishiguro.jpg"
+image_caption: "Kazuo Ishiguro is one of Britain’s most celebrated authors"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2233/never-let-ishiguro-go
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +22,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202232022-cac111-ishiguro.jpg"
-image_caption: ""
 ---
 
 Sure, this book involves a parallel society, human cloning, and organ farming, narrated through the eyes of an independent and vaguely rebellious protagonist, but still: [_Never Let Me Go_](http://en.wikipedia.org/wiki/Never_Let_Me_Go_(novel)) isn’t what you would expect from a work of science fiction. With little futuristic technology and absolutely no extra-terrestrial life forms to be seen, [Kazuo Ishiguro](http://en.wikipedia.org/wiki/Kazuo_Ishiguro)’s most recent novel captures the reader’s attention not with ray guns and worm holes but with characterisation and imagery.

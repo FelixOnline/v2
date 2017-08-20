@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Imperial College Union previously campaigned against charge
 date: "2015-02-27 00:38:35 +0000"
-
-# Attributes from Felix Online V1
-id: "5313"
-old_path: /news/5313/150-nhs-student-visa-charge-starts-in-april
+image: "http://felixonline.co.uk/img/upload/201501292355-ps3110-icl_ntu_047.jpg"
+image_caption: "Hospitals trusts, such as Imperial College Healthcare, will soon have to chase up foreign nationals for payment"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5313/150-nhs-student-visa-charge-starts-in-april
-imported: true
 comments:
  - value: >
      fitflop suisei sale <br>where to buy fitflops http://fitflopsalesingapore2.blogspot.com/,Have you ever considered about adding a little bit more than just your articles? I mean, what you say is important and everything. Nevertheless think about if you added some great photos or video clips to give your posts more, "pop"! Your content is excellent but with images and clips, this blog could certainly be one of the greatest in its niche. Great blog! <br>moncler jas utrecht http://www.amicitalia.nl/?nl-moncler-jas-utrecht-10441.html,At this moment I am going away to do my breakfast, once having my breakfast coming over again to read additional news. <br>canada goose jassen laren gld http://www.n11.nl/?nl-canada-goose-jassen-laren-gld-8438.html,hello.i m on maternity eoxmptien at the moment and i would like to know the dental charges for me .i have had a baby 9 months ago .i have seen a dentist today and i was told that i have to pay 60 pounds for a white fillings.is that right???regards,fitflop slipper <br>fitflops australia
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501292355-ps3110-icl_ntu_047.jpg"
-image_caption: ""
 ---
 
 Despite complaints from many quarters, the Government will be implementing its previously announced plans to charge non-EU nationals (including students) for access to NHS services.

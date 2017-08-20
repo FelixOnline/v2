@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This week the latest US mission to Mars launched successfully; NASA called the launch “flawless”. The rocket carrying the Mars Atmosphere and Volatile EvolutioN (MAVEN) spacecraft left the Earth on Monday from Cape Canaveral Air Force Station in Florida, the site of many previous NASA missions...
 date: "2013-11-24 16:01:07 +0000"
-
-# Attributes from Felix Online V1
-id: "4105"
-old_path: /science/4105/-mars-maven-mission-launches
+image: "http://felixonline.co.uk/img/upload/201311241652-jal08-201311180001hq.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4105/-mars-maven-mission-launches
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - frh10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311241652-jal08-201311180001hq.jpeg"
-image_caption: ""
 ---
 
 This week the latest US mission to Mars launched successfully; NASA called the launch “flawless”. The rocket carrying the Mars Atmosphere and Volatile EvolutioN (MAVEN) spacecraft left the Earth on Monday from Cape Canaveral Air Force Station in Florida, the site of many previous NASA mission launches. Just under an hour after launch the probe was released from the rocket, deployed its solar panels and oriented into cruise configuration.

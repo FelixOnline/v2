@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Kunal Wagle is on hand as College win close encounter in Women's match at The Stoop.
 date: "2015-03-19 23:41:39 +0000"
-
-# Attributes from Felix Online V1
-id: "5405"
-old_path: /sport/5405/late-resurgence-not-good-enough-for-medics
+image: "http://felixonline.co.uk/img/upload/201503192341-kmw13-tbl_varsity_quick_set_22h34m50s.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5405/late-resurgence-not-good-enough-for-medics
-imported: true
 comments:
  - value: >
      cheapest fit flops <br>fitflop in australia http://australiafitflops.blogspot.com/,louboutin rolando shoes sale <br>discount christian louboutin http://canadachristianlouboutin.blogspot.com/,shoes with red bottoms <br>cheap christian louboutin http://christianlouboutincanadaoutlet.blogspot.com/,black christian louboutin <br>christian louboutin shoes outlet http://canadachristianlouboutin.blogspot.com/
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -26,12 +23,6 @@ authors:
  - kmw13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503192341-kmw13-tbl_varsity_quick_set_22h34m50s.jpg"
-image_caption: ""
 ---
 
 A late resurgence from the Imperial Medicals was not enough to prevent a victory for the Imperial College team in the first ever Varsity fixture held at The Stoop for women’s rugby. It was a low scoring game of ten-a-side rugby that was decided on a few beautiful breakaway tries. For long periods of the game it looked as though the College could score at any moment. But, having gone two tries down before half time, the Medics rallied after the break, and a last gasp try ended the game at a close 15-12. However, the Medics could point to a couple of dubious decisions in the lead up to two of the tries that College scored.

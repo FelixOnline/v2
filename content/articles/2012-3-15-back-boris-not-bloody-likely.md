@@ -4,18 +4,16 @@ title: >
 subtitle: >
   It is time for London to elect a mayor
 date: "2012-03-15 22:24:22 +0000"
-
-# Attributes from Felix Online V1
-id: "2398"
-old_path: /comment/2398/back-boris-not-bloody-likely
+image: "http://felixonline.co.uk/img/upload/201203152223-ams111-boris-hand1.jpg"
+image_caption: "Just a persona? Boris in action"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2398/back-boris-not-bloody-likely
-imported: true
 comments:
  - value: >
      This is what's known as smearing.. .you've written a critique of Boris' policies without suggesting what any of the other candidates have to offer. Boris is actually one of the most in touch of the candidates as he realises London transport system needs investment now or will simply be inadequate in 10 years. Improvements cost money hence fairs unfortunately have to rise. Ken is proposing to lower fares whilst doing this, which defies basic economic sense. Wages has risen in TfL due to the size and workload of the project requiring, the biggest expansion in 30 years of the underground needs the best people to make it happen! As for the air pollution issue this is incredibly difficult to solve and only inefficient solutions have been created, what are the other candidates proposing? <br> <br>I'm no Tory but I think its clear that Boris' policies are actually very smart and are key to the future of London,Seems like a wild ad-hominem attack on the Mayor to me, plucking this fantasy figure out of the air to accuse him
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152223-ams111-boris-hand1.jpg"
-image_caption: ""
 ---
 
 This May, Londoners will again be called upon to elect a mayor, and if the polls are anything to go by the race between incumbent Boris Johnson and returning rival Ken Livingstone is too close to call. The thing is, I have real difficulty understanding how that can be so. Cynics remark that British politics is increasingly being reduced to a personality contest and, worryingly, it seems to me that the 2012 mayoral election has a candidate basing their entire campaign on a persona.

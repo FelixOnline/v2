@@ -4,18 +4,15 @@ title: >
 subtitle: >
   In a Superdrug study of sexual health provision by universities nationwide College was rated 14th and provided with a 2:1 classification.
 date: "2014-05-09 01:55:00 +0100"
-
-# Attributes from Felix Online V1
-id: "4564"
-old_path: /news/4564/college-gets-a-21-for-sexual-health
+image: "http://felixonline.co.uk/img/upload/201405090255-jal08-news_ic_report_card_sex.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4564/college-gets-a-21-for-sexual-health
-imported: true
 comments:
  - value: >
      Since when is it Imperial's responsibility to educate its students on sexual health? Surely everyone learns this sort of thing at secondary school or earlier. <br> <br>What is this sexual heath information they're expecting on the campus? Condom usage posters in the disabled toilets? Pop-up images of diseased genitals when you log in to the college PCs? ,Agreed. Patronising to the max, not College's job. <br> <br>Good advert for Superdrug though. If I was a cynical person I would suggest that was their motive for doing the survey. <br> <br>And far from highlighting an issue... I suspect many of us would be delighted with a 2:1.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405090255-jal08-news_ic_report_card_sex.png"
-image_caption: ""
 ---
 
 In a Superdrug study of sexual health provision by universities nationwide College was rated 14th and provided with a 2:1 classification.

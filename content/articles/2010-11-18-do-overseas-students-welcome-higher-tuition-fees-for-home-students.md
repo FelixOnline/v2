@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Felix explores the effect that raising the tuition fee cap will have on international students
 date: "2010-11-18 21:41:11 +0000"
-
-# Attributes from Felix Online V1
-id: "407"
-old_path: /news/407/do-overseas-students-welcome-higher-tuition-fees-for-home-students-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/407/do-overseas-students-welcome-higher-tuition-fees-for-home-students-
-imported: true
 comments:
  - value: >
      Back in 2008, it costs £15500 a year for my tuition fees and within 2 years, it has risen from that amount to almost £200000! A whopping 30% increase! Is this increase justified? No one can really tell but we can be sure about one thing, international fees will always go up, never down! ,A lot of U.S. universities may be more expensive than home tuition fees, but at least they don't financially discriminate against international students by charging them 7x more than U.S. students.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - yw3410
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Proposals to increase the tuition fee cap to £9000 per year for EU and home students were attacked by over 50,000 students protesting on the streets of London last week. However, the opinions of one particular group of students who also have a stake in this matter have mostly been ignored..

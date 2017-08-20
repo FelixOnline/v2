@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A student responds to last week's article about Tibet
 date: "2013-11-15 02:21:45 +0000"
-
-# Attributes from Felix Online V1
-id: "4065"
-old_path: /comment/4065/tibet-a-brighter-future-than-the-rest-of-china
+image: "http://felixonline.co.uk/img/upload/201311150243-felix-dalailama.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4065/tibet-a-brighter-future-than-the-rest-of-china
-imported: true
 comments:
  - value: >
      No Tibetans saying we want the old Tibet, even the Dalai Lama felt long before the Chinese invasion of 1959 need for reforms in Tibet and he even did introduce some reforms but could not carry on. Initially when Chinese army entered Tibet they said they came to liberate Tibet not to occupy, now the 'liberation' is done, but why the Chinese are still in Tibet. What we Tibetans are fighting for is freedom - freedom to practice our religion, freedom to choose our own destiny, freedom to express. The author of this article should visit our exile community in India and we observe what kind of system we have here - what our feelings and desires are. You are welcome to visit Dharamsala in India. Unfortunately we can't visit our own homeland or visit you in Beijing. Me for example I was born in Tibet and I know the situation in Tibet. If Tibetans are so happy under the Chinese rule - why those self-immolations, protests, why Chinese government has to place so much restrictions on the free flow of information in Tibet
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - me1711
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311150243-felix-dalailama.png"
-image_caption: ""
 ---
 
 _N.B. Articles in the comment section are the opinion of the author and do not necessarily reflect the opinion of the newspaper or Imperial College. -Ed._

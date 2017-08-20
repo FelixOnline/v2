@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Charlotte Levin takes us to the strange party that is Nintendisco: a celebration of games, music and geekery
 date: "2011-03-18 08:48:49 +0000"
-
-# Attributes from Felix Online V1
-id: "1115"
-old_path: /music/1115/videogames--music--awesome-
+image: "http://felixonline.co.uk/img/upload/201103180845-ks607-nitendis.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1115/videogames--music--awesome-
-imported: true
 comments:
  - value: >
      Cool stuff!,I bow down humbly in the presence of such grteaenss.,f2waCG <a href="http://iqicsripyytb.com/">iqicsripyytb</a>
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103180845-ks607-nitendis.jpg"
-image_caption: ""
 ---
 
 Have you ever felt like going to a pub, having a couple of pints, playing some old style video games and hanging out with friends? Yes? Well, you’re not alone. Two guys, Nicholas Thurgood (Nicky) and David Lightfoot (Dave), have just started running a monthly event called Nintendisco. The basic idea is to get people together and hang out in a bar, and then play videogames together, whilst listening to music, from contemporary radio hits to video game theme tunes!

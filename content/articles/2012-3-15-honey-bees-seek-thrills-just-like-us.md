@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Scientists have investigated differences in bees' neurochemistry determining the way in which they forage for food
 date: "2012-03-15 19:53:52 +0000"
-
-# Attributes from Felix Online V1
-id: "2352"
-old_path: /science/2352/honey-bees-seek-thrills-just-like-us
+image: "http://felixonline.co.uk/img/upload/201203151952-ams111-apis_mellifera_flying.jpg"
+image_caption: "On his way back from an adventure"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2352/honey-bees-seek-thrills-just-like-us
-imported: true
 comments:
  - value: >
      I realise this is an incredibly late answer, but you're right. I didn't actually provide the picture or the caption for this article, nor was I included in choosing those things. I do remember being a bit upset about the incorrect caption at the time, but not enough to get it corrected or to acknowledge it.,Interesting article, thank you. You say <br>"On his way back from an adventure " in the title to the picture, <br>now I am not an expert but I thought it was only the girls that gathered pollen (the yellow blob on its leg) and nectar so "she is on her way back" ! <br>The boys are drones. <br>
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - frh10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203151952-ams111-apis_mellifera_flying.jpg"
-image_caption: ""
 ---
 
 Honey bee scouts are at the forefront of bee exploration, seeking out new sources of food for the hungry hive and finding suitable nest sites for the colony when it outgrows its current home. These bees differ from their fellow foragers. They do not wait to be told where to go or what to do, but seek novelty, maybe even adventure.

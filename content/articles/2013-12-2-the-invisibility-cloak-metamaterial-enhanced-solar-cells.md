@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Taking a closer look at metamaterials
 date: "2013-12-02 21:52:28 +0000"
-
-# Attributes from Felix Online V1
-id: "4157"
-old_path: /science/4157/the-invisibility-cloak--metamaterial-enhanced-solar-cells
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4157/the-invisibility-cloak--metamaterial-enhanced-solar-cells
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - ecw12
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The invisibility cloak

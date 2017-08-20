@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Very stressful, deeply disturbing and utterly engrossing
 date: "2011-01-20 19:51:28 +0000"
-
-# Attributes from Felix Online V1
-id: "616"
-old_path: /film/616/a-hitchcock-esque-ballet-
+image: "http://felixonline.co.uk/img/upload/201101201949-ks607-blackswa.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/616/a-hitchcock-esque-ballet-
-imported: true
 comments:
  - value: >
      how to get free facebook likes facebook fans buy buy facebook profiles how to get 1000 likes on facebook <a href="http://1000fbfans.info">buy 1000 facebook fans <br></a> get facebook page fans buy facebook friends <br>facebook fans buy buy fb fans <a href="http://1000fbfans.info">how to get facebook likes fast </a>
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - jp1010
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101201949-ks607-blackswa.jpg"
-image_caption: ""
 ---
 
 Director Darren Aronofsky provides a masterful account of the human psyche’s masochistic tendencies in a tale of the corruption of innocence, paranoia, and one hell of a psychotic breakdown. Black Swan is the story of sheltered ballerina Nina Sayers (Natalie Portman), who has recently been handed the much-coveted lead role in Swan Lake. Quiet, innocent and dedicated; Sayers has the perfect qualities to represent the purity and grace of the White Swan, however, it is her portrayal of the erotic and passionate abandon of the character’s alter ego that presents the greatest barrier between Nina and success. It is no mean feat for a virginal teenager, who lives at home, and sleeps in a room that looks as if it has been decorated by a team of loved-up Care Bears, with a particularly strong penchant for pink.

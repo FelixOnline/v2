@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Could low self-esteem be hindering female sexual enjoyment?
 date: "2011-06-09 21:39:40 +0100"
-
-# Attributes from Felix Online V1
-id: "1353"
-old_path: /science/1353/male-poor-performance-or-female-low-self-confidence
+image: "http://felixonline.co.uk/img/upload/201106092240-felix-euzix_couple5.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1353/male-poor-performance-or-female-low-self-confidence
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - kt108
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106092240-felix-euzix_couple5.jpg"
-image_caption: ""
 ---
 
 Ever find sex horribly disappointing? Finding it difficult to get those teenage kicks? If it’s any consolation, according to [a recent study from the School of Public Health](http://www.jhsph.edu/publichealthnews/press_releases/2011/sonenstein_empathy_pleasure.html), you are not alone.

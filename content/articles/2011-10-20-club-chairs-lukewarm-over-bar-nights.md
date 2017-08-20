@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Boards give an underwhelming response to new rulings on how to run events
 date: "2011-10-20 19:30:32 +0100"
-
-# Attributes from Felix Online V1
-id: "1555"
-old_path: /news/1555/club-chairs-lukewarm-over-bar-nights
+image: "http://felixonline.co.uk/img/upload/201110202027-felix-union-bar.jpg"
+image_caption: "Some club chairs want to call time on the new regulations"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1555/club-chairs-lukewarm-over-bar-nights
-imported: true
 comments:
  - value: >
      Sounds like a sensible decision to me. <br> <br>,If the staffing/cleaning costs are losing the union money why not charge those at cost too? Simple. Sell kegs at cost, charge for staff at cost. If extra cleaning is required because people weren't acting responsibly, charge the club or CSB extra. If ICU wants to continue providing a safe environment for students to do stupid things and learn life's lessons the hard way. If ICU are going to price clubs and societies out of their venues then there will be more and more events organised elsewhere, taking students out of the relative safety and close-proximity of their halls of residence. If the number of external events rises significantly then ICU has three options. The first is to relax these draconian rules a little to entice clubs back into the union. The second is to ban external events involving alcohol to force clubs back to the union (at which point students will go clubbing without clubs/ICU). The third is to allow clubs to run external events until someone ge
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110202027-felix-union-bar.jpg"
-image_caption: ""
 ---
 
 Members of the Arts and Entertainments Board (AEB) voiced overwhelming discontent with the Union’s new rules on holding bar nights for clubs and societies.

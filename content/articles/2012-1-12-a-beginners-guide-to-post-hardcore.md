@@ -4,16 +4,13 @@ title: >
 subtitle: >
   At The Drive-In
 date: "2012-01-12 22:52:47 +0000"
-
-# Attributes from Felix Online V1
-id: "1994"
-old_path: /music/1994/a-beginners-guide-to-post-hardcore
+image: "http://felixonline.co.uk/img/upload/201201122252-felix-172563.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1994/a-beginners-guide-to-post-hardcore
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - gj309
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201122252-felix-172563.jpg"
-image_caption: ""
 ---
 
 Welcome to the first instalment of this weekly guide to the darker side of alternative music. What better way to start than with the news that the almighty [__At The Drive-In__](http://www.myspace.com/atdi) have reformed after a ten-year hiatus. Those of you familiar with this band will probably be losing your noggin right now, but for those of you who aren’t, I’ll give you a little insight into why At The Drive-In are so important.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Imperial see off rivals Oxford, the LSE and Brunel
 date: "2010-12-09 20:10:15 +0000"
-
-# Attributes from Felix Online V1
-id: "517"
-old_path: /sport/517/equestrian-team-gallop-to-victory
+image: "http://felixonline.co.uk/img/upload/201012092008-ac1507-equestri.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/517/equestrian-team-gallop-to-victory
-imported: true
 comments:
  - value: >
      often contain new aqua parks, cmotesic centers and comparable services. The category of clients at Spa resorts in Czech Republic varies from guests in search of relax to the really unwell, with all types of averting (primary,,Merci pour ces bons conseils qui me <a href="http://olcqfhhibik.com">pettrmreont</a> de ressortir ma cafetie8re italienne et d en tirer un bien meilleur cafe9. (Je ferai ne9anmoins un comparatif avec la cafetie8re e0 piston et le cafe9 turc. Pour le bien de la science. Faut bien quelques sacrifices pour faire avancer la connaissance.)Evidemment, comme tous les puristes, vous bannissez le sucre. Le contraire m aurais surpris. Je respecte ce choix mais je ne peux gue8re y adhe9rer. Cela fait plus de 25 ans que je tente de se9parer le gofbt sucre9 de celle des boissons, en vain. Le meilleur parfum de cafe9 se transforme en un breuvage infect sans une petite dose de douceur. Petite, pas e9norme, minuscule mais indispensable pour faire la diffe9rence entre un moment de plaisir et la prise d
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - imd08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012092008-ac1507-equestri.jpg"
-image_caption: ""
 ---
 
 Imperial’s equestrian first team got the new season off to a cracking start by beating rivals Oxford, LSE and Brunel.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Joshua Renken discusses the potential leaders of the major parties
 date: "2015-06-18 19:44:31 +0100"
-
-# Attributes from Felix Online V1
-id: "5630"
-old_path: /politics/5630/the-leadership-races-to-watch-over-the-summer-
+image: "http://felixonline.co.uk/img/upload/201506182045-jyg11-borisjohnson.jpg"
+image_caption: "Could this muppet be the next leader of the Conservative party?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/5630/the-leadership-races-to-watch-over-the-summer-
-imported: true
 comments:
  - value: >
      "Blue Labour" has nothing to do with Blair's third way. It's a return to Labours radical tradition before 1945, suspicious of markets and the state giving people power over their own lives. ,birkenstocks cheap <br>birkenstock shops http://birkenstockaustralia2013.blogspot.com/,christian louboutin canada stores <br>christian louboutin online http://canadachristianlouboutin.blogspot.com/,Thanks a lot! This a great web site!| <br>csgo skins agario http://support.interresolve.co.uk/entries/109464576-Banned-Again-At-2k16-mt-Sports,You're an extremely useful website; could not make it without ya! <br>fifa 17 points http://hersimu.com/komunitasbahagia/forum/topic/1672
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -26,12 +24,6 @@ authors:
  - jr2514
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506182045-jyg11-borisjohnson.jpg"
-image_caption: ""
 ---
 
 Four candidates will be on the ballot paper when Labour Party members get to vote on Ed Miliband’s successor in September. Nominations closed on Wednesday and Shadow Secretary of State for Health Andy Burnham is the bookies’ favourite. Burnham received 68 nominations from MPs (the minimum to be on the ballot was 35), Yvette Cooper achieved 59, Jeremy Corbyn 36 and Liz Kendall 41, with 25 MPs – including Ed Miliband and deputy leader Harriet Harman – deciding not to vote.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Terrains of the Body is on at the Whitechapel Gallery until 16th April 2017 Free entry
 date: "2017-01-27 17:01:57 +0000"
-
-# Attributes from Felix Online V1
-id: "6699"
-old_path: /arts/6699/terrains-of-the-body-is-a-bold-but-beguiling-show
+image: "http://felixonline.co.uk/img/upload/201701271658-felix-L2017.4_vanMeene-e1478536802365.jpg"
+image_caption: "Hellen van Meene, Untitled (79), (2000)"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6699/terrains-of-the-body-is-a-bold-but-beguiling-show
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - im1413
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701271658-felix-L2017.4_vanMeene-e1478536802365.jpg"
-image_caption: ""
 ---
 
 Hellen van Meene’s works combine this unsteady storyline with a heady mix of sensual textures and colours. Her works are celebrations of surface, with Vermeer-light like dappling across her subjects, bringing an incredible sense of tactility. Janaina Tschape’s work shares this obsession with tone, and both her and van Meene’s works are reminiscent of Francesca Woodman’s haunting self-portraits, albeit with less of an emotional punch.

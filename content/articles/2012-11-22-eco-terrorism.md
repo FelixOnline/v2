@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Marie-Laure Hicks on the rise of a new threat
 date: "2012-11-22 23:22:21 +0000"
-
-# Attributes from Felix Online V1
-id: "2948"
-old_path: /politics/2948/eco-terrorism
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2948/eco-terrorism
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - mh3210
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Classed as the number one domestic threat in the US since 2001, eco-terrorism is estimated to have cost $300million between 2003 and 2008. Organisations like EarthFirst!, the Earth Liberation Front (ELF), the Animal Liberation Front, GreenPeace and PETA have been accused of radical environmentalism and actions. Tree spiking, arson and even bombing are methods used by environmentalist groups to express their point. Radical environmentalists are often associated to anti-capitalism and a general belief that capitalism and the patriarchal society are responsible for damaging and destroying nature.

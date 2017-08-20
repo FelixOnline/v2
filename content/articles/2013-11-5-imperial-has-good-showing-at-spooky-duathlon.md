@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Vicky Solli gives her account as Imperial run against “roadkill fox”
 date: "2013-11-05 09:53:51 +0000"
-
-# Attributes from Felix Online V1
-id: "4010"
-old_path: /sport/4010/imperial-has-good-showing-at-spooky-duathlon
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4010/imperial-has-good-showing-at-spooky-duathlon
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - fsport
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 On Sunday 27th, six fellow triathletes (plus old boy Sam O’Neil) took to Hyde Park to take part in the Jekyll and Hyde Park Halloween Duathlon. With the clocks going back alarms were tentatively set, not really knowing whether we’d unknowingly cause ourselves to turn up to the race an hour early or not! A crucial race banana was munched and I set off into the rain at 6.30am with nerves and apprehension. With this being my first duathlon I was relieved to be warmly greeted at registration by chairman Ed Hallett (he’s doing a great job, by the way) who helped me rack my bike into optimum streamline setup in transition and calmed my nerves.

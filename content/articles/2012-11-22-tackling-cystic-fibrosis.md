@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ned Yoxall talks to Dr Jane Davies on new advances in CF treatment
 date: "2012-11-22 23:26:36 +0000"
-
-# Attributes from Felix Online V1
-id: "2949"
-old_path: /science/2949/tackling-cystic-fibrosis
+image: "http://felixonline.co.uk/img/upload/201211222326-tna08-cf.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2949/tackling-cystic-fibrosis
-imported: true
 comments:
  - value: >
      Hi Lauren, <br> <br>Although I wrote the article, I didn't choose the image so I'm not entirely sure where it's from... <br> <br>However, I'd say that the left hand picture is of a healthy lung and the right hand image is of a CF patient's lung. The extra white "fluff" that you can see on the right is because of the sticky, dense mucus that has built up - and that's the stuff which traps bacteria and other nasties leading to lung infections. <br> <br>Hope that helps, <br> <br>Ned,I found the information interesting and usefull, as I am currently doing an EEI in school about Gene Therapy for Cystic Fibrosis. My only question is this: <br> what are the two xrays of, and what are they ment to be comparing? I can't find anything in or around the site/ picture that suggests what they are for. If anyone knows, please help it would help me and my asssignment so much.:)
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211222326-tna08-cf.jpg"
-image_caption: ""
 ---
 
 In June this year, the Cystic Fibrosis Gene Therapy Consortium started a ground breaking new trial looking at the effects of regularly dosing sufferers with gene therapy. Ned Yoxall speaks to Dr Jane Davies, the clinical lead investigator in London, to find out more.

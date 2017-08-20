@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Stoker
 date: "2013-03-08 00:03:46 +0000"
-
-# Attributes from Felix Online V1
-id: "3453"
-old_path: /film/3453/rising-star-mia-wasikowska
+image: "http://felixonline.co.uk/img/upload/201303080003-tna08-650x653.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3453/rising-star-mia-wasikowska
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303080003-tna08-650x653.jpg"
-image_caption: ""
 ---
 
 Park Chan-Wook’s long-awaited English-language film debut is a wondrous mixture of oddity, tasteful madness and gothic beauty. There isn’t a single sane, well-grounded or normal character here, and it’s that volatile family dynamic that lights the fuse and keeps the tension simmering throughout.

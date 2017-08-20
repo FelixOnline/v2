@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Kin-Hing Lo puts the Galaxy Tab through its paces
 date: "2010-11-25 20:12:59 +0000"
-
-# Attributes from Felix Online V1
-id: "427"
-old_path: /tech/427/samsung-galaxy-tab-finally-a-real-ipad-killer
+image: "http://felixonline.co.uk/img/upload/201011252010-nm1010-samsungg.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/427/samsung-galaxy-tab-finally-a-real-ipad-killer
-imported: true
 comments:
  - value: >
      I own a Samsung Gab 7in running 2.3.5 Gingerbread. Im telling you its hands down better than ipad. The size perfect I went out of my way to find it because its limited in stores because verizon and at&amp;t want total control of this device. You can buy an ipad or 10.1 GT anywhere but not the 7in, they know ppl will come from all around to get it so why put it in every store when its an exclusive item. Im impressed with everything about it, it runs apps great and your really doin the wrong thing if you go out and buy a garmin google maps is just as good and thats just one function. I showed my friends the device and the next time I see them guess whats in their hands. Dont get suckered by a name like Apple. Go online look at the comparisions the galaxy wins everytime. So go sell your ipads, turn around take your money to support the good ppl at samsung so they can keep making the best stuff money can buy!!!,dear sir ,my wife is dignosid from aiims delhi syemstic scelorosis years 2003.also meditation from dr rohin
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011252010-nm1010-samsungg.jpg"
-image_caption: ""
 ---
 
 The Galaxy Tab is a 7-inch Android-based tablet device from Samsung. It’s been dubbed the first serious competitor to the current king of the slates, Apple’s iPad. But does the the Galaxy Tab really have what it takes to top wishlists this Christmas or will the iPad reign supreme? Read on to find out.

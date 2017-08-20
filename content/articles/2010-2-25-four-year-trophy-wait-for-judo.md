@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Imperial Judo win trophy for the first time in four years
 date: "2010-02-25 18:55:55 +0000"
-
-# Attributes from Felix Online V1
-id: "107"
-old_path: /sport/107/four-year-trophy-wait-for-judo
+image: "http://felixonline.co.uk/img/upload/201002251854-mb506-ICJudo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/107/four-year-trophy-wait-for-judo
-imported: true
 comments:
  - value: >
      قال:السلام عليكمبارك الله فيك و جزاك لله كل خير دائماعندى مشكلة بتاعمل مع الموقع من اكم سنة بس تعاملى مع ورد برس من ايام صادفتنى مشكلة الصور بعد ما رفعت هاده القالب الصور تضاف داخل الموضوع مظبوط بس ما بتظهر خارج الموضوع.لما اعمل كلك على الصور اللى مفروض تظهر فى الرئيسية يظهر هاده الخظأWarning: imagepng() [function.imagepng]: Unable to open ./cache/30579b62508e87311d0ab6991ae817ec.png' for wrtinig: Permission denied in /home/public_html/wp-content/themes/LondonLive/thumb.php on line 343و فى خطأ تانى من لوحة التحكم لما ادخل على القوائمFatal error: Allowed memory size of 33554432 bytes exhausted (tried to allocate 363032 bytes) in /home/public_html/wp-admin/nav-menus.php on line 16و عندك بالقالب ايضا ظاهر فى الشريط ا
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -26,12 +23,6 @@ authors:
  - mb506
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002251854-mb506-ICJudo.jpg"
-image_caption: ""
 ---
 
 Last weekend, three London teams entered the 18th edition of Sheffield USIST, the biggest international student judo tournament held in the UK.

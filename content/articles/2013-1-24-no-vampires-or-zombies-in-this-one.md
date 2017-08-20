@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Spielberg takes on Lincoln in a battle for Oscar glory
 date: "2013-01-24 21:42:04 +0000"
-
-# Attributes from Felix Online V1
-id: "3161"
-old_path: /film/3161/no-vampires-or-zombies-in-this-one
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3161/no-vampires-or-zombies-in-this-one
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - mc4509
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Lincoln__

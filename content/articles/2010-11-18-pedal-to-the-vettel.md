@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Looking back at the 2010 F1 season
 date: "2010-11-18 21:04:33 +0000"
-
-# Attributes from Felix Online V1
-id: "399"
-old_path: /sport/399/pedal-to-the-vettel
+image: "http://felixonline.co.uk/img/upload/201011182102-ks607-vettel.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/399/pedal-to-the-vettel
-imported: true
 comments:
  - value: >
      Sorry about that Richard - you weren't being censored, in fact you uncovered a bug in the relatively new "external" (non-Imperial) comments system running under the bonnet of this site. I've fixed your original comment.,You might find Minardi a joke, but they epitomised privateer gutsiness in an era of manufacturer dominance. Think too of the household drivers of today whom Minardi gave opportunities - Jarno Trulli, Fernando Alonso, Mark Webber - and even those successful in other formulae - Alex Yoong, Justin Wilson, Taso Marques etc. The saddest thing about Minardi is that if they were still around, they would do well for themselves, perhaps in the way that their successors Torro Rosso have. Minardi struggled during the 80s and 90s not because they made rubbish cars - quite the contrary, many experts heralded Minardi designs, especially around 1999-2001, and their chief designer went on to design early Toyota chassis - but instead customer engines back then weren't of equal specs compared to now, so Minardi
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011182102-ks607-vettel.jpg"
-image_caption: ""
 ---
 
 Nine months is a long time in Formula 1. In March the motoring clique feverishly anticipated the return of the seven-times world champion Michael Schumacher. Arguably the best driver in the history of the sport was making an epic comeback, driving the car that was originally intended for the then current world champion Jenson Button. But the enticing combination did not work. What could have been the fastest driver in the fastest car turned out to be a disappointingly mediocre mix, lingering far behind the pace of Red Bull, Ferrari, and McLaren. The legendary German just did not know when to pack it in – Take That, take note. That Sebastian Vettel, also known as “Baby Schuey”, took the 2010 crown on the weekend only serves to underline how the sport has moved on from the days when the season results read: Australia: Schumacher 1st, Brazil: Schumacher 1st, Malaysia: Schumacher 1st… well, you get the gist. Or has it?

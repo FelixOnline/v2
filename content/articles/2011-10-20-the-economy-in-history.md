@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Cautionary Tale of Mansa Musa of Mali – by Beñat Gurrutxaga-Lerma and Nina Kearsey
 date: "2011-10-20 22:46:14 +0100"
-
-# Attributes from Felix Online V1
-id: "1574"
-old_path: /biz/1574/the-economy-in-history
+image: "http://felixonline.co.uk/img/upload/201110202345-felix-mansa_musa.jpg"
+image_caption: "Mansa (Emperor) Musa of Mali (1312-1337), holding one of the golden nuggets Mali was so famous for d"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/1574/the-economy-in-history
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -25,12 +23,6 @@ authors:
  - felix
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110202345-felix-mansa_musa.jpg"
-image_caption: ""
 ---
 
 Legend has it that, as for all faithful Muslims, the day came when the good King Musa of Mali announced to his people that he would be leaving Mali for the Hajj, the pilgrimage to Mecca. The announcement, though praised by the wise and respected by all his subjects, came with fear, as the trip from Niani to Mecca was long and perilous.

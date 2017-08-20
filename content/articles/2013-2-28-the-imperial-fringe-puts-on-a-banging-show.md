@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fred Fyles on the interplay of arts and science, and why arts is important in the modern world
 date: "2013-02-28 23:33:37 +0000"
-
-# Attributes from Felix Online V1
-id: "3390"
-old_path: /arts/3390/the-imperial-fringe-puts-on-a-banging-show
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3390/the-imperial-fringe-puts-on-a-banging-show
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 What happens when two worlds collide? This is the question Imperial Fringe attempted to answer last Thursday, when they put on The Arts Experiment, a series of exhibits exploring the close links between art and science. By explaining the science between many of Imperial’s favourite pastimes the organisers were able to show that the worlds of culture and research were a lot closer than many of us may think.

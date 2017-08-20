@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Budget announcements met with tentative positivity across the scientific spectrum
 date: "2010-10-21 19:30:33 +0100"
-
-# Attributes from Felix Online V1
-id: "242"
-old_path: /news/242/imperial-wins-as-science-is-spared-major-cuts
+image: "http://felixonline.co.uk/img/upload/201010212024-nm1010-stooooor.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/242/imperial-wins-as-science-is-spared-major-cuts
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - skd09
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010212024-nm1010-stooooor.jpg"
-image_caption: ""
 ---
 
 In the controversial Spending Review presented to Parliament on Wednesday, George Osborne revealed the details of the UK’s deepest spending cuts for decades, designed to reduce our budget deficit by £83 billion pounds before 2014/15.

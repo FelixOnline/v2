@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Imperial Rugby take on everyone in the hip-hop world of Eastbourne
 date: "2013-01-24 20:52:05 +0000"
-
-# Attributes from Felix Online V1
-id: "3154"
-old_path: /sport/3154/icurfc-smash-brighton
+image: "http://felixonline.co.uk/img/upload/201301242051-mc4509-582338_475646429159024_478191972_n.jpg"
+image_caption: "Rugby didn’t give us any pictures so we dug this up from Facebook"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3154/icurfc-smash-brighton
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +22,6 @@ authors:
  - mc4509
  - sf2110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301242051-mc4509-582338_475646429159024_478191972_n.jpg"
-image_caption: ""
 ---
 
 It has been well over 8 weeks since ICURFC have taken the field. This winter the bitter English weather has been brutal but this gave the team time to heal up and, in some cases, fatten up. A very strong squad took the two hour trip to Eastbourne, home of sun seeking pensioners and apparently Brighton rugby. We travelled through rain and snow to be greeted by a pitch that had seen better days.

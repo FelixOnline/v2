@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lysergic acid diethylamide appears to support alcoholics' efforts to rewire their brain away from addiction
 date: "2012-03-15 19:45:10 +0000"
-
-# Attributes from Felix Online V1
-id: "2348"
-old_path: /science/2348/lsd-may-help-alcoholics
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2348/lsd-may-help-alcoholics
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - ams111
  - zs1611
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A powerful hallucinogenic drug once used by the CIA in torture experiments may help alcoholics stop drinking, according to new research.

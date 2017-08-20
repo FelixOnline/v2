@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A compelling but contrariwise journey through Botticelli’s artistic influence
 date: "2016-03-11 12:01:26 +0000"
-
-# Attributes from Felix Online V1
-id: "6041"
-old_path: /arts/6041/botticelli-reimagined-
+image: "http://felixonline.co.uk/img/upload/201603111200-felix-botti.jpg"
+image_caption: "‘Rebirth of Venus’ by David LaChapelle, 2009."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6041/botticelli-reimagined-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603111200-felix-botti.jpg"
-image_caption: ""
 ---
 
 B_otticelli Reimagined_ is a curious marriage of modern sensibilities with 15th century grace, beauty, and elegance, running at the V&amp;A until July. It is about the extent to which the influence of that singular craftsman, Sandro Botticelli – father of Venus and Primavera – permeated the art world through the centuries.

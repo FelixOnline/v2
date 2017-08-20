@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Victory to be had in the Midlands
 date: "2012-02-09 23:13:18 +0000"
-
-# Attributes from Felix Online V1
-id: "2172"
-old_path: /sport/2172/snooker-warm-up-tournament-success
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2172/snooker-warm-up-tournament-success
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - ec209
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ICU Snooker enjoyed their best ever performance at the Midlands Universities Snooker Championships, which included top-four finishes for both a new look second team in the Team Trophy and first team captain Bilal Nasim in the Individual Championship.

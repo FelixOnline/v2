@@ -4,18 +4,15 @@ title: >
 subtitle: >
   'Hand in Hand for Syria' charity caused confusion
 date: "2016-02-19 11:05:14 +0000"
-
-# Attributes from Felix Online V1
-id: "5922"
-old_path: /news/5922/rag-jailbreakers-removed-from-flight-to-turkey-after-terror-suspicions
+image: "http://felixonline.co.uk/img/upload/201602191102-felix-online.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5922/rag-jailbreakers-removed-from-flight-to-turkey-after-terror-suspicions
-imported: true
 comments:
  - value: >
      Hang on.<br>Why were they spending charitable donations on plane flights?<br>(Pleas correct me if I'm wrong),Hang on.<br>Why were they spending charitable donations on plane flights?<br>(Pleas correct me if I'm wrong),promo codes for nba shop nhl shop china cheap wholesale jerseys <br>china,promo codes for nba shop nhl shop china cheap wholesale jerseys <br>china,The article implies they spent money raised for charity on plane tickets. Surely that can't be right.,The article implies they spent money raised for charity on plane tickets. Surely that can't be right.,nhl shop discount nfll shop cyber monday discount code nba shop codes,nhl shop discount nfll shop cyber monday discount code nba shop codes,nfl cheap jerseys wholesale jerseys free shipping cheap jerseys,nfl cheap jerseys wholesale jerseys free shipping cheap jerseys,{Peyton Manning Jersey,Denver Broncos #18 Peyton Manning Blue Stitched NFL Jerseys, T-Shirts, <br>Apparel, Gear for Men,Women and Kids. Buy your boy/girl the wholesale price jerseys, other great hot je
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602191102-felix-online.jpg"
-image_caption: ""
 ---
 
 One team in RAG’s jailbreak competition found themselves £400 down and a day behind after being pulled off of a flight to Istanbul by anti-terror police.

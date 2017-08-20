@@ -4,18 +4,15 @@ title: >
 subtitle: >
   College staff member attack's student's guest at Union
 date: "2010-01-21 21:39:27 +0000"
-
-# Attributes from Felix Online V1
-id: "44"
-old_path: /news/44/college-staff-member-attacks-students-guest-at-union
+image: "http://felixonline.co.uk/img/upload/201001212137-rsp07-unionnig.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/44/college-staff-member-attacks-students-guest-at-union
-imported: true
 comments:
  - value: >
      so, how exactly does this make sense: <br> <br>Last day of work, he was out celebrating about getting out of something that he didn't wanna be part of (hence the celebration). <br> <br>Sooo... why did he go to the UNION bar to celebrate it (contradiction #1) <br> <br>He decided that he'd punch someone, and he found the one who DID NOT belong to the organisation he didn't wanna be part of anyway (contradiction #2).. <br> <br>Is it me, or is anyone else not seeing how stupid this is?,I think the moral of the story is that the guy is an absolute plonker.,What an idiot!,Admin, hello! here are having problems with your site. malware warning Write me. icq 989567856647,buy <a href="http://www.jimmychoobagsok.com">jimmy choo bag</a> for more I0Pjimmy
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001212137-rsp07-unionnig.jpg"
-image_caption: ""
 ---
 
 <span style="\"font-size:" 14px;\"="">Violence erupted at the Union on Friday night after a guest of an Imperial student was left with a bloody face after being attacked by a member of College staff on his last day of work.

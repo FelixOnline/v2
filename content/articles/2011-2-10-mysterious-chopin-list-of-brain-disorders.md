@@ -4,16 +4,13 @@ title: >
 subtitle: >
   New hypothesis suggests composer Frederic Chopin suffered from temporal lobe epilepsy
 date: "2011-02-10 20:19:48 +0000"
-
-# Attributes from Felix Online V1
-id: "769"
-old_path: /science/769/mysterious-chopin-list-of-brain-disorders-
+image: "http://felixonline.co.uk/img/upload/201102102015-ks607-chopinch.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/769/mysterious-chopin-list-of-brain-disorders-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - pab10
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102102015-ks607-chopinch.jpg"
-image_caption: ""
 ---
 
 A new hypothesis about the lifelong hallucinations of romantic composer Frederic Chopin suggests he suffered from temporal lobe epilepsy. New research published in the journal Medial Humanities made this diagnosis based on eyewitness accounts of Chopin’s friends and family describing his hallucinatory episodes.

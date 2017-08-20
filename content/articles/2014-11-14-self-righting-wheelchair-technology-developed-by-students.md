@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Wheelchair enables disabled athletes to re-right themselves back on their wheels after a crash
 date: "2014-11-14 20:00:37 +0000"
-
-# Attributes from Felix Online V1
-id: "4863"
-old_path: /news/4863/self-righting-wheelchair-technology-developed-by-students
+image: "http://felixonline.co.uk/img/upload/201411141959-ps3110-newseventsimages.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4863/self-righting-wheelchair-technology-developed-by-students
-imported: true
 comments:
  - value: >
      fit flop sales <br>fitflops on sale australia http://australiafitflops.blogspot.com/,christian louboutin outlet online <br>cheap christian louboutin http://christianlouboutincanadaoutlet.blogspot.com/,louboutin flats sale <br>discount christian louboutin http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin pigalle <br>christian louboutin outlet http://canadachristianlouboutin.blogspot.com/,christian louboutin pigalle 120 <br>christian louboutin shoes outlet http://christianlouboutincanadaoutlet.blogspot.com/,OpwgjV http://www.y7YwKx7Pm6OnyJvolbcwrWdoEnRF29pb.com
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411141959-ps3110-newseventsimages.jpg"
-image_caption: ""
 ---
 
 A team of students from the Department of Bioengineering have augmented a sports wheelchair in order to enable disabled athletes to re-right themselves back on their wheels after a crash. Jacqueline Beddoe-Rosendo, Bianca de Blasi and Simone Castagno developed the prototype during a UROP this summer, which caters to wheelchair basketball athletes and potentially other athletes of high-impact sports such as wheelchair rugby. The technology has been trialled with members of the London Titans wheelchair basketball team, who the team extensively consulted with over the course of the project.

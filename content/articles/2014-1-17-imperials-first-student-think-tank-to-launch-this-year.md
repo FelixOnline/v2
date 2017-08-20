@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Christened the London Forum for Science and Policy (LFSP) and launching this year, Imperial’s first student think tank carefully sidesteps the university’s trap of a neocolonial-sounding name.
 date: "2014-01-17 03:09:14 +0000"
-
-# Attributes from Felix Online V1
-id: "4226"
-old_path: /news/4226/imperials-first-student-think-tank-to-launch-this-year
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4226/imperials-first-student-think-tank-to-launch-this-year
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - jjg13
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Christened the London Forum for Science and Policy (LFSP) and launching this year, Imperial’s first student think tank carefully sidesteps the university’s trap of a neocolonial-sounding name. At a time when policymakers are increasingly criticised for their poor use of evidence, LFSP will infuse Imperial’s first love, science, with a new, political edge. In turn LFSP plans to inject the political sphere with some of the university’s world-famous scientific rigour.

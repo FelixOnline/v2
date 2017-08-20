@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alexandra Lim questions whether eating burnt food poses a risk to health, and how these could be avoided
 date: "2016-12-09 12:08:31 +0000"
-
-# Attributes from Felix Online V1
-id: "6566"
-old_path: /science/6566/does-this-look-burnt
+image: "http://felixonline.co.uk/img/upload/201612091207-aib116-bacon-1238243_1920.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6566/does-this-look-burnt
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - al4915
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612091207-aib116-bacon-1238243_1920.jpg"
-image_caption: ""
 ---
 
 The perennial question. You notice that slightly-too-blackened edge of your fried chicken thigh during a friend’s thanksgiving dinner, and hesitate just a little, but eat it anyway because nothing can take that peri-peri pleasure away from you. I guess it’s common knowledge that burnt foods can be carcinogenic, but did you know that different burnt foods pose different levels of danger?

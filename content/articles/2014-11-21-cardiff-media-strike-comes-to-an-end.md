@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Appeal to stop re-election of paid Editor is granted
 date: "2014-11-21 13:19:09 +0000"
-
-# Attributes from Felix Online V1
-id: "4927"
-old_path: /news/4927/cardiff-media-strike-comes-to-an-end
+image: "http://felixonline.co.uk/img/upload/201411211319-ps3110-screen-shot-2014-11-20-at-20.28.52.png"
+image_caption: "Last week's issue of the paper"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4927/cardiff-media-strike-comes-to-an-end
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - pk1811
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411211319-ps3110-screen-shot-2014-11-20-at-20.28.52.png"
-image_caption: ""
 ---
 
 Student media at Cardiff University went on strike earlier this following a decision by the Student Senate (Cardiff’s version of Union Council) to force a re-election of Cardiff’s Vice-President of Media and Marketing.

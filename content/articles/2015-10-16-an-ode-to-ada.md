@@ -4,18 +4,15 @@ title: >
 subtitle: >
   In honour of Ada Lovelace Day, FELIX takes a look at the Victorian programmer, gambler and all-round badass
 date: "2015-10-16 14:39:20 +0100"
-
-# Attributes from Felix Online V1
-id: "5658"
-old_path: /science/5658/an-ode-to-ada
+image: "http://felixonline.co.uk/img/upload/201510161539-ygr12-ada2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5658/an-ode-to-ada
-imported: true
 comments:
  - value: >
      8AM29B http://www.y7YwKx7Pm6OnyJvolbcwrWdoEnRF29pb.com
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510161539-ygr12-ada2.jpg"
-image_caption: ""
 ---
 
 If you’re anything like me, you probably spent your Tuesday night tending to your extensive collection of potted plants (yup, standard weeknight fun). This Tuesday though, we all had the opportunity to celebrate the rapid expansion of science and the women that have pioneered in that field.

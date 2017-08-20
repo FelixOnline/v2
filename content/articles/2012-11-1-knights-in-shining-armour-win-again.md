@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The nerves are tense, for the past two years, women’s 1st has remain unbeaten; will they do it again?
 date: "2012-11-01 23:09:59 +0000"
-
-# Attributes from Felix Online V1
-id: "2813"
-old_path: /sport/2813/knights-in-shining-armour-win-again
+image: "http://felixonline.co.uk/img/upload/201211012309-csw09-420259_325176234206045_620695444_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2813/knights-in-shining-armour-win-again
-imported: true
 comments:
  - value: >
      I went to this game with my Dad, we both sprpout Posh but we went to sprpout the Welsh side and stood on the away end. One of my favourite memories was when the City full back (I think he was Portuguese?) went down injured in the last couple of minutes and people were going mental at him to get back up as it put the team down to 7!
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - fsport
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211012309-csw09-420259_325176234206045_620695444_n.jpg"
-image_caption: ""
 ---
 
 It’s a cold Saturday morning as IC Fencing Women’s 1st‘ makes their way over to Oxford. It’s the first weekend out of two, and they’re going to fence Cardiff University, University of Oxford, University of Cambridge and UCL, the other 4 strongest teams in the South of UK. The epee team, first up on piste, consists of three new recruits: Paula Heister, Kat Young and Caitlin Jones, and an old member Charlotte Levin. The nerves are tense, for the past two years, women’s 1st has remain unbeaten; will they do it again?

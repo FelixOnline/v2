@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Grand Budapest Hotel is a tricky film to review. Put quite simply: it’s a Wes Anderson film. In every conceivable way, as with all of his films before it, it is the essence of its predecessors mixed up, distilled, and delivered to the silver screen in a blast of pure, surreal, bittersweet joy.
 date: "2014-03-26 13:45:23 +0000"
-
-# Attributes from Felix Online V1
-id: "4503"
-old_path: /film/4503/a-5-star-hotel-experience
+image: "http://felixonline.co.uk/img/upload/201403261345-jal08-grand-budapest.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4503/a-5-star-hotel-experience
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - js5913
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201403261345-jal08-grand-budapest.jpg"
-image_caption: ""
 ---
 
 The Grand Budapest Hotel

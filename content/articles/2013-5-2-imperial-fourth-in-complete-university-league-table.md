@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Imperial just behind LSE, but green wise, are lagging behind
 date: "2013-05-02 13:51:58 +0100"
-
-# Attributes from Felix Online V1
-id: "3537"
-old_path: /news/3537/imperial-fourth-in-complete-university-league-table
+image: "http://felixonline.co.uk/img/upload/201305021451-tna08-kings-college-cambridge-university.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3537/imperial-fourth-in-complete-university-league-table
-imported: true
 comments:
  - value: >
      - What a good looking guy. I'm uusllay in here complementing the brides (which this bride is gorgeous), but uusllay don't have a lot to say about the grooms. But this guy has very striking features. Great set. Love the couch and it's a great location.,Emily Pile - Beautiful pics definately will need you for my<a href="http://jmbjcas.com"> wdenidg</a> one day!! I can't believe how great they turned out!! Chelsey and Jesse you both look so happy :) They are such a great couple!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305021451-tna08-kings-college-cambridge-university.jpg"
-image_caption: ""
 ---
 
 Imperial College London have come fourth in the 2014 Complete University Guide league table. This is the same spot that Imperial occupied last year. Cambridge (pictured) came top, with Oxford second and LSE third.

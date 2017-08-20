@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fostering social change through technology
 date: "2013-11-13 22:49:33 +0000"
-
-# Attributes from Felix Online V1
-id: "4050"
-old_path: /tech/4050/crtaltchangeing-the-world
+image: "http://felixonline.co.uk/img/upload/201311132249-me1711-tech_crtl.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4050/crtaltchangeing-the-world
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - me1711
  - whn10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311132249-me1711-tech_crtl.jpg"
-image_caption: ""
 ---
 
 There is no doubt that technological advancements over the past few decades have had immense impact on our society. Those of us living comfortable lives in developed countries celebrate the latest gadgets and how they have made our lives even simpler. But meanwhile, there are still many people out there who are struggling to gain access to clean water, affordable healthcare and basic education. Why has modern technology overlooked them?

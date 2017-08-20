@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Alice Yang bring us the first in a series of monthly interviews with some of the UKs premier industry leaders
 date: "2011-10-07 13:18:58 +0100"
-
-# Attributes from Felix Online V1
-id: "1498"
-old_path: /news/1498/interview-dr-martin-dare-edwards
+image: "http://felixonline.co.uk/img/upload/201110071415-felix-miltonhill.jpg"
+image_caption: "Milton Hill, the Infineum campus based in Oxfordshire"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1498/interview-dr-martin-dare-edwards
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110071415-felix-miltonhill.jpg"
-image_caption: ""
 ---
 
 A world leader in petroleum additives, [Infineum](http://www.infineum.com/Pages/miltonhill.aspx) is a 50/50 joint venture between Shell and ExxonMobil creating products used in 1/3 of the world’s vehicles. I interview Dr Martin Dare-Edwards; the company’s UK Country Manager with nearly 30 years experience in the industry after graduating and completing a PhD in Chemistry at Oxford University.

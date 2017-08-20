@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Yum yum.
 date: "2013-05-23 22:05:55 +0100"
-
-# Attributes from Felix Online V1
-id: "3607"
-old_path: /science/3607/malaria-mozzies-cant-resist-smelly-feet
+image: "http://felixonline.co.uk/img/upload/201305232305-tna08-anopheles_quadriannulatus.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3607/malaria-mozzies-cant-resist-smelly-feet
-imported: true
 comments:
  - value: >
      Mosquito love me too Gwilym - if there is one within a mile he will find me out. I do agree about care in the third world - click on my link to noma in Africa to see the apilnlpag disfigurement to children through malnutrition and lack of anti biotics - shameful.Incidentally, if you have time please read my recent RS Thomas blog - I would be interested in your comments.,/ I just want to mention I am<a href="http://isgxcfaz.com"> bneniger</a> to blogging and really savored you're web page. More than likely I’m going to bookmark your website . You absolutely come with fabulous articles. With thanks for sharing with us your web site., hypothalamus where cheapest car insurance minoxidil preparation pressure dizziness vision-loss
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305232305-tna08-anopheles_quadriannulatus.jpg"
-image_caption: ""
 ---
 
 Compared to uninfected mosquitoes malaria parasite-containing mosquitoes are approximately three times more attracted to the smell of humans, a study shows.

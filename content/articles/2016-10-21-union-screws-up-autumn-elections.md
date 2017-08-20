@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Days without election mistake: 0
 date: "2016-10-21 09:26:07 +0100"
-
-# Attributes from Felix Online V1
-id: "6338"
-old_path: /news/6338/union-screws-up-autumn-elections
+image: "http://felixonline.co.uk/img/upload/201610211124-so515-5139407571_176d0729e6_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6338/union-screws-up-autumn-elections
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - so515
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610211124-so515-5139407571_176d0729e6_o.jpg"
-image_caption: ""
 ---
 
 Imperial College Union had to remove 73 positions from the Autumn Elections that were underway this week, after a technical error that allowed students to vote twice.

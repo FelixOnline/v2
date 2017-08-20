@@ -4,16 +4,13 @@ title: >
 subtitle: >
    Dark ambient, glitch, dub and techno
 date: "2012-10-18 21:30:55 +0100"
-
-# Attributes from Felix Online V1
-id: "2710"
-old_path: /music/2710/movements-in-the-deep-of-night
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2710/movements-in-the-deep-of-night
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - rbg10
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Fellow Bristolian Vessel’s 2012 offering, Order of Noise, manages to successfully intertwine dark ambient, glitch, dub and techno to throw us back to those grimy Bristol moments where the stims have ran out and everyone is desperately caning the ketamine, milking the absolute last out of the depraved party that has just run its course.

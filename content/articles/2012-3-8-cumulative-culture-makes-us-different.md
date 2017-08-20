@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Traits humans share – teaching, communication, imitation, helping others – may be the cause of our ability for cumulative culture
 date: "2012-03-08 20:16:11 +0000"
-
-# Attributes from Felix Online V1
-id: "2313"
-old_path: /science/2313/cumulative-culture-makes-us-different
+image: "http://felixonline.co.uk/img/upload/201203082012-ams111-string_theory_by_haltenny.jpg"
+image_caption: "Superstring theory – a product of "
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2313/cumulative-culture-makes-us-different
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - skd09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203082012-ams111-string_theory_by_haltenny.jpg"
-image_caption: ""
 ---
 
 In the 21st century, our minds are brimming with concepts from iPhones to genetic testing to superstring theory, that could not have been entertained by our human counterparts centuries or millennia ago. This is because our species has a unique capability for “cumulative culture”, a process through which knowledge accumulates over time and technology is advanced iteratively. On the other hand, we can reasonably assume that the ideas inside the minds of other animals today are not vastly different from those centuries ago. Therefore, a team of scientists from University of St Andrews are seeking to explain what is special about the human mind that allows us to gradually accumulate knowledge. A study reported this week in _Science_ investigated the differences in the capacity for cumulative cultural learning among humans, our closest relatives, chimpanzees, and capuchin monkeys.

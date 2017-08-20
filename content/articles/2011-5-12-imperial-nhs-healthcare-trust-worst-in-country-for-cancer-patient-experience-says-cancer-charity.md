@@ -4,18 +4,15 @@ title: >
 subtitle: >
   150 posts also said to go this year as Trust makes £44 million saving in pay expenditure
 date: "2011-05-12 16:14:31 +0100"
-
-# Attributes from Felix Online V1
-id: "1186"
-old_path: /news/1186/imperial-nhs-healthcare-trust-worst-in-country-for-cancer-patient-experience-says-cancer-charity
+image: "http://felixonline.co.uk/img/upload/201105161146-felix-66355713.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1186/imperial-nhs-healthcare-trust-worst-in-country-for-cancer-patient-experience-says-cancer-charity
-imported: true
 comments:
  - value: >
      Thats more than sebnsile! Thats a great post!,1c2WG7 <a href="http://gosqubungjlg.com/">gosqubungjlg</a>,KncnUg <a href="http://zteqmulqbyes.com/">zteqmulqbyes</a>, <a href="http://www.get-autoinsurance.com/">online car insurance</a> &gt;:-PPP <a href="http://www.yourviagraguide.com/">order viagra</a> 5629
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105161146-felix-66355713.jpg"
-image_caption: ""
 ---
 
 The Imperial College NHS Healthcare Trust has been ranked as the worst in the country in cancer patients’ experiences.

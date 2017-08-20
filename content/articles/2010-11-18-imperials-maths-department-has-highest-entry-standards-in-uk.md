@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Is the Maths Department asking too much?
 date: "2010-11-18 21:57:06 +0000"
-
-# Attributes from Felix Online V1
-id: "416"
-old_path: /news/416/imperials-maths-department-has-highest-entry-standards-in-uk-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/416/imperials-maths-department-has-highest-entry-standards-in-uk-
-imported: true
 comments:
  - value: >
      The main mistake is the assumption that exam results directly reflect ability.,Hey, good to find someone who areges with me. GMTA.,o8T3QS <a href="http://kcyvribyddsu.com/">kcyvribyddsu</a>, <a href="http://www.medicahelp.net/">seroquel</a> efyw <a href="http://www.yourstealightfully.com/prednisone.html">buy prednisone online</a> 3283 <a href="http://www.allpillsonline.net/">cialis</a> moaopm , <a href="http://www.ballhogphotos.com/">cialis</a> 7788 <a href="http://www.thedeltachiblog.com/">viagra på nett</a> irqf , <a href="http://www.keypills.com/">online pharmacy accutane</a> 807 <a href="http://www.medssupport.com/">topamax</a> zfwig ,it doesn't matter how high your grades are, <br>imperial will just take foreign students- <br>as they have to pay alot more
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - za710
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Potential undergraduate maths students may find it harder to receive an offer from Imperial this year as a result of the A*. Imperial’s Mathematics Department has the ["highest" A level entry requirements in the UK](http://www.telegraph.co.uk/education/universityeducation/8130726/Number-of-universities-requiring-A-triples.html), asking for A*A*A with the A*s in Maths and Further Maths. Although these criteria are much more demanding than those of other universities, they are only a marginal change from Imperial’s previous highest offer of AAA with As in each maths module. “We rely entirely on the UCAS form and A level results, so it is not surprising that our minimal entry requirement is higher.” Professor Alexei Skorobogatov, Imperial’s Mathematics Admissions Tutor, explains.

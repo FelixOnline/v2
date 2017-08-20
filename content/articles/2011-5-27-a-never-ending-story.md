@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Felix takes a look at Neon Genesis Evangelion, the internet-forum-posting geek’s favourite anime series
 date: "2011-05-27 13:51:58 +0100"
-
-# Attributes from Felix Online V1
-id: "1273"
-old_path: /tv/1273/a-never-ending-story
+image: "http://felixonline.co.uk/img/upload/201105271451-felix-angel-fight.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1273/a-never-ending-story
-imported: true
 comments:
  - value: >
      Thais a great review. Thank you :)
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105271451-felix-angel-fight.jpg"
-image_caption: ""
 ---
 
 This week I am going to review something a bit different: the landmark 90s anime [Neon Genesis Evangelion](http://en.wikipedia.org/wiki/Neon_Genesis_Evangelion). This is the first real anime that I have ever seen so I do not really know how well it stands up to other works of this format and am just going to have to review it as work of science fiction.

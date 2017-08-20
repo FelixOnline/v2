@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Deputy President of Welfare, Jennie Watson, explains why the medics are taking a stand.
 date: "2015-09-27 18:28:01 +0100"
-
-# Attributes from Felix Online V1
-id: "5653"
-old_path: /comment/5653/why-ill-be-protesting-tomorrow
+image: "http://felixonline.co.uk/img/upload/201509271929-ygr12-12041868_10153686561361683_1728173960_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5653/why-ill-be-protesting-tomorrow
-imported: true
 comments:
  - value: >
      How long are you planning to stay here? http://www.brainwines.com/ventolin-nebules-25mg-dosage.html how much does ventolin hfa cost White House officials projected in April that the FHA wouldface a shortfall of $943 million in the fiscal year that ends onMonday, but rising mortgage rates cut its loan volume and curbeda hoped-for increase in revenues from higher loan premiums.<br> ,Nice to meet you http://www.brainwines.com/ventolin-by-gsk.html how much does ventolin cost in ontario The bad Fukushima news complicates Prime Minister Shinzo Abe’s plans to restart nuclear reactors idled since 2011. At the time 70% of Japanese supported taking the reactors offline, especially as evidence emerged that the disaster “was the result of collusion between the government, the regulators and [Fukushima owner] Tepco,” as a parliamentary panel put it in a 641-page report last month.<br> ,Nice to meet you http://www.brainwines.com/ventolin-by-gsk.html how much does ventolin cost in ontario The bad Fukushima ne
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201509271929-ygr12-12041868_10153686561361683_1728173960_n.jpg"
-image_caption: ""
 ---
 
 On Monday the medics will be demonstrating. The proposed changes to junior doctors’ contracts place patient safety at risk. In short, pay will be slashed and ‘sociable hours’ will be extended to 7am through to 10pm Monday to Saturday, normalising fifteen hour working days. Changes to pay progression will disadvantage part time trainees – women taking maternity leave, amongst others. I must make myself very clear here, this is not about money. This is about patient safety and doctors’ safety, but the two are inextricably linked. No one wants to be treated by an exhausted, demoralised, overworked doctor.

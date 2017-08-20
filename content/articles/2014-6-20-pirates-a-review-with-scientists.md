@@ -4,16 +4,13 @@ title: >
 subtitle: >
   One of Cosmo’s top tips to “spice up your sex life” suggests watching porn together. After weeks of trying to convince Max, he finally conceded, with the condition that it be in HD, in Dolby Surround.
 date: "2014-06-20 16:13:51 +0100"
-
-# Attributes from Felix Online V1
-id: "4698"
-old_path: /features/4698/pirates-a-review-with-scientists
+image: "http://felixonline.co.uk/img/upload/201406201718-jal08-pirates_edit.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4698/pirates-a-review-with-scientists
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -25,12 +22,6 @@ authors:
  - jal08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406201718-jal08-pirates_edit.jpg"
-image_caption: ""
 ---
 
 __W__ithout making so bold a claim so as to say that we’ve never watched porn, it’s fair to say that neither of us are connoisseurs of the cinematographic genre. However, the 2005 feature-length Pirates, with its million-dollar budget, was the most expensive pornographic film ever made at the time, a title now held by its 2008 sequel. This seemed like it would be viewing worthy of our comparatively innocent eyes, and certainly stood to be a good candidate to meet his quality standards.

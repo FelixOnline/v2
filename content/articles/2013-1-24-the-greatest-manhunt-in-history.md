@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Osama Bin Filmed
 date: "2013-01-24 21:33:54 +0000"
-
-# Attributes from Felix Online V1
-id: "3160"
-old_path: /film/3160/the-greatest-manhunt-in-history
+image: "http://felixonline.co.uk/img/upload/201301250233-tna08-zero-dark-thirty_03.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3160/the-greatest-manhunt-in-history
-imported: true
 comments:
  - value: >
      xaxaxaxa tenegtvee chhcivheee zuugeel hevtre zasaal utsaa barial urtaas urt amisgaa avaal darsan umnuus usreestei kkkkkkkk shun dund gantsaar ineeev gj,I've been extensively<a href="http://rynuuu.com"> rnidaeg</a> and researching about the lack of female screenwriters in the ever growing industry and it didn't really scare me. If anything, it excited me, male screenwriters may dominate it currently, but that makes it more memorable when women step up. I hope and dream of becoming a screenwriter for a living and yes intially the somewhat unbalanced and bleak male:female ratio terrified me. I suppose we have to stay optimistic, I just hope it doesn't impact my (hopefully) future career in anyway. It seems to be less prominent in the UK.
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301250233-tna08-zero-dark-thirty_03.jpg"
-image_caption: ""
 ---
 
 Zero Dark Thirty

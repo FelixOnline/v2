@@ -4,18 +4,16 @@ title: >
 subtitle: >
   There's a way to go in the fight against discrimination, writes Stephen Smith
 date: "2012-02-09 23:01:33 +0000"
-
-# Attributes from Felix Online V1
-id: "2167"
-old_path: /comment/2167/sexism-at-imperial-college
+image: "http://felixonline.co.uk/img/upload/201202092257-felix-girlsgirlsgirls.jpg"
+image_caption: "The poster for the WSET event"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2167/sexism-at-imperial-college
-imported: true
 comments:
  - value: >
      I'm glad someone actually gets it,Well this is pretty much spot on. ,@Noose Loosener That's possibly the most tenuous claim of irony I have ever seen. <br> <br>To the writer of this article, thank you. This piece clearly sets out the problems that seem to plague this uni. It shocks me that a week after the Felix front page discussed imperial's efforts to support women in science, the hangman page would decide that "WHORE-iscopes" was appropriate to print.,Also: feminist soc? yes please.,Noose Loosener, I think I can guess who you are, you are better than that completely bullshit "It was Irony" comment. <br>Grow a pair and just accept that you wrote a shit, unfunny article. We all know they happen occasionally. <br>Personally I don't think you should apologise because hangman isn't about apologising, but don't couch whatever guilt you possess over writing something so poorly judged and awful with perhaps the stupidest ever defence in history. <br>It makes you look like a clown and is frankly disappointing. <br> <br>Stephen, bri
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202092257-felix-girlsgirlsgirls.jpg"
-image_caption: ""
 ---
 
 Not here, surely? Sexism is everywhere: in the media, in politics, in the arts, but at universities? The centres of liberal thought and tolerance? Where everyone is open-minded and friendly and – above all – extremely egalitarian? If there were ever a place where sexism shouldn’t exist, it is here. And yet it persists like an ugly, cunning mouse peskily dodging the hungry cat of equality.

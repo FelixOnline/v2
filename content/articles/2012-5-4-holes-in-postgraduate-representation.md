@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Falling through the net as a Masters student
 date: "2012-05-04 00:17:13 +0100"
-
-# Attributes from Felix Online V1
-id: "2419"
-old_path: /comment/2419/holes-in-postgraduate-representation
+image: "http://felixonline.co.uk/img/upload/201205040116-felix-vote_ballot_paper.jpg"
+image_caption: "GSA elections were online, mainly because this is what the ballot paper would have looked like. Grim"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2419/holes-in-postgraduate-representation
-imported: true
 comments:
  - value: >
      Thanks for writing this Vanessa, it's fantastic to see someone interested in PG Representation! <br>If we had more people like you we wouldn't be in the position where over half the senior PG representation positions had nobody standing at first attempt. <br> <br>We did try very hard this year to get people to run for the positions. However, as they are student representatives, there is no way for us to control the numbers and I'm sure there are a long list of reasons as to why people didn't stand (many of which may illude us at the moment). <br>I'm sure you yourself would've been perfect for our Academic and Welfare Officer (Humanities) and its unfortunate you couldn't stand as a UG, it's actually something we are looking into and/or moving our election timetable to postgraduates as it is so different to undergraduates. <br> <br>Just as a note on "how do the Sabbatical team represent postgrads", this is quite recent: <br>http://www.union.ic.ac.uk/blogs/2012/04/20/postgraduate-education-inquiry-response/,I imagine that, given a
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - vh108
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205040116-felix-vote_ballot_paper.jpg"
-image_caption: ""
 ---
 
 In the recent elections one of the Union’s main concerns was the lack of postgraduate participation in the voting. However, postgraduate representation at Imperial is pretty poor and it is unsurprising that they were feeling a little uninspired to vote. The focus should have been on getting postgraduates to run and thus improving representation in the first place.

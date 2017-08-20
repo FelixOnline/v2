@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Pavitar Singh Devgon talks about the new clock that has got the masses into a frenzy
 date: "2013-01-18 00:21:16 +0000"
-
-# Attributes from Felix Online V1
-id: "3130"
-old_path: /science/3130/your-atomic-numbers-up
+image: "http://felixonline.co.uk/img/upload/201301180021-tna08-the_persistence_of_memory_-_1931_salvador_dali.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3130/your-atomic-numbers-up
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - pd111
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301180021-tna08-the_persistence_of_memory_-_1931_salvador_dali.jpg"
-image_caption: ""
 ---
 
 Whether it was using sand, sundials or swinging pendulums, humans have strived to create more efficient time keeping devices. The past century saw a large jump with the introduction of the atomic clock. Current models operate by measuring the microwave energy signature of electrons dropping between energy levels. These are remarkably precise with errors as little as 1 part in 1017, which equates to dropping a second every 3 billion years or so.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Attempting to preserve the Holland Club with help from social media
 date: "2012-01-12 21:32:49 +0000"
-
-# Attributes from Felix Online V1
-id: "1970"
-old_path: /comment/1970/all-it-takes-is-a-little-dutch-courage
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1970/all-it-takes-is-a-little-dutch-courage
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The rumoured closure of the Holland Club has seen an immense response from the College community. From staff to postgraduate students, the actions of College with regards to its feasibility study have been watched ever closely since rumours of a possible closure surfaced over last term. Could the severity of such a campaign, employing a sizeable Facebook page, make a change to the study and potentially, the future of the Holland Club?

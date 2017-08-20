@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Three picks from the 56th BFI London Film Festival
 date: "2012-10-18 21:26:54 +0100"
-
-# Attributes from Felix Online V1
-id: "2706"
-old_path: /film/2706/56th-bfi-london-film-festival
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2706/56th-bfi-london-film-festival
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - ffilm
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __You Are God__

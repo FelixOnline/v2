@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The government's higher education 'policy' is wrecking the sector
 date: "2011-03-17 21:40:58 +0000"
-
-# Attributes from Felix Online V1
-id: "1104"
-old_path: /comment/1104/higher-education-lunacy
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1104/higher-education-lunacy
-imported: true
 comments:
  - value: >
      I think the Browne Review was pretty sound and gave a fair deal to students. There should be real competition between universities with the elimination of a cap, as per the original proposals, and the government's changes to the original recommendations have been an outright failure.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 We have the deepest sympathy for Imperial's senior management. The government's schizophrenic and frankly gormless policy (or lack thereof) on higher education must be infuriating for those trying to formulate long-term plans and strategies for this institution.

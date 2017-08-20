@@ -4,16 +4,14 @@ title: >
 subtitle: >
   With the biggest names playing every week, it’s no wonder people choose to return to Fabric again and again
 date: "2011-01-27 20:40:58 +0000"
-
-# Attributes from Felix Online V1
-id: "700"
-old_path: /music/700/kill-em-all-at-fabric-with-the-legendary-erol-alkan-
+image: "http://felixonline.co.uk/img/upload/201101272039-ks607-erolalka.jpg"
+image_caption: "Erol Alkan at Parklife festival"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/700/kill-em-all-at-fabric-with-the-legendary-erol-alkan-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - egk08
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101272039-ks607-erolalka.jpg"
-image_caption: ""
 ---
 
 Last Friday saw the promotors [Kill em All](http://www.kill-em-all.co.uk/) hijack the club’s hallowed halls and the music policy was strictly four to floor, ranging the whole spectrum from disco and electro to pounding techno. Filthy Dukes set the tone of the night, a rendition of Green Velvet’s classic ‘It’s Time for the Percolator’ indicated that it was going to be a long one indeed. At midnight, the electro-rock outfit Django Django took to the stage in room 1. Their soaring guitars accompanied with glitchy synths and resonating bass sounded perfect as the club began to fill up.

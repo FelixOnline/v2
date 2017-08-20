@@ -4,16 +4,13 @@ title: >
 subtitle: >
   His lack of professionalism is remarkable
 date: "2011-01-27 19:44:44 +0000"
-
-# Attributes from Felix Online V1
-id: "676"
-old_path: /comment/676/goves-in-charge-seriously-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/676/goves-in-charge-seriously-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - mrangry
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I try not to listen to BBC Radio if I can help it, because I want old age to hold some surprises and given that I already eat mint imperials all day and complain about ‘the youth’ I’m feeling that it’s not holding much back.

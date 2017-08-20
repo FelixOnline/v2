@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The perils of the supermarket take their toll
 date: "2012-05-24 23:16:39 +0100"
-
-# Attributes from Felix Online V1
-id: "2487"
-old_path: /comment/2487/the-tale-of-why-i-hate-food-shopping
+image: "http://felixonline.co.uk/img/upload/201205250016-mc4509-self-checkout.jpg"
+image_caption: "I refuse to use self checkout. I’m basically temping for free by PLEASE REMOVE ITEM FROM BAGGING ARE"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2487/the-tale-of-why-i-hate-food-shopping
-imported: true
 comments:
  - value: >
      Goodness me shopping is awkward isn't it. I feel I've found a kindred spirit.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - va208
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205250016-mc4509-self-checkout.jpg"
-image_caption: ""
 ---
 
 Say you’re on your way home from college, and you need to pop into the supermarket for a cheeky bit of grocery shopping, even dropping by the reduced section to buy a whole cheesecake that not only you’re never going to finish before it goes off but you end up paying more per unit of cheesecake eaten despite the reduction, but you buy it anyway because it has a yellow sticker and you grab it like a magpie in a jewellery shop. There’s also that sense of accomplishment that you’ve ‘beaten’ the supermarket by not paying full price, even though you’re probably playing straight into their hands.

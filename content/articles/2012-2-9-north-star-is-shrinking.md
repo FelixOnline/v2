@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Almost an Earth's worth of gas lost each year
 date: "2012-02-09 22:29:28 +0000"
-
-# Attributes from Felix Online V1
-id: "2150"
-old_path: /science/2150/north-star-is-shrinking
+image: "http://felixonline.co.uk/img/upload/201202092226-pk1811-annapurnastartrails_hao.jpg"
+image_caption: "All other stars appear to rotate around the North star as the Earth spins"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2150/north-star-is-shrinking
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - as1911
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202092226-pk1811-annapurnastartrails_hao.jpg"
-image_caption: ""
 ---
 
 According to new analysis of more than 160 years worth of data, the North Star may be wasting away, shedding an amount of gas equivalent to up to the mass of the Earth each year.

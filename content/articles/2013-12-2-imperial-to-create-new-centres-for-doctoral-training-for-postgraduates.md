@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Over 400 postgraduates will join seven Imperial doctoral training centres in the next five years.
 date: "2013-12-02 12:27:03 +0000"
-
-# Attributes from Felix Online V1
-id: "4144"
-old_path: /news/4144/imperial-to-create-new-centres-for-doctoral-training-for-postgraduates
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4144/imperial-to-create-new-centres-for-doctoral-training-for-postgraduates
-imported: true
 comments:
  - value: >
      So, erm, which departments are getting the DTCs?,Physics and Chemistry in particular have been very successful with the bid. This isn't a good article though, it's basically a copy and paste job of the press release. Can do better Felix!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - nm708
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Over 400 postgraduates will join seven Imperial doctoral training centres in the next five years. The research will be in areas ranging from fluid dynamics to chemical biology.

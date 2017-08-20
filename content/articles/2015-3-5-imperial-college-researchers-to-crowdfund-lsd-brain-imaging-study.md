@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Researchers hope to produce the world's first scans of a human brain on LSD
 date: "2015-03-05 20:07:00 +0000"
-
-# Attributes from Felix Online V1
-id: "5337"
-old_path: /news/5337/imperial-college-researchers-to-crowdfund-lsd-brain-imaging-study
+image: "http://felixonline.co.uk/img/upload/201503052007-cj914-lsd-brain-scan-hat.jpg"
+image_caption: "One of the study's participants prepares for a brain scan"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5337/imperial-college-researchers-to-crowdfund-lsd-brain-imaging-study
-imported: true
 comments:
  - value: >
      fitflop trainer <br>fitflop buy online http://australiafitflops.iemiller.net/,cheap louboutins <br>christian louboutin online http://canadachristianlouboutin.blogspot.com/,Fantastic Site, Keep up the beneficial work. Many thanks!. <br>madden 17 coins http://support.myyna.com/43659/nba-2k17-mt-coins-of-sudoku-are-documented,Wonderful Web-site, Keep up the great work. Thanks for your time!. <br>nba 2k17 vc http://rsinfonet.com/community/groups/812
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503052007-cj914-lsd-brain-scan-hat.jpg"
-image_caption: ""
 ---
 
 Scientists from the Department of Medicine are reaching out to the public in an attempt to source the funding required to complete the final phase of their research. The study hopes to generate the first ever images of the brain of a person experiencing the effects of the psychedelic drug.

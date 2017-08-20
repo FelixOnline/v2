@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Two Alexs go head-to-head over new degree proposals
 date: "2011-10-20 22:59:18 +0100"
-
-# Attributes from Felix Online V1
-id: "1577"
-old_path: /comment/1577/could-the-american-university-system-work-here
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1577/could-the-american-university-system-work-here
-imported: true
 comments:
  - value: >
      I find the system of averaging out of 4.0 quite peculiar as well, and I agree it does appear some alternative where marks are still representative could be beneficial.,I find the system of averaging out of 4.0 quite peculiar as well, and I agree it does appear some alternative where marks are still representative could be beneficial.," At Imperial, people can, and do, change courses, but only very occasionally."," At Imperial, people can, and do, change courses, but only very occasionally.",Alex Nowbar: Your argument for the No side barely even address the question of whether GPA's should be implemented in the UK. <br> <br>Your entire piece seemed to be an (ill informed) argument as to why British students should not study in the USA, not whether the UK should implement GPA scoring. <br> <br>And in response to the comment: <br> <br>" At Imperial, people can, and do, change courses, but only very occasionally." <br> <br>This isn't always true. I studied at Imperial and I tried to change course after my first year. I was told I could
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Yes - Alexander Karapetian__

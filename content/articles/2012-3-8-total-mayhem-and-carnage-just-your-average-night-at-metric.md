@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lucy Wiles reviews Project X
 date: "2012-03-08 22:00:25 +0000"
-
-# Attributes from Felix Online V1
-id: "2330"
-old_path: /film/2330/total-mayhem-and-carnage-just-your-average-night-at-metric
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2330/total-mayhem-and-carnage-just-your-average-night-at-metric
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - lw408
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __[Project X](http://www.imdb.com/title/tt1636826/)__

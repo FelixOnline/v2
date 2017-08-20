@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Summer Ball financial situation still requires closure
 date: "2011-11-04 12:06:52 +0000"
-
-# Attributes from Felix Online V1
-id: "1703"
-old_path: /comment/1703/do-we-need-an-independent-inquiry
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1703/do-we-need-an-independent-inquiry
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Five months on from the Summer Ball, the wounds of such a financial loss are still fresh to see. Despite an official ‘debrief’ from Deputy President (Finance & Services) Michael Foster taking place at Monday’s Union Council meeting, areas of ambiguity still remain as to the exact loss that the Ball made, and how such a loss may be avoided in the future. It is for these reasons that Felix supports an independent inquiry into the Summer Ball, as passed by Council on Monday.

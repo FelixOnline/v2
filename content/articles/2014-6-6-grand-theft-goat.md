@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Two seriously groat games you should go for!
 date: "2014-06-06 02:53:14 +0100"
-
-# Attributes from Felix Online V1
-id: "4668"
-old_path: /games/4668/grand-theft-goat
+image: "http://felixonline.co.uk/img/upload/201406060353-jal08-goat-sim-3.jpg"
+image_caption: "HEY GUYS, LET’S PLAY A GAME!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4668/grand-theft-goat
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +22,6 @@ authors:
  - css11
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406060353-jal08-goat-sim-3.jpg"
-image_caption: ""
 ---
 
 Wondering what games to play this summer? Here’s two great and perhaps unussual suggestions to get you started.

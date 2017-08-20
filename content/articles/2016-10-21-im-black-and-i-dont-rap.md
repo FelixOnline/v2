@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Chimdi Igwe discusses the use of the infamous n-word in rap and how the expansion of the genre beyond the Black community doesn't give you a free pass to use it.
 date: "2016-10-21 10:06:36 +0100"
-
-# Attributes from Felix Online V1
-id: "6340"
-old_path: /music/6340/im-black-and-i-dont-rap
+image: "http://felixonline.co.uk/img/upload/201610211145-so515-15309855336_98632dd775_o (1).jpg"
+image_caption: "The late, great Tupac Shakur"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6340/im-black-and-i-dont-rap
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +23,6 @@ authors:
  - so515
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610211145-so515-15309855336_98632dd775_o (1).jpg"
-image_caption: ""
 ---
 
 I get these questions all the time: “Who’s your favourite rapper?”, “I bet you can freestyle!”, “How can you not love Tupac? You’re black!”

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Director Shelley Lee Davis, Or Shlomi Narrator Yvonne O'Grady noah baker
 date: "2010-11-11 20:46:19 +0000"
-
-# Attributes from Felix Online V1
-id: "344"
-old_path: /film/344/casting-a-new-light-on-the-western-diet
+image: "http://felixonline.co.uk/img/upload/201011112043-nm1010-planneat.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/344/casting-a-new-light-on-the-western-diet
-imported: true
 comments:
  - value: >
      bcd914,lmn700,vwx862,mno107
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - jh308
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011112043-nm1010-planneat.jpg"
-image_caption: ""
 ---
 
 Directors Shelly Lee Davies and Or Shlomi are new to filmmaking. In an after-screening Q&A they revealed that this endeavour was one which they carried out largely alone and with what appeared to be little past experience; suffice it to say that it did show. Although the content of this film speaks volumes, the editing and camerawork left something to be desired, especially when compared to The Cove, An Inconvenient Truth, Fahrenheit 911, or in fact many of the eye-opening “docufilms” which have so thrillingly educated us in the past.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix Music interviews them, with Mo Mizra firing questions.
 date: "2012-11-29 23:04:31 +0000"
-
-# Attributes from Felix Online V1
-id: "3000"
-old_path: /music/3000/interviewing-britains-best-new-bands
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3000/interviewing-britains-best-new-bands
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ## Luls

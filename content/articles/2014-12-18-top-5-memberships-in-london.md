@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Jack Leese looks at the capital's best art memberships
 date: "2014-12-18 15:38:37 +0000"
-
-# Attributes from Felix Online V1
-id: "5056"
-old_path: /arts/5056/top-5-memberships-in-london
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5056/top-5-memberships-in-london
-imported: true
 comments:
  - value: >
      Undeniably believe that which you said. Your favorite justification appeared to be on the web the easiest thing to be aware of. I say to you, I definitely get irked while people consider worries that they plainly do not know about. You managed to hit the nail upon the top and defined out the whole thing without having side-effects , people can take a signal. Will likely be back to get more. Thanks <br>imagenes de zapatillas nike http://www.globalenergy.es/?es-imagenes-de-zapatillas-nike-4880.html,The wholesale jerseys outlet sale right now, wholesale fashionable sports nike NFL jerseys from China are selling. <br>we offer fast shipment &amp; good quality to you, check us out! <br>More From: sports jerseys wholesale,Greetings! This is my first visit to your blog! We are a collection of volunteers and starting a new project in a community in the same niche. Your blog provided us useful information to work on. You have done a outstanding job! <br>comprar botas nike http://www.politica2cero.es/?es-comprar-botas-nike-6343.html,Ne
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -27,12 +24,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 There are a good number of reasons why you may want to join one or more of the plethora of membership schemes offered across the capital. Do you want to show off to everyone how cultured you are? Maybe you simply can’t stand to queue. Perhaps you relish going to members-only areas. Hopefully though, the number one reason is that you love soaking up any exhibition that comes flying onto your radar. And so I’ve compiled a list of my memberships, answering questions like; “Is it worth the money?”; “what benefits do I get?” ; and most importantly “what is the members’ bar like?”

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   I see people using Kindles and worry they’re giving away their birthright
 date: "2011-02-17 20:07:00 +0000"
-
-# Attributes from Felix Online V1
-id: "833"
-old_path: /comment/833/digital-books-kindle-unease-
+image: "http://felixonline.co.uk/img/upload/201104230143-felix-kindle-2-front1.jpeg"
+image_caption: "Do e-book readers make it harder to protect freedom of speech?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/833/digital-books-kindle-unease-
-imported: true
 comments:
  - value: >
      With the bases laoedd you struck us out with that answer!,ZtAnJS <a href="http://gxlyxqyxvbgg.com/">gxlyxqyxvbgg</a>, <a href="http://www.prednisone-online.com/">prednisone</a> cxgmut <a href="http://www.cheaplifeinsurance-site.com/">cheap life insurance</a> 233115
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - jm3309
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104230143-felix-kindle-2-front1.jpeg"
-image_caption: ""
 ---
 
 Tyrants and autocrats have always understood that literacy, learning, books and newspapers are potentially dangerous. They can put independent and even rebellious ideas in the heads of their subjects.

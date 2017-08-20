@@ -4,16 +4,14 @@ title: >
 subtitle: >
   From heartthrob to heartwarmer
 date: "2012-01-26 22:15:41 +0000"
-
-# Attributes from Felix Online V1
-id: "2055"
-old_path: /film/2055/clooney-is-a-family-man
+image: "http://felixonline.co.uk/img/upload/201201262215-cac111-the_descendants-1024x1024.jpg"
+image_caption: "Time to drive away from all those damn photographers – and the crazy women after a piece of Clooney"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2055/clooney-is-a-family-man
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - cac111
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201262215-cac111-the_descendants-1024x1024.jpg"
-image_caption: ""
 ---
 
 ###  The Descendants

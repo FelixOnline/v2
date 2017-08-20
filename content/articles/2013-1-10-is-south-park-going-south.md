@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Maximilian Eggl gets animated about the latest season
 date: "2013-01-10 22:57:25 +0000"
-
-# Attributes from Felix Online V1
-id: "3099"
-old_path: /tv/3099/is-south-park-going-south
+image: "http://felixonline.co.uk/img/upload/201301102257-csw09-animaatjes-southpark-41673.jpg"
+image_caption: "OMG they keep making shitty episodes. YOU BASTARDS"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/3099/is-south-park-going-south
-imported: true
 comments:
  - value: >
      Cash for gold is a good episode, and I would never disregard it but In my own humble opinion, I think there are better episodes. Yes the song is epic, but there isn't really much else in terms of story. I found that most of the jokes were a bit repetitive. I mean c'mon compare it to raising the bar or the giggling of mickey mouse?,each to his own! as long that we can agree that South Park is a good show!,I can't believe you are disregarding Cash for Gold as one of the best episodes of the season. <br> <br>The cash for gold song is an instant classic and what I play on my ipod everytime I take the bus, as in <br>http://www.youtube.com/#/watch?v=hCA-aHoDY7k&amp;desktop_uri=%2Fwatch%3Fv%3DhCA-aHoDY7k,Well, it's just a matter of taste, I just don't find Mickey Mouse funny at all. The joke of walt disney = fascist has been used way just too much
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -28,12 +26,6 @@ authors:
  - me1711
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102257-csw09-animaatjes-southpark-41673.jpg"
-image_caption: ""
 ---
 
 Like it or not, South Park is a cultural phenomenon, often quoted, reminisced about or each episode carefully dissected. The fact that South Park just finished its 16th season does nothing to lessen its appeal; in fact the show has now been extended to finish in 2016 bringing it to 20 seasons.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park's end of year favourites
 date: "2014-12-11 21:03:19 +0000"
-
-# Attributes from Felix Online V1
-id: "5033"
-old_path: /film/5033/the-unmissable-top-10-lists-of-2014
+image: "http://felixonline.co.uk/img/upload/201412112103-cj914-boyhood-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5033/the-unmissable-top-10-lists-of-2014
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - cj914
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412112103-cj914-boyhood-1.jpg"
-image_caption: ""
 ---
 
 __10. 20 Feet From Stardom__

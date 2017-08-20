@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Chemical Engineering and EEE to have same Heads for next couple of years
 date: "2013-02-14 13:14:15 +0000"
-
-# Attributes from Felix Online V1
-id: "3321"
-old_path: /news/3321/heads-of-department-extend-their-tenure
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3321/heads-of-department-extend-their-tenure
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Heads of the Department of Chemical Engineering and Electrical and Electronic Engineering have both accepted an extension of their roles.

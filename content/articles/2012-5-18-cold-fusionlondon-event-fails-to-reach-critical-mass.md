@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Fallout as event loses over £15,000
 date: "2012-05-18 06:14:07 +0100"
-
-# Attributes from Felix Online V1
-id: "2458"
-old_path: /news/2458/cold-fusionlondon-event-fails-to-reach-critical-mass
+image: "http://felixonline.co.uk/img/upload/201205180713-felix-fusion-23.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2458/cold-fusionlondon-event-fails-to-reach-critical-mass
-imported: true
 comments:
  - value: >
      Beautiful headline. (the subject in hand aside, of course),Beautiful headline. (the subject in hand aside, of course),Anyone remember the Summer Ball 2011?,Anyone remember the Summer Ball 2011?,The real culprit here is Angela - her ego and insistence on doing things her way has led to this loss, and I doubt she particularly feels any remorse for her actions. <br> <br>Furthermore the budget that she originally presented stating that no expenditure would be made that didn't already have a guaranteed source of funding, hence making the whole thing risk free, was not the same budget passed to exec which was then approved. Angela lied and cheated her way through the unions checks and balances system and the executive committee had the wool royally pulled over their eyes.,The real culprit here is Angela - her ego and insistence on doing things her way has led to this loss, and I doubt she particularly feels any remorse for her actions. <br> <br>Furthermore the budget that she originally presented stating that no expenditure
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205180713-felix-fusion-23.jpg"
-image_caption: ""
 ---
 
 The financial outcome of the charity event [Fusion@London](http://fusionatlondon.com/) has finally become clear. [As reported previously in Felix](http://felixonline.co.uk/news/2301/confusion-over-event-success/), there was initially a long, slow, and confusing period of uncertainty as to exactly what the situation was. Up until as recently as 1 May, there were still invoices that needed to be paid. However, the loss is now known and eActivities (the online record of transactions for clubs and societies) currently gives an accurate representation of the financial failure of the event. In total, the event lost £15,506.91.

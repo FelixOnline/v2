@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Princess Chulabhorn has a Chemistry PhD
 date: "2016-05-20 08:47:49 +0100"
-
-# Attributes from Felix Online V1
-id: "6172"
-old_path: /news/6172/thai-princess-visits-imperial
+image: "http://felixonline.co.uk/img/upload/201605201047-felix-newseventsimages.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6172/thai-princess-visits-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605201047-felix-newseventsimages.jpeg"
-image_caption: ""
 ---
 
 Last week, HRH Princess Chulabhorn of Thailand visited Imperial to discuss science and collaboration with students and professors. The princess, who is the youngest child of King Bhumibol Adulyadej, met Thai students as well as experts in her field of interest: medical research.

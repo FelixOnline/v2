@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Handball: Eagles 25-25 Danes
 date: "2012-01-12 20:50:07 +0000"
-
-# Attributes from Felix Online V1
-id: "1967"
-old_path: /sport/1967/imperial-eagles-held-by-great-danes
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1967/imperial-eagles-held-by-great-danes
-imported: true
 comments:
  - value: >
      Care packages are so fun! I rltencey sent one out to BFFMary and made her cry. ^_^I also sent out my ornament swap package. I hope my partner enjoys it! Can't wait til I receive hers! :DXo, Belen,I just love it all!!! So cute! How lucky little Felix is!That baby book looks very<a href="http://dicjzvevmx.com"> slimiar</a> to my baby book. Dating back to the 70's.Pokey the Puppy was always one of my favorites. Especially the Christmas one. Ironically my dog is very<a href="http://dicjzvevmx.com"> slimiar</a> (in looks &amp; behaviour) to Pokey.
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -27,12 +24,6 @@ authors:
  - ial08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Have you ever felt that tension, that awareness that to achieve your goal you will have to fight and exceed your own limits? On the day of the most important match of the season the Imperial Eagles felt exactly that way.

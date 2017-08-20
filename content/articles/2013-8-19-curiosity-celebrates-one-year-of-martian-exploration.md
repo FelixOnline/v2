@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Marion Ferrat takes a look at Curiosity’s first year on the Red Planet
 date: "2013-08-19 08:06:30 +0100"
-
-# Attributes from Felix Online V1
-id: "3752"
-old_path: /science/3752/curiosity-celebrates-one-year-of-martian-exploration
+image: "http://felixonline.co.uk/img/upload/201308190907-jal08-ferrat-curiosity-title-picture.png"
+image_caption: "Layers seen at the base of Mount Sharp, Curiosity’s ultimate destination."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3752/curiosity-celebrates-one-year-of-martian-exploration
-imported: true
 comments:
  - value: >
      I love the idea of the digitalis, but in the video, it doesn't relaly stand out from the creeper that much. Maybe if the growth rate is tuned up a bit it will seem more unique, but as it is, you didn't look like you relaly had to fight much harder against the digitalis than against the general flood of creeper. I don't want to sound like one of the people who seem to think its their game, but I just wanted to leave some of the thoughts I had here.1. Perhaps if the digitalis were to spread even without a connection to an emitter. Even small amounts of digitalis would have to be controlled or they would spread out of control. Unlike creeper, cutting off the emitter wouldn't be enough.2. If digitalis were to produce creeper in small quantities when active, it would create an incentive to control it as much as possible while making outgrowths toward your base very dangerous.Final random thought: I love the cool growth pattern of the digitalis, but being able to push a button and see where it would go made it
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201308190907-jal08-ferrat-curiosity-title-picture.png"
-image_caption: ""
 ---
 
 Just over a year ago, on 6 August 2012 (5 August Eastern Standard Time), a little something called Curiosity made its final descent towards the Martian surface. Curiosity had spent over seven months making the journey from Cape Canaveral in Florida to the outer atmosphere of Mars. After a series of perfectly executed moves, and an excruciating wait for the Mars Science Laboratory (MSL) team at NASA, the rover landed safely in Gale crater, near the Martian equator.

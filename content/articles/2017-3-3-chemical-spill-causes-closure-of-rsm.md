@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Four ambulances and two fire engines were called to the site
 date: "2017-03-03 18:46:32 +0000"
-
-# Attributes from Felix Online V1
-id: "6860"
-old_path: /news/6860/chemical-spill-causes-closure-of-rsm
+image: "http://felixonline.co.uk/img/upload/201703031845-felix-IMG_7179.JPG"
+image_caption: "The Royal Schoo of Mines"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6860/chemical-spill-causes-closure-of-rsm
-imported: true
 comments:
  - value: >
      "Hydrochloric Acid, a clear, poisonous liquid which is highly corrosive, meaning it immediately causes severe damage, such as burning, on contact."<br>I think most people at Imperial have done GCSE chemistry, thanks. ,"Hydrochloric Acid, a clear, poisonous liquid which is highly corrosive, meaning it immediately causes severe damage, such as burning, on contact."<br>I think most people at Imperial have done GCSE chemistry, thanks. ,"Hydrochloric Acid, a clear, poisonous liquid which is highly corrosive, meaning it immediately causes severe damage, such as burning, on contact."<br>I think most people at Imperial have done GCSE chemistry, thanks. ,"Hydrochloric Acid, a clear, poisonous liquid which is highly corrosive, meaning it immediately causes severe damage, such as burning, on contact."<br>I think most people at Imperial have done GCSE chemistry, thanks. ,Did you write this in a rush? There are a fair few typos/errors, misuse of the word 'sight' (I think you meant 'site'), and the use of an outdated term ('firem
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - ea3211
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703031845-felix-IMG_7179.JPG"
-image_caption: ""
 ---
 
 Earlier today the Royal School of Mines (RSM) building had to be closed off while a crew of firefighters investigated a potential chemical spill.

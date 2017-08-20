@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The DayZ standalone has been released, and given the amazing stories that occur in that game, I decided to make a kind of series out it! So here it goes:
 date: "2014-02-05 10:36:13 +0000"
-
-# Attributes from Felix Online V1
-id: "4336"
-old_path: /games/4336/episode-2-annas-hunger
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4336/episode-2-annas-hunger
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 If you want to read about episode 1, here is the link: [Episode 1: Yannick's tale](../games/4308/dayz-stories-episode-1-yannicks-tale/)

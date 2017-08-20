@@ -4,18 +4,15 @@ title: >
 subtitle: >
   ICU Debating Society discuss
 date: "2015-03-03 20:37:04 +0000"
-
-# Attributes from Felix Online V1
-id: "5332"
-old_path: /comment/5332/this-house-would-accept-an-offer-from-imperial
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5332/this-house-would-accept-an-offer-from-imperial
-imported: true
 comments:
  - value: >
      fitflops clearance sale <br>cheapest fitflops australia http://fitflopsau.blogspot.com/,fitflops clearance sale <br>cheapest fitflops australia http://fitflopsau.blogspot.com/,birkenstock online discount <br>discount birkenstocks http://birkenstockaustraliamalls.com/,birkenstock online discount <br>discount birkenstocks http://birkenstockaustraliamalls.com/,A preview of the song can be seen on Shakira's official YouTube sheet. Being physically unable carry out in my beloved game, poker provided me with a predicament. Also, make note of which card own put up for market. <br>crÃ©dits fut rapidement http://creditsfut.com/,A preview of the song can be seen on Shakira's official YouTube sheet. Being physically unable carry out in my beloved game, poker provided me with a predicament. Also, make note of which card own put up for market. <br>crÃ©dits fut rapidement http://creditsfut.com/,cristian louboutin <br>christian louboutin outlet online http://christianlouboutincanadaoutlet.blogspot.com/,cristian louboutin <br>christian loubouti
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Proposition: Bruce Weaver__

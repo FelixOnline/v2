@@ -4,16 +4,13 @@ title: >
 subtitle: >
   After marking 56 papers we become a bit overdramatic
 date: "2013-11-24 16:08:18 +0000"
-
-# Attributes from Felix Online V1
-id: "4111"
-old_path: /comment/4111/confessions-of-a-gta-part-6
+image: "http://felixonline.co.uk/img/upload/201311241649-jal08-3383896412_ecee24dea3_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4111/confessions-of-a-gta-part-6
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - gta
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311241649-jal08-3383896412_ecee24dea3_o.jpg"
-image_caption: ""
 ---
 
 As an undergraduate, if you had asked me what the worst thing was about Imperial it was obvious: The exams. After working all those hours to be hit with the striking realisation that I did not, in fact, understand the topic even a little bit caused me to doubt many a life decision. I also came to doubt my native English following one particularly bad exam where I distinctly remember no verbs in the first two sentences. But never did I consider what happened to that stack of papers the GTAs insisted on counting for five minutes at least 12 times after the end of the exam.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Hillary's campaign isn't enough to save us from The Trump
 date: "2016-06-03 08:58:14 +0100"
-
-# Attributes from Felix Online V1
-id: "6229"
-old_path: /comment/6229/why-im-betting-on-500-on-donald-to-win
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6229/why-im-betting-on-500-on-donald-to-win
-imported: true
 comments:
  - value: >
      This article is really similar to this video: https://www.youtube.com/watch?v=LibRNYJmZ-I,And by really similar I mean it's a complete rip-off, come on man
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - jf1915
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Last week I bet £500 at 2:1 that the next American president will be Donald Trump. And if Hillary Clinton doesn’t sort out her campaign strategy fast, he will win a landslide victory.

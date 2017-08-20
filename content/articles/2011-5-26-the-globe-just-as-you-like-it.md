@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Throughout the summer, masses of Shakespeare will be performed at the open air theatre on the Southbank. Just one of those plays will be the touring As You Like It
 date: "2011-05-26 23:48:22 +0100"
-
-# Attributes from Felix Online V1
-id: "1269"
-old_path: /arts/1269/the-globe-just-as-you-like-it
+image: "http://felixonline.co.uk/img/upload/201105270048-felix-globe.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1269/the-globe-just-as-you-like-it
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - ck806
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105270048-felix-globe.jpg"
-image_caption: ""
 ---
 
 The British summer has officially begun. Shakespeare’s Globe theatre has set its band of players onto the road for three months of comedy – As You Like It. And what a riotous three months it promises to be. James Dacre directs a cast of eight who take on double that number of parts in this Victorian adaptation of one of Shakespeare’s most loved and revived comedies.

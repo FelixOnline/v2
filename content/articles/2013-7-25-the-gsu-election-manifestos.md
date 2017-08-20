@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Graduate Students Union (GSU) Elections close on the 26th July. For those of you who haven't heard about it here's a quick list of candidates and manifestos...
 date: "2013-07-25 04:28:18 +0100"
-
-# Attributes from Felix Online V1
-id: "3746"
-old_path: /news/3746/the-gsu-election-manifestos
+image: "http://felixonline.co.uk/img/upload/201307250631-jal08-screen-shot-2013-07-25-at-6.31.18-am.png"
+image_caption: "The GSU Summer Elections, are we sure they exist?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3746/the-gsu-election-manifestos
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +21,6 @@ authors:
  - jal08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201307250631-jal08-screen-shot-2013-07-25-at-6.31.18-am.png"
-image_caption: ""
 ---
 
 For those of you who are blissfully unaware, the Graduate Students Union (formerly the GSA) elections are being held this week, although you wouldn't know it. There's a significant lack of social media campaigning, especially the usually active #voteicu twitter hashtag which normally chirps every few minutes. Aside from sending out emails and updating the online manifestos, there hasn't been much activity from the Union either, not even a change of dates for the election timetable!

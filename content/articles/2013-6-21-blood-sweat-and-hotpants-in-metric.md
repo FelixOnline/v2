@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Metric turns on Pole Soc for a dramatic end to their Summer Showcase
 date: "2013-06-21 01:25:41 +0100"
-
-# Attributes from Felix Online V1
-id: "3740"
-old_path: /sport/3740/blood-sweat-and-hotpants-in-metric
+image: "http://felixonline.co.uk/img/upload/201306211041-tna08-poledancing.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3740/blood-sweat-and-hotpants-in-metric
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306211041-tna08-poledancing.jpg"
-image_caption: ""
 ---
 
 Pole is one of the hottest fitness trends in the country, combining ballet and gymnastics to create routines as physically impressive as they are sexy. Don’t let the hotpants fool you – the Pole Soc girls (and guys!) routinely bust out human flags and the exposed skin is used for grip.

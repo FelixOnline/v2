@@ -4,16 +4,13 @@ title: >
 subtitle: >
   You can make bags of cash and be a good person
 date: "2016-10-31 13:40:02 +0000"
-
-# Attributes from Felix Online V1
-id: "6360"
-old_path: /news/6360/union-launches-social-enterprise-scheme
+image: "http://felixonline.co.uk/img/upload/201610311339-felix-9681101370_f839b54a70_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6360/union-launches-social-enterprise-scheme
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610311339-felix-9681101370_f839b54a70_o.jpg"
-image_caption: ""
 ---
 
 Imperial College Union launched its new social entrepreneurship scheme, ACT Now! (exclamation mark and everything)  last Monday, at an event that saw seasoned as well as novice entrepreneurs, take to the stage and share their experiences in the Union Concert Hall.

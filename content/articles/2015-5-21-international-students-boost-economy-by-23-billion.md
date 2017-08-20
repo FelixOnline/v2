@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Kunal Wagle reports as report recommends migration targets be reclassified
 date: "2015-05-21 20:08:32 +0100"
-
-# Attributes from Felix Online V1
-id: "5548"
-old_path: /news/5548/international-students-boost-economy-by-23-billion
+image: "http://felixonline.co.uk/img/upload/201505212107-kmw13-ic_sci_chall_37.jpg"
+image_caption: "London First argues that international students should be given visitor status"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5548/international-students-boost-economy-by-23-billion
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - kmw13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505212107-kmw13-ic_sci_chall_37.jpg"
-image_caption: ""
 ---
 
 A report by London First has said that overseas students in London alone contribute as much as £2.3 billion to the economy. The report also claims that students from abroad are made to feel “unwelcome”. It goes on to argue that migration targets should be reclassified and students should be given visitor status, and should be allowed to work after graduation.

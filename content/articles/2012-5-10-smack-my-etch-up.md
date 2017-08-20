@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The British Museum displays its rare collection of Picasso prints, never before seen in Britain
 date: "2012-05-10 20:25:40 +0100"
-
-# Attributes from Felix Online V1
-id: "2447"
-old_path: /arts/2447/smack-my-etch-up
+image: "http://felixonline.co.uk/img/upload/201205102124-pk1811-1_picasso_seatedmodel.jpg"
+image_caption: "Dave’s sculpting method was unorthodox to say the least"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2447/smack-my-etch-up
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - sd2911
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205102124-pk1811-1_picasso_seatedmodel.jpg"
-image_caption: ""
 ---
 
 Even on a rainy, bleak and depressing morning the British Museum managed to lift my spirits up. The Great Court was dazzling in all its whiteness, filled with noisy and enthusiastic tourists and school groups. Making my way through the crowds I ventured into a part of the Museum that I had never experienced before: a couple of hidden rooms filled with etchings.

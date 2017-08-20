@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sarah Byrne investigates an alternative to boring and long chemical synthesis
 date: "2013-02-07 23:24:45 +0000"
-
-# Attributes from Felix Online V1
-id: "3259"
-old_path: /science/3259/protein-building-nanomachines
+image: "http://felixonline.co.uk/img/upload/201302072324-tna08-ecoli_70s_ribosome_pair_with_trna_mrna.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3259/protein-building-nanomachines
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - slb210
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302072324-tna08-ecoli_70s_ribosome_pair_with_trna_mrna.jpg"
-image_caption: ""
 ---
 
 Inside every cell, tiny biological machines are hard at work, constructing the proteins that will perform vital roles as enzymes, hormones, and a wide variety of other structural and biochemical functions. These molecular machines, called ribosomes, translate our genetic code into a protein sequence, and assemble the amino-acid building blocks into the peptide chain that folds into a functional protein.

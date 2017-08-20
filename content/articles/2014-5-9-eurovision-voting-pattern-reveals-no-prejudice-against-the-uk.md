@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Statisticians at UCL and Imperial College London have found that contrary to popular belief UK entries to Eurovision have not been “systematically shunned” by the rest of Europe.
 date: "2014-05-09 01:57:22 +0100"
-
-# Attributes from Felix Online V1
-id: "4566"
-old_path: /news/4566/eurovision-voting-pattern-reveals-no-prejudice-against-the-uk
+image: "http://felixonline.co.uk/img/upload/201405090257-jal08-news_eurovision.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4566/eurovision-voting-pattern-reveals-no-prejudice-against-the-uk
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - amm113
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405090257-jal08-news_eurovision.jpg"
-image_caption: ""
 ---
 
 Statisticians at UCL and Imperial College London have found that contrary to popular belief UK entries to Eurovision have not been “systematically shunned” by the rest of Europe. Statistical analysis of voting patterns have shown that while there is more to winning than just musical talent, there is little evidence to back up Terry Wogan’s claim that the song contest has issues of bias and discrimination. The study, published in Journal of Applied Statistics, analysed how countries voted since Eurovision introduced televoting in 1998.

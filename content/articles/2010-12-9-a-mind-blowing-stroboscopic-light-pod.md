@@ -4,16 +4,13 @@ title: >
 subtitle: >
   I began to see galaxies and orbiting planets in my eyes. By Rosie Milton
 date: "2010-12-09 21:32:07 +0000"
-
-# Attributes from Felix Online V1
-id: "536"
-old_path: /arts/536/a-mind-blowing-stroboscopic-light-pod-
+image: "http://felixonline.co.uk/img/upload/201012092129-ks607-lightpod.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/536/a-mind-blowing-stroboscopic-light-pod-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - ks607
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012092129-ks607-lightpod.jpg"
-image_caption: ""
 ---
 
 James Turrell’s Bindu Shards was what I can only describe as an ‘experience’. I managed to obtain an elusive time slot for the exhibit which I have read elsewhere as ‘mind orgasmic’. I approached with some trepidation and the usual stiff, white cube-ness of the Gagosian space on Britannia Street did not help to quell my nerves. I hurried through the white halls to the large room in the corner in which sat a spherical pod – something borrowed from a dated science-fiction movie.

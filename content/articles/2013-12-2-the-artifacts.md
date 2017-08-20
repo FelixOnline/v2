@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix Arts talks to MSc student and Artifact founder and Co-Chair Meredith Thomas
 date: "2013-12-02 22:04:28 +0000"
-
-# Attributes from Felix Online V1
-id: "4161"
-old_path: /arts/4161/the-artifacts
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4161/the-artifacts
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - felart
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Each year, scientists from Imperial College and artists from the Royal College of Art join forces to create inspiring, innovative and interesting works of art under the scheme Artifact. Closet artist and Imperial student Meredith Thomas told Felix Arts all about it.

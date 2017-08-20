@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Mark England gets it, they are epic.
 date: "2013-03-15 02:54:57 +0000"
-
-# Attributes from Felix Online V1
-id: "3494"
-old_path: /music/3494/so-epic-it-hurts
+image: "http://felixonline.co.uk/img/upload/201303150255-tna08-the-hurts.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3494/so-epic-it-hurts
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - me1409
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303150255-tna08-the-hurts.jpg"
-image_caption: ""
 ---
 
 Hurts are a duo from Manchester who I was undecided about; were they some bizarrely intelligent synth pop saviours (their debut sold over a million copies worldwide), or were they, in fact, an industry joke: two blokes with very good connections, who possibly have shares in Moss Bros, and a good eye for publicity stunts. So when a copy of their new album, Exile, dropped on my desk, I was intrigued to find out if it could shed any more light.

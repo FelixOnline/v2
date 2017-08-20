@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Cecily Johnson finds out how much you remember from sex ed class
 date: "2015-06-04 23:39:18 +0100"
-
-# Attributes from Felix Online V1
-id: "5603"
-old_path: /features/5603/lets-talk-about-sexual-health
+image: "http://felixonline.co.uk/img/upload/201506050038-cj914-condoms.jpg"
+image_caption: "Stay safe out there, guys and gals."
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/5603/lets-talk-about-sexual-health
-imported: true
 comments:
  - value: >
      birkenstock sale australia <br>birkenstock shoe http://birkenstockaustralia.blogspot.com/,christian louboutin evening canada <br>christian louboutin canada sale http://christianlouboutincanadaoutlet.blogspot.com/,Appreciate it for sharing this nice website.| <br>nba 2k16 mt wars http://blog1.de/csgoskinsirl/3715061/buy+2k16+mt%2C+real+time+scores+and+updates+and+a+pass+broadband.html,You're an extremely valuable site; could not make it without ya! <br>nba 2k17 mt http://eturystyka.org/content/view/2059/145/
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -26,12 +24,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506050038-cj914-condoms.jpg"
-image_caption: ""
 ---
 
 This year 65% of sexually active students admitted to having had unprotected sex in the past. 31% of you have apparently been well behaved, while the remaining 4% chose not to say whether they had done it or not.

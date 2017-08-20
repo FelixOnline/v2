@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Voting to open from 3-10 June. Deputy President (Education) to be elected in Summer Elections
 date: "2013-05-30 12:05:18 +0100"
-
-# Attributes from Felix Online V1
-id: "3641"
-old_path: /news/3641/summer-elections-underway
+image: "http://felixonline.co.uk/img/upload/201305301306-tna08-elections.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3641/summer-elections-underway
-imported: true
 comments:
  - value: >
      Callum Kirk was RAG Treasurer. <br> <br>Felix is such a waste of money.,What's the problem? Maybe you're so full of angst because you don't know who you are!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305301306-tna08-elections.jpg"
-image_caption: ""
 ---
 
 Nominations have closed for Imperial College Union’s Summer Elections. Voting will be open from Monday 3 June to Friday 7 June.

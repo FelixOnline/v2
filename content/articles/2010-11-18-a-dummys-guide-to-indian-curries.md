@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alexander Joseph savours the curry delights and tries to decipher their origin
 date: "2010-11-18 21:13:34 +0000"
-
-# Attributes from Felix Online V1
-id: "403"
-old_path: /food/403/a-dummys-guide-to-indian-curries
+image: "http://felixonline.co.uk/img/upload/201011182108-nm1010-masaaaaa.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/403/a-dummys-guide-to-indian-curries
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - aj710
  - aj710
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011182108-nm1010-masaaaaa.jpg"
-image_caption: ""
 ---
 
 Walk through most high streets in London and you’re bound to find an Indian restaurant of some sort. The curry industry is worth in excess of £1 billion a year in the U.K. Curry has captured the hearts of the nation to such an extent that the England 1998 World Cup anthem was named after a dish first concocted on the other side of the globe. The curry was only narrowly beaten to Britain’s favourite dish by the pizza. But what are the stories behind these national treasures and are they even truly Indian or an example of multiculturalism working at its best.

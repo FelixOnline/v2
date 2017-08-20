@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A new neighbouring solar system brings promise
 date: "2017-03-03 15:12:43 +0000"
-
-# Attributes from Felix Online V1
-id: "6842"
-old_path: /science/6842/new-discoveries-in-space
+image: "http://felixonline.co.uk/img/upload/201703031512-felix-NASA.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6842/new-discoveries-in-space
-imported: true
 comments:
  - value: >
      That's a posting full of inghist!
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -26,12 +23,6 @@ authors:
  - sarahamilton14
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703031512-felix-NASA.jpg"
-image_caption: ""
 ---
 
 Are current politics getting you down? Worried that the world is heading in the wrong direction? Worry not –habitable, pristine, Trumpless, planets are coming soon to galaxies near you (perhaps). Indeed, a newly-discovered solar system just 39 light years from Earth contains planets that are possibly warm enough to sustain water and life.

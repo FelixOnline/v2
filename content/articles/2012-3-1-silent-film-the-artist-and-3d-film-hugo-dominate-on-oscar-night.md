@@ -4,16 +4,14 @@ title: >
 subtitle: >
   This Sunday witnessed the 84th Academy Awards
 date: "2012-03-01 22:32:54 +0000"
-
-# Attributes from Felix Online V1
-id: "2287"
-old_path: /film/2287/silent-film-the-artist-and-3d-film-hugo-dominate-on-oscar-night
+image: "http://felixonline.co.uk/img/upload/201203012227-ams111-billy-crystal-kevin-winter.jpg"
+image_caption: "Nine-time host Billy Crystal"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2287/silent-film-the-artist-and-3d-film-hugo-dominate-on-oscar-night
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - ffilm
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203012227-ams111-billy-crystal-kevin-winter.jpg"
-image_caption: ""
 ---
 
 The 84th Annual Academy Awards ceremony was presented Sunday night, hosted by comedian and actor Billy Crystal. After last year’s rather disappointing ceremony with hosts Anne Hathaway and James Franco, in an attempt to reach a younger demographic, Crystal returned to host the ceremony for the ninth time.

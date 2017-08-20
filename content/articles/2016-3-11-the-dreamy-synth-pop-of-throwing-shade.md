@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A hazy blur of sharp light and colour
 date: "2016-03-11 11:49:02 +0000"
-
-# Attributes from Felix Online V1
-id: "6033"
-old_path: /music/6033/the-dreamy-synth-pop-of-throwing-shade
+image: "http://felixonline.co.uk/img/upload/201603111148-felix-throwingshade.jpg"
+image_caption: "The iridescent artwork of House of Silk."
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6033/the-dreamy-synth-pop-of-throwing-shade
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603111148-felix-throwingshade.jpg"
-image_caption: ""
 ---
 
 **Throwing Shade**, AKA Nabihah Iqbal, is an artist who educates. Her background in history and ethnomusicology (in which she holds a degree from SOAS) heavily influences her bi-weekly NTS Radio show, where she weaves sounds from all over the world into a culturally rich sonic tapestry, exploding with colour and exposing listeners to the “weird and wonderful”. As well as this, she’s a producer whose wealth of musical knowledge shines through in each of her glittering compositions.

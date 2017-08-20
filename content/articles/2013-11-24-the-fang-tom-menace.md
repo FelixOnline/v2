@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Latest adaptation of Dracula has yet to impress
 date: "2013-11-24 16:33:51 +0000"
-
-# Attributes from Felix Online V1
-id: "4127"
-old_path: /tv/4127/the-fang-tom-menace
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4127/the-fang-tom-menace
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -23,12 +20,6 @@ authors:
  - ef510
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It was easy to respond to the news of NBC and Sky’s latest venture, Dracula, with a roll of the eyes. What with the frenzied spate of anything vampire-themed following the dubious success of Twilight, including the rise and fall of True Blood and The Vampire Diaries, it would appear that the show is jumping on the bandwagon five years too late.

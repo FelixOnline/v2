@@ -4,18 +4,15 @@ title: >
 subtitle: >
   We take a look at the bold and the beautiful behind the year's top flicks
 date: "2011-12-08 21:27:43 +0000"
-
-# Attributes from Felix Online V1
-id: "1938"
-old_path: /film/1938/felix-film-awards--celebrating-this-years-best-films
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1938/felix-film-awards--celebrating-this-years-best-films
-imported: true
 comments:
  - value: >
      Going to put this aritlce to good use now.
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Actor of the Year: Michael Shannon (Take Shelter)__

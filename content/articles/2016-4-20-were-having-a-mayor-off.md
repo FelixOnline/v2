@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Who should be in control of London’s £16 billion budget?
 date: "2016-04-20 14:54:52 +0100"
-
-# Attributes from Felix Online V1
-id: "6085"
-old_path: /features/6085/were-having-a-mayor-off
+image: "http://felixonline.co.uk/img/upload/201604201547-felix-Screen Shot 2016-04-20 at 15.45.43.png"
+image_caption: "*goes to Southall once*"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6085/were-having-a-mayor-off
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -27,12 +25,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201604201547-felix-Screen Shot 2016-04-20 at 15.45.43.png"
-image_caption: ""
 ---
 
 Next Thursday, Londoners go to the polls to vote in their new Mayor of London. Twice-elected Conservative Boris Johnson has moved onto bigger and better things, and now Labour’s Sadiq Khan and the Conservative Zac Goldsmith are going head to head below in this: our comparison of the two frontrunners.

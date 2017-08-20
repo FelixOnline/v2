@@ -4,16 +4,13 @@ title: >
 subtitle: >
   How to get your 5 a day whilst still downing pints
 date: "2013-03-07 21:50:57 +0000"
-
-# Attributes from Felix Online V1
-id: "3431"
-old_path: /food/3431/ode-to-smoothies
+image: "http://felixonline.co.uk/img/upload/201303072146-sjw209-smoothie.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3431/ode-to-smoothies
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +22,6 @@ authors:
  - jb408
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303072146-sjw209-smoothie.jpeg"
-image_caption: ""
 ---
 
 Deciding to spend your own personal money on kitchen appliances rather than clothes/drinks is a pretty significant sign that you have grown up – although it may be scary, in the case of a smoothie maker it is a worthwhile investment.

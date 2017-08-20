@@ -4,16 +4,13 @@ title: >
 subtitle: >
   There is no doubt that 47 Ronin was Universal Studio’s hope-child given its vast budget of $175-million. However, unlike The Last Samurai in whose footsteps this movie obviously attempted to follow, the difference between their respective results is stark; in fact, rather akin to that between a ...
 date: "2014-01-17 03:59:26 +0000"
-
-# Attributes from Felix Online V1
-id: "4248"
-old_path: /film/4248/the-last-samurai-movie-please
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4248/the-last-samurai-movie-please
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - extuser0
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 There is no doubt that _47 Ronin_ was Universal Studio’s hope-child given its vast budget of $175-million. However, unlike _The Last Samurai_ in whose footsteps this movie obviously attempted to follow, the difference between their respective results is stark; in fact, rather akin to that between a samurai (warriors following the bushidō serving their liege) and a ronin (ex-samurai who has failed and thereby lost his liege), a concept that the film is supposedly based on but on which the film curiously lacks much expansion apart from a brief narration of the definition of a ronin in the beginning and sporadic mentions of ‘honour’ here and there.

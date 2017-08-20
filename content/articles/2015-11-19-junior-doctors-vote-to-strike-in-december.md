@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The first strike would see junior doctors only staff emergency care
 date: "2015-11-19 22:20:39 +0000"
-
-# Attributes from Felix Online V1
-id: "5740"
-old_path: /news/5740/junior-doctors-vote-to-strike-in-december
+image: "http://felixonline.co.uk/img/upload/201511192220-ygr12-angry-medics.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5740/junior-doctors-vote-to-strike-in-december
-imported: true
 comments:
  - value: >
      Many thanks, this website is extremely valuable.| <br>cs go skins download http://csgoskinsshop.inube.com/blog/4826207/2k16-mt-to-acquire-their-youthful/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511192220-ygr12-angry-medics.jpg"
-image_caption: ""
 ---
 
 On Thursday it was announced that junior doctors had voted overwhelmingly to take action against proposed contract changes, with 98% voting to take strike action and 99.4% in favour of industrial action short of striking.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Researchers studied tiny grains of rock to determine their hydrothermal origins at the core of the icy moon
 date: "2015-03-20 00:54:00 +0000"
-
-# Attributes from Felix Online V1
-id: "5418"
-old_path: /science/5418/warm-oceans-found-on-saturns-moon-enceladus
+image: "http://felixonline.co.uk/img/upload/201503200053-cj914-enceladus-geysers.jpg"
+image_caption: "This cutaway image shows an artist's impression of the ocean under Enceladus' icy crust"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5418/warm-oceans-found-on-saturns-moon-enceladus
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - cj914
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503200053-cj914-enceladus-geysers.jpg"
-image_caption: ""
 ---
 
 Microscopic grains of silicon-rich rock detected by NASA’s Cassini spacecraft have provided the first clear evidence of hydrothermal activity occurring outside our planet. A four-year analysis of data from Cassini’s instruments, alongside laboratory experiments and computer modelling, was published in Nature this week by scientists at the University of Colorado Boulder.

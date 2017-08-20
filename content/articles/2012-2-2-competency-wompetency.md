@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Job interviews need an overhaul
 date: "2012-02-02 23:39:57 +0000"
-
-# Attributes from Felix Online V1
-id: "2113"
-old_path: /comment/2113/competency-wompetency
+image: "http://felixonline.co.uk/img/upload/201202022338-sjw209-jp-morgan.jpg"
+image_caption: "You think JP Morgan interviews are bad, you should do one for the Daily Mail"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2113/competency-wompetency
-imported: true
 comments:
  - value: >
      Great article. I recently applied for a job at EDF in environmental energy. Made it through the initial application questions, SHL's wonderful numerical and inductive reasoning tests, a telephone CBI and finally got invited to the assessment centre. <br> <br>Having gone through all of this, I couldn't locate the original job description on their site/RateMyPlacement/Google, and had completely forgotten what it was that I'd applied for. I also know sweet fuck all about environmental energy. <br> <br>Anyway, I decided to bail on the assessment centre and took a placement year offer from Johnson &amp; Johnson: the application process was a joy and actually had some relevance to the job. <br> <br>It's all just a farce. Remind me to have this comment deleted when I start applying for graduate jobs. Hopefully they won't have Googled me by then...
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202022338-sjw209-jp-morgan.jpg"
-image_caption: ""
 ---
 
 Unless you’re a masochist, applying for jobs these days, whilst never exactly being pleasant process, is a terrible experience from every point of view. Not only is the student dream of free(ish) money, big booty hoes and four months off a year over, you have to deal with the painful application process itself. First of all, why is it necessary to apply for a job starting next September a year in advance? Come on guys, it doesn’t take that long to skim read a couple of pages! Surely they can start things off a bit later on, giving us (and them) more time to ease back into things after summer. It’s bad enough dealing with labs, lectures and tutorials after a lazy summer let alone filling out a billion job applications on top of that. This brings me onto my main bone of contention.

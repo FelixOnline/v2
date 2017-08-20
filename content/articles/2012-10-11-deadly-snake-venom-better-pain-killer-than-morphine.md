@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Black mamba venom proves to be more useful than meets the eye
 date: "2012-10-11 20:46:02 +0100"
-
-# Attributes from Felix Online V1
-id: "2652"
-old_path: /science/2652/deadly-snake-venom-better-pain-killer-than-morphine
+image: "http://felixonline.co.uk/img/upload/201210112145-csw09-snake.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2652/deadly-snake-venom-better-pain-killer-than-morphine
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - njk12
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112145-csw09-snake.jpg"
-image_caption: ""
 ---
 
 Few of us associate the black mamba, one of the world’s most venomous snakes, with pain relief.

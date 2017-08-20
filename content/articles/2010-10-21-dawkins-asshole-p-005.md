@@ -4,18 +4,15 @@ title: >
 subtitle: >
   “Hey kids! I’m Professor Dawkins! I really, really do not like religion!”
 date: "2010-10-21 19:00:40 +0100"
-
-# Attributes from Felix Online V1
-id: "230"
-old_path: /comment/230/dawkins--asshole-p--005-
+image: "http://felixonline.co.uk/img/upload/201010212045-ks607-richardd.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/230/dawkins--asshole-p--005-
-imported: true
 comments:
  - value: >
      Hey, I'd really like to stress that I'm actually a really nice guy when I'm my true self. That whole "Dorkins-Hating-Cynic-Dude" thing is just image, because I want to be different. Seriously ;),dislike,THX that's a great asnewr!
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010212045-ks607-richardd.jpg"
-image_caption: ""
 ---
 
 Professor Richard Dawkins, what isn’t wrong with that guy? A restless mind, a head full of ideas, and the man really doesn’t like religion. Sometimes, his work is a bit like the dialogue in “The Barbaric Beast of Boggy Creek” – he seems to repeat one and the same thing over and over again. The man really, really doesn’t like religion. Did I mention that he repeats that idea over and over again??

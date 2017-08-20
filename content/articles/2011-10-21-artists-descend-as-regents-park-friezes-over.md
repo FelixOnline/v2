@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Galleries from around the world bring their best to London
 date: "2011-10-21 10:47:35 +0100"
-
-# Attributes from Felix Online V1
-id: "1594"
-old_path: /arts/1594/artists-descend-as-regents-park-friezes-over
+image: "http://felixonline.co.uk/img/upload/201110211144-felix-frieze1.jpg"
+image_caption: "They thought the complete Stairway to Heaven was a bit too expensive"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1594/artists-descend-as-regents-park-friezes-over
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - wsp10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110211144-felix-frieze1.jpg"
-image_caption: ""
 ---
 
 [Frieze Art Fair](http://www.friezeartfair.com/) – the 21st century’s answer to the Field of the Cloth of Gold – pitched up in Regent’s Park last week for its ninth year. Drawing galleries from not just the major art hubs but from the world over, they come to present the best of their wares – a shopping opportunity for a (predominantly Russian) few, for the rest of us, a chance to bask in an abundance of the foremost in contemporary art.

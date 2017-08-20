@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Musical mash-up brings in comedians
 date: "2011-10-21 11:47:04 +0100"
-
-# Attributes from Felix Online V1
-id: "1603"
-old_path: /arts/1603/want-to-get-your-horne-on
+image: "http://felixonline.co.uk/img/upload/201110211245-felix-pg-20-comedy_557778s.jpg"
+image_caption: "Most people come for the ginger beard"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1603/want-to-get-your-horne-on
-imported: true
 comments:
  - value: >
      Well, Mark you took all the surprise out of my announcement that City had an excellent win over Leicester … obviously nothing to do with the skill and expertise of the players on the field as it’s entirely down to the combined finger crossing of Watsonians United!!! Wonder which division they play in??? Please ignore that last remark which is just too silly!!!Hey, Jen … our hard work and influence is paying dividends. Yay!!! NB: Nicky Maynard scored twice and very nearly had a hat trick …Onwards with your fast approaching new show on the horizon, Mark … sure it will be an absolute blast … x <a href="http://effectiveedmedicine.com/">buy viagra</a> <a href="http://www.insurerscomparison.com/">cheap auto insurance</a>
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - wsp10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110211245-felix-pg-20-comedy_557778s.jpg"
-image_caption: ""
 ---
 
 [Alex Horne](http://www.youtube.com/watch?v=yrBF-yYVcX8) is something of a mystery to me. He’s little known except by regular explorers of the comedy circuit and yet seems to have the phonebook of an A-list celebrity comedian. Here’s a man whose shows pull in the likes of [Tim Minchin](http://www.youtube.com/watch?v=KVN_0qvuhhw), [Harry Hill](http://www.youtube.com/watch?v=DtX-4A69mGo) and [Jimmy Carr](http://www.youtube.com/watch?v=1ioBZ5fNJO8) to name but a few, and yet who himself is rarely seen on TV or heard on radio. But if there were any question marks hanging over his comic credentials, his Section does more than answer them.

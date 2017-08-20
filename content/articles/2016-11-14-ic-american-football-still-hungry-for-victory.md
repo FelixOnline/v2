@@ -4,16 +4,13 @@ title: >
 subtitle: >
   There was a forced fumble recovered by Harry ‘I don’t like being called beefy in felix’ Lawrence
 date: "2016-11-14 14:21:33 +0000"
-
-# Attributes from Felix Online V1
-id: "6450"
-old_path: /sport/6450/ic-american-football-still-hungry-for-victory
+image: "http://felixonline.co.uk/img/upload/201611141421-felix-Imperial Immortals_004.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6450/ic-american-football-still-hungry-for-victory
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - imrajsingh
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611141421-felix-Imperial Immortals_004.jpg"
-image_caption: ""
 ---
 
 After finishing 0-8 last year, the Immortals took to the field against the Kent Falcons with a hunger to win. The first half was sluggish with the offence unable to move the ball and a host of conceded penalties. A similar scene was seen across the Falcons’ offence. The Immortals were able to force two turnovers: an interception by Immortals’ rookie Aaron ‘The Geordie’ Wilson (Offensive MVP) and a forced fumble recovered by Harry ‘I don’t like being called beefy in felix’ Lawrence. A lapse in concentration from the Immortals allowed the Falcons a touchdown and two-point conversion. The score was 8-0 at half-time.

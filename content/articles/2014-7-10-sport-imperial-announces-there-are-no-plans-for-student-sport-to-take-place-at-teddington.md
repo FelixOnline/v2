@@ -4,18 +4,15 @@ title: >
 subtitle: >
   In a news statement released today, Sport Imperial announced once and for all that, despite outcry from medics, the Teddington sports ground will no longer be used.
 date: "2014-07-10 13:13:08 +0100"
-
-# Attributes from Felix Online V1
-id: "4722"
-old_path: /news/4722/sport-imperial-announces--there-are-no-plans-for-student-sport-to-take-place-at-teddington
+image: "http://felixonline.co.uk/img/upload/201407071231-jal08-teddington-.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4722/sport-imperial-announces--there-are-no-plans-for-student-sport-to-take-place-at-teddington
-imported: true
 comments:
  - value: >
      I did my undergrad at Imperial, and now doing my PhD in Cambridge. I cannot think of a place more disconnected from reality and the needs of students than Imperial. It's just outrageous everything they've done so far. Threatening to close Evelyn Gardens, Garden and Weeks Halls, now the sports grounds, the Grad Student facilities are close to non-existent, sense of community is rubbish, the Life Sciences Restructure of 2011 was a joke, the Department of Humanities has been ourageously cut.... <br> <br>Well done Imperial,Local newspapers in the Teddington area have reported for quite some time that the land is potentially to be used for a new secondary school, Turing House, despite local opposition. Worth googling it. Sadly I suspect that the fact that they're announcing suspension of sport at the grounds might mean it's a done deal but who knows, perhaps student power may be able to exert some influence
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201407071231-jal08-teddington-.jpg"
-image_caption: ""
 ---
 
 In a [news statement](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/sports/newssummary/news_9-7-2014-15-20-47) released today, Sport Imperial announced once and for all that, despite outcry from medics, the Teddington sports ground will no longer be used.

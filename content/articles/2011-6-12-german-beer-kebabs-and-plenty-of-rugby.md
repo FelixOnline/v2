@@ -4,16 +4,14 @@ title: >
 subtitle: >
   City and Guilds Rugby prepare for international Sevens tournament in Berlin. Max Joachim reports
 date: "2011-06-12 16:27:01 +0100"
-
-# Attributes from Felix Online V1
-id: "1370"
-old_path: /sport/1370/german-beer-kebabs-and-plenty-of-rugby
+image: "http://felixonline.co.uk/img/upload/201106121726-felix-engineers.jpg"
+image_caption: "The winning team from last year’s intra-faculty Engineers Sevens tournament"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1370/german-beer-kebabs-and-plenty-of-rugby
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - mj107
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106121726-felix-engineers.jpg"
-image_caption: ""
 ---
 
 It has been a good year for the City & Guilds RFC. The team is unbeaten so far this season after wins against the RSM and Oxford’s Balliol College but its biggest adventure is still ahead of it. The committee has worked tirelessly to organize a tour that is going to be remembered for years to come. On 1st July, the C&G RFC will travel to Berlin to partake in an international Sevens tournament, the Rugby union Sevens, as well as establishing contacts with the local engineering universities before returning to London on 4th July.

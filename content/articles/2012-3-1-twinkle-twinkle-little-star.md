@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Marie-Laure Hicks on why we need sleep – and why eight hours might be too much
 date: "2012-03-01 21:26:38 +0000"
-
-# Attributes from Felix Online V1
-id: "2274"
-old_path: /science/2274/twinkle-twinkle-little-star
+image: "http://felixonline.co.uk/img/upload/201203012125-ams111-sleeping-puppies.jpg"
+image_caption: "Are you getting enough sleep? We're certainly not, but these guys are..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2274/twinkle-twinkle-little-star
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - mh3210
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203012125-ams111-sleeping-puppies.jpg"
-image_caption: ""
 ---
 
 Every student faces the eternal dilemma: balancing work, having a social life and sleep. On average, we humans spend a third of our lives sleeping. So what is sleep and is it really that important?

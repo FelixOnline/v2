@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Can fashion be a force for liberation? Fred Fyles investigates
 date: "2014-11-06 21:30:39 +0000"
-
-# Attributes from Felix Online V1
-id: "4803"
-old_path: /arts/4803/fashionable-women-but-no-powerful-punch
+image: "http://felixonline.co.uk/img/upload/201411062130-snb11-fashion-shows-2-3.jpg"
+image_caption: "Vivienne Westwood, the Grand-Dame of controversial clothing, is one of the women featured. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4803/fashionable-women-but-no-powerful-punch
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - snb11
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411062130-snb11-fashion-shows-2-3.jpg"
-image_caption: ""
 ---
 
 “There can be no doubt that the hand which first encloses the waist of a girl in these cruel contrivances, supplying her with a fictitious support, where the hand of God has placed bones and muscles that ought to be brought into vigorous action, lays the foundation of bitter suffering.” Thus spoke Charlotte Elizabeth Tonna, a popular novelist, on the pretty prisons that are corsets. The year of the declaration? 1841, making it a fitting start to the __Design Museum__’s retrospective of the relationship between women, clothes, and feminism, succinctly titled __Women Fashion Power__.

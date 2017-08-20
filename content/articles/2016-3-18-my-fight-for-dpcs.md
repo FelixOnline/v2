@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Winning a new perspective on the position, Imperial, and comfort zones
 date: "2016-03-18 11:38:19 +0000"
-
-# Attributes from Felix Online V1
-id: "6055"
-old_path: /comment/6055/my-fight-for-dpcs
+image: "http://felixonline.co.uk/img/upload/201603181137-felix-comfort zone.jpg"
+image_caption: "Go on, try it - you’ll probably like it."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6055/my-fight-for-dpcs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +21,6 @@ authors:
  - jxz12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603181137-felix-comfort zone.jpg"
-image_caption: ""
 ---
 
 This year I ran for DPCS in the Union Elections, and here's the story of my campaign.

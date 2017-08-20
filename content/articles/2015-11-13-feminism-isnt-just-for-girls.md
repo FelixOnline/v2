@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Back this week from fighting the patriarchy, Angry Grad asks why we aren’t all embracing equal rights
 date: "2015-11-13 14:25:24 +0000"
-
-# Attributes from Felix Online V1
-id: "5722"
-old_path: /comment/5722/feminism-isnt-just-for-girls
+image: "http://felixonline.co.uk/img/upload/201511131424-ygr12-ad186854872emma-watson-meet.jpg"
+image_caption: "Emma Watson persuaded Malala to be a feminist, but Angry Grad persuaded Watson. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5722/feminism-isnt-just-for-girls
-imported: true
 comments:
  - value: >
      thank a lot for your web site it helps a great deal.| <br>nba 2k16 mt cheat engine http://www.wolfpackclan.com/modules/newbbex/viewtopic.php?topic_id=4885&amp;post_id=44977&amp;order=0&amp;viewmode=flat&amp;pid=0&amp;forum=8#forumpost44977,h9eleO http://www.y7YwKx7Pm6OnyJvolbcwrWdoEnRF29pb.com
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511131424-ygr12-ad186854872emma-watson-meet.jpg"
-image_caption: ""
 ---
 
 While my usual pieces have a satirical take on pop culture, this week, I thought it was about time my graduate anger is channelled towards an issue that actually has some weight. From the recent uproar regarding VAT on sanitary products, to men, mental health and suicide, you must have been living in a pineapple under the sea to be oblivious to the media frenzy surrounding gender equality lately.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   If Mickey Mouse comes anywhere near me...kill him I will
 date: "2012-11-09 13:32:10 +0000"
-
-# Attributes from Felix Online V1
-id: "2860"
-old_path: /film/2860/disney-buys-lucasfilm
+image: "http://felixonline.co.uk/img/upload/201211091332-tna08-yoda.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2860/disney-buys-lucasfilm
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - lw408
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091332-tna08-yoda.jpg"
-image_caption: ""
 ---
 
 Veteran film maker George Lucas has agreed to sell his company Lucasfilms – the company behind the entire Star Wars franchise – to Walt Disney, who will be making a seventh film in the series, to be released in 2015.

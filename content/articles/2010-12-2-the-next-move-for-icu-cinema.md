@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Revitalized cinema prepare for 'All-Nighter'
 date: "2010-12-02 20:22:24 +0000"
-
-# Attributes from Felix Online V1
-id: "468"
-old_path: /film/468/the-next-move-for-icu-cinema
+image: "http://felixonline.co.uk/img/upload/201012022018-ks607-socialne.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/468/the-next-move-for-icu-cinema
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jh308
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022018-ks607-socialne.jpg"
-image_caption: ""
 ---
 
 Over this term, we have been following the relaunch of iCU Cinema and celebrating its successes – from its sold-out opening night with Inception to its recent screening of comic-book gold Scott Pilgrim vs. The World – as it brings blockbuster films back to the comfort of the Union.

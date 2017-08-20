@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jennifer Eden discusses the UAE's new ban on exotic pets and Ipswich's new hedgehog officer
 date: "2017-01-20 15:02:17 +0000"
-
-# Attributes from Felix Online V1
-id: "6660"
-old_path: /comment/6660/2017--the-year-of-the-big-cat
+image: "http://felixonline.co.uk/img/upload/201701201502-felix-Screen Shot 2017-01-20 at 15.01.57.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6660/2017--the-year-of-the-big-cat
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - je615
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701201502-felix-Screen Shot 2017-01-20 at 15.01.57.png"
-image_caption: ""
 ---
 
 Big news for big cats and other exotic pets. The United Arab Emirates has banned the private ownership and dealing of wild animals. Status pets are on the way out and, hopefully, back into the wild.

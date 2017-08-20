@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Get together before term ends with yet more wine and a huge bird. By Nadia Paes
 date: "2010-12-02 20:18:29 +0000"
-
-# Attributes from Felix Online V1
-id: "465"
-old_path: /food/465/a-students-guide-how-to-cook-christmas-dinner
+image: "http://felixonline.co.uk/img/upload/201012022013-nm1010-christma.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/465/a-students-guide-how-to-cook-christmas-dinner
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - ks607
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022013-nm1010-christma.jpg"
-image_caption: ""
 ---
 
 For me, hall Christmas dinner was one of the highlights of first year. It made sense we’d pay homage to our newly adopted family and celebrate Christmas together with the basting of an oversized bird and a vat full of mulled wine. A good excuse to reminisce about the first term’s antics (with much naming and shaming), get a little snozzled and eat pig wrapped in pig; hall Christmas dinner is not to be missed. Staircases seven and eight of Selkirk Hall came together and our twenty strong team of culinarily challenged, blurry eyed students actually produced a feast of a meal (despite my meagre contribution of peeling approximately three whole root vegetables) .

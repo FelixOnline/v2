@@ -4,16 +4,13 @@ title: >
 subtitle: >
   After a massive dick move by Kings, they get conquered
 date: "2012-12-07 03:05:29 +0000"
-
-# Attributes from Felix Online V1
-id: "3059"
-old_path: /sport/3059/the-bigger-they-are-kings-get-smashed
+image: "http://felixonline.co.uk/img/upload/201212070305-tna08-hockeyweb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3059/the-bigger-they-are-kings-get-smashed
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070305-tna08-hockeyweb.jpg"
-image_caption: ""
 ---
 
 Many of you may have read the article written by the Hockey Club Captain last week referencing the email written to the Imperial 2s captain by the KCL 1s captain. The email undoubtedly showed unsportsmanlike behaviour on the part of the KCL captain but also gave the 2s even more motivation to go out there and show KCL exactly what they are made of.

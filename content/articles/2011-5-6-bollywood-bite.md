@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A monthly column dedicated to the Indian film industry
 date: "2011-05-06 12:39:35 +0100"
-
-# Attributes from Felix Online V1
-id: "1167"
-old_path: /film/1167/bollywood-bite
+image: "http://felixonline.co.uk/img/upload/201105061342-felix-51vbbwlfi6l.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1167/bollywood-bite
-imported: true
 comments:
  - value: >
      Thanks for the isihngt. It brings light into the dark!,ytBfmz <a href="http://qkfyqjuwekuh.com/">qkfyqjuwekuh</a>, <a href="http://www.treatedonline.com/">levitra</a> 870 <a href="http://www.viamedics.net/">online pharmacies and zovirax cream</a> qefh <a href="http://www.viaprix.net/">ultram</a> urivoe
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105061342-felix-51vbbwlfi6l.jpeg"
-image_caption: ""
 ---
 
 _Out on DVD_

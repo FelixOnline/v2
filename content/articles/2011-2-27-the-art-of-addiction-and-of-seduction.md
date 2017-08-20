@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Why have so many of Art’s greats been addicted?
 date: "2011-02-27 19:15:26 +0000"
-
-# Attributes from Felix Online V1
-id: "909"
-old_path: /arts/909/the-art-of-addiction-and-of-seduction-
+image: "http://felixonline.co.uk/img/upload/201102271912-ks607-dondrape.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/909/the-art-of-addiction-and-of-seduction-
-imported: true
 comments:
  - value: >
      Amazing!
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102271912-ks607-dondrape.jpg"
-image_caption: ""
 ---
 
 Enter Jon Hamm as Don Draper.

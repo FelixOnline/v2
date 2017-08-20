@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Lecturers to mark papers and exams once more, including those at Imperial
 date: "2014-11-21 13:25:30 +0000"
-
-# Attributes from Felix Online V1
-id: "4930"
-old_path: /news/4930/marking-boycott-comes-to-an-end
+image: "http://felixonline.co.uk/img/upload/201411211323-ps3110-ucu-pension-placard_web.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4930/marking-boycott-comes-to-an-end
-imported: true
 comments:
  - value: >
      Many thanks, this site is really handy <br>Juan Riquelme http://greensbon.lt/forumas/index.php?p=/discussion/1538/fifa-17-points-for-sale-actually-uploads-your-stats
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411211323-ps3110-ucu-pension-placard_web.jpg"
-image_caption: ""
 ---
 
 After a fortnight of industrial action, the University and College Union (UCU) and Universities UK (UUK) have reached an agreement on Wednesday to a series of negotiation meetings.

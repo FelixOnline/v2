@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Schoolboy Q - ‘Hands On The Wheel’ (feat. A$AP Rocky)
 date: "2012-02-16 21:59:41 +0000"
-
-# Attributes from Felix Online V1
-id: "2204"
-old_path: /music/2204/ramas-hip-hop-tune-of-the-week-1
+image: "http://felixonline.co.uk/img/upload/201202162158-pk1811-school-boy-q-things-i-carry.jpg"
+image_caption: "South Ken street cred"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2204/ramas-hip-hop-tune-of-the-week-1
-imported: true
 comments:
  - value: >
      It is perfect time to make some plans for the futrue and it is time to be happy. I've learn this publish and if I may I wish to suggest you some fascinating things or advice. Maybe you could write next articles relating to this write-up. I desire to learn even more issues about it!
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +26,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162158-pk1811-school-boy-q-things-i-carry.jpg"
-image_caption: ""
 ---
 
 As the imaginatively named title of this column would suggest, each week I hope to bring you a top notch hip-hop tune. This week’s song comes courtesy of [__Schoolboy Q__](http://www.myspace.com/schoolboyq)’s recently released album _Habits and Contradictions_. The song samples a live Lissie cover of the __Kid Cudi__ track ‘The Pursuit of Happiness’ for the chorus and also features critic’s favourite __A$AP Rocky__. In an album with a general tone of moody introspective aggression, ‘Hands on the Wheel’ is a relatively upbeat affair with tight production courtesy of __Best Kept Secret__.

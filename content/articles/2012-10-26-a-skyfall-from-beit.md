@@ -4,18 +4,15 @@ title: >
 subtitle: >
   007 comes to Imperial
 date: "2012-10-26 01:38:02 +0100"
-
-# Attributes from Felix Online V1
-id: "2729"
-old_path: /news/2729/a-skyfall-from-beit
+image: "http://felixonline.co.uk/img/upload/201210260237-tna08-students-on-roof.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2729/a-skyfall-from-beit
-imported: true
 comments:
  - value: >
      God, lucky escape. I don't know anyone who's survived being on a roof before. <br> <br>#senseofperspectivepl0x,No mention of the fact that one of the reasons everything had to be moved quite so quickly was because Imperial were holding graduation there at 11am the next day!!,Naughty Felix on the roof. Watch out they've got a high powered rifle *Jumps to ground*,Christopher Kaye, please shut up you dithering little wankstain. Getting bored of your shitty comments on this website now. ,nothing better to do at 9.30 on a friday night? you are bored.,http://24.media.tumblr.com/tumblr_mbnr4x71hd1r5hocco1_500.jpg,Yeah nice one ‘so bored‘, got nothing better to do on a Friday night or are you just too busy wanking to yourself in the mirror?...,Chris Kaye speaks for most of us. Well, at least those with something to do on a Friday night...
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210260237-tna08-students-on-roof.jpg"
-image_caption: ""
 ---
 
 As a lot of you must know, because it would almost have been impossible to miss for even the keenest attendee of the Library, the new James Bond movie Skyfall premiered at the Royal Albert Hall on Tuesday night. Prince Consort Road was partially closed off and access was restricted around the area.

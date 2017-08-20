@@ -4,16 +4,13 @@ title: >
 subtitle: >
   New pilot scheme aims to put degrees in a 'broader context'
 date: "2012-01-12 22:09:40 +0000"
-
-# Attributes from Felix Online V1
-id: "1980"
-old_path: /news/1980/imperial-horizons-initiative-to-challenge-undergraduates
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1980/imperial-horizons-initiative-to-challenge-undergraduates
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imperial has unveiled a new pilot scheme for undergraduates, which aims to challenge students to consider global issues through use of their scientific knowledge.

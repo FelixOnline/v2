@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Grantham Institute spills the beans
 date: "2017-06-09 14:48:26 +0100"
-
-# Attributes from Felix Online V1
-id: "7006"
-old_path: /features/7006/imperial-academics-on-trump-and-climate
+image: "http://felixonline.co.uk/img/upload/201706091648-ea3211-5440384453_67fef2d0ee_o.jpg"
+image_caption: "Fuck this guy"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/7006/imperial-academics-on-trump-and-climate
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +21,6 @@ authors:
  - ea3211
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706091648-ea3211-5440384453_67fef2d0ee_o.jpg"
-image_caption: ""
 ---
 
 Last week Trump declared to the world that he’d be pulling the US out of the Paris Agreement. Within hours, Elon Musk resigned from the President’s Board of Advisors, American states such as California went rogue and protested the move, vouching to uphold their commitment anyway, and world leaders expressed their disappointment and their determination to do their bit for the planet.

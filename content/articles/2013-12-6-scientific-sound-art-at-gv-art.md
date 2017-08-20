@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Kamil McClelland talks to Mendel Kaelen, an Imperial PhD student whose artwork is on display in the GV Art Gallery in London
 date: "2013-12-06 04:17:17 +0000"
-
-# Attributes from Felix Online V1
-id: "4196"
-old_path: /arts/4196/scientific-sound-art-at-gv-art
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4196/scientific-sound-art-at-gv-art
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - km2612
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 What: NOISE & Whispers

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   School of Seven Bells at Heaven
 date: "2010-11-11 21:17:48 +0000"
-
-# Attributes from Felix Online V1
-id: "357"
-old_path: /music/357/sviib-lives-on-despite-suffering-a-loss
+image: "http://felixonline.co.uk/img/upload/201011112116-ks607-sevenbel.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/357/sviib-lives-on-despite-suffering-a-loss
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - cdd09
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011112116-ks607-sevenbel.jpg"
-image_caption: ""
 ---
 
 It’s been a tough few weeks for School of Seven Bells. The announcement of Claudia Deheza’s departure, one of the twin sisters whose vocal harmonies make their sound so distinctive, arrived suddenly and without warning on their Facebook account. Fans were shocked, and despite their decision to continue with their tour, they’ve received mediocre reviews in her absence.

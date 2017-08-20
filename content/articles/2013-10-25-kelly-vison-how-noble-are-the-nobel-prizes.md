@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Christy Kelly on the Nobel Prizes
 date: "2013-10-25 00:08:54 +0100"
-
-# Attributes from Felix Online V1
-id: "3921"
-old_path: /comment/3921/kelly-vison-how-noble-are-the-nobel-prizes
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3921/kelly-vison-how-noble-are-the-nobel-prizes
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - ck2513
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 With the unsurprising news that Higgs and French physicist Englert were awarded the 2013 Nobel Prize in Physics, I feel that I can indulge in cross-subject chauvinism. No other prizewinner this year will be given for something of such profound importance. The most important Chemistry prize was Rutherford... who was a physicist.

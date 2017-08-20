@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:25:56 +0000"
-
-# Attributes from Felix Online V1
-id: "5338"
-old_path: /comment/5338/felix-interviews-president-candidate-luke-armitage
+image: "http://felixonline.co.uk/img/upload/201503052125-snb11-la911-5518.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5338/felix-interviews-president-candidate-luke-armitage
-imported: true
 comments:
  - value: >
      Obviously this is satirical but he makes some very valid points in his own unorthodox manner. Would just like to see him speak seriously once and he definitely be getting my vote.,I concur.,https://www.youtube.com/watch?v=CS4yjfqOkaM Here we go,There is clearly no real choice this year, which is why I am voting RON,Will this do? Ahem <br> <br>https://www.youtube.com/watch?v=CS4yjfqOkaM&amp;index=8&amp;list=PLYMu67m522JSSVLPinDx1c1CZGmvk8CvT,fitflop sale <br>fitflop outlet http://fitflopsau.blogspot.com/,fitflop australia outlet <br>fitflop australia http://fitflopsau.blogspot.com/,christian louboutin wedges canada <br>christian louboutin online http://canadachristianlouboutin.blogspot.com/,christian louboutin boots canada <br>christian louboutin cheapest http://christianlouboutincanadaoutlet.blogspot.com/,buy christian louboutin shoes canada <br>christian louboutin outlet canada http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin price <br>christian louboutin sale canada http://canadachristianlouboutin.blogspot.com/,chr
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - felixteam
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503052125-snb11-la911-5518.jpg"
-image_caption: ""
 ---
 
 ![Screen Shot 2015-03-02 at 17.23.50.png](../inc/timthumb.php?src=/img/upload/201503091457-ps3110-screen-shot-2015-03-02-at-17.23.50.png&w=460px&zc=1&a=t)

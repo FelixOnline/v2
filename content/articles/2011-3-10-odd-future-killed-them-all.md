@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Or how a bunch of teenagers are taking over the world
 date: "2011-03-10 20:24:12 +0000"
-
-# Attributes from Felix Online V1
-id: "1069"
-old_path: /music/1069/odd-future-killed-them-all
+image: "http://felixonline.co.uk/img/upload/201103102019-ks607-oddfutur.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1069/odd-future-killed-them-all
-imported: true
 comments:
  - value: >
      Pitchfork-lite
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - gep07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103102019-ks607-oddfutur.jpg"
-image_caption: ""
 ---
 
 If you are even remotely interested in music, and regardless of your stylistic preferences, then there is a strong chance you have heard of [Odd Future Wolf Gang Kill Them All](http://en.wikipedia.org/wiki/OFWGKTA) by now (Odd Future for the lazy). If you have not, then you must be living under a rock somewhere with no wi-fi, phone or carrier pigeon service. Freak.

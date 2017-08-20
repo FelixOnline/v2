@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Julia Spindel introduces four great new talents
 date: "2013-03-07 22:02:20 +0000"
-
-# Attributes from Felix Online V1
-id: "3436"
-old_path: /music/3436/new-indies
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3436/new-indies
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - jms411
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Richard Allen II__

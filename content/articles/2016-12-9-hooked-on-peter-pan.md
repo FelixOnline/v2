@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Peter Pan is on at the National Theatre until 4th February 2017 || Tickets from £15
 date: "2016-12-09 12:37:21 +0000"
-
-# Attributes from Felix Online V1
-id: "6570"
-old_path: /arts/6570/hooked-on-peter-pan
+image: "http://felixonline.co.uk/img/upload/201612091234-aib116-peter_and_wendy_fly.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6570/hooked-on-peter-pan
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - scc114
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612091234-aib116-peter_and_wendy_fly.jpg"
-image_caption: ""
 ---
 
 The story of _Peter Pan_, popularised by Disney in 1953,  hardly needs any introduction. However, not everyone knows of  its darker history. J.M. Barrie first invented the character in 1902 in The Little White Bird, a semi-autobiographical story about a small boy who is befriended by a lonely London bachelor. In actual fact, _Peter Pan_ was based on the five boys of the Llewelyn Davies family who Barrie came to know. There have been some questions raised about the exact nature of Barrie’s interest in these boys; at any rate, he went on to become their guardian after the successive deaths of their parents. The final _Peter Pan_ was a “demon boy”, a devilish character who Barrie originally specified as the villain of the story.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   "Possibly the best thing about this film is the effect it’s having on men across the world."
 date: "2011-12-01 20:55:42 +0000"
-
-# Attributes from Felix Online V1
-id: "1877"
-old_path: /film/1877/cure-for-teen-pregnancy
+image: "http://felixonline.co.uk/img/upload/201112012052-ams111-the-twilight-saga-breaking-dawn-part-1-20110502003034631.jpg"
+image_caption: "“Edward, I’m pregnant...”   “Bella, I’m leaving you...” "
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1877/cure-for-teen-pregnancy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - lw408
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012052-ams111-the-twilight-saga-breaking-dawn-part-1-20110502003034631.jpg"
-image_caption: ""
 ---
 
 __The Twilight Saga – Breaking Dawn Part 1__

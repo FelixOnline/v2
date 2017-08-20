@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philippa Skett on the Royal Albert Hall graduation ceremony
 date: "2015-05-08 00:07:57 +0100"
-
-# Attributes from Felix Online V1
-id: "5498"
-old_path: /news/5498/nearly-3000-students-take-to-the-stage
+image: "http://felixonline.co.uk/img/upload/201505080107-ps3110-postgradgrad.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5498/nearly-3000-students-take-to-the-stage
-imported: true
 comments:
  - value: >
      MAXON SM-9 PRO PLUS PEDAL Super Metal Distortion PedalExtreme MusicBehringer HD300 Heavy Distortion PedalDamage Control bb Womanizer Pure Class A Distortion PedalMaking Your Solos Stand Out, part 1ME-70 Guitar Multi-Effects Pedal with a Boss FS5U foot switch, Samson HP10 Headphones, and (3) Sonic Sense Instrument Cables 777 : best-guitarpedals.comElectro-Harmonix Bass BLOGGER Distortion Overdrive pedal24karatst.comMad Professor Deep Blue Delay,I appreciate the information on your web site. Appreciate it!. <br>fifa 17 http://eduidea.org/members/roxanne/activity/4425/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505080107-ps3110-postgradgrad.jpg"
-image_caption: ""
 ---
 
 The Royal Albert Hall played host to this year’s Postgraduate Graduation ceremony on Wednesday, seeing the largest ever cohort of students cross the stage.

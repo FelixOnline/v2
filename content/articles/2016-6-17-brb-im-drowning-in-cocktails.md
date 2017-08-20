@@ -4,16 +4,14 @@ title: >
 subtitle: >
   FELIX attends a cocktail launch at Shoryu SoHo
 date: "2016-06-17 09:41:57 +0100"
-
-# Attributes from Felix Online V1
-id: "6291"
-old_path: /food/6291/brb-im-drowning-in-cocktails
+image: "http://felixonline.co.uk/img/upload/201606171141-felix-IMG_4680.jpg"
+image_caption: "The four summer-themed cocktails available at Shoryu Soho. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6291/brb-im-drowning-in-cocktails
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - yyl114
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606171141-felix-IMG_4680.jpg"
-image_caption: ""
 ---
 
 The lives of successful bloggers have always appeared somewhat glamourous, superficial and materialistic to me – press events around the world, nights in 5-star hotels, sponsorships from high-end brands… And all they seem to do for a living is just go take a few effortless photos for #ootd, film a humble #haul video showcasing their latest luxury purchases, ending the day off with a sleepy #nomakeup #selfie on Instagram. All this was happening while I’m slaving away in the totally unglam Central Library facing debt and unemployment. I know. Life is unfair. There, there.

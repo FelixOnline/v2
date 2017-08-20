@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Stuart Masson reviews Mountain Goats at the Union Chapel
 date: "2013-10-20 01:50:36 +0100"
-
-# Attributes from Felix Online V1
-id: "3903"
-old_path: /music/3903/chillin-in-fanboy-heaven-
+image: "http://felixonline.co.uk/img/upload/201310200250-jal08-music_mountgoat1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3903/chillin-in-fanboy-heaven-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - sm5810
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310200250-jal08-music_mountgoat1.jpg"
-image_caption: ""
 ---
 
 The Mountain Goats are probably my favourite musical artist. From the early years of just John Darnielle with a guitar and a tape recorder right through to the current three piece iteration, I am an embarrassingly large fanboy. So, a few months back, when they announced they were playing at the Union Chapel, one of my favourite venues, I snapped up tickets the moment they came on sale. So last Tuesday I descended upon Islington with a heavy sense of excitement. After an excellent opening set by singer-songwriter Alessi’s Ark, I was expecting the show to end all shows.

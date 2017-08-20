@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Grace Rahman rounds up the controversy surrounding Sir Bob’s latest offering
 date: "2014-11-20 21:43:55 +0000"
-
-# Attributes from Felix Online V1
-id: "4919"
-old_path: /music/4919/band-aid-30-fastest-selling-single-of-2014
+image: "http://felixonline.co.uk/img/upload/201411202143-cj914-bandaid.jpg"
+image_caption: "Jessie Ware acts as a buffer between old flames Ed and Ellie. Awkward. L-R: (back row) Kyle and Will"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4919/band-aid-30-fastest-selling-single-of-2014
-imported: true
 comments:
  - value: >
      Sustain the exceptional job !! Lovin' it! <br>2k16 vc coins http://graceella.spruz.com/pt/Why-you-should-only-get-nba-mt-coins-that-are-2k16-rather-than-generate-them-on-your-own.4-5-2016/blog.htm,gdDPly http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com,The tips is amazingly helpful <br>fifa 17 coins http://www.wiki.bing.net.co/index.php?qa=11195&amp;qa_1=buy-nhl-coins-to-play-the-sport
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +26,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411202143-cj914-bandaid.jpg"
-image_caption: ""
 ---
 
 The first radio play of the rejuvenated Band Aid single, _Do They Know It’s Christmas?_, happened this week, following a first look at the music video on last Saturday’s _X Factor_. This is the fourth time in thirty years that the charity song has been recorded, but the first time the lyrics have been changed. Bono’s controversial line ‘Well tonight thank God it’s them, instead of you’ has been replaced with ‘Well tonight we’re reaching out and touching you’.

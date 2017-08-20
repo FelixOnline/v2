@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Trust responds to news reports
 date: "2011-11-17 21:09:32 +0000"
-
-# Attributes from Felix Online V1
-id: "1770"
-old_path: /news/1770/nhs-trust-rejects-improper-financial-behaviour-allegations
+image: "http://felixonline.co.uk/img/upload/201111181010-felix-mark_davies.jpg"
+image_caption: "Mark Davies, Chief Executive of Imperial College Healthcare NHS Trust"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1770/nhs-trust-rejects-improper-financial-behaviour-allegations
-imported: true
 comments:
  - value: >
      Seventh highest complaints, but then it is the largest trust in the UK!,Seventh highest complaints, but then it is the largest trust in the UK!,What are these people who need management/ leadership training in these positions in the first place? <br> <br>Ask to see the project risk logs - and and as to see all the risks - including those that had been "closed".....,What are these people who need management/ leadership training in these positions in the first place? <br> <br>Ask to see the project risk logs - and and as to see all the risks - including those that had been "closed".....
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111181010-felix-mark_davies.jpg"
-image_caption: ""
 ---
 
 The [Imperial College Healthcare NHS Trust](http://www.imperial.nhs.uk/) has rejected allegations of impropriety from [_The Sunday Times_](http://www.thesundaytimes.co.uk/sto/news/uk_news/Health/article820891.ece) and [_Private Eye_](http://www.private-eye.co.uk/sections.php?section_link=in_the_Back&issue=1300) concerning its commissioning of management training courses from [Coalescence Consulting](http://www.coalescence.biz/), which is owned by the Trust’s interim chief executive Mark Davies and his wife Karen Johnson.

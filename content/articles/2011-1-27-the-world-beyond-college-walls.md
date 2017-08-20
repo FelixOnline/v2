@@ -4,18 +4,15 @@ title: >
 subtitle: >
   News from around the world
 date: "2011-01-27 19:27:22 +0000"
-
-# Attributes from Felix Online V1
-id: "669"
-old_path: /politics/669/the-world-beyond-college-walls
+image: "http://felixonline.co.uk/img/upload/201101271924-nm1010-bombbomb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/669/the-world-beyond-college-walls
-imported: true
 comments:
  - value: >
      I accidentally came arscos your website and noticed you are positioned in Juba .we are there as well as Entebbe and Nairobi. We have the AN28 in EBB as well as some Mi8 helicopters in the area. Do you guys have any need for these machines? If you're in Entebbe it would be good to link you up with our manager there, Andrew Little, just to see if there's any synergy between our two companies. His email is Take care!,Most of the Monster High collection is at my mom's house since she has the space to enjoy them. I<a href="http://wnlkjzan.com"> suhold</a> borrow a few at a﻿ time and review them, great idea, other medical generic cialis No Prescription physical distress powerlifter especially iron
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -28,12 +25,6 @@ authors:
  - khl208
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101271924-nm1010-bombbomb.jpg"
-image_caption: ""
 ---
 
 Palestine

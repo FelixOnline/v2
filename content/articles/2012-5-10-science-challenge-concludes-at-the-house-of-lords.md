@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Cash prize and tour of CERN awarded at Grand Final
 date: "2012-05-10 19:34:51 +0100"
-
-# Attributes from Felix Online V1
-id: "2434"
-old_path: /news/2434/science-challenge-concludes-at-the-house-of-lords
+image: "http://felixonline.co.uk/img/upload/201205102038-pk1811-1.png"
+image_caption: "A tour for two of CERN was up for grabs for the overall winner"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2434/science-challenge-concludes-at-the-house-of-lords
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - mtm10
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205102038-pk1811-1.png"
-image_caption: ""
 ---
 
 The results of the [2012 Science Challenge](http://www.rcsu.org.uk/sciencechallenge) were announced at a reception at the House of Lords on 22 March. The Science Challenge, run annually by Imperial’s [Royal College of Science Union](http://www.rcsu.org.uk), invited students from the College, as well as secondary schools around the country, to answer science based essay questions set by high profile judges. One Imperial and one schools winner was chosen from the answers to each question and an overall winning College and schools essay was then chosen from amongst these.

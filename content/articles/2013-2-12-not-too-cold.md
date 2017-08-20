@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Warm Bodies review
 date: "2013-02-12 18:29:21 +0000"
-
-# Attributes from Felix Online V1
-id: "3292"
-old_path: /film/3292/not-too-cold
+image: "http://felixonline.co.uk/img/upload/201302121829-tna08-warm-bodies.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3292/not-too-cold
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - ffilm
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302121829-tna08-warm-bodies.jpg"
-image_caption: ""
 ---
 
 You may think you know all about the zombie genre. They’re dead, they walk about aimlessly, bumping into things, and as soon as they smell living flesh, they will not stop until they get their share of raw human meat/organs in their mouths. But have you ever seen a zombie fall head over heels in love?

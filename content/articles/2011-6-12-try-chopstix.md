@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Surviving the exam period with a tasty alternative to Subway
 date: "2011-06-12 16:14:21 +0100"
-
-# Attributes from Felix Online V1
-id: "1368"
-old_path: /food/1368/try-chopstix
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1368/try-chopstix
-imported: true
 comments:
  - value: >
      Haha brilliant stuff!! Btw I found a chopstix near St Marys Hospital!!!!!! So cool lol. I think it is a chopstic anyway, if not its identical to the cuisine and setting. Its on Spring Street - check it out when youre there!,This is a super well thought article:) <br> <br>You are bloody funny dude!!!! Although you are studying to be a doc, you should have been a surgeon, you have me in stitches!!!! Love it:) <br> <br> <br>,In fact, the one at Mary's is 50p cheaper! Not that i am an addict or anything. <br> <br>(I am so ashamed),oriental canteen is way better!!
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -27,12 +24,6 @@ authors:
  - oh106
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Be honest now. You love this exam period. It’s the ultimate trump card, a super-charged get-out-of-anything free excuse accepted by everyone. Exercise? Can’t, exams. Important favours? Can’t, exams. Washing? Can’t, exams.

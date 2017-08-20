@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lesson 8: Blakfish
 date: "2012-03-01 23:16:46 +0000"
-
-# Attributes from Felix Online V1
-id: "2298"
-old_path: /music/2298/george-jefferys-a-beginners-guide-to-post-hardcore-8
+image: "http://felixonline.co.uk/img/upload/201203012316-cac111-blakfish.gif"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2298/george-jefferys-a-beginners-guide-to-post-hardcore-8
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - cac111
  - gj309
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203012316-cac111-blakfish.gif"
-image_caption: ""
 ---
 
 This week we’ll be taking a detour into the mysterious world of so-called “math-core”. Math-core is to post-hardcore what Imperial is to UCL: the same, just a bit cleverer. There are countless math-core bands that have left their mark on post-hardcore music but the one I’m reviewing this week is rather more low-key, a hidden gem from none other than Birmingham.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Luke Sheldon discusses a new study assessing climate models against observations, which provides worrying results
 date: "2012-11-15 21:01:39 +0000"
-
-# Attributes from Felix Online V1
-id: "2888"
-old_path: /science/2888/the-world-is-warming-quicker-than-we-thought
+image: "http://felixonline.co.uk/img/upload/201211152101-tna08-weather.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2888/the-world-is-warming-quicker-than-we-thought
-imported: true
 comments:
  - value: >
      [Gen 8:21-22] "And the Lord smelled a soothing aroma. Then the Lord said in His heart, “I will never again curse the ground for man’s sake, although the imagination of man’s heart is evil from his youth; nor will I again destroy every living thing as I have done. <br>'While the earth remains, <br>Seedtime and harvest, <br>Cold and heat, <br>Winter and summer, <br>And day and night <br>Shall not cease.' "
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211152101-tna08-weather.jpg"
-image_caption: ""
 ---
 
 Climate change is expected to be more severe than previously thought as the climate models, which record the greatest warming, are found to be more accurate according to a new study.

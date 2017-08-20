@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The world is definitely getting smaller, and I can only see that as being a good thing
 date: "2011-02-03 20:13:44 +0000"
-
-# Attributes from Felix Online V1
-id: "739"
-old_path: /comment/739/dude-wheres-my-country-
+image: "http://felixonline.co.uk/img/upload/201101271938-ks607-indylecl.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/739/dude-wheres-my-country-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - ial08
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101271938-ks607-indylecl.jpg"
-image_caption: ""
 ---
 
 Where do you live? A simple enough question, in appearance. I’ve been asked it a lot this year. Meeting an endless stream of new people from various countries makes for a large number of introductions. After you’ve said hello to the fifteenth German girl at the party, whose name you’ve already forgotten, the quasi-scripted question-and-answer session begins.

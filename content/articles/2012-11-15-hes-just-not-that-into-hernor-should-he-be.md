@@ -4,16 +4,13 @@ title: >
 subtitle: >
   People Like Us. Well, nobody should like this.
 date: "2012-11-15 21:52:55 +0000"
-
-# Attributes from Felix Online V1
-id: "2905"
-old_path: /film/2905/hes-just-not-that-into-hernor-should-he-be
+image: "http://felixonline.co.uk/img/upload/201211152152-tna08-people-like-us-3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2905/hes-just-not-that-into-hernor-should-he-be
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jgp09
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211152152-tna08-people-like-us-3.jpg"
-image_caption: ""
 ---
 
 What happens to selfish, money-hungry, cold, heartless bastards in Hollywood films? They meet a kid. Or they meet a woman. Or both. And oh look, they do have hearts after all, because they’re human – and everybody has a heart, right? There, I’ve just summed up the main story behind People Like Us, a mostly generic dysfunctional family drama that could have served well as a brief story-arc on a daytime soap. But I say “mostly” generic, because the film does try to explore its characters more, not always resorting to stereotypes, and ends on one powerful punch of a finale.

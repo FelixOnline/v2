@@ -4,16 +4,14 @@ title: >
 subtitle: >
   As the luxury market continues to profit, Alice Yang questions what lies beneath the consumer’s desire for labels
 date: "2012-02-09 22:49:58 +0000"
-
-# Attributes from Felix Online V1
-id: "2163"
-old_path: /fashion/2163/the-forgotten-designer
+image: "http://felixonline.co.uk/img/upload/201202092322-pk1811-fall-2010-c.jpg"
+image_caption: "Christian Dior Fall 2010 Couture"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/2163/the-forgotten-designer
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -24,12 +22,6 @@ authors:
  - ay310
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202092322-pk1811-fall-2010-c.jpg"
-image_caption: ""
 ---
 
 As unlikely as it may seem, I have found myself swapping the glossy pages of Vogue for the less conveniently sized Financial Times this week as the recently realised flurry of financial figures drag my attention away from the conventional pre-fashion-week buzz.

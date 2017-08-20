@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix Science goes along to the launch of the Science Museum’s new exhibition
 date: "2013-11-15 02:18:41 +0000"
-
-# Attributes from Felix Online V1
-id: "4061"
-old_path: /science/4061/professor-higgs-and-the-press-collide-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4061/professor-higgs-and-the-press-collide-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - fsci
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This Tuesday saw the launch of the Science Museum’s latest exhibition, Collider. The £1 million exhibition was developed in close collaboration with CERN. It provides an insight into both the workings of the collider itself, but also takes visitors through the story of the discovery of the Higgs Boson, its latest successful endeavour in its research into particle physics.

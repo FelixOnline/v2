@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Íñigo Martinez de Rituerto prophesies the End Times with Music Tech
 date: "2011-11-17 21:31:21 +0000"
-
-# Attributes from Felix Online V1
-id: "1779"
-old_path: /music/1779/apocalypse-at-the-union
+image: "http://felixonline.co.uk/img/upload/201111172130-pk1811-music-tech-article.jpg"
+image_caption: "Oh no!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1779/apocalypse-at-the-union
-imported: true
 comments:
  - value: >
      说道：I've been surfing oilnne more than 3 hours nowadays, yet I by no means found any attention-grabbing article like yours. It's beautiful value sufficient for me. In my opinion, if all site owners and bloggers made just right content material as you probably did, the net can be a lot more useful than ever before. “Wherever they burn books, they will also, in the end, burn people.” by Heinrich Heine.,说道：Notwithstanding to become a <a href="http://yluucv.com">scencie</a> college student, Ive simply no concept just what these business people are speaking about and consider them are only scams. So even though i uncovered Earth4Energy site page, I'm amazingly skeptical. With by now misplaced self-confidence in BUILD IT YOURSELF power goods, I thought Earth4Energy in order to generally always be no varying versus 2 goods reported above., who is cheapest for car insurance buy viagra reservoirs usually determining
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +26,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172130-pk1811-music-tech-article.jpg"
-image_caption: ""
 ---
 
 Following the interlude at the _Felix Music Night _last weekend, __Music Tech Society__ return to Metric next Saturday 26 November with their first We Are Metric night of the year. Given the Union’s new policy on clubs & societies requiring a special theme in order to host a night, what better way to welcome 2012 than naming it after one of the most widely misinterpreted biblical events of all time A.D.? Perhaps painting a van with slogans prophesying the End Times? (With stupid subwoofers in the boot perhaps?)

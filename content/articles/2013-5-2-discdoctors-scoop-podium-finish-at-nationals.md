@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Imperial’s Ultimate team ends the season on a high in Nottingham
 date: "2013-05-02 12:17:51 +0100"
-
-# Attributes from Felix Online V1
-id: "3527"
-old_path: /sport/3527/discdoctors-scoop-podium-finish-at-nationals
+image: "http://felixonline.co.uk/img/upload/201305021318-tna08-ultimatefri.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3527/discdoctors-scoop-podium-finish-at-nationals
-imported: true
 comments:
  - value: >
      https://www.change.org/petitions/the-royal-parks-stop-hyde-park-from-charging-people-to-play-sport?utm_source=action_alert&amp;utm_medium=email&amp;utm_campaign=28927&amp;alert_id=xvcUvmQXKI_KZXhVPeVHn <br> <br>you're about to be charged to play sports in hyde park
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305021318-tna08-ultimatefri.png"
-image_caption: ""
 ---
 
 On the 20th April, Imperial’s Ultimate Frisbee team − the discDoctors − took to the fields in Nottingham to compete against the country’s top clubs at Outdoor Nationals, the highlight of the competitive calendar for university Ultimate. Battling it out across two days of intense competition, the team found their feet after a sluggish start to secure an impressive third place in the tournament’s second division.

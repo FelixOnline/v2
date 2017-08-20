@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Purge: once a year all crime is legal, and siege films are also
 date: "2013-06-05 12:28:48 +0100"
-
-# Attributes from Felix Online V1
-id: "3653"
-old_path: /film/3653/let-us-all-cleanse-our-souls
+image: "http://felixonline.co.uk/img/upload/201306051327-tna08-the-purge01.jpg"
+image_caption: "Remember everyone, make sure not to get any blood on my brand new white tee"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3653/let-us-all-cleanse-our-souls
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306051327-tna08-the-purge01.jpg"
-image_caption: ""
 ---
 
 Whether what this film suggests is actually feasible is an entirely separate matter – would an annual 12-hour period in which all crimes are allowed really help decrease America’s crime rate and solve unemployment? During these hours even the emergency services do not respond, and it turns into a free-for-all Battle Royale/Hunger Games in which the population is given the chance to get all violence and hatred out of their system.

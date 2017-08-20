@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Its got nothing on the Daily Felix...
 date: "2011-02-10 20:31:24 +0000"
-
-# Attributes from Felix Online V1
-id: "776"
-old_path: /tech/776/murdoch-launches-daily-magazine-for-ipad-
+image: "http://felixonline.co.uk/img/upload/201102102028-dr910-ferozsal.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/776/murdoch-launches-daily-magazine-for-ipad-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - fa608
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102102028-dr910-ferozsal.jpg"
-image_caption: ""
 ---
 
 Faced with declining paper revenues and stiff competition from free online alternatives, Rupert Murdoch’s News Corporation made a bold foray into online publishing last Wednesday with the release of their subscription-based iPad-only publication The Daily. The Daily is one of a handful of publications that exists solely as an app, a big gamble from a corporation that has until now been relatively wary of online media.

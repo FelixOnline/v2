@@ -4,18 +4,16 @@ title: >
 subtitle: >
   To reform and beyond: an interview with the Right Honourable Professor Lord Norton of Louth
 date: "2012-07-16 11:36:46 +0100"
-
-# Attributes from Felix Online V1
-id: "2585"
-old_path: /politics/2585/lord-almighty-
+image: "http://felixonline.co.uk/img/upload/201207161233-mc4509-lord-norton-msp_79121.jpeg"
+image_caption: "Lord Norton"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2585/lord-almighty-
-imported: true
 comments:
  - value: >
      Complement, complement, complement!,Well, that's stolen History Society's thunder. We were hoping to invite him to speak to us about Lords Reform! <br> <br>Great interview though.
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201207161233-mc4509-lord-norton-msp_79121.jpeg"
-image_caption: ""
 ---
 
 __Alex Morton: Thank you very much for giving up your time this afternoon Lord Norton. Could you briefly explain the principal functions of the House of Lords, and why it matters?__

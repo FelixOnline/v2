@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The boat club had their annual party there last month
 date: "2016-02-12 11:10:37 +0000"
-
-# Attributes from Felix Online V1
-id: "5895"
-old_path: /news/5895/rowers-forced-to-pay-hotel-two-grand-in-fines
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5895/rowers-forced-to-pay-hotel-two-grand-in-fines
-imported: true
 comments:
  - value: >
      Why do student journalists not check their facts before they publish? This article would lose someone their job in a local paper let alone in the national press because the 'facts' are simply untrue. Come on Felix, you can do better, why don't you give your hacks some basic training?,Why do student journalists not check their facts before they publish? This article would lose someone their job in a local paper let alone in the national press because the 'facts' are simply untrue. Come on Felix, you can do better, why don't you give your hacks some basic training?,What's the real truth then? curious...,What's the real truth then? curious...,points concerning Narcissistic chicks <br> <br>ladies who are narcissistic cleansing for health them selves past to more not to mention represent if life involves them. women who have narcissistic nature chaos at times nearly always attach his or her selves first; having said that, The disposition condition impacts their personal everyday life occupationally and moreover socially
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The rowing club have been forced to pay £2050 in reparations to the Ambassadors Hotel in Bloomsbury, where they held their annual dinner three weeks ago.

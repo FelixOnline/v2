@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The union has more pressing priorities than air conditioning
 date: "2016-06-03 08:41:16 +0100"
-
-# Attributes from Felix Online V1
-id: "6227"
-old_path: /comment/6227/sweat-over-something-more-important
+image: "http://felixonline.co.uk/img/upload/201606031040-felix-20160526_155625 (1).jpg"
+image_caption: "It's not that big of a deal (p.s. please sign our petition)."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6227/sweat-over-something-more-important
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - jm5014
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606031040-felix-20160526_155625 (1).jpg"
-image_caption: ""
 ---
 
 This quote struck me last week: “air conditioning must be the top priority for sabbaticals”. This is possibly one of the stupidest, most ignorant statements ever committed to this paper. Everybody knows that the library is hot from floors three upwards, and as a result a petition has been signed by over a thousand people in support of air conditioning, but the idea of spending £13.5 million on what is essentially an unnecessary luxury is ludicrous and the union is better off concentrating on actual pressing issues.

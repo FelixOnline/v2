@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Does Graduation with a lower second class degree consign you to a life of un employment? Is a 2:2 from Imperial worth just as much as a 2:1 from other insutitutions? Dan Wan Investigates
 date: "2010-02-27 17:46:55 +0000"
-
-# Attributes from Felix Online V1
-id: "115"
-old_path: /news/115/worth-the-effort
+image: "http://felixonline.co.uk/img/upload/201002271742-rsp07-imperial.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/115/worth-the-effort
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002271742-rsp07-imperial.jpg"
-image_caption: ""
 ---
 
 It has long been instilled in many a student’s mind that they should be coming out of University with at least upper second class honours if they’re to make the leap to employment afterwards. They say without a 2:1 in your respective degree, you’re destined to life in a dead-end job, and failing that, unemployment. Whilst others continue to fly high, you remain on the dole.

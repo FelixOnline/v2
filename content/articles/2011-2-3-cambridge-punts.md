@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Or why the size of your laser doesn’t determine the quality of your university experience
 date: "2011-02-03 20:21:10 +0000"
-
-# Attributes from Felix Online V1
-id: "743"
-old_path: /comment/743/cambridge-punts-
+image: "http://felixonline.co.uk/img/upload/201102032019-ks607-klasjdfs.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/743/cambridge-punts-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - ks607
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102032019-ks607-klasjdfs.jpg"
-image_caption: ""
 ---
 
 I was, as usual, fighting a losing battle.

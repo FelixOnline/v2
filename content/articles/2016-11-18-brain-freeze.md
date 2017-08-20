@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Everything happens for a reason
 date: "2016-11-18 14:49:42 +0000"
-
-# Attributes from Felix Online V1
-id: "6463"
-old_path: /science/6463/brain-freeze
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6463/brain-freeze
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - aranshaunak16
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Fact: ‘Brain freeze’ has a biological explanation.

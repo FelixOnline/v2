@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Gilead Amit, Deputy Editor, kicks off our new feature with his favourite work of literature: De Profundis
 date: "2010-10-08 06:33:54 +0100"
-
-# Attributes from Felix Online V1
-id: "184"
-old_path: /arts/184/if-you-read-nothing-else-this-week
+image: "http://felixonline.co.uk/img/upload/201010080731-ks607-OscarWil.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/184/if-you-read-nothing-else-this-week
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - gda07
  - jk708
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010080731-ks607-OscarWil.jpg"
-image_caption: ""
 ---
 
 Gosh. Cripes. Blimey. What a responsibility. I have just been asked by the delightful new Arts editor to inaugurate this column by writing a short, pithy piece on my favourite book. Publicity whore that I am, I couldnít bring myself to refuse.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Just because there's goat's cheese in it doesn't mean you get to call it Greek
 date: "2012-06-14 20:28:16 +0100"
-
-# Attributes from Felix Online V1
-id: "2565"
-old_path: /food/2565/welcome-summer-with-a-fresh-and-original-greek-salad
+image: "http://felixonline.co.uk/img/upload/201206142127-ams111-food1.jpg"
+image_caption: "That's how it should look"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2565/welcome-summer-with-a-fresh-and-original-greek-salad
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - mk4410
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206142127-ams111-food1.jpg"
-image_caption: ""
 ---
 
 Greek Salad is dish known worldwide. Many restaurants in London include it in their menus, even if they don’t do Greek cuisine, and most probably you have tasted it at least once. Most people may think that there is no specific recipe for a Greek Salad. If you consider a Greek Salad to be just tomatoes, green leaves and feta cheese, like the one from the JCR and the Library Café, then you need to take a look at the recipe below that includes all the ingredients you need and some useful do’s and don’ts.

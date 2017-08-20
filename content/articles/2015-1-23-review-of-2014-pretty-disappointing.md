@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Maximillian Eggl takes you through what could've been the defining games of last year
 date: "2015-01-23 18:22:20 +0000"
-
-# Attributes from Felix Online V1
-id: "5141"
-old_path: /games/5141/review-of-2014-pretty-disappointing
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/5141/review-of-2014-pretty-disappointing
-imported: true
 comments:
  - value: >
      IMHO you've got the right anesrw!
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -27,12 +24,6 @@ authors:
  - me1711
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 2014 could have been such an amazing year. There was so much potential. We had the graphical promise of what could have been a true _GTA_ rival (_Watch Dogs_), we could have had a spiritual successor to _Halo_ (_Destiny_), we might have had the MMO that finally knocks _WoW_ off its porch (_Elder Scrolls Online_). That is not even a tiny bit of the disappointments that gamers faced; think the botched launches of the _Assassin’s Creeds,__Titanfall_ or_ Sims 4_. These were all supposed to be amazing games that would build on their predecessors and push gaming boundaries. What we got were rushed games, that really didn’t offer much apart from lacking content, micro transactions, DLCs or bugs.

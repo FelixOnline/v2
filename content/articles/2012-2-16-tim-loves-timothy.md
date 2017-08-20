@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Tim Arbabzadah discusses the five-decade-spanning James Bond series
 date: "2012-02-16 20:59:48 +0000"
-
-# Attributes from Felix Online V1
-id: "2180"
-old_path: /film/2180/tim-loves-timothy
+image: "http://felixonline.co.uk/img/upload/201202162057-pk1811-007-in-licence-to-kill-wallpapers_15457_1280x960.jpg"
+image_caption: "Look at those blue eyes... swoon..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2180/tim-loves-timothy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - pk1811
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162057-pk1811-007-in-licence-to-kill-wallpapers_15457_1280x960.jpg"
-image_caption: ""
 ---
 
 The James Bond franchise (I hate that word) is one that has been going for 50 years now. It’s amazing how everything about the films – from their genre to the characterisation – has evolved and changed over time. This gradual change in genre is interesting because it sort of parallels the general changes in society, not to mention in values. The original film, _Dr. No_, as well as the first few, were definitely much slower paced. They built up much more gradually, and there was much less action. The plot didn’t play out too quickly; I guess some may say it was too slow to move on the story, but that’s all a matter of taste. I would personally say that the later Bond films have evolved into being almost an action film. At times, they basically are just a big gunfight. The point I’m terribly making is this: life is lived today at a much quicker pace, back when (the excellent, well, in terms of playing the part, not in terms of some of his more abhorrent personal views) Sean Connery was 007, everyone was in less of a rush – yes, I sound incredibly old... Each Bond film, in many way, reflects the era it was made in. It even fell into the trap of the Blaxploitation era in _Live and Let Die_.

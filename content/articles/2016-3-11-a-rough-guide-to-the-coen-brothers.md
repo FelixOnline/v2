@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The Coen brothers show the importance of never standing still
 date: "2016-03-11 12:00:09 +0000"
-
-# Attributes from Felix Online V1
-id: "6040"
-old_path: /film/6040/a-rough-guide-to-the-coen-brothers
+image: "http://felixonline.co.uk/img/upload/201603111200-felix-tumblr_nzpqrtwNwo1ulczhzo1_400.gif"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6040/a-rough-guide-to-the-coen-brothers
-imported: true
 comments:
  - value: >
      Keep up the spectacular job !! Lovin' it!| <br>cs go skins drop http://nba2k16coinswell.allmyblog.com/9-2k16-vc-my-ps3-from-freezing.html
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +23,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603111200-felix-tumblr_nzpqrtwNwo1ulczhzo1_400.gif"
-image_caption: ""
 ---
 
 My favourite film industry anecdote is that Bill Murray only signed on to be the voice of porcine feline Garfield in the 2004 flop because he thought it was written by Joel Coen, of _Barton Fink_, _Fargo_, and _The Big Lebowski_ fame. Unfortunately for him, it was written by another Joel Coen, the man behind _Cheaper by the Dozen_.

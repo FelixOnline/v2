@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Former College alumnus and IT staff member Babar Ahmad has been sentenced to 12 and a half years in prison after a long battle by US prosecutors in Connecticut.
 date: "2014-07-17 11:04:30 +0100"
-
-# Attributes from Felix Online V1
-id: "4727"
-old_path: /news/4727/former-college-it-technican-babar-ahmad-sentenced-to-125-years-in-prison
+image: "http://felixonline.co.uk/img/upload/201112012121-felix-babar-ahmad-petition-prisoner.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4727/former-college-it-technican-babar-ahmad-sentenced-to-125-years-in-prison
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012121-felix-babar-ahmad-petition-prisoner.jpg"
-image_caption: ""
 ---
 
 Former College alumnus and IT staff member Babar Ahmad has been sentenced to 12 and a half years in prison after a long battle by US prosecutors in Connecticut. Ahmad admitted to "conspiracy and providing material to support the Taliban."

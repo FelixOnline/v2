@@ -4,16 +4,14 @@ title: >
 subtitle: >
   All the classic Scorsese hallmarks are also here
 date: "2016-02-26 11:55:31 +0000"
-
-# Attributes from Felix Online V1
-id: "5976"
-old_path: /tv/5976/-vinyl-grooves
+image: "http://felixonline.co.uk/img/upload/201602261155-felix-landscape-1447774984-vinyl-trailer-2.jpg"
+image_caption: "No sympathy for the devil. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5976/-vinyl-grooves
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ad4013
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261155-felix-landscape-1447774984-vinyl-trailer-2.jpg"
-image_caption: ""
 ---
 
 This show really snuck up on me. HBO seems to have pushed it out without the sort of fanfare one would expect; especially given the names attached to this project. When Martin Scorsese and Mick Jagger say they’re doing something together, you pay attention. So, I decided to give the two hour premiere (directed by Scorsese himself) a chance.

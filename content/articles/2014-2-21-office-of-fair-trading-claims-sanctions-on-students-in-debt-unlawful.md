@@ -4,16 +4,13 @@ title: >
 subtitle: >
   After analysing the terms and conditions of over 100 UK Higher Education Institutions, the Office of Fair Trading (OFT) concluded that almost 75% included sections that could stop students graduating or progressing to the next year of study if they were in debt to their institution.
 date: "2014-02-21 03:00:48 +0000"
-
-# Attributes from Felix Online V1
-id: "4411"
-old_path: /news/4411/office-of-fair-trading-claims-sanctions-on-students-in-debt-unlawful
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4411/office-of-fair-trading-claims-sanctions-on-students-in-debt-unlawful
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 After analysing the terms and conditions of over 100 UK Higher Education Institutions, the Office of Fair Trading (OFT) concluded that almost 75% included sections that could stop students graduating or progressing to the next year of study if they were in debt to their institution.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   We are a thousand conversations. If we couldn’t remember them, who would we be?
 date: "2011-06-16 20:32:11 +0100"
-
-# Attributes from Felix Online V1
-id: "1394"
-old_path: /comment/1394/dont-forget-to-remember
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1394/dont-forget-to-remember
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - rjd08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I’m a bit embarrassed. Y’see, you’ve caught me at quite an inopportune moment. I was going to write this letter on something important, I’m sure of that. The only thing is... I can’t remember what I was going to write about. You don’t happen to know, do you? Wait! Hah, got it! Memory, that’s what it is.

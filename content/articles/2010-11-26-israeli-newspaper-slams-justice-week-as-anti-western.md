@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Concerns voiced about choice of speakers at Islamic Society events
 date: "2010-11-26 07:16:31 +0000"
-
-# Attributes from Felix Online V1
-id: "448"
-old_path: /news/448/israeli-newspaper-slams-justice-week-as-anti-western-
+image: "http://felixonline.co.uk/img/upload/201011260714-ks607-asimqure.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/448/israeli-newspaper-slams-justice-week-as-anti-western-
-imported: true
 comments:
  - value: >
      excellent and unbiased.,Imperial cannot give the oxygen of publicity to anyone representing Hizb ut-Tahrir. Just look at what they stand for, absolutely outrageous. ,The ISoc needs to understand that it has a responsibility not to alienate and point the finger exclusively. It has proven to be an 'anti West week' and the speakers should have been scrutinised. I'm sure there are plently of speakers who are not 'black-listed' for hate speech whom they could have asked to participate. ,What a poor article. You do realise that there is a difference between having a critical approach to the stories you cover (good) and collaborating in character assassinations of people (who we may, personally, not like - I certainly am no fan of Murray) who have raised a serious issue? <br> <br>You seemt to have devoted more attention to criticising the individuals who have raised concern about Qureshi and Hizb ut-Tahrir than you have to trying to understand what Qureshi and Hizb ut-Tahrir are actually like. Would you respond in the sam
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011260714-ks607-asimqure.jpg"
-image_caption: ""
 ---
 
 The Israeli newspaper The Jerusalem Post attacked [Imperial College Islamic Society](http://www.union.ic.ac.uk/scc/islamic/) on Monday, publishing an article entitled “[UK university hosts ‘anti-west’ week under ‘justice’ guise](http://www.jpost.com/home/article.aspx?id=196237)”. Justice Week is described by its organizers at ISoc as an opportunity to “educate ourselves about some of the injustices found in the world and show what we as individuals can do about them”. Scheduled [events](http://www.facebook.com/event.php?eid=116407028422645) include talks on exploitation of the 3rd world, Guantanamo bay imprisonment and a screening of the latest Michael Moore film; but will also stage controversial speakers.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   NUS data shows that Imperial students are more stressed than students at other UK universities on average
 date: "2015-05-29 00:49:05 +0100"
-
-# Attributes from Felix Online V1
-id: "5575"
-old_path: /news/5575/imperial-students-twice-as-likely-to-be-stressed-than-national-student-average
+image: "http://felixonline.co.uk/img/upload/201505290149-ps3110-3028_833_neville-miles.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5575/imperial-students-twice-as-likely-to-be-stressed-than-national-student-average
-imported: true
 comments:
  - value: >
      fitflops clearance australia <br>fitflops sale au http://www.australiafitflops.com/,fitflops sale clearance <br>fitflops sale australia http://www.australiafitflops.com/,christian louboutin pumps shoes <br>christian louboutin canada stores http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin pumps shoes <br>christian louboutin online store http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin womens flats <br>christian louboutin http://canadachristianlouboutin.blogspot.com/,louboutin for men <br>christian louboutin online store http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin pumps <br>cheap christian louboutin http://christianlouboutincanadaoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505290149-ps3110-3028_833_neville-miles.jpg"
-image_caption: ""
 ---
 
 A[ similar survey to the one conducted by Mentality](%20http:/felixonline.co.uk/news/5572/three-out-of-four-students-at-imperial-suffer-from-stress-or-have-a-mental-health-condition/) was ran by the National Union of Students (NUS) back in 2013, which surveyed around 1200 students across the country via an online questionnaire.

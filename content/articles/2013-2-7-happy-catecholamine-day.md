@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Looking forward to your hot date? Philippa Skett explains why
 date: "2013-02-07 23:28:13 +0000"
-
-# Attributes from Felix Online V1
-id: "3261"
-old_path: /science/3261/happy-catecholamine-day
+image: "http://felixonline.co.uk/img/upload/201302072327-tna08-valentines-day-wallpaper.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3261/happy-catecholamine-day
-imported: true
 comments:
  - value: >
      The underlying neurology of animals, their traits, and the ability to assay them are such that direct comparisons between say, mice and humans, should be treated with caution, rendering animal tests here slightly flawed. In the original peer-reviewed article by Helen Fisher, found here: <br> <br>http://www.helenfisher.com/downloads/articles/10lustattraction.pdf <br> <br>They discuss the issue between comparing different species of mammals and note that brain regions and responses vary from one species to the next. Also, being able to decide if a mouse is "in love" without direct communication will also prove difficult- that is why they discuss this for humans. <br> <br>"Would be good to confirm this before stating so confidently."- Neuroscience is a complex field in which a lot is still not understood due to both poor investigative techniques and the moral complications involved if attempting to replicate studies in vivo. Anything in neuroscience is open to skepticism, so fair play to you I guess.,Should test this on animals
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302072327-tna08-valentines-day-wallpaper.jpg"
-image_caption: ""
 ---
 
 Love is a many-splendored thing, according to experts. As someone who considers themselves a scientist and, depending on how many glasses of wine I have had, someone who has been in love, this week of all weeks I couldn’t help but wonder, what exactly is love? Does it benefit us as a species? Is it an evolutionary hangover regarding altruism and mating preference, skewered by social etiquette? Or is it selfishness, projected on someone as a need to be with them, but in reality an obsession to obtain their gametes for you, and only you, and not share these amazing genes with anyone else? These certainly cross my mind whenever I am eyeing up someone in Metric, but for others it may not be as crystal clear.

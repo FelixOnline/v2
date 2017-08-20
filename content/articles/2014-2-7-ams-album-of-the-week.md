@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Bastions – Bedfellows Part 2: The Forgotten Daughter
 date: "2014-02-07 04:38:38 +0000"
-
-# Attributes from Felix Online V1
-id: "4339"
-old_path: /music/4339/ams-album-of-the-week
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4339/ams-album-of-the-week
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - rg2112
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Ed: OK, so technically this week it’s EP of the week rather than album. Sorry.

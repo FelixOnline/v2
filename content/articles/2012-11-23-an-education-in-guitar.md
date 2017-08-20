@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Riaz Agahi dissects Chris Forsyth’s latest album
 date: "2012-11-23 00:19:09 +0000"
-
-# Attributes from Felix Online V1
-id: "2968"
-old_path: /music/2968/an-education-in-guitar
+image: "http://felixonline.co.uk/img/upload/201211230019-tna08-kenzo-deluxe.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2968/an-education-in-guitar
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - ra2410
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211230019-tna08-kenzo-deluxe.jpg"
-image_caption: ""
 ---
 
 Ever since I first discovered his music, Chris Forsyth has been one of my favourite musicians. A psych rock guitarist, he proved himself worthy to support Grouper due to his use of drone and a thirst for experimentalism, but he elegantly balanced this with some more conventional use of the guitar not unlike blues, folk or even bluegrass in places.

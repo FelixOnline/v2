@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Max Tottenham explains the martial art
 date: "2013-01-18 00:59:26 +0000"
-
-# Attributes from Felix Online V1
-id: "3146"
-old_path: /sport/3146/what-is-wing-chun
+image: "http://felixonline.co.uk/img/upload/201301180058-tna08-wing-chen.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3146/what-is-wing-chun
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - mt3410
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301180058-tna08-wing-chen.jpg"
-image_caption: ""
 ---
 
 __What is Wing Chun?__

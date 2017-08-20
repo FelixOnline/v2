@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Wanted: your thoughts on anything!
 date: "2013-09-29 14:02:56 +0100"
-
-# Attributes from Felix Online V1
-id: "3769"
-old_path: /comment/3769/the-imperial-thing-why-comment-matters
+image: "http://felixonline.co.uk/img/upload/201309291504-tna08-parthenon.jpg"
+image_caption: "Not quite, but Comment is nearly as good"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3769/the-imperial-thing-why-comment-matters
-imported: true
 comments:
  - value: >
      You keep it up now, unetdsrand? Really good to know.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309291504-tna08-parthenon.jpg"
-image_caption: ""
 ---
 
 There are people out there that are highly critical of the ethos of Imperial College and its approach to academic pursuits. Some individuals from outside the institution find it ‘lacking’ in certain qualities. They often attempt to draw parallels between ourselves and the University of Oxford or the University of Cambridge. Be it the lack of stunning architecture, the skewed gender balance or its unrealised ‘brand’ they choose to draw upon every negative fathomable and consider us gauche, unrefined and imbalanced. This provides the Raison D’être of Felix Comment; Imperial College needs to utilise every voice possible in order to ward off and rise above these criticisms. Every voice matters. Your voice matters.

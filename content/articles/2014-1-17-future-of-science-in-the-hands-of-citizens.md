@@ -4,16 +4,13 @@ title: >
 subtitle: >
   San Chun Yin, Imperial Hub Vice-President on citizen science
 date: "2014-01-17 03:24:54 +0000"
-
-# Attributes from Felix Online V1
-id: "4231"
-old_path: /features/4231/future-of-science-in-the-hands-of-citizens
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4231/future-of-science-in-the-hands-of-citizens
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 With the Create Lab’s Venture Catalyst Challenge ads plastered all around campus, those of us who aren’t that interested in entrepreneurship and/or are more academically-oriented might feel a little left out. But while the research model (and wizened scientists in general) might appear to stick with what works and not necessarily engage with the latest and coolest of technology, there is actually a surprising amount of progress and innovation beneath the surface.

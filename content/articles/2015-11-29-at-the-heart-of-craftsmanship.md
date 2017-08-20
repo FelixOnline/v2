@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Hand Gestures has an interesting premise, and is done skilfully, but fails to excite
 date: "2015-11-29 16:45:48 +0000"
-
-# Attributes from Felix Online V1
-id: "5784"
-old_path: /film/5784/at-the-heart-of-craftsmanship-
+image: "http://felixonline.co.uk/img/upload/201511291645-ff712-1102.jpg"
+image_caption: "Who wouldn't want a large bronze dog in their house..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5784/at-the-heart-of-craftsmanship-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ff712
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511291645-ff712-1102.jpg"
-image_caption: ""
 ---
 
 A meditative exploration of craftsmanship and the passion of artisans, _Hand Gestures_ takes a long, slow look at the work of Fonderia Artistica Battaglia, a foundry located in Milan, that has been making bronze sculptures for the last century. The technique they use, lost-wax casting, goes back even further, to the 4th millennium BC. This information, about the technique and the foundry is shown at the beginning of the film, and then for 77 minutes we are left alone, with the craftsmen and a sculpture.

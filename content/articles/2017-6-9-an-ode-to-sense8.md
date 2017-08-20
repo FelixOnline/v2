@@ -4,16 +4,14 @@ title: >
 subtitle: >
   We were robbed of one of the most spectacular, queer inclusive, and diverse shows shows on TV.
 date: "2017-06-09 15:11:14 +0100"
-
-# Attributes from Felix Online V1
-id: "7017"
-old_path: /tv/7017/an-ode-to-sense8
+image: "http://felixonline.co.uk/img/upload/201706091711-ea3211-sense8_filmloverss.jpg"
+image_caption: "H8 to see you go"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/7017/an-ode-to-sense8
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ea3211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706091711-ea3211-sense8_filmloverss.jpg"
-image_caption: ""
 ---
 
 Three weeks ago I embarked on an emotional binge-watch of the 2015 Netflix original Sense8. Within two weeks I’d managed to watch the 23 near hour-long episodes of the first two seasons. Then a week later it was announced that sense8 would not be getting renewed, that episode 23 would be the last ever episode, and just like that I was heart broken. To the uninitiated, the series revolves around the lives of eight strangers who one day find themselves connected, reborn as one as sensates. They become a cluster of eight people sharing their lives, their existence; for all intents and purposes from that point onwards they are a single fundamental unit. That’s the cornerstone of the title and this idea of interconnectedness is also its success.

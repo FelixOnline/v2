@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Halls should not be subsidising alcohol with the amenities fund argues Union President
 date: "2011-02-17 19:38:45 +0000"
-
-# Attributes from Felix Online V1
-id: "822"
-old_path: /news/822/measures-to-reduce-hall-rents-considered
+image: "http://felixonline.co.uk/img/upload/201102171936-ks607-hallshal.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/822/measures-to-reduce-hall-rents-considered
-imported: true
 comments:
  - value: >
      So, can we see this breakdown of hall rents?,Agree with person above. The breakdown would be interesting. <br> <br>Also, I'd very much like to point out that if, like me, you use the Student loan to cover accommodation (5k a year) this only covers £120 a week. It seems ludicrous that most of the halls are beyond this for single rooms. ,Cut the wardening fund too, for the money wardens cost their contribution is minimal.,kaptnkrunch has an excellent point. Even a twin room in south/eastside would leave about £10 a week if you don't get a bursary. This means your parents have to support you and there is no possible way of truly standing on your own two feet. <br> <br>If you get put in a single room you're down about £50 a week on your student loan and down almost £100 a week if you get put in a deluxe! It seemed that last year when I was in halls, there was an excess of these deluxe/premium rooms with many people choosing singles and being loaded with the extra bill for something they didn't even want.,When I was in h
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - skd09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102171936-ks607-hallshal.jpg"
-image_caption: ""
 ---
 
 The price of university hall accommodation has come under scrutiny as a survey is set to be launched by the Union into how hall rents could be reduced. The Union has obtained a breakdown of what makes up the rent and are debating a range of cost-saving measures. Students are encouraged to take part in the debate by filling out a questionnaire, to be released early next week.

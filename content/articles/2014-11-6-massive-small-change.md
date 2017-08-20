@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Shiladitya Ghosh & Marcus Bishop on opportunities with EWB
 date: "2014-11-06 20:58:35 +0000"
-
-# Attributes from Felix Online V1
-id: "4792"
-old_path: /cands/4792/massive-small-change
+image: "http://felixonline.co.uk/img/upload/201411062055-cj914-some-of-the-deeper-questions-in-life-which-we-address.jpg"
+image_caption: "EWB answers the big questions."
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/4792/massive-small-change
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -25,12 +23,6 @@ authors:
  - msb212
  - sg4812
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411062055-cj914-some-of-the-deeper-questions-in-life-which-we-address.jpg"
-image_caption: ""
 ---
 
 Many people in our world face severe challenges just to live and get by each day, though we may not see them around in our privileged lives as students at university. Engineers Without Borders UK is a charitable organisation that believes access to engineering and technical know-how can help overcome many of these challenges.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   One remains in critical condition
 date: "2016-11-24 16:44:23 +0000"
-
-# Attributes from Felix Online V1
-id: "6490"
-old_path: /news/6490/road-accident-hospitalises-medical-students
+image: "http://felixonline.co.uk/img/upload/201611241700-felix-image1.JPG"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6490/road-accident-hospitalises-medical-students
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611241700-felix-image1.JPG"
-image_caption: ""
 ---
 
 Three Imperial students were among the four pedestrians injured last night during a car collision on North End Road. The accident occurred shortly before 18:45 when it is believed, according to Metropolitan Police reports, that a black Audi A3 crashed into the pedestrians.

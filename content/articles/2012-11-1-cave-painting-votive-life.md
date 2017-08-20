@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jeni Pillai sees if this much anticipated release live up to the hype and early promise?
 date: "2012-11-01 23:16:57 +0000"
-
-# Attributes from Felix Online V1
-id: "2821"
-old_path: /music/2821/cave-painting-votive-life
+image: "http://felixonline.co.uk/img/upload/201211012316-tna08-cave-painting.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2821/cave-painting-votive-life
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211012316-tna08-cave-painting.jpg"
-image_caption: ""
 ---
 
 Cave Painting are a Brighton based band signed to Third Rock Recordings. Their debut album Votive Life released on 24th September this year certainly promised much, but did it really deliver? There was a lot of hype surrounding the album prior to its release because of the popularity of their pre-released tracks, such as ‘Rio’ and ‘Gator’. Not to mention the fact that they have played a few dates with Mercury Prize nominees (and favourites to win) Alt-J, who actually have one of the best albums I’ve heard this year so far. It really does feel like Votive Life will meet the hype at first…but then it starts to get less convincing.

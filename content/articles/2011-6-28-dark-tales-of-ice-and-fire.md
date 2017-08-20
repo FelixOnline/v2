@@ -4,16 +4,13 @@ title: >
 subtitle: >
   George R. R. Martin's masterpiece
 date: "2011-06-28 11:53:16 +0100"
-
-# Attributes from Felix Online V1
-id: "1446"
-old_path: /arts/1446/dark-tales-of-ice-and-fire
+image: "http://felixonline.co.uk/img/upload/201106281253-felix-wikifullasoiafsizeedit.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1446/dark-tales-of-ice-and-fire
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ghc07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106281253-felix-wikifullasoiafsizeedit.jpg"
-image_caption: ""
 ---
 
 [A Song of Ice and Fire](http://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire) starts out with the Seven Kingdoms under one rule – the Iron Throne at the capital, conveniently called King’s Landing. The ruling House is the Baratheons, who deposed of the Mad King Targayen. Troubles stir as rumours arise that the wealthy and ambitious House Lannister are plotting to take over the throne. After the mysterious death of the King’s Hand (prime minister), Lord Eddard Stark of House Stark, a close friend and confidante of King Robert is summoned to King’s Landing to take over the job of the King’s Hand. So begins a series of events which would lead you through a murder mystery, an incestuous secret, lots of Machiavellian political play and backstabbing as everyone wants the Iron Throne for him/herself.

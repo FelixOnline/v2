@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Schaübuhne Berlin production of Shakespeare's Richard III adds in dark German absurdity
 date: "2017-02-17 22:00:23 +0000"
-
-# Attributes from Felix Online V1
-id: "6807"
-old_path: /arts/6807/richard-iii--an-exploration-of-a-monster
+image: "http://felixonline.co.uk/img/upload/201702172156-ff712-02.jpg"
+image_caption: "Schaubühne Berlin, Richard III, Lars Eidinger and Jenny König"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6807/richard-iii--an-exploration-of-a-monster
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ezrakitson14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702172156-ff712-02.jpg"
-image_caption: ""
 ---
 
 Thomas Ostermeier’s production of Richard III is a celebration of the wicked, the tragic, and the profane. The play is on tour from Schaubühne Berlin and is performed entirely in German with English surtitles on the stage.

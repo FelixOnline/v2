@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Furse on the NHS reform bill
 date: "2012-03-15 21:45:46 +0000"
-
-# Attributes from Felix Online V1
-id: "2393"
-old_path: /comment/2393/there-arent-enough-intellectuals
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2393/there-arent-enough-intellectuals
-imported: true
 comments:
  - value: >
      It's easy to have pretensions to intellectual neutrality when you're the oppressor and not the oppressed.,Anti-NHS-reform campaigners do have a coherent argument. Their argument is 'this will not work; these reforms will only make everything worse.' I don't understand why this seems so hard for you to grasp. <br> <br>"..but why should she, or others at her level in the organisation, be seen as knowing what will and will not work in a public service health care system? To put it another way, why should a junior doctor be in a position to run the NHS?" <br> <br>Firstly, I find it deeply problematic that you assume the 'attractive medic' has to be a junior doctor. Secondly, who knows better what is and isn't working in the NHS than the people who work in the NHS? Thirdly, your showing contempt for the opinions of doctors illuminates your lack of understanding of the NHS reforms, the main purpose of which is to put power in the hands of the doctors.,Calling your opponents stupid is some truly amazing debating tactics th
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - sf305
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The world is ruled by aggressive simpletons. We have all met jobsworths and nice guys, people who run things according to the first thing that comes into their head, rather than thinking it through.

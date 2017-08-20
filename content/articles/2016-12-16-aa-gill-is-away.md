@@ -4,16 +4,13 @@ title: >
 subtitle: >
   One of the most notable food writers and critics of the 21st century, AA Gill passed away last week following a battle with cancer. Here are some thoughts from a fan.
 date: "2016-12-16 15:55:59 +0000"
-
-# Attributes from Felix Online V1
-id: "6620"
-old_path: /food/6620/aa-gill-is-away
+image: "http://felixonline.co.uk/img/upload/201612161552-felix-AA Gill (c.Peter Marlow).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6620/aa-gill-is-away
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - im1413
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612161552-felix-AA Gill (c.Peter Marlow).jpg"
-image_caption: ""
 ---
 
 The journalist AA Gill, The Sunday Times food (and occasionally TV) critic, died last week, only three weeks after writing about his cancer diagnosis in his weekly column.

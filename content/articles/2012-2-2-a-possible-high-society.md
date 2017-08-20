@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rhys Davies takes a controversial standpoint, but one that he thinks makes sense
 date: "2012-02-02 23:28:04 +0000"
-
-# Attributes from Felix Online V1
-id: "2110"
-old_path: /comment/2110/a-possible-high-society
+image: "http://felixonline.co.uk/img/upload/201202022326-sjw209-drugs-arebad.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2110/a-possible-high-society
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - rjd08
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202022326-sjw209-drugs-arebad.jpg"
-image_caption: ""
 ---
 
 Please do not read the following if you do not like controversial material.

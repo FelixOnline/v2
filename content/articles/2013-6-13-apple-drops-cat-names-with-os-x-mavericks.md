@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Fabio Virgi looks at Apple's latest offering
 date: "2013-06-13 22:54:16 +0100"
-
-# Attributes from Felix Online V1
-id: "3685"
-old_path: /tech/3685/apple-drops-cat-names-with-os-x-mavericks
+image: "http://felixonline.co.uk/img/upload/201306132353-tna08-applearticletechrgb.jpg"
+image_caption: "Some of the key new features from OS X SeaLion? Clockwise from top left: Bookmark sidebar, Multiple "
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3685/apple-drops-cat-names-with-os-x-mavericks
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +22,6 @@ authors:
  - tecfelix
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306132353-tna08-applearticletechrgb.jpg"
-image_caption: ""
 ---
 
 At WWDC 2013, Appleannounced the upgrade to the Mountain Lion operating system, OS X Mavericks. Based on the new features, it seems that Apple have placed a lot of focus on productivity and ease of use with this OS. Amongst hundreds of new features, the key things to take away from the new release are updates to Finder, Safari and improvements for users of multiple displays.

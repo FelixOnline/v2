@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jack Steadman looks back at the latest season of Game of Thrones
 date: "2015-06-18 19:42:52 +0100"
-
-# Attributes from Felix Online V1
-id: "5629"
-old_path: /tv/5629/still-surviving-still-thriving-
+image: "http://felixonline.co.uk/img/upload/201506182041-jyg11-yoo-noo-noofin,-john-snoo.jpg"
+image_caption: "At least one of the men in this image knows nothing. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5629/still-surviving-still-thriving-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -25,12 +23,6 @@ authors:
  - jyg11
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506182041-jyg11-yoo-noo-noofin,-john-snoo.jpg"
-image_caption: ""
 ---
 
 Another year, another season of _Game of Thrones_ draws to a close.

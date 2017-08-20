@@ -4,16 +4,14 @@ title: >
 subtitle: >
   "It’s about companionship, loneliness and survival during tough, conservative times"
 date: "2012-03-15 20:45:57 +0000"
-
-# Attributes from Felix Online V1
-id: "2363"
-old_path: /film/2363/glenn-close-is-a-nobbs
+image: "http://felixonline.co.uk/img/upload/201203152041-ams111-glenn-close-albert-nobbs-and-mia-wasikowska.jpg"
+image_caption: "I don’t boil bunnies anymore! You must believe me!! I’m not crazy!!!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2363/glenn-close-is-a-nobbs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152041-ams111-glenn-close-albert-nobbs-and-mia-wasikowska.jpg"
-image_caption: ""
 ---
 
 [Albert Nobbs](http://www.imdb.com/title/tt1602098/)

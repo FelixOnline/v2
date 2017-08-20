@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Thor: The Dark World Director: Alan Taylor Writers: Christopher Yost, Christopher Markus, Stephen McFeely Starring: Chris Hemsworth, Natalie Portman, Anthony Hopkins, Tom Hiddleston, Christopher Eccleston, Idris Elba, Jaimie Alexander, Ray Stevenson, Zachary Levi, Kat Dennings, Stellan Skarsgård, A
 date: "2013-11-08 10:01:26 +0000"
-
-# Attributes from Felix Online V1
-id: "4041"
-old_path: /film/4041/the-return-of-the-australian-norse-god
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4041/the-return-of-the-australian-norse-god
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - js5913
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Phase 2 of Marvel’s grand scheme to take over the world (sorry, “make really good movies”) continues apace with this, the second entry in the series about everyone’s second-favourite Norse god (if you’re about to tell me Loki isn’t your favourite, I’m going to stop you there and tell you you’re a really bad liar). With Game of Thrones director Alan Taylor taking over the reins from Kenneth Branagh, it seems reasonable to expect things to take a darker, grimier tone than the rather camp, light-hearted original and, well, they do.

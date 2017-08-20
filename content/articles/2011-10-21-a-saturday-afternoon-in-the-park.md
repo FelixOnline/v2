@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Frieze Art Fair 101: A novice’s impressions
 date: "2011-10-21 10:28:21 +0100"
-
-# Attributes from Felix Online V1
-id: "1590"
-old_path: /arts/1590/a-saturday-afternoon-in-the-park
+image: "http://felixonline.co.uk/img/upload/201110211126-felix-bluearts.png"
+image_caption: "Trouser presses and biros are not friends"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1590/a-saturday-afternoon-in-the-park
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - ial08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110211126-felix-bluearts.png"
-image_caption: ""
 ---
 
 Picture the scene: Regent’s Park on a sunny Saturday afternoon. Families are out, the squirrels are being pretty inquisitive and the pedal boats on the lake are politely bumping into each other. In the middle of it all, a sprawling white structure with a pretty weird wooden entrance, out of which snakes a long queue. Next to it sits the entrance for people who already have tickets - little groups of stylishly dressed (to not use the word arty) people filter into the airy white tent in pretty excited fashion.

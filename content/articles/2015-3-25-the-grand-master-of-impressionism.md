@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Indira Mallik takes a tour of artistic history at the National Gallery
 date: "2015-03-25 13:17:16 +0000"
-
-# Attributes from Felix Online V1
-id: "5447"
-old_path: /arts/5447/the-grand-master-of-impressionism
+image: "http://felixonline.co.uk/img/upload/201503251316-ff712-impressionism-x8659.pr.jpg"
+image_caption: "Claude Monet, Poplars in the Sun, 1891. Oil on canvas."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5447/the-grand-master-of-impressionism
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251316-ff712-impressionism-x8659.pr.jpg"
-image_caption: ""
 ---
 
 It’s not often that exhibitions are staged in celebration of art collectors. Perhaps it feels more like honouring the monetary value of the work than its impact, but _Inventing Impressionism_ at the __National Gallery__ shows how focussing on the collector can sometimes be a stroke of genius. The exhibition showcases the work of Renoir, Monet, and Degas amongst others through the life of Paul Durand-Ruel, a French art collector who is credited with championing the work of the Impressionists when contemporary reviews were mostly hostile.

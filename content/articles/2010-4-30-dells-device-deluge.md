@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Dell leaks details of five new mobile devices and new information about two already known
 date: "2010-04-30 11:39:05 +0100"
-
-# Attributes from Felix Online V1
-id: "133"
-old_path: /tech/133/dells-device-deluge
+image: "http://felixonline.co.uk/img/upload/201004301229-srg03-DellThun.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/133/dells-device-deluge
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - srg03
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201004301229-srg03-DellThun.jpg"
-image_caption: ""
 ---
 
 ###

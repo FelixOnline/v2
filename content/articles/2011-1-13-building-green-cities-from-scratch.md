@@ -4,16 +4,13 @@ title: >
 subtitle: >
   We should move to new cities that are designed to be green
 date: "2011-01-13 20:10:48 +0000"
-
-# Attributes from Felix Online V1
-id: "576"
-old_path: /science/576/building-green-cities-from-scratch-
+image: "http://felixonline.co.uk/img/upload/201101132009-ks607-masdar.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/576/building-green-cities-from-scratch-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - ae1409
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101132009-ks607-masdar.jpg"
-image_caption: ""
 ---
 
 Ecologists and environmental scientists are trying hard to raise public awareness about environmental problems. I believe that everyone understands that we live on a suffering planet which has various increasing needs and demands, which is why cities all over the world have set high targets to reduce carbon emissions and produce clean energy. However, a very interesting alternative has started to evolve. Why not build new “green” cities from scratch?

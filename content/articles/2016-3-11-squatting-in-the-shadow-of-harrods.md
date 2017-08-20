@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A squat in SW3 highlighting the London housing crisis is served eviction papers
 date: "2016-03-11 11:23:36 +0000"
-
-# Attributes from Felix Online V1
-id: "6019"
-old_path: /news/6019/squatting-in-the-shadow-of-harrods
+image: "http://felixonline.co.uk/img/upload/201603111121-felix-12833275_971574509558882_307790599_n.jpg"
+image_caption: "Fight the power! Then pop to Pret for lunch."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6019/squatting-in-the-shadow-of-harrods
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +21,6 @@ authors:
  - ea3211
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603111121-felix-12833275_971574509558882_307790599_n.jpg"
-image_caption: ""
 ---
 
 If you think the squat movement is dead, perhaps you should reconsider because there’s one right on our doorstep, at 221 Brompton Road, just a few streets from Harrods.

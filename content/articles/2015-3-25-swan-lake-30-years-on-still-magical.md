@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Fred Fyles finds ROH’s ballet in need of updating despite strong dancing
 date: "2015-03-25 13:27:49 +0000"
-
-# Attributes from Felix Online V1
-id: "5451"
-old_path: /arts/5451/swan-lake-30-years-on-still-magical
+image: "http://felixonline.co.uk/img/upload/201503251327-ff712-ap--20150876-natalia-osipova-as-odette,-matthew-golding-as-prince-siegfr...a.jpg"
+image_caption: "Natalia Osipova as Odette and Matthew Golding as Prince Siegfried. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5451/swan-lake-30-years-on-still-magical
-imported: true
 comments:
  - value: >
      Basically desired to emphasize I am just relieved that i stumbled onto your webpage!. <br>fifa 17 http://www.eciadvantageforum.com/blogs/cheap-csgo-skins/1410-fifa-17-coins-changes-are-enabled-for-by-some-games
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251327-ff712-ap--20150876-natalia-osipova-as-odette,-matthew-golding-as-prince-siegfr...a.jpg"
-image_caption: ""
 ---
 
 They say that familiarity breeds contempt; if this is true, it would be surprising to find anyone in the country who can still stand _Swan Lake_, a ballet classic that has become so well known that it risks becoming dusty. However, this is clearly not the case, judging by the turnout for the __Royal Opera House__’s production, which filled the hall right up to the rafters. A revival of Anthony Dowell’s 1987 production, this version of _Swan Lake_ aims to place the choreography firmly back at the centre of the work; rather than trying any fancy staging techniques, or technical gimmicks, the piece returns to London on the strength of the __Royal Ballet Company__’s dancers.

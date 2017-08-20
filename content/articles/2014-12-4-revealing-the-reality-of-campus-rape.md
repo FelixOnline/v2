@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Indira Mallik looks at Emma Sulkowicz’s Carry That Weight
 date: "2014-12-04 19:53:02 +0000"
-
-# Attributes from Felix Online V1
-id: "5005"
-old_path: /arts/5005/revealing-the-reality-of-campus-rape
+image: "http://felixonline.co.uk/img/upload/201412041952-cj914-mattress-protest.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5005/revealing-the-reality-of-campus-rape
-imported: true
 comments:
  - value: >
      Wow, stunning portal. Thnx ...| <br>nba 2k16 my player prices https://message.diigo.com/message/nba-2k16-mt-coins-my-keeper-in-aim-and-take-my-chances-4268728?page_num=0#0
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - im1413
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412041952-cj914-mattress-protest.jpg"
-image_caption: ""
 ---
 
 Something of a small revolution is taking place at Columbia University. Each day, Emma Sulkowicz, a 21 year old 3rd year student can be seen carrying her 23 kg mattress around campus. It’s not that she’s found a drastic solution to tiredness at lectures; but rather a powerful performance art piece. _Carry That Weight_ is Sulkowicz’s final year thesis in which she vows to carry the mattress on which she was assaulted until the man she says raped her is removed from campus.

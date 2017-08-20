@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Grace Rahman tells us all about her favourite comic – a cheeky superhero romp
 date: "2015-03-08 16:56:18 +0000"
-
-# Attributes from Felix Online V1
-id: "5366"
-old_path: /arts/5366/my-favourite-comic--sex-criminals
+image: "http://felixonline.co.uk/img/upload/201503081655-ff712-sexcrim01a-reg.jpg"
+image_caption: "Sex Criminals: Volume 1, our Music Editor’s comic of choice"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5366/my-favourite-comic--sex-criminals
-imported: true
 comments:
  - value: >
      What's happening, great webpage you've got here <br>madden 17 coins http://www.kanya.christalways.com/item/3398,Thanks regarding delivering these kinds of well put together info <br>madden 17 http://hundetreff.hunde4um.com/t1569f2015-buy-NFL-coins-Madden-Teams.html#msg2194
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503081655-ff712-sexcrim01a-reg.jpg"
-image_caption: ""
 ---
 
 I won’t lie, I don’t know shit about comics. I only started frequenting Soho’s GOSH! Comics for the sexy men and proximity to good record stores. Before I started lurking in the graphic novel section of Waterstones, I thought comics simply provided fuel for Marvel Studios to re-hash into a new blockbuster every summer. Don’t get me wrong, I know my Aquaman from my Iron Man, but beyond the necessary general knowledge to get me through a rogue DC/Marvel question during Mastermind, I just wasn’t interested. And I’m still not interested in the world of superhero comics, despite recent expansion from the cis white male template that the genre traditionally serves so well. The latest incarnation of Ms Marvel, written by a female Muslim convert, is a teenage Pakistani living in New York. Her parents are terrified she’ll have sex or not become a doctor.

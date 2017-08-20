@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Max Eggl asks the question we are all considering at the moment.
 date: "2014-11-28 01:05:25 +0000"
-
-# Attributes from Felix Online V1
-id: "4974"
-old_path: /sport/4974/racism-in-football-is-the-sport-living-in-a-deluded-bubble
+image: "http://felixonline.co.uk/img/upload/201411280105-kmw13-wigan-athletic.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4974/racism-in-football-is-the-sport-living-in-a-deluded-bubble
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - kmw13
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411280105-kmw13-wigan-athletic.jpg"
-image_caption: ""
 ---
 
 Racism is unacceptable. Regardless of who you are, the situation you find yourself in, or any excuses you may offer up, the moment you bring up someone’s race is the moment that you have crossed the line. However, there seems to be one area where casual racism is endemic, and is rarely punished. I am talking about football. If you Google football and racism, you will come upon scores of results, and ones about the lack of it are rare.

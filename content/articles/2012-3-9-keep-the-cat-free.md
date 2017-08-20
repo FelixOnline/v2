@@ -4,18 +4,15 @@ title: >
 subtitle: >
   On the independence of Felix
 date: "2012-03-09 13:06:03 +0000"
-
-# Attributes from Felix Online V1
-id: "2338"
-old_path: /comment/2338/keep-the-cat-free
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2338/keep-the-cat-free
-imported: true
 comments:
  - value: >
      Stephen Smith: Rapidly becoming my favourite Felix writer. ,The editor's note at the beginning of this article contains several misleading and factually inaccurate statements which could be considered defamatory. <br> <br>But never mind, free speech and all that.,The original article is available at the blog linked to above. <br> <br>Cleverly, it is fully referenced with links to College websites to back up each claim I make. Decide for yourself whether or not it contains "factual inaccuracies".,So what's going on Felix? Why publish an article if you don't believe it to be true?
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - ss10210
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ___Following allegations that Felix has been prevented by College from printing, I would like to take the opportunity to reassure readers that it was solely an editorial decision to not run the piece on the Careers Advisory Service.___

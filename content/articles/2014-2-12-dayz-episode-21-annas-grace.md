@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The DayZ standalone has been released, and given the amazing stories that occur in that game, I decided to make a kind of series out it! So here it goes:
 date: "2014-02-12 12:08:33 +0000"
-
-# Attributes from Felix Online V1
-id: "4371"
-old_path: /games/4371/dayz-episode-21-annas-grace
+image: "http://felixonline.co.uk/img/upload/201402121208-me1711-games_dayz.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4371/dayz-episode-21-annas-grace
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201402121208-me1711-games_dayz.jpg"
-image_caption: ""
 ---
 
 If you want to read about the start of Anna's tale, here is the link: [Episode 2: Anna's Hunger](../games/4336/episode-2-annas-hunger/)

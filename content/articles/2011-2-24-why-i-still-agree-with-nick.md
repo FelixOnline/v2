@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The Liberal Democrats are doing the right thing argues Tagore Nakornchai
 date: "2011-02-24 20:06:25 +0000"
-
-# Attributes from Felix Online V1
-id: "879"
-old_path: /politics/879/why-i-still-agree-with-nick
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/879/why-i-still-agree-with-nick
-imported: true
 comments:
  - value: >
      It's easy to say that we wouldn't face a debt crisis now, but back then, we really weren't sure. Besides, the ongoing cuts are less severe than the ones Osborne were proposing, and I'd say that's a lot to do with the Lib Dems, particularly Danny Alexander, helping to counterbalance Osborne's instincts to slash everything to the bone. <br> <br>And indeed, I'd agree that Coalitions do work better when the parties are in agreement. As I mentioned in the article, the Lib Dems share much in common with the Cameronian Tories - a belief in less state intervention and more local government. Yes, there are major policy disagreements, particularly when it comes to higher education funding, but there is genunine middle ground where Cammeron and Clegg agree - to a large extent, I feel Cameron wanted to go into coalition because he feels there was more common ground with the Lib Dems than with the right of his own party.,We did know at the time that the UK was not on the same road as Greece. Anyone not captivated by the sens
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -27,12 +24,6 @@ authors:
  - tn509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Lib Dems have been criticized by everyone and their dog since they joined the coalition last May – the turnaround on tuition fees, their complicity in the public sector cuts, allowing the Tories in to Number 10. We’ve all heard it before: the Lib Dems are doomed, we’ll never vote for them again, yadda, yadda, yadda.

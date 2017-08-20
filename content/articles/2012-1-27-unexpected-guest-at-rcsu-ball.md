@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Cricketer commotion as students raise money for RAG
 date: "2012-01-27 00:27:57 +0000"
-
-# Attributes from Felix Online V1
-id: "2081"
-old_path: /news/2081/unexpected-guest-at-rcsu-ball
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2081/unexpected-guest-at-rcsu-ball
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - pjb09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Last Tuesday, the [Royal College of Science Union](http://rcsu.org.uk/exec/) (RCSU) held its annual Spring Ball in aid of Raising and Giving (RAG).

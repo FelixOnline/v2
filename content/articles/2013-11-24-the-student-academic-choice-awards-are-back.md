@@ -4,16 +4,13 @@ title: >
 subtitle: >
   After the huge success of last year’s awards the Student Academic Choice Awards (SACAs) are back, and this year they are bigger than ever!
 date: "2013-11-24 15:50:56 +0000"
-
-# Attributes from Felix Online V1
-id: "4099"
-old_path: /features/4099/the-student-academic-choice-awards-are-back
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4099/the-student-academic-choice-awards-are-back
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - nk609
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 After the huge success of last year’s awards the Student Academic Choice Awards (SACAs) are back, and this year they are bigger than ever! In case you haven’t heard of them, the SACAs are awards for academics and support staff, nominated and chosen entirely by students. The awards are designed to celebrate and reward good teaching and emphasise teaching as a skill of equal worth and value as research. We also want to build a community in which students, academics and staff all feel ownership of the development and delivery of their course. These awards are a chance for students to say thank you to those members of staff that have had a positive impact on their time at Imperial.

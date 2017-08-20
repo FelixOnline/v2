@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Looking at Marcus du Sautoy and Victoria Gould's "X & Y"
 date: "2013-10-18 21:53:13 +0100"
-
-# Attributes from Felix Online V1
-id: "3897"
-old_path: /arts/3897/an-algebraic-love-affair-at-the-science-museum
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3897/an-algebraic-love-affair-at-the-science-museum
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - enl11
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Marcus du Sautoy and Victoria Gould recently starred in a short run production of “X&Y” at the Science Museum, a story of two algebraic variables apparently falling in love. Together they explore and tackle some of the biggest questions out there. What is infinity? Is there an edge to the universe? Are mathematics and theatre the same? All played out on a small, sparse stage somewhere in the back room at the Science Museum. Sounds interesting right?

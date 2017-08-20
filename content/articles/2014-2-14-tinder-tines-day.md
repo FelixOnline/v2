@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It’s that time of year again – Valentine’s day. For me it's spent watching films, and drinking cheap cava, which on any other day would be perfectly acceptable behaviour (right?) but on this particular one comes across as a bit sad. Therefore, I volunteered to test-drive the app of the day, Tinder
 date: "2014-02-14 18:37:43 +0000"
-
-# Attributes from Felix Online V1
-id: "4383"
-old_path: /features/4383/tinder-tines-day
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4383/tinder-tines-day
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It’s that time of year again – Valentine’s day. For me, it’s usually spent eating pizza, watching films, and drinking cheap cava, which on any other day would be perfectly acceptable behaviour (right?) but on this particular one comes across as a bit sad. Therefore, as Felix’s resident perennial singleton, I volunteered to test-drive the app of the moment, Tinder, admittedly fuelled more by a morbid curiosity than anything. Online dating is a thing now I guess – who knew?

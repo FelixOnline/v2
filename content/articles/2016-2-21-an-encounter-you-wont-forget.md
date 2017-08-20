@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Simon McBurney’s masterpiece is timeless in nature.
 date: "2016-02-21 13:01:47 +0000"
-
-# Attributes from Felix Online V1
-id: "5950"
-old_path: /arts/5950/an-encounter-you-wont-forget
+image: "http://felixonline.co.uk/img/upload/201602211251-jc7413-encounter_1.jpg"
+image_caption: "Simon McBurney in The Encounter."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5950/an-encounter-you-wont-forget
-imported: true
 comments:
  - value: >
      Rather enlightening, looking onward to coming back again.| <br>nba 2k16 my account expired http://www.transgender4life.com/bazaar/index.php?item/1333,Rather enlightening, looking onward to coming back again.| <br>nba 2k16 my account expired http://www.transgender4life.com/bazaar/index.php?item/1333,Rather enlightening, looking onward to coming back again.| <br>nba 2k16 my account expired http://www.transgender4life.com/bazaar/index.php?item/1333,Rather enlightening, looking onward to coming back again.| <br>nba 2k16 my account expired http://www.transgender4life.com/bazaar/index.php?item/1333,Rather enlightening, looking onward to coming back again.| <br>nba 2k16 my account expired http://www.transgender4life.com/bazaar/index.php?item/1333,Rather enlightening, looking onward to coming back again.| <br>nba 2k16 my account expired http://www.transgender4life.com/bazaar/index.php?item/1333,Wow, beautiful portal. Thnx ...| <br>nba 2k16 mt for sale reddit http://moonfaced.com/blogs/22/4285/cs-go-skins-first-you-start-with-the-bank-spr
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -29,12 +27,6 @@ authors:
  - wbe15
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602211251-jc7413-encounter_1.jpg"
-image_caption: ""
 ---
 
 _McBurney’s performance recounts the story of Loren McIntyre– an American photographer who travels into the Amazon rainforest to attempt to capture on film an elusive, indigenous people called the Mayoruna. It quickly becomes apparent however that this story did not happen in the past alone, but is also happening in the present. This is uniquely done through the engaging auditory experience._

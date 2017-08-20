@@ -4,16 +4,13 @@ title: >
 subtitle: >
   James Simpson on television’s best cops, robbers, detectives and con-men
 date: "2011-03-03 20:01:39 +0000"
-
-# Attributes from Felix Online V1
-id: "1001"
-old_path: /tv/1001/best-in-class-crime
+image: "http://felixonline.co.uk/img/upload/201103031958-nm1010-spookssp.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1001/best-in-class-crime
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -25,12 +22,6 @@ authors:
  - tvfelix
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103031958-nm1010-spookssp.jpg"
-image_caption: ""
 ---
 
 Why is it that we love crime so much? Obviously when one is the victim of such offences (give me five minutes and a rounders bat with the bastard who stole my bike...) it’s a little different, but crime fiction persistently tops the books, films and TV charts. It’s probably the most popular category of television, all that reality piffle notwithstanding (it’s for cretins anyway).

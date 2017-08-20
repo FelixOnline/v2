@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A trippy, synaesthetic nightmare, says Henry Turner-Chambers
 date: "2011-11-17 22:21:57 +0000"
-
-# Attributes from Felix Online V1
-id: "1793"
-old_path: /film/1793/lets-talk-about-mummys-little-monster
+image: "http://felixonline.co.uk/img/upload/201111172221-pk1811-we-need-to-talk-about-kev-007.jpg"
+image_caption: "Where the hell's the tomato soup?!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1793/lets-talk-about-mummys-little-monster
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - ffilm
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172221-pk1811-we-need-to-talk-about-kev-007.jpg"
-image_caption: ""
 ---
 
 __We Need to Talk About Kevin__

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Union to announce exact prices and drinks on offer later on in the summer
 date: "2012-08-03 11:47:26 +0100"
-
-# Attributes from Felix Online V1
-id: "2588"
-old_path: /news/2588/new-prices-of-drinks-for-next-year
+image: "http://felixonline.co.uk/img/upload/201208031242-felix-felix-drowns-sorrow.jpg"
+image_caption: "First a bad lab report mark, then pennied by 240 people. Welcome to cat versus booze"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2588/new-prices-of-drinks-for-next-year
-imported: true
 comments:
  - value: >
      @Wiggo: That's what I meant/thought I said. As in, it now costs £2.40. Before the change in price it was £2.20. So it's changed from £2.20 to £2.40. Sorry if it wasn't clear! I think I need a pint now...,blatant profiteering from the Union again. They're using the removal of the 'entry' charge (which only applies to a few people, and I've always been able to avoid it when I've gone on days it applies for) as an excuse to charge us all more for drinks, and make more money out of us. <br> <br>Fleecing your members is not what a Students' Union is meant to be about ICU, and its best you don't forget that.,Thanks for pointing out the naming mess-up. I'll put my hands up and admit it was an honest mistake! It's been corrected now.,a) If you organised a one night only event with lots of people turning out, you probably can negotiate cheaper drinks than standard Union drinks. that's not exactly a huge surprise (although this is in theory because our union is more responsible about drinking than most bars... right?!).
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201208031242-felix-felix-drowns-sorrow.jpg"
-image_caption: ""
 ---
 
 Any student visiting the Union recently (possibly for celebrating/drowning your sorrows after resits over summer) may have noticed that the pricing has changed. For example, a pint of Stella now costs £2.40, whereas before it was £2.20, resulting in a rise of 9% (9.09 both recurring, to be precise – we are at Imperial after all).

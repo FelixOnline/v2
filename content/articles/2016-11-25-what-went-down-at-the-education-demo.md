@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Over 15,000 students participated
 date: "2016-11-25 13:24:07 +0000"
-
-# Attributes from Felix Online V1
-id: "6495"
-old_path: /news/6495/what-went-down-at-the-education-demo
+image: "http://felixonline.co.uk/img/upload/201611251323-felix-Screen Shot 2016-11-24 at 18.01.03.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6495/what-went-down-at-the-education-demo
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611251323-felix-Screen Shot 2016-11-24 at 18.01.03.png"
-image_caption: ""
 ---
 
 Saturday saw thousands of students and academics take to the streets  to protest government cuts and education reforms.

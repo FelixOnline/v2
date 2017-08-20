@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Oliver Benton reports as students refuse to leave until Phil Power does
 date: "2014-10-24 12:48:01 +0100"
-
-# Attributes from Felix Online V1
-id: "4747"
-old_path: /news/4747/fire-alarm-interrupts-bar-night-again
+image: "http://felixonline.co.uk/img/upload/201411021847-ps3110-10631142_10202526484876168_7205085367365400776_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4747/fire-alarm-interrupts-bar-night-again
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ohb09
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411021847-ps3110-10631142_10202526484876168_7205085367365400776_o.jpg"
-image_caption: ""
 ---
 
 Hundreds of graduate students were looking forward to enjoying one last hurrah treading the sticky floors of Metric only for their revelry to be cut short by fire alarms and the early closing of the bars.

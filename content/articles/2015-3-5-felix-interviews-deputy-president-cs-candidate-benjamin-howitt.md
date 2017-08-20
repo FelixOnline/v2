@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:29:53 +0000"
-
-# Attributes from Felix Online V1
-id: "5340"
-old_path: /comment/5340/felix-interviews-deputy-president-cs-candidate-benjamin-howitt
+image: "http://felixonline.co.uk/img/upload/201503052129-snb11-bwh12-5197.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5340/felix-interviews-deputy-president-cs-candidate-benjamin-howitt
-imported: true
 comments:
  - value: >
      fitflop cheapest <br>fitflop australia store http://australiafitflops.iemiller.net/,buy fitflop <br>fitflop discount http://www.australiafitflops.com/,christian louboutin pointed toe pump <br>christian louboutin sale outlet http://canadachristianlouboutinoutlet.blogspot.com/,South Africa itself are usually in group A with Mexico, Uruguay, and Spain. Using the above, 13 of the games so far ended in 1-0 score line. You can barely hear anything if not. <br>crÃ©dits fut rapidement http://creditsfut.com/,I like this site - its so usefull and helpfull <br>nba 2k17 mt http://vidaexterior.es/Breenda/blog/13893/,Fantastic site you possess there <br>nba 2k17 http://comunidad.proyectolatin.org/blog/view/132130/fifa-17-coins-comfort-trade-improvements-arriving-march
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503052129-snb11-bwh12-5197.jpg"
-image_caption: ""
 ---
 
 __Voting is now open! Click [here ](https://vote.union.ic.ac.uk/)to take part now. __

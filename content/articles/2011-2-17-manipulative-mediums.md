@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Have we been here in a past life? Let me save you the trouble; the answer is no
 date: "2011-02-17 20:11:40 +0000"
-
-# Attributes from Felix Online V1
-id: "835"
-old_path: /comment/835/manipulative-mediums-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/835/manipulative-mediums-
-imported: true
 comments:
  - value: >
      And I tuhgoht I was the sensible one. Thanks for setting me straight.,bx9tSY <a href="http://hojaluzefhlg.com/">hojaluzefhlg</a>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - jjg09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 While enjoying one of my typically exciting weekday evenings (during which I systematically avoid any kind of social interaction and retreat to the comfort of my couch), I stumbled upon a programme about past life regression presented by ethereal pundit Phillip Schofield. The grey-haired horseshit peddler asks one of the most important questions of our time – have we been here in a past life?

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Following huge success at the University of York, the fashion and dance project hits the London universities
 date: "2011-10-21 11:08:15 +0100"
-
-# Attributes from Felix Online V1
-id: "1595"
-old_path: /arts/1595/fabulous-fusion-arrives-in-london
+image: "http://felixonline.co.uk/img/upload/201110211208-felix-fusionmodels.jpg"
+image_caption: "In the face of stricter drinking rules, the Medics had to think of alternative intiations"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1595/fabulous-fusion-arrives-in-london
-imported: true
 comments:
  - value: >
      I'm all for new shows and events, but the article does no favours to Fusion by coming across as one massive arse lick. <br> <br>It feels like it's a friend doing another friend a favour... independent journalism it is not. And that's before mentioning the awful self-indulging comments on Page 29 of this week's Felix. <br> <br>Awful.,I agree with the above comment. It's certainly over the top publicity and praise for what is still just a student run event. <br> <br>"...something leaner, meaner and more metropolitan." What does that even mean? <br> <br> “...that’s the one major difference, whereas York was just York. London’s a lot bigger." err... no shit sherlock? <br> <br> “It’s a great opportunity to expand your horizons.” What does that even mean? <br> <br>"Never before have students been invited to collectively create the event rather than pay their entry fee and prop up the bar." err... what about East meets West? <br> <br>"...and a desire to give something back to the charity that sponsors her own doctoral studies" Call me a cynic,
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110211208-felix-fusionmodels.jpg"
-image_caption: ""
 ---
 
 Imperial is no stranger to big events; you’d have to have had your head in the sand to not know what [East Meets West](http://www.union.ic.ac.uk/osc/india/Events.html) is. Now an Imperial postgraduate hopes to bring her experiences from her previous university to break the mould with a spectacle that goes above and beyond anything that has come before.

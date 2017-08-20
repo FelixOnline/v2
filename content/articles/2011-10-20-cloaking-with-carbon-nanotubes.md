@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Douglas Heaven provides an update on the latest forays into invisibility
 date: "2011-10-20 21:01:21 +0100"
-
-# Attributes from Felix Online V1
-id: "1559"
-old_path: /science/1559/cloaking-with-carbon-nanotubes
+image: "http://felixonline.co.uk/img/upload/201110202201-felix-eight_allotropes_of_carbon.jpg"
+image_caption: "The prize for identifying Diamond is a smug sense of satisfaction"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1559/cloaking-with-carbon-nanotubes
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - fsci
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110202201-felix-eight_allotropes_of_carbon.jpg"
-image_caption: ""
 ---
 
 By recreating the naturally occurring effect of a mirage in the lab, researchers have hit upon a way to create cloaking devices that work for visible light, effectively making objects invisible when viewed from certain angles. Now, let’s just try to get through this without mentioning Harry Potter.

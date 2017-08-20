@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Social Secretary, who sent emails, now banned from mailing list
 date: "2015-02-27 00:07:40 +0000"
-
-# Attributes from Felix Online V1
-id: "5309"
-old_path: /news/5309/misogynistic-emails-sent-out-to-rugby-club-mailing-list
+image: "http://felixonline.co.uk/img/upload/201502270007-pk1811-screen-shot-2015-02-27-at-00.05.56.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5309/misogynistic-emails-sent-out-to-rugby-club-mailing-list
-imported: true
 comments:
  - value: >
      Loose means drunk. Unsure how that is misogynistic?,Slow news week at Imperial? Also what right does the union have to tell emailers to 'moderate language'? Everybody who is on the mailing list has presumably signed up to it, and is free to leave at any point. One would have thought that the union has more important issues to deal with than chasing up emails which are quite clearly jokes. The ladies in question have commented on how well behaved the gentlemen were, end of story in my opinion.,Loose obviously has sexual connotations. The union can't tell us what we can say in e-mails, but this is a sad indication of attitudes towards women at Imperial, and in the wider world,how can people say this isn't an issue it shows base misogynistic views of women as sex objects, ''easy pickings''?? <br> <br>''We understand that the email was aimed at a specific audience and that the boys would not speak in this manner to any of our girls.'' <br> <br>but they believe this way of speaking and thinking about girls is funny inste
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502270007-pk1811-screen-shot-2015-02-27-at-00.05.56.png"
-image_caption: ""
 ---
 
 Emails sent to the ICU Rugby Football Club (ICURFC) mailing list recently have contained misogynistic content, despite previously being warned by Imperial College Union to moderate their “inappropriate” language.

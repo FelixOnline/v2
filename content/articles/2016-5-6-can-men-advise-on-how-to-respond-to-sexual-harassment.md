@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Come back to me when you’ve had years of practice
 date: "2016-05-06 09:51:14 +0100"
-
-# Attributes from Felix Online V1
-id: "6120"
-old_path: /comment/6120/can-men-advise-on-how-to-respond-to-sexual-harassment
+image: "http://felixonline.co.uk/img/upload/201605061050-felix-Meghan-Trainor-NO_01.jpg"
+image_caption: "Sometimes “no” isn’t all you gotta say."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6120/can-men-advise-on-how-to-respond-to-sexual-harassment
-imported: true
 comments:
  - value: >
      This article is really interesting and well written,This article is really interesting and well written
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +24,6 @@ authors:
  - vmh14
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061050-felix-Meghan-Trainor-NO_01.jpg"
-image_caption: ""
 ---
 
 Picture the scene: A friend of yours has just told you about an experience of theirs, one in which they experienced discrimination, and they’re pissed off.  Why did they tell you? So you could explain to them how their reaction to the situation was wrong, right?

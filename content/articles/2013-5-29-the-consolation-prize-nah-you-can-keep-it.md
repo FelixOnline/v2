@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ross Webster gives his opinion on the Xbox One
 date: "2013-05-29 16:23:49 +0100"
-
-# Attributes from Felix Online V1
-id: "3635"
-old_path: /games/3635/the-consolation-prize-nah-you-can-keep-it
+image: "http://felixonline.co.uk/img/upload/201305291723-tna08-59d51511-a3a1-42df-8f82-912b0a1e05cb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3635/the-consolation-prize-nah-you-can-keep-it
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - rw507
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305291723-tna08-59d51511-a3a1-42df-8f82-912b0a1e05cb.jpg"
-image_caption: ""
 ---
 
 If you’ve been living under a rock these last two weeks, there was a lot of hype, building up to the reveal of Microsoft’s latest console – the last real contender in the latest saga of the console wars. As with anything that has ever had that much anticipation built up for it, you could hear the joy leaving everyone’s souls, making the noise like a rudely deflating balloon animal. It turns out that most people’s worst fears had become manifest.

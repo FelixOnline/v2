@@ -4,16 +4,14 @@ title: >
 subtitle: >
   An ode to our nutrition’s unsung hero, vitamin B
 date: "2016-03-18 11:48:26 +0000"
-
-# Attributes from Felix Online V1
-id: "6059"
-old_path: /science/6059/its-not-all-about-the-d
+image: "http://felixonline.co.uk/img/upload/201603181148-felix-3753445507_ef06cbe8d7_o.jpg"
+image_caption: "I don’t care who told you steak is rich in vitamin B. If you come near me, I will cut you. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6059/its-not-all-about-the-d
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - al4915
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603181148-felix-3753445507_ef06cbe8d7_o.jpg"
-image_caption: ""
 ---
 
 Some of us go pretty far when it comes to maintaining vigilance with our diets. We pinch our noses as we down that tablespoon of cod liver oil, chuck mounds of spinach into Tesco’s spinach ricotta tortellini, because obviously just the latter doesn’t quite fulfil our magnesium requirements, and knock back litres of vitamin water. Practices that all honour the holy triumvirate of vitamins K, D and A.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   At some point, the idea that these films are ‘compelling’ took hold. In truth, they’re deafeningly boring and achingly pretentious
 date: "2010-10-01 22:56:22 +0100"
-
-# Attributes from Felix Online V1
-id: "167"
-old_path: /film/167/critically-acclaimed-films-that-are-actually-terrible
+image: "http://felixonline.co.uk/img/upload/201010012347-ks607-PulpFict.jpg"
+image_caption: "Badass, sure. But 'compelling'? Give me a break"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/167/critically-acclaimed-films-that-are-actually-terrible
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +23,6 @@ authors:
  - ma1307
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010012347-ks607-PulpFict.jpg"
-image_caption: ""
 ---
 
 We all know the importance of conversation while making friends in your first week, especially the pit-falls of trying to not to sound lame. However, in spite of your best efforts to be cool, some pretentious knobber will always have something smart to say in response to your movie opinions, usually by knocking whatever you say. Let’s call him [Mr Knock](http://www.felixonline.co.uk/?user=egk08), for example. Well, fear not Freshers, I have produced a cut-out-and-keep guide to four really powerful movie opinions that will leave you the winner in any conversation with Mr Knock.

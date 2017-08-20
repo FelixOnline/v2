@@ -4,18 +4,15 @@ title: >
 subtitle: >
   An anonymous writer gives their opinion
 date: "2014-06-23 13:12:27 +0100"
-
-# Attributes from Felix Online V1
-id: "4708"
-old_path: /comment/4708/is-feminism-a-toxic-word
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4708/is-feminism-a-toxic-word
-imported: true
 comments:
  - value: >
      Feminism is in fact a toxic word and it isn't because people "misunderstand" it. Actually they're not misunderstanding feminism in the slightest. They're seeing what you are unable to see as perhaps you're too close to the problem to see it accurately or maybe you just can't bear to face an unpleasant truth. But you're not going to convince anyone worth convincing by simply pointing to the dictionary definition of feminism then folding your arms smugly like you just proved something. The problem is that there is an enormous gulf between the THEORY of what feminism is allegedly about (the dictionary definition) and the PRACTICE of what feminism really is and does in reality. <br> <br>It is quite easy to demonstrate what I mean. You see, when your movement claims that it is simply fighting for equality with men, not special privileges above and beyond what men have, no silly, just equality, then your movement needs to explain why it still exists in the western world now that women have had all the same rights as men
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I first remember coming across the word ‘feminism’ when I was about 9, and asking my mum what it meant. “It’s the principle”, she replied, without even glancing up from her newspaper, “that girls and boys should be treated in exactly the same way”. I remember thinking it bizarre that such an obvious concept even needed a name, but I didn’t question it any further.

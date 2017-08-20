@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The last time students tried to stop Imperial extending academic hours they had little success, will history repeat itself?
 date: "2011-01-27 17:55:55 +0000"
-
-# Attributes from Felix Online V1
-id: "648"
-old_path: /news/648/from-the-archives-extending-the-college-day
+image: "http://felixonline.co.uk/img/upload/201101271751-ks607-archivea.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/648/from-the-archives-extending-the-college-day
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - dr710
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101271751-ks607-archivea.jpg"
-image_caption: ""
 ---
 
 Few will remember the glorious days when a working day at Imperial College was limited between the times of 9.30am and 5.30pm. However proposals to axe this ‘slackers’ paradise were brought forward in the early nineties, causing great agitation amongst students and staff alike. [Sound familiar](http://www.felixonline.co.uk/?article=633)?

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Muni Wen ponders the revival of retro in modern cinema
 date: "2014-11-06 18:16:09 +0000"
-
-# Attributes from Felix Online V1
-id: "4761"
-old_path: /comment/4761/are-people-starting-to-enjoy-old-movies-more
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4761/are-people-starting-to-enjoy-old-movies-more
-imported: true
 comments:
  - value: >
      pietra fitflop <br>fitflop in singapore http://fitflopsalesingapore2.blogspot.com/,fitflop australia sale <br>fitflop australia outlet http://fitflopsau.blogspot.com/,buy cheap birkenstocks <br>birkenstock outlet online shop http://birkenstockaustralia2013.blogspot.com/,birkenstocks clearance <br>birkenstock outlet online shop http://birkenstockaustraliamalls.com/,Scrapped that plan and played defense the next five games, winning four of them. It is a unique indisputable fact that some players appreciate among others dislike. For example, the purpose is worth a many point. <br>fifa 16 hack http://creditsfut.com/,cheap christian louboutin pumps <br>christian louboutin online store http://canadachristianlouboutin.blogspot.com/,christian louboutin rolando <br>christian louboutin online http://christianlouboutincanadaoutlet.blogspot.com/,I was just looking at your Are people starting to enjoy old movies more? - Comment - Felix Online site and see that your site has the potential to become very popular. I just want to tell you, In cas
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - xw6013
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It was the sort of sunny afternoon when girls put on floral skirts and pin their hair up. As I floppily moved my mouse to click on a link someone had just shared, my eyes widened. It was a list called “Upcoming Movies 2015”, and there were many names that made my heart leap in familiarity. I saw SpongeBob, Cinderella, Peanutws, Star Wars, and loads of other old friends who suddenly look back at me from the foreseeable future. My first thought: 2015 is going to be a fun year. Second thought: are people starting to appreciate old movies more and more?

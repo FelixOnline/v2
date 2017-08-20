@@ -4,18 +4,15 @@ title: >
 subtitle: >
   50,000 students march in London against government cuts and higher fees
 date: "2010-11-11 22:19:44 +0000"
-
-# Attributes from Felix Online V1
-id: "376"
-old_path: /news/376/students-take-to-the-streets
+image: "http://felixonline.co.uk/img/upload/201011112212-nm1010-students.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/376/students-take-to-the-streets
-imported: true
 comments:
  - value: >
      No mention of Clare Solomon (ULU President) and the Lecturers at Goldsmiths condoning the "direct action and occupation". There is an insane (hopefully small) minority who fully support invading a political headquarters!,@David Wool - what about subjects like "Sound Light and Live Entertainment Technology"? or other vocational courses? I've worked with people from these courses first hand and they are significantly LESS competent than those who've had a year or two of work experience or on-the-job training. Actually, the degree devalues them in their speciality because they have a falsely high expectation of their abilities. How do they benefit society?,Imperial College Union is taking the wrong approach on this (all 6 of them!) by claiming that the individual student is the sole beneficary of a university education (see Kendalls' column in Felix this week for example). In fact, society as a whole benefits from doctors, engineers, scientists, and also from subjects humanities such as geography, psychology et
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - jw5010
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011112212-nm1010-students.jpg"
-image_caption: ""
 ---
 
 No ifs, no buts, no education cuts.” This was the chant carried through London last Wednesday by fifty thousand students and lecturers, in protest against the government’s plans to raise the cap on tuition fees to £9,000.

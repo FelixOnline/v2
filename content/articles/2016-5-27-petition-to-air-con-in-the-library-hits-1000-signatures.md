@@ -4,16 +4,13 @@ title: >
 subtitle: >
   We’re doing it for you guys
 date: "2016-05-27 08:41:48 +0100"
-
-# Attributes from Felix Online V1
-id: "6200"
-old_path: /news/6200/petition-to-air-con-in-the-library-hits-1000-signatures
+image: "http://felixonline.co.uk/img/upload/201605271041-felix-web.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6200/petition-to-air-con-in-the-library-hits-1000-signatures
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605271041-felix-web.jpg"
-image_caption: ""
 ---
 
 _Sign the petition [here](http://felixonline.co.uk/go/library)._

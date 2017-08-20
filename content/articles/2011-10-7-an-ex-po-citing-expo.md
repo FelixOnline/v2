@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Laurence Pope stops the bad puns and talks Eurogamer ‘11
 date: "2011-10-07 12:19:06 +0100"
-
-# Attributes from Felix Online V1
-id: "1490"
-old_path: /games/1490/an-ex-po-citing-expo
+image: "http://felixonline.co.uk/img/upload/201110071317-felix-eurogamer_logo_colour.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1490/an-ex-po-citing-expo
-imported: true
 comments:
  - value: >
      I am going to Drayton Manor in August and I have never been on a proper thnlrliig roller coaster, I need to know which roller coaster to go on first so that I won't be too frightened to go on some others. Please can you tell me the amount of G Force that each roller coaster there has. Thanks in advance!,apakah opersional kan<a href="http://ryknvibq.com"> wndwois</a> 7 di ipad sudah bisa operasionalkan layaknya sebuah PC ya?dan jika iya,apakah bisa mendukung applikasi/program komputer?dan apakah bisa print document sprti sebuah laptop yang bisa print document via wafi ke printer yang sudah di sharingkan ?
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110071317-felix-eurogamer_logo_colour.jpg"
-image_caption: ""
 ---
 
 I guess now’s the time for me to offer a late (but warm) welcome to all the freshers who’ve stumbled onto the Games section. I would’ve written for the Freshers' Issue, but I was too busy doing more important stuff like working on my rock-hard abs, jet skiing in the Caribbean and seducing beautiful women. Oh, and playing video games.

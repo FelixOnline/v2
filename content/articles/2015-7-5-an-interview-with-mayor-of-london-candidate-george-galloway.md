@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Joshua Renken interviews the RESPECT Party candidate for Mayor of London, George Galloway, on his mayoral bid and current affairs
 date: "2015-07-05 10:02:34 +0100"
-
-# Attributes from Felix Online V1
-id: "5648"
-old_path: /politics/5648/an-interview-with-mayor-of-london-candidate-george-galloway
+image: "http://felixonline.co.uk/img/upload/201507051101-jr2514-galloway.jpg"
+image_caption: "Mr Galloway threw his hat in the ring three weeks after the general election"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/5648/an-interview-with-mayor-of-london-candidate-george-galloway
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +22,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201507051101-jr2514-galloway.jpg"
-image_caption: ""
 ---
 
 Born in Dundee, Galloway became involved in politics from a very young age and is now campaigning as RESPECT Party candidate for Mayor of London. Known as a political maverick and divisive figure in British politics, Galloway has been lauded for his lively rhetoric and impassioned debating style.

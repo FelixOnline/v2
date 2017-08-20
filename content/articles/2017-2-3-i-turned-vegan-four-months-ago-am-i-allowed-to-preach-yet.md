@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alex Chaudhri talks (not preaches) about why he decided to ditch animal products
 date: "2017-02-03 15:55:35 +0000"
-
-# Attributes from Felix Online V1
-id: "6714"
-old_path: /comment/6714/i-turned-vegan-four-months-ago--am-i-allowed-to-preach-yet
+image: "http://felixonline.co.uk/img/upload/201702031610-felix-14103703882_289d8d6bc6_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6714/i-turned-vegan-four-months-ago--am-i-allowed-to-preach-yet
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702031610-felix-14103703882_289d8d6bc6_o.jpg"
-image_caption: ""
 ---
 
 A year ago, after mostly avoiding meat for several months, I decided to make the commitment to being fully vegetarian. My decision for this was mostly driven by a concern for the planet. The Food and Agriculture Organisation of the UN estimates that 14.5% of global greenhouse gas emissions come from the livestock industry. The financial implications of not buying meat were also extremely satisfying (you can buy two kilos of dried beans for a couple of quids and that turns into a lot of food).

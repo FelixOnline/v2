@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Referendum fever is yet to take hold
 date: "2016-06-10 08:14:37 +0100"
-
-# Attributes from Felix Online V1
-id: "6247"
-old_path: /news/6247/eu-debate-takes-place-at-imperial
+image: "http://felixonline.co.uk/img/upload/201606101014-felix-Screen Shot 2016-06-07 at 12.16.53.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6247/eu-debate-takes-place-at-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - mjj15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606101014-felix-Screen Shot 2016-06-07 at 12.16.53.jpg"
-image_caption: ""
 ---
 
 Last Thursday, The Big EU Debate took over Skempton building with members of both the leave and remain campaign battling it out over the key battlegrounds of the economy, immigration and democracy as a whole.

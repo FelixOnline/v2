@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tom Rivlin brings us the very first Cartoon Corner!
 date: "2013-11-24 16:33:15 +0000"
-
-# Attributes from Felix Online V1
-id: "4126"
-old_path: /tv/4126/cartoon-corner-adventure-time
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4126/cartoon-corner-adventure-time
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - tr511
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Welcome to Cartoon Corner, the new weekly column where we explore the wonderful world of animation! (Not anime. We have a separate club for that.) Each week I’ll be doing either a review of a currently airing show, or a retrospective on something more nostalgic. So, word counts are tight here, let’s start with an obvious one!

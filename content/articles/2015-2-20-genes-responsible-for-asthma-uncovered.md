@@ -4,16 +4,14 @@ title: >
 subtitle: >
   James Bezer on Imperial’s research in epigenetics asthma treatments
 date: "2015-02-20 00:04:35 +0000"
-
-# Attributes from Felix Online V1
-id: "5280"
-old_path: /science/5280/genes-responsible-for-asthma-uncovered
+image: "http://felixonline.co.uk/img/upload/201502201114-cj914-o-asthma-sleep-apnea-facebook.jpg"
+image_caption: "Asthma affects millions of people"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5280/genes-responsible-for-asthma-uncovered
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - cj914
  - jb3112
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502201114-cj914-o-asthma-sleep-apnea-facebook.jpg"
-image_caption: ""
 ---
 
 Epigenetic factors behind asthma and other allergic diseases have been identified by a group at Imperial College in research that could lead to better targeted and more effective treatments. Their paper, published in Nature, identifies 34 genes related to inflammation, inhibited in healthy people, but overexpressed in those with allergies.

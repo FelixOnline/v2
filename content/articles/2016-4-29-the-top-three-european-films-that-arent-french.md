@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-04-29 10:37:36 +0100"
-
-# Attributes from Felix Online V1
-id: "6099"
-old_path: /film/6099/the-top-three-european-films-that-arent-french
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6099/the-top-three-european-films-that-arent-french
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - bsc14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 As much as I love the more abstract/pretentious cinema offerings at any one time, I can’t bloody stand French films. I’m not saying that all French films are bad – that would be ridiculous. My argument, which I would hope is at least somewhat informed, is that the French ‘style’ of filmmaking is just something I cannot stand: pretentious dialogue, a penchant for lengthy, static shots, and a weird fascination with narratives focusing on young women falling in love with old men. You may have started it France, but the rest of Europe is going to finish it:

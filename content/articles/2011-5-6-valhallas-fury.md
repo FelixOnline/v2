@@ -4,16 +4,14 @@ title: >
 subtitle: >
   It has its faults but Marvel’s Thor descends from the heavens to wreak havok amongst us mere mortals
 date: "2011-05-06 12:53:37 +0100"
-
-# Attributes from Felix Online V1
-id: "1168"
-old_path: /film/1168/valhallas-fury
+image: "http://felixonline.co.uk/img/upload/201105061350-felix-thor02.jpg"
+image_caption: "Odin never regretted trading his eye for wisdom, look at his bitchin’ patch!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1168/valhallas-fury
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105061350-felix-thor02.jpg"
-image_caption: ""
 ---
 
 Now that Joss Whedon’s The Avengers is official, it’s about time we met some of the new Marvel superheroes. First up is Thor, the Norse God of Thunder who wields his trademark hammer to fight evil. Unlike the many superheroes we’ve seen who originate from Earth, Thor (Chris Hemsworth) is from a wholly different world, and has a lot of background information that needs to be explained. Fortunately director, Kenneth Branagh, is not afraid to jump straight in here, and show the magnificently designed universe of Asgard. We see Thor’s father Odin (Anthony Hopkins) the ruler of Asgard, his brother Loki (Tom Hiddleston) and some lavish gold-painted set that truly raises the bar on what is now possible with modern day computer graphics.

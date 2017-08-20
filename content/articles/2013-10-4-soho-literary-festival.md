@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Maciej Matuszewski discusses an entertaining and interesting event
 date: "2013-10-04 02:03:16 +0100"
-
-# Attributes from Felix Online V1
-id: "3808"
-old_path: /books/3808/soho-literary-festival
+image: "http://felixonline.co.uk/img/upload/201310040302-jal08-damscus.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3808/soho-literary-festival
-imported: true
 comments:
  - value: >
      hi everybody, I need your help,I'm a big fan of Rob, but I live in Mexico and is very unifar that here on Itunes still does not allow the download the movie of summer house, you could not post it on his blog to view it? they are infinitely agradeceria .......... if not possible, no matter what I resign, but at least Explain to me because I leave my email keroppiirana@hotmail.com,Excelente Big, como lo comente9 <a href="http://jjgnbtcz.com">anemtiorrente</a> esta vieja me encanta, no mames ese culito perquef1o pero perfecto, esas tetas que armonizan perfectamente con esa carita de puta golosa uffff!!! nome1s de imaginarme rellene1ndole el cf3lon con mi leche calientita aaaahhhh!!! Vientos Big, gracias por ponerla y espero le guste a la banda chaquetera.Atte. El Chile Desflemado
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -28,12 +25,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310040302-jal08-damscus.jpg"
-image_caption: ""
 ---
 
 ###  Notes from my first literary festival

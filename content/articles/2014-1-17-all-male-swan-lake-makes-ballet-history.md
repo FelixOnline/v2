@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Dance newbies: this is not frilly dresses and satin shoes. You will be exposed to raw power, unsettling emotions and unsettling scenes.
 date: "2014-01-17 03:47:05 +0000"
-
-# Attributes from Felix Online V1
-id: "4240"
-old_path: /arts/4240/all-male-swan-lake-makes-ballet-history
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4240/all-male-swan-lake-makes-ballet-history
-imported: true
 comments:
  - value: >
      this is not new - was created in the 90s
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -27,12 +24,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __What: __Matthew Bourne’s Swan Lake __Where: __Sadler’s Wells, EC1

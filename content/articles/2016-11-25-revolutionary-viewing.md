@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Protest can be tiring, so of course you need some downtime. Fear not, however, your rebellion doesn’t have to stop when your body does. Here are four rebels to study while you put your feet up.
 date: "2016-11-25 14:29:18 +0000"
-
-# Attributes from Felix Online V1
-id: "6511"
-old_path: /tv/6511/revolutionary-viewing
+image: "http://felixonline.co.uk/img/upload/201611251428-felix-22529815437_3dad9af372_k.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6511/revolutionary-viewing
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -23,12 +20,6 @@ authors:
  - ad4013
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611251428-felix-22529815437_3dad9af372_k.jpg"
-image_caption: ""
 ---
 
 ## TURN: Washington’s Spies

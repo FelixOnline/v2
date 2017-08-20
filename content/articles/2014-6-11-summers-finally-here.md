@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The transformation from stage to big screen.
 date: "2014-06-11 22:13:01 +0100"
-
-# Attributes from Felix Online V1
-id: "4676"
-old_path: /film/4676/summers-finally-here
+image: "http://felixonline.co.uk/img/upload/201406112311-me1711-suddenly-last-summer-hepburn.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4676/summers-finally-here
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406112311-me1711-suddenly-last-summer-hepburn.jpg"
-image_caption: ""
 ---
 
 __Suddenly, Last Summer__

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Philip Kent looks at the latest Alzheimer’s research
 date: "2012-01-26 22:41:48 +0000"
-
-# Attributes from Felix Online V1
-id: "2069"
-old_path: /science/2069/new-milestones-reached-in-fight-against-alzheimers-
+image: "http://felixonline.co.uk/img/upload/201201262235-ak6309-c1ib00018g-f1.jpg"
+image_caption: "Binding of proteins to nanobodies causes a change of capacitance"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2069/new-milestones-reached-in-fight-against-alzheimers-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +21,6 @@ authors:
  - pk1811
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201262235-ak6309-c1ib00018g-f1.jpg"
-image_caption: ""
 ---
 
 Alzheimer’s is an as-yet incurable disease that accounts for the majority of cases of dementia. A characteristic symptom of people with Alzheimer’s is memory loss, with the person affected gradually becoming increasingly forgetful; unable to remember their own identity, and eventually, complete unresponsiveness in its later stages. This is amongst many other symptoms.

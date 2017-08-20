@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Anum Farooq is a little bit lost in nature, and recommends you should be too.
 date: "2011-11-10 20:43:51 +0000"
-
-# Attributes from Felix Online V1
-id: "1719"
-old_path: /comment/1719/the-journey-through-nature
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1719/the-journey-through-nature
-imported: true
 comments:
  - value: >
      Excellent article, thank you.,hehehe i love the first comment : <br> <br>' Anum farooq is a bit lost in nature ' :). <br> <br>yes Anumty. lost in wilderness you are :b. <br> <br>when i came to london, i felt i was trapped between manmade bricks and i missed my lebanese trees. I missed how me and my brothers had to throw bricks to mark our way between trees from our house to my dad's work :b. <br> <br>But when i met you, you taught me that nature is beautiful everywhere :). I learnt to love the British birds, and see the different side of beauty in nature . subhanallah <br> <br>your article made me feel like i want to climb a tree hehehe :). <br> <br>off to watch how the salmons jumps against the stream on youtube. The power of Allah. anything is possible ;),12.08.2010 d0b2 20:09(UTC 2) <a class="comment-reply-link" href="/viasat-nature/?replytocom=2835#respond" onclick='return addComment.moveForm("comment-2835", "2835'></a>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 How many moments have you actually lived? Or reflected upon, or marvelled… or just, been? Now, this is not some kind of hippy wisdom, this is an understanding of the world around us. Have you ever ran through rain puddles on a sunny day and seen a rainbow at your side? It might seem comical, but try it, and then we’ll see who is smiling. Tennyson personifies nature as an eagle:

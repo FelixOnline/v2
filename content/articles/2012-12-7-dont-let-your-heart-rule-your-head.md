@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Large scale study to test mental agility confirms that the same risk factors involved in cardiovascular health problems is also involved in impaired cognitive function
 date: "2012-12-07 01:32:52 +0000"
-
-# Attributes from Felix Online V1
-id: "3037"
-old_path: /science/3037/dont-let-your-heart-rule-your-head
+image: "http://felixonline.co.uk/img/upload/201212070130-tna08-cigarette-smoke-brain-wallpaper-57855.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3037/dont-let-your-heart-rule-your-head
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - slb210
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070130-tna08-cigarette-smoke-brain-wallpaper-57855.jpg"
-image_caption: ""
 ---
 
 Cognitive decline is often accepted as an inevitable part of aging. Even aside from specific conditions such as Alzheimer’s disease, poor short term memory and impaired reasoning abilities can be among the problems that come with older age, and for many people they can be severe enough to interfere with daily activities and the ability to live independently. But there is mounting evidence that the risk of developing such problems is strongly correlated with common health and lifestyle issues.

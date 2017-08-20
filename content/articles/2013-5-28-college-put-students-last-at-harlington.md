@@ -4,18 +4,15 @@ title: >
 subtitle: >
   By selling use of the sports grounds to the highest bidder, college is forgetting the families of the WWI dead who paid for them. A letter from a former Union President.
 date: "2013-05-28 14:52:07 +0100"
-
-# Attributes from Felix Online V1
-id: "3627"
-old_path: /comment/3627/college-put-students-last-at-harlington
+image: "http://felixonline.co.uk/img/upload/201305281552-tna08-56677701.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3627/college-put-students-last-at-harlington
-imported: true
 comments:
  - value: >
      It's not just the sports facilities. The number of times as a student the Union bar has been closed to students for private functions (for external non students) or we have been evicted from tables "reserved" for similar is ridiculous.,And it's not just students. Come the summer, conference office bookings take precedence over everything, so staff can't even book their own meeting rooms.,Bring on the further commercialisation of the college! <br>Who needs students anyway? Wouldn't IC make a lot more money without us getting in the way at all? <br> <br>I look forward to reading the college's public response in Felix. <br>Oh wait.,Ethos is another example of this...,You do really get the feeling that the college considers us an inconvenience in its aim of making as much money as possible. we are still getting degrees . . .in a commercialised sterile setting.,I am wondering if there should be a canvassing protest around college grounds, where copies of this article are posted and cover every entrance and wall visible near a
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305281552-tna08-56677701.jpg"
-image_caption: ""
 ---
 
 I have to say that it is my view that this communication should be going to the Rector of the College and in my day as a student we would have had the right to take a letter straight to his door. However of course in my day I could have raised this matter to the rector either in my weekly meetings with him, by picking up the telephone orby raising it at the Governing Body or Finance and Executive committees. However it seems that in today’s world even the alumni have to take a back seat in regard to communications with college officials and hence I am forced to write to you.

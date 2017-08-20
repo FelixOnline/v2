@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Monathan Jasters hates raisins for reasons logical, physical and romantic
 date: "2017-03-17 16:57:16 +0000"
-
-# Attributes from Felix Online V1
-id: "6907"
-old_path: /comment/6907/raisins-are-a-complete-scam
+image: "http://felixonline.co.uk/img/upload/201703171657-felix-3235917496_b8d213e0bf_o (1).jpg"
+image_caption: "Don't say that! No!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6907/raisins-are-a-complete-scam
-imported: true
 comments:
  - value: >
      Now you tell me she's not a knock-out! <br>buy cheap albion online gold http://www.petsdating.com/blog/14321/recap-connected-with-the-introduction-of-albion-and-biome-places,You 're so smart. <br>cheapest madden coins mobile for sale http://www.madden-store.com,To hell with that bitch! <br>cheap pokemon go rare pokemon for sale pokemonbux http://www.pokemonbux.com,No, I know. <br>dofus touch kamas http://farikogaming.com/dofustouch/blog/809/dofustouch-kamas-overcome-least-expensive-dofus-touch-kamas-purchase,That's not the point. <br>cheap Albion Online gold http://www.terapowerleveling.net/albion-online-changes-in-hellgates/
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +24,6 @@ authors:
  - jm5014
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171657-felix-3235917496_b8d213e0bf_o (1).jpg"
-image_caption: ""
 ---
 
 Raisins – also known as dried grapes – represent everything wrong with our civilisation and they seek to disrupt the foundations upon which this very nation stands, and this ingrate, Mr Ma, has the audacity to suggest that we need more raisins in Imperial in order to make his breakfast better. It makes me sick. I will be honest with you, dear readers, that I voted to remain in the EU referendum, but if Brexit means breakfast, and hence means less of this raisin loving coming to this country to dilute British culture (I bet half the raisins you eat aren't even grown in the UK), then hand me a copy of the Daily Mail.

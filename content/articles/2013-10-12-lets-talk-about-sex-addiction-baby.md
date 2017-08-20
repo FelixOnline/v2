@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park reviews "Thanks for Sharing"
 date: "2013-10-12 19:14:23 +0100"
-
-# Attributes from Felix Online V1
-id: "3850"
-old_path: /film/3850/lets-talk-about-sex-addiction-baby
+image: "http://felixonline.co.uk/img/upload/201310122014-jal08-film_thanks_for_sharing.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3850/lets-talk-about-sex-addiction-baby
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310122014-jal08-film_thanks_for_sharing.jpg"
-image_caption: ""
 ---
 
 Thanks for Sharing

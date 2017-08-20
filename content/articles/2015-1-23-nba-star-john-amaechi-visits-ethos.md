@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The legend himself allegedly shot hoops with Bugs Bunny
 date: "2015-01-23 01:11:07 +0000"
-
-# Attributes from Felix Online V1
-id: "5117"
-old_path: /news/5117/nba-star-john-amaechi-visits-ethos
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5117/nba-star-john-amaechi-visits-ethos
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - cac111
  - kmw13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 National Basketball Association (NBA) star John Amaechi visited Imperial College London’s sports centre Ethos last week as part of a promotional drive for the Global Games London. Amaechi is widely regarded as one of the best British players in NBA history.

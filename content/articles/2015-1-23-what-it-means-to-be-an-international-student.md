@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Mahima Razdan writes about the perks of mingling abroad
 date: "2015-01-23 01:23:00 +0000"
-
-# Attributes from Felix Online V1
-id: "5122"
-old_path: /welfare/5122/what-it-means-to-be-an-international-student
+image: "http://felixonline.co.uk/img/upload/201501230121-ps3110-al-pred-seesaw.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /welfare/5122/what-it-means-to-be-an-international-student
-imported: true
 comments:
  - value: >
      fitflop cheap <br>fitflop in australia http://australiafitflops.blogspot.com/,His one downside is that, like McFadden, he sometimes provides a problem with fumbles. Gonzalez went the full 90 in the 2-1 loss to El Salvador. You can watch soccer all day long in the event that's what you opt to do! <br>fifa 16 hack http://creditsfut.com/,christian louboutin toronto <br>christian louboutin outlet online http://canadachristianlouboutinoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - welfare
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501230121-ps3110-al-pred-seesaw.jpg"
-image_caption: ""
 ---
 
 Take a look around in your lecture hall. What do you see? Considering that all of you are studying at Imperial College, there will probably be people of different races, nationalities, ethnicities and socioeconomic backgrounds all packed into one room. Now take a closer look. I’ll wager that there will be a group of Chinese students bunched together in the front. the Indians will have congregated somewhere around the back. There will be a whole bunch of Europeans scattered around the room, sitting together according to their nationalities, and the English will probably be found all around the room in two’s or threes.

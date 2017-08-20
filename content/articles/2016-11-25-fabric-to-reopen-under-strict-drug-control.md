@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Because who doesn’t love soberly flailing about to techno?
 date: "2016-11-25 13:19:17 +0000"
-
-# Attributes from Felix Online V1
-id: "6492"
-old_path: /news/6492/fabric-to-reopen-under-strict-drug-control
+image: "http://felixonline.co.uk/img/upload/201611251319-felix-3350863019_0bcbef53e8_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6492/fabric-to-reopen-under-strict-drug-control
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - theofarah13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611251319-felix-3350863019_0bcbef53e8_o.jpg"
-image_caption: ""
 ---
 
 The iconic Farringdon nightclub, fabric,  has announced it will reopen its doors, following a hearing at Highbury Corner Magistrate’s Court on Monday, the 21st of November. The club was closed in September after two 18-year-olds tragically died of drug-related causes at the venue this Summer. An appeal date had been set for the 28th November, after a successful campaign including widespread support from the community, however a settlement has now been reached. The new licensing agreement has been signed by both the club and the council and was approved by judge Robin McPhee.

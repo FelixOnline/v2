@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Rhian Jones discusses the depiction of the male nude in Western art
 date: "2014-05-09 02:13:09 +0100"
-
-# Attributes from Felix Online V1
-id: "4577"
-old_path: /arts/4577/the-great-cover-up
+image: "http://felixonline.co.uk/img/upload/201405090313-jal08-arts-cezanne-g.jpg"
+image_caption: "Paul Cézanne, Baigneurs (Bathers), c. 1890"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4577/the-great-cover-up
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - rj10
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405090313-jal08-arts-cezanne-g.jpg"
-image_caption: ""
 ---
 
 Back in February,Felix ran an article on the history of the female nude in art. But what of the male? The female nude is omnipresent and openly celebrated in Western art; she adorns the walls of today’s galleries, magisterially inviting our appreciation. By contrast, her male counterpart is overwhelmingly underrepresented. Pendulous phalluses are few and far between.

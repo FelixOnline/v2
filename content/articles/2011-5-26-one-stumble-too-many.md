@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Chris Bowers asks if Google may be losing its innovative edge
 date: "2011-05-26 19:02:48 +0100"
-
-# Attributes from Felix Online V1
-id: "1253"
-old_path: /tech/1253/one-stumble-too-many
+image: "http://felixonline.co.uk/img/upload/201105261958-felix-felixillustration.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/1253/one-stumble-too-many
-imported: true
 comments:
  - value: >
      This seems to me to be a very negative commentary about a company that is actually doing exceptionally well at the moment. Why is Chris Bowers so keen to rubbish Google? <br> <br>So a few products don't quite take off, who cares. At least Google have a good record for trying stuff out and there's still lots to be learned from every project. The collaborative editing functionality developed for Wave for instance is now in use in Google Docs and works extremely well. <br> <br>Google have a long list of high quality products that are doing well as they deserve, search, maps, youtube, mail, docs, android and the chrome browse to name a few. <br> <br>In my opinion anyone who is producing high quality products should be applauded and encouraged as the work they produce can only help improve the world of technology. There are far too many Apple/Google/Microsoft fanboys/haters, grow up.,Google born as a search engine and advertising giant, with extraordinarily cloud infrastructure. Not surprising its innovations stay along these categ
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105261958-felix-felixillustration.jpg"
-image_caption: ""
 ---
 
 Google – a name we all know. I’m sure that the majority of you use one of the internet giant’s services on a near-daily basis. They of course burst into popularity with the now almost ubiquitous search engine, and have since made inroads into many areas of our digital lives. So their annual [Google I/O](http://www.google.com/events/io/2011/index-live.html) event would usually have technology buffs salivating over what exciting new technologies may be announced. However, this year’s event may not have been so widely anticipated, especially with some of their releases in the last couple of years having a less than pleasing reaction.

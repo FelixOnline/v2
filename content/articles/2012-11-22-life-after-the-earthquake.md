@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ryan Browne and six others help out in the Tohoku region in Japan
 date: "2012-11-22 23:01:12 +0000"
-
-# Attributes from Felix Online V1
-id: "2937"
-old_path: /news/2937/life-after-the-earthquake
+image: "http://felixonline.co.uk/img/upload/201211222300-tna08-jap-volunteer-2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2937/life-after-the-earthquake
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211222300-tna08-jap-volunteer-2.jpg"
-image_caption: ""
 ---
 
 A multi-dimensional national disaster – an earthquake, tsunami and nuclear threat from a damaged power plant – that is the situation Japan found itself in on March 11th 2011. Since then, how have the affected areas been recovering? What is the situation like today, in both infrastructure and the lives of ordinary people living in the aftermath?

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The creators of Downton Abby visit Imperial
 date: "2015-02-12 20:44:27 +0000"
-
-# Attributes from Felix Online V1
-id: "5232"
-old_path: /news/5232/lord-fellowes-comes-to-campus
+image: "http://felixonline.co.uk/img/upload/201502122106-jyg11-150206_fellows_kitchener_blast_085.jpg"
+image_caption: "Lord Fellowes out for a ride on Jezebel"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5232/lord-fellowes-comes-to-campus
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - ps3110
  - snb11
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502122106-jyg11-150206_fellows_kitchener_blast_085.jpg"
-image_caption: ""
 ---
 
 Julian Fellowes, creator of Downton Abbey, visited Imperial College on Friday 6th February for a tour of the research labs and also met with the College President, Professor Alice Gast. Their tour finished with a trip out on Jezebel, the RCSU’s fire engine mascot, who appeared in Downton Abbey last September.

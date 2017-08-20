@@ -4,17 +4,14 @@ title: >
 subtitle: >
   Battling against the buttress at Eton College
 date: "2011-12-08 20:43:52 +0000"
+image: "http://felixonline.co.uk/img/upload/201112082041-felix-eton-fives-universities-2.jpg"
 draft: true
-
-# Attributes from Felix Online V1
-id: "1918"
-old_path: /sport/1918/fives-much-more-than-just-a-prime-number
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1918/fives-much-more-than-just-a-prime-number
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - ab1706
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082041-felix-eton-fives-universities-2.jpg"
-image_caption: ""
 ---
 
 What is fives? Read on to the very end, and you could get involved and start your beautiful career.

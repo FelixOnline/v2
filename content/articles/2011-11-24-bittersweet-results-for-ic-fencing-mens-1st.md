@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A real clash of the titans as Imperial journey to Oxford
 date: "2011-11-24 23:40:42 +0000"
-
-# Attributes from Felix Online V1
-id: "1851"
-old_path: /sport/1851/bittersweet-results-for-ic-fencing-mens-1st
+image: "http://felixonline.co.uk/img/upload/201111242340-felix-dscf2180.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1851/bittersweet-results-for-ic-fencing-mens-1st
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ial08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242340-felix-dscf2180.jpg"
-image_caption: ""
 ---
 
 __Fencing__

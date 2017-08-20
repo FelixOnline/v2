@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Yeah, Phelps, you're pretty quick. Let's see you do that after a few drinks.
 date: "2012-11-09 14:31:54 +0000"
-
-# Attributes from Felix Online V1
-id: "2875"
-old_path: /sport/2875/swimmers-drink-more-than-just-pool-water-at-bucs
+image: "http://felixonline.co.uk/img/upload/201211091431-tna08-bucs%202012-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2875/swimmers-drink-more-than-just-pool-water-at-bucs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - hr610
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091431-tna08-bucs%202012-1.jpg"
-image_caption: ""
 ---
 
 After a reshuffled schedule, the boys kicked the BUCS 2012 short course championships off with 50m free on Friday evening. Michael earned himself first of many fines by closely losing out to Fraser by .04 seconds. Similarly in this event Niki finished in 27s with compliments from Brad “Niki, your technique was held perfectly throughout the race, well done mate!”. (In an Australian accent...)

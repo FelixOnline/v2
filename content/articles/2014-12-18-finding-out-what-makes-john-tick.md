@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Mario Lapore takes a look at the National Theatre's new, dynamic production
 date: "2014-12-18 15:53:48 +0000"
-
-# Attributes from Felix Online V1
-id: "5063"
-old_path: /arts/5063/finding-out-what-makes-john-tick
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5063/finding-out-what-makes-john-tick
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - extuser0
  - ff712
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 “The normality of life is just to have someone you can express stuff with.”

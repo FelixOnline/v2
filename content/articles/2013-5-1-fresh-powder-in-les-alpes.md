@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Lizzy Griffiths heads for the slopes
 date: "2013-05-01 10:21:35 +0100"
-
-# Attributes from Felix Online V1
-id: "3508"
-old_path: /sport/3508/fresh-powder-in-les-alpes
+image: "http://felixonline.co.uk/img/upload/201305012037-tna08-skiing.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3508/fresh-powder-in-les-alpes
-imported: true
 comments:
  - value: >
      good to see busc hasnt changed!!
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305012037-tna08-skiing.jpg"
-image_caption: ""
 ---
 
 Friday 22nd March brought more excitement than the usual end-of-term celebrations for 48 of Imperial’s snow enthusiasts: we were heading to the French Alps for our Easter ski trip. BUSC Main Event, organised annually by the British University Snowsports Council, is a week full of competitions, après events and drunken antics attended by 1,500 students from the UK, and this year ¬– hosted in Alpe D’Huez – promised to be as crazy as ever.

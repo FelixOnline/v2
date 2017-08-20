@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Xuan Chen interviews one of the country’s most influential man about science, energy and how he maintains his hair
 date: "2015-02-12 23:25:34 +0000"
-
-# Attributes from Felix Online V1
-id: "5249"
-old_path: /features/5249/getting-close-to-cowley
+image: "http://felixonline.co.uk/img/upload/201502122322-jyg11-19om08cowley.jpg"
+image_caption: "Professor Cowley, potentially the busiest man in the world, pauses to use a blackboard. inset: the fandom is strong with this one"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/5249/getting-close-to-cowley
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -25,12 +23,6 @@ authors:
  - xc3313
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502122322-jyg11-19om08cowley.jpg"
-image_caption: ""
 ---
 
 Professor Steven Cowley is the CEO of the United Kingdom Atomic Energy Authority and a part-time professor in plasma physics here at Imperial College. But that’s not what catches the attention of an entire cohort of physics undergraduates every year – it’s his lectures, where his charisma and confidence along with sheer passion for the subject captivates the young audience.

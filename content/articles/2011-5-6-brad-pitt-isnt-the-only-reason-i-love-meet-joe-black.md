@@ -4,18 +4,15 @@ title: >
 subtitle: >
   It's the peanut butter that really gets me
 date: "2011-05-06 15:09:18 +0100"
-
-# Attributes from Felix Online V1
-id: "1176"
-old_path: /food/1176/brad-pitt-isnt-the-only-reason-i-love-meet-joe-black
+image: "http://felixonline.co.uk/img/upload/201105061610-felix-spuntino-pbj.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1176/brad-pitt-isnt-the-only-reason-i-love-meet-joe-black
-imported: true
 comments:
  - value: >
      Alamak Sweetie, you missed it! It's Singapore's 1st ice cream feitsval by ben n jerry held at fort canning on 6 dec. I dun meant that it's for bloggers, but some bloggers are invited to go there eat ice cream and write for the event. hehenext time got interesting event i let u know ok?,The quote is beauadtiful Lisa, and defadiadnitely says it all.Little Peanut looks just like aa0little angel.Thank you so very much for sharing with us this week at The Creative Exchange.Sending you<a href="http://lcksbxdyi.com"> wsiehs</a> for aa0beauadtiful Holiday dear friend.lisa.
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105061610-felix-spuntino-pbj.jpg"
-image_caption: ""
 ---
 
 The memorable scenes of Brad Pitt licking peanut butter off a spoon in Meet Joe Black is exactly how I’d like to imagine the grim reaper. Suave, suited and darn right fit.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   As an actor, Firth is given the entire film to show off and takes advantage of every single moment
 date: "2011-01-13 19:39:53 +0000"
-
-# Attributes from Felix Online V1
-id: "567"
-old_path: /film/567/king-colin-proves-speech-is-no-impediment-
+image: "http://felixonline.co.uk/img/upload/201101131933-ks607-kingsspe.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/567/king-colin-proves-speech-is-no-impediment-
-imported: true
 comments:
  - value: >
      Thank you 'Pedant's Revolt'. It has been corrected.,Sir Blandine-Bentham actually claimed that smoking would relax the larynx -- smoking often causes the formation of vocal nodules which add mass to the chords lowering their resonant frequency. Whether this is genuinely of any help to a speaker is another matter, as smoking can also cause vocal breaks and restriction in range, both things truly emotive speakers or singers want to avoid. <br> <br>Demosthenes, according to tradition, learned to project and speak as an orator by filling his mouth with marbles, stood in the surf at the edge of the Mediterranean and tried to be heard over the waves. It's not quite as nonsensical a method as the film portrayed.,Correction. It was King Edward VIII who abdicated. We've never had a King David.,Here's the latest on the ccneerfnoe's top players who are projected to go from playing on Saturdays to starring on Sundays. 1. LB Jarvis Jones, 6-3, 241, Georgia Why he has the top spot: Jones' battle with an ankle injury hasn't chang
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +23,6 @@ authors:
  - jgp09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101131933-ks607-kingsspe.jpg"
-image_caption: ""
 ---
 
 When one is King, one cannot afford to do a lot of things. For example it will be frowned upon if one is interested in marrying an American (shock horror) twice-divorced woman in a time of conservative, proper ideals. Caught up in this scandal, King Edward VIII (Guy Pearce), decides to follow his heart and abdicate the throne, leaving the crown to fall on his brother’s head, George (Colin Firth), or Bertie, as he’s known to his family. But this is not going to be a smooth transition either, for George has difficulties of his own; he stammers and is incapable of public speaking. Yet another thing one cannot afford to do when one wishes to be King. After an embarrassing public incident, he is seen by a myriad of speech therapists and what ensues is a hilarious My Fair Lady-like routine where Bertie is required to put seven marbles in his mouth to speak – apparently helping him to pronounce correctly. Also, he is advised to smoke – because it “relaxes” the lungs.

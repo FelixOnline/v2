@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park interviews the film North Korea didn't want you to see
 date: "2015-02-09 19:06:26 +0000"
-
-# Attributes from Felix Online V1
-id: "5218"
-old_path: /film/5218/cuz-kimmie-youre-a-firework
+image: "http://felixonline.co.uk/img/upload/201502091906-ps3110-the-interview-cmyk.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5218/cuz-kimmie-youre-a-firework
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502091906-ps3110-the-interview-cmyk.jpg"
-image_caption: ""
 ---
 
 __THE INTERVIEW__

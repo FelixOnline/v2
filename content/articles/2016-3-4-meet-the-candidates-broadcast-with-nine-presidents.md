@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Meet the freaking 30 candidates.
 date: "2016-03-04 11:28:59 +0000"
-
-# Attributes from Felix Online V1
-id: "5998"
-old_path: /news/5998/meet-the-candidates-broadcast-with-nine-presidents
+image: "http://felixonline.co.uk/img/upload/201603041128-felix-mtc.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5998/meet-the-candidates-broadcast-with-nine-presidents
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603041128-felix-mtc.jpg"
-image_caption: ""
 ---
 
 > > Loud cries of protest could be heard from the next room

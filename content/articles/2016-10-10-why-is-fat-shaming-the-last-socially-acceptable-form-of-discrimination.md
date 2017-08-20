@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tessa Davey discusses the abuses, challenges, and stigmas faced by fat people in our modern, Western society.
 date: "2016-10-10 11:41:31 +0100"
-
-# Attributes from Felix Online V1
-id: "6317"
-old_path: /comment/6317/why-is-fat-shaming-the-last-socially-acceptable-form-of-discrimination
+image: "http://felixonline.co.uk/img/upload/201610101338-felix-2038661012_aed2362473_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6317/why-is-fat-shaming-the-last-socially-acceptable-form-of-discrimination
-imported: true
 comments:
  - value: >
      Without wishing to deny the stigma around weight (particularly for women, whose appearances are invariably subject to a greater degree of criticism), to call it "the last socially acceptable form of discrimination" seems a touch hyperbolic. Likewise the insistence on classifying it as a -phobia, drawing arguably spurious parallels to the frontiers of LGBT persecution—still very much an "acceptable" form of prejudice in some spheres, and for which many still risk being disowned by family, even death as 2016 so tragically reminded us.<br>What's more, other appearance markers are subject to similar criticism. Sufferers of adult acne, for example, are liable to face assumptions about their personal hygiene, and no shortage of patronising suggestions as to their skincare routine—for what may in fact be genetic, or hormonal. Those who don't adequately attempt to cover up spots and scars are regarded as disgusting, such is the image-obsessed society in which we live.,Without wishing to deny the stigma around weigh
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610101338-felix-2038661012_aed2362473_o.jpg"
-image_caption: ""
 ---
 
 Being fat is seen as the worst thing that a person can be. Fat is often synonymous with lazy, slovenly, unattractive, and unhealthy, and becomes a reason to deny someone any semblance of humanity – fat people aren’t seen as worthy.

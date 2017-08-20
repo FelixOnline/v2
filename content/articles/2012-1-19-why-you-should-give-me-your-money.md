@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tackling Cystic Fibrosis through the ultimate endurance trust
 date: "2012-01-19 23:26:33 +0000"
-
-# Attributes from Felix Online V1
-id: "2039"
-old_path: /comment/2039/why-you-should-give-me-your-money
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2039/why-you-should-give-me-your-money
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - eoy05
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I’m going to lay my cards out on the table straight away. I will spend the next six months begging you for money. This is the raison d’etre of this column. Amusing you (or more likely myself) would be a nice perk on the side – a bit like dental insurance.

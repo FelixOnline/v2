@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Maya Kaushik on selection after copulation and ‘cryptic female choice’
 date: "2011-11-24 20:33:58 +0000"
-
-# Attributes from Felix Online V1
-id: "1805"
-old_path: /science/1805/have-sex-then-select
+image: "http://felixonline.co.uk/img/upload/201111242033-pk1811-cornishcross.jpg"
+image_caption: "Chickens had the opportunity to get up to a little fowl play during Green Week"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1805/have-sex-then-select
-imported: true
 comments:
  - value: >
      I love cock.,Oh hi I'm so pretty and guys buy me drinks arent I fabulous?!,Interesting article. More on this, less on sexism thanks.,I told you guys that a woman's organs shut down when she's raped. God Bless America.
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242033-pk1811-cornishcross.jpg"
-image_caption: ""
 ---
 
 Last Friday night, I was sat in my favourite bar in London with my friends, when a well-dressed young man in a suit came up to me and offered to buy me a cocktail. Pretty exciting, for a single girl, right?

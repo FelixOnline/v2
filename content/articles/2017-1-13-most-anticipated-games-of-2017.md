@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It’s a new year and a new term, most definitely filled with new lectures, problem sheets and coursework to stress over. Luckily, there’s also a number of upcoming games to enjoy and procrastinate with. So without further ado, here are the games that should really be on your radar, as recommended by
 date: "2017-01-13 14:51:30 +0000"
-
-# Attributes from Felix Online V1
-id: "6648"
-old_path: /games/6648/most-anticipated-games-of-2017
+image: "http://felixonline.co.uk/img/upload/201701131448-felix-large.img (1).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/6648/most-anticipated-games-of-2017
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -23,12 +20,6 @@ authors:
  - sa8713
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701131448-felix-large.img (1).jpg"
-image_caption: ""
 ---
 
 ## Mass Effect: Andromeda

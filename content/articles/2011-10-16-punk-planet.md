@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Douglas Heaven discusses Uzeda
 date: "2011-10-16 15:11:24 +0100"
-
-# Attributes from Felix Online V1
-id: "1551"
-old_path: /music/1551/punk-planet
+image: "http://felixonline.co.uk/img/upload/201110161611-felix-uzeda.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1551/punk-planet
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - extuser0
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110161611-felix-uzeda.jpg"
-image_caption: ""
 ---
 
 Sicily: land of citrus fruit, olive oil, Cosa Nostra, and __Uzeda__, a band hailing from the foothills of smoking Mt. Etna. Three of their five albums were recorded by Steve Albini, the pixie of punk rock himself, and released on the _Touch & Go_ label. Albini’s instantly recognizable sound on _4_ (1995), _Different Section Wires_ (1998), and _Stella_ (2006) encouraged online music magazine Pitchfork to call Uzeda “a T&G cover band with __Kim Deal__ on vocals”. But that’s no bad thing.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The first all Conservative Cabinet for almost 20 years meets for the first time today, with a lot of fresh faces.
 date: "2015-05-12 09:06:23 +0100"
-
-# Attributes from Felix Online V1
-id: "5511"
-old_path: /politics/5511/camerons-reshuffled-cabinet-the-big-hitters-in-government-
+image: "http://felixonline.co.uk/img/upload/201505121006-jr2514-cabinet_01-593eeac0d8b01457f1e24d784107305a277187402740917ff1f23d94adab6905.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/5511/camerons-reshuffled-cabinet-the-big-hitters-in-government-
-imported: true
 comments:
  - value: >
      fit flops on sale <br>fitflops singapore online http://fitflopsalesingapore2.blogspot.com/,Excellent blog! Do you have any recommendations for aspiring writers? I'm planning to start my own website soon but I'm a little lost on everything. Would you propose starting with a free platform like Wordpress or go for a paid option? There are so many choices out there that I'm completely confused .. Any suggestions? Cheers! <br>wholesale snapbacks http://www.dailymotion.com/video/x30jl5l_wholesale-snapback-hats-cheap-new-era-hats-from-china-only-5-hat_lifestyle,where to buy fitflops <br>fitflop stores http://australiafitflops.iemiller.net/,birkenstock sandals clearance <br>birkenstocks mayari http://birkenstockaustraliamalls.com/,louboutin shoes price <br>christian louboutin shoes http://canadachristianlouboutin.blogspot.com/,Many thanks, this site is very beneficial.| <br>cs go skins explained http://bestcoins.shop-worlds.com/2016/04/11/nba-2k16-vc-coins-with-prime-promoting-videogame-franchises/,Many thanks, this website is very us
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -26,12 +23,6 @@ authors:
  - jr2514
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505121006-jr2514-cabinet_01-593eeac0d8b01457f1e24d784107305a277187402740917ff1f23d94adab6905.jpg"
-image_caption: ""
 ---
 
 There’s not much change at the top in Cameron’s cabinet reshuffle, but in the ‘bottom’ half there are far more young and fresh faces, including more women.

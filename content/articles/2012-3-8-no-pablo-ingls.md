@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Tate Britain examines the relationship between modern British art and Picasso
 date: "2012-03-08 20:33:25 +0000"
-
-# Attributes from Felix Online V1
-id: "2317"
-old_path: /arts/2317/no-pablo-ingls
+image: "http://felixonline.co.uk/img/upload/201203082032-ams111-id_152.jpg"
+image_caption: "The Three Dancers (1925)"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2317/no-pablo-ingls
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - sc805
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203082032-ams111-id_152.jpg"
-image_caption: ""
 ---
 
 I remember being mesmerised when seeing Picasso’s ‘Guernica’ for the first time in Madrid; the same happened to the millions of Brits who were able to see the imposing painting when it wasfirst exhibited in England. It must be said that it did take them the odd 30 years to actually start appreciating Picasso’s art.

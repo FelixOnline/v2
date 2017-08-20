@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Episode VII - Josquin
 date: "2014-02-21 03:33:39 +0000"
-
-# Attributes from Felix Online V1
-id: "4433"
-old_path: /music/4433/emiels-guide-to-classical-music-episode-7---josquin
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4433/emiels-guide-to-classical-music-episode-7---josquin
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - ed812
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Josquin des Prez, or Josquin for short, was an artist of mythical proportions. This was partly due to his massive talent, but also partly a result of the changing humanist culture. At the start of his career music was still grouped with geometry and arithmetic in the Quadrivium of taught subjects – something natural, following divine laws.

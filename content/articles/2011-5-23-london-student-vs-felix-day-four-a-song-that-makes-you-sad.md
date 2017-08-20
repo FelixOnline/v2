@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Like, tweet, or comment on this page to help us pummel the London Student newspaper on day four of our 30-day Song Challenge duel
 date: "2011-05-23 11:03:41 +0100"
-
-# Attributes from Felix Online V1
-id: "1243"
-old_path: /music/1243/london-student-vs-felix-day-four--a-song-that-makes-you-sad
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1243/london-student-vs-felix-day-four--a-song-that-makes-you-sad
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Thanks to [David from yesterday](http://felixonline.co.uk/music/1238/london-student-vs-felix-day-three--a-song-that-makes-you-happy/#comment80000664) for this suggestion. Whichever way you interpret this song, it undoubtedly has the power to take you to that dark place where ex-girl/boyfriends, old friends, and missed opportunities reside.

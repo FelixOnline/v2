@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Emma Lisle on the new substance’s potential in engineering
 date: "2015-03-03 15:00:58 +0000"
-
-# Attributes from Felix Online V1
-id: "5329"
-old_path: /science/5329/limpet-teeth-are-found-to-be-strongest-natural-material-on-earth
+image: "http://felixonline.co.uk/img/upload/201503041213-ps3110-screen-shot-2015-03-03-at-15.16.19.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5329/limpet-teeth-are-found-to-be-strongest-natural-material-on-earth
-imported: true
 comments:
  - value: >
      buy fitflop <br>fitflop shoes online http://www.fitflopssingapore.com/,Hello there, I found your site via Google while searching for a related topic, your site came up, it looks good. I've bookmarked it in my google bookmarks. <br>wholesale snapbacks http://www.twofangtu.cn,Thank you for another informative site. Where else could I get that type of info written in such an ideal way? I've a project that I am just now working on, and I have been on the look out for such info. <br>wholesale new era fitted hats http://www.twofangtu.cn/fitted-hats,fit flops footwear <br>buy fitflops http://australiafitflops.iemiller.net/,Coach Factory <br> ray ban outlet <br> coach outlet online <br> ray ban sunglasses <br> <br>oakley sunglasses outlet http://www.oakley-sunglasses.xyz/,coach outlet <br> michael kors factory outlet <br> cheap oakley sunglasses <br> ray ban wayfarer <br> <br>coach factory outlet http://www.coachfactoryonlines.us.org/,coach factory outlet <br> michael kors outlet <br> oakley sunglasses wholesale <br> cheap ray bans <br> <br>cheap ray ban sungla
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503041213-ps3110-screen-shot-2015-03-03-at-15.16.19.png"
-image_caption: ""
 ---
 
 Engineers believe they may have found the strongest natural material on Earth – limpet teeth. Research conducted at the University of Portsmouth has revealed that the teeth of these small aquatic creatures are so strong they could be copied to make the cars, planes and boats of the future.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   After a week of controversy, Abigail Sawyer looks into the chemistry of cryogenics
 date: "2016-11-25 13:35:09 +0000"
-
-# Attributes from Felix Online V1
-id: "6499"
-old_path: /science/6499/tis-the-season-to-be-cryogenically-frozen
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6499/tis-the-season-to-be-cryogenically-frozen
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - abigailsawyer
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 For starters, here’s a myth buster: Walt Disney was not actually cryogenically frozen.

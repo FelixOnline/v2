@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Two football club members have also been banned from sports at Imperial
 date: "2011-05-05 23:32:50 +0100"
-
-# Attributes from Felix Online V1
-id: "1146"
-old_path: /news/1146/football-team-fined-after-ulu-cup-fight
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1146/football-team-fined-after-ulu-cup-fight
-imported: true
 comments:
  - value: >
      BANG! BANG! BANG!,The final was won 3-2 by Imperial. <br> <br>All you need to know.,The final was won 3-2 by Imperial. <br> <br>All you need to know.,I don't see what the problem is. Someone was wearing a morph suit, which I thought meant you could get away with anything?,Whheeeeeeeeeeeeeyyyy!,IC football- bunch of twats. massive bunch of twats,bbbrrrrrrrraaaaaaapppppppppppppp!!!!!,I am so so proud, club love,Im a bellend,Footballer's arguing over who has the best shoes. Faggots.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The football team has been fined £100 by the Amateur Football Association (AFA) after a fight broke out at the 19th of March ULU Cup Final with UCL. The club was charged with failing to control its supporters, to which they pleaded guilty, and one individual, whose case has yet to be heard, has been charged with assault on a UCL player.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Take your short-range flamethrower to set nearby enemies on fire or be more strategic and beset pirates by setting a whole cove on fire.
 date: "2013-10-16 14:13:31 +0100"
-
-# Attributes from Felix Online V1
-id: "3882"
-old_path: /games/3882/far-cry-3-pirate-infested-tropical-dystopia
+image: "http://felixonline.co.uk/img/upload/201310161513-me1711-games_fc3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3882/far-cry-3-pirate-infested-tropical-dystopia
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ir112
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310161513-me1711-games_fc3.jpg"
-image_caption: ""
 ---
 
 Partying. Hostages. Drinks. Machetes. Skydiving. Friends. Pirates. The game starts off with a montage of you (as Jason Brody), your brothers and your friends having the time of their life on a large island in the south pacific. The nightmare quickly begins when Jason wakes up to find himself imprisoned in a bamboo cage by indigenous pirates, and it’s not long before you meet the fiend himself, the psycho pirate lord Vaas.

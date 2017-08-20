@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jack Steadman sees Brandon Flowers command the Brixton Academy stage
 date: "2015-05-29 12:19:33 +0100"
-
-# Attributes from Felix Online V1
-id: "5587"
-old_path: /music/5587/brandon-flowers-on-his-own
+image: "http://felixonline.co.uk/img/upload/201505291319-js5913-brandon-flowers-at-brixto-009.jpg"
+image_caption: "What a jacket. And what a face."
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5587/brandon-flowers-on-his-own
-imported: true
 comments:
  - value: >
      The video of Jackson's famous "Tecmo Bowl" touchdown run can be discovered here. Our software is the only method watch society Cup online in high def quality! The tournament has been lack of goals and sort of disappointing. <br>fifa 16 hack http://creditsfut.com/,lhv tamoxifen anastrozole interaction anabolic steroids anastrozole anastrozole dosage during cycle,I've never thought that Brandon sounds like Fleetwood Mac (Love that band). Now I need to re-listen Brandon's albums)) By the way do you know that their tour http://buyticketsforconcerts.com/fleetwood-mac-tickets-atlanta/ gonna start soon?,yzu anastrozole ovarian cancer chemone research anastrozole stop taking anastrozole,aes how to dose anastrozole alternative to anastrozole side effects of arimidex anastrozole,kaf anastrozole boiling point anastrozole month old baby anastrozole solubility,jga buy liquid anastrozole how long can you take anastrozole anastrozole or aromasin,fib anastrozole side effects female anastrozole and weight gain research chemicals
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +24,6 @@ authors:
  - js5913
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505291319-js5913-brandon-flowers-at-brixto-009.jpg"
-image_caption: ""
 ---
 
 __Brandon Flowers__ going solo has always been an interesting proposition, begging the question: when it comes to __The Killers__ and everything they’ve done, how much of their sound is down to him?

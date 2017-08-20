@@ -4,16 +4,14 @@ title: >
 subtitle: >
   With the NSS in full swing this year, Yulia Negreskul sees where progress was made and not made on last year’s suggestions
 date: "2013-02-08 01:15:31 +0000"
-
-# Attributes from Felix Online V1
-id: "3285"
-old_path: /news/3285/nss-response-what-has-changed
+image: "http://felixonline.co.uk/img/upload/201302080113-tna08-assessment-and-feedback.jpg"
+image_caption: "Assessment and Feedback page from the NSS Response"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3285/nss-response-what-has-changed
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - yn711
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302080113-tna08-assessment-and-feedback.jpg"
-image_caption: ""
 ---
 
 [The National Student Survey (NSS)](http://www.thestudentsurvey.com/) is completed by every final year undergraduate student across the country and has been run since 2005 by [HEFCE](http://www.hefce.ac.uk/), an organisation responsible for public funding of English universities. Being the only way to assess student experience throughout their time in university on a national scale, it plays a crucial role in university ranking process and is widely held responsible for the poor performance in the Sunday Times League Table for 2012 entry, where Imperial lost 11 positions.

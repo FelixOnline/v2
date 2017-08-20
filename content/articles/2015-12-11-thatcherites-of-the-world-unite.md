@@ -4,17 +4,14 @@ title: >
 subtitle: >
   Political diversity is to be cherished, not shouted down as “problematic”
 date: "2015-12-11 15:31:13 +0000"
+image: "http://felixonline.co.uk/"
 draft: true
-
-# Attributes from Felix Online V1
-id: "5814"
-old_path: /comment/5814/thatcherites-of-the-world-unite
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5814/thatcherites-of-the-world-unite
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - cw3413
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 > > **Imperial, a rare oasis of sanity surrounded by hysterical student activism**

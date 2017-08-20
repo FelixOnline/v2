@@ -4,16 +4,13 @@ title: >
 subtitle: >
   What to do then? How about you jump off a cliff mate, and find out?
 date: "2011-02-03 20:31:11 +0000"
-
-# Attributes from Felix Online V1
-id: "749"
-old_path: /comment/749/the-artus-break
+image: "http://felixonline.co.uk/img/upload/201101271936-ks607-darianai.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/749/the-artus-break
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - nd507
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101271936-ks607-darianai.jpg"
-image_caption: ""
 ---
 
 The focus of my Fridays is the customary philosophy hour lunch break from my lectures. That's when a bunch of Philosophy enthusiasts (read: Greg Artus fans) gather around in the enclosed space once named the Pippard lecture theatre for their weekly dose of arguments and a fine prescription of debating.

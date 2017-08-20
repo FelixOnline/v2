@@ -4,18 +4,16 @@ title: >
 subtitle: >
   After a search for a new President, College has appointed Chemical Engineer Professor Alice P. Gast, President of Lehigh University to the role.
 date: "2014-01-03 12:21:06 +0000"
-
-# Attributes from Felix Online V1
-id: "4202"
-old_path: /news/4202/imperial-college-welcomes-new-president-in-september
+image: "http://felixonline.co.uk/img/upload/201401031221-jal08-alice-gast-49.jpg"
+image_caption: "President-designate Professor Gast"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4202/imperial-college-welcomes-new-president-in-september
-imported: true
 comments:
  - value: >
      http://www.timeshighereducation.co.uk/news/us-imports-vice-chancellors-that-cost-half-a-million/2010316.article
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201401031221-jal08-alice-gast-49.jpg"
-image_caption: ""
 ---
 
 After a search by College Council through an international list of candidates, Professor Alice P. Gast, President of Lehigh University and former Vice President for Research and Associate Provost at MIT is set to step into the role of President of Imperial College. Professor Gast will be College's first female President/Rector in it's 106 year history.

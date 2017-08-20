@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This week: Argentinian punk
 date: "2011-12-01 21:15:17 +0000"
-
-# Attributes from Felix Online V1
-id: "1884"
-old_path: /music/1884/punk-planet-by-douglas-heaven
+image: "http://felixonline.co.uk/img/upload/201112012115-pk1811-4db6fc1fc81c5_sumo_2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1884/punk-planet-by-douglas-heaven
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - fmusic
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012115-pk1811-4db6fc1fc81c5_sumo_2.jpg"
-image_caption: ""
 ---
 
 Argentine punk had a troubled upbringing. Though inspired by the notoriety of the __Sex Pistols__, Argentina’s pioneers couldn’t afford to play the same kind of media-baiting games. The year that brought us punk rock brought Argentina a vicious military dictatorship, and all evidence suggests dictators don’t like punk.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   First smart watches, then Google Glass – Eva Coles steers upcoming types of wearable technology into the spotlight, some of which are heavily movie-inspired
 date: "2016-11-18 14:54:23 +0000"
-
-# Attributes from Felix Online V1
-id: "6467"
-old_path: /science/6467/going-back-to-the-future-in-style
+image: "http://felixonline.co.uk/img/upload/201611181454-felix-5274270428_c4dff8b634_b.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6467/going-back-to-the-future-in-style
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - evacoles13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611181454-felix-5274270428_c4dff8b634_b.jpg"
-image_caption: ""
 ---
 
 It seems wearable tech is becoming somewhat of a fashion trend around the world. And many new products coming into play this year take their inspiration from the 1980s film franchise: Back to The Future. Nike were the first to stun the world with the first-ever line of self lacing trainers, The HyperAdapt, which they based on Marty Mcfly’s footwear in the second film. These trainers have been designed with a sensor located at the heel, triggering the fitting process when activated. The new line will be available on November 28th with an initial selling price of $720.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Hammersmith-based research facility opened by Chancellor
 date: "2012-06-01 11:59:12 +0100"
-
-# Attributes from Felix Online V1
-id: "2506"
-old_path: /news/2506/73-million-biomedical-centre-opened
+image: "http://felixonline.co.uk/img/upload/201206011254-mc4509-08_ictem_buildingmisc_60.jpg"
+image_caption: "The Imperial Centre for Translational and Experimental Medicine is located on Hammersmith Campus"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2506/73-million-biomedical-centre-opened
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - ak6309
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206011254-mc4509-08_ictem_buildingmisc_60.jpg"
-image_caption: ""
 ---
 
 A new research facility built with the aim of channelling scientific discoveries into the prevention and treatment of diseases was opened on Monday 28 May on Hammersmith Campus.

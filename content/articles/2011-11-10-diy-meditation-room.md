@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Navid Nabijou embarks on a spirituo-materialistic journey
 date: "2011-11-10 22:21:00 +0000"
-
-# Attributes from Felix Online V1
-id: "1746"
-old_path: /arts/1746/diy-meditation-room
+image: "http://felixonline.co.uk/img/upload/201111102214-pk1811-img_7103.jpg"
+image_caption: "One thing I would say – make it brighter"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1746/diy-meditation-room
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - pk1811
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102214-pk1811-img_7103.jpg"
-image_caption: ""
 ---
 
 There isn’t a whole lot of space in my flat. Its close proximity to college is a massive plus, but one of the trade-offs is having to share rooms. This isn’t all bad by any means, but at times it can grow a bit trying.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Intimacy at Oval Space
 date: "2017-02-03 17:05:24 +0000"
-
-# Attributes from Felix Online V1
-id: "6729"
-old_path: /music/6729/percolate--mind-fundraiser
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6729/percolate--mind-fundraiser
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - philippantonas
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Any excuse to visit one of my favourite venues in London is welcomed by me, so much more the better when that excuse is me donating to an amazing charity and getting a great, music-heavy evening in return.

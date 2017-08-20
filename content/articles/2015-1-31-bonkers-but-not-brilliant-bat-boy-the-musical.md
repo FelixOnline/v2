@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Max Falkenburg heads to Southwark to check out their cult musical revival
 date: "2015-01-31 19:16:47 +0000"
-
-# Attributes from Felix Online V1
-id: "5171"
-old_path: /arts/5171/bonkers-but-not-brilliant---bat-boy-the-musical
+image: "http://felixonline.co.uk/img/upload/201501311915-ff712-rob-compton-as-bay-boy-and-georgina-hagen-as-shelley.-photo-credit-garry-lake-(2)-a.jpg"
+image_caption: "Rob Compton as Bat Boy and Georgina Hagen as Shelley "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5171/bonkers-but-not-brilliant---bat-boy-the-musical
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - mff113
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501311915-ff712-rob-compton-as-bay-boy-and-georgina-hagen-as-shelley.-photo-credit-garry-lake-(2)-a.jpg"
-image_caption: ""
 ---
 
 I am not a fan of musicals. There, I’ve said it. When you grow up spending every waking moment with ‘theatrical types’ who sit around reciting ballads from _Les Miserables_, musicals can make you hate them. Listening to song after whiny song which all fail to add any story to the show, and with music which is at best a notch above mediocre, for me, musical theatre is a curse.

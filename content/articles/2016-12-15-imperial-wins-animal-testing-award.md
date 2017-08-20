@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This is despite past criticism
 date: "2016-12-15 23:59:52 +0000"
-
-# Attributes from Felix Online V1
-id: "6598"
-old_path: /news/6598/imperial-wins-animal-testing-award
+image: "http://felixonline.co.uk/img/upload/201612152359-felix-8430280933_a62df278b1_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6598/imperial-wins-animal-testing-award
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ad4812
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612152359-felix-8430280933_a62df278b1_o.jpg"
-image_caption: ""
 ---
 
 Imperial has had a pretty rocky history with Animal Research within the College and its public image. From the low point of the 2014 Home Office statement that there was a “widespread poor culture of care”, such clear progress has been made that College have now been awarded for their work towards Animal Welfare. Imperial College has been presented with a Highly Commended award in the category of Public Engagement Activity at the annual awards for Openness on Animal Research.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Disabilities Officer role just doesn't cut it
 date: "2017-01-27 14:13:14 +0000"
-
-# Attributes from Felix Online V1
-id: "6682"
-old_path: /news/6682/mental-health-officer-joins-union-roles
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6682/mental-health-officer-joins-union-roles
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - ea3211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Union Council has voted to introduce a new liberation officer, representing students struggling with mental health issues. Appropriate steps will be taken for the position to be created in time for the elections in March.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Kickstarter is one of many crowdfunding options for budding creators, looking to shake up the world of cinema
 date: "2016-04-29 10:38:30 +0100"
-
-# Attributes from Felix Online V1
-id: "6100"
-old_path: /film/6100/kung-fu-kickstarter-and-how-crowdfunding-is-changing-cinema
+image: "http://felixonline.co.uk/img/upload/201604291138-felix-140313-kickstarter-screen-jb-1534p_405a41ea74f3acd3868abacbc5c32033.nbcnews-fp-1240-520.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6100/kung-fu-kickstarter-and-how-crowdfunding-is-changing-cinema
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - toc15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201604291138-felix-140313-kickstarter-screen-jb-1534p_405a41ea74f3acd3868abacbc5c32033.nbcnews-fp-1240-520.jpg"
-image_caption: ""
 ---
 
 Struck by lightning and bitten by a cobra, Kung Fury is a kung-fu freak of nature and the chosen one. Working as a cop on streets drenched in neon and soaked in synth pop, he defends 1980’s Miami. Enter Adolf Hitler, A.K.A. the Kung-Führer. On a temporal murder spree to prove his supremacy, Hitler must be stopped. With the help of his friends Hackerman, Triceracop (it’s exactly what you think), and the Norse god Thor (to name but a few) Kung Fury must travel back in time to defeat the Third Reich and take down the worst criminal in history.

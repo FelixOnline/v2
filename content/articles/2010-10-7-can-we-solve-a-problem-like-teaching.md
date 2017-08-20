@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Members of staff give their opinions on improving teaching and coursework feedback
 date: "2010-10-07 22:13:59 +0100"
-
-# Attributes from Felix Online V1
-id: "175"
-old_path: /news/175/can-we-solve-a-problem-like-teaching
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/175/can-we-solve-a-problem-like-teaching
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Professor Omar Matar, Director of Undergraduate Studies for Chemical Engineering notes that “members of staff have a finite amount of endurance and certainly the students are in the same sort of boat” in terms of the amount of work that requires feedback. Professor Julia Buckingham, Pro-Rector (Education and Academic Services) agrees, observing that “there has been a move in some departments to actually reduce the amount of coursework, and I think that will help.”

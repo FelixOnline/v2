@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Imperial’s girls put impressive score on rivals
 date: "2010-12-02 20:38:13 +0000"
-
-# Attributes from Felix Online V1
-id: "475"
-old_path: /sport/475/netball-pummel-brunel
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/475/netball-pummel-brunel
-imported: true
 comments:
  - value: >
      Hi Thank you for the write up.well, I am a professional dacner and dyslexic.I keep facing challenges of remembering sequences, understanding the movement and not knowing if it began from the right or the left. As u said,, I need to practice so many times. At times it gets so frustrating because I am a professional and at times when I do not get the sequence I feel like an amateur. So I googled to know the different ways dyslexia can affect a dacner.Was also wondering if dyslexic's understand rhythm differently from others. Because I always feel that at the beginning of learning any sequence in dance i usually move on a different pace compared to others thinking I am going right. Now I wonder if this is because of dyslexia or its just in my mind???I will be really glad to receive an answer to this. Than you once againRegardsSharanya,je de9couvre votre blog gre2ce e0 un itine9raire web hyper complique9 mais<a href="http://zbmfeydubpm.com"> qleule</a> de9couverte, j adore votre dessin et votre humour. Oui bon
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - fmg08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The dedication of the Netball 3rd team to their training finally paid off with a thrilling 45-27 win over Brunel on Wednesday.

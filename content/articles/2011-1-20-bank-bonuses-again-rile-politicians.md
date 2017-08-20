@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It’s that time of the year again: the banks have disclosed the size of their bonus pools and Patrick O’Driscoll thinks the public needs to know more before judging
 date: "2011-01-20 20:28:45 +0000"
-
-# Attributes from Felix Online V1
-id: "627"
-old_path: /biz/627/bank-bonuses-again-rile-politicians-
+image: "http://felixonline.co.uk/img/upload/201101202027-ks607-bonsusas.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/627/bank-bonuses-again-rile-politicians-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101202027-ks607-bonsusas.jpg"
-image_caption: ""
 ---
 
 Business theorist Frederick Winslow Taylor believed that performance related pay was the way to encourage production and efficiency. Investment Banks have been paying bonuses on Wall Street and the Wharf for decades.

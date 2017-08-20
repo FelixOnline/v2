@@ -4,17 +4,15 @@ title: >
 subtitle: >
   Dylan won the Nobel Prize for Literature last week, the first musician to win. Adam Gellatly writes why Dylan deserves to win, and the impact that the songwriter has had on him.
 date: "2016-10-21 12:24:54 +0100"
+image: "http://felixonline.co.uk/img/upload/201610211419-so515-7.jpg"
+image_caption: "Bob Dylan and Joan Baez, who gave Dylan his first big break"
 draft: true
-
-# Attributes from Felix Online V1
-id: "6343"
-old_path: /arts/6343/-bob-dylan-first-musician-to-win-nobel-prize
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6343/-bob-dylan-first-musician-to-win-nobel-prize
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +21,6 @@ tags:
 authors:
  - so515
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610211419-so515-7.jpg"
-image_caption: ""
 ---
 
 Bob Dylan has never not been a part of my life; his songs were played constantly in my parents’ car and home throughout my childhood. Despite his reputation as a lyricist, it was the sound, not the content of his songs, that I first fell in love with. _Positively 4th Street_, a single never to appear on an LP, stands out amongst my early Dylan listening. With a plodding piano melody and Al Kooper’s unmistakeable organ playing leading into his voice, it sums up the sound that Dylan was recording in 1965. It was a sound that marked the end of Bob the folk singer and the start of Dylan the rock star, a sound so beautiful that as a 7-year-old you don’t fully appreciate that the song is a rather vicious attack on a former friend. In a similar way to _Like a Rolling Stone_, there’s an immense amount of anger in his words, but not his voice; for Dylan, the subject matter does not stand in the way of a great song. Once you start to listen to the lyrics, though, my god do the songs take on a new life.

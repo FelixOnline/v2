@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Three excellent albums reviewed in less time than it takes to boil an egg
 date: "2012-02-23 21:12:10 +0000"
-
-# Attributes from Felix Online V1
-id: "2252"
-old_path: /music/2252/reviewed-in-60-seconds-
+image: "http://felixonline.co.uk/img/upload/201202232110-pk1811-ziggy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2252/reviewed-in-60-seconds-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -27,12 +24,6 @@ authors:
  - sh1207
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202232110-pk1811-ziggy.jpg"
-image_caption: ""
 ---
 
 __David Bowie - _The Rise And Fall of Ziggy Stardust and the Spiders from Mars___

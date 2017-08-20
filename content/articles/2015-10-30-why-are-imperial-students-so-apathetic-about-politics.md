@@ -4,18 +4,15 @@ title: >
 subtitle: >
   It is time that we acknowledged our failure to act, find a cause, and make a difference
 date: "2015-10-30 12:36:55 +0000"
-
-# Attributes from Felix Online V1
-id: "5684"
-old_path: /comment/5684/why-are-imperial-students-so-apathetic-about-politics
+image: "http://felixonline.co.uk/img/upload/201510301236-ygr12-angry-medics.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5684/why-are-imperial-students-so-apathetic-about-politics
-imported: true
 comments:
  - value: >
      While you raise the point of Union Council, do ask yourself the question - is Council really that representative of the students it is supposed to represent? <br> <br>I personally found in previous years that Council has actually been more interested in the ideologies of the people in it, rather than of myself and my peers. I guess its hard when you vote for the funny manifesto rather than any concrete policies - when I voted I always found all the manifestos to say the same thing ("power to students") instead of anything concrete with the exception of Andrew Tranter who I think deserves a huge amount of credit irrespective of whether you agree with his point of view or not! <br> <br>Hopefully this democracy review I read about will fix it - maybe Council will be more successful at lobbying when it has a stronger mandate from the student body to campaign on issues it cares about?,It's not that Imperial students aren't interested in politics, it's that we don't tend to indulge in the petty rioting that the students from o
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510301236-ygr12-angry-medics.jpg"
-image_caption: ""
 ---
 
 The students of Imperial are, in my experience, greatly lacking in their enthusiasm for political and social issues when compared to their contemporaries at other institutions. While it might be true that there is growing resentment and disillusionment among students towards the political class, this does not excuse the alarming lack of visible activism and demonstration across campus.

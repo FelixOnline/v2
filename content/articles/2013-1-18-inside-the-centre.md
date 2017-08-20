@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Maciej Matuszeski reviews Ray Monk’s Oppenheimer biography
 date: "2013-01-18 00:43:20 +0000"
-
-# Attributes from Felix Online V1
-id: "3139"
-old_path: /books/3139/inside-the-centre
+image: "http://felixonline.co.uk/img/upload/201301180042-tna08-robert_oppenheimer_3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3139/inside-the-centre
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - mtm10
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301180042-tna08-robert_oppenheimer_3.jpg"
-image_caption: ""
 ---
 
 Ray Monk has long been highly regarded as a skilled biographer. A philosopher himself, his 1991 biography of Wittgenstein won him the John Llewellyn Rhys Prize. In his latest work, however, Monk has chosen to explore the life of one of America’s most controversial scientists – Robert Oppenheimer.

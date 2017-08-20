@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Three of Gaming section’s biggest writers to talk about what they think the future holds in store when Felix 2000 rolls around...
 date: "2011-11-03 21:01:17 +0000"
-
-# Attributes from Felix Online V1
-id: "1678"
-old_path: /games/1678/the-future-of-gaming
+image: "http://felixonline.co.uk/img/upload/201111032027-sjw209-137-back-to-the-future.jpg"
+image_caption: "Fuel up on plutonium, ‘cos we’re heading into the future! "
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1678/the-future-of-gaming
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111032027-sjw209-137-back-to-the-future.jpg"
-image_caption: ""
 ---
 
 _Interested in how gaming got to where it is today? [See our companion article here!](http://felixonline.co.uk/games/1667/gaming-through-the-ages-when-this-baby-reaches-88-miles-per-hour/)_

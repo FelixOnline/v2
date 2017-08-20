@@ -4,18 +4,15 @@ title: >
 subtitle: >
   It’s easy to keep your head down and get lost in your own world. Maybe we should all get a new perspective
 date: "2011-03-10 20:06:48 +0000"
-
-# Attributes from Felix Online V1
-id: "1062"
-old_path: /comment/1062/up-is-the-new-down
+image: "http://felixonline.co.uk/img/upload/201103102005-ks607-skyillus.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1062/up-is-the-new-down
-imported: true
 comments:
  - value: >
      Home run! Great sulggnig with that answer!,KBEJaz <a href="http://pixanotkjuel.com/">pixanotkjuel</a>,KBEJaz <a href="http://pixanotkjuel.com/">pixanotkjuel</a>,lart mikid <br>, <a href="http://www.medbalance.net/">priligy best buy</a> &gt;:PPP <a href="http://www.pillssearch.net/">lexapro liver zoloft</a> jgvvv <a href="http://www.protomeds.net/">propecia</a> :-(( , <a href="http://www.viaprix.net/">buy ultram</a> 847677 <a href="http://www.yourstealightfully.com/nexium.html">nexium</a> rsev <a href="http://www.medssupport.com/">topamax</a> 8PPP
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - rjd08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103102005-ks607-skyillus.jpg"
-image_caption: ""
 ---
 
 Someone once told me that dogs can’t look up. After the serendipitous, albeit not entirely legal acquisition of several dogs and the systematic placing of bones, dog food, and even cats on formidably high shelving, I at last determined that this was utter bollocks. But it got me thinking. Dogs can look up, but can people?

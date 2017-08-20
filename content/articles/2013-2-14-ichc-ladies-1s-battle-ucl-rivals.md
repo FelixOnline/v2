@@ -4,16 +4,13 @@ title: >
 subtitle: >
   UCL, bitter rivals...
 date: "2013-02-14 19:30:44 +0000"
-
-# Attributes from Felix Online V1
-id: "3327"
-old_path: /sport/3327/ichc-ladies-1s-battle-ucl-rivals
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3327/ichc-ladies-1s-battle-ucl-rivals
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - jcp08
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Ready for a re-match with long-time rivals UCL, we got to Harlington early, and had a good strategy session with Coach Oli, only slightly distracted by the un-named players who wouldn’t keep their shirts on. Ears ringing with assertions that we should play defensively and win with superior numbers behind the ball, we had a good warm up and prepared to play running into strong wind.

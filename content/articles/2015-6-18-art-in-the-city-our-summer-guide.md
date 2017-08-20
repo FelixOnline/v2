@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix Arts presents our cultural guide of what’s on this summer
 date: "2015-06-18 22:02:17 +0100"
-
-# Attributes from Felix Online V1
-id: "5639"
-old_path: /arts/5639/art-in-the-city-our-summer-guide
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5639/art-in-the-city-our-summer-guide
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - km2612
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ### BP Portrait Award 2015

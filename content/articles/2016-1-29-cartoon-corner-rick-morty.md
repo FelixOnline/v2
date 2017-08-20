@@ -4,18 +4,16 @@ title: >
 subtitle: >
   This clever and inventive show is the epitome of high-concept storytelling
 date: "2016-01-29 09:59:29 +0000"
-
-# Attributes from Felix Online V1
-id: "5856"
-old_path: /tv/5856/cartoon-corner-rick--morty
+image: "http://felixonline.co.uk/img/upload/201601290957-felix-rick_and_morty_s02_still.jpg"
+image_caption: "Let’s get Schwifty!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5856/cartoon-corner-rick--morty
-imported: true
 comments:
  - value: >
      Great site you have got going here <br>buy nhl 17 coins http://nhl17coinsforsale.lofter.com/post/1e54807d_c1f503e
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -26,12 +24,6 @@ authors:
  - sa8713
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201601290957-felix-rick_and_morty_s02_still.jpg"
-image_caption: ""
 ---
 
 Sometimes considered a loose and boisterous reimaging of Doc Brown and Marty, Rick and Morty is a fun and wild, animated science-fiction show where things are anything but classic Sci-Fi. If you haven’t heard of this show by now, you’ve either been subjugated by the rule of the canines or are trapped in a minverse, inside a miniverse, inside a miniverse inside your car battery.

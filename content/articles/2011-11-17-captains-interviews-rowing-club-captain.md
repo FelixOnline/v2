@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Indy Leclercq visits the Boathouse for the latest Club Captain Interview
 date: "2011-11-17 22:56:40 +0000"
-
-# Attributes from Felix Online V1
-id: "1795"
-old_path: /sport/1795/captains-interviews-rowing-club-captain
+image: "http://felixonline.co.uk/img/upload/201111172257-felix-dsc_4631.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1795/captains-interviews-rowing-club-captain
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ial08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172257-felix-dsc_4631.jpg"
-image_caption: ""
 ---
 
 I hope that the avid Sport readers (you know who you are) have been enjoying the Captains’ Interviews series – because we’ve decided to go weekly on you. After having the Rugby first XV captain last week, we turn to an equally popular (and equally gruelling) sport. Live from the Boathouse in Putney, Rowing Club Captain Patrick Hudson answers my questions.

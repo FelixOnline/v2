@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The most distant example of a gravitational lens has been discovered by scientists in Germany.
 date: "2013-10-24 23:51:55 +0100"
-
-# Attributes from Felix Online V1
-id: "3915"
-old_path: /science/3915/most-distant-gravitational-lens-yet-discovered
+image: "http://felixonline.co.uk/img/upload/201310250052-felix-lbt_seip.jpg"
+image_caption: "The Large Binocular Telescope, one of the world’s most advanced, saw first light in 2005"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3915/most-distant-gravitational-lens-yet-discovered
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +23,6 @@ authors:
  - jb3112
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250052-felix-lbt_seip.jpg"
-image_caption: ""
 ---
 
 The most distant example of a gravitational lens has been discovered by scientists in Germany. The large galaxy, 9.4 billion light years away from us, focuses light towards the earth, like a sort of cosmic telescope, enabling us to detect another smaller, more distant galaxy that would normally be too dim for us to pick up. But the unexpected discovery of this smaller galaxy has puzzled the astronomers behind the research, at the Max Planck Institute for Astronomy in Heidelberg.

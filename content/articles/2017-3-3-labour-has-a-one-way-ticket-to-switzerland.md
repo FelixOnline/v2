@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Charles Titmuss explains why Labour is doomed – and it's not all Jeremy Corbyn's fault
 date: "2017-03-03 14:40:05 +0000"
-
-# Attributes from Felix Online V1
-id: "6837"
-old_path: /comment/6837/labour-has-a-one-way-ticket-to-switzerland
+image: "http://felixonline.co.uk/img/upload/201703031455-felix-Screen Shot 2017-03-03 at 14.51.55.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6837/labour-has-a-one-way-ticket-to-switzerland
-imported: true
 comments:
  - value: >
      It is worth noting that the poll given was one of the most generous to labour in recent weeks with some at 24% for labour and 40% for Conservatives.,It is worth noting that the poll given was one of the most generous to labour in recent weeks with some at 24% for labour and 40% for Conservatives.,I find it remarkable that the author wishes the government to perform poorly: "With any luck, May will make domestic and foreign policy errors".<br>Surely one should always wish for their country's government to perform well regardless of who they are. This sentence betrays an abhorrent view that suggests the author does not care for the wellbeing of the country but in fact only for Labour to be the ruling party.,I find it remarkable that the author wishes the government to perform poorly: "With any luck, May will make domestic and foreign policy errors".<br>Surely one should always wish for their country's government to perform well regardless of who they are. This sentence betrays an abhorrent view that suggests the auth
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703031455-felix-Screen Shot 2017-03-03 at 14.51.55.png"
-image_caption: ""
 ---
 
 T he by-elections in both Stoke and Copeland were both called recently, due to their respective MPs resigning. As I’m sure you are aware, Labour lost the Copeland seat and held on to the Stoke seat, but suffered  a reduction in the proportion of votes compared to 2015. This is viewed by many, myself included, as a crucial test of Labour’s appeal to the general public, particularly at a transformative time in Labour’s history.

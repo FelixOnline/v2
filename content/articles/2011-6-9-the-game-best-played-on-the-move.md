@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Chromaroma hits the London transport network
 date: "2011-06-09 21:42:59 +0100"
-
-# Attributes from Felix Online V1
-id: "1354"
-old_path: /tech/1354/the-game-best-played-on-the-move
+image: "http://felixonline.co.uk/img/upload/201106092242-felix-screen-shot-2011-02-01-at-10.26.40.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/1354/the-game-best-played-on-the-move
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jl4310
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106092242-felix-screen-shot-2011-02-01-at-10.26.40.jpg"
-image_caption: ""
 ---
 
 Launched in London last month was a new online game called Chromaroma. The game is played on the London transport network and utilises your Oyster travel card to gain information regarding your commuting. Players can get points by many different actions but each swipe of your card contributes to your team’s tally. You can go on personal missions to set record times between stations or venture to parts of London that you might not have visited before.

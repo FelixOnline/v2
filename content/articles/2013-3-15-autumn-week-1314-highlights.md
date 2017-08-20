@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alice Yang walks through her AW13/14 fashion highlights
 date: "2013-03-15 01:51:35 +0000"
-
-# Attributes from Felix Online V1
-id: "3480"
-old_path: /fashion/3480/autumn-week-1314-highlights
+image: "http://felixonline.co.uk/img/upload/201303150300-tna08-dolce.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/3480/autumn-week-1314-highlights
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303150300-tna08-dolce.jpg"
-image_caption: ""
 ---
 
 __Dolce and Gabbana__

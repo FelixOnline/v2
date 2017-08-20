@@ -4,16 +4,13 @@ title: >
 subtitle: >
   How the coalition plans to change higher education
 date: "2011-11-03 20:05:41 +0000"
-
-# Attributes from Felix Online V1
-id: "1661"
-old_path: /politics/1661/the-privatisation-of-universities
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1661/the-privatisation-of-universities
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - ls411
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Even though neither of the two parties in power mentioned drastic transformation of our higher education system in their manifestos the white paper published this summer, ‘Higher Education: Putting students at the Heart of the System’, proposes this. The raising of tuition fees, which also held no voter mandate, and the 80% cut in central education funding has given the government an opportunity to cause drastic changes to the ethic at the heart of our education system. As the funding for higher education will now mainly be coming from student debt, not the debt of the government (a simple treasury trick to reduce the deficit), the white paper uses this to turn students into consumers and privatise our education.

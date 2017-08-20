@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The breakdown in the relationship between the University of London and the University of London Union continues as the University bans student protests on its property.
 date: "2013-08-07 08:30:10 +0100"
-
-# Attributes from Felix Online V1
-id: "3748"
-old_path: /news/3748/university-of-london-bans-student-protests
+image: "http://felixonline.co.uk/img/upload/201308070927-jal08-2013-08-02-img_1457.jpg"
+image_caption: "... but leaving out punctuation is!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3748/university-of-london-bans-student-protests
-imported: true
 comments:
  - value: >
      You raise a fair point. If she had left with the police peacefully, she would have stood a much better chance of getting away with her freedom, or a slight tap on the wrist. <br>The video was interesting to watch, as was the attitude of the students to the police. <br>I'm keeping an eye out for the results of the case... ,Have you seen the video of her being arrested: http://www.youtube.com/watch?v=kahUH7JaFRE <br>She bloody deserves to be arrested for the way she and the other idiots around there acted, kicking and screaming on the floor like a child is not the way to get your point across, unless your point is that you're an immature idiot with jumped up ideas and no concept of the consequences of your actions. Whether or not you consider chalking to be a crime, you should deal with in through the correct and proper channels. She should be cleared of criminal damage, but she's definitely guilty of resisting arrest,University of London bans student protests but set up The Extreme energy Initiative which does not in
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201308070927-jal08-2013-08-02-img_1457.jpg"
-image_caption: ""
 ---
 
 After recent escalating tension between the University of London and the soon-to-be-extinct University of London Union a new act of aggression has been revealed. The University of London has sent a letter to the ULU banning protests by students on parts of the University’s property.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The privacy aware, personally controlled, do-it-all, open source social network
 date: "2010-11-11 20:32:09 +0000"
-
-# Attributes from Felix Online V1
-id: "338"
-old_path: /tech/338/diaspora-social-without-the-invasion
+image: "http://felixonline.co.uk/img/upload/201011112030-ks607-diaspora.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/338/diaspora-social-without-the-invasion
-imported: true
 comments:
  - value: >
      说道：I have observed that over the corsue of developing a relationship with real estate homeowners, you'll be able to come to understand that, in every single real estate exchange, a commission is paid. Ultimately, FSBO sellers tend not to “save” the commission rate. Rather, they try to earn the commission by way of doing an agent's occupation. In this, they devote their money along with time to accomplish, as best they will, the assignments of an agent. Those duties include disclosing the home by means of marketing, presenting the home to prospective buyers, developing a sense of buyer urgency in order to trigger an offer, booking home inspections, taking on qualification check ups with the loan provider, supervising repairs, and aiding the closing.,说道：Thanks for the concepts you have<a href="http://rmyrfpxw.com"> dcsiussed</a> here. In addition, I believe usually there are some factors that keep your automobile insurance premium straight down. One is, to consider buying cars and trucks that ar
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011112030-ks607-diaspora.jpg"
-image_caption: ""
 ---
 
 [Diaspora](https://joindiaspora.com/) is an open source social network built by four students at NYU’s Courant Institute; Daniel Grippi, Maxwell Salzberg, Raphael Sofaer, and Ilya Zhitomirskiy.

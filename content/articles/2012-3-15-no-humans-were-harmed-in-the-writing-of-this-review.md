@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A look at Tastes like Human: the latest book of humorous lists by ‘The Shark Guys’
 date: "2012-03-15 21:09:08 +0000"
-
-# Attributes from Felix Online V1
-id: "2371"
-old_path: /books/2371/no-humans-were-harmed-in-the-writing-of-this-review
+image: "http://felixonline.co.uk/img/upload/201203152109-pk1811-tastes-like-human.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2371/no-humans-were-harmed-in-the-writing-of-this-review
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - mtm10
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152109-pk1811-tastes-like-human.png"
-image_caption: ""
 ---
 
 I have somewhat of a fondness for amusing lists. They’re a quick read and perfect whether you want to you want to wind down or just procrastinate. I was therefore interested to hear of _Tastes like Human_, the latest book by ‘The Shark Guys’ – Noel Boivin and Christopher Lombardo.

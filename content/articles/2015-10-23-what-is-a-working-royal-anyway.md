@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Are the royal family still relevant in a democractic society?
 date: "2015-10-23 11:48:16 +0100"
-
-# Attributes from Felix Online V1
-id: "5673"
-old_path: /comment/5673/what-is-a-working-royal-anyway
+image: "http://felixonline.co.uk/img/upload/201510231247-cj914-duke-of-york-copy.jpg"
+image_caption: "The Duke of York looks at a low-cost incubator at the Pitch@Palace Bootcamp."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5673/what-is-a-working-royal-anyway
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +23,6 @@ authors:
  - ep1212
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510231247-cj914-duke-of-york-copy.jpg"
-image_caption: ""
 ---
 
 The Duke of York was at Imperial last week to host the Pitch@Palace Bootcamp to find finalists for Pitch@Palace4.0, an event where bright young entrepreneurs get to pitch to industry experts, CEOs and people with lots and lots of money. Since stepping down as the UK’s special representative for trade and investment in 2011 after concerns about the company he keeps, Prince Andrew has championed this kind of start-up, supporting hackspacey vibes around the country at various university campuses and techspots. In fact, previous finalists of the Pitch@Palace series were Imperial’s very own _YOYO_ app.

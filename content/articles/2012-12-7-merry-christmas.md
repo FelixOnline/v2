@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Oh, and a Happy New Year
 date: "2012-12-07 01:05:56 +0000"
-
-# Attributes from Felix Online V1
-id: "3030"
-old_path: /comment/3030/merry-christmas
+image: "http://felixonline.co.uk/img/upload/201212070105-tna08-deer.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3030/merry-christmas
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070105-tna08-deer.jpg"
-image_caption: ""
 ---
 
 The title says it all really! Merry Christmas and have a fantastic new year everybody. If you have exams, then, as I said before: relax, panic a bit, but try to take at very least Christmas Day and New Year’s Eve off. Saying that, I’m pretty sure that for my third and fourth year exams I didn’t take New Year’s Eve off. Not to rub it in your faces, but this is the first exam free holiday I’ve had in years and I’m frankly absolutely loving it.

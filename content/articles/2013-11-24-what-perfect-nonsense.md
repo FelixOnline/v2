@@ -4,16 +4,13 @@ title: >
 subtitle: >
   New Jeeves & Wooster play is laugh out loud funny, says George Shillam
 date: "2013-11-24 16:13:02 +0000"
-
-# Attributes from Felix Online V1
-id: "4115"
-old_path: /arts/4115/what-perfect-nonsense
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4115/what-perfect-nonsense
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - gs1811
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 What: Jeeves & Wooster in

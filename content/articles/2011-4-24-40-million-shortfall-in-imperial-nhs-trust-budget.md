@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Mounting financial challenge for Imperial NHS Trust
 date: "2011-04-24 11:04:15 +0100"
-
-# Attributes from Felix Online V1
-id: "1134"
-old_path: /news/1134/40-million-shortfall-in-imperial-nhs-trust-budget
+image: "http://felixonline.co.uk/img/upload/201104241207-felix-prof_steve_smith_04.jpg"
+image_caption: "Professor Stephen Smith"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1134/40-million-shortfall-in-imperial-nhs-trust-budget
-imported: true
 comments:
  - value: >
      In awe of that answer! Ralely cool!,4voNio <a href="http://jrfnrvxhptsj.com/">jrfnrvxhptsj</a>
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104241207-felix-prof_steve_smith_04.jpg"
-image_caption: ""
 ---
 
 Imperial College NHS Trust faces a budget shortfall of £40m next year, according to CEO of the trust and Pro-Rector for the college, Stephen Smith.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Drug could help to bring patients out of anaesthesia almost immediately
 date: "2011-10-07 09:37:27 +0100"
-
-# Attributes from Felix Online V1
-id: "1478"
-old_path: /science/1478/ritalin-brings-you-around-faster
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1478/ritalin-brings-you-around-faster
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - sjw209
  - twp07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Massachusetts Institute of Technology neuroscientists studying the effects of anaesthesia on patients at Massachusetts General Hospital have found that Ritalin, a drug used to treat attention deficit hyperactivity disorder (ADHD), could help bring patients out of anaesthesia almost immediately.

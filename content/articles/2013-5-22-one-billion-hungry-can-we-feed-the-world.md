@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Professor Sir Gordon Conway interviewed about food security
 date: "2013-05-22 14:35:58 +0100"
-
-# Attributes from Felix Online V1
-id: "3599"
-old_path: /news/3599/one-billion-hungry-can-we-feed-the-world
+image: "http://felixonline.co.uk/img/upload/201305221533-tna08-one-bill-hung.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3599/one-billion-hungry-can-we-feed-the-world
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305221533-tna08-one-bill-hung.png"
-image_caption: ""
 ---
 
 __JH: What are the key threats to global food security?__

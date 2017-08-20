@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tessa Davey details her thrilling and dangerous adventures of playing Pokémon Go while biking through London
 date: "2017-02-24 15:17:11 +0000"
-
-# Attributes from Felix Online V1
-id: "6827"
-old_path: /games/6827/pokmon-go-on-a-bike
+image: "http://felixonline.co.uk/img/upload/201702241516-felix-28273454351_9d19590316_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/6827/pokmon-go-on-a-bike
-imported: true
 comments:
  - value: >
      "On balance, I don’t think it reduces your awareness much more than listening to music when you’re cycling (no matter how leaky those earphones are, it’s just not safe), which I do not condone at all,"<br>So the writer doesn't condone something which is, by her own admission, safer than the subject of this article?,I feel sorry for the driver who gets done when they hit someone undertaking the insanely dangerous and illegal scheme...,I feel sorry for the driver who gets done when they hit someone undertaking the insanely dangerous and illegal scheme.
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -26,12 +23,6 @@ authors:
  - tad08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702241516-felix-28273454351_9d19590316_o.jpg"
-image_caption: ""
 ---
 
 Do you remember that blissful moment in Pokémon Red, when after walking around at a snail’s pace for so long, you finally could get your bike in Cerulean City and glide effortlessly down Cycling Road to Fuchsia City (or indeed, to anywhere)? No, you probably don’t because now it’s been a long time and you probably were barely born when they were released. Well, I do, because I was nine years old when they came out (in the UK) and along with all the boys in my class, was immediately obsessed.

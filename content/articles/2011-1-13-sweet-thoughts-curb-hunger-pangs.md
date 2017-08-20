@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Just imagining eating something can curb your appetite for it
 date: "2011-01-13 20:08:35 +0000"
-
-# Attributes from Felix Online V1
-id: "575"
-old_path: /science/575/sweet-thoughts-curb-hunger-pangs
+image: "http://felixonline.co.uk/img/upload/201101132006-ks607-sweets.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/575/sweet-thoughts-curb-hunger-pangs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - tbc09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101132006-ks607-sweets.jpg"
-image_caption: ""
 ---
 
 Want to shed your Christmas bulge but can’t resist the Quality Streets? Then imagine eating them, for it could help you in the long run. A study published in Science over the festive period has shown how imagining eating a certain food can reduce your consumption of that food.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   This team isn't having a mare
 date: "2013-03-07 21:59:34 +0000"
-
-# Attributes from Felix Online V1
-id: "3435"
-old_path: /sport/3435/riders-rev-up-for-regionals-
+image: "http://felixonline.co.uk/img/upload/201303072159-mc4509-horse.jpg"
+image_caption: "Tomorrow's burger"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3435/riders-rev-up-for-regionals-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +22,6 @@ authors:
  - mc4509
  - rg2010
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303072159-mc4509-horse.jpg"
-image_caption: ""
 ---
 
 Imperial College’s first riding team’s penultimate competition was hosted by the University of Kent. Although a bit cloudy on the long, early morning drive to Canterbury, by the time we arrived the sun was shining.

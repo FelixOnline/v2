@@ -4,18 +4,16 @@ title: >
 subtitle: >
   No concrete long-term strategy in place says Union
 date: "2011-06-16 18:45:50 +0100"
-
-# Attributes from Felix Online V1
-id: "1375"
-old_path: /news/1375/union-forced-to-clarify-future-of-summer-ball
+image: "http://felixonline.co.uk/img/upload/201106161945-felix-timsmith.jpg"
+image_caption: "Last year's Summer Ball"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1375/union-forced-to-clarify-future-of-summer-ball
-imported: true
 comments:
  - value: >
      Felix did report on Council's decision: http://felixonline.co.uk/news/1378/council-denies-deputy-president-finances--services-honorary-life-membership/ <br> <br>It was on Page 3 of this week's edition: http://felixonline.co.uk/archive/IC_2011/2011_1493_A.pdf,Felix did report on Council's decision: http://felixonline.co.uk/news/1378/council-denies-deputy-president-finances--services-honorary-life-membership/ <br> <br>It was on Page 3 of this week's edition: http://felixonline.co.uk/archive/IC_2011/2011_1493_A.pdf,Is Felix going to report on why Ravi wasn't awarded an HLM this year?,Is Felix going to report on why Ravi wasn't awarded an HLM this year?
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106161945-felix-timsmith.jpg"
-image_caption: ""
 ---
 
 The Union has been forced to clarify that no plans for the future of the Summer Ball have been set in stone after several Deputy Presidents raised concerns following [last week’s Felix article](http://felixonline.co.uk/news/1350/union-unveil-ambitious-future-for-summer-ball/). Union President Alex Kendall said that the statement given to Felix regarding plans for the future of the Ball gave the “wrong impression” that the decisions had already been made and emphasied that student input would be sought and included in future decisions.

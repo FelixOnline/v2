@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Imperial’s full time MBA slipped one place internationally, making it 35th in the world
 date: "2016-01-29 08:47:53 +0000"
-
-# Attributes from Felix Online V1
-id: "5836"
-old_path: /news/5836/business-school-still-4th-best-in-uk-says-ft
+image: "http://felixonline.co.uk/img/upload/201601290847-felix-businessschool.jpg"
+image_caption: "Imperial means (un)intelligent business."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5836/business-school-still-4th-best-in-uk-says-ft
-imported: true
 comments:
  - value: >
      Many thanks extremely valuable. Will certainly share website with my friends.| <br>free csgo skins http://csgoskinspoints.gratisblog.biz/2016/03/10/silat-education-system-three-blows-to-utilize-during-self-defense-training/,Love the website-- extremely user friendly and lots to see!| <br>cs go skins butterfly knife http://csgoskinslist.blog.fc2blog.us/blog-entry-4.html,Hello, very good web-site you've got right now.| <br>cs go skins reddit http://australiacity.com/forum/topic/15056,Wow cuz this is great work! Congrats and keep it up.| <br>nba 2k16 mt cheat table http://www.fabvegan.com/classifieds/2006/559/nba-2k16-coins-know-these-four-s
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - cet13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201601290847-felix-businessschool.jpg"
-image_caption: ""
 ---
 
 Imperial College Business School’s full-time MBA program is the 35th best in the world and the fourth best in the UK according to the 2016 _Financial Times_ MBA rankings released this week.

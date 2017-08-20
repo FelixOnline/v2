@@ -4,16 +4,13 @@ title: >
 subtitle: >
   We swear it's not porn
 date: "2017-01-27 17:33:21 +0000"
-
-# Attributes from Felix Online V1
-id: "6701"
-old_path: /sport/6701/push-them-down-tire-them-out-win
+image: "http://felixonline.co.uk/img/upload/201701271733-felix-Picture1.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6701/push-them-down-tire-them-out-win
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - cloefradin
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701271733-felix-Picture1.png"
-image_caption: ""
 ---
 
 Randori nationals are coming up, and Imperial Jiu Jitsu has to be prepared! This weekend an Imperial versus Queen Mary friendly, regional ground-fighting competition took place as practice for both clubs before nationals. Groundwork is a lot of fun, but very tiring when you’re the one stuck in a hold. It is very much like trying to escape a really, REALLY tight hug. Here, most competitors agreed not to use any chokes or strangles; let’s all play nice and friendly.

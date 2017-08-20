@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Optimus Prime would be proud
 date: "2012-02-09 22:16:55 +0000"
-
-# Attributes from Felix Online V1
-id: "2145"
-old_path: /tech/2145/a-prime-tablet-specimen
+image: "http://felixonline.co.uk/img/upload/201202092215-pk1811-b227079.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/2145/a-prime-tablet-specimen
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - cb908
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202092215-pk1811-b227079.jpg"
-image_caption: ""
 ---
 
 I have to say, I’m not much of a tablet man. If I really must surf on the move I’m perfectly happy with my BlackBerry, and my laptop satisfies all my mobile computing needs. However, when a friend of mine bought the new [Asus Transformer Prime](http://eee.asus.com/eeepad/transformer-prime/features/) tablet, I had to give it a go – so I borrowed it.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Who's blogging at Imperial?
 date: "2011-02-17 20:53:12 +0000"
-
-# Attributes from Felix Online V1
-id: "854"
-old_path: /science/854/the-state-of-academic-blogging-at-imperial-
+image: "http://felixonline.co.uk/img/upload/201102172048-dr910-tyoewrit.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/854/the-state-of-academic-blogging-at-imperial-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ko407
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102172048-dr910-tyoewrit.jpg"
-image_caption: ""
 ---
 
 [Imperial's David Robertson](http://www.felixonline.co.uk/?article=851) might be up for a Bloggie, but what about the rest of us? It might not be something you've thought about, but science blogging is an activity that could be worth considering. And with funding tighter than ever, it might be time to start fleshing out that CV and publications list with some extras.

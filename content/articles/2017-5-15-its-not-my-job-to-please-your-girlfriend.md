@@ -4,16 +4,14 @@ title: >
 subtitle: >
   There’s nothing wrong with being the other woman
 date: "2017-05-15 16:31:51 +0100"
-
-# Attributes from Felix Online V1
-id: "6957"
-old_path: /sex/6957/its-not-my-job-to-please-your-girlfriend
+image: "http://felixonline.co.uk/img/upload/201705151831-felix-13922144631_5cc127ca95_o (1).jpg"
+image_caption: "So yeah. I’m married. But like we have an agreement"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sex/6957/its-not-my-job-to-please-your-girlfriend
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sex
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - icanon
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705151831-felix-13922144631_5cc127ca95_o (1).jpg"
-image_caption: ""
 ---
 
 I don’t like being cheated on. You probably don’t either. In fact I’d go so far as to say that no one likes being cheated on. Unless you’re into cuckolding but that’s a whole other story.  Last time I got cheated on it made me feel betrayed and angry not only at my partner, but also at the other person that had participated in the backstabbing that is cheating. At the same time I have both unknowingly and knowingly slept with someone who was in a monogamous relationship, so my being angry is hypocritical at best, and completely illogical at worst. So... is being the ‘other woman’ ok?

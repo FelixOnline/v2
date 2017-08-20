@@ -4,16 +4,13 @@ title: >
 subtitle: >
   To celebrate the 166th anniversary of the publication of the Communist Manifesto, I shall be writing a three part series on the Manifesto: on its theoretical contents, on its history and impact and on its flaws and its position in Marxist thought.
 date: "2014-02-21 03:30:19 +0000"
-
-# Attributes from Felix Online V1
-id: "4431"
-old_path: /comment/4431/communist-manifesto-turns-166
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4431/communist-manifesto-turns-166
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 To celebrate the 166th anniversary of the publication of the Communist Manifesto, I shall be writing a three part series on the Manifesto: on its theoretical contents, on its history and impact and on its flaws and its position in Marxist thought. What should never be forgotten about the Manifesto is that it contains a specific political program and its style, brash and powerfully polemical, reflects this. It is also, as Marx and Engels pointed out, in many ways antiquated. Of course, it deserves remembering on account of nothing other than its historical importance; but the Manifesto is more than an interesting historical relic: it retains in broad outline the most profound understanding of the movement and transition of societies in history.

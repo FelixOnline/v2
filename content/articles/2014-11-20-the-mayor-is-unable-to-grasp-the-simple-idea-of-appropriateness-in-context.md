@@ -4,16 +4,14 @@ title: >
 subtitle: >
   There's a time and a place for sexual imagery, and it's not the press conference of a major achievement in science
 date: "2014-11-20 21:17:49 +0000"
-
-# Attributes from Felix Online V1
-id: "4914"
-old_path: /comment/4914/the-mayor-is-unable-to-grasp-the-simple-idea-of-appropriateness-in-context
+image: "http://felixonline.co.uk/img/upload/201411202119-cj914-shirtgate.jpg"
+image_caption: "The concept of context is apparently lost on these people"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4914/the-mayor-is-unable-to-grasp-the-simple-idea-of-appropriateness-in-context
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411202119-cj914-shirtgate.jpg"
-image_caption: ""
 ---
 
 Those following ‘Shirtgate’ may have seen this image being shared on Reddit and Twitter. The Mayor of London certainly has, as this week he incorporated its idiotic message into a piece for the Telegraph, joining the keyboard warriors who have defeated feminism, showing it to be a mess of double standards and hypocrisy.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   ...
 date: "2016-12-09 12:32:40 +0000"
-
-# Attributes from Felix Online V1
-id: "6569"
-old_path: /arts/6569/helen-marten-wins-the-turner-prize
+image: "http://felixonline.co.uk/img/upload/201612091230-aib116-e9b3415b58a872cf70d482500546ec8e.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6569/helen-marten-wins-the-turner-prize
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - im1413
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612091230-aib116-e9b3415b58a872cf70d482500546ec8e.jpg"
-image_caption: ""
 ---
 
 How to describe Turner Prize 2016 winner Helen Marten’s work? "Baffling" claim some critics, "Poetic", others – Michael Gove, former Education Secretary went so far as to tweet "#Turnerprize2016 - congratulations to Helen Martin but #honestly is this = to Turner, Ruskin, even Holman Hunt – of course not #modishcrap". Never mind the misspelling of Marten's name from the self appointed spelling and grammar 'saviour' – Marten's work is far from 'modish crap' (whatever that means) and in fact, her work may be closer to J.M.W. Turner's than it first appears.

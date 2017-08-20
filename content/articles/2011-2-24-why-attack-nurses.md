@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Do nurses deserve the brunt?
 date: "2011-02-24 20:31:46 +0000"
-
-# Attributes from Felix Online V1
-id: "891"
-old_path: /comment/891/why-attack-nurses
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/891/why-attack-nurses
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - sf305
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I feel for nurses. I don’t mean the sort of nurses who wear fishnets and appear readily in a Google images search, I mean the sort which work in hospitals up and down the country. After a recent report from a nursing ombudsman, this profession is in for yet another bashing for reasons I can only think of as spurious.

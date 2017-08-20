@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Meredith Thomas ventures into the weird land of the cyborgs at the Wellcome Collection
 date: "2012-10-11 20:28:48 +0100"
-
-# Attributes from Felix Online V1
-id: "2643"
-old_path: /arts/2643/superhuman
+image: "http://felixonline.co.uk/img/upload/201210112128-felix-0a2aimeemullalernumber1.jpg"
+image_caption: "My caption-writing skills have finally been rendered useless"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2643/superhuman
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - felix
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112128-felix-0a2aimeemullalernumber1.jpg"
-image_caption: ""
 ---
 
 What do dildos, wheelchairs and steroids have in common? There are probably only two places in London you will find these three things in conjunction. One of them is not suitable for a family newspaper, the second is the Wellcome Collection. In the latter case their justification for sharing a room is their function as devices with which humans have tried to improve, repair or augment their bodies. This is a theme that should excite scientists and artists and equal measure.

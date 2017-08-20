@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Being a Death Grips fan involves grueling masochism
 date: "2016-05-06 09:58:16 +0100"
-
-# Attributes from Felix Online V1
-id: "6126"
-old_path: /music/6126/another-year-another-death-grips-leak
+image: "http://felixonline.co.uk/img/upload/201605061057-felix-bottomlesspit.jpg"
+image_caption: "A bottomless balloon pit?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6126/another-year-another-death-grips-leak
-imported: true
 comments:
  - value: >
      Astonishingly user friendly website. Immense details available on couple of clicks <br>fifa 17 coins http://www.afrozmeet.com/groups/view/id_2740/,Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means more now than ever since the new Google update: Panda. No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings, You now NEED On-Page SEO. So what is good On-Page SEO?First your keyword must appear in the title.Then it must appear in the URL.You have to optimize your keyword and make sure that it has a nice keyword density of 3-5% in your article with relevant LSI (Latent Semantic Indexing). Then you should spread all H1,H2,H3 tags in your article.Your Keyword should appear in your first paragraph and in the last sentence of the page. You should have relevant usage of Bo
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +24,6 @@ authors:
  - he915
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061057-felix-bottomlesspit.jpg"
-image_caption: ""
 ---
 
 The most avant-garde of avant-garde rap groups has leaked yet another album: _Bottomless Pit_. And it’s exactly what you’d expect. It’s so good it’s bad. It’s so bad it’s good. And it’s self-aware. We’ve reached peak irony, and I for one love it.

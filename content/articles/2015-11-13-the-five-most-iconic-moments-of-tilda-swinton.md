@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Last week saw the 55th anniversary of the birth of the saviour of modern cinema, Tilda Swinton. To celebrate, we take a look back at her legendary career; choosing what to feature was difficult, but we have managed to narrow down five of her most iconic moments, and what they teach us about life and
 date: "2015-11-13 15:00:33 +0000"
-
-# Attributes from Felix Online V1
-id: "5736"
-old_path: /film/5736/the-five-most-iconic-moments-of-tilda-swinton
+image: "http://felixonline.co.uk/img/upload/201511131500-ygr12-tumblr_n0a2reogoc1qaihw2o2_1280-(1).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5736/the-five-most-iconic-moments-of-tilda-swinton
-imported: true
 comments:
  - value: >
      I love this site - its so usefull and helpfull <br>nhl 17 http://serviceindustrydate.com/event/225,Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means more now than ever since the new Google update: Panda. No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings, You now NEED On-Page SEO. So what is good On-Page SEO?First your keyword must appear in the title.Then it must appear in the URL.You have to optimize your keyword and make sure that it has a nice keyword density of 3-5% in your article with relevant LSI (Latent Semantic Indexing). Then you should spread all H1,H2,H3 tags in your article.Your Keyword should appear in your first paragraph and in the last sentence of the page. You should have relevant usage of Bold and italics of your keyword.There should be o
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511131500-ygr12-tumblr_n0a2reogoc1qaihw2o2_1280-(1).jpg"
-image_caption: ""
 ---
 
 #### 1. Her Collaborations with Derek Jarman

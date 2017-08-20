@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Blown away by a legend in the making
 date: "2010-12-09 20:32:47 +0000"
-
-# Attributes from Felix Online V1
-id: "526"
-old_path: /music/526/janelle-mone-is-here-to-stay
+image: "http://felixonline.co.uk/img/upload/201012092030-ma1307-janelle.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/526/janelle-mone-is-here-to-stay
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - dmm04
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012092030-ma1307-janelle.jpg"
-image_caption: ""
 ---
 
 Creator of “ArchAndroid”, the 2010 R&B reinventing masterpiece soon to be omnipresent in all the end of year top albums lists Janelle Monáe has been much hyped since her destruction of SXSW 2009. Destruction indeed was what the 2000-strong audience witnessed at the Shepherd Bush Empire.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Men's Hockey team in action
 date: "2011-01-27 20:27:15 +0000"
-
-# Attributes from Felix Online V1
-id: "693"
-old_path: /sport/693/hockey-1st-out-one-cup-but-still-in-another
+image: "http://felixonline.co.uk/img/upload/201101311434-jn104-hockey14.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/693/hockey-1st-out-one-cup-but-still-in-another
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - el508
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101311434-jn104-hockey14.jpg"
-image_caption: ""
 ---
 
 This week saw the hockey mens 1st XI in action twice, both in cup matches. As holders of the ULU challenge cup, IC were hoping to retain the trophy this season, but received a tough draw against this seasons form side, UCL, in the quarter finals. Imperial showed plenty of ability, but some defensive mistakes and some missed chances saw us crash out of the ULU cup, eventually losing 6 – 4 in a fast, open game, where attack was the only form of defence for both sides.

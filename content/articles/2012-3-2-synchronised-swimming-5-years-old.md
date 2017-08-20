@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The synchronised swimming club blow the candles
 date: "2012-03-02 17:31:10 +0000"
-
-# Attributes from Felix Online V1
-id: "2308"
-old_path: /sport/2308/synchronised-swimming-5-years-old
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2308/synchronised-swimming-5-years-old
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - ial08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 

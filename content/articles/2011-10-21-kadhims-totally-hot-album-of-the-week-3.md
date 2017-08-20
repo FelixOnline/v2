@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Slow Club - Paradise (2011)
 date: "2011-10-21 11:23:55 +0100"
-
-# Attributes from Felix Online V1
-id: "1597"
-old_path: /music/1597/kadhims-totally-hot-album-of-the-week-3
+image: "http://felixonline.co.uk/img/upload/201110211223-ak6309-slowclubparadisepackshotw.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1597/kadhims-totally-hot-album-of-the-week-3
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - ks607
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110211223-ak6309-slowclubparadisepackshotw.jpg"
-image_caption: ""
 ---
 
 When it comes to Twitter, musicians usually have one of two personalities:

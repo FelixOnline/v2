@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Female video game characters today are very different from the ones twenty or so years ago. The steps along the way have been small but have added towards the big picture
 date: "2016-10-31 23:14:44 +0000"
-
-# Attributes from Felix Online V1
-id: "6372"
-old_path: /games/6372/the-evolution-of-female-characters-in-games
+image: "http://felixonline.co.uk/img/upload/201610312313-felix-14750534824_416a5998fa_k.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/6372/the-evolution-of-female-characters-in-games
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - sa8713
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610312313-felix-14750534824_416a5998fa_k.jpg"
-image_caption: ""
 ---
 
 Once upon a time, Pac Man was as advanced as games got, with basic graphics and simple controls. We’ve definitely come a long way since then with regards to designs, gameplay and much more. With the change and progression of games, we’ve also seen a change in how female characters have been represented, and for the better.

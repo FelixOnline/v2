@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Imperial Entrepeneurs report on some of the opportunities and threats facing one of the UK’s most promising industries
 date: "2011-11-10 21:26:10 +0000"
-
-# Attributes from Felix Online V1
-id: "1730"
-old_path: /biz/1730/the-business-of-british-biotechnology
+image: "http://felixonline.co.uk/img/upload/201111102125-pk1811-human-genome-ten-years-in_17889_600x450.jpg"
+image_caption: "A man stands silhouetted agains a digital representation of the human genome"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/1730/the-business-of-british-biotechnology
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -24,12 +22,6 @@ authors:
  - cm1410
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102125-pk1811-human-genome-ten-years-in_17889_600x450.jpg"
-image_caption: ""
 ---
 
 Alongside finance and high-tech computing, biotechnology can be thought of as one of the few sectors where Britain is still globally competitive. The British pharmaceutical industry, for example, receives 10% of global research and development funding, despite having only 3% of global sales. But this year has seen a variety of worrying developments: Pfizer, previously the country’s fourth largest investor in pharmaceutical research, announced the closure of its R&D site in Kent, resulting in the loss of 2,400 jobs; AstraZeneca continues to shed jobs, citing patent losses, as well as GlaxoSmithKline and Novartis; and start-ups complain of continual difficulties in securing venture capital. So is the UK unique in its suffering, and what successes, if any, has the year seen?

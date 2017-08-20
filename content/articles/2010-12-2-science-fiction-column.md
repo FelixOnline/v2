@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Welcome to Felix’s new, unimaginatively-titled, Science Fiction Column
 date: "2010-12-02 20:33:38 +0000"
-
-# Attributes from Felix Online V1
-id: "473"
-old_path: /science/473/science-fiction-column
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/473/science-fiction-column
-imported: true
 comments:
  - value: >
      A well argued article, and i definetly agree on the points raised! <br>That said, I think that there is a place for the technobabble and related solutions occasionally, as long as it does not take prevalence.
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Hello and welcome to Felix’s new, unimaginatively-titled, Science Fiction Column. I’ve always been passionate about this topic and I hope that I’ll be able to pass some of this excitement on to you.

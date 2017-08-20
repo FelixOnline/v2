@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Dara Rasasingam tells us about her favourite spot in London
 date: "2014-11-10 21:18:05 +0000"
-
-# Attributes from Felix Online V1
-id: "4817"
-old_path: /arts/4817/my-art-barbican-centre
+image: "http://felixonline.co.uk/img/upload/201411102116-ps3110-barbican_towers.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4817/my-art-barbican-centre
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102116-ps3110-barbican_towers.jpg"
-image_caption: ""
 ---
 
 In the summer, whenever I have time off from lectures, I like to make a pilgrimage. Taking the District Line down from South Kensington, I get off at Mansion House; twisting through the streets of the Golden Mile, dodging city slickers and corporate lawyers, a cluster of buildings soon come into view - the labyrinthine, awe-inspiring __Barbican Centre__.

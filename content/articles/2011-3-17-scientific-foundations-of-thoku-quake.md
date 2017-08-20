@@ -4,16 +4,14 @@ title: >
 subtitle: >
   How Japan’s buildings coped in the face of one of the worst quakes in recent history, and the struggle to secure the Fukushima nuclear power plant
 date: "2011-03-17 20:55:14 +0000"
-
-# Attributes from Felix Online V1
-id: "1097"
-old_path: /science/1097/scientific-foundations-of-thoku-quake
+image: "http://felixonline.co.uk/img/upload/201103172054-mc4509-74296-handout-satellite-image-of-fukushima-daiichi-nuclear-plant-after-earth.jpg"
+image_caption: "Satellite image of Fukushima nuclear plant"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1097/scientific-foundations-of-thoku-quake
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -27,12 +25,6 @@ authors:
  - tbc09
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103172054-mc4509-74296-handout-satellite-image-of-fukushima-daiichi-nuclear-plant-after-earth.jpg"
-image_caption: ""
 ---
 
 Like all large earthquakes, the Japanese quake occurred in what is known as a subduction zone. In these zones – which are common in the Pacific – large slabs of solid rock called tectonic plates move towards each other. When they collide, the less dense plate will ride over the denser plate, which is forced below the other.

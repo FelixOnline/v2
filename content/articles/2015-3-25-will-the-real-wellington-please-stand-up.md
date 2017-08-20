@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Fred Fyles is underwhelmed by this new exhibition of Wellington portraits
 date: "2015-03-25 13:31:35 +0000"
-
-# Attributes from Felix Online V1
-id: "5453"
-old_path: /arts/5453/will-the-real-wellington-please-stand-up
+image: "http://felixonline.co.uk/img/upload/201503251331-ff712-npg_896_1340_arthurwellesle.jpg"
+image_caption: "Arthur Wellesley, 1st Duke of Wellingtonm (detail) by Francisco de Goya, 1812-14 "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5453/will-the-real-wellington-please-stand-up
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +21,6 @@ authors:
  - ff712
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251331-ff712-npg_896_1340_arthurwellesle.jpg"
-image_caption: ""
 ---
 
 The aim of the __National Portrait Gallery__’s latest collection is, explains the curator, to “put Wellington’s great reputation back on the map”. This somehow implies that it ever went away. The Duke of Wellington is such a well known figure, carved both on the national consciousness and on numerous memorials, that it makes such an exhibition – _Wellington: Triumphs, Politics, and Passions _– somewhat redundant. Unless, that is, they can stage an exhibition that allows us to look at the Duke in a new light.

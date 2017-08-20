@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ben Moorhouse previews the 2011 Bottle Match
 date: "2011-02-24 20:34:46 +0000"
-
-# Attributes from Felix Online V1
-id: "893"
-old_path: /sport/893/time-to-bring-the-bottle-home
+image: "http://felixonline.co.uk/img/upload/201102242029-dr910-bottlema.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/893/time-to-bring-the-bottle-home
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - bm05
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102242029-dr910-bottlema.jpg"
-image_caption: ""
 ---
 
 As another year quickly slips before our hands, it is already February and for the Royal School of Mines it is one of the most important months of the year. It is the month when the Bottle Match falls and is a weekend looked forward to by all past and present Miners, but what is the Bottle Match and where did it start from?

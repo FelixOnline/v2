@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Kunal Wagle explains his fears after last week’s final that wasn’t
 date: "2014-11-20 21:35:48 +0000"
-
-# Attributes from Felix Online V1
-id: "4916"
-old_path: /sport/4916/has-the-big-four-become-a-big-two
+image: "http://felixonline.co.uk/img/upload/201411202135-cj914-141104122212-federer-djokovic-london-horizontal-gallery.jpg"
+image_caption: "Federer vs Djokovic is a final we've all got used to"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4916/has-the-big-four-become-a-big-two
-imported: true
 comments:
  - value: >
      Stupid article, Nadal has clearly had injury struggles this year, as has Murray (as well as fatigue at the WTF). Obviously the two guys in the best form have been Djoker and Fed, but the fact remains that Nadal is a 14-time Grand Slam champion, and that can never be taken away from him, plus Murray has two Maiors and the Olympic gold medal! When all four are in good form, they are so far ahead of the rest, and they deserve to belong to that elite group, however perhaps it's still the "Big 3.5" because although Murray is a double Grand Slam champ, this year has thrown a lot of doubt into the air regarding his place in that elite group.
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +26,6 @@ authors:
  - kmw13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411202135-cj914-141104122212-federer-djokovic-london-horizontal-gallery.jpg"
-image_caption: ""
 ---
 
 Last week Novak Djokovic won his third consecutive ATP World Tour Finals title whilst also in the process securing the World Number One ranking for the year. Apart from a minor (and temporary) blip against Japanese player Kei Nishikori in the semi-final, Djokovic swept aside all those in his way with disdain.

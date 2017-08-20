@@ -4,16 +4,14 @@ title: >
 subtitle: >
   There have been few opportunities for candidates to show what they really stand for
 date: "2016-03-11 11:29:02 +0000"
-
-# Attributes from Felix Online V1
-id: "6022"
-old_path: /comment/6022/elections-2016-mates-or-manifestos
+image: "http://felixonline.co.uk/img/upload/201603111128-felix-mtc.jpg"
+image_caption: "The candidates, back when they were playing nice and talking to each other."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6022/elections-2016-mates-or-manifestos
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +21,6 @@ authors:
  - rg2112
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603111128-felix-mtc.jpg"
-image_caption: ""
 ---
 
 Last week, Theresa Davey wrote an interesting article about the nature of union elections and how they are, essentially, a popularity contest.

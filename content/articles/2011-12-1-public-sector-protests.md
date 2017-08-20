@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Workers took to the streets on Wednesday over Government pension plans
 date: "2011-12-01 21:57:34 +0000"
-
-# Attributes from Felix Online V1
-id: "1899"
-old_path: /news/1899/public-sector-protests
+image: "http://felixonline.co.uk/img/upload/201112012157-felix-ferix.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1899/public-sector-protests
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - nn1209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012157-felix-ferix.jpg"
-image_caption: ""
 ---
 
 This Wednesday, public sector workers up and down the country went on strike, in what was described by some as the “biggest walkout for a generation.” The action was directed against the Government’s planned reforms of public sector pensions, which comprise part of its wide-reaching deficit reduction plan.

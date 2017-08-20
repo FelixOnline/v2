@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Unknown Mortal Orchestra: II
 date: "2013-02-07 22:52:16 +0000"
-
-# Attributes from Felix Online V1
-id: "3247"
-old_path: /music/3247/ams-album-of-the-week-11
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3247/ams-album-of-the-week-11
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - tna08
  - ym1210
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Unknown Mortal Orchestra’s self-titled 2011 debut album did a great job of soundtracking my Freshers’ Week with its warm fuzzy tones. I’m now midway through my second year, and UMO have returned with an album that is fresh yet nostalgic. Quite a few of its songs offer more than just a nod to the psychedelic rock of the 1960s, whilst dealing with themes of withdrawal and isolation.

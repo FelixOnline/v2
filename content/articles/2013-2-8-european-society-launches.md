@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A new society launches
 date: "2013-02-08 00:36:39 +0000"
-
-# Attributes from Felix Online V1
-id: "3276"
-old_path: /news/3276/european-society-launches
+image: "http://felixonline.co.uk/img/upload/201302080035-tna08-logo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3276/european-society-launches
-imported: true
 comments:
  - value: >
      There's nothing cool about supporting an organisation who subvert democracy at every turn.,For crying out loud couldn't you guys let you enthusiasm for the EU die after your Geo 2 oral?,It's become like a religion,this soceity should have just been called European School alumni - I would have been more inclined to join :p....,@Chris Kaye : "subvert democracy" might be a bit harsh but I agree that I don't really see the point in this society, I suspect it is somewhat of an old boys club of ex-European school students. Why don't you guys channel your school hang up into more proactive ventures like Facebook stalking and flirting with you old History teacher? Piccinin has become so hot since he's opted for an Indiana Jones lifestyle.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302080035-tna08-logo.jpg"
-image_caption: ""
 ---
 
 People always discuss the European Union as though it were some mysterious and distant institution that has either too much, or too little power depending on the point of view. The current financial crisis has stepped up the discussions about the EU and here in the UK, the EU has become a hot topic in the last few months. However it seems that it is more and more difficult to follow all the changes currently affecting European policies.

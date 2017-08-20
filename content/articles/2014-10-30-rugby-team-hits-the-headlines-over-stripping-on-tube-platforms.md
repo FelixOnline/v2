@@ -4,18 +4,15 @@ title: >
 subtitle: >
   First XV team suspended after exposing themselves on the Underground, identified whilst wearing their sports kit.
 date: "2014-10-30 17:28:50 +0000"
-
-# Attributes from Felix Online V1
-id: "4755"
-old_path: /news/4755/rugby-team-hits-the-headlines-over-stripping-on-tube-platforms
+image: "http://felixonline.co.uk/img/upload/201410301734-pk1811-england-rugby-ball.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4755/rugby-team-hits-the-headlines-over-stripping-on-tube-platforms
-imported: true
 comments:
  - value: >
      It has never, and will never be referred to as "Teddys". ,Referring to Teddington as 'Teddy's' is not only disrespectful to the ground that was once home of St. Mary's Hospital RFC, but it is incorrect and the Editor should research further before publishing such outrageous falsities.,Once again, Imperial Rugby dragging the name of this illustrious university through the mud. The whole club should be banned! ,Why apologise for calling it 'Tedders'? If that's what other people referred to it as then there's nothing wrong with using it, the only mistake you made was incorrectly writing 'Teddy's'. I honestly don't understand how anyone could be offended by that, and people aren't owed an apology just for being offended. <br> <br>Good job on the rugby boys for being dicks.,this was the best night of my life,In the grand pattern of things you’ll receive an A+ just for hard work. Exactly where you lost everybody was first in your specifics. As it is said, the devil is in the details… And it couldn’t be much more ac
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201410301734-pk1811-england-rugby-ball.jpg"
-image_caption: ""
 ---
 
 The Imperial College Rugby First XV team have been suspended pending investigation into reports that team members were stripping on a District Line tube.

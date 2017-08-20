@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This year the Union Election process has significantly changed; there is no longer a list of candidates standing for each position and instead the complete list will be announced once nominations are complete.
 date: "2014-02-17 17:25:19 +0000"
-
-# Attributes from Felix Online V1
-id: "4394"
-old_path: /comment/4394/election-anonymity---whats-the-point
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4394/election-anonymity---whats-the-point
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - extuser0
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This year the Union Election process has significantly changed; there is no longer a list of candidates standing for each position and instead the complete list will be announced once nominations are complete.

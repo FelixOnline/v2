@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Second anniversary of disaster sees new report criticise scientific models used
 date: "2012-06-01 13:56:07 +0100"
-
-# Attributes from Felix Online V1
-id: "2518"
-old_path: /science/2518/shedding-light-on-the-deepwater-horizon-oil-spill
+image: "http://felixonline.co.uk/img/upload/201206011454-mc4509-burning-oil-rig-explosion-fire-photo11.jpg"
+image_caption: "The BP oil rig ablaze"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2518/shedding-light-on-the-deepwater-horizon-oil-spill
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - fm810
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206011454-mc4509-burning-oil-rig-explosion-fire-photo11.jpg"
-image_caption: ""
 ---
 
 On the second anniversary of the Deepwater Horizon oil spill in the Gulf of Mexico, [a new report ](https://www.nceas.ucsb.edu/news/tale-two-spills-novel-science-and-policy-implications-emerging-new-oil-spill-model)suggests that existing scientific models were inadequate to deal with the disaster. The team, based at the University of California, Santa Barbara, have published the first comprehensive study of what happened at the Deepwater oil spill in 2010.

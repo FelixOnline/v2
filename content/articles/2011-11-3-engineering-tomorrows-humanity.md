@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Feroz Salam on the interdependence of man and machine
 date: "2011-11-03 18:17:36 +0000"
-
-# Attributes from Felix Online V1
-id: "1648"
-old_path: /tech/1648/engineering-tomorrows-humanity
+image: "http://felixonline.co.uk/img/upload/201111031817-fa608-exo2_push_ups_2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/1648/engineering-tomorrows-humanity
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -23,12 +20,6 @@ authors:
  - fa608
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111031817-fa608-exo2_push_ups_2.jpg"
-image_caption: ""
 ---
 
 Every week in here at Technology, we try and peek a few weeks into the future, to tell you what might be the best new technology of the coming season or the device that you’re going to be saving up for. The far future is often best left to science fiction; technological predictions about the future have a hairy way of coming back to bite you.

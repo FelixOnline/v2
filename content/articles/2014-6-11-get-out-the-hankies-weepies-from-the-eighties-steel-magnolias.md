@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Knowing your history, a blast from the past, part 2.
 date: "2014-06-11 22:23:03 +0100"
-
-# Attributes from Felix Online V1
-id: "4678"
-old_path: /film/4678/get-out-the-hankies-weepies-from-the-eighties---steel-magnolias
+image: "http://felixonline.co.uk/img/upload/201406112322-me1711-tumblr_lpod5axgx71qzzh6g.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4678/get-out-the-hankies-weepies-from-the-eighties---steel-magnolias
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jgp09
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406112322-me1711-tumblr_lpod5axgx71qzzh6g.jpg"
-image_caption: ""
 ---
 
 __Steel Magnolias (1989)__

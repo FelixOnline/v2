@@ -4,16 +4,13 @@ title: >
 subtitle: >
   RCSU’s annual Science Challenge is launching for this year on December 3rd. Previous years have included a tour of CERN as a prize for the overall winner. This tour of CERN was offered by past RCSU President & Science Challenge Chair Dr Jad Marrouche.
 date: "2013-11-15 11:48:58 +0000"
-
-# Attributes from Felix Online V1
-id: "4089"
-old_path: /features/4089/rcsus-interview-with-dr-jad-marrouche
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4089/rcsus-interview-with-dr-jad-marrouche
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 RCSU’s annual Science Challenge is launching for this year on December 3rd. Previous years have included a tour of CERN as a prize for the overall winner. This tour of CERN was offered by past RCSU President & Science Challenge Chair Dr Jad Marrouche.

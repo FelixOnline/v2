@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Joshua Renken reviews Suits, currently on its fourth season
 date: "2015-03-03 14:54:45 +0000"
-
-# Attributes from Felix Online V1
-id: "5327"
-old_path: /tv/5327/two-lawyers-one-degree-and-some-great-television
+image: "http://felixonline.co.uk/img/upload/201503031454-ps3110-suits.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5327/two-lawyers-one-degree-and-some-great-television
-imported: true
 comments:
  - value: >
      the best tv prog. in avery long time. Long may it continue. Is Louis back with Hardman Spector?,birkenstocks on sale <br>birkenstocks on sale http://birkenstockaustralia.blogspot.com/,christian louboutin sandals <br>christian louboutin outlet online http://canadachristianlouboutinoutlet.blogspot.com/,Keep up the amazing work !! Lovin' it! <br>madden 17 coins http://www.bloggerfree.com/blogs/post/30515
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -26,12 +23,6 @@ authors:
  - jr2514
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503031454-ps3110-suits.jpg"
-image_caption: ""
 ---
 
 Now in its fourth series, _Suits _is an American legal drama that premiered in June of 2011. Created by Aaron Korsh, the first episode is one of the best pilots in recent television history.

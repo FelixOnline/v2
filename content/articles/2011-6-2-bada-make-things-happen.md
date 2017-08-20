@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Develop with Samsung to make those app ideas a reality
 date: "2011-06-02 18:38:48 +0100"
-
-# Attributes from Felix Online V1
-id: "1300"
-old_path: /tech/1300/bada-make-things-happen
+image: "http://felixonline.co.uk/img/upload/201106021937-felix-bada-os.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/1300/bada-make-things-happen
-imported: true
 comments:
  - value: >
      I am at the university of life - can I enter my themes?
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106021937-felix-bada-os.jpg"
-image_caption: ""
 ---
 
 While Android and iOS have become increasingly popular and must-have platforms, Samsung has an alternative to suggest: the [Bada ecosystem](http://www.bada.com/whatisbada/ecosystem.html). In June 2010, Bada-based Samsung Apps were launched in 118 countries, with over a hundred million downloads and more than 13,000 applications available by March 2011.

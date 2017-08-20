@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Search for a non-invasive technique progresses
 date: "2011-10-13 21:43:05 +0100"
-
-# Attributes from Felix Online V1
-id: "1509"
-old_path: /science/1509/blood-sugar-measured-by-lasers
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1509/blood-sugar-measured-by-lasers
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - ng411
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The search for a non-invasive, effective technique with which to measure the blood sugar levels of diabetes sufferers has long occupied researchers in the medicine and applied biophysics communities. For the last 20 years, research has centred on the potential use of wavelength-modulated laser radiometry – that is, shining lasers tuned to specific wavelengths at human blood samples and measuring the response.

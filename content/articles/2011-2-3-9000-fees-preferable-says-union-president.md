@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Higher rate tuition fees would protect bursaries for poorer students argues Alex Kendall
 date: "2011-02-03 19:33:34 +0000"
-
-# Attributes from Felix Online V1
-id: "717"
-old_path: /news/717/9000-fees-preferable-says-union-president-
+image: "http://felixonline.co.uk/img/upload/201102031930-ks607-higherfe.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/717/9000-fees-preferable-says-union-president-
-imported: true
 comments:
  - value: >
      Mr Kendall can very well try to convince us (and himself) that his "Student" Union was right in supporting the fees increase, but the bottom line is that students will be worse off - it will take them longer to pay off their university debt; scholarships, bursaries and outreach schemes will never reach out to all eligible students and hence only benefit a minority; and bright students who are less financially privileged will inevitably be put off from applying to Imperial - even though many of them would be more academically deserving of a place than those lucky enough to have been private schooled and financed by their parents. This will be a huge blow to social mobility, and unfortunately the Imperial student body will condense to an even narrower demographic.,What i fail to understand is if the average post-doc salary is between £27-30,000 (London weighting) and this dropping as you move away from London. In addition, the average debt for a UK University student being ~£42000 based on a £9000 tuition f
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102031930-ks607-higherfe.jpg"
-image_caption: ""
 ---
 
 Tuition fees of £9000 a year would be “far more preferable” according to the ICU President, Alex Kendall, as well as the norm for “the majority of universities” according to the NUS President, Aaron Porter. These latest comments have arisen as the “Student Fees and Financial Aid Working Group” established at Imperial works to determine where the tuition fee level will be set from 2012.

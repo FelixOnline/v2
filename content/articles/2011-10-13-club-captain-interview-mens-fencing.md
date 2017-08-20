@@ -4,17 +4,14 @@ title: >
 subtitle: >
   Indy Leclercq interviews Didier Nohlmans
 date: "2011-10-13 22:59:22 +0100"
+image: "http://felixonline.co.uk/img/upload/201110132358-ak6309-dsc_3447.jpg"
 draft: true
-
-# Attributes from Felix Online V1
-id: "1518"
-old_path: /sport/1518/club-captain-interview-mens-fencing
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1518/club-captain-interview-mens-fencing
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - ak6309
  - ial08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110132358-ak6309-dsc_3447.jpg"
-image_caption: ""
 ---
 
 Well, it’s two weeks into the year, and those of you who are part of sports clubs will know that the season’s first fixtures are fast approaching - and how important it is to start off on the winning foot. This week, Fencing Men’s 1st team captain Didier Nohlmans inaugurates our Club Captains interview series. A member of the team that swept to BUCS championship gold last season, he acknowledges that he has pretty big shoes to fill:

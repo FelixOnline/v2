@@ -4,18 +4,16 @@ title: >
 subtitle: >
   An anonymous student asks why the Union hired an unapologetic thug
 date: "2015-05-21 23:03:46 +0100"
-
-# Attributes from Felix Online V1
-id: "5555"
-old_path: /comment/5555/summer-ball-headliner-slap-happy
+image: "http://felixonline.co.uk/img/upload/201505220003-cj914-prof-green.jpg"
+image_caption: "Stare into the eyes of a slapper."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5555/summer-ball-headliner-slap-happy
-imported: true
 comments:
  - value: >
      I think my biggest problem with the choice of headliner is that he's just not relevant at the moment. When did he last release something, a couple of years ago wasn't it? I haven't seen him do much in a while apart from appear on Celebrity Juice and hang around with his Made In Chelsea girlfriend - might as well have hired Joey Essex to headline. Look, it's a well known fact that he's a bit of a c**t, the example you gave is just one of many, but if they're entertaining then so what? My issue however is that I really don't see him being that entertaining... rap over soft guitars, don't see it getting everyone HYPED.,fitflop pietra cheap <br>fitflop sandals http://fitflopsalesingapore2.blogspot.com/,Hi there, You've done a fantastic job. I will certainly digg it and personally recommend to my friends. I am confident they'll be benefited from this website. <br>nike huarache zwart wit rusland http://www.blosrtv.nl/?nl-nike-huarache-zwart-wit-rusland-21209.html,It's in fact very difficult in this full of activity life
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - icanon
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505220003-cj914-prof-green.jpg"
-image_caption: ""
 ---
 
 This year’s Summer Ball headliner was announced a couple of weeks ago, via the somewhat protracted method of a quiz – where the first letter of five somewhat transparently James Bond themed questions allowed students to spell out the artist’s name.

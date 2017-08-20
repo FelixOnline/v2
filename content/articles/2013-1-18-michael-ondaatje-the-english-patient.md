@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Amanda Diez on the the poem dressed up as prose
 date: "2013-01-18 00:44:53 +0000"
-
-# Attributes from Felix Online V1
-id: "3140"
-old_path: /books/3140/michael-ondaatje-the-english-patient
+image: "http://felixonline.co.uk/img/upload/201301180045-tna08-cafleurebonenglishpatientfirstedition.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3140/michael-ondaatje-the-english-patient
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - ad4010
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301180045-tna08-cafleurebonenglishpatientfirstedition.jpg"
-image_caption: ""
 ---
 
 “The story is a poem disguised in prose”, says the introduction to the 2007 edition of this novel.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sophie Protheroe discusses how robots are becoming increasingly humanoid, and how refining 3D printing is creating endless opportunities for new innovative technology
 date: "2017-06-09 15:03:59 +0100"
-
-# Attributes from Felix Online V1
-id: "7015"
-old_path: /science/7015/bionic-skin-could-give-robots-the-sense-of-touch
+image: "http://felixonline.co.uk/img/upload/201706091703-ea3211-94356751warwick1_original.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/7015/bionic-skin-could-give-robots-the-sense-of-touch
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - sophieprotheroe
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706091703-ea3211-94356751warwick1_original.jpg"
-image_caption: ""
 ---
 
 As we are entering an age where robots are becoming more human, so are humans becoming increasingly attached to technology. Scientists have created a 3D printed ‘bionic skin’ which could give robots the sense of touch. This is a major step towards printing electronics onto human skin. Cyborgs, part human part machine, are no longer confined to science fiction.

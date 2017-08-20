@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The great ideological battle of these years of the long 21st Century is not between the liberal West and the fundamentalist Muslims. It is between the vast majority of peaceful Muslims and a small but ever-expanding radical fringe.
 date: "2010-01-14 17:46:23 +0000"
-
-# Attributes from Felix Online V1
-id: "34"
-old_path: /comment/34/moderates-must-make-their-voices-heard
+image: "http://felixonline.co.uk/img/upload/201001141741-gda07-Gileadsa.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/34/moderates-must-make-their-voices-heard
-imported: true
 comments:
  - value: >
      Muslims are the biggest victims of the definition of the word terrorism.(check Noam Chomsky's war on terror article.) <br> <br>The majority of muslims in muslim lands, especially, are under a threat of being thrown into jails just for having a beard or for holding islamic circles at their houses. <br> <br> <br>When my bearded 14 year old neighbour was chucked in prison for 5 years , later to be found innocent. When you see the world biggest terrorists in Israel and the united states, putting down the rules of who is a terrorist and who is not with their left hand, while holding a gun to shoot a palestinian child with the right...(check Martin Kramer on genocide to curb births) <br> <br>... When the &amp;quot;war on terror&amp;quot; is conducted by terrorists.. one might be confused what is going on. <br> <br>&amp;quot;moderate&amp;quot; muslims would be delighted to ensure the world is a safe place, but we are busy with the wounds by western oppression. but dont worry, the Quran is there to make sure muslims be,that muslims be just to
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001141741-gda07-Gileadsa.jpg"
-image_caption: ""
 ---
 
 It’s good to see that all of you have safely made it back to college. Whether by plane, train, sleigh or snowplough, or thanks to having hitched a ride on the back of a frisky reindeer, you’ve finally made it back to the warm embracing arms of college. Some of you have had to fight snow and ice, cancelled flights and endless news reports about snow and ice, while others have had to suffer through heightened security at airports following the attempted terrorism on a flight bound for Detroit on Christmas Day.

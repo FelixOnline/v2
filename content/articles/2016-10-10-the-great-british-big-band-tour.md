@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Great weather, great places, great gigs!
 date: "2016-10-10 12:06:07 +0100"
-
-# Attributes from Felix Online V1
-id: "6318"
-old_path: /cands/6318/the-great-british-big-band-tour
+image: "http://felixonline.co.uk/img/upload/201610101404-felix-13585102_1094112680634671_6175912047297279752_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/6318/the-great-british-big-band-tour
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -26,12 +23,6 @@ authors:
  - is000
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610101404-felix-13585102_1094112680634671_6175912047297279752_o.jpg"
-image_caption: ""
 ---
 
 O

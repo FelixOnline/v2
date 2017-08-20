@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Complete participation rates for SOLE released: a mixed bag
 date: "2013-01-10 22:20:40 +0000"
-
-# Attributes from Felix Online V1
-id: "3084"
-old_path: /news/3084/imperials-got-no-sole
+image: "http://felixonline.co.uk/img/upload/201301102220-tna08-survey-ting.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3084/imperials-got-no-sole
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102220-tna08-survey-ting.jpg"
-image_caption: ""
 ---
 
 Participation in SOLE shows that Earth Sciences once again has 100% participation rate, with the lowest being Biomedical Science at 34%.

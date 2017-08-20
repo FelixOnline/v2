@@ -4,16 +4,13 @@ title: >
 subtitle: >
   James White's first column on football, bringing you predictions about this week's matches.
 date: "2013-10-25 01:22:36 +0100"
-
-# Attributes from Felix Online V1
-id: "3955"
-old_path: /sport/3955/premier-league-predictions
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3955/premier-league-predictions
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jpw12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Chelsea v Man City

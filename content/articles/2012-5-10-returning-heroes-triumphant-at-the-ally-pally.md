@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Bombay Bicycle Club command the stage
 date: "2012-05-10 20:06:06 +0100"
-
-# Attributes from Felix Online V1
-id: "2441"
-old_path: /music/2441/returning-heroes-triumphant-at-the-ally-pally-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2441/returning-heroes-triumphant-at-the-ally-pally-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - me1409
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This was my first time at the epic venue which is Alexandra Palace and I was not disappointed. With support from __Rae Morris__ and __Lianne la Havves__, the evening had a solid start but it was the first few songs of __Bombay Bicycle Club__’s set that really kicked the show into gear.

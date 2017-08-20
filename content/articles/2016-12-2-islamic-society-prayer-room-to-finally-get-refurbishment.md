@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Long overdue works are set to be started
 date: "2016-12-02 13:48:30 +0000"
-
-# Attributes from Felix Online V1
-id: "6523"
-old_path: /news/6523/islamic-society-prayer-room-to-finally-get-refurbishment-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6523/islamic-society-prayer-room-to-finally-get-refurbishment-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Plans to restore the Brothers’ Prayer Room to an acceptable condition are underway after the issue was brought to the attention of DP Finance and DP Clubs and Societies at the beginning of term. The prayer room is managed by IC’s Islamic Society, and located at 9B Princes Gardens.

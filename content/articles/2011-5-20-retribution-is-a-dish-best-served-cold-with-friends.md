@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tagore Nakornchai has his space cake and eats it in real-time strategy Dawn of War II: Retribution, where a enjoyable if repetitive single player campaign makes way for a fantastic multiplayer experience
 date: "2011-05-20 04:35:28 +0100"
-
-# Attributes from Felix Online V1
-id: "1219"
-old_path: /games/1219/retribution-is-a-dish-best-served-cold-with-friends
+image: "http://felixonline.co.uk/img/upload/201105211049-sjw209-retribution-logo.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1219/retribution-is-a-dish-best-served-cold-with-friends
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - sjw209
  - tn509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105211049-sjw209-retribution-logo.png"
-image_caption: ""
 ---
 
 The [Warhammer 40,000 universe](http://www.games-workshop.com/gws/catalog/landing.jsp?catId=cat440130a&rootCatGameStyle=wh40k) is a violent place. There are literally a hundred ways to die: you can be chopped up by [a chainsaw sword](http://warhammer40k.wikia.com/wiki/Chainsword), gnawed to death by [a giant bug](http://warhammer40k.wikia.com/wiki/Tyranids), have your mind blown up by a [psychic space-elf](http://warhammer40k.wikia.com/wiki/Eldar), or shot in the back by your own side to hide some obscure secret._ Dawn of War II: Retribution_ is a real-time strategy game set in the universe, and really brings the table-top game to life.

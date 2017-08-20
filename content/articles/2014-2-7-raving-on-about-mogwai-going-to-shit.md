@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rave is not a word I would ever have associated with the music of Mogwai. As people, it makes a bit more sense. They has always been a certain distance between them and the more pretentious attitudes most post-rock bands employ.
 date: "2014-02-07 04:37:23 +0000"
-
-# Attributes from Felix Online V1
-id: "4338"
-old_path: /music/4338/raving-on-about-mogwai-going-to-shit
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4338/raving-on-about-mogwai-going-to-shit
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - sm5810
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Rave is not a word I would ever have associated with the music of Mogwai. As people, it makes a bit more sense. They has always been a certain distance between them and the more pretentious attitudes most post-rock bands employ. On a Mogwai album, you won’t find made-up languages (I’m looking at you Sigur Rós), songs about bizarrely specific historical events (iLiKETRAiNS, and I could have picked on the stupid typesetting as well) or any of the myriad of pretentious bullshit Godspeed You! Black Emperor do. Mogwai have always insisted they just make rock music. During live performances, they talk about football and other bloke stuff in between songs. The idea of them going to raves doesn’t sound completely nonsensical. Either they don’t go to raves, they are so out of it at said raves that they don’t know what happened or they just didn’t put that much thought into their album title, because this isn’t suitable music for raves. This is the same post-rock they’ve been chugging out for years.

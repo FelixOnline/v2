@@ -4,16 +4,13 @@ title: >
 subtitle: >
   No one got booed off the stage
 date: "2017-06-02 13:50:59 +0100"
-
-# Attributes from Felix Online V1
-id: "6998"
-old_path: /news/6998/party-candidates-come-to-imperial
+image: "http://felixonline.co.uk/img/upload/201706021550-felix-18765959_1333703923345937_8256790574883053648_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6998/party-candidates-come-to-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - jmw216
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706021550-felix-18765959_1333703923345937_8256790574883053648_n.jpg"
-image_caption: ""
 ---
 
 A hustings of local parliamentary candidates was held yesterday in Blackett which saw Victoria Borwick (Conservatives), Cllr Alan De’Ath (Labour), Bridget Fox (LibDems), Richard Braine (UKIP), and finally Bill Cashmore (Green), engaging in a debate on Education, Public Health and Brexit.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   This year the Holland Club was closed, much to the annoyance of many staff and postgraduates. I take a tour of the redevelopment
 date: "2013-06-20 23:47:36 +0100"
-
-# Attributes from Felix Online V1
-id: "3727"
-old_path: /news/3727/holland-club-redevelopment
+image: "http://felixonline.co.uk/img/upload/201306210048-tna08-hc2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3727/holland-club-redevelopment
-imported: true
 comments:
  - value: >
      What I can't understand is why Imperial didn't open up the design process to the postgraduate community? Ask p/g's to submit design briefs/proposals that could then be vetted by an Estates team. Judged by a panel that included College management, as well as student and staff reps. <br> <br>Seen it work really well where a University has redesigned a space for the use of u/gs and has actively encouraged them to be part of the design process. <br> <br>http://createyourcampus.soton.ac.uk/index.php,From the plans it looks like 568 mark II - a 'utility space' with no character; the antithesis of what the Holland Club once was. <br>Roll on the commercialisation! ,I'm guessing that the dividing wall is going to be used in the early evening when the catering area will be open to undergraduates. ,Looks like its going to be dreadful! <br>Stale, functional, corporate, soulless. <br> <br>Well done Imperial! <br>,A "dividing" area says it all.....,Rubbish thats all I can say
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306210048-tna08-hc2.jpg"
-image_caption: ""
 ---
 
 On Wednesday I had a tour of the area that [used to be the Holland Club](http://felixonline.co.uk/news/2931/holland-club-closed/). The space is called Level 0. At the moment, extensive work is still going on, and there is much left to do. It is definitely, for all intents and purposes, a building site; you have to sign in and out and wear a high vis jacket and a hard hat.

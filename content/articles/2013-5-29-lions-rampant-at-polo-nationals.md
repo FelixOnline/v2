@@ -4,16 +4,13 @@ title: >
 subtitle: >
   ICU Riding and Polo celebrate victory at the Arena Polo Nationals
 date: "2013-05-29 15:44:17 +0100"
-
-# Attributes from Felix Online V1
-id: "3633"
-old_path: /sport/3633/lions-rampant-at-polo-nationals
+image: "http://felixonline.co.uk/img/upload/201305301030-tna08-nationals-photo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3633/lions-rampant-at-polo-nationals
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305301030-tna08-nationals-photo.jpg"
-image_caption: ""
 ---
 
 I’d like to say that there is some really good reason for how long this article has taken to come out. You’d think given this is my personal highest achievement at the Polo Nationals in the last 5 years that I’d have managed to get it out quickly. But no, life and, more annoyingly, work goes on. However, as we close in on our trip to the summer edition of the Polo Nationals in early June I have finally managed to sit down (at the pub) and whip my laptop out antisocially to write up my hazy recollections of a cold weekend in February and what looks from the outside like an industrial estate a little outside of Rugby which is, in fact, a polo ground.

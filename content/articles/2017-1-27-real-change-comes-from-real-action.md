@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Giacomo Boscaini-Gilroy is dismissive of Saturday's protests
 date: "2017-01-27 16:22:47 +0000"
-
-# Attributes from Felix Online V1
-id: "6687"
-old_path: /comment/6687/real-change-comes-from-real-action
+image: "http://felixonline.co.uk/img/upload/201701271639-felix-Screen Shot 2017-01-27 at 16.26.19.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6687/real-change-comes-from-real-action
-imported: true
 comments:
  - value: >
      Everyone's for real change, and you're absolutely right that quiet action is much more effective in achieving that than loud rhetoric. But many protesters are not expecting to effect some seismic change on whatever issue they're fired up about. Zoe Williams wrote an excellent piece in the guardian on the same idea: https://www.theguardian.com/commentisfree/2017/jan/22/piers-morgan-womens-march-protest-love-greenham-common-trump<br>"I was there because, otherwise, how can we see one another? When we’re refracted through a political and media culture that treats cooperation as schmaltz, equality as passe, honesty as optional, and dissenters as raging weirdos, how other than by congregating can we believe that we’re not alone?"<br>I think it's quite harsh to call it self-indulgence. As Fighting apathy (and maybe, eventually, encouraging empathy) is another key challenge in bringing about change. I laud these protesters for getting out there, making themselves seen. Misguided, or whatever else one might call the
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +23,6 @@ authors:
  - gib13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701271639-felix-Screen Shot 2017-01-27 at 16.26.19.png"
-image_caption: ""
 ---
 
 Oh, you went on Saturday’s march? You must have the moral high ground now. You 100% changed the world by walking around with a sign. Here’s a reality check: the only way to influence the nation is through government. You didn’t make any tangible change, you sent a letter of complaint: 'Hi, I think you are meanies and this is how angry I’m going to get if you continue.’ How often does a head of state listen to a protest?

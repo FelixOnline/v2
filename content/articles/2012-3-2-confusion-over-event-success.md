@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Clarification sought over joint university venture
 date: "2012-03-02 01:03:55 +0000"
-
-# Attributes from Felix Online V1
-id: "2301"
-old_path: /news/2301/confusion-over-event-success
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2301/confusion-over-event-success
-imported: true
 comments:
  - value: >
      To be clear, this article is saying: <br> <br>There was a launch event, it was a success, it made £4,548. <br>Heather Jones is unable to predict what ticket sales are until ticket sales are published. <br>The event cost somewhere near £23,473. <br>The expected gain was £78,893. <br>Ticket sales are not yet accounted for. <br> <br>The article is co-written by a candidate felix editor (Can we expect similairly insightful articles next year?) and a former DPFS (Dare I mention the Summer Ball?). <br> <br>Great stuff guys.,To be clear, this article is saying: <br> <br>There was a launch event, it was a success, it made £4,548. <br>Heather Jones is unable to predict what ticket sales are until ticket sales are published. <br>The event cost somewhere near £23,473. <br>The expected gain was £78,893. <br>Ticket sales are not yet accounted for. <br> <br>The article is co-written by a candidate felix editor (Can we expect similairly insightful articles next year?) and a former DPFS (Dare I mention the Summer Ball?). <br> <br>Great stuff guys.,The article is purely factual.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This past weekend saw [Fusion@London](http://fusionatlondon.com/), an event budgeted to raise £78,897.50 in aid of the charity [Cancer Research UK](http://www.cancerresearchuk.org/), take place. The main aim of the event was “to foster a closer relationship between the capital’s student population“. However, the success of the event is yet to be established. It remains to be revealed the exact gain or loss from the event, which was a joint student venture between the unions of Imperial College London, King’s College London, and University College London.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jamie Williams and Hannah Tullett visit Earl’s Court coffee house and music venue
 date: "2010-11-11 21:17:56 +0000"
-
-# Attributes from Felix Online V1
-id: "358"
-old_path: /food/358/troubadour-has-heart
+image: "http://felixonline.co.uk/img/upload/201011112112-nm1010-troubado.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/358/troubadour-has-heart
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011112112-nm1010-troubado.jpg"
-image_caption: ""
 ---
 
 Step into the Troubadour and you don’t know where to look first. On one wall is a stained glass window and rows of antique coffee pots; on the other, a vintage electric guitar. This perfect blend of the rustic and retro arrests the senses, and something tells you you’re in for a treat.

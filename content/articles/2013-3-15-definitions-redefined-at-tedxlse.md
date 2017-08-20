@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Joshua Maxey for one can’t wait for next year’s TEDxLSE. Before that, however, Imperial has an independent TED event of its own...
 date: "2013-03-15 02:36:03 +0000"
-
-# Attributes from Felix Online V1
-id: "3490"
-old_path: /news/3490/definitions-redefined-at-tedxlse
+image: "http://felixonline.co.uk/img/upload/201303150234-tna08-tedxlse_-andrew-schoben-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3490/definitions-redefined-at-tedxlse
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303150234-tna08-tedxlse_-andrew-schoben-1.jpg"
-image_caption: ""
 ---
 
 Last Friday saw only the second ever independently organised TED event at the London School of Economics. The day promised talks, performances and workshops selected to encourage us to ‘Redefine our Definition’, and it certainly delivered.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Daquise Restaurant: A South Kensington gem
 date: "2011-02-24 19:39:07 +0000"
-
-# Attributes from Felix Online V1
-id: "864"
-old_path: /food/864/-gessler-at-daquise
+image: "http://felixonline.co.uk/img/upload/201102241934-nm1010-gesslerg.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/864/-gessler-at-daquise
-imported: true
 comments:
  - value: >
      I went to dine in Gesslerat Daquise just tonight actually. <br>Ordered the marinated herring as a starter. It sure was awesome! Smoked tender raw herring with chopped garlic. A definite must-try! (Rated as 8/10) <br>Had the roasted duck (recommended by the waiter) with apple as my mains. Mash potatoes and red cabbage came along as sides. The duck came with generous amounts of cranberry sauce which reminded me of a nice home-cooked/Christmas meal. (Rated as 8/10) <br>My other friend had the roasted chicken with egg pasta in broth. Chicken breast was a little on the dry side.. I rate this as average (6/10) <br> <br>In portion-wise, this is definitely a place to go to. The portion sizes are huge! <br>All in all, only spent about £30 for the meal (thanks to the 20% discount).,I went to dine in Gesslerat Daquise just tonight actually. <br>Ordered the marinated herring as a starter. It sure was awesome! Smoked tender raw herring with chopped garlic. A definite must-try! (Rated as 8/10) <br>Had the roasted duck (recommended by the waiter)
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -30,12 +27,6 @@ authors:
  - whk107
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102241934-nm1010-gesslerg.jpg"
-image_caption: ""
 ---
 
 Established in 1947, Daquise Restaurant on Thurloe St. never fails to transport alumnis down memory lane. Mr. Gessler, a prominent figure in the restaurant scene in Poland, has recently acquired into one of the longest serving Polish restaurants in London where impeccable food quality is coupled with a homely ambience that makes for a most enjoyable meal.

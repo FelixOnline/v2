@@ -4,17 +4,14 @@ title: >
 subtitle: >
   Not excited for Christmas? Maybe it’s because your parents lied to you
 date: "2015-12-11 15:29:30 +0000"
+image: "http://felixonline.co.uk/img/upload/201512111529-felix-o-CREEPY-SANTA-facebook.jpg"
 draft: true
-
-# Attributes from Felix Online V1
-id: "5813"
-old_path: /comment/5813/all-i-want-for-christmas-is-the-truth
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5813/all-i-want-for-christmas-is-the-truth
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ tags:
 authors:
  - vmh14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201512111529-felix-o-CREEPY-SANTA-facebook.jpg"
-image_caption: ""
 ---
 
 Every year, a strange phenomenon occurs:  trees are decorated, gifts are exchanged, and the world decides that it is again time to deceive millions upon millions of impressionable children.

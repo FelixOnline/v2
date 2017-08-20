@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Emiel de Lange explores the new musical vocabulary of one of the 20th century’s most controversial composers
 date: "2015-04-05 13:00:38 +0100"
-
-# Attributes from Felix Online V1
-id: "5461"
-old_path: /music/5461/boulez-at-90-the-enfant-terrible-of-modern-music
+image: "http://felixonline.co.uk/img/upload/201504051350-km2612-tumblr_mz1ze5vzzv1rk7b35o1_1280.jpg"
+image_caption: "Pierre Boulez as conductor of the BBC Symphony Orchestra"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5461/boulez-at-90-the-enfant-terrible-of-modern-music
-imported: true
 comments:
  - value: >
      mont blanc boheme noir ballpoint pen, mont blanc pens cost, montblanc meisterstuck classique gold rollerball pen, michael kors shoulder bags, 6pm ugg coupon code, cheap uggs mens boots, light pink tall uggs, uggs outlet locations, michael kors handbags selma, michael kors rain boots, new michael kors bags, mont blanc pens canada, montblanc cruise collection coral, montblanc unicef pen price, mont blanc fountain pens history, michael kors black boots, michael kors red handbags, how do you know if ugg boots are real, michael kors bucket bag, saffiano leather michael kors <br>cheapest price ugg boots http://clearound.com/defult/id=cheapest-price-ugg-boots-h4331.php,mont blanc gold ballpoint pen, mont blanc pens discount prices, r mont blanc organiser refills, michael kors perfume gift set, black sparkle ugg boots cheap, kensington ugg boots sale uk, navy blue uggs on sale, ugg style boots under 20, michael kors crossbody jet set, michael kors runway, Montblanc Boutique Locations, mont blanc pens greenville sc, mont
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201504051350-km2612-tumblr_mz1ze5vzzv1rk7b35o1_1280.jpg"
-image_caption: ""
 ---
 
 Pierre Boulez is _the_ controversial figure at the forefront of musical development in the 20th Century. Though equally respected by his enemies as by his supporters, a certain stubbornness and radicalism has alienated many. For instance, in 1952 he declared in one fell swoop half of the musical world as useless, in 1967 that opera houses should be blown up, and in 1971 he advocated for the destruction of the Mona Lisa. But read past these shocking soundbites and you may find yourself in fact following his arguments. Indeed the vast literature he has produced throughout his career has swayed many, undoubtedly influencing the course of music history, and it certainly does display a penetrating and unabashed intelligence. Of course, his music is the true testament to this: original, endlessly thought provoking, and constantly being reinvented; the Guardian says “it is impossible to imagine […] the entire musical world without Pierre Boulez”. But then why haven’t you heard of him? And, at the recent 90th birthday celebrations at the __Barbican__, why was the hall half empty?

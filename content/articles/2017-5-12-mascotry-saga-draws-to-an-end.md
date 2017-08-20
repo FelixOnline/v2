@@ -4,16 +4,14 @@ title: >
 subtitle: >
   We know no one cares but this is our job
 date: "2017-05-12 16:30:10 +0100"
-
-# Attributes from Felix Online V1
-id: "6940"
-old_path: /news/6940/mascotry-saga-draws-to-an-end
+image: "http://felixonline.co.uk/img/upload/201705121829-felix-spanner.jpg"
+image_caption: "Look mom! I found a giant... tool!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6940/mascotry-saga-draws-to-an-end
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ea3211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705121829-felix-spanner.jpg"
-image_caption: ""
 ---
 
 It only took about a year but the ‘heated’ topic of mascotry conduct seems to have finally been put to rest. Sort of. During the final council meeting of the spring term, the reworked mascotry paper was almost successfully passed. Almost, because following a mass exodus after the presentation of the tie club paper, Council was no longer quorate.

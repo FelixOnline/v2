@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rabbit Hole involves an incredibly tough subject matter, and something that cannot be handled lightly. But, despite the difficult tone, it manages to still be a pleasant watch and the film’s perceptive look at a range of characters is impressive
 date: "2011-02-03 19:46:26 +0000"
-
-# Attributes from Felix Online V1
-id: "725"
-old_path: /film/725/exemplary-acting-in-rabbit-hole
+image: "http://felixonline.co.uk/img/upload/201102031944-nm1010-rabbbbbi.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/725/exemplary-acting-in-rabbit-hole
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102031944-nm1010-rabbbbbi.jpg"
-image_caption: ""
 ---
 
 Losing a child is one of the most emotive subjects a film can take, and can deliver some of the finest performances from its actors, or else fall flat. Rabbit Hole follows the lives of Becca (Nicole Kidman) and Howie (Aaron Eckhart) in the aftermath of their four-year-old son’s accidental death, hit by a car whilst playing with his dog. Eight months on, and both Becca and Howie are struggling to move on. Everything in the house reminds them of him; the pictures on the fridge, the clothes in his room, the home-videos, and even the fingerprints on the door-knobs.

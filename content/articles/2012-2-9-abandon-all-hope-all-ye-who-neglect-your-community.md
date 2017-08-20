@@ -4,16 +4,14 @@ title: >
 subtitle: >
   In the search for respectful business, respect the community
 date: "2012-02-09 23:07:54 +0000"
-
-# Attributes from Felix Online V1
-id: "2169"
-old_path: /comment/2169/abandon-all-hope-all-ye-who-neglect-your-community
+image: "http://felixonline.co.uk/img/upload/201202092304-felix-mango.jpg"
+image_caption: "If a giant mango can’t get you to ditch the car, then what will?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2169/abandon-all-hope-all-ye-who-neglect-your-community
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202092304-felix-mango.jpg"
-image_caption: ""
 ---
 
 Back home in the Midlands, there is an extremely popular bus company known as [Trent Barton](http://www.trentbarton.co.uk/). Like just about every other bus company in the world, you get on the bus, you pay some money, and they drive you to where you want to go. Some of their competitors are faster at getting to some destinations, and are sometimes cheaper too. So why do they remain much loved and admired throughout the East Midlands? The reason for this is clear: they value the community they created around their products.

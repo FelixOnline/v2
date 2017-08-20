@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park reviews Big Hero 6
 date: "2015-02-03 15:00:46 +0000"
-
-# Attributes from Felix Online V1
-id: "5188"
-old_path: /film/5188/six-degrees-of-superheroes
+image: "http://felixonline.co.uk/img/upload/201502031500-ps3110-bighero6_03.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5188/six-degrees-of-superheroes
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jgp09
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502031500-ps3110-bighero6_03.png"
-image_caption: ""
 ---
 
 __BIG HERO 6__

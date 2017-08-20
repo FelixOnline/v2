@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Few people could have escaped the popularity of the Netflix political drama series House of Cards. However, the US show is actually a remake of a 1990s British TV miniseries of the same name.
 date: "2014-03-07 05:56:23 +0000"
-
-# Attributes from Felix Online V1
-id: "4470"
-old_path: /tv/4470/hipster-house-of-cards-you-wont-find-on-netflix
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4470/hipster-house-of-cards-you-wont-find-on-netflix
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Few people could have escaped the popularity of the Netflix political drama series House of Cards. However, the US show is actually a remake of a 1990s British TV miniseries of the same name. While I have heard wonderful things about the remake I have always had somewhat of a fondness for British television and have always found the UK political system more interesting than its American counterpart. Therefore, it should be of no surprise that I decided to devote the little time that I had between lectures and project work to watching the original (though its length – just four hours in total compared to the remake’s thirteen hour long first season – was probably also a contributory factor). I must say that I wasn’t disappointed.

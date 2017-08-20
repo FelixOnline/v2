@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Fifteen minute funny bits
 date: "2016-01-29 09:43:19 +0000"
-
-# Attributes from Felix Online V1
-id: "5853"
-old_path: /arts/5853/hit--miss-at-knock2bag-comedy
+image: "http://felixonline.co.uk/img/upload/201601290940-felix-Sam-Simmons-009.jpg"
+image_caption: "Foster’s award funny man Sam Simmons."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5853/hit--miss-at-knock2bag-comedy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - bdw14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201601290940-felix-Sam-Simmons-009.jpg"
-image_caption: ""
 ---
 
 Fresh outta West Basement, this comedy virgin headed out to meet Knock2Bag. Hailed by _Time Out_ as some of the best comedy in the East End at brilliant value, it had a lot to live up to.

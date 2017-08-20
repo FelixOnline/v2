@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Emma Hardaker-Jones and Peter Duff talk about graduate opportunities, the Deepwater disaster and moving “Beyond Petroleum”
 date: "2010-12-02 21:17:05 +0000"
-
-# Attributes from Felix Online V1
-id: "489"
-old_path: /biz/489/whats-the-future-for-bp
+image: "http://felixonline.co.uk/img/upload/201012022112-ac1507-bpspill.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/489/whats-the-future-for-bp
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -23,12 +20,6 @@ authors:
  - cb403
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022112-ac1507-bpspill.jpg"
-image_caption: ""
 ---
 
 __Why is BP a good choice for graduates?__

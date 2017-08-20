@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Everyone's nightmare: a third
 date: "2013-06-20 23:34:32 +0100"
-
-# Attributes from Felix Online V1
-id: "3722"
-old_path: /news/3722/imperial-slips-to-113th-in-green-league
+image: "http://felixonline.co.uk/img/upload/201306210033-tna08-green-league.png"
+image_caption: "Wahay! We’re finally equal with Cambridge at something. Oh, wait. DAMMIT!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3722/imperial-slips-to-113th-in-green-league
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - nm708
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306210033-tna08-green-league.png"
-image_caption: ""
 ---
 
 Imperial College London has been ranked 113th place in the People & Planet’s Annual Green League Table for 2013. This is a drop of 17 places since last year, where Imperial was ranked 96th place in the 2012 League Table.

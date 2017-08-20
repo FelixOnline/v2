@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Scientists at Imperial College have improved the process of converting pine wood into biofuels
 date: "2012-03-15 19:39:17 +0000"
-
-# Attributes from Felix Online V1
-id: "2345"
-old_path: /science/2345/lubricated-wood-grinds-better
+image: "http://felixonline.co.uk/img/upload/201203151934-ams111-img_3382-1.jpg"
+image_caption: "Pine trees are used to produce biofuels"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2345/lubricated-wood-grinds-better
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ak6309
  - kw911
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203151934-ams111-img_3382-1.jpg"
-image_caption: ""
 ---
 
 Scientists at Imperial College have discovered that efficiency savings of up to 80% in the production of biofuel can be made by lubricating the wood biomass.

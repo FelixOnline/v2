@@ -4,18 +4,15 @@ title: >
 subtitle: >
   “There are all sorts of birds here”
 date: "2014-11-16 00:10:34 +0000"
-
-# Attributes from Felix Online V1
-id: "4899"
-old_path: /arts/4899/fred-fyles-reviews-far-away-at-the-young-vic
+image: "http://felixonline.co.uk/img/upload/201411160010-ps3110-samantha_colley_as_adult_joan_in_far_away_at_the_young_vic._photo_by_richard_hubert_smith._1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4899/fred-fyles-reviews-far-away-at-the-young-vic
-imported: true
 comments:
  - value: >
      Maintain the outstanding job !! Lovin' it! <br>pokemongo http://shirt-tube.de/community/event/8470
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411160010-ps3110-samantha_colley_as_adult_joan_in_far_away_at_the_young_vic._photo_by_richard_hubert_smith._1.jpg"
-image_caption: ""
 ---
 
 _Far Away_ by British writer Caryl Churchill makes its return to London in this production at the __Young Vic__. Beginning with a young girl who sneaks out of bed and ends a mere 40 minutes later with a world in turmoil, in between we have mediations on power, corruption, and danger, delivered at a breakneck speed by a confident cast of four, who traverse the simple set with a deft skill, making every moment look effortless.

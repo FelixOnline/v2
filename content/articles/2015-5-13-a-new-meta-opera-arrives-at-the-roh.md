@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Angus James Morrison finds The Virtues of Things to be a mixed bag
 date: "2015-05-13 14:19:43 +0100"
-
-# Attributes from Felix Online V1
-id: "5515"
-old_path: /arts/5515/a-new-meta-opera-arrives-at-the-roh
+image: "http://felixonline.co.uk/img/upload/201505131518-ps3110-fiona_kimm_as_ellipsis_paul_curievici_as_eames_david_stout_as_selby_robyn_allegra_parton_as_peg_0-photo-credit-fiona-kimm.jpg"
+image_caption: "David Stout, Fiona Kimm, Robyn Allegra Parton and Paul Curievici in the Royal Opera House’s production of The Virtues of Things"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5515/a-new-meta-opera-arrives-at-the-roh
-imported: true
 comments:
  - value: >
      A turnover on downs. a few minutes later, sport was over, and so was the time of year for Northeastern. By analyzing how an individual behaves, you might be (in theory) able to predict their future actions. <br>fifa 16 hack http://creditsfut.com/,When you want to lay your hands on the most exclusive <br>and exquisite diamonds, you must have the sense to sort it out from worthless pebbles that might look tempting! <br>We, at Elite Diamond Escorts, are equipped with the best diamond-like divas who <br>has studded our gallery- and they are nothing short of the precious diamonds. <br>Looking for the best partner to whisk away time while enjoying her jocund company? <br>Our Nottingham escorts fit the bill perfectly! When you have once <br>sealed the deal with us, you would approach us time and <br>again to satiate your pleasure needs. You get top-class, professional and confidential services that is well within your budget when you pair up with a breathtaking glam doll. <br> <br>We list for you the best escorts in Nottingham, Derby, Mansfi
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505131518-ps3110-fiona_kimm_as_ellipsis_paul_curievici_as_eames_david_stout_as_selby_robyn_allegra_parton_as_peg_0-photo-credit-fiona-kimm.jpg"
-image_caption: ""
 ---
 
 _T__he Virtues of Things_ is a chamber opera by the sometime computer game music composer Matt Rogers, and his debut at the __Royal Opera House__. It is performed by the Aurora Orchestra, conducted by Richard Baker, and directed by Bijan Sheibani with a cast including last year’s Figaro at the __ENO__, David Stout, and the veteran mezzo-soprano, Fiona Kimm.

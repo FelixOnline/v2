@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Steve Ballmers thoughts reviewing the year according to Max Eggl
 date: "2013-06-21 00:29:40 +0100"
-
-# Attributes from Felix Online V1
-id: "3734"
-old_path: /tech/3734/microsoft-kicked-everyones-asshard
+image: "http://felixonline.co.uk/img/upload/201306210129-tna08-cat-breading2.jpg"
+image_caption: "For all of you unfortunate enough not to know what this is:  This.  Is. Cat.Breading."
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3734/microsoft-kicked-everyones-asshard
-imported: true
 comments:
  - value: >
      Are you stupid?
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +26,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306210129-tna08-cat-breading2.jpg"
-image_caption: ""
 ---
 
 Yeah, MS is back, baby! The most awesomest company on Earth has delivered this year in every possible area available. I’m like serious people, we did like everything. Not only have we revolutionised the smartphone world but also shaken up the PC market, tablets and games consoles.

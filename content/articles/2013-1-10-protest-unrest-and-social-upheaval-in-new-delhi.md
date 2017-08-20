@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tragedy sparks debate over attitudes to women
 date: "2013-01-10 22:20:40 +0000"
-
-# Attributes from Felix Online V1
-id: "3083"
-old_path: /politics/3083/protest-unrest-and-social-upheaval-in-new-delhi
+image: "http://felixonline.co.uk/img/upload/201301102220-csw09-new-delhi-protest.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/3083/protest-unrest-and-social-upheaval-in-new-delhi
-imported: true
 comments:
  - value: >
      Excellently covers the event as it happened. Very unfortunate and unruly state of affairs in the Capital city of the largest populated democracy on our planet. Surely, the women in Indian communities should have the security to live as humans deserve. <br> <br>To quote an oft quoted line from a recent popular movie, "(Their) punishment must be more severe!" <br> <br> I feel the writer may have left out a couple of points about the event, but that is his/her decision. <br> <br>Also, the GrammarNazi in me expected a lot better editing from such a publication. The infinite number of monkeys producing Shakespeare's works might have a similar problem, which we could call acceptable; but not from you guys! Come on! Find and use the comma key!,An excellent piece which clearly illustrates the wide cultural divide existing in modern urban India, which leads to multiple problems. Although a sad incident, hopefully it will serve as a catalyst for an improvement in the status of women in a dominantly patriarchal society as is India's.
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102220-csw09-new-delhi-protest.jpg"
-image_caption: ""
 ---
 
 On the 16th of December last year while Bangladesh celebrated its 39th Victory Day and Japanese voters brought about a change in government, a 23-year-old physiotherapy student was brutally raped and assaulted in the Indian capital, New Delhi. Within a week as news of the vicious attack spread through the country, it sparked widespread protest and cast glaring light on what some call India’s ‘rape problem’.

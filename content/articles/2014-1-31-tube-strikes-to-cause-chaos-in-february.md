@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Transport for London have announced that next week there will be disruption to underground travel.
 date: "2014-01-31 17:13:48 +0000"
-
-# Attributes from Felix Online V1
-id: "4313"
-old_path: /news/4313/tube-strikes-to-cause-chaos-in-february
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4313/tube-strikes-to-cause-chaos-in-february
-imported: true
 comments:
  - value: >
      this is a test
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Transport for London have announced that next week there will be disruption to underground travel. On Wednesday 5 February and Thursday 6 February walkouts are expected. Services will be affected from as early as 21.30hrs on February 4 so don’t get caught out.

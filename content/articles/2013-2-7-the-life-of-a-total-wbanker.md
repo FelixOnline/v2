@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The City life ain’t all it’s cracked up to be, warns Adam Billing
 date: "2013-02-07 23:11:56 +0000"
-
-# Attributes from Felix Online V1
-id: "3255"
-old_path: /comment/3255/the-life-of-a-total-wbanker
+image: "http://felixonline.co.uk/img/upload/201302072311-tna08-ian-hislop.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3255/the-life-of-a-total-wbanker
-imported: true
 comments:
  - value: >
      I disagree with the above comments. I plan on posting a response in felix next week but two details really nagged at me in their misrepresentation. <br> <br>1. The use of a 2008 statistic, the worst year in recent M&amp;A history, to illustrate how poorly paid it is. Surely having worked in "the city", you should be aware that base salary is now minimum £45k. Let's add on a 5k signing bonus to that. Let's also add the industry-standard 20k first year bonus for mid-ranked analysts (if anyone wants confirmation of these numbers, I can provide sources but do not want to post them on here for confidentiality). So now we're looking at a total comp of 70k, double the figure you quoted. I can't help but feel this was completely intentional. <br> <br>However, I do not think any analyst worth their salt is primarily money-driven, as shall be discussed further in my response next week. <br> <br>... (cont. below) <br> <br> <br>,2. They worked in GS M&amp;A? Did Goldman invent that group just for them, because they're so shit-hot? Goldman do not have an
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302072311-tna08-ian-hislop.jpg"
-image_caption: ""
 ---
 
 You’ve finished your degree. You worked hard and you got the grades. The world is your metaphorical oyster. With your hard earned piece of paper you can do whatever your heart desires. So why do nearly a third of us end up working in the financial services?

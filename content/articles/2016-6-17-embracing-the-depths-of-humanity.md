@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Embrace of the Serpent is a hallucinatory journey into the psyche of the Amazon
 date: "2016-06-17 09:37:09 +0100"
-
-# Attributes from Felix Online V1
-id: "6288"
-old_path: /film/6288/embracing-the-depths-of-humanity
+image: "http://felixonline.co.uk/img/upload/201606171136-felix-Embrace-of-the-Serpent-2_0.jpg"
+image_caption: "Embrace of the Serpent offers up a visual, inellectual, and metaphysical feast."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6288/embracing-the-depths-of-humanity
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ff712
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606171136-felix-Embrace-of-the-Serpent-2_0.jpg"
-image_caption: ""
 ---
 
 Much like the braying politicians slugging it out over the Brexit debate currently raging, many films currently being released can be divided into two distinct camps: there are those that exploit the inherently visual nature of cinema, to create works that are visually astonishing, while perhaps lacking in terms of plot and pacing – call them ‘team look’. And there are those that craft an engaging narrative, chock full of delicious, naturalistic dialogue (or not. Looking at you, Sorkin!) and a plot that grabs the viewer, but an absence of aesthetic flourish – call them ‘team plot’. But there are those rare films that manage to combine both worlds, resulting in a finished product that speaks to the viewer on a number of different levels: visually, culturally, intellectually, and personally. _Embrace of the Serpent_ is such a film.

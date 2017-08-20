@@ -4,16 +4,14 @@ title: >
 subtitle: >
   An adaptation of the Erdman classic amuses and underwhelms in equal measure
 date: "2016-05-06 10:16:04 +0100"
-
-# Attributes from Felix Online V1
-id: "6134"
-old_path: /arts/6134/the-suicide-
+image: "http://felixonline.co.uk/img/upload/201605061115-felix-8_thesuicidecompany_photobyjohanpersson.jpg"
+image_caption: "The cast of The Suicide all fighting for Sam’s attention."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6134/the-suicide-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - mff113
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061115-felix-8_thesuicidecompany_photobyjohanpersson.jpg"
-image_caption: ""
 ---
 
 The National’s latest modernisation of an old classic, _The Suicide_ has all the potential of a biting satirical comedy with little of the finesse or foundation to really pull it off. While the laughs are frequent and at times provocative, the play struggles to maintain its momentum and leaves little of an underlying narrative.

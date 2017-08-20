@@ -4,16 +4,13 @@ title: >
 subtitle: >
   HBO’s new show, Game of Thrones, has more epic beards than level 5 of the library
 date: "2011-05-06 13:00:38 +0100"
-
-# Attributes from Felix Online V1
-id: "1169"
-old_path: /tv/1169/swords-incest-blood-and-babes
+image: "http://felixonline.co.uk/img/upload/201105061357-felix-game-of-thrones-3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1169/swords-incest-blood-and-babes
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -25,12 +22,6 @@ authors:
  - ghc07
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105061357-felix-game-of-thrones-3.jpg"
-image_caption: ""
 ---
 
 A few years ago, picking up ‘[A Game of Thrones’](http://en.wikipedia.org/wiki/A_Game_of_Thrones) started a love affair that kept me up through the deep hours of midnight, and ended 5000 pages and 4 books later. I was swept away into the world of Westeros George R. R. Martin created and was entangled in the intricate plots and characters that the story is lived through.

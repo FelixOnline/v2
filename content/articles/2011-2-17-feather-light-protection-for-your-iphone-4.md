@@ -4,16 +4,13 @@ title: >
 subtitle: >
   “Feather by name, feather by nature — at less than 1mm thick it’s certainly minimal.”
 date: "2011-02-17 20:21:38 +0000"
-
-# Attributes from Felix Online V1
-id: "841"
-old_path: /tech/841/feather-light-protection-for-your-iphone-4
+image: "http://felixonline.co.uk/img/upload/201102172019-nm1010-iphoneip.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/841/feather-light-protection-for-your-iphone-4
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - nm1010
  - srg03
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102172019-nm1010-iphoneip.jpg"
-image_caption: ""
 ---
 
 Incipio is pretty well known for its slimline iPhone cases. From the first generation through to the iPhone 4, Incipio has made some of the best minimal cases money can buy. So you could say Incipio’s latest, the feather for iPhone 4, has some big boots to fill.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   LAX is an acronym, it doesn't mean that they aren't thorough. Imogen Simmonds and Gen Pugh report.
 date: "2012-10-26 03:02:37 +0100"
-
-# Attributes from Felix Online V1
-id: "2763"
-old_path: /sport/2763/lax-women-crush-opposition
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2763/lax-women-crush-opposition
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - fsport
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 On Wednesday the 17th, the Imperial Womens’ first team played their first match of the season against Reading. Despite being their first match as a team, Imperial dominated from the first whistle with Ellie Hill scoring the first goal and setting us off to an awesome start.

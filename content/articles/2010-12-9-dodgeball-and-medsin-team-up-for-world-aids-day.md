@@ -4,16 +4,13 @@ title: >
 subtitle: >
   90 keen dodgeballers, 15 teams, three balls, one winner
 date: "2010-12-09 20:06:11 +0000"
-
-# Attributes from Felix Online V1
-id: "515"
-old_path: /sport/515/dodgeball-and-medsin-team-up-for-world-aids-day
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/515/dodgeball-and-medsin-team-up-for-world-aids-day
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - as3509
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 On Thursday 2nd December, [Medsin Imperial](http://www.union.ic.ac.uk/medic/medsin/) and the [Dodgeball Club](http://www.union.ic.ac.uk/acc/dodgeball/about.php) collaborated to organise the biggest charity Dodgeball tournament Imperial has ever seen with prizes including a £50 bar tab at B@1 for the winning team. Over £200 was raised and donated to World Aids Day to combat HIV/AIDS.

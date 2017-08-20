@@ -4,16 +4,13 @@ title: >
 subtitle: >
   £732,571 was made in total internationally
 date: "2014-12-09 13:49:03 +0000"
-
-# Attributes from Felix Online V1
-id: "5018"
-old_path: /news/5018/charity-week-raises-in-excess-of-80000
+image: "http://felixonline.co.uk/img/upload/201412091349-ps3110-isoc-cake.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5018/charity-week-raises-in-excess-of-80000
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412091349-ps3110-isoc-cake.jpg"
-image_caption: ""
 ---
 
 Charity Week, a fundraising event ran by Imperial College Union Islamic Society (iSoc) earlier this month, managed to raise £83,401.70, breaking all previous records the club held.

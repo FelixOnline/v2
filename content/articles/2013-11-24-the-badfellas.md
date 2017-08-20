@@ -4,16 +4,13 @@ title: >
 subtitle: >
   What starts off promisingly enough heads for a rapid decline in quality when director Luc Besson doesn’t quite know what to do with the impressive cast he has assembled.
 date: "2013-11-24 16:29:26 +0000"
-
-# Attributes from Felix Online V1
-id: "4123"
-old_path: /film/4123/the-badfellas
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4123/the-badfellas
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Family

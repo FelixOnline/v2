@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Turns out people really want to get away from Imperial
 date: "2016-12-02 13:43:30 +0000"
-
-# Attributes from Felix Online V1
-id: "6522"
-old_path: /news/6522/jailbreakers-return-breaking-past-records
+image: "http://felixonline.co.uk/img/upload/201612021341-felix-15233636_10211602484240783_1082226068_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6522/jailbreakers-return-breaking-past-records
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612021341-felix-15233636_10211602484240783_1082226068_o.jpg"
-image_caption: ""
 ---
 
 As another year nears its conclusion so does another Jailbreak challenge. This year’s annual travelling competition, organised by IC RAG, broke the previously held record for participation, as well as for distance travelled by a single team. The winners Ayush Dharap and Rohan Prasad from team Brownian Motion, managed to reach Bali, Indonesia, a whopping 12,500km away (or a return trip to the centre of the Earth) raising £355.88 In the process.

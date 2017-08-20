@@ -4,18 +4,15 @@ title: >
 subtitle: >
   If your costume is culturally insensitive I hope you don’t get laid at ACC
 date: "2015-10-30 12:49:53 +0000"
-
-# Attributes from Felix Online V1
-id: "5687"
-old_path: /comment/5687/buy-your-own-fucking-sweets-mate
+image: "http://felixonline.co.uk/img/upload/201510301249-ygr12-cecil4evs.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5687/buy-your-own-fucking-sweets-mate
-imported: true
 comments:
  - value: >
       <br>クロエバッグスーパーコピー http://www.msnbrand.com/brand-copy-IP-5.html,This article offers clear idea in favor of the new users of blogging, that really how to do running a blog. <br>oakley splice pas cher femme http://www.thurgovia.ch/detail/spip.php?fr-oakley-splice-pas-cher-femme-19757.html,Oh, gee-whiz, Tom, please DON'T. Heaven knows I infiaurte too many people already and don't really want to cause a mess on your blog. Seriously, I wouldn't know where to begin. I mean, I have roughly 5,000 pages (10 reams) of notes on the national characteristics (stereotypes?) of various communities or peoples around the world, mostly based on personal observation and those of others. I no longer know how to organise those notes. Wait till they get published after I die, I suppose.,I think what you composed made a lot of sense. However, think on this, what if you were to write a killer headline? I ain't saying your content is not good., but what if you added a post title that grabbed folk's attention? I m
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510301249-ygr12-cecil4evs.jpg"
-image_caption: ""
 ---
 
 There are many things that irritate me more than my chafing thighs, but this week’s focus, Halloween, gets more on my tits than Dr Eva Carneiro did on Jose Mourinho’s. From jack-o(ff)-lanterns, to shit-o’-treating, this hyper-popular Americanism grates on me more than a dry shave in the heat of summer, and here’s why.

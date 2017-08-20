@@ -4,18 +4,16 @@ title: >
 subtitle: >
   George Butcher says students and sabbs need to start engaging more
 date: "2014-12-11 19:59:46 +0000"
-
-# Attributes from Felix Online V1
-id: "5024"
-old_path: /comment/5024/just-how-divided-is-our-union
+image: "http://felixonline.co.uk/img/upload/201412111956-cj914-grouptall.png"
+image_caption: "This year's sabbatical officers: Pascal Loose (DPE), Tom Wheeler (President), Abi de Bruin (DPCS), A"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5024/just-how-divided-is-our-union
-imported: true
 comments:
  - value: >
      Completely agree. <br> <br>While the dishonesty from the rugby club was, in hindsight, not the best course of action it was done out of fear that the Union would work against them; as agents who dish punishment it was in many people's minds: it was the rugby club vs the Union. This is an absurd position to be in. <br> <br>Currently loyalties of club members are to their club, then their management group (weak) then to the Union (even weaker). Clubs don't see themselves as part of the Union; it's viewed as a pot of money and the fun police. The Union does enable good new stuff to happen; unfortunately this is far too often overshadowed by the negatives: things like the attempted ban on drinking games (despite some overzealous barstaff, students are still drinking pints (sometimes quickly) in our bars.) <br> <br>So how to go about correcting this? How to get Club's to 'buy in' to the Union? I think George's idea of having a Sabb adopted by teams for one night is a good one - though not many would do it willingly, feeling that B
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - gb1311
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412111956-cj914-grouptall.png"
-image_caption: ""
 ---
 
 Imperial College Union is vast. It has 344 different societies, and every year they collectively turn over £2 million. The entire Union turns over £7 million. There are 3000 different society committee positions and 40% of undergraduate students are a member of at least one club or society.

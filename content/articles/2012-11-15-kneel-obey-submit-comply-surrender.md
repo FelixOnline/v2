@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The Master is good, by no Masterpiece
 date: "2012-11-15 21:51:52 +0000"
-
-# Attributes from Felix Online V1
-id: "2904"
-old_path: /film/2904/kneel-obey-submit-comply-surrender
+image: "http://felixonline.co.uk/img/upload/201211152151-tna08-the-master.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2904/kneel-obey-submit-comply-surrender
-imported: true
 comments:
  - value: >
      I run a political and scoail issues commentary blog called The Left Call and was searching for a new theme to take my website to the next level. I wanted to give readers an elegant grid-based home page where they would be able to easily and quickly scan the latest headlines. When I discovered the TotalGRID Theme I wasted no time and purchased it. I'm very satisfied with the theme and the FrameWork. Very easy to install and set up, and it's effortless to make quick style changes. With my old theme I felt compelled to edit the source code to get the look I was going for. With TotalGRID, I've found the look I was after and any small style changes are done within the built-in menus. Excellent work!
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211152151-tna08-the-master.jpg"
-image_caption: ""
 ---
 
 There is no denying that Paul Thomas Anderson (Magnolia, There Will be Blood) is the most bold and intelligent director around. He is fearless in undertaking a challenging topic, and his deliberate ambiguity in his characters, the deep complexities, the uncomfortable situations, hard-hitting scenarios, all make their appearances: very little changes in his hotly anticipated The Master. Dense, heavy narrative? Check. Top-notch performances? Check. You get the feeling that there is something great here – an insightful character study of sorts, delving into a struggling man’s psyche, but due to the many obstacles that stand in the way of the film being a widely accessible experience, it sadly misses out on becoming a classic.

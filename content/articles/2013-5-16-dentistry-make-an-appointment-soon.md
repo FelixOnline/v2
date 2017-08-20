@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Riaz Agahi speaks to dark, ambient up-and-comers Dentistry
 date: "2013-05-16 14:43:10 +0100"
-
-# Attributes from Felix Online V1
-id: "3566"
-old_path: /music/3566/dentistry-make-an-appointment-soon
+image: "http://felixonline.co.uk/img/upload/201305161542-js2310-dentistry.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3566/dentistry-make-an-appointment-soon
-imported: true
 comments:
  - value: >
      71dI merely hpnepaed inside your blog while looking for any digital in the cowboy ad. I believed the ad was funny really laugh aloud funny. After around the week, I still laugh when it's on.I'm not too sure To be certain along with your premise that an excellent author makes her site visitors feel smart I'm not a real fan for something which adds for the further dumbing lower of america, but possibly I'll address that another time. For me this ad is not mean being over-examined it's a joke and just you obtain it otherwise you don't. And like every jokes, they're never funny if you want to explain them. Really Ls was stretching when suggesting that how large the hats had something connected to the overall message. Further stretching if Ls thinks any kind of Dish's audience knows they're hq'd in CO. I'm taking a chance both genesis and reason behind the ad is always that when you find out about the completely new streaming feature, the hats and mustaches develop, all supported having a deadpan delivery. Eithe
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305161542-js2310-dentistry.jpg"
-image_caption: ""
 ---
 
 _I recently got in touch with Cian Walker and Patrick Fennelly of Irish band Dentistry. Their debut last year released on Forwind Records made quite an impression on me and I got a chance to discuss their approach to making music._

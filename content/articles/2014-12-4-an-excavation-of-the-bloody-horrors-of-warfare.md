@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Fred Fyles explores brutal photographs of wars gone by at the Tate Modern
 date: "2014-12-04 19:58:05 +0000"
-
-# Attributes from Felix Online V1
-id: "5006"
-old_path: /arts/5006/an-excavation-of-the-bloody-horrors-of-warfare
+image: "http://felixonline.co.uk/img/upload/201412041958-cj914-steel-helmet-shomei-tomatsu.jpeg"
+image_caption: "Steel Helmet with Skull Bone Fused by Atomic Bomb, Nagasaki 1963"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5006/an-excavation-of-the-bloody-horrors-of-warfare
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412041958-cj914-steel-helmet-shomei-tomatsu.jpeg"
-image_caption: ""
 ---
 
 “_There is an aggression implicit in every use of the camera_” - Susan Sontag

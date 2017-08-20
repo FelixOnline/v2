@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Kamil McClelland examines the Royal Court’s new piece of Palestinian theatre
 date: "2015-03-03 14:11:56 +0000"
-
-# Attributes from Felix Online V1
-id: "5320"
-old_path: /arts/5320/fireworks--a-carnival-of-horror
+image: "http://felixonline.co.uk/img/upload/201503031411-ps3110-shakira-riddell--morales-(lubna)-and-yusuf-hofri-(khalil)-in-fireworks-at-the-royal-court-theatre.-credit-helen-maybanks..jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5320/fireworks--a-carnival-of-horror
-imported: true
 comments:
  - value: >
      Play the tourneys for fun, not if coins is your #1 motivation. Julian already been a person in U.S youth National teams since he was 16 years-old. A yellow card equals 1 card and a red card equal 2 cards. <br>fifa 16 hack http://creditsfut.com/
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503031411-ps3110-shakira-riddell--morales-(lubna)-and-yusuf-hofri-(khalil)-in-fireworks-at-the-royal-court-theatre.-credit-helen-maybanks..jpg"
-image_caption: ""
 ---
 
 Death. Darkness. Claustrophobia. Darkness. Madness. Darkness. Dalia Taha’s new play _Fireworks_ is not the celebration that the title suggests. Telling the story of two families battling for sanity in a besieged Palestine, _Fireworks_ examines how children rationalise and interact with war and death, a jolting and twisted dichotomy.

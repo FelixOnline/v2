@@ -4,18 +4,15 @@ title: >
 subtitle: >
   We've scoured the web so you don't have to
 date: "2015-03-04 18:30:40 +0000"
-
-# Attributes from Felix Online V1
-id: "5334"
-old_path: /comment/5334/the-best-and-worst-of-student-election-videos-
+image: "http://felixonline.co.uk/img/upload/201503041829-ps3110-screen-shot-2015-03-04-at-18.29.33.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5334/the-best-and-worst-of-student-election-videos-
-imported: true
 comments:
  - value: >
      Omfg that Mala video is awful ,Click here for the greatest anti aging serum now in stock on the market and reasonably priced.,Go here for the best vitamin c serum for face now in stock around plus at great prices.,See here for the greatest best vitamin c serum for face currently in stock anywhere and reasonably priced.,christian louboutin glitter <br>christian louboutin cheapest http://canadachristianlouboutin.blogspot.com/,Wow, attractive site. Thnx .. <br>fifa 17 points http://www.jockstat.com/blog.php?user=Dorothy&amp;blogentry_id=16205,I like this website - its so usefull and helpfull <br>nhl 17 coins http://www.sneeci.net/soc/index.php/blogs/56391/204684/cheap-nba-2k17-mt-videogame-spec
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503041829-ps3110-screen-shot-2015-03-04-at-18.29.33.png"
-image_caption: ""
 ---
 
 At this time of year we start to see the typical seasonal changes come into effect: the days are starting to get longer, the temperature is starting to rise, and a plethora of cringey election videos have been released, featuring shockingly awful musical covers, unnervingly unfunny inside jokes, and just too many white people dancing.

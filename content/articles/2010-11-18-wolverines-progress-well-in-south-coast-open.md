@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial Wolverines head to Southampton to get hit with balls
 date: "2010-11-18 21:14:24 +0000"
-
-# Attributes from Felix Online V1
-id: "404"
-old_path: /sport/404/wolverines-progress-well-in-south-coast-open
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/404/wolverines-progress-well-in-south-coast-open
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - as3509
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 On the weekend just gone, our 1st and 2nd team entered the South Coast Open Dodgeball tournament in Southampton with both teams (Imperial Wolverines I and II) reaching the quarter-finals and producing an all round solid result. The tournament report follows:

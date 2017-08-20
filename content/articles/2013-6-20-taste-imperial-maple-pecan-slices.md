@@ -4,16 +4,13 @@ title: >
 subtitle: >
   ...and how to duplicate them, thanks to Elizabeth Crow
 date: "2013-06-20 23:24:01 +0100"
-
-# Attributes from Felix Online V1
-id: "3720"
-old_path: /food/3720/taste-imperial-maple-pecan-slices
+image: "http://felixonline.co.uk/img/upload/201306210023-tna08-foodslice.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3720/taste-imperial-maple-pecan-slices
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - elizabethcrow
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306210023-tna08-foodslice.jpg"
-image_caption: ""
 ---
 
 Who doesn’t love the maple and pecan slice that you can buy at food outlets around campus? The syrupy biscuit base, gooey but crunchy – topped with decadent dark chocolate. I am definitely a fan and wanted to have a go at making them. I tried looking for a recipe online but had no luck. Lots of recipes for pecan pie, peanut butter traybakes and caramel squares, but none for maple and pecan slices. So I decided to come up with a recipe for them – and in doing so, checked out the cost to compare them to the price we pay on campus...

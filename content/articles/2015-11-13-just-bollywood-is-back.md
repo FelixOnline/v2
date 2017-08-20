@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ten teams are ready to fight to become the 2015 Champion
 date: "2015-11-13 14:48:03 +0000"
-
-# Attributes from Felix Online V1
-id: "5733"
-old_path: /cands/5733/just-bollywood-is-back
+image: "http://felixonline.co.uk/img/upload/201511131447-ygr12-bollywood.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5733/just-bollywood-is-back
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -24,12 +21,6 @@ authors:
  - tg1812
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511131447-ygr12-bollywood.jpg"
-image_caption: ""
 ---
 
 Just Bollywood – the nationwide fusion-dance competition organised by IndianSoc, is back!

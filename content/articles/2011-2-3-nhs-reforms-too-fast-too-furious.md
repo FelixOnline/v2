@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Do we take NHS for granted?
 date: "2011-02-03 20:10:58 +0000"
-
-# Attributes from Felix Online V1
-id: "737"
-old_path: /politics/737/nhs-reforms-too-fast-too-furious
+image: "http://felixonline.co.uk/img/upload/201102032008-nm1010-dctordoc.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/737/nhs-reforms-too-fast-too-furious
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - mg1508
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102032008-nm1010-dctordoc.jpg"
-image_caption: ""
 ---
 
 David Cameron has said “fundamental changes” are needed in the NHS. Defending reforms for England, he told the BBC it was right to start now and change was being done “steadily” - amid criticism it is being done too fast. The heads of six health unions, including the BMA, have warned of their “extreme concerns” about greater commercial competition between the NHS and private companies.

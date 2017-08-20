@@ -4,18 +4,15 @@ title: >
 subtitle: >
   FELIX interviews 29 year-old Anjeli Patel, who works at Ernst & Young, on being trans, being Indian and the equality in the workplace
 date: "2016-03-11 11:31:32 +0000"
-
-# Attributes from Felix Online V1
-id: "6023"
-old_path: /features/6023/id-say-i-lost-90-of-my-friends-circle-when-i-said-that-i-was-going-to-transition
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6023/id-say-i-lost-90-of-my-friends-circle-when-i-said-that-i-was-going-to-transition
-imported: true
 comments:
  - value: >
      It's very unfortunate that she is being discriminated against and treated so poorly, for something she can't change, i.e. her internal gender identity. Good news that she is transitioning her external appearance to better match her self-image.<br>The treatment she has received from her community just further highlights the problems of letting intolerant cultures seep into our largely socially liberal country.,It's very unfortunate that she is being discriminated against and treated so poorly, for something she can't change, i.e. her internal gender identity. Good news that she is transitioning her external appearance to better match her self-image.<br>The treatment she has received from her community just further highlights the problems of letting intolerant cultures seep into our largely socially liberal country.,Firstly, thank you to Felix for taking the time to ask me a few questions about my experiences and observations in regards to transitioning within the Asian community. <br>Before I respond to the comment
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -28,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Iam ten minutes late by the time I get on the line to Anjeli Patel – not something I reckon would be taken lightly at Ernst &amp; Young LLP, where she works as an associate in assurance within Wealth and Asset management.

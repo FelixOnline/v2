@@ -4,16 +4,13 @@ title: >
 subtitle: >
   You’re very lucky to see this,” a professor with a bright orange waistcoat and bow tie tells us. “Usually, only scientists are allowed at internal meetings.”
 date: "2013-11-15 02:19:16 +0000"
-
-# Attributes from Felix Online V1
-id: "4062"
-old_path: /science/4062/inside-the-collider-a-review-of-the-new-exhibition
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4062/inside-the-collider-a-review-of-the-new-exhibition
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - kw911
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 You’re very lucky to see this,” a professor with a bright orange waistcoat and bow tie tells us. “Usually, only scientists are allowed at internal meetings.”

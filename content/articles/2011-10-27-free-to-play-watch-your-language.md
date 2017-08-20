@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Free-to-Play is often anything but. Laurence Pope debunks the idea that F2P games are a poor gamer’s wet dream
 date: "2011-10-27 23:25:52 +0100"
-
-# Attributes from Felix Online V1
-id: "1621"
-old_path: /games/1621/free-to-play-watch-your-language
+image: "http://felixonline.co.uk/img/upload/201110280021-felix-loadsamoney.jpg"
+image_caption: "Harry Enfield demonstrating how to be a well-prepared F2P gamer"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1621/free-to-play-watch-your-language
-imported: true
 comments:
  - value: >
      Comment's author: Holy08/13/07 04:21:00 AM老實說....我不知道是處男為什麼會讓人笑倒在地上<br><br>我沒跟台灣的留學生玩過真心話大冒險, 不過跟外國學生玩過類似的<br>他們也是問我類似的問題(看來全世界的人感興趣的事都一樣 XD , 我也<br>是回答我是處男<br>沒有人笑, 倒是有一個人說了一句話, 讓我們每個人都舉杯致敬....<br> 有些東西是你曾經擁有, 而一旦失去的就永遠拿不回來, 處男女就是其<br>中之一.... <br><br>台灣的夏天真的是又濕又熱....<br>我一直覺得男生適合活在在冬天, 而女生適合活在在夏天<br>男生要穿的好看, 有時要襯衫和外套....夏天完全不行<br>喔....還有要注意鞋子....因為女生 至少外國女生 會注意男生的鞋子<br>我曾經穿過一雙鞋子....前十個稱讚的裡面有九個是女的....剩的那一個<br>是gay....<br><br>
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -28,12 +26,6 @@ authors:
  - lap08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110280021-felix-loadsamoney.jpg"
-image_caption: ""
 ---
 
 Free-to-play games are exactly what they say on the tin – video games that don’t cost money to play. If this is what they truly were then I could wrap this article up right now, but unfortunately the rule ‘there’s no such thing as a free lunch’ still remains unbroken. Here’s why.

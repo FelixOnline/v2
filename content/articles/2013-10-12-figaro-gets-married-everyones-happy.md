@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Clara Clark Nevola on the Marriage of Figaro at the Royal Opera House
 date: "2013-10-12 00:06:18 +0100"
-
-# Attributes from Felix Online V1
-id: "3835"
-old_path: /arts/3835/figaro-gets-married-everyones-happy
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3835/figaro-gets-married-everyones-happy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - cfc111
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ￼What: Le Nozze Di Figaro Opera

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Hamza Shaikh undertakes a unique challenge during Ramadan in order to raise money for Sri Lankan schools
 date: "2011-10-08 18:12:46 +0100"
-
-# Attributes from Felix Online V1
-id: "1500"
-old_path: /news/1500/fast-times-for-charity
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1500/fast-times-for-charity
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The 18th century French philosopher Denis Diderot once said ‘Only passions, great passions, can elevate the soul to great things.’

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fencing grab the gold(s)
 date: "2010-01-14 19:24:16 +0000"
-
-# Attributes from Felix Online V1
-id: "37"
-old_path: /sport/37/fencing-grab-the-golds
+image: "http://felixonline.co.uk/img/upload/201001141921-rsp07-fencing.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/37/fencing-grab-the-golds
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - mb506
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001141921-rsp07-fencing.jpg"
-image_caption: ""
 ---
 
 It was a weekend of mixed fortunes for the IC fencing club at the BUCS individual championships in Nottingham. Held annually, the competition brings together the best university fencers from around the country. Last year Imperial had three podium finishes, with Hannah Bryars taking the gold in women’s foil. Could we do better this time?

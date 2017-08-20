@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her favourite spots in the German capital
 date: "2014-11-06 20:30:10 +0000"
-
-# Attributes from Felix Online V1
-id: "4789"
-old_path: /travel/4789/the-highlights-of-berlin
+image: "http://felixonline.co.uk/img/upload/201411062030-cj914-img_6887-copy.jpg"
+image_caption: "Enjoying a local Berliner beer with a book during the day"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/4789/the-highlights-of-berlin
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -25,12 +23,6 @@ authors:
  - ync111
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411062030-cj914-img_6887-copy.jpg"
-image_caption: ""
 ---
 
 It has been almost thirty years since the fall of the Berlin Wall when the capital of Germany finally became whole again. Left with gaping wounds on their landscape, the city has been reborn in an extraordinary way in the last three decades whilst embracing its cultural heritage.

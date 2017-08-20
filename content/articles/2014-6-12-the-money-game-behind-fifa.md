@@ -4,16 +4,13 @@ title: >
 subtitle: >
   From passionate Torcedores to angry protesters, where is FIFA taking us?
 date: "2014-06-12 13:42:26 +0100"
-
-# Attributes from Felix Online V1
-id: "4681"
-old_path: /comment/4681/the-money-game-behind-fifa
+image: "http://felixonline.co.uk/img/upload/201406121442-me1711-brazil.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4681/the-money-game-behind-fifa
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - jo313
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406121442-me1711-brazil.jpg"
-image_caption: ""
 ---
 
 The World Cup is starting and football fans will be delighted once more by one of the most important sports competitions in the globe. Fans all around the world are ready to support their favourite team and enjoy an event that takes place only once every four years. However, for many of us who love football, this year´s environment is not as festive as we would like. Protests, clashes between police and citizens, allegations of corruption, and Brazilian social problems, have overshadowed what should be a carnival in a country that has always been recognised as one of the most passionate about the sport. Even worse, FIFA, which is the international body that is expected to surveil the organisation, is largely responsible for this.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Children should not be denied the opportunity to learn first aid by an old man who has difficulties remembering his childhood
 date: "2015-11-27 14:22:06 +0000"
-
-# Attributes from Felix Online V1
-id: "5777"
-old_path: /comment/5777/filibuster-foils-first-aid--fair
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5777/filibuster-foils-first-aid--fair
-imported: true
 comments:
  - value: >
      I don't agree with the filibuster in principle -- I think it's inherently antidemocratic. But it's unreasonable not to expect the Government to use a parliamentary tactic which has been used by previous governments. It seems you think the filibuster is legitimate when used by your preferred political party but not when it it used by their opponents. <br> <br>The rest of your article seems to rest on copious ad-hominem attacks, "everyone who disagrees with me is stupid"-style reasoning, and a healthy dose of "Conservatives R evil" hysteria. <br> <br>It is in general a good idea that people should learn first aid. However, it is not the job of a government to make good ideas mandatory. If that were the case, alcohol and tobacco would be illegal and failure to exercise daily would be punishable by imprisonment. <br> <br>The much-needed reform of the education system under the last parliament freed schools from the mediocre hand of central government diktat and allowed thousands of institutions greater freedom in setting their ow
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Last Friday, a group of Conservative MPs killed a bill intended to make first aid training compulsory in state-run secondary schools by “talking it to death.”

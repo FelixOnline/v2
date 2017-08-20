@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Riaz Agahi examines albums from modern ambient’s greats
 date: "2013-10-25 00:29:50 +0100"
-
-# Attributes from Felix Online V1
-id: "3930"
-old_path: /music/3930/oneohtrix-point-hecker
+image: "http://felixonline.co.uk/img/upload/201310250129-felix-mus_sstudio.jpg"
+image_caption: "Tim Hecker and Oneohtrix Point Never"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3930/oneohtrix-point-hecker
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - ra2410
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250129-felix-mus_sstudio.jpg"
-image_caption: ""
 ---
 
 Tim Hecker and Oneohtrix Point Never are two of the most successful ambient musicians of recent times. Tim Hecker is widely famed for his immersive live performance, where he plays to an audience on a pitch black stage in a pitch black venue, putting all of the audience’s attention on the music and deservedly so. It’ll be a long time before I see a live performance more delightfully spine chilling than his hauntingly cathartic, distorted organ based performance at St. Giles in the Field last year.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Kadhim Shubber talks with the Luxembourger ahead of his appearance at Diggidy Dawg this Saturday
 date: "2012-06-07 22:29:10 +0100"
-
-# Attributes from Felix Online V1
-id: "2539"
-old_path: /music/2539/sun-glitters-flies-over-for-the-felix-music-night
+image: "http://felixonline.co.uk/img/upload/201206072328-felix-sun-glitters.jpeg"
+image_caption: "Did he fall asleep on those flowers or is he just hiding behind them? Is that poison ivy?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2539/sun-glitters-flies-over-for-the-felix-music-night
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +21,6 @@ authors:
  - ks607
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206072328-felix-sun-glitters.jpeg"
-image_caption: ""
 ---
 
 __Tell us a bit about yourself. Did you grow up in a musical household? What kind of music did you listen to growing up?__

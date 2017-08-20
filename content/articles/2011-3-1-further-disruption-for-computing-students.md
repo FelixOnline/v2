@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Server issues as rootkit investigation continues
 date: "2011-03-01 20:36:00 +0000"
-
-# Attributes from Felix Online V1
-id: "955"
-old_path: /news/955/further-disruption-for-computing-students
+image: "http://felixonline.co.uk/img/upload/201103012033-ks607-computin.jpg"
+image_caption: "There have been a string of ICT mishaps in past weeks"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/955/further-disruption-for-computing-students
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - ak6309
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103012033-ks607-computin.jpg"
-image_caption: ""
 ---
 
 Following the [recent root level security breach](http://felixonline.co.uk/?article=896) in the Department of Computing (DoC), sources have informed Felix that the [Computing Support Group](http://www.doc.ic.ac.uk/csg/) (CSG) endeavoured to successfully patch all affected physical lab machines, rendering them safe to access and free from keylogging or other malicious activities. The Secure Shell (SSH) service, taken down in order to prevent the vulnerability expanding, is being restored, with secure server shell4 providing students with external access to the lab machines.

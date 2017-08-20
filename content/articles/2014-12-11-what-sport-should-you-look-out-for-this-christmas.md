@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Kunal Wagle tells Felix about some of the best action over the holiday
 date: "2014-12-11 23:39:27 +0000"
-
-# Attributes from Felix Online V1
-id: "5044"
-old_path: /sport/5044/what-sport-should-you-look-out-for-this-christmas
+image: "http://felixonline.co.uk/img/upload/201412112339-cj914-_79407119_am2.jpg"
+image_caption: "Andy Murray will be hoping for a strong 2015"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5044/what-sport-should-you-look-out-for-this-christmas
-imported: true
 comments:
  - value: >
      Il est savoureux de lire les commentaires sur la mauvaise situation britannique puisque ce sont ces mÃªmes personnes qui critiquent le rÃ©sultat de Sarkozy !Quand je me regarde je me dÃ©sole mais quand je me compare je me co2srlen30;Maoio Draghi et the economist sont du mÃªme avis avec Hollande on court Ã  la catastrophe
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +26,6 @@ authors:
  - kmw13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412112339-cj914-_79407119_am2.jpg"
-image_caption: ""
 ---
 
 __Football__

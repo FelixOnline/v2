@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Head to The Book Club in Shoreditch for an evening of extreme 'artiness'
 date: "2010-11-11 20:20:40 +0000"
-
-# Attributes from Felix Online V1
-id: "332"
-old_path: /arts/332/thinking-drinking-and-nude-models--the-finest-of-fine-art
+image: "http://felixonline.co.uk/img/upload/201011112017-nm1010-drinking.jpg"
+image_caption: "Felix staff doing their best impression of arty people discussing literachacha..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/332/thinking-drinking-and-nude-models--the-finest-of-fine-art
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - jk708
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011112017-nm1010-drinking.jpg"
-image_caption: ""
 ---
 
 Now I know that for most people a night out consists of drinking and dancing followed by some form of fast food and a hangover that could slay a rhino. I must confess that I am all in favor of that plan in that precise order; however it’s taken another night out with the [Leonardo Fine Art Society](http://www.union.ic.ac.uk/arts/leonardo/) to show me that this isn’t necessarily the only way to do it.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Fears about central bank inflationism have now come to the UK. Will it cause the Bank of England to change course?
 date: "2011-02-24 19:48:13 +0000"
-
-# Attributes from Felix Online V1
-id: "870"
-old_path: /biz/870/will-the-boe-raise-its-rates
+image: "http://felixonline.co.uk/img/upload/201102241946-nm1010-boeboebo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/870/will-the-boe-raise-its-rates
-imported: true
 comments:
  - value: >
      Good point. I hadn't thgouht about it quite that way. :), <a href="http://www.pillsprix.com/">propecia generic prescription</a> 4277 <a href="http://www.acomedhelp.com/">acomplia for less</a> 680 <a href="http://www.20sipatru.net/propecia.html">propecia</a> :)
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -28,12 +25,6 @@ authors:
  - sa1908
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102241946-nm1010-boeboebo.jpg"
-image_caption: ""
 ---
 
 A mid growing concern over the Bank of England’s focus on and commitment to keeping its inflation targets, one more committee member joined calls to raise interest rates. According to minutes from the latest monetary policy meeting, three members now find “the case for removing some monetary stimulus” compelling.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   When machines can do all the things you can do, then what’s the point of us?
 date: "2016-03-04 11:42:49 +0000"
-
-# Attributes from Felix Online V1
-id: "6006"
-old_path: /tv/6006/robot-or-human
+image: "http://felixonline.co.uk/img/upload/201603041142-felix-1435070799_humans.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6006/robot-or-human
-imported: true
 comments:
  - value: >
      You've gotten the most effective internet websites <br>pokemongo http://pojelaime.org/blogs/post/808,You've gotten the most effective internet websites <br>pokemongo http://pojelaime.org/blogs/post/808,Aah, en Bestlite? Grymt snygg i alla fall! FÃse¶rrten sÃ¥ tror jag att jag Ã¤r kÃ¤r i ditt nya skrivbord ;) Ha en skÃ¶n lÃ¶rdag! Kram Linda,Aah, en Bestlite? Grymt snygg i alla fall! FÃse¶rrten sÃ¥ tror jag att jag Ã¤r kÃ¤r i ditt nya skrivbord ;) Ha en skÃ¶n lÃ¶rdag! Kram Linda
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -26,12 +23,6 @@ authors:
  - sa8713
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603041142-felix-1435070799_humans.jpg"
-image_caption: ""
 ---
 
 What does it mean to be a human? That’s the question Channel 4’s sci-fi show Humans dances around. Created by Sam Vincent and Jonathan Brackley, this show tells a compelling story with multi-layered characters.

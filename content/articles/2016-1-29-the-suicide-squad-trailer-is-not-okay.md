@@ -4,18 +4,15 @@ title: >
 subtitle: >
   This fan-boy isn't happy
 date: "2016-01-29 09:13:59 +0000"
-
-# Attributes from Felix Online V1
-id: "5844"
-old_path: /film/5844/the-suicide-squad-trailer-is-not-okay
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5844/the-suicide-squad-trailer-is-not-okay
-imported: true
 comments:
  - value: >
      Good site you have here <br>nhl 17 coins http://ballroomsceneradio.com/oxwall/blogs/post/1812#sthash.gKCOxB5l.hwOiXOpl.dpbs,Great internet site! It looks really professional! Sustain the helpful job! <br>nhl 17 coins http://www.psykosocial.com/forums/Main-Forum/2023/buy-nba-2k17-mt-nhl-09-determines-game-seven-in-the-capitals
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - cet13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 When it comes to the shortcomings of Marvel or DC’s cinematic output, as a self-confessed comic book fan-boy, I’m usually pretty forgiving. Unfortunately, the first official trailer for DC’s latest film, _Suicide Squad,_ which dropped last week, hints at a film with some serious flaws. It might only be a two-minute trailer, but the way it trivialises mental health and sexualises its female cast has me worried for its release this August.

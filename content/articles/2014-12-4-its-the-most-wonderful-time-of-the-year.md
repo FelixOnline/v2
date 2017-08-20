@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her top pick of upcoming festive activities in the UK
 date: "2014-12-04 19:01:49 +0000"
-
-# Attributes from Felix Online V1
-id: "4991"
-old_path: /travel/4991/its-the-most-wonderful-time-of-the-year
+image: "http://felixonline.co.uk/img/upload/201412080924-ps3110-shutterstock_74553967-665x445.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/4991/its-the-most-wonderful-time-of-the-year
-imported: true
 comments:
  - value: >
      I've been surfing on-line more than 3 hours these days, yet I by no means discovered any interesting article like yours. It is pretty worth sufficient for me. In my opinion, if all web owners and bloggers made excellent content as you probably did, the internet will likely be much more useful than ever before. <br>canada goose limburg 9gag http://www.amicitalia.nl/?nl-canada-goose-limburg-9gag-6176.html
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -28,12 +25,6 @@ authors:
  - ync111
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412080924-ps3110-shutterstock_74553967-665x445.jpg"
-image_caption: ""
 ---
 
 Every Christmas holiday, people are often tempted to go abroad, whether to visit famous Christmas markets or enjoy the festive vibes of the country.

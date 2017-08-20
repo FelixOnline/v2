@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Your hate should be aimed at ITV, not me
 date: "2011-11-03 21:39:46 +0000"
-
-# Attributes from Felix Online V1
-id: "1690"
-old_path: /comment/1690/a-response-to-all-of-the-critics
+image: "http://felixonline.co.uk/img/upload/201111032136-sjw209-george-barnett-cutout.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1690/a-response-to-all-of-the-critics
-imported: true
 comments:
  - value: >
      I've still not seen this television programme. Not only is there the review in Felix, but Alan Davies was bidden to watch it on "I've Never Seen Star Wars" (Radio 4, currently available on iPlayer http://www.bbc.co.uk/iplayer/episode/b014r5qh/Ive_Never_Seen_Star_Wars_Series_4_Alan_Davies/ ) but as no one has anything kind to say about it I am not sure what is to be gained by watching it. Can anyone help with this?
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111032136-sjw209-george-barnett-cutout.jpg"
-image_caption: ""
 ---
 
 I must say; I was rather taken aback by the hullabaloo caused by [my (somewhat overemphasised) opinions](http://felixonline.co.uk/tv/1521/jeremy-kyle-guests-should-cease-breeding/) when I reviewed the Jeremy Kyle show a few weeks ago, and for that, I extend my apologies to anyone who was offended by it. I have never professed to be any good at this writing malarkey – evidently my tongue-in-cheek style and exaggeration were not recognised by some people. Oh well!

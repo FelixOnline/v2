@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Leading rheumatology research centre moves to Oxford University
 date: "2011-01-20 21:30:00 +0000"
-
-# Attributes from Felix Online V1
-id: "647"
-old_path: /news/647/kennedy-institute-to-close-
+image: "http://felixonline.co.uk/img/upload/201101202114-ks607-kennedyi.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/647/kennedy-institute-to-close-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
  - yw3410
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101202114-ks607-kennedyi.jpg"
-image_caption: ""
 ---
 
 The [Kennedy Institute of Rheumatology](http://www1.imperial.ac.uk/medicine/divisions/kennedy/), one of the world’s leading research centres in rheumatology, currently housed within the Faculty of Medicine of Imperial College will be relocated to Oxford University in what Felix has been told is a sensitive matter for the Faculty.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Time will run away with you. It will skip, jump, come to a standstill with Marclay's new exhibition.
 date: "2010-11-04 18:14:25 +0000"
-
-# Attributes from Felix Online V1
-id: "292"
-old_path: /arts/292/marclays-24hr-masterpiece-
+image: "http://felixonline.co.uk/img/upload/201011041812-ks607-marclays.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/292/marclays-24hr-masterpiece-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - er310
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011041812-ks607-marclays.jpg"
-image_caption: ""
 ---
 
 Time will run away with you. It will skip, jump, come to a standstill, and even explode in front of your very eyes in [Christian Marclay’s](http://en.wikipedia.org/wiki/Christian_Marclay) ‘[The Clock](http://www.whitecube.com/exhibitions/cm/)’. Marclay has made a twenty-four hour film using snippets from movies that involve clocks and references to time. Every single minute of the day is mapped out using scenes from famous old and new movies. James Bond will surreptitiously tell you what time it is as he tracks some unknown person’s movements; at four o’clock bands of excited children run out of classrooms screaming as their teacher tells them to slow down; and I am almost sure I saw Kevin Spacey walk across the screen with a watch on his hand in a scene from The Usual Suspects.

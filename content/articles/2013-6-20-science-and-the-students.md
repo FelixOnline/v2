@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Philippa Skett takes a look at the scientific landmarks of this academic year
 date: "2013-06-20 23:18:54 +0100"
-
-# Attributes from Felix Online V1
-id: "3719"
-old_path: /science/3719/science-and-the-students-
+image: "http://felixonline.co.uk/img/upload/201306210017-tna08-easterisland02.jpg"
+image_caption: "The Easter Island statues drag themselves across the hill to queue in the Library Cafe"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3719/science-and-the-students-
-imported: true
 comments:
  - value: >
      Podobno jest już zakaz handlu tymi prktdouami. To dlaczego we wszystkich sklepach drogeryjnych i marketach wciąż na legalu tym handlują? Nie dość, że ciągle tym handlują (tym cierpieniem zwierząt), to jeszcze na dodatek co chwilę w telewizji są te produkty reklamowane. Ciągle tylko Timotey, L'oreal, Garnier i inne. Jakoś nikt się tym zakazem nie przejął, niestety ., Przynajmniej w teorii; w <a href="http://vnzuuip.com">prkacyte</a> pozostają wciąż furtki, przez ktf3re to prawo można obejść oraz kwestia jego egzekwowania Jakie są te wyjątki? proszę napiszcie coś o nich, chce byc swiadomą konsumentką.
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306210017-tna08-easterisland02.jpg"
-image_caption: ""
 ---
 
 __October__

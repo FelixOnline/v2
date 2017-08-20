@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Damage and theft on Medic RAG Pub Crawl
 date: "2013-02-08 01:24:19 +0000"
-
-# Attributes from Felix Online V1
-id: "3289"
-old_path: /news/3289/banned-from-ucl-union
+image: "http://felixonline.co.uk/img/upload/201302080123-tna08-uclunion.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3289/banned-from-ucl-union
-imported: true
 comments:
  - value: >
      How is this even news? Can felix please concentrate on some real issues rather than this non-issue. At this rate we'll be making the Daily Mail look like a respectable paper!,Classic UCL.,Poorly written. Did you forget to proof read?,Unless it was attractive girls that were stolen - something imperial is in dire need of - this is not news.,Wow. Next thing you'll know is that Felix will be reporting that students are stealing extra milk from McDonalds.,I fuound this aritcel quiet good. I don't no y peopel aer bashnig it.,How is this not news? <br>Imperial students are banned from UCL because of theft. Sounds like news to me. <br>Moron.,They were banned for one day! It probably took longer to write this article than the ban lasted,Seriously, this IS news. It's a big deal that they were banned - theft is not tolerated at imperial. If you're going to complain about this article then why don't you join FElix and stop being asses about it. Thanks,"A day will come when you think you're safe and happy and the joy will turn
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302080123-tna08-uclunion.jpg"
-image_caption: ""
 ---
 
 Imperial students were banned from the [University College London Union](http://uclu.org/) (UCLU) following accusations of criminal damage and theft by Medics RAG during their Circle Line Pub Crawl.

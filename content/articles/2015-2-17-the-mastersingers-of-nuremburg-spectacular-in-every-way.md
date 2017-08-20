@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Emiel de Lange examines whether the ENO can grapple with Wagner’s masterpiece
 date: "2015-02-17 16:34:43 +0000"
-
-# Attributes from Felix Online V1
-id: "5264"
-old_path: /arts/5264/the-mastersingers-of-nuremburg--spectacular-in-every-way
+image: "http://felixonline.co.uk/img/upload/201502171631-ps3110-6ef9fa56-2b78-4557-9c8b-66ca1465ce56-2060x1236.jpeg"
+image_caption: "Nicky Spence as David and Andrew Shore as Sixtus Beckmesser in Wagner’s The Mastersingers of Nuremberg at the London Coliseum. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5264/the-mastersingers-of-nuremburg--spectacular-in-every-way
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502171631-ps3110-6ef9fa56-2b78-4557-9c8b-66ca1465ce56-2060x1236.jpeg"
-image_caption: ""
 ---
 
 Hyperbole has never been my enemy, and I won’t shy from it now; Wagner’s _The Mastersingers of Nuremberg_ is one of the pinnacles of Western art. But works of such scope and breadth of vision are notoriously difficult, and expensive, to perform. Opera houses must offer enlarged orchestras, vast crowds of singer-actors, numerous sets, and the scores demand almost superhuman abilities from the principle cast. With this production, the __English National Opera__ has created something that delivers all this, and fully lives up to the mind-blowing depths of Wagner’s vision.

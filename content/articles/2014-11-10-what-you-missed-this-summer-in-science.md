@@ -4,16 +4,13 @@ title: >
 subtitle: >
   James Bezer covers the latest research from Imperial and beyond
 date: "2014-11-10 22:48:27 +0000"
-
-# Attributes from Felix Online V1
-id: "4848"
-old_path: /science/4848/what-you-missed-this-summer-in-science
+image: "http://felixonline.co.uk/img/upload/201411102248-ps3110-download.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4848/what-you-missed-this-summer-in-science
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102248-ps3110-download.jpeg"
-image_caption: ""
 ---
 
 As you put in your personal statement, ever since you were born, you’ve had a deep and passionate curiosity about the intriguing wonders of science. Why not put this to good use by writing for _Felix_?

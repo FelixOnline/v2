@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Ben Howitt reports on a successful five days of fundraising
 date: "2015-02-13 14:52:13 +0000"
-
-# Attributes from Felix Online V1
-id: "5254"
-old_path: /cands/5254/art-explosion-tops-off-icsm-rag-week
+image: "http://felixonline.co.uk/img/upload/201502131450-bwh12-legally-blonde-icsm.jpg"
+image_caption: "Sarah Hough performs as Elle from the musical version of Legally Blonde"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5254/art-explosion-tops-off-icsm-rag-week
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - bwh12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502131450-bwh12-legally-blonde-icsm.jpg"
-image_caption: ""
 ---
 
 The Imperial College School of Medicine Students’ Union (ICSMSU) presented an Arts Revue last Sunday, 8th February, to conclude what has been, by all accounts, a very successful Raising and Giving (RAG) week.

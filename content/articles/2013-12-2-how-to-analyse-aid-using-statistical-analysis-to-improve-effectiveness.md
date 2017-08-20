@@ -4,16 +4,13 @@ title: >
 subtitle: >
   So what is aid? Aid can come in many forms – such as military aid to help a country fight terrorists, or budgetary aid sent with no strings attached to bolster a government’s finances, or the cancelling of historic debts.
 date: "2013-12-02 13:11:22 +0000"
-
-# Attributes from Felix Online V1
-id: "4147"
-old_path: /features/4147/how-to-analyse-aid-using-statistical-analysis-to-improve-effectiveness
+image: "http://felixonline.co.uk/img/upload/201312031601-jal08-features_fmsc-food-distribution-kenya.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4147/how-to-analyse-aid-using-statistical-analysis-to-improve-effectiveness
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -25,12 +22,6 @@ authors:
  - rtf08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201312031601-jal08-features_fmsc-food-distribution-kenya.jpg"
-image_caption: ""
 ---
 
 There is probably no other question in economics that evokes such strong emotions and creates such a clear divide between left and right. To the left, the world’s poor are caught in a poverty trap; without the minimum resources to help them help themselves, they will never break out of this cycle. Aid, then, is clearly needed as a big push to kick things off. To the right, aid encourages dependency, distorts markets and props up nasty regimes – keeping the poor in their place. There is no sign of either side winning this battle. But subjecting individual aid projects to robust statistical analysis through randomised controlled trials (RCTs), modelled on medical trials, could provide a way out of the ideological mire.

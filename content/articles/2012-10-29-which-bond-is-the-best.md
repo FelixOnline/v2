@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix Film rates the Bonds to see who we think is the best. Let the arguments start...
 date: "2012-10-29 18:15:03 +0000"
-
-# Attributes from Felix Online V1
-id: "2775"
-old_path: /film/2775/which-bond-is-the-best
+image: "http://felixonline.co.uk/img/upload/201210291818-tna08-allbonds.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2775/which-bond-is-the-best
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210291818-tna08-allbonds.png"
-image_caption: ""
 ---
 
 ## 6. Roger Moore

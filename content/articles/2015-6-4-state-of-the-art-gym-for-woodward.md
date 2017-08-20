@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Kunal Wagle looks at the fitness centre planned for North Acton
 date: "2015-06-04 23:15:41 +0100"
-
-# Attributes from Felix Online V1
-id: "5596"
-old_path: /news/5596/state-of-the-art-gym-for-woodward
+image: "http://felixonline.co.uk/img/upload/201506050015-cj914-pulse-fitness.jpg"
+image_caption: "Imperial joins a list of over 500 institutions that have a Pulse Fitness gym."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5596/state-of-the-art-gym-for-woodward
-imported: true
 comments:
  - value: >
      Incredible, such a invaluable online site.| <br>cs go skins desert eagle http://talkaboutnba.beepworld.de/cheap-nba-2k16-mt-so-many-other-warriors-video-games-2016-04-13.htm?nocache=1460541352,You've gotten the most impressive web sites.| <br>csgo skins exploit http://www.lifeguarduniversity.com/forums/index.php?p=/discussion/23218/cs-go-skins-market-secret-reasons
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - kmw13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506050015-cj914-pulse-fitness.jpg"
-image_caption: ""
 ---
 
 A leading fitness equipment company has agreed a deal with Imperial College London to design and kit-out a new state of the art gym in the new Woodward halls in Acton. Pulse Fitness, who have also created gyms at 500 further and higher education institutions in the country, including King’s College London, London South Bank University, and Goldsmiths, aim to start the project in June 2015. The gym is estimated to take ten weeks to complete and is timed to open before the first year of students take up residence in the first week of October.

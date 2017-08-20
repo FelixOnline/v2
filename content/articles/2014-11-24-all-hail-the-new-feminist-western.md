@@ -4,18 +4,15 @@ title: >
 subtitle: >
   John Park reviews this modern take on a classic film genre
 date: "2014-11-24 12:49:22 +0000"
-
-# Attributes from Felix Online V1
-id: "4945"
-old_path: /film/4945/all-hail-the-new-feminist-western
+image: "http://felixonline.co.uk/img/upload/201411241249-ps3110-the-homesman-cmyk.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4945/all-hail-the-new-feminist-western
-imported: true
 comments:
  - value: >
      Greetings, good internet site you've gotten right now <br>nba 2k17 coins http://www.latinadream.com/member/blog_post_view.php?postId=19219
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411241249-ps3110-the-homesman-cmyk.jpg"
-image_caption: ""
 ---
 
 __Director: __Tommy Lee Jones

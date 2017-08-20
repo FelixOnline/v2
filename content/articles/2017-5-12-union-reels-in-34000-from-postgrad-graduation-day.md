@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Ka-ching!
 date: "2017-05-12 16:48:54 +0100"
-
-# Attributes from Felix Online V1
-id: "6941"
-old_path: /news/6941/union-reels-in-34000-from-postgrad-graduation-day
+image: "http://felixonline.co.uk/img/upload/201705121848-felix-11596490914_955791a7e2_o.jpg"
+image_caption: "That guy's crying after spending so much money just to hear his name being called out in a two hour ceremony at the Royal Albert Hall"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6941/union-reels-in-34000-from-postgrad-graduation-day
-imported: true
 comments:
  - value: >
      Tbf to College (and I am not one to normally praise them), although this article insinuates they're doing something wrong with their ticket pricing etc, I think we'd all agree that we'd prefer to graduate in the RAH than a dusty lecture hall. Free graduations = dusty lecture hall. Slightly pricey graduation = Royal Albert Hall. I choose the latter, and fake news/clickbait headlines (sorry Felix :P) should never detract from that fact.,Tbf to College (and I am not one to normally praise them), although this article insinuates they're doing something wrong with their ticket pricing etc, I think we'd all agree that we'd prefer to graduate in the RAH than a dusty lecture hall. Free graduations = dusty lecture hall. Slightly pricey graduation = Royal Albert Hall. I choose the latter, and fake news/clickbait headlines (sorry Felix :P) should never detract from that fact.,Tbf to College (and I am not one to normally praise them), although this article insinuates they're doing something wrong with their ticket pricin
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - ea3211
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705121848-felix-11596490914_955791a7e2_o.jpg"
-image_caption: ""
 ---
 
 Remember last week’s postgrad graduation day? It made the Union of ton of dough. The largest graduation ceremony to date which saw a record of 9,400 guests attend, brought Union shops and outlets a total of £34,715. That’s about 13 grand more than last year and eight grand more than the record year of 2015.

@@ -4,17 +4,14 @@ title: >
 subtitle: >
   Hannah Edmondson interviews Christopher Yates on the inspiration behind his university-set psychological thriller.
 date: "2013-12-19 20:52:33 +0000"
+image: "http://felixonline.co.uk/img/upload/201312192051-mtm10-bc1.png"
 draft: true
-
-# Attributes from Felix Online V1
-id: "4201"
-old_path: /arts/4201/drawn-in-black-chalk
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4201/drawn-in-black-chalk
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201312192051-mtm10-bc1.png"
-image_caption: ""
 ---
 
 It started out as a game to win £10,000, but the stakes were so much higher than expected.

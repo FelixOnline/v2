@@ -4,16 +4,13 @@ title: >
 subtitle: >
   More ICT trouble as students and staff lose access to files
 date: "2011-02-28 21:19:48 +0000"
-
-# Attributes from Felix Online V1
-id: "944"
-old_path: /news/944/1300-lose-home-directory-access
+image: "http://felixonline.co.uk/img/upload/201102282118-ks607-disconne.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/944/1300-lose-home-directory-access
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ak6309
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102282118-ks607-disconne.jpg"
-image_caption: ""
 ---
 
 A problem arising while moving user data between server disks last week resulted in the temporary outage of over 1300 student and staff profiles. The problem began on the morning of Monday 21st February, when staff and students found that their home directory was empty and that they had no profile settings. As a result, the default guest profile was used and the affected users were met with no desktop background or access to files on the Home Directory (H:/).

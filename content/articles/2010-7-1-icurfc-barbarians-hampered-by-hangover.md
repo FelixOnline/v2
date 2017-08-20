@@ -4,16 +4,13 @@ title: >
 subtitle: >
   ICURFC 2nd XV lose their first game due to hangovers, humidity and heat - Toby Spittle &amp; Jovan Nedic report from Kyoto, Japan
 date: "2010-07-01 02:01:04 +0100"
-
-# Attributes from Felix Online V1
-id: "148"
-old_path: /sport/148/icurfc-barbarians-hampered-by-hangover
+image: "http://felixonline.co.uk/img/upload/201007010212-jn104-JapanRug.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/148/icurfc-barbarians-hampered-by-hangover
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jn104
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201007010212-jn104-JapanRug.jpg"
-image_caption: ""
 ---
 
 Kyoto University RFC 2nd XV 34

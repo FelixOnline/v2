@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Meeting must have 200 people attend for it to meet quorum
 date: "2014-11-14 19:56:14 +0000"
-
-# Attributes from Felix Online V1
-id: "4860"
-old_path: /news/4860/council-to-call-general-meeting-to-discuss-higher-education-funding
+image: "http://felixonline.co.uk/img/upload/201411142016-ps3110-201111031936-pk1811-img_6818.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4860/council-to-call-general-meeting-to-discuss-higher-education-funding
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411142016-ps3110-201111031936-pk1811-img_6818.jpg"
-image_caption: ""
 ---
 
 Imperial College Union Council agreed to a Union General Meeting last Tuesday, only the second General Meeting in five years and the first under the new constitution change.

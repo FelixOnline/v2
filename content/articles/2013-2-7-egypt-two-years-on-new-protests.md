@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Padraic Calpin looks at the parallels in this Egyptian government and the last
 date: "2013-02-07 23:15:25 +0000"
-
-# Attributes from Felix Online V1
-id: "3256"
-old_path: /politics/3256/egypt-two-years-on-new-protests
+image: "http://felixonline.co.uk/img/upload/201302072315-tna08-mideast-egypt-.jpeg10-1280x960.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/3256/egypt-two-years-on-new-protests
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +21,6 @@ authors:
  - phc11
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302072315-tna08-mideast-egypt-.jpeg10-1280x960.jpg"
-image_caption: ""
 ---
 
 January 25th 2013 wasthe second anniversary of the Egyptian protests that led to the fall of the autocratic regime of Hosni Mubarak. Tahrir Square was once again filled with protesters, their anger now directed at the current elected President Mohamed Morsi, and the police who are accused of excessive violence in a series of clashes in recent months. Two years on, Egypt still seems to be on a precipice.

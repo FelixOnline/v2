@@ -4,18 +4,16 @@ title: >
 subtitle: >
   But you can go to the summer festival. Jovan Nedic takes a look at the debate over the new format of the Summer Ball
 date: "2011-05-05 23:48:48 +0100"
-
-# Attributes from Felix Online V1
-id: "1149"
-old_path: /news/1149/no-cinderella-you-shant-go-to-the-summer-ball
+image: "http://felixonline.co.uk/img/upload/201105060047-felix-5588442875_55120c11d4_o.jpg"
+image_caption: "Headliner Laura Marling"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1149/no-cinderella-you-shant-go-to-the-summer-ball
-imported: true
 comments:
  - value: >
      Just a point of clarification. The Ents Committee has more than three people on it, but it has only three elected students (other than Sabbs). The article could have been clearer, apologies.,Thanks for correcting me. It seems I did the old 'correct a mistake with another mistake'...,Would be good to notice that out of the 362 people that answered Yes/No whether they like the changes to the ball, a staggering 90% say they don't like it. <br> <br>If you coun't the 'Mehs' (ie people that are on the fence), 79% of respondents still don't like it. <br> <br>It's a joke that the union would rather have a stupid survey on bottled water rather than ask students what THEY want for the summer ball. A 3 person ents committee is hardly going to be able to echo the views of students, <br> <br>Union get these right: <br> <br>1. Most want the party to be OFFICIALLY black tie (so can't make it a daytime thing) <br>2. Most want to go into the night. Anyone who wants can stay as late as they want until the next day <br>3. Having it with other universities
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105060047-felix-5588442875_55120c11d4_o.jpg"
-image_caption: ""
 ---
 
 [The Summer Ball](http://www.thesummerball2011.com/), a chance for staff and students to celebrate the end of their exams (sorry Chemistry, Biochemistry, and Biology), the end of another academic year, and for some, the end of university life, has always been a highlight of the Imperial social calendar. However, when the details of the Ball were announced during the Easter holidays, the response was mixed and for some the radical changes to the format have changed their end-of-year ball into an end-of-year festival. In a comment echoed by many, one student wrote on Facebook: [‘It’s no longer a Ball’](https://www.facebook.com/permalink.php?story_fbid=125401997535280&id=516486102).

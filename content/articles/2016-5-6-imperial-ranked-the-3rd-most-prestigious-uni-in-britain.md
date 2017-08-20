@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Times Higher Education World Reputation Ranking came out this week
 date: "2016-05-06 09:43:45 +0100"
-
-# Attributes from Felix Online V1
-id: "6115"
-old_path: /news/6115/imperial-ranked-the-3rd-most-prestigious-uni-in-britain
+image: "http://felixonline.co.uk/img/upload/201605061043-felix-151019_ugcomm_052.jpg"
+image_caption: "Mate do you have a safety pin?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6115/imperial-ranked-the-3rd-most-prestigious-uni-in-britain
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061043-felix-151019_ugcomm_052.jpg"
-image_caption: ""
 ---
 
 Imperial has been named the university with the 3rd best reputation in the UK, and the 15th best in the world.

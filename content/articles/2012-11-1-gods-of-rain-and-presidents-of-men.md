@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Sandy has ravaged the Eastern coast of America, caused $20billion worth of damage and left millions of Americans without power. Alexander Soloviev discusses its impact on the presidential campaigns and next Tuesday’s vote.
 date: "2012-11-01 22:42:58 +0000"
-
-# Attributes from Felix Online V1
-id: "2790"
-old_path: /politics/2790/gods-of-rain-and-presidents-of-men
+image: "http://felixonline.co.uk/img/upload/201211012242-csw09-hurricane-sandy.jpg"
+image_caption: "A visual metaphor for Mit Romney's campaign"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2790/gods-of-rain-and-presidents-of-men
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211012242-csw09-hurricane-sandy.jpg"
-image_caption: ""
 ---
 
 Mother nature and the election campaigns seem to be syncing up: [hurricane Sandy](http://www.bbc.co.uk/news/world-us-canada-20131303) makes landfall just as the last week of campaigning is underway. But just what does this superstorm mean for the presidential hopefuls?

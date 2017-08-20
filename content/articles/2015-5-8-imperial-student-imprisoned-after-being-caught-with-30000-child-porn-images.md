@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Also found with life-size mannequin of a young boy
 date: "2015-05-08 00:15:12 +0100"
-
-# Attributes from Felix Online V1
-id: "5501"
-old_path: /news/5501/imperial-student-imprisoned-after-being-caught-with-30000-child-porn-images-
+image: "http://felixonline.co.uk/img/upload/201505080115-ps3110-screen-shot-2015-05-08-at-01.14.50.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5501/imperial-student-imprisoned-after-being-caught-with-30000-child-porn-images-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505080115-ps3110-screen-shot-2015-05-08-at-01.14.50.png"
-image_caption: ""
 ---
 
 A third year mathematics student has been sentenced to 18 months in jail after 30,000 images of child pornography were found on his laptop.

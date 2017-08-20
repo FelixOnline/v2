@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Suffering from a lack-spirited fearlessness, controversy and attitude, the withering genre of ‘Rock and Roll’ music is feared to be losing its roots and nearing its end
 date: "2011-01-20 20:32:04 +0000"
-
-# Attributes from Felix Online V1
-id: "628"
-old_path: /music/628/rock--roll-is-dead
+image: "http://felixonline.co.uk/img/upload/201101202028-nm1010-brmcbrmc.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/628/rock--roll-is-dead
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
  - pdr08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101202028-nm1010-brmcbrmc.jpg"
-image_caption: ""
 ---
 
 Black Rebel Motorcycle Club

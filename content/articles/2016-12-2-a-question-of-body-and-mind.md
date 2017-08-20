@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Maurice Zard explores the links between physical and mental disease
 date: "2016-12-02 13:59:04 +0000"
-
-# Attributes from Felix Online V1
-id: "6526"
-old_path: /science/6526/a-question-of-body-and-mind
+image: "http://felixonline.co.uk/img/upload/201612021358-felix-3792906411_ea1e22d31f_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6526/a-question-of-body-and-mind
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - mz2713
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612021358-felix-3792906411_ea1e22d31f_o.jpg"
-image_caption: ""
 ---
 
 An ever growing body of evidence is suggesting that depression,  and other forms of mental illness, can be linked with physical conditions like bowel and skin diseases. While it’s clear that mental disorders are associated with a higher incidence of physical conditions, how generalized (over a range of physical health outcomes) these associations are is far less clear.

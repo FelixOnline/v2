@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Multimillion pound redevelopment “significantly worsened” student facilities
 date: "2015-12-04 15:07:37 +0000"
-
-# Attributes from Felix Online V1
-id: "5790"
-old_path: /news/5790/beit-basement-project-deemed-inferior
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5790/beit-basement-project-deemed-inferior
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A report, commissioned on behalf of Imperial College Union, described work completed on Beit’s west basement as having created a facility “considered to be very much inferior to that which existed before, with a significant portion of it being unusable.”

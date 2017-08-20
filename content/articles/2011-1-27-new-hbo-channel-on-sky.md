@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The most respected network in the US launches this week in the UK as Sky Atlantic. To celebrate, over the next couple of issues we will take a look at some of HBO’s greats
 date: "2011-01-27 20:13:52 +0000"
-
-# Attributes from Felix Online V1
-id: "688"
-old_path: /tv/688/new-hbo-channel-on-sky-
+image: "http://felixonline.co.uk/img/upload/201101272011-ks607-truelboo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/688/new-hbo-channel-on-sky-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101272011-ks607-truelboo.jpg"
-image_caption: ""
 ---
 
 __The Wire__

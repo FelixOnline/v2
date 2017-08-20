@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Padraic and Polona go to a show. Not exciting when said like that...
 date: "2012-11-01 23:09:21 +0000"
-
-# Attributes from Felix Online V1
-id: "2812"
-old_path: /music/2812/king-krule-live
+image: "http://felixonline.co.uk/img/upload/201211012309-tna08-king-krule.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2812/king-krule-live
-imported: true
 comments:
  - value: >
      Da, Polona este. M-am uitat pe norc.ro si acolo, chiar dupa actualizare, Ernest Brosteanu, Dorobanti, Dacia si altlee se intersecteaza cu Floreasca. O greseala mare care m-a indus si pe mine in eroare. Cum te duci spre Polona este ultimul, sau penultimul, pe dreapta. Nu mai stiu cate etaje are. Astea sunt lucruri care imi scapa cand incerc sa ochesc placute si inscrisuri. Mai am una tot din zona. Adrian, am gasit o casa deosebita pe care nu stiu cum sa o identific. Arata prea bine ca sa nu fie de renume. Bine, nu e singura... Cerzi ca ma poti ajuta?,Da, Polona este. M-am uitat pe norc.ro si acolo, chiar dupa actualizare, Ernest Brosteanu, Dorobanti, Dacia si altlee se intersecteaza cu Floreasca. O greseala mare care m-a indus si pe mine in eroare. Cum te duci spre Polona este ultimul, sau penultimul, pe dreapta. Nu mai stiu cate etaje are. Astea sunt lucruri care imi scapa cand incerc sa ochesc placute si inscrisuri. Mai am una tot din zona. Adrian, am gasit o casa deosebita pe care nu stiu cum sa o identific
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -29,12 +26,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211012309-tna08-king-krule.jpg"
-image_caption: ""
 ---
 
 King Krule, a lonely rider of the current music scene, the only one that is really talking about being in pain (his own words), is the alias of an 18-year old South Londoner, Archie Marshall, accompanied on stage by a bassist, drummer, saxophonist and guitarist. Archie first caught people’s eye last year with the track ‘Out Getting Ribs’, and a self-titled EP that blended jazzy, dissonant chords and the emotional ache of the blues with spoken words of existential discontent.

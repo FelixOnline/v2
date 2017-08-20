@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Another good reason not to sleep in the library
 date: "2015-02-09 19:34:02 +0000"
-
-# Attributes from Felix Online V1
-id: "5223"
-old_path: /science/5223/all-nighters-might-not-be-such-a-good-idea
+image: "http://felixonline.co.uk/img/upload/201502091933-ps3110-screen-shot-2015-02-09-at-19.33.51.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5223/all-nighters-might-not-be-such-a-good-idea
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - ps3110
  - ur13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502091933-ps3110-screen-shot-2015-02-09-at-19.33.51.png"
-image_caption: ""
 ---
 
 It’s coming up to that time of year again where a lot of us start to panic and furiously try to catch up with all the lectures we’ve been procrastinating in since last October. However, is pulling all-nighters for the last few weeks leading up to exams really worth our while?

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Our regular column on classic academy snubs you might have missed
 date: "2016-01-29 09:13:04 +0000"
-
-# Attributes from Felix Online V1
-id: "5843"
-old_path: /film/5843/the-top-three-oscar-snubs-not-involving-dicaprio
+image: "http://felixonline.co.uk/img/upload/201601290912-felix-EZlFQPT.gif"
+image_caption: "Better luck next time, hun."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5843/the-top-three-oscar-snubs-not-involving-dicaprio
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - bsc14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201601290912-felix-EZlFQPT.gif"
-image_caption: ""
 ---
 
 Well it looks like the drought is finally over. After putting out several arguably ‘Oscar-worthy’ performances Leonardo DiCaprio may finally be awarded his long awaited and joked-about Oscar. We have Alejandro G. Iñárritu and _The Revenant_ to thank for this. However, whilst DiCaprio is the most famous repeat snubée the Academy has a history of some seriously massive blunders (*cough* _Chicago_). Let’s look at some other examples:

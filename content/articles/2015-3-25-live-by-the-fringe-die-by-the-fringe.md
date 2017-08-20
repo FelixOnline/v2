@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Grace Rahman takes us through the five best bangs in pop music
 date: "2015-03-25 12:32:15 +0000"
-
-# Attributes from Felix Online V1
-id: "5430"
-old_path: /music/5430/live-by-the-fringe-die-by-the-fringe
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5430/live-by-the-fringe-die-by-the-fringe
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - ygr12
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Long before Kate Moss brought the fringe back into the mainstream in 2007, these indie babes were rocking some seriously vision-impairing styles. Forget Cara Delevingne; where we’re going there are no eyebrows. It’s not about seeing the audience anyway, as long as they can see your fringe and you can see your guitar, and the rain doesn’t hit it, you’re away.

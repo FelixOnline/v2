@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Rhodri Oliver urges you to reject this "miserable little compromise"
 date: "2011-04-24 11:29:03 +0100"
-
-# Attributes from Felix Online V1
-id: "1137"
-old_path: /comment/1137/reject-the-alternative-vote-av-system
+image: "http://felixonline.co.uk/img/upload/201104241232-felix-5574880690_ce82521bff_b.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1137/reject-the-alternative-vote-av-system
-imported: true
 comments:
  - value: >
      This is so preposterous I won't attempt to debunk the lies, instead please see this excellent analysis http://gowers.wordpress.com/2011/04/20/is-av-better-than-fptp/,1 Is never a reason not to do something. Just because something is unpopular does not mean it isn't good, or at least better than what we have now. The reason few countries use AV is that most skipped that stage and went straight to PR. Which you Tories didn't want. AV, however, is the preferred method when electing a single candidate for a postion. All three major parties use it to elect their leaders, and Imperial uses it (technically STV with oen winner, which is equivalent to AV) to elect Union positions, such as the President, Deputy President, or, say, SCC Chair. <br>2. Coalitions work well in most European countries, and the negotiations and dealings between the parties help to ensure the party represents a cross section of the nation's views, not just one portion of the electorate. Giving the government a smaller majority is also a go
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104241232-felix-5574880690_ce82521bff_b.jpeg"
-image_caption: ""
 ---
 
 If you want to make Nick Clegg’s day because he is your favourite politician then vote YES to the Alternative Vote (AV). Or you can choose to reject this "miserable little compromise" (to quote Mr Clegg) as the political stitch-up it is.

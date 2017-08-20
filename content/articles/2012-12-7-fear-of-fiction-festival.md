@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lily Le heads west, clinging to the festival dream
 date: "2012-12-07 03:35:53 +0000"
-
-# Attributes from Felix Online V1
-id: "3064"
-old_path: /music/3064/fear-of-fiction-festival
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3064/fear-of-fiction-festival
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - lwl09
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The only magazine to focus on Bristol’s music scene threw a giant street party before winter started to settle in and thwart all endeavours of extending the festival season. Of course, Felix was invited. Set along Stokes Croft - which could be deemed a mini ‘Hoxditch’ of Bristol - bars, cafés, and cinemas showcased exciting up-and-coming artists.

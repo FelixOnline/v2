@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ben Spencer-Jones runs in slow motion
 date: "2013-02-14 19:28:37 +0000"
-
-# Attributes from Felix Online V1
-id: "3325"
-old_path: /sport/3325/bucs-points-galore-for-icbc-in-boston
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3325/bucs-points-galore-for-icbc-in-boston
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - fsport
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ICBC’s high performance contingent made the ever dreary trip to Boston on Saturday 9th February and came out with some good results, hopefully putting them in the mixer for international selection this year. BUCS small boats head was also incorporated into the GB trials, so Imperial athletes were racing for Sport Imperial glory as well!

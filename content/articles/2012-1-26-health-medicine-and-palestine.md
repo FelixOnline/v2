@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Palestinian Society report on a talk by Gaza volunteer Dr. Mads Gilbert
 date: "2012-01-26 22:24:13 +0000"
-
-# Attributes from Felix Online V1
-id: "2061"
-old_path: /news/2061/health-medicine-and-palestine
+image: "http://felixonline.co.uk/img/upload/201201262224-pk1811-409502_349633678382237_248420458503560_1381176_302468328_n.jpg"
+image_caption: "Dr. Gilbert spoke on the relationship between medicine and politics"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2061/health-medicine-and-palestine
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - pk1811
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201262224-pk1811-409502_349633678382237_248420458503560_1381176_302468328_n.jpg"
-image_caption: ""
 ---
 
 Imperial College Palestinian Society had the privilege of hosting a talk by Dr. Mads Gilbert last Friday. Dr. Gilbert, a renowned Norwegian doctor, volunteered in Gaza in 2009; at a time when Gaza was under a dreadful invasion.

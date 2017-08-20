@@ -4,16 +4,14 @@ title: >
 subtitle: >
   John Park reviews This Means War
 date: "2012-03-08 21:53:12 +0000"
-
-# Attributes from Felix Online V1
-id: "2329"
-old_path: /film/2329/two-spies-who-love-me
+image: "http://felixonline.co.uk/img/upload/201203082152-ams111-reesethismeanswar.jpg"
+image_caption: "I spy...with my little eye...something beginning with H..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2329/two-spies-who-love-me
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203082152-ams111-reesethismeanswar.jpg"
-image_caption: ""
 ---
 
 [__This Means War__](http://www.imdb.com/title/tt1596350/)

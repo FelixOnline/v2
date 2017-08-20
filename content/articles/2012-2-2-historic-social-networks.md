@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The concept of social networking is not as modern as you may think.
 date: "2012-02-02 19:23:17 +0000"
-
-# Attributes from Felix Online V1
-id: "2087"
-old_path: /science/2087/historic-social-networks
+image: "http://felixonline.co.uk/img/upload/201202021921-ams111-facebook.jpg"
+image_caption: "A map of social connectivity"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2087/historic-social-networks
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - slb210
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202021921-ams111-facebook.jpg"
-image_caption: ""
 ---
 
 We normally think of social networks as a modern-day phenomenon: Facebook, Twitter etc. come to mind. But according to recent research published in Nature, ancient societies may have been organised along much the same lines.

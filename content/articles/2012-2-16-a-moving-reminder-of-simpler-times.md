@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A look back at Le Petit Nicolas – Goscinny and Sempé’s nostalgic masterpiece
 date: "2012-02-16 21:07:56 +0000"
-
-# Attributes from Felix Online V1
-id: "2184"
-old_path: /books/2184/a-moving-reminder-of-simpler-times
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2184/a-moving-reminder-of-simpler-times
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -23,12 +20,6 @@ authors:
  - mtm10
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I know what you’re thinking – surely this can’t be a review of a series of children’s stories in Felix. Well, if the television section can review My Little Pony I can review the Nicholas books. Indeed, while it can classified as children’s literature, I for one think that the main appeal of the series is for adults.

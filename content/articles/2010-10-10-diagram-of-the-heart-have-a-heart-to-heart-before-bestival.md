@@ -4,16 +4,13 @@ title: >
 subtitle: >
   At the heart of Imperial on the weekend, all diagrams were out of mind save the endlessly energetic Diagram of the Heart. They shared their love of ginger-nut biscuits before playing Bestival this summer
 date: "2010-10-10 15:27:13 +0100"
-
-# Attributes from Felix Online V1
-id: "189"
-old_path: /music/189/diagram-of-the-heart-have-a-heart-to-heart-before-bestival
+image: "http://felixonline.co.uk/img/upload/201010101626-ks607-Diagramo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/189/diagram-of-the-heart-have-a-heart-to-heart-before-bestival
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - lht09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010101626-ks607-Diagramo.jpg"
-image_caption: ""
 ---
 
 A small band with big sounds, they are a London-based electronic duo who have enough energy to outrun the energizer bunny. They’re on the road to be quite the big deal. Here’s what Kye and Anthony had to say before they performed at Bestival this summer.

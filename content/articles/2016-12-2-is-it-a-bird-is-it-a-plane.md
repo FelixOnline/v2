@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Yeah, it’s a plane
 date: "2016-12-02 16:45:15 +0000"
-
-# Attributes from Felix Online V1
-id: "6550"
-old_path: /sport/6550/is-it-a-bird-is-it-a-plane-
+image: "http://felixonline.co.uk/img/upload/201612021644-felix-1.JPG"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6550/is-it-a-bird-is-it-a-plane-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612021644-felix-1.JPG"
-image_caption: ""
 ---
 
 How long can you stay in the air without an engine? In a glider, anything is possible.

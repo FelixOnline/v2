@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The battle lines are set, does Fairtrade actually help anyone? Or is it just a funny cartoon of a person holding a stick or something...
 date: "2013-05-22 14:27:15 +0100"
-
-# Attributes from Felix Online V1
-id: "3596"
-old_path: /comment/3596/does-fairtrade-actually-work
+image: "http://felixonline.co.uk/img/upload/201305221527-tna08-fairtrade-mark.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3596/does-fairtrade-actually-work
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - jh3609
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305221527-tna08-fairtrade-mark.jpg"
-image_caption: ""
 ---
 
 Yes

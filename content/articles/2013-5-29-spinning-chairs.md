@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Stephanie Walton voices her opinions on the BBC’s talent show
 date: "2013-05-29 15:30:25 +0100"
-
-# Attributes from Felix Online V1
-id: "3631"
-old_path: /tv/3631/spinning-chairs
+image: "http://felixonline.co.uk/img/upload/201305291630-tna08-the-voice-march-2013.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/3631/spinning-chairs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +21,6 @@ authors:
  - skw10
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305291630-tna08-the-voice-march-2013.jpg"
-image_caption: ""
 ---
 
 Some people really can sing. And I don’t just mean in tune with a token crescendo or diminuendo. I mean with style and true feeling.

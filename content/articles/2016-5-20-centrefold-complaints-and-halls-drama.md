@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This week's letters page
 date: "2016-05-20 08:52:32 +0100"
-
-# Attributes from Felix Online V1
-id: "6175"
-old_path: /comment/6175/centrefold-complaints-and-halls-drama
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6175/centrefold-complaints-and-halls-drama
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 **In response to Issue 1633 Centrefold (netball)**

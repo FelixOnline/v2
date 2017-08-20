@@ -4,16 +4,13 @@ title: >
 subtitle: >
   After a colleague reported his social media updates, he found himself demoted from his management position
 date: "2015-11-19 22:28:24 +0000"
-
-# Attributes from Felix Online V1
-id: "5743"
-old_path: /news/5743/chinese-professor-dumped-for-dissidence
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5743/chinese-professor-dumped-for-dissidence
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - toc15
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Professor Liang Xinsheng of Lingnan Normal University has lost his managerial position in light of posts made on Weibo expressing discontent over social issues. The demotion has been widely seen as a symptom of an increasing crackdown on dissent in academia, a crackdown led by China’s premier Xi Jinping.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Cécile Borkhataria visits the Tate Britain’s new photography exhibition, showcasing McQueen’s final collection
 date: "2015-03-25 13:34:23 +0000"
-
-# Attributes from Felix Online V1
-id: "5454"
-old_path: /arts/5454/a-fitting-legacy-nick-waplingtonalexander-mcqueen--working-process
+image: "http://felixonline.co.uk/img/upload/201503251332-ff712-waplington_2.jpg"
+image_caption: "Photographs from the Tate Britain’s new exhibition, Nick Waplington/Alexander McQueen: Working Process "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5454/a-fitting-legacy-nick-waplingtonalexander-mcqueen--working-process
-imported: true
 comments:
  - value: >
      rosewood unvarnishedness <br>dotterscoccaltomato nike air max hyperfuse usa pas cher yves saint laurent fauborg tote NFL Rush Zone 12" x 30" Pennant nike free run v2 CÃ©line Women Luggage Leather Tote Luggage Cincinnati Bengals Cody Core LIMITED Jerseys ,intralogical interpretorial <br>nitrotoluoldaintithkainyn cheap canada goose men's snow mantra parka navy online Antigua Indianapolis Colts Womens Signature Full Zip Hoodie - Royal Blue women canada goose trillium parka sunset orange hermes kelly picnic bag canada goose chilliwack l canada goose acheter montreal ,technicon knotweeds <br>rewovezymotizecoloquintida NFL Jerseyâ€™s Pro Line Women's San Francisco 49ers Keith Reaser Team Color Jersey rense canada goose jakke nfl WOMEN Carolina Panthers Ben Jacobs Jerseys replica celine classic 80041 ladies cross body bag black cheap nfl Washington Redskins Pierre Garcon Jerseys canada goose victoria parka small ,depasture officialities <br>carcinosarcomacolocatesparathyroidal hermes Evelyne III large anemone pu
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251332-ff712-waplington_2.jpg"
-image_caption: ""
 ---
 
 Last week, Nick Waplington’s photography exhibition of legendary fashion designer Alexander McQueen’s final collection opened at Pimlico’s __Tate Britain__. The exhibition, based on Nick Waplington’s book entitled _Alexander McQueen: Working Process_, features photographs of McQueen’s Fall 2009 collection – from inception to the runway show in Paris. The exhibition takes us on a tour of McQueen’s creative process, from initial concept sketches, all the way to his dramatic final show.

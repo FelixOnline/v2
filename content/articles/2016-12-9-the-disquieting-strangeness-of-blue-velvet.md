@@ -4,16 +4,13 @@ title: >
 subtitle: >
   David Lynch’s Blue Velvet, being reissued for the 30th anniversary this month, introduced the world to the themes that would run through the director’s work for the next three decades. A stunning world of glamour and grime, Blue Velvet is a masterpiece.
 date: "2016-12-09 15:51:10 +0000"
-
-# Attributes from Felix Online V1
-id: "6584"
-old_path: /film/6584/the-disquieting-strangeness-of-blue-velvet
+image: "http://felixonline.co.uk/img/upload/201612091550-felix-6bfb4bda9934d113f85f5ddd17a4491c.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6584/the-disquieting-strangeness-of-blue-velvet
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - ff712
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612091550-felix-6bfb4bda9934d113f85f5ddd17a4491c.png"
-image_caption: ""
 ---
 
 Degraded, slapped around, humiliated and undressed in front of the camera” wrote Roger Ebert, esteemed American film reviewer, of Isabella Rossellini’s performance in David Lynch’s 1986 film Blue Velvet. “When you ask an actress to endure those experiences, you should keep your side of the bargain by putting her in an important film.” Ebert’s feelings on the film – which were resoundingly negative – were unchanged up until his death in 2013, but clearly many people disagree: last week saw the re-release of the 30th anniversary edition of Blue Velvet. Today, Blue Velvet stands among one of the greatest films of the 1980s, and marked a turning point in David Lynch’s illustrious and beguiling career. Call it masochistic, pretentious, or even misogynistic if you want – just don’t call it unimportant.

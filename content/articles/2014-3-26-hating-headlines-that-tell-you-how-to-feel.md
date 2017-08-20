@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Old people have always had it in for BBC3. Unlike the sleepy old BBC4, home of gentle documentaries presented by the lovely Lucy Worsley, BBC3 is an overactive puppy, full of rebellion and naïve excitement that spends most of its spare time engaged in an act of passion with the living room furniture
 date: "2014-03-26 13:23:44 +0000"
-
-# Attributes from Felix Online V1
-id: "4499"
-old_path: /comment/4499/hating-headlines-that-tell-you-how-to-feel
+image: "http://felixonline.co.uk/img/upload/201403261324-jal08-little_britain.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4499/hating-headlines-that-tell-you-how-to-feel
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - jb3112
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201403261324-jal08-little_britain.jpg"
-image_caption: ""
 ---
 
 Old people have always had it in for BBC3. Unlike the sleepy old BBC4, home of gentle documentaries presented by the lovely Lucy Worsley, BBC3 is an overactive puppy, full of rebellion and naïve excitement that spends most of its spare time engaged in an act of passion with the living room furniture. The elderly mention it with disgust as a classic example of the shocking behaviours of the ‘youth of today’. To many observers, then, it has come as no surprise that BBC big-wigs, most of them old and bald enough to benefit from a big wig, have decided that this little puppy should be put down.

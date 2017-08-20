@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Careers Service is back with tips on how to bag yourself a Postgrad position.
 date: "2013-10-25 01:11:11 +0100"
-
-# Attributes from Felix Online V1
-id: "3950"
-old_path: /features/3950/postgraduate-study-is-it-for-you
+image: "http://felixonline.co.uk/img/upload/201310250211-felix-careers_graduation.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/3950/postgraduate-study-is-it-for-you
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250211-felix-careers_graduation.png"
-image_caption: ""
 ---
 
 Every year, approximately 30% of Imperial College undergraduates go on to further study, so we know it’s a popular option. But what do you need to know and how do you make the best choice of course and institution?

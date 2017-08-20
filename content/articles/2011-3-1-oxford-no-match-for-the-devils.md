@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial Devils B’s 4, Oxford Women’s 1. B Team make it a clean sweep for Imperial Ice Hockey
 date: "2011-03-01 21:33:48 +0000"
-
-# Attributes from Felix Online V1
-id: "973"
-old_path: /sport/973/oxford-no-match-for-the-devils
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/973/oxford-no-match-for-the-devils
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - wm207
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Devils B were psychologically strong going into last Wednesday's game against Oxford Women's. Despite an overall mixed season and a previous game close loss to Bristol (4-3), the Devils had reaped the benefits of match experience and knew Oxford was a team they could and should beat. Playing on home turf was also significant as Oxford only brought two lines so the Devils would have the advantage of numbers.

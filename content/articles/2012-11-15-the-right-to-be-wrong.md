@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Pietro Aronica and our prerogative of wrongness
 date: "2012-11-15 22:17:13 +0000"
-
-# Attributes from Felix Online V1
-id: "2913"
-old_path: /comment/2913/the-right-to-be-wrong
+image: "http://felixonline.co.uk/img/upload/201211152216-tna08-wrong-waysign.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2913/the-right-to-be-wrong
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - pa07
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211152216-tna08-wrong-waysign.jpg"
-image_caption: ""
 ---
 
 Have you been wrong today? Have you failed at basic logic at least once since breakfast? Have you propagated a myth or notion that despite its spuriousness has persisted through laziness and avoidance of fact-checking? Have you done your duty as a human being and exercised your right as a citizen?

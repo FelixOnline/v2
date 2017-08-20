@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Philip Kurukgy looks into the research that earned them the recognition
 date: "2015-05-21 20:15:38 +0100"
-
-# Attributes from Felix Online V1
-id: "5549"
-old_path: /news/5549/two-imperial-professors-receive-awards-from-the-royal-society-of-chemistry
+image: "http://felixonline.co.uk/img/upload/201505212114-kmw13-rsc-prof.jpeg"
+image_caption: "Professor Kazarian with his team"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5549/two-imperial-professors-receive-awards-from-the-royal-society-of-chemistry
-imported: true
 comments:
  - value: >
      birkenstock sydney <br>birkenstock arizona sandals http://birkenstockaustraliamalls.com/,christian louboutin wedges shoes <br>christian louboutin outlet store http://canadachristianlouboutinoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - pnk14
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505212114-kmw13-rsc-prof.jpeg"
-image_caption: ""
 ---
 
 The Royal Society of Chemistry has recognised two Imperial professors for their world-leading research. Professor Sergei Kazarian from the Department of Chemical Engineering and Professor Elaine Holmes from the Department of Surgery and Cancer have received the awards in the light of new discoveries in the field of concentration measurement, which will improve the effectiveness of pharmaceuticals and medicine.

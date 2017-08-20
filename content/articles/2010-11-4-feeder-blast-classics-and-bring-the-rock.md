@@ -4,16 +4,13 @@ title: >
 subtitle: >
   They came, they played, and everyone had a really good time. Can you really ask for more?
 date: "2010-11-04 18:32:26 +0000"
-
-# Attributes from Felix Online V1
-id: "300"
-old_path: /music/300/feeder-blast-classics-and-bring-the-rock-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/300/feeder-blast-classics-and-bring-the-rock-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - osw09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 After the quickest devouring of a Nandos chicken you have ever seen, my plus one and I hopped over to watch Feeder play at [Shepherds Bush Empire](http://www.o2shepherdsbushempire.co.uk/), one of London’s most iconic and surprisingly intimate venues.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Listen to an account. Step into his shoes, walk around in them. Don’t forget.
 date: "2013-01-18 00:03:22 +0000"
-
-# Attributes from Felix Online V1
-id: "3125"
-old_path: /news/3125/holocaust-memorial-day-at-ic
+image: "http://felixonline.co.uk/img/upload/201301180000-tna08-berlin_holocaust_memorial.jpg"
+image_caption: "The Holocaust Memorial in Berlin"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3125/holocaust-memorial-day-at-ic
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301180000-tna08-berlin_holocaust_memorial.jpg"
-image_caption: ""
 ---
 
 On the evening of this coming Thursday 24th of January we, at Imperial College, will have the honour and the privilege to hear the account of Mr Yisrael Abelesz, a survivor of the Aushwitz-Birkenau concentration camp, to tell us his experiences on the occasion of Holocaust Memorial Day and answer our questions.

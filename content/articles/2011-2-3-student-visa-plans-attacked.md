@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Government’s visa proposals like “using a slegehammer to crack a nut”
 date: "2011-02-03 19:29:49 +0000"
-
-# Attributes from Felix Online V1
-id: "715"
-old_path: /news/715/student-visa-plans-attacked-
+image: "http://felixonline.co.uk/img/upload/201102031927-ks607-damiangr.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/715/student-visa-plans-attacked-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - yw3410
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102031927-ks607-damiangr.jpg"
-image_caption: ""
 ---
 
 Listen carefully. Do you hear that? That is the sound of the seismic shift in government policy which will define the higher education sector for the next decade. And, worryingly, it does not sound good.

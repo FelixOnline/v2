@@ -4,16 +4,13 @@ title: >
 subtitle: >
   “Ed is as ineffective as a Facebook status update”
 date: "2010-12-12 14:32:27 +0000"
-
-# Attributes from Felix Online V1
-id: "554"
-old_path: /politics/554/weakness-plagues-british-politics-but-not-top-gear-
+image: "http://felixonline.co.uk/img/upload/201012121431-ks607-cmaeron.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/554/weakness-plagues-british-politics-but-not-top-gear-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +21,6 @@ authors:
  - cb403
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012121431-ks607-cmaeron.jpg"
-image_caption: ""
 ---
 
 Britain’s political leaders are having a rough December. As three wise men steadily travel from the East to a barn in Bethlehem with gifts of gold, myrrh, and frankincense, it seems that we at home have been left to cope with three vain stooges that can only offer broken pledges, little international presence, and noticeable inexperience.

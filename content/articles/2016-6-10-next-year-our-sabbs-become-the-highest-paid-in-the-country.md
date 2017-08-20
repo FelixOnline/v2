@@ -4,18 +4,16 @@ title: >
 subtitle: >
   But they may actually be worse off than this year’s group, and here’s why
 date: "2016-06-10 08:23:23 +0100"
-
-# Attributes from Felix Online V1
-id: "6253"
-old_path: /features/6253/next-year-our-sabbs-become-the-highest-paid-in-the-country
+image: "http://felixonline.co.uk/img/upload/201606101022-felix-dolla.jpg"
+image_caption: "Dolla dolla bills y'all."
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6253/next-year-our-sabbs-become-the-highest-paid-in-the-country
-imported: true
 comments:
  - value: >
      well the trustee board sound like the thing the green paper was referring to when it was chatting about opaque and unnacountable student unions,well the trustee board sound like the thing the green paper was referring to when it was chatting about opaque and unnacountable student unions,well the trustee board sound like the thing the green paper was referring to when it was chatting about opaque and unnacountable student unions,well the trustee board sound like the thing the green paper was referring to when it was chatting about opaque and unnacountable student unions,@musicfan: The trustee board meets the legal requirement for ICU - as a charity - to have a board of trustees or directors ensuring it complies with the law, remains financially sound, and fulfils it's obligations to whatever charitable endeavour for which it was founded.<br>The agenda for the January meeting referenced in the article are available [1] on the Union website; as are the minutes from that meeting [2].<br>[1] - https://www.imperialcoll
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -28,12 +26,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606101022-felix-dolla.jpg"
-image_caption: ""
 ---
 
 Next year’s sabbs, who were elected in March and take up their roles officially this August, will, on paper, become the best-paid full-time sabbatical officers in the country. They’ll have jumped from fourteenth highest-paid sabbs to the highest, beating last year’s highest, LSE, who pay a modest £26,582 a year. Technically, these officer trustee roles are getting a £10,000 or so pay rise in the space of one year (from £20,160 this year to £29,800). It sounds like a lot, but it’s only slightly higher than the 2013 figures for the average Imperial grad’s starting salary (£29,200). If you look at what the current sabbs get in terms of a remuneration package, next year’s cohort may actually be getting a worse deal.

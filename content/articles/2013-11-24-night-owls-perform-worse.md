@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Amrita Ghosh & Arya Mehta explain why all-nighters aren’t wise
 date: "2013-11-24 16:02:59 +0000"
-
-# Attributes from Felix Online V1
-id: "4107"
-old_path: /science/4107/night-owls-perform-worse
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4107/night-owls-perform-worse
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - am7911
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Many of us think that staying up late at night gives us more time to be productive; however, a recent study at UC Berkeley has shown that ‘night owls’ perform worse academically and emotionally in the long run.

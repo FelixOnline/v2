@@ -4,16 +4,13 @@ title: >
 subtitle: >
   An anonymous student shares their story of the damage done by misconceptions about consent
 date: "2016-11-11 14:00:08 +0000"
-
-# Attributes from Felix Online V1
-id: "6424"
-old_path: /comment/6424/no-one-helped-no-one-understood
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6424/no-one-helped-no-one-understood
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - icanon
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I don’t know if this is the place to share my story, but with so many sexual assault happenings being opened up and spoken about, I feel like I should say something.

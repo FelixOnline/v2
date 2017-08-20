@@ -4,18 +4,15 @@ title: >
 subtitle: >
   But Chris Bowers examines whether it is all that it is cracked up to be
 date: "2011-06-23 20:25:00 +0100"
-
-# Attributes from Felix Online V1
-id: "1422"
-old_path: /tech/1422/augmented-reality-is-here
+image: "http://felixonline.co.uk/img/upload/201106232125-felix-augmented_reality_-_heads_up_display_concept.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/1422/augmented-reality-is-here
-imported: true
 comments:
  - value: >
      I agree. It helps that games help drive technology like AR. The ever-increasing specs of PC games have been driinvg the speed of computers higher while bringing down the costs.,Church services have been<a href="http://qufojbr.com"> ccnealled</a> for this evening, due to the road conditions and frigid temperatures. So, TPSJ YOUth will be meeting on the “Post Party Page” for a devotional time together at 7pm! Please be prepared to share a favorite or meaningful scripture from the Bible, and a little about what it means to you!
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106232125-felix-augmented_reality_-_heads_up_display_concept.jpg"
-image_caption: ""
 ---
 
 Just what is augmented reality? I was at an augmented reality conference recently and the best definition was this: “Augmented reality is an integration of the real world with computer graphics that you can interact with.”

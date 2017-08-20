@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Riaz Agahi examines a few new(ish) releases
 date: "2013-11-08 09:57:49 +0000"
-
-# Attributes from Felix Online V1
-id: "4038"
-old_path: /music/4038/embarrassments-or-riches
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4038/embarrassments-or-riches
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - ra2410
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Sergio Sorrentino & Machinefabriek

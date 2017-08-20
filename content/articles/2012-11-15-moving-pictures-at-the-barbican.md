@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Lily Le goes on an emotional and interesting journey
 date: "2012-11-15 21:25:51 +0000"
-
-# Attributes from Felix Online V1
-id: "2895"
-old_path: /arts/2895/moving-pictures-at-the-barbican-
+image: "http://felixonline.co.uk/img/upload/201211152125-tna08-nails.jpg"
+image_caption: "© Boris Mikhailov"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2895/moving-pictures-at-the-barbican-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211152125-tna08-nails.jpg"
-image_caption: ""
 ---
 
 Everything is, has been, and always will be, moving. Memories of these movements shape our worlds. They metamorphose into nostalgia, sometimes even for times and places we have never physically accessed. Obsessions with an idealised past are manifested through the way in which we portray our world today; we usecommodities such as retro-style clothing or the Instagram app.

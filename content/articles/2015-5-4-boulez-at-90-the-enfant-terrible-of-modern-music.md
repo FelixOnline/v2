@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Emiel de Lange explores the new musical vocabulary of one of the 20th Century’s most controversial composers
 date: "2015-05-04 16:22:43 +0100"
-
-# Attributes from Felix Online V1
-id: "5488"
-old_path: /music/5488/boulez-at-90-the-enfant-terrible-of-modern-music
+image: "http://felixonline.co.uk/img/upload/201505041722-ps3110-201504051350-km2612-tumblr_mz1ze5vzzv1rk7b35o1_1280.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5488/boulez-at-90-the-enfant-terrible-of-modern-music
-imported: true
 comments:
  - value: >
      Techcheat â€¢ 1 year, 2 months ago Do I download 4.3.3 IPSW? As in my iphone is not showing as a disk drive so I cant browse to the phone and point it to the Ipohones IPSW as per your post.Another dumb question is if all I care about is activating and I have a gevey, why would I want to jailbreak? What would be the benefits and the ne.vtiaesgMany many thanks.
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505041722-ps3110-201504051350-km2612-tumblr_mz1ze5vzzv1rk7b35o1_1280.jpg"
-image_caption: ""
 ---
 
 Pierre Boulez is _the _controversial figure at the forefront of musical development in the 20th Century. Though equally respected by his enemies as by his supporters, a certain stubbornness and radicalism has alienated many. For instance, in 1952 he declared in one fell swoop half of the musical world as useless, in 1967 that opera houses should be blown up, and in 1971 he advocated for the destruction of the Mona Lisa.

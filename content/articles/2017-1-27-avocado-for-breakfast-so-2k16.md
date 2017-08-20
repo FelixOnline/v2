@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Firedog is on a mission to revamp the hipster breakfast, causing panic amongst avocado growers worldwide. Enter a morning realm of grilled halloumi, Sujuk and Lor.
 date: "2017-01-27 17:38:26 +0000"
-
-# Attributes from Felix Online V1
-id: "6703"
-old_path: /food/6703/avocado-for-breakfast-so-2k16
+image: "http://felixonline.co.uk/img/upload/201701271736-felix-IMG_7331.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6703/avocado-for-breakfast-so-2k16
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - yyl114
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701271736-felix-IMG_7331.jpg"
-image_caption: ""
 ---
 
 Mezze. A word meaning a selection of small appetizers. And a word that I have recently started noticing following a sharing plates trend that has finally hit the London food scene. After some hearty meals, I have adjusted my taste buds (and stomach) to this wonderful dining culture home to Turkey, Greece and the Middle East.

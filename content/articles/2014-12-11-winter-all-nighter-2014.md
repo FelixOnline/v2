@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial Cinema invites you to their termly All-Nighter
 date: "2014-12-11 20:59:27 +0000"
-
-# Attributes from Felix Online V1
-id: "5032"
-old_path: /film/5032/winter-all-nighter-2014
+image: "http://felixonline.co.uk/img/upload/201412112059-cj914-mockingjay-cmyk.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5032/winter-all-nighter-2014
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - ffilm
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412112059-cj914-mockingjay-cmyk.jpg"
-image_caption: ""
 ---
 
 As is Imperial tradition, once again it is time for the hallowed All-Nighter where once a term we put on all the films you’ve been dying to see, all in one go and for ridiculous prices! With one of our best lineups to date, what more could you ask for?

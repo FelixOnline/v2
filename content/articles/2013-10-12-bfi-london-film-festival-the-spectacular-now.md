@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park reviews "The Spectacular Now"
 date: "2013-10-12 19:10:40 +0100"
-
-# Attributes from Felix Online V1
-id: "3848"
-old_path: /film/3848/bfi-london-film-festival-the-spectacular-now
+image: "http://felixonline.co.uk/img/upload/201310122010-jal08-film_spectacular.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3848/bfi-london-film-festival-the-spectacular-now
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310122010-jal08-film_spectacular.jpg"
-image_caption: ""
 ---
 
 __The Spectacular Now__

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Noted author dies of cancer
 date: "2013-06-13 22:33:33 +0100"
-
-# Attributes from Felix Online V1
-id: "3678"
-old_path: /books/3678/death-of-an-icon--iain-banks-
+image: "http://felixonline.co.uk/img/upload/201306132333-tna08-banks2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3678/death-of-an-icon--iain-banks-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - mtm10
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306132333-tna08-banks2.jpg"
-image_caption: ""
 ---
 
 Noted author Iain Banks has died aged 59. In a message released on Sunday, June 9, his wife said: “Iain died in the early hours this morning. His death was calm and without pain.”

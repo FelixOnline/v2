@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A look at the information our browsing gives away and how we're not as anonymous as you might think
 date: "2010-03-04 12:33:34 +0000"
-
-# Attributes from Felix Online V1
-id: "117"
-old_path: /tech/117/your-digital-footprint
+image: "http://felixonline.co.uk/img/upload/201003041217-srg03-Hacker.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/117/your-digital-footprint
-imported: true
 comments:
  - value: >
      So how anonymous is this comment?
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -26,12 +23,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201003041217-srg03-Hacker.jpg"
-image_caption: ""
 ---
 
 It's a common misconception that when you're on the Internet, you're anonymous. Surfing along, happily not giving away any personal data; it's hard to imagine how you could be recognisable amongst the vast sea of people browsing online. In fact, your computer gives away a wealth of information about you to every single website you visit. For web developers, this data can be invaluable in making interesting, dynamic websites, but it can also be used to build up a picture of who you are and where you come from.

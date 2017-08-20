@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Paul Balaji looks at the Moto 360 which the US firm hopes will turn heads this Christmas
 date: "2014-11-24 12:56:51 +0000"
-
-# Attributes from Felix Online V1
-id: "4946"
-old_path: /tech/4946/its-no-razr-but-motorola-are-back-on-the-map
+image: "http://felixonline.co.uk/img/upload/201411241256-ps3110-moto360paul-website.jpg"
+image_caption: "The Moto 360 supports Android Wear meaning it's default interface is very customisable"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4946/its-no-razr-but-motorola-are-back-on-the-map
-imported: true
 comments:
  - value: >
      Your hoetsny is like a beacon
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +26,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411241256-ps3110-moto360paul-website.jpg"
-image_caption: ""
 ---
 
 The Moto 360 is one of the first Android Wear devices to launch this year, amongst the LG G Watch and Samsung Gear variants. Sporting a round face and elegant design, it is one of this year’s most highly desired gadgets. At £199 it’s also one of the more expensive, but the combination of Google’s software and Motorola’s hardware make it the smartwatch to buy.

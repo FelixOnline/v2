@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Their union recently said it would ban “something like a colour” if it offended students
 date: "2016-01-29 08:46:44 +0000"
-
-# Attributes from Felix Online V1
-id: "5835"
-old_path: /news/5835/lse-students-start-free-speech-society
+image: "http://felixonline.co.uk/img/upload/201601290846-felix-LSE_main_entrance.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5835/lse-students-start-free-speech-society
-imported: true
 comments:
  - value: >
      Great looking internet site. Assume you did a lot of your ownyour very own coding <br>2k16 coins http://bblythephyllis.ghost.io/welcome-to-my-blog/,Я уже посмотрел этот фильм на нормальном сайте, просто супер, не зря его так долго ждал! <br>Кто ещё не видел, смотрим здесь, ребята - HD17.RU,Я уже посмотрел этот фильм на нормальном сайте, просто супер, не зря его так долго ждал! <br>Кто ещё не видел, смотрим здесь, ребята - HD17.RU,Я уже посмотрела этот фильм на нормальном сайте, просто супер, не зря его так долго ждала! <br>Кто ещё не видел, смотрим здесь, ребята - GO.HD17.RU
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201601290846-felix-LSE_main_entrance.jpg"
-image_caption: ""
 ---
 
 Students at the school have started a ‘Free Speech Society’ due to what they call the “growing sense of censorship” on campus.

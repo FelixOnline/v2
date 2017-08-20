@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The global bee decline is endangering more than just our multi-million honey industry. With bees being the predominant and certainly the most economically significant pollinator, we literally can’t afford to lose them. Bee enthusiast Sarah Barfield Marks talks bees and what you can do to help them.
 date: "2017-02-17 15:09:12 +0000"
-
-# Attributes from Felix Online V1
-id: "6789"
-old_path: /science/6789/helping-out-a-bee-in-need
+image: "http://felixonline.co.uk/img/upload/201702171509-felix-8437256809_9aecae81ed_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6789/helping-out-a-bee-in-need
-imported: true
 comments:
  - value: >
      Just a smiling visitant here to share the love (:, btw great pattern. &amp;lisuo;&amp;nbqp;Competation is a painful thing, but it produces great results. » by Jerry Flint.,Just a smiling visitant here to share the love (:, btw great pattern. &amp;lisuo;&amp;nbqp;Competation is a painful thing, but it produces great results. » by Jerry Flint.,Just a smiling visitant here to share the love (:, btw great pattern. &amp;lisuo;&amp;nbqp;Competation is a painful thing, but it produces great results. » by Jerry Flint.
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702171509-felix-8437256809_9aecae81ed_o.jpg"
-image_caption: ""
 ---
 
 Over the past few years, discussion of the rapid decline of bee populations has intensified. Every week there seems to be another alarming headline implying that honeybee population decline is something we should care about. Do bees truly impact the world as we know it? Wouldn’t we do just fine without them? Exploring the subjects that bees have mastered may be a good way to start answering those questions.

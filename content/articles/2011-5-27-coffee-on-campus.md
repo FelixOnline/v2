@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Not everyone is that fussed it would seem
 date: "2011-05-27 14:05:28 +0100"
-
-# Attributes from Felix Online V1
-id: "1276"
-old_path: /food/1276/coffee-on-campus
+image: "http://felixonline.co.uk/img/upload/201105271505-felix-img_4469.jpg"
+image_caption: "Last resort?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1276/coffee-on-campus
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - vj05
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105271505-felix-img_4469.jpg"
-image_caption: ""
 ---
 
 I was going to dazzle you all with a review of a restaurant this week but seeing the almost prolific response we received to [our coffee article last week](http://felixonline.co.uk/food/1216/please-sir-where-can-i-find-good-coffee/) I thought I would join in with the conversation. It seems when it comes to our caffeinated sustenance we all have rather exacting standards and I would not expect anything less than that from any true coffee aficionado.

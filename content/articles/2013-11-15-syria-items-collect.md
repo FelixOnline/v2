@@ -4,16 +4,13 @@ title: >
 subtitle: >
   There is an items collection for an aid convoy that will be leaving for Syria next weekend. This is an opportunity for you to directly make a difference to people’s lives!
 date: "2013-11-15 11:46:40 +0000"
-
-# Attributes from Felix Online V1
-id: "4088"
-old_path: /features/4088/syria-items-collect-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4088/syria-items-collect-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 There is an items collection for an aid convoy that will be leaving for Syria next weekend. This is an opportunity for you to directly make a difference to people’s lives! Old clothes will be used to generate funds and new ones will be sent to Syria. The Union is also helping and we have a drop off point at the Union reception. There are more details on the website.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   What do you do when the child you have looked after for the last 6 years turns out to be someone else’s?
 date: "2013-11-15 11:36:55 +0000"
-
-# Attributes from Felix Online V1
-id: "4084"
-old_path: /film/4084/like-father-like-son
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4084/like-father-like-son
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - ff712
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Like Father Like Son

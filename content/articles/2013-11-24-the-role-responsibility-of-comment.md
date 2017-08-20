@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Comment sections across a broad variety of newspapers all share a common thread. The bulk of their published material will prove emotive for a sizeable portion of its readership...
 date: "2013-11-24 16:06:28 +0000"
-
-# Attributes from Felix Online V1
-id: "4109"
-old_path: /comment/4109/the-role--responsibility-of-comment
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4109/the-role--responsibility-of-comment
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - ejt11
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Comment sections across a broad variety of newspapers all share a common thread. The bulk of their published material will prove emotive for a sizeable portion of its readership. Individuals may empathise with views expressed in a given article. Others may be offended. On occasion a given issue may catalyse universal approval or (as one has come to appreciate in the past seven days) disavowal of its material. In context of a parochial University community consisting of a spectrum of nationalities, ideals and beliefs (such as Imperial College London) the margins for error are slight. In light of this I wish to briefly examine the boundaries for the Comment section.

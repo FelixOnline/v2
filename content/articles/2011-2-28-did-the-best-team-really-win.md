@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Riaz Agahi comments on why he thinks the Carling Cup result was a loss for football
 date: "2011-02-28 21:37:02 +0000"
-
-# Attributes from Felix Online V1
-id: "950"
-old_path: /sport/950/did-the-best-team-really-win
+image: "http://felixonline.co.uk/img/upload/201102282136-ks607-somefoot.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/950/did-the-best-team-really-win
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ra2410
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102282136-ks607-somefoot.jpg"
-image_caption: ""
 ---
 
 Picture the scene: despite a good performance from Birmingham, Arsenal grind out a 3-1 result. I collect £45 from a bet, Arsenal collect their first trophy since 2005 and play the rest of the season free from pressure, knocking Barcelona out of the Champion’s League and bringing the title race into the last day of the season, all because of the confidence created by a simple cup win.

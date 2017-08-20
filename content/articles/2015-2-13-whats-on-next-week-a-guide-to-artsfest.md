@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A short guide to the events taking place next week.
 date: "2015-02-13 14:41:55 +0000"
-
-# Attributes from Felix Online V1
-id: "5253"
-old_path: /cands/5253/whats-on-next-week--a-guide-to-artsfest
+image: "http://felixonline.co.uk/img/upload/201502131442-bwh12-8489844811_41d871f599_o.jpg"
+image_caption: "IC Big Band will play from Queen's Tower on Monday"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5253/whats-on-next-week--a-guide-to-artsfest
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -25,12 +23,6 @@ authors:
  - jdm11
  - scq11
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502131442-bwh12-8489844811_41d871f599_o.jpg"
-image_caption: ""
 ---
 
 __Big Band on the Tower__

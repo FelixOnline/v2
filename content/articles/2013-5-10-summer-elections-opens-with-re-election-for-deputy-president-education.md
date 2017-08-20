@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Officer positions up for grabs, along with the chance of a full time Sabb
 date: "2013-05-10 17:47:26 +0100"
-
-# Attributes from Felix Online V1
-id: "3564"
-old_path: /news/3564/summer-elections-opens-with-re-election-for-deputy-president-education
+image: "http://felixonline.co.uk/img/upload/201305101847-pk1811-unknown.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3564/summer-elections-opens-with-re-election-for-deputy-president-education
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305101847-pk1811-unknown.jpeg"
-image_caption: ""
 ---
 
 The annual Summer Elections have come around once again, with nominations for the various Council Officers, Council Chair, and positions of the Graduate Student's Union, the new name of the GSA.

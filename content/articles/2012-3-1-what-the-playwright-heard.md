@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alex Morton takes to the Soho Theatre for their current offering
 date: "2012-03-01 22:19:03 +0000"
-
-# Attributes from Felix Online V1
-id: "2286"
-old_path: /arts/2286/what-the-playwright-heard
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2286/what-the-playwright-heard
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - cac111
  - felart
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 With any absurd, wildly fantastic or outrageous anecdote about the world beyond our experiences, it is all too easy to dismiss it as an urban myth. The three men in their make-shift lounge dance between light-hearted, ludicrous and downright disturbingly macabre tales, and it doesn’t matter whether the tales being told are true or not. The audience is absorbed and captivated by their delivery, as much as the content. In fact it just so happens that most of these anecdotes are, at least in part, true.

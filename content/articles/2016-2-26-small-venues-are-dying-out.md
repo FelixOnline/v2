@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Something must be done
 date: "2016-02-26 11:50:58 +0000"
-
-# Attributes from Felix Online V1
-id: "5972"
-old_path: /music/5972/small-venues-are-dying-out
+image: "http://felixonline.co.uk/img/upload/201602261150-felix-100club.jpg"
+image_caption: "One of the many clubs at risk of shutting down. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5972/small-venues-are-dying-out
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +21,6 @@ authors:
  - pm1912
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261150-felix-100club.jpg"
-image_caption: ""
 ---
 
 Over the past decade, London has lost over forty percent of its small music venues, and it is a similar story around the country. Notorious venues such as the Sheffield Boardwalk have already closed, which saw greats such as **The** **Clash**, **Sex Pistols**, and **Arctic Monkeys** play there at the beginning of their respective careers. Many more small venues are at a risk of shutting down, like the 100 Club on Oxford Street and the Troubadour on Old Brompton Road, which has gone up for sale.

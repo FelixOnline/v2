@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Thousands to refuse work related to publisher over profit-making tactics
 date: "2012-02-03 00:14:09 +0000"
-
-# Attributes from Felix Online V1
-id: "2118"
-old_path: /news/2118/academics-to-boycott-elsevier-journals-
+image: "http://felixonline.co.uk/img/upload/201202030006-sjw209-img_9118.jpg"
+image_caption: "Academics have voiced their disapproval with Elsevier’s methods"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2118/academics-to-boycott-elsevier-journals-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - pk1811
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202030006-sjw209-img_9118.jpg"
-image_caption: ""
 ---
 
 Following [a damning blog post](http://gowers.wordpress.com/2012/01/21/elsevier-my-part-in-its-downfall/) by Cambridge mathematician Professor Tim Gowers, nearly 3,000 academics have signed an online pledge to cease all work with [Elsevier](http://www.elsevier.com/wps/find/homepage.cws_home), a Dutch journal publishing house responsible for many publications including [_The Lancet_](http://www.thelancet.com/).

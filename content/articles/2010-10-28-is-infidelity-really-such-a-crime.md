@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Can you imagine getting chucked out of university because of your personal life?
 date: "2010-10-28 19:48:21 +0100"
-
-# Attributes from Felix Online V1
-id: "278"
-old_path: /comment/278/is-infidelity-really-such-a-crime-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/278/is-infidelity-really-such-a-crime-
-imported: true
 comments:
  - value: >
      Well said. It's ridiculous that people should lose their jobs over infidelity. Not being able to keep it in your pants is hardly a sign that you're incapable of dribbling a ball, or trending the corridors of power or anything else for that matter. It just shows you're unhappy with your relationship and it either needs ending or at least a bit of work.,Infidelity. A hugely dramatised word. Some people say "when it happens to me I will..." And some would say " If you feel your relationship getting stale, either work on it, or end it." But don't forget life isn't a simple equation. There is not a single rule to decide what's right. Infidelity is so dramatised on TV and books nowadays, that people in it can't think straight anymore. Onlookers may judge, they may give advice. But deep down only the two person who's involved in it know what's best for them. What matters is whether you have come out of the tunnel a better person.,Who has lost a job over infidelity anyway? John Terry or an Imperial professor?
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Our society pours so much scorn onto cheaters. After public outcry, [John Terry was stripped of the England captaincy](http://news.bbc.co.uk/sport1/hi/football/8495604.stm) because of his infidelity. Can you imagine getting chucked out of university because of your personal life?

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   One thing you need to know about GTAs: awkward is our speciality
 date: "2014-05-16 01:58:09 +0100"
-
-# Attributes from Felix Online V1
-id: "4602"
-old_path: /comment/4602/confessions-of-a-gta-part-15
+image: "http://felixonline.co.uk/img/upload/201402101957-jal08-old_unicorn.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4602/confessions-of-a-gta-part-15
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - gta
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201402101957-jal08-old_unicorn.jpg"
-image_caption: ""
 ---
 
 GTAs can be pretty cool people: we’re trying to save the world with the power of our minds, we know an awful lot of answers to tutorial questions, and we drink quite a lot. We also quite like to know the undergrads, as they drink a lot too and they seem to like it when we try to help them with things, quite unlike our supervisors. However, this does lead to some awkward situations that we are not given any guidance on. Maybe we are overthinking it, not being particularly socially adept after all, but here are just a few challenges we come across:

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This is not the first time a psilocybin study is conducted at Imperial
 date: "2016-05-20 09:06:23 +0100"
-
-# Attributes from Felix Online V1
-id: "6182"
-old_path: /science/6182/funky-fungal-psychedelic-aint-all-bad-depression-study-finds
+image: "http://felixonline.co.uk/img/upload/201605201106-felix-5619954191_611ee1c86b_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6182/funky-fungal-psychedelic-aint-all-bad-depression-study-finds
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ea3211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605201106-felix-5619954191_611ee1c86b_o.jpg"
-image_caption: ""
 ---
 
 Boomers, silly cybin, caps, little smoke, cubes, musk, silly putty, sherm, simple simon, god’s flesh, shrooms. Psilocybin fungi go by many names, but they’re more commonly known as magic mushrooms. These humble fungi are predominantly used recreationally as entheogens (what a word), substances that induce psychological or physiological changes, often used in a religious, or spiritual context. Users claim they can induce euphoria, synesthesia, alter the way we think and perceive time, and generally aid at the journey towards transcendence. In other words they’re a hallucinogen that will send you on a pretty psychedelic trip. All in all, there is general consensus that shrooms are pretty strong stuff, which explains why they're illegal in most countries around the world

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Looking back at IC.HACK, the developer argues in favour of gamers making their own games
 date: "2011-03-10 20:36:00 +0000"
-
-# Attributes from Felix Online V1
-id: "1073"
-old_path: /games/1073/make-games-its-important
+image: "http://felixonline.co.uk/img/upload/201103032114-ks607-ichackic.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1073/make-games-its-important
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - mtc06
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103032114-ks607-ichackic.jpg"
-image_caption: ""
 ---
 
 _To read about making your own game, click [Day 1 – Starting](http://felixonline.co.uk/games/903/ever-wanted-to-make-games/), [Day 2 – AI](http://felixonline.co.uk/games/934/when-in-doubt-leave-it-out/), [Day 3 – Art and Sound](http://felixonline.co.uk/games/965/game-developers-dont-need-to-draw/), [Day 4 – Creating Levels](http://felixonline.co.uk/?article=988) or [Day 5 – Debugging](http://felixonline.co.uk/?article=1022)_

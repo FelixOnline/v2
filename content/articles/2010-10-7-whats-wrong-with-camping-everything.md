@@ -4,18 +4,16 @@ title: >
 subtitle: >
   All waterproofs are waterproof. The million-dollar question is for how long?
 date: "2010-10-07 22:57:31 +0100"
-
-# Attributes from Felix Online V1
-id: "182"
-old_path: /comment/182/whats-wrong-with-camping-everything
+image: "http://felixonline.co.uk/img/upload/201104181152-felix-4845436294_7e683729ec_b.jpg"
+image_caption: "Eugh... "
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/182/whats-wrong-with-camping-everything
-imported: true
 comments:
  - value: >
      nothing wrong with camping but something is definitely wrong with .... and then he started to raise his voice calling me for everything. <br>____________ <br>Nikolas. <br><a href="http://www.caravanmarket.com.au" rel="dofollow">caravan sales</a>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - rjd08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104181152-felix-4845436294_7e683729ec_b.jpg"
-image_caption: ""
 ---
 
 I don’t know what you got up to with your summer. Maybe you went home, met up with some old friends and took it easy. Maybe you took off around the world in a glamorous jet-set holiday. Maybe you engaged in a whirlwind fling of summer romance (like a forest-fire, it was short-lived but passionate and not the least bit legal). I don’t know; I’m just guessing.

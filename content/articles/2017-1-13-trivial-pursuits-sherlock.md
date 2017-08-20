@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sherlock’s always hotly anticipated new years debut proved disapointing this year. A lukewarm mytery made for boring watching. So why couldn’t TV’s darling detective find his footing this year?
 date: "2017-01-13 14:43:46 +0000"
-
-# Attributes from Felix Online V1
-id: "6647"
-old_path: /tv/6647/trivial-pursuits--sherlock
+image: "http://felixonline.co.uk/img/upload/201701131443-felix-1480701024-sherlock-season-4.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6647/trivial-pursuits--sherlock
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ad4013
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701131443-felix-1480701024-sherlock-season-4.jpg"
-image_caption: ""
 ---
 
 After last year’s somewhat disappointing bait and switch, Sherlock has finally returned with a full season this holiday period. The Six Thatchers picks up immediately where we left off at the end of the previous episode, with the government leaping into action over Moriarty’s seeming return. The episode, however, quickly distances itself from this plot line, as if the writers had realised that they’d backed themselves into a corner by needing to constantly raise the stakes.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Cramming for exams can give you infectious habits
 date: "2011-05-20 05:49:56 +0100"
-
-# Attributes from Felix Online V1
-id: "1228"
-old_path: /comment/1228/memory-overload
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1228/memory-overload
-imported: true
 comments:
  - value: >
      Stands back from the kyeobard in amazement! Thanks!,IeTvbV <a href="http://xuvqtxvyurbt.com/">xuvqtxvyurbt</a>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - rjd08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I hope ope you all had a nice break over Easter. I certainly hope it was better than mine. Foolishly, I fell ill.

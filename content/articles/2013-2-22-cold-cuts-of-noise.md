@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Riaz Agahi reviews the mighty collaborative album Cuts
 date: "2013-02-22 01:20:32 +0000"
-
-# Attributes from Felix Online V1
-id: "3358"
-old_path: /news/3358/cold-cuts-of-noise
+image: "http://felixonline.co.uk/img/upload/201302220120-tna08-merzbowgustafssonpandi.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3358/cold-cuts-of-noise
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302220120-tna08-merzbowgustafssonpandi.jpg"
-image_caption: ""
 ---
 
 Merzbow is widely regarded as the biggest name in noise music; the man’s been blistering eardrums in over 350 recordings since 1979. Like most of the experimental music world, in addition to copious solo albums, there are copious collaborations, often live.

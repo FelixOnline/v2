@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Kenyan Orphan Project share some amazing experiences working in Kenya
 date: "2013-09-29 16:18:19 +0100"
-
-# Attributes from Felix Online V1
-id: "3788"
-old_path: /features/3788/kops-visit-to-kenya
+image: "http://felixonline.co.uk/img/upload/201309291718-tna08-kop1.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/3788/kops-visit-to-kenya
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309291718-tna08-kop1.png"
-image_caption: ""
 ---
 
 This July Imperial College’s branch of the Kenyan Orphan Project set out for their annual trip to Kenya to see the work that their efforts had made possible. Throughout the year, the group had been finding new and novel ways of raising money for their cause, be it through nights out, tube collections, or a Valentine courier service.

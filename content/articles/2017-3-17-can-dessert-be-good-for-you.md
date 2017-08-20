@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alexandra Lim talks about the hidden benefits of fruit based puddings.
 date: "2017-03-17 14:54:29 +0000"
-
-# Attributes from Felix Online V1
-id: "6901"
-old_path: /science/6901/can-dessert-be-good-for-you
+image: "http://felixonline.co.uk/img/upload/201703171454-felix-chocolate.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6901/can-dessert-be-good-for-you
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - al4915
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171454-felix-chocolate.jpeg"
-image_caption: ""
 ---
 
 Today’s port of call is a French poires au chocolat clafoutis. In other words, what I made last Sunday. As a food and science writer I find tremendous reconciliation in the overlap between food, psychology, and science. I thought it would, or could, be relevant to extend my habitual weekend kitchen shenanigans to this small space, elaborating more on the nutritional or psychological benefits of specific components. Of course this all seems completely contrary to the philosophy of food – why break the beautiful mess, the necessary indulgence of food, into numbers and statistics? That’s like tossing great big assegais into the hearts and souls of the whole Masterchef panel. Anyway, nutritional components interact with each other in entirely different ways than they do when you isolate them in a lab to analyse. Dessert is dessert, and that is that. Well, that’s what most think. No one would blink at the chance to analyse something like the picture below. You see, you appreciate, you eat. And so be it, let there be bliss with such oblivion. As stated in my previous article, there’s nothing wrong with letting go and just meditating on the smells and complexity of food. It’s true that curiosity killed the cat, but we’re at Imperial, and we want to know things, right?

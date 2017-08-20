@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Phillip Kent discusses high fishes getting the munchies
 date: "2013-02-21 20:47:12 +0000"
-
-# Attributes from Felix Online V1
-id: "3342"
-old_path: /science/3342/fish-getting-high
+image: "http://felixonline.co.uk/img/upload/201302220250-tna08-fish_wallpapers_123.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3342/fish-getting-high
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - pk1811
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302220250-tna08-fish_wallpapers_123.jpg"
-image_caption: ""
 ---
 
 Does any of your medication get washed away through the water system? If so, your medication could lead to aquatic life having a very exhilarating day indeed.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   They’ve been here since Saturday
 date: "2015-10-26 13:10:35 +0000"
-
-# Attributes from Felix Online V1
-id: "5680"
-old_path: /news/5680/we-talk-to-the-mega-fans-who-camped-out-on-prince-consort-road-for-the-bond-premiere
+image: "http://felixonline.co.uk/img/upload/201510261257-ygr12-queues.jpg"
+image_caption: "View of the queue this morning outside Beit."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5680/we-talk-to-the-mega-fans-who-camped-out-on-prince-consort-road-for-the-bond-premiere
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510261257-ygr12-queues.jpg"
-image_caption: ""
 ---
 
 You might well be skiving lectures this afternoon to catch a glimpse of national treasure Daniel Craig and a handful of royals as they attend tonight’s _Spectre_ premiere. That’s nothing compared to these fans, who have been camping out on Prince Consort Road for three days to secure a place right at the front of the crowds lining the red carpet.

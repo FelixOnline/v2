@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Fred Fyles gets a fashionable education from Blondie
 date: "2014-11-06 21:24:59 +0000"
-
-# Attributes from Felix Online V1
-id: "4800"
-old_path: /arts/4800/a-lesson-in-punk--style
+image: "http://felixonline.co.uk/img/upload/201411062124-snb11-chrisstein_newspaper-copy.jpg"
+image_caption: "Debbie Harry of Blondie, looking way cooler than you ever will"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4800/a-lesson-in-punk--style
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411062124-snb11-chrisstein_newspaper-copy.jpg"
-image_caption: ""
 ---
 
 Iconic. It’s a word that’s thrown around a lot these days. Defined as ‘a person or thing regarded as a representative symbol, or as worthy of veneration’, it has today come to be used as a catch-all term for anyone who is elevated even slightly above the general public. If there’s one person who truly deserves the title icon in this world, it’s got to be Debbie Harry, the brilliant, bold, beautiful front woman of new wave/punk band __Blondie__, who form the central subject of __Somerset House__’s new exhibition:_Chris Stein/Negative: Me, Blondie, and The Advent of Punk_, a selection of photos by Blondie’s guitarist Chris Stein which, although small, has a lasting and powerful effect.

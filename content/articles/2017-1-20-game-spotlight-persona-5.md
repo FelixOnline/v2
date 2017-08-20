@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Qasim Mahmood tells you why you should be excited for the latest entry in the Persona series
 date: "2017-01-20 15:47:20 +0000"
-
-# Attributes from Felix Online V1
-id: "6677"
-old_path: /games/6677/game-spotlight--persona-5
+image: "http://felixonline.co.uk/img/upload/201701201547-felix-P5_illustration_by_Shigenori_Soejima.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/6677/game-spotlight--persona-5
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - qm413
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701201547-felix-P5_illustration_by_Shigenori_Soejima.jpg"
-image_caption: ""
 ---
 
 There are very few games which I have absolute faith in. I was incredibly sceptical about both Final Fantasy XV and also The Last Guardian, which was my personal Game of the Year 2016; in fact, I was almost convinced at least one of them would be a massive train wreck. Even games like Nioh and Nier: Automata, both of which seem like they will be great, may not live up to expectations. However, I am convinced, beyond a shadow of a doubt, that Persona 5 will be absolutely phenomenal.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Think Pocahontas, but on adrenaline
 date: "2011-01-13 19:22:57 +0000"
-
-# Attributes from Felix Online V1
-id: "564"
-old_path: /arts/564/blown-away-by-the-soleil
+image: "http://felixonline.co.uk/img/upload/201101131920-ks607-totem.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/564/blown-away-by-the-soleil
-imported: true
 comments:
  - value: >
      I'm going in a couple of weeks... can't wait! If it's only half as good as Saltimbanco was, it'll be incredible.
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +23,6 @@ authors:
  - dhl106
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101131920-ks607-totem.jpg"
-image_caption: ""
 ---
 
 Totem. Avid Inception fans will immediately think back to the object with which Dom Cobb differentiates between the real and the imaginary. Did it or did it not stop spinning? That is the question. For other Londoners, however, Totem signifies the latest touring Cirque du Soleil show at the Royal Albert Hall. I was lucky enough to win a pair of tickets for the show’s premiere on January 5th and, although I failed to rub shoulders with the celebrities in the stalls, I was blown away by the tremendous performance.

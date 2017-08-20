@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jack Steadman is less than enthused by the Royal Court's latest
 date: "2015-05-26 14:03:18 +0100"
-
-# Attributes from Felix Online V1
-id: "5567"
-old_path: /arts/5567/coming-down-with-a-bad-case-of-the-twits
+image: "http://felixonline.co.uk/img/upload/201505261500-js5913-the-twits.jpg"
+image_caption: "L-R: Mr Twit (Jason Watkins), Tattooed Fortune-Teller Lady (Christine Entwhistle), Mrs Twit (Monica Dolan) in The Twits."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5567/coming-down-with-a-bad-case-of-the-twits
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - js5913
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505261500-js5913-the-twits.jpg"
-image_caption: ""
 ---
 
 Roald Dahl’s made a bit of a resurgence of late, with _The Twits _representing the third adaptation of his works for the West End stage in four years. It follows on from Tim Minchin and Dennis Kelly’s musical adaptation of _Matilda_, and Sam Mendes delivery of _Charlie and the Chocolate Factory _in big-budget, musical form. Enda Walsh’s “mischievous” adaptation is therefore the first of the three to not be a musical, perhaps a touch unsurprising given its home at the __Royal Court__. It still features its fair share of music, though, and even a spot of singing, so fear not. It’s not quite all change in the world of Dahl adaptations.

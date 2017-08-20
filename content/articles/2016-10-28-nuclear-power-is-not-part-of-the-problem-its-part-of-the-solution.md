@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sebastian Gonzato offers the green argument for nuclear power
 date: "2016-10-28 15:13:01 +0100"
-
-# Attributes from Felix Online V1
-id: "6352"
-old_path: /comment/6352/nuclear-power-is-not-part-of-the-problem-its-part-of-the-solution-
+image: "http://felixonline.co.uk/img/upload/201610281804-felix-8373380668_7bf911894d_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6352/nuclear-power-is-not-part-of-the-problem-its-part-of-the-solution-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - sg3114
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610281804-felix-8373380668_7bf911894d_o.jpg"
-image_caption: ""
 ---
 
 I’m currently in Switzerland, which is about to have its twelfth referendum this year (and you thought Brexit was bad). Having rejected a minimum living wage, the Swiss will be asked to vote on an initiative proposed by the Greens on whether to speed up the closing of nuclear power plants. Unlike with Brexit, the Swiss government is unlikely to follow through with this proposal no matter the result of the referendum, and I’m tempted to agree with them.

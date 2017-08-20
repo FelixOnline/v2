@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Imperial discDoctors swan through nationals
 date: "2016-05-06 10:22:54 +0100"
-
-# Attributes from Felix Online V1
-id: "6138"
-old_path: /sport/6138/flying-high-with-imperial-frisbee
+image: "http://felixonline.co.uk/img/upload/201605061122-felix-thumbnail_discDoctors at Nationals.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6138/flying-high-with-imperial-frisbee
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - ljr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061122-felix-thumbnail_discDoctors at Nationals.jpg"
-image_caption: ""
 ---
 
 Imperial’s Ultimate Frisbee club, more commonly known as the discDoctors (or dD) were in a position to bring both a women’s team and a men’s team to nationals for the first time ever, with the men having qualified in the league throughout the season, and the women finishing highly at Outdoor Regionals qualifier back in March.

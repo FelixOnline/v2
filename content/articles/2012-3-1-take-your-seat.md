@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Political correctness on trial
 date: "2012-03-01 22:13:17 +0000"
-
-# Attributes from Felix Online V1
-id: "2284"
-old_path: /arts/2284/take-your-seat
+image: "http://felixonline.co.uk/img/upload/201203012212-cac111-img_2171.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2284/take-your-seat
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - ck806
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203012212-cac111-img_2171.jpg"
-image_caption: ""
 ---
 
 What starts off as the kind of play you think will predominantly explore the extremes to which political correctness is taken – sometimes creating just the awkwardness and indignity it hopes to avoid – changes course and ends up shining a very cynical light on the soulless and business-only orientated nature of today’s entertainment business.

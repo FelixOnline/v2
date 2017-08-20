@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Carol Yang discusses why Starcraft has become such a phenomenal success
 date: "2012-05-18 16:01:09 +0100"
-
-# Attributes from Felix Online V1
-id: "2473"
-old_path: /games/2473/starcraft-the-revolution-of-esports
+image: "http://felixonline.co.uk/img/upload/201205181705-felix-starcraft-2006proleaguefinals.jpg"
+image_caption: "The audience of the Starcraft: Brood War Proleague finals in Seoul, South Korea, 2006"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2473/starcraft-the-revolution-of-esports
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -25,12 +23,6 @@ authors:
  - felix
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205181705-felix-starcraft-2006proleaguefinals.jpg"
-image_caption: ""
 ---
 
 The lights of the metropolis shine brightly on the clear summer night. Down on the bay, a crowd gathers around a giant outdoor screen. Spotlights flood the area as the audience,now exceeding 50,000 people, work themselves into a fever pitch. The two teams come out on stage to deafening cheers. Teenage girls scream as one idol from each team is chosen for the first round of combat. They each enter a booth. The music swells, and the video game begins.

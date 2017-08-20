@@ -4,18 +4,15 @@ title: >
 subtitle: >
   As the controversial 23rd Commonwealth Governmental meeting in Colombo closed earlier this week there was widespread feeling that the Commonwealth has suffered a huge dent in its credibility. In March 2013 (for the first time in its history) the Commonwealth set out a new charter...
 date: "2013-11-24 16:07:19 +0000"
-
-# Attributes from Felix Online V1
-id: "4110"
-old_path: /comment/4110/commonwealth-beginning-of-the-end
+image: "http://felixonline.co.uk/img/upload/201311241700-jal08-aleqm5jom4uzxshi3birmrwf0cu1jdgxbq-(1).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4110/commonwealth-beginning-of-the-end
-imported: true
 comments:
  - value: >
      The Commonwealth is a joke. I always considered the Commonwealth an organization consisting of rapists and their Victims. It’s existence is an insult to the people of former british colonies.,The Sinhala Buddhist Apartheid regimes' motives is to eliminate the Tamils from Eelam. <br>We salute David Cameron who boldly visited the Jaffna and seen firsthand the Sinhala oppression against the Tamils, refugee camps in deplorable condition, attack on the free media, human rights defenders, Christian priests. David Cameron who took the global media with him to collect evidences of oppression, the denial of rule of law, democratic rights, freedom, human rights and Justice. <br>A War criminal is appointed as a Governor of Tamil areas to continue terrorizes the Tamils. War criminals are appointed as diplomats regime in most countries. <br>The world has to unite to end the over 65 years of Sinhala Buddhist Apartheid State oppression and ethnic cleansing the minority Tamils by forcefully conducting an independent internationa
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311241700-jal08-aleqm5jom4uzxshi3birmrwf0cu1jdgxbq-(1).jpg"
-image_caption: ""
 ---
 
 As the controversial 23rd Commonwealth Governmental meeting in Colombo closed earlier this week there was widespread feeling that the Commonwealth has suffered a huge dent in its credibility. In March 2013 (for the first time in its history) the Commonwealth set out a new charter emphasising the need for human rights, freedom of expression, good governance and the rule of law. Sri Lanka (Commonwealth chair for the next two years) frequently ignores these tenets.

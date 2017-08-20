@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Simon Worthington reviews new puzzle game ilomilo, on Xbox Live Arcade or Windows Phone
 date: "2011-01-13 19:54:40 +0000"
-
-# Attributes from Felix Online V1
-id: "571"
-old_path: /games/571/ilomilo-cute-but-still-smart-
+image: "http://felixonline.co.uk/img/upload/201101131953-ks607-imolio.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/571/ilomilo-cute-but-still-smart-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -23,12 +20,6 @@ authors:
  - sjw209
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101131953-ks607-imolio.jpg"
-image_caption: ""
 ---
 
 Despite sounding like the name of the trendiest new cocktail to hit London bars, or perhaps the location of the latest hit tourist spot in the Balkans, _ilomilo _is in fact the latest arcade game from Swedish game house SouthEnd Interactive. Ilo and Milo are the protagonists: little egg-shaped blobs of fur (with inevitable cute little faces and arms, of course) that somehow keep losing each other amongst the crazy floating world they inhabit. The player’s task is simple: reunite them! You control one of the pair at a time, moving around, picking up blocks and switching between to the other at will. Action takes place on floating levels of cubes suspended in crazy, cute worlds where gravity and physics are seemingly disregarded in favour of gravity-reversing trapdoors, a strange creature addicted to apples and a little man who rides a beetle. Or possibly a flying dog.

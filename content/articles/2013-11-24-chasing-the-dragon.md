@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Richard Clifton reviews Chase and Status’ show at the O2 Arena
 date: "2013-11-24 16:23:07 +0000"
-
-# Attributes from Felix Online V1
-id: "4118"
-old_path: /music/4118/chasing-the-dragon
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4118/chasing-the-dragon
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - rc2411
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 After two consecutive number two albums and massive sets supporting both Eminem at Reading and Prodigy at Creamfields, Chase & Status have become one of the few dance acts with a crossover appeal large enough to play an arena tour in support of their most recent album, Brand New Machine. Whereas Pendulum or Prodigy did extended runs of late shows at Brixton Academy during the heights of their respective popularities, Chase & Status’ show at a venue that hosted One Direction for nine sold-out shows earlier this year produced some bizarre contradictions, such as MC Rage encouraging fans to rave late into the night despite an 11pm curfew and £5 drinks.

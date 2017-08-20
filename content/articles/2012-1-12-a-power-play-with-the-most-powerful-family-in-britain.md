@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Plabon Saha uses his powers of deduction on the new series of Sherlock
 date: "2012-01-12 22:55:58 +0000"
-
-# Attributes from Felix Online V1
-id: "1995"
-old_path: /tv/1995/a-power-play-with-the-most-powerful-family-in-britain
+image: "http://felixonline.co.uk/img/upload/201201122255-cac111-sherlock-and-watson-bbc-2010.jpg"
+image_caption: "No one could look as cool as Sherlock in this jacket"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1995/a-power-play-with-the-most-powerful-family-in-britain
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - ps3411
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201122255-cac111-sherlock-and-watson-bbc-2010.jpg"
-image_caption: ""
 ---
 
 After a successful first season, [_Sherlock_](http://www.bbc.co.uk/programmes/b018ttws) is back on our screens. Giving the detective stories a 21st century make-up, the second season does not disappoint. In fact it picks up exactly where it left off, full of suspense, comedy and twists. The way things are turning out, Sherlock should be added to everyone’s must-watch list.

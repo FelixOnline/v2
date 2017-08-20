@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philip Kent puts aside the big releases of this season and talks about one of video gaming’s grandaddies, Creatures
 date: "2011-11-24 21:11:39 +0000"
-
-# Attributes from Felix Online V1
-id: "1815"
-old_path: /games/1815/skyrim-saints-row-youve-got-nothing-on-creatures
+image: "http://felixonline.co.uk/img/upload/201111242107-felix-desert_norn.gif"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1815/skyrim-saints-row-youve-got-nothing-on-creatures
-imported: true
 comments:
  - value: >
      i agree this sucks guys but im sure they will make it in ds soon becuase other wise their sales will go down by a lot plus no bodys gona buy the 3ds just for this game so they are going to have to make a ds veosrin or their sails wil defo go down
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -26,12 +23,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242107-felix-desert_norn.gif"
-image_caption: ""
 ---
 
 With blockbusters such as [_Skyrim_](http://www.youtube.com/watch?v=9uNx9-cWJZc) being released, and modern legends like [_Minecraft_](http://www.minecraft.net/) celebrating its birthday, it is often possible to overlook some real masterpieces. One of these is [_Creatures_](http://creatures.wikia.com/wiki/Creatures_Wiki_Homepage), and the sad thing is that many of you will probably have never heard of it!

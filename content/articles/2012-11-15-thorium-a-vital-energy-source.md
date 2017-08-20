@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alasdair Wynn and Matt O’Neill explore an untapped resource
 date: "2012-11-15 21:08:19 +0000"
-
-# Attributes from Felix Online V1
-id: "2893"
-old_path: /science/2893/thorium-a-vital-energy-source
+image: "http://felixonline.co.uk/img/upload/201211152107-tna08-cooling-towers-of-a-nuclear-power-station.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2893/thorium-a-vital-energy-source
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - fsci
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211152107-tna08-cooling-towers-of-a-nuclear-power-station.jpg"
-image_caption: ""
 ---
 
 limate change and energy sources are two of the key issues of our time. While our climate becomes more and more volatile by the year, the strain on our planets limited resources is becoming exasperated by the development of large economies such as China and India, which in turn is damaging the climate.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Steve Bohnel reflects on the results of Wednesday’s election
 date: "2016-11-11 13:56:10 +0000"
-
-# Attributes from Felix Online V1
-id: "6421"
-old_path: /comment/6421/electoral-dysfunction
+image: "http://felixonline.co.uk/img/upload/201611111510-felix-Screen Shot 2016-11-11 at 14.11.22.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6421/electoral-dysfunction
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - stebo101
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611111510-felix-Screen Shot 2016-11-11 at 14.11.22.png"
-image_caption: ""
 ---
 
 Right before I boarded my flight from London Stansted Airport to travel to Rome for a short trip, I refreshed a Google search on my iPhone. My screen read the following: Hilary Clinton with 215 electoral votes, and Donald Trump with 244. Hours later, as I was chatting with two Londoners who were taking the same train I was to central Rome, one of them said, “Donald Trump won the election.” And here we are: the day millions of Americans have been fearing since the Donald declared his run for the White House on the 15th June last year. Many of my friends are shocked by the news. And I am too. But let me be clear: Trump is not the main reason I am sickened by my country. It’s the people who voted him in.

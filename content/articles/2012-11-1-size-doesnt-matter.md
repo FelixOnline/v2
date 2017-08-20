@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Paavo Schafer is hotly anticipating The Hobbit
 date: "2012-11-01 23:03:26 +0000"
-
-# Attributes from Felix Online V1
-id: "2807"
-old_path: /film/2807/size-doesnt-matter
+image: "http://felixonline.co.uk/img/upload/201211012303-tna08-the-hobbit-an-unexpected-journey-the-hobbit-27868476-1024-768.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2807/size-doesnt-matter
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211012303-tna08-the-hobbit-an-unexpected-journey-the-hobbit-27868476-1024-768.jpg"
-image_caption: ""
 ---
 
 13 December 2012. This is a date that should be imprinted into everyone’s mind – from those who know that by divine law, Olórin is not allowed to use his magic directly against orcs to those who only know him as Gandalf.

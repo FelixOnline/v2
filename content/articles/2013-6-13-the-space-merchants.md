@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Maciej Matuszewski looks at a classic of the SF genre
 date: "2013-06-13 22:32:31 +0100"
-
-# Attributes from Felix Online V1
-id: "3677"
-old_path: /books/3677/the-space-merchants
+image: "http://felixonline.co.uk/img/upload/201306132332-tna08-space-merchants2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3677/the-space-merchants
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - mtm10
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306132332-tna08-space-merchants2.jpg"
-image_caption: ""
 ---
 
 There is often a stigma attached to early works of science fiction (SF). They are often stereotyped as being poorly written and filled with bad science and bug-eyed monsters. While true for some works this is by no means universally the case. Early SF laid the groundwork for what the genre is today and it includes some of the most imaginative and thought provoking works of fiction ever written.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Are hijab wearing women facing unjust discrimination?
 date: "2017-03-17 16:51:35 +0000"
-
-# Attributes from Felix Online V1
-id: "6905"
-old_path: /comment/6905/imperial-students-react-to-the-ecjs-motion-on-the-banning-of-religious-symbols
+image: "http://felixonline.co.uk/img/upload/201703171651-felix-8340338177_da540f5360_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6905/imperial-students-react-to-the-ecjs-motion-on-the-banning-of-religious-symbols
-imported: true
 comments:
  - value: >
      Even call it. <br>cheapest madden 17 coins mobile coins store http://www.madden-store.com,No, I know. <br>albion online gold http://he886622.exblog.jp/25306496/,I do not have a clue ! <br>pokemonbux best pokemon go rare pokemon supplier http://www.pokemonbux.com,No, I know. <br>buy Albion Online Gold http://albion.microblr.com/post/76962/UPAlbion039s_Advantages_In_Buying_Albion_Online_Gold
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171651-felix-8340338177_da540f5360_o.jpg"
-image_caption: ""
 ---
 
 ## Banning religious symbols is discrimination

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The perfect excuse to get yourself to Topshop today!
 date: "2012-06-14 19:50:28 +0100"
-
-# Attributes from Felix Online V1
-id: "2552"
-old_path: /comment/2552/vogue-en-vert
+image: "http://felixonline.co.uk/img/upload/201206142049-ams111-comment4.jpg"
+image_caption: "Part of the sustainable range at Topshop. Not sure how socially sustainable blue hair is, but it loo"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2552/vogue-en-vert
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - rg1109
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206142049-ams111-comment4.jpg"
-image_caption: ""
 ---
 
 It’s summer; exams are over, there are parties to go to, holiday destinations to jet off to, and of course, the Summer Ball to attend. For many of us, all of these occasions probably warrant new clothes.

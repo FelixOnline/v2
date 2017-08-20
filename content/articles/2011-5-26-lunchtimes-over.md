@@ -4,16 +4,13 @@ title: >
 subtitle: >
   But it's not all bad
 date: "2011-05-26 19:24:05 +0100"
-
-# Attributes from Felix Online V1
-id: "1260"
-old_path: /comment/1260/lunchtimes-over
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1260/lunchtimes-over
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The search for a solution to the College’s timetabling troubles continues. It is heartening to hear that the College are making efforts to make cross-departmental room bookings easier, but it is fair to say that altering the makeup of the day will be a part of the solution. The latest proposals from the College Day Working Group are a step in the right direction and are worth examining in a little detail.

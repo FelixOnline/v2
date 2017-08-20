@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Simon Hunter on the beat scene groundbreakers
 date: "2012-02-03 11:13:09 +0000"
-
-# Attributes from Felix Online V1
-id: "2129"
-old_path: /music/2129/techno-nonsense-stones-throw
+image: "http://felixonline.co.uk/img/upload/201202031112-sjw209-stones-throw.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2129/techno-nonsense-stones-throw
-imported: true
 comments:
  - value: >
      Right. Finally. It took some time chaps but I have tracked him down and magnead to resuscitate. Gigerpunk is back, appears to be functioning as normal (**note relative term. No dialogue will be entered into if you are not completely satisfied).At least I assume thats what happened. Certainly the trackers took my money and promised they would find him, fix' him, and the site would come back on line Anyone want to help with the cost ?,Is this thing properly back now?I <a href="http://bnkdslmrnlg.com">refsue</a> to change my internet routine' for sporadic updates.I'll need at least a week's worth of regular updates before I come back to you for the make-up sex thing., secondary causing agent order viagra services insurance extremely cheap new york auto insurance , providing products cheap viagra women look scorpion
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - sh1207
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202031112-sjw209-stones-throw.jpg"
-image_caption: ""
 ---
 
 I started this column last year but any recent input has been massively lacking. The feature started off highlighting electronic music labels that were either doing big things at that time or labels that should just be known due to their impact on music. I suppose this one falls into both categories.

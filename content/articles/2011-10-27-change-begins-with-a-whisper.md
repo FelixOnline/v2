@@ -4,18 +4,16 @@ title: >
 subtitle: >
   A controversial theme gives way to a resolutely feel-good film
 date: "2011-10-27 21:42:39 +0100"
-
-# Attributes from Felix Online V1
-id: "1613"
-old_path: /film/1613/change-begins-with-a-whisper
+image: "http://felixonline.co.uk/img/upload/201110272240-felix-11-ffilm1.jpg"
+image_caption: "Come on UCAS – did I get into Imperial College, or not?!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1613/change-begins-with-a-whisper
-imported: true
 comments:
  - value: >
      Jon was correct in that you are a naartul at critique and it seems to be an excellent niche for you. I would add that it is a good place to tone your muscles but your ability to wake people up has huge potential in something much bigger. Meanwhile, keep flexing.,I just want to tell you that I am just newbie to<a href="http://cokxiqc.com"> wlboeg</a> and really loved your page. Almost certainly I’m likely to bookmark your website . You definitely come with fabulous well written articles. Thanks a bunch for revealing your blog site.
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +26,6 @@ authors:
  - jgp09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110272240-felix-11-ffilm1.jpg"
-image_caption: ""
 ---
 
 __The Help__

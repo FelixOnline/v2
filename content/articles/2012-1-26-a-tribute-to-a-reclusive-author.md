@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Joseph Spiking looks back on the life of JD Salinger
 date: "2012-01-26 22:28:07 +0000"
-
-# Attributes from Felix Online V1
-id: "2064"
-old_path: /books/2064/a-tribute-to-a-reclusive-author
+image: "http://felixonline.co.uk/img/upload/201201262227-ams111-jd-salinger1.jpg"
+image_caption: "JD Salinger – a troubled genius"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2064/a-tribute-to-a-reclusive-author
-imported: true
 comments:
  - value: >
      Great article about a great man, never knew that he had lived through so much!,A cracking article! I particularly like the ending which, far from emphasising the author's reclusiveness, questions the society that would lead someone as gifted as Salinger to renounce fame in the 'literary' world. ,never knew salinger fought in normandy, gives a new perspective on the man and his work.
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201262227-ams111-jd-salinger1.jpg"
-image_caption: ""
 ---
 
 Holden Caulfield, Salinger’s most auto-biographical literary creation, once said, “What really knocks me out is a book that, when you’re all done reading it, you wish the author was a terrific friend of yours and you could call him up on the phone whenever you felt like it.” Salinger, a man known for his inaccessibility, was not going to give his phone number away to his devoted readers. Instead, he gave them a greater gift – the gift of a conversation with himself through his novels.

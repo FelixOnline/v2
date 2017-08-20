@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Sanderson, former President of the Royal College of Science Association (RCSA) on the origins of the Science Challenge
 date: "2013-12-06 03:50:21 +0000"
-
-# Attributes from Felix Online V1
-id: "4180"
-old_path: /features/4180/science-challenges-original-aim-exposed
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4180/science-challenges-original-aim-exposed
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +20,6 @@ authors:
  - extuser0
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Every year the RCSU issues the Science Challenge, which has evolved into an essay competition with very acceptable prizes. However the original motivation for the challenge was only known to a select few – now it can be revealed.

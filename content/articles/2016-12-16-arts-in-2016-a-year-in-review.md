@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Three of our writers look back on their favourite productions and exhibitions from this year.
 date: "2016-12-16 15:06:53 +0000"
-
-# Attributes from Felix Online V1
-id: "6614"
-old_path: /arts/6614/arts-in-2016--a-year-in-review
+image: "http://felixonline.co.uk/img/upload/201612161506-felix-14656329_10154047514611365_8841028665040272408_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6614/arts-in-2016--a-year-in-review
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felart
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612161506-felix-14656329_10154047514611365_8841028665040272408_n.jpg"
-image_caption: ""
 ---
 
 ## Ezra  Kitson

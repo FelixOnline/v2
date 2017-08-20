@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A call for input has been issued
 date: "2013-05-02 13:30:34 +0100"
-
-# Attributes from Felix Online V1
-id: "3529"
-old_path: /news/3529/education-and-student-strategy-up-for-review
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3529/education-and-student-strategy-up-for-review
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imperial College London have created a paper on the future [Education and Student Experience strategy](http://www3.imperial.ac.uk/educationoffice/strategy). Between now and Friday 10 May staff, students, and alumni are asked to give their views on the outcome. Views are being sought for actions proposed and on what to prioritise. To contribute online, go to the [website](http://www3.imperial.ac.uk/educationoffice/strategy). There will also be two open meetings on 17 April from 13.00 -14.00 in the Read Lecture Theatre, Sherfield Building and on 25 April from 17.00-18.00 in the Clore Lecture Theatre, Huxley Building.

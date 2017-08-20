@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Professor Nigel Brandon and Professor Elisabeth Paice win OBEs
 date: "2011-06-16 18:52:47 +0100"
-
-# Attributes from Felix Online V1
-id: "1377"
-old_path: /news/1377/imperial-professors-honoured-in-queens-birthday-honours-list
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1377/imperial-professors-honoured-in-queens-birthday-honours-list
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Two Imperial professors have been recognised on the Queen’s Birthday Honours List, which was published last Saturday.

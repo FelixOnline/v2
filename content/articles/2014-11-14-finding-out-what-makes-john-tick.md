@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Mario Lapore reviews JOHN, a contemporary dance show
 date: "2014-11-14 20:52:00 +0000"
-
-# Attributes from Felix Online V1
-id: "4878"
-old_path: /arts/4878/finding-out-what-makes-john-tick
+image: "http://felixonline.co.uk/img/upload/201411142051-ps3110-for-website.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4878/finding-out-what-makes-john-tick
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - ml2510
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411142051-ps3110-for-website.jpg"
-image_caption: ""
 ---
 
 “The normality of life is just to have someone you can express stuff with.”

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Chris Kaye, Deputy President (Welfare) passed paper in Council on Tuesday
 date: "2015-02-12 20:54:55 +0000"
-
-# Attributes from Felix Online V1
-id: "5235"
-old_path: /news/5235/union-shop-to-sell-not-for-profit-sanitary-products
+image: "http://felixonline.co.uk/img/upload/201502130143-ps3110-screen-shot-2015-02-13-at-01.43.25.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5235/union-shop-to-sell-not-for-profit-sanitary-products
-imported: true
 comments:
  - value: >
      """Council passed the paper, although not after debate. One member complained that if these ‘essentials’ are to be sold without a profit margin, others, “such as water”, should be sold without a margin too."""" <br> <br>Said member - *cough* - also noted that he was in favour of the paper, and voted as such. ,Graduted 35years ago. Agree with this as it levels the playing field cost wise for women.,“A big part of my manifesto was about engaging women in science so it just seemed right to me that basic essentials for women should be sold at the lowest cost possible.” <br> <br>Really going for the big issues for women in science. <br>,fit flops shoes <br>fitflops sandals http://www.australiafitflops.com/,fitflop shoes sale <br>fitflop sale australia http://www.australiafitflops.com/,birkenstock shops <br>buy birkenstocks http://birkenstockaustralia2013.blogspot.com/,louboutin shoes <br>christian louboutin outlet canada http://canadachristianlouboutin.blogspot.com/,louboutin womens flats canada <br>christian louboutin shoes outlet
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502130143-ps3110-screen-shot-2015-02-13-at-01.43.25.png"
-image_caption: ""
 ---
 
 Christopher Kaye, Deputy President (Welfare), achieved victory in Union Council this week when his paper on reducing the cost of female sanitary products was passed by those present.

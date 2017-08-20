@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Anonymous explains why we need to treat sexual assault survivors with empathy, not suspicion
 date: "2016-10-21 12:51:36 +0100"
-
-# Attributes from Felix Online V1
-id: "6347"
-old_path: /comment/6347/stop-silencing-those-who-speak-out-about-sexual-assault
+image: "http://felixonline.co.uk/img/upload/201610211445-ajp15-Screen Shot 2016-10-21 at 14.45.04.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6347/stop-silencing-those-who-speak-out-about-sexual-assault
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - icanon
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610211445-ajp15-Screen Shot 2016-10-21 at 14.45.04.png"
-image_caption: ""
 ---
 
 > > The “conversation” going on right now is essentially the lived experience of most sexual assault survivors

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Why do I worry about what to say to someone when they apologise to me?
 date: "2011-06-16 20:29:54 +0100"
-
-# Attributes from Felix Online V1
-id: "1393"
-old_path: /comment/1393/the-minefield-of-social-etiquette
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1393/the-minefield-of-social-etiquette
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - sf305
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 How many times have you ever wanted to tell someone who is apologising to you, to **** off? Not because they slept with your best friend, but just because of the grovelling, sickening nature of it. I amaze myself about how fervently I want to sometimes. But equally, how often has an apology barely scratched the surface of the wrong it is attempting to right?

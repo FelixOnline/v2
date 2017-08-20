@@ -4,16 +4,14 @@ title: >
 subtitle: >
   IC confirm reigning champion status at Ethos in weekend tournament
 date: "2012-02-02 23:10:07 +0000"
-
-# Attributes from Felix Online V1
-id: "2106"
-old_path: /sport/2106/touch-fencers-win-premierships
+image: "http://felixonline.co.uk/img/upload/201202022309-sjw209-2nd-premiere-weekend-062.jpg"
+image_caption: "Singing rowdy songs all together after a match"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2106/touch-fencers-win-premierships
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +22,6 @@ authors:
  - ial08
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202022309-sjw209-2nd-premiere-weekend-062.jpg"
-image_caption: ""
 ---
 
 The mantle of success is never an easy thing to bear, especially so in sport. Success breeds expectation, which translates into pressure – exactly the sort of thing you don’t want when you’re trying to reproduce past exploits.

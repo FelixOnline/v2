@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A study examining 69 billion friendships on Facebook shows the average degrees of separation between two randomly chosen users to be 3.74
 date: "2011-12-01 19:49:05 +0000"
-
-# Attributes from Felix Online V1
-id: "1862"
-old_path: /science/1862/facebook-is-making-the-world-even-smaller
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1862/facebook-is-making-the-world-even-smaller
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - ak6309
  - ams111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Facebook has conducted a joint study which suggests that there are on average 3.74 degrees of separation between users on the popular social networking website. The study, joint between Facebook’s data scientist Lars Backstrom and four researchers from the University of Milan, found that the number of people that link two others on average is approximately four. That is, as the authors of the study explain, “when considering another person in the world, a friend of your friend knows a friend of their friend.”

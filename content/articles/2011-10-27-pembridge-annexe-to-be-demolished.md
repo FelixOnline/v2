@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Disused building to be the site of residential apartments
 date: "2011-10-27 20:19:14 +0100"
-
-# Attributes from Felix Online V1
-id: "1609"
-old_path: /news/1609/pembridge-annexe-to-be-demolished
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1609/pembridge-annexe-to-be-demolished
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Plans to demolish a disused annexe from behind[ Pembridge Gardens hall of residence](http://halls.ic.ac.uk/pembridge/) in favour of a residential development have been clarified by the [College Fund](http://www3.imperial.ac.uk/collegefund).

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Paul Beaumont makes the case for altering the Union Constituion
 date: "2012-10-18 21:14:31 +0100"
-
-# Attributes from Felix Online V1
-id: "2695"
-old_path: /comment/2695/changing-the-rules-why-bother
+image: "http://felixonline.co.uk/img/upload/201210182214-felix-signing_us_constitutionrgb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2695/changing-the-rules-why-bother
-imported: true
 comments:
  - value: >
      Totally missing the point that virtually no-one outside the SU clique cares. All the overwhelming majority want from their Student Union (which is demonstrated by the dire turnout year after year) is a live and let live attitude and maybe an affordable drink in a pleasant atmosphere.They get neither. <br> <br>Both Pres. candidates promise to abolish entry fee. Entry fee still exists. <br> <br>Turnout in elections for the ubiquitous 'Officer' roles is regularly less than 5%. <br> <br>No easing of anti-alcohol policies. Just a proliferation of signage telling us how old we need to be to buy it. <br> <br>568 starts closing the shutters an hour before closing time - on the busiest nights of the week. <br> <br>1 person serving in the Old Union Bar on the rare occasions it's open. <br> <br>No option for smokers to buy tobacco in the evening at *their* student union. Unfortunate given re-entry (which was meant to be abolished, see above). <br> <br>Forgive us if we don't get excited about totally inconsequential changes to the 'constitution'.,I'm sorry you f
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210182214-felix-signing_us_constitutionrgb.jpg"
-image_caption: ""
 ---
 
 I completely accept that few will care. And, I completely accept, that, at the minute, the changes will affect very few people. Changing the Union’s Constitution is important though – and, as well as explaining why I want to do it, I’ll try and explain what needs changing, a little briefer than the four thousand word ‘guide to the twenty-thousand-word constitution’ I’m proposing.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Stuart Masson reviews the recent albums by three of his old favourites
 date: "2014-05-09 14:58:10 +0100"
-
-# Attributes from Felix Online V1
-id: "4581"
-old_path: /music/4581/its-like-its-2009-all-over-again
+image: "http://felixonline.co.uk/img/upload/201405091600-jal08-faris-badwan-the-horrors.jpg"
+image_caption: "Horrors frontman Faris Badwan doing, something, with his fringe"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4581/its-like-its-2009-all-over-again
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +23,6 @@ authors:
  - sm5810
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405091600-jal08-faris-badwan-the-horrors.jpg"
-image_caption: ""
 ---
 
 It may have been just five years ago, but 2009 seems like the distant past. I was still in sixth form, and, more importantly for the context of this review, I had fully immersed myself in the wide world of music. The landfill indie of my teenage years had been put to one side, and I was making the most of my discovery that alternative music meant a hell of a lot more than __The Libertines__. It was a great time to be getting into alternative music as well with __Animal Collective__’s_Merriweather Post Pavilion_, __The Flaming Lips’__ brilliant double album _Embryonic_ and __Grizzly Bear__‘s _Veckatemist _all released in 2009. There were also superb debuts from __Japandroids__, __tUnE-yArDs __and, admittedly in 2008, __Titus Andronicus__.

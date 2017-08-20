@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It's not all fun and games you know!
 date: "2013-01-10 23:05:14 +0000"
-
-# Attributes from Felix Online V1
-id: "3104"
-old_path: /film/3104/what-we-watched-over-christmas-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3104/what-we-watched-over-christmas-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - ffilm
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ## The Impossible

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Samuel Bodansky wonders why consumers are willing to pay so much for so little
 date: "2014-11-20 20:56:39 +0000"
-
-# Attributes from Felix Online V1
-id: "4912"
-old_path: /comment/4912/what-drives-what-we-pay-for-things
+image: "http://felixonline.co.uk/img/upload/201411241251-ps3110-cash.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4912/what-drives-what-we-pay-for-things
-imported: true
 comments:
  - value: >
      Great site. A lot of useful information here. I am sending it to some buddies ans also sharing in delicious. And certainly, thank you in your sweat! <br>nike free 3.0 kopen http://paulram.nl/?nl-nike-free-3.0-kopen-17242.html,cxrk0J http://www.y7YwKx7Pm6OnyJvolbcwrWdoEnRF29pb.com
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - sib114
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411241251-ps3110-cash.png"
-image_caption: ""
 ---
 
 What are prices? Who decides prices? Walking down a supermarket aisle, we see a wide variety of complicated pricing schemes; buy one get one free, half price, special offers and the like. These prices seem either carefully calculated – what makes them so specific?

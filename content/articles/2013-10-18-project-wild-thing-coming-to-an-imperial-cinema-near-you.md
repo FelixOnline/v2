@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Project Wild Thing opens in Cinemas nationwide on Friday 25th October. It will be screening at Imperial Cinema on Friday 25th October at 5pm. Tickets £5 students / £7 others available online at bit.ly/wildthingimperial
 date: "2013-10-18 20:53:00 +0100"
-
-# Attributes from Felix Online V1
-id: "3886"
-old_path: /features/3886/project-wild-thing---coming-to-an-imperial-cinema-near-you
+image: "http://felixonline.co.uk/img/upload/201310182152-jal08-features_frog.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/3886/project-wild-thing---coming-to-an-imperial-cinema-near-you
-imported: true
 comments:
  - value: >
      I was looking evheywrere and this popped up like nothing!,Hello there I am so thrilled I found your <a href="http://jkorfwqxfxq.com">weitbse</a>, I really found you by error, while I was researching on Digg for something else, Anyways I am here now and would just like to say cheers for a fantastic post and a all round thrilling blog (I also love the theme/design), I don’t have time to read it all at the minute but I have book-marked it and also included your RSS feeds, so when I have time I will be back to read a lot more, Please do keep up the awesome job.
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310182152-jal08-features_frog.jpg"
-image_caption: ""
 ---
 
 David Bond is a worried man. When he was a child, he spent his time outdoors in the natural world, but now all his children do is stare at screens and obsess with big brands. He sets out to change things, appointing himself Marketing Director for Nature. This witty and irreverent documentary follows his antics as he attempts to launch a national marketing campaign to get children back enjoying the great outdoors. Described as “Like David Attenborough and Morgan Spurlock got drunk and had a baby” by one watcher at the Sheffield Doc Fest where the film premiered this summer, it’s sure to be an interesting watch.

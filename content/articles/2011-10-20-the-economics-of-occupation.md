@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Rory Fenton and Kadhim Shubber have some advice for the London protestors
 date: "2011-10-20 21:43:41 +0100"
-
-# Attributes from Felix Online V1
-id: "1565"
-old_path: /politics/1565/the-economics-of-occupation
+image: "http://felixonline.co.uk/img/upload/201110202239-felix-340469_388631624959_512764959_1479651_1393739666_o.jpg"
+image_caption: "Julian Assange addressing eager protestors at St Paul’s Cathedral. Where’s Julian? "
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1565/the-economics-of-occupation
-imported: true
 comments:
  - value: >
      Right you are. Sloppy use of the word.,Right you are. Sloppy use of the word.,Agreed. I wrote that bit, my bad :(,Agreed. I wrote that bit, my bad :(,Anyone protesting in favour of more regulation, laws, government enforced wealth redistribution or taxes of any kind is not an anarchist. What defines and unites all anarchists is the belief that the state should not exist.,Anyone protesting in favour of more regulation, laws, government enforced wealth redistribution or taxes of any kind is not an anarchist. What defines and unites all anarchists is the belief that the state should not exist.,What exactly is your argument? Your assumption seems to be that more regulation would have prevented this. Have you ever run a business? A) there are already so many regulations on the books that if most business followed the letter of the law they would get nothing done. B) Most laws and regulation can easily be circumvented if someone chooses to do so. More regulation would not have prevented a maniac like Madoff. He wou
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -30,12 +28,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110202239-felix-340469_388631624959_512764959_1479651_1393739666_o.jpg"
-image_caption: ""
 ---
 
 As we picked our way through the tents outside St Paul’s Cathedral this Monday one thing was clear: anarchists are not an easy bunch to organise. Not a surprise, perhaps, but add to this a passionate belief in not telling others what to do, and suddenly you find yourself voting about whether to vote…

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alex Savell looks at the final Greg Mandell novel
 date: "2013-02-13 14:38:07 +0000"
-
-# Attributes from Felix Online V1
-id: "3303"
-old_path: /books/3303/the-nano-flower
+image: "http://felixonline.co.uk/img/upload/201302131438-tna08-nanoflower.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3303/the-nano-flower
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302131438-tna08-nanoflower.jpg"
-image_caption: ""
 ---
 
 In just a day’s time Peter Hamilton will be arriving for Sci-Fi’s annual convention, Picocon. Before that we finish off our look at the Greg Mandel series with a look at the final novel in that series; The Nano Flower. Set fifteen year’s after A Quantum Murder there’s plenty that’s changed in that time. The Nano Flower concludes the progression of the world around Greg out of recession. Technology is blossoming and the world has started to move forwards in leaps and bounds.

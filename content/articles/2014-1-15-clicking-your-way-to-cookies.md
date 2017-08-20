@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imran Reviews: Games of the Century
 date: "2014-01-15 16:11:06 +0000"
-
-# Attributes from Felix Online V1
-id: "4208"
-old_path: /games/4208/-clicking-your-way-to-cookies
+image: "http://felixonline.co.uk/img/upload/201401151610-me1711-games_cookie.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4208/-clicking-your-way-to-cookies
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - ir112
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201401151610-me1711-games_cookie.png"
-image_caption: ""
 ---
 
 Cookie Clicker is the highly addictive game with the goal of producing an infinite number of cookies! Yup – it’s a game that never ends as much as it never lets you go.

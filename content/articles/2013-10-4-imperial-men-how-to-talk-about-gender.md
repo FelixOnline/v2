@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Rory Fenton on gender at Imperial College
 date: "2013-10-04 01:03:18 +0100"
-
-# Attributes from Felix Online V1
-id: "3805"
-old_path: /comment/3805/imperial-men-how-to-talk-about-gender
+image: "http://felixonline.co.uk/img/upload/201310040152-jal08-comm_womeninscience-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3805/imperial-men-how-to-talk-about-gender
-imported: true
 comments:
  - value: >
      http://www.youtube.com/watch?v=3GRSbr0EYYU,cats and their beds!i remebmer my Dad once spent ages (I don't remebmer quite why) making a bed for our cat... then got REALLY UPSET when she failed to sleep in it! she always had at least three on the go at any one time and rotated them...couldn't get the video to run (bloody connection) will have to come back for that laterhope everything's fine with you!,श्री राम शरणं समस्त जगातां रामं विना का गति:रामेण प्रतिहन्यते कलि मलं रामाय कार्यं नम: |रामात् त्रस्यति काल भीम बुजग: रामस्य सर्वं वशेरामे भक्ति: अखणटिता भवतु मे राम त्वमेव आश्रय: ஸ்b2ரி ராம ஸb2ரணம்b0 ஸமஸ்த ஜகாb3தாம்b0 ராமம்b0 விநா கா கb3தி:ரா
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - rtf08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310040152-jal08-comm_womeninscience-copy.jpg"
-image_caption: ""
 ---
 
 Most students at Imperial are men. I don’t imagine this comes as much of a surprise to most Felix readers. While this gender imbalance is obvious from the first day of Freshers Week, what it means and how to talk about it can be more challenging. Whispered remarks about “The Ratio” can be heard on most courses and jokes abound about the sexual frustration of Imperial’s males; the straight ones at least. But beyond this, any serious discussion of gender among students can often be dismissed. We can be pretty poor at talking gender and it’s we men who seem to do it worst.

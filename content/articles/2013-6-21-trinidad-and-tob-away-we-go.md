@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Hamza Shaikh reports from a great expedition
 date: "2013-06-21 00:58:11 +0100"
-
-# Attributes from Felix Online V1
-id: "3737"
-old_path: /news/3737/trinidad-and-tob-away-we-go
+image: "http://felixonline.co.uk/img/upload/201306210158-tna08-hamza1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3737/trinidad-and-tob-away-we-go
-imported: true
 comments:
  - value: >
      So many acronyms! = O,This is a lovely thank you post! <br> <br>Gary Clyne
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306210158-tna08-hamza1.jpg"
-image_caption: ""
 ---
 
 During the end of 2011, when Europe suffered the worst economic crises in decades, the Republic of Trinidad and Tobago was removed from the list of Developing Countries by the OECD.

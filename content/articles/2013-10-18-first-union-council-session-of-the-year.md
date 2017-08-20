@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A breakdown on the first Union Council session for the year.
 date: "2013-10-18 20:41:43 +0100"
-
-# Attributes from Felix Online V1
-id: "3884"
-old_path: /news/3884/first-union-council-session-of-the-year
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3884/first-union-council-session-of-the-year
-imported: true
 comments:
  - value: >
      someone with the cojones to raise issues that actually affect real students, and not the usual student union bukkake sesh that union council usually turns out to be <br> <br>why should a 17 yo lose out on a normal social life just because the union don't trust the bar to be competent enough to serve people legally on sports night?
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The first meeting of the Union Council was held in the Union Dining Hall last Monday. The Council, consisting of over two dozen student representatives – including the Management Group chairs and Constituent Union presidents, is the main policy making body of the Union and is subordinate to only the Trustee Board.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Results of Felix's Sexism Survey
 date: "2012-05-24 23:40:07 +0100"
-
-# Attributes from Felix Online V1
-id: "2490"
-old_path: /news/2490/felix-sexism-survey
+image: "http://felixonline.co.uk/img/upload/201205250040-mc4509-sexismspread.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2490/felix-sexism-survey
-imported: true
 comments:
  - value: >
      Please can this be fixed - link broken.,Please can this be fixed - link broken.,Please can this be fixed - link broken.,Please can this be fixed - link broken.,Please can this be fixed - link broken.,Survey was sadly lacking in female nudity/ bawdy anecdotes. Please try harder next time.,Survey was sadly lacking in female nudity/ bawdy anecdotes. Please try harder next time.,Survey was sadly lacking in female nudity/ bawdy anecdotes. Please try harder next time.,Survey was sadly lacking in female nudity/ bawdy anecdotes. Please try harder next time.,Survey was sadly lacking in female nudity/ bawdy anecdotes. Please try harder next time.,"women were first allowed into the union bar in 1972" <br> <br>WHAT?!?!?!,"women were first allowed into the union bar in 1972" <br> <br>WHAT?!?!?!,"women were first allowed into the union bar in 1972" <br> <br>WHAT?!?!?!,"women were first allowed into the union bar in 1972" <br> <br>WHAT?!?!?!,"women were first allowed into the union bar in 1972" <br> <br>WHAT?!?!?!,Women are allowed in the Union Bar? Re
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -31,12 +28,6 @@ authors:
  - sa4110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205250040-mc4509-sexismspread.jpg"
-image_caption: ""
 ---
 
 Over the past year, 10 articles and 231 comments have been written about sexism in science and at Imperial. Stephen Smith’s “[Sexism at Imperial College](http://felixonline.co.uk/comment/2167/sexism-at-imperial-college/)” has been viewed over 7,500 times on the Felix website. Sexism is clearly an issue that concerns the Imperial community and 631 of you gave us your opinion by filling in the survey. Thank you.

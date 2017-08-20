@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Alex Beaghton on the Law Society’s intersectional discussion this May
 date: "2015-05-15 12:46:42 +0100"
-
-# Attributes from Felix Online V1
-id: "5535"
-old_path: /cands/5535/law-society-to-host-careers-fair-on-campus
+image: "http://felixonline.co.uk/img/upload/201505151346-cj914-funkeambimbola.jpg"
+image_caption: "Funke Amimbola  leads the legal team that supports Roche’s UK pharmaceutical operations"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5535/law-society-to-host-careers-fair-on-campus
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -24,12 +22,6 @@ authors:
  - adb111
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505151346-cj914-funkeambimbola.jpg"
-image_caption: ""
 ---
 
 It’s almost the end of the academic year. Have you thought about what you are doing in the future? Knowing which career to pursue can be daunting for many students, but did you know that graduating with a STEM or business degree sets you up for a wide range of careers beyond scientific research or finance?

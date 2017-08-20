@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2017-02-10 14:03:57 +0000"
-
-# Attributes from Felix Online V1
-id: "6752"
-old_path: /science/6752/web-of-lies
+image: "http://felixonline.co.uk/img/upload/201702101403-felix-goat-1596880_1920.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6752/web-of-lies
-imported: true
 comments:
  - value: >
      ÃÂ—ÃÂ´Ã‘Â€ÃÂ°ÃÂ²Ã‘ÂÃ‘Â‚ÃÂ²Ã‘ÂƒÃÂ¹Ã‘Â‚ÃÂµ, Ã‘ÂÃÂºÃÂ°ÃÂ¶ÃÂ¸Ã‘Â‚ÃÂµ ÃÂ¿ÃÂ¾ÃÂ¶ÃÂ°ÃÂ»Ã‘ÂƒÃÂ¹Ã‘ÂÃ‘Â‚ÃÂ° ÃÂºÃÂ°ÃÂº ÃÂ¿Ã‘Â€ÃÂ°ÃÂ²ÃÂ¸ÃÂ»Ã‘ÂŒÃÂ½ÃÂ¾ ÃÂ±Ã‘Â€ÃÂ¾Ã‘ÂÃÂ¸Ã‘Â‚Ã‘ÂŒ Ã¸‘Â°Ã‘ÂÃ‘Â‚Ã‘ÂƒÃ‘Â€ÃÃÂ±ÃÂÂÃ‘Â€ÃÂ¾ÃÂ²ÃÂ°Ã¼Â‚Ã‘ÂŒ Ã‘ÂÃ‘Â€ÃÂ°ÃÂ·Ã‘Âƒ ÃÂ¸ÃÂ»ÃÂ¸ ÃÂ¿ÃÂ¾Ã‘ÂÃ‘Â‚ÃÂµÃÂ¿ÃÂµÃÂ½ÃÂ½ÃÂ¾ ? ÃÂŸÃ‘Â€ÃÂ¾Ã‘ÂÃ‘Â‚ÃÂ¾ ÃÂ¼ÃÂ½ÃÂ¾ÃÂ³ÃÂ¸ÃÂµ ÃÂ³ÃÂ¾ÃÂ²ÃÂ¾Ã‘Â€Ã‘ÂÃ‘Â‚ Ã‘Â‡Ã‘Â‚ÃÂ¾ Ã‘ÂÃ‘Â€ÃÂ°ÃÂ·Ã‘Âƒ ÃÂ±Ã‘Â€ÃÂ¾Ã‘ÂÃÂ°Ã‘Â‚Ã‘ÂŒ Ã‘ÂÃ‘Â‚ÃÂ
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -26,12 +23,6 @@ authors:
  - aranshaunak16
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101403-felix-goat-1596880_1920.jpg"
-image_caption: ""
 ---
 
 Fact: Goats spin spider-webs.

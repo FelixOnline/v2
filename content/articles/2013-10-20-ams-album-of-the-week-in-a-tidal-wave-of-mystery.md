@@ -4,18 +4,15 @@ title: >
 subtitle: >
   George Spence-Jones reviews an album by Capital Cities
 date: "2013-10-20 01:53:18 +0100"
-
-# Attributes from Felix Online V1
-id: "3904"
-old_path: /music/3904/ams-album-of-the-week-in-a-tidal-wave-of-mystery
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3904/ams-album-of-the-week-in-a-tidal-wave-of-mystery
-imported: true
 comments:
  - value: >
      Julia,How cool are you! You are rather young to have such an apepcriation for one of the masters. Nice to know we have something in common. I had all his albums when I was younger. And I mean vinyl albums. Wore them completely out.,Every time I think Wow, he's out done himself , Brian<a href="http://rpaptp.com"> aalwys</a> surprises me and all his fans by writing/singing more beautiful music!!! He is so talented and as a GREAT compliment, I find my 17 year old daughter (who is glued 100% to her IPOD) humming and singing his tunes often .(: KEEP WRITING! (:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -27,12 +24,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Capital Cities__ – In a Tidal Wave of Mystery

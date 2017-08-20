@@ -4,16 +4,14 @@ title: >
 subtitle: >
   In the run up to elections Union President Paul Beaumont looks at what he has and hasn’t done this year...
 date: "2013-01-17 23:59:28 +0000"
-
-# Attributes from Felix Online V1
-id: "3124"
-old_path: /news/3124/the-manifesto-review
+image: "http://felixonline.co.uk/img/upload/201301172359-tna08-429063_10150700147291858_2138106809_n.jpg"
+image_caption: "Paul's poster from last year"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3124/the-manifesto-review
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301172359-tna08-429063_10150700147291858_2138106809_n.jpg"
-image_caption: ""
 ---
 
 As the 2012/13 academic year flies by (this time last year, I was already saying ’14 weeks til exams’ in an attempt to motivate myself…) there are a number of developments to update everyone on. For final years, the National Student Survey is back; for the whole student body we have, what I guess is kind of a survey, the dreaded e-word – elections – looming. One term down, and already it’s nearly time to get rid of the sabbaticals.

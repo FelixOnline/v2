@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Jasper Menkus reviews the event
 date: "2014-10-17 15:10:14 +0100"
-
-# Attributes from Felix Online V1
-id: "4735"
-old_path: /news/4735/rcsu-ballin-in-moderation
+image: "http://felixonline.co.uk/img/upload/201410171610-kmw13-tbl_rcsu_autumn_ball-116.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4735/rcsu-ballin-in-moderation
-imported: true
 comments:
  - value: >
      Call me a traditionalist, and I'll admit now that I don't know why Monday was picked, but I think it might have been quite nice to have the RCSU ball on one of the traditional piss-up nights: Friday or Saturday. I might have gone then, as might others. <br> <br>Short of Sunday evening, Monday night (and forgive me for there follows some cold, hard opinion) is probably the worst night of the week to have a late night, let alone getting smashed if that's your shot of tea. <br> <br>Let me give myself and my immediate friends as examples - we're final year undergrads who've just returned from a year out to find the coursework piled on in the first week. Now, obviously, we really want to get to know people and make new friends - we've few left as our original year group has graduated, and this ball would have been a great occasion to do so. I speak for myself and some others I know : we'd have liked to go but were put off by its being at the beginning of the week. <br> <br>I suppose I/we could have been adventurous, gone to
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - kmw13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201410171610-kmw13-tbl_rcsu_autumn_ball-116.jpg"
-image_caption: ""
 ---
 
 In my ancestral Tennessee, we have a saying: “if it ain’t broke, don’t fix it”. Certainly this appears to be the approach the RCSU has adopted in regards to their entertainments over the last few years. The recipe goes something like this: 1) Take a dark room in Central London. 2) Add some loud music. 3) Fill with scientists soaked in inexpensive (or free) alcohol. Shake and serve over ice with a garnish of mint leaves. The mixture is simple but effective – in some cases cripplingly so.

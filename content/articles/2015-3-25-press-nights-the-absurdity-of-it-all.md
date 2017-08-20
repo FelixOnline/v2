@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Kamil McClelland gives us a tour of a world of tweed, gossip and wine
 date: "2015-03-25 12:44:43 +0000"
-
-# Attributes from Felix Online V1
-id: "5436"
-old_path: /arts/5436/press-nights--the-absurdity-of-it-all
+image: "http://felixonline.co.uk/img/upload/201503251244-ff712-untitled.jpg"
+image_caption: "Statler and Waldorf from The Muppet Show. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5436/press-nights--the-absurdity-of-it-all
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - km2612
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251244-ff712-untitled.jpg"
-image_caption: ""
 ---
 
 One of the perks of writing for the Felix Arts section has of course got to be all of the free tickets we get: plays, exhibitions, opera, you name it (even puppetry…)! I still find it amazing to think that these art establishments actually somewhat value our work, even if it is just that free publicity trumps empty seats.

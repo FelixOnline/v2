@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Why didn’t these people run before?
 date: "2016-06-15 13:23:57 +0100"
-
-# Attributes from Felix Online V1
-id: "6268"
-old_path: /features/6268/we-interview-the-dpfs-candidates
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6268/we-interview-the-dpfs-candidates
-imported: true
 comments:
  - value: >
      Lots of people saying exams were the reason they didn't run. A question then, are the big elections at the right time of year to ensure most students have a fair chance to run/campaign?,They really need to change the way the DPFS works. The role description doesn't really fit with the way the union works atm. <br>A student should have oversight of the finances but should they really be doing an accountants job when there are real accountants about?
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 We asked the DPFS candidates why they didn't run for the role in March, and this is what they told us.

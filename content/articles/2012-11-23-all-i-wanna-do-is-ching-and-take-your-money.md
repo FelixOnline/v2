@@ -4,18 +4,16 @@ title: >
 subtitle: >
   We should pay for our own education – and our parents should have paid for theirs
 date: "2012-11-23 00:01:29 +0000"
-
-# Attributes from Felix Online V1
-id: "2954"
-old_path: /comment/2954/all-i-wanna-do-is-ching-and-take-your-money
+image: "http://felixonline.co.uk/img/upload/201211230001-tna08-2012-11-21-12.54.31.jpg"
+image_caption: "Photo by Benjamin Lester"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2954/all-i-wanna-do-is-ching-and-take-your-money
-imported: true
 comments:
  - value: >
      "If you want serious thought on the future of Britain’s youth, I’d go to a daycare centre before I went anywhere near the NUS." <br> <br>Brilliant!,Thanks for everyone's comments. <br> <br>Yakov, the important point is that primary and secondary education should be universal, and so it's a case of practicality that everyone contributes. We do pay for children's education through tax. University is not universal though. Everyone should be able to apply and compete for it and this is where the government must support the "poorer", it doesn't mean we shouldn't pay for it post graduation though. <br> <br>Obviously within each generation some are better off than others. But my generations poorest will be poorer than my parents, my generations middle class will be poorer than my parents. Borrowing from your children is a viscous cycle which should stop. <br> <br>I agree that inequality is a problem, I think there is a debate to be had on how to do it, but "tax the rich more" is an old solution which doesn't work and never has done. Ho
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211230001-tna08-2012-11-21-12.54.31.jpg"
-image_caption: ""
 ---
 
 Right now the NUS is congratulating itself on a job well done. Despite the rain it got ten thousand students out on the street, fights didn’t break out, there were enough placards to go around and the biggest cock up was when the President, Liam Burns, was egged and suffered a stage invasion by those who don’t like the NUS’s ‘moderate’ position. I’ll get to that in a minute.

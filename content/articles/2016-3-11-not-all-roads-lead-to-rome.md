@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The latest from the Coen brothers is solid filmmaking, but lacks a sense of energy
 date: "2016-03-11 11:51:35 +0000"
-
-# Attributes from Felix Online V1
-id: "6035"
-old_path: /film/6035/not-all-roads-lead-to-rome
+image: "http://felixonline.co.uk/img/upload/201603111150-felix-3231 (1).jpg"
+image_caption: "George Clooney as Baird Whitlock, in the Coen brothers' latest comedy outing, Hail, Caesar!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6035/not-all-roads-lead-to-rome
-imported: true
 comments:
  - value: >
      Wow because this is great work! Congrats and keep it up <br>csgo skins addon http://astrid.snack.ws/blog-nfl-coins.html,Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means more now than ever since the new Google update: Panda. No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings, You now NEED On-Page SEO. So what is good On-Page SEO?First your keyword must appear in the title.Then it must appear in the URL.You have to optimize your keyword and make sure that it has a nice keyword density of 3-5% in your article with relevant LSI (Latent Semantic Indexing). Then you should spread all H1,H2,H3 tags in your article.Your Keyword should appear in your first paragraph and in the last sentence of the page. You should have relevant usage of Bold and italics of your keyw
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603111150-felix-3231 (1).jpg"
-image_caption: ""
 ---
 
 Old Hollywood’ is a hell of a drug. In an age of social media saturation and online engagement, we long for the halcyon days of the glamourous star, as perfect and distant as a far-flung constellation. No matter how much dirt is unearthed on the horror of the old studio system – which includes forced marriages, arranged murders, and dodgy mob connections – there’s still an aching for a time long past; a willingness to swap enlightened debates about gender and race for just one more Rita Hayworth flick. _Hail, Caesar!_, the latest from the Coen brothers, takes aim at our love for nostalgia, throwing us into the wheelings and dealings of the chaotic world of Hollywood, communist tap dancers and all.

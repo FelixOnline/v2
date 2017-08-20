@@ -4,16 +4,13 @@ title: >
 subtitle: >
   2013 Emmy Awards: Who were the winners and losers?
 date: "2013-10-06 09:23:26 +0100"
-
-# Attributes from Felix Online V1
-id: "3815"
-old_path: /tv/3815/2013-emmy-awards-who-were-the-winners-and-losers
+image: "http://felixonline.co.uk/img/upload/201310061107-jal08-the-emmys.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/3815/2013-emmy-awards-who-were-the-winners-and-losers
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310061107-jal08-the-emmys.png"
-image_caption: ""
 ---
 
 ## Drama Category

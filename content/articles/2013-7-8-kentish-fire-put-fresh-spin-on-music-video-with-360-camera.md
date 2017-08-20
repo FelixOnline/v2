@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial student's band making an ambitious music video
 date: "2013-07-08 11:39:02 +0100"
-
-# Attributes from Felix Online V1
-id: "3743"
-old_path: /music/3743/kentish-fire-put-fresh-spin-on-music-video-with-360-camera
+image: "http://felixonline.co.uk/img/upload/201307081237-tna08-kentishfire360.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3743/kentish-fire-put-fresh-spin-on-music-video-with-360-camera
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - fmusic
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201307081237-tna08-kentishfire360.jpg"
-image_caption: ""
 ---
 
 Ever wondered what it's like to have eyes in the back of your head? Indie band [Kentish Fire](http://www.kentishfire.co.uk/) reveal all with an innovative new music video filmed using a 360° panoramic camera – the same used to create Google Street View maps. With help from a Kickstarter campaign starting this week, the ambitious project will culminate in a public video shoot in London this August, and the band want you to get involved.

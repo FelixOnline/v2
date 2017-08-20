@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tim Arbabzadah cannot translate the Rosetta Stone
 date: "2013-05-30 09:16:03 +0100"
-
-# Attributes from Felix Online V1
-id: "3639"
-old_path: /arts/3639/a-stones-throw-away
+image: "http://felixonline.co.uk/img/upload/201305301015-tna08-rosetta_stone.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3639/a-stones-throw-away
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305301015-tna08-rosetta_stone.jpg"
-image_caption: ""
 ---
 
 Museums are funny places. Not har-har funny, and not even someone tripping and then pretending they actually meant to stumble for a few steps funny. They’re funny in that many people wait until they are abroad to go to them. I do this quite a lot. Justin Bieber did that once in Amsterdam, but the less said about that the better. So I guess I shouldn’t have said it all then. Anyway, even though there may be a great museum on my doorstep, it’ll take me years to go there – a good example is the V&A, which I first stepped into after being in London for a whole four and a half years, not to mention the fact that I walked past it on a daily basis.

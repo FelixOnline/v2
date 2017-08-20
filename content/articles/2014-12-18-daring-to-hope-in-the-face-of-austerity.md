@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Clara Clark Nevola reviews The Royal Court's new play
 date: "2014-12-18 16:17:57 +0000"
-
-# Attributes from Felix Online V1
-id: "5072"
-old_path: /arts/5072/daring-to-hope-in-the-face-of-austerity
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5072/daring-to-hope-in-the-face-of-austerity
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - cfc111
  - ff712
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Fiscal responsibility and council politics – possibly the most unglamorous combination. In this new play by Jack Thorne, the story of a Labour council dealing with crippling budget cuts is recounted in a warm, human, engaging manner, highlighting the absurd situation that current austerity measures have created.

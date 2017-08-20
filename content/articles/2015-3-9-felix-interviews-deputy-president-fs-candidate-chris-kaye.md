@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-09 17:29:01 +0000"
-
-# Attributes from Felix Online V1
-id: "5369"
-old_path: /comment/5369/felix-interviews-deputy-president-fs-candidate-chris-kaye
+image: "http://felixonline.co.uk/img/upload/201503091728-ps3110-ck1510-5641.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5369/felix-interviews-deputy-president-fs-candidate-chris-kaye
-imported: true
 comments:
  - value: >
      new fitflops <br>fitflops sale http://australiafitflops.blogspot.com/,Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means more now than ever since the new Google update: Panda. No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings, You now NEED On-Page SEO. So what is good On-Page SEO?First your keyword must appear in the title.Then it must appear in the URL.You have to optimize your keyword and make sure that it has a nice keyword density of 3-5% in your article with relevant LSI (Latent Semantic Indexing). Then you should spread all H1,H2,H3 tags in your article.Your Keyword should appear in your first paragraph and in the last sentence of the page. You should have relevant usage of Bold and italics of your keyword.There should be one internal link to a page on
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503091728-ps3110-ck1510-5641.jpg"
-image_caption: ""
 ---
 
 __Voting is now open! Click [here ](https://vote.union.ic.ac.uk/)to take part now. __

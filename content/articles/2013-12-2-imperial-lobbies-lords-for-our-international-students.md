@@ -4,18 +4,16 @@ title: >
 subtitle: >
   There are two proposals in the Immigration Bill in particular which affect international students...
 date: "2013-12-02 12:24:18 +0000"
-
-# Attributes from Felix Online V1
-id: "4143"
-old_path: /news/4143/imperial-lobbies-lords-for-our-international-students
+image: "http://felixonline.co.uk/img/upload/201312031559-jal08-news_imbill.jpg"
+image_caption: "Imperial academics against the bill"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4143/imperial-lobbies-lords-for-our-international-students
-imported: true
 comments:
  - value: >
      The immigration bill needs to be debated in two parts. <br> <br>We should definitely oppose the £200 NHS levy but seriously the ID check on tenants is not a bad thing by any means. We can definitely work our way around that by making sure that students are not penalized when this is implemented. <br> <br>Can we not do the NUS-ish student bulls**t where we oppose any kind of change and anything that is of slifght inconvenience. Have these people not heard of the word "compromise"? It's all well and good to say you oppose something but what's valuable here is a solution rather than some constant bickering. <br> <br>And people wonder why no one listens to students..
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - ml2909
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201312031559-jal08-news_imbill.jpg"
-image_caption: ""
 ---
 
 There are two proposals in the Immigration Bill in particular which affect international students – the first is the introduction of an NHS fee of up to £200 per year of study, paid before entry into the country. For doctoral research students with families, this could add up to £3000 to their costs of studying in the UK. Although there is a persistent stereotype that all international students are rich, 51% of students claimed it would be a financial struggle to pay this levy.

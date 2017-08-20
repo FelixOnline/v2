@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In the age of Deliveroo and convenience foods, why should you cook at all? felix finds how the easiest way to connect with people isn’t in Metric or Nandos – it’s over your stovetop (wine helps too).
 date: "2016-11-11 17:06:30 +0000"
-
-# Attributes from Felix Online V1
-id: "6434"
-old_path: /food/6434/why-cook-at-all-
+image: "http://felixonline.co.uk/img/upload/201611111706-felix-Felix Food 161110NM Nearly done.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6434/why-cook-at-all-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - aib116
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611111706-felix-Felix Food 161110NM Nearly done.jpg"
-image_caption: ""
 ---
 
 The easiest way to make friends, anywhere, anytime, but specifically in college? Cook! I don’t mean the morning milk-and-cereal or ready meals you buy and just put in the microwave for five to ten minutes, I mean real food, prepared ‘with love’, just as your mother used to do before you left. I am not a chef, but from time to time I like to cook and more often than not, the food doesn’t end up in the trash. And every time I prepare something, my kitchen gets full – not only of tasty smells and veggies and pots – but of people.

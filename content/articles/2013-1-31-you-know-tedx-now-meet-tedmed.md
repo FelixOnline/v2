@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A new TED in town
 date: "2013-01-31 23:06:55 +0000"
-
-# Attributes from Felix Online V1
-id: "3203"
-old_path: /news/3203/you-know-tedx-now-meet-tedmed
+image: "http://felixonline.co.uk/img/upload/201301312305-tna08-tedmedstage.jpg"
+image_caption: "SAF just got a makeover"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3203/you-know-tedx-now-meet-tedmed
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301312305-tna08-tedmedstage.jpg"
-image_caption: ""
 ---
 
 Fresh from the excitement of last year’s incredibly successful TEDx event, those great TED vibes return to Imperial College once more, this time bringing with them [TEDMEDLive](http://www.tedmed.com/event/tedmedlive).

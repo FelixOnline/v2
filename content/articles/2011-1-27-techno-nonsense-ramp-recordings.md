@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This week Simon Hunter reports on the trailblazing label that is platforming some of London’s most exciting underground music
 date: "2011-01-27 20:43:24 +0000"
-
-# Attributes from Felix Online V1
-id: "701"
-old_path: /music/701/techno-nonsense-ramp-recordings
+image: "http://felixonline.co.uk/img/upload/201104221624-felix-avatars-000001517933-y8y8g6-crop.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/701/techno-nonsense-ramp-recordings
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - sh1207
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104221624-felix-avatars-000001517933-y8y8g6-crop.jpeg"
-image_caption: ""
 ---
 
 The underground dance music scene in the UK is the healthiest it has been for a number of years. London is, as ever, a melting pot for musicians from a myriad of backgrounds who push the boundaries of what becomes many peoples’ 4am soundtrack. It is in testament to this that I devote a second label review to a London-based label: [Ramp Recordings](http://www.myspace.com/ramprecordings). Set up in 2004 by Tom Kerridge in order to give his life a direction, Ramp Recordings has released music from the likes of Flying Lotus, Zomby and Maxmillion Dunbar.

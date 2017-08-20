@@ -4,16 +4,13 @@ title: >
 subtitle: >
   by George Gamow and Russell Stannard
 date: "2011-01-20 19:38:52 +0000"
-
-# Attributes from Felix Online V1
-id: "611"
-old_path: /science/611/the-new-world-of-mr-tompkins-
+image: "http://felixonline.co.uk/img/upload/201101201938-ks607-bookbook.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/611/the-new-world-of-mr-tompkins-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - ks607
  - kv07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101201938-ks607-bookbook.jpg"
-image_caption: ""
 ---
 
 I'm going to be a little self-indulgent this week, with a book that triggered my interest in physics. The new world of Mr Tompkins is a revised version of Gamowís classic, bringing the witty and engaging story of Mr Tompkins up to date with current physics. Taking the reader on a whirlwind tour through relativity, quantum mechanics, antimatter and black holes, Mr Tompkins provides an endearing medium for the authors to explain some complicated ideas. The physics is, of course, the backbone of the book but it reads like a novel, with Mr Tompkinsí plight for romance and love bringing the characters to life.

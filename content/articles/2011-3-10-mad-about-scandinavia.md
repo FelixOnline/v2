@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Nigel Kheng Wei Hehn and Ricki Calel review Madsen, a Scandinavian restaurant in the heart of South Kensington
 date: "2011-03-10 20:58:34 +0000"
-
-# Attributes from Felix Online V1
-id: "1079"
-old_path: /food/1079/mad-about-scandinavia-
+image: "http://felixonline.co.uk/img/upload/201103102056-ks607-madsenma.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1079/mad-about-scandinavia-
-imported: true
 comments:
  - value: >
      I made this last night and the flavor was fatisantc, but I am wondering what the final texture of the dessert is supposed to be. My grandmother's baked rice pudding was solid, almost like a dense cake or pie and tasted amazing. I was aiming for that, but despite 2.5+ hours of baking, it never really gelled together at the bottom. Could this have been due to the baking dish I used? Should I add another ingredient to help it set? Any help appreciated.,I made this last night and the flavor was fatisantc, but I am wondering what the final texture of the dessert is supposed to be. My grandmother's baked rice pudding was solid, almost like a dense cake or pie and tasted amazing. I was aiming for that, but despite 2.5+ hours of baking, it never really gelled together at the bottom. Could this have been due to the baking dish I used? Should I add another ingredient to help it set? Any help appreciated.
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -29,12 +26,6 @@ authors:
  - whk107
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103102056-ks607-madsenma.jpg"
-image_caption: ""
 ---
 
 Getting tired and sick of the same old fast food? Here’s a change for your taste buds going into the toughest second term of your life.

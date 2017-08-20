@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Could DNA storage be the future?
 date: "2013-01-31 23:35:46 +0000"
-
-# Attributes from Felix Online V1
-id: "3211"
-old_path: /science/3211/shakespeares-sonnets-encoded-in-dna-
+image: "http://felixonline.co.uk/img/upload/201301312335-tna08-block8.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3211/shakespeares-sonnets-encoded-in-dna-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - njk12
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301312335-tna08-block8.jpg"
-image_caption: ""
 ---
 
 Forget parchment in calf skin binding. Forget mock pine filing cabinets jammed with A4. Forget CDs, DVDs, MP3s – in fact, forget all digital, data-storing acronyms.

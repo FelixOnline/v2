@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Here's your starter for ten
 date: "2013-01-17 23:51:02 +0000"
-
-# Attributes from Felix Online V1
-id: "3122"
-old_path: /news/3122/with-the-university-challenge-team-coasting-into-the-next-round-the-team-for-next-year-is-chosen
+image: "http://felixonline.co.uk/img/upload/201301172350-tna08-uc.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3122/with-the-university-challenge-team-coasting-into-the-next-round-the-team-for-next-year-is-chosen
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - pa07
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301172350-tna08-uc.jpg"
-image_caption: ""
 ---
 
 While this season’s University Challenge is still underway, with Imperial College’s team still in the running, the selections have already been made for next year.

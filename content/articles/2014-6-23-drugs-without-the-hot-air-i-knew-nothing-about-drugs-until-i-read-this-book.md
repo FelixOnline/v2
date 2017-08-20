@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Guess which substance killed Amy Winehouse? Have a stab in the dark.
 date: "2014-06-23 14:54:59 +0100"
-
-# Attributes from Felix Online V1
-id: "4715"
-old_path: /science/4715/drugs-without-the-hot-air-i-knew-nothing-about-drugs-until-i-read-this-book
+image: "http://felixonline.co.uk/img/upload/201406231554-jal08-screen-shot-2014-06-23-at-15.54.42.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4715/drugs-without-the-hot-air-i-knew-nothing-about-drugs-until-i-read-this-book
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - jp1911
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406231554-jal08-screen-shot-2014-06-23-at-15.54.42.png"
-image_caption: ""
 ---
 
 __Guess which substance killed Amy Winehouse? Have a stab in the dark. __

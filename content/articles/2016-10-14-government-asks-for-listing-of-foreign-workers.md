@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Stop press: our editor is Greek
 date: "2016-10-14 09:22:38 +0100"
-
-# Attributes from Felix Online V1
-id: "6327"
-old_path: /news/6327/government-asks-for-listing-of-foreign-workers
+image: "http://felixonline.co.uk/img/upload/201610141120-felix-9510523656_86c78e534f_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6327/government-asks-for-listing-of-foreign-workers
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - mjj15
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610141120-felix-9510523656_86c78e534f_o.jpg"
-image_caption: ""
 ---
 
 Plans released at the Conservative Party Conference last week outlined a proposal for a register of foreign workers in UK companies. Amber Rudd, the new Home Secretary, announced that companies may be forced to submit a list of workers to the government in order to “nudge them into better behaviour”. Reading between the lines, this was a plan to foreign-shame companies into hiring local, British workers.

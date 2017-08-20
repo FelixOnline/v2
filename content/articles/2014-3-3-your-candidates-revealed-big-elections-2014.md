@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A complete list of all the candidates running in the Big Elections, both full time and part time
 date: "2014-03-03 14:14:24 +0000"
-
-# Attributes from Felix Online V1
-id: "4449"
-old_path: /news/4449/your-candidates-revealed---big-elections-2014
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4449/your-candidates-revealed---big-elections-2014
-imported: true
 comments:
  - value: >
      Someone called Irina Moraru is certainly playing the game…
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __President__

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tourists are set to be banned from Nazareth in the Amazon
 date: "2011-05-27 15:29:18 +0100"
-
-# Attributes from Felix Online V1
-id: "1280"
-old_path: /travel/1280/get-out-and-see-it-while-you-still-can
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/1280/get-out-and-see-it-while-you-still-can
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -23,12 +20,6 @@ authors:
  - cr709
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Recently Nazareth (no, not the Jesus one), a small town in the Amazon region of Colombia announced that tourists are no longer allowed to visit: the tens of thousands that visit each year are providing little for the economy and their presence is having detrimental effects on both local scenery and the livelihood of people.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Veronica Gouvea comments on what feminism really means
 date: "2012-02-16 22:03:47 +0000"
-
-# Attributes from Felix Online V1
-id: "2207"
-old_path: /comment/2207/keep-up-this-is-the-new-feminism
+image: "http://felixonline.co.uk/img/upload/201202162201-ams111-natasha-walter.-001.jpg"
+image_caption: "Natasha Walter, author of Living Dolls: The Return of Sexism"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2207/keep-up-this-is-the-new-feminism
-imported: true
 comments:
  - value: >
      Even the phrase "proof that we are more than capable of playing in the “big leagues” with all of the boys" feels too much here - it shouldn't need to be stated that this is the case (this is not a criticism of the article, incidentally). I really like the notion that we can effect change through equality and being *normal* rather than through loud angry discourse and debates over whether it's worse to be raped if you're a man or a woman (let's call it a tie and be done with it, eh, folks?). <br> <br>Waiting for the old mindset to die off might not work, though (as Felix's comment threads indicate that that particular genetic trait is well-inherited).,I thought sexism was discrimination based on gender, not solely discrimination against women. <br> <br>Feminism is the promotion of female rights, and so isn't the opposite of sexism, but is certaintly complementary to the opposing of sexism. <br> <br>Also, feminism isn't the only way to combat sexism, pretty sure we could take a scalpel to our primary/secondary sexual charac
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162201-ams111-natasha-walter.-001.jpg"
-image_caption: ""
 ---
 
 [Dear Sir](http://felixonline.co.uk/comment/2167/sexism-at-imperial-college/) – The word “feminism” is meant to be on opposite ends of the spectrum with “sexism”. Arguably it is the only means to combating sexism, but I hear this word being misused on a daily basis. If even the most forward-thinking students often disregard the true meaning of the word, how can it be used to combat sexism effectively? In order for this to happen, we must first ensure that we have a true understanding of what “feminism” entails. Modern feminism is nothing like the bra burning activism that took to the streets in the 60s, and it is certainly not that crap that Sarah Palin claims to support. Modern feminism is much more intricate and subtle; it’s not because we have lost our spirit, it’s because it can be. This type of feminism is led by strong women all over the world that are demonstrating with ease that their contribution to our advancement is just as important as any of their male counterparts (and no, I do not mean just in a reproductive sense…). Good examples of modern day feminists include the likes of Natasha Walter, who fully embodies this new, passive form of activism, and Facebook COO, Sheryl Sandberg, living proof that we are more than capable of playing in the “big leagues” with all of the boys.

@@ -4,17 +4,14 @@ title: >
 subtitle: >
   One of the finest comic book adaptations on the small screen
 date: "2016-02-09 13:25:29 +0000"
+image: "http://felixonline.co.uk/img/upload/201602091324-sa8713-the-flash.jpg"
 draft: true
-
-# Attributes from Felix Online V1
-id: "5893"
-old_path: /tv/5893/the-fastest-man-alive
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5893/the-fastest-man-alive
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -23,12 +20,6 @@ tags:
 authors:
  - sa8713
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602091324-sa8713-the-flash.jpg"
-image_caption: ""
 ---
 
 Pretty much any new TV series has a period of adjustment where the actors settle into their roles and the writers capture the show’s voice. Superhero shows are of course, no exception to this rule, as Agents of S.H.I.E.L.D. can testify. What makes the Flash unique is that it was able to hit the ground running straight off and just continually got better over the course of the next few months. Strictly speaking, it didn’t have to start from scratch; being a spinoff of Arrow, some of the characters and ideas were already established prior to its pilot.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Does Jonathan Franzen actually deserves all the hype he gets?
 date: "2010-10-14 19:26:03 +0100"
-
-# Attributes from Felix Online V1
-id: "206"
-old_path: /arts/206/jonathan-franzen-is-totally-overrated-
+image: "http://felixonline.co.uk/img/upload/201104191823-felix-6a00e54f92cc11883401348695a2d6970c-800wi.jpg"
+image_caption: "To be honest, I didn't actually expect any better from Time Magazine..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/206/jonathan-franzen-is-totally-overrated-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - felix
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104191823-felix-6a00e54f92cc11883401348695a2d6970c-800wi.jpg"
-image_caption: ""
 ---
 
 Apparently, very big things are happening in American Literary Fiction (ALF). In August, Time Magazine put author Jonathan Franzen on its front cover and the whole of the ALF establishment went bonkers. I confess that I haven’t read Franzen’s new ‘masterpiece’, but last year I did force myself through his previous work, 'The Corrections'.

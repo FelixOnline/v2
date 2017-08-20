@@ -4,18 +4,16 @@ title: >
 subtitle: >
   RAG drops Imperial Rugby from their Nude Calendar after Rugby made the national press.
 date: "2014-11-06 22:09:43 +0000"
-
-# Attributes from Felix Online V1
-id: "4811"
-old_path: /news/4811/rag-tells-rugby-we-dont-want-your-junk
+image: "http://felixonline.co.uk/img/upload/201411062209-snb11-dsc_0008.jpg"
+image_caption: "Taken from the Rugby Centrefold in Issue 1583 "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4811/rag-tells-rugby-we-dont-want-your-junk
-imported: true
 comments:
  - value: >
      cheapest fitflops <br>fitflops sale online http://australiafitflops.iemiller.net/,christian louboutin online <br>christian louboutin outlet http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin canada sale <br>buy christian louboutin shoes canada http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin womens flats canada <br>christian louboutin canada outlet http://canadachristianlouboutin.blogspot.com/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - snb11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411062209-snb11-dsc_0008.jpg"
-image_caption: ""
 ---
 
 In light of recent events surrounding Imperial College Rugby Club, the RAG committee chose to remove the team from their naked calendar for 2015.

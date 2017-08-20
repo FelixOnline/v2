@@ -4,16 +4,13 @@ title: >
 subtitle: >
   You! Yes you there! Considering closing libraries down?
 date: "2012-02-23 20:34:54 +0000"
-
-# Attributes from Felix Online V1
-id: "2236"
-old_path: /books/2236/a-call-to-arms-in-the-fight-to-save-our-libraries
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2236/a-call-to-arms-in-the-fight-to-save-our-libraries
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -23,12 +20,6 @@ authors:
  - ams111
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I first found out about [_The Library Book_](http://www.nationallibrariesday.org.uk/2012/01/profile-to-publish-the-library-book-in-aid-of-the-reading-agencys-library-programmes/) in a small addendum to a piece in the _Guardian_ by[ Lucy Mangan](http://www.guardian.co.uk/profile/lucymangan), one of my favourite columnists, announcing that she was one of the contributors. Investigating further, I became even more interested upon finding out that the contributors also included such impressive figures as Stephen Fry, China Miéville and Alan Bennett. Yet, even having known beforehand the amount of talent involved I have to say that the book far exceeded my expectations.

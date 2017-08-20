@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A response from members of the Feminist Society...
 date: "2014-06-23 13:13:25 +0100"
-
-# Attributes from Felix Online V1
-id: "4709"
-old_path: /comment/4709/is-feminism-a-toxic-word--response
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4709/is-feminism-a-toxic-word--response
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - klh110
  - ml2909
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __I’ve been calling myself a feminist for about 10 years, and I started doing so for a simple reason – I believe women and men should be treated equally. I was not going to pretend not to be something because it might make others around me more comfortable.__

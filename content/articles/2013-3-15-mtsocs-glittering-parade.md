@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Andrew Foster reviews MT Soc's latest show
 date: "2013-03-15 01:26:57 +0000"
-
-# Attributes from Felix Online V1
-id: "3474"
-old_path: /arts/3474/mtsocs-glittering-parade
+image: "http://felixonline.co.uk/img/upload/201303150125-tna08-dsc_0082.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3474/mtsocs-glittering-parade
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - asf10
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303150125-tna08-dsc_0082.jpg"
-image_caption: ""
 ---
 
 “The greatest happiness of the greatest number is the foundation of morals and justice.” Really Mr Bentham? We beg to differ, as we think you’ll find that it’s actually Musical Theatre Society’s latest production, Parade!, that will be providing all the moral and judicial foundations we will be needing from now on…

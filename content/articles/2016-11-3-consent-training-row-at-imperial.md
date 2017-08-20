@@ -4,18 +4,15 @@ title: >
 subtitle: >
   RCSU president questions funding of Consent Matters software
 date: "2016-11-03 23:06:26 +0000"
-
-# Attributes from Felix Online V1
-id: "6378"
-old_path: /news/6378/consent-training-row-at-imperial
+image: "http://felixonline.co.uk/img/upload/201611032305-felix-IMPERIAL_ICL_ExhibRdEntrance-120--tojpeg_1417791202195_x1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6378/consent-training-row-at-imperial
-imported: true
 comments:
  - value: >
      http://felixonline.co.uk/sex/6370/drunk-consent-is-not-consent-my-rape-story/ <br>This story is why people need consent lessons. Consent itself is not simple. <br>There are large grey areas in the law which people need to be made aware off.<br> I wouldn't trust £5000 going to boost RCSM's welfare budget as it seems their president believes the "boys will be boys",Hey there,<br>Thanks for your thoughts. I hope that you've had a chance to read my comment piece in the printed paper and not just this article, which I don't feel communicates my genuine views.<br> I fully agree that learning about consent is vital however I disagree on the matter of simplicity. Humans have a natural ability to judge social cues - expressions, body language, and speech - to tell how other people feel about a situation. From this information, it is not complicated to assess whether explicit consent has been given and whether this consent is genuine. The only lessons that need to be taught are:<br>a) Unless genuine, explicit consent is given, sex is
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611032305-felix-IMPERIAL_ICL_ExhibRdEntrance-120--tojpeg_1417791202195_x1.jpg"
-image_caption: ""
 ---
 
 The RCSU president, Lloyd James, has stepped forward to question Imperial College’s latest investment in student welfare, namely the licence purchase of an online consent training course, which was financed by College and cost a total of £ 5,000.

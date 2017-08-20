@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Protesters descended on the Treasury for the ‘Science is Vital’ rally last Saturday to fight for science funding
 date: "2010-10-14 19:33:30 +0100"
-
-# Attributes from Felix Online V1
-id: "208"
-old_path: /science/208/defend-our-geeks
+image: "http://felixonline.co.uk/img/upload/201010142030-ks607-sciencei.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/208/defend-our-geeks
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010142030-ks607-sciencei.jpg"
-image_caption: ""
 ---
 
 Is science vital? Imperial students most certainly think so.

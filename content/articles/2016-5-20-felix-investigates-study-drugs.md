@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Let’s be realistic. Should you take them and are they legal?
 date: "2016-05-20 09:02:33 +0100"
-
-# Attributes from Felix Online V1
-id: "6179"
-old_path: /features/6179/felix-investigates-study-drugs
+image: "http://felixonline.co.uk/img/upload/201605201100-felix-20160518_121524.jpg"
+image_caption: "Their website looks legit, but this is all about to become really illegal. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6179/felix-investigates-study-drugs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605201100-felix-20160518_121524.jpg"
-image_caption: ""
 ---
 
 Like all good things in life, this article starts with a disclaimer: FELIX is by no means advocating the use of these so-called study drugs. I don’t know about you, but shitting every hour doesn’t scream productive work mode to me, – each to their own. We’re just giving you some facts and student experiences so you can make up your own mind. FELIX is not your mum, but it does love you.

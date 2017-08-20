@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sixth in line to the throne visits Imperial
 date: "2015-10-16 14:05:12 +0100"
-
-# Attributes from Felix Online V1
-id: "5654"
-old_path: /news/5654/prince-andrew-hosts-entrepreneurial-contest
+image: "http://felixonline.co.uk/img/upload/201510161504-ygr12-potenchal2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5654/prince-andrew-hosts-entrepreneurial-contest
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510161504-ygr12-potenchal2.jpg"
-image_caption: ""
 ---
 
 Wednesday saw the Duke of York come to Imperial, to host his Pitch@Palace entrepreneurial competition.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Tim Arbabzadah reviews a number of less well-known shows
 date: "2011-11-03 20:27:58 +0000"
-
-# Attributes from Felix Online V1
-id: "1666"
-old_path: /tv/1666/brilliant-shows-youve-never-heard-of
+image: "http://felixonline.co.uk/img/upload/201111032026-pk1811-archer.jpg"
+image_caption: "The name’s Archer, Stirling Archer"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1666/brilliant-shows-youve-never-heard-of
-imported: true
 comments:
  - value: >
       I can't tell if this is a joke. Who the fuck hasn't heard of curb your enthusiasm or archer. Try watching freaks and geeks or undeclared or something. ,Who hasn't heard of Curb Your Enthusiasm? <br>Pretty much everyone I know. Sucks to be them, sure, but geez, the article even points out that it's not particularly obscure. <br>And I sure as heck hadn't heard of Archer, so personally, I'm glad I read this. BAM <br>
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111032026-pk1811-archer.jpg"
-image_caption: ""
 ---
 
 Last week, I wrote a column about how much I love [Arrested Development](http://www.youtube.com/watch?v=N9TXVMkQ29g). It was in this obscure student publication called Felix, you probably haven’t heard of it. Inspired by this, I decided to write about other, slightly obscure, TV shows that I love. Mainly, because I want more people to talk to (read: quote incessantly at) about them. So, put your eyes roughly 5mm below, and you can see some hidden TV gems. Okay, you can’t see them, but you can see my writing about them…

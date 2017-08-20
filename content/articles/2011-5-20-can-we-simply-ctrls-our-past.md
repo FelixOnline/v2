@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Jake Lea-Wilson explores the challenges that lie behind ‘futureproofing’ our history
 date: "2011-05-20 05:58:28 +0100"
-
-# Attributes from Felix Online V1
-id: "1234"
-old_path: /tech/1234/can-we-simply-ctrls-our-past
+image: "http://felixonline.co.uk/img/upload/201105200657-felix-doomsday.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/1234/can-we-simply-ctrls-our-past
-imported: true
 comments:
  - value: >
      Tactics to Recycle Outdated Prom coast dress and Isabel Marant shoes Your prom gown was stunning Arguable I know, but there are lots of rsanoes to choose white over blackWe all know the old saying that black is slimming, right? Its true and this is why your LBD is such a trusty, wear-anytime, optionIt's actually not simply just a good ancient briefs widely available in any anyone terrific wash cloth moreover impressive ringtones commonly, tanga briefs, hipsters moreover a great deal more start looking amazing approximately very soft egypt ratherBuying a coast dress and Isabel Marant shoesmakers DummyWhen buying coast dress and Isabel Marant shoesmakers dummies, you should ensure that you buy them in the right size and body shapeOne should always aim to be comfortable and to be themselves Ideal for boarding laps and also only relaxing around the beach, this very stylish expectant mother b razil bikinis is an marvellous final decision If you are on a tight budget, the cost is a crucial factor that you
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105200657-felix-doomsday.jpg"
-image_caption: ""
 ---
 
 In 1986 the BBC launched an ambitious campaign to repeat the Domesday Book collection of data in the 11th Century. The information was thought lost, a victim to digital obsolescence which is when a form of data storage becomes unreadable due to outdated technology. Through the perseverance and hard work of many at the BBC and The National Archives, the data gathered by over 1 million people has now been made public again after 25 years.

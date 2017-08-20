@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Behind the Candelabra review
 date: "2013-06-13 23:33:59 +0100"
-
-# Attributes from Felix Online V1
-id: "3694"
-old_path: /film/3694/too-gay-for-hollywood
+image: "http://felixonline.co.uk/img/upload/201306140033-tna08-behind-the-candelabra1.jpg"
+image_caption: "It’s okay - we’ll be the new Jeremy and Megan"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3694/too-gay-for-hollywood
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306140033-tna08-behind-the-candelabra1.jpg"
-image_caption: ""
 ---
 
 Director Steven Soderbergh recently spoke about how difficult it was to make his latest film, as it was deemed “too gay” by most big film studios. But thank heavens for Home Box Office (HBO) for giving Soderbergh his chance to tell the story of Liberace, one of the most celebrated, and highly paid musical figures in the 20th Century, known for his outrageously extravagant visuals on stage, his colourful lifestyle, as well as his ability to put on a cracking show and entertain.

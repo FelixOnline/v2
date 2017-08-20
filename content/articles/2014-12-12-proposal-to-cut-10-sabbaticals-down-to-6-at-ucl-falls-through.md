@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Campaigners for huge cuts in number of sabbs vow they "will be back".
 date: "2014-12-12 12:47:06 +0000"
-
-# Attributes from Felix Online V1
-id: "5047"
-old_path: /news/5047/proposal-to-cut-10-sabbaticals-down-to-6-at-ucl-falls-through
+image: "http://felixonline.co.uk/img/upload/201412121247-ps3110-gordon.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5047/proposal-to-cut-10-sabbaticals-down-to-6-at-ucl-falls-through
-imported: true
 comments:
  - value: >
      christian louboutin new york <br>christian louboutin shoes outlet http://christianlouboutincanadaoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412121247-ps3110-gordon.jpg"
-image_caption: ""
 ---
 
 UCL Union has voted to not reduce the number of sabbatical officers in a close-fought debate at a General Assembly on Tuesday. The motion, which was voted for by a simple majority of students, failed to pass as it did not reach the 75% majority necessary to modify UCLU’s governing documents.

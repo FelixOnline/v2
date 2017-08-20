@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philippa Skett sips a Starbucks whilst writing about how bees get their own daily fix
 date: "2013-03-15 01:00:54 +0000"
-
-# Attributes from Felix Online V1
-id: "3466"
-old_path: /science/3466/bees-feel-the-caffeine-buzz
+image: "http://felixonline.co.uk/img/upload/201303150305-tna08-european_honey_bee_extracts_nectar.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3466/bees-feel-the-caffeine-buzz
-imported: true
 comments:
  - value: >
      I actually was having a mocha from the library cafe. Still a quality beverage though
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303150305-tna08-european_honey_bee_extracts_nectar.jpg"
-image_caption: ""
 ---
 
 A drink usually associated with those that have too little time on their hands and too much to do, coffee is not just a beverage but has become a lifestyle choice. What you drink is “personal,” according to Starbucks, makingthis caffeinated concoction sound more like an outfit choice than a quick fix to a lagging brain. However, it emerged this week that it is not just humans that indulge in the caffeine kick – bees are feeling more than their usual buzz too.

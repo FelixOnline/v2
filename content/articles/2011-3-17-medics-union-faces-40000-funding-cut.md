@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial College Healthcare Charity to reduce support for Medic Union
 date: "2011-03-17 19:20:44 +0000"
-
-# Attributes from Felix Online V1
-id: "1087"
-old_path: /news/1087/medics-union-faces-40000-funding-cut
+image: "http://felixonline.co.uk/img/upload/201103171916-ks607-medicstu.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1087/medics-union-faces-40000-funding-cut
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ann09
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103171916-ks607-medicstu.jpg"
-image_caption: ""
 ---
 
 Imperial College School of Medicine Students’ Union (ICSMSU) is facing a £40,000 cut to its funding, as [Imperial College Healthcare Charity](http://www.imperial.nhs.uk/imperialcharity) withdraws its support over the next 5 years, with a 20% reduction each year. This will be especially detrimental to the electives fund and ICSM Gazette. ICSMSU President, David Smith, is confident that the Union will acquire self-sufficiency with more alumni support in the next five to six years. According to [the only candidate running for ICSMSU President 2011-12](http://felixonline.co.uk/news/1088/the-next-medic-president/), Suzanne Rayner, “we’re looking to our faculty and they seem supportive, and there are other areas that contribute like St Mary’s Association and St Mary’s trustees”.

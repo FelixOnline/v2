@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The team aims to produce a fully functioning creatinine sensor which rivals those currently available
 date: "2016-05-06 10:18:43 +0100"
-
-# Attributes from Felix Online V1
-id: "6136"
-old_path: /cands/6136/imperial-puts-forward-a-team-in-an-international-sensor-building-competition
+image: "http://felixonline.co.uk/img/upload/201605061118-felix-12698176_216110085402467_4463194750077487305_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/6136/imperial-puts-forward-a-team-in-an-international-sensor-building-competition
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -23,12 +20,6 @@ authors:
  - jmw114
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061118-felix-12698176_216110085402467_4463194750077487305_o.jpg"
-image_caption: ""
 ---
 
 Imperial College has put forward a team of twelve students to compete in the International SensUs Competition, which aims to produce a creatinine molecular biosensor for healthcare applications. Its applications include uses in monitoring chronic kidney damage, radiology, the cardiovascular system and transplantation.

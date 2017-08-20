@@ -4,18 +4,15 @@ title: >
 subtitle: >
   International effort to make air travel greener begins at Imperial
 date: "2011-01-27 19:05:44 +0000"
-
-# Attributes from Felix Online V1
-id: "662"
-old_path: /science/662/when-the-skies-became-green-
+image: "http://felixonline.co.uk/img/upload/201101271904-ks607-aeroplan.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/662/when-the-skies-became-green-
-imported: true
 comments:
  - value: >
      ,
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -26,12 +23,6 @@ authors:
  - vbb08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101271904-ks607-aeroplan.jpg"
-image_caption: ""
 ---
 
 The Green Aviation Forum organised a one day international symposium at Imperial College on the 6th January 2011, in an attempt to link together many of the green aviation research activities ongoing at the College.

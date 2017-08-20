@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tessa Davey just wants to be able to commute for less than five hours a day
 date: "2017-01-13 14:00:51 +0000"
-
-# Attributes from Felix Online V1
-id: "6634"
-old_path: /comment/6634/southern-rail-need-to-get-their-shit-together
+image: "http://felixonline.co.uk/img/upload/201701131408-felix-Screen Shot 2017-01-13 at 14.04.21.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6634/southern-rail-need-to-get-their-shit-together
-imported: true
 comments:
  - value: >
      Good piece, I can definitely understand the frustration, and I'm glad that you have recognised that the strikes are mostly about safety. You are also correct in saying that 'train companies run at a loss' is total bs. Ask Abellio, who are owned by the Dutch national rail service. Yep, re-nationalisation sounds like a good idea to me. Though Sadiq Khan's handling of the tube strikes was less than impressive.,Good piece, I can definitely understand the frustration, and I'm glad that you have recognised that the strikes are mostly about safety. You are also correct in saying that 'train companies run at a loss' is total bs. Ask Abellio, who are owned by the Dutch national rail service. Yep, re-nationalisation sounds like a good idea to me. Though Sadiq Khan's handling of the tube strikes was less than impressive.,Good piece, I can definitely understand the frustration, and I'm glad that you have recognised that the strikes are mostly about safety. You are also correct in saying that 'train companies run at a los
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - tad08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701131408-felix-Screen Shot 2017-01-13 at 14.04.21.png"
-image_caption: ""
 ---
 
 There were train strikes this week, you might have heard. No, not the tube strikes, they happen like once a year; you can take a bus for a day, get over yourself, no one cares. I’m talking about Southern Rail, whose staff are on strike for three days this week, causing a genuine total shutdown of all services.

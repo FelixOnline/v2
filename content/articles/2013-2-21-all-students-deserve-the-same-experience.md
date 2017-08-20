@@ -4,19 +4,16 @@ title: >
 subtitle: >
   It should not be separated between cheap and far and expensive and close, says Scott Heath, Union President (2011-2012)
 date: "2013-02-21 23:45:17 +0000"
+image: "http://felixonline.co.uk/"
 draft: true
-
-# Attributes from Felix Online V1
-id: "3348"
-old_path: /comment/3348/all-students-deserve-the-same-experience
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3348/all-students-deserve-the-same-experience
-imported: true
 comments:
  - value: >
      mont blanc legrand rollerball refill blue, montblanc ballpoint, replica mont blanc pen pouch, michael kors rings, selma michael kors bag, genuine ugg boots label, leather kensington ugg boots uk, ugg slippers for men, michael kors iphone clutch, michael kors keychain, Montblanc Boutique Locations, mont blanc pens christchurch new zealand, montblanc meisterstuck rollerball, vintage montblanc pens amazon, montblanc ballpoint pen refills, penna a sfera montblanc starwalker, shoes michael kors, ugg bailey bow colors, michael kors clearance, michael kors umbrella <br>mont blanc pen price list malaysia http://196.37.111.59/script/id=mont-blanc-pen-price-list-malaysia-y5154.php
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 During my degree, and my Sabbatical term, I was always concerned with the prospect of future students being priced out of accommodation.

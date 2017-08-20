@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Maya Kaushik explains the link between slow reactions and suicidal rats
 date: "2011-12-08 20:45:53 +0000"
-
-# Attributes from Felix Online V1
-id: "1920"
-old_path: /science/1920/the-subtle-parasite
+image: "http://felixonline.co.uk/img/upload/201112082045-pk1811-45125915.winterdriveway.jpg"
+image_caption: "Parasites may be lurking on a cold winter’s day, better off staying in..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1920/the-subtle-parasite
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - mk6809
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082045-pk1811-45125915.winterdriveway.jpg"
-image_caption: ""
 ---
 
 It’s the start of a cold winter’s day in London. A young man gets into his car to drive to work. Amongst the bustle of traffic, a pedestrian runs onto the road – the young man sees this, but does not react fast enough. The car swerves, bumps into the pavement, and he wakes up dazed in hospital a few hours later.

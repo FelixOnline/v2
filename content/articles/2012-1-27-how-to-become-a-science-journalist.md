@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Alice Yang talks to Dr. Toby Murcott about his not so straightforward career path
 date: "2012-01-27 00:22:55 +0000"
-
-# Attributes from Felix Online V1
-id: "2080"
-old_path: /news/2080/how-to-become-a-science-journalist
+image: "http://felixonline.co.uk/img/upload/201201270021-felix-shapeimage_2.jpg"
+image_caption: "Dr. Toby Murcott"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2080/how-to-become-a-science-journalist
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - felix
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201270021-felix-shapeimage_2.jpg"
-image_caption: ""
 ---
 
 An animated and passionate figure in person, [Dr. Toby Murcott](http://www.esconet.org/Visitors/TobyMurcott.html) is as one would imagine the typical science journalist – never without an opinion, in possession of an open (yet critical and witty) mind and of course, a seemingly unlimited knowledge of everything within the bounds of science.

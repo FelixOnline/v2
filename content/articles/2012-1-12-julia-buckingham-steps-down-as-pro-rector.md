@@ -4,16 +4,13 @@ title: >
 subtitle: >
   First female Vice-Chancellor
 date: "2012-01-12 21:54:02 +0000"
-
-# Attributes from Felix Online V1
-id: "1975"
-old_path: /news/1975/julia-buckingham-steps-down-as-pro-rector
+image: "http://felixonline.co.uk/img/upload/201201122153-felix-professor_julia_buckingham__xd.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1975/julia-buckingham-steps-down-as-pro-rector
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - cac111
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201122153-felix-professor_julia_buckingham__xd.jpg"
-image_caption: ""
 ---
 
 [Professor Julia Buckingham](http://www3.imperial.ac.uk/educationoffice/about/julia), current Pro-Rector for Education and Academic Affairs at Imperial College London, has been appointed as the next Vice-Chancellor and Principal for [Brunel University](http://www.brunel.ac.uk/). The first woman to be appointed to this position at Brunel, she will assume duties from Professor Chris Jenks on October 1 2012.

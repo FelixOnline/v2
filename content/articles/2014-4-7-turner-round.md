@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Kieran Ryan takes the pilgrimage to Margate to see Turner and Frankenthaler
 date: "2014-04-07 12:52:12 +0100"
-
-# Attributes from Felix Online V1
-id: "4523"
-old_path: /arts/4523/turner-round
+image: "http://felixonline.co.uk/img/upload/201404071352-jal08-arts-margate-2.jpg"
+image_caption: "Helen Frankenthaler, Overture, 1992"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4523/turner-round
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - jal08
  - kr812
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201404071352-jal08-arts-margate-2.jpg"
-image_caption: ""
 ---
 
 __M__argate is like the New Brighton of the South, but a bit larger & more remote. It’s stuck between the nostalgia of the seaside’s heyday, disappointment at its current pointlessness, and the trickle of investment coming into British seaside towns. Symptomatic is the amusement park Dreamland, its entrance capped with its name in yellow capitals, closed for the last eight years.

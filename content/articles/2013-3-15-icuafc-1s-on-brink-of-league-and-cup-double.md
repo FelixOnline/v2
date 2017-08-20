@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Despite dubious musical choices, they seem to be hitting the big times
 date: "2013-03-15 02:05:48 +0000"
-
-# Attributes from Felix Online V1
-id: "3484"
-old_path: /sport/3484/icuafc-1s-on-brink-of-league-and-cup-double
+image: "http://felixonline.co.uk/img/upload/201303150204-tna08-footy1sforreals.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3484/icuafc-1s-on-brink-of-league-and-cup-double
-imported: true
 comments:
  - value: >
      I'm imsdrpsee. You've really raised the bar with that.,She really is the most <a href="http://hxtvpfwrz.com">beuafitul</a> little thing. Of course I remember that facebook status and how I knew right away! haha. I'm glad I got in on the secret from the beginning, cause it turned out to be SUCH a great one! I am trying not to think about Felix right now though because I miss her (and you) so terribly . . . can't believe next time I hold her she will be so much bigger!!!
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303150204-tna08-footy1sforreals.png"
-image_caption: ""
 ---
 
 After a long season, ICUAFC 1s were hoping to follow in the footsteps of Dante emerging from the Inferno and Purgatory into the long awaited Heaven (minus a Roman poet as a guide and lasting considerably longer than 66 Cantos). The week beginning 25th February was the definition of make or break, with matches against Hertfordshire 2s—placed 2nd in BUCS—and a LUSL cup semi-final against Kings Medic 2s (GKT [TK MAXX]).

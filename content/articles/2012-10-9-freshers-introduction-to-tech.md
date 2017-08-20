@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Technically speaking: Fresher tech guide
 date: "2012-10-09 10:21:31 +0100"
-
-# Attributes from Felix Online V1
-id: "2637"
-old_path: /tech/2637/freshers-introduction-to-tech
+image: "http://felixonline.co.uk/img/upload/201210091214-jp1409-speedtest.png"
+image_caption: "MOAR SPEED. NEVER STREAM AGAIN"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/2637/freshers-introduction-to-tech
-imported: true
 comments:
  - value: >
      Hey just for fun, here are some things vsilbie in the room: 1. My book sculptures (top shelf)2. A plastic owl3. Longboard skateboard4. Framed pages from Fantastic Four: the trial of Galactus by John Byrne, which is the first comic I ever bought.5. Quebec flag on wall (reminds me to think or read in French now and then.)6. Double keyboard stand for video-gamey music.7. Rubber/electronic drum kit, which is often played at Inuvik Legion.
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +26,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210091214-jp1409-speedtest.png"
-image_caption: ""
 ---
 
 __General Productivity__

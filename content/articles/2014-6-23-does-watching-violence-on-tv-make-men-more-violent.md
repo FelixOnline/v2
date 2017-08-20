@@ -4,16 +4,13 @@ title: >
 subtitle: >
   New research has shown that men watching more violence on television could result in stunted in brain development, and the inability to control impulsive behaviours, including aggression.
 date: "2014-06-23 14:52:45 +0100"
-
-# Attributes from Felix Online V1
-id: "4714"
-old_path: /science/4714/does-watching-violence-on-tv-make-men-more-violent
+image: "http://felixonline.co.uk/img/upload/201406231552-jal08-prince-oberyn-got.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4714/does-watching-violence-on-tv-make-men-more-violent
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406231552-jal08-prince-oberyn-got.jpg"
-image_caption: ""
 ---
 
 New research has shown that men watching more violence on television could result in stunted in brain development, and the inability to control impulsive behaviours, including aggression.

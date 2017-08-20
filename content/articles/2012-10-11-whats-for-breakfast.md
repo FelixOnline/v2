@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Making missing the "most important meal of the day" a thing of the past
 date: "2012-10-11 21:19:08 +0100"
-
-# Attributes from Felix Online V1
-id: "2670"
-old_path: /food/2670/whats-for-breakfast
+image: "http://felixonline.co.uk/img/upload/201210112218-felix-pouring-milk-on-cereal-carol-articlergbizzle.jpg"
+image_caption: "I’m going rogue and pouring LOADS of milk on the cereal"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2670/whats-for-breakfast
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +22,6 @@ authors:
  - cac111
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112218-felix-pouring-milk-on-cereal-carol-articlergbizzle.jpg"
-image_caption: ""
 ---
 
 You don’t need me to rehash that old cliché about breakfast being the most important meal of the day, seeing as it’s been nattered on enough. Some of you who skip breakfast might even want to stab my eyeballs for even bringing it up. However, for the majority of you who skimp on it because you rolled out of bed with precious little time to spare, this one’s for you. A major plus is that these things won’t give you a severe sugar crash afterwards. Thank us for the improved concentration in lectures later.

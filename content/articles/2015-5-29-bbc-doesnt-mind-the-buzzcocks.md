@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jack Steadman breaks down the BBC's axing of the beloved panel show.
 date: "2015-05-29 10:59:07 +0100"
-
-# Attributes from Felix Online V1
-id: "5585"
-old_path: /tv/5585/bbc-doesnt-mind-the-buzzcocks
+image: "http://felixonline.co.uk/img/upload/201505291300-js5913-never-mind.jpg"
+image_caption: "A typical line up for Never Mind the Buzzcocks during one of its guest host phases. I know who some of hese people are, honest."
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5585/bbc-doesnt-mind-the-buzzcocks
-imported: true
 comments:
  - value: >
      Really enlightening, looking forth to visiting again <br>fifa 17 coins http://caddrones.com/blog.htm?a=&amp;nid=2FAE8A05-1086-4782-9823-00647BF4700D
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -26,12 +24,6 @@ authors:
  - js5913
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505291300-js5913-never-mind.jpg"
-image_caption: ""
 ---
 
 Comedy music panel show Never Mind the Buzzcocks was dropped by the BBC this week, after almost 20 years and nearly 270 episodes on air.

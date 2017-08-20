@@ -4,18 +4,16 @@ title: >
 subtitle: >
   This summer, Kadhim Shubber raised £3,000 for Imperial scholarships by cycling from John O’Groats to Land’s End on a tandem... with a skeleton
 date: "2012-10-05 11:51:56 +0100"
-
-# Attributes from Felix Online V1
-id: "2604"
-old_path: /news/2604/time-to-rest-my-bones
+image: "http://felixonline.co.uk/img/upload/201210051758-ks607-334236_263637940415811_1555576600_o.jpg"
+image_caption: "Kadhim, Sioni (background), and Arthur (skeleton) arriving at Land's End on the 14th of July"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2604/time-to-rest-my-bones
-imported: true
 comments:
  - value: >
      A phenomenal achievement for a great cause. Well done.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210051758-ks607-334236_263637940415811_1555576600_o.jpg"
-image_caption: ""
 ---
 
 The last day was bliss. My parents had driven down to Cornwall and had taken the bags off our bikes; after two weeks, [we finally had a support car](https://twitter.com/skeletonfund/status/224069966868119552). With the weight removed from my beleaguered back wheel, the tandem was a dream. I sped up the hills, my now mutant thighs making short work of the climbs, and then flew down the other side, enjoying gears I hadn’t realised existed before. The Claud Butler racing tandem, the “[Majestic Two](http://homepage.ntlworld.com/nkilgariff/ClaudButler.htm)”, was finally getting to spread its wings. The sun was out, and King Arthur (the skeleton) was getting to feel the wind in his… chest cavity. We arrived at Land’s End in no time.

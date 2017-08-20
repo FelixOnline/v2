@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Investigation launched after £3 million exhaust system is built with wrong type of steel
 date: "2011-05-05 23:40:45 +0100"
-
-# Attributes from Felix Online V1
-id: "1148"
-old_path: /news/1148/blunder-in-mechanical-engineering-department
+image: "http://felixonline.co.uk/img/upload/201105060042-felix-cirque_du_soleil_-_5009.jpg"
+image_caption: "The Mechanical Engineering Department"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1148/blunder-in-mechanical-engineering-department
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105060042-felix-cirque_du_soleil_-_5009.jpg"
-image_caption: ""
 ---
 
 A team of technical experts is currently investigating how a £3 million exhaust system, in the Mechanical Engineering building, came to be built with galvanised, instead of stainless steel. The College were reluctant to reveal the cost of fixing the error, saying only that it was less than half of the original cost, meaning that whichever party is found liable could face a bill of up to £1.5 million.

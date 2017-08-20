@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-06-10 08:28:13 +0100"
-
-# Attributes from Felix Online V1
-id: "6258"
-old_path: /science/6258/science--the-city
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6258/science--the-city
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - nms15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 There are some of us puttering around campus that remember a time before smartphones and constantly available internet. Even before sharing just the one computer in the corner of the living room with your entire family, waiting painstakingly for the whirling ring of the AOL dialup to finish, only to be kicked off again five minutes later when someone 'needed' the phone. When connecting with people involved – wait for it – walking over to their house and knocking over the door.

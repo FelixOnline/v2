@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix Film ranks the Bond films to decide which is the best
 date: "2012-10-29 18:33:05 +0000"
-
-# Attributes from Felix Online V1
-id: "2776"
-old_path: /film/2776/the-best-bond-film-of-all-time
+image: "http://felixonline.co.uk/img/upload/201210291833-tna08-tcfhe-bond-at-50-box-set.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2776/the-best-bond-film-of-all-time
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210291833-tna08-tcfhe-bond-at-50-box-set.jpeg"
-image_caption: ""
 ---
 
 22. Moonraker (1979)

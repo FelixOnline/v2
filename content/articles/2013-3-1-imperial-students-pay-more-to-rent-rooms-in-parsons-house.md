@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Students pay £1000 more than privately renting a room. College responds to questions over the price. Wardening and renting rooms from company highlighted.
 date: "2013-03-01 01:03:36 +0000"
-
-# Attributes from Felix Online V1
-id: "3415"
-old_path: /news/3415/imperial-students-pay-more-to-rent-rooms-in-parsons-house
+image: "http://felixonline.co.uk/img/upload/201303010103-tna08-payment-for-halls.jpg"
+image_caption: "A screenshot showing a monthly payment"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3415/imperial-students-pay-more-to-rent-rooms-in-parsons-house
-imported: true
 comments:
  - value: >
      @both <br> <br>Thanks for commenting and also for reading and taking an interest! (That is genuine, sorry if it looks sarcastic). <br> <br>To answer you both: I will be looking into this further next week, so hopefully updates soon... <br> <br>In terms of just one half month. I am now going to be uploading a picture showing multiple payments for multiple months. The only reason that the longer screen cap wasn't used was due to space restrictions in the paper. <br> <br>Anyway, to summarise, we'll be looking into this further and hopefully getting more details for you next week. If either of you want to get in touch, email felix@imperial.ac.uk. I'm always happy to get emails! <br> <br>P.S. Apologies to Maciej, the author of this. It was accidentally misattributed on the website. This has now been corrected.,Okay, picture uploaded. Sorry that it's so small. Hopefully it's still readable...,I have no reason whatsoever to disbelieve the source because I have found this: <br> <br>http://bucks.ac.uk/home_eu_students/accommodation/uxbridge_accommodatio
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303010103-tna08-payment-for-halls.jpg"
-image_caption: ""
 ---
 
 Concerns have been raised about potentially excessive rents at one of Imperial’s hall of residence. Imperial College rents the first three levels of Parsons House, located on the grounds of Charing Cross Hospital, from housing company A2 Dominion and then rents out individual rooms to students for £121.82 a week. All rooms are single occupancy with a shared kitchen and bathrooms.

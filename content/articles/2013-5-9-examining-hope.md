@@ -4,16 +4,13 @@ title: >
 subtitle: >
   An editorial about, what else, exams and halls.
 date: "2013-05-09 15:35:35 +0100"
-
-# Attributes from Felix Online V1
-id: "3562"
-old_path: /comment/3562/examining-hope
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3562/examining-hope
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It’s that time of year once again. The last term and the last stretch of College until exams are over (hopefully you won’t be returning in summer for resits). You can almost sense the high tension and stress in the air. It’s a familiar feeling and reminds you that the culmination of months (and in some people’s case years) of work is just around the corner. Much like Phil Collins once said, you can feel it coming in the air tonight – which, incidentally, I’ve only just realised actually sounds pretty rude when you think about it.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Caz Knight goes to her first Fringe Festival and finds out what happens when women wee and how to achieve enlightenment in 8 steps
 date: "2010-09-01 16:08:28 +0100"
-
-# Attributes from Felix Online V1
-id: "155"
-old_path: /arts/155/the-camden-fringe-festival-2010
+image: "http://felixonline.co.uk/img/upload/201009011705-ks607-blonde.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/155/the-camden-fringe-festival-2010
-imported: true
 comments:
  - value: >
      vanessa lopez - These pictures are the most beatfiuul, and so creative that I've ever seen. Your work is amazing. I'm from Weslaco,Tx. I've been looking for a photographer ever since I turned 5 mths and now that I'm 2wks away from my due date its been so hard. I hope one day u decide to open up a studio closer by bkuz there is nothing like that here. Luv ur wrk ,Celeste Clatterbuck - Hello I am 7 months <a href="http://zczgwcxlpac.com">prganent</a> and really love your pictures! I would love to get some pictures done with you. I just need to know how much you charge. Thank you
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +23,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201009011705-ks607-blonde.jpg"
-image_caption: ""
 ---
 
 The Camden Fringe, you say? Nestled into nine venues dotted around the already eclectic Camden Town, NW1’s answer to the Edinburgh Fringe gives us veteran and fresh artists alike, in what is an August-long month of theatre and comedy.

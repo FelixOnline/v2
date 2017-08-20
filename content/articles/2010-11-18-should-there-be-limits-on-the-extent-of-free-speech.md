@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A range of opinions on the ever important issue of freedom of speech
 date: "2010-11-18 20:24:40 +0000"
-
-# Attributes from Felix Online V1
-id: "387"
-old_path: /politics/387/should-there-be-limits-on-the-extent-of-free-speech-
+image: "http://felixonline.co.uk/img/upload/201011182018-ks607-politics.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/387/should-there-be-limits-on-the-extent-of-free-speech-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -25,12 +22,6 @@ authors:
  - ks607
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011182018-ks607-politics.jpg"
-image_caption: ""
 ---
 
 Minister for Communities and Local Government, Andrew Stunnell visited Imperial last month to speak at Interfaith’s student led debate on the right to freedom of speech. Views were heard from members of the Jewish Society, Islamic Society, Christian Union and a secular member of the Debating Society.

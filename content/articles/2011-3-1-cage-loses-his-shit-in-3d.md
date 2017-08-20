@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Nicolas Cage gets mad in Drive Angry 3D, what else did you expect from him?
 date: "2011-03-01 21:03:08 +0000"
-
-# Attributes from Felix Online V1
-id: "963"
-old_path: /film/963/cage-loses-his-shit-in-3d
+image: "http://felixonline.co.uk/img/upload/201103012101-ks607-driveang.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/963/cage-loses-his-shit-in-3d
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - jh308
  - mab108
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103012101-ks607-driveang.jpg"
-image_caption: ""
 ---
 
 When a film uses the suffix of “3D” in its title, it comes with several expectations. Not only does this generally promise an excessive, gratuitous use of 3D, but it also often means that the film will be entirely ludicrous from start to finish Enter Nicolas Cage in Drive Angry 3D. This film not only deliver all of the above, but it also – as the rest of the title suggests – has Academy Award winning actor Cage doing a lot of angry driving.

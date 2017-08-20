@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Yesterday, 8 College staff members received prizes at the Union’s annual Student Academic Choice Awards (SACAs).
 date: "2014-05-16 01:31:59 +0100"
-
-# Attributes from Felix Online V1
-id: "4592"
-old_path: /news/4592/academic-teaching-and-support-staff-recognised-at-union-student-academic-choice-awards
+image: "http://felixonline.co.uk/img/upload/201405160235-jal08-1576_news_tbl_sacas-1_web.jpg"
+image_caption: "The Student Academic Choice Awards"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4592/academic-teaching-and-support-staff-recognised-at-union-student-academic-choice-awards
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405160235-jal08-1576_news_tbl_sacas-1_web.jpg"
-image_caption: ""
 ---
 
 Yesterday, 8 College staff members received prizes at the Union’s annual Student Academic Choice Awards (SACAs).

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Elizabeth Richards reports on the winning performances of the Boat Club so far
 date: "2011-12-08 20:37:20 +0000"
-
-# Attributes from Felix Online V1
-id: "1916"
-old_path: /sport/1916/blades-of-glory-a-successful-term-for-ic-rowers
+image: "http://felixonline.co.uk/img/upload/201112082037-felix-icbc4-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1916/blades-of-glory-a-successful-term-for-ic-rowers
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - er208
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082037-felix-icbc4-1.jpg"
-image_caption: ""
 ---
 
 [Imperial College Boat Club](http://www.imperialboatclub.co.uk/) has started the academic year with some incredible results. From the outset, Imperial students, both past and present, have shown strength in depth across the men’s and women’s squads and brought home the silverware to prove it.

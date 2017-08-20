@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Nobody's horsing around
 date: "2012-02-23 21:36:22 +0000"
-
-# Attributes from Felix Online V1
-id: "2257"
-old_path: /sport/2257/ponies-snow-and-a-broken-jaw-at-polo-nationals
+image: "http://felixonline.co.uk/img/upload/201202232136-cac111-1.gif"
+image_caption: "There’s nothing My Little Pony about this"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2257/ponies-snow-and-a-broken-jaw-at-polo-nationals
-imported: true
 comments:
  - value: >
      Well put, Dan. That makes me feel even better about my first three years of hunntig, and last year, too. I had four successful years in between and...,I'm still not buying into the idea of there being a <a href="http://fzavww.com">broenpaikt</a> in my life where I go from working to not working and relying on investments for my income. I have an associate I work with who's well into his 70 s, still works as many hours as I do. Right now I work lots, and take time off when needed/desired. Maybe in the future I will change that balance a bit, but I don't intend to simply give up work. No way am I going to go fishing everyday, or fill my entire day every day with household chores. Investments and savings can get me to the point where I'm OK financially if I'm unable to work. But for me it's a disability policy for my later years, not a work replacement program.
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202232136-cac111-1.gif"
-image_caption: ""
 ---
 
 It’s actually getting pretty tough to remember how many polo nationals I’ve been to these days. However, this year, with a new venue in the Midlands, we were expecting something a bit different and a bit special. With some stunning new club shirts courtesy of the extremely generous Rydges Hotel Kensington and the attached Polo Bar on Gloucester Road we felt confident that we were going to at least look the part; with marginally more practice as a team this year than on previous occasions we had fingers crossed for a strong finish.

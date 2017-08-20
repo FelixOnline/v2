@@ -4,16 +4,13 @@ title: >
 subtitle: >
   And why shouldn't I?
 date: "2011-06-23 21:14:39 +0100"
-
-# Attributes from Felix Online V1
-id: "1435"
-old_path: /food/1435/so-hungry-i-could-eat-a-horse
+image: "http://felixonline.co.uk/img/upload/201106232214-felix-sss.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1435/so-hungry-i-could-eat-a-horse
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - sf305
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106232214-felix-sss.jpg"
-image_caption: ""
 ---
 
 Hunger has taken me to many weird places – Zone 6, meat free foods and even Ginster’s pasties. What I have not done is eat a donkey’s cock as Paul Merton almost did on his documentary series about China. But if I were really hungry, would I?

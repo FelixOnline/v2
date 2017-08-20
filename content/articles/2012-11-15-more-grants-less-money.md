@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Finally, A Biggie reference in a title...
 date: "2012-11-15 20:56:23 +0000"
-
-# Attributes from Felix Online V1
-id: "2886"
-old_path: /news/2886/more-grants-less-money
+image: "http://felixonline.co.uk/img/upload/201211152056-tna08-don-lab-oscar-cez.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2886/more-grants-less-money
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ar3310
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211152056-tna08-don-lab-oscar-cez.jpg"
-image_caption: ""
 ---
 
 Imperial has received the highest amount of research council’s money out of all the institutions in the UK.

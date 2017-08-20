@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jean-Claude Besse on the runaway success this year
 date: "2013-02-22 02:00:53 +0000"
-
-# Attributes from Felix Online V1
-id: "3370"
-old_path: /sport/3370/hyde-park-shows-all-a-relay-good-time
+image: "http://felixonline.co.uk/img/upload/201302220200-tna08-841254_10152577440335607_98816022_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3370/hyde-park-shows-all-a-relay-good-time
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302220200-tna08-841254_10152577440335607_98816022_o.jpg"
-image_caption: ""
 ---
 
 After last week’s BUCS Cross-Country in Leeds, the running hype continued with the Hyde Park Relays 2013, a competition held since 1949 and gathering students from all over Europe. Imperial XC members had been up all week to prepare for the event, and were impatient to show the results of their winter training.

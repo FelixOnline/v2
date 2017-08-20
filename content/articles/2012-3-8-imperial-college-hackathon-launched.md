@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Applications abound as students take to their screens, writes Sangjin Lee
 date: "2012-03-08 21:01:51 +0000"
-
-# Attributes from Felix Online V1
-id: "2321"
-old_path: /biz/2321/imperial-college-hackathon-launched
+image: "http://felixonline.co.uk/img/upload/201203082058-ams111-dsc_0642-1.jpg"
+image_caption: "Security at the event was tight, but the guy in the hat still managed to wander in for the nibbles"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/2321/imperial-college-hackathon-launched
-imported: true
 comments:
  - value: >
      Really glad that this went well! :),The issue of encouraging entrepreneurial behaviour came up in the first Computing Staff Student Committee meeting of the year. It was brought up by the head of department (Susan Eisenbach) as something the department hoped to encourage in future. <br> <br>I don't know whether you spoke to her, but perhaps it would be worth contacting her if you need help organizing future events. I think there are a lot of students who are potentially interested, but there is a deeper issue of the workload on students. If we are too heavily tasked with coursework, we don't have the breathing space needed to spend a weekend hacking on apps. <br> <br>I also doubt that framing what is essentially an entrepreneurial exercise as a chance to be recruited by a top company is conducive to the much more noble goal of building young small business leaders. It seems that recruiting the best of these students to a bank is a waste of the talents your contest seeks to highlight. <br> <br>Regardless, congratulations on a s
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203082058-ams111-dsc_0642-1.jpg"
-image_caption: ""
 ---
 
 Imperial College has one of the best Computing and Electrical Engineering Departments in the World, producing the most disciplined and talented software developers and programmers consistently. These programmers often benefit from high salaries and fabulous perquisites from their employers. Imperial College prides itself on this monumental achievement. However, students often observe the lack of ambition for entrepreneurship and technological innovation among Computing Undergraduates – please correct me if I am wrong.

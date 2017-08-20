@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Professor Ortwin Hess speaks to Keir Little about his research
 date: "2013-12-02 21:55:23 +0000"
-
-# Attributes from Felix Online V1
-id: "4158"
-old_path: /science/4158/frozen-rainbows-and-corkscrew-lasers
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4158/frozen-rainbows-and-corkscrew-lasers
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - kw911
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Ortwin Hess is known for the ‘trapped rainbow’ principle, but this is just one step towards his exciting vision for metamaterials. “It stops light,” he says about it, “so the only thing it can do is ‘lase’ energy off its surface. Why is this different to a good old normal laser? It doesn’t have a cavity and is about a factor of ten thinner. You could include this in integrated circuits.”

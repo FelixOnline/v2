@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The new test will fill in gaps that AS Level changes will leave
 date: "2016-02-05 11:50:35 +0000"
-
-# Attributes from Felix Online V1
-id: "5863"
-old_path: /news/5863/cambridge-to-introduce-new-admission-test
+image: "http://felixonline.co.uk/img/upload/201602051148-felix-KingsCollegeChapelWest.jpg"
+image_caption: "You didn't want to go there anyway."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5863/cambridge-to-introduce-new-admission-test
-imported: true
 comments:
  - value: >
      That's a brilliant answer to an inrseetting question
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602051148-felix-KingsCollegeChapelWest.jpg"
-image_caption: ""
 ---
 
 Cambridge university is set to introduce new admissions tests for every subject to make up for changes to the qualification system that will see AS Levels no longer count towards A Level results.

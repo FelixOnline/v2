@@ -4,18 +4,15 @@ title: >
 subtitle: >
   British firm may be able to turn spaceplane dream into reality
 date: "2011-06-23 19:23:37 +0100"
-
-# Attributes from Felix Online V1
-id: "1415"
-old_path: /science/1415/breathing-life-into-spaceplane-technology
+image: "http://felixonline.co.uk/img/upload/201106232023-felix-skylon-orbit-reaction-engines.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1415/breathing-life-into-spaceplane-technology
-imported: true
 comments:
  - value: >
      er.. oxygen a FUEL? Thought IC was a science college?,We should be proud that companies with such vision are here in the UK !
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106232023-felix-skylon-orbit-reaction-engines.jpg"
-image_caption: ""
 ---
 
 The dream of spaceplanes has often been dismissed as fantasy, born out of bad 1950s science fiction films. According to most industry analysts, the rightful place of the spaceplane – along with food pills, floating cities and personal jetpacks – is consigned to the dustbin of history.

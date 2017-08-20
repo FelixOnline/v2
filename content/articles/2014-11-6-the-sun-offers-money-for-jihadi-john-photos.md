@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Carol Ann Cheah on the paper offering money for bad taste costume photos
 date: "2014-11-06 18:43:32 +0000"
-
-# Attributes from Felix Online V1
-id: "4767"
-old_path: /news/4767/the-sun-offers-money-for-jihadi-john-photos
+image: "http://felixonline.co.uk/img/upload/201411061839-cj914-v3-towers-costume-sun-front.jpg"
+image_caption: "Two girls dressed as the World Trade Centre during 9/11, as reported in The Sun."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4767/the-sun-offers-money-for-jihadi-john-photos
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411061839-cj914-v3-towers-costume-sun-front.jpg"
-image_caption: ""
 ---
 
 _The Sun_ has now come under fire from various student unions, after it emerged that their reporters have offered money in exchange for images of controversial Halloween costumes.

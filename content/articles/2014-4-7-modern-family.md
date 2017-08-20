@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The result of over 7 years work, Jim Jarmusch’s latest film takes a bold new look at the gothic classic of vampires.
 date: "2014-04-07 12:48:49 +0100"
-
-# Attributes from Felix Online V1
-id: "4522"
-old_path: /film/4522/modern-family
+image: "http://felixonline.co.uk/img/upload/201404071349-jal08-only-lovers-left-alive-trailer-618x400.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4522/modern-family
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - mff113
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201404071349-jal08-only-lovers-left-alive-trailer-618x400.jpg"
-image_caption: ""
 ---
 
 __Only Lovers Left Alive__

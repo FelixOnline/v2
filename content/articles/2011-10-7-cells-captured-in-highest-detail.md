@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Imperial and Oxford team up to tackle white blood cells
 date: "2011-10-07 09:39:41 +0100"
-
-# Attributes from Felix Online V1
-id: "1479"
-old_path: /science/1479/cells-captured-in-highest-detail
+image: "http://felixonline.co.uk/img/upload/201110071455-felix-cells.jpg"
+image_caption: "Wanted for murder – have you seen this NK cell?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1479/cells-captured-in-highest-detail
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +23,6 @@ authors:
  - felix
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110071455-felix-cells.jpg"
-image_caption: ""
 ---
 
 Researchers from Imperial College teamed up with the University of Oxford were able to reveal how white blood cells kill diseased tissue using deadly granules in more detail than ever before. The findings were published in the Public Library of Science (PLoS) and outline the use of optical laser tweezers and a microscope to be able to see the internals of white blood cells at the highest resolution ever.

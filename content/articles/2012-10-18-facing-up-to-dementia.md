@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The Foundation for Science opens up the discussion
 date: "2012-10-18 21:17:47 +0100"
-
-# Attributes from Felix Online V1
-id: "2698"
-old_path: /science/2698/facing-up-to-dementia
+image: "http://felixonline.co.uk/img/upload/201210191352-tna08-brain1.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2698/facing-up-to-dementia
-imported: true
 comments:
  - value: >
      We are ageist. We fear our own end of life. We fear dementia. <br> <br>Sad but true stuff.
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210191352-tna08-brain1.jpeg"
-image_caption: ""
 ---
 
 In the UK, 820,000 people suffer with dementia and by 2051 this figure may rise to 1.7 million. The [Foundation for Science and Technology](http://www.foundation.org.uk) highlighted this societal challenge by inviting four speakers to talk about the issue from unique perspectives.

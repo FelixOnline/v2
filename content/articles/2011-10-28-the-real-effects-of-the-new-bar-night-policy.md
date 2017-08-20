@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The RSMU President explains how new Union policy has effectively killed bar nights
 date: "2011-10-28 00:17:43 +0100"
-
-# Attributes from Felix Online V1
-id: "1629"
-old_path: /comment/1629/the-real-effects-of-the-new-bar-night-policy
+image: "http://felixonline.co.uk/img/upload/201110202027-felix-union-bar.jpg"
+image_caption: "Some club chairs want to call time on the new regulations"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1629/the-real-effects-of-the-new-bar-night-policy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +22,6 @@ authors:
  - ks607
  - rms07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110202027-felix-union-bar.jpg"
-image_caption: ""
 ---
 
 In response to [the comments made by Michael Foster last week](http://felixonline.co.uk/news/1555/club-chairs-lukewarm-over-bar-nights/), on the new responsible retailing of alcohol policies and how they have affected the way in which bar nights are run, I would like to clear a few things up.

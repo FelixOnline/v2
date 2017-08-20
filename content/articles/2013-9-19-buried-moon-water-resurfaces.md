@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Rocks at the surface of the Moon bear the signs of water from deep below, scientists have discovered. Marion Ferrat takes a closer look at where this water comes from and how scientists can detect it.
 date: "2013-09-19 12:23:48 +0100"
-
-# Attributes from Felix Online V1
-id: "3760"
-old_path: /science/3760/buried-moon-water-resurfaces
+image: "http://felixonline.co.uk/img/upload/201309191319-jal08-ferrat-nasa-moon.jpg"
+image_caption: "A picture of Crater Bullialdus taken during the Apollo 16 mission"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3760/buried-moon-water-resurfaces
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +23,6 @@ authors:
  - mf03
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309191319-jal08-ferrat-nasa-moon.jpg"
-image_caption: ""
 ---
 
 Scientists have detected water locked in minerals deep inside the Moon using satellites. This discovery suggests that the Moon’s interior may not be as dry as previously thought.

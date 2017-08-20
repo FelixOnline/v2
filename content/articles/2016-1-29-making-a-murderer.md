@@ -4,16 +4,14 @@ title: >
 subtitle: >
   You'll have to watch it eventually
 date: "2016-01-29 10:02:21 +0000"
-
-# Attributes from Felix Online V1
-id: "5857"
-old_path: /tv/5857/making-a-murderer
+image: "http://felixonline.co.uk/img/upload/201601291000-felix-682_1696611477252575_2592152650070458839_n.jpg"
+image_caption: "Who is responsible when an innocent man is sent to prison? "
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5857/making-a-murderer
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -23,12 +21,6 @@ authors:
  - hjw13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201601291000-felix-682_1696611477252575_2592152650070458839_n.jpg"
-image_caption: ""
 ---
 
 Making a Murderer, released to stream on Netflix in December 2015, is Netflix’s second foray into documentary filmmaking after the mostly ignored Chef’s Table. It has already been described by many as the service’s most addictive program yet.

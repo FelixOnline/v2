@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jack Peacock fills you in on the smorgasbord of touristy things to do in Munich
 date: "2012-10-18 21:14:39 +0100"
-
-# Attributes from Felix Online V1
-id: "2696"
-old_path: /sport/2696/icuafcs-maraud-into-europe
+image: "http://felixonline.co.uk/img/upload/201210191345-mc4509-icfctour.png"
+image_caption: "Light blue is soooo in this year"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2696/icuafcs-maraud-into-europe
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210191345-mc4509-icfctour.png"
-image_caption: ""
 ---
 
 IC football prepared for a Saturday morning 7am flight in the only way it knew how: by consuming pint after pint in the Union on the last night of term. We hadn’t even left the Union before B-Eth-Eth (Milo McGrath) had fallen victim to one of Asterix’s (Charles Gassuer) concoctions. After finishing in the Union we all come to the logical conclusion that it was much better to stay awake through the night than let a hangover set in…

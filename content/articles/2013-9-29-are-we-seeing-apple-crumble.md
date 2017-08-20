@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Max Eggl is dismayed after the Apple’s offering at the latest keynote
 date: "2013-09-29 16:36:05 +0100"
-
-# Attributes from Felix Online V1
-id: "3793"
-old_path: /tech/3793/are-we-seeing-apple-crumble
+image: "http://felixonline.co.uk/img/upload/201309291734-jal08-iphone5s-5c.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3793/are-we-seeing-apple-crumble
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309291734-jal08-iphone5s-5c.jpg"
-image_caption: ""
 ---
 
 Yet another Apple keynote has come and gone, and once again there is a sense of frustration in the air. At least that bitter taste on the tongue is one I have gotten used to after Steve jobs died, along with all his intuition, drive and creativity. For all the fancy technical terms that Apple likes to throw around, they once again managed to frustrate.

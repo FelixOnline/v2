@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Max Falkenberg kicks off our guide to overlooked city venues
 date: "2015-02-17 16:55:18 +0000"
-
-# Attributes from Felix Online V1
-id: "5268"
-old_path: /arts/5268/londons-best-small-theatres---part-1
+image: "http://felixonline.co.uk/img/upload/201502171654-ps3110-finborough-arms-largea.jpg"
+image_caption: "The Finborough Theatre, Earls Court"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5268/londons-best-small-theatres---part-1
-imported: true
 comments:
  - value: >
      Qh9gdA http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502171654-ps3110-finborough-arms-largea.jpg"
-image_caption: ""
 ---
 
 ## ## __The Finborough Theatre__

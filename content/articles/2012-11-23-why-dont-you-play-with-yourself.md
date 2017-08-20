@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Silver Linings Playbook is worth a watch, says John Park
 date: "2012-11-23 00:39:51 +0000"
-
-# Attributes from Felix Online V1
-id: "2977"
-old_path: /film/2977/why-dont-you-play-with-yourself
+image: "http://felixonline.co.uk/img/upload/201211230039-tna08-silver-linings-playbook-bradley-cooper-jennifer-lawrence.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2977/why-dont-you-play-with-yourself
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jgp09
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211230039-tna08-silver-linings-playbook-bradley-cooper-jennifer-lawrence.jpg"
-image_caption: ""
 ---
 
 For a man just released from the mental institution, Pat (Cooper) seems to have an alarmingly optimistic view on his future well-being. He is convinced his estranged wife, who has taken out a restraining order against him, will come back to him and he’s unafraid to try whatever he can to win her over. His strategy is to think positive. Because with all the good energy and vibe, he believes he has a shot at a “silver lining” (hence the title).

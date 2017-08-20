@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Clara Nevola Clark finds Product’s humour dated
 date: "2015-05-15 12:56:32 +0100"
-
-# Attributes from Felix Online V1
-id: "5540"
-old_path: /arts/5540/when-satire-starts-to-age
+image: "http://felixonline.co.uk/img/upload/201505151356-cj914-olivia-poulet-in-product-by-mark-ravenhill,-arcola,-27-april---24-may,-courtesy-of-richard-davenport,-6.jpg"
+image_caption: "Olivia Poulet in the Arcola Theatre’s production of Mark Ravenhill’s Product"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5540/when-satire-starts-to-age
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - cfc111
  - cj914
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505151356-cj914-olivia-poulet-in-product-by-mark-ravenhill,-arcola,-27-april---24-may,-courtesy-of-richard-davenport,-6.jpg"
-image_caption: ""
 ---
 
 A film about a successful, rich, lonely businesswoman who falls in love with a handsome, dangerous jihadist she meets on a plane. She’s a 9/11 widow; he’s an Al-Qaeda terrorist. Scenes of torrid sex followed by moments of rising hysteria, as the full extent of the jihadist’s plans are revealed. Will love win? Or will Western righteousness triumph over terrorism? She’s torn between her irresistible animal attraction to him and her strong sense of morality which tells her that stuff just shouldn’t be bombed. What a dilemma.

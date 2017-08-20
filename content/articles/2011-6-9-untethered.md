@@ -4,16 +4,14 @@ title: >
 subtitle: >
   ;ouigiguui
 date: "2011-06-09 20:20:28 +0100"
-
-# Attributes from Felix Online V1
-id: "1343"
-old_path: /phoenix/1343/untethered
+image: "http://felixonline.co.uk/img/upload/201106092135-felix-img_0226.jpg"
+image_caption: "PhotoSoc/LeoSoc collaboration, Blyth Gallery, Spring 2011"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/1343/untethered
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -24,12 +22,6 @@ authors:
  - cjb07
  - mrc09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106092135-felix-img_0226.jpg"
-image_caption: ""
 ---
 
 Imagine: a flock of paper birds set free across the gallery,

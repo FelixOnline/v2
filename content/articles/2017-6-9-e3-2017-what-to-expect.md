@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Qasim Mahmood spills the beans on what to look forward to from E3 this weekend
 date: "2017-06-09 15:30:47 +0100"
-
-# Attributes from Felix Online V1
-id: "7019"
-old_path: /games/7019/e3-2017--what-to-expect
+image: "http://felixonline.co.uk/img/upload/201706091730-ea3211-9588609087_c4bb6c2232_k.jpg"
+image_caption: "Expos are where the fun is at! "
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/7019/e3-2017--what-to-expect
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - qm413
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706091730-ea3211-9588609087_c4bb6c2232_k.jpg"
-image_caption: ""
 ---
 
 The biggest gaming event of the year is right around the corner; all the biggest gaming companies will be taking the stage to announce their plans for the upcoming year and showcase brand new games and consoles.

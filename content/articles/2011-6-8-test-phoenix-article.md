@@ -4,17 +4,14 @@ title: >
 subtitle: >
   Testing testing
 date: "2011-06-08 19:54:00 +0100"
+image: "http://felixonline.co.uk/"
 draft: true
-
-# Attributes from Felix Online V1
-id: "1325"
-old_path: /phoenix/1325/test-phoenix-article
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/1325/test-phoenix-article
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jk708
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Test Phoenix article

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jamie Thomas gives us the lowdown on this year’s favourites
 date: "2015-05-15 12:24:48 +0100"
-
-# Attributes from Felix Online V1
-id: "5530"
-old_path: /music/5530/eurovision-fever-your-guide-to-the-top-10-acts-of-the-60th-annual-song-contest
+image: "http://felixonline.co.uk/img/upload/201505151324-cj914-electro2.jpg"
+image_caption: "Nil points! The British entry are practising their game faces."
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5530/eurovision-fever-your-guide-to-the-top-10-acts-of-the-60th-annual-song-contest
-imported: true
 comments:
  - value: >
      xXH08j http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +26,6 @@ authors:
  - jmt13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505151324-cj914-electro2.jpg"
-image_caption: ""
 ---
 
 ### United Kingdom

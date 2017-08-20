@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Think back to spring 2008. The comic book industry’s ventures into film were showing strong signs of recovery after the apparent death knell that was 1997’s Batman & Robin.
 date: "2014-05-23 13:58:28 +0100"
-
-# Attributes from Felix Online V1
-id: "4622"
-old_path: /film/4622/wonders-of-the-marvel-cinematic-universe
+image: "http://felixonline.co.uk/img/upload/201405231459-jal08-marvel-logo.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4622/wonders-of-the-marvel-cinematic-universe
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - js5913
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405231459-jal08-marvel-logo.png"
-image_caption: ""
 ---
 
 With _Captain America: The Winter Soldier_ still drifting around in cinemas almost two months after release, it’s clear that Marvel’s plan to dominate the world of (comic book) films continues to be a resounding success. But just what is that plan, and how has it been so successful?

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   I bet you won’t even read this, you undemocratic filth
 date: "2016-10-28 14:40:26 +0100"
-
-# Attributes from Felix Online V1
-id: "6348"
-old_path: /news/6348/does-anyone-still-care-about-union-council
+image: "http://felixonline.co.uk/img/upload/201610281639-felix-UnionCouncil.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6348/does-anyone-still-care-about-union-council
-imported: true
 comments:
  - value: >
      Union council is so 2014
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ea3211
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610281639-felix-UnionCouncil.jpg"
-image_caption: ""
 ---
 
 The first Council meeting of the year took place last Tuesday and Nas Andriopoulos, Union President failed to present a written report, in violation of his constitutional obligations. Council is the representative voice of the student body and part of this includes holding the sabbatical officers to account. As such, Council requires they produce reports on what they’ve been up to.

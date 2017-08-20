@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Scientists ask if children are werewolves, conclude they’re not
 date: "2016-05-13 09:02:19 +0100"
-
-# Attributes from Felix Online V1
-id: "6153"
-old_path: /science/6153/sht-scence
+image: "http://felixonline.co.uk/img/upload/201605131102-felix-1789243636_7987f706f5_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6153/sht-scence
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - mguenot
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605131102-felix-1789243636_7987f706f5_o.jpg"
-image_caption: ""
 ---
 
 At Sh!t Sc!ence, we like to defend research that may seem insignificant or futile. We believe that all research projects go through a complicated selection process during which a group of learned intellectuals congregate and decide what particular pieces of research need to be conducted in order to bridge our gaps in human knowledge. This week, insights on children - are they werewolves? Science has the answer!

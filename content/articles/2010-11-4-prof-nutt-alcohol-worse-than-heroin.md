@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Imperial professor and former government adviser David Nutt has pitted himself against current drugs classification once again
 date: "2010-11-04 19:06:09 +0000"
-
-# Attributes from Felix Online V1
-id: "324"
-old_path: /news/324/prof-nutt-alcohol-worse-than-heroin
+image: "http://felixonline.co.uk/img/upload/201011041903-jk708-Prof.Nut.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/324/prof-nutt-alcohol-worse-than-heroin
-imported: true
 comments:
  - value: >
      The italicised 'i' in the 'Limits' logo seems to be implying these limits are just imaginary.,yourlimits.co.uk. Brilliant. It's badly spelt, makes no sense in some places, and is self-contradictory in others. Totally worthless "advice" that only promotes existing social problems such as the belief that "being a lightweight is bad". Makes Imperial look shit, again.,Limits site is comical: most dealers cut stuff with homeopathic remedies because they're cheap, easily available and have no side effects (except maybe an extra rush from all that tasty sugar!). <br> <br>Never heard of a case of someone being spiked with washing powder. Maybe maggot eggs... in which case hilarity ensues (see: http://www.youtube.com/watch?v=D6AjU20h5UE) <br> <br>That's the only part of the site I bothered to look at. <br> <br>Keep fighting the good fight, David.,Wow! Great thniking! JK,XqwDww <a href="http://anbbjniubhdv.com/">anbbjniubhdv</a>
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011041903-jk708-Prof.Nut.jpg"
-image_caption: ""
 ---
 
 Imperial professor and former government adviser David Nutt has pitted himself against current drugs classification once again by claiming that alcohol is more harmful than various illegal substances in a newly released report.

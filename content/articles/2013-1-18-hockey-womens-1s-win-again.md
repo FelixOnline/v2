@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Another victory for the ladies
 date: "2013-01-18 01:01:31 +0000"
-
-# Attributes from Felix Online V1
-id: "3147"
-old_path: /sport/3147/hockey-womens-1s-win-again
+image: "http://felixonline.co.uk/img/upload/201301180100-tna08-ce.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3147/hockey-womens-1s-win-again
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301180100-tna08-ce.jpg"
-image_caption: ""
 ---
 
 For the first match this year it was definitely thermal weather as the Ladies’ 1s went out to play RUMS in the arctic conditions found at Harlington, on a pitch that was nearly frozen, although this didn’t put a damper on our spirits. We were out to get them, as earlier in theseason they had beaten us by a fair few goals to very few in return.

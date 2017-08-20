@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Opposition against travellers isn't about planning permission or justice, it's just racism
 date: "2011-10-27 23:46:03 +0100"
-
-# Attributes from Felix Online V1
-id: "1623"
-old_path: /comment/1623/dale-farm-a-travellers-tale
+image: "http://felixonline.co.uk/img/upload/201110280043-sjw209-dale-farm-pic.jpg"
+image_caption: "Is nobody going to comment on the great tiling of the street? "
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1623/dale-farm-a-travellers-tale
-imported: true
 comments:
  - value: >
      Luke, <br>I have read many articles in mainstream newspapers about this case, but none was anywhere near as balanced or well written as this one. Well done!,Dear "Anonymous", firstly where do I ever suggest they're poor in my article? and when do I suggest that that would make it ok for them to break the law? I find these points of yours strange.In my last paragraph I even highlight how much debate is ill-informed, like yours. They are not poor necessarily, at Dale Farm they own the land. They are not asking for any money and their financial situation has nothing to do with the case of eviction and whether it is or is not fair. (coninued in next comment) <br>, <br>You try and act like the law is equal for all with you're assertion that "if you break the law then you break the law". However, because of racism against the travellers we do not give them an option but to break the law. We do not provide enough sites for travellers and we do not give them permission to form their own. There are not enough legal locations i
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110280043-sjw209-dale-farm-pic.jpg"
-image_caption: ""
 ---
 
 Last week, the decade of legal battles over half of the traveller site at Dale Farm culminated into a physical one. Tony Balls, the Tory leader of Basildon council, has defended this eviction on the grounds of “fairness” – that the law must apply to everyone – which has been backed by his party’s leaders. However, this neglects the different starting positions: travellers are not treated like everyone to begin with. It’s like making someone start a game of Monopoly with half the money of everyone else and then complaining that it’s not fair when they start nicking money from the bank when people aren’t paying attention.

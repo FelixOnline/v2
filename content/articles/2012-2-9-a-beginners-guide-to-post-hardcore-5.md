@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lesson 5: The Fall of Troy
 date: "2012-02-09 22:16:53 +0000"
-
-# Attributes from Felix Online V1
-id: "2144"
-old_path: /music/2144/a-beginners-guide-to-post-hardcore-5
+image: "http://felixonline.co.uk/img/upload/201202092216-pk1811-fall-of-troy-escalate.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2144/a-beginners-guide-to-post-hardcore-5
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - gj309
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202092216-pk1811-fall-of-troy-escalate.jpg"
-image_caption: ""
 ---
 
 This week’s band have arguably had the most mainstream success out of all the bands that will feature in this series and prove that post-hardcore music, while perhaps a relatively niche genre, comes in various shapes and sizes.

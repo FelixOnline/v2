@@ -4,16 +4,13 @@ title: >
 subtitle: >
   How Woody Allen's Midnight in Paris relates to desperate housewives in Brinkley's
 date: "2011-12-01 20:24:00 +0000"
-
-# Attributes from Felix Online V1
-id: "1869"
-old_path: /arts/1869/the-old-man-and-the-movie
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1869/the-old-man-and-the-movie
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - cb403
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It was Tuesday and I found myself having a beer in [Brinkley’s](http://www.brinkleys.com/brinkleys.asp), the louche Chelsea eatery and favourite Hugh Grant haunt, and I was surrounded by middle-aged desperate housewives. They were botoxed and dyed blonde and high-heeled. It was then that I became engulfed in a peculiar Hemingwayesque malaise. It was then that I realised just how depressing desperate housewives are. It was then that I noticed there are too many cheerless people busy gold digging and lust searching at the same time when the two appear to be incompatible. They demonstrate that romance is dead in all too many marriages.

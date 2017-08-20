@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Trying to be too cool for school, or actually a good band?
 date: "2012-11-09 14:09:24 +0000"
-
-# Attributes from Felix Online V1
-id: "2868"
-old_path: /music/2868/jeni-pillai-gives-peace-a-chance
+image: "http://felixonline.co.uk/img/upload/201211091409-tna08-peace+birmingham+uk.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2868/jeni-pillai-gives-peace-a-chance
-imported: true
 comments:
  - value: >
      Great! I'm a little obsessed with this band... I think 'California Daze' is a really perfect indie guitar-pop song, musically-speaking something Noel Gallagher or Alex Turner could have written, when they still wrote great pop songs. And '1998' is just wildly at the other end of the spectrum, something of an answer to people convinced that you can't do anything new with a guitar anymore. (Ironically for a cover!),Great! I'm a little obsessed with this band... I think 'California Daze' is a really perfect indie guitar-pop song, musically-speaking something Noel Gallagher or Alex Turner could have written, when they still wrote great pop songs. And '1998' is just wildly at the other end of the spectrum, something of an answer to people convinced that you can't do anything new with a guitar anymore. (Ironically for a cover!) ,Yes Peace are amazing - saw them a while ago in Birmingham. The music scene in b-town is amazing atm. Swim Deep are so so good, Troumaca - for me the jury is still out a bit. The Scarlet H
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091409-tna08-peace+birmingham+uk.jpeg"
-image_caption: ""
 ---
 
 At first glance, Peace appear to be yet another so-cool-it-hurts, indier-than-thou, guitar band. Just have a look at their haircuts and you’ll see where I’m going with this. But after seeing them play at the Lexington on Tuesday night, I can confirm there’s definitely more to them than that.

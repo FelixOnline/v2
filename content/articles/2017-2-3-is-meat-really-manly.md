@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Man want meat | Is society killing men?
 date: "2017-02-03 16:45:10 +0000"
-
-# Attributes from Felix Online V1
-id: "6719"
-old_path: /science/6719/is-meat-really-manly
+image: "http://felixonline.co.uk/img/upload/201702031645-felix-Burgers.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6719/is-meat-really-manly
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - al4915
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702031645-felix-Burgers.jpg"
-image_caption: ""
 ---
 
 I guess I’ll start with a controversial, but factual statement: Men don’t live as long as women do. Now, would you believe that this and so many other gendered beliefs affect our health habits, including the foods we choose to eat? An article in The Washington Post piqued my interest lately, focussing on today’s relationship between meat-eating and gender. It all actually may seem pretty old-fashioned – not all females like to dine on dainty pretty kale salads dressed in hibiscus flowers and not all men live for burgers and the Union’s curly fries (had to throw that one in as an old Beit-timer, sorry). However, research shows these assumptions truly have historical grounding. In fact, these eating patterns, socially influenced or not, could help explain why men are at higher risk of heart disease and some cancers. Perhaps our ideas about masculinity do negatively affect our health.

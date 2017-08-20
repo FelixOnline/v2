@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Five-a-day to keep pathogens at bay
 date: "2017-01-13 14:11:15 +0000"
-
-# Attributes from Felix Online V1
-id: "6638"
-old_path: /science/6638/five-a-day-to-keep-pathogens-at-bay
+image: "http://felixonline.co.uk/img/upload/201701131410-felix-16418101707_5185ae7a64_k.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6638/five-a-day-to-keep-pathogens-at-bay
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - rachelgillespie
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701131410-felix-16418101707_5185ae7a64_k.jpg"
-image_caption: ""
 ---
 
 A high-fibre diet protects against bowel infection, thanks to bacteria that normally live in the human gut.

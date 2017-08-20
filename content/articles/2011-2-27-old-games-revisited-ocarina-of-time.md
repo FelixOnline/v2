@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Many of the Zelda games strived to be like Ocarina of Time and merely couldn’t achieve the same results
 date: "2011-02-27 13:04:53 +0000"
-
-# Attributes from Felix Online V1
-id: "904"
-old_path: /games/904/old-games-revisited-ocarina-of-time
+image: "http://felixonline.co.uk/img/upload/201102271303-ks607-legendof.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/904/old-games-revisited-ocarina-of-time
-imported: true
 comments:
  - value: >
      That saves me. Thanks for being so sseibnle!
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -28,12 +25,6 @@ authors:
  - skh10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102271303-ks607-legendof.jpg"
-image_caption: ""
 ---
 
 _The Legend of Zelda: Ocarina of Time_ is easily my favourite game of all time. Having started playing it at age seven, this game has played an integral part in shaping my interest in games. The story tells of a young boy, Link, who is asked to save the land of Hyrule from a terrible danger. This quest takes Link along a journey of epic proportions, travelling across the vast land of Hyrule.

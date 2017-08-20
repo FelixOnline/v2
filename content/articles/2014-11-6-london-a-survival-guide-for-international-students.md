@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Exploring a new city with the help of International Student Support
 date: "2014-11-06 21:21:15 +0000"
-
-# Attributes from Felix Online V1
-id: "4799"
-old_path: /welfare/4799/london-a-survival-guide-for-international-students
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /welfare/4799/london-a-survival-guide-for-international-students
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - welfare
 tags:
@@ -23,12 +20,6 @@ authors:
  - bwh12
  - wic112
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Do you remember what it was like when you first arrived in London? Did you find it challenging to live in a foreign country or did you find it difficult to communicate with people in English?

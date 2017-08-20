@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sara Hamilton reports on China’s new approach towards environmental legislation
 date: "2017-02-10 14:04:55 +0000"
-
-# Attributes from Felix Online V1
-id: "6753"
-old_path: /science/6753/china-charges-ahead-environmentally
+image: "http://felixonline.co.uk/img/upload/201702101404-felix-smoke-1580460_1920.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6753/china-charges-ahead-environmentally
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - sarahamilton14
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101404-felix-smoke-1580460_1920.jpg"
-image_caption: ""
 ---
 
 I can’t speak for everyone, but when I think of China in relation to the environment, an image of coal and smog-full Beijing, with millions of citizens running around in protective anti-pollution masks, springs to mind. Henry Wang, in his talk Energy and Environment Growth Strategies hosted by the Imperial Energy Society, brought a ray of optimism in the future of China’s energy mix and environmental legislation.

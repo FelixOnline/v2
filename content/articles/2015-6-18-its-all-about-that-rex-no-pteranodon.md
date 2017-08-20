@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Ellen Mathieson takes a trip to the re-opening of Jurassic Park
 date: "2015-06-18 20:16:46 +0100"
-
-# Attributes from Felix Online V1
-id: "5632"
-old_path: /film/5632/its-all-about-that-rex-no-pteranodon
+image: "http://felixonline.co.uk/img/upload/201506182114-jyg11-screen-shot-2015-06-18-at-21.14.15.png"
+image_caption: "I don’t know about you, but I reckon a dinosaur did this."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5632/its-all-about-that-rex-no-pteranodon
-imported: true
 comments:
  - value: >
      I know this if off topic but I'm looking into starting my own weblog and was curious what all is needed to get set up? I'm assuming having a blog like yours would cost a pretty penny? I'm not very web savvy so I'm not 100% sure. Any tips or advice would be greatly appreciated. Appreciate it <br>discount vouchers ugg boots sale uk x2 http://www.essenceofeden.co.uk/?uk-discount-vouchers-ugg-boots-sale-uk-x2-3872.html,Wow, such a good websites.| <br>nba 2k16 mtdb draft http://forums.cozycot.com/forum/beauty-forum/makeup/4475035-who-else-desires-to-learn-about-nba-2k16-mt-coins,Merely desired to say Now i am delighted I stumbled onto your webpage!. <br>nba 2k17 http://blog.tianya.cn/post-7249818-117595594-1.shtml
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +26,6 @@ authors:
  - jyg11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506182114-jyg11-screen-shot-2015-06-18-at-21.14.15.png"
-image_caption: ""
 ---
 
 First things first, it’s not as good as _Jurassic Park_. And really it never was going to compare to the original. It’s battling years of love and nostalgia, and the film that inspired countless people to spend at least a couple of years as a kid wanting to be an archaeologist (usually somewhere before astronaut but after princess). It is the film that made dinosaurs into a thing, much as _Jaws_ made people fear sharks.

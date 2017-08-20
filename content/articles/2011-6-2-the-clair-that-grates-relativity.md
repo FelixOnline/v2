@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sex and politics go together like croissants and coffee
 date: "2011-06-02 20:18:02 +0100"
-
-# Attributes from Felix Online V1
-id: "1320"
-old_path: /food/1320/the-clair-that-grates-relativity
+image: "http://felixonline.co.uk/img/upload/201106022116-felix-img_6067_1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1320/the-clair-that-grates-relativity
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106022116-felix-img_6067_1.jpg"
-image_caption: ""
 ---
 
 Last week, whilst consuming a coffee and éclair, I had a debate with a friend about string theory, gravity, and whether everything is made of particles or waves. It was then that a rather charming French friend stopped for a brief chat. And, sure enough, we concluded that French women are definitely made of waves (not that they don’t have good particles too).

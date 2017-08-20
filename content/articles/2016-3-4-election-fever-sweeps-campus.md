@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Voting opens today as Imperial reaches peak democracy
 date: "2016-03-04 11:30:24 +0000"
-
-# Attributes from Felix Online V1
-id: "5999"
-old_path: /news/5999/election-fever-sweeps-campus
+image: "http://felixonline.co.uk/img/upload/201603041130-felix-Screen Shot 2016-03-03 at 17.43.58.png"
+image_caption: "Just in case you forgot it was election season. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5999/election-fever-sweeps-campus
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603041130-felix-Screen Shot 2016-03-03 at 17.43.58.png"
-image_caption: ""
 ---
 
 Voting opens today for the Leadership Elections, which have seen a record number of students come forward for the roles of President and Deputy President (Welfare). No one put themselves forward for the Deputy President (Finance and Services) role.

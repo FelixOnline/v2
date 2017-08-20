@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ross Gray explores Peter Rehberg’s dark new collaboration
 date: "2013-06-06 19:47:23 +0100"
-
-# Attributes from Felix Online V1
-id: "3669"
-old_path: /music/3669/review-shampoo-boy
+image: "http://felixonline.co.uk/img/upload/201306062047-tna08-shampoo-boy-licht.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3669/review-shampoo-boy
-imported: true
 comments:
  - value: >
      "...new KTL album with Jim O'Rourke.." - sounds very itteresning indeed, especially as O'Rourke's latest releases are top quality (the Touch 7" is fantastic!). Thank god it's lunchtime here, as i just clicked the Tenya link and it's made me super hungry!!!!,Zune and iPod: Most people <a href="http://teqnnyhtclx.com">coparme</a> the Zune to the Touch, but after seeing how slim and surprisingly small and light it is, I consider it to be a rather unique hybrid that combines qualities of both the Touch and the Nano. It's very colorful and lovely OLED screen is slightly smaller than the touch screen, but the player itself feels quite a bit smaller and lighter. It weighs about 2/3 as much, and is noticeably smaller in width and height, while being just a hair thicker., cialis online cialis online necessary missouri cialis online
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306062047-tna08-shampoo-boy-licht.jpg"
-image_caption: ""
 ---
 
 Blackest Ever Black, the aptly named London label that has been grabbing attention with crushingly dark electronic releases for the past few years, seems like an ideal home for Peter Rehberg (PITA, Editions Mego head), Christina Nemec, and Christian Schachinger’s new project Shampoo Boy.

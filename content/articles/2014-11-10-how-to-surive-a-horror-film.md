@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ellen Mathieson gives you some top tips to make it through any evil encounters you might have this Halloween
 date: "2014-11-10 21:44:47 +0000"
-
-# Attributes from Felix Online V1
-id: "4826"
-old_path: /film/4826/how-to-surive-a-horror-film
+image: "http://felixonline.co.uk/img/upload/201411102144-ps3110-cabin-in-the-woods.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4826/how-to-surive-a-horror-film
-imported: true
 comments:
  - value: >
      Haha, I'll keep that in mind the next time I go werewolf hunting. But you forgot to mention one important thing: <br>Always look where you are running, and if you trip and fall, just stand up and keep running! If I can continue to hike for three hours with a bleeding leg, you can run with a sprained ankle for three minutes! Never understoood why the characters always just turn around and try to crawl away instead of just standing up and taking to their heels.
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102144-ps3110-cabin-in-the-woods.jpg"
-image_caption: ""
 ---
 
 It’s late night on Halloween, and you and a group of friends are walking home from your party of choice. One of you takes a wrong turning and somehow you suddenly lost in a part of London you don’t know. You stop and ask for directions, but no-one is being helpful. And even though there are only five of you, for some reason you can hear a sixth set of footsteps. Is there someone following you?

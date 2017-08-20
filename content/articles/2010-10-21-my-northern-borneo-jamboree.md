@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Wonderful wildlife, treacherous trekking and a monstrous mountain
 date: "2010-10-21 18:53:13 +0100"
-
-# Attributes from Felix Online V1
-id: "224"
-old_path: /travel/224/my-northern-borneo-jamboree
+image: "http://felixonline.co.uk/img/upload/201010211950-nm1010-admiring.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/224/my-northern-borneo-jamboree
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010211950-nm1010-admiring.jpg"
-image_caption: ""
 ---
 
 I am a huge fan of mainland Malaysia, what with its plethora of creole cuisines and party people, but its true face lies on Sabah in Malaysian Borneo. As soon as I landed in Kota Kinabalu (KK) and hit the streets, I realised I was onto something grand: the sun was smouldering, the prices cheap, and all of the locals greeted me with a friendly smile.

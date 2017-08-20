@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Oh My God So Many Jar Jars – Number 7 Will Blow Your Mind
 date: "2015-12-16 18:40:46 +0000"
-
-# Attributes from Felix Online V1
-id: "5824"
-old_path: /features/5824/12-jar-jar-binks-gifs-that-sum-up-your-life-at-imperial
+image: "http://felixonline.co.uk/img/upload/201512161844-felix-jar1.gif"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/5824/12-jar-jar-binks-gifs-that-sum-up-your-life-at-imperial
-imported: true
 comments:
  - value: >
      cheap jefseys cheap sports jerseys,cheap jefseys cheap sports jerseys,cheap jefseys cheap sports jerseys,cheap jefseys cheap sports jerseys,cheap jefseys cheap sports jerseys,cheap jefseys cheap sports jerseys,wholesale nba jerseys wholesale nfl jerseys,wholesale nba jerseys wholesale nfl jerseys,wholesale nba jerseys wholesale nfl jerseys,wholesale nba jerseys wholesale nfl jerseys,wholesale nba jerseys wholesale nfl jerseys,wholesale nba jerseys wholesale nfl jerseys,wholesale jerseys Patriots store wholesale mlb jerseys,wholesale jerseys Patriots store wholesale mlb jerseys,wholesale jerseys Patriots store wholesale mlb jerseys,wholesale jerseys Patriots store wholesale mlb jerseys,wholesale jerseys Patriots store wholesale mlb jerseys,wholesale jerseys Patriots store wholesale mlb jerseys,whklesale mlb jerseys (Anibal) wholesale sprts jerseys,whklesale mlb jerseys (Anibal) wholesale sprts jerseys,whklesale mlb jerseys (Anibal) wholesale sprts jerseys,whklesale mlb jerseys (Anibal) wholesale sprts jerseys,
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -32,12 +29,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201512161844-felix-jar1.gif"
-image_caption: ""
 ---
 
 ## 1. When You Arrive Sober At Your First ACC

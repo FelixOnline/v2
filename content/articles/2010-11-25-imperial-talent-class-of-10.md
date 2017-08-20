@@ -4,16 +4,13 @@ title: >
 subtitle: >
   For possibly the first time, all three of our drama societies are staging shows written by Imperial students. We meet the playwrights to talk about their productions
 date: "2010-11-25 20:20:43 +0000"
-
-# Attributes from Felix Online V1
-id: "428"
-old_path: /arts/428/imperial-talent-class-of-10
+image: "http://felixonline.co.uk/img/upload/201011252018-nm1010-Imperial.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/428/imperial-talent-class-of-10
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011252018-nm1010-Imperial.jpg"
-image_caption: ""
 ---
 
 __Do you all want to start by telling us a bit about what your plays are like? __

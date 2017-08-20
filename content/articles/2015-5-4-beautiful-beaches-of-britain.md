@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The beaches that are making waves in television
 date: "2015-05-04 17:01:21 +0100"
-
-# Attributes from Felix Online V1
-id: "5493"
-old_path: /tv/5493/beautiful-beaches-of-britain
+image: "http://felixonline.co.uk/img/upload/201505041801-ps3110-broadchurch_ep1_06.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5493/beautiful-beaches-of-britain
-imported: true
 comments:
  - value: >
      Very valid, pithy, suctcnci, and on point. WD.
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505041801-ps3110-broadchurch_ep1_06.jpg"
-image_caption: ""
 ---
 
 Look behind the well-sculpted muscles of Ross Poldark and you’ll see the Cornish coastline. This is not the first time that a British beach has proven to be a co-star on a TV show.

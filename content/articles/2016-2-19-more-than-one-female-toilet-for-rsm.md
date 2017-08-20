@@ -4,16 +4,14 @@ title: >
 subtitle: >
   All but one female toilet was removed from the Goldsmith’s Wing by College Estates over the summer but now they’re getting changed back
 date: "2016-02-19 11:08:51 +0000"
-
-# Attributes from Felix Online V1
-id: "5925"
-old_path: /news/5925/more-than-one-female-toilet-for-rsm
+image: "http://felixonline.co.uk/img/upload/201602191108-felix-DSC_0009.JPG"
+image_caption: "Labels are for cans, not for toilets."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5925/more-than-one-female-toilet-for-rsm
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602191108-felix-DSC_0009.JPG"
-image_caption: ""
 ---
 
 Women in the Goldsmith’s wing of the RSM building had a bit of a shock after coming back over the summer: all but a single female toilet had been converted to men’s only. This meant that women had to either queue to use one loo or walk to another building if it was out of order.

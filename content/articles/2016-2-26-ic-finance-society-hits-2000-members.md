@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Finance taking over
 date: "2016-02-26 12:10:41 +0000"
-
-# Attributes from Felix Online V1
-id: "5988"
-old_path: /cands/5988/ic-finance-society-hits-2000-members
+image: "http://felixonline.co.uk/img/upload/201602261209-felix-DSC 2-8310.jpg"
+image_caption: "The gang."
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5988/ic-finance-society-hits-2000-members
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -23,12 +21,6 @@ authors:
  - ip814
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261209-felix-DSC 2-8310.jpg"
-image_caption: ""
 ---
 
 Last Tuesday Imperial College Finance Society (ICFS) successfully overtook Medical Education (the biggest departmental society) in terms of membership. By Friday, ICFS reached yet another milestone by becoming the first society to exceed 2000 members.

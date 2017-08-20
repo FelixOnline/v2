@@ -4,18 +4,15 @@ title: >
 subtitle: >
   In May, Union Council voted to denounce the right wing group called Student Rights and condemn Islamophobia.
 date: "2014-06-17 14:20:21 +0100"
-
-# Attributes from Felix Online V1
-id: "4691"
-old_path: /news/4691/union-denounces-student-rights
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4691/union-denounces-student-rights
-imported: true
 comments:
  - value: >
      Fascinating stuff. Although I suppose the problem with an "open letter" like this is that often it misses it's intended target, since I never saw it. Although judging by the fact that no one approached me for comment or debate I guess the whole idea was just to grandstand without any discussion. Good for you, and GREAT use of your expensive university time.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In May, Union Council voted to denounce the right wing group called Student Rights and condemn Islamophobia. Imperial became the 9th Student Union to pass this motion, in addition to the NUS who have recently condemned this group. Yesterday, Imperial College Union published an open letter on their website to Mr. Raheem Kassam, Director of the Henry Jackson Society’s Student Rights Project.

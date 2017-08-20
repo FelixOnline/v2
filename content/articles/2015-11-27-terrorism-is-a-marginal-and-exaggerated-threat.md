@@ -4,16 +4,13 @@ title: >
 subtitle: >
   When we’re surrounded by so much fear, we forget that we still have freedom
 date: "2015-11-27 14:27:27 +0000"
-
-# Attributes from Felix Online V1
-id: "5778"
-old_path: /comment/5778/terrorism-is-a-marginal-and-exaggerated-threat
+image: "http://felixonline.co.uk/img/upload/201511271425-ygr12-h_52402209-e1448275946133.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5778/terrorism-is-a-marginal-and-exaggerated-threat
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511271425-ygr12-h_52402209-e1448275946133.jpg"
-image_caption: ""
 ---
 
 In 1853, the architect Georges-Eugène Haussmann was tasked with the renovation of Paris, a city crippled by overcrowding and disease. Part of his work involved creating large, straight boulevards that critics at the time said were to allow the army to manoeuvre more easily and to suppress armed uprisings. Whether that really was the motivation behind them, today we are regrettably seeing soldiers lining these boulevards.

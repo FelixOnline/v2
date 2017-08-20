@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Elizabeth Crow on "a very posh pub, darling"
 date: "2012-10-18 21:44:19 +0100"
-
-# Attributes from Felix Online V1
-id: "2719"
-old_path: /food/2719/the-white-horse
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2719/the-white-horse
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - csw09
  - felfood
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In the northern corner of Parson’s Green stands the long established Fulham favourite, The White Horse, known for its unpretentious seasonal menus, extensive drinks selection and reasonable prices. Its location makes this restaurant perfect for the large proportion of Imperial Students who live in or very close to Fulham. There are two main eating areas: the upstairs, in which you feel as though Nelson could have plotted his defeat of the French over a cheeky pint, the second (and my favourite), the downstairs conservatory, which has an intimate feel, with candles set into the exposed brick walls.

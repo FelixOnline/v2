@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Arianna Sorba looks around some creepy exhibits
 date: "2012-12-07 01:42:12 +0000"
-
-# Attributes from Felix Online V1
-id: "3040"
-old_path: /science/3040/creepy-and-curious-at-the-hunterian-museum
+image: "http://felixonline.co.uk/img/upload/201212070140-tna08-foundling,-dickens-and-hunterian-museums-028.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3040/creepy-and-curious-at-the-hunterian-museum
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070140-tna08-foundling,-dickens-and-hunterian-museums-028.jpg"
-image_caption: ""
 ---
 
 At a loss for what to do this weekend? Unusually interested in the science of life? Then why not take a trip to the [Hunterian Museum](http://www.rcseng.ac.uk/museums)? Hidden away inside the Royal College of Surgeons in Holborn, it is the ultimate destination to explore all the gory details of animal biology, and satisfy any morbid curiosities about surgery, disease and the human body.

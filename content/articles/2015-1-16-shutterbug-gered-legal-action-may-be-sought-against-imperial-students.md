@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Photobooth damage has angered hiring company
 date: "2015-01-16 12:50:01 +0000"
-
-# Attributes from Felix Online V1
-id: "5088"
-old_path: /news/5088/shutterbug-gered-legal-action-may-be-sought-against-imperial-students
+image: "http://felixonline.co.uk/img/upload/201501161249-ps3110-screen-shot-2015-01-16-at-12.50.07.png"
+image_caption: "A selection of photographs taken by the photobooth before the damage was done. These were not the im"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5088/shutterbug-gered-legal-action-may-be-sought-against-imperial-students
-imported: true
 comments:
  - value: >
      http://www.coach-outlet-stores.cc/ coach outlet online <br> http://www.outlets-michael-kors.net/ michael kors outlet online <br> http://www.2015cheap-oakleys.com cheap oakley sunglasses <br> http://raybans.jonmcmeen.com cheap ray bans <br> <br>oakley outlet http://www.oakley-sunglass.name,http://www.coachofficialstore.net/ coach factory outlet online <br> http://www.raybanoutletss.com/ ray ban aviators sale <br> http://www.rayban-outlet.name/ ray ban sunglasses outlet <br> http://www.cheapraybans.xyz/ cheap ray ban sunglasses <br> <br>ray ban sunglasses http://www.rboutlet2015.net/,http://www.outlet-coach.cc/ coach outlet online <br> http://www.cheapraybansales.net/ discount ray bans <br> http://oakley.outletstore.us.com/ cheap oakley sunglasses <br> http://www.rayban-sunglasses.xyz/ cheap ray ban sunglasses <br> <br>coach outlet online http://www.coach-factory-outlet.xyz/,http://www.outlets-coach.us.com/ coach factory <br> http://www.raybanussales.com/ ray bans on sale <br> http://www.cheapraybansales.n
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501161249-ps3110-screen-shot-2015-01-16-at-12.50.07.png"
-image_caption: ""
 ---
 
 A photo booth hire service is considering further legal action after incurring damages to its equipment during the joint RCSU-CGCU Winter Ball in early December last year.

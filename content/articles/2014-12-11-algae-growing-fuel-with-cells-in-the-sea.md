@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Nefeli Maria Skoufu-Papoutsaki explains new research into this potential renewable energy source
 date: "2014-12-11 20:29:47 +0000"
-
-# Attributes from Felix Online V1
-id: "5027"
-old_path: /science/5027/algae-growing-fuel-with-cells-in-the-sea
+image: "http://felixonline.co.uk/img/upload/201412112029-cj914-algae.jpg"
+image_caption: "Algae could be used to produce renewable energy without the negative impacts of conventional biofuel"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5027/algae-growing-fuel-with-cells-in-the-sea
-imported: true
 comments:
  - value: >
      6Ior3A http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - fsci
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412112029-cj914-algae.jpg"
-image_caption: ""
 ---
 
 Algae could be the future of renewable energy. For those of you who are unsure, algae are oxygen photosynthetic organisms that form plant-like structures in freshwater or marine ecosystems. But could it be possible for a plant to fuel up your car and get you back home for the Christmas holidays?

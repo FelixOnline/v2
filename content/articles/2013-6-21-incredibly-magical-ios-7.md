@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Yong Wen Chua echoes Apple: “can’t innovate anymore, my ass.”
 date: "2013-06-21 00:30:46 +0100"
-
-# Attributes from Felix Online V1
-id: "3735"
-old_path: /tech/3735/incredibly-magical-ios-7
+image: "http://felixonline.co.uk/img/upload/201306210130-tna08-nyan-cat-final.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3735/incredibly-magical-ios-7
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - tna08
  - ywc110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306210130-tna08-nyan-cat-final.jpg"
-image_caption: ""
 ---
 
 Apple fans worldwide rejoiced as detractors grieved a couple of weeks ago at the WWDC event when CEO Tim Cook unveiled yet another incredible update to the beautiful and gorgeous iOS 7, the latest iteration of Apple’s superior and world’s most advanced mobile operating system. It is chock full of innovation that is just simply amazing.

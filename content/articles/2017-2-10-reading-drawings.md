@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Despite its efforts at making ancient scribbles interesting, Reading Drawings remains slightly too academic for the general public
 date: "2017-02-10 15:53:19 +0000"
-
-# Attributes from Felix Online V1
-id: "6766"
-old_path: /arts/6766/reading-drawings
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6766/reading-drawings
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ authors:
  - scc114
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 

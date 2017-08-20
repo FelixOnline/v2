@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Fred Fyles mulls on the radical British politics on display at the National Theatre's latest offering
 date: "2015-04-27 10:57:04 +0100"
-
-# Attributes from Felix Online V1
-id: "5471"
-old_path: /arts/5471/a-very-british-revolution
+image: "http://felixonline.co.uk/img/upload/201504271154-ff712-jpeg-11.jpg"
+image_caption: ". L-r Nicholas Gleaves (Star) and Trystan Gravelle (Briggs) in Light Shining in Buckinghamshire"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5471/a-very-british-revolution
-imported: true
 comments:
  - value: >
      You're a very valuable website; could not make it without ya! <br>NBA 2K17 http://sdffgfgf.anime-festa.com/%E6%9C%AA%E9%81%B8%E6%8A%9E/buy%20fifa%2017%20coins%20for%20everyone
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201504271154-ff712-jpeg-11.jpg"
-image_caption: ""
 ---
 
 While BBC News and the pages of the Daily Mail may seem the obvious place for a bit of political debate, currently there is a far more interesting source of discursive discussion: the stage. With plays such as the __Royal Court__’s _Hope_, the __Tricycle__’s _Multitudes_, and __Donmar__’s _The Vote_ all exploring the issue of politics within modern Britain, it is no wonder that incoming director of the __National Theatre__ Rufus Norris describes the theatre as the nation’s debating chamber. As such, his decision to put on Caryl Churchill’s play _Light Shining in Buckinghamshire_, which deals with the Levellers, a 17th Century political group, makes perfect sense. It is a credit to both Churchill’s writing and Lyndsey Turner’s direction that the production seems as relevant today as it did when it was first staged in 1976. So much has changed, and yet so little.

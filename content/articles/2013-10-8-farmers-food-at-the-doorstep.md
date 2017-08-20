@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Daas Kaluvan proves that quality food exists outside supermarkets
 date: "2013-10-08 11:46:29 +0100"
-
-# Attributes from Felix Online V1
-id: "3819"
-old_path: /food/3819/farmers-food-at-the-doorstep
+image: "http://felixonline.co.uk/img/upload/201310081246-jal08-food.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3819/farmers-food-at-the-doorstep
-imported: true
 comments:
  - value: >
      Hello There. I discovered your weblog the usage of msn. This is an extremely neatly written article. I will make sure to bookmark it and return to read more of your helpful info. Thanks for the post. I’ll certainly return.,I think Ray was described as a <a href="http://ltraobrg.com">seanosal</a> ranger, which I understand is someone who is not there full time but only a few months out of the year. Both Anna and her boss were new to the park, so neither of them would know Ray/Steve. Also, he spent most of the time in the remote cabin where no one who knew the real Ray would run into him., acutane liability accidents kings could effort before acne any
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -28,12 +25,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310081246-jal08-food.jpg"
-image_caption: ""
 ---
 
 You might have seen the signs around campus already – there is a new farmers market on Queens Lawn every Tuesday. You will be surprised by how much fresh vegetables and fruits this is. Apart from the expected English strawberries, raspberries, blueberries, plums, apples and pears, there are also Downland Pigs famous free range hog roast, Brambletye Farm’s organic eggs and sweet and savoury goodies from Queen of Cakes. None of which you will be able to get from your local Sainsbury’s.

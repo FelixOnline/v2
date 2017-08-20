@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Mophie Air almost doubles the iPod touch’s playback time
 date: "2011-02-10 20:34:53 +0000"
-
-# Attributes from Felix Online V1
-id: "777"
-old_path: /tech/777/to-protect-and-charge-the-juice-pack-air
+image: "http://felixonline.co.uk/img/upload/201102102032-dr910-samuelgi.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/777/to-protect-and-charge-the-juice-pack-air
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - srg03
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102102032-dr910-samuelgi.jpg"
-image_caption: ""
 ---
 
 The iPod touch is an outstanding media player for the most part. Packing almost all the tech behind the wildly popular iPhone, save for the cell radio of course, and playing host to up to 64GB of storage, there’s a lot to love about Apple’s touchable media player.

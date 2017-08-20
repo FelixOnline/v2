@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Samuel Gibbs goes hands on with the ultimate ‘radio voice’ USB microphone, the unusually named Blue Yeti
 date: "2010-11-04 18:36:22 +0000"
-
-# Attributes from Felix Online V1
-id: "303"
-old_path: /tech/303/can-you-hear-me-now
+image: "http://felixonline.co.uk/img/upload/201011041837-ba108-YetiMic.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/303/can-you-hear-me-now
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - srg03
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011041837-ba108-YetiMic.jpg"
-image_caption: ""
 ---
 
 Not all microphones are born equal; some are infinitely more equal than others. That’s certainly the case with the THX certified [Yeti](http://www.bluemic.com/yeti/) from renowned USB microphone manufacturer Blue.

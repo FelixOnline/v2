@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Mathematicians get closer to solving one of the greatest problems in number theory.
 date: "2013-05-29 17:29:01 +0100"
-
-# Attributes from Felix Online V1
-id: "3637"
-old_path: /science/3637/primes-primes-everywhere-
+image: "http://felixonline.co.uk/img/upload/201305291828-tna08-stained-glass.jpg"
+image_caption: "A stained glass window of primes. Pretty if nothing else..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3637/primes-primes-everywhere-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - agr06
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305291828-tna08-stained-glass.jpg"
-image_caption: ""
 ---
 
 Mathematicians from the US, Hungary and Turkey just might be one step closer towards the impossible. One of the greatest problems in number theory is determining whether the number of prime tuples, prime numbers which lie very close to each other, is infinite. In short, “are there an infinite number of prime tuples which lie next to each other?”

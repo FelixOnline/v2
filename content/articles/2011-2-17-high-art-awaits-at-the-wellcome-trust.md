@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rocío Molia Atienza reviews the onging High Art exhibition at Wellcome Gallery
 date: "2011-02-17 18:53:10 +0000"
-
-# Attributes from Felix Online V1
-id: "807"
-old_path: /arts/807/high-art-awaits-at-the-wellcome-trust
+image: "http://felixonline.co.uk/img/upload/201102171848-nm1010-imageima.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/807/high-art-awaits-at-the-wellcome-trust
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - rm2410
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102171848-nm1010-imageima.jpg"
-image_caption: ""
 ---
 
 An exhibition about mind-altering drugs is likely to elicit the curiosity of nearly everyone, since most of us are at least occasional consumers. Remember how full the Union is of inebriated students some nights of the week? So, I was ready to be surprised by what of artistic value anyone could produce under the influence of psychotropic drugs.

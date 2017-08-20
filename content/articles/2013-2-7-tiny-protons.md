@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Are protons all coot and ickle?
 date: "2013-02-07 23:21:35 +0000"
-
-# Attributes from Felix Online V1
-id: "3258"
-old_path: /science/3258/tiny-protons
+image: "http://felixonline.co.uk/img/upload/201302072321-tna08-quark_structure_proton.svg.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3258/tiny-protons
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - pk1811
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302072321-tna08-quark_structure_proton.svg.jpg"
-image_caption: ""
 ---
 
 The radius of a proton has generally been considered to be 0.87 femtometers (fm), an incredibly tiny amount. However, [a paper published in Science earlier this year](http://www.sciencemag.org/content/339/6118/405) suggests this miniscule distance may be smaller than previously thought.

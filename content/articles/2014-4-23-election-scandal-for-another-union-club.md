@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The Chinese Students and Scholars Association has been caught up in an election scandal only weeks after the Christian Union had its own election dispute. The election is being re-run on May 2nd with the DPFS acting as a returning officer.
 date: "2014-04-23 17:15:38 +0100"
-
-# Attributes from Felix Online V1
-id: "4533"
-old_path: /news/4533/election-scandal-for-another-union-club
+image: "http://felixonline.co.uk/img/upload/201404232157-jal08-2006101414420101_970956e.jpg"
+image_caption: "Ballot scandal at CSSA"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4533/election-scandal-for-another-union-club
-imported: true
 comments:
  - value: >
      One of the rules broken by the election is individuals who are not full members of the Club were allowed to vote. Now the people who are newly join in the society within this week are allowed to vote. Hey dude u must kidding me. What's the logic? Who are really corrupted? The society of CSSA of the Imperial Union?,This is crazy. The individual who has cheated, who brought over 30 irrelevant supporters across all nations to the vote, who has yet still lost, is even now being supported by the news. <br> <br>Election had flaws in the rules. CSSa as a complex society has its own rules for voting which remained the same for years. Which some were unfortunately conflicting with the union's, however it never meant it was unfair. <br> <br>The voting had committee vote and members vote. Committee voting was based on an internal interview by all previous heads. Yes indeed the votes were weighted. But think, those committee members really know who is the best for the position. <br> <br>Knowing he had performed badly during the interview
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - snb11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201404232157-jal08-2006101414420101_970956e.jpg"
-image_caption: ""
 ---
 
 The Chinese Students and Scholars Association (CSSA) has joined the Christian Union in having a major election dispute this year after a number of its members wrote a joint letter of complaint to the Imperial College Union reporting that ballot papers were destroyed and that the current committee holds a weighted vote allowing them to chose the new committe. David Goldsmith, Union President, has declared the original election invalid citing multiple violations of the Union's Bye-laws for Minor Elections. The new election will take place on May 2nd 17:00 in Meeting Room 3 and the Deputy President: Finance and Services will be acting as the Returning Officer.

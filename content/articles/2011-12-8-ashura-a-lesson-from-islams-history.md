@@ -4,18 +4,15 @@ title: >
 subtitle: >
   In recognition of the annual Ashura Awareness Week, Ahlul-Bayt Society provide a story of sacrifice
 date: "2011-12-08 21:52:44 +0000"
-
-# Attributes from Felix Online V1
-id: "1948"
-old_path: /comment/1948/ashura-a-lesson-from-islams-history
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1948/ashura-a-lesson-from-islams-history
-imported: true
 comments:
  - value: >
      Please note that Imperial's Ahlul-Bayt Islamic Society will now be holding its annual Ashura Awareness Week from 16th - 20th January 2012.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Instinctively, we all admire the ‘good’ things in humankind – compassion, honesty and justice. Our free will to actively pursue such attributes through our actions is arguably what gives us our worth as human beings. But have you ever considered the lengths you go to in order to stand by what you believe is right? Would you die for the sake of freedom? Malcolm X once said: ‘If you’re not ready to die for it, take the word ‘freedom’ out of your vocabulary.’

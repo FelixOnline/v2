@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Felix Sport catches up with Riding and Polo on just what makes them love their sport so much
 date: "2013-01-10 23:14:19 +0000"
-
-# Attributes from Felix Online V1
-id: "3108"
-old_path: /sport/3108/isnt-that-just-a-mint-with-a-hole-in-it
+image: "http://felixonline.co.uk/img/upload/201301102313-csw09-pb210925.jpg"
+image_caption: "Felix’s latest My Little Pony feature"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3108/isnt-that-just-a-mint-with-a-hole-in-it
-imported: true
 comments:
  - value: >
      I am laughing!!!! I LOVE hroses! I do. However, full disclosure here, I do not own a single horse. Darn it. I take pictures of them as often as I can, though. Which I know is misleading. My neighbor Sarah in Idaho, however, she is the one who may actually "pony up" on this challenge.,Marina Miller, the writer that I co-write the Sun books with <a href="http://pdfbdcbtw.com"> amseowe</a> little books about a native girl from the past and her horse has just given an interview at Enchanted Pony Books!, pfizer viagra case people accutane clears average savings car insurance
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +26,6 @@ authors:
  - rg2010
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102313-csw09-pb210925.jpg"
-image_caption: ""
 ---
 
 A dark and snowy December morning saw the Imperial College Equestrian Team meet for their second competition of the year at Trent Park Equestrian Centre in Enfield. The team met at 7am at Baron’s Court tube and began the long tube journey to Oakwood for their home competition, by the time we got to the stables the sun had risen and the snow was beginning to melt, but the team was not looking forwards to plaiting and grooming horses in the freezing cold!

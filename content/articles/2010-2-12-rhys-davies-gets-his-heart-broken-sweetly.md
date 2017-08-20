@@ -4,16 +4,13 @@ title: >
 subtitle: >
   I knew we were having problems when we were fighting over bread
 date: "2010-02-12 01:58:55 +0000"
-
-# Attributes from Felix Online V1
-id: "85"
-old_path: /comment/85/rhys-davies-gets-his-heart-broken-sweetly
+image: "http://felixonline.co.uk/img/upload/201002120157-rsp07-butteran.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/85/rhys-davies-gets-his-heart-broken-sweetly
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - rsp07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002120157-rsp07-butteran.jpg"
-image_caption: ""
 ---
 
 Valentine’s Day is nearly upon us and that can mean only one thing. Half of Imperial will be burning through their student loans in order to pay for an unforgettable night of passion with their respective beau or paramour. The other half will be watching Love Actually in the dark with a tub of Ben & Jerry’s – totally sarcastically, of course. After my last relationship, I’ve regretfully resigned myself to the latter category.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A journey through the wonderful and horifying world of animal sex
 date: "2016-02-12 11:31:36 +0000"
-
-# Attributes from Felix Online V1
-id: "5904"
-old_path: /science/5904/five-facts-to-break-the-ice-on-v-day
+image: "http://felixonline.co.uk/img/upload/201602121130-felix-6142882297_250a80021c_o.jpg"
+image_caption: "If you think the echidna doesn’t look that weird, A) really? B) you clearly haven’t tried to have sex with it. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5904/five-facts-to-break-the-ice-on-v-day
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - as8315
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602121130-felix-6142882297_250a80021c_o.jpg"
-image_caption: ""
 ---
 
 Nature documentaries often show the animal kingdom to be a weird and wonderful place, but animal genitalia don’t usually get the attention they rightfully deserve. To right this wrong here’s a list of five of the most bizarre bits on offer out there.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Union Council will vote on whether to change its constitution
 date: "2015-11-19 22:25:33 +0000"
-
-# Attributes from Felix Online V1
-id: "5742"
-old_path: /news/5742/union-could-be-banned-from-lobbying-
+image: "http://felixonline.co.uk/img/upload/201511192225-ygr12-edited_council.jpg"
+image_caption: "It's as fun as it looks."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5742/union-could-be-banned-from-lobbying-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511192225-ygr12-edited_council.jpg"
-image_caption: ""
 ---
 
 This week’s union council meeting was rocked by the tabling of a paper to prevent the union from lobbying its own members.

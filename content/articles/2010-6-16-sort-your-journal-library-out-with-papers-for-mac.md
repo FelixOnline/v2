@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Looking at the iTunes of journal articles, Papers for Mac and iPhone/iPad
 date: "2010-06-16 19:44:28 +0100"
-
-# Attributes from Felix Online V1
-id: "146"
-old_path: /tech/146/sort-your-journal-library-out-with-papers-for-mac
+image: "http://felixonline.co.uk/img/upload/201006162036-srg03-Papers.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/146/sort-your-journal-library-out-with-papers-for-mac
-imported: true
 comments:
  - value: >
      <a href="http://god-n-devil-inc.livejournal.com/13959.html">Дизайн внутренних состояний</a>,6028887355 <br>retainment <br>johnsm <br> <br><a href="http://google.com/">google</a>,Здравствуйте дорогие господа <br> <br>Может до перестройки не говорили,что есть <a href="http://www.superrike.ru">проститутки москвы</a> и информация была не сильно распространена, но все равно существовала, то в 90-е годы уровень услуги <a href="http://www.superrike.ru/devochki/statya-6">sexy</a> резко начал расти. По многим источникам только в одной Москве количество предложений <a href="http://www.superrike.ru/devochki/statya-6">знакомства</a> увелчилось до 30 тысяч, а во всей нашей стране число этих девушек достигло 180 тысяч.
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +25,6 @@ authors:
  - srg03
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201006162036-srg03-Papers.jpg"
-image_caption: ""
 ---
 
 Reading peer-reviewed journal articles is one of the most crucial parts of studying science. Whether you’re an undergraduate trying to write a literature review or a researcher trying to find a new method, journals are the primary way of sharing new information on research topics with both specialists and generalists. Most, if not all journal articles are published online for download in PDF format ahead of their print debut. If you or your institution have a subscription to the journal, or it’s an open journal like the PLOS series, then you can easily find and download the article with PubMed or another peer-reviewed journal index. Once you’ve got the journal of course it’s a simple matter of just loading up your PDF reader of choice to read it. For one article that’s fine, but imagine you read several articles a day and end up a library of journal articles totalling into the hundreds, how do you keep them organised?

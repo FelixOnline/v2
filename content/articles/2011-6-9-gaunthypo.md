@@ -4,16 +4,14 @@ title: >
 subtitle: >
   adfasdfasdfasdf
 date: "2011-06-09 20:24:30 +0100"
-
-# Attributes from Felix Online V1
-id: "1341"
-old_path: /phoenix/1341/gaunthypo
+image: "http://felixonline.co.uk/img/upload/201106092125-felix-gaunt.jpg"
+image_caption: "Gaunt"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/1341/gaunthypo
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -25,12 +23,6 @@ authors:
  - lt609
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106092125-felix-gaunt.jpg"
-image_caption: ""
 ---
 
 

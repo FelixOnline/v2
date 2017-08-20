@@ -4,17 +4,15 @@ title: >
 subtitle: >
   Felix gives you the low-down on where to eat on campus...
 date: "2013-09-27 23:30:30 +0100"
+image: "http://felixonline.co.uk/img/upload/201309280031-jal08-icl_catering_104.jpg"
+image_caption: "The library café at non-peak times"
 draft: true
-
-# Attributes from Felix Online V1
-id: "3764"
-old_path: /features/3764/freshers-pullout-food-near-and-on-campus
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/3764/freshers-pullout-food-near-and-on-campus
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -25,12 +23,6 @@ authors:
  - extuser0
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309280031-jal08-icl_catering_104.jpg"
-image_caption: ""
 ---
 
 ####  CAMPUS FOOD:

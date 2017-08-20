@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Tessa Davey explores the beauty in fashion for the plus-size woman, and the politics behind it
 date: "2015-03-25 12:06:45 +0000"
-
-# Attributes from Felix Online V1
-id: "5425"
-old_path: /arts/5425/plus-size-fashion-need-not-be-boring-and-unadventurous
+image: "http://felixonline.co.uk/img/upload/201503251206-ff712-tessmunster2.jpg"
+image_caption: "Tess Munster, one of the world's leading plus-size models"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5425/plus-size-fashion-need-not-be-boring-and-unadventurous
-imported: true
 comments:
  - value: >
      Just had to tell you Now i'm lucky that i happened onto your site!| <br>nba 2k16 my auctions http://csgoskinsultimate.snappages.com/blog/2016/04/12/cs-go-skins-counter-striker-methods-for-beginners,Many thanks, this website is extremely valuable <br>pokemongo http://friendsmaker.dk/member/blog_post_view.php?postId=115449,Many thanks extremely beneficial. Will certainly share website with my good friends <br>fifa 17 http://nba2k16mtgot.weebly.com/blog/copying-xbox-games-to-drive-nba-2k17-coins,I love browsing your website. Thanks a lot! <br>nba 2k17 http://visual.ly/buy-nba-2k17-coins-advantageous-our-children
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - tad08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251206-ff712-tessmunster2.jpg"
-image_caption: ""
 ---
 
 It’s safe to say that the world of plus-size fashion is rapidly accelerating at an unprecedented rate. It’s not difficult to see why. Over the last few decades the average size of women (and men) has increased, and regardless of the reasons why they’re getting larger, people still need clothes.

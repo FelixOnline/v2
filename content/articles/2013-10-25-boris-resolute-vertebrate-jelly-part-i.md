@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Comment Editor Eoghan Totten on Boris Johnson
 date: "2013-10-25 00:02:22 +0100"
-
-# Attributes from Felix Online V1
-id: "3918"
-old_path: /comment/3918/boris-resolute-vertebrate-jelly-part-i
+image: "http://felixonline.co.uk/img/upload/201310250101-felix-boris-hand.jpg"
+image_caption: "Golly gosh, am I really that blond? Rome, save me!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3918/boris-resolute-vertebrate-jelly-part-i
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +22,6 @@ authors:
  - ejt11
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250101-felix-boris-hand.jpg"
-image_caption: ""
 ---
 
 The mayor for London, Boris Johnson, made the headlines in February of this year after deeming members of the London Assembly as “great supine protoplasmic invertebrate jellies” for failing to interrogate him over revisions to the £16.5 bn budget. The characteristic neologism merely capped his voluminous arsenal of quips and redeeming facets. He is, by far, the most popular politician in The Conservative Party at present. A March 2013 poll carried out by the London Evening Standard claimed that he would obliterate Ed Miliband in the polls if he were to (hypothetically) succeed David Cameron as party leader. His broad and endearing appeal to the people of London is extensive, being re-elected with a 44% mandate over Labour’s Ken Livingstone.

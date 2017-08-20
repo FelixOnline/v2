@@ -4,17 +4,14 @@ title: >
 subtitle: >
   Celebrating the birth of the space age
 date: "2015-12-15 13:11:24 +0000"
+image: "http://felixonline.co.uk/"
 draft: true
-
-# Attributes from Felix Online V1
-id: "5823"
-old_path: /science/5823/cosmonauts-at-the-science-museum
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5823/cosmonauts-at-the-science-museum
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ea3211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It seems that space is becoming more and more part of our daily reality. Last year we landed on a comet, the creation of Interstellar produced the most accurate representation of a black hole to date, Pluto’s beauty was finally captured by New Horizons, there’s serious talk about sending one-way manned missions to Mars further fuelled by the discovery of liquid water flowing on the surface of the planet, space planes are officially a reality and in less then a week we’ll be casually sending a UK astronaut to the ISS. No biggie.

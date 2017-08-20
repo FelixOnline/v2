@@ -4,18 +4,16 @@ title: >
 subtitle: >
   'Social justice warriors' would do well to listen to their own sermon of tolerance
 date: "2016-05-27 08:46:04 +0100"
-
-# Attributes from Felix Online V1
-id: "6202"
-old_path: /comment/6202/here-is-my-messagetofeminists
+image: "http://felixonline.co.uk/img/upload/201605271045-felix-isthisaheadshot.jpg"
+image_caption: "A conservative, a feminist and a comedian walk into a bar – and talk about political correctness. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6202/here-is-my-messagetofeminists
-imported: true
 comments:
  - value: >
      not a big fan of this article. it's bogged down with jargon and has a really superior tone.<br>There's a lot of treating a groups of individuals as having a monolithic set of views which is also really flawed.<br>If you thought Mark Ruffalo's tumblr post was going to put people off feminism this is a whole other ballgame.<br>,Hi, thanks for the comment!<br>I was concerned someone would take it negatively like you did, so I did actually ask the editor to put an addendum in, but this wasn't possible as I'd then be exceeding the word limit.<br>This was my addendum (which I now wish I'd pushed harder to get written in):<br>*The writer is not anti-feminist, and hopes that his views will not be taken as inflammatory. The writer merely wishes to express his concern with how many feminists are representing the movement, but more importantly how certain social theories which have been widely circulated by contemporary feminism are now being used to justify intolerance and actual harassment. The writer is open to having his views co
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +24,6 @@ authors:
  - at3515
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605271045-felix-isthisaheadshot.jpg"
-image_caption: ""
 ---
 
 There has been a recent rise of an online stronghold of cultural libertarianism, which has been deemed by some to be a reactionary movement against the regressive left. Classically liberal and conservative figures are breaking down the barriers between the political left and right, and are coming together to discuss a multitude of ideas including free speech, political correctness, censorship and 'safe spaces' in the university scene, and cultural relativity.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The most irritating of London’s fashion stereotypes: boys in tight trousers and army boots, girls in Uggs and gilets beware!
 date: "2010-10-21 19:09:36 +0100"
-
-# Attributes from Felix Online V1
-id: "233"
-old_path: /fashion/233/welcome-to-london-
+image: "http://felixonline.co.uk/img/upload/201010212006-ks607-sloanecu.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/233/welcome-to-london-
-imported: true
 comments:
  - value: >
      "She seemingly hasn’t quite gotten over the loss of her pony and so tries to emulate that muddy, blustered look of a long day of dressage with matted hair " <br>Rahaha good writing darling!
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -26,12 +23,6 @@ authors:
  - stv07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010212006-ks607-sloanecu.jpg"
-image_caption: ""
 ---
 
 London is a quintessential fashion capital. Though we don’t have the edgy cool of New York, the elegant chic of Paris or the classic luxury of Milan, we have quirkiness and an extraordinary propensity to seek originality, using every sartorial tool in the box to illustrate exactly who we are, consciously or not. What we have, unique to London, are more distinctive fashion districts than you can shake a stick at. In Paris you have the right bank, and the left. New York: uptown and downtown. In London we have sartorial subsets that range from Chelsea to Camden, Shoreditch to Shepherd’s Bush, Portobello to Primrose Hill.

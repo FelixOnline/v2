@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The DayZ standalone has been released, and given the amazing stories that occur in that game, I decided to make a kind of series out it! So here it goes:
 date: "2014-02-19 21:26:31 +0000"
-
-# Attributes from Felix Online V1
-id: "4407"
-old_path: /games/4407/episode-22-annas-friend
+image: "http://felixonline.co.uk/img/upload/201402192126-me1711-games_dayz.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4407/episode-22-annas-friend
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201402192126-me1711-games_dayz.jpg"
-image_caption: ""
 ---
 
 If you want to read about the start of Anna's tale, here is the link: [Episode 2.1 Anna's Grace](../games/4371/dayz-episode-21-annas-grace/)[

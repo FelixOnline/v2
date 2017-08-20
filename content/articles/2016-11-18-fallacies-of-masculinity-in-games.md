@@ -4,16 +4,13 @@ title: >
 subtitle: >
   According to video games, masculinity means being a buff alpha male with a simple, strong but silent demeanor. Is this what masculinity is all about?
 date: "2016-11-18 15:22:28 +0000"
-
-# Attributes from Felix Online V1
-id: "6476"
-old_path: /games/6476/fallacies-of-masculinity-in-games
+image: "http://felixonline.co.uk/img/upload/201611181522-felix-7911930212_8a7fde6cc6_k.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/6476/fallacies-of-masculinity-in-games
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -23,12 +20,6 @@ authors:
  - sa8713
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611181522-felix-7911930212_8a7fde6cc6_k.jpg"
-image_caption: ""
 ---
 
 In the olden times, the world was in a very different place. Just look at old stories and folk-tales to get an idea; they always sprang out of the aspirations and concerns of the time. After centuries of storytelling, it can get pretty tricky to cut those bonds. Obviously, society has massively evolved and moved on from then, however video games are still struggling to catch up.

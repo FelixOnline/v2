@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Tate Modern has us turning Japanese and just a little mad
 date: "2012-03-01 21:50:30 +0000"
-
-# Attributes from Felix Online V1
-id: "2280"
-old_path: /arts/2280/going-dotty-for-kusama
+image: "http://felixonline.co.uk/img/upload/201203012151-cac111-yayoikusama.jpg"
+image_caption: "More like Tate Magenta..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2280/going-dotty-for-kusama
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - lj1409
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203012151-cac111-yayoikusama.jpg"
-image_caption: ""
 ---
 
 The disturbed mind of Yayoi Kusama is a fascinating place. An artist with links to Georgia O’Keefe, Andy Warhol and Joseph Cornell, her art is inspired by her own hallucinations and her outlook on the world. Even before arriving at the exhibition entrance, you have already been greeted by huge red blow-up balls with white polka dots, hanging from the ceiling – a small taste of things to come.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tom Vek – Leisure Seizure – Island – 2011
 date: "2012-06-15 07:50:01 +0100"
-
-# Attributes from Felix Online V1
-id: "2578"
-old_path: /music/2578/kadhims-totally-hot-album-of-the-week-20
+image: "http://felixonline.co.uk/img/upload/201206150844-mc4509-artworks-000008021756-d1mvqu-original.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2578/kadhims-totally-hot-album-of-the-week-20
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206150844-mc4509-artworks-000008021756-d1mvqu-original.jpg"
-image_caption: ""
 ---
 
 I fell in love last week. I was standing in the [Now Wave](https://www.facebook.com/nowwave) tent at Parklife Festival in Manchester, when all of a sudden Cupid’s Arrow pierced my ears. I turned to my friend beside me, and pointed towards the stage with my right hand, and said, “That is the coolest man I have ever seen or heard.” The 1st class students among you will have read the subtitle and fi gured out that I’m talking about Tom Vek.

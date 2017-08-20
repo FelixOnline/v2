@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Does science fiction stand in the way of progress?
 date: "2011-10-14 00:34:42 +0100"
-
-# Attributes from Felix Online V1
-id: "1539"
-old_path: /comment/1539/frankenscience-versus-the-world
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1539/frankenscience-versus-the-world
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Science fiction often paints a scary picture of the future where science and technology have run amok with devastating consequences. Titles such as Brave New World, The Day After Tomorrow and Frankenstein conjure up fearful images in our minds. Many scientists feel that such works have hindered progress by creating a public that is scared of new and potentially beneficial technologies such as GM and cloning. I think they’re wrong.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Paris attacks have recieved widespread global attention, but why?
 date: "2015-01-16 13:31:10 +0000"
-
-# Attributes from Felix Online V1
-id: "5101"
-old_path: /comment/5101/why-all-the-fuss-about-charlie-hebdo
+image: "http://felixonline.co.uk/img/upload/201501161331-ps3110-bokoharam.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5101/why-all-the-fuss-about-charlie-hebdo
-imported: true
 comments:
  - value: >
      Fantastic beat ! I wish to apprentice while you amend your site, how could i subscribe for a blog site? The account helped me a acceptable deal. I had been tiny bit acquainted of this your broadcast offered bright clear concept <br>canada goose jassen sale amsterdam 65 http://www.acmel.nl/nl/?nl-canada-goose-jassen-sale-amsterdam-65--8137.html,Wow because this is extremely great work! Congrats and keep it up.| <br>cheap cs go skins http://csgoskinprices.allmyblog.com/1-table-strike-to-be-improved-in-by-5-ideas.html,say thanks to a lot for your site it assists a great deal.| <br>nba 2k16 mt guide http://nfl15coinsexpert.blogcu.com/buy-cs-go-skins-walking-stride-length/20500420
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501161331-ps3110-bokoharam.jpg"
-image_caption: ""
 ---
 
 The news over the past week has been dominated by stories about the terrorist attacks in Paris, killing 17 people, with the satirical magazine _Charlie Hebdo_ among the targets. Also reported, but to a far lesser extent, are attacks by Boko Haram extremists in Baga, Nigeria, resulting in thousands of deaths. With all the media interest focused on _Charlie Hebdo_ and France, the horrifying events in Nigeria have somewhat fallen by the wayside. Why is it the case that these attacks have received far less media attention, not just globally, but also in Nigeria itself? Is it the case that we in the Western world consider the lives of those lost in France more valuable and worthy of attention?

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix gets down and dirty with 50 Shades of Grey
 date: "2015-02-20 17:01:01 +0000"
-
-# Attributes from Felix Online V1
-id: "5292"
-old_path: /film/5292/dornan-dominates-dakota
+image: "http://felixonline.co.uk/img/upload/201502201700-ps3110-fifty-shades-of-grey-cmyk.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5292/dornan-dominates-dakota
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jgp09
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502201700-ps3110-fifty-shades-of-grey-cmyk.jpg"
-image_caption: ""
 ---
 
 __FIFTY SHADES OF GREY__

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Netflix’s new rom-com series does not disappoint
 date: "2016-06-03 09:25:07 +0100"
-
-# Attributes from Felix Online V1
-id: "6240"
-old_path: /tv/6240/the-complex-and-real-parts-of-love
+image: "http://felixonline.co.uk/img/upload/201606031124-felix-love1.jpg"
+image_caption: "Fast food is the way to a person’s heart."
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6240/the-complex-and-real-parts-of-love
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - sa8713
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606031124-felix-love1.jpg"
-image_caption: ""
 ---
 
 Created by Judd Apatow, Paul Rust, and Lesley Arfin, Love is simply great. I really enjoyed watching it; mostly for the fact that it’s different from all the usual rom-coms. It doesn’t have wishy-washy clichés but rather it dives into the complexities and realism of relationships.

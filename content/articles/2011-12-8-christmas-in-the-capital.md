@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Dushi Arumuganesan’s guide to London’s most festive frolics this winter
 date: "2011-12-08 22:01:56 +0000"
-
-# Attributes from Felix Online V1
-id: "1950"
-old_path: /travel/1950/christmas-in-the-capital
+image: "http://felixonline.co.uk/img/upload/201112082158-pk1811-nathismus.jpg"
+image_caption: "For best results, drop a couple of tabs of acid before hitting the rink: you’ll skate like a pro."
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/1950/christmas-in-the-capital
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -25,12 +23,6 @@ authors:
  - pk1811
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082158-pk1811-nathismus.jpg"
-image_caption: ""
 ---
 
 With just over two weeks left to go, the capital has been transformed into a beautifully illuminated, life-sized snow globe (minus the snow) in the countdown to Christmas day. So here’s your guide to enjoying the best of London’s Christmas highlights this year.

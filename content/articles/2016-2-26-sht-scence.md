@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Thin penguins waddle, but fat penguins wobble
 date: "2016-02-26 11:36:14 +0000"
-
-# Attributes from Felix Online V1
-id: "5964"
-old_path: /science/5964/sht-scence
+image: "http://felixonline.co.uk/img/upload/201602261135-felix-5586851206_24e45dca5f_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5964/sht-scence
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - mguenot
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261135-felix-5586851206_24e45dca5f_o.jpg"
-image_caption: ""
 ---
 
 At Sh!t Sc!ence, we argue that all research, no matter how ridiculous, has a purpose and brings us all closer to the truth.

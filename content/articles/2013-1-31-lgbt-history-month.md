@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Russell Hills introduces you to Section 28 and LGBT issues
 date: "2013-01-31 23:16:30 +0000"
-
-# Attributes from Felix Online V1
-id: "3206"
-old_path: /news/3206/lgbt-history-month
+image: "http://felixonline.co.uk/img/upload/201301312315-tna08-lgbt-history-month-2013-logo.jpg"
+image_caption: "The theme for LGBT History Month 2013 is Maths, Science and Engineering: keep an eye out for our art"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3206/lgbt-history-month
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301312315-tna08-lgbt-history-month-2013-logo.jpg"
-image_caption: ""
 ---
 
 It’s February, and that means it’s once again time for LGBT History Month. For those of you that may not be aware, LGBT History Month aims to draw attention to both the past and the present state of LGBT (lesbian, gay, bisexual and transgender) rights, as well as the impact LGBT people have had throughout history. While in many cases the sexuality of historical figures is only speculative, it is important to acknowledge that alternative sexualities have always existed, and are not some “modern lifestyle choice”. For example, while many people will know of Sir Francis Bacon, King James I and Florence Nightingale, they may not be aware that these historical figures are believed to have had relationships with members of the same sex.

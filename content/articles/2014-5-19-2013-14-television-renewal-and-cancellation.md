@@ -4,16 +4,13 @@ title: >
 subtitle: >
   May is the month television fans find out whether their favourite shows will be back for another season or not. So here is the rundown of some of 2013-14 season’s main primetime network shows and how well they are faring over in the States.
 date: "2014-05-19 14:05:48 +0100"
-
-# Attributes from Felix Online V1
-id: "4617"
-old_path: /tv/4617/2013-14-television-renewal-and-cancellation
+image: "http://felixonline.co.uk/img/upload/201405191509-jal08-tv_abc.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4617/2013-14-television-renewal-and-cancellation
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -25,12 +22,6 @@ authors:
  - jgp09
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405191509-jal08-tv_abc.png"
-image_caption: ""
 ---
 
 ## ABC

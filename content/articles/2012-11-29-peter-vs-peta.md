@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alleged animal cruelty during the filming of the Tolkien stories’ film franchise
 date: "2012-11-29 23:09:25 +0000"
-
-# Attributes from Felix Online V1
-id: "3006"
-old_path: /film/3006/peter-vs-peta
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3006/peter-vs-peta
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - lw408
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Lord of the Rings and The Hobbit director Peter Jackson is currently at loggerheads with animal rights activist group PETA (People for the Ethical Treatment of Animals) over alleged animal cruelty during the filming of the Tolkien stories’ film franchise.

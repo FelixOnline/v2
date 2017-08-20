@@ -4,16 +4,13 @@ title: >
 subtitle: >
   An anonymous writer’s personal experience with emotional abuse and the warning signs
 date: "2014-12-04 18:56:20 +0000"
-
-# Attributes from Felix Online V1
-id: "4990"
-old_path: /welfare/4990/a-personal-look-at-psychological-abuse
+image: "http://felixonline.co.uk/img/upload/201412041856-cj914-emotional-abuse-photo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /welfare/4990/a-personal-look-at-psychological-abuse
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - welfare
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412041856-cj914-emotional-abuse-photo.jpg"
-image_caption: ""
 ---
 
 Αt a friend’s house party last week I met a couple that brought back a few memories I had hoped to keep locked up, and now, huddled next to the radiator in my otherwise arctic flat, I try to write this for what seems like the hundredth time. I want to write about emotional abuse, its warning signs, and illustrate this all with my own experiences because looking back now, I feel like had I known what it was that was happening to me, I would have got out of there much, much earlier.

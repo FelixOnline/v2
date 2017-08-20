@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Fred Fyles feels that the balance is slightly off in the Young Vic's production of Ah, Wilderness!
 date: "2015-04-24 13:49:14 +0100"
-
-# Attributes from Felix Online V1
-id: "5469"
-old_path: /arts/5469/an-american-in-the-wilderness
+image: "http://felixonline.co.uk/img/upload/201504241447-ff712-rsz_1members_of_the_company_in_in_ah_wilderness_at_the_young_vic_photo_by_johan_persson.jpg"
+image_caption: "Members of the company in Ah, Wilderness!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5469/an-american-in-the-wilderness
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ff712
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201504241447-ff712-rsz_1members_of_the_company_in_in_ah_wilderness_at_the_young_vic_photo_by_johan_persson.jpg"
-image_caption: ""
 ---
 
 For her production of Eugene O’Neill’s_ Ah, Wilderness!_ director Natalie Abrahami, who returns to the__ Young Vic__ after her success of _Happy Days_, seems to have taken the title rather literally. Wilderness invades the quiet Connecticut home at the heart of the tale, both metaphorically and literally; the sands of time take on a physical quality, pouring in through the open doors, and obscuring the humble family home in a miasma of uncertainty. An effective staging device it may be, but the overall effect is to create a play that is all too cerebral when compared to the warm script.

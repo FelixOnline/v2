@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Can Twitter’s recently re-instated CEO, Jack Dorsey, do better this time?
 date: "2015-10-16 14:56:48 +0100"
-
-# Attributes from Felix Online V1
-id: "5660"
-old_path: /biz/5660/old-dog-new-tricks
+image: "http://felixonline.co.uk/img/upload/201510161556-ygr12-twitter_town_hall-dorsey_obama.png"
+image_caption: "Pete Souza"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/5660/old-dog-new-tricks
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510161556-ygr12-twitter_town_hall-dorsey_obama.png"
-image_caption: ""
 ---
 
 Back in June, Twitter CEO Dick Costolo (@dickc) tweeted: “Welcome back, @jack !!”. He was referring to Jack Dorsey, one of the co-founders of Twitter. This enigmatic tweet, short even by Twitter standards, signalled to those in the know that Dick Costolo had stepped down as CEO of the micro-blogging giant with former CEO Jack Dorsey to return as interim boss.

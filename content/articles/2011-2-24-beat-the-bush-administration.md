@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A combination of inspiring biopic and politics in Fair Game
 date: "2011-02-24 19:54:09 +0000"
-
-# Attributes from Felix Online V1
-id: "873"
-old_path: /film/873/beat-the-bush-administration
+image: "http://felixonline.co.uk/img/upload/201102241951-nm1010-fairfair.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/873/beat-the-bush-administration
-imported: true
 comments:
  - value: >
      McCain I was going to do a story on this yu beat me to it congrats! It is a good story which needs to be told over and over. Many of these dotcemnus, from what I understand, were highly classified and were (no surprises) critical of Clinton's handling of the Millenium celebration threats. The Archives has no idea what was actually stolen, as they do not keep records of the dotcemnus from the Presdient's national security team.His sentence of $50,000 fine and 100 hours of community service doesn't come close ,Tanner - I figured you might want to let your<a href="http://wafwnal.com"> reaedrs</a> know of two rarely shown on TV spy / spy related movies playing this Friday, January 28.1. Deadfall (1968) w/ Michael Caine. Fox Movie Channel 1:00 AM 2. The Odessa File (1974) w/ Jon Voight, Max Schell. Turner Classic Movies 9:00 PM(I think these are Central time, but check local listings to be sure)
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - jgp09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102241951-nm1010-fairfair.jpg"
-image_caption: ""
 ---
 
 Here is what happened: the United States government decided to invade Iraq for possessing dangerous weapons supplied by the African nation of Niger. An American international consultant was asked to gather sufficient evidence from Africa to prove that Iraq was in fact buying these weapons. He found none, and wrote a report that said exactly that. So when he realised that his very clear report was completely ignored and The White House went to war anyway, he wrote another article, this time to The New York Times, about the invalidity of the American invasion. Ill-advised of course, but his conscience didn’t allow him to just look the other way.

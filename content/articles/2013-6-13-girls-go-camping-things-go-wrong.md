@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Black Rock review
 date: "2013-06-13 23:38:46 +0100"
-
-# Attributes from Felix Online V1
-id: "3697"
-old_path: /film/3697/girls-go-camping-things-go-wrong
+image: "http://felixonline.co.uk/img/upload/201306140038-tna08-black-rock-review-1.jpg"
+image_caption: "Hold on to your ovaries girls...Man of Steel lands today"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3697/girls-go-camping-things-go-wrong
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - jgp09
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306140038-tna08-black-rock-review-1.jpg"
-image_caption: ""
 ---
 
 There’s something almost primeval about the way the characters here conduct themselves. Cut off from civilisation with no technology to help them, the women here need to resort to the bare minimum to stay alive, and here is a gritty, unflinching survival drama that is impressively made, with brisk action and nasty surprises here and there.

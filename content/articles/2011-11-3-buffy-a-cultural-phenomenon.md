@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Move over Edward, there's a proper vampire in town
 date: "2011-11-03 20:34:48 +0000"
-
-# Attributes from Felix Online V1
-id: "1669"
-old_path: /tv/1669/buffy--a-cultural-phenomenon
+image: "http://felixonline.co.uk/img/upload/201111032034-pk1811-buffy.jpg"
+image_caption: "“A vampire in love with a Slayer!  It’s rather poetic...in a maudlin way” "
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1669/buffy--a-cultural-phenomenon
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +22,6 @@ authors:
  - lp707
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111032034-pk1811-buffy.jpg"
-image_caption: ""
 ---
 
 There are shows you watch for mindless entertainment. There are shows you get hooked to, ones you simply need to watch every week. And then there are shows that come to define so many aspects of your life. For me, Buffy the Vampire Slayer is just that show.

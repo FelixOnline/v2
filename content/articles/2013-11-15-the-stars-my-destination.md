@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Maciej Matuszewski discusses an SF classic
 date: "2013-11-15 18:01:03 +0000"
-
-# Attributes from Felix Online V1
-id: "4077"
-old_path: /books/4077/the-stars-my-destination
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/4077/the-stars-my-destination
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Despite my extensive familiarity with science fiction I had, until very recently, had a major gap in my knowledge of the field – the works of Alfred Bester. One of the foremost writers of the late Golden Age of the genre, he has influenced later writers such as Phillip K. Dick and William Gibson, as well as TV shows like Babylon 5 and Firefly. Therefore, finally settling down to read The Stars My Destination, one of his most famous and acclaimed works, I felt both excitement and apprehension. After all, I had many times been greatly disappointed by severely over-hyped novels. However, this time, I needn’t have worried – The Stars My Destination more than lives up to its lofty reputation.

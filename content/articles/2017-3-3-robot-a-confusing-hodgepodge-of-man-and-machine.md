@@ -4,17 +4,15 @@ title: >
 subtitle: >
   Robot was on at the Barbican from the 22nd – 25th February
 date: "2017-03-03 15:15:29 +0000"
+image: "http://felixonline.co.uk/img/upload/201703031514-felix-04.jpg"
+image_caption: "Blanca Li Dance Company, Robot"
 draft: true
-
-# Attributes from Felix Online V1
-id: "6844"
-old_path: /arts/6844/robot--a-confusing-hodgepodge-of-man-and-machine-
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6844/robot--a-confusing-hodgepodge-of-man-and-machine-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - scc114
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703031514-felix-04.jpg"
-image_caption: ""
 ---
 
 There is little doubt that technology has pervaded every inch of our modern lives. From people plugged in on their daily commutes, to the seas of smartphones at concerts, we seem to be constantly immersed in gadgetry. But is that a good or bad thing? This question has become something of a hot topic in recent months, with shows such as Westworld and Black Mirror exploring the darker consequences of a future dominated by technology. Choreographer Blanca Li takes a more playful approach with Robot, a production filled with dancers both human and humanoid.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Maybe it's time for a Republic
 date: "2012-06-07 19:46:04 +0100"
-
-# Attributes from Felix Online V1
-id: "2532"
-old_path: /comment/2532/monarchy-is-outdated
+image: "http://felixonline.co.uk/img/upload/201206072045-pk1811-prince-william.png"
+image_caption: "Maybe you don’t want the monarchy to exist when it’s his time to be King, but we can all agree that "
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2532/monarchy-is-outdated
-imported: true
 comments:
  - value: >
      I can understand your sentiments but I do believe you may have overlooked a few points. Firstly, it is not so useful to generalise - each country is different. The British Monarchy at present still has the potential to inspire people through acts of charity etc. Maybe the younger Royals can do more to become role models - and that is something valuable to a country, I hope, especially because they are around longer than politicians, so they can get involved in social causes. Also, I don't think that costing is a finicky numbers game. I think the amount of money paid to the Royal Family should be weighed against the amount of revenue generated through tourist visits to Royal buildings etc.,So why are you slagging off the British Monarchy?,Apparently many think we should keep the monarchy because it's 'tradition'. It doesn't at all represent the separation at birth creating a class society where your parents can give you such a massive advantage at the expense of those without such contacts / money etc,I'm not
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206072045-pk1811-prince-william.png"
-image_caption: ""
 ---
 
 If you’ve been in the country for the past month or so, you undoubtedly will have heard about the Queen’s Jubilee and the great festivities that accompanied it. National holiday, extended weekend, parades and lots of flag-waving to celebrate the monarch’s sixty year reign. One thing that I was taken aback by was the scale of the whole thing; not by the lavishness and pomp, as I was expecting that considering how proud and wealthy this kingdom is and has been, but rather by how much everyone participated in the affair. As the nation ground to a halt, Union Jacks were flown everywhere and thousands if not millions gathered to celebrate across the globe. Faraway, and otherwise unrelated, countries covered the jubilee in great detail and everyone seemed to participate in wishing the Queen well. My Facebook feed constantly showed messages of support. My cynical side is quick to explain how this widespread approval might be motivated by the four-day holiday, but that aside, the celebrations seemed very earnest.

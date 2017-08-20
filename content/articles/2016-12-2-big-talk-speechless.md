@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The comedy is disarming and charming, but still manages to maintain a wry edge. It very much has the feel of a coming of age comedy
 date: "2016-12-02 15:06:01 +0000"
-
-# Attributes from Felix Online V1
-id: "6540"
-old_path: /tv/6540/big-talk--speechless
+image: "http://felixonline.co.uk/img/upload/201612021505-felix-18SPEECHLESS1-facebookJumbo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6540/big-talk--speechless
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ad4013
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612021505-felix-18SPEECHLESS1-facebookJumbo.jpg"
-image_caption: ""
 ---
 
 Ever since the success of the show, ABC seems to have made ‘Modern Family’ its motto. Leading the charge on diverse sitcoms, in recent years it has put out excellent shows like Black-ish, Fresh off the boat and, now, Speechless. This sitcom follows the DiMeo family as they relocate to a new town in order to be able to better provide for their oldest child JJ who has cerebral palsy.

@@ -4,17 +4,14 @@ title: >
 subtitle: >
   As Rosberg and Hamilton go head to head one last time, Felix asks whether the awarding of double points in the final race is a good thing.
 date: "2014-11-20 21:41:01 +0000"
+image: "http://felixonline.co.uk/"
 draft: true
-
-# Attributes from Felix Online V1
-id: "4918"
-old_path: /sport/4918/double-trouble
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4918/double-trouble
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - hdl14
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 THE YES ARGUMENT

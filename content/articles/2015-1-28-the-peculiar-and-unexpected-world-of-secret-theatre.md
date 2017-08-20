@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Clara Clark Nevola heads down to Kilburn to check out a very secret show
 date: "2015-01-28 18:37:24 +0000"
-
-# Attributes from Felix Online V1
-id: "5152"
-old_path: /arts/5152/the-peculiar-and-unexpected-world-of-secret-theatre
+image: "http://felixonline.co.uk/img/upload/201501281836-ps3110-secret-theatre.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5152/the-peculiar-and-unexpected-world-of-secret-theatre
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - cfc111
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501281836-ps3110-secret-theatre.jpg"
-image_caption: ""
 ---
 
 A hipster little theatre in Kilburn. A cast of young actors. An improvised piece on the meaning of life. As far as hints go, the __Secret Theatre__ production of _A Series of Increasingly Impossible Acts_ hadn’t got me too fired up. And yet, despite my initial reticence, I was completely blown away by what proved to be a brave, hilarious and heart wrenching show.

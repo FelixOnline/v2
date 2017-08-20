@@ -4,16 +4,13 @@ title: >
 subtitle: >
   No moustaches were hurt during the writing of this piece
 date: "2016-11-25 15:02:30 +0000"
-
-# Attributes from Felix Online V1
-id: "6520"
-old_path: /sport/6520/icurfc-take-on-movember
+image: "http://felixonline.co.uk/img/upload/201611251501-felix-Movember Collage.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6520/icurfc-take-on-movember
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - aoz15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611251501-felix-Movember Collage.jpg"
-image_caption: ""
 ---
 
 As rugby players we are all about stash. By this we usually mean rugby kit. However, this month the focus is on cultivating a different kind of ‘stache. A Movember one. “Classic, another group of people idly taking part in a fruitless activity whilst trying to justify it with the pretence of charity,” you think as you scan the rest of the article, noting the collage of ongoing efforts. I simply moust-ache you to wait. Whilst growing facial hair will make no difference to the cause championed by the Movember Foundation (stopping men from dying too young by fighting testicular and prostate cancer and preventing suicide), spreading awareness about the issues and encouraging donations will. So, I encourage you to un-stiffen that upper lip and support this fan-tache-tic cause! To support the men’s rugby team’s ongoing efforts, you can donate at moteam.co/icurfc. Thank you!

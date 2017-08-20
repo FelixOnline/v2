@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Magicians, assemble!
 date: "2015-11-13 14:53:05 +0000"
-
-# Attributes from Felix Online V1
-id: "5735"
-old_path: /cands/5735/do-you-want-to-see-a-magic-trick
+image: "http://felixonline.co.uk/img/upload/201511131452-ygr12-derren-brown-011.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5735/do-you-want-to-see-a-magic-trick
-imported: true
 comments:
  - value: >
      cAZECt http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com,4zFuzB http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com,Great looking website. Presume you did a bunch of your own coding.| <br>cs go skins reddit http://www.e-phorum.net/cs-go-skins-for-sale-television-scripts,Thanks for the purpose of providing these sort of terrific subject matter. <br>cs go skins cheap http://gemmaisabel.weebly.com/2133823458/why-you-need-to-simply-buy-nba-mt-coins-that-are-2k16-as-opposed-to-generate-them-all-on-your-own,7RtQzJ http://www.y7YwKx7Pm6OnyJvolbcwrWdoEnRF29pb.com,Great internet sitewebsite! It looks extremely expert! Sustain the great work! <br>madden 17 coins http://sooal.ga2h.com/index.php?qa=1730&amp;qa_1=fifa-17-coins-ncaa-football-video-game-season-confrontation,Great internet site! It looks very professional! Sustain the excellent job! <br>nba 2k17 coins http://live-great.nl/oxwall/event/1255
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511131452-ygr12-derren-brown-011.jpg"
-image_caption: ""
 ---
 
 What do you picture when you hear the word ‘magician’? If you think of ‘that guy’ at a party, sloppily doing lame tricks he learnt an hour ago from Youtube, then I’m here to change that. If you imagine a sad man in his thirties doing kids’ parties, filled with self-loathing due to poor life decisions, then I’m here to change that too.

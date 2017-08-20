@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Yung Nam Cheah discusses the ups and downs of getting your hands dirty abroad.
 date: "2015-03-17 14:45:32 +0000"
-
-# Attributes from Felix Online V1
-id: "5399"
-old_path: /travel/5399/working-holiday---the-substainable-and-immersive-way-to-travel
+image: "http://felixonline.co.uk/img/upload/201503171445-ync111-5122476706_e09e6b098f_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/5399/working-holiday---the-substainable-and-immersive-way-to-travel
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -23,12 +20,6 @@ authors:
  - ync111
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503171445-ync111-5122476706_e09e6b098f_o.jpg"
-image_caption: ""
 ---
 
 I had been fascinated by the concept of working holiday for a while now and even more so when an old friend of mine embarked on her own journey to Australia with her boyfriend, updating us on her 6-months adventure through social media. It seems to be a popular alternative for many young people fresh out of university who wants to travel but still add something to their CV.

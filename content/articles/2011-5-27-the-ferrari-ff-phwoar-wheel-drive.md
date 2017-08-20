@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Charles Betts and his love for the new do-it-all Ferrari
 date: "2011-05-27 15:30:56 +0100"
-
-# Attributes from Felix Online V1
-id: "1281"
-old_path: /tech/1281/the-ferrari-ff-phwoar-wheel-drive
+image: "http://felixonline.co.uk/img/upload/201105271630-felix-2556702261777012411.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/1281/the-ferrari-ff-phwoar-wheel-drive
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - cb403
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105271630-felix-2556702261777012411.jpg"
-image_caption: ""
 ---
 
 Forgive me. I understand that the overuse of compliments can appear naïve at the best of times, and deceitful at the worst. My gut tells me that it’s a terrible, terrible mistake to not be able to spot the flaw in something, that I’m being tricked. I cringe at my credulousness. But, you see, the thing is I’m in love and, as Plato put it, I’ve become a poet. I met her for the first time last week. The most cursory glance lets you know that she’s curvaceous, strong, with plenty of character, her style effortless. And boy can she suck, squeeze, bang, blow.

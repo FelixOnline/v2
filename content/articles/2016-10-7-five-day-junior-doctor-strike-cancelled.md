@@ -4,16 +4,14 @@ title: >
 subtitle: >
   And everyone has mixed feelings
 date: "2016-10-07 16:55:52 +0100"
-
-# Attributes from Felix Online V1
-id: "6311"
-old_path: /news/6311/five-day-junior-doctor-strike-cancelled
+image: "http://felixonline.co.uk/img/upload/201610071854-felix-8951458366_3db3138084_o.jpg"
+image_caption: "Insert evil laugh "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6311/five-day-junior-doctor-strike-cancelled
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610071854-felix-8951458366_3db3138084_o.jpg"
-image_caption: ""
 ---
 
 A five-day strike was meant to be taking place this week in hospitals across the country, but the British Medical Association (BMA) called it off citing patient safety. This move has divided the medical community. There are those who side with the BMA, agreeing that such radical action, the longest strike in the history of the NHS, would have seriously endangered patient safety, yet many are concerned with the state of the NHS and the general sense of hopelessness that’s descending upon British medical professionals.

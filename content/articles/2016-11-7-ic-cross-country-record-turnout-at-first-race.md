@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Strongest Imperial team in years
 date: "2016-11-07 13:22:01 +0000"
-
-# Attributes from Felix Online V1
-id: "6409"
-old_path: /sport/6409/ic-cross-country-record-turnout-at-first-race
+image: "http://felixonline.co.uk/img/upload/201611071321-felix-Robpoint.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6409/ic-cross-country-record-turnout-at-first-race
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - harryallingham1
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611071321-felix-Robpoint.jpeg"
-image_caption: ""
 ---
 
 On a remarkably dry October day. the shouts of “ICXC we so sexy!” lit up the first race of the London Colleges League (LCL) last Wednesday at Parliament Hill. With their shiny new red &amp; blue vests, the newest members of the club were ready to represent against the masses of UCL, Kings, Brunel and St. Mary’s, to name but a few.

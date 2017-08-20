@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Royal School of Mines girls thrashed their Camborne counterparts
 date: "2011-02-27 19:56:50 +0000"
-
-# Attributes from Felix Online V1
-id: "923"
-old_path: /sport/923/rsm-reign-supreme-in-netball-for-second-year-in-a-row
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/923/rsm-reign-supreme-in-netball-for-second-year-in-a-row
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - bc08
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 After weeks of facebook stalking the Camborne Netball page, the Royal School of Mines squad stepped onto the court aiming to make sure that they remained undefeated!

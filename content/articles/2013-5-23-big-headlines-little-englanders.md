@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Padraic Calpin gives you an update on recent happenings in British politics.
 date: "2013-05-23 22:11:14 +0100"
-
-# Attributes from Felix Online V1
-id: "3610"
-old_path: /politics/3610/big-headlines--little-englanders
+image: "http://felixonline.co.uk/img/upload/201305232309-tna08-nigel-farage-leader-of-uk-001.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/3610/big-headlines--little-englanders
-imported: true
 comments:
  - value: >
      The UKIP triumph is nearer than you think, and all dissenters will be thoroughly expunged.
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305232309-tna08-nigel-farage-leader-of-uk-001.jpg"
-image_caption: ""
 ---
 
 Though everyone seems to be resigned to the Coalition trundling along to 2015, there’s still a bite to British (though perhaps more specifically English) politics. It’s been a tumultuous month, with waves of Tory rebellion unsettling David Cameron and the guffawing face of Farage barely off the front pages.

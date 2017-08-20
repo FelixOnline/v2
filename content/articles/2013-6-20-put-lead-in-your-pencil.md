@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Emilie Beauchamp gets Sketchy
 date: "2013-06-20 21:11:35 +0100"
-
-# Attributes from Felix Online V1
-id: "3710"
-old_path: /arts/3710/put-lead-in-your-pencil
+image: "http://felixonline.co.uk/img/upload/201306202353-tna08-greenfairy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3710/put-lead-in-your-pencil
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306202353-tna08-greenfairy.jpg"
-image_caption: ""
 ---
 
 Life drawing is an activity that a lot of people would like to do, but sometimes don’t dare to. For some, the nudity and sterility of classical art classes and the applied attention of overly zealous pseudo-artists in the room can be very intimidating, or maybe simply boring. But rejoice, as a new, alternative drawing movement has brought Dr. Sketchy to life – and to London!

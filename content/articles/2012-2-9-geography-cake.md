@@ -4,16 +4,14 @@ title: >
 subtitle: >
   For the people who've always hated History!
 date: "2012-02-09 22:36:52 +0000"
-
-# Attributes from Felix Online V1
-id: "2157"
-old_path: /food/2157/geography-cake
+image: "http://felixonline.co.uk/img/upload/201202092236-pk1811-dixrwmo-keik-tis-manoulas.jpg"
+image_caption: "The dark cake rises"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2157/geography-cake
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +22,6 @@ authors:
  - ae1409
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202092236-pk1811-dixrwmo-keik-tis-manoulas.jpg"
-image_caption: ""
 ---
 
 __Ingredients__

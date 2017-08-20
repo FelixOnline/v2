@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Poorly timed and expensive refurbishment may just have made it all pretty for the next owner
 date: "2013-01-25 01:51:19 +0000"
-
-# Attributes from Felix Online V1
-id: "3186"
-old_path: /science/3186/royal-institution-may-sell-its-mayfair-home
+image: "http://felixonline.co.uk/img/upload/201301250150-tna08-royal-institute007_full.jpg"
+image_caption: " I think I heard a tenner from the gentleman at the back of the room"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3186/royal-institution-may-sell-its-mayfair-home
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - as1911
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301250150-tna08-royal-institute007_full.jpg"
-image_caption: ""
 ---
 
 The Royal Institution in Mayfair has been a centre for scientific research and communication for over two centuries. Previously the workplace of such scientific greats as Michael Faraday and George Porter, the Ri now focuses on outreach, running courses, book clubs, school events, and the famous Christmas Lectures, in their 18th century building.

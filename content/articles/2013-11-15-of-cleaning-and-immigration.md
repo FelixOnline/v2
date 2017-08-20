@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Taking a look at the bis story of the week
 date: "2013-11-15 02:29:39 +0000"
-
-# Attributes from Felix Online V1
-id: "4072"
-old_path: /comment/4072/of-cleaning-and-immigration
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4072/of-cleaning-and-immigration
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Over the last few weeks Felix has been investigating the problems affecting students in halls in regards to cleaning. This has been an ongoing issue that is effecting hundreds of students, something that could also have an effect on their study life as well. We look forward to hearing a response from the Campus Services department in regards to the changes they have made to the contract, in terms of how binding the contract is, why the communication with students has not been optimal, and how they plan to operate the cleaning services over the coming months. If you have been affected by the changes to the cleaning rota and would like to share your opinions (be they positive, negative, or neutral), please do not hesitate to get in touch with Felix via the Editor’s email address (felix@imperial.ac.uk).

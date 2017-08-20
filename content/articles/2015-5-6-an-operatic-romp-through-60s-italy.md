@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Clara Clark Nevola is taken on a journey to the fun side of the ROH
 date: "2015-05-06 16:34:38 +0100"
-
-# Attributes from Felix Online V1
-id: "5496"
-old_path: /arts/5496/an-operatic-romp-through-60s-italy
+image: "http://felixonline.co.uk/img/upload/201505061733-ps3110-il-turco-in-italia-009.jpg"
+image_caption: "The Royal Opera House’s Il Turco In Italia"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5496/an-operatic-romp-through-60s-italy
-imported: true
 comments:
  - value: >
      fitflops sale au <br>fitflop sale australia http://australiafitflops.blogspot.com/,buy cheap birkenstocks <br>birkenstock madrid sandals http://birkenstockaustraliamalls.com/,louboutin lady peep <br>christian louboutin outlet online http://canadachristianlouboutin.blogspot.com/,As for your technical side of gaming, it was much smoother and more realistic approach past different versions. Amazon.com and Rocketmail!Video Games were great resources for video game information. <br>crÃ©dits fut rapidement http://creditsfut.com/,louboutin peep toes canada <br>christian louboutin outlet canada http://canadachristianlouboutin.blogspot.com/,OGsEv8 http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505061733-ps3110-il-turco-in-italia-009.jpg"
-image_caption: ""
 ---
 
 It would be understandable if a comic opera about a love triangle – featuring a randy Turkish prince, a doddering old man, and his unfaithful young wife – struggled to be relevant. Throw in a few jokes about Gypsies, the inconstancy of women, and old men falling into plates of spaghetti and it turns into an unpalatable cocktail of racism, sexism and slapstick comedy.

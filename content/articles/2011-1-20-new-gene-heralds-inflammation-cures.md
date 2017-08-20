@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial College London develops potential method to control the body's inflammatory response
 date: "2011-01-20 19:24:19 +0000"
-
-# Attributes from Felix Online V1
-id: "605"
-old_path: /science/605/new-gene-heralds-inflammation-cures-
+image: "http://felixonline.co.uk/img/upload/201101201921-ks607-thingsth.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/605/new-gene-heralds-inflammation-cures-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - bjg10
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101201921-ks607-thingsth.jpg"
-image_caption: ""
 ---
 
 Inflammation is a major cause and constituent of many different conditions and scientists believe they have identified a “master switch” protein that could hold the key to new treatments for these diseases.

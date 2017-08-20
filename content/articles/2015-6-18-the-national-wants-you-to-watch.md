@@ -4,16 +4,14 @@ title: >
 subtitle: >
   But Jack Steadman suggests otherwise (this time, anyway)
 date: "2015-06-18 21:15:46 +0100"
-
-# Attributes from Felix Online V1
-id: "5637"
-old_path: /arts/5637/the-national-wants-you-to-watch
+image: "http://felixonline.co.uk/img/upload/201506182215-jyg11-jpeg-1-abbi-greenland,-helena-lymbery-and-helen-goalen-photography-by-richard-davenport.jpg"
+image_caption: "Abbi Greenland, Helena Lymbery and Helen Goalen in We Want You to Watch at the National Theatre."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5637/the-national-wants-you-to-watch
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - js5913
  - jyg11
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506182215-jyg11-jpeg-1-abbi-greenland,-helena-lymbery-and-helen-goalen-photography-by-richard-davenport.jpg"
-image_caption: ""
 ---
 
 Following on from _Beyond Caring_ in the __National__’s__ Temporary Theatre__, _We Want You to Watch_ is the latest venture from producing trio RashDash, written together with Alice Birch.

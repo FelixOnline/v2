@@ -4,18 +4,16 @@ title: >
 subtitle: >
   It's officially performance season again for the arts societies at Imperial
 date: "2016-03-18 12:05:31 +0000"
-
-# Attributes from Felix Online V1
-id: "6076"
-old_path: /cands/6076/ending-term-on-a-high-note-or-several
+image: "http://felixonline.co.uk/img/upload/201603181205-felix-IMG_6385.JPG"
+image_caption: "The PhotoSoc Exhibition up in Blyth."
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/6076/ending-term-on-a-high-note-or-several
-imported: true
 comments:
  - value: >
      were so proud of you. <br>cheap RS Gold http://www.lintasblog.com/blogs/post/13375,You are the savior of my life. <br>u4fifa https://myspace.com/u4fifa,Good !|Cool! I love your this bolg. <br>best mt 2k16 pc seller http://www.nba2k16store.com/nba-2k16/PC-2200,I respect your work. <br>fifa 17 points https://www.prlog.org/12561007-u4fifacom-cheap-fifa-17-points-account-for-sale.html,Where were we? <br>UPAlbion http://ameblo.jp/albiononline/entry-12161251648.html
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -26,12 +24,6 @@ authors:
  - ad4812
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603181205-felix-IMG_6385.JPG"
-image_caption: ""
 ---
 
 After the all round success seen at ArtsFest last term for the Arts societies Imperial has seen them come roaring back to life for a series of incredible Easter term concerts. ICSM Drama put on a wonderful performance of Midsummer Night’s dream in the Union Concert Hall last week with snazzy costumes, set and performances. The PhotoSoc exhibition has been up in the Blythe gallery since the launch last week and it’s pretty incredible. The free wine and cheese at the launch was also pretty incredible, if we’re being completey honest.

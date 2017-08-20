@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Investigating groups that oppose democracy
 date: "2011-10-27 22:57:30 +0100"
-
-# Attributes from Felix Online V1
-id: "1619"
-old_path: /politics/1619/is-democracy-the-best-policy
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1619/is-democracy-the-best-policy
-imported: true
 comments:
  - value: >
      'It is not hard to imagine what kind of morally-sound decisions Abdur-Raheem is thinking of.' <br> <br>As a muslim, i mastered the art of reading between such lines :b. <br> <br>it is indeed very easy to imagine, cutting hands of theives and stoning. <br> <br>thats what your implying, eh? <br> <br>but no, it is very difficult to know what in fact he is talking about, unless you look deeply into the matter. <br> <br>and it is important to note.. that there is not a single country that exists right now, neither Saudi nor Iran, who are in fact following the islamic system that is decreed upon muslims.. <br> <br>I grew up studying sharia and islamic history since i was small. <br> <br>And as i live in lebanon, a country which had been forced to have a 'democratic' gov with christian president. <br> <br>I tell you, how lebanon has degraded since the fall of islamic ruling. <br> <br>dont base ur knowledge on what uve been told. <br> <br>if you sincerely care to know, you'd consult sources not imagination. <br> <br>Address: Regents park mosque library, first floor.
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -27,12 +24,6 @@ authors:
  - jm3309
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Many people have argued that democracy is actually one of the most radical ideas in political history. To treat people as equals with equal votes sits well with most people today. We can also see the effects of ideas like these in the West in the last 300 years or so with mass education, rising standards of living, and the abolition of slavery, infanticide, child labour, serfdom and feudalism. There has also been greatly reduced infant mortality, religious persecution, racism, misogyny, superstition and war. The few wars that do occur tend to be tremendously more violent, but it is also a long-term trend that they are getting rarer.

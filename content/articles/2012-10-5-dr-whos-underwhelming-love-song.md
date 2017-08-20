@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Maciej Matuszewski gives us his opinion on the newest Doctor
 date: "2012-10-05 11:30:51 +0100"
-
-# Attributes from Felix Online V1
-id: "2597"
-old_path: /tv/2597/dr-whos-underwhelming-love-song
+image: "http://felixonline.co.uk/img/upload/201210051230-felix-dr-who-river-song.jpg"
+image_caption: "A match made in heaven?  Apparently not..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/2597/dr-whos-underwhelming-love-song
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210051230-felix-dr-who-river-song.jpg"
-image_caption: ""
 ---
 
 I have previously expressed my mixed views of Doctor Who on these pages. I’ve been a regular viewer since the show’s revival in 2005 and honestly I’ve found, over the years, that the show’s episodes can be split into three categories. A third are good and entertaining in their own right, a third disappoint me at how they squander the show’s amazing premise, and a third are so bad that they’re fun to watch and laugh at. I’m entertained two thirds of the time, and so keep watching, but under no circumstances could I say that the show has been consistently good.

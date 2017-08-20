@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The arrests took place outside the gates to Downing Street, less than 48 hours after David Cameron was returned to power with a Conservative majority.
 date: "2015-05-12 15:59:28 +0100"
-
-# Attributes from Felix Online V1
-id: "5512"
-old_path: /news/5512/15-arrested-in-anti-austerity-protest-in-london
+image: "http://felixonline.co.uk/img/upload/201505121704-jr2514-_82891092_027131722-1.jpg"
+image_caption: "Hundreds took to the streets just two days after the general election"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5512/15-arrested-in-anti-austerity-protest-in-london
-imported: true
 comments:
  - value: >
      Thanks pertaining to offering this kind of awesome write-up. <br>cs go skins for paypal http://fifa15trailer.drupalgardens.com/content/2k-sports-stopping-its-major-league-baseball-gaming-collection,Much thanks! It is definitely an remarkable site!. <br>madden 17 coins http://elizabeth.2you.be/weblog/cheap-nhl-17-coins-of-popularity-goalten/?actie=thread&amp;threadid=386952
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - jr2514
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505121704-jr2514-_82891092_027131722-1.jpg"
-image_caption: ""
 ---
 
 Protestors threw traffic cones, smoke bombs and other objects at the police in central London, angry that the Conservatives won the general election.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   It’s time to start thinking about a post-work society
 date: "2015-11-27 14:20:35 +0000"
-
-# Attributes from Felix Online V1
-id: "5776"
-old_path: /comment/5776/communism-is-the-key-to-luxury-for-all
+image: "http://felixonline.co.uk/img/upload/201511271420-ygr12-jetsons.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5776/communism-is-the-key-to-luxury-for-all
-imported: true
 comments:
  - value: >
      when did we start letting damn commies into our country?,"However, nearly all of the technology that makes up Apple’s iPad and iPhone was originally invented by state funded or state owned organisations. " <br> <br>Citation. Needed. <br> <br>The transistor was invented by AT&amp;T's Bell Labs, mobile telephony was invented by Motorola, microprocessors were invented by Texas Instruments and Intel, the liquid crystal display was invented by RCA, and the lithium-ion battery was first proposed by a researcher working for Exxon. If you aren't willing to do even the slightest amount of research, perhaps you should stick to your music column. <br> <br>There is indeed a role for the state in funding research at the basic level. However, turning fundamental physics and chemistry into useful consumer products is best left to private companies, which are forced to respond to consumer needs. Government providers -- or, god forbid, government MONOPOLIES, which is what you are advocating -- are not sensitive to consumer demands or competition
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511271420-ygr12-jetsons.jpg"
-image_caption: ""
 ---
 
 In a speech last Friday at Imperial, shadow chancellor John McDonnell outlined his ideas on a new form of socialism where “technology liberates rather than traps.” With full automation in the not-too-distant-future almost inevitable, it’s now time we start thinking about how Britain will adapt to a post-work society. McDonnell’s speech recognised many of the problems automation might introduce, but offered few solutions. As a party firmly rooted in the trade union movement, Labour seem woefully unprepared for a world with a workforce without work.

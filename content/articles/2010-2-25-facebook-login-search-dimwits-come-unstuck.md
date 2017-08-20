@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Facebook numpties fooled by Blog post and good SEO
 date: "2010-02-25 13:23:05 +0000"
-
-# Attributes from Felix Online V1
-id: "98"
-old_path: /tech/98/facebook-login-search-dimwits-come-unstuck
+image: "http://felixonline.co.uk/img/upload/201002251317-srg03-Facebook.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/98/facebook-login-search-dimwits-come-unstuck
-imported: true
 comments:
  - value: >
      This is literally hilarious!,<a href="http://www.caputofordelegate.com">Source: </a> I saw this on another post and it made me smile<br><br>Worry does not empty tomorrow of its sorrow. It empties today of its strength. :) ,<a href="http://aaaautoinsurance.buzz-echo.com/2011/05/11/what-all-bloggers-should-know-about-wordpress-seo/">Source: </a> I love this site and just wish I was as smart as you guys but maybe I can at least give you a smile?<br>just to make you you smile :) Which is the non-smoking lifeboat? ,Hi - I am definitely glad to find this. Good job!
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -26,12 +23,6 @@ authors:
  - srg03
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002251317-srg03-Facebook.jpg"
-image_caption: ""
 ---
 
 This week saw the accidental birth of a new internet meme at the expense of some rather ignorant Facebook users. I say some, it's more like thousands of Stalkerbook simpletons, and it all stems from their inability to understand a simple principle: Google is a search engine, not an address bar.

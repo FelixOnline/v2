@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Curiousity may have killed the cat, but without it we all risk a far worse fate, says Anum Farooq
 date: "2013-03-07 20:51:43 +0000"
-
-# Attributes from Felix Online V1
-id: "3419"
-old_path: /comment/3419/lets-find-out-then
+image: "http://felixonline.co.uk/img/upload/201303072048-txl11-rainforest.jpg"
+image_caption: "Let’s find out if it’s venomous!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3419/lets-find-out-then
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +22,6 @@ authors:
  - fcomment
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303072048-txl11-rainforest.jpg"
-image_caption: ""
 ---
 
 Now, I have a huge confession to make. Well, it’s something that I can’t really help, aside from the non-stop verbal diarrhea. When it began is as misty as a fading memory skipping on old stones in a running brook, but it must have been somewhere in my childhood.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Paul Coelho’s best-selling novel, The Alchemist, reminds us to be true to ourselves and to seek out our ‘personal legend’. A king advises Santiago, the chief protagonist, that, “when you really want something to happen, the whole universe conspires so that your wish comes true.”
 date: "2013-12-06 04:03:34 +0000"
-
-# Attributes from Felix Online V1
-id: "4186"
-old_path: /comment/4186/ramblings-on-personal-legend
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4186/ramblings-on-personal-legend
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Paul Coelho’s best-selling novel, The Alchemist, reminds us to be true to ourselves and to seek out our ‘personal legend’. A king advises Santiago, the chief protagonist, that, “when you really want something to happen, the whole universe conspires so that your wish comes true.”.] This in itself is an uplifting prospect. In spite of this the various realities and sufferings happening around the world on a daily basis demonstrate that this is, all too often, far from the truth. A line that I read in Albert Camus’ The Plague emboldened this for me. “To the day I die I shall refuse to love this creation in which children are tortured.” The so-called ‘lost generation’ of Syrian children serves as a case in point. How can an individual best serve humanity in the modern age while staying true to oneself?

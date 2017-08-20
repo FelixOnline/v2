@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Durham, Exeter, Queen Mary and York join Imperial
 date: "2012-03-16 01:54:05 +0000"
-
-# Attributes from Felix Online V1
-id: "2403"
-old_path: /news/2403/russell-group-extends-its-reach-to-four-more-institutions-
+image: "http://felixonline.co.uk/img/upload/201203160158-felix-russell.jpg"
+image_caption: "The group held their first meeting in the Hotel Russell in London"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2403/russell-group-extends-its-reach-to-four-more-institutions-
-imported: true
 comments:
  - value: >
      MISTAKE: York and QMUL are toilets; Durham is severely complexed about its academic inferiority and northern locale despite pretty buildings <br> <br>HOWEVER: Exeter is allowed because it's full of beautiful girls is close to the seaside and I hear everyone who has ever been there has had 3/4 years of great chat and sex. <br> <br>,QMUL is as much of an architectural toilet as Imperial!,Grow up, #1. We're lucky to go to a superb university, but the research produced by York - and even QMUL and Durham - is excellent. They're more than qualified for the Russell group. I was just suprised that they weren't already in it... <br>,Pity Exeter's Research record is so dismal... <br> <br>How did they think Exeter should join? The only possible rationale that I can guess is that Exeter finds itself oversubscribed for it's undergradautes courses (probably something to do with @chomping's remarks) and hence was included to assuage the AAb argument. <br> <br>Those posh gits in Exeter are just not Russell Group material,Many thanks for sharing this
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203160158-felix-russell.jpg"
-image_caption: ""
 ---
 
 [The Russell Group](http://www.russellgroup.ac.uk/) has agreed to extend its membership to four more universities. Durham, Exeter, Queen Mary and York are the four institutions that will join the traditionally 20-strong association of public research universities, of which Imperial College London is a member.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Rhys Davies just can't argue with trees
 date: "2010-02-27 17:02:27 +0000"
-
-# Attributes from Felix Online V1
-id: "110"
-old_path: /comment/110/rhys-davies-just-cant-argue-with-trees
+image: "http://felixonline.co.uk/img/upload/201002271701-rsp07-trees.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/110/rhys-davies-just-cant-argue-with-trees
-imported: true
 comments:
  - value: >
      david jones torebki torebki online tanie torebki torebki <br><a href="http://torebki4you.com">torebki damskie sklep internetowy</a> torebki 2011 torebki wizytowe <br>tanie torebki torebki kazar torebka kuferek torebki skórzane torebki damskie w³oskie david jones torebki <br>torebki damskie sklep internetowy kazar <a href="http://torebki4you.com">torebki damskie </a>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +23,6 @@ authors:
  - rsp07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002271701-rsp07-trees.jpg"
-image_caption: ""
 ---
 
 Whilst walking through Hyde Park one day, I came across a very peculiar sight.

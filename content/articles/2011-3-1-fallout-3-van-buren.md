@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Our second game 'that never made it'
 date: "2011-03-01 21:09:29 +0000"
-
-# Attributes from Felix Online V1
-id: "966"
-old_path: /games/966/fallout-3-van-buren
+image: "http://felixonline.co.uk/img/upload/201103012108-ks607-fallouts.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/966/fallout-3-van-buren
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - dt1209
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103012108-ks607-fallouts.jpg"
-image_caption: ""
 ---
 
 Hush up fanboys and those sad enough to try and pick a fight with static print, I’m gonna say it, they cancelled_ Fallout 3_. Not the one you or I played/saw/read about/licked etc. No, this game was in development by Black Isle Studios, the inventors of more cancelled games than ones to actually make it to the shelves.

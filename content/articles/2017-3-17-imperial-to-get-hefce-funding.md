@@ -4,18 +4,16 @@ title: >
 subtitle: >
   College and the Union will be reportedly matching the funds their proposal receives
 date: "2017-03-17 13:11:07 +0000"
-
-# Attributes from Felix Online V1
-id: "6900"
-old_path: /news/6900/imperial-to-get-hefce-funding
+image: "http://felixonline.co.uk/img/upload/201703171311-felix-1438560415_fbd1c30e83_o.jpg"
+image_caption: "PLEASE DO NOT TOUCH"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6900/imperial-to-get-hefce-funding
-imported: true
 comments:
  - value: >
      You are nothing like us . <br>cheapest madden mobile 17 coins http://www.madden-store.com,You are nothing like us . <br>cheapest madden mobile 17 coins http://www.madden-store.com,My way or the highway. <br>cheap pokemon go rare pokemon http://www.pokemonbux.com,My way or the highway. <br>cheap pokemon go rare pokemon http://www.pokemonbux.com,No one can do it better than you. <br>buy cheap albion online gold http://www.dreamsoulmatch.com/member/blog_post_view.php?postId=60031,No one can do it better than you. <br>buy cheap albion online gold http://www.dreamsoulmatch.com/member/blog_post_view.php?postId=60031,this is a very helpful website! <br>cheap albion online gold http://albion.soup.io/post/610291817/UPAlbion-Can-Provide-Supreme-Customer-Service-At,this is a very helpful website! <br>cheap albion online gold http://albion.soup.io/post/610291817/UPAlbion-Can-Provide-Supreme-Customer-Service-At
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171311-felix-1438560415_fbd1c30e83_o.jpg"
-image_caption: ""
 ---
 
 Imperial has been selected as one of 64 institutions to receive up to £50,000 of HEFCE Catalyst funding from the Student Safeguarding fund. This is part of the £2.45 million released by HEFCE for projects addressing sexual harassment on campus following the report from Universities UK’s Harassment Taskforce on the need for universities and colleges to do more to tackle the problem.

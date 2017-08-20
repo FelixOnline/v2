@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jingjie Cheng on the ROH’s new ballet, based of Virginia Woolf’s work
 date: "2015-05-15 12:58:42 +0100"
-
-# Attributes from Felix Online V1
-id: "5541"
-old_path: /arts/5541/celebrating-the-queen-of-modernism
+image: "http://felixonline.co.uk/img/upload/201505151358-cj914-woolf-works-royal-ballet-827-edward-watson,-akane-takada,-tristan-dyer.-©roh,-2015.-photographed-by-tristram-kenton-copy.jpg"
+image_caption: "A scene from The Royal Ballet’s Woolf Works"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5541/celebrating-the-queen-of-modernism
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - jc7413
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505151358-cj914-woolf-works-royal-ballet-827-edward-watson,-akane-takada,-tristan-dyer.-©roh,-2015.-photographed-by-tristram-kenton-copy.jpg"
-image_caption: ""
 ---
 
 From the very opening moments of _Woolf Works_, the audience realises that what they are about to experience will not be anything one would expect from a conventional ballet, but a bold, mixed-media theatrical experiment with dance as its main act.

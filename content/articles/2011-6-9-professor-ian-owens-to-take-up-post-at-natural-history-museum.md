@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Controversial Head of Life Sciences Department leaving to become Director of Science at Natural History Museum
 date: "2011-06-09 21:01:17 +0100"
-
-# Attributes from Felix Online V1
-id: "1346"
-old_path: /news/1346/professor-ian-owens-to-take-up-post-at-natural-history-museum
+image: "http://felixonline.co.uk/img/upload/201106092200-felix-professor-ian-owens_98360_2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1346/professor-ian-owens-to-take-up-post-at-natural-history-museum
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106092200-felix-professor-ian-owens_98360_2.jpg"
-image_caption: ""
 ---
 
 Professor Ian Owens, the current head of the Department of Life Sciences, has been announced as the Natural History Museum’s new Director of Science.

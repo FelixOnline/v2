@@ -4,16 +4,13 @@ title: >
 subtitle: >
   President Assad’s adversaries meet in the wake of ending the Syrian Crisis
 date: "2013-12-02 21:56:48 +0000"
-
-# Attributes from Felix Online V1
-id: "4159"
-old_path: /politics/4159/geneva-2--peace-talks-for-the-syrian-crisis
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/4159/geneva-2--peace-talks-for-the-syrian-crisis
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - jr1911
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 After a political turmoil that took a toll on the lives of thousands of hapless innocent Syrians, peace talks between opposing factions has emerged as the only recourse for the multitude. The situation on ground has deteriorated beyond recognition- derelict streets, blast ravaged homes, unemployed youth, crying orphans and polio-infested children abound the Syrian land.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Scientists create nano ear which can pick up sounds
 date: "2012-01-26 22:06:10 +0000"
-
-# Attributes from Felix Online V1
-id: "2051"
-old_path: /science/2051/nano-ear-can-hear-microorganisms
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2051/nano-ear-can-hear-microorganisms
-imported: true
 comments:
  - value: >
      Woah Mic! Can just tell how sexy you are from the way you write ;)
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -27,12 +24,6 @@ authors:
  - mt3711
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Is there something more we can learn from the sounds emitted by bacteria and viruses? Even though microbes cannot ‘speak’ in the way that animals can, scientists believe that there is a lot to learn from the noises produced when small organisms move around.

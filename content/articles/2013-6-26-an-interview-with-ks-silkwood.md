@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alejandro Torrado Pacheco talks to the author of King of the Jungle
 date: "2013-06-26 17:32:33 +0100"
-
-# Attributes from Felix Online V1
-id: "3741"
-old_path: /books/3741/an-interview-with-ks-silkwood
+image: "http://felixonline.co.uk/img/upload/201306201645-txl11-silkwood.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3741/an-interview-with-ks-silkwood
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - at3209
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306201645-txl11-silkwood.jpg"
-image_caption: ""
 ---
 
 __First of all, I'd like to know some more about the author. Where did you grow up, what did you study, what brought you to writing?__

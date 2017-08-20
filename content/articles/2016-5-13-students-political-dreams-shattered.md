@@ -4,16 +4,13 @@ title: >
 subtitle: >
   He obviously wasn’t going to win standing for Labour in Kensington
 date: "2016-05-13 08:49:06 +0100"
-
-# Attributes from Felix Online V1
-id: "6142"
-old_path: /news/6142/students-political-dreams-shattered
+image: "http://felixonline.co.uk/img/upload/201605131048-felix-20160501_112818.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6142/students-political-dreams-shattered
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605131048-felix-20160501_112818.jpg"
-image_caption: ""
 ---
 
 An Imperial student with dreams of becoming a councillor was beaten by two Conservative candidates to join Kensington and Chelsea council.

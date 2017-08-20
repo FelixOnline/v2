@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Tensions rise in Columbia as the government signs a free trade agreement with US, UK and Canada.
 date: "2013-09-03 09:45:21 +0100"
-
-# Attributes from Felix Online V1
-id: "3755"
-old_path: /politics/3755/discontent-in-colombia
+image: "http://felixonline.co.uk/img/upload/201309031041-jal08-discontent-in-columbia.png"
+image_caption: "Protest against subsidies"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/3755/discontent-in-colombia
-imported: true
 comments:
  - value: >
      Hi Hanna, yesterday I saw your preotst on German TV (8 pm news on ARD)They said, a couple of thousand people preotsted and it was a first preotstever! They showed a short interview with a young woman, who said, she wantsto make her point in showing up there against Tepco and how they handledthe nuclear crisis.I think, I even spotted your banner for a split of a second!I hope you are well.christiane
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -28,12 +26,6 @@ authors:
  - kr1512
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309031041-jal08-discontent-in-columbia.png"
-image_caption: ""
 ---
 
 Angry protestors took to the streets of the capital on Thursday to let their discontent be known. A large number of protesters, banging pots and pans, marched through the streets of Bogotá, while avoiding riot police.

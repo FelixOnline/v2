@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Publish offensive material if you like, just make it good!
 date: "2015-01-23 01:31:09 +0000"
-
-# Attributes from Felix Online V1
-id: "5126"
-old_path: /comment/5126/charlie-hebdo-just-isnt-funny-enough
+image: "http://felixonline.co.uk/img/upload/201501230131-ps3110-charlie-hebdo-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5126/charlie-hebdo-just-isnt-funny-enough
-imported: true
 comments:
  - value: >
      One thing to note is that many of the cartoons make much more sense in the context of the topical French politics they were satirising. As news has a notoriously short half-life, and most British people don’t know anything about French domestic politics in any case, this might go some way to explaining why we don’t get most of the jokes. <br> <br>But more generally, I don’t think discussing whether or not the cartoons are funny is important in the slightest. People have been gunned down on the streets of central Paris over doodling. It seems strange to me that you are explicitly decrying these attacks whilst at the same time primarily using your article to assert the fact that you didn’t find these murdered people funny and it’s a shame they provoked hatred. That use of column inches—when Felix really ought to be plastered with articles devoted to criticising the attackers—implies a warped sense of priority. I think we ought to be showing a little more solidarity with murdered journalists, whether or
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501230131-ps3110-charlie-hebdo-1.jpg"
-image_caption: ""
 ---
 
 Let’s face it, 2014 was not a great year. Tragedies ranging from epidemics to political tension to aviation mysteries to religious extremism defined those twelve depressing months. Even the supposed sporting highlights were overshadowed by allegations of greed and corruption. At best, it was a 3/10. Everyone is hoping that 2015 will be different. Is a 6/10 too much to ask? Only seven days in, however, the dream suffered a huge body blow. The _Charlie Hebdo_ attack has been widely covered and I’m sure you all know what happened.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The John Innes Centre declares opposition to the Life Sciences cuts
 date: "2010-12-11 15:16:32 +0000"
-
-# Attributes from Felix Online V1
-id: "547"
-old_path: /news/547/opposition-to-life-sciences-cuts-grows
+image: "http://felixonline.co.uk/img/upload/201012092147-dr910-sophiada.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/547/opposition-to-life-sciences-cuts-grows
-imported: true
 comments:
  - value: >
      Well done Felix - your coverage has been consistently brilliant and fair! I am also very impressed by the activities of the Imperial College Union, an emerging force clearly to be reckoned with.,,I've made a Freedom of Information request for some of the missing information: <br> <br>http://www.whatdotheyknow.com/request/imperial_college_department_of_l <br> <br>I think one of the many underlying problems here might be a mismatch occurring over time between the department's research and teaching so ICU's call for the proposals to be put on-hold pending a teaching review appears sensible to me. <br> <br>I've written an article on my views: <br> <br>http://www.rtaylor.co.uk/imperial-life-sciences-restructuring.html <br> <br> ,I don't know if it happens already, but the department may save itself if there is an arrangement between the faculty and the school,such that if research done at the school results in a commercially successful product-a drug,a therapy, etc.-the school gets a "cut" of the profit. That would be up to the professors to
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012092147-dr910-sophiada.jpg"
-image_caption: ""
 ---
 
 The Department of Life Sciences came under further pressure as the Director of the influential [John Innes Centre](http://www.jic.ac.uk/corporate/index.htm) (JIC), a plant science and microbiology research institute, called the changes "misguided". It also been revealed that the College's annual surplus, or the profit, has almost trebled to [£41.3 million](http://www.imperial.ac.uk/workspace/finance/Public/annual_report/annual_report_09_10.pdf) for 2009-10.

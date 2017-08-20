@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Missing athletes, lost bikes and misdirection from marshalls
 date: "2016-05-06 10:24:06 +0100"
-
-# Attributes from Felix Online V1
-id: "6139"
-old_path: /sport/6139/trials-and-tribulations-at-bucs-sprint-16
+image: "http://felixonline.co.uk/img/upload/201605061123-felix-13116016_10100539315795845_4258963349234723363_o-1024x576.jpg"
+image_caption: "Quick get a parking space. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6139/trials-and-tribulations-at-bucs-sprint-16
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +22,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061123-felix-13116016_10100539315795845_4258963349234723363_o-1024x576.jpg"
-image_caption: ""
 ---
 
 On Sunday 1st May, seventeen of Imperial’s bravest triathletes descended upon the sleepy town of Calne, Wiltshire to compete in the 2016 BUCS Sprint Triathlon. Gathered outside SAF at the ungodly hour of 5:45am, some quick Imperial brains spotted that there were actually only sixteen recruits present; we were missing our secret weapon, scholarship athlete Alistair Wallace. A few panicked phone calls later and it became clear that he had slept through his alarm and was not going to make the rendez-vous. We departed one man down, hoping that he would be able to make his own way to the race.

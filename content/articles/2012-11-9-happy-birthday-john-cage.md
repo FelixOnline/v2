@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Íñigo Martinez de Rituerto is quiet for 4 minutes and 33 seconds.
 date: "2012-11-09 14:01:04 +0000"
-
-# Attributes from Felix Online V1
-id: "2865"
-old_path: /music/2865/happy-birthday-john-cage
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2865/happy-birthday-john-cage
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - im808
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 4’33’’ of silence, in three parts, for one piano.

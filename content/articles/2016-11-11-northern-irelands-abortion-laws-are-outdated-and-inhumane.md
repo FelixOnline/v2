@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Michael Purdy discusses the archaic abortion laws of Northern Ireland and the obstacles in getting them changed
 date: "2016-11-11 13:57:33 +0000"
-
-# Attributes from Felix Online V1
-id: "6422"
-old_path: /comment/6422/northern-irelands-abortion-laws-are-outdated-and-inhumane
+image: "http://felixonline.co.uk/img/upload/201611111509-felix-Screen Shot 2016-11-11 at 14.12.33.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6422/northern-irelands-abortion-laws-are-outdated-and-inhumane
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - michaelpurdy14
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611111509-felix-Screen Shot 2016-11-11 at 14.12.33.png"
-image_caption: ""
 ---
 
 For generations the gears of the political systems in Northern Ireland have been oiled by religion. Northern Irish politicians have interweaved their self-perceived concepts of morality (determined by their personal religious beliefs) into the politics of the country. The religious beliefs of the country’s politicians have profoundly affected the passage of many pieces of legislation through parliament, which has lead to the isolation, discrimination and, at times, social persecution of those who do not conform to these beliefs. Laws surrounding abortion are a prime example of this.

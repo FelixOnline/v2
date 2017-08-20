@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Watching events in your country unfold from across the border isn't easy
 date: "2015-11-06 13:56:02 +0000"
-
-# Attributes from Felix Online V1
-id: "5702"
-old_path: /comment/5702/how-it-feels-when-your-home-country-goes-to-the-polls
+image: "http://felixonline.co.uk/img/upload/201511061355-ygr12-turkish-election.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5702/how-it-feels-when-your-home-country-goes-to-the-polls
-imported: true
 comments:
  - value: >
      Thanks for your strategies. One thing I've got noticed is that banks and financial institutions have in mind the spending routines of consumers and understand that a lot of people max out their real credit cards around the getaways. They smartly take advantage of this real fact and begin flooding ones inbox and also snail-mail box along with hundreds of Zero APR card offers shortly when the holiday season finishes. Knowing that in case you are like 98% of all American open public, you'll hop at the possible opportunity to consolidate credit debt and move balances for 0 APR credit cards. <br>snapback hats cheap http://www.twofangtu.cn/snapback-hats
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511061355-ygr12-turkish-election.jpg"
-image_caption: ""
 ---
 
 When talking about how it feels to live abroad, the conversation tends to revolve around the things you miss, such as family members, the weather, or food. But, if your home country is in a state of change and turmoil, the hardest thing about being away is having to live through certain events merely through the news, brought to you predominantly by social media.

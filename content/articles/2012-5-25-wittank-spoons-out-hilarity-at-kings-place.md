@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Taking the Edinburgh Fringe Festival head on
 date: "2012-05-25 18:30:37 +0100"
-
-# Attributes from Felix Online V1
-id: "2499"
-old_path: /arts/2499/wittank-spoons-out-hilarity-at-kings-place
+image: "http://felixonline.co.uk/img/upload/201205251928-mc4509-wittank-caves2.jpg"
+image_caption: "What a wunch of bankers!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2499/wittank-spoons-out-hilarity-at-kings-place
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - mc4509
  - mp1710
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205251928-mc4509-wittank-caves2.jpg"
-image_caption: ""
 ---
 
 Having first seen comedy group [WitTank](http://www.wittank.com/) two years ago at the __Edinburgh Fringe__ on the recommendation of a friend, I’ve been coming back for more at every opportunity. These are the guys who compete against some other 2500 shows for an audience at the Fringe every year and still manage to pack the house for every performance.

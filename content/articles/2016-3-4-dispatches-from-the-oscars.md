@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Chris Rock’s introduction of Stacey Dash left us all totally stumped
 date: "2016-03-04 11:50:19 +0000"
-
-# Attributes from Felix Online V1
-id: "6010"
-old_path: /film/6010/dispatches-from-the-oscars
+image: "http://felixonline.co.uk/img/upload/201603041149-felix-7f575200-0f46-4251-9082-16eedde2ba89-88thAcademyAwards_Loia2.jpg"
+image_caption: "Ruffalo et al. celebrate Spotlight’s win"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6010/dispatches-from-the-oscars
-imported: true
 comments:
  - value: >
      Astonishingly individual friendly website. Astounding information readily available on few clicks on.| <br>nba 2k16 mt packs http://hannah1106.tarlog.com/post/102/,Hola,soy nuevo en estos de las pantalas, leí los comentarios y me han despejado dudas,pero que hay del HD vs. el FULL HD. quisiera saber un poco mas por faric.Gvaroas
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +26,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603041149-felix-7f575200-0f46-4251-9082-16eedde2ba89-88thAcademyAwards_Loia2.jpg"
-image_caption: ""
 ---
 
 The Academy Awards took place last Sunday evening, and your intrepid FELIX team stayed up until the early hours of Monday morning keeping track of the ceremony on an illegal live-stream, significant portions of which were dubbed into Turkish. Truly, there is nothing we will not do for journalism. As usual, there were victories, surprises, snubs, and questionable jokes, and that was only in the office…

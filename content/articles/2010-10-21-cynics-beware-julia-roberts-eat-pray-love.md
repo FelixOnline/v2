@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Eat Pray Love boils down to nothing but a shallow travelogue
 date: "2010-10-21 19:21:42 +0100"
-
-# Attributes from Felix Online V1
-id: "239"
-old_path: /film/239/cynics-beware-julia-roberts-eat-pray-love-
+image: "http://felixonline.co.uk/img/upload/201010212019-ks607-eatprayt.jpg"
+image_caption: "Eat Pray Throwup..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/239/cynics-beware-julia-roberts-eat-pray-love-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010212019-ks607-eatprayt.jpg"
-image_caption: ""
 ---
 
 If you happen to have an ounce of cynicism in your body, avoid this like the plague, because for the cynics amongst you, Eat Pray Love will no doubt be the most self-indulgent film you will see all year. But for those who are truly romantics at heart, one woman’s pretty looking journey across the colourful globe to find the meaning of life, searching for a true connection, will be something to marvel at. Is she brave for venturing out into the world, following her dreams? Or is she simply deluding herself into a materialistic journey? Are the problems in her life that serious?

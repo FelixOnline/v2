@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Phillipa Skett writes about the latest findings in HIV research
 date: "2013-10-04 00:36:28 +0100"
-
-# Attributes from Felix Online V1
-id: "3800"
-old_path: /science/3800/link-found-between-hiv-and-cocaine
+image: "http://felixonline.co.uk/img/upload/201310040135-jal08-sci_hiv-copy.jpg"
+image_caption: "HIV Molecule"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3800/link-found-between-hiv-and-cocaine
-imported: true
 comments:
  - value: >
      This opening sentence could be considered as rather sweeping and assumptive, as it is usually the case with the hooks I use at the beginning of writing a student journalism piece- they are there to provide a broad introduction and to grab attention. And to answer your "question", although I would not say it is a joke per se it is not meant to be some sort of scientific truth either. <br> <br>However, unless you can provide statistical evidence of just what sort of demographics indulge in cocaine use, then you cannot refute my "claim" either. If we are going to break this down, as I expect you would like, considering the rather accusatory tone of your comment: <br>,I can see how I have apparently juxtaposed traders against celebrities in a way to suggest they are at some opposite ends of a social spectrum, but that is your own interpretation and any apparent "walk of life" that lies between the two broad lifestyles of a nondescript "trader" or "celebrity" could encompass a multitude of demographics, that could indeed
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310040135-jal08-sci_hiv-copy.jpg"
-image_caption: ""
 ---
 
 It is a drug whose users come from across all walks of life; from traders in the big cities to celebrities in the bathrooms, cocaine is a substance commonly associated with excess, confidence, and power. This week scientists also drew links between this Class A drug and something far less desirable; research conducted by University of California, Los Angeles (UCLA) has found that cocaine use may increase the possibility of successful HIV infection, and not just due to lifestyle choices alone.

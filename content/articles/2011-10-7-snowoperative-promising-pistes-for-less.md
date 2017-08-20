@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Snowsports clubs collaboration will ‘reduce prices’
 date: "2011-10-07 01:06:43 +0100"
-
-# Attributes from Felix Online V1
-id: "1472"
-old_path: /sport/1472/snowoperative-promising-pistes-for-less
+image: "http://felixonline.co.uk/img/upload/201110070207-sjw209-joesnowboarding.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1472/snowoperative-promising-pistes-for-less
-imported: true
 comments:
  - value: >
      Easter Ski Trip Details: <br> <br>We can't cover all the awesomeness of Saalbach-Hinterglemm in this space but we hope you get the idea of how truly stoked we are to be going to Austria this year! Phenomenal skiing and snowboarding for all abilities, the most picturesque green runs through to gnarly tree skiing and everything in between. Parties &amp; Competitions to get involved in. And 2000+ UK university students there! <br> <br>Starting price of £399 includes: <br> <br>• Lift Pass <br>• Accommodation (self catered, as in France) <br>• Return Coach from London <br>• Resort Tax <br>• BUSC Main Event Wristband (gets you into everything and drinks deals etc) <br>• BUSC 2012 trip tshirt <br> <br>Dates: 24TH – 31ST MARCH 2012 <br> <br>HOW TO BOOK……….. <br> <br>http://www.buscevents.com/events/index.php/?content=943&amp;menu=2497 <br> <br>Choose, IMPERIAL, and pick MAIN WEEK!!,Please see http://felixonline.co.uk/sport/3148/carving-it-up-in-val-thorens/ for latest update/article,Coach hasn't compromised the caliber of their totes becoming created <a href="h"></a>
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110070207-sjw209-joesnowboarding.jpg"
-image_caption: ""
 ---
 
 In this ‘age of austerity’ skiing and snowboarding can still remain affordable for students. Tough times call for tough measures. So now, Snowsports clubs from across the land of London have come together to bring snowy fun to the masses (i.e. you) at good ol’, pre-tuition-fee-scandal, student prices! While you were busy working on those tans that the days of revision and exams denied you, your lovely Snowsports committee were looking out for your winter needs.

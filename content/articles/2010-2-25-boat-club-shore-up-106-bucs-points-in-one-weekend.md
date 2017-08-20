@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Incredible weekend for rowers
 date: "2010-02-25 19:04:58 +0000"
-
-# Attributes from Felix Online V1
-id: "109"
-old_path: /sport/109/boat-club-shore-up-106-bucs-points-in-one-weekend
+image: "http://felixonline.co.uk/img/upload/201002251903-mb506-Imperial.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/109/boat-club-shore-up-106-bucs-points-in-one-weekend
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - mb506
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002251903-mb506-Imperial.jpg"
-image_caption: ""
 ---
 
 This year’s BUCS Championship and Beginner’s Head was a successful one for Imperial. There were three golds, two silvers and two bronzes, as well as several other top ten placings.

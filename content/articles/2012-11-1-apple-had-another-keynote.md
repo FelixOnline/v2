@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Max Eggl looks at Apple’s latest expected and unexpected products
 date: "2012-11-01 22:40:12 +0000"
-
-# Attributes from Felix Online V1
-id: "2788"
-old_path: /tech/2788/apple-had-another-keynote-
+image: "http://felixonline.co.uk/img/upload/201211012240-tna08-waterfall-picturergb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/2788/apple-had-another-keynote-
-imported: true
 comments:
  - value: >
      yep you're right there! For some reason i have had that 7.85" in my mind!,It's a 7.9'' tablet, not 7.85'' :),That extra 20th of an inch makes all the difference. That's like, an extra 10%.,I simply watned to write down a quick word in order to appreciate you for all of the unique steps you are sharing on this website. My incredibly long internet research has now been rewarded with wonderful content to go over with my friends and classmates. I would assert that most of us site visitors are definitely blessed to dwell in a good community with many special people with very helpful advice. I feel very much blessed to have come across your webpages and look forward to so many more entertaining moments reading here. Thank you once again for everything.,Your content is<a href="http://wbrjcngwaw.com"> irfvnmatioe</a>, interesting, compelling and any other word that describes good writing. I wish I could express myself so well. Thank you for your unique and fresh views.
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211012240-tna08-waterfall-picturergb.jpg"
-image_caption: ""
 ---
 
 t last week’s Apple keynote weall expected just the launch of the new iPad mini, but the keynote proved a surprise as Apple announced more new products and upgrades than most had expected.

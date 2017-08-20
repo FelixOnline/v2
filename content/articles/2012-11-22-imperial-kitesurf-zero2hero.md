@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The beginners’ weekend, as reported by Leon Vanstone
 date: "2012-11-22 22:47:20 +0000"
-
-# Attributes from Felix Online V1
-id: "2932"
-old_path: /news/2932/imperial-kitesurf-zero2hero
+image: "http://felixonline.co.uk/img/upload/201211222247-tna08-kites_aberavon_student_kite_event.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2932/imperial-kitesurf-zero2hero
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - lv105
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211222247-tna08-kites_aberavon_student_kite_event.jpg"
-image_caption: ""
 ---
 
 On the weekend of the 27th October, Imperial Kitesurf hit the Student Kitesufing (SKA) Zero2Hero weekend to teach our beginners how to kitesurf.

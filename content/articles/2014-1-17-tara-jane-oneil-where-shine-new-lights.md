@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tara Jane O’Neil is a multi-talented musician based out of Portland, Oregon. At the age of 19 she was already playing bass for art punk band Rodan.
 date: "2014-01-17 03:53:39 +0000"
-
-# Attributes from Felix Online V1
-id: "4245"
-old_path: /music/4245/tara-jane-oneil---where-shine-new-lights
+image: "http://felixonline.co.uk/img/upload/201401170353-jal08-music_tjo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4245/tara-jane-oneil---where-shine-new-lights
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - sm5810
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201401170353-jal08-music_tjo.jpg"
-image_caption: ""
 ---
 
 __Tara Jane O’Neil __is a multi-talented musician based out of Portland, Oregon. At the age of 19 she was already playing bass for art punk band __Rodan__. She then went about forming __Retsin__, a folky indie duo and __The Sonora Pine__, a more experimental post-rock type band. Since then there has been a collaboration with legendary slowcore band __Ida__, a wide range of guest appearances and even a prominent role in the film _Half-Cocked. _She is also a notable painter. (I did say multi-talented!)

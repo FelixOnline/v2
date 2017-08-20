@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Carol talks about her food memories
 date: "2014-11-06 21:05:07 +0000"
-
-# Attributes from Felix Online V1
-id: "4795"
-old_path: /food/4795/red-in-my-ledger
+image: "http://felixonline.co.uk/img/upload/201411062104-snb11-0-1-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/4795/red-in-my-ledger
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +22,6 @@ authors:
  - snb11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411062104-snb11-0-1-copy.jpg"
-image_caption: ""
 ---
 
 I managed to get a trip down memory lane this week – well, this was when I was making a batch of red velvet cupcakes for our ed-in-chief’s birthday on Tuesday (happy birthday again Philippa!) Many moons ago, when I was a not-so-jaded fresher, I was actually known amongst some peers as the queen of red velvet. I totally blame the South Kensington outpost of the Hummingbird Bakery for this one; they were the ones who sold me my first red velvet cake, and I fell in love.

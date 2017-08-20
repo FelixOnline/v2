@@ -4,16 +4,13 @@ title: >
 subtitle: >
   adsfasdfasdf
 date: "2011-06-09 19:53:35 +0100"
-
-# Attributes from Felix Online V1
-id: "1339"
-old_path: /phoenix/1339/ton-rai-plai-dee
+image: "http://felixonline.co.uk/img/upload/201106092053-felix-walmsley.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/1339/ton-rai-plai-dee
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -24,12 +21,6 @@ authors:
  - cr709
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106092053-felix-walmsley.jpg"
-image_caption: ""
 ---
 
 ASCETIC

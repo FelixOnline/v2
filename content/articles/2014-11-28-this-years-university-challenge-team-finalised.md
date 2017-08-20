@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philippa Skett reports as the final team is chosen following weeks of quizzes
 date: "2014-11-28 00:32:31 +0000"
-
-# Attributes from Felix Online V1
-id: "4959"
-old_path: /news/4959/this-years-university-challenge-team-finalised
+image: "http://felixonline.co.uk/img/upload/201411280032-ps3110-201301172350-tna08-uc.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4959/this-years-university-challenge-team-finalised
-imported: true
 comments:
  - value: >
      Guys, I don't think you've got enough physicists on your team?,Why are they all physicists?,Stupid idea having this many people from the same discipline. ,Why are they all male? I'd like to hear a good excuse for a change. <br>http://universitychallengecrush.blogspot.co.uk/2014/08/diversity-challenge.html,Them all being male is probably within margin of error to accurately reflect the Imperial population..,@oliver j ford: Not according to your own stats! ,Answer: They are all Physicists, because they have the most time to kill, while everybody else is super busy. Simple!,We did have a girl on the team in our first selection. However, she has an exam very close to one of the filming dates, and she was not sure if she could handle both responsibilities. She decided to drop out, and the reserve was elevated to team status. This is also the reason we have three physicists, as our original team selection had two physicists, one mathematician and a medic. <br>As for the general reason there's more physicists than any ot
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411280032-ps3110-201301172350-tna08-uc.jpg"
-image_caption: ""
 ---
 
 The University Challenge team has been finalised after an extensive selection process. The new team consists of 5 male students and was selected after passing several rounds of quizzes and a final trial stage.

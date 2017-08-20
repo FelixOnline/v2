@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Caroline Wood on The Good, The Bad and The Ugly of studying
 date: "2013-01-10 22:32:24 +0000"
-
-# Attributes from Felix Online V1
-id: "3087"
-old_path: /news/3087/highlight-everything-
+image: "http://felixonline.co.uk/img/upload/201301102225-tna08-highlight-in-books.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3087/highlight-everything-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102225-tna08-highlight-in-books.jpg"
-image_caption: ""
 ---
 
 This week many of you will have been camping out in the Library preparing for exams. (I feel your pain.) This is the first time in 4 years that I am not sitting exams this January (fist punch) and so instead of frantic cramming I’ve taken some time to look into some of the best, and the worst, revision techniques. (Once a nerd...)

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix Film gazes into the future and predicts the winners for this year’s Oscars – read at your own risk
 date: "2012-02-23 20:03:18 +0000"
-
-# Attributes from Felix Online V1
-id: "2229"
-old_path: /film/2229/time-to-place-your-bets-and-win-big-at-the-oscars
+image: "http://felixonline.co.uk/img/upload/201202231958-pk1811-the-artist-poster.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2229/time-to-place-your-bets-and-win-big-at-the-oscars
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - ffilm
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202231958-pk1811-the-artist-poster.jpg"
-image_caption: ""
 ---
 
 __Best Picture: [The Artist](http://www.imdb.com/title/tt1655442/)__

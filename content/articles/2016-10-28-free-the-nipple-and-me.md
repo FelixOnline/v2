@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Emily-Jane Cramphorn urges you not to freak out about this week’s centrefold
 date: "2016-10-28 14:53:18 +0100"
-
-# Attributes from Felix Online V1
-id: "6349"
-old_path: /comment/6349/free-the-nipple-and-me
+image: "http://felixonline.co.uk/img/upload/201610311256-felix-RR4.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6349/free-the-nipple-and-me
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - ec2212
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610311256-felix-RR4.jpg"
-image_caption: ""
 ---
 
 You may have noticed that this week, the centrefold is a bit different. There are uncensored female nipples in it, and one pair belongs to me. Before you skip ahead (if you haven’t already done so) take a moment to read why this centrefold should not be viewed differently to nipple-free centrefolds and why this is so important.

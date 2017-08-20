@@ -4,18 +4,16 @@ title: >
 subtitle: >
   In the last Wellbeing section, I wrote about my experience with recovering from depression. As a follow-up, I wanted to give some advice around how to help a friend with depression as, especially at such a stressful time of year, I hope this will prove useful.
 date: "2014-05-02 00:59:09 +0100"
-
-# Attributes from Felix Online V1
-id: "4537"
-old_path: /features/4537/helping-friends-with-depression
+image: "http://felixonline.co.uk/img/upload/201405020159-jal08-11depression.jpg"
+image_caption: "A demonstration of how not to help a friend who is suffering with depression."
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4537/helping-friends-with-depression
-imported: true
 comments:
  - value: >
      This was great to read! One of my closest friends has been through a lot and suffered badly from depression, and I did struggle with not knowing how I could help her. It was tough that it took her a long time to get better, as I felt like I wasn't really helping at the time and should've been doing more. I definitely spent too long asking how she was and focusing on her, pushing my life to the side. Whilst I didn't have any major problems she still appreciated hearing all the little good and bad stories from my life as I guess it helped her feel more normal, and sometimes just wanted to try to get away from her depression.
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405020159-jal08-11depression.jpg"
-image_caption: ""
 ---
 
 In the last Wellbeing section, I wrote about my experience with recovering from depression. Maybe it’s because I don’t make a habit of talking about my mental illness but I was genuinely surprised at the positive reception it received from friends, acquaintances and even complete strangers. As a follow-up, I wanted to give some advice around how to help a friend with depression as, especially at such a stressful time of year, I hope this will prove useful.

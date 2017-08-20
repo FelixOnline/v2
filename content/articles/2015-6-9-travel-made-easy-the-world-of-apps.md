@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Yung Nam Cheah shares some useful mobile apps for your travel
 date: "2015-06-09 15:10:47 +0100"
-
-# Attributes from Felix Online V1
-id: "5607"
-old_path: /travel/5607/travel-made-easy---the-world-of-apps
+image: "http://felixonline.co.uk/img/upload/201506242307-ync111-untitled-2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/5607/travel-made-easy---the-world-of-apps
-imported: true
 comments:
  - value: >
      Thank you for the great recommendations. Another tip for friends traveling together and sharing costs is to download the Trip Splitter IOS app. This app greatly simplifies the tracking, sharing and management of group travel expenses in any currency.,Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means more now than ever since the new Google update: Panda. No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings, You now NEED On-Page SEO. So what is good On-Page SEO?First your keyword must appear in the title.Then it must appear in the URL.You have to optimize your keyword and make sure that it has a nice keyword density of 3-5% in your article with relevant LSI (Latent Semantic Indexing). Then you should spread all H1,H2,H3 tags in your article.Your Keyword shou
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -26,12 +23,6 @@ authors:
  - ync111
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506242307-ync111-untitled-2.jpg"
-image_caption: ""
 ---
 
 It’s no secret that the internet has revolutionized the world: there are a whole host of information and applications available now that wasn’t there a few decades ago. People can now do everything on their phone that no one could even dream of before – in fact, I still remember putting my phone away for my travels a few years back and now I wouldn’t even think about not having it on me. Period.

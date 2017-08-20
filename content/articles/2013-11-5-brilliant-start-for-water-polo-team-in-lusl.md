@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Our first fixture, last week, saw us pitted against UCL’s 2nd team, a team we were initially quietly confident we would beat with ease.
 date: "2013-11-05 09:56:20 +0000"
-
-# Attributes from Felix Online V1
-id: "4012"
-old_path: /sport/4012/brilliant-start-for-water-polo-team-in-lusl
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4012/brilliant-start-for-water-polo-team-in-lusl
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - as7511
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Following the loss of many excellent players this year, namely ex Team GB vice-captain Adam, we were worried we’d find a team with as much quality and finesse as our old BUCS team this year. Fortunately we did some great work at the Fresher’s Fair and managed to recruit several outstanding players, including some girls who were actually familiar with the game, which is rare. Not to mention the guys we got, who certainly know how to handle their balls.

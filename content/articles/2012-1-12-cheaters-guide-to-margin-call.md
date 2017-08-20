@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Film with a fresh approach on the issue of oft-hated investment bankers
 date: "2012-01-12 22:41:21 +0000"
-
-# Attributes from Felix Online V1
-id: "1989"
-old_path: /film/1989/cheaters-guide-to-margin-call
+image: "http://felixonline.co.uk/img/upload/201201122241-cac111-zachary-quinto-margin-call.jpg"
+image_caption: "Must work to “live long and prosper!”"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1989/cheaters-guide-to-margin-call
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - cac111
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201122241-cac111-zachary-quinto-margin-call.jpg"
-image_caption: ""
 ---
 
 What is shown in Margin Call is what really might have happened in the final days leading up to the eventual financial collapse of 2008 that has put the global market in chaos.

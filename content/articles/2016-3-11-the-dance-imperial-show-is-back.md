@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This dance show spectacular is not to be missed
 date: "2016-03-11 11:43:33 +0000"
-
-# Attributes from Felix Online V1
-id: "6030"
-old_path: /cands/6030/the-dance-imperial-show-is-back
+image: "http://felixonline.co.uk/img/upload/201603111143-felix-di poster 2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/6030/the-dance-imperial-show-is-back
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ckw08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603111143-felix-di poster 2.jpg"
-image_caption: ""
 ---
 
 The hugely successful Dance Imperial Show is back for a second year. Debuted last year and selling out both nights, it’s back, bigger and better than before. Shortlisted for Imperial College Union Event of Year 2015, we are expanding on this success to even bigger acts and a third night in the Union Concert Hall.  This dance show spectacular is not to be missed.

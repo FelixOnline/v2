@@ -4,18 +4,16 @@ title: >
 subtitle: >
   From e.quinox to Raincatcher Imperial; students gather to discuss their experiences
 date: "2011-11-10 22:06:39 +0000"
-
-# Attributes from Felix Online V1
-id: "1741"
-old_path: /news/1741/student-projects-share-at-symposium
+image: "http://felixonline.co.uk/img/upload/201111102205-pk1811-dsc_0041(1).jpg"
+image_caption: "Imperial previously hosted its first Global Citizenship Symposium "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1741/student-projects-share-at-symposium
-imported: true
 comments:
  - value: >
      student led = unprofessional
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102205-pk1811-dsc_0041(1).jpg"
-image_caption: ""
 ---
 
 Are you part of a student-led project at Imperial? Or perhaps you’d like to join one – or better yet, even start your own? No doubt you’ve heard of the achievements of some of the College’s most ambitious student projects, which include e.quinox, who deliver electric power to rural villages in Rwanda, and Raincatcher Imperial, who aim to improve the availability of clean water to residents in Tanzania. Such projects clearly have a wealth of experience and knowledge in implementing solutions that are of benefit to the wider community.

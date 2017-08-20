@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A cheap and effective way of detecting HIV has been developed by Imperial academics
 date: "2012-11-09 12:45:28 +0000"
-
-# Attributes from Felix Online V1
-id: "2851"
-old_path: /science/2851/colour-change-test-for-hiv
+image: "http://felixonline.co.uk/img/upload/201211091243-tna08-colour-change-hiv-test-rgb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2851/colour-change-test-for-hiv
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - lap08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091243-tna08-colour-change-hiv-test-rgb.jpg"
-image_caption: ""
 ---
 
 Biomedical engineers at Imperial College London have developed a cheap new method of detecting ultralow concentrations of HIV and some cancers, with the results visualised via a colour changing solution. This colour change is visible to the naked eye.

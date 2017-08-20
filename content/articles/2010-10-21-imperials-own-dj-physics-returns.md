@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Gregory Power interviews Imperial Physics graduate Martin Archer
 date: "2010-10-21 19:38:27 +0100"
-
-# Attributes from Felix Online V1
-id: "247"
-old_path: /music/247/imperials-own-dj-physics-returns-
+image: "http://felixonline.co.uk/img/upload/201010212036-ks607-martinar.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/247/imperials-own-dj-physics-returns-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - gep07
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010212036-ks607-martinar.jpg"
-image_caption: ""
 ---
 
 I’ve always regretted the absence of coverage of the ‘Imperial Music Scene’ by Felix. As Music Editor I’ve made it my duty to find the brightest young musicians at Imperial and extract juicy musical knowledge from their souls.

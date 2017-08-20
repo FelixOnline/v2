@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Max Falkenberg is let down again by the Orange Tree Theatre's lackluster production of a Doris Lessing
 date: "2015-04-24 13:57:25 +0100"
-
-# Attributes from Felix Online V1
-id: "5470"
-old_path: /arts/5470/lost-in-the-wild
+image: "http://felixonline.co.uk/img/upload/201504241501-ff712-josh-taylor-&-clare-holman-in-each-his-own-wilderness_orange-tree-theatre_image-richard-hubert-smith_press-image.jpg"
+image_caption: "Josh Taylor & Clare Holman in Each His Own Wilderness"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5470/lost-in-the-wild
-imported: true
 comments:
  - value: >
      http://canada-onlinekamagra.net/ - Kamagra Medication Celebrex http://online-synthroidthyroxine.com/,http://canada-onlinekamagra.net/ - Buy Kamagra Online Celebrex http://online-synthroidthyroxine.com/,http://canada-onlinekamagra.net/ - Buy Kamagra Online Celecoxib Capsules 200mg http://online-synthroidthyroxine.com/,http://canada-onlinekamagra.net/ - Kamagra Jelly Celebrex http://online-synthroidthyroxine.com/
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - mff113
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201504241501-ff712-josh-taylor-&-clare-holman-in-each-his-own-wilderness_orange-tree-theatre_image-richard-hubert-smith_press-image.jpg"
-image_caption: ""
 ---
 
 If only third time lucky always worked out. With another long-winded, lacklustre display from the __Orange Tree__, I am starting to lose patience with Paul Miller’s tenure at this fantastic theatre.

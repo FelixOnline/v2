@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Alexandre Adler advises you on how to win an election – warning: it involves a lot of human interaction
 date: "2017-03-17 15:09:17 +0000"
-
-# Attributes from Felix Online V1
-id: "6903"
-old_path: /comment/6903/so-you-want-to-run-an-elections-2018-campaign
+image: "http://felixonline.co.uk/img/upload/201703171508-felix-IMG_7293.JPG"
+image_caption: "Getting blasted in the face with confetti make it all worth it"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6903/so-you-want-to-run-an-elections-2018-campaign
-imported: true
 comments:
  - value: >
      Газобетон AEROC являет собою разновидность ячеистых бетонов и, по сущности, считается искусственным камнем со сферическими порами, пропорционально разделёнными по объёму. Диаметр пор равняется 1-3 мм. Качество газобетонных блоков определяется равномерностью распределения, равностью объёма а также закрытостью сих пор. <br>Прежде чем купить газобетон, очень важно познакомиться с особенностями его изготовления, техническими а также рабочими параметрами, а кроме того сферой применения. Что же касаемо сферы использования, то такой строительный материал испол
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171508-felix-IMG_7293.JPG"
-image_caption: ""
 ---
 
 Campaigning for a position in the student elections is the least Imperial-like thing imaginable: you have to talk to strangers while sober. Some coped by campaigning online, thereby retreating safely behind a Facebook page or Twitter account dedicated to their glory, but most of us ended up doing the face to face campaign. And it was an interesting experience, so I chose to write it down for your convenience. This way you can feel the thrill of the elections without actually standing for anything, or even voting. Isn’t that great?

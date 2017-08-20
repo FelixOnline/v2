@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Our picks for the Academy Awards
 date: "2016-02-26 11:48:52 +0000"
-
-# Attributes from Felix Online V1
-id: "5970"
-old_path: /film/5970/felix-steps-out-onto-the-red-carpet
+image: "http://felixonline.co.uk/img/upload/201602261143-felix-Revenan Oscar.jpg"
+image_caption: "Give that bear an Oscar!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5970/felix-steps-out-onto-the-red-carpet
-imported: true
 comments:
  - value: >
      thnx for sharing this great site.| <br>cs go skins changer http://fingerlakesunplugged.com/users/game2k15mt/blogs/list-counter-strike-skins-gambling-websites
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +26,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261143-felix-Revenan Oscar.jpg"
-image_caption: ""
 ---
 
 Best Picture

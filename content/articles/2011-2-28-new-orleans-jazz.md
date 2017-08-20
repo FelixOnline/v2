@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Charles Betts on the addictive music of Harry Connick Jr.
 date: "2011-02-28 21:31:24 +0000"
-
-# Attributes from Felix Online V1
-id: "948"
-old_path: /music/948/new-orleans-jazz
+image: "http://felixonline.co.uk/img/upload/201102282130-ks607-harrycon.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/948/new-orleans-jazz
-imported: true
 comments:
  - value: >
      Please look up the definition of Brown nose, better still, use this article as the definition of it.
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102282130-ks607-harrycon.jpg"
-image_caption: ""
 ---
 
 New Orleans music is an addiction. Its diversity portrays every emotional state and as the legendary jazz musician Ellis Marsalis puts it, "at a time when individualism is becoming an endangered species, the sounds of the Bayou represent a celebration of the individual". Put simply, without it life would be emptier.

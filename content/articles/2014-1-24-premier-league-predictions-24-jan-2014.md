@@ -4,18 +4,15 @@ title: >
 subtitle: >
   James White gives his midweek predictions
 date: "2014-01-24 10:04:21 +0000"
-
-# Attributes from Felix Online V1
-id: "4291"
-old_path: /sport/4291/premier-league-predictions---24-jan-2014
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4291/premier-league-predictions---24-jan-2014
-imported: true
 comments:
  - value: >
      Does anybody actually read these weekly predictions? Worthy of the back page? I'd love to see some kind of metric or feedback which justified their inclusion.
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -27,12 +24,6 @@ authors:
  - jpw12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Liverpool vs. Everton (BT Sport 1, Tuesday 8pm)

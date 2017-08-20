@@ -4,16 +4,13 @@ title: >
 subtitle: >
   He had the audience positively howling at times
 date: "2011-02-11 06:46:14 +0000"
-
-# Attributes from Felix Online V1
-id: "801"
-old_path: /arts/801/if-laughter-be-the-food-of-love-hear-here
+image: "http://felixonline.co.uk/img/upload/201102110644-ks607-aluncoch.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/801/if-laughter-be-the-food-of-love-hear-here
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102110644-ks607-aluncoch.jpg"
-image_caption: ""
 ---
 
 I shall be open here, I’m not sure how to review a comedian. Does it suffice to say that Alun Cochrane was hilarious? Do I have any hope of conveying the humour of his jokes by retelling them here? The answer, I suspect, to both these questions is no, so I shall give it a go. He’s a Yorkshire comedian, with a number of television appearances under his belt, and took delight in lampooning the audience’s middle-class sensibilities: he ends a joke about cooking by nonchalantly whipping out the phrase “hacher” before turning it on the audience when they laugh in recognition.

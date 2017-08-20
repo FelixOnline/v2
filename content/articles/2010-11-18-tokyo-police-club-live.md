@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Callum Ballard & Jamie Gollings were whipped up into a frenzy under the arches
 date: "2010-11-18 20:35:58 +0000"
-
-# Attributes from Felix Online V1
-id: "389"
-old_path: /music/389/tokyo-police-club-live
+image: "http://felixonline.co.uk/img/upload/201011182034-ks607-tpctpctp.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/389/tokyo-police-club-live
-imported: true
 comments:
  - value: >
      Good review! :)
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +23,6 @@ authors:
  - jtg09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011182034-ks607-tpctpctp.jpg"
-image_caption: ""
 ---
 
 Canada has given us a choice, if scant, of alternative music in the last decade, with NME darlings, Arcade Fire and Crystal Castles both achieving critical acclaim with recent releases, although the chances are you’ve probably not heard of Ontario’s Tokyo Police Club.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Emily Fulham reviews the latest fantasy offering from the BBC
 date: "2013-10-06 10:15:34 +0100"
-
-# Attributes from Felix Online V1
-id: "3816"
-old_path: /tv/3816/a-bewildering-journey-into-ancient-greece
+image: "http://felixonline.co.uk/img/upload/201310061114-jal08-tv-atlantis2-copy.jpg"
+image_caption: "A friendly conversation takes a sudden turn for the worst when Pythagoras gets asked to find the squ"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/3816/a-bewildering-journey-into-ancient-greece
-imported: true
 comments:
  - value: >
      This was such a good unique book. I see you are read Penelope's Daughter and I hope you love it, I LOVED it. Hope all is well with you and happy Halloween girl!Lizzy J reecntly posted..,Hi Javier,Thanks for the comment. I <a href="http://alrjwqaag.com">rellay</a> like your 2nd idea allowing the extra time to roll over is a great idea. I've been playing more Toobz on the Hard level recently and I think your idea would help that level, especially.As for music I definitely want to add sounds, probably some sort of background track, but definitely effects. As long as you get the option to turn it off (and return to listening to your iPod music) I think most folks would like it.Thanks again for taking the time to comment and for playing Toobz!Jason
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -28,12 +26,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310061114-jal08-tv-atlantis2-copy.jpg"
-image_caption: ""
 ---
 
 With the demise of Merlin, the BBC were clearly in the market for a new family-friendly fantasy drama to fill the Saturday evening slot. Enter Atlantis, a retelling of the legend of Greek hero Jason, best known as leader of the Argonauts and slayer of the minotaur. Well, "retelling" is perhaps a slight exaggeration: in reality, Atlantis fea-tures a bizarre mish-mash of Greek mythology with real historical figures, with an extra dash of time travel to keep things interesting.

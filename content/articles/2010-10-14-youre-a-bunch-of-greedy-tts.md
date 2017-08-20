@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Come the Revolution, I’ll be using you as the wall against which I’ll shoot the people I dislike slightly less than you
 date: "2010-10-14 20:00:52 +0100"
-
-# Attributes from Felix Online V1
-id: "218"
-old_path: /comment/218/youre-a-bunch-of-greedy-tts
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/218/youre-a-bunch-of-greedy-tts
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - mrangry
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Oh, I’m sorry. I must’ve been emailing my imaginary Felix editor with an entirely imagined column about the need for you to shut your traps and adjust to life a bit better. My mistake. That would explain the reams of whiny toss on Facebook, Twitter, newspapers and my latest Moaning Gitfaces Weekly. Although the latter was a whiny toss special edition, so that absolves it somewhat.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The first fencing premiership BUCS tournament was held in Oxford in December, where the home crew, as well as Cambridge, UCL, Bristol and the mighty Imperial crossed swords once again.
 date: "2014-01-17 04:43:28 +0000"
-
-# Attributes from Felix Online V1
-id: "4263"
-old_path: /sport/4263/ic-fencing-win-in-oxford
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4263/ic-fencing-win-in-oxford
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - cv410
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The first fencing premiership BUCS tournament was held in Oxford in December, where the home crew, as well as Cambridge, UCL, Bristol and the mighty Imperial crossed swords once again.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Students vow to “keep the momentum going” as the Cops off Campus campaign call another demonstration on 22 January.
 date: "2014-01-17 03:07:11 +0000"
-
-# Attributes from Felix Online V1
-id: "4225"
-old_path: /news/4225/cops-off-campus--the-saga-continues
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4225/cops-off-campus--the-saga-continues
-imported: true
 comments:
  - value: >
      The ULU is an embarrassing joke that merits the shutdown. And really, holding a rally in support of a drug-dealing gunrunner who was shot in the belief that he was carrying firearms (which indeed he was shortly before the police opened fire)? I'm glad we're not affiliated with this nonsense or the NUS any more. Imperial has a calibre of student that can do better than jump onto the nearest far-left bandwagon just to have something to protest out, and we know it.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Students vow to “keep the momentum going” as the Cops off Campus campaign call another demonstration on 22 January. Three years on from the increase in tuition fees and the student protests that followed, university campuses are faced with fresh opposition as the recent protests against police presence on campus culminated in thousands of students marching through Bloomsbury.

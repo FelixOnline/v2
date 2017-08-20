@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Ezra Kitson discovers how Edie Edmundson is staging the sex education revolution
 date: "2017-05-19 13:12:36 +0100"
-
-# Attributes from Felix Online V1
-id: "6969"
-old_path: /arts/6969/everything-you-wanted-to-know-about-sex-but-were-too-afraid-to-ask-from-puppets-
+image: "http://felixonline.co.uk/img/upload/201705191506-im1413-IMG_0013.JPG"
+image_caption: "An act from Sex and Puppets (Photo: Edie Edmundson )"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6969/everything-you-wanted-to-know-about-sex-but-were-too-afraid-to-ask-from-puppets-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ezrakitson14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201705191506-im1413-IMG_0013.JPG"
-image_caption: ""
 ---
 
 ‘Sex and Puppets’ is reimagining the way we talk about sex. The show devised by the puppet company Wondering Hands uses a series of witty sketches - composed from verbatim transcripts of real life experiences - to explore different aspects of sex.

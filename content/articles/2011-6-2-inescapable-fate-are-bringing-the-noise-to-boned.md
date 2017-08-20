@@ -4,16 +4,13 @@ title: >
 subtitle: >
   ...in a big way
 date: "2011-06-02 19:51:53 +0100"
-
-# Attributes from Felix Online V1
-id: "1313"
-old_path: /music/1313/inescapable-fate-are-bringing-the-noise-to-boned
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1313/inescapable-fate-are-bringing-the-noise-to-boned
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - gep07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 If you have ever strolled into Imperial Union on a [Jazz n’ Rock](http://www.union.ic.ac.uk/arts/jazzrock/) jam night, chances are you’ve been paralyzed by the sight of Inescapable Fate’s members tearing shit up with an admirable disregard for authorized decibel levels. [Inescapable Fate](https://www.facebook.com/pages/Inescapable-Fate/163518166995537) (IF) is Imperial’s foremost death metal band, and they will get the place they deserve in the limelight at [BONED, the second Felix Music Night](http://felixonline.co.uk/music/1314/boned-at-metric/), taking place at Metric on Saturday 11th June. We spoke to IF about their story and their performance.

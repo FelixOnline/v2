@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Simon Worthington is NOT a lame guy, contrary to the not-so-serious position credit he was given
 date: "2012-10-05 11:38:34 +0100"
-
-# Attributes from Felix Online V1
-id: "2601"
-old_path: /games/2601/a-dishonorable-mention
+image: "http://felixonline.co.uk/img/upload/201210051237-felix-cmyk_corvo.jpg"
+image_caption: "Don’t worry sir, I’m just here to clean all of your gutters...WITH YOUR BLOOD"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2601/a-dishonorable-mention
-imported: true
 comments:
  - value: >
      Some clever clogs correctly pointed out that Bethesda are the publisher, not the developer, which is in fact Arkane Studios (www.arkane-studios.com).
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -28,12 +26,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210051237-felix-cmyk_corvo.jpg"
-image_caption: ""
 ---
 
 Put simply, Dishonored is what you get if you ask the company who created Skyrim to go away and make Bioshock. It’s got the immersive atmosphere of the former but with the vibrant, larger-than-life visual style of the latter – and it’s a great combination. The art director (who was a big player in creating the visuals for Half-Life 2) was going for “a living painting”, and has created something very reminiscent of steampunk but with all the colour left in. It’s consistently atmospheric and has got bucket-loads of attention to detail that despite the quirky theme gives the game a real, lived-in world.

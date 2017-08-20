@@ -4,16 +4,14 @@ title: >
 subtitle: >
   President says teaching review should be dealing with effects of restructure
 date: "2011-02-24 19:46:52 +0000"
-
-# Attributes from Felix Online V1
-id: "869"
-old_path: /news/869/kendall-criticises-teaching-review
+image: "http://felixonline.co.uk/img/upload/201101271758-ks607-profiano.jpg"
+image_caption: "Professor Ian Owens announced the teaching review in a meeting with students"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/869/kendall-criticises-teaching-review
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101271758-ks607-profiano.jpg"
-image_caption: ""
 ---
 
 Further details about the ongoing Life Sciences undergraduate teaching review have been provided to students, with Union President Alex Kendall voicing concerns over the review’s relationship to the planned departmental restructure.

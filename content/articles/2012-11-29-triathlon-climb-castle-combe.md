@@ -4,16 +4,13 @@ title: >
 subtitle: >
   "This was the race we’d looked forward to: the only BUCS competition this term and a highlight of the calendar"
 date: "2012-11-29 23:15:20 +0000"
-
-# Attributes from Felix Online V1
-id: "3010"
-old_path: /sport/3010/triathlon-climb-castle-combe
+image: "http://felixonline.co.uk/img/upload/201211292315-csw09-bike.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3010/triathlon-climb-castle-combe
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - eh508
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211292315-csw09-bike.jpg"
-image_caption: ""
 ---
 
 This was the race we’d looked forward to: the only BUCS competition this term and a highlight of the calendar. With five hundred people competing, it is the biggest duathlon event in the country. Hosted at the iconic Castle Combe race track, athletes get to fly around a track that has held motoring events for over 60 years, and holds a great sense of speed. One blessing of the race is that it kicks off at 1:20pm; a civilised time we were very grateful of after the 8am start of the Hillingdon Duathlon just weeks before.

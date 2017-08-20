@@ -4,16 +4,14 @@ title: >
 subtitle: >
   All about Silwood – improvement and evolution
 date: "2012-06-01 12:38:12 +0100"
-
-# Attributes from Felix Online V1
-id: "2511"
-old_path: /comment/2511/imperial-outside-the-m25
+image: "http://felixonline.co.uk/img/upload/201206011336-mc4509-silwood.jpg"
+image_caption: "Don’t worry, they’ve put a new facade on Mech Eng so it now looks as good as this..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2511/imperial-outside-the-m25
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +22,6 @@ authors:
  - ak6309
  - fbs03
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206011336-mc4509-silwood.jpg"
-image_caption: ""
 ---
 
 Following [last week’s](http://felixonline.co.uk/news/2481/courses-suspended-at-silwood/) Felix story about [Silwood Park](http://www3.imperial.ac.uk/silwoodparkcampus), I felt it was important to write about what it’s actually like here at Silwood, which, uniquely for a London based university, is outside of London. Having been a student here and South Kensington I have found that they are very different.

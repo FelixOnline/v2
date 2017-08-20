@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Give our country a voting system that allows us to express our true preferences and ends tactical voting, bickering and flip-flopping policies
 date: "2011-04-24 11:26:11 +0100"
-
-# Attributes from Felix Online V1
-id: "1136"
-old_path: /comment/1136/vote-yes-to-av
+image: "http://felixonline.co.uk/img/upload/201104241235-felix-av-vote-007.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1136/vote-yes-to-av
-imported: true
 comments:
  - value: >
      I will definitely be voting YES. With the Lib Dems so unpopular and the minority parties still true to their description, maintaining the FPTP system will doom this country to another 50 years of 2-party elections. At least with AV I will have a chance to express my support for smaller parties without feeling the need to vote tactically.,YES. I believe that it transforms and revolutionise the democracy. General public will be aware of their vital role and 'not to waste their votes'. It is a much awaited change for me not only in the UK but across the democratic countries which conduct elections. ,fine Dsquared2 shirts <br>http://www.finepoloshirts.com/dsquared2-replicas-1161.html <br>-<a href="http://www.finepoloshirts.com/dsquared2-replicas-1161.html">fine Dsquared2 shirts</a> <br>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104241235-felix-av-vote-007.jpeg"
-image_caption: ""
 ---
 
 On May 5th I'll be voting yes to introducing the Alternative Vote system for United Kingdom parliamentary elections. This isn't because I have a desire to see Lib Dems make deals with the devil at every election, but because I believe it is a better system to choose the best representative for any constituency.

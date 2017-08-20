@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This Sunday, Adonis Georgiadis will be the main guest in the final event of the “Greek Presidency in London” initiative held at Imperial, and will serve as representative of the Greek government.
 date: "2014-04-07 13:03:08 +0100"
-
-# Attributes from Felix Online V1
-id: "4530"
-old_path: /comment/4530/adonis-georgiadis-comes-to-imperial-great
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4530/adonis-georgiadis-comes-to-imperial-great
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - ea3211
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This Sunday, Adonis Georgiadis will be the main guest in the final event of the “Greek Presidency in London” initiative held at Imperial, and will serve as representative of the Greek government. Adonis Georgiadis is a controversial political figure in Greece. Starting off with participation in the nationalist Popular Orthodox Rally (LAOS) he was first elected to the Greek parliament under the nationalist party banner in 2007, re-elected in 2009 and in 2010 was LAOS’s candidate in the periphery elections for Attica (the periphery containing Athens). He now serves as Minister of Health.

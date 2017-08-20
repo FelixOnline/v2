@@ -4,18 +4,16 @@ title: >
 subtitle: >
   As the honours system is scrapped, Felix asks whether Imperial could follow suit
 date: "2011-10-13 20:33:51 +0100"
-
-# Attributes from Felix Online V1
-id: "1503"
-old_path: /news/1503/ucl-to-introduce-grade-point-average
+image: "http://felixonline.co.uk/img/upload/201110141044-felix-front-page-photo_3.jpg"
+image_caption: "University College London's new proposals have seen support from some academics at Imperial"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1503/ucl-to-introduce-grade-point-average
-imported: true
 comments:
  - value: >
      I think the GPA grading is a much fairer concept. Some UK universities and some courses do not adopt grade inflation. This is because universities, and departments, act independently; they have different scoring rules and very little regulation/supervision exists on UK universities. For example, universities which are not part of the G5 or Russell Group will try to boost their reputation using the employment market as a mean to it. Therefore, the current grading system is just biased and a bad indication of the student capacity.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110141044-felix-front-page-photo_3.jpg"
-image_caption: ""
 ---
 
 University College London is to scrap the widely used honours system, where students are awarded a first, 2:1, 2:2 or third at the end of their degrees, and move towards US style Grade Point Averages (GPA). UCL Provost Professor Malcolm Grant [last week told _The Telegraph_](http://www.telegraph.co.uk/journalists/julie-henry/8815641/University-to-scrap-first-class-degrees-to-combat-award-inflation.html) that “award inflation over the past three decades has led to student performance being essentially recognised by classification into only two main groups: first class and upper second class honours.” He called the system “crude and undistinguished” and said that the changes would “ensure that our students’ mode of study is internationally recognised”.

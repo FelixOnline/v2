@@ -4,16 +4,14 @@ title: >
 subtitle: >
   UN goal to seek greater female presence in science
 date: "2015-10-23 11:35:36 +0100"
-
-# Attributes from Felix Online V1
-id: "5666"
-old_path: /science/5666/women-are-needed-to-increase-productivity
+image: "http://felixonline.co.uk/img/upload/201510231237-cj914-un_general_assembly_hall-copy.jpg"
+image_caption: "The UN Assembly Hall, where the magic happens."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5666/women-are-needed-to-increase-productivity
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - cj914
  - mw4414
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510231237-cj914-un_general_assembly_hall-copy.jpg"
-image_caption: ""
 ---
 
 Last month the United Nations adopted a new manifesto to change the world. Sounds dramatic, but the Global Goals for Sustainable Development are the new benchmark to measure our progress as a species for the next 15 years; and it turns out the scientific community may be the key to unlocking such high ambitions.

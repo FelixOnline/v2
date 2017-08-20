@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John McDonnell was on campus last week
 date: "2015-11-27 11:49:29 +0000"
-
-# Attributes from Felix Online V1
-id: "5771"
-old_path: /news/5771/shadow-chancellor-praises-imperial-on-visit
+image: "http://felixonline.co.uk/img/upload/201511271149-ygr12-sc3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5771/shadow-chancellor-praises-imperial-on-visit
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - pnk14
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511271149-ygr12-sc3.jpg"
-image_caption: ""
 ---
 
 MP and shadow chancellor, John McDonnell, visited Imperial this week, where he gave a speech acclaiming Imperial’s role in science and innovation. This visit comes only two weeks after George Osborne, the chancellor of the exchequer, visited Imperial’s White City campus, where he said Imperial represented “the future of our economy here in the UK”.

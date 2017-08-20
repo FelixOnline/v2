@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Chanon Wongsatayanont offers advice on peaceful coexistence
 date: "2015-03-09 19:29:55 +0000"
-
-# Attributes from Felix Online V1
-id: "5384"
-old_path: /welfare/5384/how-to-live-in-an-international-flat
+image: "http://felixonline.co.uk/img/upload/201503091929-ps3110-screen-shot-2015-03-09-at-19.29.45.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /welfare/5384/how-to-live-in-an-international-flat
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - welfare
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503091929-ps3110-screen-shot-2015-03-09-at-19.29.45.png"
-image_caption: ""
 ---
 
 You’ve probably had a flat mate who’s from a different culture. For some of you, it might have gone like this. Day one, things were going well. Day seven, tensions began with unwashed dishes. Day twenty-five, both sides mobilized for war over a party that had turned the corridor into a disaster-ravaged scene.

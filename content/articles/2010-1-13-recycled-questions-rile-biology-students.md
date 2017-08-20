@@ -4,18 +4,15 @@ title: >
 subtitle: >
   2nd Year Biologists say their coursework grade retraction is unfair and too much of a rash decision
 date: "2010-01-13 21:22:46 +0000"
-
-# Attributes from Felix Online V1
-id: "23"
-old_path: /news/23/recycled-questions-rile-biology-students
+image: "http://felixonline.co.uk/img/upload/201001132120-felix-SAFBUILD.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/23/recycled-questions-rile-biology-students
-imported: true
 comments:
  - value: >
      This is genuinely amazing. I cannot believe the university is trying to pin this on the students.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001132120-felix-SAFBUILD.jpg"
-image_caption: ""
 ---
 
 Many of Imperial’s 2nd year Biologists have found their efforts to be in vain this new year as their department has confirmed the retraction of coursework marks. This comes after students used past assessments to gain what the Biology department deemed an unfair advantage.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Emiel de Lange reflects on a season of Pierre Boulez at the Barbican
 date: "2015-05-06 12:36:02 +0100"
-
-# Attributes from Felix Online V1
-id: "5495"
-old_path: /music/5495/pli-selon-pli-unravelling-the-genius-of-the-contemporary-with-the-ensemble-intercontemporain
+image: "http://felixonline.co.uk/img/upload/201505061333-km2612-dsc_5201.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5495/pli-selon-pli-unravelling-the-genius-of-the-contemporary-with-the-ensemble-intercontemporain
-imported: true
 comments:
  - value: >
      http://runotes.cloudns.org/abba-skachat-noty-so-slovami.html http://runotes.cloudns.org/counting-crows-colorblind-skachat-noty-na-fortopiano.html http://runotes.cloudns.org/leonard-cohen-hallelujah-skachat-noty-dlya-fortepiano.html,I enjoy reading through your site. Thanks for your time!| <br>nba 2k16 mt forum http://sarahula.weebly.com/2133823458/the-simplest-way-to-acquire-nba-2k16-coins-an-instant-guide
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - km2612
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505061333-km2612-dsc_5201.jpg"
-image_caption: ""
 ---
 
 The __Barbican__ brought their _Boulez at 90_ celebrations to an end last week with a tribute from the composer’s own ensemble, the Ensemble Intercontemporain. This was a rare chance for Londoners to hear cutting edge music from one of the world’s best contemporary music groups and a fitting tribute to one of modern music’s sharpest minds.

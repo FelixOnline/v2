@@ -4,16 +4,13 @@ title: >
 subtitle: >
   By Jula Humphries
 date: "2012-02-09 22:34:40 +0000"
-
-# Attributes from Felix Online V1
-id: "2155"
-old_path: /science/2155/norway-puts-genome-sequencing-in-national-health-system
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2155/norway-puts-genome-sequencing-in-national-health-system
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - fsci
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 [Last year](http://www.intelligencesquared.com/events/james-watson), at an intelligence squared event, James Watson stated that one of the biggest improvements in medicine would be personalised genome sequencing, whereby patients will have a personalised healthcare plan developed from their genome sequence. Personalised genome sequencing is now becoming a reality in Norway, less than a decade after the first human genome was fully sequenced.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Student body remains unimpressed
 date: "2017-02-10 13:37:43 +0000"
-
-# Attributes from Felix Online V1
-id: "6743"
-old_path: /news/6743/-union-bars-get-new-tills
+image: "http://felixonline.co.uk/img/upload/201702101337-felix-IMG_6983.JPG"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6743/-union-bars-get-new-tills
-imported: true
 comments:
  - value: >
      Snakebites are £2.90... shows you just how much (read: little) research has gone into this. You clearly don't use the bar much so why such a judgemental article? 'Bar gets new tills, staff take time to get used to it', is such a non-story. The staff are full time students, they haven't worked every day to get used to it in the week since it's inception.,http://usa-onlineprednisone.net/ - usa-onlineprednisone.net.ankor salbutamol-ventolin-buy.net.ankor http://online-viagracanada.net/,http://usa-onlineprednisone.net/ - usa-onlineprednisone.net.ankor salbutamol-ventolin-buy.net.ankor http://online-viagracanada.net/,http://usa-onlineprednisone.net/ - usa-onlineprednisone.net.ankor salbutamol-ventolin-buy.net.ankor http://online-viagracanada.net/,http://usa-onlineprednisone.net/ - usa-onlineprednisone.net.ankor salbutamol-ventolin-buy.net.ankor http://online-viagracanada.net/,http://usa-onlineprednisone.net/ - usa-onlineprednisone.net.ankor salbutamol-ventolin-buy.net.ankor http://online-viagracanada.net/,http://
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ea3211
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101337-felix-IMG_6983.JPG"
-image_caption: ""
 ---
 
 So you might have heard – or you might have gathered from seeing the long lines of students stretching from Beit all the way down Exhibition Road – that the Union has updated its tills.

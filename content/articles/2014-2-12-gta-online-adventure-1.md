@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Grand Theft Auto online finally enables you to play Grand Theft Auto how you want.
 date: "2014-02-12 11:34:54 +0000"
-
-# Attributes from Felix Online V1
-id: "4368"
-old_path: /games/4368/gta-online-adventure-1
+image: "http://felixonline.co.uk/img/upload/201402121136-me1711-games_gta.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4368/gta-online-adventure-1
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - css11
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201402121136-me1711-games_gta.jpg"
-image_caption: ""
 ---
 
 Grand Theft Auto online finally enables you to play Grand Theft Auto how you want. Enabling you to create your character and setting you free on Los Santos to progress as you see fit. Here is one account of what goes down online.

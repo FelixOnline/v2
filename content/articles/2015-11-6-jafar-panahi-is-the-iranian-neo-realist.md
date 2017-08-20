@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Since his 2011 arrest, Iranian director Jafar Panahi’s fimmaking has become a cause célèbre in the cinema world. We take a look at his life, his work, and the events leading up to his ban on producing films.
 date: "2015-11-06 14:07:05 +0000"
-
-# Attributes from Felix Online V1
-id: "5706"
-old_path: /film/5706/jafar-panahi-is-the-iranian-neo-realist
+image: "http://felixonline.co.uk/img/upload/201511061406-ygr12-jafar-panahi1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5706/jafar-panahi-is-the-iranian-neo-realist
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511061406-ygr12-jafar-panahi1.jpg"
-image_caption: ""
 ---
 
 A1995 Prix de La Caméra d’Or-winning debut film; at the forefront of the Iranian New Wave movement; imprisoned for breaking censorship laws and under house arrest since October 15, 2011. Jafar Panahi has a repertoire few can match.

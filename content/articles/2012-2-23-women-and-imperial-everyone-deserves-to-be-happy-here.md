@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Imperial College Union's Deputy President of Welfare discusses the debate on feminist issues that has arisen recently
 date: "2012-02-23 19:43:33 +0000"
-
-# Attributes from Felix Online V1
-id: "2225"
-old_path: /comment/2225/women-and-imperial--everyone-deserves-to-be-happy-here
+image: "http://felixonline.co.uk/img/upload/201202231943-ams111-ali-g.jpg"
+image_caption: "Is it called Welfare coz he iz well fair innit?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2225/women-and-imperial--everyone-deserves-to-be-happy-here
-imported: true
 comments:
  - value: >
      This is just the peefcrt answer for all of us,One more thing. I really<a href="http://fgwmqxjgx.com"> biveele</a> that there are quite a few travel insurance web-sites of dependable companies that allow you to enter a trip details and acquire you the estimates. You can also purchase this international travel cover policy online by using the credit card. All you need to do is usually to enter your travel specifics and you can be aware of the plans side-by-side. Merely find the program that suits your finances and needs and then use your credit card to buy the item. Travel insurance online is a good way to take a look for a trustworthy company regarding international holiday insurance. Thanks for expressing your ideas.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - nm406
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202231943-ams111-ali-g.jpg"
-image_caption: ""
 ---
 
 Are women unhappy at Imperial? Some, it seems, are. Some men are too. Whether these are vocal fractions of a silent majority, or simply a vocal minority remains to be seen, but it doesn’t really matter. Every student at Imperial deserves freedom to be him/herself and to thrive to his/her full potential, minority or not – and women at Imperial are a minority. Within the central Union we do a lot of work for many of the recognised minorities but have done little recently for women.

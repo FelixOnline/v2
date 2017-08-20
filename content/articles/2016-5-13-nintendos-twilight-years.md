@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It’s a sad time to be a Nintendo gamer and a Wii U owner
 date: "2016-05-13 09:29:36 +0100"
-
-# Attributes from Felix Online V1
-id: "6163"
-old_path: /games/6163/nintendos-twilight-years
+image: "http://felixonline.co.uk/img/upload/201605131129-felix-twilight.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/6163/nintendos-twilight-years
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - cet13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605131129-felix-twilight.jpg"
-image_caption: ""
 ---
 
 When _The Legend of Zelda: Twilight Princess_ was first released in 2006, Nintendo was at a turning point. It had just released the Wii, which would radically alter its fortunes, after years of losing sales to Sony with the disappointing GameCube. The years preceding this represented some of Nintendo’s best, and _Twilight Princess,_ in its time, was considered no exception. Since then Nintendo have attempted to streamline their games, making them both accessible to core and more casual audiences. _Twilight Princess_ was interesting in the fact that it was released for both the GameCube and Wii, with motion controls added to the latter. The Wii U version of the game is not much more than a HD re-release – removing the motion controls to make it more like the original.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   n the 6th of November – a sinisterly drab Wednesday (the kind that taunts at the beginning of a cold, dark winter) – ICUAFC 3rd Team played against LCA Business School 1st Team. The 5-0 score-line showed the match to be (ironically) not just business as usual for the opposition, and indeed the same
 date: "2013-11-15 11:52:03 +0000"
-
-# Attributes from Felix Online V1
-id: "4091"
-old_path: /sport/4091/ic-3s-take-care-of-business-against-lsa
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4091/ic-3s-take-care-of-business-against-lsa
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - jhi13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 On the 6th of November – a sinisterly drab Wednesday (the kind that taunts at the beginning of a cold, dark winter) – ICUAFC 3rd Team played against LCA Business School 1st Team. The 5-0 score-line showed the match to be (ironically) not just business as usual for the opposition, and indeed the same was true of both teams’ journeys to the match.

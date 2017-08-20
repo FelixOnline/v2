@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Max Eggl can't wait to unpack his vault boy and explore Fallout 4
 date: "2015-06-12 12:40:00 +0100"
-
-# Attributes from Felix Online V1
-id: "5620"
-old_path: /games/5620/war-war-never-changes-part-4
+image: "http://felixonline.co.uk/img/upload/201506121339-cj914-fallout4countdown.png"
+image_caption: "This is the best marketing a game has ever had and in fact ever will have."
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/5620/war-war-never-changes-part-4
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +22,6 @@ authors:
  - cj914
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506121339-cj914-fallout4countdown.png"
-image_caption: ""
 ---
 
 Yes, the day of reckoning is upon us. Global productivity has come to a standstill. These are the news headline that will echo around the world on the day of the release of _Fallout 4_.

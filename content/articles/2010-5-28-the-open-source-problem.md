@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Feroz Salam looks at why the open source mantra is so confused
 date: "2010-05-28 10:28:32 +0100"
-
-# Attributes from Felix Online V1
-id: "140"
-old_path: /tech/140/the-open-source-problem
+image: "http://felixonline.co.uk/img/upload/201005281126-srg03-Opensour.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/140/the-open-source-problem
-imported: true
 comments:
  - value: >
      You fail to explain the actual difference between open source and free software! <br>Also Stallman and Torvalds are not opposed in the way you claim. Stallman has also shown willingness to work with primarily closed source companies as long as the work is licensed under a free software license. In addition to this the Linux kernel is licensed under the GPL3, a license toughly approved of by Stallman! <br>Open source software = software you are allowed to look at the source code of. <br>Free Software = open source software you are free to modify and redistribute as long as you keep the software free software. This allows you to improve and add features and then share you improvements with others. This has lead to the most complex operating system on the planet and arguably the best operating system and tools ever developed. <br> ,Hey James, <br> <br>Valid point about the difference between open source and free software - I didn't mention it because the differences are extremely nuanced. For example, take a look at this: ht
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -26,12 +23,6 @@ authors:
  - srg03
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201005281126-srg03-Opensour.jpg"
-image_caption: ""
 ---
 
 If you’re unfamiliar with the concept of open source software, you’re definitely not alone. In a market full of expensive consumer electronics that are locked down and bound to carriers and application stores, the concept of releasing the code to software that has taken you hundreds of hours to create may seem unintuitive, even silly. Yet despite the unorthodox business model that it engenders, open source software is surprisingly successful. A Linux server is probably behind a majority of websites you browse daily, whilst open-source Android powered smartphones have recently begun outselling the iPhone in the US. Yet despite a few notable exceptions, the concepts behind open source are opaque to the average consumer, which is in my opinion, to the detriment of the entire movement.

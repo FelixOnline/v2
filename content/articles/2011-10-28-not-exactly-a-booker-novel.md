@@ -4,16 +4,14 @@ title: >
 subtitle: >
   David Carr on the shortcomings of this year's Man Booker prize winner
 date: "2011-10-28 09:33:27 +0100"
-
-# Attributes from Felix Online V1
-id: "1634"
-old_path: /arts/1634/not-exactly-a-booker-novel
+image: "http://felixonline.co.uk/img/upload/201110281033-felix-1018_barnes.jpg"
+image_caption: "Julian Barnes – master of the extended essay?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1634/not-exactly-a-booker-novel
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - drc107
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110281033-felix-1018_barnes.jpg"
-image_caption: ""
 ---
 
 Last week saw [Julian Barnes claim the Man Booker](http://www.themanbookerprize.com/prize/authors/45) for his short novel ‘[The Sense of an Ending](http://www.themanbookerprize.com/prize/books/449)’ in what has been derided as the worst shortlist in the prize’s 43 year history. No doubt this was caused in part by the judges’ reward for readability; a strange requirement for the pre-eminent award for literary fiction in the UK.

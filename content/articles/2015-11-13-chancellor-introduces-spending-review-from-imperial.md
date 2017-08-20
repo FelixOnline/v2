@@ -4,18 +4,15 @@ title: >
 subtitle: >
   George Osborne was back again
 date: "2015-11-13 14:14:39 +0000"
-
-# Attributes from Felix Online V1
-id: "5718"
-old_path: /news/5718/chancellor-introduces-spending-review-from-imperial
+image: "http://felixonline.co.uk/img/upload/201511131413-ygr12-georgeos.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5718/chancellor-introduces-spending-review-from-imperial
-imported: true
 comments:
  - value: >
      Excellent write-up. I absolutely love this website. Keep writing! <br>nike air 1990 http://www.alterego-sa.fr/?fr-nike-air-1990-2339.html,I always used to read post in news papers but now as I am a user of net thus from now I am using net for posts, thanks to web. <br>canada goose noir http://www.r-s-l.fr/layouts/spip.php?fr-canada-goose-noir-26108.html
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511131413-ygr12-georgeos.jpeg"
-image_caption: ""
 ---
 
 After tagging along on President Xi’s visit three weeks ago, George Osborne was back at Imperial on Monday, but this time slightly further out at our White City branch, AKA Imperial West.

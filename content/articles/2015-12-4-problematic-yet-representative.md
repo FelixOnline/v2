@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Anywhere else, there would be wild uproar, but Imperial has a different demographic
 date: "2015-12-04 15:15:08 +0000"
-
-# Attributes from Felix Online V1
-id: "5794"
-old_path: /comment/5794/problematic-yet-representative
+image: "http://felixonline.co.uk/img/upload/201512041514-ygr12-lol.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5794/problematic-yet-representative
-imported: true
 comments:
  - value: >
      It's pretty embarrassing that our "elected" president could hold such contentious views. Lets hope it's just ignorance rather than something more sinister. <br> <br>Also - https://www.youtube.com/watch?v=hsq3H_6XuFA,"Elected" is a very loose term considering she was basically unopposed. Her political views don't interest me, what does is the long length of time she takes to reply to emails and the fact I've literally *never* seen her. Where is she? What does she do all day? Is she too busy trying to get a name for herself to actually do her job? Compare with last year and it's a travesty.,So what? The Union officers' only real role is to run our bars, keep the clubs &amp; societies ticking over nicely, and so on. They're supposed to represent student interests, not student political opinion.,I'm not a fan of her views they seem pretty ugly but I'm more irritated at how the sabbs are so unaccountable for their (lack of) actions. They seem to just waltz in shake the hand of some important dignity and do jack shit for the
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201512041514-ygr12-lol.png"
-image_caption: ""
 ---
 
 In an interview on IC Radio two weeks ago, our union president revealed a number of potentially problematic views. We all say things we later go on to regret; it’s symptomatic of the social media age. But, our union president chose to defend her contentious tweets, including one which some Imperial students might find offensive.

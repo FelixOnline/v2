@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Hard luck for IC in tournament
 date: "2010-02-25 18:41:51 +0000"
-
-# Attributes from Felix Online V1
-id: "104"
-old_path: /sport/104/clover-power-cant-help-ic-snooker-at-midlands-cup
+image: "http://felixonline.co.uk/img/upload/201002251840-mb506-ICSnooke.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/104/clover-power-cant-help-ic-snooker-at-midlands-cup
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - mb506
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002251840-mb506-ICSnooke.jpg"
-image_caption: ""
 ---
 
 The first weekend of February saw the first snooker tournament of the year; the Midlands Universities Snooker Championship. The two ICU Snooker teams met a little after 7 am for the train to the gloriously dull town of Coventry. Saturday offered a mixed bag of results: In the Individual Championship, Imperial's number one and first team captain, Sam Dennis, found himself in a London derby against LSE's top player, Aqeel Qadri. After losing the first frame convincingly, Sam, with the help of a 44 break, was able to come back and win 2-1 with a round of applause from the spectators.

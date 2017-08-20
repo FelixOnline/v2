@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Next Wednesday members of College staff and construction managers will meet in the Union Dining Hall to provide feedback on the progress of the construction of new halls of residence, in Acton.
 date: "2014-06-02 12:43:28 +0100"
-
-# Attributes from Felix Online V1
-id: "4639"
-old_path: /news/4639/union-announces-residence-consultation-meeting-for-new-acton-hall
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4639/union-announces-residence-consultation-meeting-for-new-acton-hall
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Next Wednesday members of College staff and construction managers will meet in the Union Dining Hall to provide feedback on the progress of the construction of new halls of residence, in Acton.

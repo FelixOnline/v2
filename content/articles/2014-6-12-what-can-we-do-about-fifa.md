@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The controversy behind this bureaucratic corrupt organisation.
 date: "2014-06-12 14:27:40 +0100"
-
-# Attributes from Felix Online V1
-id: "4682"
-old_path: /comment/4682/what-can-we-do-about-fifa
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4682/what-can-we-do-about-fifa
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - kmw13
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It shows the sort of crisis that FIFA is in that, two days away from the start of their flagship tournament (the World Cup in Brazil for the few of you who are not already aware of it), there have been calls from all of Europe’s football leaders demanding that FIFA President Sepp Blatter step down within the next year. Such is the crisis that, two days before the carnival that we have been promised begins, we are instead talking about where the World Cup in 2022 should be held. This crisis is in fact so big that all of FIFA’s sponsors (bar Emirates), on the eve of the biggest sports event in the world (bar the Olympics, in my opinion), are threatening to back out if a full investigation is not launched into allegations of corruption in the sport’s organising body.

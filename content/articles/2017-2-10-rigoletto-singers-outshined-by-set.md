@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It’s never a good sign when the set outshines the main cast
 date: "2017-02-10 15:52:05 +0000"
-
-# Attributes from Felix Online V1
-id: "6765"
-old_path: /arts/6765/rigoletto--singers-outshined-by-set
+image: "http://felixonline.co.uk/img/upload/201702101551-felix-ENO-Rigoletto-c-Alastair-Muir-4.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6765/rigoletto--singers-outshined-by-set
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - scc114
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101551-felix-ENO-Rigoletto-c-Alastair-Muir-4.jpg"
-image_caption: ""
 ---
 
 It’s never a good sign when the set outshines the main cast. Unfortunately for the ENO’s latest rendition of Jonathan Miller’s superbly conceptualised Rigoletto, this is very much the case.

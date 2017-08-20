@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2016-11-11 16:01:12 +0000"
-
-# Attributes from Felix Online V1
-id: "6430"
-old_path: /science/6430/breakfast--take-two
+image: "http://felixonline.co.uk/img/upload/201611111600-felix-egg-722847_1280.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6430/breakfast--take-two
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - aranshaunak16
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611111600-felix-egg-722847_1280.jpg"
-image_caption: ""
 ---
 
 Fact: You can un-boil an egg.

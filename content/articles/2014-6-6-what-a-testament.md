@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fred Fyles is blown away at the Barbican
 date: "2014-06-06 02:45:18 +0100"
-
-# Attributes from Felix Online V1
-id: "4662"
-old_path: /arts/4662/what-a-testament
+image: "http://felixonline.co.uk/img/upload/201406060346-jal08-arts-mary2.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4662/what-a-testament
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - jal08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406060346-jal08-arts-mary2.jpeg"
-image_caption: ""
 ---
 
 __W__ho was Mary? From biblical sources we know that she was the mother of Jesus; from them on it gets a little fuzzy, depending on which line of Christianity you’re following.

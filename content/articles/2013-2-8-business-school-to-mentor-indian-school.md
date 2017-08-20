@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Nida Mahmud reports
 date: "2013-02-08 01:02:05 +0000"
-
-# Attributes from Felix Online V1
-id: "3280"
-old_path: /news/3280/business-school-to-mentor-indian-school
+image: "http://felixonline.co.uk/img/upload/201302080057-tna08-imp-business-signing.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3280/business-school-to-mentor-indian-school
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - nm708
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302080057-tna08-imp-business-signing.jpg"
-image_caption: ""
 ---
 
 Improving management education is the focus of a new alliance between [Imperial College Business School](http://www3.imperial.ac.uk/business-school) and the [Hero Group in India](http://www.heromotors.com/). The Business school at Imperial will assist BML Munjal University (BMU) in India, to develop its School of Management. The Business School will act as a mentor institution; helping BMU to form, develop and grow its School of Management. The collaboration will focus on both research and education activities. BMU will open to students in July 2014.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Hours after the announcement a protest was held outside the Department of Health
 date: "2016-02-12 11:09:46 +0000"
-
-# Attributes from Felix Online V1
-id: "5894"
-old_path: /news/5894/junior-doctor-contracts-to-be-imposed-by-government
+image: "http://felixonline.co.uk/img/upload/201602121109-felix-IMG_7823.JPG"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5894/junior-doctor-contracts-to-be-imposed-by-government
-imported: true
 comments:
  - value: >
      cheap nfl jerseys china wholesale mlb shop cyber monday clearance replica super <br>bowl rings mlb shop,cheap nfl jerseys china wholesale mlb shop cyber monday clearance replica super <br>bowl rings mlb shop,promo code nhl shop cyber monday nhl shop promotional code authentic sports <br>jerseys cheap,promo code nhl shop cyber monday nhl shop promotional code authentic sports <br>jerseys cheap,nhl shop coupon code nhl shop black fridy promotional <br>codes black friday nhl shop promotional code [mobile.et128.com],nhl shop coupon code nhl shop black fridy promotional <br>codes black friday nhl shop promotional code [mobile.et128.com],nba shop promo code nfl shop coupons wholesale chinaa cheap jerseys,nba shop promo code nfl shop coupons wholesale chinaa cheap jerseys,Why Wholesale NFL Jerseys From China Warehouse? Full selection for great cheap NCAA Jerseys,NBA Jerseys,NHL Jerseys,Super Bowl Jerseys,MLB Jerseys in lowest price online,free shipping! <br>More Wholesale Jerseys China,Why Wholesale NFL Jerseys From China Warehous
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602121109-felix-IMG_7823.JPG"
-image_caption: ""
 ---
 
 After further talks and a 24 hour strike this week, Jeremy Hunt has announced that controversial new junior doctor contracts will be imposed on medics.

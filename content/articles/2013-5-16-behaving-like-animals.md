@@ -4,18 +4,15 @@ title: >
 subtitle: >
   An editorial about how everyone is secretly a bit terrible at their job. Including me. Definitely me. Mostly me.
 date: "2013-05-16 20:42:52 +0100"
-
-# Attributes from Felix Online V1
-id: "3591"
-old_path: /comment/3591/behaving-like-animals
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3591/behaving-like-animals
-imported: true
 comments:
  - value: >
      Scientists may not be perfect, but they should definitely know the difference between what is animal cruelty and what is not. If the concept of being humane to lab animals is beyond them then they shouldn't be in the profession they're in. It's inexcusable. End of. ,Scientists may not be perfect, but they should definitely know the difference between what is animal cruelty and what is not. If the concept of being humane to lab animals is beyond them then they shouldn't be in the profession they're in. It's inexcusable. End of.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This week brings some [news](http://felixonline.co.uk/news/3593/alleged-animal-abuse-investigation-scope-announced/) about the allegations of [animal cruelty levelled against Imperial](http://felixonline.co.uk/news/3539/alleged-animal-abuse/). They’re rushing to the rescue with a three month long investigation. In other words “let’s just kick this can into the distance, and then write a report that will be long and boring and hopefully nobody will read”. Of course you couldn’t have a two week investigation and find everything there is to know, but it definitely feels like the PR machine is in overdrive here. Sorry to be cynical. If they were serious, they could just walk up to the researchers now and give all involved in animal testing a pop quiz. If they don’t know details they should, well, then there is cause for concern.

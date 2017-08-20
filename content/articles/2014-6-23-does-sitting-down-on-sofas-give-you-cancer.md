@@ -4,16 +4,13 @@ title: >
 subtitle: >
   People who spend more time sitting are more at risk of getting cancer than people who don’t, a new study reveals.
 date: "2014-06-23 14:49:05 +0100"
-
-# Attributes from Felix Online V1
-id: "4713"
-old_path: /science/4713/does-sitting-down-on-sofas-give-you-cancer
+image: "http://felixonline.co.uk/img/upload/201406231551-jal08-stock-footage-worried-businessman-sitting-on-sofa-at-home.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4713/does-sitting-down-on-sofas-give-you-cancer
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - frh10
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406231551-jal08-stock-footage-worried-businessman-sitting-on-sofa-at-home.jpg"
-image_caption: ""
 ---
 
 People who spend more time sitting are more at risk of getting cancer than people who don’t, a new study reveals.

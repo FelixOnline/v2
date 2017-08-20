@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Grace Rahman talks us through why she thinks Ben Howitt should be DPCS next year
 date: "2015-03-09 14:15:32 +0000"
-
-# Attributes from Felix Online V1
-id: "5367"
-old_path: /comment/5367/why-im-voting-for-ben-howitt-for-deputy-president-clubs-and-societies
+image: "http://felixonline.co.uk/img/upload/201503091441-ps3110-screen-shot-2015-03-09-at-14.40.42.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5367/why-im-voting-for-ben-howitt-for-deputy-president-clubs-and-societies
-imported: true
 comments:
  - value: >
      the fit flop <br>fitflops cheap http://australiafitflops.blogspot.com/,fitflops on sale <br>buy fitflops online australia http://australiafitflops.iemiller.net/,fitflop australia buy online <br>fitflop sandals clearance http://fitflopsau.blogspot.com/,used christian louboutin <br>christian louboutin cheapest http://canadachristianlouboutin.blogspot.com/,womens christian louboutin flats <br>christian louboutin outlet store http://christianlouboutincanadaoutlet.blogspot.com/,louboutin shoes sale <br>buy christian louboutin shoes canada http://canadachristianlouboutin.blogspot.com/
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503091441-ps3110-screen-shot-2015-03-09-at-14.40.42.png"
-image_caption: ""
 ---
 
 It’s that time of year again. Endless Facebook invites, Haribo flung at you down every corridor and people you’ve never heard of stopping you legging it from your last lecture by shouting terrible hashtags as you, so by the time you get to the JCR only the crap paninis are left.

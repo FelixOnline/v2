@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-05-27 08:51:48 +0100"
-
-# Attributes from Felix Online V1
-id: "6208"
-old_path: /science/6208/science-whats-good
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6208/science-whats-good
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ authors:
  - ea3211
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 **Vaping ads lure teens**

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Scheme will be put in place next academic year
 date: "2015-05-08 00:10:19 +0100"
-
-# Attributes from Felix Online V1
-id: "5499"
-old_path: /news/5499/freshers-can-now-swap-rooms-in-halls
+image: "http://felixonline.co.uk/img/upload/201505080110-ps3110-imp_140425_beit_srgb_059--tojpeg_1421080036119_x2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5499/freshers-can-now-swap-rooms-in-halls
-imported: true
 comments:
  - value: >
      You're a very practical internet site; could not make it without ya! <br>FIFA 17 http://www.somdmda.org/buy_madden_17_coins_inside_nfl
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505080110-ps3110-imp_140425_beit_srgb_059--tojpeg_1421080036119_x2.jpg"
-image_caption: ""
 ---
 
 A new room swapping system will be put in place for the next academic year, that will allow first year students in Imperial accommodation to move from one room to another if they so wish.

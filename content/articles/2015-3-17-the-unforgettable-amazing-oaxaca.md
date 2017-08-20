@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Lost yourself in paradise alongside Aditya Narayanan in this paradise
 date: "2015-03-17 14:40:55 +0000"
-
-# Attributes from Felix Online V1
-id: "5398"
-old_path: /travel/5398/the-unforgettable-amazing-oaxaca
+image: "http://felixonline.co.uk/img/upload/201503171441-ync111-view-of-a-pool-formed-by-spring-at-hierve-el-agua,-with-range-of-mountains-in-background.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/5398/the-unforgettable-amazing-oaxaca
-imported: true
 comments:
  - value: >
      He has been a consistent starter since his freshman year. You can use many forms of medicines, diets and fitness to accomplish that goal. It is not, especially if you know the tricks how in order to it. <br>fifa 16 hack http://creditsfut.com/,You're a really helpful site; could not make it without ya!| <br>nba 2k16 my account expired ps4 http://camilleeudora.edublogs.org/2016/03/26/the-information-about-the-madden-nfl-16-game-that-you-should-know/,Hi-ya, very good websites you possess right now.| <br>cs go skins down http://nicolasetlla.webstarts.com/level_30_lol_account.html,Maintain the helpful work and generating the group!| <br>cs go skins blackjack http://www.purevolume.com/Edwina/posts/13146349/Cheap+NBA+2K16+MT+is+downloaded+by+consumers
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503171441-ync111-view-of-a-pool-formed-by-spring-at-hierve-el-agua,-with-range-of-mountains-in-background.jpg"
-image_caption: ""
 ---
 
 Holidays in Mexico are stereotypically presented as being all about that beach. From Cancun to Tijuana (and Acapulco), the golden sands and azure seas are well trodden by the average foreign tourist. With glorious sunshine all year and relatively calm and clear water, it is the perfect place to laze about aimlessly for a week or five. As it happens, this is a rather mainstream opinion, and all have become the epitome of the term tourist trap; a deluge of retirees looking for a lazy getaway and 20-somethings looking for a bacchanalian experience.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Violence of previous protests avoided
 date: "2011-02-03 19:52:39 +0000"
-
-# Attributes from Felix Online V1
-id: "728"
-old_path: /news/728/student-protests-pass-peacefully-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/728/student-protests-pass-peacefully-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ua108
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Thousands of student protestors marched on to the streets of London and Manchester once again this past weekend, to demonstrate their anger and disapproval of the government's plans to impose higher tuition fees and introduce public spending cuts.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Christopher Yates talks about the new drug touted as a female viagra
 date: "2014-02-17 17:13:55 +0000"
-
-# Attributes from Felix Online V1
-id: "4386"
-old_path: /science/4386/something-else-worth-swallowing
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4386/something-else-worth-swallowing
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - cy1211
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Dubbed ‘Female Viagra’, the drug Lady Prelox has gone on sale in the UK this week, marketed as being ‘clinically proven’ to improve female sexual dysfunction. Whether or not it works is another matter.

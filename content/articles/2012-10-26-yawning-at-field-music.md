@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Mark England notices an uncool band
 date: "2012-10-26 03:15:20 +0100"
-
-# Attributes from Felix Online V1
-id: "2771"
-old_path: /music/2771/yawning-at-field-music
+image: "http://felixonline.co.uk/img/upload/201210260414-tna08-field_music03.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2771/yawning-at-field-music
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - me1409
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210260414-tna08-field_music03.jpg"
-image_caption: ""
 ---
 
 It is an affliction of the internet age that, nowadays, a band must be tragically cool to get noticed. They must have the right haircuts, a certain amount of buzz about them and normally a postcode from Dalston, Shoreditch or at the moment South London. Field Music, however, are the antithesis of this; they are desperately uncool and do not profess to ride on any trends or jump on any bandwagons. They have stuck to their indie ethos from the start, forming in 2004. They have gradually garnered critical acclaim with their four albums, and have attracted a sizeable, if not slightly cultish, following. So I attended their London show at the Electric Ballroom in Camden with the anticipation that this was what music was meant to be about.

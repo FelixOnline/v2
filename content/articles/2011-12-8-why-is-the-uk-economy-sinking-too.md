@@ -4,18 +4,15 @@ title: >
 subtitle: >
   If the Good Ship Eurozone goes down, we are going down with her, explains Albert Nickelby
 date: "2011-12-08 20:47:14 +0000"
-
-# Attributes from Felix Online V1
-id: "1921"
-old_path: /biz/1921/why-is-the-uk-economy-sinking-too-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/1921/why-is-the-uk-economy-sinking-too-
-imported: true
 comments:
  - value: >
      Sweden and the UK started from different points when the debt crisis hit. The previous Labour government expanded public sector spending beyond sustainable levels and this resulted in a deficit before the debt crisis hit. In contrast, the Swedes have been running their country with fiscal discipline since their economy got into trouble in the 1990s and so didn't need to enact as severe cuts as those required in the UK. The two are not comparable. Austerity is the only way for the UK. Borrowing more would just add to the already excessive debt pile with no guarantee of a growth stimulus. Long-term, Britain's structural problems such as education, healthcare, welfare, infrastructure and the combined private and public debt, that you mention, need to be sorted out. In the shorter term all the government can really do is to legislate so this country becomes more business friendly in the hope that this spurs private sector growth. The UK can recover, but it's going to take time.,I think you make a fair poi
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -29,12 +26,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Eurozone crisis has all the traits of a perfect story: a choral drama with a fuzzy and mistrusted antihero, pompous and obscure villains, few and powerless heroes, and many victims; the plot is so twisted that its outcome remains as mysterious as exciting, and its consequences so open to chance and mishaps that any guess in this respect is but a fools errand. Hence, it comes to no surprise that the UK press devotes so much ink to the Eurozone crisis: it is where the news seem to be.

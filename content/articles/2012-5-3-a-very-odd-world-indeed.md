@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Laurence Pope on how Oddworld’s rampant industrialisation makes for a pretty cracking game series
 date: "2012-05-03 18:45:52 +0100"
-
-# Attributes from Felix Online V1
-id: "2417"
-old_path: /games/2417/a-very-odd-world-indeed
+image: "http://felixonline.co.uk/img/upload/201205031945-ams111-0000004887.1024x768.jpg"
+image_caption: "Oddworld: Abe’s Exoddus still holds up today"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2417/a-very-odd-world-indeed
-imported: true
 comments:
  - value: >
      It's £2 and it's truly worth every penny. <br>http://store.steampowered.com/app/15700/ <br> <br>I downloaded it and played it over Christmas and even though I admittedly didn't complete it, I thoroughly enjoyed the game. <br>It's properly difficult and makes you think more than pretty much all games I've played in the last 2-3 years (bar Portal and Limbo). <br> <br>&lt;3,One of my favourite games of all time. I must play either Oddysee or Exoddus at least once a year. Aside from the gameplay, which is just stunning, the thing I loved about these games the most was the atmosphere they created, and the sheer... loneliness, I suppose, that you felt whilst playing. A great escapist pleasure.
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -28,12 +26,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205031945-ams111-0000004887.1024x768.jpg"
-image_caption: ""
 ---
 
 It’s a shame Oddworld Inhabitants, an American game company founded way back when I was just knee-high to a grasshopper, stopped making games. Why? Because they made some pretty kick-ass stuff, that’s why. So kick-ass in fact that many modern-day game developers could learn a thing or two from them. They won’t, obviously — until reading this piece, that is. Maybe.

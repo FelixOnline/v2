@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ken Lo takes a look at SIM-only tarifs, saving you a decent chunk of change on your phone bill
 date: "2010-03-04 12:59:25 +0000"
-
-# Attributes from Felix Online V1
-id: "119"
-old_path: /tech/119/keep-your-old-phone-save-some-dosh
+image: "http://felixonline.co.uk/img/upload/201003041252-srg03-Savings.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/119/keep-your-old-phone-save-some-dosh
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -23,12 +20,6 @@ authors:
  - srg03
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201003041252-srg03-Savings.jpg"
-image_caption: ""
 ---
 
 OK, listen carefully guys, we're going to try and save you some good money in felix this week. For many of us, our mobile phones are a vital part of our lives. However, we often pay well over the odds for them. For instance, did you know the cheapest iPhone 3GS contact comes to £729 (not to mention extra call charges) over the 18 month contract period? Did you know that per megabyte, sending a text message at 10p costs you almost eight times as much as it costs NASA to receive images of outer space from the Hubble Space Telescope?

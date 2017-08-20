@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Once again, Netflix rushes into rescue and, in this case, reboot a much loved property that had been poorly adapted. So, is the series any good, or does it become an all too literal rendition of its title?
 date: "2017-01-20 15:18:21 +0000"
-
-# Attributes from Felix Online V1
-id: "6668"
-old_path: /tv/6668/rebooted--a-series-of-unfortunate-events
+image: "http://felixonline.co.uk/img/upload/201701201517-felix-maxresdefault (4).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6668/rebooted--a-series-of-unfortunate-events
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -23,12 +20,6 @@ authors:
  - sa8713
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701201517-felix-maxresdefault (4).jpg"
-image_caption: ""
 ---
 
 The catchy theme song of this Netflix adaptation advises you to look away, warning you of a story that is dark and has no happy ending. If you actually listen to that advice, it would be an unfortunate event in of itself, as you would be missing out on a well-made, dark and incredibly self-aware series.

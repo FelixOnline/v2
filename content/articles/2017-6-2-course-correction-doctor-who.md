@@ -4,16 +4,14 @@ title: >
 subtitle: >
   So far so good
 date: "2017-06-02 13:21:21 +0100"
-
-# Attributes from Felix Online V1
-id: "6993"
-old_path: /tv/6993/course-correction--doctor-who
+image: "http://felixonline.co.uk/img/upload/201706021521-felix-dw.jpg"
+image_caption: "This is why you always wear a seatbelt"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6993/course-correction--doctor-who
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ad4013
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706021521-felix-dw.jpg"
-image_caption: ""
 ---
 
 Halfway into the latest season of Doctor Who, set to be Peter Capaldi and showrunner Steven Moffat’s last, we have yet to be disappointed. After a rocky few seasons, the show began to show signs of recovery with last Christmas’ delightful, superhero themed fix. The first six episodes of series ten have continued this upward trend, with new companion Bill proving to be quite a highlight, and Capaldi being allowed to flourish.

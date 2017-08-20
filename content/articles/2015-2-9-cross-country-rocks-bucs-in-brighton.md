@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Cross Country members Matt Douthwaite, Liam Smith and Cloudy Carnegie report on the trip to Brighton
 date: "2015-02-09 19:12:22 +0000"
-
-# Attributes from Felix Online V1
-id: "5220"
-old_path: /sport/5220/cross-country-rocks-bucs-in-brighton
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5220/cross-country-rocks-bucs-in-brighton
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Early on Saturday 31st January a 37 strong team from Imperial Cross Country took the train down to Brighton to compete in the BUCS Cross Country Championships, apprehensively eyeing up the snow from the windows. With the strongest level of competition from universities all over the country including a host of elite athletes who have represented England, Scotland and Great Britain on an international stage this was undoubtedly billed to be the race of the year.

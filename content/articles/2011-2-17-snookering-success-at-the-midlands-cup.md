@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The IC snooker team makes us proud
 date: "2011-02-17 20:42:43 +0000"
-
-# Attributes from Felix Online V1
-id: "849"
-old_path: /sport/849/snookering-success-at-the-midlands-cup
+image: "http://felixonline.co.uk/img/upload/201102172041-nm1010-snookers.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/849/snookering-success-at-the-midlands-cup
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - sp4409
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102172041-nm1010-snookers.jpg"
-image_caption: ""
 ---
 
 On the weekend 5th/6th February the ICU Snooker team descended on Coventry for the annual pre-BUCS warm-up; the Midlands Cup Tournament. After an eventful journey in which one player missed the train, the team arrived with high spirits. The 1st team consisted of experienced old heads whereas the 2nd team composed of enthusiastic Freshers and 2nd years who had worked their way into the team.

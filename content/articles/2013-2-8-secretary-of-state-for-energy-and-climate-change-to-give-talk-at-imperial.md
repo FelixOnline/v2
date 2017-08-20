@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In brief
 date: "2013-02-08 01:06:10 +0000"
-
-# Attributes from Felix Online V1
-id: "3282"
-old_path: /news/3282/secretary-of-state-for-energy-and-climate-change-to-give-talk-at-imperial
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3282/secretary-of-state-for-energy-and-climate-change-to-give-talk-at-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Edward Davey, Secretary of State for Energy and Climate Change, will be giving a talk at Imperial College London on Wednesday 13 February. He will be giving the annual Newitt Lecture on the energy challenge faced by society.

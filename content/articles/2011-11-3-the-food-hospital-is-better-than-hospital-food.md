@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Channel 4 mix science and not in a delicious documentary
 date: "2011-11-03 20:30:51 +0000"
-
-# Attributes from Felix Online V1
-id: "1668"
-old_path: /tv/1668/the-food-hospital-is-better-than-hospital-food
+image: "http://felixonline.co.uk/img/upload/201111032030-pk1811-hospital-food.jpg"
+image_caption: "Yeah, that’ll make you better love"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1668/the-food-hospital-is-better-than-hospital-food
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +22,6 @@ authors:
  - hrw11
  - js2310
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111032030-pk1811-hospital-food.jpg"
-image_caption: ""
 ---
 
 Channel 4’s latest culinary offering is a scientific blend of classics such as don’t-watch-it-with-your-parents Embarrassing Bodies and Supersize vs Superskinny. All three programmes feature C4’s basic ingredients of Grand Design-esque houses and arty long shots, grisly bodily close ups when you least expect them and celebrity doctors who seem to spend far too much time on TV and no time on the skiing holidays my GP frequently enjoys.

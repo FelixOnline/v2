@@ -4,16 +4,13 @@ title: >
 subtitle: >
   And not feel (too) guilty about it
 date: "2013-12-06 04:06:16 +0000"
-
-# Attributes from Felix Online V1
-id: "4189"
-old_path: /comment/4189/how-to-procrastinate-at-christmas
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4189/how-to-procrastinate-at-christmas
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - tad08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 As a student at Imperial, the lead up to Christmas can seem like one of the busiest times of the year, a feeling compounded by the multitude of seasonal events that you just have to go to. No matter how overwhelmed you’re feeling, there are always some parties that you will just refuse to miss, because everyone knows that reservations and propriety fly out the window as soon as mulled wine and mistletoe are involved. Whether you’re the kind of person who’s at the front line of the drama, or you just like watching it unfold, Christmas parties are often unmissable, and a good way to release the stress that’s gradually built up throughout the term.

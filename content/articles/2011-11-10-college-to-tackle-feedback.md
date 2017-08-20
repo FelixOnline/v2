@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Away Day yields recommendations for departments
 date: "2011-11-10 19:50:09 +0000"
-
-# Attributes from Felix Online V1
-id: "1707"
-old_path: /news/1707/college-to-tackle-feedback-
+image: "http://felixonline.co.uk/img/upload/201111110109-felix-mfk_sirkeitho_nions_012yo.jpg"
+image_caption: "Rector Sir Keith O'Nions is developing a plan with Heads of Department against feedback"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1707/college-to-tackle-feedback-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - ak6309
  - ann09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111110109-felix-mfk_sirkeitho_nions_012yo.jpg"
-image_caption: ""
 ---
 
 The issue of assessment and feedback at Imperial has been addressed at this year’s Rector’s Away Day.

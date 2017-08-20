@@ -4,16 +4,13 @@ title: >
 subtitle: >
   While previously assumed to have been P. chrysogenum, the fungus that led Fleming to his discovery of penicillin may in fact have been up to four separate species
 date: "2011-12-01 19:40:55 +0000"
-
-# Attributes from Felix Online V1
-id: "1859"
-old_path: /science/1859/flemings-fungus-finally-identified
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1859/flemings-fungus-finally-identified
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - ams111
  - slb210
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Moulds are perhaps the least celebrated of organisms, with the notable exception of the one that led to Alexander Fleming’s discovery of penicillin in 1928. The story is well-known: the fungal spores were accidentally allowed to contaminate a petri dish, Fleming observed that the mould was killing the culture of bacteria on the plate, and on further investigation it was found to be secreting an anti-bacterial substance which we now know as the first antibiotic: penicillin. It’s surprising, then, that we’ve never known exactly what it was.

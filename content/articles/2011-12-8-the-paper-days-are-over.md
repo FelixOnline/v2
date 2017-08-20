@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The days of the printed newspaper are numbered, argues Marie-Laure Hicks, as the salad days of social media see a decline in the printing of broadsheets and Berliners
 date: "2011-12-08 20:03:21 +0000"
-
-# Attributes from Felix Online V1
-id: "1907"
-old_path: /biz/1907/the-paper-days-are-over
+image: "http://felixonline.co.uk/img/upload/201112082001-cac111-uprisingphones.jpg"
+image_caption: "Mobile technology and social media networks played a key role in the uprisings of the Arab Spring"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/1907/the-paper-days-are-over
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082001-cac111-uprisingphones.jpg"
-image_caption: ""
 ---
 
 Take the tube and read a newspaper. Most people there are doing the same, but their number is in rapid decline. Between 2007 and 2009, newspaper circulation dropped by 25% in the UK. Only the US saw a heavier decline. This $50bn business, employing 400,000 people in the US alone, is in trouble. In the space of two years, eight major newspaper chains have declared bankruptcy and newsrooms have been cut by a quarter. British newspapers have also needed to lay off workers. The newspaper industry is living its worst crisis since the Great Depression.

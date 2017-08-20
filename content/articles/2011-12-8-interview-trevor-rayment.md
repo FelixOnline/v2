@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Alice Yang talks to the Director of Physical Sciences at Diamond Light Source
 date: "2011-12-08 20:26:54 +0000"
-
-# Attributes from Felix Online V1
-id: "1912"
-old_path: /news/1912/interview-trevor-rayment
+image: "http://felixonline.co.uk/img/upload/201112082023-pk1811-untitled.jpg"
+image_caption: "Director of Physical Sciences at Diamond Light Source, Professor Trevor Rayment"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1912/interview-trevor-rayment
-imported: true
 comments:
  - value: >
      Why have the Candidates failed so <a href="http://qxyyxyak.com">mirbsaely</a> to produce and distribute at least a modicum of publicity on their behalf's. As far as I can make out you just put your name down, expect everyone to visit your website if you have one and if they are computer literate that is then vote you in. Rank arrogance if you can't be bothered to state your position and state what your aims are why anyone should vote for you.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082023-pk1811-untitled.jpg"
-image_caption: ""
 ---
 
 [Diamond Light Source](http://www.diamond.ac.uk/), the UK’s national synchrotron facility, sits in the form of a gigantic steel ring amongst stretches of the green countryside surrounding the Harwell Science and Innovation Campus in Oxfordshire. Less than a decade old, this facility is at the cutting edge of research and luckily for me, having interned here for eight weeks, [Professor Trevor Rayment](http://www.diamond.ac.uk/Home/About/Company/Management.html), Director of Physical Sciences at Diamond, has managed to find a few minutes in his busy schedule for this interview.

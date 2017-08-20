@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It’s less than two weeks until the RCSU Science Challenge 2014 launch event, on Tuesday December 3rd. Come along to find out what prizes will be on offer and to hear the judges speak about science communication and reveal their questions for this year’s Challenge.
 date: "2013-11-24 15:55:05 +0000"
-
-# Attributes from Felix Online V1
-id: "4103"
-old_path: /features/4103/the-launch-of-a-challenger-rcsu-prepares-for-the-next-science-challenge
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4103/the-launch-of-a-challenger-rcsu-prepares-for-the-next-science-challenge
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -23,12 +20,6 @@ authors:
  - frh10
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It’s less than two weeks until the RCSU Science Challenge 2014 launch event, on Tuesday December 3rd. Come along to find out what prizes will be on offer and to hear the judges speak about science communication and reveal their questions for this year’s Challenge. You can book your free place now online at http://bit.ly/1ekv9Vj. And there will of course be free food and drink afterwards! You really have no reason not to attend.

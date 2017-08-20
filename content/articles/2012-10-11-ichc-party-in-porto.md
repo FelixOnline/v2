@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jonny Clowes dishes the dirt on Hockey’s latest foreign travels
 date: "2012-10-11 21:32:17 +0100"
-
-# Attributes from Felix Online V1
-id: "2681"
-old_path: /sport/2681/ichc-party-in-porto
+image: "http://felixonline.co.uk/img/upload/201210112231-csw09-hockeytour.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2681/ichc-party-in-porto
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - jlc08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112231-csw09-hockeytour.jpg"
-image_caption: ""
 ---
 
 July 2012 saw thirty intrepid Imperial College Hockey Club members travel to Portugal for two weeks of sun, sea, sand and hockey. This followed on from successful tours to Malaysia, Croatia/Slovenia and India in the last three years.

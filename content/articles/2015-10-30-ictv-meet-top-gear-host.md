@@ -4,16 +4,14 @@ title: >
 subtitle: >
   He shoved his glasses on one Imperial student, shouting: "This is the real Chris Evans interview!"
 date: "2015-10-30 14:48:51 +0000"
-
-# Attributes from Felix Online V1
-id: "5691"
-old_path: /news/5691/ictv-meet-top-gear-host
+image: "http://felixonline.co.uk/img/upload/201510301446-ygr12-screen-shot-2015-10-28-at-23.30.30.png"
+image_caption: "Evans attempting a kind of Blair Witch - James Bond edition type thing"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5691/ictv-meet-top-gear-host
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510301446-ygr12-screen-shot-2015-10-28-at-23.30.30.png"
-image_caption: ""
 ---
 
 ICTV’s Jonathon Masters and Hasan Al-Habib managed to wangle a YouTube gem at the Spectre premiere: an interview with Chris Evans.

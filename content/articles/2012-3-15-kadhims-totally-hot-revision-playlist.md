@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Felix Revision playlist
 date: "2012-03-15 21:16:44 +0000"
-
-# Attributes from Felix Online V1
-id: "2375"
-old_path: /music/2375/kadhims-totally-hot-revision-playlist
+image: "http://felixonline.co.uk/img/upload/201203152116-ams111-totallyhot.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2375/kadhims-totally-hot-revision-playlist
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152116-ams111-totallyhot.jpg"
-image_caption: ""
 ---
 
 _Listen to the playlist here: <http://spoti.fi/FelixRevision>_

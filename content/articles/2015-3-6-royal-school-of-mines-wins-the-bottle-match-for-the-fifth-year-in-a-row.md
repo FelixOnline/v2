@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Nick Farmer reports from Harlington, where RSM come from behind to retain the bottle
 date: "2015-03-06 14:02:53 +0000"
-
-# Attributes from Felix Online V1
-id: "5353"
-old_path: /sport/5353/royal-school-of-mines-wins-the-bottle-match-for-the-fifth-year-in-a-row
+image: "http://felixonline.co.uk/img/upload/201503061402-kmw13-10960007_10204938790223046_12770275941340581_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5353/royal-school-of-mines-wins-the-bottle-match-for-the-fifth-year-in-a-row
-imported: true
 comments:
  - value: >
      History dictates Brazil get one among the main contenders. Since the 1930s, many American leaders have visited Haiti. Soccer highlights are believed as the most awaited part for the soccer event. <br>credits fut rapidement http://creditsfut.com/
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - nf311
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503061402-kmw13-10960007_10204938790223046_12770275941340581_o.jpg"
-image_caption: ""
 ---
 
 For the fifth year running Imperial’s Royal School of Mines were victorious in the Bottle Match against Camborne School of Mines, held at the Harlington Sports Ground on February 21st. Teams from the two mining schools went head to head in badminton, squash, netball, hockey, football and rugby in a weekend-long event hosted by the RSM, with a large contingent of CSM supporters making the journey up from Cornwall by coach. Friday saw the squash and badminton matches, held at Ethos. While RSM dominated the squash 5-0, they were not so fortunate in the badminton, winning 3 games, but losing 6 and the match to a CSM side featuring several players who are allegedly no longer students. RSM were also unlucky in the netball, with a strong CSM team featuring a particularly tall goal attack pressing their advantage, and the match ending a 72-22 loss of RSM.

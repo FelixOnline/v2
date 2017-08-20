@@ -4,17 +4,14 @@ title: >
 subtitle: >
   The RCSU initiative is now in its 9th year
 date: "2015-12-11 15:23:47 +0000"
+image: "http://felixonline.co.uk/"
 draft: true
-
-# Attributes from Felix Online V1
-id: "5811"
-old_path: /news/5811/rcsu-science-challenge-launches
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5811/rcsu-science-challenge-launches
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - aa15712
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 S

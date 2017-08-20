@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Some people are afraid of nothing. They should try a thermodynamics exam. That would scare them.
 date: "2013-06-05 16:10:57 +0100"
-
-# Attributes from Felix Online V1
-id: "3655"
-old_path: /science/3655/flicking-off-the-fear-switch
+image: "http://felixonline.co.uk/img/upload/201306051709-tna08-steve_irwin.jpg"
+image_caption: "Steve Irwin didn’t have Urbach-Wiethe disease. Dude just had balls of steel"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3655/flicking-off-the-fear-switch
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306051709-tna08-steve_irwin.jpg"
-image_caption: ""
 ---
 
 “You asked me once, what was in Room 101. I told you that you knew the answer already. Everyone knows it. The thing that is in Room 101 is the worst thing in the world.”

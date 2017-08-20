@@ -4,16 +4,13 @@ title: >
 subtitle: >
   First victory over RUMS this term
 date: "2011-01-20 19:53:06 +0000"
-
-# Attributes from Felix Online V1
-id: "617"
-old_path: /sport/617/rugby-1st-xv-record-stylish-victory
+image: "http://felixonline.co.uk/img/upload/201101201950-nm1010-fooootba.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/617/rugby-1st-xv-record-stylish-victory
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - dmw08
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101201950-nm1010-fooootba.jpg"
-image_caption: ""
 ---
 
 The fifteen recorded a well-deserved victory and impressive victory over RUMS in their first match back after Christmas. The disruption caused by the inclement weather towards the end of the Christmas term meant that this was the first game that the 1st XV were playing for nearly two months. This however, did not stop the team out classing their opponents who showed no signs of ever winning the match.

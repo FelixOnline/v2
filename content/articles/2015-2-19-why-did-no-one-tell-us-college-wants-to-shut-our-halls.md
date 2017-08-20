@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philippa Skett investigates the fallout after the revelation that College wants to shut down Weeks Hall
 date: "2015-02-19 23:51:05 +0000"
-
-# Attributes from Felix Online V1
-id: "5275"
-old_path: /news/5275/why-did-no-one-tell-us-college-wants-to-shut-our-halls
+image: "http://felixonline.co.uk/img/upload/201502192351-ps3110-screen-shot-2015-02-19-at-23.50.54.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5275/why-did-no-one-tell-us-college-wants-to-shut-our-halls
-imported: true
 comments:
  - value: >
      Am I the only one that thinks present Weeks residents aren't quite as relevant and necessary as outraged people seem to think? <br> <br>Yes, they offer a good perspective on what it's like to live in Weeks, but that's about it. I think we can reasonably accurately predict "space is nice, great to be close but better price than eastside, I don't want to live way out in Acton". <br> <br>Let's not forget that noone is suggesting closing halls mid-contract from under present residents.,christian louboutin mens shoes canada <br>christian louboutin http://canadachristianlouboutin.blogspot.com/,You're an extremely beneficial website; couldn't make it without ya!| <br>nba 2k16 mt sell http://www.railay.com/railay/news/viewtopic.php?p=27619#27619,The posts is extremely helpful.| <br>cs go skins after match http://groomingtaxi.com/ads/item/13201
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502192351-ps3110-screen-shot-2015-02-19-at-23.50.54.png"
-image_caption: ""
 ---
 
 Residents of Weeks are infuriated by the College decision to close their hall, and have demanded an emergency Union Council meeting to revote on the decision not to campaign against the closure.

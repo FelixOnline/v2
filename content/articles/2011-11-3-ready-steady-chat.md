@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Ainsley Harriot discusses his life, work and recipes in conversation with Anastasia Eleftheriou
 date: "2011-11-03 21:33:54 +0000"
-
-# Attributes from Felix Online V1
-id: "1688"
-old_path: /food/1688/ready-steady-chat
+image: "http://felixonline.co.uk/img/upload/201111032132-pk1811-ains-white-shirt-to-use.jpg"
+image_caption: "Ainsley Harriot remains involved in the production of a variety of recipes"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1688/ready-steady-chat
-imported: true
 comments:
  - value: >
      What a legend.
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111032132-pk1811-ains-white-shirt-to-use.jpg"
-image_caption: ""
 ---
 
 He has hosted the longest running cookery series in the world and has worked as a chef in hotels and restaurants across London after training at Westminster Catering College.

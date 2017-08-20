@@ -4,18 +4,16 @@ title: >
 subtitle: >
   This week sees the start of a retrospective of Luis Buñuel, the radical Spanish filmmaker, at London’s ICA. We take a look at the director’s life and work, identifying the key themes at play in his films: sexuality, satire, and surrealism.
 date: "2015-11-20 09:16:21 +0000"
-
-# Attributes from Felix Online V1
-id: "5751"
-old_path: /film/5751/the-cinema-is-an-instrument-of-poetry
+image: "http://felixonline.co.uk/img/upload/201511200915-ygr12-belle-de-jour.jpg"
+image_caption: "Catherine Deneuve in the French drama, Belle de Jour, directed by Buñuel in 1967."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5751/the-cinema-is-an-instrument-of-poetry
-imported: true
 comments:
  - value: >
      This piece of writing is genuinely a pleasant one it assists new web visitors, who are wishing for blogging. <br>nike air max zwart met tijgerprint http://www.webenco.nl/?nl-nike-air-max-zwart-met-tijgerprint-17525.html,} <br>nba 2k16 mt locker codes http://grandiosen.mixxt.at/networks/blog/post.teamlove.teamlove:54,Your tips is amazingly intriguing.| <br>nba 2k16 mt generator no survey http://www.woostergrapevine.com/blog/view/id_17182/title_2k16-mt-good-video-games-that-can-give-hours/,Extremely individual friendly website. Tremendous information offered on few clicks on <br>madden 17 news http://explicitty.com/blogs/834/5056/madden-nfl-17-coins-and-the-three-point-shootout,Do the write thing essay examples http://www.applyonlineessaywritingcompanies.xyz/thesis-network-intrusion-detection-system - Thesis network intrusion detection system, Resume for mba admission sample Essay on gun control in canada http://www.anycompanythatcanhelpothersindissertation.xyz/writing-personal-response-essay - Writing personal response
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511200915-ygr12-belle-de-jour.jpg"
-image_caption: ""
 ---
 
 Luis Buñuel Portolés was a Spanish filmmaker who worked in Spain, Mexico, and France. Born in 1900, at the very beginning of the new century, he lived to witness two world wars, as well as the liberation of Spain from Francisco Franco’s 36-year-long dictatorship, before his death in 1983.

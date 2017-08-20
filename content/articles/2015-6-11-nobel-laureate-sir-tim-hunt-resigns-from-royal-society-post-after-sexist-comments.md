@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Cecily Johnson on the controversy that has taken place over the last week
 date: "2015-06-11 22:23:29 +0100"
-
-# Attributes from Felix Online V1
-id: "5615"
-old_path: /news/5615/nobel-laureate-sir-tim-hunt-resigns-from-royal-society-post-after-sexist-comments
+image: "http://felixonline.co.uk/img/upload/201506112322-cj914-tim-hunt-2.jpg"
+image_caption: "Sir Tim Hunt apparently now recognises that his comments were unacceptable."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5615/nobel-laureate-sir-tim-hunt-resigns-from-royal-society-post-after-sexist-comments
-imported: true
 comments:
  - value: >
      In our society, women can criticise men with impunity. They can call us lazy, slovenly, old-fashioned dinosaurs who are clueless about everything - and we just have to take it. <br> <br>Criticise women however and we're instantly the worst thing since Hitler and have to resign. <br> <br>I thought women wanted equality?,What sort of total nonsense is this ? <br> <br>A distinguished professor has to resign his position because a few girls actually do start “crying” when he criticises them for “crying”. <br> <br>How staggering ironic.,To those who don't think this is a big enough deal for him to be shown the door - imagine if he spent the lecture on a racist tirade rather than a sexist one. I bet you wouldn't be sticking up for him then.,happy gogh fitflop <br>discount fitflops http://fitflopsalesingapore2.blogspot.com/,fitflop band <br>fitflop singapore outlet http://fitflopsalesingapore2.blogspot.com/,Who couldn't use help in this economy? Using coupons can be a way to make the most of your budget. Use everything that you read ahea
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506112322-cj914-tim-hunt-2.jpg"
-image_caption: ""
 ---
 
 Nobel Prize winner and fellow of the Royal Society Sir Tim Hunt has apologised for causing offence and resigned from the Biological Sciences Awards Committee of the Royal Society and an honorary professorship at UCL after sexist statements he made in a recent speech sparked outrage among the scientific community.

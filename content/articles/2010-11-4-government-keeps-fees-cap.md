@@ -4,16 +4,13 @@ title: >
 subtitle: >
   No unlimited tuition fees after all
 date: "2010-11-04 19:07:23 +0000"
-
-# Attributes from Felix Online V1
-id: "325"
-old_path: /news/325/government-keeps-fees-cap-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/325/government-keeps-fees-cap-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - za710
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The coalition government has rejected the Browne Review’s proposal of unlimited tuition fees in favour of a £9,000 cap.

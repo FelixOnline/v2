@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Increase in the number of female professors for the second year in a row
 date: "2013-01-25 01:27:42 +0000"
-
-# Attributes from Felix Online V1
-id: "3178"
-old_path: /news/3178/academic-uprising-5-more-professors
+image: "http://felixonline.co.uk/img/upload/201301250127-tna08-lecturer.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3178/academic-uprising-5-more-professors
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - nm708
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301250127-tna08-lecturer.jpg"
-image_caption: ""
 ---
 
 On 17 January, the Higher Education Statistics Agency (HESA) released the first set of data from the [2011/12 Staff record](http://www.hesa.ac.uk/index.php?option=com_content&task=view&id=2662&Itemid=161). This data provides information about staff employment at UK Higher Education Institutions (HEIs) on 1 December 2011. The results have been produced in partnership with the UK administrations and have been released upon approval by the UK Statistics Authority. A detailed analysis of the HESA Staff record will be released in March 2013. Felix did a brief analysis of the results, so you don’t have to...

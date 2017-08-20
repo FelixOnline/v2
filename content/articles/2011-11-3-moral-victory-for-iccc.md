@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Imperial Cricket hold their heads high following losses in Hertfordshire
 date: "2011-11-03 22:16:43 +0000"
-
-# Attributes from Felix Online V1
-id: "1701"
-old_path: /sport/1701/moral-victory-for-iccc
+image: "http://felixonline.co.uk/img/upload/201111032216-sjw209-somepeople.jpg"
+image_caption: "The cricketeers gather"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1701/moral-victory-for-iccc
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - ns08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111032216-sjw209-somepeople.jpg"
-image_caption: ""
 ---
 
 Seven of Imperial Cricket’s finest journeyed down to a barn in Hertfordshire last week Saturday only to come away with a moral victory after losing both of their games.

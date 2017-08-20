@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Uncharacteristic result for Imperial but team put on a good show
 date: "2011-02-28 21:08:26 +0000"
-
-# Attributes from Felix Online V1
-id: "940"
-old_path: /sport/940/mens-hockey-2s-let-two-goals-past-them-against-ucl
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/940/mens-hockey-2s-let-two-goals-past-them-against-ucl
-imported: true
 comments:
  - value: >
      Thibaut - Great job you two! It keeps the fundamentals that I liked from the preuvois version but brings a new touch that is really pleasant. And nice tweaks in the logo also Congrats :)June 19, 2012 8:59 am,Chomsky has pretty much lost <a href="http://tcnhkxj.com">pepcvestire</a> in the last couple of years.I'm from the Middle East, and I can assure you; Iran doesn't give a flying **** about Palestine. They're trying to exert their influence﻿ on the Arab Shiite populations (expansionism in the Gulf), turning Lebanon into a theocracy through their proxy party Hezbollah, and above all a threat to its own people.Israel isn't exempt either. Just please do not always change the subject to Israel whenever Iran comes up.
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 On a rainy Sunday afternoon, the Imperial College Hockey Club Men’s 2nd XI wearily approached the UCL hockey ground late after a tiring morning of push starting a seriously defective Union minibus.

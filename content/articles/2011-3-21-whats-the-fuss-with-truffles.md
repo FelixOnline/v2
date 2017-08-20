@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sam Furse explores the delights of this special treat
 date: "2011-03-21 10:55:12 +0000"
-
-# Attributes from Felix Online V1
-id: "1119"
-old_path: /food/1119/whats-the-fuss-with-truffles
+image: "http://felixonline.co.uk/img/upload/201104212008-felix-223667503_eacb4a8185_b.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1119/whats-the-fuss-with-truffles
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - sf305
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104212008-felix-223667503_eacb4a8185_b.jpeg"
-image_caption: ""
 ---
 
 Truffles have always sounded slightly removed from anything I eat on a regular basis. Not because they were impossible to get hold of, just something I was unlikely to stumble across. And if, like me and Daniel Barenboim, you are more immediately interested in the impossible rather than the very difficult or the unlikely, perhaps they are not something you have yet considered much either. Ever the scientist though, my interest to learn more was primed from conflicting information I had heard about them. The truffle is a name applied to both chocolate and also that fungus that is grated or thinly sliced onto (savoury) starters and soups. Manifestly they were not the same and so I took my sweet tooth, grabbed the chocolate bull by the horns and set about trying to find out more.

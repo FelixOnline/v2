@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Clara Clark Nevola reviews the Royal Opera House’s take on a ballet classic
 date: "2015-02-07 19:03:49 +0000"
-
-# Attributes from Felix Online V1
-id: "5201"
-old_path: /arts/5201/onegin--the-best-of-ballet
+image: "http://felixonline.co.uk/img/upload/201502071903-ps3110-fc-onegin-thiago-soares-marianela-nunez-knees_1000.jpg"
+image_caption: "Thiago Soares and Marianela Nunez in Onegin"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5201/onegin--the-best-of-ballet
-imported: true
 comments:
  - value: >
      Thank you! This is definitely an superb webpage!. <br>pokemongo http://www.hotridesmag.com/profiles/blogs/madden-mobile-coins-sports-illustrated-giving-madden-17-10-to-new
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502071903-ps3110-fc-onegin-thiago-soares-marianela-nunez-knees_1000.jpg"
-image_caption: ""
 ---
 
 O_negin_ is a 1960s German ballet based on a 19th century Russian novel in verse.

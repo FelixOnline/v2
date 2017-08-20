@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Joseph Kaupp on Dickens and his (perhaps misunderstood) views on the Industrial Revolution
 date: "2012-03-01 22:45:01 +0000"
-
-# Attributes from Felix Online V1
-id: "2290"
-old_path: /arts/2290/great-expectations
+image: "http://felixonline.co.uk/img/upload/201203012244-cac111-4-14-hine-breakerboys-01139u11.jpg"
+image_caption: "Not exactly an upbeat revolution"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2290/great-expectations
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - jwk11
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203012244-cac111-4-14-hine-breakerboys-01139u11.jpg"
-image_caption: ""
 ---
 
 The Dickens exhibition at the Museum of London contrives a fair representation of the city in the 19th century, allowing us to walk the very streets that Dickens himself traversed, and through which he invented a score of enduring characters that relate to readers even today. London of the mid-1800s is more than just the backdrop of Dickens’ stories. It is a central character itself in his works, rhythmically vacillating between protagonist and antagonist. As the exhibition guides us through the chronology of the author’s work, we cannot help but bear witness to the dramatic transformations of London life. From _Sketches by Boz_ to _Our Mutual Friend_, the city matures just as much as its revered biographer. Among the characters and alongside the plotlines, we find ourselves in the midst of the Industrial Revolution.

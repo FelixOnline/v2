@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Crown takes a rare look at the formative years of Queen Elizabeth, and chronicles the royal family’s escapades through the 20th century. Does it stack up well? Or is is just aimless royalty-porn?
 date: "2016-12-16 15:14:01 +0000"
-
-# Attributes from Felix Online V1
-id: "6617"
-old_path: /tv/6617/crowning-glory--the-crown
+image: "http://felixonline.co.uk/img/upload/201612161514-felix-the-crown.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6617/crowning-glory--the-crown
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +21,6 @@ authors:
  - ad4013
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612161514-felix-the-crown.jpg"
-image_caption: ""
 ---
 
 The Crown isn’t just one of the most anticipated shows of the year, but if the rumors of its budget of £100 million an episode are true, it’s also one of the most expensive. This is Netflix’s attempt at trying out something more traditional yet different (at least by Netflix standards) at the same time, aiming to reach for a different kind of demographic. After watching the show, one conclusion you immediately draw is that Peter Morgan’s take on young Queen Elizabeth is a superb triumph for Netflix.

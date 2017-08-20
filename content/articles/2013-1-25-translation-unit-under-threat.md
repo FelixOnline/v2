@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Petition to save Unit gets over 4,700 signatures in just one week Members of staff now unsure of their future
 date: "2013-01-25 01:04:24 +0000"
-
-# Attributes from Felix Online V1
-id: "3173"
-old_path: /news/3173/translation-unit-under-threat
+image: "http://felixonline.co.uk/img/upload/201301250104-tna08-sherfield.jpg"
+image_caption: "The Translation Studies Unit is in the Sherfield Building"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3173/translation-unit-under-threat
-imported: true
 comments:
  - value: >
      Surely if science is all about the development and dissemination of what we know about the world and beyond that translation is a key means to facilitate this. <br> <br>English may have become the universal language of science, but it is by no means the only language that scientific work is carried out in. Translation has played a role in science from the middle ages onwards, is still relevant today and will continue to be in the future. The study of translation and science together should be a core part of the college's business.,If the dissemination of medical and scientific knowledge does not constitute part of the Imperial College's 'core strategy' it would be interesting to know what does. And if the current students at Imperial are allowed to 'continue to work towards an Imperial College degree', how will they be able to do this without the support of supervisors? The decision on the part of the Management Board seems ill considered. It also seems terrible that such a seemingly off-the-cuff and ruthless dec
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301250104-tna08-sherfield.jpg"
-image_caption: ""
 ---
 
 The [Imperial College Management Board](http://www3.imperial.ac.uk/secretariat/collegegovernance/governancestructure/management) has announced the proposed closure of the [College’s Translation Studies Unit (TSU)](http://www3.imperial.ac.uk/humanities/translationgroup). Founded in 2001 to provide teaching for the College’s new MSc in Scientific, Technical and Medical Translation, the only such degree in the country, it now oversees the studies of over a hundred Masters and Doctorate students. A period of consultation regarding the fate of the Unit began last Friday and is set to run until February 18. All applications to courses run by the unit have been suspended and while the College say that they hopes the Unit will be able to find a home at a different institution it admits that, if this should prove not to be possible, it might be closed permanently.

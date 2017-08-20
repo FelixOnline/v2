@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Joshua Renken outlines the headline grabbing results from the general election, featuring a Tory Surge, Labour losses and a collapse in the Liberal Democrat vote.
 date: "2015-05-08 17:58:15 +0100"
-
-# Attributes from Felix Online V1
-id: "5509"
-old_path: /news/5509/general-election-2015-the-winners-and-losers
+image: "http://felixonline.co.uk/img/upload/201505081857-jr2514-leaders_3227668b.jpg"
+image_caption: "What a difference a day makes. Miliband, Clegg and Farage all resign as Cameron wins a 12 seat majority"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5509/general-election-2015-the-winners-and-losers
-imported: true
 comments:
  - value: >
      At the risk of going Mr. Elrtieccian on you, you could also solve the problem with a –that way, you can buy any lamp you like. Go to your local Ace Hardware and they can probably hook you up with a solution that would avoid any more running around!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - jr2514
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505081857-jr2514-leaders_3227668b.jpg"
-image_caption: ""
 ---
 
 We have a surprise Conservative 12-seat majority, as the Tories swept across England, while Scotland saw a landslide victory for the SNP, Wales remained majority Labour and Northern Ireland's DUP defended their share of the seats. The Liberal Democrats suffered a catastrophic election result across the United Kingdom, and UKIP only have one seat despite winning nearly 4 million votes.

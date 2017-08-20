@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Riaz Agahi looks ahead at Britain’s best experimental festival
 date: "2014-06-02 12:49:08 +0100"
-
-# Attributes from Felix Online V1
-id: "4641"
-old_path: /music/4641/supersonic-festival-preview
+image: "http://felixonline.co.uk/img/upload/201406021349-felix-ex-easter.jpg"
+image_caption: "Ex-Easter Island Head"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4641/supersonic-festival-preview
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - ra2410
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406021349-felix-ex-easter.jpg"
-image_caption: ""
 ---
 
 Birmingham’s Supersonic Festival is undoubtedly an institution in British experimental music. I was lucky enough to attend their last festival in 2012, and found it to be a postively life-changing experience, which featured a great mix of obscure and impressive new discoveries to more established experimental musicians the calibre of which I’d only dreamed of seeing in the past.

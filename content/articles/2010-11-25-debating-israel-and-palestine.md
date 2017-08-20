@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Debating Israel and Palestine
 date: "2010-11-25 21:24:16 +0000"
-
-# Attributes from Felix Online V1
-id: "439"
-old_path: /politics/439/debating-israel-and-palestine
+image: "http://felixonline.co.uk/img/upload/201011252119-nm1010-palestin.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/439/debating-israel-and-palestine
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +21,6 @@ authors:
  - nm1010
  - nn1209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011252119-nm1010-palestin.jpg"
-image_caption: ""
 ---
 
 Last Tuesday IC Debating Society, Israeli Society and Palestinian Society collaborated, bringing together four prominent speakers to discuss the Israeli-Palestinian conflict under the title: “The Debate for Peace”.

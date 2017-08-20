@@ -4,18 +4,15 @@ title: >
 subtitle: >
   This week's film is a chilling look at the meeting of right-wing politics and fundamentalism
 date: "2015-12-06 14:42:45 +0000"
-
-# Attributes from Felix Online V1
-id: "5807"
-old_path: /film/5807/documentary-corner-jesus-camp
+image: "http://felixonline.co.uk/img/upload/201512061442-ff712-JesusCamp1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5807/documentary-corner-jesus-camp
-imported: true
 comments:
  - value: >
      I'm bored to tears at work so I decided to discontinuance missing your spot on my iphone during lunch break. I relish the info you outfit here and can't delay to pocket a look when I get home. I'm shocked at how quick your blog loaded on my transportable .. I'm not identical <br>http://buygenericpill.com,This is a high-grade extravagant article thanks on the side of sharing this illuminating information. <br>http://www.realedpills.com
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +23,6 @@ authors:
  - bsc14
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201512061442-ff712-JesusCamp1.jpg"
-image_caption: ""
 ---
 
 “Is there anyone in here who believes that God can do anything?” the energized Pentecostal preacher Becky Fischer questions her baying crowd as the camera cuts to a mother raising her two uninterested children’s hands excitedly. The opening scene of _Jesus Camp_ places the viewer right in the middle of one of the services at a Christian children’s summer camp in North Dakota. As the scene continues, fast editing and a haunting score crescendo to a pandemonium. Parents yell encouragement as the children and viewer alike are treated to the first of many frenzied sermons which come to be the focus of this film.

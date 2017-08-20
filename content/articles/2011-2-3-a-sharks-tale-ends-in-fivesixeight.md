@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Kate Turner wants to start a fish fight with you
 date: "2011-02-03 19:01:15 +0000"
-
-# Attributes from Felix Online V1
-id: "708"
-old_path: /food/708/a-sharks-tale-ends-in-fivesixeight
+image: "http://felixonline.co.uk/img/upload/201102031858-nm1010-sharrrrk.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/708/a-sharks-tale-ends-in-fivesixeight
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - cjb07
  - kwalt
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102031858-nm1010-sharrrrk.jpg"
-image_caption: ""
 ---
 
 Recently I went for lunch at FiveSixEight in Beit Quad and was very surprised to find oven-baked Blue Shark Fillet available on the menu at a very affordable £5.50.

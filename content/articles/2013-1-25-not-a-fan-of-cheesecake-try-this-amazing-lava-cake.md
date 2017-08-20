@@ -4,16 +4,13 @@ title: >
 subtitle: >
   For all you cheese haters out there...
 date: "2013-01-25 01:34:41 +0000"
-
-# Attributes from Felix Online V1
-id: "3181"
-old_path: /food/3181/not-a-fan-of-cheesecake-try-this-amazing-lava-cake
+image: "http://felixonline.co.uk/img/upload/201301250134-tna08-lava-cake-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3181/not-a-fan-of-cheesecake-try-this-amazing-lava-cake
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - tna08
  - ym1310
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301250134-tna08-lava-cake-copy.jpg"
-image_caption: ""
 ---
 
 It really is simple, cheap and absolutely divine. It will take you about 10 minutes to make and it only needs 15 minutes in the oven. So, in less than 30 minutes and with minimum effort you can also have this amazing dessert.

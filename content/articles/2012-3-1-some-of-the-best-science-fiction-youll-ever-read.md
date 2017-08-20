@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A look back at Ender’s Game – Orson Scott Card’s first great masterpiece
 date: "2012-03-01 21:40:02 +0000"
-
-# Attributes from Felix Online V1
-id: "2278"
-old_path: /books/2278/some-of-the-best-science-fiction-youll-ever-read
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2278/some-of-the-best-science-fiction-youll-ever-read
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -23,12 +20,6 @@ authors:
  - ams111
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Orson Scott Card’s _Ender’s Game_ is widely regarded as one of the greatest classics of the science fiction genre but I didn’t get round to reading it until last summer. Having read it, I have to say that the hype was fully justified and that it is, in fact, one of the best science fiction books that I have ever read. While it may be a cliché to say so, I was really hooked from the first page and was left wanting more after I’d finished.

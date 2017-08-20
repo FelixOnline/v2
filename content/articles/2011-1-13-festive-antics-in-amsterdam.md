@@ -4,16 +4,13 @@ title: >
 subtitle: >
   At the mere mention of the place certain thoughts spring to mind. Felix decided it would be the perfect Christmas revision getaway
 date: "2011-01-13 20:43:23 +0000"
-
-# Attributes from Felix Online V1
-id: "584"
-old_path: /travel/584/festive-antics-in-amsterdam-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/584/festive-antics-in-amsterdam-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Amsterdam: when the word is spoken bells immediately begin to ring. It’s one of those places that’s on everyone’s to-do list, whether the intentions be noble or otherwise. Following a whimsical conversation many sleepy Sundays ago we decided that it would be the perfect pre-Christmas destination, a place to unwind and soak up some cultural delights.

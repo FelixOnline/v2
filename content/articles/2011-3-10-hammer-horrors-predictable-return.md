@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Resident might be the thoughtless entertainment we all need occasionally
 date: "2011-03-10 20:25:27 +0000"
-
-# Attributes from Felix Online V1
-id: "1070"
-old_path: /film/1070/hammer-horrors-predictable-return
+image: "http://felixonline.co.uk/img/upload/201103102022-nm1010-resident.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1070/hammer-horrors-predictable-return
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - jgp09
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103102022-nm1010-resident.jpg"
-image_caption: ""
 ---
 
 Why the two-time Academy Award winning, much-respected actress Hilary Swank thought she needed to do another cheap horror after the [not-so-well-received The Reaping](http://www.rottentomatoes.com/m/reaping/) is anyone’s guess. But before you immediately dismiss this as another scare-free “horror” film, just know that the film is not without its moments, and although everything is predictable almost to an annoying level, creepy moments do pop up every now and then. Thankfully it’s a relatively short film too – only around 90 minutes – so if you’re willing to bear the frustrating moments for a few scenes that do truly pay off once in a while, this might be the laid-back, thoughtless entertainment we all need occasionally.

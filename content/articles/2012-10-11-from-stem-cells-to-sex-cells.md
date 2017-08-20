@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Stem cell research receives another vital boost. Fiona Hartley reports
 date: "2012-10-11 20:51:48 +0100"
-
-# Attributes from Felix Online V1
-id: "2656"
-old_path: /science/2656/from-stem-cells-to-sex-cells
+image: "http://felixonline.co.uk/img/upload/201210112151-csw09-mice-populationsmall.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2656/from-stem-cells-to-sex-cells
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - csw09
  - frh10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112151-csw09-mice-populationsmall.jpg"
-image_caption: ""
 ---
 
 Japanese researchers have created viable eggs in mice from skin stem cells which produced healthy fertile offspring that successfully had their own progeny. This breakthrough could hopefully lead to treatments for human infertility in the distant future.

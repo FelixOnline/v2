@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jade Hoffman names and shames some of the worst, long-awaited sequels
 date: "2011-03-03 20:10:24 +0000"
-
-# Attributes from Felix Online V1
-id: "1003"
-old_path: /film/1003/how-long-is-too-long-for-a-sequel
+image: "http://felixonline.co.uk/img/upload/201103032007-nm1010-sequelse.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1003/how-long-is-too-long-for-a-sequel
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jh308
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103032007-nm1010-sequelse.jpg"
-image_caption: ""
 ---
 
 After the release of West is West last Friday was greeted by mostly tepid reviews, it may be disappointing – yet not all that surprising – that the sequel to 1999’s critically acclaimed East is East fell so flat. It’s been 12 years since the low-budget East is East stormed British cinema with its heart-warming, brilliantly funny portrayal of a British-Pakistani family living in Salford in the early 1970s and, in its time, it won a good handful of awards including a BAFTA for Best British Film. For it’s sequel, however, it looks unlikely that any similar levels of success are to be achieved.

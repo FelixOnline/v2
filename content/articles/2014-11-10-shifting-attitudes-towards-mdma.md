@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Lauren Ratcliffe reports on the medical side of the popular clubbing drug
 date: "2014-11-10 21:28:48 +0000"
-
-# Attributes from Felix Online V1
-id: "4820"
-old_path: /science/4820/shifting-attitudes-towards-mdma
+image: "http://felixonline.co.uk/img/upload/201411102128-ps3110-ecstacy-03.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4820/shifting-attitudes-towards-mdma
-imported: true
 comments:
  - value: >
      Wow! Finally I got a weblog from where I can really take helpful facts concerning my study and knowledge. <br>ugg classic tall in rum raisin http://www.be-simple.it/?it-ugg-classic-tall-in-rum-raisin-4493.html,This hotel is a four . 5 star choice located right in the business section. Baseball used pertaining to being the reason I woke up within morning. Rondo's contract also makes him a pretty piece. <br>crÃ©dits fifa gratuit http://creditsfut.com/
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102128-ps3110-ecstacy-03.jpg"
-image_caption: ""
 ---
 
 MDMA, or for you chemists out there 3,4-methylenedioxmethamphetamne, more recognisably referred to as ecstasy is a prevalent and well-known drug. It’s no state secret that a majority of people who are reading this have encountered it - whether that be through occasional to regular recreational use or simply knowing someone who has taken it.

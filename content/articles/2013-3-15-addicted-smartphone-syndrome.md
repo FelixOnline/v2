@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Are you a victim of the global smartphone dictatorship?
 date: "2013-03-15 01:16:13 +0000"
-
-# Attributes from Felix Online V1
-id: "3471"
-old_path: /tech/3471/addicted-smartphone-syndrome
+image: "http://felixonline.co.uk/img/upload/201303150110-tna08-thinker_iphone.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3471/addicted-smartphone-syndrome
-imported: true
 comments:
  - value: >
      Thank you for good imformation.,I liked the article even though it also made me sad. People preferring the smartphone to actual human interaction - Facebook to meeting their friends - texting to actually talking to someone face-to-face ! Thanks for this food for thought !
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303150110-tna08-thinker_iphone.jpg"
-image_caption: ""
 ---
 
 Smartphones affect almost every aspect of the average student’s life. Marvels of modern technology, something underlined by the much quoted: “your smartphone has the equivalent processing power of the computers used for the Apollo space missions”, they have revolutionised the way we interact with other human beings as well as giving us tools to accomplish a multitude of tasks. In a sense these increasingly powerful devices have freed us from a desk-bound environment, as they can fulfil many tasks that your average desktop would do. All in all it seems smartphones enrich our daily lives.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Want to set up Ghost? Joe shows you how...
 date: "2014-05-02 01:46:16 +0100"
-
-# Attributes from Felix Online V1
-id: "4555"
-old_path: /tech/4555/how-to-get-into-ghostblogging
+image: "http://felixonline.co.uk/img/upload/201405020246-jal08-tech_blogging.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4555/how-to-get-into-ghostblogging
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405020246-jal08-tech_blogging.png"
-image_caption: ""
 ---
 
 __Choosing a platform__

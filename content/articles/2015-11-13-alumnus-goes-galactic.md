@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jonathon Firth used to go to Imperial, now he’s busy building Richard Branson’s commercial space travel business
 date: "2015-11-13 14:35:18 +0000"
-
-# Attributes from Felix Online V1
-id: "5727"
-old_path: /features/5727/alumnus-goes-galactic
+image: "http://felixonline.co.uk/img/upload/201511131435-ygr12-richard_galactic_zero_gravity5.jpg"
+image_caption: "When your boss is so hands on, he offers to fly in your first spaceship."
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/5727/alumnus-goes-galactic
-imported: true
 comments:
  - value: >
      ApSFNS http://brothosonkonlonwon.ru,ApSFNS http://brothosonkonlonwon.ru
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -30,12 +28,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511131435-ygr12-richard_galactic_zero_gravity5.jpg"
-image_caption: ""
 ---
 
 Vice President of Virgin Galactic and Imperial alumnus, Jonathon Firth, is involved in developing the first commercial spaceflight company. He attended the 2015 SpaceLab conference last month, where he cornered him for an interview.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A new format, but where's the enthusiasm?
 date: "2012-06-01 12:31:20 +0100"
-
-# Attributes from Felix Online V1
-id: "2510"
-old_path: /comment/2510/the-summer-ball-you-asked-for
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2510/the-summer-ball-you-asked-for
-imported: true
 comments:
  - value: >
      The menu is very poor and 40£ is too expensive for IC catering. IC catering from past experiences is not worth half that price. <br>You could go to a really good restaurant which offers great food and service for the same price or less. ,We've had to eat in the JCR, Library Cafe, Tower Rooms, and the SCR for the last 3/4/n years of our lives. With no disrespect to the catering teams, who I am sure do the best they can to allow them to stay on budget, the experience has not exactly been a stellar endorsement of the college's urge to provide us with pleasant food. <br> <br>Does the union not understand what else I can do in London for £75? Without having to deal with the shower of arseholes who embody the union's regular clientèle? <br> <br>The Union's mistake is assuming that the Summer Ball failing is an indictment of their plans for the ball. It is not, it is a systematic failing of the college catering and the union over a number of years.,"Without having to deal with the shower of arseholes who embody the union's reg
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 [“The Summer Ball you asked for.”](http://www.union.ic.ac.uk/marketing/summerball/)

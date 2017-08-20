@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The National Videogame Arcade is to open in March 2015
 date: "2014-11-10 21:13:48 +0000"
-
-# Attributes from Felix Online V1
-id: "4815"
-old_path: /arts/4815/videogame-museum-to-open-in-nottingham
+image: "http://felixonline.co.uk/img/upload/201411102113-ps3110-games-console.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4815/videogame-museum-to-open-in-nottingham
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - ff712
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102113-ps3110-games-console.jpg"
-image_caption: ""
 ---
 
 Among the cultural highlights on the calender for next year, one sticks out as a particular oddity: March 2015 will see the grand opening of __The National Videogame Arcade__ in Nottingham. The £2.5 million project, which aims to become a draw for tourists visiting Nottingham, will be the first of its kind, aining to become a “hub for videogame culture”.

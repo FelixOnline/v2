@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Serge Vasylechko explores the startup ecosystem at Imperial
 date: "2012-10-18 21:12:33 +0100"
-
-# Attributes from Felix Online V1
-id: "2694"
-old_path: /biz/2694/silicon-valley-south-ken-
+image: "http://felixonline.co.uk/img/upload/201210182212-felix-alan-sugar.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/2694/silicon-valley-south-ken-
-imported: true
 comments:
  - value: >
      Just in case anyone is trying to find this: www.icstartup.com
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -28,12 +25,6 @@ authors:
  - sv407
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210182212-felix-alan-sugar.jpeg"
-image_caption: ""
 ---
 
 Two weeks ago Imperial saw the launch ICStartup - an initiative that aims to inspire a new generation of student entrepreneurs. It will act as a central hub for entrepreneurial news and events around college, connecting an otherwise disparate and rich ecosystem of societies and organizations that cater to Imperial’s entrepreneurial talent. At the core of the new framework lies an accelerator programme, ICStartup+, which will give students a chance to turn their ideas into successful startups by providing support from experienced entrepreneurs, financial backing and access to a newly refurbished office space, secretly hidden in the upper floors of Beit.

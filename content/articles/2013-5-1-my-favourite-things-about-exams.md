@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It's not all just doom and gloom with exams looming...
 date: "2013-05-01 17:54:15 +0100"
-
-# Attributes from Felix Online V1
-id: "3516"
-old_path: /comment/3516/my-favourite-things-about-exams
+image: "http://felixonline.co.uk/img/upload/201305031241-tna08-bookpile.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3516/my-favourite-things-about-exams
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - fcomment
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305031241-tna08-bookpile.jpg"
-image_caption: ""
 ---
 
 It’s that time of year again: with the joy of the excessive chocolate consumption that is Easter comes The Fear. Exams are just round the corner and you suddenly realise you haven’t been to an entire week of lectures since October.

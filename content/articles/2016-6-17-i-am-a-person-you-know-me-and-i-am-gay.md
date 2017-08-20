@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Being a member of the LGBTQ+ community shouldn't have to be a big deal, but it is
 date: "2016-06-17 08:54:02 +0100"
-
-# Attributes from Felix Online V1
-id: "6272"
-old_path: /comment/6272/i-am-a-person-you-know-me-and-i-am-gay
+image: "http://felixonline.co.uk/img/upload/201606171053-felix-Orlando flags.jpg"
+image_caption: "The Orlando shooting is a harrowing reminder of the bigotry LGBTQ+ people face. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6272/i-am-a-person-you-know-me-and-i-am-gay
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ea3211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606171053-felix-Orlando flags.jpg"
-image_caption: ""
 ---
 
 I am gay.

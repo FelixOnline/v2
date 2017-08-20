@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Juliette Binoche impresses Fred Fyles, in this measured, unique production of Sophocles' Antigone
 date: "2015-03-08 16:48:22 +0000"
-
-# Attributes from Felix Online V1
-id: "5365"
-old_path: /arts/5365/antigone-an-atonal-atypical-astonishment
+image: "http://felixonline.co.uk/img/upload/201503081627-ff712-04a.jpg"
+image_caption: "Ivo van Hove, Antigone, Obi Abili, Juliette Binoche, and Patrick O’Kane (From Left to Right)"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5365/antigone-an-atonal-atypical-astonishment
-imported: true
 comments:
  - value: >
      Many thanks really practical. Will certainly share website with my buddies <br>fifa 17 points http://www.onlinemaharashtra.com/ads/hut-coins-rowdy-fans-at-ea-sports-game/
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503081627-ff712-04a.jpg"
-image_caption: ""
 ---
 
 In a recent interview, given to promote his 2014 production of Arthur Miller’s _A View from the Bridge_, which opened at the __Young Vic__ to overwhelming critical acclaim before making the switch to broadway, Belgian director Ivo van Hove said ‘I am not so interested in good and evil’. Therefore, it seems that he is an incongruous choice for director of Sophocles’ _Antigone_, a classic that so clearly revolves around ideas of ‘right’ and ‘wrong’. This fact, combined with the reputation van Hove has obtained for his radical reinterpretations of the stalwarts of the theatrical canon, means that those attending the__ Barbican__’s production of _Antigone_ – somewhat of a misnomer; this is in fact an international production, with input from French, British, Luxembourgian, and Dutch companies – are already expecting something out of the ordinary.

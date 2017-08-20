@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The film’s vomit-inducing tagline, “this is not a true story, this is true love” should give seasoned film viewers a vague idea as to the kind of cheesy territory the film is headed towards. But nothing can possibly prepare you for the kind of bonkers rubbish Winter’s Tale has in store...
 date: "2014-06-02 12:55:19 +0100"
-
-# Attributes from Felix Online V1
-id: "4643"
-old_path: /film/4643/the-worst-movies-of-2014-so-far---winters-tale
+image: "http://felixonline.co.uk/img/upload/201406021355-felix-winters-tale-poster-slice-585x350.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4643/the-worst-movies-of-2014-so-far---winters-tale
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406021355-felix-winters-tale-poster-slice-585x350.jpg"
-image_caption: ""
 ---
 
 __Winter’s Tale__

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   As Watteau Duets comes to Imperial, Meredith Thomas speaks to its choreographer, original punk ballerina Karole Armitage
 date: "2011-10-16 14:42:06 +0100"
-
-# Attributes from Felix Online V1
-id: "1548"
-old_path: /arts/1548/armitage-here
+image: "http://felixonline.co.uk/img/upload/201110161540-felix-080210-karolehal.jpg"
+image_caption: "Karole Armitage – so active that we couldn't find a photo of her without motion blur"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1548/armitage-here
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110161540-felix-080210-karolehal.jpg"
-image_caption: ""
 ---
 
 Karole Armitage’s limited run of performances at the Southbank Center were billed as science inspired punk-ballet. On the basis of that description alone I realised that my attendance was inevitable. Nothing however could have prepared me for the breathtakingly energetic, shockingly beautiful dance I witnessed. The show featured extracts from Two Theories and Drastic-Classicism both groundbreaking, iconoclastic works from the Director. Armitage’s choreography subverts classical ballet through modern and street influences to create some of the most visceral, thrilling, yet technically immaculate dance I have ever seen.

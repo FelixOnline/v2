@@ -4,18 +4,15 @@ title: >
 subtitle: >
   It’s the first of December tomorrow, so this is like, OK and that. Luke Baldwin on what Christmas is all about.
 date: "2012-11-29 23:09:05 +0000"
-
-# Attributes from Felix Online V1
-id: "3005"
-old_path: /comment/3005/we-wish-you-a-merry-christmas
+image: "http://felixonline.co.uk/img/upload/201211292307-tna08-nativity-scene.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3005/we-wish-you-a-merry-christmas
-imported: true
 comments:
  - value: >
      If you really love Jesus watch this with an open mind <br>http://www.youtube.com/watch?v=RycPS5dxzLo
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211292307-tna08-nativity-scene.jpg"
-image_caption: ""
 ---
 
 What part of Christmas do you look forward to most? The music, the gifts, the cheer...? Where to begin!

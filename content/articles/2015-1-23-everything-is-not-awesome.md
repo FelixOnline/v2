@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Jack Steadman reports back from Hollywood
 date: "2015-01-23 17:29:18 +0000"
-
-# Attributes from Felix Online V1
-id: "5134"
-old_path: /film/5134/everything-is-not-awesome
+image: "http://felixonline.co.uk/img/upload/201501231737-jyg11-screen-shot-2015-01-23-at-17.36.40.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5134/everything-is-not-awesome
-imported: true
 comments:
  - value: >
      A turnover on downs. 5 minutes later, the was over, and so was the summer season for New england. By analyzing how an individual behaves, you might be (in theory) able to calculate their future actions. <br>crÃ©dits fut rapidement http://creditsfut.com/,Whoa, this is a important web page.| <br>cs go skins gambling http://postboard.net/event/2006,I like checking your website. Thank you!| <br>nba 2k16 mt database http://madden15coins.freeblog.biz/?p=158,thank so a lota lot for your site it helps a whole lot <br>nba 2k17 vc http://animal.name/blogs/post/46811#sthash.Mhpwmjir.ka4WaqAq.dpbs,I love the info on your site. Thanks a lot!. <br>nfl 17 news http://www.churchofchains.com/blogs/post/1043
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - jyg11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501231737-jyg11-screen-shot-2015-01-23-at-17.36.40.png"
-image_caption: ""
 ---
 
 You might have noticed there’s been a bit of controversy about the Oscars. _The LEGO Movie_ got completely snubbed for Best Animated Feature, and a lot of people got very angry, very, very quickly. The directors (Phil Lord and Chris Miller) responded in their typically wonderful style, with the former posting a picture of an Oscar statuette made of LEGO, and the latter issuing heart-felt thanks to all involved in the film, as well as noting that “everything [was] not awesome.”

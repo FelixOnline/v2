@@ -4,16 +4,13 @@ title: >
 subtitle: >
   National Union for Students calls to boycott
 date: "2017-01-13 13:50:14 +0000"
-
-# Attributes from Felix Online V1
-id: "6628"
-old_path: /news/6628/national-student-survey-open-for-2017
+image: "http://felixonline.co.uk/img/upload/201701131349-felix-IMG_6790.JPG"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6628/national-student-survey-open-for-2017
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701131349-felix-IMG_6790.JPG"
-image_caption: ""
 ---
 
 It’s that time of year again when final year students across the country are invited to fill in the National Student Survey (NSS), also known as Imperial’s bane of existence. Last year’s remarkably low student satisfaction scores saw Imperial dropping in ranking from number ten to 21 out of 24 Russell Group universities.

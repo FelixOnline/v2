@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sam Horti takes a look back at one of gaming’s unique classics, Grim Fandango
 date: "2011-12-08 21:25:58 +0000"
-
-# Attributes from Felix Online V1
-id: "1937"
-old_path: /games/1937/dancing-the-grim-fandango
+image: "http://felixonline.co.uk/img/upload/201112082125-pk1811-grim-fandango1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1937/dancing-the-grim-fandango
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082125-pk1811-grim-fandango1.jpg"
-image_caption: ""
 ---
 
 I have come to realise that there is one thing that gamers crave above all else in their video games: uniqueness. It's something that we only seem to see fleeting glances of in the modern day. Where did all the innovation and inspiration go? Well, a lot of it was spent in 1998 with the conception of _Grim Fandango_.

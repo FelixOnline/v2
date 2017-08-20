@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Basel Chamali argues that there is no peaceful solution in Syria
 date: "2012-03-08 21:39:28 +0000"
-
-# Attributes from Felix Online V1
-id: "2327"
-old_path: /politics/2327/dulce-et-decorum-est
+image: "http://felixonline.co.uk/img/upload/201203082138-ams111-rebels.jpg"
+image_caption: "Homs’ latest celebrities: Though low in numbers, armed rebels are high in popularity "
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2327/dulce-et-decorum-est
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -25,12 +23,6 @@ authors:
  - bc1209
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203082138-ams111-rebels.jpg"
-image_caption: ""
 ---
 
 As the “Arab Spring” unfolded, many Syrians looked on with envy, hoping for a chance to ride the waves of change. Yet, after a few failed attempts – the first being on February 5 2011 – many had lost hope. However, no one had envisioned the regime itself providing the spark for the revolution.

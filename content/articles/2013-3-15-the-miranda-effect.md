@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Miranda is a good show, no matter what the critics say
 date: "2013-03-15 01:21:34 +0000"
-
-# Attributes from Felix Online V1
-id: "3473"
-old_path: /tv/3473/the-miranda-effect
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/3473/the-miranda-effect
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -23,12 +20,6 @@ authors:
  - gg2110
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Every Monday night this term, I have patiently and loyally tuned in to watch the latest episode of Miranda. After the past couple of series of goofiness and misunderstandings, we’d all probably had enough of it. There’s only a certain amount of anthropomorphic fruit one can stand. However, after having wisely kept off our screens for a few years, Miranda Hart was back on Boxing Day, ready for another season. And as the last episode came and went last week, I find myself actually missing my Monday-night dose of slapstick.

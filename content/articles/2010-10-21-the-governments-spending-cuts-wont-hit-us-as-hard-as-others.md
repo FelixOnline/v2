@@ -4,16 +4,13 @@ title: >
 subtitle: >
   But don’t let that fool you supposing that they are insignificant
 date: "2010-10-21 19:11:31 +0100"
-
-# Attributes from Felix Online V1
-id: "234"
-old_path: /comment/234/the-governments-spending-cuts-wont-hit-us-as-hard-as-others
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/234/the-governments-spending-cuts-wont-hit-us-as-hard-as-others
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 By the time that George Osborne stood to deliver the Spending Review at the Dispatch Box in the House of Commons, scientists at Imperial and around the UK had already breathed a sigh of relief. Although funding is still being cut by 10%, U.K. research has escaped the catastrophic 25% cuts that had been threatened. But we at Imperial, in our ivory towers in South Kensington, should not forget that other subjects and other universities are being hit hard; we are the lucky ones.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   As the US government steps in to tackle sexual harassment, it’s time to ask, what is it going to take to fix this problem?
 date: "2016-01-29 09:05:39 +0000"
-
-# Attributes from Felix Online V1
-id: "5841"
-old_path: /science/5841/is-science-for-everyone
+image: "http://felixonline.co.uk/img/upload/201601290905-felix-U.S.-Rep.-Jackie-Spieir.jpg"
+image_caption: "Jackie Speier fights to tackle the current sexual harassment issues and the lack of repercussions. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5841/is-science-for-everyone
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +21,6 @@ authors:
  - mw4414
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201601290905-felix-U.S.-Rep.-Jackie-Spieir.jpg"
-image_caption: ""
 ---
 
 Sexism in science; is there a real problem? How do we fix it? When is everyone, including myself, going to shut up about it? Probably not for a while. And yes, I do realise that I could begin sounding like a broken record, considering this is the third piece I’ve written for Felix discussing the topic, but unfortunately the problem isn’t disappearing so neither will the analogous articles. Things are about to get a bit gross and very complicated.

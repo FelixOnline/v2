@@ -4,18 +4,15 @@ title: >
 subtitle: >
   We should relax the rules on performance enhancing drugs
 date: "2010-11-11 21:37:28 +0000"
-
-# Attributes from Felix Online V1
-id: "365"
-old_path: /comment/365/steroids-would-improve-sport
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/365/steroids-would-improve-sport
-imported: true
 comments:
  - value: >
      If sport is a level playing field, then we need to adjust for genetics as pointed out above. After all, sport has no function other than fun and fitness: it's all games. We don't need to cycle fast or lift heavier things than the next guy. We don't need to and shouldn't sexually select our mates by how many tries they can score. So holding it up as something that should be preserved in it's absolute fairness and free competition is ridiculous. In the world of rowing, for instance, there are no senior mens octuple races at major events: they go dangerously fast. This realm of competitive rowing now in no way reflects a real world problem we should or could be practising for.,And to arbitrarily claim that a drugged sportsman is now completely violating the spirit of sport when sport is often taking place under such nuanced conditions is fatuous: why could we not have different leagues of sport for people using drugs? An olympics of biochemistry. Amputees with manmade limbs are already beating nature in some are
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 When I was 10 years old I started playing Rugby. I was an imposing 4ft 8” (though even that might be generous). With a career as the next England captain in front of me, I returned to pre season training with the under 11 squad for an introduction to full contact. So began 6 years of big kids kicking the shit out of me.

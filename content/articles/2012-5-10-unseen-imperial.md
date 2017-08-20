@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Email icu-disabilities@imperial.ac.uk if you would like to share your anonymous experiences of topics that are not openly discussed
 date: "2012-05-10 19:59:29 +0100"
-
-# Attributes from Felix Online V1
-id: "2437"
-old_path: /news/2437/unseen-imperial
+image: "http://felixonline.co.uk/img/upload/201205102100-pk1811-3.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2437/unseen-imperial
-imported: true
 comments:
  - value: >
      My respect to people fighting with depression - dont give up, you will make it through.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205102100-pk1811-3.png"
-image_caption: ""
 ---
 
 Once again, thank you to those who have submitted accounts on the aspects of our lives that we just don’t talk about

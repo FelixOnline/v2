@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Concerns about the implications of a Sino-American currency devaluation race continue to rise
 date: "2010-10-28 19:30:01 +0100"
-
-# Attributes from Felix Online V1
-id: "263"
-old_path: /biz/263/g-20-meets-amid-growing-talk-of-a-currency-war
+image: "http://felixonline.co.uk/img/upload/201010282027-nm1010-g2000000.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/263/g-20-meets-amid-growing-talk-of-a-currency-war
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - lh1009
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010282027-nm1010-g2000000.jpg"
-image_caption: ""
 ---
 
 After their meeting in Seoul, G-20 finance ministers expressed optimisim that a much-hyped global currency war may yet be avoided. Thoughts have now turned to the longer-term motivations for countries to manipulate their currencies to help exporters, and measures that can be taken against this.

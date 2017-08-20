@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The joy of stats (and patience) in a scientific world
 date: "2012-06-01 13:30:27 +0100"
-
-# Attributes from Felix Online V1
-id: "2516"
-old_path: /science/2516/dont-regress-into-despair
+image: "http://felixonline.co.uk/img/upload/201206011430-mc4509-20100315144150-1.jpg"
+image_caption: "Regression analysis. Actually as simple as drawing a big arrow through some dots"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2516/dont-regress-into-despair
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - mc4509
  - mk6809
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206011430-mc4509-20100315144150-1.jpg"
-image_caption: ""
 ---
 
 For anyone considering a career in biological or medical research, the old catchphrase “Never work with children or animals” often comes into play. Biological data never quite does what you want it to. Sometimes a scientist’s intuition, or even looking graphs of your data, tells you that the trend you’re looking for does exist. But now the question is, how can one get the statistics to prove it to the rest of the scientific world?

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   'A cocktail bar that does food' – that must be the most beautiful sentence in the English language.
 date: "2012-06-07 18:57:16 +0100"
-
-# Attributes from Felix Online V1
-id: "2527"
-old_path: /food/2527/enjoy-a-night-on-kings-road-at-the-famous-and-glamorous-juju
+image: "http://felixonline.co.uk/img/upload/201206072000-ams111-food1.jpg"
+image_caption: "Just like Made in Chelsea, but with a crippling lack of Francis Boulle"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2527/enjoy-a-night-on-kings-road-at-the-famous-and-glamorous-juju
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -26,12 +24,6 @@ authors:
  - mk4410
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206072000-ams111-food1.jpg"
-image_caption: ""
 ---
 
 JuJu is an award winning bar located in the heart of glamorous Chelsea on King’s Road. It’s the ideal place for after work drinks or a pre-clubbing warm up. JuJu offers the finest cocktails in London, including the popular Pornstar Martini, mixed by undoubtedly brilliant bartenders. For the more “spendy” readers out there, you can also find an extensive list of wines and champagnes.

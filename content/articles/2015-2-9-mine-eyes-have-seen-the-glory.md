@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park reviews the latest film about Martin Luther King
 date: "2015-02-09 19:04:59 +0000"
-
-# Attributes from Felix Online V1
-id: "5217"
-old_path: /film/5217/mine-eyes-have-seen-the-glory
+image: "http://felixonline.co.uk/img/upload/201502091904-ps3110-selma-cmyk-2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5217/mine-eyes-have-seen-the-glory
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502091904-ps3110-selma-cmyk-2.jpg"
-image_caption: ""
 ---
 
 __SELMA__

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Perfect Forward Secrecy and What It Means for the End User
 date: "2013-11-27 16:04:41 +0000"
-
-# Attributes from Felix Online V1
-id: "4141"
-old_path: /tech/4141/encryption-moving-forward
+image: "http://felixonline.co.uk/img/upload/201311271604-me1711-tech_sec.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4141/encryption-moving-forward
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - pk1811
  - ywc110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311271604-me1711-tech_sec.jpg"
-image_caption: ""
 ---
 
 The recent spate of NSA tapping data and storing huge amount of internet traffic has been rather worrying. The exposé courtesy of Edward Snowden has made end-users more aware of the need for encryption, and accelerated the process of enhancing the security between end users and the service providers at many big names. Twitter is the latest company to join the ranks of Google and Facebook by implementing Perfect Forward Secrecy on their servers. This is a much needed move. The end user might not notice anything different in their experience, but NSA will certainly have a harder time trying to pry open your private communications.

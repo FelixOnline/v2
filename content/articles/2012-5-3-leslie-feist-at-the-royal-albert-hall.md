@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Falling in love all over again with Canada’s finest
 date: "2012-05-03 17:56:43 +0100"
-
-# Attributes from Felix Online V1
-id: "2408"
-old_path: /music/2408/leslie-feist-at-the-royal-albert-hall
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2408/leslie-feist-at-the-royal-albert-hall
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - ams111
  - dmm04
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Royal Albert Hall was ready to welcome back the queen of Broken Social Scene for a truly magical end of 2012’s spring equinox weekend after __M. Ward__ played a very pleasant stripped down version of his repertoire and __David Bowie__’s ‘Let’s Dance’.

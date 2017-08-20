@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The annual trip to Leuven ended abruptly at Dover when students were sent home
 date: "2016-01-22 12:42:32 +0000"
-
-# Attributes from Felix Online V1
-id: "5830"
-old_path: /news/5830/medic-boat-club-stopped-on-way-to-belgium-for-being-too-drunk
+image: "http://felixonline.co.uk/img/upload/201601221237-felix-web.jpg"
+image_caption: "An artist's impression "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5830/medic-boat-club-stopped-on-way-to-belgium-for-being-too-drunk
-imported: true
 comments:
  - value: >
      I heard Dariush threw a fresher in the sea,I heard Dariush threw a fresher in the sea,lol,lol,Kidney Disease: in America 1 man or woman on 9 has it. <br> <br>And a lot don't have any idea it. http://kidneyok.tumblr.com/,Kidney Disease: in America 1 man or woman on 9 has it. <br> <br>And a lot don't have any idea it. http://kidneyok.tumblr.com/,cheap pro sports jerseys coupons mlb shop <br>nfl pro shop promo code (http://eastlothianplumber.co.uk),cheap pro sports jerseys coupons mlb shop <br>nfl pro shop promo code (http://eastlothianplumber.co.uk),cheap wholesale nhl jerseys nffl wholesale jerseys cheap mlb jerseys free shipping,cheap wholesale nhl jerseys nffl wholesale jerseys cheap mlb jerseys free shipping,cheap nba jerseys Orlando Magic Jersey wholesale nfl jerseys,cheap nba jerseys Orlando Magic Jersey wholesale nfl jerseys,cheap mlb jerseys Tampa Bay Lightning Jersey cheap mlb jerseys,cheap mlb jerseys Tampa Bay Lightning Jersey cheap mlb jerseys,wholesale nnfl jerseys Cincinnati Bengals wholesale nhl <br>jerseys (Huber
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201601221237-felix-web.jpg"
-image_caption: ""
 ---
 
 Last week’s ICSM Boat club’s annual trip to Belgium ended before it really even began – at the ferry port in Dover.

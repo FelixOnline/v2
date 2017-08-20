@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Cruising through Tanzania’s national parks in search of big cats
 date: "2013-11-24 16:41:36 +0000"
-
-# Attributes from Felix Online V1
-id: "4132"
-old_path: /travel/4132/on-safari-east-african-delights
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/4132/on-safari-east-african-delights
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - ps3410
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I’ve had the privilege of growing up in East Africa, complete with the staple diet of safaris, beaches, poor roads and corruption. So having been to most national parks and game reserves in Kenya, we finally decided to venture next door to the fellow Swahili-speaking nation that is Tanzania, home of the famous Serengeti National Park.

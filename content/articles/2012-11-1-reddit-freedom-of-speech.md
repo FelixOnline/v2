@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Yong Wen Chua summarises the controversy currently plaguing Reddit
 date: "2012-11-01 22:36:50 +0000"
-
-# Attributes from Felix Online V1
-id: "2787"
-old_path: /tech/2787/reddit-freedom-of-speech-
+image: "http://felixonline.co.uk/img/upload/201211181624-jp1409-capture.png"
+image_caption: "Turn that frown upside down"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/2787/reddit-freedom-of-speech-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211181624-jp1409-capture.png"
-image_caption: ""
 ---
 
 Somewhere in a dank basement, a high school white American teenager smiles to himself for discovering a cute picture of a cat, worthy of sharing with his peers. He fires up his browser and heads to a website called reddit (www.reddit.com) where he posts a link to his uploaded image in a corner of the website called “Awww”.

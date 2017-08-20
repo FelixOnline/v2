@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial professor chief organiser of campaign
 date: "2012-05-24 22:57:50 +0100"
-
-# Attributes from Felix Online V1
-id: "2484"
-old_path: /news/2484/scientists-protest-to-protect-research
+image: "http://felixonline.co.uk/img/upload/201205242356-mc4509-chemistry_lab_29.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2484/scientists-protest-to-protect-research
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - mc4509
  - skd09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205242356-mc4509-chemistry_lab_29.jpg"
-image_caption: ""
 ---
 
 On Tuesday 15 May, around 80 physicists and chemists from around the UK held an unusual protest against their research funder by parading a coffin and a horse-drawn hearse down London’s Whitehall to Downing Street.

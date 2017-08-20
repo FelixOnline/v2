@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Like, tweet, or comment on this page to help us pummel the London Student newspaper on day nine of our 30-day Song Challenge duel
 date: "2011-06-17 12:28:30 +0100"
-
-# Attributes from Felix Online V1
-id: "1406"
-old_path: /music/1406/london-student-vs-felix-day-nine-a-song-that-you-can-dance-to
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1406/london-student-vs-felix-day-nine-a-song-that-you-can-dance-to
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 You may have noticed that [this is the second Star Slinger tune](http://felixonline.co.uk/music/1238/london-student-vs-felix-day-three--a-song-that-makes-you-happy/) so far. (He's basically [my favourite artist](http://felixonline.co.uk/music/1262/star-slinger/) in recent memory.) The beat on this refix makes it the most danceable music that I have ever heard.

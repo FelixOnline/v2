@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Elizabeth Crouch takes a look at the new social network that argues fewer friends leads to more meaningful relationships
 date: "2011-01-20 19:23:12 +0000"
-
-# Attributes from Felix Online V1
-id: "604"
-old_path: /tech/604/an-anti-social-path
+image: "http://felixonline.co.uk/img/upload/201101201921-nm1010-scaaaaaa.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/604/an-anti-social-path
-imported: true
 comments:
  - value: >
      Here's a link to the website with accompanying saccharine video: http://www.path.com/home.html,"users are restricted to sharing pictures and videos with 50 friends, they will be encouraged to share more personal moments" <br> <br>Surely this would be better achieved with a limit on the number of posts per day. That way people would tell you about the cool things they do and wouldn't wast their posts telling you about the shit they just took and the flan they're about to eat. <br> <br>Having loads of friends on Facebook isn't a problem. If they sit there idly they're hardly causing harm, and you still get to bombard them with links to your latest Felix article :)
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101201921-nm1010-scaaaaaa.jpg"
-image_caption: ""
 ---
 
 In November last year the latest in a seemingly never-ending string of social networks launched. ‘[Path](http://www.path.com/home.html)’ was hyped as a new way to socialise online and claimed to be founded on scientific principles. Its creators call it ‘a personal network’ where users can augment existing relationships instead of replacing them. Uniquely, on this social network you are limited to 50 friends. So what are these scientific principles, and what questions does this new network raise about our ability to manage our online relationships?

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Obama's evolution of thought on same-sex marriage
 date: "2012-05-18 11:23:37 +0100"
-
-# Attributes from Felix Online V1
-id: "2471"
-old_path: /politics/2471/one-small-step-for-potus
+image: "http://felixonline.co.uk/img/upload/201205181223-felix-271855-obama.jpg"
+image_caption: "Seriously, there’s a moth behind you! I’m just lookin’ out for you..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2471/one-small-step-for-potus
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -25,12 +23,6 @@ authors:
  - mc4509
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205181223-felix-271855-obama.jpg"
-image_caption: ""
 ---
 
 Last week was unusual in politics, with a politician making a clear statement about their position on what to some is considered a controversial topic. Barack ‘Big O’ Obama clarified what he had previously described as his evolving attitudes to same-sex marriage, finally saying [in an interview on US channel ABC](http://www.youtube.com/watch?v=kQGMTPab9GQ):

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Elizaveta Tchebaniouk dissects The Anatomy of Melancholy
 date: "2014-11-10 21:16:07 +0000"
-
-# Attributes from Felix Online V1
-id: "4816"
-old_path: /arts/4816/im-depressed-lets-sing-about-it
+image: "http://felixonline.co.uk/img/upload/201411102116-ps3110-img_7692.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4816/im-depressed-lets-sing-about-it
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - et1214
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102116-ps3110-img_7692.jpg"
-image_caption: ""
 ---
 
 Why am I depressed? What is the cause of my depression?” aren’t exactly questions easily remedied by ringing up NHS Direct and asking. This opera, though, strives to find answers.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   If FemSoc say it wasn’t sexist, were the union’s actions justified?
 date: "2016-02-12 11:24:01 +0000"
-
-# Attributes from Felix Online V1
-id: "5900"
-old_path: /comment/5900/the-union-lost-the-plot-and-free-speech-suffered
+image: "http://felixonline.co.uk/img/upload/201602121122-felix-1454899695952.png"
+image_caption: "The Malaysian PM in all his glory."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5900/the-union-lost-the-plot-and-free-speech-suffered
-imported: true
 comments:
  - value: >
      *applause*,*applause*,http://imgur.com/a/gZcEA,http://imgur.com/a/gZcEA,I like this website - its so usefull and helpfull.| <br>NBA 2k16 VC Coins http://www.stpatrickspanamacity.org/mod/forum/view-thread.php?forum_id=1&amp;thread_id=114,I like this website - its so usefull and helpfull.| <br>NBA 2k16 VC Coins http://www.stpatrickspanamacity.org/mod/forum/view-thread.php?forum_id=1&amp;thread_id=114,Sustain the spectacular job !! Lovin' it!| <br>Buy NBA 2k15 VC Coins http://forum.noritake-elec.com/post/environmental-protection-needs-8042619?pid=1291661035#post1291661035,Sustain the spectacular job !! Lovin' it!| <br>Buy NBA 2k15 VC Coins http://forum.noritake-elec.com/post/environmental-protection-needs-8042619?pid=1291661035#post1291661035,hello!, I really like your producing quite a good deal! amount all of us find out more more your article in AMERICA ONLINE? I want a skilled in this particular room to help disentangle the trouble. Might be which is you! Getting excited about expert you. <br>Buy Gucci http://www.charopf.com/gucci
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602121122-felix-1454899695952.png"
-image_caption: ""
 ---
 
 Here’s a picture of Malaysian PM Najib Razak. Malaysian police responded to this image by warning the author that the image was ‘offensive’. They then threatened that if he didn’t ‘act within the law’, he would be arrested.

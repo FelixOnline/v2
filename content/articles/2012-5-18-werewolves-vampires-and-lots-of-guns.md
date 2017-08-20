@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Ivan Ho reviews Monster Hunter International – the ultimate antidote to Twilight
 date: "2012-05-18 16:21:40 +0100"
-
-# Attributes from Felix Online V1
-id: "2474"
-old_path: /books/2474/werewolves-vampires-and-lots-of-guns
+image: "http://felixonline.co.uk/img/upload/201205181721-felix-mhi_patches2.jpg"
+image_caption: "Monster Hunter International – looks like a friendly bunch"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2474/werewolves-vampires-and-lots-of-guns
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - ich10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205181721-felix-mhi_patches2.jpg"
-image_caption: ""
 ---
 
 It’s not everyday that you get to throw your boss out of a 14th-story window, but that’s exactly how this story kicks off, and from the start till finish, it’s one heck of a thrilling roller coaster ride. No, it’s not a story about an insane, stressed accountant finally breaking down and deciding to test out Newton’s law of gravitation on his boss. In fact, given all the crazy stuff that goes down in the book, the protagonist, Owen Zastava Pitt is actually quite a sane guy.

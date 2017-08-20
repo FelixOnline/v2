@@ -4,16 +4,13 @@ title: >
 subtitle: >
   IC Funkology dancing to the finish line
 date: "2013-03-07 21:53:24 +0000"
-
-# Attributes from Felix Online V1
-id: "3432"
-old_path: /news/3432/funkology-wins-largest-uk-university-dance-competition
+image: "http://felixonline.co.uk/img/upload/201303072152-jal08-gh6e3940-2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3432/funkology-wins-largest-uk-university-dance-competition
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ckw08
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303072152-jal08-gh6e3940-2.jpg"
-image_caption: ""
 ---
 
 Last weekend saw the battle of the dance teams in the UK’s largest university dance competition at Loughborough. For the first time ever, Funkology represented Imperial in the most contested category, Advanced Hip-hop, up against stiff competition from previous winners.

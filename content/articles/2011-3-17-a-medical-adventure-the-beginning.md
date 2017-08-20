@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Samuel Furse recounts his long journey from an aching foot to the MRI machine
 date: "2011-03-17 20:34:47 +0000"
-
-# Attributes from Felix Online V1
-id: "1093"
-old_path: /science/1093/a-medical-adventure-the-beginning
+image: "http://felixonline.co.uk/img/upload/201103172032-mc4509-zoom-upper-view11.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1093/a-medical-adventure-the-beginning
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - sf305
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103172032-mc4509-zoom-upper-view11.jpg"
-image_caption: ""
 ---
 
 MRI machines make a peculiar sort of layered whirring noise, both when one is in them and one is waiting to be in one. At other times too, I should think, but I did not stick around for those.

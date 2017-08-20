@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A review of some classic and pertinent finance titles
 date: "2010-12-09 19:32:13 +0000"
-
-# Attributes from Felix Online V1
-id: "507"
-old_path: /biz/507/books-for-intellectual-city-type-sellouts
+image: "http://felixonline.co.uk/img/upload/201012091930-ac1507-books.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/507/books-for-intellectual-city-type-sellouts
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ma1307
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012091930-ac1507-books.jpg"
-image_caption: ""
 ---
 
 The only function of economic forecasting is to make astrology look respectable” said Ezra Solomon. For more funny lines from ivory tower economists, the fantastic ‘[Freakonomics](http://www.amazon.co.uk/Freakonomics-Economist-Explores-Hidden-Everything/dp/0713998067)’ and ‘[Superfreakonomics](http://www.amazon.co.uk/Superfreakonomics-Cooling-Patriotic-Prostitutes-Insurance/dp/071399990X)’ books by Steven Levitt and Stephen Dubner (both £5.30 from Amazon, £7,99 for kindle) show the power of economics in real world situations. With chapter titles such as “Why are Street Prostitutes like Department Store Santas,” you can be sure it’s very irreverent in tone. They’re written for a general, wide audience and are delightful introduction books to the field of economics in general.

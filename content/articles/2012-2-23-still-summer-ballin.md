@@ -4,18 +4,15 @@ title: >
 subtitle: >
   There's more to be positive about regarding this year's end of year celebrations
 date: "2012-02-23 23:33:27 +0000"
-
-# Attributes from Felix Online V1
-id: "2267"
-old_path: /comment/2267/still-summer-ballin
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2267/still-summer-ballin
-imported: true
 comments:
  - value: >
      Since college's withdrawal of their traditional £20,000 contribution, it looks like ticket prices are going to be a lot higher. Paying £50 for what is essentially a cut price event doesn't seem promising to me Matt!
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This year’s Summer Ball is set to see all the fun of the fair, figuratively and financially, following the wise and not entirely unexpected decision to revert to a more traditional event than last year.

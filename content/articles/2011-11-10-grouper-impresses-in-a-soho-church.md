@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Ross Gray on Grouper – St Giles in the Fields (October 3, 2011)
 date: "2011-11-10 21:23:57 +0000"
-
-# Attributes from Felix Online V1
-id: "1729"
-old_path: /music/1729/grouper-impresses-in-a-soho-church
+image: "http://felixonline.co.uk/img/upload/201111102124-felix-grouper.jpg"
+image_caption: "Grouper – a master of technical trickery"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1729/grouper-impresses-in-a-soho-church
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102124-felix-grouper.jpg"
-image_caption: ""
 ---
 
 St Giles in the Fields, a church in Soho, is not the most conventional musical venue, but its large, echoing space perfectly suited Grouper’s recognisable brand of ethereal ambient pop.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   ‘Crippling’ levels of debt are not the way forward for a sustainable higher education system says Aaron Porter in a Felix op-ed
 date: "2010-10-14 20:05:56 +0100"
-
-# Attributes from Felix Online V1
-id: "220"
-old_path: /comment/220/reject-higher-fees-
+image: "http://felixonline.co.uk/img/upload/201010142104-ks607-aaronpor.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/220/reject-higher-fees-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010142104-ks607-aaronpor.jpg"
-image_caption: ""
 ---
 
 The Browne review into higher education funding and student finance has recommended not only a doubling of tuition fees, but made provisions for a free market in tuition fees.

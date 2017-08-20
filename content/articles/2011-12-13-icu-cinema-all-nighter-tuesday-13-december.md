@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The All-Nighter returns
 date: "2011-12-13 14:27:25 +0000"
-
-# Attributes from Felix Online V1
-id: "1958"
-old_path: /film/1958/icu-cinema-all-nighter--tuesday-13-december
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1958/icu-cinema-all-nighter--tuesday-13-december
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - jh308
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It’s that time of year again, when it is so brutally cold outside that finding a good night out where it’s socially acceptable to stay wrapped up in blankets is the stuff of dreams. Fortunately, it is also the time when [iCU Cinema](http://union.ic.ac.uk/arts/cinema/) brings us the Winter All-Nighter – the first all-nighter of the academic year, and a fantastic opportunity to catch all the films you might have missed over the last few months for only a tenner.

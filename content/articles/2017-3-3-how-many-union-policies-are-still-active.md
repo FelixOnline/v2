@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Less than half according to the website but is that true?
 date: "2017-03-03 14:16:55 +0000"
-
-# Attributes from Felix Online V1
-id: "6835"
-old_path: /news/6835/how-many-union-policies-are-still-active
+image: "http://felixonline.co.uk/img/upload/201703031416-felix-tankards policy.jpg"
+image_caption: "Apparently it’s one of the largest collections in Europe"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6835/how-many-union-policies-are-still-active
-imported: true
 comments:
  - value: >
      Do you perhaps mean Stephen Ball? Naulls is currently running for an ICSMSU position. Which alumni are not able to do :/,Do you perhaps mean Stephen Ball? Naulls is currently running for an ICSMSU position. Which alumni are not able to do :/,Do you perhaps mean Stephen Ball? Naulls is currently running for an ICSMSU position. Which alumni are not able to do :/,Do you perhaps mean Stephen Ball? Naulls is currently running for an ICSMSU position. Which alumni are not able to do :/,Thanks for the feedback! Fixed. That awkward moment the leadership elections take over your life. ,Thanks for the feedback! Fixed. That awkward moment the leadership elections take over your life. ,Thanks for the feedback! Fixed. That awkward moment the leadership elections take over your life. ,Thanks for the feedback! Fixed. That awkward moment the leadership elections take over your life. ,I'm so glad that the inernett allows free info like this!,I'm so glad that the inernett allows free info like this!,I'm so glad that the inernet
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - ea3211
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703031416-felix-tankards policy.jpg"
-image_caption: ""
 ---
 
 The Union has fallen behind maintaining up to date policies responsible for managing a range of issues, from Equality of Opportunities to Club Society and Project (CSP) Equipment.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Samuel Furse turns his back on four-wheeled transport (except for taxis)
 date: "2011-06-16 21:08:12 +0100"
-
-# Attributes from Felix Online V1
-id: "1402"
-old_path: /travel/1402/why-drive
+image: "http://felixonline.co.uk/img/upload/201106162205-felix-jpr_2744.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/1402/why-drive
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -25,12 +22,6 @@ authors:
  - sf305
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106162205-felix-jpr_2744.jpg"
-image_caption: ""
 ---
 
 I have yet to take helicopter gunships seriously. Whenever I hear about them—which has been regularly since the business in Libya kicked off—I immediately think they are referring to something out of science fiction, or at least Bucky O’Hare.

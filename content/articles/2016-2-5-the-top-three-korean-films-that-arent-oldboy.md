@@ -4,16 +4,13 @@ title: >
 subtitle: >
   No, the original.
 date: "2016-02-05 12:33:04 +0000"
-
-# Attributes from Felix Online V1
-id: "5877"
-old_path: /film/5877/the-top-three-korean-films-that-arent-oldboy
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5877/the-top-three-korean-films-that-arent-oldboy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - bsc14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A rather weird exchange of words comes about every time I recommend maverick Korean Director Chan-wook Park’s 2003 masterpiece _Oldboy_: ‘Trust me this film is so amazing and messed up, it will scar you for life!’ It’s something that has to be seen to be understood. What is for sure is that _Oldboy_ represents just one film in the blossoming world of modern Korean cinema:

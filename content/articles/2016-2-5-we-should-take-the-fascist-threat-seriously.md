@@ -4,16 +4,14 @@ title: >
 subtitle: >
   As well as hurting those caught in the cross-fire, the hatred and fear of refugees is spreading
 date: "2016-02-05 11:59:37 +0000"
-
-# Attributes from Felix Online V1
-id: "5867"
-old_path: /comment/5867/we-should-take-the-fascist-threat-seriously
+image: "http://felixonline.co.uk/img/upload/201602051158-felix-copyright_photograph_@bat020.Twitter2.jpg"
+image_caption: "People and property were damaged in clashes."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5867/we-should-take-the-fascist-threat-seriously
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +21,6 @@ authors:
  - lms115
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602051158-felix-copyright_photograph_@bat020.Twitter2.jpg"
-image_caption: ""
 ---
 
 Racism, xenophobia and Islamophobia have reached a new height in light of the ‘refugee-crisis’ and more recently the sexual harassment incidents in Germany on New Year’s Eve. This Saturday, Dover saw another big anti-immigration rally by groups like the English Defense League, National Front, South East Alliance, Britain First, BNP and UK PEGIDA (don’t even try to figure out what PEGIDA stands for, the acronym only “makes sense” in German).

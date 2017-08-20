@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Dress code etiquette is key for formal events. Saskia Verhagen shows us how to make the best first impression
 date: "2011-12-01 20:12:24 +0000"
-
-# Attributes from Felix Online V1
-id: "1866"
-old_path: /fashion/1866/interview-dressing-womenswear-
+image: "http://felixonline.co.uk/img/upload/201112012006-ams111-grace-kelly-trousers.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/1866/interview-dressing-womenswear-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -24,12 +21,6 @@ authors:
  - ams111
  - stv07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012006-ams111-grace-kelly-trousers.jpg"
-image_caption: ""
 ---
 
 __Informal Interviews__

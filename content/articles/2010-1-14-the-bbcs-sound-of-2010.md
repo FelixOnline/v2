@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Hugh Crail and Greg Power rant about the BBC's Sound of 2010
 date: "2010-01-14 14:41:18 +0000"
-
-# Attributes from Felix Online V1
-id: "28"
-old_path: /music/28/the-bbcs-sound-of-2010
+image: "http://felixonline.co.uk/img/upload/201001141436-ks607-GoldPand.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/28/the-bbcs-sound-of-2010
-imported: true
 comments:
  - value: >
      All I'm saying is that "Gold Panda" is an awesome name.
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +23,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001141436-ks607-GoldPand.jpg"
-image_caption: ""
 ---
 
 Joy Orbison

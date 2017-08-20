@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Nine students take leading positions
 date: "2012-02-03 00:34:29 +0000"
-
-# Attributes from Felix Online V1
-id: "2122"
-old_path: /news/2122/imperial-storm-bp-semi-finals
+image: "http://felixonline.co.uk/img/upload/201202030033-sjw209-bp_uft11finals056.jpg"
+image_caption: "Professor Brian Cox hosted last year’s Ultimate Field Trip final"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2122/imperial-storm-bp-semi-finals
-imported: true
 comments:
  - value: >
      I just want to tell you that I am newbie to blogs and aclultay loved your blog site. Almost certainly I’m likely to bookmark your blog post . You definitely come with fabulous stories. Bless you for sharing with us your website.,That it is foolhardy, <a href="http://ghwzivkgb.com">arlcite</a> or provision of a dependent person in the family. I've been through it all, it was hell for me then nebylo knowledge, I now have the knowledge and my experience and I live happily ever after.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202030033-sjw209-bp_uft11finals056.jpg"
-image_caption: ""
 ---
 
 The [BP Ultimate Field Trip](http://www.bp.com/fieldtrip) semi-finalists have been revealed, and include nine Imperial students. They will compete in the regional semi-final that will take place towards the end of February for the prize of a 6-8 week internship in Trinidad and Tobago in the Gulf of Mexico.

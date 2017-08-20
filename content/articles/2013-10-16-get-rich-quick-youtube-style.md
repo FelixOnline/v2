@@ -4,16 +4,13 @@ title: >
 subtitle: >
   All of you spend a significant amount of your life on youtube, be it watching handy tutorial videos, lets-plays, music videos and/or videos of cute-ass kittens (the last being the most time intensive).
 date: "2013-10-16 13:56:28 +0100"
-
-# Attributes from Felix Online V1
-id: "3878"
-old_path: /tech/3878/get-rich-quick-youtube-style
+image: "http://felixonline.co.uk/img/upload/201310161456-me1711-tech_ymoney.gif"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3878/get-rich-quick-youtube-style
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310161456-me1711-tech_ymoney.gif"
-image_caption: ""
 ---
 
 All of you spend a significant amount of your life on youtube, be it watching handy tutorial videos, lets-plays, music videos and/or videos of cute-ass kittens (the last being the most time intensive). However have you ever wondered why some of these Youtubers, more often than not just average Joe’s, actually do it? Yes of course they are all kind, considerate people who really just want to entertain you, but apart from that have you ever thought, what’s in it for them? Cash. Cold, hard cash. Youtube makes money from ads, and so that they encourage more clicks/views, they need to share some of the loot.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Facebook being Facebook, with its monopoly of a network of two billion people, is arguably the most powerful company in the world
 date: "2017-03-17 15:12:28 +0000"
-
-# Attributes from Felix Online V1
-id: "6904"
-old_path: /comment/6904/dear-mr-trump-its-time-to-pick-a-fight-with-zuckerberg
+image: "http://felixonline.co.uk/img/upload/201703171512-felix-Screen Shot 2017-03-17 at 15.12.00.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6904/dear-mr-trump-its-time-to-pick-a-fight-with-zuckerberg
-imported: true
 comments:
  - value: >
      http://without-prescription-buyretin-a.net/ - without-prescription-buyretin-a.net.ankor doxycycline100mgbuy.com.ankor http://cialistadalafillowest-price.net/,http://without-prescription-buyretin-a.net/ - without-prescription-buyretin-a.net.ankor doxycycline100mgbuy.com.ankor http://cialistadalafillowest-price.net/,http://without-prescription-buyretin-a.net/ - without-prescription-buyretin-a.net.ankor doxycycline100mgbuy.com.ankor http://cialistadalafillowest-price.net/,http://without-prescription-buyretin-a.net/ - without-prescription-buyretin-a.net.ankor doxycycline100mgbuy.com.ankor http://cialistadalafillowest-price.net/,http://without-prescription-buyretin-a.net/ - without-prescription-buyretin-a.net.ankor doxycycline100mgbuy.com.ankor http://cialistadalafillowest-price.net/,http://usa-onlineprednisone.net/ - usa-onlineprednisone.net.ankor salbutamol-ventolin-buy.net.ankor http://online-viagracanada.net/,http://usa-onlineprednisone.net/ - usa-onlineprednisone.net.ankor salbutamol-ventolin-buy.net.ankor ht
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +23,6 @@ authors:
  - ap4913
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171512-felix-Screen Shot 2017-03-17 at 15.12.00.png"
-image_caption: ""
 ---
 
 Dear Mr Trump: It is well known that you’re a regular reader of felix, so I sincerely hope you get to read this.

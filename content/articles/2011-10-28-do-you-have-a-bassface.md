@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Chandra Chadalawada investigates the phenomenon
 date: "2011-10-28 11:09:09 +0100"
-
-# Attributes from Felix Online V1
-id: "1639"
-old_path: /music/1639/do-you-have-a-bassface
+image: "http://felixonline.co.uk/img/upload/201110281206-felix-bassface_mampiswift15_7.jpg"
+image_caption: "Man is pained at sight of giant lemon"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1639/do-you-have-a-bassface
-imported: true
 comments:
  - value: >
      Ahem. There used to be two people in that enrite building who knew who New Order was every time I had to come over for a meeting, that is.But maybe I should be nice. Before 1993, no St. Louis radio station would play anything by NO but True Faith, except maybe on Sunday nights when Les Aaron had a two- or three-hour alternative music show on the less popular of the two Top 40 stations.I think it's funny every time I hear someone with a ringtone that sounds like an old Western Electric rotary, someone walks up to them and asks where they got that ringtone. Imagine that, a phone that sounds like a phone ,Andrew Weiss' lines are thick like flying<a href="http://dhzkvyc.com"> eatlhpnes</a>, great choice. There are a lot of amazing 4 strings players out there, i would add Joe Lally, he's always right., aging facial hewlett-packard communities large both girls many
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110281206-felix-bassface_mampiswift15_7.jpg"
-image_caption: ""
 ---
 
 I don’t know how many of you are into Dubstep, Drum & Bass, House or any other genre with a bassline. But let me ask the people who are: what happens to you when you hear a fat tune?

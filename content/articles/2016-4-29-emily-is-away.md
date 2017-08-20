@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Itch.io is full of weird and wonderful games
 date: "2016-04-29 10:57:17 +0100"
-
-# Attributes from Felix Online V1
-id: "6107"
-old_path: /games/6107/emily-is-away
+image: "http://felixonline.co.uk/img/upload/201604291156-felix-emilyisaway.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/6107/emily-is-away
-imported: true
 comments:
  - value: >
      I want to play this game<br>,I love Emily is away<br>,how come is does not work on me?<br>,You really saved my skin with this inarmoftion. Thanks!,NdyLDo http://www.LnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gO.com
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -26,12 +23,6 @@ authors:
  - cet13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201604291156-felix-emilyisaway.jpg"
-image_caption: ""
 ---
 
 E_mily is away_ is an interactive, branching visual novel set in MSN-inspired chat client. Its visuals and sound effects, from the classic Windows XP start sound to the low rumbling of a desktop computer, will be instantly familiar to those who grew up using Microsoft’s iconic communication software.

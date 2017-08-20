@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Cecily Johnson rounds up the various league tables from the last year
 date: "2015-05-29 01:05:18 +0100"
-
-# Attributes from Felix Online V1
-id: "5579"
-old_path: /news/5579/imperial-drops-three-places-in-guardian-2016-university-guide
+image: "http://felixonline.co.uk/img/upload/201505290206-ps3110-screen-shot-2015-05-29-at-02.05.12.png"
+image_caption: "Criteria weighting for the Times Higher Education World University Rankings."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5579/imperial-drops-three-places-in-guardian-2016-university-guide
-imported: true
 comments:
  - value: >
      8-18-12vlad spune: mie imi scrie acolo asa:name-standard VGA graphics adapter si la mafr(acturer:nstandaud display types) +45V-a ajutat acest raspuns?
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505290206-ps3110-screen-shot-2015-05-29-at-02.05.12.png"
-image_caption: ""
 ---
 
 This week Imperial College London dropped three places in [the Guardian’s 2016 University Guide](http://www.theguardian.com/education/ng-interactive/2015/may/25/university-league-tables-2016), taking eighth place out of 119 Universities.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Feroz Salam looks at the Whistle Blower's best friend and govrnmental enemy
 date: "2010-06-16 19:49:04 +0100"
-
-# Attributes from Felix Online V1
-id: "147"
-old_path: /tech/147/wikileaks---freedom-of-informations-greatest-assett
+image: "http://felixonline.co.uk/img/upload/201006162046-srg03-WikiLeak.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/147/wikileaks---freedom-of-informations-greatest-assett
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -23,12 +20,6 @@ authors:
  - srg03
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201006162046-srg03-WikiLeak.jpg"
-image_caption: ""
 ---
 
 Where would you go if you had a government secret that you felt needed publishing? Just as there’s a wiki for encyclopaedia articles and another for dictionary entries, you might want to try the wiki for whistleblowers and activists, Wikileaks. Among its eclectic collection of leaks are a manual on the ‘Boomerang’ method of sniper location, a description of FBI methods for mobile phone tapping, a full list of British postcodes and a roster of BNP members. Their website describes their mission as providing ‘a multi-jurisdictional public service designed to protect whistleblowers, journalists and activists who have sensitive materials to communicate to the public.’ For a website that has little funding, Wikileaks has shown a remarkable ability to stay in the headlines, bragging of more scoops in its 3 year lifetime than the Washington Post has had in 30. Yet how long the website will be able to survive is questionable, as it is hounded by governments and corporations that often come with the power to switch off servers, confiscate documents and launch major legal battles - weighty financial burdens on a site that survives largely on donations and awards from human rights activists.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Stephen Smith conducts an in-depth investigation of the Workfare scandal. Is it really forced labour? Who is benefitting from it? And what is our government doing in our name?
 date: "2012-02-23 23:58:19 +0000"
-
-# Attributes from Felix Online V1
-id: "2268"
-old_path: /news/2268/truth-lies-and-tall-tales-about-work-for-your-benefits
+image: "http://felixonline.co.uk/img/upload/201202232355-felix-workfare-cartoon.jpg"
+image_caption: "A cartoon demonstrating the popular perception of workfare"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2268/truth-lies-and-tall-tales-about-work-for-your-benefits
-imported: true
 comments:
  - value: >
      The very first sentence of the article reminds me of the very first sentence of the manifesto of a well-known political/economic movement. ;-),FOR A GOVERMENT TO ALLOW INNOCENT HUMAN BEINGS TO BE WITHOUT THE MEANS TO WARMTH FOOD OR WATER IN A SOCIETY WHERE THESE ESSENTIALS CAN ONLY BE OBTAINED WITH MONEY IS UNCIVALIZED AND SHOULD BE CONTESTED IN THE COURT OF HUMAN RIGHTS .THE WORST CRIMIMALS IN PRISON ARE TREATED THIS WAY ANYONE TAKING PART IN THIS BARBARIC TREATMENT OF PEOPLE SHOULD BE ASHEMED OF THEMSELFS,Typical journal piece about typical goverment funded programme. <br>All I'm going to say is that I got my job of 4 years at present through Seetec. <br>I also know that within the last month, they've changed the lives of at least 52 people, getting them into full time, PAID work. <br>They do pay travel, they always have done, for travelling to placements, training and even to job search in their centers. They also pay for interview and work clothing, including travel to work for the first month or so when they star
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202232355-felix-workfare-cartoon.jpg"
-image_caption: ""
 ---
 
 A spectre is haunting our futures – the spectre of unemployment. Most of us are soon-to-be graduates: some of us, inevitably, are the soon-to-be unemployed. With every month, [increasing numbers](http://www.guardian.co.uk/business/2012/feb/15/uk-unemployment-high-economy-flatlines) of young people are finding themselves jobless, and increasing numbers are turning to the government for support.

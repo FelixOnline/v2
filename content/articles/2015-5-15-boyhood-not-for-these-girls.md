@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Abena Taylor-Smith reviews Celine Sciamma's "Trilogy of Youth"
 date: "2015-05-15 12:05:27 +0100"
-
-# Attributes from Felix Online V1
-id: "5527"
-old_path: /film/5527/boyhood-not-for-these-girls
+image: "http://felixonline.co.uk/img/upload/201505151304-cj914-girlhood-cmyk.jpg"
+image_caption: "Director Celine Sciamma employed street-casting to bring her characters to life"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5527/boyhood-not-for-these-girls
-imported: true
 comments:
  - value: >
      christian louboutin logo <br>christian louboutin shoes outlet http://canadachristianlouboutinoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +26,6 @@ authors:
  - cj914
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505151304-cj914-girlhood-cmyk.jpg"
-image_caption: ""
 ---
 
 The latest film in director Celine Sciamma’s ‘Trilogy of Youth’ is _Girlhood (Bande des Filles)_, a coming-of-age story set on the housing projects bordering Paris.

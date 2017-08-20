@@ -4,16 +4,13 @@ title: >
 subtitle: >
   First, a disclaimer: for those with a strong aversion to musicals avoid this play at all costs. :)
 date: "2013-10-18 22:05:08 +0100"
-
-# Attributes from Felix Online V1
-id: "3899"
-old_path: /arts/3899/liol-gets-frisky-in-irish-sicilian-gypsy-musical
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3899/liol-gets-frisky-in-irish-sicilian-gypsy-musical
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - lwl09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __What:__ Liolà

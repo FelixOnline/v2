@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Nothing says style like a tight speedo
 date: "2017-03-03 16:17:27 +0000"
-
-# Attributes from Felix Online V1
-id: "6857"
-old_path: /sport/6857/octopush-ing-the-limits-with-style
+image: "http://felixonline.co.uk/img/upload/201703031617-felix-Image-1.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6857/octopush-ing-the-limits-with-style
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - esmehostonmoore
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703031617-felix-Image-1.png"
-image_caption: ""
 ---
 
 Saturday was the most anticipated day of the underwater hockey calendar: the national tournament.  Hosted by a different university each year and run with the assistance of our governing body (the British Octopush Association), the student nationals see the best underwater hockey teams from around the country battle head to head to secure the title of national champions.  With Plymouth A team wearing t-shirts boasting of their six consecutive wins, the pressure was on.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Philippa Skett on the new gene-editing technique that gives HIV resistance
 date: "2014-03-07 04:48:50 +0000"
-
-# Attributes from Felix Online V1
-id: "4457"
-old_path: /science/4457/breakthrough-in-hiv-gene-therapy
+image: "http://felixonline.co.uk/img/upload/201403070448-jal08-hiv-infected-h9-t-cell-1024x576.jpg"
+image_caption: "HIV, coloured yellow, attacking a T cell"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4457/breakthrough-in-hiv-gene-therapy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - jal08
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201403070448-jal08-hiv-infected-h9-t-cell-1024x576.jpg"
-image_caption: ""
 ---
 
 For the first time ever, researchers have succeeded in making enzymes target and alter the genes of immune cells that are susceptible to HIV infection. A clinical trial tested the enzymes, known as ‘zinc-finger nucleases’ and found that they were able to disrupt the gene CCR5, which codes a protein essential for HIV entry into T cells.

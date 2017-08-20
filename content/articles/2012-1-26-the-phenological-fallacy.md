@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Christopher Nichols on why the first cuckoo of spring doesn’t necessarily tell us much
 date: "2012-01-26 22:20:51 +0000"
-
-# Attributes from Felix Online V1
-id: "2060"
-old_path: /science/2060/the-phenological-fallacy
+image: "http://felixonline.co.uk/img/upload/201201262220-ak6309-hedgehogsdsds937.jpg"
+image_caption: "He doesn’t look very defiant, does he?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2060/the-phenological-fallacy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ak6309
  - cn211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201262220-ak6309-hedgehogsdsds937.jpg"
-image_caption: ""
 ---
 
 A recent flurry of articles expounding the effects of the current mild winter on the natural world serves to remind us of the consequences of climate change, but do these examples contain any scientific meaning, or are they merely interesting, if foreboding, anecdotal tidbits?

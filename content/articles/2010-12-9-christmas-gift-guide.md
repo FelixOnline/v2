@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Tech gift ideas to suit almost any budget
 date: "2010-12-09 20:02:09 +0000"
-
-# Attributes from Felix Online V1
-id: "514"
-old_path: /tech/514/christmas-gift-guide
+image: "http://felixonline.co.uk/img/upload/201012091957-ac1507-ipadipad.jpg"
+image_caption: "If you're really pushing the boat out, get an iPad"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/514/christmas-gift-guide
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - srg03
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012091957-ac1507-ipadipad.jpg"
-image_caption: ""
 ---
 
 __£25 and Under__

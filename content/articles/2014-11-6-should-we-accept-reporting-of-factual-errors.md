@@ -4,18 +4,15 @@ title: >
 subtitle: >
   If you’ve been reading the news recently, you’ll surely be aware of the impending apocalypse sweeping Western Africa.
 date: "2014-11-06 18:23:08 +0000"
-
-# Attributes from Felix Online V1
-id: "4762"
-old_path: /comment/4762/should-we-accept-reporting-of-factual-errors
+image: "http://felixonline.co.uk/img/upload/201411102226-ps3110-ebola.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4762/should-we-accept-reporting-of-factual-errors
-imported: true
 comments:
  - value: >
      Thanks for sharing. Your post is a useful coitributnon.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102226-ps3110-ebola.jpg"
-image_caption: ""
 ---
 
 So if you’ve been reading the news recently, you’ll surely be aware of the impending apocalypse sweeping Western Africa and soon enough, we are assured, the rest of the world.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Residential Experience review was announced by College at the start of the year. The aim of this review is to improve the residential experience students at Imperial have.
 date: "2014-02-21 03:03:08 +0000"
-
-# Attributes from Felix Online V1
-id: "4414"
-old_path: /news/4414/union-submits-portfolio-of-evidence-to-colleges-residential-experience-review
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4414/union-submits-portfolio-of-evidence-to-colleges-residential-experience-review
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - nm708
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Residential Experience review was announced by College at the start of the year. The aim of this review is to improve the residential experience students at Imperial have. The Union were asked to submit evidence for the review, which was bought to Union Council last week and approved for submission.

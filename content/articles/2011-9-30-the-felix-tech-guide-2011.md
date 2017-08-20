@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Feroz Salam and Chris Bowers get you up to scratch
 date: "2011-09-30 12:00:04 +0100"
-
-# Attributes from Felix Online V1
-id: "1460"
-old_path: /tech/1460/the-felix-tech-guide-2011
+image: "http://felixonline.co.uk/img/upload/201109301305-felix-314_1404.jpg"
+image_caption: "Freshers' Fair can wait..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/1460/the-felix-tech-guide-2011
-imported: true
 comments:
  - value: >
      about a 10/100/1000 connection bescaue it just isn't going to happen. Everything I've read on every forum I can find says it's due to the weak processor that WD chose to use to run the Linux OS driving the whole thing. I get 11MB/s max, and that is using TerraCopy and not the even slower included windows explorer copy function. Moving my 130GB music collection (yes, all legal!) took hours. I manage that collection with iTunes and I've made the mistake of trying to update the ID3 tags on an entire genre of music sloooooooow. Summary: Don't expect the speed of an external USB or FireWire drive it just isn't going to happen, but it will serve up music and movies at the same time without missing a beat. The only thing to clear your schedule for is making large data transfers or updates. I recommend getting your music and movies the way you want them locally, and then moving them to this NAS.Help other customers find the most helpful reviewsa0Was this review helpful to you?a0 | a0,about a 10/100/1000 connection b
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -29,12 +27,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201109301305-felix-314_1404.jpg"
-image_caption: ""
 ---
 
 Welcome to Imperial! You’ve done well to make it here; for the next few years you will get to experience extreme levels of stress, a rapidly receding hairline and the effects of excess Red Bull consumption (seizure, in the case of one of my housemates).

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Most distant galaxy ever detected
 date: "2011-02-03 19:59:03 +0000"
-
-# Attributes from Felix Online V1
-id: "732"
-old_path: /science/732/in-a-galaxy-far-far-away-
+image: "http://felixonline.co.uk/img/upload/201102031957-ks607-galaxyga.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/732/in-a-galaxy-far-far-away-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - ko407
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102031957-ks607-galaxyga.jpg"
-image_caption: ""
 ---
 
 There haven’t always been stars and galaxies in the universe, and the time when they began to form — known as the reionisation epoch — is the subject of much interest in astrophysics. A paper published in Nature last week details a discovery that could tell us more about this mysterious time.

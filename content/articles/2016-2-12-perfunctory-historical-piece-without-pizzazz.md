@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Turgid Trumbo fails to shine, despite the best efforts of Bryan Cranston
 date: "2016-02-12 11:45:33 +0000"
-
-# Attributes from Felix Online V1
-id: "5911"
-old_path: /film/5911/perfunctory-historical-piece-without-pizzazz
+image: "http://felixonline.co.uk/img/upload/201602121145-felix-Trumbo-trailer.jpg"
+image_caption: "Helen Mirren in full-on mad hat mode, opposite the strained Bryan Cranston in Trumbo. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5911/perfunctory-historical-piece-without-pizzazz
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ff712
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602121145-felix-Trumbo-trailer.jpg"
-image_caption: ""
 ---
 
 I can remember learning about the Hollywood blacklist in my GCSE history class; a paranoid electorate, whipped into a state of frenzy by senator Joseph McCarthy, pilloried a group of film actors, directors, and writers for their left-leaning tendencies. And that was all it was for us: a note on the past, sandwiched between the Truman Doctrine and the sultry summer of the Rosenbergs’ execution. But of course, for those involved, for their family and friends, for the whole industry, that was far from it; director Jay Roach seeks to rectify this in his film _Trumbo_ – focusing on a single individual (in this case Dalton Trumbo, the screenwriter of _Roman Holiday_, _Exodus_, and _Spartacus_), the film invites us to observe the catastrophic effects the blacklist had on an entire generation of creatives.

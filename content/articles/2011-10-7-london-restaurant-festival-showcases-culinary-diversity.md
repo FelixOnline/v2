@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Taking a look at some of the most exciting events of this two-week event
 date: "2011-10-07 13:08:27 +0100"
-
-# Attributes from Felix Online V1
-id: "1496"
-old_path: /food/1496/london-restaurant-festival-showcases-culinary-diversity
+image: "http://felixonline.co.uk/img/upload/201110071408-felix-popinthesky.jpg"
+image_caption: "I thought he was taking me to the Union"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1496/london-restaurant-festival-showcases-culinary-diversity
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +22,6 @@ authors:
  - felfood
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110071408-felix-popinthesky.jpg"
-image_caption: ""
 ---
 
 [London Restaurant Festival](http://www.londonrestaurantfestival.com) celebrates the Capital’s restaurants and their diversity. For two weeks (October 3-17) visitors will be able to try things they wouldn’t otherwise, tickle their tasting pallet and taste extraordinary food prepared by all kinds of chefs experiencing the ultimate dining experience. The Festival splits in two main areas; restaurants running festival menus and a whole series of events.

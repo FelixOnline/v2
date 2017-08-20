@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ireland has made history as the first country in the world to legalise same-sex marriage by popular vote. The final results were 1,201,607 "Yes" votes to 734,300 "No" votes.
 date: "2015-05-23 18:08:29 +0100"
-
-# Attributes from Felix Online V1
-id: "5560"
-old_path: /politics/5560/ireland-votes-yes-to-legalising-same-sex-marriage
+image: "http://felixonline.co.uk/img/upload/201505231814-jr2514-davidson-ireland-gay-marriage-690.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/5560/ireland-votes-yes-to-legalising-same-sex-marriage
-imported: true
 comments:
  - value: >
      andapplications. They always spell-check, prrefooad, and allow oneother person to prrefooad their applications and essay for errors.Successful students do not ignore scholarships that may be local orthose for small amounts. Scholarship amounts, even as small as$50, can add up.Successful students do not rely on only one source such as theInternet for their scholarship search. They use many resources.Many scholarships on the Internet or in the free scholarshipsearches that you find on the World Wide Web are nationally knownand are harder to win due to greater competition. Local and regionalscholarships are not found as easily through an Internet search,although they may be easier to win because the applicant pool issmaller. You have to use a combination of resources to find asmany scholarships to apply for as possible.Successful students market themselves well. In their applications,they highlight positive aspects about their lives, especiallycommunity involvement.Successful students do not apply to one or two
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -28,12 +25,6 @@ authors:
  - snb11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505231814-jr2514-davidson-ireland-gay-marriage-690.jpg"
-image_caption: ""
 ---
 
 Ireland has made history as the first country in the world to legalise same-sex marriage by popular vote.

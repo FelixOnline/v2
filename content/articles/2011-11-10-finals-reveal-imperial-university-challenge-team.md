@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Cross-College team members set their sights on Paxman
 date: "2011-11-10 19:48:42 +0000"
-
-# Attributes from Felix Online V1
-id: "1706"
-old_path: /news/1706/finals-reveal-imperial-university-challenge-team
+image: "http://felixonline.co.uk/img/upload/201111110049-felix-jeremy-paxman-on-universi-005.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1706/finals-reveal-imperial-university-challenge-team
-imported: true
 comments:
  - value: >
      Just seen IC triumph on University challenge - great. But where was Mike the Micrometer ?
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ak6309
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111110049-felix-jeremy-paxman-on-universi-005.jpg"
-image_caption: ""
 ---
 
 Internal contests for Imperial’s University Challenge selection took place last week in the Blackett lab, with the initial tryouts on Thursday 3 November seeing attendance figures upwards of 130 students hoping to get onto the team. Sixty questions sent in by the show were asked in the space of an hour with those who fell within the top sixteen by scoring at least 24 out of 60 making it through to the next round.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fred Fyles tells us about the exhibition of portraits by Man Ray
 date: "2013-02-21 20:59:36 +0000"
-
-# Attributes from Felix Online V1
-id: "3345"
-old_path: /arts/3345/before-instagram-
+image: "http://felixonline.co.uk/img/upload/201302220232-tna08-solarized-portrait-of-lee-miller-by-man-ray1930.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3345/before-instagram-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302220232-tna08-solarized-portrait-of-lee-miller-by-man-ray1930.jpg"
-image_caption: ""
 ---
 
 It can be said that photography is a method of preserving time. A moment is captured and immortalised in a 35mm negative, retained and treasured. The years may march on, but the picture will remain the same, retaining the ability to transport the viewer instantaneously to a certain time and place. If this is the case, then the exhibition of portraits by Man Ray, currently on display at the National Portrait Gallery, have captured not just a moment but an era.

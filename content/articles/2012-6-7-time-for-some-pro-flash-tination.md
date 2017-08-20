@@ -4,16 +4,13 @@ title: >
 subtitle: >
   No time for all those mainstream games? Fed up with talking to other human beings? How about a bit of hot Flash action? Felix Games provides...
 date: "2012-06-07 19:05:05 +0100"
-
-# Attributes from Felix Online V1
-id: "2528"
-old_path: /games/2528/time-for-some-pro-flash-tination
+image: "http://felixonline.co.uk/img/upload/201206072004-pk1811-paladog.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2528/time-for-some-pro-flash-tination
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -25,12 +22,6 @@ authors:
  - pk1811
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206072004-pk1811-paladog.png"
-image_caption: ""
 ---
 
 __[Paladog](http://armorgames.com/play/13262/paladog)__

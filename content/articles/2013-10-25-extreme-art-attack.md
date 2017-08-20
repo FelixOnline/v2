@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Fred Fyles witnesses the destruction
 date: "2013-10-25 00:17:58 +0100"
-
-# Attributes from Felix Online V1
-id: "3927"
-old_path: /arts/3927/extreme-art-attack
+image: "http://felixonline.co.uk/img/upload/201310250117-felix-artartunderattack.jpg"
+image_caption: "Chair (1969) by Allen Jones was attacked with paint stripper in 1986 by feminist campaigners. It is "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3927/extreme-art-attack
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - ff712
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250117-felix-artartunderattack.jpg"
-image_caption: ""
 ---
 
 What: Art Under Attack: Histories of British Iconoclasm

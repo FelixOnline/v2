@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Bart Andrews reports on Skateboarding and BMX highlights from the term gone by
 date: "2012-05-18 16:28:31 +0100"
-
-# Attributes from Felix Online V1
-id: "2476"
-old_path: /sport/2476/imperial-sb-one-term-on
+image: "http://felixonline.co.uk/img/upload/201205181727-felix-daniel-hyde---cradle-carve-taken-by-ed-brial-at-victoria-park.jpg"
+image_caption: "Daniel Hyde - Cradle Carve at Victoria Park"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2476/imperial-sb-one-term-on
-imported: true
 comments:
  - value: >
      The caption should actually be 'Daniel Hyde - Cradle Carve taken by Ed Brial at Victoria Park'.
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +26,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205181727-felix-daniel-hyde---cradle-carve-taken-by-ed-brial-at-victoria-park.jpg"
-image_caption: ""
 ---
 
 A whole term has now passed with Imperial having its very own Skateboard/BMX society so here are all the gory details as to what’s been going on. Last term, we managed to skate/BMX a good chunk of the skateparks that London has to offer. These included concrete classics such as Meanwhile and Stockwell as well as new offerings such as Victoria and Clapham Common.

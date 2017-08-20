@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Discontent with the restricted views offered by India’s tuk-tuks, Chris Richardson takes to the skies to catch a bird’s eye view of India’s Golden Triangle
 date: "2011-11-24 20:15:47 +0000"
-
-# Attributes from Felix Online V1
-id: "1802"
-old_path: /travel/1802/jaipur-up-up-and-away
+image: "http://felixonline.co.uk/img/upload/201111242015-pk1811-296375_10150757531005504_647705503_20236134_1325817_n.jpg"
+image_caption: "Kicking back with a chai while the Sky Waltz team get the show on the road"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/1802/jaipur-up-up-and-away
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -25,12 +23,6 @@ authors:
  - pk1811
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242015-pk1811-296375_10150757531005504_647705503_20236134_1325817_n.jpg"
-image_caption: ""
 ---
 
 Having been on the road for a while at this point in time, I’d lost all sense of a sleeping pattern: probably for the best when facing a 4:30 start. After overcoming that bitter morning sensation we peered from our hostel window to see what appeared to be a hot-rod straight out of Kill Bill: we hopped in and it roared through the dark, dusty streets of Jaipur and took us to our take-off point.

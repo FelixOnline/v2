@@ -4,16 +4,14 @@ title: >
 subtitle: >
   How did you ever survive without this 'indispensable' knowledge?
 date: "2010-10-01 21:38:15 +0100"
-
-# Attributes from Felix Online V1
-id: "161"
-old_path: /science/161/essential-things-that-all-scientists-should-know
+image: "http://felixonline.co.uk/img/upload/201010012226-ks607-Dexter.jpg"
+image_caption: "Poor Dexter never made it to Imperial..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/161/essential-things-that-all-scientists-should-know
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - kv07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010012226-ks607-Dexter.jpg"
-image_caption: ""
 ---
 
 __Five Awesome Science Chat-up Lines__

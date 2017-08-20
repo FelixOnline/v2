@@ -4,20 +4,18 @@ title: >
 subtitle: >
   If you stop and think about it, a completely faithful adaptation ran the risk of being stale
 date: "2017-03-03 15:40:58 +0000"
-
-# Attributes from Felix Online V1
-id: "6850"
-old_path: /tv/6850/life-with-archie--riverdale
+image: "http://felixonline.co.uk/img/upload/201703031540-felix-riverdale_64.jpg"
+image_caption: "Careful you don’t cut yourself on all that edge"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6850/life-with-archie--riverdale
-imported: true
 comments:
  - value: >
      Thanks for all the ideas, guys! More positive â€œSelf Talkâ€:â€œI will live a hope-filled life every day. I will handle my problems as opportunities in a different, more effective manner, based on the power of advanced mathematics; â€œYou
  - value: >
      God = En“ââhu€g€oZig Ziglar
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703031540-felix-riverdale_64.jpg"
-image_caption: ""
 ---
 
 You can now add Riverdale to the increasing list of media adaptations of various forms of literature. Like most recent adaptations, Riverdale also goes for a darker and edgier feel; however in this case, this approach pulls off and actually works spectacularly well.

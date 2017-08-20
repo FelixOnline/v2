@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Offended by last week's Felix? So was this guy.
 date: "2011-10-20 22:42:10 +0100"
-
-# Attributes from Felix Online V1
-id: "1572"
-old_path: /comment/1572/low-class-versus-no-class---jeremy-kyle-and-felix-tv
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1572/low-class-versus-no-class---jeremy-kyle-and-felix-tv
-imported: true
 comments:
  - value: >
      This article is a curmudgeonly personal attack on an individual by someone who lacks the balls to reveal their true identity. <br> <br>In so far as singling out one person, you have actually produced a more offensive article than the one you discuss. <br> <br>I am appalled that Felix will condone and publish something which is nothing more than a poorly constructed and hypocritical character defamation of one student. <br> <br>Coward.,"slightly less charisma than a dead monitor lizard, and equally cold-blooded". <br> <br>"I know I detest almost every single one of you fuckers, but I do that anyway." <br> <br> <br>That's how I feel about you 'Mr Angry'. Try writing something funny.,Call someone a coward for not revealing their true identity and then use a pseudonym for writing a comment. *CLAP* *CLAP* *CLAP*. That's me applauding both the irony and your stupidity. <br> <br>I'm frankly appalled that Felix condones such moronic comments like yours on its web page. I might stop using the website now because I don't like reading things that I don't lik
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 You know, it amazes me sometimes, the levels of objectionable shit I see every day without feeling the need to write about it here. The Christian Union’s latest poster, for instance, which advertised with glee a speaker who is said to “put the fear of God up atheists”, using the same reassuring tones that Crusades-era religious believers were so good at employing. And yet – no column on it. I just couldn’t summon the will to invent new defecation-based swears that adequately captured the barrel-scraping depths to which those shit-gargling evangelists had stooped. Maybe, I thought, I was getting old. I was mellowing.

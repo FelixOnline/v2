@@ -4,16 +4,13 @@ title: >
 subtitle: >
   ‘Disappearing ink’ generally conjures up images of spies and secret messages. Until now, attempts to create a disappearing ink have been expensive (and sometimes toxic), with the results appearing rather faint on the page. But researchers from China have come up with a solution that uses nothing but
 date: "2014-02-07 05:16:31 +0000"
-
-# Attributes from Felix Online V1
-id: "4367"
-old_path: /science/4367/waterjet-printer-set-to-make-a-splash
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4367/waterjet-printer-set-to-make-a-splash
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ‘Disappearing ink’ generally conjures up images of spies and secret messages. Until now, attempts to create a disappearing ink have been expensive (and sometimes toxic), with the results appearing rather faint on the page. But researchers from China have come up with a solution that uses nothing but plain old water.

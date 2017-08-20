@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Youth Lagoon – The Year of Hibernation – 2011
 date: "2011-12-01 21:04:34 +0000"
-
-# Attributes from Felix Online V1
-id: "1880"
-old_path: /music/1880/kadhims-totally-hot-album-of-the-week-9
+image: "http://felixonline.co.uk/img/upload/201112012104-pk1811-fse29d.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1880/kadhims-totally-hot-album-of-the-week-9
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012104-pk1811-fse29d.jpg"
-image_caption: ""
 ---
 
 On Sunday, I was at a friend-of-a-friend’s flat; it was almost completely burnt out. The TV had caught fire and the ensuing blaze had torn up the walls and slithered around the rooms, turning home into hell. Some things had survived: a coating of soot was all the happy family photos had to endure. Other things had been less lucky: a grand full-length mirror had been warped to destruction by the heat and the once-intricate frame was charred and black. I said to him, rather stupidly, “it feels like it was a really nice place”. He was kind enough to be patient with me and replied, simply, “yeah, it was…”

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Hannah and Clare treat themselves to a meal out
 date: "2012-03-01 22:02:28 +0000"
-
-# Attributes from Felix Online V1
-id: "2283"
-old_path: /food/2283/vegan-diary-red-thai-tofu-and-dining-out
+image: "http://felixonline.co.uk/img/upload/201203012158-ams111-dsc_0008.gif"
+image_caption: "It’s getting better every week!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2283/vegan-diary-red-thai-tofu-and-dining-out
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +23,6 @@ authors:
  - cc3710
  - hc1409
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203012158-ams111-dsc_0008.gif"
-image_caption: ""
 ---
 
 After a successful week of our vegan challenge we decided that a treat was in order and headed off to nearby Wholefoods’ SAF to experience eating out in a vegan restaurant. We were excited to find out what, with a bit of time and effort, can be achieved with the ingredients at our disposal.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Frustration for future of Wilsonites
 date: "2012-05-18 05:56:33 +0100"
-
-# Attributes from Felix Online V1
-id: "2454"
-old_path: /news/2454/hall-senior-prospects-in-doubt
+image: "http://felixonline.co.uk/img/upload/201205180650-felix-252_5289.jpg"
+image_caption: "Wilson House, Paddington"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2454/hall-senior-prospects-in-doubt
-imported: true
 comments:
  - value: >
      "The student was also keen to stress the fact that Hall Seniors now have to pay for their accommodation like any other hall-based resident, and so do not take on the role “for any financial gain.” " <br>Now have to? <br>It was my understanding that has always been the case. The benefit is clearly living in halls and generally within walking distance to uni?,At one point seniors payed a lower rent than students as a way of financial reimbursement. Now though they pay the same rent. That's what the article is talking about.,The situation is much worse than your article depicts; the most dire consequence of closing Wilson and replacing it with a hall of residence run entirely by private contractors is that many of the staff working here are being fired - some of them after many years of service to the college. <br> <br>As a resident of Wilson, I know first hand how tirelessly the staff work to provide an excellent service of accommodation despite the problems with the building itself, and for the college to just discard
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205180650-felix-252_5289.jpg"
-image_caption: ""
 ---
 
 Hall seniors at Wilson House have been left questioning the future of their traditionally guaranteed accommodation.

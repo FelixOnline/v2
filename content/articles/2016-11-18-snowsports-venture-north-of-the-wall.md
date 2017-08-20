@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It was cold
 date: "2016-11-18 17:02:28 +0000"
-
-# Attributes from Felix Online V1
-id: "6485"
-old_path: /sport/6485/snowsports-venture-north-of-the-wall
+image: "http://felixonline.co.uk/img/upload/201611181702-felix-snowsports 1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6485/snowsports-venture-north-of-the-wall
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - henrycavanagh
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611181702-felix-snowsports 1.jpg"
-image_caption: ""
 ---
 
 Something big went down this weekend: 25 of Imperial Snowsports’ finest and loosest made the annual pilgrimage to BUDS, a massive national snowsports competition just outside Edinburgh. To put it simply, it was seriously incredible.

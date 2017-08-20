@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Hyde Park on Hudson
 date: "2013-02-01 01:05:24 +0000"
-
-# Attributes from Felix Online V1
-id: "3239"
-old_path: /film/3239/fdr-gets-some
+image: "http://felixonline.co.uk/img/upload/201302010104-tna08-980778_162.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3239/fdr-gets-some
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302010104-tna08-980778_162.jpg"
-image_caption: ""
 ---
 
 It is sometime in June 1939, at Franklin D Roosevelt’s (Murray) private estate, upstate New York. Europe is on the brink of war, and King George V (West) and Queen Elizabeth (Coleman) are about to become the first British monarchs ever to visit America, in a bid to improve relations and convince America to assist them in a War that was understood to be inevitable. Most of the film takes place during the weekend of the Royal visit; the rest documents FDR’s dalliances with several women other than his wife Eleanor, (including the film’s narrator, Daisy (Linney), his sixth cousin, intimate friend, and later, lover).

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ross Gray provides a retort to last week’s article about banking
 date: "2013-02-13 18:55:46 +0000"
-
-# Attributes from Felix Online V1
-id: "3314"
-old_path: /comment/3314/dr-strangelove-or-why-i-just-really-love-finance-not-salary
+image: "http://felixonline.co.uk/img/upload/201302141400-tna08-cartoon-for-banker-article.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3314/dr-strangelove-or-why-i-just-really-love-finance-not-salary
-imported: true
 comments:
  - value: >
      "A generally anti-finance attitude amongst Imperial undergraduates" <br> <br>Wait, what?,I'm afraid your passion for the models behind M&amp;A deals does not reverse my anti-finance attitude. What worries me are the increasingly complex instruments designed to kick the debt can further down the road, concentrating power in the hands of fewer and fewer people while bribed and bewildered governments and electorates end up paying for it all (not to mention the destruction of finite resources). It's time for a rethink and I recommend people take a look at the proposals by Positive Money at http://positivemoney.org ,While your passion and feelings of responsibility are admirable, maybe the general anti-finance attitude you describe is based on the idea that these people don't think you should feel such passion and a sense responsibility for M&amp;A/finance in general. A teacher will feel the same passion and responsibility for their student's learning, Drs and nurses for their patient care and scientists for their research. M
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302141400-tna08-cartoon-for-banker-article.jpg"
-image_caption: ""
 ---
 
 Following[ last week’s article in Felix](http://felixonline.co.uk/comment/3255/the-life-of-a-total-wbanker/), and what I perceive to be a generally anti-finance attitude amongst Imperial undergraduates – you may think said attitude doesn’t exist, but I can assure you I have had to defend my career choices many times – I decided to take it upon myself to fight the corner of investment banking. If you’ve never read Leveraged Sell Out, this will probably be the most pro-banking piece you’ve ever encountered.

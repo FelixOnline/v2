@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Kamil McClelland on the Royal Court’s new play
 date: "2015-02-07 19:23:42 +0000"
-
-# Attributes from Felix Online V1
-id: "5208"
-old_path: /arts/5208/revealing-the-costs-of-war
+image: "http://felixonline.co.uk/img/upload/201502071923-ps3110-michael-ajao-in-liberian-girl-at-the-royal-court.-credit-johan-persson.--01011-copya.jpg"
+image_caption: "Michael Ajao in Liberian Girl "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5208/revealing-the-costs-of-war
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - km2612
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502071923-ps3110-michael-ajao-in-liberian-girl-at-the-royal-court.-credit-johan-persson.--01011-copya.jpg"
-image_caption: ""
 ---
 
 The debut work of 31-year-old playwright Diana Nneka Atuona, _Liberian Girl _has already made an impact, performing at the Global Summit to End Sexual Violence in Conflict last year and winning Atuona the Alfred Fagon Award for Best New Play of the Year in 2013. So what is all the commotion about?

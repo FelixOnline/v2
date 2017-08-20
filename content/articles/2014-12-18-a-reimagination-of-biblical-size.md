@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Clara Clark Nevola takes on the ENO's gospel interpretation
 date: "2014-12-18 16:07:12 +0000"
-
-# Attributes from Felix Online V1
-id: "5067"
-old_path: /arts/5067/a-reimagination-of-biblical-size
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5067/a-reimagination-of-biblical-size
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - ff712
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Two huge, historically successful institutions which have recently lost their appeal, their relevance and many of their dedicated followers: Opera and Christianity. What better way to show the reviving powers of art than to create an exciting, contemporary opera about the Passion of Christ? As pretty much everything in this new piece by John Adams, it’s a good idea with truly disastrous results.

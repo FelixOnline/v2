@@ -4,16 +4,14 @@ title: >
 subtitle: >
   New BP graduate scheme gives students an Olympic chance
 date: "2012-06-01 12:11:10 +0100"
-
-# Attributes from Felix Online V1
-id: "2508"
-old_path: /news/2508/imperial-graduates-jump-at-chance-to-help-at-london-2012
+image: "http://felixonline.co.uk/img/upload/201206011310-mc4509-bpgrads_andrew-tham-claire-madden-charles-archbold--london-2.jpg"
+image_caption: "BP graduates at the Olympic Stadium, including Claire Madden, but not including Kelly Holmes"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2508/imperial-graduates-jump-at-chance-to-help-at-london-2012
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206011310-mc4509-bpgrads_andrew-tham-claire-madden-charles-archbold--london-2.jpg"
-image_caption: ""
 ---
 
 As excitement mounts for this year’s sporting summer, and as career opportunities become ever more uncertain given the unsteady financial climate, a group of Imperial graduates have been given the best of both worlds, with the chance to work at the [London 2012 Olympics](http://www.london2012.com/) this summer as part of a one off graduate programme introduced by BP.

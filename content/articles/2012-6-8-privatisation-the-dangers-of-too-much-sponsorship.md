@@ -4,18 +4,16 @@ title: >
 subtitle: >
   In the second of a series of articles on the privatisation of our universities, Stephen Smith asks why many students seem disappointed with heavily sponsored Careers Services
 date: "2012-06-08 08:47:57 +0100"
-
-# Attributes from Felix Online V1
-id: "2544"
-old_path: /news/2544/privatisation-the-dangers-of-too-much-sponsorship
+image: "http://felixonline.co.uk/img/upload/201206080946-mc4509-feat.jpg"
+image_caption: "The Careers Advisory Service, located on Level 5 of Sherﬁ eld"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2544/privatisation-the-dangers-of-too-much-sponsorship
-imported: true
 comments:
  - value: >
      Wait, you want the university to divert some of its limited financial resources to offer free advertising to companies? <br> <br>COOL STORY BRO. ,Seriously though. I disagree with your opinion of the careers advisory service. We're all grown adults here, and they're our careers we can sort out ourselves. <br>I appreciate the way your articles have shone a light on the funding of the careers advisory service, which have been eye opening and well researched. <br>Ultimately though I have no qualms with how it operates. <br>In further disagreement with you, I think Oxford's system is in-fact the best. By charging a large amount to companies for access it can then offer the same access to charities for free. Because it charges a lot of money, it has to offer a desirable product to the companies to get them to pay, i.e. personal direct contact. <br>Moderately creepy yes, until you consider how easy it is to ignore an email, and the fact that a majority of that information will be up on Facebook anyway. <br>College has better things t
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206080946-mc4509-feat.jpg"
-image_caption: ""
 ---
 
 It’s a searingly hot day in central London. The sun beats down on the Queen’s Lawn as an acquaintance and I pass by a monstrous, awkward marquee. Inside, emissaries from various companies appeal for students’ attention with all the enthusiasm of sleepy clams. The students scurry from table to table hoarding pens and slightly disappointing key-rings.

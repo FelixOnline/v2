@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Guillaume Valla on IC’s hidden group of designers
 date: "2013-10-12 20:10:42 +0100"
-
-# Attributes from Felix Online V1
-id: "3865"
-old_path: /features/3865/imperial-college-design-collective
+image: "http://felixonline.co.uk/img/upload/201310122110-jal08-imperial-design-collective.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/3865/imperial-college-design-collective
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +21,6 @@ authors:
  - gv609
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310122110-jal08-imperial-design-collective.png"
-image_caption: ""
 ---
 
 As I walk below the Queen’s Tower, before an evening in Central Library, I look up at the surrounding buildings (you guessed it… I’m a civil engineering undergrad!) and the environmental conscience inside me is thinking: “What are all these rooms doing lit-up? We should be turning the lights out as soon as students leave their lectures and tutorials...” Little did I know that within these rooms, there are students. Some of them are studying, but others are doing something even better! They’ve just decided to create a new society at Imperial!

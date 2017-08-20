@@ -4,16 +4,14 @@ title: >
 subtitle: >
   It's happening. Slowly, but steadily and inevitably.
 date: "2017-01-27 17:04:05 +0000"
-
-# Attributes from Felix Online V1
-id: "6700"
-old_path: /tv/6700/the-rising-chorus-of-south-asian-voices
+image: "http://felixonline.co.uk/img/upload/201701271703-felix-Aziz_Anzari_December_2011.jpg"
+image_caption: "Change rarely comes from where you expect it "
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6700/the-rising-chorus-of-south-asian-voices
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -23,12 +21,6 @@ authors:
  - ad4013
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701271703-felix-Aziz_Anzari_December_2011.jpg"
-image_caption: ""
 ---
 
 Last Saturday, Aziz Ansari continued his meteoric rise to prominence by being the first person of South Asian descent to host SNL. In his speech, he highlights the rise of a so-called ‘lower-case KKK’; the subtle resurgence and renormalisation of white supremacy. Now more than ever, he suggests, minorities need to speak out and resist.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   FELIX explores the way in which meat-eaters eat, and some misteaks they make in their thinking
 date: "2016-04-29 10:59:26 +0100"
-
-# Attributes from Felix Online V1
-id: "6109"
-old_path: /food/6109/live-and-let-live-as-long-as-youre-not-tasty
+image: "http://felixonline.co.uk/img/upload/201604291158-felix-IMG_3764.jpg"
+image_caption: "Vegetarians beware."
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6109/live-and-let-live-as-long-as-youre-not-tasty
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +22,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201604291158-felix-IMG_3764.jpg"
-image_caption: ""
 ---
 
 Morals are tricky things to have. I try, like I’m sure most of you do, but there are grey areas for me. Food can contain many of them. Like all transcendental ideas, it is sometimes easiest to simply pick and choose them as you like, but when they tie in to the very substance we consume every day (out of pleasure or necessity – but that’s another thing entirely), I try to adopt a more rigid line: I will eat anything, as long as no unnecessary suffering was caused to provide it.

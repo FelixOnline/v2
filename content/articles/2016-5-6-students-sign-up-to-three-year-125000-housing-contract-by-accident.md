@@ -4,18 +4,15 @@ title: >
 subtitle: >
   They didn’t realise they couldn’t sublet the place
 date: "2016-05-06 09:41:21 +0100"
-
-# Attributes from Felix Online V1
-id: "6113"
-old_path: /news/6113/students-sign-up-to-three-year-125000-housing-contract-by-accident
+image: "http://felixonline.co.uk/img/upload/201605061040-felix-13148474_1188780351133367_1516358951_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6113/students-sign-up-to-three-year-125000-housing-contract-by-accident
-imported: true
 comments:
  - value: >
      https://www.facebook.com/groups/349137428622212/permalink/504635219739098/,https://www.facebook.com/groups/349137428622212/permalink/504635219739098/,https://www.facebook.com/groups/349137428622212/permalink/504635219739098/,That's what you get for trying to scum your way into being a landlord. No sympathy for the idiots.,That's what you get for trying to scum your way into being a landlord. No sympathy for the idiots.,That's what you get for trying to scum your way into being a landlord. No sympathy for the idiots.,"They run the risk of getting sued if they don’t pay up, since the contract is a legally binding document."<br>Yes, but just because a term appears in a contract doesn't mean a court will choose to enforce it. There is a concept of 'unfair terms'.<br>Go read https://www.gov.uk/government/publications/unfair-terms-in-tenancy-agreements--2, in particular pages 55 and 103.,"They run the risk of getting sued if they don’t pay up, since the contract is a legally binding document."<br>Yes, but just becau
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061040-felix-13148474_1188780351133367_1516358951_o.jpg"
-image_caption: ""
 ---
 
 This week, college is coming to the aid of three Imperial students who accidentally signed a three year tenancy agreement for a flat on Queen’s Gate that they can’t afford.

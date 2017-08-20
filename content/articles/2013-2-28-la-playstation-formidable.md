@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Ross Webster ponders the alpha of the next-gen pack
 date: "2013-02-28 17:48:10 +0000"
-
-# Attributes from Felix Online V1
-id: "3381"
-old_path: /games/3381/la-playstation-formidable
+image: "http://felixonline.co.uk/img/upload/201302281741-txl11-dualshock-4-controller-800x600.jpg"
+image_caption: "Maybe not the final thing, but it sure does look nice."
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3381/la-playstation-formidable
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +22,6 @@ authors:
  - rw507
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302281741-txl11-dualshock-4-controller-800x600.jpg"
-image_caption: ""
 ---
 
 And here, in the wilderness of the internet, we can see grainy footage of the species, that many of us expect will beckon in a new age of couch-based gaming.

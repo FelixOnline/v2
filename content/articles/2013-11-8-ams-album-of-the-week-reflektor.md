@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Despite it being over ten years since AF first burnt music onto a CD to hand out at a small local gig in their Montreal neighbourhood, they are still teenagers – full of fire, angst, beauty and surprising lyricism.
 date: "2013-11-08 09:56:13 +0000"
-
-# Attributes from Felix Online V1
-id: "4037"
-old_path: /music/4037/ams-album-of-the-week-reflektor
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4037/ams-album-of-the-week-reflektor
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - sm5810
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Despite it being over ten years since AF first burnt music onto a CD to hand out at a small local gig in their Montreal neighbourhood, they are still teenagers – full of fire, angst, beauty and surprising lyricism. They have been almost alone in crafting albums which have a lot to say without falling into the dreaded ‘concept album’ trap. Their first offering, Funeral, is a masterpiece of tension and strife between generations, Neon Bible is a biting criticism of modern day religion and The Suburbs is an exploration of the hopelessly grey areas that lie between the urban and rural extremes. But the crucial thing is they needn’t be, it’s the music and not the ideas that keep you hooked. They have developed a sound that can span genres and yet still be solidly AF, and never has this been more evident than on their fourth: REFLEKTOR.

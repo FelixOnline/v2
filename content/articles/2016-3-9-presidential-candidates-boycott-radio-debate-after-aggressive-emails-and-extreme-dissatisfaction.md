@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Four candidates decided not to show after concerns over bias, format and attitude of IC radio presenters
 date: "2016-03-09 19:02:53 +0000"
-
-# Attributes from Felix Online V1
-id: "6015"
-old_path: /news/6015/presidential-candidates-boycott-radio-debate-after-aggressive-emails-and-extreme-dissatisfaction
+image: "http://felixonline.co.uk/img/upload/201603091910-felix-20160309_190618.jpg"
+image_caption: "Drama in the West Basement of Beit."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6015/presidential-candidates-boycott-radio-debate-after-aggressive-emails-and-extreme-dissatisfaction
-imported: true
 comments:
  - value: >
      hina wholesale nfl jerseys black friday mlb shop promotional codde shop nfl <br>coupons,hina wholesale nfl jerseys black friday mlb shop promotional codde shop nfl <br>coupons,hina wholesale nfl jerseys black friday mlb shop promotional codde shop nfl <br>coupons,hina wholesale nfl jerseys black friday mlb shop promotional codde shop nfl <br>coupons,hina wholesale nfl jerseys black friday mlb shop promotional codde shop nfl <br>coupons,hina wholesale nfl jerseys black friday mlb shop promotional codde shop nfl <br>coupons,hina wholesale nfl jerseys black friday mlb shop promotional codde shop nfl <br>coupons,black friday nba shop promotional codes whoesale nhl jerseys cheap nfl shop coupon code <br>free shipping,black friday nba shop promotional codes whoesale nhl jerseys cheap nfl shop coupon code <br>free shipping,black friday nba shop promotional codes whoesale nhl jerseys cheap nfl shop coupon code <br>free shipping,black friday nba shop promotional codes whoesale nhl jerseys cheap nfl shop coupon code <br>free shipping,black
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603091910-felix-20160309_190618.jpg"
-image_caption: ""
 ---
 
 A debate between Union President Candidates that was due to be held on IC Radio last night was scuppered after four candidates decided to boycott the show an hour before it went on air.

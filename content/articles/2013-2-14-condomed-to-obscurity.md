@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tim Arbabzadah doesn’t want a spray on condom
 date: "2013-02-14 11:42:31 +0000"
-
-# Attributes from Felix Online V1
-id: "3319"
-old_path: /science/3319/condomed-to-obscurity
+image: "http://felixonline.co.uk/img/upload/201302141141-tna08-durex_performax_condom_lrg.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3319/condomed-to-obscurity
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302141141-tna08-durex_performax_condom_lrg.jpg"
-image_caption: ""
 ---
 
 Condoms have been around for quite a while now, allowing men all around the world to awkwardly fumble and pretend they know what they’re doing. The design has actually been pretty similar for over 50 years. The reason being that latex condoms are cheap and pretty easy to make, use, discard (discretely), and are thin enough for a transferred sensation to occur. A staggering ten billion condoms were used in 2005 (with probably only two million being used by Silvio Berlusconi). It’s predicted that 27 billion condoms will be used in 2015. Suggesting that the population is either growing rapidly, or just becoming a lot hornier. Possibly a combination of both.

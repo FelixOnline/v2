@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Yung Nam Cheah brings you the best festivals in the world
 date: "2015-03-17 18:14:38 +0000"
-
-# Attributes from Felix Online V1
-id: "5400"
-old_path: /travel/5400/around-the-world-in-19-festivals
+image: "http://felixonline.co.uk/img/upload/201503171759-ync111-coachella-07-flickr-redfishingboat.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/5400/around-the-world-in-19-festivals
-imported: true
 comments:
  - value: >
      http://online-diflucanfluconazole.net/ - Candida Get Worse On Fluconazole Propecia Pharmacy http://lasixwithoutprescriptionfurosemide.net/,http://online-diflucanfluconazole.net/ - Buy Fluconazole Online Pharmacy Tramadol http://lasixwithoutprescriptionfurosemide.net/,http://online-diflucanfluconazole.net/ - Diflucan Online Pharmacy http://lasixwithoutprescriptionfurosemide.net/,http://online-diflucanfluconazole.net/ - Diflucan For Toe Nail Fungus Online Pharmacy http://lasixwithoutprescriptionfurosemide.net/,http://online-diflucanfluconazole.net/ - Diflucan Without Prescription Tadalafil Pharmacy http://lasixwithoutprescriptionfurosemide.net/,http://online-diflucanfluconazole.net/ - Diflucan Without A Prescription Canadian Pharmacy Online Drugstore http://lasixwithoutprescriptionfurosemide.net/,Truly this is a valuable online site.| <br>cs go skins duplication 2016 http://www.irakyat.my/blogs/1227/10613/counter-strike-skins-across-the-roofing-and-mist-water,Wow, attractive portal. Thnx ...| <br>cs go skins discount
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503171759-ync111-coachella-07-flickr-redfishingboat.jpg"
-image_caption: ""
 ---
 
 Travel is the only thing you can buy that would make you richer – there’s no denying that visiting a place in person brings history to live in a way that words never can.

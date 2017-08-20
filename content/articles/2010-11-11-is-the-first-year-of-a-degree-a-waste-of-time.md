@@ -4,18 +4,15 @@ title: >
 subtitle: >
   My advice to anyone thinking of a one, two or even three year degree? Do what you think will suit you and just dive in
 date: "2010-11-11 21:52:05 +0000"
-
-# Attributes from Felix Online V1
-id: "369"
-old_path: /comment/369/is-the-first-year-of-a-degree-a-waste-of-time
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/369/is-the-first-year-of-a-degree-a-waste-of-time
-imported: true
 comments:
  - value: >
      Wow, thanks for your superior knowledge Mr Furse. I really feel like I am on the right course now. I really don't understand why they don't put you on a tour of UK schools as some sort of 'wizard' career advisor.,　( 2012.02.15 02:11 ) : Youre so awesome, man! I cant bveiele I missed this blog for so long. Its just great stuff all round. Your design, man too amazing! I cant wait to read what youve got next. I love everything that youre saying and want more, more, MORE! Keep this up, man! Its just too good.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - sf305
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Oh goody! Another subject to rant on about in a pedantic and pompous tone of voice. Well, more like splitting hairs in a self-important manner really. Either way, the headline “Is the first year of a degree a waste of time?” is the sort of trashy headline calculated to get Radio Four listeners heading for the hills.

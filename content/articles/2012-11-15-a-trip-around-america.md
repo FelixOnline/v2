@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Maciej Matuszewski reviews Neil Gaiman’s best known novel
 date: "2012-11-15 21:28:56 +0000"
-
-# Attributes from Felix Online V1
-id: "2896"
-old_path: /books/2896/a-trip-around-america
+image: "http://felixonline.co.uk/img/upload/201211152129-tna08-gods2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2896/a-trip-around-america
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - mtm10
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211152129-tna08-gods2.jpg"
-image_caption: ""
 ---
 
 You can’t call yourself a fan of speculative fiction if you’ve never heard of Neil Gaiman. He has made a name for himself with his prolific writing, not only with novels but also for the screen and in comic books. Yet until recently I had never read any of his longer works. Wanting to remedy the situation I thought that there was no better place to start than with American Gods – his most highly acclaimed novel.

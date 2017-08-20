@@ -4,18 +4,15 @@ title: >
 subtitle: >
   This weekend is Imperial’s 28th annual Sci-fi convention Picocon. Sci-fi fan Maciej Matuszewski gives a flavour of the talents of three of the authors attending.
 date: "2011-02-17 19:05:35 +0000"
-
-# Attributes from Felix Online V1
-id: "811"
-old_path: /arts/811/taking-your-pick-of-picocon
+image: "http://felixonline.co.uk/img/upload/201102171902-nm1010-paullupa.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/811/taking-your-pick-of-picocon
-imported: true
 comments:
  - value: >
      [URL=http://ruladug.t35.com/femdom-relationship-tips.html]femdom relationship tips[/URL] Hunks who like to fuck choose machines [URL=http://tejiwolo.t35.com/femdom-facesitting-forum.html]femdom facesitting forum[/URL] Porn Stars Reveal More Than Their Bodies [URL=http://xowuyiwi.t35.com/femdom-embarrassing.html]femdom embarrassing[/URL] but also custom made devices you can't see anywhere else on the net. [URL=http://doyubomo.t35.com/lesbian-otk-femdom.html]lesbian otk femdom[/URL] Rewrite the Rules of Society with the Rules of Sexual Domination [URL=http://xowuyiwi.t35.com/femdom-insider-tgp.html]femdom insider tgp[/URL] The cleansing power of piss [URL=http://xowuyiwi.t35.com/femdom-face-slapping-story-slap-you.html]femdom face slapping story slap you[/URL] Men bound, punished and fucked. [URL=http://doyubomo.t35.com/femdom-wife-photos.html]femdom wife photos[/URL] Hot piss on wet pussy [URL=http://yuqamara.t35.com/femdom-independand-paris.html]femdom independand paris[/URL] Bondage, punishment, and hardcore
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +23,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102171902-nm1010-paullupa.jpg"
-image_caption: ""
 ---
 
 The Thief’s Gamble

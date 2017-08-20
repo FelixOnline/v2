@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Navid Nabijou helps you to experience the fun of lectures in your own home
 date: "2011-12-01 20:41:12 +0000"
-
-# Attributes from Felix Online V1
-id: "1874"
-old_path: /arts/1874/diy-whiteboard-station
+image: "http://felixonline.co.uk/img/upload/201112012039-ams111-hag1.jpg"
+image_caption: "The blob at the top is meant to be China. Don’t ask why"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1874/diy-whiteboard-station
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - nn1209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012039-ams111-hag1.jpg"
-image_caption: ""
 ---
 
 As a mathematician living with a group of other mathematicians, I like to think, at least some of the time, that our conversations relate to something beyond our chosen subject. But let’s face it: we’re Imperial students. Inevitably, the moment does come when normal discourse collapses into a frenzied exposition on Graph Automorphisms and the implications of Zorn’s Lemma.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Marie-Laure Hicks fills you in on what's been going on
 date: "2013-05-23 22:12:46 +0100"
-
-# Attributes from Felix Online V1
-id: "3611"
-old_path: /politics/3611/news-from-around-the-world
+image: "http://felixonline.co.uk/img/upload/201305232312-tna08-obama-huffington-post.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/3611/news-from-around-the-world
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +21,6 @@ authors:
  - mh3210
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305232312-tna08-obama-huffington-post.jpg"
-image_caption: ""
 ---
 
 __Obama, the new Nixon?__

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Wreck-it Ralph review
 date: "2013-02-12 20:24:08 +0000"
-
-# Attributes from Felix Online V1
-id: "3294"
-old_path: /film/3294/wrecking-em-up
+image: "http://felixonline.co.uk/img/upload/201302122024-tna08-wreck-it_ralph.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3294/wrecking-em-up
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - ffilm
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302122024-tna08-wreck-it_ralph.jpg"
-image_caption: ""
 ---
 
 A Toy Story for the video-game generation, instead of having cuddly little toys that come to life when no-one is around to look, we have a bunch of arcade game characters who are free to roam around their own little world via intricately designed trains and the “Grand Central Station”.

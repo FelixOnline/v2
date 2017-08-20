@@ -4,16 +4,13 @@ title: >
 subtitle: >
   King's College London criticised for making cuts
 date: "2010-02-07 03:37:55 +0000"
-
-# Attributes from Felix Online V1
-id: "81"
-old_path: /news/81/kcl-slash-humanities
+image: "http://felixonline.co.uk/img/upload/201002070334-ak6309-KingsCol.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/81/kcl-slash-humanities
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ak6309
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002070334-ak6309-KingsCol.jpg"
-image_caption: ""
 ---
 
 King's College London faces controversy and fierce opposition as they announce plans to make cuts in the School of Arts and Humanities, including the firing of several internationally renowned academics.

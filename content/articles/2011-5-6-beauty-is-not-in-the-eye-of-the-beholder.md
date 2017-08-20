@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It is in the eye itself
 date: "2011-05-06 08:09:56 +0100"
-
-# Attributes from Felix Online V1
-id: "1152"
-old_path: /science/1152/beauty-is-not-in-the-eye-of-the-beholder
+image: "http://felixonline.co.uk/img/upload/201105060909-felix-709945164_f945e4f475.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1152/beauty-is-not-in-the-eye-of-the-beholder
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - ch1810
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105060909-felix-709945164_f945e4f475.jpg"
-image_caption: ""
 ---
 
 Yes, maybe it’s true that there are differing opinions on who we think of as attractive. Indeed, some people think Simon Cowell is good looking; still can’t get my head around that one, but I digress. Yes, people have their own personal prefernces – blonde or brunette, brainy or brawny, etc. However, numerous studies have shown that there are a significant number of traits that we all find attractive, no matter who we are. These include big eyes in women, big jaws in men, and symmetrical faces. These features are all signals to potential partners of good genetic stock. A symmetrical face, for example, shows that you are able to fight off parasites, which can distort the normal development of the body.

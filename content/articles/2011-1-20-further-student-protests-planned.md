@@ -4,16 +4,13 @@ title: >
 subtitle: >
   New wave of student protests cause counter-terrorism police to contact Imperial
 date: "2011-01-20 20:56:10 +0000"
-
-# Attributes from Felix Online V1
-id: "637"
-old_path: /news/637/further-student-protests-planned-
+image: "http://felixonline.co.uk/img/upload/201101202050-ks607-studentp.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/637/further-student-protests-planned-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - vd207
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101202050-ks607-studentp.jpg"
-image_caption: ""
 ---
 
 Last year students [took to the streets](http://www.felixonline.co.uk/?article=452) in reaction to the Tories’ plans to hike up tuition fees to up to £9,000 a year. Protesters urged Nick Clegg and his Lib Dems to remember their pre-election pledges which promised to vote against a rise in tuition fees.

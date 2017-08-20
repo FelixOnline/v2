@@ -4,16 +4,13 @@ title: >
 subtitle: >
   More and more students are competing for university places
 date: "2011-01-27 18:15:08 +0000"
-
-# Attributes from Felix Online V1
-id: "651"
-old_path: /news/651/increasing-obstacles-for-prospective-students-
+image: "http://felixonline.co.uk/img/upload/201101271812-ks607-ucassats.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/651/increasing-obstacles-for-prospective-students-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ar3310
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101271812-ks607-ucassats.jpg"
-image_caption: ""
 ---
 
 Recent figures [published by UCAS](http://www.ucas.ac.uk/about_us/media_enquiries/media_releases/2011/finalendofyearfigure2010) in their Final End of Year Figures for 2010 has shown a decrease of 0.1% in accepted applicants in the UK compared to 2009, but this doesn’t really come as a surprise after all the over-hyped news of university cuts and how 200,000 students had missed out on places last year.

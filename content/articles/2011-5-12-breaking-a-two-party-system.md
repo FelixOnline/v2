@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Canada’s NDP has done what the Lib Dems couldn’t says Tagore Nakornchai
 date: "2011-05-12 19:24:55 +0100"
-
-# Attributes from Felix Online V1
-id: "1206"
-old_path: /politics/1206/breaking-a-two-party-system
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1206/breaking-a-two-party-system
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - tn509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I’m looking at the Canadian election results and can’t help but feel slightly jealous. This time last year, after the debates, the Lib Dems were looking at a surge similar to the New Democratic Party’s (NDP) surge, and Labour looked like it was heading towards electoral oblivion. The NDP has pulled off what the Lib Dems, and before that, the (British) Liberals, have dreamed of for almost a century – of destroying the comfortable two-party system (which, granted, was always weaker in Canada because of the Bloc Quebecois), and throwing the country’s electoral system wide open.

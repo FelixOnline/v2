@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Dont just skank says Alex Mason
 date: "2012-12-07 03:22:27 +0000"
-
-# Attributes from Felix Online V1
-id: "3063"
-old_path: /sport/3063/icu-dance-salsa-to-success
+image: "http://felixonline.co.uk/img/upload/201212070322-tna08-_dsc1442.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3063/icu-dance-salsa-to-success
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070322-tna08-_dsc1442.jpg"
-image_caption: ""
 ---
 
 As the Imperial Dance team celebrate another success at Nottingham’s Varsity 2012, there’s no better time to learn

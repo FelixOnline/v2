@@ -4,16 +4,13 @@ title: >
 subtitle: >
   “On a field trip a GTA is the best person to be”
 date: "2013-11-04 11:03:04 +0000"
-
-# Attributes from Felix Online V1
-id: "3980"
-old_path: /comment/3980/confessions-of-a-gta-part-4
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3980/confessions-of-a-gta-part-4
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - gta
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 As an undergrad, field trips were always best in hindsight. Those hours on a windblown moor in the back of beyond in the pouring rain seemed later like quite a laugh and that time you nearly got impaled on machinery by an irate Scottish factory worker who did not care how interested you were in the manufacturing was, looking back, an “adventure”. The stress of finishing notes, living with some random on your course who you had never heard speak until now, and trying to understand what exactly your Professor was yelling over a gale force wind, for most people were the good times of the course. I, as a keen indoor sportsman, remember it without the rose tint.

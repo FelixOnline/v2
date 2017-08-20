@@ -4,18 +4,15 @@ title: >
 subtitle: >
   It's happening, people.
 date: "2016-05-06 10:09:37 +0100"
-
-# Attributes from Felix Online V1
-id: "6128"
-old_path: /music/6128/a-guide-to-eurovision-2016
+image: "http://felixonline.co.uk/img/upload/201605061101-felix-globe.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6128/a-guide-to-eurovision-2016
-imported: true
 comments:
  - value: >
      The purheascs I make are entirely based on these articles.,The purheascs I make are entirely based on these articles.,Hi there, good web-site you've at this time there <br>nba 2k17 http://mrs-escort.com/blogs/718/6805/cheap-fifa-17-coins-costume-jewelry-for-design-statement,Hi there, good web-site you've at this time there <br>nba 2k17 http://mrs-escort.com/blogs/718/6805/cheap-fifa-17-coins-costume-jewelry-for-design-statement
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061101-felix-globe.jpg"
-image_caption: ""
 ---
 
 After Måns Zelmerlöw’s victory for Sweden in Vienna last year, this year sees “Europe’s favourite TV show” head to Stockholm for the third time in the competition’s history, and it’s set to be a big one! We’ll also see a massive change to the voting system, with each country awarding two sets of points each: one from their televote, one from their professional jury.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Humans made a big splash when it launched last year. Its compelling performances and intriguing premise made it a must-watch. Ahead of the launch of the second season this Sunday, felix lets you know if it retains the quality of the first.
 date: "2016-11-01 00:09:44 +0000"
-
-# Attributes from Felix Online V1
-id: "6377"
-old_path: /tv/6377/humans-20-human-harder
+image: "http://felixonline.co.uk/img/upload/201611010007-felix-IMG_0505.JPG"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6377/humans-20-human-harder
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -23,12 +20,6 @@ authors:
  - ad4013
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611010007-felix-IMG_0505.JPG"
-image_caption: ""
 ---
 
 After _Humans_ first premiered in the summer of 2015, few knew what exactly to expect. The show clearly had significant acting clout behind it, and its subtle marketing campaign was quick to pique the interest of the viewing public. Sure enough, the series managed to live up to, and even surpass, its hype: an increasingly uncommon feat these days. It rapidly became one of the powerhouses of Channel 4’s prime-time arsenal, and a second season was soon in the works. _felix_ had the opportunity to watch the first episode of season 2, ahead of its airing this Sunday. You might be wondering how we managed that. Well, it’s a long and fascinating tale involving laughter, adventure, and signing lots of NDAs. Anyways, how does it hold up? Well, from what I’ve seen, season 2 raises the stakes without compromising the quality.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Today’s strident, aggressive atheists want to fit under the umbrella of ‘secular humanism’ – but do they deserve to?
 date: "2010-11-25 21:35:29 +0000"
-
-# Attributes from Felix Online V1
-id: "441"
-old_path: /comment/441/losing-proportion
+image: "http://felixonline.co.uk/img/upload/201011252132-nm1010-GileadAm.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/441/losing-proportion
-imported: true
 comments:
  - value: >
      What an excellent article... Good stuff.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +23,6 @@ authors:
  - gda07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011252132-nm1010-GileadAm.jpg"
-image_caption: ""
 ---
 
 Towards the end of my second year at Imperial, I was approached by the chair of what was then the Atheist and Agnostic Society with a view to becoming his successor as official Union Antichrist. Owing to a number of other commitments that would have made Beelzebub blanch, I regretfully declined. Much to my chagrin, the society has since done likewise.

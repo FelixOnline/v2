@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Neil Young: After the Gold Rush
 date: "2012-11-09 14:18:23 +0000"
-
-# Attributes from Felix Online V1
-id: "2869"
-old_path: /music/2869/ams-album-of-the-week-4
+image: "http://felixonline.co.uk/img/upload/201211091418-tna08-253749760224187842_pkv0gg4t.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2869/ams-album-of-the-week-4
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - fmusic
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091418-tna08-253749760224187842_pkv0gg4t.jpg"
-image_caption: ""
 ---
 
 You might be wondering why the AMS are talking about Neil Young. You might be thinking, Neil Young’s not cool, he’s not relevant, he’s just some shit old country singer that nobody cares about anymore. I used to be like you. I always had this preconception of him as bland and uninspiring. The Status Quo of singer-songwriters. The Ben Howard of the 60s (yeah, I went there). Then, a few months ago, whilst going through a list of ‘the greatest albums of all time’, I decided to actually listen to After the Goldrush. It turns out he’s amazing. He’s not even particularly country. His career is ridiculously varied, I mean, the man (kind of) invented grunge. Some of his albums are, very rightly, considered amongst the greatest ever written. Honestly, he’s really worth a listen. Give him a go. I’d personally suggest On the Beach as the ideal starting place, but After the Goldrush is also fantastic.

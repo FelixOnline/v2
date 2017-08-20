@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Christy Kelly takes on the world
 date: "2014-01-17 03:34:39 +0000"
-
-# Attributes from Felix Online V1
-id: "4236"
-old_path: /comment/4236/now-is-the-winter-of-our-discontent
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4236/now-is-the-winter-of-our-discontent
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - ck2513
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Richard III marks the start of Shakespeare’s longstanding engagement with villainy. From the ‘motiveless malignity’ of Iago to the sublime tragic grandeur of the Macbeths, the roots of all can be spied in this early work; the scandalous graveside seduction, the poisonous force of Queen Margaret. And yet, it is an early work and this shows: the play lacks the psychological subtlety of Othello, the (if you will forgive an oxymoron) crude sophistication of Troilus and Cressida, the scale of A Winter’s Tale, the profundity of the undeservedly lesser known Richard II. Similarly, the pathos during the death of the little Prince is a little too pathetic, the ghosts serve too simplistic a function when compared to their counterparts in Hamlet, Julius Caesar and Macbeth. Finally there is Richard himself, vulgar without Iago’s intelligence, a short (Napoleon Complex susurrates on the periphery of every analysis), grotesque figure of a very picturesque evil.

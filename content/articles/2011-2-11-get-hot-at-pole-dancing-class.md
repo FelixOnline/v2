@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Beware, this is serious exercise people
 date: "2011-02-11 06:43:35 +0000"
-
-# Attributes from Felix Online V1
-id: "800"
-old_path: /arts/800/get-hot-at-pole-dancing-class
+image: "http://felixonline.co.uk/img/upload/201102110641-ks607-poledanc.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/800/get-hot-at-pole-dancing-class
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - cf107
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102110641-ks607-poledanc.jpg"
-image_caption: ""
 ---
 
 Apparently, Imperial is one of the few universities in the country not to already have a pole dancing society (I wonder why…). Even Cambridge University is better catered for! Given the growing interest in all forms of erotic dancing – the much hyped Burlesque the movie has recently been released – and the shift in emphasis from XXX to exercise, it seemed a good time to find out whether we should think about starting one…

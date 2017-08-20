@@ -4,18 +4,15 @@ title: >
 subtitle: >
   "M83 managed to get the crowd disgustingly sweaty"
 date: "2012-10-18 21:27:28 +0100"
-
-# Attributes from Felix Online V1
-id: "2707"
-old_path: /music/2707/heineken-opener-festival-2012
+image: "http://felixonline.co.uk/img/upload/201210191359-tna08-opener.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2707/heineken-opener-festival-2012
-imported: true
 comments:
  - value: >
      Shame I wasn't there. &lt;3 <br> <br>Buziaki xxxxx
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210191359-tna08-opener.jpg"
-image_caption: ""
 ---
 
 The first thing all Polish attendees of Open’er said when I explained that was British was how crazy I was to go to Poland when Britain has some of the best festivals in the world. They may have a point, but international festivals are definitely underrated.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   College Council haven’t delivered on the teaching review
 date: "2011-05-26 19:27:05 +0100"
-
-# Attributes from Felix Online V1
-id: "1261"
-old_path: /comment/1261/broken-promises
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1261/broken-promises
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 [Last week’s Felix headline](http://felixonline.co.uk/news/1242/union-president-maggie-dallman-misinformed-college-council/) announced that I accused Professor Dallman, the Principle of Natural Sciences, of lying to the College Council. Those are not the exact words that I used (I said she lied to the Union President and misled College Council), but the implications are large and it is worth explaining what happened.

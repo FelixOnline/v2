@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Man of Steel Review
 date: "2013-06-21 00:21:55 +0100"
-
-# Attributes from Felix Online V1
-id: "3731"
-old_path: /film/3731/fit-cavill-in-tights
+image: "http://felixonline.co.uk/img/upload/201306210121-tna08-man-of-steel-2165999.jpg"
+image_caption: "I’m so pretty"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3731/fit-cavill-in-tights
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306210121-tna08-man-of-steel-2165999.jpg"
-image_caption: ""
 ---
 
 After the disappointment of Superman Returns that gave very little of what audiences were really looking for, here comes another reboot that starts off a well-known superhero character story from scratch. And here is the kind of loud, bombastic action feature this definitive superhero really deserves.

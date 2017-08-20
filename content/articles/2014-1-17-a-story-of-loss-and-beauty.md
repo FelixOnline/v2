@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Vithulan Patkunan reviews Donna Tartt’s latest masterpiece
 date: "2014-01-17 03:50:28 +0000"
-
-# Attributes from Felix Online V1
-id: "4243"
-old_path: /books/4243/a-story-of-loss-and-beauty
+image: "http://felixonline.co.uk/img/upload/201401170350-jal08-goldfinch.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/4243/a-story-of-loss-and-beauty
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -25,12 +22,6 @@ authors:
  - vp1312
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201401170350-jal08-goldfinch.jpg"
-image_caption: ""
 ---
 
 Anyone familiar with Donna Tartt knows that her works take time; her debut, _The Secret History_, took her eight years to complete and her following novel, _The Little Friend_, a decade. Anyone familiar with Donna Tartt also knows that the wait is completely justified and worth it. _The Goldfinch_, her third and latest novel is no different from its predecessors, in both senses. Fans have been waiting for her next novel for eleven years and it was finally unleashed on the world in the autumn of 2013. At a hefty 771 pages, the book is her longest yet and the world she creates is, no doubt, the richest.

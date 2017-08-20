@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lets turn the clock back to the end of the summer term, 2013. The days were long and hard, but then the term ended, and all was well. And suddenly I found myself with much more time for gaming.
 date: "2013-10-30 15:42:39 +0000"
-
-# Attributes from Felix Online V1
-id: "3958"
-old_path: /games/3958/a-summer-at-gunpoint
+image: "http://felixonline.co.uk/img/upload/201310301541-me1711-games_gunpoint.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3958/a-summer-at-gunpoint
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - ab4211
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310301541-me1711-games_gunpoint.jpg"
-image_caption: ""
 ---
 
 Lets turn the clock back to the end of the summer term, 2013. The days were long and hard, but then the term ended, and all was well. And suddenly I found myself with much more time for gaming. This in turn allowed me to finally catch up with a game I had been anticipating for a year, Gunpoint. I’d first learned about it from the developer’s blog/website (www.gunpointgame.com) back in my first year. Here’s the general idea:

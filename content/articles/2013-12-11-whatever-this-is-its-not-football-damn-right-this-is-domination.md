@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This match report was thrust on to me, in the literal sense, by Captain Robinson in the late hours of Monday night who had more important things to do. I had planned a quiet night in with the other half after training, but duty called and I rose to the occasion...
 date: "2013-12-11 00:33:21 +0000"
-
-# Attributes from Felix Online V1
-id: "4198"
-old_path: /sport/4198/whatever-this-is-its-not-football-damn-right-this-is-domination
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4198/whatever-this-is-its-not-football-damn-right-this-is-domination
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This match report was thrust on to me, in the literal sense, by Captain Robinson in the late hours of Monday night who had more important things to do. I had planned a quiet night in with the other half after training, but duty called and I rose to the occasion; ladies take note, when Peter Nugent is called upon, he delivers, in style.

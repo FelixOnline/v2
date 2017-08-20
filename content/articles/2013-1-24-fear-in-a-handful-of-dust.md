@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Riaz Agahi reviews Hacker Farm’s new album, UHF
 date: "2013-01-24 22:33:31 +0000"
-
-# Attributes from Felix Online V1
-id: "3166"
-old_path: /music/3166/fear-in-a-handful-of-dust
+image: "http://felixonline.co.uk/img/upload/201301242234-mc4509-hacker-farm---uhf-cover.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3166/fear-in-a-handful-of-dust
-imported: true
 comments:
  - value: >
      Heather - Yay Becca! I'm so excited for you! I'm lkioong forward to reading your book when it comes out in the Spring of next year. Hopefully it will be after my finals so I won't have to worry about reading textbooks anymore and I can read your book instead.December 4, 2009 6:39 am
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301242234-mc4509-hacker-farm---uhf-cover.jpg"
-image_caption: ""
 ---
 
 There is a scene in Fitzgerald’s novel [_The Great Gatsby_](http://en.wikipedia.org/wiki/The_Great_Gatsby), where he describes a valley of ashes, a wasteland in suburban New York, full of dirt, decay, ash, and poverty. If such a place had a soundtrack, it would probably be [__Hacker Farm__](http://www.thewire.co.uk/audio/tracks/stream-hacker-farm-tracks). Such is the intimidating, disconcerting nature of the soundscapes of this year’s album, _UHF_. Perhaps as a result of this comparison, I can’t help but feel that there is something very modernist about the atmosphere their music creates. Their sound is a mix of the very darkest elements of electronica (see the broken down beat of ‘Grinch’), noise and maybe a dash of industrial. Unlike the valley of ashes, this dystopian mix provides the cultural backdrop of modern Britain, self-styled ‘Broken Music for a Broken Britain’. ‘One, Six, Nein’ is one example, with an almost punk-like dissatisfaction with society reflected in a sample. Unlike some punk and many other merchants of a dystopian sound, this leads them to new and inventive ideas of music production.

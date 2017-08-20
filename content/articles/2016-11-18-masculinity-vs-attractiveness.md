@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sophie Protheroe discusses how nature has shaped our taste in men
 date: "2016-11-18 14:52:10 +0000"
-
-# Attributes from Felix Online V1
-id: "6465"
-old_path: /science/6465/masculinity-vs-attractiveness
+image: "http://felixonline.co.uk/img/upload/201611181451-felix-man-461195_1280.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6465/masculinity-vs-attractiveness
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - sophieprotheroe
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611181451-felix-man-461195_1280.jpg"
-image_caption: ""
 ---
 
 Why do we find some people more attractive than others? Qualities such as a sense of humour, good looks, and honesty are often considered attractive. However, you may be surprised to discover that your immune system influences your choice of partner.

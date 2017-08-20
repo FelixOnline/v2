@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Scientists slightly miffed
 date: "2017-02-03 15:01:15 +0000"
-
-# Attributes from Felix Online V1
-id: "6707"
-old_path: /news/6707/uk-bound-to-leave-euratom
+image: "http://felixonline.co.uk/img/upload/201702031500-felix-8067362171_f0f9422e23_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6707/uk-bound-to-leave-euratom
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - alexandreadler
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702031500-felix-8067362171_f0f9422e23_o.jpg"
-image_caption: ""
 ---
 
 In a slightly surprising move, the UK government announced last Friday that Brexit meant leaving Euratom. This comes after Theresa May said Britain would: “welcome agreement to continue to collaborate with our European partners on major science, research, and technology initiatives” in her Lancaster House speech last month.

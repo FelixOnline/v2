@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Evolution leads to key behind a scared response
 date: "2011-11-03 19:49:27 +0000"
-
-# Attributes from Felix Online V1
-id: "1656"
-old_path: /science/1656/why-we-allow-fear-to-take-control
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1656/why-we-allow-fear-to-take-control
-imported: true
 comments:
  - value: >
      What should I tell him to try again?How do I get him back?What do I say?Here is the soiuatitn:He and I were high school sweethearts and were engaged to be married after I graduated (hes two years older than I am) A month after I graduated he told me he had joined the military. He didn't talk with me about it previously, and he did it for us. We went our separate ways very messily i might add. I jumped into another relationship, married the guy a month later. He and I reconciled and tried being friends, and he was already friends with my husband. He left for basic. Three months later I found out I was pregnant. My husband sent me to the town he was stationed to start over new as a family, instead of joining me, I was served divorce papers. My ex fiance and I realized the flame never went out. I had to leave to go back for my daughter. We tried a long distance relationship that did not work well (his day to day was the same thing every day, and he did not have much to say' but we both still loved each other as
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -27,12 +24,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It was a dark, misty, eerie night this Halloween. I was walking alone through a deserted, narrow street in London. The sound of footsteps behind me made me start. I stopped and listened. The noise stopped. I carried on walking. The footsteps started again. All my senses were heightened. I began to wonder if someone was in the dark behind me. The footsteps got nearer. My heart started racing, palms started sweating. The footsteps got louder. Fear took over and I started looking for somewhere to run, to hide, to get away.

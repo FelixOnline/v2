@@ -4,18 +4,15 @@ title: >
 subtitle: >
   ICSM President thinks it's BUCing awful
 date: "2013-03-14 23:58:26 +0000"
-
-# Attributes from Felix Online V1
-id: "3456"
-old_path: /news/3456/medics-stage-protest-over-bucs-decision
+image: "http://felixonline.co.uk/img/upload/201303150001-tna08-medics-bucs.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3456/medics-stage-protest-over-bucs-decision
-imported: true
 comments:
  - value: >
      We have 5 women's hockey teams across IC and ICSM - instead of coming together and ensuring that everyone who wants to play hockey plays at an appropriate level, we spread our skill across two clubs and reduce the quality of hockey played. <br> <br>This must be the same across all sports. I can't believe that students want to preserve some arbitrary historical separation in the way we organise sports participation to the detriment of opportunities to play at the highest level possible and improve your own playing ability by playing at a higher level. I can't see any reason why the social aspects can't remain with two separate unions anyway, which is likely the bit that people want preserved any way. <br> <br>There must be others who are bored of playing a lower level than the Sport Imperial could offer by combining the skills of college and medical students.,We have 5 women's hockey teams across IC and ICSM - instead of coming together and ensuring that everyone who wants to play hockey plays at an appropriate level, we
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303150001-tna08-medics-bucs.jpg"
-image_caption: ""
 ---
 
 The British Universities & Colleges Sport ([BUCS](http://www.bucs.org.uk/homepage.asp)) acts as the national governing body for higher education sport in the UK. They have decided that a single educational institution should not be able to compete as two separate teams. This means that the current system where Imperial College (IC) and Imperial College School of Medicine (ICSM) are separate teams will not be able to continue.

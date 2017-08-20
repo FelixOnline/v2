@@ -4,16 +4,14 @@ title: >
 subtitle: >
   David Sandberg's debut feature relies too much on jump scares, but attempts to tackle heavy topics
 date: "2016-09-10 16:58:38 +0100"
-
-# Attributes from Felix Online V1
-id: "6297"
-old_path: /film/6297/lights-out-leaves-us-in-the-dark
+image: "http://felixonline.co.uk/img/upload/201609101851-ff712-lightsout_sc01.png"
+image_caption: "Martin, Sophie's son, is one of the casualties pushed away by her sinister companion 'Diana'."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6297/lights-out-leaves-us-in-the-dark
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +21,6 @@ authors:
  - mhz15
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201609101851-ff712-lightsout_sc01.png"
-image_caption: ""
 ---
 
 David Sandberg pops his cherry in the world of big budget films with _Lights Out_, a horror flick based on his YouTube short of the same name. James Wan, director of _The Conjuring_ series, takes the ambitious Swedish-born director under his wing as producer. But just how much Wan coached his new disciple remains unclear: the film rapidly becomes reliant on cheap, hackneyed jump scares, and is diagnosed by the horror-doctor as severely deficient in _The Conjuring_’s atmospheric buildup of spookiness. But dig a little deeper and Sandberg’s attempt at drawing a euphemism for depression using ‘Diana’ – the malevolent figure at the centre of the film – becomes apparent.

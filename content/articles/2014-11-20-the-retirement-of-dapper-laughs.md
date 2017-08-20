@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Nathaniel Gallop on the underlying issues that encourage media misogyny
 date: "2014-11-20 20:54:09 +0000"
-
-# Attributes from Felix Online V1
-id: "4911"
-old_path: /comment/4911/the-retirement-of-dapper-laughs
+image: "http://felixonline.co.uk/img/upload/201411202054-cj914-tzsx7uqf.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4911/the-retirement-of-dapper-laughs
-imported: true
 comments:
  - value: >
      well, it never happend like that, here is a statement been made, I would just like to put the record straight. Dapper laughs at his show, he said to the audience that people were saying that he show on ITV2, Was promoting rape, s which he replied, I would not have made six shows to do this, all I need is to go to the hardware shop and buy some duct tape, 10 minute show job finished. Then someone in the audience said something about rape. Which D-L said no you can't do that, then in the corner of the stage a girl shouted out her friend that she was with, she's gagging for a rape. So dapper laughs said you're gagging for a rape he did not say it first. If you look at the the footage he said i will see you back stage and Bring your friend. Which the audience laughs . news night put subtitles in their program to suit them. And not dapperlaughs, so in the footage he explains, what went down, but the program did not air his explanation. tbh i think he should sue for damages for all the untrue slander!,He still so
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ng611
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411202054-cj914-tzsx7uqf.jpeg"
-image_caption: ""
 ---
 
 Ten days ago, controversial internet sensation Daniel O’Reilly appeared on an exclusive Newsnight interview to announce the retirement of his comedic persona, Dapper Laughs.

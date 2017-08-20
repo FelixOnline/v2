@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jorrit Schafer bridges the gaps between game and sport...
 date: "2013-05-01 12:15:59 +0100"
-
-# Attributes from Felix Online V1
-id: "3510"
-old_path: /sport/3510/bridge-team-wins-university-bridge-championship
+image: "http://felixonline.co.uk/img/upload/201305012033-tna08-bridge-copy.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3510/bridge-team-wins-university-bridge-championship
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - js2207
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305012033-tna08-bridge-copy.png"
-image_caption: ""
 ---
 
 The Imperial College Bridge society was shut down a several years ago but after some convincing the Imperial College Union decided to give us another shot and the Imperial College Bridge club was up and running again in 2010. Our sport once again had a dedicated club at our university (and yes, it is a sport according to the IOC!).

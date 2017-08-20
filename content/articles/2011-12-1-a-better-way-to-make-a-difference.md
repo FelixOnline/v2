@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The TEKUA project comes to London in co-operation with local businesses and Imperial College students in order to raise money towards better Tanzanian education
 date: "2011-12-01 20:22:56 +0000"
-
-# Attributes from Felix Online V1
-id: "1868"
-old_path: /arts/1868/a-better-way-to-make-a-difference
+image: "http://felixonline.co.uk/img/upload/201112012020-pk1811-tekua5.jpg"
+image_caption: "They make art which is sold around the world "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1868/a-better-way-to-make-a-difference
-imported: true
 comments:
  - value: >
      Donations are welcome on: <br>http://www.justgiving.com/projectTEKUA <br>Even 1 pound makes a difference! It will provide 40 days of education to a student!
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012020-pk1811-tekua5.jpg"
-image_caption: ""
 ---
 
 From the streets of Manhattan to the crowded squares of Europe, much of the recent media attention has been devoted to the extravagant protest of those who call themselves “Indignados”. Thousands have taken to the streets, forcibly occupying major landmarks in protest against financial injustices inflicted on them by the capitalist system. But amidst all of the ruckus, hidden deep in the background, is the persistent call for help of a people who are so often forgotten and largely ignored by the mass media of the Western World. I am talking about the atrocious statistic reporting the 92% of young Tanzanians who cannot afford to pay for secondary school. While the noisy protest aims of the “occupy” group are often sympathised with by Westerners, the silent cry of millions of Tanzanians who are denied an essential human right often falls upon deaf ears. It is to change this gruelling reality that a group of Imperial students has chosen to speak out and take concrete action. Rather than forcibly occupying town squares and pointing fingers at potential culprits, we have decided to adopt a different approach by reaching out to local businesses in search for potential fundraising opportunities. The target of all our efforts is an inspirational education establishment in north eastern Tanzania, called the TEKUA project.

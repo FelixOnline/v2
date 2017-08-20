@@ -4,16 +4,13 @@ title: >
 subtitle: >
   They don't get their talons into the opposition
 date: "2012-11-09 14:33:30 +0000"
-
-# Attributes from Felix Online V1
-id: "2876"
-old_path: /sport/2876/disappointing-start-for-the-falcons
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2876/disappointing-start-for-the-falcons
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - bs2010
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Imperial’s baseball team, the Falcons, began their season yesterday with a double header of friendly games against the University of London Japanese Society.

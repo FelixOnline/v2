@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Max Eggl talking to one of the Yoyo founders Michael Rolph, on the merits of mobile and future plans of Yoyo at imperial
 date: "2014-02-12 12:01:43 +0000"
-
-# Attributes from Felix Online V1
-id: "4370"
-old_path: /tech/4370/find-the-egg-laying-chicken-yoyonotyolo
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4370/find-the-egg-laying-chicken-yoyonotyolo
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -22,12 +19,6 @@ authors:
  - me1711
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __ME: Introduce yourself:__

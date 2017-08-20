@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rugby team at its best
 date: "2011-02-17 20:45:10 +0000"
-
-# Attributes from Felix Online V1
-id: "850"
-old_path: /sport/850/1st-xv-overrun-portsmouth
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/850/1st-xv-overrun-portsmouth
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - dmw08
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The 1st XV travelled down to Portsmouth on Wednesday eager to maintain their challenge for promotion against a side that are extremely difficult to beat at home.

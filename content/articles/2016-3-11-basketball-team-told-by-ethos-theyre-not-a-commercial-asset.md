@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Their slots had already been cancelled twice in three months without notice
 date: "2016-03-11 11:20:03 +0000"
-
-# Attributes from Felix Online V1
-id: "6017"
-old_path: /news/6017/basketball-team-told-by-ethos-theyre-not-a-commercial-asset
+image: "http://felixonline.co.uk/img/upload/201603111118-felix-bball.jpg"
+image_caption: "Men's Imperial 1st Basketball are currently top of their BUCS league group. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6017/basketball-team-told-by-ethos-theyre-not-a-commercial-asset
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603111118-felix-bball.jpg"
-image_caption: ""
 ---
 
 Last weekend Imperial’s 1st Basketball team were told as they arrived for a tournament they had organised that their court booking had been given away to a birthday party.

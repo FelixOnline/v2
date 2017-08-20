@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Extreme Light Infrastructure laser to produce Sun-like intensities
 date: "2011-11-10 21:06:21 +0000"
-
-# Attributes from Felix Online V1
-id: "1725"
-old_path: /science/1725/tearing-apart-the-vacuum-of-space
+image: "http://felixonline.co.uk/img/upload/201111102102-pk1811-40-60-0699-1324_4.jpg"
+image_caption: "The laser target chamber in the National Ignition Facility in California, US."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1725/tearing-apart-the-vacuum-of-space
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ak6309
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102102-pk1811-40-60-0699-1324_4.jpg"
-image_caption: ""
 ---
 
 Physicists are proposing an experiment that will require the world’s most powerful laser. The Extreme Light Infrastructure (ELI) Ultra-High Field Facility is touted to produce a laser so powerful that it would be able to pull together the fabric of space, vacuums.

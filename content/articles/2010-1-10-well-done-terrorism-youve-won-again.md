@@ -4,18 +4,15 @@ title: >
 subtitle: >
    you've won again
 date: "2010-01-10 01:29:25 +0000"
-
-# Attributes from Felix Online V1
-id: "21"
-old_path: /comment/21/well-done-terrorism---youve-won-again
+image: "http://felixonline.co.uk/img/upload/201001141543-rsp07-ChengZha.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/21/well-done-terrorism---youve-won-again
-imported: true
 comments:
  - value: >
      The millions to be spent on full body scanners actually seems like a very sound investment in the safety of civilians. <br> <br>The £100,000 loss on last year's summer ball, however...
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001141543-rsp07-ChengZha.jpg"
-image_caption: ""
 ---
 
 Well done terrorism – you’ve won again. A single guy is discovered with (potentially) explosive underpants and now millions of pounds of taxpayers’ money is being spent on full body scanners in airports. Initially, there was a fuss over liquids, which are still banned until 2011. Presumably someone somewhere in the world was discovered with a bottle of liquid which was apparently part of a wider bomb plot. As a result of that, millions of travellers not only have to endure excessively long queues but are left baffled every day when their bottles of juice and plastic bags are confiscated by security personnel. Terrorists around the world must be rubbing their hands together gleefully at the thought of the millions of pounds we’ve been forced to spend on largely meaningless and useless crap every time there’s even a whiff of suspected terrorist activity. I wouldn’t be surprised if the terrorists who plotted the daring underpants raid had shares in these body scanner producing companies.

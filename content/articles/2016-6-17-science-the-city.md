@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-06-17 09:11:50 +0100"
-
-# Attributes from Felix Online V1
-id: "6278"
-old_path: /science/6278/science--the-city
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6278/science--the-city
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - nms15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The year has come to an end. We’ve jammed and transformed our brains, learning some things better than others. We’ve prepared ourselves with the tools we need for the next chapter in our lives. As we all go our own ways this summer (unless you’re stuck here on campus toiling away while everyone jovially twirls outside in their freedom, like me) what are the really important things to remember from all we’ve experienced this year?

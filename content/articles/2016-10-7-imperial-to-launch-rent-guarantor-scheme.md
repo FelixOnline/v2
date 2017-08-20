@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Union does thing – student body in awe
 date: "2016-10-07 16:54:06 +0100"
-
-# Attributes from Felix Online V1
-id: "6310"
-old_path: /news/6310/imperial-to-launch-rent-guarantor-scheme
+image: "http://felixonline.co.uk/img/upload/201610071852-felix-69729963_a737132ad6_o.jpg"
+image_caption: "200pw cause South Ken is fancy af  "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6310/imperial-to-launch-rent-guarantor-scheme
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610071852-felix-69729963_a737132ad6_o.jpg"
-image_caption: ""
 ---
 
 Imperial has finally joined the ranks of UK universities offering a rent guarantor scheme, to the delight of many overseas students who are often forced to pay up to a year’s rent in advance due to lack of a UK guarantor. The scheme which was announced this summer by the Union, is set to be launched in 2017, initially as a pilot programme. During this trial period, the guarantor scheme will only be available to returning undergraduate students, but hopefully in the future postgrads and freshers who’d rather not pay 800 pcm will also be able to sign up for it.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Dan Wan with the latest on the CGCU VPFS
 date: "2010-02-01 16:34:52 +0000"
-
-# Attributes from Felix Online V1
-id: "59"
-old_path: /news/59/guilds-vice-president-awol-not-likely-he-says
+image: "http://felixonline.co.uk/img/upload/201002011632-rsp07-rikkinor.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/59/guilds-vice-president-awol-not-likely-he-says
-imported: true
 comments:
  - value: >
      Hi there. I'd just like to stress that I was not &amp;quot;reluctant to update the article&amp;quot;. I was reluctant to remove the article, which is what Mr Norris requested. Mr Norris made the requests to my personal account and in a personal manner, and requested that I did not disclose the reason of his absence. Following a short email correspondence, the article was updated with corrections provided by Mr Norris within just a few hours of the article being published and no formal complaint to the Live! email account has been received. <br> <br>It is unfortunate that felix made no attempt to contact myself personally or via Live! before publishing this article.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - rsp07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002011632-rsp07-rikkinor.jpg"
-image_caption: ""
 ---
 
 In a long line of mishaps involving the City & Guilds College Union, their Vice President (Finance & Societies) Rikki Norris has been criticised for his absence about College, but has now spoken to felix to clarify the situation.

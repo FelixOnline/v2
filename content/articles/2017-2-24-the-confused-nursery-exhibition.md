@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A look into the intriguing Blythe gallery display from LeoSoc and PhotoSoc
 date: "2017-02-24 15:34:30 +0000"
-
-# Attributes from Felix Online V1
-id: "6832"
-old_path: /cands/6832/the-confused-nursery-exhibition
+image: "http://felixonline.co.uk/img/upload/201702241534-felix-16810834_10100760943107935_1771839755_o.jpg"
+image_caption: "The exhibition came with a face painting stand!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/6832/the-confused-nursery-exhibition
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -25,12 +23,6 @@ authors:
  - tommutimer
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702241534-felix-16810834_10100760943107935_1771839755_o.jpg"
-image_caption: ""
 ---
 
 Friday of last week, I had the pleasure of attending the Blyth gallery for the opening of a joint exhibition between Leonardo Fine Arts and PhotoSoc, titled ‘Confused Nursery’.

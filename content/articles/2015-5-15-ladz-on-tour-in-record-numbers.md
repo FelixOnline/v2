@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Deputy President (Clubs and Societies) Abi de Bruin says keep sending in those requests!
 date: "2015-05-15 12:48:26 +0100"
-
-# Attributes from Felix Online V1
-id: "5536"
-old_path: /cands/5536/ladz-on-tour-in-record-numbers
+image: "http://felixonline.co.uk/img/upload/201505151348-cj914-sitttingingng.png"
+image_caption: "I. Am. Envy."
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5536/ladz-on-tour-in-record-numbers
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -24,12 +22,6 @@ authors:
  - ad4812
  - cj914
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505151348-cj914-sitttingingng.png"
-image_caption: ""
 ---
 
 At Imperial probably one of my favourite things that we get to support Clubs, Societies and Projects with is tours. If I mention it to anyone at other Students’ Unions they can’t believe that we not only support students going on tour but also fund it. Though I guess that in a lot of other places ‘tour’ is often more synonymous with ‘drinking tour’ rather than “we’re going to go do our club activity somewhere new that lets us experience it in a different, exciting way”.

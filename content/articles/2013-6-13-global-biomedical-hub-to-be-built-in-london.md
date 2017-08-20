@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Collaboration between the big dawgs in London
 date: "2013-06-13 23:10:21 +0100"
-
-# Attributes from Felix Online V1
-id: "3690"
-old_path: /news/3690/global-biomedical-hub-to-be-built-in-london
+image: "http://felixonline.co.uk/img/upload/201306140009-tna08-paulnurse.jpg"
+image_caption: "Sir Paul Nurse, director of the Francis Crick institute"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3690/global-biomedical-hub-to-be-built-in-london
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - ar3310
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306140009-tna08-paulnurse.jpg"
-image_caption: ""
 ---
 
 A £650 million medical research centre is under construction in London. Funded by the Medical Research Council, Cancer Research UK, the Welcome Trust as well as Imperial College London, University College London and King’s College London. The Francis Crick Institute will be based in King Cross next to St Pancras International station and will open in 2015.

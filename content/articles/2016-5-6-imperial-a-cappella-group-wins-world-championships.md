@@ -4,18 +4,16 @@ title: >
 subtitle: >
   They were even featured on the worldwide Snapchat story
 date: "2016-05-06 09:44:30 +0100"
-
-# Attributes from Felix Online V1
-id: "6116"
-old_path: /news/6116/imperial-a-cappella-group-wins-world-championships
+image: "http://felixonline.co.uk/img/upload/201605061044-felix-JMP_8002.jpg"
+image_caption: "The lads performed songs by British artists."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6116/imperial-a-cappella-group-wins-world-championships
-imported: true
 comments:
  - value: >
      Why was this not front page news? The front page doesn't even seem to have an article associated with it this week, and the story is really poor.,Why was this not front page news? The front page doesn't even seem to have an article associated with it this week, and the story is really poor.,Thanks for the feedback anonymous! The front page story continues on page 5, silly us for not including a 'continues on...' ????,Thanks for the feedback anonymous! The front page story continues on page 5, silly us for not including a 'continues on...' ????,Thanks for the feedback anonymous! The front page story continues on page 5, silly us for not including a 'continues on...' ,Thanks for the feedback anonymous! The front page story continues on page 5, silly us for not including a 'continues on...' ,line 1: italics on “Glee"<br>line 2: capitalisation on "a cappella” (both words should be lower-case)<br>line 3: capitalisation on “a cappella” both wrong *and* inconsistent with the rest of the article<br>line 4: surely “f
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061044-felix-JMP_8002.jpg"
-image_caption: ""
 ---
 
 In a series of events that could have come straight out of a Glee episode, Imperial’s male A Cappella group, The Techtonics, managed to win first prize at the finals of the international competition for university A cappella groups in New York. They are the first ever British team to win.

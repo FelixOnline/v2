@@ -4,18 +4,15 @@ title: >
 subtitle: >
   If the rich get to pay their way into university, I’m emigrating
 date: "2011-05-12 19:17:59 +0100"
-
-# Attributes from Felix Online V1
-id: "1205"
-old_path: /comment/1205/money-matters
+image: "http://felixonline.co.uk/img/upload/201105122015-felix-comment-illustration-12th-may-2011-benjamin-kennedy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1205/money-matters
-imported: true
 comments:
  - value: >
      There are an awful lot of overseas students at Imperial who already pay exorbitant prices to be able to study here. <br> <br>Are they buying their way in / taking places that could be occupied by poor but talented British students (or even poor but talented foreign students)? <br> <br>I'm not necessarily either in favour of or against this proposed policy, but it seems odd to have a knee-jerk negative reaction to it when we all already tolerate the presence of an equally discriminatory system.,No more s***. All posts of this quliaty from now on,aUgA5O <a href="http://ibfqsksviuhg.com/">ibfqsksviuhg</a>, <a href="http://www.pillsprix.com/">propecia results</a> %]]] <a href="http://www.medicashop.net/">buy tramadol online</a> ahudi
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - mrangry
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105122015-felix-comment-illustration-12th-may-2011-benjamin-kennedy.jpg"
-image_caption: ""
 ---
 
 I try not to get too interested in politics. It leads to disappointment and raised blood pressure, and I get enough of that during exam season as it is. I raised an eyebrow at the NHS reform debate, but even that managed to cool down after a week of whining from pressure groups, and my eyebrow repositioned itself on my face in its classic, slanted, hateful place, knotted between my eyes.

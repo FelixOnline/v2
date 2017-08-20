@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Alexandra Lim looks at the science behind our cravings, and why it’s easier to stop bingeing than we think
 date: "2017-02-10 14:02:57 +0000"
-
-# Attributes from Felix Online V1
-id: "6751"
-old_path: /science/6751/ending-the-cycle-of-junk
+image: "http://felixonline.co.uk/img/upload/201702101402-felix-snack-1555512_1920.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6751/ending-the-cycle-of-junk
-imported: true
 comments:
  - value: >
      I can't believe you're not playing with meth--at was so helpful.
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -26,12 +23,6 @@ authors:
  - al4915
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101402-felix-snack-1555512_1920.jpg"
-image_caption: ""
 ---
 
 As I type, I’m eating a thin slice of Japanese soufflé cheesecake I made yesterday. But the pleasure I took in eating it triggered a glitch of annoyance. I realised such fine nuances of taste and texture are easily overlooked in today’s world where easy access to and high abundance of  high-energy, palatable, chemical-laden foods is the norm. These are the reasons that drive the overwhelming prevalence of obesity and metabolic disease.

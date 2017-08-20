@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Joshua Renken gives a brief overview of the latest 13-episode installment of the hit US web television series. In short: less sex, more politics.
 date: "2015-03-03 12:34:49 +0000"
-
-# Attributes from Felix Online V1
-id: "5317"
-old_path: /tv/5317/house-of-cards-series-3-review-worth-the-wait-worth-your-weekend
+image: "http://felixonline.co.uk/img/upload/201503031234-ps3110-house-of-cards.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/5317/house-of-cards-series-3-review-worth-the-wait-worth-your-weekend
-imported: true
 comments:
  - value: >
      Last sentence: their instead of there. Get better copy editors. ,Superb, what a blog it is! This web site presents valuable information to us, keep it up. <br>moncler london oxford street 515 http://www.brainhurricano.org/?uk-moncler-london-oxford-street-515-14860.html,"可以考慮下送Moleskine筆記簿 "I also want to suggest this. Its the best and also a nice fuiatnon pen in the tradition of all good future writers.Also a happy birthday to you (弦外之音!)PS Cant say 快高長大 cos of this:"今天女兒已十三周歲了 已是少年了 女兒大了 人長高了 已比她媽媽高 ",buy fitflops online australia <br>fitflop online http://australiafitflops.iemiller.net/,louboutin fifi <br>cheap christian louboutin canada http://canadachristianlouboutinoutlet.blogspot.com/,Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means mo
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503031234-ps3110-house-of-cards.jpg"
-image_caption: ""
 ---
 
 __This review contains one big spoiler!__

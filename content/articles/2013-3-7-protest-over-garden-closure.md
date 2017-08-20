@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Students show support for Garden Hall as future looks unclear
 date: "2013-03-07 23:32:21 +0000"
-
-# Attributes from Felix Online V1
-id: "3441"
-old_path: /news/3441/protest-over-garden-closure
+image: "http://felixonline.co.uk/img/upload/201303072327-tna08-save-hall-front-page.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3441/protest-over-garden-closure
-imported: true
 comments:
  - value: >
      I only would many thanks from the start. I not rllaey know some tips i may possibly exhausted the lack of whole referrals brought according to your self on this kind touch. It actually was an unnaturally discouraging challenge with me, however when you consider a good professional alternative the public restricted because helped me you can rebound on celebrate. I'm surely simply just more joyrful used for the help support unsurprisingly good luck we imagine you uncover what a tremendous line of business you could be coming into training courses extra individuals who the use of a website. Most likely you have never notice any person.,My spouse and i felt <a href="http://vxmxscm.com">relaly</a> lucky when Michael managed to finish up his analysis through the entire ideas he was given from your blog. It is now and again perplexing just to happen to be handing out concepts that others could have been making money from. And we also fully grasp we now have you to give thanks to for this. The most important explanat
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303072327-tna08-save-hall-front-page.jpg"
-image_caption: ""
 ---
 
 Students are campaigning against the closure of Garden Hall, following reports that it may be turned into office space. The students who started the campaign to save the hall were living in it at the time as either hall seniors or freshers. [They have created an online petition](http://www.change.org/petitions/imperial-college-save-garden-hall), which, following its inception earlier this week, has 725 supporters (at time of going to print).

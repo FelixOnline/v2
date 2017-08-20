@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lizzy Griffiths goes to Newquay for the waves, and the 'bants' probably
 date: "2013-05-01 10:22:48 +0100"
-
-# Attributes from Felix Online V1
-id: "3509"
-old_path: /sport/3509/everyones-gone-surfing-surfing-newquay
+image: "http://felixonline.co.uk/img/upload/201305012035-tna08-surf2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3509/everyones-gone-surfing-surfing-newquay
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - eag09
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305012035-tna08-surf2.jpg"
-image_caption: ""
 ---
 
 On the 1st March, the call of Newquay found SurfSoc packing into a minibus for our second trip of 2013. Already full and with two people still to pick up at Bristol, we battled on through the Friday traffic towards our goal: the sea (and Belushi’s). At Bristol, we stocked up on passengers, port and WKD with Carly Rae on full volume. The creation of the ‘social seat’ and a few Cheeky Vimto’s later, the atmosphere began to heat up and soon the whole minibus was skanking to Radio1’s Friday Nite Dubstep Bangerz. Big up to Alex ‘Karbs’ Karvelas for not crashing at this point while Adam ‘Hardcore’ Harvey was gyrating in his face! However, Karbs became progressively less composed as the frequency of toilet stops “on the side of a f***ing road” increased but at around 1am we finally rolled into our destination. The night was still young though, and there was still time for many Jaeger bombs and games of International Cock or Ball before the Belushi’s staff began to tire of our antics and we finally resigned ourselves to bed.

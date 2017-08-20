@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ipsita Herlekar talks food waste and how it’s not just about the food that goes in the bin but also about the food that goes in your tum-tum
 date: "2017-03-10 13:36:17 +0000"
-
-# Attributes from Felix Online V1
-id: "6870"
-old_path: /science/6870/food-flushed-down-the-drain
+image: "http://felixonline.co.uk/img/upload/201703101336-felix-4713741392_e477441f57_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6870/food-flushed-down-the-drain
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ipsitaherlekar
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101336-felix-4713741392_e477441f57_o.jpg"
-image_caption: ""
 ---
 
 Food waste is a global problem. As per the Food and Agriculture Organization (FAO), over 870 million people are malnourished and the figures will grow in the future with increase in population.

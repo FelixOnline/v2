@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jack Steadman joins the rebellion
 date: "2014-11-24 12:40:51 +0000"
-
-# Attributes from Felix Online V1
-id: "4942"
-old_path: /film/4942/once-more-unto-the-breach-felix-reviews-mockingjay-part-1
+image: "http://felixonline.co.uk/img/upload/201411241240-ps3110-mockingjay-2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4942/once-more-unto-the-breach-felix-reviews-mockingjay-part-1
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411241240-ps3110-mockingjay-2.jpg"
-image_caption: ""
 ---
 
 __Mockingjay – Part 1__

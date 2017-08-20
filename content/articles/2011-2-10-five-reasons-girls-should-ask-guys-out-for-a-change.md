@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Charlotte Ivison calls for girls to share the burden this Valentine's Day
 date: "2011-02-10 21:09:13 +0000"
-
-# Attributes from Felix Online V1
-id: "795"
-old_path: /comment/795/five-reasons-girls-should-ask-guys-out-for-a-change
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/795/five-reasons-girls-should-ask-guys-out-for-a-change
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - ci107
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __1. Imperial man syndrome.__

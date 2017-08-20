@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix Arts reviews Howie the Rookie
 date: "2014-11-23 21:34:14 +0000"
-
-# Attributes from Felix Online V1
-id: "4933"
-old_path: /arts/4933/a-one-man-play-tells-a-multitude-of-stories
+image: "http://felixonline.co.uk/img/upload/201411232134-ps3110-howie.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4933/a-one-man-play-tells-a-multitude-of-stories
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - ps3110
  - ps5714
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411232134-ps3110-howie.jpeg"
-image_caption: ""
 ---
 
 __Howie the Rookie__ is an 80-minute single-actor play directed by Mark O’Hove and performed by Tom Vaughan-Lawlor, currently playing in The Barbican Centre’s Pit Theatre. The piece won two prizes, attracted critical acclaim, and also won the Irish Times Best New Play award.

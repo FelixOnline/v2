@@ -4,18 +4,15 @@ title: >
 subtitle: >
   But Union Court quashes decision due to unconstitutional voting procedure
 date: "2011-06-16 18:54:10 +0100"
-
-# Attributes from Felix Online V1
-id: "1378"
-old_path: /news/1378/council-denies-deputy-president-finances--services-honorary-life-membership
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1378/council-denies-deputy-president-finances--services-honorary-life-membership
-imported: true
 comments:
  - value: >
      I hope Council decides to keep their decision. I also hope that the Sabbs abstain from voting. It'd be a bit odd to pat yourself on the back by voting to give yourself what is essentially an award.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The decision of Union Council on Monday to award Honorary Life Membership (HLM) of the Union to only five of six Sabbatical Officers, excluding Deputy President (Finance & Services) Ravi Pall, was overturned at a meeting of the Union Court on Wednesday.

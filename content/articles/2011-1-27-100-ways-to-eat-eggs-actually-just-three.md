@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The ultimate fast food: Eggs!
 date: "2011-01-27 20:33:46 +0000"
-
-# Attributes from Felix Online V1
-id: "697"
-old_path: /food/697/100-ways-to-eat-eggs-actually-just-three-
+image: "http://felixonline.co.uk/img/upload/201104230048-felix-3514192452_2981b6e008_b.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/697/100-ways-to-eat-eggs-actually-just-three-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - gm1509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104230048-felix-3514192452_2981b6e008_b.jpeg"
-image_caption: ""
 ---
 
 Apparently eggs are the ultimate fast food. Some of you may already know this. In fact I know one guy who eats scrambled eggs nearly everyday. Good effort, Steve!

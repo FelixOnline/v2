@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Fred Fyles selects a powerful work from W. Eugene Smith
 date: "2014-11-24 12:19:47 +0000"
-
-# Attributes from Felix Online V1
-id: "4934"
-old_path: /arts/4934/guerilla-girls-the-male-gaze
+image: "http://felixonline.co.uk/img/upload/201411241219-ps3110-p78793_10.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4934/guerilla-girls-the-male-gaze
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411241219-ps3110-p78793_10.jpg"
-image_caption: ""
 ---
 
 In 1984, the Museum of Modern Art in New York opened a new exhibition: ‘An International Survey of Recent Painting and Sculpture’. it promised to be a survey of the most important artists currently working in the art world. Not everyone was impressed. Out of the 169 works featured, only 13 were by women artists, a fact that was not helped by the curator, Kynaston McShine, saying that any artist not in the show should rethink his career. In 1985, one year after the show opened, the Guerrilla Girls were formed by seven women artists. And the rest, as they say, is history.

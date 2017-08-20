@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Women’s Fencing: Imperial 1st 135 - 58 Manchester 1st
 date: "2011-03-03 21:23:48 +0000"
-
-# Attributes from Felix Online V1
-id: "1026"
-old_path: /sport/1026/fencers-comprehensively-beat-manchester-to-make-it-to-bucs-semi-finals
+image: "http://felixonline.co.uk/img/upload/201103032119-nm1010-ycyawycy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1026/fencers-comprehensively-beat-manchester-to-make-it-to-bucs-semi-finals
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jrp08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103032119-nm1010-ycyawycy.jpg"
-image_caption: ""
 ---
 
 The scene, Wednesday lunchtime, Ethos; enter, the Women’s first Fencing team, they start preparing for the quarterfinal match of the BUCS championships against Manchester’s firsts. Feeling very confident of advancing, thanks to previous form, everyone was ready to win. The match opened well with Imperial sabruers Zoe Robinson, Clare Harding and Hannah Bryars taking an early lead. This was something kept and extended throughout the weapon with the only real moment of fear coming when Zoe charged her opponent and ended up cross legged on the floor, with the team worried about injury. She was fine, and had even won the point. In the end, the sabre team set a new record for this year and won by 45-8.

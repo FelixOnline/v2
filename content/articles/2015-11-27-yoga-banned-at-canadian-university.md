@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Teacher claims union said ‘cultural appropriation’ meant the classes would be stopped
 date: "2015-11-27 11:50:11 +0000"
-
-# Attributes from Felix Online V1
-id: "5772"
-old_path: /news/5772/yoga-banned-at-canadian-university
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5772/yoga-banned-at-canadian-university
-imported: true
 comments:
  - value: >
      Um... please do a fact check. Ottawa is not an American city. It's the capital city of Canada!,Hi, please do your research... Ottawa is actually not situated in the United States of America. Ottawa is the capital city of Canada... ,Thanks guys! :),is it though?,are you sure?,I'm not certain where you're getting your information, but great topic. I must spend some time studying much more or understanding more. Thank you for magnificent info I was looking for this information for my mission. <br>ray ban sale uk 2014 http://www.merchantservicesbedfordshire.co.uk/?uk-ray-ban-sale-uk-2014-23208.html
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Yoga classes at the University of Ottawa have been cancelled by the university’s Student Federation (the Canadian student union equivalent) after apparent concerns over “cultural appropriation”.

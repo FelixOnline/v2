@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Public Library of Science, the open access publisher of the largest scientific journal in the world, PLoS One, has announced that from the 3rd of March, authors of an article in any of their seven journals must make all data related to the manuscript publicly available immediately upon publicati
 date: "2014-03-07 04:50:12 +0000"
-
-# Attributes from Felix Online V1
-id: "4458"
-old_path: /science/4458/debate-over-plos-data-publishing-demands
+image: "http://felixonline.co.uk/img/upload/201403070450-jal08-7447202.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4458/debate-over-plos-data-publishing-demands
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - cy1211
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201403070450-jal08-7447202.png"
-image_caption: ""
 ---
 
 The Public Library of Science, the open access publisher of the largest scientific journal in the world, PLoS One, has announced that from the 3rd of March, authors of an article in any of their seven journals must make all data related to the manuscript publicly available immediately upon publication.

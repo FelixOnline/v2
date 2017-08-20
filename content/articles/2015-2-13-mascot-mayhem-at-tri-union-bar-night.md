@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Philippa Skett reports on the loss of CGCU’s mascot
 date: "2015-02-13 15:10:50 +0000"
-
-# Attributes from Felix Online V1
-id: "5256"
-old_path: /cands/5256/mascot-mayhem-at-tri-union-bar-night
+image: "http://felixonline.co.uk/img/upload/201502131510-bwh12-10830587_1582178332005457_388081142789157972_o.jpg"
+image_caption: "Why is he wearing that cloak?!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5256/mascot-mayhem-at-tri-union-bar-night
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -24,12 +22,6 @@ authors:
  - bwh12
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502131510-bwh12-10830587_1582178332005457_388081142789157972_o.jpg"
-image_caption: ""
 ---
 
 It seems that City and Guilds College Union (CGCU) have been foiled again; this time having their mascot, Spanner, stolen from right under their noses.

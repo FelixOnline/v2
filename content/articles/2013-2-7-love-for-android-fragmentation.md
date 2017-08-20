@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The bane and boon of Android, the world’s biggest mobile ecosystem
 date: "2013-02-07 23:40:48 +0000"
-
-# Attributes from Felix Online V1
-id: "3266"
-old_path: /tech/3266/love-for-android-fragmentation
+image: "http://felixonline.co.uk/img/upload/201302072339-tna08-untitled-1gkrwj.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/3266/love-for-android-fragmentation
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - tna08
  - ywc110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302072339-tna08-untitled-1gkrwj.png"
-image_caption: ""
 ---
 
 The big F word in the Android world: fragmentation.

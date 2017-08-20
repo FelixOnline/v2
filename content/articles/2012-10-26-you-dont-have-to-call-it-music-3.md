@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Pt. 3: musique concrète
 date: "2012-10-26 03:11:18 +0100"
-
-# Attributes from Felix Online V1
-id: "2768"
-old_path: /music/2768/you-dont-have-to-call-it-music-3
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2768/you-dont-have-to-call-it-music-3
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - im808
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 _or: how the Berlin Wall made it to Broadway._

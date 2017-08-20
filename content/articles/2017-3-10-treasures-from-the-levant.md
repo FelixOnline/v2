@@ -4,16 +4,13 @@ title: >
 subtitle: >
   felix visits Ceru, a new addition to the South Ken restaurant scene that oozes middle eastern comfort, from the warm, welcoming interior to the sumptuous yet refined food. So that you too can treat yourselves to an excellent meal out, we’ve arranged an exclusive Imperial discount.
 date: "2017-03-10 14:02:39 +0000"
-
-# Attributes from Felix Online V1
-id: "6880"
-old_path: /food/6880/treasures-from-the-levant
+image: "http://felixonline.co.uk/img/upload/201703101401-felix-CERU exterior .jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6880/treasures-from-the-levant
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - sb6213
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101401-felix-CERU exterior .jpg"
-image_caption: ""
 ---
 
 To look on at the birth of a new restaurant is always exciting – I’ve been a part of it, having seen the place I worked at in Oxford rise from the ashes of a mediocre Italian cocktail bar, and realising that I really wanted to be a part of that. Teething problems ranged from gutters that drained into the balcony (we bailed it out with saucepans, literally) to much more minor tweaks, like who supplied our bread. The tentative first few months were some of the most stressful and intense that I have ever worked. It was therefore amazing to me to step into the fresh faced Ceru, in South Kensington, and witness a polished, refined machine that was only three months into its operation. I’d cycled past it for the few months that it took to strip away the previous occupant and revitalise the interiors, and so knew that it was absolutely brand new, and yet when I went, it looked like it had been a local fixture for ages. So how had they done it?

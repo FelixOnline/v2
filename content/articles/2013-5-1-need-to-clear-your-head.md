@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philippa Skett on the new imaging technique that is sweaping labs nationwide
 date: "2013-05-01 19:28:54 +0100"
-
-# Attributes from Felix Online V1
-id: "3522"
-old_path: /science/3522/need-to-clear-your-head
+image: "http://felixonline.co.uk/img/upload/201305012023-tna08-see-through-brain-reduced-colours.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3522/need-to-clear-your-head
-imported: true
 comments:
  - value: >
      Acrylamide is neither a plastic or used in false finger nails. It is a marvelous little molecule which makes polymers that are vital to a number of highly important industries such as municipal water-treatment, oil and gas recovery, paper making, quarrying and construction. Not to forget, drinking water treatment, household care, cosmetics, textile printing, sugar clarification and on and on.
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305012023-tna08-see-through-brain-reduced-colours.jpg"
-image_caption: ""
 ---
 
 Do you ever find yourself walking along the street, daydreaming away, and then suddenly wonder what if people around you could hear what you were thinking? What if complete strangers could see into your head, listen to your thoughts and leave no stone of your conscience unturned? With the recent advances in tissue imaging, your brain can now be as transparent as a gold fish bowl, but relax- your secrets will still remain safe for the foreseeable future.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Hosted by Friends of Imperial College, last week's 'The Oddities of Physics' talk by postgraduate students was a success.
 date: "2012-02-02 19:31:41 +0000"
-
-# Attributes from Felix Online V1
-id: "2090"
-old_path: /science/2090/oddities-of-physics
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2090/oddities-of-physics
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - ams111
  - as1911
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The SAF main lecture theatre was full to bursting last Wednesday evening, as Simon Foster and his troupe of postgraduate students put on an exciting and informative show on ‘The Oddities of Physics’. Guests were welcomed into the building with a display by the Imperial College Juggling Society, intrigued and unaware that a more fiery take on the display was on its way later in the lecture, to help explain special relativity...

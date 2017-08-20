@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lucy Harrold finally gets to see a new show after a long theatre drought and luckily it's a rather awesome choice
 date: "2010-02-01 18:04:05 +0000"
-
-# Attributes from Felix Online V1
-id: "68"
-old_path: /arts/68/omigod-you-guys-like-a-new-musical
+image: "http://felixonline.co.uk/img/upload/201002011802-rsp07-musical.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/68/omigod-you-guys-like-a-new-musical
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - lh106
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002011802-rsp07-musical.jpg"
-image_caption: ""
 ---
 
 You know how it is, you wait all term for a new musical to open and finally one does. Two days before my exam. See what I sacrifice for you dear reader; who am I kidding? I needed a break and Legally Blonde the Musical was the perfect excuse.

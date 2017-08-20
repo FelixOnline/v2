@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Safe sex should be something to shout about
 date: "2016-03-18 11:46:12 +0000"
-
-# Attributes from Felix Online V1
-id: "6057"
-old_path: /features/6057/we-need-to-talk-about-contraception
+image: "http://felixonline.co.uk/img/upload/201603181144-felix-CondomOlympics.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6057/we-need-to-talk-about-contraception
-imported: true
 comments:
  - value: >
      I value the knowledge on your web sites. Thanks a bunch.| <br>nba 2k16 mt coins cheap http://iazeemi.com/members/mrnba/activity/60669/,I value the knowledge on your web sites. Thanks a bunch.| <br>nba 2k16 mt coins cheap http://iazeemi.com/members/mrnba/activity/60669/,Excellent Webpage, Stick to the wonderful job. Appreciate it!| <br>cs go skins chart http://nba2k16mttrade.weebly.com/2133823458/nba-2k16-tips-from-experts,Excellent Webpage, Stick to the wonderful job. Appreciate it!| <br>cs go skins chart http://nba2k16mttrade.weebly.com/2133823458/nba-2k16-tips-from-experts,Just simply desired to point out I am just delighted that i came onto your page!| <br>nba 2k16 my player prices https://altheaevelyn.carbonmade.com/projects/6016975,Just simply desired to point out I am just delighted that i came onto your page!| <br>nba 2k16 my player prices https://altheaevelyn.carbonmade.com/projects/6016975,Wow, gorgeous portal. Thnx ...| <br>nba 2k16 mt cheat engine http://www.ezega.com/Communities/Blogs/ShowBlogDetails.aspx?Id=62153,Wow
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -28,12 +25,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603181144-felix-CondomOlympics.jpg"
-image_caption: ""
 ---
 
 _This article was published as part of FELIX's Sex Survey launch. Do the survey [here](http://felixonline.co.uk/go/sexsurvey)._

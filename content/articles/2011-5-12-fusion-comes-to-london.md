@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Students from all over London come together to bring Fusion, York University’s hugely successful music, fashion, and dance show, to the capital
 date: "2011-05-12 18:23:06 +0100"
-
-# Attributes from Felix Online V1
-id: "1194"
-old_path: /arts/1194/fusion-comes-to-london
+image: "http://felixonline.co.uk/img/upload/201105121922-felix-fusion-6.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1194/fusion-comes-to-london
-imported: true
 comments:
  - value: >
      didn't you mean bunker-cum-brothel?
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105121922-felix-fusion-6.jpg"
-image_caption: ""
 ---
 
 What kind of city do we live in? The London social calendar is full of awfully pretentious events charging ludicrous amounts of dosh for a very ordinary experience whilst managing to be incredibly vile and unwelcoming about it at the same time. Events where the lighting has that weird, trendy glow that occasionally reveals the semen-ink words ‘reclusive wanker’ on the trousers of the dismally self-important clientele. Events where the barman claims to make the best Bellini cocktail in the world outside of Venice, with all the pomp and disillusionment Nick Griffin that uses to claim he’s the best guy to deal with immigration. Events that are cynical, tacky, dunderheaded, and decadent.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The SecondSkin is marketed as having a ‘soft, talky touch feel’
 date: "2011-03-10 19:38:54 +0000"
-
-# Attributes from Felix Online V1
-id: "1054"
-old_path: /tech/1054/rubberise-your-iphone-4-with-secondskin
+image: "http://felixonline.co.uk/img/upload/201103101930-nm1010-akinskin.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/1054/rubberise-your-iphone-4-with-secondskin
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - srg03
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103101930-nm1010-akinskin.jpg"
-image_caption: ""
 ---
 
 Silicon cases have been a dime-a-dozen ever since the original iPod. When you get to the iPhone 4, those same soft silicon cases haven’t really evolved very much. Sure they have cut outs now so you can access the buttons and the ports, but they’re still pretty poor.

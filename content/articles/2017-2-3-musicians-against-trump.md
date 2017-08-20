@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Trump’s already controversial presidency has been vehemently opposed by many from its inception. Most recently the Muslim ban has stirred a backlash from musicians across the globe.
 date: "2017-02-03 17:04:11 +0000"
-
-# Attributes from Felix Online V1
-id: "6728"
-old_path: /music/6728/musicians-against-trump-
+image: "http://felixonline.co.uk/img/upload/201702031704-felix-lovetrumpshate.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6728/musicians-against-trump-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - theofarah13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702031704-felix-lovetrumpshate.jpg"
-image_caption: ""
 ---
 
 As the world reacts to Trump’s Muslim ban, amidst huge protests held across the globe, condemnation from the music industry has been rife.

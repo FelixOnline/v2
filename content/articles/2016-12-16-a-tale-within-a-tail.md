@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ipsita Herlekar reveals the secrets of a well preserved dinosaur fossil
 date: "2016-12-16 14:39:24 +0000"
-
-# Attributes from Felix Online V1
-id: "6604"
-old_path: /science/6604/a-tale-within-a-tail
+image: "http://felixonline.co.uk/img/upload/201612161439-felix-2184636842_57bf524334_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6604/a-tale-within-a-tail
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ipsitaherlekar
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612161439-felix-2184636842_57bf524334_o.jpg"
-image_caption: ""
 ---
 
 Strolling through the markets of the city Myitkyina in Myanmar, Lida Xing, a scientist with China University of Geosciences, Beijing, came across a block of amber that had preserved within it a fossil of a dinosaur’s tail from nearly 99 million years ago.

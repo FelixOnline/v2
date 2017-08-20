@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Bang for your buck it seems
 date: "2013-03-01 00:39:06 +0000"
-
-# Attributes from Felix Online V1
-id: "3406"
-old_path: /news/3406/financesoc-named-one-of-the-top-four-societies-at-national-awards
+image: "http://felixonline.co.uk/img/upload/201303010036-tna08-finance_society_logo_final_version_wide1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3406/financesoc-named-one-of-the-top-four-societies-at-national-awards
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - nm708
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303010036-tna08-finance_society_logo_final_version_wide1.jpg"
-image_caption: ""
 ---
 
 Last week, [Imperial College’s Finance Society](https://www.union.ic.ac.uk/scc/finance/) (ICFS) was named one of the top four student societies in the country by Rate My Placement. This was the only Imperial society representing Imperial at the National Placement & Internship Awards 2013. ICFS was recognised for “outstanding commitment to generating opportunities for students – going above and beyond to balance the needs of corporate sponsors and students.”

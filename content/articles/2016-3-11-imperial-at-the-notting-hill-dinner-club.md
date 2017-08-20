@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Woo, volunteering!
 date: "2016-03-11 11:47:29 +0000"
-
-# Attributes from Felix Online V1
-id: "6032"
-old_path: /cands/6032/imperial-at-the-notting-hill-dinner-club
+image: "http://felixonline.co.uk/img/upload/201603111147-felix-DSC_0625.JPG"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/6032/imperial-at-the-notting-hill-dinner-club
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -23,12 +20,6 @@ authors:
  - ad4812
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603111147-felix-DSC_0625.JPG"
-image_caption: ""
 ---
 
 Two weeks ago, the Union put on a whole load of student volunteering opportunities as part of the national campaign of Student Volunteering

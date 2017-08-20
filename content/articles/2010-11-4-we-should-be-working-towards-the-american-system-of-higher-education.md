@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Charles Betts interviews Mark Field MP for the Cities of London and Westminster on science, higher education and representing Imperial
 date: "2010-11-04 19:08:28 +0000"
-
-# Attributes from Felix Online V1
-id: "327"
-old_path: /news/327/we-should-be-working-towards-the-american-system-of-higher-education
+image: "http://felixonline.co.uk/img/upload/201011041906-ks607-markfiel.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/327/we-should-be-working-towards-the-american-system-of-higher-education
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - jk708
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011041906-ks607-markfiel.jpg"
-image_caption: ""
 ---
 
 __In September, during a speech at Queen Mary University, Vince Cable said “there is no justification for taxpayers’ money to be used to support research that is neither theoretically outstanding nor commercially useful.” What is your stance?__

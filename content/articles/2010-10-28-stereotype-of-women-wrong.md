@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ahlul Bayt event dispels stereotypes about women in Islam
 date: "2010-10-28 19:11:10 +0100"
-
-# Attributes from Felix Online V1
-id: "254"
-old_path: /politics/254/stereotype-of-women-wrong-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/254/stereotype-of-women-wrong-
-imported: true
 comments:
  - value: >
      Youre the one with the brains here. Im wactnihg for your posts.,SOHWoT <a href="http://ormjakzpwlsj.com/">ormjakzpwlsj</a>, <a href="http://www.getyourmeds.net/">buy ultram</a> cgcvei <a href="http://www.pillssearch.net/">lexapro</a> &gt;:OOO
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -27,12 +24,6 @@ authors:
  - sh1507
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 She’s probably uneducated and unfulfilled. Captive to her religion, subservient and invisible. These are just some of the inherent stereotypes that are embodied in our modern society, obscuring the Islamic female identity under the guise of oppression and inequality. But did Islam really intend to undermine the female existence? If so, are Muslim women victims of a chauvinistic spiritual ideology or simply a misrepresentation by an unchanging historical label?

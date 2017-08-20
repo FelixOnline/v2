@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Natalia Petrou introduces you to a beautiful world of sun, sea, beaches, parties... sigh
 date: "2013-05-07 19:32:30 +0100"
-
-# Attributes from Felix Online V1
-id: "3543"
-old_path: /travel/3543/dream-a-little-greek-dream
+image: "http://felixonline.co.uk/img/upload/201305072032-tna08-greece_1.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/3543/dream-a-little-greek-dream
-imported: true
 comments:
  - value: >
      Great article for Greece! Great job Nat!! ,nice summer destination ! ...looking forward :D,Bravo! I really liked this article. Great job!,Have started packing....,Great article! Greece is a must visit for everyone! <br>Chreers from visitmeteora.travel!
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305072032-tna08-greece_1.png"
-image_caption: ""
 ---
 
 With summer vacations just a stone’s throw away, it seemed ideal for me to think about possible summer destinations. The first thing that crosses all our minds when thinking about summer is, of course, sun, and consequently we think about Mediterranean countries. This article will be dedicated to my personal home country, namely Greece.

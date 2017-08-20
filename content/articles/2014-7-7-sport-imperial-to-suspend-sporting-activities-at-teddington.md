@@ -4,16 +4,13 @@ title: >
 subtitle: >
   What does the future hold for both Teddington and the future of medical sports participation?
 date: "2014-07-07 11:12:38 +0100"
-
-# Attributes from Felix Online V1
-id: "4720"
-old_path: /news/4720/sport-imperial-to-suspend-sporting-activities-at-teddington
+image: "http://felixonline.co.uk/img/upload/201407071231-jal08-teddington-.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4720/sport-imperial-to-suspend-sporting-activities-at-teddington
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201407071231-jal08-teddington-.jpg"
-image_caption: ""
 ---
 
 College has recently announced the suspension of all sports activities at the Teddington Sports Ground in Richmond for next academic year.

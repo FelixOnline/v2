@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Union to request reimbursement of unfairly underfunded students
 date: "2016-12-09 11:53:33 +0000"
-
-# Attributes from Felix Online V1
-id: "6559"
-old_path: /news/6559/2015-bursary-scheme-criticised-at-council
+image: "http://felixonline.co.uk/img/upload/201612121613-felix-15338747_1166041000112231_8751072089703624181_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6559/2015-bursary-scheme-criticised-at-council
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ea3211
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612121613-felix-15338747_1166041000112231_8751072089703624181_n.jpg"
-image_caption: ""
 ---
 
 Union Council voted to put pressure on College to investigate the legitimacy of the 2015-2016 bursary scheme which has been criticised for not providing adequate funding to students of higher income brackets.

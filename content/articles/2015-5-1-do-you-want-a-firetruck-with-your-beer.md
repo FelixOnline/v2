@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Jonathan Masters investigates the latest entrepreneurial endeavour by the Imperial graduate who prefers to pour his own pint
 date: "2015-05-01 00:34:33 +0100"
-
-# Attributes from Felix Online V1
-id: "5483"
-old_path: /features/5483/do-you-want-a-firetruck-with-your-beer
+image: "http://felixonline.co.uk/img/upload/201505010135-ps3110-untitled-2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/5483/do-you-want-a-firetruck-with-your-beer
-imported: true
 comments:
  - value: >
      This article is so good- good luck to these guys!,Hello! The two beers you mention are both Lervig. A Norwegian brewery who were being showcased / launched at the brewery that weekend, not Beavertown's ,http://dapoxetine-cheapestpricepriligy.com/ - Priligy En France Doxycycline Buy Online http://furosemide-lasixonline.net/,http://dapoxetine-cheapestpricepriligy.com/ - Priligy Dapoxetine Doxycycline http://furosemide-lasixonline.net/,http://dapoxetine-cheapestpricepriligy.com/ - Dapoxetine Online Doxycycline Mrsa http://furosemide-lasixonline.net/,http://dapoxetine-cheapestpricepriligy.com/ - Priligy Dapoxetine Usa Doxycycline Hyclate Without Prescription http://furosemide-lasixonline.net/,http://dapoxetine-cheapestpricepriligy.com/ - Buy Priligy Dapoxetine From India Order Doxycycline http://furosemide-lasixonline.net/,http://dapoxetine-cheapestpricepriligy.com/ - Reliable Source For Dapoxetine Doxycycline Incontinence Dog http://furosemide-lasixonline.net/,http://dapoxetine-cheapestpricepriligy.com/ - Prili
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505010135-ps3110-untitled-2.jpg"
-image_caption: ""
 ---
 
 Craft beer has seen an exponential increase in popularity in the last four years, and with that increased demand have come entrepreneurs seeking to profit.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Not the best, but certainly not the worst. Rhys Davies embarks on Link’s most recent epic, The Legend of Zelda: Skyward Sword
 date: "2012-02-09 22:44:40 +0000"
-
-# Attributes from Felix Online V1
-id: "2160"
-old_path: /games/2160/links-latest-epic-escapade
+image: "http://felixonline.co.uk/img/upload/201202092243-ams111-c.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2160/links-latest-epic-escapade
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -25,12 +22,6 @@ authors:
  - rjd08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202092243-ams111-c.jpg"
-image_caption: ""
 ---
 
 So I finally completed _The Legend of Zelda: Skyward Sword_ last night.

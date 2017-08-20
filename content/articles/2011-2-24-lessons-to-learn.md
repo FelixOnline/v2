@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A better and clearer understanding of the complaints procedure, guidelines for removal of content and process for appeal needs to be built between Clubs & Societies, the Union and the College
 date: "2011-02-24 20:24:17 +0000"
-
-# Attributes from Felix Online V1
-id: "889"
-old_path: /comment/889/lessons-to-learn
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/889/lessons-to-learn
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 History does repeat itself. Earlier this term, the Union shut down the entire IC Radio website because of the content of one broadcast and last week the College shut down an entire Union server because of a single benign sentence and the use of a couple of swear words; if we were to extrapolate by magnitude and ridiculousness, one would expect the government to ban the internet next week when a member of the public is tagged in a particularly unflattering photo on Facebook.

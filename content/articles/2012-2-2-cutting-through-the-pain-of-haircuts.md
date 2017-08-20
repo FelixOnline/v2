@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Close shaves and the perils of the barber
 date: "2012-02-02 23:42:28 +0000"
-
-# Attributes from Felix Online V1
-id: "2114"
-old_path: /comment/2114/cutting-through-the-pain-of-haircuts
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2114/cutting-through-the-pain-of-haircuts
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Have you ever had to endure torture? Well, I have, and so have you. On Wednesday the 25th of January, I – wait for this – had a haircut. If that doesn’t immediately draw you in, I don’t know what will. I know it may be a bit over the top to call this torture, but bear with me.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Edward Kardouss leads the 35 strong team in their aim to build an RC plane. Gheez, and I thought freshers just cared about booze and sex.
 date: "2013-03-15 00:06:18 +0000"
-
-# Attributes from Felix Online V1
-id: "3457"
-old_path: /news/3457/aero-students-given-funding-to-build-rc-plane
+image: "http://felixonline.co.uk/img/upload/201303150006-tna08-year-1-aero.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3457/aero-students-given-funding-to-build-rc-plane
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303150006-tna08-year-1-aero.jpg"
-image_caption: ""
 ---
 
 A 35 strong group of students, led by Edward Kardouss, Areonautics Year 1 Rep, will build a remote control (RC) aircraft that will take off, water bomb a target, make a flying loop, fly for 10 minutes, and eject a parachutist and land. The Department of Aeronautics has agreed to fund the project as well as provide labs for the students to work in. The students hope to compete in future years in international flying competitions against other universities. The project will start in October and end in March 2014.

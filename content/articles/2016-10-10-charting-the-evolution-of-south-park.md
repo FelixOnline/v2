@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A retrospective of everyone's favorite colorado based satirical cartoon
 date: "2016-10-10 12:42:16 +0100"
-
-# Attributes from Felix Online V1
-id: "6322"
-old_path: /tv/6322/charting-the-evolution-of-south-park
+image: "http://felixonline.co.uk/img/upload/201610101440-felix-29160391480_0a0016cf23_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6322/charting-the-evolution-of-south-park
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +21,6 @@ authors:
  - ad4013
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610101440-felix-29160391480_0a0016cf23_o.jpg"
-image_caption: ""
 ---
 
 For the last twenty years, Comedy Central has graced our screens with a getaway from the crassness of modern life: the idyllic Colorado town of South Park. It may seem remarkable that a show with such seemingly low effort animation has made it two decades but, as any watcher will tell you, the lack of detail is only skin deep. If you’ve somehow managed to avoid this behemoth of a franchise, this sitcom follows four young boys, Stan, Kyle, Eric, and Kenny, as they have surreal and frequently satirical adventures, attempting to navigate modern America.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   How hard can it be...right? Follow the flowchart to find out
 date: "2015-02-09 18:56:01 +0000"
-
-# Attributes from Felix Online V1
-id: "5214"
-old_path: /cands/5214/starting-a-new-club-at-imperial
+image: "http://felixonline.co.uk/img/upload/201502091805-ps3110-screen-shot-2015-02-09-at-18.05.44.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5214/starting-a-new-club-at-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - bwh12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502091805-ps3110-screen-shot-2015-02-09-at-18.05.44.png"
-image_caption: ""
 ---
 
 Imperial College Union boasts over 340 societies, and that number grows every month, with new societies proposed including Wine Tasting, Airsoft and three different applications for weightlifting societies.

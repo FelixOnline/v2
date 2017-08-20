@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Irony has always been, well, ironic. Take for example Aristophanes, great ancient Greek satirist of whom Nietzsche said ‘that transfiguring, complementary genius, for whose sake one pardons all of Hellenism for having existed’, and his play The Clouds.
 date: "2013-11-05 09:25:30 +0000"
-
-# Attributes from Felix Online V1
-id: "3983"
-old_path: /comment/3983/atheism-and-the-irony-of-religion
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3983/atheism-and-the-irony-of-religion
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - ck2513
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Irony has always been, well, ironic. Take for example Aristophanes, great ancient Greek satirist of whom Nietzsche said ‘that transfiguring, complementary genius, for whose sake one pardons all of Hellenism for having existed’, and his play The Clouds. In a famous scene Socrates muses on the origins of clouds, their possible genesis in the condensation of water vapour; the clown then goes on to ridicule Socrates, because everybody knows that the Gods give us clouds… The irony should be obvious to all of us: Aristophanes’ ironic and ‘ridiculous’ explanation, imputed to the sophistic and ridiculous philosopher, is of course the truth.

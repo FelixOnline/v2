@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Science Editor Fiona Hartley explores the link between creativity and alcohol (and tiredness).
 date: "2013-09-29 14:05:52 +0100"
-
-# Attributes from Felix Online V1
-id: "3770"
-old_path: /science/3770/tired-or-drunk-you-might-be-feeling-quite-creative
+image: "http://felixonline.co.uk/img/upload/201309291502-jal08-drunkeness.jpg"
+image_caption: "Should you really be at the wheel?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3770/tired-or-drunk-you-might-be-feeling-quite-creative
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - frh10
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309291502-jal08-drunkeness.jpg"
-image_caption: ""
 ---
 
 Imagine: it’s 9am and you enter the lecture theatre that will be your home for the next year. Maybe you went out to Ministry or you had a few too many pints in Metric. Perhaps you just stayed up late getting to know new people in halls or from your course. Either way you’re knackered. Maybe you’re even still drunk!

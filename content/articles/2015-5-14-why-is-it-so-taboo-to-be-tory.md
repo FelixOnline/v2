@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Social media has driven Conservatives to keep their views quiet
 date: "2015-05-14 22:35:36 +0100"
-
-# Attributes from Felix Online V1
-id: "5523"
-old_path: /comment/5523/why-is-it-so-taboo-to-be-tory
+image: "http://felixonline.co.uk/img/upload/201505142335-cj914-a-labour-supporter-wearin-009.jpg"
+image_caption: "You probably have though, admit it"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5523/why-is-it-so-taboo-to-be-tory
-imported: true
 comments:
  - value: >
      Whilst I generally agree with some of your argument (that those on the left need to engage those of different views a bit more and demonise a bit less) there are a few problems with this article. I understand what the author is trying to say and take the point on board, but some of the facts and arguments in here need some serious checking. <br> <br>For example, could you justify "Surely this can’t be true, a group that is nearly half the country must be diverse, and the policies which drew them must have some appeal." Half of people in Britain didn't vote Conservative, around 24% of the electorate did (this was indeed the largest vote share but is far lower that what is suggested by this comment). <br> <br>Also I don't feel it is correct to say that " FPTP has its flaws, but all the left-wing advocates of a more proportional representation seem to have forgotten that this would give us 82 UKIP MPs". First of all, UKIP (the most right-wing party on most people's ballot papers) is calling most strongly for PR, so this
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505142335-cj914-a-labour-supporter-wearin-009.jpg"
-image_caption: ""
 ---
 
 The General Election has come and gone, and the United Kingdom has democratically elected the Conservative Party into power for the next five years. 36.9% of the country voted for them, but if you look at the articles being plastered all over the internet and social media, you would have no idea that this was the case.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jamie Thomas explains which countries you need to look out for at the 59th edition of Eurovision in Copenhagen
 date: "2014-05-02 01:34:04 +0100"
-
-# Attributes from Felix Online V1
-id: "4552"
-old_path: /music/4552/the-experts-guide-to-europes-ultimate-competition
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4552/the-experts-guide-to-europes-ultimate-competition
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - fmusic
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Going back to 1956, with one to six hundred million viewers annually, the Eurovision Song Contest is one of the largest-scale and longest-running television events in the world. This year thirty-seven countries will battle it out in Copenhagen for victory and the opportunity to host the competition in 2015. Here is my list of the top ten hottest songs to look out for this year!

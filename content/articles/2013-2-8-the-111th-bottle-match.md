@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The return of the yearly RSM vs CSM match
 date: "2013-02-08 00:55:05 +0000"
-
-# Attributes from Felix Online V1
-id: "3279"
-old_path: /news/3279/the-111th-bottle-match
+image: "http://felixonline.co.uk/img/upload/201302080055-tna08-bottle-match-picture.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3279/the-111th-bottle-match
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - lr210
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302080055-tna08-bottle-match-picture.jpg"
-image_caption: ""
 ---
 
 The biggest event in the [Royal School of Mines](https://www.union.ic.ac.uk/rsm/exec/)’ calendar is once again upon us. On the 22 and 23 February, the second oldest varsity match after the Oxbridge boat-race will take the stage for the 111th year. The varsity is between the RSM and the [Camborne School of Mines](http://emps.exeter.ac.uk/csm/) based in Cornwall, and is ultimately decided with a game of rugby that concludes a two day catalogue of sports.

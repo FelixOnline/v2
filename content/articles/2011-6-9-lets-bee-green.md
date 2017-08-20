@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Bees introduced to Imperial’s ‘Secret Garden’
 date: "2011-06-09 21:29:41 +0100"
-
-# Attributes from Felix Online V1
-id: "1351"
-old_path: /news/1351/lets-bee-green
+image: "http://felixonline.co.uk/img/upload/201106092229-felix-img_5380.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1351/lets-bee-green
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ci107
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106092229-felix-img_5380.jpg"
-image_caption: ""
 ---
 
 Imperial’s population has just grown by several thousand. No, there hasn’t been some clerical error or mass invasion – we now have our very own bee colony.

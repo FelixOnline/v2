@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Luke Sheldon attacks the Government’s new scheme as enforced labour that only benefits big companies
 date: "2012-03-01 21:08:08 +0000"
-
-# Attributes from Felix Online V1
-id: "2270"
-old_path: /politics/2270/volunteering-at-tesco
+image: "http://felixonline.co.uk/img/upload/201203012106-cac111-img_9890.jpg"
+image_caption: "KFC and Starbucks this week announced apprenticeships while Burger King dropped out of the scheme "
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2270/volunteering-at-tesco
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -25,12 +23,6 @@ authors:
  - ls411
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203012106-cac111-img_9890.jpg"
-image_caption: ""
 ---
 
 Work experience is something most of us did at school. It was unpaid, but it was two weeks long and we did not do the work of paid staff. Invariably we shadowed workers and got a chance to carry out a few of the tasks. This is far from the “work experience” the government have been championing this week. The coalitions work experience does not pay, is forced upon you and helps subsidise the large corporations to the tune of millions.

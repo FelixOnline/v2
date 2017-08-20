@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Friday sees the opening of the new h-bar for postgraduates and staff
 date: "2013-11-08 03:37:28 +0000"
-
-# Attributes from Felix Online V1
-id: "4019"
-old_path: /news/4019/new-postgraduate--opens
+image: "http://felixonline.co.uk/img/upload/201311080908-felix-screen-shot-2013-11-08-at-09.06.51.png"
+image_caption: "Student bar staff member pouring a pint of cider"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4019/new-postgraduate--opens
-imported: true
 comments:
  - value: >
      Could you please please please add paragraph breaks to articles - I really can't read through a wall of text.,Could you please please please add paragraph breaks to articles - I really can't read through a wall of text.,wot a load of old Planck(ers),wot a load of old Planck(ers),How much did it cost to close the Holland Club and open this? <br> <br>And the name will garner barely a titter even amongst the most hardened Imperial dullard.,How much did it cost to close the Holland Club and open this? <br> <br>And the name will garner barely a titter even amongst the most hardened Imperial dullard.,Does anyone know what the criticisms of the name were?,Does anyone know what the criticisms of the name were?,さいしん ぐうきょ たかとび じゅぎょう てんもくざん トピック ニュース レーバー じんぎ すじがき ふきわける れんか かていか じもく じまく せきねつ かんとく むけ こうどく バング スタイル わきかえる くしき おりあい おそいかかる
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - ma1307
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311080908-felix-screen-shot-2013-11-08-at-09.06.51.png"
-image_caption: ""
 ---
 
 A new postgraduate student and staff drinking and social venue on the South Kensington campus is set to open this Friday. In keeping with the Union’s trend of naming its drinking establishments with incredibly nerdy puns, the new space will be called ħ (pronounced h-bar), named after the reduced Planck constant, which is the smallest quantum of angular momentum (with a value of 6.582 x 10-16 eV s). There have been some criticisms of the new name, however according to the Union the name was chosen out of a shortlist of names submitted by staff members and postgraduate students.

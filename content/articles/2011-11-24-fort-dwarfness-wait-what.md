@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Dwarf Fortress: challenging, captivating, and almost completely unheard of. Keir Little sheds some light on this hidden gem
 date: "2011-11-24 20:59:28 +0000"
-
-# Attributes from Felix Online V1
-id: "1812"
-old_path: /games/1812/fort-dwarfness-wait-what
+image: "http://felixonline.co.uk/img/upload/201111242057-felix-shootcommon_1063_main.png"
+image_caption: "You get used to it, though. I don’t even see the code. All I see is blonde, brunette, redhead..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1812/fort-dwarfness-wait-what
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242057-felix-shootcommon_1063_main.png"
-image_caption: ""
 ---
 
 Deep underground, a lonely dwarf miner breaks into an expansive cavern. As he stumbles out into the darkness, two trolls immediately set upon him. “Bugger,” I say, pausing the game to take a sip of tea, and plan best how to save him. I order my soldiers to go down and join the fight. Meanwhile, my carpenter, desperately waiting months for the turtle shell she desires to finish her project, finally snaps. After chopping her own baby’s head off, she runs around in a rage, butchering my fort’s other inhabitants, while my soldiers are deep in the caverns fighting other threats.

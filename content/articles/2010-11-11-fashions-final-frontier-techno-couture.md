@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The latest obsession in the world of fashion: technology
 date: "2010-11-11 20:33:22 +0000"
-
-# Attributes from Felix Online V1
-id: "339"
-old_path: /fashion/339/fashions-final-frontier-techno-couture
+image: "http://felixonline.co.uk/img/upload/201011112031-nm1010-anastasi.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/339/fashions-final-frontier-techno-couture
-imported: true
 comments:
  - value: >
      Wow, your post makes mine look felebe. More power to you!,gu5nyW <a href="http://hvrjnatmdabm.com/">hvrjnatmdabm</a>
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -28,12 +25,6 @@ authors:
  - gy107
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011112031-nm1010-anastasi.jpg"
-image_caption: ""
 ---
 
 Many of us think that Imperial could not be further removed from the world of fashion, however I’d like to persuade you otherwise. Both fashion and technology are constantly evolving industries; fickle and always in search of the new ‘it’ product to entice buyers into yet another superfluous purchase. Therefore one can only imagine the force generated when these two polarised worlds collide...

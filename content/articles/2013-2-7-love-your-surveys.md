@@ -4,16 +4,13 @@ title: >
 subtitle: >
   An editorial on Valentine's Day (not really)
 date: "2013-02-07 23:07:25 +0000"
-
-# Attributes from Felix Online V1
-id: "3252"
-old_path: /comment/3252/love-your-surveys
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3252/love-your-surveys
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Just in case you are wondering if your eyes are being weird or not: they aren’t. This week is the closest we get to a Valentine’s issue, so I changed the colour of the top bit and the drop cap to red. How romantic.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   David Stewart has diet tips for the fat and lazy
 date: "2010-02-01 16:57:03 +0000"
-
-# Attributes from Felix Online V1
-id: "62"
-old_path: /comment/62/diet-tips-for-the-fat-and-lazy
+image: "http://felixonline.co.uk/img/upload/201002011653-rsp07-overwirg.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/62/diet-tips-for-the-fat-and-lazy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - rsp07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002011653-rsp07-overwirg.jpg"
-image_caption: ""
 ---
 
 Suppose you’re worried about your weight. Perhaps you feel you could lose a few pounds. The modern way to deal with these feelings is to smother them with anti-depressants, so you could take a fistful of Prozac washed down with a tub of Ben and Jerry’s and call it irony.

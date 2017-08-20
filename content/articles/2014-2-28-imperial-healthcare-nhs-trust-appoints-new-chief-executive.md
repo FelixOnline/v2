@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Imperial College Healthcare Trust, which runs five London hospitals including St Mary’s and Charing Cross. has announced the appointment of a new Chief Executive.
 date: "2014-02-28 07:11:35 +0000"
-
-# Attributes from Felix Online V1
-id: "4441"
-old_path: /news/4441/imperial-healthcare-nhs-trust-appoints-new-chief-executive-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4441/imperial-healthcare-nhs-trust-appoints-new-chief-executive-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Imperial College Healthcare Trust, which runs five London hospitals including St Mary’s and Charing Cross. has announced the appointment of a new Chief Executive. High profile Australian healthcare administrator Dr Tracey Batten will take up the position at the start of April. This follows the resignation last October of Mark Davies, who was widely credited with making large improvements to the Trust’s financial situation. The post of interim Chief Executive has since been jointly held by former medical director Professor Nick Cheshire and former chief financial officer Bill Shields.

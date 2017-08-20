@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Council passes policy demanding publishing companies reduce their costs
 date: "2011-06-23 19:19:42 +0100"
-
-# Attributes from Felix Online V1
-id: "1414"
-old_path: /news/1414/union-supports-journal-subscriptions-campaign
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1414/union-supports-journal-subscriptions-campaign
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The Union has publicly condemned the behavior of large academic journal publishing companies, claiming that their services are detrimental not only to Imperial, but to the Higher Education sector in general.

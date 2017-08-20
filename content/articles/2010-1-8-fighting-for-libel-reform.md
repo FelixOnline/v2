@@ -4,18 +4,15 @@ title: >
 subtitle: >
   In light of Simon Singh returning to Imperial to give a lecture on libel laws that he is personally embroiled in!
 date: "2010-01-08 16:10:52 +0000"
-
-# Attributes from Felix Online V1
-id: "17"
-old_path: /news/17/fighting-for-libel-reform
+image: "http://felixonline.co.uk/img/upload/201001081608-rsp07-SimonSin.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/17/fighting-for-libel-reform
-imported: true
 comments:
  - value: >
      Sweet Site!,Awesome,I met Simon Singh, he was a nice guy.,Good luck to him in his case!,Please reject this comment - it has been submitted as part of automated testing of the felixonline.co.uk website.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001081608-rsp07-SimonSin.jpg"
-image_caption: ""
 ---
 
 As Imperial alumnus Simon Singh prepares to return to College to give a guest lecture on the libel laws in science of which he has fallen foul of, the Government have announced the commencement of a working group on libel reform.

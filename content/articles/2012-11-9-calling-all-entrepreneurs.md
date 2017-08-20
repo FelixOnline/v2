@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Pranav Tulsian presents the latest business event at Imperial
 date: "2012-11-09 12:53:08 +0000"
-
-# Attributes from Felix Online V1
-id: "2854"
-old_path: /biz/2854/calling-all-entrepreneurs
+image: "http://felixonline.co.uk/img/upload/201211091252-tna08-untitled-7.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/2854/calling-all-entrepreneurs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091252-tna08-untitled-7.jpg"
-image_caption: ""
 ---
 
 Ever wondered what it would be like to own a billion dollar company? Ever debated the pros and cons of starting a business over a career? Ever wondered if you can start your own business? Ever thought about starting your own business but don’t know how? [Silicon Valley Comes to Imperial](http://www.svc2imperial.com/) (SVC2Imperial) is your chance to get answers to all of these questions.

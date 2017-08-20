@@ -4,18 +4,16 @@ title: >
 subtitle: >
   You know you want to
 date: "2016-03-18 11:33:58 +0000"
-
-# Attributes from Felix Online V1
-id: "6053"
-old_path: /news/6053/felix-sex-survey-opens
+image: "http://felixonline.co.uk/img/upload/201603181133-felix-20160317_182820.jpg"
+image_caption: "Ooh, user-friendly!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6053/felix-sex-survey-opens
-imported: true
 comments:
  - value: >
      to be set up, are already permitted to go away together with up until this aspect (low bandwidth caps, Heavy Bundle Examination, bandwidth throttling in addition to insurers tend to be progressively more buying high priced in addition to consumible systems this integrate deep packet check up engineering. For you to balance devices expenses, these same insurers tend to be encouraged to apply all their consumible devices to help Is in fact an outstanding in addition to beneficial part of details. We are contented which you provided this kind of valuable info here. Remember to keep people up-to-date this way. Thanks for sharing. <br>Gucci Handbags http://www.charopf.com/gucci-outlet/,to be set up, are already permitted to go away together with up until this aspect (low bandwidth caps, Heavy Bundle Examination, bandwidth throttling in addition to insurers tend to be progressively more buying high priced in addition to consumible systems this integrate deep packet check up engineering. For you to balance devices expe
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603181133-felix-20160317_182820.jpg"
-image_caption: ""
 ---
 
 _You can take the Sex Survey [here](http://felixonline.co.uk/go/sexsurvey)._

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-03-18 11:48:58 +0000"
-
-# Attributes from Felix Online V1
-id: "6060"
-old_path: /science/6060/science--the-city
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6060/science--the-city
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - nms15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In modern times, the peer-reviewed publication is seen as the basic benchmark for science. Of course, science must be publicly accessible and able to be duplicated. And with increased metrics and funding in the sciences dependent on performance measured by frequency and recognition of publications, there are few alternatives for modern scientists to succeed – it’s publish or perish.

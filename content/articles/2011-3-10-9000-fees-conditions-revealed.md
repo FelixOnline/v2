@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Universities asked to invest up to 30% of fees over £6,000 into fair access schemes
 date: "2011-03-10 19:40:20 +0000"
-
-# Attributes from Felix Online V1
-id: "1055"
-old_path: /news/1055/9000-fees-conditions-revealed
+image: "http://felixonline.co.uk/img/upload/201102031930-ks607-higherfe.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1055/9000-fees-conditions-revealed
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - yw3410
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102031930-ks607-higherfe.jpg"
-image_caption: ""
 ---
 
 The Office for Fair Access (Offa) has published [new guidelines](http://www.offa.org.uk/press-releases/offa-sets-out-what-universities-need-to-do-to-charge-fees-of-more-than-6000/) that could force universities charging over £6,000 in tuition fees to invest a percentage into fair access schemes.

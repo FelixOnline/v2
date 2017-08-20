@@ -4,16 +4,13 @@ title: >
 subtitle: >
   If a cat can do it, you can too
 date: "2016-11-25 13:37:58 +0000"
-
-# Attributes from Felix Online V1
-id: "6501"
-old_path: /science/6501/chester-the-first-published-felix
+image: "http://felixonline.co.uk/img/upload/201611251337-felix-cat-1826788_1280.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6501/chester-the-first-published-felix
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - aranshaunak16
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611251337-felix-cat-1826788_1280.jpg"
-image_caption: ""
 ---
 
 Fact: There’s a cat that is co-author of a theoretical physics paper.

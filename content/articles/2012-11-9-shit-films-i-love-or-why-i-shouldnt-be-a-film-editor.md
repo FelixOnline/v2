@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Katy Bettany opens her cupboard of shame. Next to that cupboard there's a stack of these DVDs...
 date: "2012-11-09 13:50:57 +0000"
-
-# Attributes from Felix Online V1
-id: "2862"
-old_path: /film/2862/shit-films-i-love-or-why-i-shouldnt-be-a-film-editor
+image: "http://felixonline.co.uk/img/upload/201211091338-tna08-topgun.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2862/shit-films-i-love-or-why-i-shouldnt-be-a-film-editor
-imported: true
 comments:
  - value: >
      Forgot possibly the "best" one: Legally Blonde!,I agree with pretty much the whole list! <br>
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -30,12 +27,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091338-tna08-topgun.jpg"
-image_caption: ""
 ---
 
 I was recently challenged to rate every film I have ever seen. Apart from being a shockingly huge task, it also threw up a massive problem. Because there are incredible films for every emotion. And of course there are some God-awful films too – less said about these the better. The problem I have is,that there are some terrible films that I adore. Films that I willwatch over and over in secret; films that I suspect everyone loves but is ashamed to admit. Well, since nobody ever thought I was cool, and since my taste in film is already universally known to be dodgy; consider this my official confession.

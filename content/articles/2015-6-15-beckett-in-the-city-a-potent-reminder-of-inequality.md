@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jingjie Cheng finds that Company SJ's city-based version of Rough for Theatre I and Act Without Words II reminds us of the relevance of Beckett's work
 date: "2015-06-15 11:37:07 +0100"
-
-# Attributes from Felix Online V1
-id: "5623"
-old_path: /arts/5623/beckett-in-the-city-a-potent-reminder-of-inequality
+image: "http://felixonline.co.uk/img/upload/201506151230-ff712-09.jpg"
+image_caption: "Company SJ, Act Without Words II, Bryan Burroughs,"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5623/beckett-in-the-city-a-potent-reminder-of-inequality
-imported: true
 comments:
  - value: >
      fitflops sale australia <br>fitflops buy online http://fitflopsau.blogspot.com/,the fit flop <br>fitflop sales http://australiafitflops.iemiller.net/,gizeh birkenstock <br>birkenstock clearance http://birkenstockaustralia.rochecap.org/,louboutin rolando shoes sale <br>christian louboutin canada sale http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin rolando shoes <br>christian louboutin sale outlet http://canadachristianlouboutin.blogspot.com/,christian louboutin outlet online <br>christian louboutin sale http://christianlouboutincanadaoutlet.blogspot.com/,INt1UP http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - jc7413
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506151230-ff712-09.jpg"
-image_caption: ""
 ---
 
 Sometimes, a creative piece comes along that leaves you thinking about its issues for a long time, surfacing now and then as a question, emerging here and there as an idea. These works leave an imprint of the artist’s thoughts on you, and you are left with a view of the world through another’s eyes. Sometimes, the full brilliance of these ideas do not take you over until you have turned the words over again and again, passed them between your hands, rubbed them between your fingers. They do what effective art is meant to do – make you ponder.

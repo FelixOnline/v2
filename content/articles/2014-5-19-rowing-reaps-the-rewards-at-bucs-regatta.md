@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Wilf Kimberley reviews the action as the men bring home the Victor Ludorum trophy, but the College miss out on the overall prize
 date: "2014-05-19 13:24:06 +0100"
-
-# Attributes from Felix Online V1
-id: "4607"
-old_path: /sport/4607/rowing-reaps-the-rewards-at-bucs-regatta
+image: "http://felixonline.co.uk/img/upload/201405191424-jal08-sport_rowing1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4607/rowing-reaps-the-rewards-at-bucs-regatta
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - wk410
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405191424-jal08-sport_rowing1.jpg"
-image_caption: ""
 ---
 
 IC once again brought home the bacon at BUCS regatta, capturing the Men’s Victor Ludorum and finishing 2nd in the medals table over the three days and finishing with the most BUCS points of any university in the country (again) despite the absence of big lad Henry ‘gully’ Gooder and token chopper Ben Spencer-Jones.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about London’s first comedy book festival
 date: "2013-12-02 22:10:54 +0000"
-
-# Attributes from Felix Online V1
-id: "4165"
-old_path: /books/4165/chortle-festival
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/4165/chortle-festival
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I really wasn’t sure what to expect from the Chortle Comedy Books Festival – an event hosted by the comedy news website Chortle. After all, what would such an event even entail? It turns out that I needn’t have worried. The festival was an eclectic mix of comedy shows related to books and discussions of books written by high profile comedians.

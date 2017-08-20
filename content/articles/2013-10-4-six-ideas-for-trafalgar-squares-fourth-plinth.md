@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The fourth plinth in Trafalgar Square has been a source of controversy practically since the day it was built. After sitting empty for over 150 years due to “insufficient funds”...
 date: "2013-10-04 01:49:21 +0100"
-
-# Attributes from Felix Online V1
-id: "3806"
-old_path: /arts/3806/six-ideas-for-trafalgar-squares-fourth-plinth
+image: "http://felixonline.co.uk/img/upload/201310040250-jal08-arts-ugo435_0.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3806/six-ideas-for-trafalgar-squares-fourth-plinth
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - jal08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310040250-jal08-arts-ugo435_0.jpg"
-image_caption: ""
 ---
 
 ####  Really Good – David Shrigley

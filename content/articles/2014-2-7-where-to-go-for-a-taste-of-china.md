@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Okay, apart from your local Chinese takeaway and Chinatown...
 date: "2014-02-07 04:48:12 +0000"
-
-# Attributes from Felix Online V1
-id: "4346"
-old_path: /food/4346/where-to-go-for-a-taste-of-china
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/4346/where-to-go-for-a-taste-of-china
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - ykc111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 If easy home cooking is not really for you, then you’re blessed that we are in one of the most culturally diversed cities in the world, but Chinatown is not your only option either!

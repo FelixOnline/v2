@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Padraic Calpin on the UK keeping to the targets
 date: "2012-11-22 23:21:23 +0000"
-
-# Attributes from Felix Online V1
-id: "2947"
-old_path: /politics/2947/uks-green-success
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2947/uks-green-success
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - phc11
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The UK’s current stance on Green policy is mixed at best: despite Coalition pledges to be the ‘Greenest Government Ever’, Cameron and Clegg have come under repeated fire, whether over the planned ‘Dash for Gas’, or the Tory energy minister insisting on challenging the coalition policy on onshore Wind Farms. And yet, there’s been a spate of positive news too.

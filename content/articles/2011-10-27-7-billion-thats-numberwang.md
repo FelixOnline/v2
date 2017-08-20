@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Rory Fenton argues that population growth isn’t a priority
 date: "2011-10-27 22:52:57 +0100"
-
-# Attributes from Felix Online V1
-id: "1618"
-old_path: /politics/1618/7-billion-thats-numberwang
+image: "http://felixonline.co.uk/img/upload/201110272358-felix-world.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1618/7-billion-thats-numberwang
-imported: true
 comments:
  - value: >
      The problem of overpopulation is extremely hard to assess. <br> <br>"More consumption = more warming, regardless of the number of people. I fail to see how a moral person can worry about the existence of a child in a large family in rural Africa who burns a little wood for cooking while we enjoy CO2 intensive Western lifestyles over here. " <br> <br>The ideal situation is if we could lift this poor child out of poverty - which means giving it enough calories, as well as veggies and meat, (and access to energy, healthcare, education, etc.) Sadly, there is not much land left to turn into farms without encroaching in essential biomes and existing arable land is being eroded. Th huge increase in crop yields seen in the 20th century has started to stall. <br> <br>I donn't see how having even more people on Earth will help development. <br>
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -28,12 +25,6 @@ authors:
  - rtf08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110272358-felix-world.jpg"
-image_caption: ""
 ---
 
 This Tuesday, the UN is expected to name a child, somewhere in the world, as [the planet’s seven billionth living resident](http://www.bbc.co.uk/news/world-15391515). The news has been greeted with alacrity by much of the same planet’s media, most notably The Guardian, which ran articles such as “Why current population growth is costing the Earth”. The idea that population growth is spelling doom for us all is as popular as it is old. It is just as wrong.

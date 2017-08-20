@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Complaint that Kendall intimidated student not upheld
 date: "2011-06-16 19:00:32 +0100"
-
-# Attributes from Felix Online V1
-id: "1379"
-old_path: /news/1379/union-court-clears-president
+image: "http://felixonline.co.uk/img/upload/201106161958-felix-img.jpg"
+image_caption: "Court Chair Hamish Common (left) ruled that Kendall had not acted inappropriately"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1379/union-court-clears-president
-imported: true
 comments:
  - value: >
      that guy is the biggest joker in imperial!,LOOOOOOOOOOOOOOOOOOOOOL GO HARD OR GO HOME !,Something is Rotten in the Kingdom of Imperial,Man need some big BULLEETTTZZZZZ,Why is he on his phone - is there something more important than the court case? Shows lack of respect. ,Considering this chap Abdul has been told off for screaming "I'm not gay!" while bench pressing in Ethos, and is generally an asshat, anything that comes from him should be regarded with extreme suspicion. <br> <br>And inquisition. <br> <br>And derision. <br> <br>And admonition. <br> <br>Possible in that order. <br>,cool story bro.,Abdul is one of the nicest and funniest guys I have ever come across at Imperial College. He was the best Ambassador the college had and made an effort to talk to and understand almost everyone. He should be awarded for all he has done - most students would back that. Such a shame that Alex Kendall let this event fuel him to launch a hate campaign full of lies and libel against Abdul during the President election this year. My respect for Al
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106161958-felix-img.jpg"
-image_caption: ""
 ---
 
 The Union Court has ruled that Union President Alex Kendall did not act inappropriately when, during the central Union elections when he was Returning Officer, he told a student to withdraw his nomination for the position of Community Action Group (CAG) Chair. The Court also ruled that Kendall had not acted in a biased way in approving candidate material.

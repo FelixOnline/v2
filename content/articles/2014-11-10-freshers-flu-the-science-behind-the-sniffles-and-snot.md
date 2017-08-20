@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Coming to a leacture theatre near you
 date: "2014-11-10 22:55:06 +0000"
-
-# Attributes from Felix Online V1
-id: "4851"
-old_path: /science/4851/freshers-flu-the-science-behind-the-sniffles-and-snot
+image: "http://felixonline.co.uk/img/upload/201411102255-ps3110-commonstudentillnesses-wp.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4851/freshers-flu-the-science-behind-the-sniffles-and-snot
-imported: true
 comments:
  - value: >
      http://prednisone-order-20mg.com/ - Prednisone 10 Mg Without Perscription Viagra Sad Experience http://cialis5mg-20mg.com/,http://prednisone-order-20mg.com/ - Prednisone Viagra Sad Experience http://cialis5mg-20mg.com/,http://20mgprednisone-online.org/ - Prednisone Lowest Price For Generic Viagra http://cialis20mg5mg.net/,http://20mgprednisone-online.org/ - Prednisone Without A Prescription Generic Viagra Buy http://cialis20mg5mg.net/,http://20mgprednisone-online.org/ - Buy Prednisone Without Prescription Viagra 100mg http://cialis20mg5mg.net/,http://20mgprednisone-online.org/ - Prednisone Viagra http://cialis20mg5mg.net/,http://dapoxetine-onlinepriligy.net/ - dapoxetine-onlinepriligy.net.ankor ventolinsalbutamol-buy.org.ankor http://ventolinsalbutamolbuy.org/,http://dapoxetine-onlinepriligy.net/ - dapoxetine-onlinepriligy.net.ankor ventolinsalbutamol-buy.org.ankor http://ventolinsalbutamolbuy.org/,http://dapoxetine-onlinepriligy.net/ - dapoxetine-onlinepriligy.net.ankor ventolinsalbutamol-buy.org.ankor http:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102255-ps3110-commonstudentillnesses-wp.jpg"
-image_caption: ""
 ---
 
 Freshers’ Week for most is a time full of new experiences, stepping out of your usual comfort zone and meeting more new people than you could hope to remember. There are very few instances in your life that you will speak to as many strangers in such a short period of time, turning awkward conversations into friendships and introducing yourself so many times that you start to wonder who you are anymore. So with your luggage unpacked and the excitement building, you hold many expectations for the week to come. However, the anticipated roller-coaster adventure that is your first few weeks at University is also likely to bring with it Freshers’ Flu.

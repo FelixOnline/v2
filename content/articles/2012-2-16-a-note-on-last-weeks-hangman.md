@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Moving onwards from our last issue
 date: "2012-02-16 22:06:03 +0000"
-
-# Attributes from Felix Online V1
-id: "2208"
-old_path: /comment/2208/a-note-on-last-weeks-hangman-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2208/a-note-on-last-weeks-hangman-
-imported: true
 comments:
  - value: >
      It wasn't promoting date rape, but it was trivialising it. <br> <br>I love Hangman's we-don't-give-a-shit attitude. It's at it's funniest when it's at its most outrageous. But there is a fundamental difference between joking about Harry Potter- inspired orgies and making light of rape, regardless of the intention. Remember that given the size of Felix's readership, there will be readers who have been raped. <br> <br>I do hope Hangman comes back soon and that it continues to be crazy and outrageous. But making fun, regardless of the intention, of one of the most traumatic things that can happen to a person? That crossed a line and Matt was right to respond. <br> <br>R,Socks with sandals, the only way to go baby.,Are they removing the centrefold too? ,No, there was just nobody to do it last week. Centrefolds are still going :),Alex is correct, Centrefolds haven't been dropped.,Oh lads... Lads, lads, lads... You let yourself down. Has a life of reading 4chan and reddit really desensitised you so completely to the idea that word
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In last week’s Felix, an article was published in the Hangman section which many readers felt incited sexual violence, trivialised rape and generally contributed to the idea of a rape culture. I would like to take the opportunity to assure readers that this was in no way our intention, and we all agree that a piece of content which does this is wholly unacceptable.

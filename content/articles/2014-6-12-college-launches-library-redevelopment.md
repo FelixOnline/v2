@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The College has announced plans for a major redevelopment of the Central Library. The project is scheduled to begin in a few weeks and is set to finish in late 2015, with work taking place mainly this summer and next summer to minimise disruption to students.
 date: "2014-06-12 17:59:34 +0100"
-
-# Attributes from Felix Online V1
-id: "4689"
-old_path: /news/4689/college-launches-library-redevelopment
+image: "http://felixonline.co.uk/img/upload/201406121900-me1711-centrallib.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4689/college-launches-library-redevelopment
-imported: true
 comments:
  - value: >
      Regarding the air conditioning planning application, it is open for public comments here: http://idoxpa.westminster.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&amp;keyVal=N4HRFLRPM2U00 <br>
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406121900-me1711-centrallib.jpg"
-image_caption: ""
 ---
 
 The College has announced plans for a major redevelopment of the Central Library. The project is scheduled to begin in a few weeks and is set to finish in late 2015, with work taking place mainly this summer and next summer to minimise disruption to students.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jonah Beaudin discusses the internet’s propensity for turning tragedies into jokes
 date: "2016-10-21 12:38:11 +0100"
-
-# Attributes from Felix Online V1
-id: "6345"
-old_path: /comment/6345/the-harambe-effect-meme-over-serious-matter
+image: "http://felixonline.co.uk/img/upload/201610211434-ajp15-Screen Shot 2016-10-21 at 14.34.36.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6345/the-harambe-effect-meme-over-serious-matter
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jgb215
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610211434-ajp15-Screen Shot 2016-10-21 at 14.34.36.png"
-image_caption: ""
 ---
 
 The story about Harambe gained global attention this summer. Then the Cincinnati Zoo wrote “We are not amused by the memes, petitions and signs about Harambe.” And that broke the internet. The number of memes created skyrocketed. Songs were composed, signs were made, petitions were signed. God it was hilarious. But it seems like nobody really cared about the gorilla.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Television Editor John Park reviews Devious Maids and Mistresses
 date: "2013-09-29 15:06:08 +0100"
-
-# Attributes from Felix Online V1
-id: "3778"
-old_path: /tv/3778/there-are-new-desperate-housewives-in-town
+image: "http://felixonline.co.uk/img/upload/201309291605-jal08-mistresses-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/3778/there-are-new-desperate-housewives-in-town
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309291605-jal08-mistresses-copy.jpg"
-image_caption: ""
 ---
 
 ###  Devious Maids

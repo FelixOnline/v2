@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Christy Kelly on the Monarchy
 date: "2013-11-01 10:46:31 +0000"
-
-# Attributes from Felix Online V1
-id: "3978"
-old_path: /comment/3978/royalties-from-the-royalty
+image: "http://felixonline.co.uk/img/upload/201311011047-felix-roay.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3978/royalties-from-the-royalty
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - ck2513
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311011047-felix-roay.jpeg"
-image_caption: ""
 ---
 
 The British Monarchy as an institution is, we can all agree, quintessentially British. Defined by political impotence with a history of starting needless wars to satisfy stupid demands. A historical anachronism allowed to be a part of the elite out of politeness, with the mind to its occasional utility. The US needed Britain’s support during Iraq, to pretend it wasn’t the only ‘democracy’ going to fight there uh, for democracy, and the British Government sometimes needs the Royal Family to throw a good party. Because these are times of austerity! Wait…

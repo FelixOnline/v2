@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Don't find yourself stuck in No-Man's Land
 date: "2011-10-07 10:11:57 +0100"
-
-# Attributes from Felix Online V1
-id: "1484"
-old_path: /comment/1484/a-true-dichotomy
+image: "http://felixonline.co.uk/img/upload/201111041134-felix-sam-horti-new.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1484/a-true-dichotomy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - sph109
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111041134-felix-sam-horti-new.jpg"
-image_caption: ""
 ---
 
 When facing a dichotomy, it often takes only a small amount of creative thinking to find a secret, third option. Some people will use this tactic unknowingly when their religious beliefs are called into question, especially when the question posed is: “Are you a theist or an atheist?” The secret, third option in this case is agnosticism, which, in the case of this question, is a nonsensical answer.

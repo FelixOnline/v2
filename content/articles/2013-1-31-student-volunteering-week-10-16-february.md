@@ -4,16 +4,13 @@ title: >
 subtitle: >
   From 10th - 16th February, get ready to volunteer
 date: "2013-01-31 23:10:22 +0000"
-
-# Attributes from Felix Online V1
-id: "3204"
-old_path: /news/3204/student-volunteering-week--10---16-february
+image: "http://felixonline.co.uk/img/upload/201301312308-tna08-blue-balloons.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3204/student-volunteering-week--10---16-february
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - mm4711
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301312308-tna08-blue-balloons.jpg"
-image_caption: ""
 ---
 
 Student Volunteering Week, brought to you by the [NUS](http://www.nus.org.uk/) and your very own [Imperial Hub](http://www.imperialhub.org/xwiki/bin/view/Imperial+Hub/) is a week aimed at celebrating, inspiring and supporting student volunteering.

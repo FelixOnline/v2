@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Former ICU President Alexander Kendall on the affordability of Imperial's postgraduate degrees - are the new price hikes justified?
 date: "2012-01-12 21:35:55 +0000"
-
-# Attributes from Felix Online V1
-id: "1971"
-old_path: /comment/1971/mystery-over-masters-fee-rises
+image: "http://felixonline.co.uk/img/upload/201201122136-cac111-mortar-board.jpg"
+image_caption: "MCap – Master of Captions. £9000"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1971/mystery-over-masters-fee-rises
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +22,6 @@ authors:
  - apk06
  - cac111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201122136-cac111-mortar-board.jpg"
-image_caption: ""
 ---
 
 Since the government cut funding for higher education and Undergraduate fees were forced up, much has been speculated about the corresponding rise in Postgraduate fees. Though technically the funding from the Government for Postgraduate fees was also cut, since it is lumped in with the total Undergraduate teaching grant it is hard to prise them apart and the two may in fact be inseparable. Across the country, we began to hear of price rises for Masters courses. The UK average is currently a 24% increase and as a student I had heard nothing from the College, the Union or Felix about any rises at Imperial until a lecturer remarked that they were going up to £9000. I decided to investigate.

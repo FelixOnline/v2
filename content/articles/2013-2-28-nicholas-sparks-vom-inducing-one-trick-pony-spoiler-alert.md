@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix Film take the plunge into romantic vomfests
 date: "2013-02-28 23:25:11 +0000"
-
-# Attributes from Felix Online V1
-id: "3386"
-old_path: /film/3386/nicholas-sparks-vom-inducing-one-trick-pony-spoiler-alert
+image: "http://felixonline.co.uk/img/upload/201302282325-tna08-eel9f0av-awalktoremember_635x400.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3386/nicholas-sparks-vom-inducing-one-trick-pony-spoiler-alert
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302282325-tna08-eel9f0av-awalktoremember_635x400.jpg"
-image_caption: ""
 ---
 
 ## Message in a Bottle - 1999

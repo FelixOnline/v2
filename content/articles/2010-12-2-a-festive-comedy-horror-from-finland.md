@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A great example of modern independent film-making driven by rare originality
 date: "2010-12-02 20:21:08 +0000"
-
-# Attributes from Felix Online V1
-id: "467"
-old_path: /film/467/a-festive-comedy-horror-from-finland
+image: "http://felixonline.co.uk/img/upload/201012022018-ks607-rareexpo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/467/a-festive-comedy-horror-from-finland
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jl4310
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022018-ks607-rareexpo.jpg"
-image_caption: ""
 ---
 
 Bored of the festive season? Bored of mince pies and cold weather? If you’re looking for something different this season, you need not look any further than this Finnish film about an ancient child-eating devil Santa, [Rare Exports: A Christmas Tale](http://www.youtube.com/watch?v=9RQlikX4vvw), which has been slated as this year’s premier festive-comedy-horror.

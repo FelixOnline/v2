@@ -4,18 +4,15 @@ title: >
 subtitle: >
   £235 per week for a room at Griffon Studios
 date: "2011-01-13 21:47:22 +0000"
-
-# Attributes from Felix Online V1
-id: "596"
-old_path: /news/596/new-postgraduate-halls-at-clapham-junction-
+image: "http://felixonline.co.uk/img/upload/201101132146-ks607-griffons.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/596/new-postgraduate-halls-at-clapham-junction-
-imported: true
 comments:
  - value: >
      £235 a week for Clapham Junction?! <br> <br>Why would they charge so much to postgrads of all people - who will already be in a situation of debt by their PG tuition fees and outstanding debts from their first degree. <br> <br>,"Mr Anderson argued that the halls offered international postgraduate students peace of mind when it came to housing: “The £235 price tag is not simply for the bricks and mortar. It’s also for the amenities, the community spirit and for peace of mind. We know that international postgraduate students can sometimes get burnt in the private rental market.”" <br> <br>So they're basically over-charging people who don't know better?,This makes no financial sense whatsoever for the PhD's. If you're lucky, your stipend is £1,300 a month which is £15,600 a year and these halls would come in to £12,220 leaving you £3,380 for personal spending... that's £65 a week!! <br> <br>For £235 a week, you can get a decent 1 bed flat in CJ!!! <br> <br>They're just taking advantage of people who haven't got a clue what prop
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101132146-ks607-griffons.jpg"
-image_caption: ""
 ---
 
 New halls in Clapham Junction are set to open to postgraduates in the next academic year. [Griffon Studios](http://www3.imperial.ac.uk/accommodation/prospectivestudents/prospectivepostgraduatestudents/accommodationoptions/griffonstudios), which charges £235 per week for high-quality studio apartments, is the product of a joint venture between the Imperial College Fund and the property developer [Berkeley First](http://www.berkeleygroup.co.uk/berkeley-first). The halls on Winstanley Road, which include a 24-hour “concierge service” and a free on-site “fitness gym”, will house 452 postgraduates from October 2011, expanding to 566 the following year.

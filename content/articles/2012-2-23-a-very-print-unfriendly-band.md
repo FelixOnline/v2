@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Mourning the loss of a beloved eccentric
 date: "2012-02-23 21:25:31 +0000"
-
-# Attributes from Felix Online V1
-id: "2253"
-old_path: /music/2253/a-very-print-unfriendly-band
+image: "http://felixonline.co.uk/img/upload/201202232109-ams111-anal-cunt.jpg"
+image_caption: "Featuring the ballad, ‘I Respect Your Feelings as a Woman and a Human’"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2253/a-very-print-unfriendly-band
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - fmusic
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202232109-ams111-anal-cunt.jpg"
-image_caption: ""
 ---
 
 I was exceptionally upset to hear about the death last June of Seth Putnam, lead singer of __Anal Cunt__ (or __AxCx__). For some reason, his death wasn’t reported that widely in the mainstream media, and in my post-teenage years my involvement in the metal scene has been dramatically diminished, so his passing passed me by. I loved his band more than can possibly be explained in anything approaching logical terms, but I hope to make you want to listen to them anyway.

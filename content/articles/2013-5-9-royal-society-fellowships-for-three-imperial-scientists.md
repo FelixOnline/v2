@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Not quite the same as the Fellowship of the Ring... Probably.
 date: "2013-05-09 12:07:54 +0100"
-
-# Attributes from Felix Online V1
-id: "3558"
-old_path: /news/3558/royal-society-fellowships-for-three-imperial-scientists
+image: "http://felixonline.co.uk/img/upload/201305091302-tna08-charles_ii_of_england.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3558/royal-society-fellowships-for-three-imperial-scientists
-imported: true
 comments:
  - value: >
       <a href="http://www.tracygracedesigns.com/cheap-cialis.html">cialis pills sold in canada without perscription</a> <a href="http://www.memorialbaptistbeckley.com/buy-accutane">buy accutane cheap</a> <a href="http://www.mycarinsurquote.com/">online auto insurance</a> <a href="http://www.insurancequotesforyou.net">buy cheap car insurance online today</a> <a href="http://www.maqdown.com/cialis.html">billigst cialis</a> <a href="http://priceforerection.com">cialis</a>
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305091302-tna08-charles_ii_of_england.jpg"
-image_caption: ""
 ---
 
 Three Imperial scientists have been granted Fellowship of the Royal Society. Professor the Lord Ara Darzi of Denham, Professor Joanna Haigh, and Professor Sir Steve Bloom were all recognised for their “contributions to science, both in fundamental research resulting in greater understanding, and also in leading and directing scientific and technological progress in industry and research establishments”.

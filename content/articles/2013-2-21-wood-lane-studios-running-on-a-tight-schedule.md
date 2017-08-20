@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In brief
 date: "2013-02-21 23:52:27 +0000"
-
-# Attributes from Felix Online V1
-id: "3350"
-old_path: /news/3350/wood-lane-studios-running-on-a-tight-schedule
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3350/wood-lane-studios-running-on-a-tight-schedule
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - nj1211
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 There is fear in the College Council that the contractor, ISG, who have the £39 million construction contract for the accommodation blocks at the new White City campus, may not be hitting their “target completion date”.

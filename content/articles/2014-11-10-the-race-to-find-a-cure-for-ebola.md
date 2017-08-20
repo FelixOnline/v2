@@ -4,16 +4,13 @@ title: >
 subtitle: >
   What still needs to be overcome to find a cure?
 date: "2014-11-10 21:36:03 +0000"
-
-# Attributes from Felix Online V1
-id: "4822"
-old_path: /science/4822/the-race-to-find-a-cure-for-ebola
+image: "http://felixonline.co.uk/img/upload/201411102135-ps3110-ebola_virus_(2).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4822/the-race-to-find-a-cure-for-ebola
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - kyc413
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102135-ps3110-ebola_virus_(2).jpg"
-image_caption: ""
 ---
 
 The Ebola outbreak has claimed about 4,900 lives to date mostly in the poverty-stricken countries in West Africa — Sierra Leone, Liberia and Guinea. As the death toll and number of cases rise exponentially, scientists are scrambling to develop treatments that would stop this epidemic, which Oxfam describes as a “humanitarian disaster”. Until there are vaccines approved by the FDA, standard public health containment measures will be used to control the situation.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Jonathan London on depression
 date: "2013-01-31 23:24:44 +0000"
-
-# Attributes from Felix Online V1
-id: "3207"
-old_path: /news/3207/unseen-imperial--depression-the-stigmatised-illness
+image: "http://felixonline.co.uk/img/upload/201301312325-tna08-depression-loss_of_loved_one-(1).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3207/unseen-imperial--depression-the-stigmatised-illness
-imported: true
 comments:
  - value: >
      Great thing you're doing here. I am an alumni, with a great and well-payed job now and looking forward to my future. During my time at Imperial though, I had trouble measuring up to the college's expectations and spent most of my time feeling at the edge of a cliff, without a chance of saving myself from a seeming downward spiral of: bad grades, thinking I'll have a terrible future, to feeling worthless, which in turn certainly didn't help my grades. I couldn't get up in the morning and thought of suicide nearly daily, especially during exam periods. Its a burden I wished I wouldn't have kept to myself. Everybody has their reasons, those were mine and the fact that I feel that I still have to justify who I was back then shows how little this is socially accepted, as you rightly point out. <br>Best of luck and keep this up. Make a call for donations, this is something I would like to support.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301312325-tna08-depression-loss_of_loved_one-(1).jpg"
-image_caption: ""
 ---
 
 __What is Unseen Imp____erial?__

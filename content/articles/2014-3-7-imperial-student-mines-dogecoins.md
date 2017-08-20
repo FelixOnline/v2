@@ -4,18 +4,15 @@ title: >
 subtitle: >
   An Imperial student used College computers to mine 30,000 Dogecoins.
 date: "2014-03-07 04:32:15 +0000"
-
-# Attributes from Felix Online V1
-id: "4451"
-old_path: /news/4451/imperial-student-mines-dogecoins
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4451/imperial-student-mines-dogecoins
-imported: true
 comments:
  - value: >
      I think you've mixed up the Harvard super computer dogecoin story with this one. The imperial student hasn't been ''permanently banned from using the college's more powerful research supercomputers".
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - mtm10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 An Imperial student used College computers to mine 30,000 Dogecoins. The Dogecoin, which was first introduced three months ago and is inspired by the popular Doge meme, is one of a number of cryptocurrencies set up following the spectacular success of Bitcoin. Such cryptocurrencies are not controlled by a central bank but rather by a pre-determined algorithm. Individuals can donate some of their computer’s processor time to running this algorithm and managing transactions performed using these currencies. They are rewarded for this by being awarded newly generated coins of that currency – this process is referred to as mining and is the only way in which new Dogecoins and Bitcoins can be produced.

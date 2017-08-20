@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The results are announced tonight
 date: "2015-11-20 09:35:03 +0000"
-
-# Attributes from Felix Online V1
-id: "5758"
-old_path: /music/5758/felixs-mercury-prize-picks
+image: "http://felixonline.co.uk/img/upload/201511201452-cet13-prize.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5758/felixs-mercury-prize-picks
-imported: true
 comments:
  - value: >
      What does riff-filled thrash pop hell mean?,What does riff-filled thrash pop hell mean?,What does riff-filled thrash pop hell mean?,What does riff-filled thrash pop hell mean?,What does riff-filled thrash pop hell mean?,What does riff-filled thrash pop hell mean?,Can you really call yourself musicfan if you don't know what that means?,Can you really call yourself musicfan if you don't know what that means?,Can you really call yourself musicfan if you don't know what that means?,Can you really call yourself musicfan if you don't know what that means?,Can you really call yourself musicfan if you don't know what that means?,Can you really call yourself musicfan if you don't know what that means?,Really... this is a helpful webpage <br>NBA2K16 http://moban3.05win.8www.cn/comment/html/index.php?page=1&amp;id=17278,Really... this is a helpful webpage <br>NBA2K16 http://moban3.05win.8www.cn/comment/html/index.php?page=1&amp;id=17278,Really... this is a helpful webpage <br>NBA2K16 http://moban3.05win.8www.cn/comment/html/index.php?pa
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -33,12 +30,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511201452-cet13-prize.jpg"
-image_caption: ""
 ---
 
 #### _In Colour___Jamie xx__

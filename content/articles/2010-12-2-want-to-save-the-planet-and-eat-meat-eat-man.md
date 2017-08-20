@@ -4,16 +4,13 @@ title: >
 subtitle: >
   We should return to the food web structure from whence we came
 date: "2010-12-02 20:27:57 +0000"
-
-# Attributes from Felix Online V1
-id: "471"
-old_path: /science/471/want-to-save-the-planet-and-eat-meat-eat-man-
+image: "http://felixonline.co.uk/img/upload/201012022024-ks607-cowcow.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/471/want-to-save-the-planet-and-eat-meat-eat-man-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - ks607
  - sf305
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022024-ks607-cowcow.jpg"
-image_caption: ""
 ---
 
 One thing that is often said by vegetarians is that meat farming is not sustainable. Figures are not (scientifically) clear, though what is obvious is that farm production of animals for human consumption requires a lot more in the way of nitrogenous input than for arable farming – not least because the animals we farm are chiefly herbivores and feeds given to them must themselves be grown. In practice this is achieved from grain not suitable for human consumption (e.g. because the harvest period was too damp). I do not know what we would do with such grain if we did not give it to animals – we would have to find some use for it in order to avoid just wasting it; its entry into the market is weather-driven and so pretty unavoidable.

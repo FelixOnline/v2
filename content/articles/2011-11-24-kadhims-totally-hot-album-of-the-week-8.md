@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Main Attrakionz – 808s & Dark Grapes II – 2011
 date: "2011-11-24 22:23:58 +0000"
-
-# Attributes from Felix Online V1
-id: "1833"
-old_path: /music/1833/kadhims-totally-hot-album-of-the-week-8
+image: "http://felixonline.co.uk/img/upload/201111242221-felix-808sanddarkgrapes2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1833/kadhims-totally-hot-album-of-the-week-8
-imported: true
 comments:
  - value: >
      | I'll look at a few tracks:When pepole are looking for real theological exegesis, they don't look to the Newsboys. Most lyrics explore a simple Bible concept I really think Tait's voice is killing it on this album. On Your Knees is really good but sounds a lot like a Daughtry or Lifehouse ballad but it is done so well, in the same way that dc Talk would copy another artist's style and it would still sound good. He makes some statement about love coming from the inside out , but, ultimately, this song runs in contrast to the message of Rick Warren, basically saying when you've given it all you got (which, the message should be, why aren't you first going to Scripture and prayer? ) that submitting to God is how to survive, and at times, overcome. When The Boys Light Up sounds a little like a Toby Mac song, and I wouldn't mind this, which is yet another inspirational go get em song but the guitars, keys and drums are just a little cheesy. The little phrases like get wired to the Highest Power , we a
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +23,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242221-felix-808sanddarkgrapes2.jpg"
-image_caption: ""
 ---
 
 Searching out new music is not a lone pursuit and cannot be meaningfully automated. You can’t hope to get past the tripe on mainstream radio or last.fm’s “1+1 = U2” algorithm without a friend giving you a nudge and saying, “we literally won’t be friends anymore if you don’t love this band”.

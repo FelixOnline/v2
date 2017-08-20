@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Rite has got me dying of boredom
 date: "2011-03-01 21:04:28 +0000"
-
-# Attributes from Felix Online V1
-id: "964"
-old_path: /film/964/read-me-my-last-rites
+image: "http://felixonline.co.uk/img/upload/201103012103-ks607-theritet.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/964/read-me-my-last-rites
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - egk08
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103012103-ks607-theritet.jpg"
-image_caption: ""
 ---
 
 Any film about exorcism will always be compared to William Friedkin’s unintentionally hilarious 1973 classic The Exorcist but Mikael Håfström’s attempt to circumnavigate any comparisons with the latter in his latest horror The Rite inevitably fails. Although we’re informed that the story is ‘inspired by true events’, the film unfortunately resorts to your typical body convulsing, manic preaching we’d expect of an exorcist movie minus the profanities.

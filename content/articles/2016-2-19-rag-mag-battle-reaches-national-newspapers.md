@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Daily Mail and Evening Standard both publish news stories on the banned magazine's 'sexism'
 date: "2016-02-19 11:07:00 +0000"
-
-# Attributes from Felix Online V1
-id: "5923"
-old_path: /news/5923/rag-mag-battle-reaches-national-newspapers
+image: "http://felixonline.co.uk/img/upload/201602191106-felix-Screen Shot 2016-02-18 at 14.47.02.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5923/rag-mag-battle-reaches-national-newspapers
-imported: true
 comments:
  - value: >
      When is Lucinda going to stop sulking about the non-existent sexism?,When is Lucinda going to stop sulking about the non-existent sexism?,When is Lucinda going to stop sulking about the non-existent sexism?,banning that article went really well for the union didn't it,banning that article went really well for the union didn't it,banning that article went really well for the union didn't it
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602191106-felix-Screen Shot 2016-02-18 at 14.47.02.png"
-image_caption: ""
 ---
 
 This week, national newspapers covered the sexism row that has been raging since the union strongly advised RAG to bin 1600 copies of a satirical magazine they’d just printed. In an attempt to raise money for Great Ormond Street Hospital, the British Refugee Council and Porridge in Rice, which works in Kenya, RAG published a 16-page handout that included several pages of ‘satire’, which the union has branded a sexist example of “harassment and bullying” against the Union President. After last Friday’s FELIX, which published comment pieces responding to the story, journalists from the _Daily Mail_ and _Evening Standard_ began to contact members of the RAG committee, the Union President and College.

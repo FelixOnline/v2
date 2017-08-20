@@ -4,18 +4,15 @@ title: >
 subtitle: >
   James lees tell us how France is to ban the wearing of the niqab
 date: "2010-02-01 17:30:54 +0000"
-
-# Attributes from Felix Online V1
-id: "67"
-old_path: /politics/67/france-to-ban-the-wearing-of-the-niqab-
+image: "http://felixonline.co.uk/img/upload/201002011729-rsp07-niqabwom.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/67/france-to-ban-the-wearing-of-the-niqab-
-imported: true
 comments:
  - value: >
      in the name of allah the most merciful, <br> <br>&amp;quot;We cannot accept, in our country, women imprisoned behind a mesh, cut off from society, deprived of all identity. That is not the French republic's idea of women's dignity.â,where is the rest of my comment? <br> <br>The french idea of women dignity seems to be a mystery. <br> <br>Whether it is that the blessed Mery, who should be a role model to muslim/christian girls alike, is dignified under such definitions im not sure. whether she would've been welcomed in french schools at all for her veil? <br> <br>Whether putting pictures of semi-naked ladies on merchandise to make it more appealing, even when its a simple match-box, is more dignified im not sure. <br> <br> If you want to know why the face-veil is worn, then ask us. Dont just assume its submission to men. I'd say, the only oppressed is a person who denies himself from hearing the true answer from those who know, not &amp;quot;shaikh&amp;quot; Sarkozi who declared himself knowledgeable in what Islam says. <br> <br>Thursday
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -26,12 +23,6 @@ authors:
  - rsp07
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002011729-rsp07-niqabwom.jpg"
-image_caption: ""
 ---
 
 France, a country known mainly for cheese, wine, surrendering, gourmet food and the Eiffel Tower, is not a country I often praise. There is, however, one thing which I envy about France: the way the French Republic sticks to its principles – mostly.

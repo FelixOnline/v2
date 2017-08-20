@@ -4,16 +4,13 @@ title: >
 subtitle: >
   And the picture ain’t pretty
 date: "2016-12-15 23:46:35 +0000"
-
-# Attributes from Felix Online V1
-id: "6597"
-old_path: /news/6597/report-sheds-light-on-imperial-culture
+image: "http://felixonline.co.uk/img/upload/201612152346-felix-Screen Shot 2016-12-15 at 16.03.13.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6597/report-sheds-light-on-imperial-culture
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612152346-felix-Screen Shot 2016-12-15 at 16.03.13.png"
-image_caption: ""
 ---
 
 Results of a report investigating Imperial’s institutional culture were recently released to the public, revealing a troubling picture behind the shining facade of academic excellence.

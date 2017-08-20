@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Initiations aren't all bad
 date: "2010-10-28 19:51:35 +0100"
-
-# Attributes from Felix Online V1
-id: "280"
-old_path: /comment/280/freshers-initiations-are-a-chance-to-do-something-special-that-we-should-embrace-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/280/freshers-initiations-are-a-chance-to-do-something-special-that-we-should-embrace-
-imported: true
 comments:
  - value: >
       <br>The best way to Choose Purses at the Turn of Seasons <br> <br>Seasonal handbags are really common at a season's turn. It is a big fun to shop seasonal purses. The below guidelines will help you to find the fads in them. <br> <br>Firstly <a href="http://www.utbags.com/search/louis-vuitton-icare.html">Louis Vuitton Icare</a>, opt for a correct style or design. In the summer, you may like a large bag to carry all your beach <br>gear. In the fall, you could want <br>something which includes a strap to sling on shoulders for a short go away. In the winter, it is an excellent time for a little clutch which you can take <br>to all the holiday gatherings. The spring is up for any sort of bags. <br> <br>The second point is about locating out perfect textile. Natural cotton, canvas, or vinyl are <br>really popular for summertime bags. They're especially durable. Spring is a sparkling season. Therefore, it is far better to select easy and long-lasting material to coordinate the <br>bright season. <br> <br>Thirdly, it's essential <br>to get a
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - sf305
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A couple of years ago, at some rather remote university in England, a student died as a result of an initiation ceremony, apparently involving physical activity and alcohol. The details were never quite made clear, but it left many universities and colleges across the land with no option but to ban such ceremonies formally.

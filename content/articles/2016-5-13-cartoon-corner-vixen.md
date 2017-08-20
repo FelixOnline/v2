@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Our regular TV column
 date: "2016-05-13 09:24:31 +0100"
-
-# Attributes from Felix Online V1
-id: "6161"
-old_path: /tv/6161/-cartoon-corner-vixen
+image: "http://felixonline.co.uk/img/upload/201605131124-felix-vixen.jpg"
+image_caption: "Another hero is in on the action. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6161/-cartoon-corner-vixen
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - sa8713
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605131124-felix-vixen.jpg"
-image_caption: ""
 ---
 
 Spinning out of the CW’s live action DC shows is an animated one by the name of Vixen. This series takes place in its own corner of the called ‘Arrowverse’, offering a take on a different kind of hero, as well as using animation to do the things too expensive for live action. This venture is mostly successful but not without its faults.

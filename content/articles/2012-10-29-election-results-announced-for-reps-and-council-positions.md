@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The results for this year’s Council and rep elections, with some posts remaining unfilled
 date: "2012-10-29 18:04:35 +0000"
-
-# Attributes from Felix Online V1
-id: "2774"
-old_path: /news/2774/election-results-announced-for-reps-and-council-positions
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2774/election-results-announced-for-reps-and-council-positions
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The results for this year’s Reps and [Council](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/council) elections were announced on [Wednesday 24 October.](https://www.imperialcollegeunion.org/news/your-reps-council-elections-results)

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Why bother with reforms if nobody cares?
 date: "2017-02-17 14:21:49 +0000"
-
-# Attributes from Felix Online V1
-id: "6777"
-old_path: /news/6777/no-mascotry-resolution-in-sight
+image: "http://felixonline.co.uk/img/upload/201702171421-felix-theta.jpg"
+image_caption: "That thermometer reportedly cost £10,000"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6777/no-mascotry-resolution-in-sight
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +21,6 @@ authors:
  - mjj15
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702171421-felix-theta.jpg"
-image_caption: ""
 ---
 
 The age-old Imperial tradition of mascot stealing (also known as mascotry) was once again brought up at Union Council on Monday, in an attempt to create a new, contemporary set of rules to regulate the competitive ‘sport’.

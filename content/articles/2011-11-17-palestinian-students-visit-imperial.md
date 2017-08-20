@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Exchange students reveal their thoughts on Palestine's struggle for recognition.
 date: "2011-11-17 20:28:16 +0000"
-
-# Attributes from Felix Online V1
-id: "1759"
-old_path: /politics/1759/palestinian-students-visit-imperial
+image: "http://felixonline.co.uk/img/upload/201111172026-pk1811-crowd.jpg"
+image_caption: "ICU President Scott Heath and a few Imperial students posing with the students from Palestine."
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1759/palestinian-students-visit-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -25,12 +23,6 @@ authors:
  - rj408
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111172026-pk1811-crowd.jpg"
-image_caption: ""
 ---
 
 On Tuesday, Imperial was visited by a group of six Palestinian university students spending eleven days in London as part of a cultural exchange. Felix took the opportunity to speak to them.

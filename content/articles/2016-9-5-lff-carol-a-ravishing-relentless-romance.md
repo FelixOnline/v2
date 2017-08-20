@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Todd Haynes excels, as Rooney Mara and Cate Blanchett blow us away with nuanced performances
 date: "2016-09-05 20:31:48 +0100"
-
-# Attributes from Felix Online V1
-id: "6294"
-old_path: /film/6294/lff--carol--a-ravishing-relentless-romance
+image: "http://felixonline.co.uk/img/upload/201609052230-ff712-201512061428-ff712-carol2-xlarge.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6294/lff--carol--a-ravishing-relentless-romance
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - ff712
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201609052230-ff712-201512061428-ff712-carol2-xlarge.jpg"
-image_caption: ""
 ---
 
 The verb ‘to ravish’ has two meanings. In one context, we can use it to describe being transported to a place of ecstasy, where our emotions take flight, and we are overcome with an inescapable delight, swirling upwards to a higher plane. In another, it describes something far more brutal: to take by force, to seize and carry someone off, kicking and screaming, against their will. In both senses of the word, exploring this freakish dichotomy, _Carol_ is utterly, irresistibly, achingly ravishing.

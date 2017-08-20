@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Universities hit by huge reductions in 2011/12, plus additional cuts this year
 date: "2011-02-10 20:11:47 +0000"
-
-# Attributes from Felix Online V1
-id: "766"
-old_path: /news/766/940-million-cut-to-higher-education-funding-
+image: "http://felixonline.co.uk/img/upload/201104222236-felix-4624547316_9fb7da38c0_b.jpeg"
+image_caption: "The universities minister, David Willetts, has called on universities to adapt to a new environment"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/766/940-million-cut-to-higher-education-funding-
-imported: true
 comments:
  - value: >
      3AnHpz <a href="http://umhgnbrjmfsv.com/">umhgnbrjmfsv</a>,Professor John Seddon, an expert in service organizations says that there are two arguments for sharing services. The ‘less of a common resource' argument and the ‘efficiency through industrialisation' argument. <br> <br>The former argument is ‘obvious': if you have fewer managers, IT systems, buildings etc; if you use less of some resource, it will reduce costs. But the reductions are often minor and one-off. <br> <br>The second argument is ‘efficiency through industrialisation’. This argument assumes that efficiencies follow from specialisation and standardisation – resulting in the creation of ‘front' and ‘back' offices. The typical method is to simplify, standardise and then centralise, using an IT ‘solution' as the means. <br> <br>The problem with the industrial design is simple - it doesn't absorb variety in demand. Because of this, costs soar as the IT system has to be modified and customers ring back again and again because they can't get wha
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - skd09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104222236-felix-4624547316_9fb7da38c0_b.jpeg"
-image_caption: ""
 ---
 
 University funding for teaching and research is to be cut by £940 million for the 2011-12 academic year, a decision described as “a challenging financial settlement” by the chief executive of the Higher Education Funding Council for England (Hefce) which [announced the cuts last week](http://www.hefce.ac.uk/news/hefce/2011/funding.htm). Universities will also receive £190m less than they had anticipated for this academic year (2010-11), as an in-year cut is announced for the first time.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Guys play girls and girls play guys in comically dark Japanese kidnapping
 date: "2012-02-03 10:36:46 +0000"
-
-# Attributes from Felix Online V1
-id: "2126"
-old_path: /arts/2126/hip-to-bee-square
+image: "http://felixonline.co.uk/img/upload/201202031035-sjw209-the-bee-2.jpg"
+image_caption: "Is it a guy? Is it a girl? One way to find out! "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2126/hip-to-bee-square
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - er310
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202031035-sjw209-the-bee-2.jpg"
-image_caption: ""
 ---
 
 The ease with which Ido, protagonist of [_The Bee_](http://www.sohotheatre.com/whats-on/the-bee/), morphs from law-abiding and rather boring businessman – of the kind who present their sons with calculators for their 6th birthday – to terrorising monster is stupefying but altogether not far removed from reality. After all, murderers lead at least some semblance of a ‘normal’ life up until that fateful murderous day. Perhaps it was because of this knowledge that _The Bee_ made for such unsettling viewing. When his family is kidnapped, Ido refuses to play the victim and takes the kidnappers’ wife and son as hostages. What was initially a matter of revenge on Ogoro, the stammering escapee murderer who wants his wife back, soon descends into cold sickening pleasure for Ido.

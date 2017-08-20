@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Plabon Saha says: seriously, we stole everyone’s shit
 date: "2012-10-11 20:49:29 +0100"
-
-# Attributes from Felix Online V1
-id: "2654"
-old_path: /news/2654/rcsu-on-top
+image: "http://felixonline.co.uk/img/upload/201210161532-felix-plabon-mascot.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2654/rcsu-on-top
-imported: true
 comments:
  - value: >
      Actually giving someone else your card to use is against college rules. If you read it carefully you'll see that I sought permission from the cardholder to use her card and she complied (which I can provide proof of with a couple of witnesses if you would like). So, she is the one that broke college rules rather than me since I neither stole it nor did I take it by force. ,I am aware that we must throw the current Theta in the serpentine and build a new one if it's violated but since they only stole a part of Theta I'm not sure whether we should throw this one away since most of it was still in our hands.,https://www.youtube.com/watch?v=qZxRpO-GLRk,I thought using someone else's card is against college rules...,do not pass Go, do not collect £200,cool story bro,Beware Gentlemen. Your forebears do not expect to see the words "Theta" and "violated" in the same sentence. Nice to see that Gluids have at least stopped muttering about inviolate mascots and not playing.,Back in my day when Theta was violated a new
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3411
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210161532-felix-plabon-mascot.jpg"
-image_caption: ""
 ---
 
 Fresher’s Fair 2012 saw an unprecedented rise in mascotry and the RCSU-CGCU rivalry was re-ignited with a burning vengeance. After the capture of the ICSMU’s Phoenix head last year the RCSU went a step further as it is currently holding onto City and Guild Union’s Bolt and Spanner and the ICSMU’s Phoenix feet. However, it pains me to say that our beloved mascot Theta was violated as well and one of its four parts is currently in the hands of the dirty engineers in CGCU.

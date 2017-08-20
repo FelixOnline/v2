@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This week it's The Cove
 date: "2015-11-20 09:21:19 +0000"
-
-# Attributes from Felix Online V1
-id: "5753"
-old_path: /film/5753/documentary-corner
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5753/documentary-corner
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - bsc14
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Much like Bowling for Columbine, our featured film of last week, The Cove stands as a masterful example of a documentary with a message. A renowned critical darling, the film boasts countless awards, including the Academy Award for ‘Best Documentary Feature’. Despite being heavily one-sided, it is a near-perfect example of how to produce an informative, campaign-based documentary. While many films of a similar vein often end up incredibly dull and repetitive in their preachiness, The Cove keeps the viewer engaged, and has more than just dry facts to keep us hooked.

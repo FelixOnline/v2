@@ -4,16 +4,14 @@ title: >
 subtitle: >
   New research reveals new information about the composition of the Earth's core
 date: "2011-12-01 19:44:50 +0000"
-
-# Attributes from Felix Online V1
-id: "1860"
-old_path: /science/1860/earths-core-deprived-of-oxygen
+image: "http://felixonline.co.uk/img/upload/201112011944-ams111-479480a-f1.2.jpg"
+image_caption: "Cross section showing the inside the Earth."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1860/earths-core-deprived-of-oxygen
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +23,6 @@ authors:
  - ng411
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112011944-ams111-479480a-f1.2.jpg"
-image_caption: ""
 ---
 
 The composition of the Earth’s core has been a mystery to scientists for nearly 60 years. While we know much about how this section of our planet affects us in terms of magnetism, energy generation and planetary dynamics, its precise makeup has remained hazy. Until recently all we knew was that the core is composed of predominantly liquid iron, along with small amounts of nickel, and 10% (by weight) of light elements.

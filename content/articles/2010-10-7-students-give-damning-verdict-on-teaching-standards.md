@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The College makes coursework feedback and marking a priority as Rector tells staff he is “extremely disappointed” by the National Student Survey results
 date: "2010-10-07 22:12:17 +0100"
-
-# Attributes from Felix Online V1
-id: "174"
-old_path: /news/174/students-give-damning-verdict-on-teaching-standards
+image: "http://felixonline.co.uk/img/upload/201104181303-felix-mfk_sirkeitho_nions_009.jpg"
+image_caption: "The Rector is extremely disappointed by the results"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/174/students-give-damning-verdict-on-teaching-standards
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104181303-felix-mfk_sirkeitho_nions_009.jpg"
-image_caption: "The Rector is extremely disappointed by the results"
 ---
 
 The results of the latest [National Student Survey](http://www.thestudentsurvey.com/) have led Imperial College to announce a campaign to improve the assessment of students’ work, with the Rector Sir Keith O'Nions becoming personally involved in an attempt to lead a noted improvement across all College departments.

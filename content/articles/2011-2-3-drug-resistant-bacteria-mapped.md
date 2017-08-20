@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Genome sequencing of pneumonia-causing bacteria may lead to new antibiotics
 date: "2011-02-03 19:57:17 +0000"
-
-# Attributes from Felix Online V1
-id: "730"
-old_path: /science/730/drug-resistant-bacteria-mapped-
+image: "http://felixonline.co.uk/img/upload/201102031954-ks607-somekind.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/730/drug-resistant-bacteria-mapped-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - ch1810
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102031954-ks607-somekind.jpg"
-image_caption: ""
 ---
 
 The genomes of hundreds of bacterial strains that cause pneumonia have been sequenced and may lead to new antibiotics and vaccines.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Pietro Aronica gives a – mostly fictional – parody of the precise and hallowed science of marking lab reports
 date: "2013-06-05 16:44:10 +0100"
-
-# Attributes from Felix Online V1
-id: "3657"
-old_path: /comment/3657/the-tale-of-the-demonstrator
+image: "http://felixonline.co.uk/img/upload/201306051745-tna08-marking.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3657/the-tale-of-the-demonstrator
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306051745-tna08-marking.jpg"
-image_caption: ""
 ---
 
 The demonstrator, working late at night, still has a stack of papers to correct for the following day. Though the bed beckons to him, he relentlessly keeps going, as students require his slightly-above-minimum wage insights and comments: without his feedback, they would have literally no other way to improve their marks. Or so he tells himself, correcting for the umpteenth time that night that the plural of “momentum” is not “momentums”.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Will you join my (Mili)band?
 date: "2010-12-02 20:54:28 +0000"
-
-# Attributes from Felix Online V1
-id: "480"
-old_path: /politics/480/will-you-join-my-miliband-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/480/will-you-join-my-miliband-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Ever since the new leader EDavid Miliband stood up to the batting plate, how has Labour, once preening in the glory days, adjusted to a life as the Opposition?

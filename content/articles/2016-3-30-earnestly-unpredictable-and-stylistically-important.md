@@ -4,16 +4,14 @@ title: >
 subtitle: >
   ROH's Importance of Being Earnest is a boldly innovative take on a well-loved classic
 date: "2016-03-30 01:25:58 +0100"
-
-# Attributes from Felix Online V1
-id: "6081"
-old_path: /arts/6081/earnestly-unpredictable-and-stylistically-important
+image: "http://felixonline.co.uk/img/upload/201603300152-jc7413-PR8A1630 CURIEVICI AS JOHN WORTHING, NELSON AS ALGERNON MONCRIEFF, EWING AS LADY BRACKNELL, BOYLE AS CECILY CARDEW, MARSHALL AS GWENDOLEN FAIRFAX © ROH. S CUMMISKEY.jpg"
+image_caption: "Am I right to suppose that there is to be no christening today?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6081/earnestly-unpredictable-and-stylistically-important
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - jc7413
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603300152-jc7413-PR8A1630 CURIEVICI AS JOHN WORTHING, NELSON AS ALGERNON MONCRIEFF, EWING AS LADY BRACKNELL, BOYLE AS CECILY CARDEW, MARSHALL AS GWENDOLEN FAIRFAX © ROH. S CUMMISKEY.jpg"
-image_caption: "Am I right to suppose that there is to be no christening today?"
 ---
 
 Flying cakes, crashing plates, a cacophonous score and a healthy dose of Wilde witticisms – Gerald Barry's operatic adaptation of _The Importance of Being Earnest_ has it all. Being an enormous fan of Wilde, this production brought the Wilde-ness of one of the most recognisably "Wildean" plays to levels I never thought possible.

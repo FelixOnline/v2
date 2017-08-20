@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Most people work so that they can live, but a lucky few live so that they can work. All you need is inspiration, says Saskia Verhagen
 date: "2013-03-07 20:56:27 +0000"
-
-# Attributes from Felix Online V1
-id: "3420"
-old_path: /comment/3420/in-search-of-inspiration
+image: "http://felixonline.co.uk/img/upload/201303072055-txl11-diana-vreeland.jpg"
+image_caption: "Needs more red"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3420/in-search-of-inspiration
-imported: true
 comments:
  - value: >
      　( 2012.02.22 01:42 ) : Thank you for being my own instructor on this topic. My sopuse and i enjoyed your article quite definitely and most of all favored how you handled the issues I considered to be controversial. You're always incredibly kind towards readers much like me and assist me in my life. Thank you.,This is both street smart and <a href="http://vrqjqjv.com">inntlligeet.</a>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303072055-txl11-diana-vreeland.jpg"
-image_caption: ""
 ---
 
 Complacency is a cruel mistress. She lures you in with a sense of comfort: that failing an exam, or not getting the degree you wanted, or that mediocrity itself might just be… fine. That you’ll survive, and see tomorrow, and the next day – and nothing will really change. And if nothing changes, there’s nothing to be afraid of. Those ensnared in her trap will drift with the tide, not having to think, or imagining what on earth it might be that could bring life to the days they spend breathing the air, walking the streets, eating their dinner, sleeping dreamlessly through the night.

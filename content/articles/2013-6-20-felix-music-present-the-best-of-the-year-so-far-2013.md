@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ross Gray offers dark obscurities and a dreamy indie release
 date: "2013-06-20 23:10:56 +0100"
-
-# Attributes from Felix Online V1
-id: "3717"
-old_path: /music/3717/felix-music-present-the-best-of-the-year-so-far-2013
+image: "http://felixonline.co.uk/img/upload/201306210011-tna08-rites-cover.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3717/felix-music-present-the-best-of-the-year-so-far-2013
-imported: true
 comments:
  - value: >
      How could you guys forget this masterpiece: http://www.dailymotion.com/video/xyy9zg_eye-to-eye-song_music,ஆம ம , இஞ ச ன யர ங ப ர ஜக ட கள ல , எப ப ழ த ம Manhour basisல த ன வர வ ய கண ப பத , அத ப ல த டர ந த ம ன ட ர ங ச ய த அதன வ ச ச ந ச ச கல அற ந த , கண த த Manhours க ள ள ய வ ல ச ய த ம ட க கவ ண ட ம . இத ம த ம தம கண க ன க கப பட ட , ந ல ம ற ன ல கட ட ப பட த தப பட ம . வர வ ய ம ,அதற க தக ந த ல ப ல Invoice எழ ப ப , ownerகள டம ர ந த ப ற ற க க ள ளப பட ம . எல ல இஞ ச ன யர ங வ ல கள க க ம வ ல ச ய ய ம ந ர ணயந ரம ண ட . ஒர ப ர ஜக க ட ட ல உள ள அத தன வ ல கள ய ம க ற ப
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +23,6 @@ authors:
  - rbg10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306210011-tna08-rites-cover.jpg"
-image_caption: ""
 ---
 
 2013 has been a year of labels for me. Whilst this may be somewhat rudimentary, I’ve really found labels to be an incredible source of new sounds in the year so far. I had to make a big effort to limit some of my favourite labels from this period (e.g. Opal Tapes, Blackest Ever Black) to just one record. Consequently, I would highly recommend looking at a label’s entire output if you like the release given in the list. I am unsure whether this has been a particularly good year for dark music or an awful year for me personally, but my picks from this year have been dominated by lo-fi, dark, industrial sounds, and so wherever possible I have avoided using this description for the works. Instead I have tried to focus on what it is that makes them stand out within this (surprisingly) tightly themed block.

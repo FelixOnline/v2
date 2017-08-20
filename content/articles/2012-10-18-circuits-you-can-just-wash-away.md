@@ -4,16 +4,13 @@ title: >
 subtitle: >
   "The structure successfully dissolves at both body and room temperature"
 date: "2012-10-18 21:19:06 +0100"
-
-# Attributes from Felix Online V1
-id: "2700"
-old_path: /science/2700/circuits-you-can-just-wash-away
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2700/circuits-you-can-just-wash-away
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - pk1811
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A well-known property of modern silicon-based electronics is their resilience to change: a printed circuit board (PCB) doesn’t dissolve, and only melts at high temperatures. However, following research recently published in Science, this may no longer be the case, with the production of a complimentary metal-oxide semiconductor (CMOS) that can physically disappear at the end of use.

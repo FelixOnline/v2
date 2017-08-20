@@ -4,18 +4,15 @@ title: >
 subtitle: >
   As the European Court of Human Rights overrules the UK government over prisoner rights, should prisoners have the same democratic rights as the rest of us?
 date: "2011-03-01 20:53:44 +0000"
-
-# Attributes from Felix Online V1
-id: "959"
-old_path: /politics/959/should-prisoners-be-allowed-to-vote
+image: "http://felixonline.co.uk/img/upload/201103012050-ks607-prisoner.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/959/should-prisoners-be-allowed-to-vote
-imported: true
 comments:
  - value: >
      The moment an individual breaks the Law, any Law to which he/she was found guildy of breaking, He/She has lost all Political and Civil rights. <br> <br>How can a person that does not respect the Law has the power to decide who is to lead a country?
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -28,12 +25,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103012050-ks607-prisoner.jpg"
-image_caption: ""
 ---
 
 __Yes – Andrew Purcell__

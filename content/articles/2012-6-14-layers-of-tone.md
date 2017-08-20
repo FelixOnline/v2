@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Layers of Tone
 date: "2012-06-14 20:57:28 +0100"
-
-# Attributes from Felix Online V1
-id: "2573"
-old_path: /phoenix/2573/layers-of-tone-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/2573/layers-of-tone-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -23,12 +20,6 @@ authors:
  - ak608
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A revival of what once was

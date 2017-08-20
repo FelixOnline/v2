@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The long day on the slopes and tartiflette
 date: "2011-02-03 19:08:54 +0000"
-
-# Attributes from Felix Online V1
-id: "710"
-old_path: /food/710/ski-food
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/710/ski-food
-imported: true
 comments:
  - value: >
      Agreed. Nothing better!
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -27,12 +24,6 @@ authors:
  - gm1509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I don’t know a lot about you and to be honest I don’t really care (only kidding…no really, I don’t care). but I was fortunate enough to spend Christmas in Les Alpes. Personally, and unsurprisingly (being a wannabe food critic) my favorite part was the food. So again I have another gem of a recipe to share!

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   What would your tech editors do, if they were crapping money?
 date: "2014-01-15 16:23:42 +0000"
-
-# Attributes from Felix Online V1
-id: "4212"
-old_path: /tech/4212/tech-for-x-mas
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/4212/tech-for-x-mas
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -23,12 +20,6 @@ authors:
  - me1711
  - oa1612
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 #### Samsung KN55S9C OLED TV

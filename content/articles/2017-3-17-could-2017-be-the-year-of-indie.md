@@ -4,18 +4,15 @@ title: >
 subtitle: >
   With some major albums about to drop, could we soon be seeing an indie resurgence?
 date: "2017-03-17 17:06:42 +0000"
-
-# Attributes from Felix Online V1
-id: "6910"
-old_path: /music/6910/could-2017-be-the-year-of-indie
+image: "http://felixonline.co.uk/img/upload/201703171706-felix-13705860103_e571e37393_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6910/could-2017-be-the-year-of-indie
-imported: true
 comments:
  - value: >
      Come on, Stop! <br>buy madden mobile 17 coins http://www.madden-store.com,Come on, Stop! <br>buy madden mobile 17 coins http://www.madden-store.com,Up yours! <br>buy pokemon go rare pokemon http://www.pokemonbux.com,Up yours! <br>buy pokemon go rare pokemon http://www.pokemonbux.com,The youre very professional . <br>dofustouch-kamas cheap kamas dofus touch seller https://www.dofustouch-kamas.com/,The youre very professional . <br>dofustouch-kamas cheap kamas dofus touch seller https://www.dofustouch-kamas.com/,Call it even. <br>buy Albion Online gold http://albiononline.e-monsite.com/blog/albion-online/the-albion-online-galahad-update-has-improved-the-game-1.html,Call it even. <br>buy Albion Online gold http://albiononline.e-monsite.com/blog/albion-online/the-albion-online-galahad-update-has-improved-the-game-1.html
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +25,6 @@ authors:
  - joeoconnelldanne
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703171706-felix-13705860103_e571e37393_o.jpg"
-image_caption: ""
 ---
 
 Last year, was almost unquestionably the year of hip-hop; the genre saw a huge influx of new artists and the drop of some absolutely massive albums from established names (From Chance the Rapper’s Colouring Book and A Tribe Called Quest’s We Got It From Here… Thank You 4 Your Service to Kendrick Lamar’s Untitled Unmastered). This explosion in hip-hop isn’t going anywhere any time soon but, 2017 might just see a resurgence of indie.

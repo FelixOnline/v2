@@ -4,16 +4,14 @@ title: >
 subtitle: >
   FELIX presents the birthday cake for your “friends” with challenging needs
 date: "2016-02-26 12:05:22 +0000"
-
-# Attributes from Felix Online V1
-id: "5984"
-old_path: /food/5984/vegan-gluten-free-cake-surely-not
+image: "http://felixonline.co.uk/img/upload/201602261204-felix-IMG_3429.jpg"
+image_caption: "Look at that. Don’t you just want it in your mouth?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/5984/vegan-gluten-free-cake-surely-not
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +21,6 @@ authors:
  - sb6213
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602261204-felix-IMG_3429.jpg"
-image_caption: ""
 ---
 
 Cakes as birthday presents are great – so quick, cheap and the effort everyone knows you went to means that even if you mess it up, people will pretend it tastes good. Fortunately, this recipe is virtually idiot-proof. Go ahead, test that statement.

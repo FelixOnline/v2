@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Imperial College engineering graduate Nicholas Church takes part in "Tough Young Teachers" on BBC3.
 date: "2014-01-09 17:50:48 +0000"
-
-# Attributes from Felix Online V1
-id: "4203"
-old_path: /news/4203/imperial-alumnus-in-new-teaching-documentary
+image: "http://felixonline.co.uk/img/upload/201401091800-jal08-p01nr9v3.jpg"
+image_caption: "Six Teach First Grads take on children in the real world"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4203/imperial-alumnus-in-new-teaching-documentary
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201401091800-jal08-p01nr9v3.jpg"
-image_caption: ""
 ---
 
 Recent Imperial engineering graduate Nicholas Church appears in a new six-part BBC3 documentary about 6 new teachers who are taking part in the Teach First scheme.

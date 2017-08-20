@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Aislinn Hayes, IC Radio Station Manager, gives you the lo-down.
 date: "2013-05-02 13:37:18 +0100"
-
-# Attributes from Felix Online V1
-id: "3531"
-old_path: /news/3531/free-tequila-from-ic-radio-with-voteforourplaylistcom
+image: "http://felixonline.co.uk/img/upload/201305021436-tna08-main-poster-designsmall.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3531/free-tequila-from-ic-radio-with-voteforourplaylistcom
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ah4010
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305021436-tna08-main-poster-designsmall.jpg"
-image_caption: ""
 ---
 
 Sick of revising? Counting down the days until you can lounge around a marque-less Queen’s Lawn with a drink in hand? Would you like IC Radio to give you a free bottle of tequila to keep you motivated for that happy day of freedom? Should I stop asking rhetorical questions?

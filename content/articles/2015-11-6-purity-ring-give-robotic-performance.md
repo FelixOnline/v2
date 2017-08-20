@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Canadian duo played the Roundhouse
 date: "2015-11-06 14:21:22 +0000"
-
-# Attributes from Felix Online V1
-id: "5712"
-old_path: /music/5712/purity-ring-give-robotic-performance-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5712/purity-ring-give-robotic-performance-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - sla112
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The electronic duo from Edmonton, Alberta played their second London gig this year, touring their album another eternity – note the lack of caps, every track on the album is similarly stylised – the first being at Shepherd’s Bush in April.

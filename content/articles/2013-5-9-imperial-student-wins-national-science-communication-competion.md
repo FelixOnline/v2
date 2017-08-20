@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Next stop The X Factor?
 date: "2013-05-09 12:01:17 +0100"
-
-# Attributes from Felix Online V1
-id: "3557"
-old_path: /news/3557/imperial-student-wins-national-science-communication-competion
+image: "http://felixonline.co.uk/img/upload/201305091300-tna08-leon_vanstone_famelabwinner2013.jpg"
+image_caption: "Also winner of “fastest phone spinner in the UK”"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3557/imperial-student-wins-national-science-communication-competion
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - skw10
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305091300-tna08-leon_vanstone_famelabwinner2013.jpg"
-image_caption: ""
 ---
 
 Imperial College’s Leon Vanstone has been crowned the UK’s FameLab champion 2013. In this annual hunt for the nation’s best science communicators, each contestant has exactly three minutes to impress a panel of three judges. They may explain any scientific concept but cannot use assisting slides or large props. This year the standard was very high and Leon didn’t expect to beat the other ten finalists. However he won over the judges with his truly genuine enthusiasm when describing the landing of NASA’s Mars Curiosity Rover.

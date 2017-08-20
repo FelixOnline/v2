@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Pt. IV - Hella
 date: "2012-05-25 18:53:34 +0100"
-
-# Attributes from Felix Online V1
-id: "2503"
-old_path: /music/2503/54-respect-a-tribute-to-math-rock
+image: "http://felixonline.co.uk/img/upload/201205251952-mc4509-hella.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2503/54-respect-a-tribute-to-math-rock
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - mc4509
  - ra2410
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205251952-mc4509-hella.jpg"
-image_caption: ""
 ---
 
 Although they have often used larger set ups, Hella, at its barebones, is guitarist Spencer Seim and drummer extraordinaire Zach Hill, who have played together since high school. They released their first EP, _Leather Diamond_, in 2001. Even in that early release, the Sacramento, California band have a distinctive tone, consisting of technical, breakneck riffs and outstanding drum performances from Hill.

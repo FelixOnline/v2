@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Indira Mallik guides us through the proposed changes to funding for culture under the Conservative majority
 date: "2015-05-15 12:59:53 +0100"
-
-# Attributes from Felix Online V1
-id: "5542"
-old_path: /arts/5542/slash-and-burn-the-future-of-british-arts-under-the-tories
+image: "http://felixonline.co.uk/img/upload/201505151359-cj914-portfolio-barbican-arts-centre-01.jpg"
+image_caption: "The Barbican Centre, above, one of London's best cultural centres, will be one of the hardest hit, with an ACE cut of 20%"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5542/slash-and-burn-the-future-of-british-arts-under-the-tories
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505151359-cj914-portfolio-barbican-arts-centre-01.jpg"
-image_caption: ""
 ---
 
 Last Friday, Britain woke up to an entirely changed political landscape. Instead of days of coalition talks, or discussing the constitutional ins and outs of a minority government, we were faced with a Conservative majority. Within the space of hours, the commentators went from discussing the probability of the vote share to the probability of who would end up in the cabinet. On Monday we found out that David Cameron had appointed John Whittingdale as Secretary of State for Culture, Media and Sport. Already the tabloids have claimed this as “declaring war on the BBC”. Whittingdale has a history of being notoriously anti-licence fee, proclaiming it as “worse than the poll tax”. Despite no doubt ruffling a few feathers at __Broadcasting House__, the choice of John Whittingdale, who was Shadow Culture secretary and later Chairman of the Media Select Committee, certainly seems to makes more sense than his predecessor Sajid Javid, who by all accounts struggled to convince journalists and the art world alike that we was interested in the performances it was his job to attend.

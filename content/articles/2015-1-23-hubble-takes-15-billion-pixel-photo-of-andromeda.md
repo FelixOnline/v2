@@ -4,16 +4,13 @@ title: >
 subtitle: >
   They too a photo in a galaxy far, far away...
 date: "2015-01-23 17:54:37 +0000"
-
-# Attributes from Felix Online V1
-id: "5136"
-old_path: /science/5136/hubble-takes-15-billion-pixel-photo-of-andromeda
+image: "http://felixonline.co.uk/img/upload/201501231754-jyg11-hubble-andromeda-picture.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5136/hubble-takes-15-billion-pixel-photo-of-andromeda
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501231754-jyg11-hubble-andromeda-picture.jpg"
-image_caption: ""
 ---
 
 The Hubble space telescope has taken the highest resolution image ever made of a galaxy. The image is so detailed that it’s possible to resolve individual stars in a 61,000 light-year wide panorama.

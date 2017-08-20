@@ -4,16 +4,13 @@ title: >
 subtitle: >
   This week, Felix interviews three innovative businesses about their experiences
 date: "2011-02-27 19:01:48 +0000"
-
-# Attributes from Felix Online V1
-id: "906"
-old_path: /biz/906/how-they-started-up-introducing-a-week-of-interviews-with-real-entrepreneurs
+image: "http://felixonline.co.uk/img/upload/201102271857-ks607-pathmoti.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/906/how-they-started-up-introducing-a-week-of-interviews-with-real-entrepreneurs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -24,12 +21,6 @@ authors:
  - ks607
  - sa1908
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102271857-ks607-pathmoti.jpg"
-image_caption: ""
 ---
 
 Throughout the year, largely due to reader interest, the business section has a strong emphasis on finance. This fits with many Imperial students’ desire to learn more about the industry, in order to stay informed and help with their career choices. This being an undergraduate newspaper, this seems an appropriate enough use of the business pages.

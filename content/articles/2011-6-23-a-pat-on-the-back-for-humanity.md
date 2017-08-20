@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It’s good to see more and more gorillas finding employment as club bouncers
 date: "2011-06-23 20:51:33 +0100"
-
-# Attributes from Felix Online V1
-id: "1428"
-old_path: /comment/1428/a-pat-on-the-back-for-humanity
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1428/a-pat-on-the-back-for-humanity
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - rjd08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I’m not one for blowing my own trumpet, but sometimes when I look down on this sprawling metropolis of science and soccer, of museums and Metro newspapers, I think we can feel a modicum of pride. I’m not talking about just London though. It’s everyone, the whole human race! When I think about what we’ve achieved, I have to say that humanity’s pretty great.

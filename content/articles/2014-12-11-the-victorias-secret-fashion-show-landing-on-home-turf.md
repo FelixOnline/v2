@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at the sexiest outfits and angels of last week’s runway show at Earl’s Court Exhibition Centre
 date: "2014-12-11 21:33:38 +0000"
-
-# Attributes from Felix Online V1
-id: "5042"
-old_path: /fashion/5042/-the-victorias-secret-fashion-show--landing-on-home-turf
+image: "http://felixonline.co.uk/img/upload/201412112133-cj914-fantasy-red.jpg"
+image_caption: "Alessandra Ambrosio in The Fantasy Bra"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/5042/-the-victorias-secret-fashion-show--landing-on-home-turf
-imported: true
 comments:
  - value: >
      buy fitflop <br>fitflop australia buy online http://australiafitflops.blogspot.com/,louboutin evening canada <br>christian louboutin canada outlet http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin slingblacks sale <br>christian louboutin sale canada http://christianlouboutincanadaoutlet.blogspot.com/,Great website! It looks really professional! Maintain the great work!| <br>nba 2k16 mt points glitch http://honeydiana.blogcu.com/reasonable-cs-go-industry-suggestions/20573122,Wow because this is great work! Congrats and keep it up <br>madden 17 coins http://www.callingallplayers.com/sdgrtryre4566/blog/fifa-17-coins-for-sale-10-finest-fitness-games-for-the-nintendo-wii/
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -28,12 +26,6 @@ authors:
  - czb11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412112133-cj914-fantasy-red.jpg"
-image_caption: ""
 ---
 
 __Angel: Alessandra Ambrosio__

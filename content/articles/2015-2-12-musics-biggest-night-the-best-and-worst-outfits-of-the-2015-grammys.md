@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at some of the best and worst dressed celebrities attending the prestigious event in Los Angeles
 date: "2015-02-12 23:50:18 +0000"
-
-# Attributes from Felix Online V1
-id: "5250"
-old_path: /fashion/5250/musics-biggest-night-the-best-and-worst-outfits-of-the-2015-grammys-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/5250/musics-biggest-night-the-best-and-worst-outfits-of-the-2015-grammys-
-imported: true
 comments:
  - value: >
      http://flagylantibioticmetronidazole.net/ - Metronidazole 500 Mg Antibiotic Generic Cialis At Walmart http://levitra-20mg-prices.com/,http://flagylantibioticmetronidazole.net/ - Flagyl For Bv Buy Cialis Online http://levitra-20mg-prices.com/,http://prednisone-order-20mg.com/ - Prednisone Without A Prescription Viagra http://cialis5mg-20mg.com/,http://prednisone-order-20mg.com/ - Prednisone Online Viagra http://cialis5mg-20mg.com/,http://prednisone-order-20mg.com/ - Prednisone 20mg Buy Cheap Generic Viagra http://cialis5mg-20mg.com/,http://prednisone-order-20mg.com/ - Prednisone 20mg Cheap Viagra Pills http://cialis5mg-20mg.com/,Hey, that post leaves me feeling foshiol. Kudos to you!,Great internet sitewebsite! It looks really good! Sustain the helpful job! <br>NBA 2K17 MT http://imgfave.com/view/7338941?uploaded_by=496678,You're an extremely helpful website; could not make it without ya! <br>nba 2k17 mt http://bookyourbarber.com/deborah/2016/08/13/madden-nfl-17-coins-or-go-basic/,Good day, great web-site you've got
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -27,12 +24,6 @@ authors:
  - jyg11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Beyoncé killed it in this all black Proenza Schouler dress at Sunday’s Grammy’s. She wore an equally beautiful white dress on stage whilst performing _Take My Hand, Precious Lord_, which featured in the popular movie _Selma_ about the civil rights movement in the United States. Her performance was controversial since Ledizi, a jazz singer who sang the song in the movie, was not asked to perform it at the Grammy’s. Ledizi was also Grammy-nominated for ‘Best R&B Performance’ but, ironically, lost it to Beyoncé. Ledizi even told critics that she was “a little disappointed” that she wasn’t asked to perform the song. Despite the controversy, Beyoncé’s performance was flawless and she looked fabulous at the awards show.

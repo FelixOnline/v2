@@ -4,18 +4,16 @@ title: >
 subtitle: >
   A fifth of graduating students would have been unable to attend the previously suggested date due to visa expiry
 date: "2015-02-27 00:42:00 +0000"
-
-# Attributes from Felix Online V1
-id: "5314"
-old_path: /news/5314/visa-expiry-causes-commemoration-day-to-move
+image: "http://felixonline.co.uk/img/upload/201410241622-ps3110-albert_hall_for_carousel_of_website-copy.jpg"
+image_caption: "Graduation takes place at the Royal Albert Hall"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5314/visa-expiry-causes-commemoration-day-to-move
-imported: true
 comments:
  - value: >
      fitflops sales <br>fitflop buy online http://fitflopsau.blogspot.com/,cheap christian louboutin pumps <br>christian louboutin outlet canada http://canadachristianlouboutinoutlet.blogspot.com/,buy christian louboutin shoes canada <br>christian louboutin shoes sale http://canadachristianlouboutinoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201410241622-ps3110-albert_hall_for_carousel_of_website-copy.jpg"
-image_caption: ""
 ---
 
 In an email sent out earlier this month to undergraduate students expecting to graduate this year, the College announced a change from usual procedures for the annual ceremony.

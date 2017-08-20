@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Alexandra Lim describes her thoughts, after watching a documentary on why clean eating is not as healthy as we think
 date: "2017-01-27 16:30:23 +0000"
-
-# Attributes from Felix Online V1
-id: "6691"
-old_path: /science/6691/clean-eating--the-dirty-truth
+image: "http://felixonline.co.uk/img/upload/201701271630-felix-kale-1775809_1920.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6691/clean-eating--the-dirty-truth
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - al4915
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701271630-felix-kale-1775809_1920.jpg"
-image_caption: ""
 ---
 
 Sweet potato brownies, smoothie bowls, tofu cheesecake, courgette noodles. Call it, name it, it’s all out there. The crowned diet gurus so charismatically persuade you to convert to these superior versions. God forbid refined sugar. No dairy. No gluten. Capri-Sonne? What’s that?

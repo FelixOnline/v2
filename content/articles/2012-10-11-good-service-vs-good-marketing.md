@@ -4,16 +4,13 @@ title: >
 subtitle: >
   How you can have a good business model with great marketing
 date: "2012-10-11 20:40:08 +0100"
-
-# Attributes from Felix Online V1
-id: "2649"
-old_path: /biz/2649/good-service-vs-good-marketing
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/2649/good-service-vs-good-marketing
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - ms7210
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 What should you do if you stumble upon a great idea for a product with high demand in a certain market segment? Many first-time entrepreneurs have found themselves in this situation before, and most of them do not manage to turn their idea into a successful business. While there are many things that can go wrong in the process (within or beyond your control), a very common mistake you could make is thinking that the quality of your product will undoubtedly lead you to success. Unfortunately, a good product will not be enough if you don’t have a good business model backing it up.

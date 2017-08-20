@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Hope for Choroideremia patients with clinical trial
 date: "2011-11-03 19:56:52 +0000"
-
-# Attributes from Felix Online V1
-id: "1659"
-old_path: /science/1659/gene-therapy-could-be-cure-for-blindness
+image: "http://felixonline.co.uk/img/upload/201111031956-pk1811-dna-istock-rustycloud-1.jpg"
+image_caption: "A virus carrying modified DNA is injected into the patient’s eye"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1659/gene-therapy-could-be-cure-for-blindness
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - ak6309
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111031956-pk1811-dna-istock-rustycloud-1.jpg"
-image_caption: ""
 ---
 
 A clinical trial involving an incurable type of blindness has been carried out by a collaboration of researchers from Imperial College London and Oxford University. At the John Radcliffe Hospital in Oxford, Jonathan Wyatt, 63, from Bristol became the first person to receive gene therapy for blindness.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   As its title suggests, Walt Disney’s brand new animation film is all about the cold, which is just as well, given the appropriate period of its release date.
 date: "2014-01-24 10:12:44 +0000"
-
-# Attributes from Felix Online V1
-id: "4298"
-old_path: /film/4298/brrrrrrrrrrrrrrrrrrr
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4298/brrrrrrrrrrrrrrrrrrr
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jgp09
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Frozen__

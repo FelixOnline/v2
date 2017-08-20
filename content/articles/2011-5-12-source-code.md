@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Maciej Matuszewski turns his eye to Hollywood's latest sci-fi offering
 date: "2011-05-12 16:38:45 +0100"
-
-# Attributes from Felix Online V1
-id: "1191"
-old_path: /film/1191/source-code
+image: "http://felixonline.co.uk/img/upload/201105121739-felix-source-code.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1191/source-code
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105121739-felix-source-code.jpg"
-image_caption: ""
 ---
 
 This week I’d like to talk about ‘Source Code’, a science fiction film released over the Easter break directed by Duncan Jones, who had previously worked on the film ‘Moon’. [Though I gave ‘Moon’ a scathing review](http://felixonline.co.uk/?article=558) my main problem was with the screenplay. That film had a brilliant atmosphere for which Jones was in a large part responsible, so I had great hopes ‘Source Code’.

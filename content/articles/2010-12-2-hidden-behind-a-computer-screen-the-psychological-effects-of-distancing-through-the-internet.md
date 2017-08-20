@@ -4,18 +4,15 @@ title: >
 subtitle: >
   People find it easier to express their feelings hidden behind their computer screens
 date: "2010-12-02 21:33:45 +0000"
-
-# Attributes from Felix Online V1
-id: "491"
-old_path: /comment/491/hidden-behind-a-computer-screen-the-psychological-effects-of-distancing-through-the-internet-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/491/hidden-behind-a-computer-screen-the-psychological-effects-of-distancing-through-the-internet-
-imported: true
 comments:
  - value: >
      Stands back from the keaybord in amazement! Thanks!
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - ae1409
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 People find it easier to express their feelings hidden behind their computer screens. They can confess things to people that they would never talk about face to face, like suppressed feelings or personal thoughts. So how exactly did people communicate before the internet?

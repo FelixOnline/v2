@@ -4,18 +4,16 @@ title: >
 subtitle: >
   “Remember that breaking the rule, once you’ve learnt it, can result in some striking shots too”
 date: "2010-11-25 20:23:08 +0000"
-
-# Attributes from Felix Online V1
-id: "429"
-old_path: /arts/429/improve-your-digital-photos-with-photosoc-the-rule-of-thirds
+image: "http://felixonline.co.uk/img/upload/201011252021-nm1010-ruleofth.jpg"
+image_caption: "An example of the rule of thirds"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/429/improve-your-digital-photos-with-photosoc-the-rule-of-thirds
-imported: true
 comments:
  - value: >
      This is just a test, ignore this Joe!,This is just a test, ignore this Joe!,Just another test comment. Please ignore...,Just another test comment. Please ignore...
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011252021-nm1010-ruleofth.jpg"
-image_caption: ""
 ---
 
 Perhaps the most well known principle of photographic composition is the “Rule of Thirds”. It is one of the most basic tools that can be used to create balanced and visually appealing shots. However, before we get into it I must warn you that rules are meant to be broken and ignoring this one does not mean that your pictures will necessarily be unbalanced or uninteresting. In fact, the opposite can often be true!

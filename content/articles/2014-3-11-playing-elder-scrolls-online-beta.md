@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ever since I first got my Xbox 360 with The Elder Scrolls 4: Oblivion, I have been a massive fan of the series, with Oblivion actually topping my favourite games of all time list
 date: "2014-03-11 17:45:50 +0000"
-
-# Attributes from Felix Online V1
-id: "4476"
-old_path: /games/4476/playing-elder-scrolls-online-beta
+image: "http://felixonline.co.uk/img/upload/201403111745-me1711-games_esobeta.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4476/playing-elder-scrolls-online-beta
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - css11
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201403111745-me1711-games_esobeta.jpg"
-image_caption: ""
 ---
 
 Ever since I first got my Xbox 360 with The Elder Scrolls 4: Oblivion, I have been a massive fan of the series, with Oblivion actually topping my favourite games of all time list. I’ve racked up 100’s of hours in Oblivion exploring, trying out different races & abilities and playing through the game numerous times with some play throughs being solely dedicated to completing the Dark Brotherhood quest line which was my favourite by far. I loved it because it is a game where you can do whatever you want within reason. Most places in the game are accessible, and characters react accordingly. You can break into a house and steal its contents if you don’t get caught, and if you get caught you can flee the guards or get sent to prison. Oblivion is fun at whatever level your character is and levelling up gives you satisfaction because each level means more power to your character. Skyrim followed this game and was also a great game. Abilities and spells were more organised, the interface was hugely improved, but despite this it will never replace Oblivion in my heart.

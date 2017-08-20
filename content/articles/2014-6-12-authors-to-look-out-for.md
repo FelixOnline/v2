@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Maciej Matuszewski presents an electic list of some of his favourite authors for you to check out
 date: "2014-06-12 13:27:19 +0100"
-
-# Attributes from Felix Online V1
-id: "4680"
-old_path: /books/4680/authors-to-look-out-for
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/4680/authors-to-look-out-for
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -23,12 +20,6 @@ authors:
  - me1711
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ### __Bolesław Prus__

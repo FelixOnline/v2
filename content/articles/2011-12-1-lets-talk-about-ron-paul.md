@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Why Liberty and Democracy don’t mix
 date: "2011-12-01 21:20:08 +0000"
-
-# Attributes from Felix Online V1
-id: "1888"
-old_path: /comment/1888/lets-talk-about-ron-paul-
+image: "http://felixonline.co.uk/img/upload/201112012119-pk1811-ron-paul-2012-campaign.jpg"
+image_caption: "Would you have known if we had just put a picture of a random guy that wasn’t Ron Paul?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1888/lets-talk-about-ron-paul-
-imported: true
 comments:
  - value: >
      I don't think there opinions are worth less than mine, I just think their opinions are downright idiotic. And yes, they think the way they do for a reason, as do I. Determinism and all that. It still doesn't mean that they have intelligent opinions. <br> <br>Your first point is exactly what I was saying in the article- people vote to help themselves, but only the majority can actually get what they want. Bigotry in the way it is used nowadays doesn't mean simply someone who disagrees with you. I am using it to describe a group of people who have archaic, old fashioned and downright stupid opinions on minorities and would, if it were up to then, make the lives of these minorities a complete misery. <br> <br>I said in my article Ron Paul looks like the best candidate at the moment. I hope he gets voted in (although it doesn't look all that likely). But I just don't like the way that people seem to be glossing over the problems a Ron Paul led America will face (as outlined in the article). <br> <br> <br>,I'm not sure exactly the poi
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - sph109
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112012119-pk1811-ron-paul-2012-campaign.jpg"
-image_caption: ""
 ---
 
 If you’ve been paying attention to the goings on in America in the lead up to next year’s presidential elections, you will no doubt have heard many political commentators expressing the view that Ron Paul is the man that everyone has been waiting for. The hero that America needs. What is especially impressive is that this type of praise is happening across the board, regardless of political loyalties or emotional ties.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Lib Dems have gone back on their pledge on tuition fees
 date: "2010-10-21 19:36:54 +0100"
-
-# Attributes from Felix Online V1
-id: "246"
-old_path: /news/246/broken-promises
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/246/broken-promises
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - ec610
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In the last few weeks there have been some very disgruntled Liberal Democrat supporters. The feeling that the Lib Dems had ‘sold out’ and forgotten their election pledges is widespread. So in light of the spending review, have the Liberal Democrats broken their election promises?

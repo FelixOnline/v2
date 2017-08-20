@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rhys Davies welcomes you to Wales
 date: "2010-01-22 13:53:07 +0000"
-
-# Attributes from Felix Online V1
-id: "51"
-old_path: /comment/51/welcome-to-wales
+image: "http://felixonline.co.uk/img/upload/201001221350-rsp07-comment.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/51/welcome-to-wales
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - rsp07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001221350-rsp07-comment.jpg"
-image_caption: ""
 ---
 
 I am a stranger in a strange land.

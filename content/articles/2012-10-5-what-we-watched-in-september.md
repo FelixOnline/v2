@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Title says it all really. Here are the summer flicks, as watched by Felix Film
 date: "2012-10-05 12:15:50 +0100"
-
-# Attributes from Felix Online V1
-id: "2612"
-old_path: /film/2612/what-we-watched-in-september
+image: "http://felixonline.co.uk/img/upload/201210051315-felix-killing_them_softly-filmszene.jpg"
+image_caption: "I told you not to touch my fucking test tube again. I’d JUST washed it"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2612/what-we-watched-in-september
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +23,6 @@ authors:
  - ffilm
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210051315-felix-killing_them_softly-filmszene.jpg"
-image_caption: ""
 ---
 
 __Anna Karenina (7th Sept) ___4 stars_

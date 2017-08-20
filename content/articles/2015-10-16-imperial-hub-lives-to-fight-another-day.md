@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A quick Hub-date
 date: "2015-10-16 14:32:16 +0100"
-
-# Attributes from Felix Online V1
-id: "5657"
-old_path: /news/5657/imperial-hub-lives-to-fight-another-day
+image: "http://felixonline.co.uk/img/upload/201510161531-ygr12-img_0791.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5657/imperial-hub-lives-to-fight-another-day
-imported: true
 comments:
  - value: >
      If he shows up, we stick with him. <br>view more http://www.madden-store.com,i like this site so much! <br>Cheap MUT Coins http://swehawaii.ning.com/profiles/blogs/details-of-madden-nfl-16-skill-trainer,To hell with that bitch! <br>buy Madden Coins http://carpetarota.com/blogs/36729/137611/madden-nfl-16-draft-champions-ranked,Good !|Cool! I love your this bolg. <br>madden 16 news http://www.madden-store.com/news,Take my word for it. <br>buy RS Gold http://indopath.com/blogs/post/17571,I think I should give it a shot! <br>Runescape Gold http://www.catedralrio.org.br/runescapegolds/2015/06/03/runescape-magic-basic/,You are the savior of my life. <br>fifa 17 coins http://loveface.org/event/19227/guides-on-fifa-17-futmas/,You started it ! <br>cheap nba 2k mt seller http://www.u4nba.com/,I do not think so <br>Buy NBA 2K17 MT http://faithbooth.com/club/blogs/post/4607,To hell with that bitch! <br>cheap nba 2k17 mt https://www.olliesmusic.com/blog/32690/nba-2k17-limitless-range-badge-tutorial/,I'll take care of it. <br>upalbion albion online gold h
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510161531-ygr12-img_0791.jpg"
-image_caption: ""
 ---
 
 Imperial hub, the volunteering charity whose relationship with the union went sour over the summer, remains in action. In a statement released after Freshers Fair, the Hub gang said they were still committed to projects they had planned before the split, including the London Climate Forum, and Social Innovation Programme.

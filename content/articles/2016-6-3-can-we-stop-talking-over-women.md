@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Men benefit from feminism, but need to know when to listen
 date: "2016-06-03 09:03:32 +0100"
-
-# Attributes from Felix Online V1
-id: "6231"
-old_path: /comment/6231/can-we-stop-talking-over-women
+image: "http://felixonline.co.uk/img/upload/201606031103-felix-Brooklyn-Nine-Nine-Pilot-Pictures.jpg"
+image_caption: "Terry Crews doesn't have time for your hypermasculinity bullcrap."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6231/can-we-stop-talking-over-women
-imported: true
 comments:
  - value: >
      Terry crews is the living personification of the fire emoji,Terry crews is the living personification of the fire emoji,Terry crews is the living personification of the fire emoji,Terry crews is the living personification of the fire emoji,Hi Anonymous, it's Arnold, the writer of the article you referenced.<br>First I should express my gratitude that you did not outright lambast or shame me for disagreeing with the opinions you hold.<br>However, why didn't you address any one of my criticisms of intersectional theory or privilege theory?<br>Rather than addressing these issues, you chose to go on about my gender instead of the concerns I raised.<br>That is why I said I feared the intractability of the feminist movement. No one (or too few) from within the movement will stand to correct its excesses!<br>Before I am accused of missing the point of your article, let me address your criticisms (following which I hope someone will address my own criticisms of modern feminism)<br>1. I have no intentions of controlling how feminists
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - icanon
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606031103-felix-Brooklyn-Nine-Nine-Pilot-Pictures.jpg"
-image_caption: ""
 ---
 
 We’ve all been there – you finish your exams and suddenly there’s a deep hole, a lack of purpose in your life. What else was I to do but pick up Felix and read Arnold Tan’s “message to feminists”.

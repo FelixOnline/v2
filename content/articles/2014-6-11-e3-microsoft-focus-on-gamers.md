@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It’s June, terms almost over and that can only mean one thing! Yes it’s E3 and it’s time for some of the worst, most awkward press conferences you’ll see all year. As always we begin with Microsoft.
 date: "2014-06-11 21:40:19 +0100"
-
-# Attributes from Felix Online V1
-id: "4671"
-old_path: /games/4671/e3-microsoft-focus-on-gamers
+image: "http://felixonline.co.uk/img/upload/201406112239-me1711-games_e3ms.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4671/e3-microsoft-focus-on-gamers
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - mb1111
  - me1711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406112239-me1711-games_e3ms.jpg"
-image_caption: ""
 ---
 
 It's June, terms almost over and that can only mean one thing! Yes it’s E3 and it’s time for some of the worst, most awkward press conferences you’ll see all year. As always we begin with Microsoft. It’s fair to say that in the few short months since the Xbox One has been out sales have been less than stellar, or at least less than Microsoft would have hoped. Since its announcement Microsoft have made more U-turns than the coalition government. Last May we were presented with this potentially brave console that aimed to revolutionise how games consoles interacted with our televisions both as a set top box and also through Kinect. Unfortunately the whole thing was laced with this rather unpleasant and restrictive rules on gamer ownership essentially aiming to destroy your ability to sell or even lend your games.

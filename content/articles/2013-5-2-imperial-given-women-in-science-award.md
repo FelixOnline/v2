@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Athena Swan Silver Award for Imperial
 date: "2013-05-02 13:39:15 +0100"
-
-# Attributes from Felix Online V1
-id: "3532"
-old_path: /news/3532/imperial-given-women-in-science-award
+image: "http://felixonline.co.uk/img/upload/201305021438-tna08-291_9200.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3532/imperial-given-women-in-science-award
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305021438-tna08-291_9200.jpg"
-image_caption: ""
 ---
 
 Imperial College London has won an award recognising support for the careers of women in science, technology, engineering, maths and medicine. The Athena Swan silver status has only been granted to three universities, with Queen’s University Belfast and University of Nottingham being the other two. It is a university wide recognition. Athena Swan say that it “recognises a significant record of activity and achievement by the university in promoting gender equality and in addressing challenges across their STEMM departments”. Multiple Departments at Imperial also currently hold Silver status.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   On planet Earth in 500BC the first non-religious, scientific society was formed by Pythagoras
 date: "2011-03-03 20:46:48 +0000"
-
-# Attributes from Felix Online V1
-id: "1015"
-old_path: /music/1015/pythagoras-had-a-theory-of-music
+image: "http://felixonline.co.uk/img/upload/201103032043-nm1010-pythagor.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1015/pythagoras-had-a-theory-of-music
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - lht09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103032043-nm1010-pythagor.jpg"
-image_caption: ""
 ---
 
 We as human beings cannot help but think. We exist because we think and have an unexplained stream of consciousness that puts us into existence. It is not true to say that without our ability to think intelligently we would not exist; we would simply be unable to explain, or attempt to explain it. So, our cognitive existence is deeply intertwined with our physical existence on planet Earth. Coincidence… possibly, but do we live our lives hoping for coincidence or do we set out at the beginning of each day to develop, open our minds and learn about the beauty that so humbly surrounds us in its quiet, harmonious way.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Fred Fyles compares the different approaches FKA twigs and Sia take when it comes to their controlling their public image in music videos
 date: "2015-03-25 12:21:15 +0000"
-
-# Attributes from Felix Online V1
-id: "5428"
-old_path: /music/5428/fka-twigs-feminism-and-female-sexuality-on-video
+image: "http://felixonline.co.uk/img/upload/201503251218-ff712-maxresdefault.jpg"
+image_caption: "The steamy, sensual video for FKA twigs' Two Weeks, from 2014's LP1"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5428/fka-twigs-feminism-and-female-sexuality-on-video
-imported: true
 comments:
  - value: >
      QIC Internkontroll HMS er et åpent verkty,Great website! It looks extremely good! Sustain the excellent work!| <br>csgo skins market http://forumposzkodowanych.pl/index.php?p=/discussion/2043/cs-go-skins-paypal-get-before-your-entire-gaming-pals,You have got the most effective webpages.| <br>nba 2k16 my account http://fifa15coins.aircus.com/nba-2k16-mt-coins-using-a-year-of-mastering-the-ins,Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means more now than ever since the new Google update: Panda. No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings, You now NEED On-Page SEO. So what is good On-Page SEO?First your keyword must appear in the title.Then it must appear in the URL.You have to optimize your keyword and make sure that it has a nice keyword density of 3-5
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -28,12 +26,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251218-ff712-maxresdefault.jpg"
-image_caption: ""
 ---
 
 Last month, in her debut at London’s __Roundhouse__, British auteur __FKA twigs__ brought her unique vision to a crowd of 3,000. Entitled _Congregata_, a latin word for ‘gathering’, the two hour spectacle saw twigs put her indomitable singing and dancing talents to good use; she vogued alongside a dancer in fishnet stockings, was tossed up in the air by burly men with topknots, and changed outfits whilst contortionists kept the crowd entertained. It’s a far cry from her London debut, which took place at Hoxton’s __Courtyard Theatre__, a little less than a year ago, in front of an audience of just over 100. While at the Roundhouse she was front and centre, at the Courtyard she was kept shielded from the audience by a swirling mist, through which you could make out the petite figure who has become one of the most important voices in the British music industry. What was kept constant between the gigs, however, was her sheer gratitude at being able to perform; at the end of _Congregata_, twigs breaks character, telling the audience in a breathy voice that can barely contain its excitement how happy she is to be there. As if any other outcome were possible.

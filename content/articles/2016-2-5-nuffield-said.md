@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Imperial triumphs in University Challenge quarter-finals
 date: "2016-02-05 11:47:50 +0000"
-
-# Attributes from Felix Online V1
-id: "5862"
-old_path: /news/5862/nuffield-said
+image: "http://felixonline.co.uk/img/upload/201602051146-felix-University Challenge.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5862/nuffield-said
-imported: true
 comments:
  - value: >
      I hope you guys normally proof read because Nuffield is not a Cambridge College; it's been published on Felix,I hope you guys normally proof read because Nuffield is not a Cambridge College; it's been published on Felix,wE r Disparetly shert of copy editors plis cum nd halp us evry thursday to cary out this impurtinant job.,wE r Disparetly shert of copy editors plis cum nd halp us evry thursday to cary out this impurtinant job.,I like perusing your websites. Thanks for your time!| <br>Cheap NBA 2k16 MT http://freepressreleasedb.com/pr/cs-go-skins-shop-Setting-PR29186/,I like perusing your websites. Thanks for your time!| <br>Cheap NBA 2k16 MT http://freepressreleasedb.com/pr/cs-go-skins-shop-Setting-PR29186/,Wow, lovely website. Thnx ...| <br>cs go skins market http://www.delica.ca/trader/index.php?l300_starwagon/2140_NBA_2K16_On_The_App_Store,Wow, lovely website. Thnx ...| <br>cs go skins market http://www.delica.ca/trader/index.php?l300_starwagon/2140_NBA_2K16_On_The_App_Store,say thanks to so mucha lot for your web si
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - mjj15
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602051146-felix-University Challenge.jpg"
-image_caption: ""
 ---
 
 Monday evening saw the first outing of the new term for the seemingly unstoppable University Challenge team that is Ben Fernando, Ashwin Braude, Onur Teymur and their captain James Bezer. The team were riding high on the back of their 305-75 demolition of Sidney Sussex, Cambridge, but as we all know, there are no easy games in this league.

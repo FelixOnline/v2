@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tim Arbabzadah gets schooled in the aims of TeachFirst
 date: "2012-11-09 00:37:23 +0000"
-
-# Attributes from Felix Online V1
-id: "2839"
-old_path: /news/2839/being-the-first-to-teach
+image: "http://felixonline.co.uk/img/upload/201211090036-tna08-brett-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2839/being-the-first-to-teach
-imported: true
 comments:
  - value: >
      Honest mistake. Changed!,I thought the M in STEM stood for Maths...? <br> <br>I never knew Medicine was taught in secondary school. In which case there might well be a shortage of highly qualified teachers for it.,...you probably wouldn't have got to Imperial
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211090036-tna08-brett-1.jpg"
-image_caption: ""
 ---
 
 "Ummm, ummm, ummm. Okay, I’ll get off at Westminster and change, that will be quick right?”. That was what was going through my head as I frantically scrambled to make it to my interview with Brett Wigdortz. Turns out I was wrong by the way (about the trains being delayed, not having the interview: this would be a very short Feature if that were to have been the case).

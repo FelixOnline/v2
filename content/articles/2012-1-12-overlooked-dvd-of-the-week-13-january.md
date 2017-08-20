@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The Whistleblower is truly an on-screen gem - shame it missed out on a box office run
 date: "2012-01-12 22:38:38 +0000"
-
-# Attributes from Felix Online V1
-id: "1987"
-old_path: /film/1987/overlooked-dvd-of-the-week-13-january
+image: "http://felixonline.co.uk/img/upload/201201122236-cac111-whistleblower.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1987/overlooked-dvd-of-the-week-13-january
-imported: true
 comments:
  - value: >
      Great post. I was checking cosnotuiunly this blog and I'm impressed! Extremely useful info particularly the last part I care for such info a lot. I was looking for this particular information for a long time. Thank you and best of luck.,I am not sure where you are getting your info, but great topic. I needs to spend some time<a href="http://rvjgixtu.com"> lnnarieg</a> more or understanding more. Thanks for magnificent info I was looking for this information for my mission.
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - jgp09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201122236-cac111-whistleblower.jpg"
-image_caption: ""
 ---
 
 ###  The Whistleblower

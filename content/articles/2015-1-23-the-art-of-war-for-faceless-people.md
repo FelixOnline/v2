@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Osama Awara discusses the modern weaponisation of hacking
 date: "2015-01-23 18:09:50 +0000"
-
-# Attributes from Felix Online V1
-id: "5139"
-old_path: /tech/5139/the-art-of-war-for-faceless-people
+image: "http://felixonline.co.uk/img/upload/201501231807-jyg11-screen-shot-2015-01-23-at-18.07.11.png"
+image_caption: "From left to right: James Franco and Seth Rogen pick a poor time to announce their bromance, someone's getting sacked in the morning at US Central Command and people commemorating the victims of the Charlie Hebdo attacks"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/5139/the-art-of-war-for-faceless-people
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -25,12 +23,6 @@ authors:
  - oa1612
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501231807-jyg11-screen-shot-2015-01-23-at-18.07.11.png"
-image_caption: ""
 ---
 
 The previous few weeks have seen a surge in cyber warfare like no other. From the __Sony Pictures __hacking over _The Interview_ – a satire film depicting the assassination attempt of Kim Jong-Un, to the ISIS hacking of US Central Command Twitter account. The hacktivist group Anonymous have vowed to take down pro-Islamic extremist websites and social media accounts in light of the recent Paris attacks on Charlie Hebdo. The main objective that all these hacks have in common is not necessarily to undermine security, but to create a psychological impact.

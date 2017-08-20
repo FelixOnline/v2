@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lauren Ratcliffe looks at some great tats
 date: "2013-02-28 23:42:45 +0000"
-
-# Attributes from Felix Online V1
-id: "3393"
-old_path: /arts/3393/get-your-tats-out
+image: "http://felixonline.co.uk/img/upload/201302282342-tna08-tattoo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3393/get-your-tats-out
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302282342-tna08-tattoo.jpg"
-image_caption: ""
 ---
 
 If you were to get a tattoo what would it be and why? Think about it for a moment. Perhaps you already have one. Does it represent anything important to you or is it purely aesthetic?

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   RAG went too far, and should take responsibility for putting women off taking on positions of responsibility
 date: "2016-02-12 11:20:53 +0000"
-
-# Attributes from Felix Online V1
-id: "5899"
-old_path: /comment/5899/your-union-president-speaks-on-rag-mag-sexism
+image: "http://felixonline.co.uk/img/upload/201602121119-felix-aaa.png"
+image_caption: "Nobody banned anything."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5899/your-union-president-speaks-on-rag-mag-sexism
-imported: true
 comments:
  - value: >
      You have placed your personal vanity above your office.,You have placed your personal vanity above your office.,You have placed your personal vanity above your office.,Shut up cunt, get back in the kitchen and make me a sandwich.,Shut up cunt, get back in the kitchen and make me a sandwich.,Shut up cunt, get back in the kitchen and make me a sandwich.,"Every student is entitled to speak freely, but the RAG mag is an attack on this."<br>Absolutely ridiculous. How does the publication of the RAG mag curtail the free expressions of others?<br>"Freedom of speech does not equate to freedom from consequences."<br>This sounds like the slogan of an Orwellian dictatorship. By this curious definition the Soviet Union had 'freedom of speech' as long as you were prepared to accept 'consequences' such as being sent to a labour camp.<br>Being a woman does not entitle you to use your office to silence and intimidate people who make fun of you.<br>,"Every student is entitled to speak freely, but the RAG mag is an attack on this."<br>Abso
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - ljs112
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602121119-felix-aaa.png"
-image_caption: ""
 ---
 
 Who’s to blame for the gender imbalance at Imperial, and in science and leadership in general? “Not me”, you’re thinking. For the vast majority of you, that’s correct. But a tiny proportion of our community fails to recognise their role in creating that awful reality.

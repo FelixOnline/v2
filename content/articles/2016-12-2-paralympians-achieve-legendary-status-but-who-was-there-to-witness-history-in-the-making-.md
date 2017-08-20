@@ -4,16 +4,13 @@ title: >
 subtitle: >
    Never before in the 56-year history of the Paralympic Games have we faced circumstances like thi
 date: "2016-12-02 16:48:02 +0000"
-
-# Attributes from Felix Online V1
-id: "6552"
-old_path: /sport/6552/paralympians-achieve-legendary-status-but-who-was-there-to-witness-history-in-the-making-
+image: "http://felixonline.co.uk/img/upload/201612021647-felix-29744232501_feac4b3d06_b.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6552/paralympians-achieve-legendary-status-but-who-was-there-to-witness-history-in-the-making-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612021647-felix-29744232501_feac4b3d06_b.jpg"
-image_caption: ""
 ---
 
 The partying and fireworks on a wet, rainy night in and around the Maracanã Stadium marked the grand finale of the biggest sporting showpiece of the year and brought a happy ending to two weeks full of sweat, grit, determination, tension, sportsmanship, joy, tears, more sportsmanship and the very best that sport has to offer. The joyous end to the Rio 2016 Olympic Games was just as well, considering the numerous issues and controversies in the build-up, and even during the Games, ranging from a green diving pool and empty seats to the Zika virus outbreak and the filthy state of Guanabara Bay, its waters containing “superbugs” and even dead bodies, among a plethora of other nasty things.

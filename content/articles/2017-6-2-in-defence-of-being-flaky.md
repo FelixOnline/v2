@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Tessa Davey, professional flake and now officially a doctor, encourages you to follow your heart and be the best flake you can be
 date: "2017-06-02 13:25:42 +0100"
-
-# Attributes from Felix Online V1
-id: "6995"
-old_path: /features/6995/in-defence-of-being-flaky
+image: "http://felixonline.co.uk/img/upload/201706021525-felix-Screen Shot 2017-06-02 at 15.25.19.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6995/in-defence-of-being-flaky
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - tad08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201706021525-felix-Screen Shot 2017-06-02 at 15.25.19.png"
-image_caption: ""
 ---
 
 Be honest, we all have that friend who’s a complete flake. You know, you make plans with them only to have them cancel at the last minute. Maybe this happens repeatedly. They’re really fucking annoying, right? Maybe you don’t even want to bother to reschedule. Maybe they’re so flaky that you eventually ghost them as friends or maybe they drive you nuts but something keeps you from severing ties, despite the mild dread that comes every time you make plans with them.

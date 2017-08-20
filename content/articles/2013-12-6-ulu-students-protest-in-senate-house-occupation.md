@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Over 100 protesters occupied the University of London (UoL’s) headquarters on Wednesday 4 December. The protest took place to demonstrate against the UoL’s “undemocratic and unaccountable” running.
 date: "2013-12-06 03:44:28 +0000"
-
-# Attributes from Felix Online V1
-id: "4177"
-old_path: /news/4177/ulu-students-protest-in-senate-house-occupation
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4177/ulu-students-protest-in-senate-house-occupation
-imported: true
 comments:
  - value: >
      Assume you mean 'scrapping' rather than 'scraping'.,Assume you mean 'scrapping' rather than 'scraping'.,As a student long ago, I recall the occupation of an "admin corridor", and the complaints of false imprisonment of staff plus threats and intimidation, by a political group. So far, this latest action appears to have avoided infiltration. But a fair press is unlikely for either side; the media will already have a "point of view". <br> <br>Who would students look up to? The press? Bankers ? Parliament? Police? Student protest is not new. So where did the enlightened protesters of the past go in later life? Not into these areas, it seems. <br> <br>Students: do you aim to get into politics and what you would do when you get there? We need you: the current front benches don't have a first eleven of talent and brains between them, and the establishment is split by self interest: press vs parliament vs police vs judiciary etc. <br> <br>To the police, whose interests are you defending and against what? <br> <br>If students are not al
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - nm708
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Over 100 protesters occupied the University of London (UoL’s) headquarters on Wednesday 4 December. The protest took place to demonstrate against the UoL’s “undemocratic and unaccountable” running.

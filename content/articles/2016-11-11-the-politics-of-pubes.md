@@ -4,16 +4,13 @@ title: >
 subtitle: >
   how much is too much?
 date: "2016-11-11 15:44:32 +0000"
-
-# Attributes from Felix Online V1
-id: "6426"
-old_path: /sex/6426/the-politics-of-pubes
+image: "http://felixonline.co.uk/img/upload/201611111544-felix-Screen Shot 2016-11-11 at 15.44.03.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sex/6426/the-politics-of-pubes
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sex
 tags:
@@ -25,12 +22,6 @@ authors:
  - felixteam
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611111544-felix-Screen Shot 2016-11-11 at 15.44.03.png"
-image_caption: ""
 ---
 
 Have you ever felt like someone was judging your pubes? Most of us have felt under some pressure to neaten up, groom, or man-scape our bits, but is this a social expectation that we place on ourselves, or do other people actually care about how well maintained we are down there?

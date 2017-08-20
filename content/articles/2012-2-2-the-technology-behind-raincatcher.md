@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Pavitar Devgon explains rainwater harvesting systems
 date: "2012-02-02 23:23:27 +0000"
-
-# Attributes from Felix Online V1
-id: "2109"
-old_path: /news/2109/the-technology-behind-raincatcher
+image: "http://felixonline.co.uk/img/upload/201202022323-sjw209-untitled1.png"
+image_caption: "It’s not just about the aims with Raincatcher"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2109/the-technology-behind-raincatcher
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - pd111
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202022323-sjw209-untitled1.png"
-image_caption: ""
 ---
 
 By now, I’m sure you’ve heard a lot about Raincatcher’s aims. But how much of the technology behind our systems do you know about?

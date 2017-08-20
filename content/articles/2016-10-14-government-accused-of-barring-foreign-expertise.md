@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Calling it a misunderstanding doesn’t make it better
 date: "2016-10-14 09:56:51 +0100"
-
-# Attributes from Felix Online V1
-id: "6330"
-old_path: /news/6330/government-accused-of-barring-foreign-expertise
+image: "http://felixonline.co.uk/img/upload/201610141150-so515-LSE_main_entrance.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6330/government-accused-of-barring-foreign-expertise
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - so515
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610141150-so515-LSE_main_entrance.jpg"
-image_caption: ""
 ---
 
 Last week, foreign academics from the London School of Economics (LSE) accused the British Government of excluding them from advisory talks on Brexit.

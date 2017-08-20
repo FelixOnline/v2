@@ -4,16 +4,13 @@ title: >
 subtitle: >
   What: Madam Butterfly with English National Opera Where: London Coliseum, WC2 When: 14th Oct - 1st Dec 2013 Price: Various
 date: "2013-11-05 09:31:58 +0000"
-
-# Attributes from Felix Online V1
-id: "3989"
-old_path: /arts/3989/beautiful-madam-butterfly
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3989/beautiful-madam-butterfly
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - cfc111
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Cherry blossom, silhouettes, golden fans and blood. Betrayal, loneliness, dishonour and regret. A young geisha, a crass American Navy Lieutenant and their young son. Puccini’s Madam Butterfly is set against the late 19th century obsession with Japan, an elusive world of decadent elegance, where beautiful 15 year olds can be bought with the same ease and propriety as villas with sea views.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A dream of liquid light
 date: "2012-06-14 21:00:28 +0100"
-
-# Attributes from Felix Online V1
-id: "2574"
-old_path: /phoenix/2574/a-dream-of-liquid-light-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/2574/a-dream-of-liquid-light-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -25,12 +22,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 By Cristina Ferraz Rigo

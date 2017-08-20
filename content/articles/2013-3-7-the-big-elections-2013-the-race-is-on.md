@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial has erupted with flyers, posters, sweets, and lecture speeches, Tim Arbabzadah reports on the latest goings on as election campaigning kicks off
 date: "2013-03-07 23:48:23 +0000"
-
-# Attributes from Felix Online V1
-id: "3446"
-old_path: /news/3446/the-big-elections-2013-the-race-is-on
+image: "http://felixonline.co.uk/img/upload/201303072348-tna08-beit-final.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3446/the-big-elections-2013-the-race-is-on
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303072348-tna08-beit-final.jpg"
-image_caption: ""
 ---
 
 On 3 March at 23:59 nominations for this year’s Big Elections closed. [These are the elections for a large number of positions at Imperial College Union](https://www.union.ic.ac.uk/elections/index.php). All of the Sabbatical positions will be elected by the student body of Imperial, with the Union hoping to beat last year’s record turnout. All of the manifestos for the candidates can be found from page 13 onwards, or online at imperialcollegeunion.org/elections. Imperial students must then submit votes ranking their preference for each candidate with a single transferrable vote system. There is also the option to vote for RON, which stands for Re-Open Nominations. If RON wins the election is re-run.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Despite pleas by students College transfers Translation Studies Unit
 date: "2013-10-03 23:00:32 +0100"
-
-# Attributes from Felix Online V1
-id: "3794"
-old_path: /news/3794/imperials-tsu-moves-to-ucl
+image: "http://felixonline.co.uk/img/upload/201310032359-jal08-news_students.jpg"
+image_caption: "The move to UCL comes despite continued petitions by TSU students which were supported by the Union "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3794/imperials-tsu-moves-to-ucl
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - jal08
  - nm708
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310032359-jal08-news_students.jpg"
-image_caption: ""
 ---
 
 On Wednesday 2 September, Imperial and University College London officially announced that the Translation Studies Unit (TSU) at Imperial will be moving to UCL.

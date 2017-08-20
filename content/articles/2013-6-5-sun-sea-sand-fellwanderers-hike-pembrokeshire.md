@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jessi Wunder walks in Wales over the holiday
 date: "2013-06-05 16:56:49 +0100"
-
-# Attributes from Felix Online V1
-id: "3658"
-old_path: /sport/3658/sun-sea-sand-fellwanderers-hike-pembrokeshire
+image: "http://felixonline.co.uk/img/upload/201306051756-tna08-7fell.jpg"
+image_caption: "Must be up north; blue skies, beach and still they have coats on! All pictures courtesy of Terrence "
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3658/sun-sea-sand-fellwanderers-hike-pembrokeshire
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306051756-tna08-7fell.jpg"
-image_caption: ""
 ---
 
 Friday, 24th of May: a rainy day in London, what else would you expect? But 12 brave, hiking loving students were ready to leave for Pembrokeshire, Wales on a Fellwanderers weekend trip. Since it was a bank holiday weekend, it took us quite a while to get to Wales. But by the time we arrived, it stopped raining and although some were still sceptical about the weather, we trusted in the weather forecast for the weekend that it would be sunny and set up our tents.

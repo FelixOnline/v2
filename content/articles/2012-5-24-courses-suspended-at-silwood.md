@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Staff depart natural science campus as select courses are suspended
 date: "2012-05-24 22:36:27 +0100"
-
-# Attributes from Felix Online V1
-id: "2481"
-old_path: /news/2481/courses-suspended-at-silwood
+image: "http://felixonline.co.uk/img/upload/201205242335-mc4509-cr37351200035.jpg"
+image_caption: "Academic campus Silwood Park is situated near Ascot"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2481/courses-suspended-at-silwood
-imported: true
 comments:
  - value: >
      With courses like 'plant conservation' this is no enigma. ,As far as I'm aware, there's no basis for any claim of there being 'low demand' - I have plenty of friends who wanted to do those courses. The staff are going where their excellence will be recognised - and who can blame them? ,A slight correction: the Plant Science and Biotechnology MSc was suspended last year and was held at the South Kensington campus. <br> <br>Regarding low demand: the Applied Ecology courses this year have the most students they have had in the last 10 years. I am afraid that I do not feel therefore that is a significant factor in them leaving.,I tried to get on the Entomology course, paying for myself. <br>I don't have a biology degree but Urban Pest Management with University of Birmingham, then 8 years of experience in pest control- not entry level. <br>Wasn't even considered. <br>Why no entomology courses or part time study? <br>Open University seem to consider it a dead subject. <br>My experience makes me belive that they only wanted academics.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205242335-mc4509-cr37351200035.jpg"
-image_caption: ""
 ---
 
 Concerns regarding staff shortages have risen as entry to postgraduate courses in the Department of Life Sciences has been suspended. Courses such as the Entomology MRes and MSc and Integrated Pest Management MSc, held in [Silwood Park](http://www3.imperial.ac.uk/silwoodparkcampus), and Plant Science and Biotechnology MSc, held in South Kensington, are marked on the postgraduate online course list as ‘’suspended for 2012-2013 entry’’.

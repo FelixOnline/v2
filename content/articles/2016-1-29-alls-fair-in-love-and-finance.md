@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Esoteric economics are brought down to earth in Adam McKay’s hugely enjoyable film
 date: "2016-01-29 09:25:31 +0000"
-
-# Attributes from Felix Online V1
-id: "5846"
-old_path: /film/5846/alls-fair-in-love-and-finance
+image: "http://felixonline.co.uk/img/upload/201601290918-felix-FILM-THE_BIG_SHORT_37882487 (1).JPG"
+image_caption: "Christian Bale sweeps up the nominations with his performance as Dr. Michael Burry in The Big Short."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5846/alls-fair-in-love-and-finance
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ts2915
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201601290918-felix-FILM-THE_BIG_SHORT_37882487 (1).JPG"
-image_caption: ""
 ---
 
 There are many ways a movie can go about breaking the fourth wall: direct communication with the audience can come in the form of subtle wink-wink moments of dialogue, such as _Kingsman: The Secret Service_’s conversations about classic spy films; the perfectly-timed stare at the camera that Eddie Murphy mastered in _Trading Places_; references to real-world events and people such as Riggan Thomson’s hilarious Jeremy Renner spiel in _Birdman_; or even just plain old narration. _The Big Short_ is a film that takes all these methods, bundles them up into a great big fist, shatters the wall with a single punch, and grabs the viewer by their ears, screaming: “HEY. LISTEN. WE’RE TRYING TO TELL YOU SOMETHING.”

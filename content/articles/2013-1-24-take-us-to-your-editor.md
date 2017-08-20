@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Ross Webster is ready for the probing
 date: "2013-01-24 21:07:03 +0000"
-
-# Attributes from Felix Online V1
-id: "3156"
-old_path: /games/3156/take-us-to-your-editor
+image: "http://felixonline.co.uk/img/upload/201301242107-mc4509-6737_19_unstoppable_gorg_release_date_price_and_a_new_platform_announced_for_orbital_tower_defense_game_full.jpg"
+image_caption: "Imagine a mixture of Sins of a Solar Empire, and this..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/3156/take-us-to-your-editor
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +22,6 @@ authors:
  - mc4509
  - rw507
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301242107-mc4509-6737_19_unstoppable_gorg_release_date_price_and_a_new_platform_announced_for_orbital_tower_defense_game_full.jpg"
-image_caption: ""
 ---
 
 Assuming that it’s not just your mothers that read Felix, you’ll probably be aware of the simulator surplus that has hit the Felix office. Well, [Excalibur Publishing](http://www.excalibur-publishing.co.uk/) (those lovely folk who send us these games) also publish real games. Sorry if I sound condescending to you hardcore sim-junkies (you know who you are, and I’m putting a padlock on the games chest), but these are actual games. (Let’s ignore the fact that [Farming Simulator 2013](http://www.youtube.com/watch?v=jqa6rhHfaV4) was the best selling game on Steam last week.)

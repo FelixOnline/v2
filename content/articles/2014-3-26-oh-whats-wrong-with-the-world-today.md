@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It used to be that the world was an absolutely awful place. People were starving left and right in all those countries to the South, the hole in the ozone layer was going to kill us all, there was no more oil left, grubby foreigners were going to steal all of our jobs, and the latest Star Wars movie
 date: "2014-03-26 13:22:37 +0000"
-
-# Attributes from Felix Online V1
-id: "4498"
-old_path: /comment/4498/oh-whats-wrong-with-the-world-today
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4498/oh-whats-wrong-with-the-world-today
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - pa07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It used to be that the world was an absolutely awful place. People were starving left and right in all those countries to the South, the hole in the ozone layer was going to kill us all, there was no more oil left, grubby foreigners were going to steal all of our jobs, and the latest Star Wars movie was the biggest tragedy of our generation.

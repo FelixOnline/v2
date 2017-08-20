@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Indira Mallik asks: where do revolution and artistic expression collide?
 date: "2014-12-18 16:20:20 +0000"
-
-# Attributes from Felix Online V1
-id: "5074"
-old_path: /arts/5074/at-the-frontiers-of-art-performance-and-protest
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5074/at-the-frontiers-of-art-performance-and-protest
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In recent years, the idea of revolution and protests has barely left the public consciousness, or our TV screens. From the Arab Spring across Syria, Libya and Egypt to the recent protests in Ferguson and New York against police brutality, protest has spread to all corners of the world.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Italy may be a ship full of holes but it refuses to sink and there’s no better captain than Silvio
 date: "2010-11-11 21:13:17 +0000"
-
-# Attributes from Felix Online V1
-id: "355"
-old_path: /politics/355/forza-berlusconi-at-least-hes-living-la-dolce-vita
+image: "http://felixonline.co.uk/img/upload/201011112111-ks607-berlusco.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/355/forza-berlusconi-at-least-hes-living-la-dolce-vita
-imported: true
 comments:
  - value: >
      Berlusconi has just won a vote of confidence in the lower house: <br> <br>http://www.bbc.co.uk/news/world-europe-11992034
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011112111-ks607-berlusco.jpg"
-image_caption: ""
 ---
 
 Silvio Berlusconi is, in his own words, “the best political leader in Europe and the world.” To most foreign commentators, however, he is at best a carefree, flamboyant playboy who likes to throw sexy parties at his Sardinian Villa. He makes Hugh Hefner seem an amateur, and Bill Clinton a choir boy. At worst, he is accused of being a supremely corrupt businessman, with excessive control over the nation’s media, alleged links to the mafia, and a predisposition for bribery and fraud. Defending this ex-cruise ship crooner might therefore seem as difficult as supporting the intentions of a charming spotty-faced, white tracksuit-laden youth who likes to loiter around bus stops at three in the morning. But there are arguments in favour of the Italian Prime Minister, and they merit attention, starting with his gaffes and highly charged libido.

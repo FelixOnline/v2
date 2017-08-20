@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jerzy Hoffman fails to prove himself with his latest release
 date: "2011-10-27 21:36:07 +0100"
-
-# Attributes from Felix Online V1
-id: "1612"
-old_path: /film/1612/a-disgraceful-portrayal-of-the-battle-of-warsaw
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/1612/a-disgraceful-portrayal-of-the-battle-of-warsaw
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Battle of Warsaw 1920__

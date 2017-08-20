@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Imperial West gets planning permission
 date: "2012-10-18 21:44:49 +0100"
-
-# Attributes from Felix Online V1
-id: "2720"
-old_path: /news/2720/new-campus-approved
+image: "http://felixonline.co.uk/img/upload/201210182244-felix-01139_afr_view2_dusk_2011-12-12_a_fullsize.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2720/new-campus-approved
-imported: true
 comments:
  - value: >
      The objections raised by local residents focus on the extent of commercial content in the development. What was presented to the public as a 'second campus' is nothing like a university complex. <br> <br>I chair the St Helens Residents Association, mentioned above. For 18 months we queried with the College why it has chosen to develop this site as an off-balance sheet joint venture with Voreda Capital. <br> <br>Why a 35 storey residential tower, the top two thirds of which will be sold to private buyers? Why a four star hotel of 13 storeys? How much profit does the College want, at a heavy cost to us neighbours? <br> <br>We are not the only ones who have commented that the height, scale and density of the development are far more appropriate to central London than to a low-rise residential corner of Shepherds Bush. <br> <br>We are more than happy to welcome Imperial postgrads to the Wood Lane Studios, and anyone now living there is welcome to join our association by emailing to sthelensassn@aol.com.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210182244-felix-01139_afr_view2_dusk_2011-12-12_a_fullsize.jpg"
-image_caption: ""
 ---
 
 Further development of the new Imperial West campus in White City is set to move forward following the recent granting of planning permission by local authorities. Zoe Mulholland, programme manager for the project, said that “she can confirm that Hammersmith and Fulham Council granted permission on 25 July 2012. due to the scale and nature of the scheme it was referred to the GLA [Greater London Authority] for their approval which was given on 20 September 2012.”

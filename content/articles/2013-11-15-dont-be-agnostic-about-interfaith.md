@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Umar Nasser, President of Ahmadiyya Muslim Students Association, on matters of interfaith
 date: "2013-11-15 02:26:21 +0000"
-
-# Attributes from Felix Online V1
-id: "4068"
-old_path: /comment/4068/dont-be-agnostic-about-interfaith
+image: "http://felixonline.co.uk/img/upload/201311150246-felix-wordof-god.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4068/dont-be-agnostic-about-interfaith
-imported: true
 comments:
  - value: >
      A very well written and thought provoking piece.,Thoroughly well presented case for Interfaith. I hope the events in Interfaith week are as engaging as this article :) <br>May God alleviate the plight of all those suffering due to their faith, creed etc
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201311150246-felix-wordof-god.png"
-image_caption: ""
 ---
 
 Next week is National Interfaith Week, established four years ago to bring people of different faiths and beliefs together and build bridges and mutual appreciation between social groups that may not mix on a regular basis. While it hasn’t been ‘celebrated’ or ‘observed’ at Imperial College (depending on one’s Interfaith views) I think that we are foolish to pass up the opportunity- especially when our faith societies are as big as they are.

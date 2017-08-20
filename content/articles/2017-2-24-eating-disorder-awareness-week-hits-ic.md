@@ -4,18 +4,15 @@ title: >
 subtitle: >
   This year's theme is early intervention
 date: "2017-02-24 13:45:55 +0000"
-
-# Attributes from Felix Online V1
-id: "6811"
-old_path: /news/6811/eating-disorder-awareness-week-hits-ic
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6811/eating-disorder-awareness-week-hits-ic
-imported: true
 comments:
  - value: >
      Keep on writing and chgguing away!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - ea3211
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 As we’re entering this year’s national Eating Disorder Awareness Week, which takes place over the first week of March in the UK, Imperial College Union will be hosting events and launching a social media campaign in support.

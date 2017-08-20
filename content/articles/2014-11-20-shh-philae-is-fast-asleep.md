@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Philippa Skett recaps the Rosetta mission and the future of Philae
 date: "2014-11-20 20:42:41 +0000"
-
-# Attributes from Felix Online V1
-id: "4909"
-old_path: /science/4909/shh-philae-is-fast-asleep
+image: "http://felixonline.co.uk/img/upload/201411202042-cj914-rosetta_s_philae_lander_on_comet_nucleus.jpg"
+image_caption: "Plucky Philae settles on the surface of comet 67P"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4909/shh-philae-is-fast-asleep
-imported: true
 comments:
  - value: >
      Short answer is no.That's a very long bow to draw; Jupiter's gitarvy would have to change by an enormous amount to come even remotely close to the scenario you suggest.The object that caused this dark spot on Jupiter was probably only about 1 km in diameter. Now if such an object were to strike the Earth, that would cause some significant changes in climate.
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +26,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411202042-cj914-rosetta_s_philae_lander_on_comet_nucleus.jpg"
-image_caption: ""
 ---
 
 It’s the space mission that has had both scientists and members of the wider public waiting with baited breath. The Rosetta mission has been a nail-biter of a ride since the awakening of the craft back in January, and has left news rooms and control rooms alike buzzing all through summer as the craft approached its final destination that it’s taken ten years to reach.

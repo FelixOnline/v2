@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The College’s proposals to extend the working day would have several implications in terms of the available time for extra-curricular sporting activity
 date: "2011-01-20 21:01:06 +0000"
-
-# Attributes from Felix Online V1
-id: "640"
-old_path: /news/640/sports-training-could-be-hit-
+image: "http://felixonline.co.uk/img/upload/201101202058-ks607-sportssp.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/640/sports-training-could-be-hit-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jn104
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101202058-ks607-sportssp.jpg"
-image_caption: ""
 ---
 
 The College’s [proposals](http://felixonline.co.uk/?article=594) to extend the working day would have several implications in terms of the available time for extra-curricular sporting activity.

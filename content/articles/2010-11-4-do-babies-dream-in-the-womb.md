@@ -4,16 +4,13 @@ title: >
 subtitle: >
   “Being a foetus is fun”: daydreaming begins before birth
 date: "2010-11-04 18:40:05 +0000"
-
-# Attributes from Felix Online V1
-id: "305"
-old_path: /science/305/do-babies-dream-in-the-womb
+image: "http://felixonline.co.uk/img/upload/201104210857-felix-baby-in-womb.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/305/do-babies-dream-in-the-womb
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - kt108
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104210857-felix-baby-in-womb.jpeg"
-image_caption: ""
 ---
 
 New Imperial research shows newly born babies have highly developed “daydreaming” brain networks.

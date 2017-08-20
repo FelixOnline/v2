@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Students turn out in force to celebrate start of term at Café de Paris
 date: "2011-10-27 20:12:33 +0100"
-
-# Attributes from Felix Online V1
-id: "1608"
-old_path: /news/1608/cgcu-dinner-brings-in-the-engineers
+image: "http://felixonline.co.uk/img/upload/201110272111-felix-dsc_0550.jpg"
+image_caption: "CGCU President Jacky Kwan takes to the stage to engineer the night's proceedings"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1608/cgcu-dinner-brings-in-the-engineers
-imported: true
 comments:
  - value: >
      this makes me proud to be an engineer. I hope the committee keep it going. WE ARE C&amp;G!,cgcu dinner bring in the engineers AND shit load of scientist, medics and thugs ,On behalf of all cgcu members, I would like to thank hitesh hassani, the event manager for such a good night!,you were disgraceful.,amazing night. that is all.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - ak6309
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110272111-felix-dsc_0550.jpg"
-image_caption: ""
 ---
 
 The [City & Guilds College Union](http://www.cgcu.net/) (CGCU) held their Welcome Dinner event along with an afterparty, on Tuesday 25 October at Café De Paris, marking their flagship event. The party attracted over 600 students, testing the 700 capacity of Café De Paris, with a three course dinner starting from 7:30pm.

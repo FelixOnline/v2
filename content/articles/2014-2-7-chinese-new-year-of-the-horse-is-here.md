@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Don’t worry - no horse meat involved in the production of this issue...
 date: "2014-02-07 04:47:24 +0000"
-
-# Attributes from Felix Online V1
-id: "4345"
-old_path: /food/4345/chinese-new-year-of-the-horse-is-here
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/4345/chinese-new-year-of-the-horse-is-here
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - ykc111
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Kung Hei Fat Choi! The year of the horse has once again arrived and if you feel like having something festive, but find Chopstix slightly too greasy, here’s a healthy recipe for you!

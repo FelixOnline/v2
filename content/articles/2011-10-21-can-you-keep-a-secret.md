@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Daniel Oppeheimer is critical of the Secret Garden Party
 date: "2011-10-21 11:31:46 +0100"
-
-# Attributes from Felix Online V1
-id: "1601"
-old_path: /music/1601/can-you-keep-a-secret
+image: "http://felixonline.co.uk/img/upload/201110211231-ak6309-secret-garden-party-motilo.jpg"
+image_caption: "Been spending Friday nights, living in a hipster’s paradise"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1601/can-you-keep-a-secret
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - dyo10
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110211231-ak6309-secret-garden-party-motilo.jpg"
-image_caption: ""
 ---
 
 Secret Garden Party is an unconventional festival, slicker or slacker than your average depending on preference. While the music policy is slightly questionable, it’s difficult to not be drawn in by the festival’s Wonderland-like aesthetic.

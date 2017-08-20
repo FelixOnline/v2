@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Carol Ann Cheah got the answer through the post
 date: "2013-10-08 03:17:59 +0100"
-
-# Attributes from Felix Online V1
-id: "3818"
-old_path: /food/3818/what-does-gousto-mean
+image: "http://felixonline.co.uk/img/upload/201310080417-jal08-cimg4863.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3818/what-does-gousto-mean
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +22,6 @@ authors:
  - jal08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310080417-jal08-cimg4863.jpg"
-image_caption: ""
 ---
 
 It’s not everyday that the Felix Food crew gets to review something that was featured and acclaimed on BBC’s Dragons’ Den. Back in August I was trawling through FEAST at Batter- sea Park with the just-as-much-of-a- foodie (if not more) boyfriend (in fact Battersea was his idea, I was busy revising for resits and UROP-ing at the time to think of Food-related press.) Prior to that we’d heard of Gousto being mentioned on the interwebs a few times, and decided to drop by the stall to leave our contact details. They soon got in touch, and we agreed to a review box - not long after, we were watching Duncan Bannatyne display his cooking prowess with one of the recipes we’d picked. Talk about striking gold, we say!

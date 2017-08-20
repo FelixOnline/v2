@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Opposing paper, to campaign for Free Education, was rejected
 date: "2014-12-12 12:44:59 +0000"
-
-# Attributes from Felix Online V1
-id: "5046"
-old_path: /news/5046/imperial-college-union-to-campaign-for-tuition-fees-in-newly-passed-policy
+image: "http://felixonline.co.uk/img/upload/201412121244-ps3110-screen-shot-2014-12-11-at-22.39.16.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5046/imperial-college-union-to-campaign-for-tuition-fees-in-newly-passed-policy
-imported: true
 comments:
  - value: >
      Quite a non-story here. The Union's stance on any political matter has no other impact than increasing the volume of hot air in the building.,Not that the Union Council can be considered representative of the student body in any meaningful way. Most of us don't care what irrelevant extra stuff you lot get up to, as long as you don't cock up the day to day running of the Union.,Very nice post. I certainly appreciate this website. Continue the good work! <br>parajumpers michelle on sale http://www.londongdhandball.co.uk/phocamapskml/spip.php?uk-parajumpers-michelle-on-sale-7177.html,Galaxy, Schmid won the 2001 Cup and finished runner-up in 2002. If you played GW 1, anyone then definitely desire to give GW 2 possibility to. Prices of hotels vary subject to season and venue. <br>fifa 16 hack http://creditsfut.com/,louboutin pumps <br>christian louboutin outlet http://canadachristianlouboutinoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412121244-ps3110-screen-shot-2014-12-11-at-22.39.16.png"
-image_caption: ""
 ---
 
 Council’s session on Tuesday 9th was dominated by the motion of No Confidence against the ICURFC Club Captain, but the new Higher Education Funding Policy which was passed will probably have even wider implications.

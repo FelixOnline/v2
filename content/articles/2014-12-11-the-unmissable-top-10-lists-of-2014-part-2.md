@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Fred Fyles gives us the run down of his top films of the year
 date: "2014-12-11 21:05:54 +0000"
-
-# Attributes from Felix Online V1
-id: "5034"
-old_path: /film/5034/the-unmissable-top-10-lists-of-2014-part-2
+image: "http://felixonline.co.uk/img/upload/201412112105-cj914-under-the-skin-cmyk.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5034/the-unmissable-top-10-lists-of-2014-part-2
-imported: true
 comments:
  - value: >
      This article aceihved exactly what I wanted it to achieve.
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412112105-cj914-under-the-skin-cmyk.jpg"
-image_caption: ""
 ---
 
 __10. Mr Turner__

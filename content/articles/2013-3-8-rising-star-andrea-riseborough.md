@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Welcome to the Punch
 date: "2013-03-08 00:02:40 +0000"
-
-# Attributes from Felix Online V1
-id: "3452"
-old_path: /film/3452/rising-star-andrea-riseborough
+image: "http://felixonline.co.uk/img/upload/201303080002-tna08-andrea-riseborough-2013-.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3452/rising-star-andrea-riseborough
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jgp09
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303080002-tna08-andrea-riseborough-2013-.jpg"
-image_caption: ""
 ---
 
 It’s not at all an uncommon occurrence to see both the good guy and bad guy work together in a cops and robbers thriller. And in order for this unlikely allianceto become a believable one, there needs to be careful planning, both in terms of characterisation, as well as the plot that will eventually connect the two.

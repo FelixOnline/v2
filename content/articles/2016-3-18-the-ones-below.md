@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-03-18 11:57:14 +0000"
-
-# Attributes from Felix Online V1
-id: "6068"
-old_path: /film/6068/the-ones-below
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6068/the-ones-below
-imported: true
 comments:
  - value: >
      Fantastic Web-site, Preserve the good job. Thanks!. <br>madden 17 http://hosted.comm100.com/Forum/Topic.aspx?topicId=4222&amp;forumId=503&amp;siteid=37512
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - ff712
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 In London, it’s rare to properly know your neighbours. And with the release of _The Ones Below_, it seems one has even less of a reason to pop round for tea and biscuits.

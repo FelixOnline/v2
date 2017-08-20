@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Welcome to Felix Food October 31st
 date: "2014-11-10 22:22:22 +0000"
-
-# Attributes from Felix Online V1
-id: "4844"
-old_path: /food/4844/new-ideas-aplentystarring-you
+image: "http://felixonline.co.uk/img/upload/201411102222-ps3110-cafe.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/4844/new-ideas-aplentystarring-you
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102222-ps3110-cafe.jpg"
-image_caption: ""
 ---
 
 Eh-up, Imperialites – welcome back to another instalment of Felix Food! The weather’s turned turtle and it seems all of us in my flat have fallen victim to some form of Freshers’ Flu (despite not being freshers, pah.) That said, however, it’s perfect weather for all the comfort foods we associate with winter: stews, mash, soups... and dare I say it, hot puddings (obviously with more than a side of custard!)

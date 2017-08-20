@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The Constitution changes have been approved by Council
 date: "2012-11-01 22:09:38 +0000"
-
-# Attributes from Felix Online V1
-id: "2777"
-old_path: /news/2777/constitution-approved
+image: "http://felixonline.co.uk/img/upload/201211012209-tna08-councilrgb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2777/constitution-approved
-imported: true
 comments:
  - value: >
      Thanks for writing this, Tim :),...this has to be one of the most poorly written articles ever. Can the Felix Editor write coherently for once please?
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211012209-tna08-councilrgb.jpg"
-image_caption: ""
 ---
 
 On Tuesday 30 October, [Imperial College Union Council](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/council) voted for the [new Constitution](https://www.imperialcollegeunion.org/your-union/how-were-run/constitution-reform) proposed by [Paul Beaumont, Union President](https://www.imperialcollegeunion.org/your-union/your-representatives/sabbatical-officers/paul-beaumont).

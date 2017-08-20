@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Make use of upcoming postgraduate panel
 date: "2012-02-09 23:17:20 +0000"
-
-# Attributes from Felix Online V1
-id: "2175"
-old_path: /comment/2175/have-your-say-on-the-holland-club-and-clayponds
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2175/have-your-say-on-the-holland-club-and-clayponds
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The stage has been set for a discussion on the future of both the Holland Club and Clayponds. Next Thursday (February 16) will see Imperial College’s Graduate Students’ Association [host a panel on the potential changes to the status of both the Holland Club and Clayponds](http://www.facebook.com/events/247716935307061/), both without a doubt the most contentious issues affecting both staff and students at Imperial currently. If you have any interest whatsoever in the ongoing situation, then it is crucial you attend.

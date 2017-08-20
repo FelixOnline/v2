@@ -4,16 +4,14 @@ title: >
 subtitle: >
   War is waged on the astroturf and scores are settled by the stick
 date: "2012-02-16 23:32:15 +0000"
-
-# Attributes from Felix Online V1
-id: "2221"
-old_path: /sport/2221/hockey-pre-varsity-tension-builds
+image: "http://felixonline.co.uk/img/upload/201202162331-sjw209-hockey.jpg"
+image_caption: "Another one bites the astroturf"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2221/hockey-pre-varsity-tension-builds
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +22,6 @@ authors:
  - jzy08
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162331-sjw209-hockey.jpg"
-image_caption: ""
 ---
 
 __IC Men’s 2s__ – 1

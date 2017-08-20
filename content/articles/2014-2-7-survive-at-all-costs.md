@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Even those with an entirely understandable objection to Hollywood’s never-ending, contrived war films ramming American patriotism down everyone’s throats should check out Peter Berg’s latest modern day military drama.
 date: "2014-02-07 04:42:19 +0000"
-
-# Attributes from Felix Online V1
-id: "4342"
-old_path: /film/4342/survive-at-all-costs
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4342/survive-at-all-costs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Lone Survivor

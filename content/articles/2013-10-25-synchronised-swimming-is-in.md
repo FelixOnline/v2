@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Welcome to IC Synchronised Swimming!
 date: "2013-10-25 01:20:12 +0100"
-
-# Attributes from Felix Online V1
-id: "3954"
-old_path: /sport/3954/synchronised-swimming-is-in
+image: "http://felixonline.co.uk/img/upload/201310250220-felix-natsynchro-101.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3954/synchronised-swimming-is-in
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - mmg110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250220-felix-natsynchro-101.jpg"
-image_caption: ""
 ---
 
 Last year was great and we are trying to achieve even more in the coming year! We had 29 members, more than enough to put fantastic routines together!! Only a few months on and our members – beginners, intermediates and advanced – were presenting their routines at our Christmas show in the pool of St. Mary’s hospital. This name is probably familiar to everyone given that the Royal Baby was born there. That’s also where our training sessions take place. So, if you join our team, you will see the famous hospital.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ross Webster works in a quarry
 date: "2012-11-01 22:56:26 +0000"
-
-# Attributes from Felix Online V1
-id: "2800"
-old_path: /games/2800/a-rock-and-a-hard-place
+image: "http://felixonline.co.uk/img/upload/201211012255-tna08-simsimrgb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2800/a-rock-and-a-hard-place
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211012255-tna08-simsimrgb.jpg"
-image_caption: ""
 ---
 
 This week, I played a game that saved my life.

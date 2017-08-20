@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Carol Ann Cheah scouts out Fulham’s newest kid on the (pub) block
 date: "2013-01-31 23:52:19 +0000"
-
-# Attributes from Felix Online V1
-id: "3216"
-old_path: /food/3216/cubby-away-with-the-fox
+image: "http://felixonline.co.uk/img/upload/201301312350-tna08-food7.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3216/cubby-away-with-the-fox
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301312350-tna08-food7.jpg"
-image_caption: ""
 ---
 
 When you’re a new establishment issuing a challenge to been-around-the-block GBK by proclaiming you’ve got better burgers than they do – and offering punters the chance to play bartender with the first self-serve beer wall in the UK – you’re sure to set a few tongues wagging. Tucked away from busy Fulham Broadway, where the quaint cobbled Vanston Place meets quiet Farm Lane, relative newcomer The Lazy Fox has done just that.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Australia Day has never been so tasty
 date: "2013-02-13 14:00:09 +0000"
-
-# Attributes from Felix Online V1
-id: "3300"
-old_path: /food/3300/rachels-yummy-lamington-cakes
+image: "http://felixonline.co.uk/img/upload/201302131354-tna08-lamington.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3300/rachels-yummy-lamington-cakes
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - rh1311
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302131354-tna08-lamington.jpg"
-image_caption: ""
 ---
 
 Australia Day came and went more than two weeks ago but if, for some unfathomable reason, you forgot to celebrate, fear not: find an excuse to pay homage to your favourite antipodeans. These traditional Australian lamington cakes are ideal for sharing with your loved ones, whether it be a boyfriend or girlfriend or your flat-mates afflicted with the late-night munchies.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Amna Samar Askari discusses her thoughts on a changing genre
 date: "2014-11-10 21:52:25 +0000"
-
-# Attributes from Felix Online V1
-id: "4829"
-old_path: /music/4829/the-evolution-of-pop
+image: "http://felixonline.co.uk/img/upload/201411102152-ps3110-lady_gaga,_artpop_ball_tour,_bell_center,_montréal,_2_july_2014_(20)_(14561598924).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4829/the-evolution-of-pop
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102152-ps3110-lady_gaga,_artpop_ball_tour,_bell_center,_montréal,_2_july_2014_(20)_(14561598924).jpg"
-image_caption: ""
 ---
 
 __Lady Gaga__’s upcoming ARTPOP Ball tour hits the UK this November, with tickets starting at just £13 in comparison to the atrocious minimum £70 for any Lady Gaga gig around three years ago.

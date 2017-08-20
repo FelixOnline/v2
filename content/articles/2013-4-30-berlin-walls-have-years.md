@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ich bin ein Berliner, says Meredith Thomas
 date: "2013-04-30 14:26:00 +0100"
-
-# Attributes from Felix Online V1
-id: "3503"
-old_path: /arts/3503/berlin-walls-have-years
+image: "http://felixonline.co.uk/img/upload/201305012030-tna08-883287_10151360791012135_1278982330_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3503/berlin-walls-have-years
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - cmt09
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305012030-tna08-883287_10151360791012135_1278982330_o.jpg"
-image_caption: ""
 ---
 
 Berlin is a city that weeps with history. Decades after unification it has a skyline like a broken jaw. Buildings conspicuous by their absence are found next to bullet riddled vestiges of the Wiemar years. Soviet space-age architectural excesses and grim utilitarian atrocities now sit alongside shining glass temples to modern capitalism.

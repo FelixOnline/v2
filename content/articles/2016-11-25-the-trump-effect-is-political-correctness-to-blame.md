@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jawaad Farooq offers his verdict on the reason for Donald’s rise to power
 date: "2016-11-25 13:30:51 +0000"
-
-# Attributes from Felix Online V1
-id: "6496"
-old_path: /comment/6496/the-trump-effect--is-political-correctness-to-blame-
+image: "http://felixonline.co.uk/img/upload/201611251330-felix-Screen Shot 2016-11-25 at 13.30.38.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6496/the-trump-effect--is-political-correctness-to-blame-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jf413
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611251330-felix-Screen Shot 2016-11-25 at 13.30.38.png"
-image_caption: ""
 ---
 
 It has been argued that political correctness has created a culture where people are afraid of expressing their views. This culture has been exacerbated by far left labelling and clamping down on opinions it deems do not fit into the liberal narrative. This apparently has led to the feeling of those who preach this ‘other’ opinion (such as Trump supporters) being delegitimised. Those opinions are an expression of a frustration, and in delegitimising the opinion, the frustration is also not taken seriously. Since the outlet of that frustration is the opinion, and political correctness does not allow the legitimisation of the opinion, political correctness became the target for Trump supporters and a larger motif representing those factors which are keeping these people ‘down’ and causing the frustration in the first place. If Donald Trump was anything he was politically incorrect, and because he was not afraid to speak his mind, he became a symbol of legitimising their frustrations. Repeatedly Trump made the point that the biggest problem he felt America was facing was political correctness, and it seems his message resonated with his supporters.

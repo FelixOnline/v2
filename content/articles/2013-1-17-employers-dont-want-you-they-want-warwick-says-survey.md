@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Good news: still everyone doesn't want UCL
 date: "2013-01-17 23:47:12 +0000"
-
-# Attributes from Felix Online V1
-id: "3120"
-old_path: /news/3120/employers-dont-want-you-they-want-warwick--says-survey
+image: "http://felixonline.co.uk/img/upload/201301172347-tna08-warwick-campus.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3120/employers-dont-want-you-they-want-warwick--says-survey
-imported: true
 comments:
  - value: >
      please stop talking about UCL and other unis that aren't top 10 in the world.. <br>Its not even funny. BTW, who thinks we should have a speed integration or some intellectual competition at Imperial???? It could be anything really, I'm dying to show off...
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301172347-tna08-warwick-campus.jpg"
-image_caption: ""
 ---
 
 A recent study by High Flier Research claims that the top 100 graduate employers focussing on finding graduate recruits on a small number of universities. A list oftwenty universities targeted found Warwick University at the top and Imperial at 12th place.

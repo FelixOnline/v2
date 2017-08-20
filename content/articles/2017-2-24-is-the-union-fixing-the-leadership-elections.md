@@ -4,16 +4,13 @@ title: >
 subtitle: >
   An anonymous writer discusses the Union's interference in the democratic process
 date: "2017-02-24 13:50:01 +0000"
-
-# Attributes from Felix Online V1
-id: "6814"
-old_path: /comment/6814/is-the-union-fixing-the-leadership-elections
+image: "http://felixonline.co.uk/img/upload/201702241556-felix-Screen Shot 2017-02-24 at 13.59.00.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6814/is-the-union-fixing-the-leadership-elections
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - icanon
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702241556-felix-Screen Shot 2017-02-24 at 13.59.00.png"
-image_caption: ""
 ---
 
 It's a well known fact that if you’re one of the beautiful people, you’re more likely to be successful in the Union elections. But as well as having beauty be a requirement, there is also a culture of successful candidates being chosen from above.

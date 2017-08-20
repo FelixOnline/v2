@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jack Steadman is nowhere near beyond caring at the National's Temporary Theatre.
 date: "2015-05-26 14:10:33 +0100"
-
-# Attributes from Felix Online V1
-id: "5568"
-old_path: /arts/5568/zero-hours-in-an-hour-and-a-half
+image: "http://felixonline.co.uk/img/upload/201505261509-js5913-beyond-caring.jpg"
+image_caption: "Phil (Sean O’Callaghan) and Grace (Janet Etuk) in Beyond Caring at the National Theatre."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5568/zero-hours-in-an-hour-and-a-half
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - js5913
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505261509-js5913-beyond-caring.jpg"
-image_caption: ""
 ---
 
 The house lights don’t dim at the start of _Beyond Caring_. That’s the first thing that went through my head. That, rapidly followed by “hang on, have we even started?” It’s a unique and bold use of the __Temporary Theatre__, and an instantly striking re-opening for the __National’__s fourth theatre. Formerly known as __The Shed__, the Temporary Theatre wasn’t even meant to be here anymore. But here we are, at the start of a new season of innovative and exciting works.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Gaming at the Holland Club
 date: "2012-11-01 22:57:35 +0000"
-
-# Attributes from Felix Online V1
-id: "2802"
-old_path: /games/2802/a-haunted-holland-halloween
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2802/a-haunted-holland-halloween
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -23,12 +20,6 @@ authors:
  - rw507
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It was a Wednesday afternoon like any other. Laptops, consoles and “You n00b!” screaming across the room, marking the start of the training session for this week’s UCL vs Imperial gaming tournaments. This was just the beginning.

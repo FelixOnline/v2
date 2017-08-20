@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Numbers. To the average Imperial student, they are part of everyday academia, to others they are enthralling and engaging, but for some of us they represent a punitive regime by which we live.
 date: "2014-02-21 03:29:01 +0000"
-
-# Attributes from Felix Online V1
-id: "4430"
-old_path: /comment/4430/eating-disorder-awareness-week-2014--its-time-to-speak-out
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4430/eating-disorder-awareness-week-2014--its-time-to-speak-out
-imported: true
 comments:
  - value: >
      I'm so proud of you! <br>Lots of love
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Numbers. To the average Imperial student, they are part of everyday academia, to others they are enthralling and engaging, but for some of us they represent a punitive regime by which we live. Numbers are our self-worth, our being, our everything. Kilos, calories, clothes size. Small numbers are our friends, zero is our deity. We are more common than you think: we have eating disorders.

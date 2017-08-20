@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Students receive emails from Departments about the smoke free areas
 date: "2013-03-01 00:45:13 +0000"
-
-# Attributes from Felix Online V1
-id: "3409"
-old_path: /news/3409/smokers-told-to-stop-lighting-up-by-buildings
+image: "http://felixonline.co.uk/img/upload/201303010044-tna08-cigarette-butt.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3409/smokers-told-to-stop-lighting-up-by-buildings
-imported: true
 comments:
  - value: >
      The last time I looked the pavement outside Huxley was a public place over which the college has no authority.,Which is why the ban does not apply to the entrance to Huxley on Queen's Gate: <br> <br>https://workspace.imperial.ac.uk/hr/public/Procedures/smoke-free/Smoke%20Free%20Locations%202010-Red.pdf,Ki emeis eimaste ameansa se aftous pou xomeinan edo ton avgousto! An kaneis kefi, na vrethoume (analoga me to poso tha meineis stin iperohi tsimentoupoli mas!)... THELO KI ALLI DOSI APO GAV LEMEEEEEE!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303010044-tna08-cigarette-butt.jpg"
-image_caption: ""
 ---
 
 Students at Imperial College London have been receiving emails about smoking on the South Kensington campus. The purpose has been to remind students that they are not allowed to smoke by the entrances to buildings. The emails have been sent by the Heads of Departments, seemingly on the request of Facilities Management – suggested by one such email, forwarded on to students by the Head of the Department of Computing, showing the original sender (Mitul Shah, Assistant Building Manager) and recipients of the original email.

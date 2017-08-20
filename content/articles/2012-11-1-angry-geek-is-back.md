@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Hopefully it’ll go better than that time Mike Tyson returned
 date: "2012-11-01 22:52:36 +0000"
-
-# Attributes from Felix Online V1
-id: "2798"
-old_path: /comment/2798/angry-geek-is-back
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2798/angry-geek-is-back
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - mrangry
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Hello? Is this thing on? It’s been a while, you see. In fact, by my count less than half of the undergraduates were around the last time I wrote for Felix. I’d do a formal introduction and all, but the concept boils down to a pretty simple “I vehemently hate more things before breakfast than you’ve managed to mildly dislike in your entire life” schtick. I’ve just been a little preoccupied lately to write in Felix. I’ve kept busy, of course, thanks for asking. I’ve taken to just whispering swear words to people on the tube on the commute home. Similar audience size, but admittedly less anonymous.

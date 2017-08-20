@@ -4,16 +4,13 @@ title: >
 subtitle: >
   erial-dating lawyer Carly (Cameron Diaz) finally finds someone who could potentially be “the one”. This is until she figures out that he’s a married man. Game of Thrones’ Jaime Lannister, Nikolaj Coster-Waldau, has been a busy man no doubt. His wife Kate (Leslie Mann) is devastated and heart-broken.
 date: "2014-05-09 15:17:24 +0100"
-
-# Attributes from Felix Online V1
-id: "4584"
-old_path: /film/4584/carlys-angels
+image: "http://felixonline.co.uk/img/upload/201405091617-jal08-still-of-cameron-diaz-and-nikolaj-coster-waldau-in-the-other-woman-(2014)-large-picture.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4584/carlys-angels
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405091617-jal08-still-of-cameron-diaz-and-nikolaj-coster-waldau-in-the-other-woman-(2014)-large-picture.jpg"
-image_caption: ""
 ---
 
 __The Other Woman__

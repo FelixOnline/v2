@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The world of social media does not have all-encompassing power
 date: "2012-06-01 12:52:29 +0100"
-
-# Attributes from Felix Online V1
-id: "2514"
-old_path: /comment/2514/social-media-never-achieves-anything
+image: "http://felixonline.co.uk/img/upload/201206011351-mc4509-559518_police_protecting_the_demonstration.jpg"
+image_caption: "We’ve pre-emptively deployed police to Felix Online’s cyberoffices to control the surge of comments "
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2514/social-media-never-achieves-anything
-imported: true
 comments:
  - value: >
      +Like. <br> <br>Wait...,Writing to your MP is even lower impact than social media. MPs will only listen to you if they know you have a sizable base of people who agree with you.,As much as I hate social media myself, you fail to understand its power. It played a significant role in mobilising Egypt's Revolution recently, and this is only one example of many. The Arab Spring has a lot to owe to this form of communication. ,I dunno, that @ICToilets appears to have built up a lot of momentum.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206011351-mc4509-559518_police_protecting_the_demonstration.jpg"
-image_caption: ""
 ---
 
 I’ve got a problem. A problem with you. And your friends. The whole lot of you, in fact, and the way in which you all spread your ideas using social media. Basically, over the past couple of years social media has quickly evolved from a novel way of keeping in touch into a way for people to share their passions, problems and grievances – and in doing so I’m of the firm belief that it’s become a useless, vapid place. People seem to think they are making a difference when they click the ‘Like’ button – but they are, unfortunately, kidding themselves.

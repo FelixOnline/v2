@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Kunal Wagle reports on the research into large-scale screening programmes
 date: "2015-05-29 01:03:26 +0100"
-
-# Attributes from Felix Online V1
-id: "5578"
-old_path: /news/5578/study-by-imperial-professor-raises-fears-for-diabetes-screening-in-india
+image: "http://felixonline.co.uk/img/upload/201505290203-ps3110-diabetes.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5578/study-by-imperial-professor-raises-fears-for-diabetes-screening-in-india
-imported: true
 comments:
  - value: >
      After the Diabetes Free program (Review here: https://www.youtube.com/watch?v=C_nJ3xlOWvk) My mind is opened to the possibilities of using all natural methods to cure diabetes, whether that means adopting a diabetic diet or lifestyle etc. The 7 steps book is way better than Diabetes Free as far as treating diabetes goes, I dropped my blood sugar to 70-80 with it :) I'm starting to realize that we need to focus more on the natural methods that exist as far as beating diabetes goes.,fitflops shops <br>fitflop online sale australia http://www.australiafitflops.com/,christian louboutin heels <br>christian louboutin online http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin pumps <br>christian louboutin shoes sale http://christianlouboutincanadaoutlet.blogspot.com/,such an innreestitg mom u are! love the mild reversal role, whr ur daughter is conscious abt food coloring and privacy, while u are all hyped to present the pretty pink cake to her! happy birthday to ur daughter and may u both remain a loving
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505290203-ps3110-diabetes.jpeg"
-image_caption: ""
 ---
 
 A study conducted by a team including a professor from Imperial College London has suggested that the large-scale diabetes screening programme in India will result in the public health system being overwhelmed.

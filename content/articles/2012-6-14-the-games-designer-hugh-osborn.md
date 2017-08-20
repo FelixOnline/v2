@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Games Designer - Hugh Osborn
 date: "2012-06-14 20:20:59 +0100"
-
-# Attributes from Felix Online V1
-id: "2562"
-old_path: /phoenix/2562/the-games-designer---hugh-osborn-
+image: "http://felixonline.co.uk/img/upload/201206142119-pk1811-546118_326628914073568_314367575299702_775135_1041408177_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/2562/the-games-designer---hugh-osborn-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206142119-pk1811-546118_326628914073568_314367575299702_775135_1041408177_n.jpg"
-image_caption: ""
 ---
 
 Eleanor - Can you tell us a little bit about the game you’re making at the moment?

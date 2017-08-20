@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ernest Gonzales - Natural Traits - Friends of Friends - 2012
 date: "2012-01-19 20:40:17 +0000"
-
-# Attributes from Felix Online V1
-id: "2018"
-old_path: /music/2018/kadhims-totally-hot-album-of-the-week-12
+image: "http://felixonline.co.uk/img/upload/201201192039-ams111-ernest_gonzales_-_natural_traits.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2018/kadhims-totally-hot-album-of-the-week-12
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201192039-ams111-ernest_gonzales_-_natural_traits.jpg"
-image_caption: ""
 ---
 
 The [scientifically-dubious](http://www.guardian.co.uk/science/blog/2012/jan/16/blue-monday-depressing-day-pseudoscience) ‘[most depressing day of the year](http://www.telegraph.co.uk/finance/jobs/9017631/Blue-Monday-is-most-depressing-day-of-the-year-research-claims.html)’ has past us by without running aground, and unless you’re Maggie Dallman, you’ll probably make it to the end of the month without being [publicly humiliated](http://on.fb.me/A3REbG). Let’s shake off these January blues and start living again. __Ernest Gonzales__, let the beats roll.

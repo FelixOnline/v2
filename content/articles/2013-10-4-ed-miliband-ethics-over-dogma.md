@@ -4,16 +4,14 @@ title: >
 subtitle: >
   This article was catalysed by the recent conference of The Conservative Party held in Manchester, where voluminous Government policy was proposed and discussed.
 date: "2013-10-04 00:46:26 +0100"
-
-# Attributes from Felix Online V1
-id: "3803"
-old_path: /comment/3803/ed-miliband-ethics-over-dogma
+image: "http://felixonline.co.uk/img/upload/201310040145-jal08-comm_ed_milli-copy.jpg"
+image_caption: "Red Ed Miliband"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3803/ed-miliband-ethics-over-dogma
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +23,6 @@ authors:
  - jal08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310040145-jal08-comm_ed_milli-copy.jpg"
-image_caption: ""
 ---
 
 This article was catalysed by the recent conference of The Conservative Party held in Manchester, where voluminous Government policy was proposed and discussed. The ‘Work for Benefits’ plan proved to be a topic of discussion as Chancellor, George Osborne, revised the criteria for Jobseeker’s Allowance Qualification.

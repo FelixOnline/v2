@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Mosquito-repellent bodysuit on no ordinary catwalk
 date: "2012-05-18 11:12:00 +0100"
-
-# Attributes from Felix Online V1
-id: "2466"
-old_path: /science/2466/fashion-to-fight-malaria
+image: "http://felixonline.co.uk/img/upload/201205181211-felix-120508152046-large.jpg"
+image_caption: "Get cape. Wear cape. Beat malaria...?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2466/fashion-to-fight-malaria
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - zs1611
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205181211-felix-120508152046-large.jpg"
-image_caption: ""
 ---
 
 A Kenyan scientist and a Gambian clothes designer have joined forces to fashion a garment that has the power to repel mosquitoes and beat malaria.

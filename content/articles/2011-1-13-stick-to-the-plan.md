@@ -4,16 +4,13 @@ title: >
 subtitle: >
   You have sworn on your grandma’s life you’ll travel more in 2011 – now keep that promise. Dylan Lowe offers tips on staying faithful to your travel plans
 date: "2011-01-13 20:46:58 +0000"
-
-# Attributes from Felix Online V1
-id: "585"
-old_path: /travel/585/stick-to-the-plan
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/585/stick-to-the-plan
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -23,12 +20,6 @@ authors:
  - ks607
  - yll08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Like a good respectable self-reformist, you decreed upon yourself the commandments that are your resolutions for 2011. One of which includes the desire to ‘travel more’. With a destination picked and dates decided but yet to arrive, you perch on your seat counting the milli-seconds before you take off.

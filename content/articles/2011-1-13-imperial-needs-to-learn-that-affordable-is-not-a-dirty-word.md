@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The new postgraduate halls in Clapham Junction are certainly not affordable
 date: "2011-01-13 21:03:47 +0000"
-
-# Attributes from Felix Online V1
-id: "587"
-old_path: /comment/587/imperial-needs-to-learn-that-affordable-is-not-a-dirty-word-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/587/imperial-needs-to-learn-that-affordable-is-not-a-dirty-word-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Affordable. It is hardly a glamorous word. It does not make the heart race nor the mouth salivate. It implies a sort of glum settlement; when your shallow pockets deny you your desires, go for ‘affordable’. It is not a word that springs to one’s mind when thinking about Imperial College London. Nestled in the regal South Kensington environment, our university, with its history, buildings and international reputation, is the complete antithesis to the emotions evoked by the word ‘affordable’.

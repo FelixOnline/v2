@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The fifth sabb will return next year
 date: "2016-05-27 08:40:28 +0100"
-
-# Attributes from Felix Online V1
-id: "6199"
-old_path: /news/6199/nominations-for-dpfs-to-reopen-next-week
+image: "http://felixonline.co.uk/img/upload/201605271040-felix-Screen Shot 2016-05-25 at 12.01.11.jpg"
+image_caption: "Could this be you?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6199/nominations-for-dpfs-to-reopen-next-week
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605271040-felix-Screen Shot 2016-05-25 at 12.01.11.jpg"
-image_caption: ""
 ---
 
 After rumours of the position’s demise, the union has re-opened nominations for the role of Deputy President (Finance and Services).

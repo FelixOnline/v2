@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sarah Byrne on Silwood Park tackling the headline issues
 date: "2012-11-15 21:02:27 +0000"
-
-# Attributes from Felix Online V1
-id: "2889"
-old_path: /science/2889/silwood-park-hope-for-british-ash-population
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2889/silwood-park-hope-for-british-ash-population
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - slb210
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The European ash tree is a familiar sight across the UK’s gardens, parks and countryside, and has been part of the landscape for many centuries, the common name even deriving from Old English.

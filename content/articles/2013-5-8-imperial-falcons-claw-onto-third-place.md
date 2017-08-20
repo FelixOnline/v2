@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Baseball team put on impressive display, thankfully beating UCL
 date: "2013-05-08 13:29:15 +0100"
-
-# Attributes from Felix Online V1
-id: "3546"
-old_path: /sport/3546/imperial-falcons-claw-onto-third-place
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3546/imperial-falcons-claw-onto-third-place
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - cjc211
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 After a hard fought weekend of matches, the Imperial Falcons rounded off their season with an emphatic victory over the UEA Blue Sox, giving us a third-place finish in the BUBA Spring Cup.

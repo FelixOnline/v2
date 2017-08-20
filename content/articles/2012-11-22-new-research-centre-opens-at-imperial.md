@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The second of its kind.
 date: "2012-11-22 22:35:13 +0000"
-
-# Attributes from Felix Online V1
-id: "2930"
-old_path: /news/2930/new-research-centre-opens-at-imperial
+image: "http://felixonline.co.uk/img/upload/201211222234-tna08-st-mary-2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2930/new-research-centre-opens-at-imperial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - nm708
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211222234-tna08-st-mary-2.jpg"
-image_caption: ""
 ---
 
 Last week a new research centre opened at Imperial College London in St. Mary’s Hospital: The Imperial Clinical Phenome Centre. This is the second phenome centre to be launched this year in the UK, both centres are based at Imperial College. The centre is led by both Imperial College London and King’s College London, although it has many academic and commercial partners. The centre is said to aim to revolutionise the future of the healthcare sector, translating medical discoveries to better healthcare. Researchers will rapidly analyse the phenotypes of an unprecedented number of samples taken from patients. Blood and urine samples will be used to search for biomarkers that link particular populations of people with susceptibility to certain diseases. Consequently, this will eventually aid in the development of more targeted forms of treatment to combat diseases. Furthermore, this information can guide doctors on how the patient is responding to a particular form of treatment.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Eight shows to help you burn through time rather than yourself
 date: "2016-06-17 09:33:53 +0100"
-
-# Attributes from Felix Online V1
-id: "6285"
-old_path: /tv/6285/your-summer-of-binge-watching
+image: "http://felixonline.co.uk/img/upload/201606171133-felix-EW-ARCHER-WALLPAPER_612x380_0.jpg"
+image_caption: "It’s not a drinking problem if you never stop long enough to get hungover. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6285/your-summer-of-binge-watching
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - ad4013
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606171133-felix-EW-ARCHER-WALLPAPER_612x380_0.jpg"
-image_caption: ""
 ---
 
 Summer’s here, which means actual free time again without the constant spectre of revision hanging over your head. You might be wondering just what to do with it all. Well, there’s always the classic fall-back; say ‘screw it’ and watch some TV. Here’s a list of eight great shows to help you do just that.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   What the Leave campaign says is going on versus what is actually going on
 date: "2016-06-10 08:19:07 +0100"
-
-# Attributes from Felix Online V1
-id: "6250"
-old_path: /comment/6250/eu-myths-debunked
+image: "http://felixonline.co.uk/img/upload/201606101018-felix-tsi_erasmus_logo.jpg"
+image_caption: "This could be us but you're voting out."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6250/eu-myths-debunked
-imported: true
 comments:
  - value: >
      “EU myths debunked” – debunked<br>IMMIGRATION:<br>This 95% figure is somewhat misleading, as it includes the UK in EU net migration. Of course the majority of emigrants from this country will have been born here. If we compare EU net (excl. British) as a percentage of all net migration we find the figure for net EU migration to be about 38% of total net migration. So clearly net EU migration is not insignificant as you suggest.<br>(http://www.migrationobservatory.ox.ac.uk/reports/3-net-migration-and-immigration, Figure 3)<br>Besides, I feel like you have chosen 2011 because freedom of movement was extended to Romania and Bulgaria in 2012. If we look at more recent figures from 2014, we find net EU migration is around 47% of total net migration.<br>(http://www.migrationwatchuk.org/briefing-paper/378, Figure 2)<br>DEMOCRACY<br>Sure, you can vote for your MEPs, but that doesn’t mean the EU is democratic. In the EU we elect a largely toothless Parliament which cannot even propose legislation. The Parliament then approves a
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +24,6 @@ authors:
  - icanon
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606101018-felix-tsi_erasmus_logo.jpg"
-image_caption: ""
 ---
 
 **The claim**: The EU open-borders policy puts strain on the UK and makes it harder for non-Europeans to settle in the UK.

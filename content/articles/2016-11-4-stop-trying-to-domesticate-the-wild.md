@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jennifer Eden discusses the wild animal adoption trend and its consequences
 date: "2016-11-04 14:17:48 +0000"
-
-# Attributes from Felix Online V1
-id: "6388"
-old_path: /comment/6388/stop-trying-to-domesticate-the-wild
+image: "http://felixonline.co.uk/img/upload/201611041417-felix-3159669562_2429cc381a_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6388/stop-trying-to-domesticate-the-wild
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - je615
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611041417-felix-3159669562_2429cc381a_o.jpg"
-image_caption: ""
 ---
 
 Having watched enough music videos and viewed the odd ‘Rich Kids of Instagram’ profile, it’s not unusual to spot an exotic animal being used as a power status symbol or display of wealth for social media. A tiger padding over a marble floor, a marmoset monkey hanging from a chandelier, or a snake being used as a prop in a painstakingly well-lit selfie. All the types of image that would attract plenty of attention. All vanity posts. The animal having one purpose: to add to the backdrop of money.

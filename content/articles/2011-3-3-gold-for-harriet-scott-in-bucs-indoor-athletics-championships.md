@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial athletes shine through
 date: "2011-03-03 21:14:23 +0000"
-
-# Attributes from Felix Online V1
-id: "1021"
-old_path: /sport/1021/gold-for-harriet-scott-in-bucs-indoor-athletics-championships
+image: "http://felixonline.co.uk/img/upload/201103032111-nm1010-harrieth.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1021/gold-for-harriet-scott-in-bucs-indoor-athletics-championships
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103032111-nm1010-harrieth.jpg"
-image_caption: ""
 ---
 
 Athletes from both [Imperial College Athletics Club](http://union.ic.ac.uk/acc/crosscountry/) and [ICSM Athletics Club](http://icsmathletics.com/index.html) travelled up to Sheffield on the weekend of 18-20 February for the BUCS Indoor Athletics Championships. Competing across a wide range of both track and field events, the team were looking forward to an exciting weekend of sport.

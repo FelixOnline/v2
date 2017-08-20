@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tessa Davey thinks that it’s time to talk about domestic violence
 date: "2015-02-19 23:52:10 +0000"
-
-# Attributes from Felix Online V1
-id: "5276"
-old_path: /comment/5276/should-we-boycott-fifty-shades-of-grey
+image: "http://felixonline.co.uk/img/upload/201502201642-ps3110-fifty-shades-of-grey-movie-stills-wallpaper_971276211.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5276/should-we-boycott-fifty-shades-of-grey
-imported: true
 comments:
  - value: >
      My website fiftyshadesofgreypdf.org and all <br>yours are extremely similar,Hi just wanted to give you a brief heads up and let you know a few of the images aren't loading properly. I'm not sure why but I think its a linking issue. I've tried it in two different internet browsers and both show the same outcome. <br>canada goose x eepmon synthesis parka price http://www.blackburnguitarlessons.co.uk/?uk-canada-goose-x-eepmon-synthesis-parka-price-29032.html,the fitflop <br>buy cheap fitflops http://fitflopsau.blogspot.com/,fitflop shoe <br>fitflop australia buy online http://www.australiafitflops.com/,fitflop discount <br>fitflop sales http://australiafitflops.iemiller.net/,cheap fitflops <br>cheap fitflops australia http://fitflopsau.blogspot.com/,fitflop clearance sale <br>where to buy fitflops http://australiafitflops.blogspot.com/,shoes birkenstock <br>birkenstock arizona sale http://birkenstocksaleaustralia.blogspot.com/,christian louboutin sneakers canada <br>christian louboutin outlet canada http://canadachristianlouboutin.blogsp
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502201642-ps3110-fifty-shades-of-grey-movie-stills-wallpaper_971276211.jpg"
-image_caption: ""
 ---
 
 _F__ifty Shades of Grey_ has opened the door for us to talk about sex candidly and honestly in a way that has never been done before, something that can only be a good thing. People are more open to discussing their desires and fantasies than ever, with millions of people exploring new sensations, and rejuvenating their sex lives. But along with this comes a dark side, and ignoring that could be potentially damaging.

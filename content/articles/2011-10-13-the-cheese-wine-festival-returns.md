@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Get ready Imperial – it’s going to be a cheesy weekend!
 date: "2011-10-13 23:41:06 +0100"
-
-# Attributes from Felix Online V1
-id: "1527"
-old_path: /food/1527/the-cheese--wine-festival-returns
+image: "http://felixonline.co.uk/img/upload/201110140033-sjw209-wine-and-cheese-medium.jpg"
+image_caption: "A whole festival based around cheese and wine? Better brie-lieve it"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1527/the-cheese--wine-festival-returns
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +22,6 @@ authors:
  - mk4410
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110140033-sjw209-wine-and-cheese-medium.jpg"
-image_caption: ""
 ---
 
 Last issue, Felix Food made mention of the [Chocolate Week](http://felixonline.co.uk/food/1495/chocolate-week-announces-a-melt-in-your-mouth-lineup/), the [London Restaurant Festival](http://felixonline.co.uk/food/1496/london-restaurant-festival-showcases-culinary-diversity/) and the Diwali Festival. It’s likely some of you dislike chocolate, hate restaurant festivals or think Indian food is just another thing that drags you to the toilet! So, let’s talk about cheese… and wine!

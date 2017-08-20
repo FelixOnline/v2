@@ -4,16 +4,13 @@ title: >
 subtitle: >
   They're not likable, they're not strong and independent, they're real
 date: "2016-11-01 00:02:00 +0000"
-
-# Attributes from Felix Online V1
-id: "6375"
-old_path: /tv/6375/the-nasty-women-of-broad-city
+image: "http://felixonline.co.uk/img/upload/201611010001-felix-broad-city_abbi-jacobson-ilana-glazer-photocredit_lane-savage.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6375/the-nasty-women-of-broad-city
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - im1413
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611010001-felix-broad-city_abbi-jacobson-ilana-glazer-photocredit_lane-savage.jpg"
-image_caption: ""
 ---
 
 It was during the last US Presidential Debate that Donald Trump muttered ‘what a nasty woman’ Hillary Clinton was, the latest of Donald Trump’s transgressions. Minutes after the debate had finished, Twitter was ablaze with women reclaiming the insult. Elizabeth Warren made ‘nasty women’ the centre of her speech stumping for Hillary Clinton, and Samantha Bee, the only female host on late night comedy in America wore a ‘nasty woman’ T-shirt to host this week’s episode of Full Frontal with Samantha Bee.

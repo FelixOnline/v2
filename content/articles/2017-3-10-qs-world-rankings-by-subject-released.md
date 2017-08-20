@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial down to ninth place but Engineering still in top ten
 date: "2017-03-10 13:11:58 +0000"
-
-# Attributes from Felix Online V1
-id: "6864"
-old_path: /news/6864/qs-world-rankings-by-subject-released
+image: "http://felixonline.co.uk/img/upload/201703101311-felix-Screen Shot 2017-03-10 at 13.11.34.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6864/qs-world-rankings-by-subject-released
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ea3211
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101311-felix-Screen Shot 2017-03-10 at 13.11.34.png"
-image_caption: ""
 ---
 
 The QS university rankings have just released a breakdown of ranking by subject and while UK universities remain global leaders in higher education it would appear that competition keeps getting more intense each year.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Christy Kelly on journalism
 date: "2013-10-25 00:09:54 +0100"
-
-# Attributes from Felix Online V1
-id: "3922"
-old_path: /comment/3922/kelly-vison-reflections-on-journalism
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3922/kelly-vison-reflections-on-journalism
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - ck2513
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A condition for open press is respect for journalist protection. The film adaptation of the murder of the Balibo Five in East Timor suggests that the death of journalists is a sufficiently sparse phenomenon to warrant attention. The fact that I remember the 2006 murder of Anna Politkovskaya demonstrates that journalist deaths have a certain impact superceding general homicide. There aren’t many things government can do, short of eliminating reporters in order to restrict press freedoms.

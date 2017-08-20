@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Maciej Matuszewski kicks off our week long look at the highlights of our favourite genres
 date: "2011-02-28 20:35:32 +0000"
-
-# Attributes from Felix Online V1
-id: "930"
-old_path: /tv/930/best-in-class-sci-fi
+image: "http://felixonline.co.uk/img/upload/201102282034-ks607-defyingg.jpg"
+image_caption: "The brilliant Defying Gravity was cancelled after only one season"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/930/best-in-class-sci-fi
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -25,12 +23,6 @@ authors:
  - mtm10
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102282034-ks607-defyingg.jpg"
-image_caption: ""
 ---
 
 I’ve written a lot about science fiction for Felix over the last few months but now I face my most difficult task yet, to decide on the best television shows in the genre.

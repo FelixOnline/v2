@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Untitled Poem
 date: "2011-06-09 18:05:28 +0100"
-
-# Attributes from Felix Online V1
-id: "1329"
-old_path: /phoenix/1329/untitled
+image: "http://felixonline.co.uk/img/upload/201106091902-felix-janeseok.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/1329/untitled
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106091902-felix-janeseok.jpg"
-image_caption: ""
 ---
 
 Who’s hiding in the trees?

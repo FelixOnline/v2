@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Anonymous donation announced at special general meeting could save historic Albermarle Street premises
 date: "2013-03-25 18:08:54 +0000"
-
-# Attributes from Felix Online V1
-id: "3497"
-old_path: /news/3497/royal-institution-receives-debt-clearing-donation
+image: "http://felixonline.co.uk/img/upload/201303261816-pk1811-royal_institution.jpg"
+image_caption: "The Royal Institution's home is located near Green Park"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3497/royal-institution-receives-debt-clearing-donation
-imported: true
 comments:
  - value: >
      What's with that?
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303261816-pk1811-royal_institution.jpg"
-image_caption: ""
 ---
 
 In an email sent to members on March 20th, [Sir Richard Sykes](http://www3.imperial.ac.uk/aboutimperial/imperial_people/pastrectors/sykes), Chairman of the Royal Institution, announced the receipt of an anonymous £4.4 million pound donation, clearing [debts ](http://felixonline.co.uk/news/3331/royal-institution-forced-to-sell-home/)which have lead to the scientific body's Central London home being placed on the market. Financial difficulties were initially met after a multi-million pound refurbishment of the premesies failed to return on the investment.

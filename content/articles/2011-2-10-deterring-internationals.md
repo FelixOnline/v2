@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Government’s visa proposals risk catasrophe argues Ksenia Rostislavleva
 date: "2011-02-10 20:07:00 +0000"
-
-# Attributes from Felix Online V1
-id: "764"
-old_path: /news/764/deterring-internationals-
+image: "http://felixonline.co.uk/img/upload/201102102005-ks607-visavisa.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/764/deterring-internationals-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - kr309
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102102005-ks607-visavisa.jpg"
-image_caption: ""
 ---
 
 On January 26th, a press-conference focused on the international student migration regulations was held in the Queen Elizabeth II Conference Center. The speakers included Tony Millns (English UK), Aaron Porter (National Union of Students), Dominic Scott (Universities and Colleges Information Systems Association), Susan Hindley (Study UK), Nicola Dandridge (Universities UK) and Professor Edward Acton (University of East Anglia).

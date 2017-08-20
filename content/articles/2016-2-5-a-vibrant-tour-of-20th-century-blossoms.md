@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Royal Academy’s colourful exhibition brings together gardens of all times and styles
 date: "2016-02-05 12:17:59 +0000"
-
-# Attributes from Felix Online V1
-id: "5874"
-old_path: /science/5874/a-vibrant-tour-of-20th-century-blossoms
+image: "http://felixonline.co.uk/img/upload/201602051215-felix-4231.jpg"
+image_caption: "Claude Monet,  Water Lilies, 1916-26"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5874/a-vibrant-tour-of-20th-century-blossoms
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +21,6 @@ authors:
  - im1413
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602051215-felix-4231.jpg"
-image_caption: ""
 ---
 
 To walk into _Painting the Modern Garden: Monet to Matisse_ at The Royal Academy is to plunge into a world of exuberant greenery, of sun-dappled paths, manicured lawns, a land where it is always spring, and Paris is always in bloom.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A first year Imperial computing student has taken the second place prize at this year’s Cyber Security Challenge. Luke Granger-Brown was one of 42 finalists taking part in the final round of the competition – the Cyber Security Masterclass, this year taking place in the old Cabinet War Rooms. The co
 date: "2014-03-21 02:40:46 +0000"
-
-# Attributes from Felix Online V1
-id: "4490"
-old_path: /news/4490/imperial-student-success-in-cyber-security-challenge
+image: "http://felixonline.co.uk/img/upload/201403210241-jal08-news_lukegb.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4490/imperial-student-success-in-cyber-security-challenge
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201403210241-jal08-news_lukegb.jpg"
-image_caption: ""
 ---
 
 A first year Imperial computing student has taken the second place prize at this year’s Cyber Security Challenge. Luke Granger-Brown was one of 42 finalists taking part in the final round of the competition – the Cyber Security Masterclass, this year taking place in the old Cabinet War Rooms. The competition was founded in 2010 as a collaboration between the UK government and several prominent companies, including the defence contractor QinetiQ. The competition is open primarily to amateurs and aims to encourage more people to develop the skills necessary to join the computer security industry in the face of increasing threats to our computer networks.

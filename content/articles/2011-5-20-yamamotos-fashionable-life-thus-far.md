@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Retrospective fails to bring designer’s work to life
 date: "2011-05-20 05:48:43 +0100"
-
-# Attributes from Felix Online V1
-id: "1227"
-old_path: /arts/1227/yamamotos-fashionable-life-thus-far
+image: "http://felixonline.co.uk/img/upload/201105200648-felix-yyf_aw_2009-10027_photographed_by_monica_feudi.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1227/yamamotos-fashionable-life-thus-far
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - wsp10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105200648-felix-yyf_aw_2009-10027_photographed_by_monica_feudi.jpg"
-image_caption: ""
 ---
 
 You walk in and there is a huge hall of whiteness, just one single dazzling room, peopled throughout by the headless bodies of life-sized dolls dressed in couture clothing. Do not worry though, your £7 has got you more than just a roomful of mannequins, oh no, there is a whole audiovisual extravaganza to be had. I headed straight for the long row of TVs strung up along the wall.

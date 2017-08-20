@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Max Falkenberg follows 1927's Golem, as it makes its move from the Young Vic to the West End
 date: "2015-05-01 10:13:06 +0100"
-
-# Attributes from Felix Online V1
-id: "5484"
-old_path: /arts/5484/a-surreal-counterargument-to-capitalist-society
+image: "http://felixonline.co.uk/img/upload/201505011111-ff712-9shamira_turner_in_1927s_golem_at_the_young_vic_9_dec_2014_-_17_jan_2015._photo_by_bernhard_muller._3.jpg"
+image_caption: "Shamira Turner in 1927's Golem"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5484/a-surreal-counterargument-to-capitalist-society
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - ff712
  - mff113
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505011111-ff712-9shamira_turner_in_1927s_golem_at_the_young_vic_9_dec_2014_-_17_jan_2015._photo_by_bernhard_muller._3.jpg"
-image_caption: ""
 ---
 
 Using animation, live music, physical theatre, and stand-up comic timing, _Golem_ is less your standard play and more a cabaret spectacle. Despite a slightly weaker plot than hoped, Golem’s message about corporate greed and human idleness is poignantly addressed by its technical achievements. With stunningly beautiful visuals, an incredible soundtrack, and a remarkable attention to detail, theatre company _1927_ present a truly unforgettable psychedelic nightmare – Golem is quite simply an artistic masterpiece.

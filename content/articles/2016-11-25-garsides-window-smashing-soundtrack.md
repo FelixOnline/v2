@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Punk music, and its offshoots, has always retained a continuing theme of protest against society’s wrongs. Here are some of my favourites.
 date: "2016-11-25 14:06:46 +0000"
-
-# Attributes from Felix Online V1
-id: "6507"
-old_path: /music/6507/garsides-window-smashing-soundtrack-
+image: "http://felixonline.co.uk/img/upload/201611251402-felix-GLOSS.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6507/garsides-window-smashing-soundtrack-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -23,12 +20,6 @@ authors:
  - rg2112
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611251402-felix-GLOSS.jpg"
-image_caption: ""
 ---
 
 ## G.L.O.S.S – G.L.O.S.S (We’re from the Future)

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   There is something so intensely vigorous and exciting about Ron Howard’s Formula 1 biopic Rush. Focusing on British driver James Hunt (Hemsworth, excellent) and his rivalry with the German Niki Lauda (Brühl, a worthy opponent), here is a winning film that concentrates on having fun as well as...
 date: "2013-10-12 12:02:01 +0100"
-
-# Attributes from Felix Online V1
-id: "3843"
-old_path: /film/3843/fasten-your-seatbelts-its-going-to-be-a-bumpy-night
+image: "http://felixonline.co.uk/img/upload/201310121301-jal08-rush_film_still_a_l.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3843/fasten-your-seatbelts-its-going-to-be-a-bumpy-night
-imported: true
 comments:
  - value: >
      Squirrels are safe to eat in the summer prdevoid they look healthy. Rabbits, you'll get a lot of mixed feelings. Some say they are ok, others say don't dare. But if you're shooting rabbits in the summer they are classified as pests so there's really no harm in just throwing them in the dtich. jug of water soapplastic walmart bag (for after they are gutted and you're ready to put them in a cooler or go home. I don't think it's a good idea to put warm game in plastic)Cooler with ice if you have to drive home a wayssmall game vest or just cut a stick to poke through the anklespocket knife / pruning shears to cut the legs offsquirrel call if you have one (recomend the knight and hale)Small foam cushion for sittingchaps for rabbit huntingorange hat wouldn't hurtRun like a Deer.* ..Fly like an Eagle.*~~
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -28,12 +25,6 @@ authors:
  - jgp09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310121301-jal08-rush_film_still_a_l.jpg"
-image_caption: ""
 ---
 
 There is something so intensely vigorous and exciting about Ron Howard’s Formula 1 biopic _Rush_. Focusing on British driver James Hunt (Hemsworth, excellent) and his rivalry with the German Niki Lauda (Brühl, a worthy opponent), here is a winning film that concentrates on having fun as well as staying on course to develop its characters.

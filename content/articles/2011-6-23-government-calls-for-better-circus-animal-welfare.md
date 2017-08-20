@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Polls support ban on performing animals
 date: "2011-06-23 19:56:13 +0100"
-
-# Attributes from Felix Online V1
-id: "1417"
-old_path: /science/1417/government-calls-for-better-circus-animal-welfare
+image: "http://felixonline.co.uk/img/upload/201106232055-felix-animal-wallpapers-lion-tamer-ate-.1920x1080.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1417/government-calls-for-better-circus-animal-welfare
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - cjb07
  - kah09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106232055-felix-animal-wallpapers-lion-tamer-ate-.1920x1080.jpg"
-image_caption: ""
 ---
 
 Martin Lacey stands proudly in the centre of the big top, arms splayed, red suit barely stretching over his ample belly. His ungainly appearance is deceptive. To a roar from the crowd, he drops to his knees as a flash of white and black passes above his bald head. The lion lands with a snarl, and the audience rise to their feet, gasping with delight as it settles by Lacey’s side like a Golden Retriever. He stands and bows to rapturous applause. The show is a success.

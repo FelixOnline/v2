@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Stuart Masson reviews some of this year’s highlights that we didn’t cover at the time (sorry)
 date: "2014-05-02 01:28:27 +0100"
-
-# Attributes from Felix Online V1
-id: "4551"
-old_path: /music/4551/ams-albums-you-may-have-missed
+image: "http://felixonline.co.uk/img/upload/201405020227-jal08-stvincentalbumcover.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4551/ams-albums-you-may-have-missed
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - sm5810
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405020227-jal08-stvincentalbumcover.jpg"
-image_caption: ""
 ---
 
 __St. Vincent - St. Vincent__

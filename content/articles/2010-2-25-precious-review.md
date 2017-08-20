@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jade Hoffman takes a look at the the emotionally harrowing film Precious
 date: "2010-02-25 15:44:14 +0000"
-
-# Attributes from Felix Online V1
-id: "100"
-old_path: /film/100/precious-review
+image: "http://felixonline.co.uk/img/upload/201002251542-egk08-Precious.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/100/precious-review
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - ffilm
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002251542-egk08-Precious.jpg"
-image_caption: ""
 ---
 
 Reviewed by Jade Hoffman

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Joshua Renken gives a break down of the policy platforms for the United Kingdom's two biggest parties
 date: "2015-04-21 13:49:49 +0100"
-
-# Attributes from Felix Online V1
-id: "5467"
-old_path: /politics/5467/election-2015-labour-versus-conservative-policies
+image: "http://felixonline.co.uk/img/upload/201504211447-jr2514-c3aa5fc1-39fd-4e16-927f-ee933ce0c85f-620x372.jpeg"
+image_caption: "David Cameron and Ed Miliband have both been out campaigning in what is one of the tightest election races in UK political history"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/5467/election-2015-labour-versus-conservative-policies
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +21,6 @@ authors:
  - jr2514
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201504211447-jr2514-c3aa5fc1-39fd-4e16-927f-ee933ce0c85f-620x372.jpeg"
-image_caption: ""
 ---
 
 Regardless of the precise results of this May’s general election, only two men are in with a chance of leading the country over the next parliament: the incumbent Prime Minister David Cameron or the Leader of the Opposition Ed Miliband. In the last five years we have seen a surge in support for smaller parties including UKIP and the Greens, together with more established smaller parties such as the SNP and the Liberal Democrats, but the fact remains: Cameron or Miliband will win the keys to Downing Street. Whether it’s in a majority government, minority government or some form of coalition, Labour or the Conservatives will be leading the country.

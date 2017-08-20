@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Graduate Tax is a model of higher education funding that shockingly involves students paying a tax in line with their income after graduation.
 date: "2014-06-06 02:43:11 +0100"
-
-# Attributes from Felix Online V1
-id: "4660"
-old_path: /comment/4660/higher-education-fees-debate---graduate-tax
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4660/higher-education-fees-debate---graduate-tax
-imported: true
 comments:
  - value: >
      The number one problem I have with a graduate tax is this. <br> <br>The purpose of taxation is twofold. On one hand, it serves to fund the machines of state - civil servants must be paid, public buildings must be maintained, armies must be funded (I could go on). This requires a minimum level of taxation. On the other, it serves to redistribute wealth from those who are better off to those who are worse off. That is why various bands of tax exist. <br> <br>The logical conclusion from the latter is that it is an effective punishment for doing well in life. If we ignore the extremes - it works on the basis of "Well done, you have worked really hard and got promoted to high levels in your line of work, in return we will take a greater share of your income". You may or may not agree with that view, but there are plenty of people out there who agree. <br> <br>contd.,So, we apply that to university. You then arrive at the point of saying 'if you would like a University education, in return you will be taxed for the rest of your life
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - ml2909
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Graduate Tax is a model of higher education funding that shockingly involves students paying a tax in line with their income after graduation. Some models of graduate tax involve graduates paying a rate of tax until retirement, or for a certain number of years after graduation or until the cost of the degree is paid. For the sake of distinguishing this from a simple rebrand of our current model, I’ll argue for a rate of taxation until retirement to be sporting.

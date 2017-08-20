@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Imperial College Cross Country places 3rd in the women's race and 4th in men's.
 date: "2015-02-12 22:34:17 +0000"
-
-# Attributes from Felix Online V1
-id: "5241"
-old_path: /sport/5241/imperial-host-hyde-park-relays
+image: "http://felixonline.co.uk/img/upload/201502122227-jyg11-startline.jpg"
+image_caption: "The start line of the men's race"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5241/imperial-host-hyde-park-relays
-imported: true
 comments:
  - value: >
      Hey very cool blog!! Man .. Beautiful .. Amazing .. I will bookmark your blog and take the feeds additionally? I'm happy to find so many helpful info here in the publish, we'd like develop more strategies on this regard, thanks for sharing. . . . . . <br>damesjas moncler 2015 gratis http://www.webenco.nl/?nl-damesjas-moncler-2015-gratis-14870.html,Wow, beautiful site. Thnx ...| <br>cs go skins free http://poppysally.bcz.com/2016/03/29/nba-2k16-coins-activities-games-for-almost-a-decade/
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +26,6 @@ authors:
  - md2610
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502122227-jyg11-startline.jpg"
-image_caption: ""
 ---
 
 On Saturday 7th February, more than 600 runners from universities across the UK, the Netherlands and Poland took part in the Hyde Park Relays, hosted by Imperial College Cross Country and Athletics Club. Teams comprised of 6 men or 4 women each running a lap of the 5 km course, beginning by the Serpentine and looping clockwise up to Marble Arch and returning to the bandstand.

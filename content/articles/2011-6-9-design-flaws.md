@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Stpryasfipjadf
 date: "2011-06-09 18:13:54 +0100"
-
-# Attributes from Felix Online V1
-id: "1330"
-old_path: /phoenix/1330/design-flaws
+image: "http://felixonline.co.uk/img/upload/201106091910-felix-rocio-molina-(double-face)2.jpg"
+image_caption: "Rocio Molina"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/1330/design-flaws
-imported: true
 comments:
  - value: >
      I haven't been tracking this year, but last year I eeerntd every single food receipt into a spreadsheet so that I could track what we were spending. When I included our summer CSA box (~$20/wk; Gathering Together Farm), the cost of a quarter cow (local, happy cow!), and alcohol (not much), we spent about $500/wk on food. We eat mostly organic and local as much as we can, so our cost was inflated by shopping at First-Alt and perhaps somewhat by the farmer's market (although I tend to weight that by lower medical costs we will have in the long run). Our costs now are only inflated by the extra calories that I am eating while nursing, which isn't much. $500 sounds like a lot, but when I posted about it on Facebook last year, I got a lot of comments from friends in CA that they were spending way more on food that wasn't as fresh or as good. If you are spending $450 for your family, you are doing really well and not overspending (IMHO). As far as I am concerned, spending money on good quality food is one of the be
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106091910-felix-rocio-molina-(double-face)2.jpg"
-image_caption: ""
 ---
 
 When they said that you see a bright light when you die, you did not realise that it was actually a 60 watt desk-lamp.

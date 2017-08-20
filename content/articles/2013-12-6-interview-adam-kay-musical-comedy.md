@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Jonathan Pratt speaks to Adam KAy about music, Imperial and medicine: The deadly combination.
 date: "2013-12-06 03:52:36 +0000"
-
-# Attributes from Felix Online V1
-id: "4181"
-old_path: /features/4181/interview-adam-kay-musical-comedy
+image: "http://felixonline.co.uk/img/upload/201312060352-jal08-feat_adam-kay-1---photocredit-idil-sukan-for-draw-hq.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4181/interview-adam-kay-musical-comedy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -25,12 +22,6 @@ authors:
  - jp1910
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201312060352-jal08-feat_adam-kay-1---photocredit-idil-sukan-for-draw-hq.jpg"
-image_caption: ""
 ---
 
 This week Felix interviews Adam Kay, the frontman of Amateur Transplants and an ex-Imperial Medical student. If you’re not sure who that is, look up the London Underground song on YouTube and send us a letter of thanks.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Why break up the Union? Is it simply national pride or something more?
 date: "2011-05-20 05:55:48 +0100"
-
-# Attributes from Felix Online V1
-id: "1232"
-old_path: /comment/1232/national-pride-and-prejudice
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1232/national-pride-and-prejudice
-imported: true
 comments:
  - value: >
      You're the gaetrest! JMHO,lkXE7A <a href="http://wittzokvyvwc.com/">wittzokvyvwc</a>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I like England. No really, I do. But it is not something I would readily admit to as a Scotsman living ‘abroad’.

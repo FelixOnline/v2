@@ -4,16 +4,13 @@ title: >
 subtitle: >
   felix has your back just in case you can’t find a space in the library to study and you’re forced to stay home a.k.a no more library cafe food for you
 date: "2017-01-13 14:58:24 +0000"
-
-# Attributes from Felix Online V1
-id: "6650"
-old_path: /food/6650/basic-food-for-basic-students-youre-basic
+image: "http://felixonline.co.uk/img/upload/201701131511-felix-7885846128_19f61ed706_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6650/basic-food-for-basic-students-youre-basic
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -23,12 +20,6 @@ authors:
  - aib116
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201701131511-felix-7885846128_19f61ed706_o.jpg"
-image_caption: ""
 ---
 
 For many of us, it’s revision week time! Yay!! Can you feel the enthusiasm? I can feel it all around campus – especially in the library late at night or when I see some girl crying in the bathroom; I’m not saying that men do not cry in the bathroom, but I for one cannot see them – the perks of using the ‘ladies room’.

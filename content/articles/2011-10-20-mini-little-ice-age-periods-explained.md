@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Luke Sheldon reports on the link between solar cycles and severe winters
 date: "2011-10-20 21:16:29 +0100"
-
-# Attributes from Felix Online V1
-id: "1562"
-old_path: /science/1562/mini-little-ice-age-periods-explained-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1562/mini-little-ice-age-periods-explained-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - fsci
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 During the 17th and 18th centuries, Europe and North America experienced much severer winters than we do now – people could frequently walk or even skate across a frozen Thames. This period is called the Little Ice Age, though unlike true ice ages, it had its origins in the waning strength of our sun and it was only experienced in isolated regions with a minor global temperature change. Whereas the millennial changes in the sun were responsible for this period, a team of scientists from the Met Office, Oxford and Imperial have attributed current cool winters to the smaller 11 year solar cycle.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Their versatility is a result of the onboard machinery
 date: "2016-05-27 08:56:41 +0100"
-
-# Attributes from Felix Online V1
-id: "6212"
-old_path: /science/6212/drones-evolve-from-killing-to-rebuilding-
+image: "http://felixonline.co.uk/img/upload/201605271056-felix-1280px-MQ-9_Reaper_in_flight_(2007).jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6212/drones-evolve-from-killing-to-rebuilding-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - gb915
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605271056-felix-1280px-MQ-9_Reaper_in_flight_(2007).jpg"
-image_caption: ""
 ---
 
 It is the 17th March 2011 and there is a distant humming from the sky over the Waziristan mountains, on the border between Pakistan and Afghanistan. Is it a bird? Is it a plane? No, it is an unmanned aerial vehicle (a drone to you and me) that is about to fire three missiles into a community meeting.

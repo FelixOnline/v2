@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Hammersmith, Charing Cross, Central Middlesex and Ealing hospital A&E Departments set to close. ‘U-Turn’ shown to be false. No A&E Departments for the boroughs of Hammersmith, Ealing and Brent. Petition with 100,000 signatures ignored. Changes will take 3-5 years to implement.
 date: "2013-02-22 00:09:59 +0000"
-
-# Attributes from Felix Online V1
-id: "3353"
-old_path: /news/3353/ae-department-closures-announced
+image: "http://felixonline.co.uk/img/upload/201302220006-tna08-charing-cross-medium-square.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3353/ae-department-closures-announced
-imported: true
 comments:
  - value: >
      Why wouldn't Imperial NHS Trust approve this move. It means we get worse emergency health care and Imperial gets to pay off all its debts with the land sale. Everybody wins! Oh wait...
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302220006-tna08-charing-cross-medium-square.jpg"
-image_caption: ""
 ---
 
 [The hope that the Charing Cross A&E department was to be saved has been overturned after the official meeting was held on February 19](http://www.bbc.co.uk/news/uk-england-london-18534889). This comes after speculation that the A&E department was going to remain open as a smaller A&E.

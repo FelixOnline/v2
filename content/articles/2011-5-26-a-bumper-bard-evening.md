@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The entirety of Shakespeare’s works in two hours in a low budget pub setting? Count us in!
 date: "2011-05-26 23:49:58 +0100"
-
-# Attributes from Felix Online V1
-id: "1270"
-old_path: /arts/1270/a-bumper-bard-evening
+image: "http://felixonline.co.uk/img/upload/201105270049-felix-portraits-of-shakespeare-001.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1270/a-bumper-bard-evening
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - rm1509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105270049-felix-portraits-of-shakespeare-001.jpg"
-image_caption: ""
 ---
 
 Maybe you’ve had your fair share of proper Shakespeare, maybe you’ve already seen more than you want to, maybe you just like the idea of efficiency in getting through all of Shakespeare’s work in two hours. Well, you might just find this show appealing. A fun romp through famous plays and their derivatives, it achieves well what it sets out to do and certainly makes for a pleasant evening out.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   KPMG are sponsoring a big data suite that will visualise data for businesses, scientists and students
 date: "2015-11-13 14:21:41 +0000"
-
-# Attributes from Felix Online V1
-id: "5720"
-old_path: /news/5720/new-observatory-keeps-any-eye-on-big-data
+image: "http://felixonline.co.uk/img/upload/201511131421-ygr12-observatory.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5720/new-observatory-keeps-any-eye-on-big-data
-imported: true
 comments:
  - value: >
      I intended to put you this bit of observation to finally thank you over again for the pleasant things you've discussed at this time. It has been quite strangely open-handed with people like you to give easily all some people could possibly have marketed as an e-book in making some dough for their own end, principally now that you might have done it if you ever wanted. Those basics likewise served as the great way to understand that other people online have a similar interest really like my personal own to realize a little more around this condition. I'm sure there are several more pleasurable times up front for folks who read through your blog post. <br>wholesale winter hats http://www.twofangtu.cn/beanie-hats,Passion the website-- really individual pleasant and whole lots to see!| <br>nba 2k16 mt cheat http://forums.trinityhome.org/viewtopic.php?f=15&amp;t=19356&amp;p=27432#p27432,http://buy-pillsviagra.org/ - buy-pillsviagra.org.ankor priceslevitra-generic.com.ankor http://onlinewithoutprescriptionpropecia.net/,http://bu
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201511131421-ygr12-observatory.jpg"
-image_caption: ""
 ---
 
 Last week, the KPMG Data Observatory was launched as part of Imperial’s Data Science Institute. The purpose of the observatory is to enable the analysis and visualisation of data, particularly useful for large corporations that collect massive amounts of it.

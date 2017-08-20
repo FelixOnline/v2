@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Philippa Skett reports as voting opens for new Woodward bar
 date: "2015-06-11 22:17:15 +0100"
-
-# Attributes from Felix Online V1
-id: "5613"
-old_path: /news/5613/students-given-chance-to-name-new-bar
+image: "http://felixonline.co.uk/img/upload/201506112316-cj914-ri_victoria_rd_bar_c01a.jpg"
+image_caption: "An artist’s impression of the new bar, and you have a chance to help decide its name."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5613/students-given-chance-to-name-new-bar
-imported: true
 comments:
  - value: >
      What's with Philippa Skett's lust for / obsession with Chris Kaye? It's getting really creepy now. Also, he doesn't deserve the £35,000 or so that the Union's going to have spent on him, let alone have a bar named in his honour. Perhaps I'll change my mind if he proves to be capable of doing more in one year than sending a single email asking for tampons to be sold at cost-price (and I'll be damned if he came up with that idea himself). I refuse to buy the Kool-aid (Kaye-laid?) distributed by Skett. The man isn't a feminist welfare hero, he's a sexist waste of money. Thankfully he's been too useless to propose the removal of his own job, as he suggested he'd do last year.,Hey Alice, <br> <br>Thanks for trying. Sadly you'll never be as much of BNOC as Chris. <br> <br>Woodward Bar is never going to be called Edwards. Suck it up. <br> <br>P.s. you don't even go here.,still think 'world's end' is the best name,birkenstock sandals sale <br>buy birkenstocks http://birkenstockaustralia.blogspot.com/,christian loubiton <br>christian loubo
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506112316-cj914-ri_victoria_rd_bar_c01a.jpg"
-image_caption: ""
 ---
 
 Imperial College Union are running a poll to name the new student bar out in Acton, located on the site of the new Woodward hall.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Pinpointing the causes of the messaging service crash
 date: "2011-10-20 21:25:19 +0100"
-
-# Attributes from Felix Online V1
-id: "1563"
-old_path: /tech/1563/the-blackberry-crumble
+image: "http://felixonline.co.uk/img/upload/201110202224-felix-blackberry_logo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/1563/the-blackberry-crumble
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -24,12 +21,6 @@ authors:
  - cb908
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110202224-felix-blackberry_logo.jpg"
-image_caption: ""
 ---
 
 As I’m sure many of you know, [Research In Motion](http://www.rim.com/) last week suffered its biggest ever service disruption, with millions of customers across the globe affected. Users lost access to push email, BlackBerry Messenger, Facebook and Twitter applications, and even in some cases their internet access. For a company that built its reputation on many of those features, and indeed, the stability and reliability of those services, I’m sure it’s a week the executives would rather forget.

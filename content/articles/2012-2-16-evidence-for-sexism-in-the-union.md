@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Kelly Osborne and Marissa Lewis discuss the Union's refusal to approve a proposed Gender Equality Society
 date: "2012-02-16 22:25:16 +0000"
-
-# Attributes from Felix Online V1
-id: "2213"
-old_path: /comment/2213/evidence-for-sexism-in-the-union
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2213/evidence-for-sexism-in-the-union
-imported: true
 comments:
  - value: >
      Agree Imperial could do with a women's rights society? Sign the petition here: http://www.ipetitions.com/petition/icwrs,Agree Imperial could do with a women's rights society? Sign the petition here: http://www.ipetitions.com/petition/icwrs,I'm sorry you feel that way, maybe some clarification is needed? I don't see how the article ridiculed male rape at all, especially as the only comment we made about it was that it happens and was 'every bit as awful' as female rape. All we were doing was pointing out that it isn't an example of gender inequality (for the reasons above). The line 'what about teh menz?' is referring to the fact that if you try to have a conversation about anything that mainly affects women (rape, domestic abuse, sexual harassment, etc), people inevitably bring up that these issues can affect men too as if that makes your point invalid. It isn't saying 'men can experience this too, aren't we all connected by shared suffering? Let's all band together to stop it'; it's saying 'men can experienc
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Inequality irritates me, particularly as it is so prevalent within our society. Women are oppressed on many different levels; here at Imperial the most recent evidence for this is the refusal by the NCC (New Clubs Committee) of a Gender Equality Society. The reasoning of the Union is as follows: we don’t need another women’s society as we have WSET and a Gender Equality Officer. Our attempts to set up this society were instead relegated to ‘campaign’ status within the Union, which, although no one seems to know what this is, seems fair enough on the face of it all. The problem is that this comes at a time when Felix is in trouble with the _Telegraph_ for joking about Rohypnol and others have pointed out how anti-feminist the only Women’s society at Imperial is (see last week’s Felix). There seems to be no time like the present for a feminist or women’s rights group at the Union. Pity those in power disagree.

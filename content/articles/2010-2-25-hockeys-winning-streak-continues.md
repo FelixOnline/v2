@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial College Women's 2nd XI 14 - 0 St Bart's Womens 2nd XI
 date: "2010-02-25 18:37:28 +0000"
-
-# Attributes from Felix Online V1
-id: "102"
-old_path: /sport/102/hockeys-winning-streak-continues
+image: "http://felixonline.co.uk/img/upload/201002251831-mb506-LadiesHo.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/102/hockeys-winning-streak-continues
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - mb506
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201002251831-mb506-LadiesHo.jpg"
-image_caption: ""
 ---
 
 Having trekked from one end of London to what seemed like the Far East, IC ladies 2s arrived at Redbridge Sports Centre in Essex ready to take on St Bart’s, only to find out that the hockey astro had been taken over by some hockey players of the miniature variety, who were playing a nice little tournament.

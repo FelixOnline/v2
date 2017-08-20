@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The Jazz Café, 5th November 2010
 date: "2010-12-02 21:04:47 +0000"
-
-# Attributes from Felix Online V1
-id: "485"
-old_path: /music/485/botown-bring-the-bollywood-funk
+image: "http://felixonline.co.uk/img/upload/201012022102-ac1507-Botown.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/485/botown-bring-the-bollywood-funk
-imported: true
 comments:
  - value: >
      Excellent article that prompted me to find out more about this great group and listen to them on youtube. I won't disclose my age but lets say I had all the original songs when they were released and now listening to the same songs with a twist of sax and jazz made it all very exciting. Balwant,Nice one Rishi. This is so koool! I am glad that the younger generation can bring the golden oldies back to life in a modern mixture combined with Jazz. As for India - I think it will be a great hit; they mix all their new hits with a western flavour. I'll check out Rekha's voiice later.,Hey Rishi - can you get me their contact details and I'll invite them to City. As for the article you're not only a scientist but a journalist toooo!! Well done - looking forward to the next review. Asha ,Nice review. I also went to see these guys at the Jazz Cafe after seeing them on TV. Absolutely loved it, amazing evening! It's so refreshing to see a live band that can play well. Great, vocals, sexy sax, and cool bass as well as the
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +23,6 @@ authors:
  - rm1709
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022102-ac1507-Botown.jpg"
-image_caption: ""
 ---
 
 A week ago I unexpectedly stumbled across [Botown](http://www.botown.co.uk/), a band promising reborn Bollywood grooves with a funk soul twist. I’ve never considered placing these music genres together, especially as their roots lie half way around the world, but the prospect of a night in the Jazz Café with a new take on funk and soul was something I couldn’t pass on.

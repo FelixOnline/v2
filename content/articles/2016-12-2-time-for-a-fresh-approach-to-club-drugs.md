@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The success of the #saveourculture campaign has led to the reopening of fabric, but has an opportunity been missed to rationalise the approach to drug-related harm in clubs?
 date: "2016-12-02 14:48:37 +0000"
-
-# Attributes from Felix Online V1
-id: "6533"
-old_path: /music/6533/time-for-a-fresh-approach-to-club-drugs
+image: "http://felixonline.co.uk/img/upload/201612021448-felix-1231440162_87964caa18_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/6533/time-for-a-fresh-approach-to-club-drugs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - theofarah13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201612021448-felix-1231440162_87964caa18_o.jpg"
-image_caption: ""
 ---
 
 Last week it was announced that fabric would be reopening “soon”, along with an extensive new licensing agreement. Particularly salient for students in London is the new block on under 19s from entering on club nights and the lifetime bans for those found with drugs on them or attempting to purchase drugs within the club. The recent saga of closure, #saveourculture campaign, and reopening was triggered by the deaths of two 18-year-olds (in separate incidents) at the club over the summer. In light of this, while I’m ecstatic that one of London’s top dance venues is reopening its doors, I can’t help but feel that both the club and the council missed an opportunity to champion a more logical approach to club drug use. Clearly everyone has agreed that stopping deaths at the club is the priority, but how much are the new measures really going to help?

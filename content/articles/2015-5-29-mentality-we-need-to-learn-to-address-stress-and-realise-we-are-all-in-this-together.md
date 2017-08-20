@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Beth shares her thoughts on the survey results
 date: "2015-05-29 00:58:24 +0100"
-
-# Attributes from Felix Online V1
-id: "5576"
-old_path: /news/5576/mentality-we-need-to-learn-to-address-stress-and-realise-we-are-all-in-this-together-
+image: "http://felixonline.co.uk/img/upload/201505290158-ps3110-mentality-report.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5576/mentality-we-need-to-learn-to-address-stress-and-realise-we-are-all-in-this-together-
-imported: true
 comments:
  - value: >
      Appreciate the recommendation. Will try it out. <br>ugg chocolate http://test.negrifirman.com/?it-ugg-chocolate-4862.html,This post offers clear idea in support of the new viewers of blogging, that actually how to do running a blog. <br>canada goose drenthe instagram http://www.somar.nl/?nl-canada-goose-drenthe-instagram-6135.html,fitflops on sale <br>fitflops sale australia http://australiafitflops.iemiller.net/,fitflops in stores <br>fitflop cheap http://australiafitflops.blogspot.com/,birkenstock outlet <br>birkenstock sandals clearance http://birkenstockaustraliamalls.com/,christian louboutin bridal <br>christian louboutin shoes http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin rolando <br>christian louboutin canada outlet http://christianlouboutincanadaoutlet.blogspot.com/,louboutin rolando shoes sale <br>christian louboutin shoes sale http://canadachristianlouboutin.blogspot.com/,christian louboutin instagram <br>christian louboutin sale http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505290158-ps3110-mentality-report.jpg"
-image_caption: ""
 ---
 
 Mentality was started as a campaign this year, run by a group of students and lead by Bethany Davison, a second year physics student.

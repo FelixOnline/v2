@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The best (roti) tissue you’ll find in London
 date: "2010-12-02 20:58:48 +0000"
-
-# Attributes from Felix Online V1
-id: "482"
-old_path: /food/482/awana-malaysias-pride
+image: "http://felixonline.co.uk/img/upload/201012022056-nm1010-awanaawa.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/482/awana-malaysias-pride
-imported: true
 comments:
  - value: >
      I simply wenatd to compose a word to be able to express gratitude to you for those nice tips and hints you are giving out at this website. My time intensive internet lookup has at the end of the day been compensated with extremely good suggestions to share with my partners. I would tell you that most of us website visitors actually are undoubtedly blessed to exist in a fabulous community with so many wonderful individuals with beneficial concepts. I feel rather lucky to have encountered your webpage and look forward to really more fabulous minutes reading here. Thanks once again for everything.,有空常来踩踩哦 @nora: Thank you, for the encouragement and the <a href="http://kfqtrhm.com">freihdsnip</a>. :-) @Kenny, lisa, Claudia, doggybloggy, girlichef, Pavithra, Rebecca, TasteHongKong, Parita, The Little Teochew, 5 Star Foodie: you guys are so kind!!!!@Cookin' Canuck: yes, I think the satay could go with almost all the ingredients. :-) @Katy: oh really? So does that mean that you can't eat seafood at al
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -26,12 +23,6 @@ authors:
  - dhl106
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022056-nm1010-awanaawa.jpg"
-image_caption: ""
 ---
 
 People tell me a job as a food critic would get boring. Good food, VIP treatment and food babies (don’t pretend like you don’t know what I mean) – it’s a hard life, isn’t it?

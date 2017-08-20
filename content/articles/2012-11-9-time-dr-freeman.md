@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Josh Price sees the Schrodinger in a game? Oh dear, quantum mechanics is taking over...
 date: "2012-11-09 16:33:49 +0000"
-
-# Attributes from Felix Online V1
-id: "2879"
-old_path: /games/2879/time-dr-freeman
+image: "http://felixonline.co.uk/img/upload/201211091633-tna08-blackmesa_logo_hd.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/2879/time-dr-freeman
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - jjp10
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091633-tna08-blackmesa_logo_hd.jpg"
-image_caption: ""
 ---
 
 “Shouldn’t you have been in the test chamber half an hour ago?” asks the scientist standing next to me. Quite possibly – I’ve been running around this lobby for the past 20 minutes just trying to see if I recognise any of the equations on the whiteboards. Between the unresolvable scribbles, I think I might just have seen the Schrödinger equation!

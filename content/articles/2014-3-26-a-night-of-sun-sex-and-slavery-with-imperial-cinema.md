@@ -4,16 +4,13 @@ title: >
 subtitle: >
   It’s amazing how things happen and time passes without you realising it. For some of you reading this, the upcoming Spring All-Nighter could very well be your last. This could be your final chance to sit in a crowded room and spend an evening, a night and part of a morning watching some of the...
 date: "2014-03-26 13:50:56 +0000"
-
-# Attributes from Felix Online V1
-id: "4505"
-old_path: /features/4505/a-night-of-sun-sex-and-slavery-with-imperial-cinema
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/4505/a-night-of-sun-sex-and-slavery-with-imperial-cinema
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It’s amazing how things happen and time passes without you realising it. For some of you reading this, the upcoming Spring All-Nighter could very well be your last. This could be your final chance to sit in a crowded room and spend an evening, a night and part of a morning watching some of the best films that the last few months have had to offer. To those I say, what are you waiting for? This is something that you will not be able to experience for the rest of your life while you slog away in a lab (or in an office, if you sell out). Make sure you buy a ticket, grab some friends and make your way to the second floor of the Union. To those who aren’t in their final year, I say pretty much the same thing. If you’ve been before, then make it a tradition. If you haven’t, then you might as well come and give it a try.

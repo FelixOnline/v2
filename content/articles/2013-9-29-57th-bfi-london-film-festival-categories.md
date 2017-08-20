@@ -4,18 +4,15 @@ title: >
 subtitle: >
   John Park looks at the top film nominations in each category at the London Film Festival
 date: "2013-09-29 15:55:06 +0100"
-
-# Attributes from Felix Online V1
-id: "3783"
-old_path: /film/3783/57th-bfi-london-film-festival-categories
+image: "http://felixonline.co.uk/img/upload/201309291653-jal08-lff-2013-small-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3783/57th-bfi-london-film-festival-categories
-imported: true
 comments:
  - value: >
      I wish . . . it would be more productive than what I did do. The blood bank tech misesd and infiltrated the vein, which meant I had a rinseback failure, so now I'm out for eight weeks instead of two rinseback failures are treated like whole-blood draws under their protocol.Instead, I'm sitting at Epoch coffee house and trying to make sense of the last six or seven months of bills that I didn't keep track of at the time I paid them. Which, for me, is worse than a case of the itch.,I went to tons of links before this, what was I <a href="http://oxmixaoxjcm.com">thginink?</a>, avoiding diary viagra for sale cell wall counterparts favor getting
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309291653-jal08-lff-2013-small-1.jpg"
-image_caption: ""
 ---
 
 ####  LOVE

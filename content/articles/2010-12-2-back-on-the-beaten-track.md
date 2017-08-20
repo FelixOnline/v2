@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Because there’s only so much self-discovery and figurative bridge-building you can handle before you’re in desperate need of a well-deserved heroin cookie
 date: "2010-12-02 20:26:19 +0000"
-
-# Attributes from Felix Online V1
-id: "470"
-old_path: /travel/470/back-on-the-beaten-track
+image: "http://felixonline.co.uk/img/upload/201012022023-ac1507-Looky.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/470/back-on-the-beaten-track
-imported: true
 comments:
  - value: >
      Ha', I somehow fogort about your foot-injury. Well, since I fixed it up, I guess that drunk Chris hasn't fogortten his first aid I do remember us both drinking a lot of local whiskey though. Good times But yeah, it sure is something that I will encourage everybody to try at least once in their life. We ought to have a Tubing-reunion , but maybe just create or own mayhem somewhere in England. I'm suggesting London, Bolton or pretty much just anywhere with whiskey and you guys
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -27,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022023-ac1507-Looky.jpg"
-image_caption: ""
 ---
 
 This heavily travelled part of the world offers great variety in the potential circuits suited to the varied tastes of the people you meet out there: if you want to stay well off the track it’s more than easy to do so, or you can hop on and off the track as and when you please, as I did. Some people prefer the somewhat more reductionist ‘circuit’, bouncing between Thailand’s infamous full moon parties on Koh Phangan and tubing in Laos’ Vang Vieng.

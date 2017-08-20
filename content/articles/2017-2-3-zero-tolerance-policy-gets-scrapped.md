@@ -4,16 +4,13 @@ title: >
 subtitle: >
   You spoke the Union listened
 date: "2017-02-03 15:04:11 +0000"
-
-# Attributes from Felix Online V1
-id: "6708"
-old_path: /news/6708/zero-tolerance-policy-gets-scrapped
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6708/zero-tolerance-policy-gets-scrapped
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - mattrego
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Last Tuesday, during Union Council, Student Deputy President of Education, Luke McCrone announced a repeal to the university’s zero-tolerance late submission policy.

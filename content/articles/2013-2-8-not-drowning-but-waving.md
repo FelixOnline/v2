@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Football tackles Canterbury on less than ideal terrain, with mixed results...
 date: "2013-02-08 00:14:17 +0000"
-
-# Attributes from Felix Online V1
-id: "3268"
-old_path: /sport/3268/not-drowning-but-waving
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3268/not-drowning-but-waving
-imported: true
 comments:
  - value: >
      Once upon a time there was a tavernWhere we used to raise a glass or twoRemember how we lgaehud away the hoursAnd dreamed of all the great things we would do CHORUS:Those were the days my friendWe thought they'd never endWe'd sing and dance forever and a dayWe'd live the life we chooseWe'd fight and never loseFor we were young and sure to have our way. La, la, la, la...Those were the days, oh yes those were the daysThen the busy years went rushing by usWe lost our starry notions on the wayIf by chance I'd see you in the tavernWe'd smile at one another and we'd say CHORUSJust tonight I stood before the tavernNothing seemed the way it used to beIn the glass I saw a strange reflectionWas that lonely woman really me?CHORUSThrough the door there came familiar laughterI saw your face and heard you call my nameOh my friend we're older but no wiserFor in our hearts the dreams are still the same CHORUS(Mary Hopkins, "Those were the days")
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -29,12 +26,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A depleted ICUAFC 1s team made the long journey down to Canterbury for the second time this season; a trek so long that Frodo and Sam would have called it quits once they had inevitably run out of lembas bread. Amjad, Wedemeyer and Cherif Jnr were notable absentees, and with Murphy (Imperial’s resident wildlife expert) in the Library and captain Woodhead out with a broken nail, the team had a fresh new look to it. Thomas and Dabbagh were called up from the 2s to make their first appearances for the 1s this season, whilst new recruit Jones was looking to impress. Imperial started the day top of the BUCS league on 9 points from a possible 12, with Canterbury in joint 2nd, making at least a draw imperative. Minds wandered back to 2 months before where a defensive masterclass allowed Imperial to advance to the 3rd round of the BUCS cup on penalties, something that Canterbury were sure to remember.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Union and Committee respond to proposed floor plans – panel to be held next week
 date: "2012-02-09 22:43:16 +0000"
-
-# Attributes from Felix Online V1
-id: "2158"
-old_path: /news/2158/holland-club-change-on-the-cards-
+image: "http://felixonline.co.uk/img/upload/201202092239-felix-hollandclub-4475.jpg"
+image_caption: "The Holland Club is named after Sir Thomas Holland, former Rector of Imperial College"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2158/holland-club-change-on-the-cards-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202092239-felix-hollandclub-4475.jpg"
-image_caption: ""
 ---
 
 Potential plans for a proposed renovation of [the Holland Club](http://felixonline.co.uk/news/1972/staff-and-students-rally-around-holland-club-campaign/) have been provided as part of the area’s ongoing feasibility study this week. The Holland Club Committee has voiced its disapproval over what it considers to be a lack of communication from those in charge of the study, while Imperial College Union President Scott Heath has stated his desire to consider the views of students under any potential changes to the set-up and running of the establishment.

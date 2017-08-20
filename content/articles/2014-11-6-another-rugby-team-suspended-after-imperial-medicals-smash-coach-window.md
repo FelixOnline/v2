@@ -4,18 +4,16 @@ title: >
 subtitle: >
   £5000 or more to be paid for repairs to a Coach after Rugby player smashes a window whilst on Tour
 date: "2014-11-06 22:12:45 +0000"
-
-# Attributes from Felix Online V1
-id: "4812"
-old_path: /news/4812/another-rugby-team-suspended-after-imperial-medicals-smash-coach-window
+image: "http://felixonline.co.uk/img/upload/201411062211-snb11-s2010008-copy.jpg"
+image_caption: "The window was smashed from the inside, allegedly with an emergency hammer."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4812/another-rugby-team-suspended-after-imperial-medicals-smash-coach-window
-imported: true
 comments:
  - value: >
      Cool internet site you have got in here.| <br>csgo skins drop rate https://www.churchblaze.com/blogs/2623/13567/cs-go-skins-looking-or-sniffling-at-your-ex-lover,Exceptionally individual pleasant site. Astounding info readily available on couple of clicks on <br>FIFA 17 POINTS http://www.fauna.sk/viewtopic.php?f=61&amp;t=21229&amp;sid=94ffe891f46ff7d36e076f6884d2ae98,Exceptionally user friendly website. Huge info available on couple of clicks <br>nba 2k17 http://www.erodateworld.eu/index.php?m=member_blog&amp;p=view&amp;id=524&amp;sid=426
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - snb11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411062211-snb11-s2010008-copy.jpg"
-image_caption: ""
 ---
 
 Medic rugby players have been suspended pending investigation after smashing a window in a moving coach.

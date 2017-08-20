@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The President and Rector bestowed Imperial College's first Regius Professorship on Professor Chris Toumazou.
 date: "2013-10-24 23:29:59 +0100"
-
-# Attributes from Felix Online V1
-id: "3908"
-old_path: /news/3908/imperial-names-first-regius-professor-
+image: "http://felixonline.co.uk/img/upload/201310250028-felix-prof_tomz_imperial.jpeg"
+image_caption: "Regius Professor of Enginering, Professor Toumazou"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3908/imperial-names-first-regius-professor-
-imported: true
 comments:
  - value: >
      This is a test comment for Akismet.,This is also a test comment,Finally this should work.,Ah!,Welcome back.I recall a leuctrer at university pointing out how much more plausible and sophisticated was the understanding of Pythagoreanism shewn by the Church Fathers, than that shewn by rationalistic philosophers. The explanations of the latter (e.g. on the Pythagoreans' famous abstention from beans) were shallow and fatuous.The Fathers' analysis may or may not have been correct, but they were at least able to engage theologically with the beliefs and practices they were critiquing and treat them seriously.A subversive point, as the modern presumption was to trust the ancient philosophers (congenial rationalists) against than the Fathers (superstitious old fools who would naturally be so biased against pagan belief systems that they wouldn't be able to do them justice).Doubly subversive, as casting doubt in turn on modern rationalists (and thus supporting the point Lewis/Sarah Foot/you make).,Welcome. You have
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - nm708
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250028-felix-prof_tomz_imperial.jpeg"
-image_caption: ""
 ---
 
 Imperial conferred its first Regius Professorship on Professor Chris Toumazou on Commemoration day for undergraduate students on 23 October.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Underwater hockey - a fast paced sport invented in the 50s
 date: "2012-03-15 21:23:30 +0000"
-
-# Attributes from Felix Online V1
-id: "2381"
-old_path: /news/2381/underwater-hockey-make-progress-at-nationals
+image: "http://felixonline.co.uk/img/upload/201203152123-ig711-imperial1.jpg"
+image_caption: "Because ‘Diving for Lead’ just isn’t as catchy"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2381/underwater-hockey-make-progress-at-nationals
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - ig711
  - rd1810
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152123-ig711-imperial1.jpg"
-image_caption: ""
 ---
 
 Imperial’s Underwater Hockey team played their first ever University Nationals tournament last month in Coventry, finishing 7th out of 18 universities.

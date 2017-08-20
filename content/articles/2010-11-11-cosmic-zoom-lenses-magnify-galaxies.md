@@ -4,16 +4,13 @@ title: >
 subtitle: >
   What exactly are gravitational lenses and how do they work?
 date: "2010-11-11 20:58:10 +0000"
-
-# Attributes from Felix Online V1
-id: "348"
-old_path: /science/348/cosmic-zoom-lenses-magnify-galaxies
+image: "http://felixonline.co.uk/img/upload/201011112056-ks607-lensingl.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/348/cosmic-zoom-lenses-magnify-galaxies
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - mjl07
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011112056-ks607-lensingl.jpg"
-image_caption: ""
 ---
 
 The detection of gravitational lenses, which are essentially magnifying glasses of a cosmic scale, is harder than you would think. The identification process has hitherto been time-intensive, but a new technique developed in part by researchers at Imperial has proved hugely successful. Experiments at the Hershel Space Observatory detected the bright infra-red light signals irradiated by dusty star-forming galaxies that had been gravitationally lensed. The location of the nearby galaxy acting as the lens could then be narrowed down. This targeted search is far more effective than performing a blind search across the cosmos, as previously done.

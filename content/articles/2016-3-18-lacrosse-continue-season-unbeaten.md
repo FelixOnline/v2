@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The first team came top of the league
 date: "2016-03-18 12:06:46 +0000"
-
-# Attributes from Felix Online V1
-id: "6077"
-old_path: /sport/6077/lacrosse-continue-season-unbeaten
+image: "http://felixonline.co.uk/img/upload/201603181206-felix-image4.JPG"
+image_caption: "They’re an unstoppable force."
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/6077/lacrosse-continue-season-unbeaten
-imported: true
 comments:
  - value: >
      I have no idea what you have said <br>mt 2k16 ps4 sale http://www.nba2k16store.com/nba-2k16/PS4-2199,youre looking sharp! <br>nba2k16store.com http://webhiveteam.com/demo4_chameleon/blogs/1674/16562/badges-trophy-list-of-nba-2k16,You are so cute. <br>buy fifa coins http://msnho.com/blog/supodum/fifa-17-come-us-new-story-mode,You did a good job . <br>albion silver http://albiononline.gratisblog.biz/2016/05/26/whats-the-best-way-to-get-silver-in-albion-online/
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -26,12 +24,6 @@ authors:
  - sb4213
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201603181206-felix-image4.JPG"
-image_caption: ""
 ---
 
 Finishing top of the league with a goal difference of 199, the undefeated Imperial Ladies Lacrosse 1st team are having a phenomenal season.

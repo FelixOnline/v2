@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Ben Fernando interviews Michele Dougherty FRS, principal investigator on the Cassini spacecraft orbiting Saturn
 date: "2014-12-11 20:32:24 +0000"
-
-# Attributes from Felix Online V1
-id: "5028"
-old_path: /science/5028/a-decade-of-discovery
+image: "http://felixonline.co.uk/img/upload/201412112032-cj914-cassini-2.jpg"
+image_caption: "In the 10 years Cassini has been in orbit around Saturn, its data has revolutionised our understandi"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5028/a-decade-of-discovery
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412112032-cj914-cassini-2.jpg"
-image_caption: ""
 ---
 
 __Could you please tell me a little about exactly what your involvement in the mission is? __

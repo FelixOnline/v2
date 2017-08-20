@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Imperial College Finance Society successfully hosts the Conference for its 5th year
 date: "2016-02-26 12:09:17 +0000"
-
-# Attributes from Felix Online V1
-id: "5987"
-old_path: /cands/5987/new-financial-worlds-conference
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /cands/5987/new-financial-worlds-conference
-imported: true
 comments:
  - value: >
      Maintain the great work and generating the crowd!| <br>cs go skins are blurry http://2k16coinsfree.bloog.pl/id,354275522,title,2K-Unveils-Real-Voice-For-NBA-2K16,index.html
-
-# Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
@@ -25,12 +22,6 @@ authors:
  - icanon
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 On 17th February 2016, the 5th New Financial Worlds Conference was successfully held at the state-of-the-art Bloomberg Auditorium in London.

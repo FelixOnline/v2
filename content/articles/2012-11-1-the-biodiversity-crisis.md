@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philippa Skett talks about why we need to act, fast
 date: "2012-11-01 22:41:54 +0000"
-
-# Attributes from Felix Online V1
-id: "2789"
-old_path: /science/2789/the-biodiversity-crisis
+image: "http://felixonline.co.uk/img/upload/201211012243-tna08-onezoon.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/2789/the-biodiversity-crisis
-imported: true
 comments:
  - value: >
      Hi:The Grand Narrows Waterfront Development Society is active at the Barrra Strait.We have has a nuebmr of educational events related to gardening, dockside ceilidth, car show, and farmer market.All of this in addition to the successful first year of the Wheelhouse Cafe at the waterfront.These events support biodiversity, sustainibility, rural economic development and support of local music culture.All from the priceless setting of the Barra Strait.ThanksRandy PointkoskiGrand Narrows Waterfront Development Society,The rate of marine bivdeoirsity loss is higher today than ever before, with various species struggling to adapt to the changes inflicted on their habitat by humans. Most scientists agree that one of the greatest man-made hazards to this plant and animal diversity in our oceans is global warming, scientists agree. Though scientists are not sure just how the effects of global warming will affect marine life in the future, the rise of ocean temperatures and sea levels already poses a danger to oceanic
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211012243-tna08-onezoon.jpg"
-image_caption: ""
 ---
 
 Imperial saw the advent of [OneZoomTM ](http://www.onezoom.org/)this month, a navigable, online Tree of Life that allows for easy exploration of mammals and how they are related to each other genetically. Using a click of a mouse, you can scroll through millions of years of evolutionary hardship to come to the organisms it has shaped today, each settled cosily on a little leaf.

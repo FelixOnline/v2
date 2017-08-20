@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Imperial's Team Plasticity on Genetic Engineering
 date: "2013-10-24 23:43:21 +0100"
-
-# Attributes from Felix Online V1
-id: "3912"
-old_path: /features/3912/from-trash-to-treasure-via-synthetic-biology
+image: "http://felixonline.co.uk/img/upload/201310250042-felix-feat_maple.png"
+image_caption: "MAPLE - Team Plasticity's  home bioreactor."
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/3912/from-trash-to-treasure-via-synthetic-biology
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - idb10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250042-felix-feat_maple.png"
-image_caption: ""
 ---
 
 Imperial’s iGEM (international Genetically Engineered Machine) team have just flown back from Lyon, finishing in the top three in Europe in the international Synthetic Biology competition and progressing to the next round at MIT in Boston.

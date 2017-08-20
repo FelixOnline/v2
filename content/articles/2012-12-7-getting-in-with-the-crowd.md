@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Joanna Taylor underlines the benefits of crowd-sourced funding
 date: "2012-12-07 01:54:10 +0000"
-
-# Attributes from Felix Online V1
-id: "3043"
-old_path: /biz/3043/getting-in-with-the-crowd
+image: "http://felixonline.co.uk/img/upload/201212070155-tna08-php29w3ah6_penguin-crowd_620.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/3043/getting-in-with-the-crowd
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -24,12 +21,6 @@ authors:
  - jst310
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070155-tna08-php29w3ah6_penguin-crowd_620.jpg"
-image_caption: ""
 ---
 
 Start-ups have to raise money, whatever the business there will be a need at some point. The biggest issue for most ishow.

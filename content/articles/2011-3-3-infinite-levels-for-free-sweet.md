@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Michael Cook talks procedural generation, and how it makes level creation easy
 date: "2011-03-03 06:19:26 +0000"
-
-# Attributes from Felix Online V1
-id: "988"
-old_path: /games/988/infinite-levels-for-free-sweet
+image: "http://felixonline.co.uk/img/upload/201103030618-ks607-day4make.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/988/infinite-levels-for-free-sweet
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - mtc06
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103030618-ks607-day4make.jpg"
-image_caption: ""
 ---
 
 _This is Day 4 of the IC.HACK tutorial series! To see the previous day's articles, click [Day 1 - Starting](http://www.felixonline.co.uk/?article=903), [Day 2 - AI](http://www.felixonline.co.uk/?article=934) or [Day 3 - Art and Sound](http://www.felixonline.co.uk/?article=965), or for the final installment click [Day 5 – Debugging](http://felixonline.co.uk/games/1022/game-over-for-ichack/)_

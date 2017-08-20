@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Cecily Johnson doesn’t want to set a precedent for the censorship of student media
 date: "2015-05-14 22:41:41 +0100"
-
-# Attributes from Felix Online V1
-id: "5525"
-old_path: /comment/5525/on-continuing-to-keep-the-cat-free
+image: "http://felixonline.co.uk/img/upload/201505151257-cj914-screen-shot-2015-05-15-at-12.55.45.jpg"
+image_caption: "One thing not being handed out at Imperial Festival was copies of Felix"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5525/on-continuing-to-keep-the-cat-free
-imported: true
 comments:
  - value: >
      Great article! Keep the Cat Free! <br> <br>Martin S Taylor <br>FELIX Editor 1982-83,While I agree that media censorship should not be allowed, Felix should be more sensitive in how it relays information. <br> <br>Why is there a need to put that story in the front page, knowing perfectly well that there would be thousands of visitors coming to the College on the weekend? Wouldn't it be better to delay the news and not jeopardise such an opportunity to promote the College in a large scale? <br> <br>If your goal is to inform the students, then delaying the story wouldn't have mattered as we would be here anyway. And if your goal is to inform the public, well, the story is already out there for them to see. ,Felix's job isn't to do PR for the College. There are enough spinners on campus as it is.,You make some valid points, many of which we've discussed in the office. Felix puts a lot of thought into how we present information; we follow best practice media guidelines set out by Samaritans and other sources whenever we cover sensiti
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505151257-cj914-screen-shot-2015-05-15-at-12.55.45.jpg"
-image_caption: ""
 ---
 
 Last weekend, the College played host to 15,000 guests at this year’s Imperial Festival. With alumni events running alongside, the festival seeks to raise Imperial’s profile by dragging its scientists and engineers out of the laboratory to share their research with the public. But this year, one regular campus fixture wasn’t being presented to the ImpFest audience: the student newspaper, Felix.

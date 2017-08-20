@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Win 2x tickets to see Yeasayer &amp; Silver Columns playing on the 19th May (venue to be announced)
 date: "2010-05-17 17:17:36 +0100"
-
-# Attributes from Felix Online V1
-id: "138"
-old_path: /music/138/competition-time
+image: "http://felixonline.co.uk/img/upload/201005171813-felix-yeasayer.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/138/competition-time
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201005171813-felix-yeasayer.jpg"
-image_caption: ""
 ---
 
 Topman Ctrl are throwing free tickets at us to give to you for this show, so we're running a mini-competition for them, just email us at music.felix@gmail.com with the answer to this question:

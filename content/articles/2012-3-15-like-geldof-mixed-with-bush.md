@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Rory Fenton argues Kony 2012 is not just stupid – it sets a dangerous precedent
 date: "2012-03-15 19:44:43 +0000"
-
-# Attributes from Felix Online V1
-id: "2347"
-old_path: /politics/2347/like-geldof-mixed-with-bush
+image: "http://felixonline.co.uk/img/upload/201203160128-felix-532652699.jpg"
+image_caption: "Africa finally gets what its always needed: a bunch of trigger-happy white American students "
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/2347/like-geldof-mixed-with-bush
-imported: true
 comments:
  - value: >
      POW http://www.foreignpolicy.com/articles/2012/03/16/kony_2012_invisible_children_rebuttal,Given you haven't responded to a single one of my points, I assume this is an automated post. <br> <br>Also, "Africa" is an awfully big place. Try mentioning specific countries next time.,Given you haven't responded to a single one of my points, I assume this is an automated post. <br> <br>Also, "Africa" is an awfully big place. Try mentioning specific countries next time.,Given you haven't responded to a single one of my points, I assume this is an automated post. <br> <br>Also, "Africa" is an awfully big place. Try mentioning specific countries next time.,Ahahaha! You're definitely right about that. We seem to get a large number of posts that can be found on other sites via google. 98% are recognised as spam, but the occasional few get through. I wonder if this is a paid service... <br> <br>P.s. Wow, this one even has hidden spam links. Will get it removed.,This is so great,http://newsthump.com/2012/03/08/kony2012-a-bit-long-compared-to-fent
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -30,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203160128-felix-532652699.jpg"
-image_caption: ""
 ---
 
 If you’ve been online at all in the past week, chances are you’ll have seen [Kony 2012](http://www.kony2012.com/), a 30-minute video about the Lord’s Resistance Army (LRA) in central Africa made by the charity Invisible Children, officially the most viral video in the history of the internet. But along with the inevitable memes, the criticisms came hard and fast. You will likely have heard that the charity has dubious finances, spending just 30% of its income on projects in Africa, much of the rest on publicity. But this isn’t why we should be concerned by the success of Kony 2012. Now a week later, we can reflect on a video that was dangerously simplistic, misleading and ultimately deeply patronising to Africans. This article explains why.

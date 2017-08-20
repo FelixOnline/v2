@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Diogo Miguel Geraldes falls in love with Warpaint at Scala
 date: "2010-11-04 18:35:54 +0000"
-
-# Attributes from Felix Online V1
-id: "302"
-old_path: /music/302/ready-for-war-ready-for-love-
+image: "http://felixonline.co.uk/img/upload/201011041833-ks607-warpaint.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/302/ready-for-war-ready-for-love-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - dmm04
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011041833-ks607-warpaint.jpg"
-image_caption: ""
 ---
 
 I knew these girls were good. I knew they were hyped. I knew they could put on a great live performance. But still, I wasn’t expecting a sold out [Scala](http://www.scala-london.co.uk/scala/) only two days after they released their first album!

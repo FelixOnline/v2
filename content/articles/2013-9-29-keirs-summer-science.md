@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Keir Little, Science Editor brings you up to date with discoveries happens over the summer
 date: "2013-09-29 14:48:34 +0100"
-
-# Attributes from Felix Online V1
-id: "3775"
-old_path: /science/3775/keirs-summer-science
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3775/keirs-summer-science
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - kw911
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 ####  Corkscrew molecules emit circularly polarized light

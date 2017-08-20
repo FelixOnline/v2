@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The small and eclectic festival returns at the end of the end of September.
 date: "2013-09-11 10:55:14 +0100"
-
-# Attributes from Felix Online V1
-id: "3759"
-old_path: /books/3759/return-of-the-soho-literary-festival
+image: "http://felixonline.co.uk/img/upload/201309111202-mtm10-johnson2.jpg"
+image_caption: "Journalist and editor Rachel Johnson returns to lead one of the teams in the Classics Quiz"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3759/return-of-the-soho-literary-festival
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309111202-mtm10-johnson2.jpg"
-image_caption: ""
 ---
 
 The Soho Literary festival is to return for its third year at the Soho Theatre. Taking place at the end of this month (September 26-29) the festival is organised by _The Oldie _magazine, a publication well known for its regular literary lunches. With over thirty different events there is guaranteed to be something to appeal every lover of books and literature.

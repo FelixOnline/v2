@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Kamil McClelland explores what inspires us to seek out adventure
 date: "2015-06-20 17:30:55 +0100"
-
-# Attributes from Felix Online V1
-id: "5647"
-old_path: /travel/5647/bukhara-dreams-of-another-land
+image: "http://felixonline.co.uk/img/upload/201506201833-km2612-alim_khan_(1880–1944),_emir_of_bukhara,_photographed_by_s.m._prokudin-gorskiy_in_1911.jpg"
+image_caption: "Alim Khan, Emir of Bukhara, 1911 by Sergei Prokudin-Gorskii"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/5647/bukhara-dreams-of-another-land
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - km2612
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506201833-km2612-alim_khan_(1880–1944),_emir_of_bukhara,_photographed_by_s.m._prokudin-gorskiy_in_1911.jpg"
-image_caption: ""
 ---
 
 _“But there is no such thing as a Silk Road!”_

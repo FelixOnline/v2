@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Watching A Good Day to Die Hard is not a good day says Lucy Wiles
 date: "2013-02-22 01:28:01 +0000"
-
-# Attributes from Felix Online V1
-id: "3361"
-old_path: /film/3361/why-wont-you-just-die
+image: "http://felixonline.co.uk/img/upload/201302220128-tna08-reg_1024.diehard7.mh.010413.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3361/why-wont-you-just-die
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - lw408
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302220128-tna08-reg_1024.diehard7.mh.010413.jpg"
-image_caption: ""
 ---
 
 Well let’s face it – thechances of the fifth movie in ANY film franchise being spectacular were slim. But when Die Hard 4.0 (aka Live Free or Die Hard) was a bit rubbish, this one was bound to be equally shoddy. Which it was.

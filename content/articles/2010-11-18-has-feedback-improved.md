@@ -4,16 +4,13 @@ title: >
 subtitle: >
   At the beginning of term, the Rector called for action to improve coursework assessment and marking, so...
 date: "2010-11-18 21:48:04 +0000"
-
-# Attributes from Felix Online V1
-id: "411"
-old_path: /news/411/has-feedback-improved
+image: "http://felixonline.co.uk/img/upload/201011182146-nm1010-feedbccc.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/411/has-feedback-improved
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - skd09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011182146-nm1010-feedbccc.jpg"
-image_caption: ""
 ---
 
 The start of term saw Imperial [announce a campaign](http://www.felixonline.co.uk/?article=174) to improve the assessment of students’ work. Ahead of the end of term surveys, Felix investigates the improvements that have been made. Has the college gone far enough or is there still more that should be done?

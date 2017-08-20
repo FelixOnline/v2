@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A new threat emerges in the battle against malaria
 date: "2010-10-28 19:22:19 +0100"
-
-# Attributes from Felix Online V1
-id: "259"
-old_path: /science/259/when-one-mosquito-becomes-two-
+image: "http://felixonline.co.uk/img/upload/201010282015-ks607-mosquito.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/259/when-one-mosquito-becomes-two-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - bjg10
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010282015-ks607-mosquito.jpg"
-image_caption: ""
 ---
 
 A new study from Imperial College London has suggested that, in our race to battle malaria, a new threat has emerged.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   I feel that the article may have been slightly misinterpreted.
 date: "2014-10-24 13:57:59 +0100"
-
-# Attributes from Felix Online V1
-id: "4753"
-old_path: /comment/4753/oli-benton-responds-to-dri-nights-coverage-does-not-whet-the-appetite
+image: "http://felixonline.co.uk/img/upload/201411021856-ps3110-img_0505.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4753/oli-benton-responds-to-dri-nights-coverage-does-not-whet-the-appetite
-imported: true
 comments:
  - value: >
      Our Promises <br>cheap air jordans http://www.cheapjordansreals.com,Bring vitality dress Air Jordan 6 Low "Insignia Blue" in-kind figure reward clear, blue and white hit color rendering, detail injection ghost green embellishment, provoke visual highlights. <br>cheap jordans online http://www.jazzoklahoma.com,discount fitflops <br>fitflop shoes sale http://australiafitflops.blogspot.com/,fitflops sale <br>fitflop online sales http://australiafitflops.blogspot.com/,fitflop sale clearance <br>fitflops on sale australia http://fitflopsau.blogspot.com/,First sale in 1991, Air Jordan 6 "Maroon" white dress shoes, eye-catching red dotted injection, combined with Joe closer affinity with the feet, both add a lot of things to watch for, the current concern is also quite impressive . <br>http://www.acheapjordans.com http://www.acheapjordans.com,French blue dress Air Jordan 12 "French Blue" will be held March 26, 2016 engraved return. First sale in January 2005, this French blue color with white leather shoes are complemented by blue so
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411021856-ps3110-img_0505.jpg"
-image_caption: ""
 ---
 
 Thanks for the response; I’m glad at least somebody, other than the Union staff and Sabbs that ‘checked over it’, actually read the article.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lizzie Crouch and Anna Perman remember Martin Milligan and look deeper into the problem of homelessness in the UK
 date: "2011-02-17 19:48:53 +0000"
-
-# Attributes from Felix Online V1
-id: "826"
-old_path: /news/826/the-hidden-homeless
+image: "http://felixonline.co.uk/img/upload/201102171945-ks607-martinmi.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/826/the-hidden-homeless
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - ec610
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102171945-ks607-martinmi.jpg"
-image_caption: ""
 ---
 
 A few weeks ago, [many people were saddened](http://www2.imperial.ac.uk/blog/reporter/2011/02/03/tribute-to-martin/) to hear that Martin Milligan, who many knew as the man who sold the Big Issue in the South Kensington pedestrian tunnel, had passed away.

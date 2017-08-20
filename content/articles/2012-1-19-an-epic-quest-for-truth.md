@@ -4,18 +4,16 @@ title: >
 subtitle: >
   An unusual biography of a fascinating philosopher
 date: "2012-01-19 20:11:29 +0000"
-
-# Attributes from Felix Online V1
-id: "2008"
-old_path: /books/2008/an-epic-quest-for-truth
+image: "http://felixonline.co.uk/img/upload/201201192010-ams111-bertrand_russell.jpg"
+image_caption: "Russell-ing up some serious artwork"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2008/an-epic-quest-for-truth
-imported: true
 comments:
  - value: >
      Truly amazing book! Enjoyed it very much when I read it a few years ago! <br>I would also definitely recommend the "Uncle Petros and Goldbach's Conjecture" by one of the authors, namely Apostolos Doxiadis.
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -28,12 +26,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201192010-ams111-bertrand_russell.jpg"
-image_caption: ""
 ---
 
 _Logicomix_ is a rather unusual book – an exploration of the early development of mathematical logic, interwoven with the profound story of the life of one of the greatest thinkers in the field – Bertrand Russell – all told in graphic novel format. A tall order for any work, but _Logicomix_ manages it admirably.

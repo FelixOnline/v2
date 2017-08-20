@@ -4,16 +4,13 @@ title: >
 subtitle: >
   (Yes, it’s that guy from University Challenge!)
 date: "2012-11-01 22:49:33 +0000"
-
-# Attributes from Felix Online V1
-id: "2794"
-old_path: /comment/2794/italys-new-illuminati
+image: "http://felixonline.co.uk/img/upload/201211021636-tna08-121024earthquakeverdict_6815001.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2794/italys-new-illuminati
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - pa07
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211021636-tna08-121024earthquakeverdict_6815001.jpeg"
-image_caption: ""
 ---
 
 By now, you might’ve heard the news about the Italian scientists that were found guilty of failing to warn the populace of the earthquake that devastated the region of Abruzzo three years ago. The Grandi Rischi (Great Risks) is a commission of experts on calamities whose purpose is to monitor the likelihood of such catastrophes happening, and to advise on how to avoid them or mitigate their effects; according to the judges, they failed to predict the earthquake and therefore are at least partly responsible for the over 300 deaths, thousands of wounded and tens of thousands of evacuees.

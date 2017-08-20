@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Imperial and King's College singers take the stage
 date: "2011-11-24 22:26:39 +0000"
-
-# Attributes from Felix Online V1
-id: "1834"
-old_path: /news/1834/gospel-choir-has-the-x-factor
+image: "http://felixonline.co.uk/img/upload/201111242226-pk1811-390369_10150407884083984_503413983_8343546_1103376120_n.jpg"
+image_caption: "The Gospel Choirs performing alongside contestant Marcus Collins"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1834/gospel-choir-has-the-x-factor
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - gp1510
  - io709
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242226-pk1811-390369_10150407884083984_503413983_8343546_1103376120_n.jpg"
-image_caption: ""
 ---
 
 If you were watching ITV closely this Saturday evening you may have seen some familiar faces. Members of the Imperial College Gospel Choir (ICGC) were featured giving it their all, with their best clicks, jazz hands and on Saturday evening’s live edition of _The X Factor_.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Kamil McClelland takes us on a journey through his favourite V&A gallery
 date: "2014-12-18 15:28:35 +0000"
-
-# Attributes from Felix Online V1
-id: "5053"
-old_path: /arts/5053/my-art-the-va-ceramics-collection
+image: "http://felixonline.co.uk/img/upload/201501212218-ps3110-2006an8282_lucie_rie_bowl.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5053/my-art-the-va-ceramics-collection
-imported: true
 comments:
  - value: >
      Thanks for your ththugos. It's helped me a lot.
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501212218-ps3110-2006an8282_lucie_rie_bowl.jpg"
-image_caption: ""
 ---
 
 Tucked away on the sixth floor of the V&A, the ceramics section is my little artistic idyll in London. Even on weekends it is virtually empty, so you can sit back and enjoy the craftsmanship without the hassle you get with the better known art establishments. Huge glass cabinets filled to the brim with ceramics extend the whole length of hallways, ensuring totally immersive experience. It is little wonder then that one can spend hours utterly transfixed!

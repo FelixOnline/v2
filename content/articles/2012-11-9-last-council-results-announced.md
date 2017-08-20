@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Election fever over. We all sweated it out.
 date: "2012-11-09 00:14:05 +0000"
-
-# Attributes from Felix Online V1
-id: "2835"
-old_path: /news/2835/last-council-results-announced
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2835/last-council-results-announced
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The election results for the outstanding Council positions have been announced. In the incredibly catchily named Faculty of Engineering Undergraduate Council Ordinary Member Election, Joseph Gibbs, Oladipupo and Thomas Lim were all elected with 64, 30, and 21 votes in the first round respectively. Joseph Gibbs was elected in Round 1, with the other two being elected in Round 2. The faced competition from four other students, as well as the ever present, infamous RON (Re-Open Nominations).

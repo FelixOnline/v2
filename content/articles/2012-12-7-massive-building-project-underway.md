@@ -4,16 +4,13 @@ title: >
 subtitle: >
   South Kensington campus to start looking a bit different...
 date: "2012-12-07 00:57:31 +0000"
-
-# Attributes from Felix Online V1
-id: "3028"
-old_path: /news/3028/massive-building-project-underway
+image: "http://felixonline.co.uk/img/upload/201212070057-tna08-before-and-after-mech-eng.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3028/massive-building-project-underway
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070057-tna08-before-and-after-mech-eng.jpg"
-image_caption: ""
 ---
 
 Any keen eyed students who were at Imperial last year will definitely notice the differences around campus, specifically the Mechanical Engineering Building. This is not a simple recladding to revamp the building’s look. It is in fact part of a major redevelopment of building on the South Kensington campus. Steve Howe, Director of Capital Projects and Planning, has said that what you see is just the “tip of the iceberg” describing the plans as a “huge project”.

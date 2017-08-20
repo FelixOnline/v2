@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Kunal Wagle on what's next for the Open Air Laboratories
 date: "2015-05-21 19:57:48 +0100"
-
-# Attributes from Felix Online V1
-id: "5544"
-old_path: /news/5544/imperial-citizen-science-project-expands
+image: "http://felixonline.co.uk/img/upload/201505212057-kmw13-buttercup.jpg"
+image_caption: "More than 850,000 have taken part in the OPAL project"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5544/imperial-citizen-science-project-expands
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - kmw13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505212057-kmw13-buttercup.jpg"
-image_caption: ""
 ---
 
 Open Air Laboratories (OPAL), a citizen science project run by Imperial College London, has expanded to cover the entirety of the United Kingdom.

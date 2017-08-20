@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Emma Wills on Demetri Martin's new book of drawings
 date: "2013-10-20 01:33:34 +0100"
-
-# Attributes from Felix Online V1
-id: "3902"
-old_path: /books/3902/point-your-face-at-this
+image: "http://felixonline.co.uk/img/upload/201310200233-jal08-copyright-2013-demetri-martin.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3902/point-your-face-at-this
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - ecw12
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310200233-jal08-copyright-2013-demetri-martin.jpg"
-image_caption: ""
 ---
 
 Demetri Martin’s first book of drawings is an utterly beguiling read from start to finish. Perhaps it isn’t accurate to say ‘read’ as there are few words in it ­– each page is taken up by a new simple black-and-white line drawing of charming hilarity, ranging from a graph of melted cheese temperature against time (with a discontinuity at perfect temperature) to a man walking a fish.

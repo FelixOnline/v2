@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Or, why it might not be such a great idea to make long-term wish lists
 date: "2011-10-14 00:22:21 +0100"
-
-# Attributes from Felix Online V1
-id: "1535"
-old_path: /comment/1535/the-unhelpfulness-of-self-help
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1535/the-unhelpfulness-of-self-help
-imported: true
 comments:
  - value: >
      I hear you on this. I've been experiencing it a lot laelty on some other fronts. I've recently decided that I'd like to try my hand at serious wargames, both tabletop board games and video games. Although I know a lot about some segments of the video game industry, it turns out that hardcore turn-based strategy games seem to have their own separate space that's somewhat apart from other types of video games. But at least with video games, sites like metacritic can link me and googling is pretty useful. I've been really lost on some of the board games. I'm extremely thankful for BoardGameGeek, which has helped IMMENSELY. I can't even conceive of how I could have gotten started without that site. But going into the stores, they all carry the games, but very few of the staff members have ever played any of them or know anything about them, and there's an unbelievable proliferation of them which all look more or less identical. Upon reading reviews, it turns out that from a hardcore strategy board gami
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - mrangry
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A guy got on the tube and sat down next to me last week, which is a momentous enough event for me to open the column with because being that close to another human is a sure-fire way to ruin my week in spectacular style. Fortunately for me, the chap in question pulled out an iPhone and opened the notes app, where he began adding to a list – a list which would turn out to be the highlight of the day.

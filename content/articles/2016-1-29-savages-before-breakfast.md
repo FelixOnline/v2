@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Replace that Red Stripe with a Venti Cappuccino
 date: "2016-01-29 09:35:48 +0000"
-
-# Attributes from Felix Online V1
-id: "5850"
-old_path: /frontpage/5850/savages-before-breakfast
+image: "http://felixonline.co.uk/img/upload/201602011702-cet13-savages1.jpg"
+image_caption: "Look at all these people who are going to be late for work."
+headline: true
+featured: true
+imported: true
 aliases:
  - /frontpage/5850/savages-before-breakfast
-imported: true
 comments:
  - value: >
      j10t6U http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com,j10t6U http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com,j10t6U http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
-
-# Article Taxonomies
 categories:
  - all
 tags:
@@ -26,12 +24,6 @@ authors:
  - cet13
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602011702-cet13-savages1.jpg"
-image_caption: ""
 ---
 
 In interviews, **Savages** have always described themselves as a live band: “you don’t understand who we are unless you see us play live.” They aim to create a reaction with their live act, something more than static head bobbing. Watching the video for ‘The Answer,’ the first song on their new album _Adore Life_, you might expect a Savages gig to be a messy, explosive affair. I expect it might be if it wasn’t at 8:45 in the morning. The idea of a gig before work, without alcohol, is a weird one. But replacing intoxication with a coffee high works surprisingly well.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Nazi plots, fine beer, and gorgeous architecture
 date: "2011-05-08 13:26:55 +0100"
-
-# Attributes from Felix Online V1
-id: "1178"
-old_path: /travel/1178/a-weekend-in-scenic-prague
+image: "http://felixonline.co.uk/img/upload/201105081424-felix-prague.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/1178/a-weekend-in-scenic-prague
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -24,12 +21,6 @@ authors:
  - cjb07
  - mm7109
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105081424-felix-prague.jpg"
-image_caption: ""
 ---
 
 “Not many people know this, but the Nazis had lined the tunnels underneath Prague with dynamite and were prepared to destroy it as they retreated in the face of the Red Army. Were it not for a small group of Russian monarchists who opposed them for 5 days and managed to foil the plot, all of Prague’s beauty wouldn’t exist.” We sipped our tea as Miloš continued his story. “And are they remembered today? There’s a small memorial to them, about knee-high, somewhere in the city. That’s justice for you.”

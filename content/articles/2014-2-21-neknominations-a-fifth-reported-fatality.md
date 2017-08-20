@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A fifth person has been reported as having died after taking part in NekNomination online drinking game.
 date: "2014-02-21 02:50:58 +0000"
-
-# Attributes from Felix Online V1
-id: "4409"
-old_path: /news/4409/neknominations---a-fifth-reported-fatality
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4409/neknominations---a-fifth-reported-fatality
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - mtm10
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A fifth person has been reported as having died after taking part in NekNomination online drinking game. Twenty year old Nottingham resident Bradley Eames posted a video of himself downing two pints of gin to Facebook. He died a few days, reportedly from alcohol poisoning, though police have indicated that post-mortem toxicology tests were inconclusive.

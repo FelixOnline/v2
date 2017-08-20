@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Maciej Matuszewski reviews Altered Carbon
 date: "2013-02-28 18:11:04 +0000"
-
-# Attributes from Felix Online V1
-id: "3385"
-old_path: /books/3385/richard-morgans-altered-carbon
+image: "http://felixonline.co.uk/img/upload/201302281811-txl11-altered-carbon.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3385/richard-morgans-altered-carbon
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - mtm10
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302281811-txl11-altered-carbon.jpg"
-image_caption: ""
 ---
 
 I had heard a lot of good things about Richard Morgan, but a glance through the blurbs of his novels didn’t turn up anything that I thought I would particularly enjoy. However, upon reading that Altered Carbon, his first book, had been voted as the fifth best SF novel of the twenty first century by the readers of Locus magazine, I decided that I just had to check it out.

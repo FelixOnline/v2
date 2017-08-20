@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Suzie Rayner is running uncontested for Medic President, but is she the right person for the position?
 date: "2011-03-17 19:29:13 +0000"
-
-# Attributes from Felix Online V1
-id: "1088"
-old_path: /news/1088/the-next-medic-president
+image: "http://felixonline.co.uk/img/upload/201103171924-ks607-img_2962.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1088/the-next-medic-president
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - ks607
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103171924-ks607-img_2962.jpg"
-image_caption: ""
 ---
 
 Read Suzie's, and other manifestos, here, at [comparethemedic.com](http://comparethemedic.com)

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Poet - Kadhim Shubber
 date: "2012-06-14 20:48:07 +0100"
-
-# Attributes from Felix Online V1
-id: "2570"
-old_path: /phoenix/2570/the-poet---kadhim-shubber
+image: "http://felixonline.co.uk/img/upload/201206142146-pk1811-332536_10150489129116044_330854336043_9147268_477405966_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/2570/the-poet---kadhim-shubber
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -26,12 +23,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206142146-pk1811-332536_10150489129116044_330854336043_9147268_477405966_o.jpg"
-image_caption: ""
 ---
 
 Eva - You were Felix editor last year, you organise Felix Music Nights, have a show on IC Radio, set up Kensington poetry nights... why did you decide to get so involved in the arts at Imperial?

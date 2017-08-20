@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The RCSU UROP bursary has been awarded to an undergraduate student from the Department of Chemistry. This is a new initiative where the funding will be from the RCSU for students from lower income backgrounds.
 date: "2014-06-06 02:38:04 +0100"
-
-# Attributes from Felix Online V1
-id: "4654"
-old_path: /news/4654/rcsu-provides-urop-bursary-for-student-from-lower-income-background
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4654/rcsu-provides-urop-bursary-for-student-from-lower-income-background
-imported: true
 comments:
  - value: >
      Good step forward :) . I was denied a UROP bursary (which meant I had to withdraw from my placement due to monetary problems) for ridiculous reasons. Within my year, approximately 8 people were offered a UROP and all but myself and one other were not given a bursary. However, one of my colleagues was offered two different bursaries, and the one she rejected was then in a sort of limbo where it wasn't offered to anyone. I asked for feedback on my bursary proposal and was told that enough proof checking was not carried out on my application. After probing further, there was one mistake with my application; the date (in my supervisor's section, not mine) was written in a different format - the format which is used in his home country. Apparently that is a perfectly acceptable reason to deny a person the opportunity to undertake a UROP. ,Hi Keir, <br> <br>Thank you for that comment. Can you please send me an e-mail with more details about your case and I'll bring it up in the Faculy's Teaching Committee and see if the
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - nm708
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The RCSU UROP bursary has been awarded to an undergraduate student from the Department of Chemistry. This is a new initiative where the funding will be from the RCSU for students from lower income backgrounds.

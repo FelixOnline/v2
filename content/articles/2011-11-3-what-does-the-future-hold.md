@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Chris Bowers tells of his predictions for fifty years’ time
 date: "2011-11-03 18:09:53 +0000"
-
-# Attributes from Felix Online V1
-id: "1647"
-old_path: /tech/1647/what-does-the-future-hold
+image: "http://felixonline.co.uk/img/upload/201111031808-fa608-i-robot-2004-42-g1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/1647/what-does-the-future-hold
-imported: true
 comments:
  - value: >
      one out of ten for effort and thats being generous
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -28,12 +25,6 @@ authors:
  - fa608
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111031808-fa608-i-robot-2004-42-g1.jpg"
-image_caption: ""
 ---
 
 Ah, Issue 1500 is here. While some of my fellow editors may be getting nostalgic, technology and history don’t seem to get along. Technology and the future, on the other hand? Well, everyone sees them as going hand-in-hand. So we’ve decided to jump 1500 issues into the future – approximately fifty years – and look at what the world of computers, gadgets and electronics might look like in Issue 3000 of Felix.

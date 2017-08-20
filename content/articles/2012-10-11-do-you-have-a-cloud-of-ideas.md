@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Imperial College Design Collective talk about their sessions on creativity
 date: "2012-10-11 20:46:59 +0100"
-
-# Attributes from Felix Online V1
-id: "2653"
-old_path: /news/2653/do-you-have-a-cloud-of-ideas
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2653/do-you-have-a-cloud-of-ideas
-imported: true
 comments:
  - value: >
      Where's the link for ICDC?,www.facebook.com/ICDCollective,I am Not a Idathupaksham or Valathupaksham. But aarkuvenam Eee kanlaarahpetta edathu chinthagathi. There is no more room anywhere. After the elction result, Mr. Sarvajith will come to understand. Can you show anybody what message gave this edathupaskahm to the poor voters what they are going to bring in keral. Wait 5 years and impliment projects like smart City and Kayyamam for pennupidiyanmmar. Where they were the past five years, they didn't get enough time to do all this or just was dreaming for another 5 years ruling.,Hello Padma, Please check M-square network <a href="http://fpfzacbr.com">scoohl</a> or Sansbound networking <a href="http://fpfzacbr.com">scoohl</a>. they are good in networking and also toppers in chennai area. they can give yu real time lab. both of the institutes are available in Nungambakkam. Good Luck
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 What if the word “career” meant “fun”, “passion”, and “entrepreneurship”, instead of “oil-platform”, “finance”, or “academia”? We want to show a different set of doors the education at Imperial College unlocks for you far from the obvious and spineless paths Imperial’s flocked careers fairs hold. Imperial College Design Collective (ICDC) demonstrates how knowledge acquired at Imperial can be applied in all design fields.

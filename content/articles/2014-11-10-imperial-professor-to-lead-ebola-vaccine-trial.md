@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Cécile Borkhataria on the race to develop a drug for the deadly disease
 date: "2014-11-10 22:52:21 +0000"
-
-# Attributes from Felix Online V1
-id: "4850"
-old_path: /science/4850/imperial-professor-to-lead-ebola-vaccine-trial
+image: "http://felixonline.co.uk/img/upload/201411102252-ps3110-mediausatodayusatoday201407311406846337000-ebola-protective-gear5.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/4850/imperial-professor-to-lead-ebola-vaccine-trial
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - czb11
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102252-ps3110-mediausatodayusatoday201407311406846337000-ebola-protective-gear5.jpg"
-image_caption: ""
 ---
 
 The current Ebola outbreak in West Africa, which began in March 2014, has afflicted Guinea, Sierra Leone, Liberia, Nigeria, and recently, Senegal.

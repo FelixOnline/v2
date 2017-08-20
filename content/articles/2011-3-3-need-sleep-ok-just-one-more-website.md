@@ -4,16 +4,13 @@ title: >
 subtitle: >
   I am in no way to be held responsible for any loss of productivity, social life, or ability to graduate caused by this article
 date: "2011-03-03 06:09:32 +0000"
-
-# Attributes from Felix Online V1
-id: "984"
-old_path: /comment/984/need-sleep-ok-just-one-more-website
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/984/need-sleep-ok-just-one-more-website
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - ial08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 DISCLAIMER : I am in no way to be held responsible for any loss of productivity, social life, or ability to graduate caused by this article.

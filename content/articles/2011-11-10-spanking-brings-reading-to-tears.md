@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Reading in Imperial hockey demolition
 date: "2011-11-10 22:40:01 +0000"
-
-# Attributes from Felix Online V1
-id: "1751"
-old_path: /sport/1751/spanking-brings-reading-to-tears
+image: "http://felixonline.co.uk/img/upload/201111102239-felix-match%20report%20photo%201.jpg"
+image_caption: "Speak softly and carry a big stick"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1751/spanking-brings-reading-to-tears
-imported: true
 comments:
  - value: >
      Hi there, i read your blog occasionally and i own a sliamir one and iwas just wondering if you get a lot of spam remarks? If so how do youreduce it, any plugin or anything you can suggest?I get so much lately it's driving me insane so any support is very much appreciated.,After study a number of that the blog <a href="http://hbezzetkgn.com">arlietcs</a> on your web site now,we truly as if your means of blogging. I bookmarked it to my bookmark website list and you will be checking back soon. Pls take a look at myweb site also and tell me how you feel.
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +26,6 @@ authors:
  - trm08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102239-felix-match%20report%20photo%201.jpg"
-image_caption: ""
 ---
 
 __Hockey__

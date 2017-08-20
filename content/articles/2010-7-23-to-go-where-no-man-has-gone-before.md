@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Arts editor Caz Knight is taken on an cosmic journey through space, to the edge of black holes and 10,000 years into the future
 date: "2010-07-23 10:24:00 +0100"
-
-# Attributes from Felix Online V1
-id: "152"
-old_path: /arts/152/to-go-where-no-man-has-gone-before
+image: "http://felixonline.co.uk/img/upload/201007231119-ks607-Icarus.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/152/to-go-where-no-man-has-gone-before
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - ks607
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201007231119-ks607-Icarus.jpg"
-image_caption: ""
 ---
 
 What could a Colombia University string-theorist, a celebrated composer and two filmmakers called Al have in common? Answer: a multimedia retelling and reworking of the Ancient Greek myth of Icarus.

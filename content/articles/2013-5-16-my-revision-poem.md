@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Martin Asprusten writes a poem about his exam woe to the tune of The Raven by Edgar Allan Poe
 date: "2013-05-16 17:44:13 +0100"
-
-# Attributes from Felix Online V1
-id: "3571"
-old_path: /arts/3571/my-revision-poem
+image: "http://felixonline.co.uk/img/upload/201305161842-tna08-02_raven_watching_night_car_ca.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3571/my-revision-poem
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - mla09
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305161842-tna08-02_raven_watching_night_car_ca.jpg"
-image_caption: ""
 ---
 
 Upon a day in springtime warming outside birds and bees were swarming,

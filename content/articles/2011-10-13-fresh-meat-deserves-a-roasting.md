@@ -4,16 +4,14 @@ title: >
 subtitle: >
   New comedy series has more sex than Imperial, dammit
 date: "2011-10-13 22:46:56 +0100"
-
-# Attributes from Felix Online V1
-id: "1517"
-old_path: /tv/1517/fresh-meat-deserves-a-roasting
+image: "http://felixonline.co.uk/img/upload/201110132351-felix-fresh-meat-launch-image_a2.jpg"
+image_caption: "Fresh Meat – does it deserve the rave reviews?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1517/fresh-meat-deserves-a-roasting
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - mtm10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110132351-felix-fresh-meat-launch-image_a2.jpg"
-image_caption: ""
 ---
 
 I had pretty high expectations of [Fresh Meat](http://www.youtube.com/watch?v=6XYLVs3le3w), the new comedy drama about seven students at a Manchester University sharing a house. The show (or at least its first episode) received rave reviews and is from the creators of [Peep Show](http://www.youtube.com/watch?v=sRS41-7MTSs), a programme which can generally guarantee a good laugh.

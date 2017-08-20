@@ -4,18 +4,15 @@ title: >
 subtitle: >
   I’ve always been in love with driving. In school, when I was learning to drive, my Physics teacher told me that he wished that we were in Saudi Arabia, where women are banned from driving, because then at least I’d shut up about it in his lessons.
 date: "2013-11-04 13:43:40 +0000"
-
-# Attributes from Felix Online V1
-id: "3981"
-old_path: /comment/3981/saudi-arabia-is-driving-a-human-right
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3981/saudi-arabia-is-driving-a-human-right
-imported: true
 comments:
  - value: >
      Who put men in charge anyway? They can't 'give' women the right to drive. It's not theirs to give or refuse. Men and women are equal in terms of rights. If Arabs believe women need to be protected, it begs the question 'from what or from whom?' If the answer is 'from men' then clearly the problem is not with the women, it with the people who are unable to control themselves, thereby placing women in jeopardy. Women are free, just as men are, from restrictions imposed by men, only so long as men are adult enough to own their behaviour and acknowledge women as equals. May I suggest men in areas of the world where freedom for women is arbitrary that they consider what precisely it is they are afraid of.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - tad08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 I’ve always been in love with driving. In school, when I was learning to drive, my Physics teacher told me that he wished that we were in Saudi Arabia, where women are banned from driving, because then at least I’d shut up about it in his lessons. I remember being outraged to learn this, and it’s always stuck with me. While I would abstain from describing driving as a basic human right, it’s certainly not a right that should be awarded based on gender.

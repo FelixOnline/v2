@@ -4,16 +4,14 @@ title: >
 subtitle: >
   January saw Imperial Cricket take on a variety of university teams
 date: "2012-02-16 23:38:47 +0000"
-
-# Attributes from Felix Online V1
-id: "2222"
-old_path: /sport/2222/womens-cricket-at-lords
+image: "http://felixonline.co.uk/img/upload/201202162333-sjw209-cricket.jpg"
+image_caption: "The ladies in front of the pavillion end... Howzat!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2222/womens-cricket-at-lords
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +22,6 @@ authors:
  - nc1910
  - sjw209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202162333-sjw209-cricket.jpg"
-image_caption: ""
 ---
 
 The eagerly awaited BUCS Women’s Indoor Cricket Championships took place on a cold January morning at the world famous Lords Cricket Ground. After a fantastic performance in Southampton, the girls were excited about taking on the tough competition brought to London by Exeter, Bristol, Southampton, Birmingham, Loughborough, Leeds Met and Durham.

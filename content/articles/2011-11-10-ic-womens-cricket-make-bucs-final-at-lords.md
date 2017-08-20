@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Win against Bournemouth bags a ticket to finals, says Taniya Parhikh
 date: "2011-11-10 22:41:57 +0000"
-
-# Attributes from Felix Online V1
-id: "1752"
-old_path: /sport/1752/ic-womens-cricket-make-bucs-final-at-lords
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1752/ic-womens-cricket-make-bucs-final-at-lords
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Indoor Cricket__

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The next leg of Priya Garg's epic South American adventure
 date: "2011-05-27 15:27:43 +0100"
-
-# Attributes from Felix Online V1
-id: "1279"
-old_path: /travel/1279/bolivia-calamity-and-comfort
+image: "http://felixonline.co.uk/img/upload/201105271627-felix-bolivian-dancers.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/1279/bolivia-calamity-and-comfort
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - pg405
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105271627-felix-bolivian-dancers.jpg"
-image_caption: ""
 ---
 
 We descended via a smog-filled cliff overhung by green leaves, to a city clustered within a valley, full of tiny red houses. We passed by unfinished brick buildings, tumbling mechanics, crumbling newsagents, two children stroking a graffiti-covered wall and an elderly woman with a baby swung across her back, as the ringing of bicycle bells and beeping of car horns continued.

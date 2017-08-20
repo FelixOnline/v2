@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Second victory for Hockey Women's 1sts
 date: "2011-03-03 08:25:40 +0000"
-
-# Attributes from Felix Online V1
-id: "993"
-old_path: /sport/993/convincing-victory-over-southampton
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/993/convincing-victory-over-southampton
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - trm08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Having pounded Chichester at the last meet the ladies went into this match full of confidence, sure of a good perfromance and a certain victory.

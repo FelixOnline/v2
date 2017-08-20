@@ -4,18 +4,15 @@ title: >
 subtitle: >
   George gives his thoughts on the latest mental health survey
 date: "2015-05-29 01:00:26 +0100"
-
-# Attributes from Felix Online V1
-id: "5577"
-old_path: /comment/5577/imperial-needs-to-do-more-to-tackle-mental-health
+image: "http://felixonline.co.uk/img/upload/201505290200-ps3110-mentality-report.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5577/imperial-needs-to-do-more-to-tackle-mental-health
-imported: true
 comments:
  - value: >
      fitflops online <br>fitflops clearance australia http://fitflopsau.blogspot.com/,fitflops sale australia <br>fitflops cheap http://www.australiafitflops.com/,birkenstocks sydney <br>birkenstocks australia http://birkenstockaustralia2013.blogspot.com/,christian louboutin bianca <br>cheap christian louboutin http://canadachristianlouboutin.blogspot.com/,christian louboutin pronounce <br>cheap christian louboutin canada http://canadachristianlouboutinoutlet.blogspot.com/,red soles <br>christian louboutin online store http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin slingblacks sale <br>christian louboutin outlet online http://canadachristianlouboutin.blogspot.com/
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505290200-ps3110-mentality-report.jpg"
-image_caption: ""
 ---
 
 Mental health is the great un-tackled health problem in the UK.

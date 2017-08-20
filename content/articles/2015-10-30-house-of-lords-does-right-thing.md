@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Did the House of Lords overstep the mark in delaying proposed tax credit cuts?
 date: "2015-10-30 13:07:59 +0000"
-
-# Attributes from Felix Online V1
-id: "5689"
-old_path: /comment/5689/house-of-lords-does-right-thing
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5689/house-of-lords-does-right-thing
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 George Osbourne’s new favourite line to describe the Conservatives is “the party of working people”. Over the last three years, since he was booed at the London Olympics opening ceremony, Osbourne has undergone a transformation, reinventing himself as a person and a politician.

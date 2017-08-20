@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Cross-departmental timetabling could be introduced by October 2012
 date: "2011-06-23 19:10:37 +0100"
-
-# Attributes from Felix Online V1
-id: "1411"
-old_path: /news/1411/physics-lectures-in-saf
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1411/physics-lectures-in-saf
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The College has announced an initiative to “implement a College-wide timetabling project” that could see departments sharing major lecture theatres and potentially reduce the need to build new lecture theatres.

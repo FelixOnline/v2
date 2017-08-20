@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Minister hints that foreign student visas could be restricted
 date: "2010-11-04 19:08:18 +0000"
-
-# Attributes from Felix Online V1
-id: "326"
-old_path: /news/326/students-hit-by-visa-changes
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/326/students-hit-by-visa-changes
-imported: true
 comments:
  - value: >
      Thanks for sharing. Awlays good to find a real expert.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - nn1209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 “Unsustainable.” That’s how Damian Green, the immigration minister, described levels of student migration to the UK. The Conservatives have been planning to curb immigration since before the election, and now more than ever it seems that universities will not be spared.

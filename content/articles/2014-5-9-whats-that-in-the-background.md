@@ -4,16 +4,13 @@ title: >
 subtitle: >
   What are paintings all about anyway?
 date: "2014-05-09 02:17:19 +0100"
-
-# Attributes from Felix Online V1
-id: "4580"
-old_path: /arts/4580/whats-that-in-the-background
+image: "http://felixonline.co.uk/img/upload/201405090317-jal08-arts-ng.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4580/whats-that-in-the-background
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - jal08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405090317-jal08-arts-ng.jpg"
-image_caption: ""
 ---
 
 __What: __Building the Picture: Architecture in Italian Renaissance Painting

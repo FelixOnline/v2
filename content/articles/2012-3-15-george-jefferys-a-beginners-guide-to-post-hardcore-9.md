@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Final Lesson: Summary
 date: "2012-03-15 21:27:25 +0000"
-
-# Attributes from Felix Online V1
-id: "2383"
-old_path: /music/2383/george-jefferys-a-beginners-guide-to-post-hardcore-9
+image: "http://felixonline.co.uk/img/upload/201203152127-ams111-post-hardcore-mosh.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2383/george-jefferys-a-beginners-guide-to-post-hardcore-9
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - ams111
  - gj309
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152127-ams111-post-hardcore-mosh.jpg"
-image_caption: ""
 ---
 
 Over the past ten weeks, I’ve tried to give an insight into the wonderful world of post-hardcore music. Hopefully I’ve achieved my goal in revamping the record collection of the old-timer P-H fans and perhaps even converted some people previously sceptical about this incredible genre. However, the sad truth is that there’s probably very few of you willing to read anything labelled “post-hardcore” but for anyone that is, I urge you to read this summary and listen to the bands mentioned, you will not be disappointed.

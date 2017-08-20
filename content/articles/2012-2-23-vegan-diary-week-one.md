@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Clare Cheng and Hannah Cox have survived the first five days of their quest in veganism
 date: "2012-02-23 20:36:53 +0000"
-
-# Attributes from Felix Online V1
-id: "2238"
-old_path: /food/2238/vegan-diary-week-one
+image: "http://felixonline.co.uk/img/upload/201202232033-pk1811-couscous-salad-2.jpg"
+image_caption: "First week dish for the vegans. Alternatively, visit Gaucho for a juicy steak"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2238/vegan-diary-week-one
-imported: true
 comments:
  - value: >
      where's the protein?,where's the protein?,Giant couscous has quite a bit of protein in it but if you don't feel its enough have this for lunch and something with a lot of protein in it for dinner.,Giant couscous has quite a bit of protein in it but if you don't feel its enough have this for lunch and something with a lot of protein in it for dinner.,I see once fresh Cherry Tomatoes chopped in half and not Tinned Chopped Tomatoes as described in the recipe in the picture of this fine meal.,I see once fresh Cherry Tomatoes chopped in half and not Tinned Chopped Tomatoes as described in the recipe in the picture of this fine meal.,I considered this piobisilsty too, but I've always enjoyed cooking and can't think of a single time that it's stressed me out. Apart from my son's first Christmas he was six months old, I'd invited my parents and grandmother round for Christmas dinner and R chose that day to have his very first autistic meltdown. I managed to get the turkey in the oven, but Mum and Nan had to do the
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -29,12 +27,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202232033-pk1811-couscous-salad-2.jpg"
-image_caption: ""
 ---
 
 Hannah and Clare are two real foodies who have become vegan for a month to raise money for the Multiple Sclerosis Trust. They’ve decided to make the most of this opportunity and are on a quest to find really good vegan food. Follow their progress in their weekly column to see if they really can find vegan food that satisfies the meat-eaters among us.

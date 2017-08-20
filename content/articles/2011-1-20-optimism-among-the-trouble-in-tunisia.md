@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Arab world's first popular revolution
 date: "2011-01-20 20:37:06 +0000"
-
-# Attributes from Felix Online V1
-id: "629"
-old_path: /politics/629/optimism-among-the-trouble-in-tunisia
+image: "http://felixonline.co.uk/img/upload/201101202030-dr910-tunisias.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/629/optimism-among-the-trouble-in-tunisia
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -23,12 +20,6 @@ authors:
  - ap1509
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101202030-dr910-tunisias.jpg"
-image_caption: ""
 ---
 
 Until last week, Tunisia, normally considered one of the more politically stable North African states, had had only had two presidents since gaining independence from France in 1956. Now, following weeks of street protests and civil unrest, President Zine al-Abidine Ben Ali’s 23-year reign has come to an abrupt and unexpected end, leaving neighbouring Arab leaders fretting that the contagion may spread.

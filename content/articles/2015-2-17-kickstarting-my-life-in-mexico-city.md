@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Aditya Narayanan discuss the arts and footballs in this dynamic capital as a new home
 date: "2015-02-17 19:15:23 +0000"
-
-# Attributes from Felix Online V1
-id: "5270"
-old_path: /travel/5270/kickstarting-my-life-in-mexico-city
+image: "http://felixonline.co.uk/img/upload/201502171914-ps3110-overview-of-mexico-city-001.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/5270/kickstarting-my-life-in-mexico-city
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502171914-ps3110-overview-of-mexico-city-001.jpg"
-image_caption: ""
 ---
 
 Mexico City glitters at night. Dots of yellow flow across the ground. Like a train of ants, they follow a path as if preordained, in a robotic line with no destination. I can feel the energy from my plane window.

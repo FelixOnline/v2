@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Voxel-based morphometry, left ventral striatum volume and adaptive neural plasticity; Sam Horti breaks down some of the science behind video game addiction
 date: "2011-11-24 20:55:36 +0000"
-
-# Attributes from Felix Online V1
-id: "1809"
-old_path: /games/1809/sex-drugs-and-video-games
+image: "http://felixonline.co.uk/img/upload/201111242048-felix-addiction.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/1809/sex-drugs-and-video-games
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -25,12 +22,6 @@ authors:
  - sph109
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242048-felix-addiction.jpg"
-image_caption: ""
 ---
 
 We've all been there. We've all played games that we are unable to put down, and the responsibility comes down to others to crowbar the controller – or mouse and keyboard if you're so inclined – out of our hands. We've all got up early before school to spend a few golden hours with our latest, engrossing purchase. We've all daydreamed in lectures about how we can't wait to get home to complete our diamond mine in [_Minecraft_](http://www.youtube.com/watch?v=ANgI2o_Jinc), to rack up those head-shots on [_Team Fortress 2_](http://www.youtube.com/watch?v=h_c3iQImXZg), or get through that edge of the seat relegation battle in [_Football Manager_](http://felixonline.co.uk/games/1763/cringe-inducing-football-pun-goes-here/). Some people may have even missed said lectures to do just these things, although they'd never admit to it in public, let alone in a student newspaper.

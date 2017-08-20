@@ -4,18 +4,15 @@ title: >
 subtitle: >
   "I read your article last week and would like to reply to some of the accusations directed at us."
 date: "2016-02-22 15:09:45 +0000"
-
-# Attributes from Felix Online V1
-id: "5951"
-old_path: /comment/5951/letters---in-response-to-your-union-president-speaks-on-rag-mag-sexism-issue-1626
+image: "http://felixonline.co.uk/img/upload/201602221513-felix-ggggg.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5951/letters---in-response-to-your-union-president-speaks-on-rag-mag-sexism-issue-1626
-imported: true
 comments:
  - value: >
      degenerating bastard sympathizer,degenerating bastard sympathizer,degenerating bastard sympathizer,degenerating bastard sympathizer,Thanks for this article. I actually tested out this specific also it incredibly worked. <br>Gucci Shoes http://www.charopf.com/gucci-outlet/,Thanks for this article. I actually tested out this specific also it incredibly worked. <br>Gucci Shoes http://www.charopf.com/gucci-outlet/,agree to this apology due to oversight the best url is definitely: <br> Christian Louboutin Replica,agree to this apology due to oversight the best url is definitely: <br> Christian Louboutin Replica,You can look at that scanner, is incredibly fine and fastYM Protection None of these work inside model twelve. 0. 0. 1102-us. Not a solitary one, they will merely work for the actual variants. Whatever you people that happen to be sending junk email your current websites, you believe you can search to repair that? <br> Cheap Gucci,You can look at that scanner, is incredibly fine and fastYM Protection None of these work in
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -26,12 +23,6 @@ authors:
  - aeg112
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602221513-felix-ggggg.jpg"
-image_caption: ""
 ---
 
 Dear Lucinda,

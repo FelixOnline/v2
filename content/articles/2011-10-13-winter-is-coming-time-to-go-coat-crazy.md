@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A statement coat is essential this season. Embrace the cold and define your style with Alice Yang’s pick of the best
 date: "2011-10-13 22:15:51 +0100"
-
-# Attributes from Felix Online V1
-id: "1513"
-old_path: /fashion/1513/winter-is-coming-time-to-go-coat-crazy
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /fashion/1513/winter-is-coming-time-to-go-coat-crazy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - fashion
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Fur__

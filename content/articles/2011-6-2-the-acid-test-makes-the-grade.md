@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A ‘girly night in’ makes for a great night out
 date: "2011-06-02 19:41:00 +0100"
-
-# Attributes from Felix Online V1
-id: "1310"
-old_path: /arts/1310/the-acid-test-makes-the-grade
+image: "http://felixonline.co.uk/img/upload/201106022040-felix-acid%20test-011.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1310/the-acid-test-makes-the-grade
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - wsp10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201106022040-felix-acid%20test-011.jpg"
-image_caption: ""
 ---
 
 I think seeing [Mad Blud](http://felixonline.co.uk/arts/1309/mad-blud-does-good/) a few days before Anya Reiss’ new play at the Royal Court stood me in good stead. Who knows what sharp edged trouble I might have unwittingly meandered into on the walk from South Ken to Sloane Square? That said, any potential crossfire that was avoided on the journey down, was certainly not in the hour and a half that followed.

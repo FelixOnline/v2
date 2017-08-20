@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Facebook campaign established to combat £50
 date: "2012-03-02 00:58:34 +0000"
-
-# Attributes from Felix Online V1
-id: "2300"
-old_path: /news/2300/online-petition-to-prevent-mountain-hut-charges
+image: "http://felixonline.co.uk/img/upload/201203020058-felix-420593_222175751212310_222174437879108_412468_1709240345_n.jpg"
+image_caption: "The St Mary’s mountain hut"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2300/online-petition-to-prevent-mountain-hut-charges
-imported: true
 comments:
  - value: >
      bool story cro,These people need to get a grip. Yes, the hut was donated. But it costs money to maintain a building, especially in such a location and with a lot of people going in and out. <br> <br>£50. £50 / 25 people = £2 per person. Are you kidding me? Two quid? All this whinging about such a trivial amount of money to stay for a weekend somewhere. People piss a few quid away in the union bar without hesitation, but a roof over your head on a mountian, OMG SO EXPENSIVE!!1!11,They should charge more and hire a cleaning service. I have no issue with the charge if they implement a plan to maintain the building. The mattresses are mouldy, it's dirty, and totally disorganized. I understand it is a place to crash, but as a result it looks, smells, and feels on the inside like a mountainous Welch heroin den. ,The hut is not meant to be nice its meant to be cheap and in comparison to a tent in a cold winters night it is very nice. It was donated to St Marys Mountaineering club for climbing and not as a hotel. By
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203020058-felix-420593_222175751212310_222174437879108_412468_1709240345_n.jpg"
-image_caption: ""
 ---
 
 Having made the decision earlier this year, [Sport Imperial](http://www3.imperial.ac.uk/sports) began charging for a mountain hut used by various Clubs & Societies as a rest stop during outdoor trips. At first, the hut was free to use by societies and houses approximately twenty-five people. Prices of £50 for booking weekend use were introduced without a consultation period, focus group or notification to the clubs.

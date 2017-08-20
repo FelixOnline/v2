@@ -4,18 +4,16 @@ title: >
 subtitle: >
   A sequel to the Channel 4 documentary
 date: "2012-03-13 15:44:16 +0000"
-
-# Attributes from Felix Online V1
-id: "2342"
-old_path: /comment/2342/sri-lankas-killing-fields
+image: "http://felixonline.co.uk/img/upload/201203131544-felix-channel_4.png"
+image_caption: "‘Sri Lanka’s Killing Fields: War Crimes Unpunished’ will air on Wednesday 14th March, 10:55pm on Cha"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2342/sri-lankas-killing-fields
-imported: true
 comments:
  - value: >
      This is the real truth and the people who talk about the last days of the war. Look and justify. <br> <br>http://www.youtube.com/watch?v=sfXbvlte8OQ&amp;feature=youtu.be <br> <br>http://www.youtube.com/watch?v=izpdshu24UI&amp;feature=youtu.be <br> <br> <br>http://www.youtube.com/watch?feature=player_embedded&amp;v=vlwoHyO6klg <br> <br> <br> <br>http://www.youtube.com/watch?feature=player_embedded&amp;v=85W-MUJ9tC8 <br> <br>http://www.youtube.com/watch?v=ZniJ4G6usFk&amp; <br> <br>http://www.youtube.com/watch?v=sfXbvlte8OQ&amp;feature=youtu.be <br> <br>http://www.defence.lk/new.asp?fname=lies_agreed_upon_20110801 <br> <br>http://www.defence.lk/english.asp <br> <br>http://www.slnewsonline.net/LTTE_Atrocities_20060803_Muttur_Massacre.htm <br> <br>http://mbinm.wordpress.com/kattankudy-mosque-massacre/ <br> <br>,At the time of watching <a href="http://www.indianist.com/war-crimes-unpunished-sri-lankas-killing-fields/" title="War Crimes Unpunished- video">Sri Lanka’s Killing Fields video</a> i got tears on my eyes..... <br>,Realitee <br>Do you mean to say that we should disregard what the Channel Four, a reputed news
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - ygr12
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203131544-felix-channel_4.png"
-image_caption: ""
 ---
 
 On Wednesday 14th March, Channel 4 will broadcast ‘Sri Lanka’s Killing Fields: War Crimes Unpunished’ at 10.55 pm. The program is a sequel to the critically acclaimed and RTS-award winning documentary released last year, under a similar title, which shocked and horrified viewers worldwide. The documentary is set against a backdrop of brutal war crimes and human rights violations by the Sri Lankan Armed Forces, once alleged, now confirmed by a report commissioned by the UN in 2011. The report concludes that 40,000 Tamil civilians were killed in the final few weeks of Sri Lanka’s 27 year civil war and that “most civilian casualties in the final phases of the war were caused by government shelling”. The panel who conducted the report, however, were barred by the government from entering Sri Lanka during the 10 month period over which they gathered evidence. Upon release of the report political figures around the world, including David Cameron, demanded an “independent, international investigation”. However, these calls have been repeatedly ignored by the Sri Lankan government, who continue to maintain that the war was carried out with a zero-civilian casualty policy. The upcoming Channel 4 documentary, and its predecessor, show how urgently an independent investigation is really needed.

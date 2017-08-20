@@ -4,18 +4,16 @@ title: >
 subtitle: >
   It’s time to recognise that it’s not an expression of your freedom of speech to make jokes about marginalised parties
 date: "2016-04-29 10:10:46 +0100"
-
-# Attributes from Felix Online V1
-id: "6093"
-old_path: /comment/6093/check-your-privilege
+image: "http://felixonline.co.uk/img/upload/201604291109-felix-Women@Imperial_Web-Banner_2-(2)--tojpeg_1425484491963_x2.jpg"
+image_caption: "YAS QUEEN!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6093/check-your-privilege
-imported: true
 comments:
  - value: >
      Hey, I'm Asian myself, but I think privilege theory is reallllly harmful the way it's being preached right now. I like the concept behind it, but something is going very wrong with the way people are perceiving the message. I would agree with the implementation of privilege theory if it were done in a way that encourages people to be thankful for what they have, not in an acridly accusing way. The (general) cis white male, or privileged people in general right now feel like they are being unnecessarily shamed and antagonized for their privilege. I know their "feelings" don't take precedent over more important issues, but further shaming them is not the way to get them to change their mind. I worry all this will inevitably result in an incredibly schismatic and disharmonious society.<br>Already there is a lot of backlash/criticism of privilege theory. Some interesting videos below.<br>https://www.youtube.com/watch?v=cRsYwu8uD4I<br>https://www.youtube.com/watch?v=AOMpxsiUg2Q<br>https://www.youtube.com/watch?v=6TU50Bz3Ey0,
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201604291109-felix-Women@Imperial_Web-Banner_2-(2)--tojpeg_1425484491963_x2.jpg"
-image_caption: ""
 ---
 
 This piece is something of a sequel – the aftermath of a Women@Imperial week interview in FELIX about a month ago. I spoke about my experience at Imperial as a woman of colour, my reaction to sexist comments that were made as “jokes”, as well as the issue of gendered insults, particularly when it comes to female lecturers. I did this so I could tell those that participated that it was not okay. It didn’t work.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Who is going to be the next Imperial MasterChef?
 date: "2011-10-13 23:52:58 +0100"
-
-# Attributes from Felix Online V1
-id: "1529"
-old_path: /food/1529/imperial-food-awards
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/1529/imperial-food-awards
-imported: true
 comments:
  - value: >
      about Riverford seeming to be a thoogurhly ethical company in everything it does, and I really like getting my box from you. However, I was very surprised that in the same box that included Guy's “beyond the field pontification” I received an uncritical leaflet and endorsement for the Eden Project's Big Lunch.While it is obviously an excellent idea in these fractured times to encourage local community involvement, I was pretty horrified to see that its 2 main sponsors are the Post Office and EDF. What is the Post Office doing to promote community cohesion in allowing itself to be privatised and shutting down many vital urban and rural post offices? While EDF is a multinational power company which has vast investment in nuclear power according to its website EDF, the world’s leading nuclear power utility, operates a French nuclear fleet consisting of 58 reactors spread over 19 different sites . Their website is one of the biggest exercises in greenwash I have ever seen. On top of that, EDF is one of
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -27,12 +24,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It’s our pleasure to announce the first Imperial Food Awards competition! Organised and judged by the Food Editors of Felix, this is your chance to prove your talent and creativity in cooking. In short, you shouldn’t miss it. The reason? Loads of fantastic prizes will be awarded to the winner, who will be announced on October 28.

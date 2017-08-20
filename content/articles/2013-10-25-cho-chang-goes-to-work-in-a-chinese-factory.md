@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Could it be that there is no other play with a more sarcastic title than The World of Extreme Happiness?
 date: "2013-10-25 00:28:18 +0100"
-
-# Attributes from Felix Online V1
-id: "3929"
-old_path: /arts/3929/cho-chang-goes-to-work-in-a-chinese-factory
+image: "http://felixonline.co.uk/img/upload/201310250127-felix-artsextremehappiness11.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3929/cho-chang-goes-to-work-in-a-chinese-factory
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - lwl09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310250127-felix-artsextremehappiness11.jpg"
-image_caption: ""
 ---
 
 What: The World of Extreme Happiness

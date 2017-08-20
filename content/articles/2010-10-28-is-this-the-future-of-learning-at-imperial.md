@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Professor Richard Thomas is the first lecturer at Imperial to encourage iPhones, Androids, and other smartphones in his lectures. Lizzie Crouch attends her first maths class in over six years to find out more!
 date: "2010-10-28 19:56:35 +0100"
-
-# Attributes from Felix Online V1
-id: "283"
-old_path: /news/283/is-this-the-future-of-learning-at-imperial
+image: "http://felixonline.co.uk/img/upload/201010282053-ks607-ahdhdfh.jpg"
+image_caption: "Students answering questions on their phones"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/283/is-this-the-future-of-learning-at-imperial
-imported: true
 comments:
  - value: >
      Is his name Richard or Robert? You use both names!,Sorry, it's Professor Richard Thomas!
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201010282053-ks607-ahdhdfh.jpg"
-image_caption: ""
 ---
 
 I have to admit that I did feel slightly nervous as I sat down in the back of the Clore Lecture Theatre. I had a slight hope that something would become familiar to me and that I wouldn’t feel like a fish-out-of-water Humanities student in a Mathematics lecture... no such luck!

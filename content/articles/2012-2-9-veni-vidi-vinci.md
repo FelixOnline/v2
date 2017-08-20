@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Deepka Rana and George Howard came to the Leonardo exhibition, had a look around then, err, wrote a review, unearthing a few conspiracy theories along the way
 date: "2012-02-09 22:28:00 +0000"
-
-# Attributes from Felix Online V1
-id: "2149"
-old_path: /arts/2149/veni-vidi-vinci
+image: "http://felixonline.co.uk/img/upload/201202092222-cac111-davinci-natlgal003.jpg"
+image_caption: "The consumer response to the release of the Samsung Galaxy Tab didn’t match that of its competitors"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2149/veni-vidi-vinci
-imported: true
 comments:
  - value: >
      The title sounds like something off Starbucks' menu,The title sounds like something off Starbucks' menu
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -30,12 +28,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202092222-cac111-davinci-natlgal003.jpg"
-image_caption: ""
 ---
 
 We would never claim to have an impressive bank of knowledge of the arts, however this did not reduce the sheer excitement felt when, against all odds, we secured a set of, now hallowed, tickets to [the Leonardo da Vinci exhibition](http://www.nationalgallery.org.uk/whats-on/exhibitions/leonardo-da-vinci-painter-at-the-court-of-milan).

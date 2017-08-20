@@ -4,16 +4,13 @@ title: >
 subtitle: >
   "I’ll never again get to live in South Kensington. More precisely, I’ll never again get to live beside Exhibition Road. I’ll miss it."
 date: "2013-12-02 17:09:59 +0000"
-
-# Attributes from Felix Online V1
-id: "4149"
-old_path: /comment/4149/exhibition-ode-fenton-reflects
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/4149/exhibition-ode-fenton-reflects
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - jal08
  - rtf08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 This being my last of an excessive six years at Imperial, I can’t help but wonder, with more than a little panic, just how different life will be outside of the academic bubble. Excactly how I’ll gel with a world of 9-5s, responsibility, mortgages and early nights is uncertain. One thing I do know is clear: I’ll never again get to live in South Kensington. More precisely, I’ll never again get to live beside Exhibition Road. I’ll miss it.

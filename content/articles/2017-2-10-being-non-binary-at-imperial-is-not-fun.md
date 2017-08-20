@@ -4,16 +4,13 @@ title: >
 subtitle: >
   One Imperial student discusses their time at uni, wishing things would “get better” faster
 date: "2017-02-10 14:35:38 +0000"
-
-# Attributes from Felix Online V1
-id: "6757"
-old_path: /features/6757/being-non-binary-at-imperial-is-not-fun
+image: "http://felixonline.co.uk/img/upload/201702101435-felix-Screen Shot 2017-02-10 at 14.34.53.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6757/being-non-binary-at-imperial-is-not-fun
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -24,12 +21,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702101435-felix-Screen Shot 2017-02-10 at 14.34.53.png"
-image_caption: ""
 ---
 
 There is a misconception held by many queer secondary school students that universities are very progressive and tolerant places. The It gets better project is all but built on this idea promoted by society that it’s okay if times are tough now, because one day you will escape your small town. You will travel to a big city where what once made you different and ostracised will make you popular and interesting. This is a nice narrative, but it’s a slow burner, there is no telling when exactly things will ‘get better’, and university should certainly not be guaranteed as a boundary of acceptance. Those freshers are still the same students who were at your school three months ago, it’s not like they took a ‘how not to be a transphobic/homophobic dick’ course over the summer.

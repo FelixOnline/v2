@@ -4,16 +4,13 @@ title: >
 subtitle: >
   College urges vigilance after spate of thefts on campus
 date: "2011-03-03 05:45:56 +0000"
-
-# Attributes from Felix Online V1
-id: "980"
-old_path: /news/980/break-ins-reported-in-eee-building
+image: "http://felixonline.co.uk/img/upload/201103030544-ks607-electric.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/980/break-ins-reported-in-eee-building
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103030544-ks607-electric.jpg"
-image_caption: ""
 ---
 
 Lockers in the Electronic and Electrical Engineering (EEE) building were broken into on Tuesday night. The theft is the second in the building in as many weeks. The College is calling on students and staff to remain vigilant to reduce opportunities for “walk-in thieves”.

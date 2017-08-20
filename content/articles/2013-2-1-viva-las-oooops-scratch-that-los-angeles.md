@@ -4,18 +4,15 @@ title: >
 subtitle: >
   LA is the place to go for sun, sand, and anything else you may want, says Natalia Petrou
 date: "2013-02-01 00:06:54 +0000"
-
-# Attributes from Felix Online V1
-id: "3220"
-old_path: /travel/3220/viva-las--oooops-scratch-that--los-angeles
+image: "http://felixonline.co.uk/img/upload/201302010005-tna08-travel3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/3220/viva-las--oooops-scratch-that--los-angeles
-imported: true
 comments:
  - value: >
      Great Article! Go Natalie! We need more...,bravo natalie!!!!teleio!!!!!,Impressed! now i know where I'll go next summer! :) <br> ,Sublime article !!!!!! How much did the mayor of LA pay u to advertise it ?
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302010005-tna08-travel3.jpg"
-image_caption: ""
 ---
 
 I know most of you have connected the above phrase with Las Vegas, but I decided it’s high time that we turned our attention also to Los Angeles and its hidden gems. From the moment you land there, you really feel you are in a truly cosmopolitan city, which at the same time features lots of green areas, beaches and recreational activities. It’s difficult to comment on every aspect of this city, but I will try to draw a general image of what it has to offer and basically appealed to me.

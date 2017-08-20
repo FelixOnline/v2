@@ -4,18 +4,15 @@ title: >
 subtitle: >
   That is what Sachin Tendulkar has being telling Indian fans in the latest advertising campaign for the World Cup. On the eve of the tournament, Kunal Wagle tells Felix what to expect.
 date: "2015-02-12 22:43:23 +0000"
-
-# Attributes from Felix Online V1
-id: "5243"
-old_path: /sport/5243/come-lets-live-the-dream-again
+image: "http://felixonline.co.uk/img/upload/201502131620-ps3110-462699-chrisgayleafp-1352386956-759-640x480.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5243/come-lets-live-the-dream-again
-imported: true
 comments:
  - value: >
      England also reached the final in 1979. They were famously blown away by a combination of the batting of Viv Richards and Collis King plus the lethal bowling of Joel Garner for the West Indies. West Indies won by 92 runs, having taken England's last 8 wickets for a paltry 11 runs.,Good spot Ahmer. I missed that one
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502131620-ps3110-462699-chrisgayleafp-1352386956-759-640x480.jpg"
-image_caption: ""
 ---
 
 ## Pool A

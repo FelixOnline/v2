@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Jingjie Cheng examines how Drawn by Light reimagines photography
 date: "2015-02-17 16:37:29 +0000"
-
-# Attributes from Felix Online V1
-id: "5265"
-old_path: /arts/5265/seeing-photography-in-a-new-light
+image: "http://felixonline.co.uk/img/upload/201502171637-ps3110-leicester-square,-1896,-paul-martin.jpg"
+image_caption: "Leicester Square, 1896, Paul Martin, The Royal Photographic Society Collection."
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5265/seeing-photography-in-a-new-light
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502171637-ps3110-leicester-square,-1896,-paul-martin.jpg"
-image_caption: ""
 ---
 
 Photography exhibitions are often about particular movements, themes, or individual photographers. Rarely do you find an exhibition as all-encompassing as this show of the best of the Royal Photographic Society’s (RPS) collection. Besides including instantly recognizable photos, such as Steve McCurry’s _National Geographic_ magazine cover photo _Afghan Girl_, the exhibition is notable for its effort to present a macroscopic view of photographic history, drawing links across time, individuals and whole movements. The Society is in a unique position as both bystander and participant in the major photographic milestones of history, and this exhibition exploits both these roles ingeniously to create a fascinating and informative tribute to the art of photography.

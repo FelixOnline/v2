@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Dillinger Escape Plan Electric Ballroom, 5th November 2010
 date: "2010-11-25 20:55:03 +0000"
-
-# Attributes from Felix Online V1
-id: "435"
-old_path: /music/435/the-dillinger-escape-plan-are-goddamn-terrifying-and-terrific
+image: "http://felixonline.co.uk/img/upload/201011252052-nm1010-dillinge.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/435/the-dillinger-escape-plan-are-goddamn-terrifying-and-terrific
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - gep07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011252052-nm1010-dillinge.jpg"
-image_caption: ""
 ---
 
 Dillinger have been one of my favorite bands ever since I first heard “Calculating Infinity”. I distinctly recall a spasm-inducing epiphany. Since then they’ve changed a fair amount: guitar virtuoso Ben Weinman is the only remaining original member of the band and their music, though firmly rooted in math-metal and avant-garde metal, has known some pretty wacky stylistic mutations.

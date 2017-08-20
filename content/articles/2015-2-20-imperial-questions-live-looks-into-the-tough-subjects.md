@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philip Kent reports on ICTV’s exciting new show
 date: "2015-02-20 00:04:39 +0000"
-
-# Attributes from Felix Online V1
-id: "5281"
-old_path: /news/5281/imperial-questions-live-looks-into-the-tough-subjects
+image: "http://felixonline.co.uk/img/upload/201502200004-ps3110-iqlaughigforphilip.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5281/imperial-questions-live-looks-into-the-tough-subjects
-imported: true
 comments:
  - value: >
      kLjLkz http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com,kLjLkz http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com,thanks benefit of this great illuminating website, finance up the massive undertaking check out this casino offers,thanks benefit of this great illuminating website, finance up the massive undertaking check out this casino offers,thanks for this significant revealing website, living up the great jobless check out this online casino offers,thanks for this significant revealing website, living up the great jobless check out this online casino offers,agree out this online casino where you can win legal money with the serve of this enchiridionPlaying bitcoin casino bonus,agree out this online casino where you can win legal money with the serve of this enchiridionPlaying bitcoin casino bonus,thanks for this great edifying website, living up the momentous jobless check out this online casino offers,thanks for this great edifying website, living up the momentous jobless check out this online casino offers,th
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502200004-ps3110-iqlaughigforphilip.png"
-image_caption: ""
 ---
 
 Last Wednesday saw the very first broadcast of Imperial Questions Live, a new current affairs debating programme asking the big questions on campus.

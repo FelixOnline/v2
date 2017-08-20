@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Alex Hooftman recounts the tale of Bestival
 date: "2012-10-11 21:26:41 +0100"
-
-# Attributes from Felix Online V1
-id: "2677"
-old_path: /music/2677/bestival-its-in-the-name
+image: "http://felixonline.co.uk/img/upload/201210112227-felix-bestival.jpg"
+image_caption: "This photo makes me hate the fact  it is not summer anymore..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2677/bestival-its-in-the-name
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - fmusic
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210112227-felix-bestival.jpg"
-image_caption: ""
 ---
 
 Monday morning at Bestival provided one of those typically British end-of-summer moments. As 50,000 hung-over festival goers packed up, or, in many cases, abandoned, their tents and gazebos, a distinct air of conclusion could be felt in the rainy skies of Robin Hill Country Park on the Isle of Wight. The preceding four days could not have been in starker contrast, with intense sunshine ensuring unfortunate burns and tan lines all round, accompanying a barmy weekend of wide-ranged music and comedy.

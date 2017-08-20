@@ -4,16 +4,13 @@ title: >
 subtitle: >
   An editorial on running for a sabbatical position
 date: "2013-01-31 22:32:51 +0000"
-
-# Attributes from Felix Online V1
-id: "3197"
-old_path: /comment/3197/run-for-felix-editor
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3197/run-for-felix-editor
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Elections are here once again. It seems like only yesterday I was putting my name down for [Felix Editor ](http://www.youtube.com/watch?v=EfKUDSLPias)and hoping someone seconds me.

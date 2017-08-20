@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Imperial Entrepeneurs Jamal Khan and Rafal Szymanski report on talks from two new companies looking to harness the power of the social network
 date: "2011-10-20 22:52:32 +0100"
-
-# Attributes from Felix Online V1
-id: "1576"
-old_path: /biz/1576/founder-stories-storify-and-minutebox
+image: "http://felixonline.co.uk/img/upload/201110202352-felix-xavierdamman.png"
+image_caption: "Xavier Damman, founder of Storify, discusses his move to Silicon Valley"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/1576/founder-stories-storify-and-minutebox
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -24,12 +22,6 @@ authors:
  - extuser0
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110202352-felix-xavierdamman.png"
-image_caption: ""
 ---
 
 Last Friday, as part of the Imperial Entrepreneurs speaker series programme, the founders of [Storify](http://storify.com), Xavier Damman, and [MinuteBox](http://minutebox.com), Josh Liu, came to the Imperial Business School.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial vs. Christchurch Canterbury is a close call
 date: "2014-11-10 22:06:08 +0000"
-
-# Attributes from Felix Online V1
-id: "4836"
-old_path: /sport/4836/rugby-2nd-xv-lose-close-game
+image: "http://felixonline.co.uk/img/upload/201411102205-ps3110-crotch%20stretch%20icurfc.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4836/rugby-2nd-xv-lose-close-game
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - jb2013
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102205-ps3110-crotch%20stretch%20icurfc.jpg"
-image_caption: ""
 ---
 
 Imperial’s 2nd team made the long journey to Kent to play Christchurch Canterbury, looking to rectify last week’s game which by all rights should have been won.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tim Beasley reports as medics are soundly defeated
 date: "2011-11-10 22:31:45 +0000"
-
-# Attributes from Felix Online V1
-id: "1750"
-old_path: /sport/1750/ic-trounce-medics
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1750/ic-trounce-medics
-imported: true
 comments:
  - value: >
      My grandfather Horace Cecil Diss was wndeuod on the Somme in 1916 seconds after leaving a trench while trying to take High Wood. High Wood was taken within a few days later but this was many months after troops had been in the wood for the first time but then withdrew. Many thousands of troops on both sides were killed taking this low elevation hill.He survived after 24hr in a dugout and a further day on train to hospital. On recovery he was then responsible for training more troops prior to moving to france and the front. Some photos of the Somme locations can be seen at www.dissfamily.org.uk under meet the family,Romain dit :Bonjour j aimerais <a href="http://rtzakyl.com">savior</a> qu elles sont les phrases parque9 en dessus juste en dessous du toit, je suis passer devant en partant en vacances et j ai pas eu le temps de les noter. Merci de me re9pondre., buy cialas on line health because life car detailing insurance
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Football__

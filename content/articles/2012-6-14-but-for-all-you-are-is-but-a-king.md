@@ -4,16 +4,13 @@ title: >
 subtitle: >
   But for all you are is but a King
 date: "2012-06-14 20:55:31 +0100"
-
-# Attributes from Felix Online V1
-id: "2572"
-old_path: /phoenix/2572/but-for-all-you-are-is-but-a-king-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/2572/but-for-all-you-are-is-but-a-king-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -23,12 +20,6 @@ authors:
  - htb08
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 But for all you are is but a King,

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park checks out the latest offerings from Korea
 date: "2012-11-01 23:07:25 +0000"
-
-# Attributes from Felix Online V1
-id: "2810"
-old_path: /film/2810/2012-london-korean-film-festival
+image: "http://felixonline.co.uk/img/upload/201211012306-tna08-filmfest.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2810/2012-london-korean-film-festival
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211012306-tna08-filmfest.jpg"
-image_caption: ""
 ---
 
 Yes, I’m Korean. My surname is Park. That automatically means I’m Korean. And so I watch Korean films. Not exactly the most accessible to western audiences or appealing I’m sure, but slowly there have been growing interestsin Asian cinema and noticeably films from Korea have caught the attention of various prestigious festivals and prizes.

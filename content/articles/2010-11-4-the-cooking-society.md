@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Mitchell Debrabant gives us a flavour of their club (sandwich)
 date: "2010-11-04 18:31:30 +0000"
-
-# Attributes from Felix Online V1
-id: "299"
-old_path: /food/299/the-cooking-society
+image: "http://felixonline.co.uk/img/upload/201011041826-ma1307-lolmsart.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/299/the-cooking-society
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - md608
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201011041826-ma1307-lolmsart.jpg"
-image_caption: ""
 ---
 
 “One cannot think well, love well, sleep well, if one has not dined well.” – Virginia Woolf.

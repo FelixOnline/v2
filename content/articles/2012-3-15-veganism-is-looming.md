@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Looking back on a vegan experience
 date: "2012-03-15 20:59:50 +0000"
-
-# Attributes from Felix Online V1
-id: "2367"
-old_path: /food/2367/veganism-is-looming
+image: "http://felixonline.co.uk/img/upload/201203152059-ig711-img-20120207-00363.jpg"
+image_caption: "“And we’re back in the game!”"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2367/veganism-is-looming
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -25,12 +23,6 @@ authors:
  - hc1409
  - ig711
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203152059-ig711-img-20120207-00363.jpg"
-image_caption: ""
 ---
 
 With our final week of veganism looming, it’s time for us to look back at what we’ve achieved so far as well as look forward to our unrestricted diets! We’ve enjoyed being vegan more than we thought we would. Our preconception of the vegan lifestyle was that of tasteless and unfulfilling meals that satisfied your body, but not your mind. So it was a surprise when we found that actually some parts of being vegan were pretty good.

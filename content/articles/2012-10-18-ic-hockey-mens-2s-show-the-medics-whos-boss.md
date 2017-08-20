@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Ben Bell reports
 date: "2012-10-18 21:10:50 +0100"
-
-# Attributes from Felix Online V1
-id: "2692"
-old_path: /sport/2692/ic-hockey-mens-2s-show-the-medics-whos-boss
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2692/ic-hockey-mens-2s-show-the-medics-whos-boss
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - bb308
  - csw09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 With an impressive 3-1 pre-season victory over RUMS 2nd XI last week, IC 2s arrived at Harlington keen to keep up the high standard of hockey and register a win in our first competitive fixture of the season. Having been defeated at the end of last season in a close-fought Varsity match, we were wary of the threat posed by the ICSM 2s.

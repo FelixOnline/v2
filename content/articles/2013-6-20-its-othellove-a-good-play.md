@@ -4,16 +4,13 @@ title: >
 subtitle: >
   ....and it's not yo gramma's Shakespeare, according to Kate Pumphrey
 date: "2013-06-20 20:52:24 +0100"
-
-# Attributes from Felix Online V1
-id: "3709"
-old_path: /arts/3709/its-othellove-a-good-play
+image: "http://felixonline.co.uk/img/upload/201306202152-cac111-othello.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3709/its-othellove-a-good-play
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - kep12
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306202152-cac111-othello.jpg"
-image_caption: ""
 ---
 
 What is your notion of prime, weeknight entertainment? If the answer is a three-and-a-quarter hour performance of an early Jacobean tragedy, executed in the original lexicon, dwelling on jealousy, treachery and racism, and ending in a bloodbath, I suspect that most people would be, well – disconcerted.

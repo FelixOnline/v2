@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A different set of highlights from Sunday's events
 date: "2012-03-01 22:36:20 +0000"
-
-# Attributes from Felix Online V1
-id: "2288"
-old_path: /film/2288/legs-laughs-and-oscar-highlights
+image: "http://felixonline.co.uk/img/upload/201203012236-ams111-pitt_jolie_oscars_2012.jpg"
+image_caption: "Guess who?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2288/legs-laughs-and-oscar-highlights
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - ams111
  - ffilm
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203012236-ams111-pitt_jolie_oscars_2012.jpg"
-image_caption: ""
 ---
 
 After a struggle to grab the interest of viewers the last couple of years, the 84th Oscars may have created a positive future for the show. Billy Crystal kept the night running smoothly with his humorous skits, and all the attendees were charismatic and optimistic. Although comedy was present throughout the night, it was a classy and elegant event that when all mixed together, wonderfully celebrated another year of film.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Whomever made the decision should have the decency to explain their reasoning
 date: "2011-06-09 21:47:41 +0100"
-
-# Attributes from Felix Online V1
-id: "1356"
-old_path: /comment/1356/accountability-is-needed-on-case-decision
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1356/accountability-is-needed-on-case-decision
-imported: true
 comments:
  - value: >
      Usually if no one takes responsibility it implies that a decision was taken by non-academic staff. <br> <br>I think this is becoming a big problem and something that must be addressed sooner than later. Where the duties of non-academic staff ends and how involved they can be in the running of the college. This is in particular important if most admins are moved to Shepherds bush in which there can be no oversight! <br> <br>I think the relationship between academic and non-academic staff and the line separating them may require an editorial! <br>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A great number of controversial decisions have been taken at Imperial this year. Some have been taken by departments, some have been taken by central College management, others have been taken by the Union. The one thing that unites them, something that Felix has always been pleasantly surprised by, is the willingness of the decision-makers to put forward their argument; to answer questions about their motivations; and to make themselves accountable. Of course this has occurred to varying degrees, and we have not always agreed with their arguments or motivations, but the story of the past academic year is of people accepting the accountability that must come with authority. Which is why we are disappointed that this accountability has not accompanied Imperial’s decision to cut its £3,000 subscription to the Campaign for Science and Engineering (CaSE).

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Mohammad Mirza and Mark England have a blast in Camden
 date: "2012-03-01 23:22:56 +0000"
-
-# Attributes from Felix Online V1
-id: "2299"
-old_path: /music/2299/kurt-vile-we-like-your-style
+image: "http://felixonline.co.uk/img/upload/201203012322-cac111-kurtv.jpg"
+image_caption: "Kurt Vile, what a man!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2299/kurt-vile-we-like-your-style
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -26,12 +24,6 @@ authors:
  - mum09
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203012322-cac111-kurtv.jpg"
-image_caption: ""
 ---
 
 We are going to start this review with a bold statement: __Kurt Vile’s ___Smoke Rings for my Halo _was the hottest album of 2011. No matter how poignant PJ Harvey’s Let England Shake was or how acclaimed the Horror’s Skying was, no-one can convince us otherwise. It was with this in mind that we headed to Koko on 21 February for the NME awards with high expectations in mind.

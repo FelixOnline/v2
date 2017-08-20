@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Will £600 million be enough to help the UK keep any of its COP21 promises?
 date: "2016-02-05 12:03:09 +0000"
-
-# Attributes from Felix Online V1
-id: "5868"
-old_path: /science/5868/britain-gets-the-push-to-clean-our-lungs
+image: "http://felixonline.co.uk/img/upload/201602051201-felix-5641181503_bb7dfb6f62_o.jpg"
+image_caption: "Smog obscuring the view from Primrose Hill."
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5868/britain-gets-the-push-to-clean-our-lungs
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - rs3114
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602051201-felix-5641181503_bb7dfb6f62_o.jpg"
-image_caption: ""
 ---
 
 Have you ever smelled the air in London? Wait, stupid question. For those who aren’t aware, London’s air isn’t the best on the market. Nor is the rest of the UK’s. In fact, the UK has been found in breach of EU regulations on air quality in 16 zones nationwide for the last 15 years.

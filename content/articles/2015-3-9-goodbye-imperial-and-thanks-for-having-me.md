@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The Union and College need to keep working together for the future
 date: "2015-03-09 18:19:59 +0000"
-
-# Attributes from Felix Online V1
-id: "5372"
-old_path: /comment/5372/goodbye-imperial-and-thanks-for-having-me
+image: "http://felixonline.co.uk/img/upload/201503091819-ps3110-businesschool.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5372/goodbye-imperial-and-thanks-for-having-me
-imported: true
 comments:
  - value: >
      oasis fitflops <br>fitflop outlet singapore http://www.fitflopssingapore.com/,fitflop trainers <br>fitflops sale australia http://fitflopsau.blogspot.com/,papillio birkenstock <br>buy birkenstocks online http://birkenstockaustraliamalls.com/,louboutin new york <br>christian louboutin outlet online http://canadachristianlouboutin.blogspot.com/
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503091819-ps3110-businesschool.jpg"
-image_caption: ""
 ---
 
 I’ve now spent four years studying as an undergraduate at Imperial. That feels like a long time – I don’t really remember the anxious teenager who arrived here in 2011, who was unsure of how to organise a weekly shop and do the laundry. I seem to have regressed in my organisation of chores, as my life has filled up with report writing, project work and the whole ‘clubs and societies’ thing on which I sometimes spend more time than my degree.

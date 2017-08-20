@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Reign: Season 1
 date: "2014-06-06 02:49:55 +0100"
-
-# Attributes from Felix Online V1
-id: "4665"
-old_path: /tv/4665/long-may-she-reign
+image: "http://felixonline.co.uk/img/upload/201406060350-jal08-91c362c94b581ae6485fdffa57e3c9d8.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4665/long-may-she-reign
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -25,12 +22,6 @@ authors:
  - jgp09
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201406060350-jal08-91c362c94b581ae6485fdffa57e3c9d8.jpg"
-image_caption: ""
 ---
 
 __Reign: Season 1__

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   You don't have to be a philanthropist to want to donate your organs
 date: "2012-06-14 19:42:17 +0100"
-
-# Attributes from Felix Online V1
-id: "2549"
-old_path: /comment/2549/organ-donation-is-it-selfless-or-selfish
+image: "http://felixonline.co.uk/img/upload/201206142040-ams111-comment3.jpg"
+image_caption: "Think about it. If you donate an organ you could become part of a rock star or Nobel laureate. Or if"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2549/organ-donation-is-it-selfless-or-selfish
-imported: true
 comments:
  - value: >
      I think it is sad that people need to think of a selfish reason to donate their organs - even then it is not so useful since after you die, you and your family probably would have no way of knowing who has what?,http://abcnews.go.com/Health/transplant-surgeon-proposes-harvesting-kidneys-donor-death/story?id=16499522#.T88_hI4o1OR <br>Be careful what you wish for. This makes the anesthesia staff the final cause of death. If this is to become a trend, as of now it is only a proposal, it is certainly a slippery slope, because as of now, roughly 35% of those who are scheduled to donate their organs do not fail the apnea test-that is they do not die on their own within an hour to an hour and one-half, after having life support withdrawn-so they are truly not "almost dead enough" to donate. And yet that had been their prior medical assessment, which brought them to be originally scheduled as an organ donor.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - skw10
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206142040-ams111-comment3.jpg"
-image_caption: ""
 ---
 
 Don’t worry. I’m not going to intimidate you with statistics in order to convince you to give your organs away at death. Nor am I going to persuade you that you’ll be needing them in the afterlife. It is after all your body and it’s really none of my business what you do with it.

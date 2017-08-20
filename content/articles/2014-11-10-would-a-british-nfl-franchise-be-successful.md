@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Phoebe Hunter discusses of the possibility of a permanent team at Wembley
 date: "2014-11-10 21:58:35 +0000"
-
-# Attributes from Felix Online V1
-id: "4833"
-old_path: /sport/4833/would-a-british-nfl-franchise-be-successful
+image: "http://felixonline.co.uk/img/upload/201411102158-ps3110-london_1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4833/would-a-british-nfl-franchise-be-successful
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - ph1414
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102158-ps3110-london_1.jpg"
-image_caption: ""
 ---
 
 Last Sunday was the 10th NFL game to be hosted at Wembley Stadium. The competing teams were the Atlanta Falcons, who sacrificed a game at their home stadium to travel over here, and the Detroit Lions. The first half of the game was a great start for the Falcons, who finished the half with a 21 point lead, however the game turned in the second half and came down to the last 4 seconds when the Lions kicked a field goal to win by a score of 22-21. This was the second of three NFL games being played at Wembley this year – the most American Football games to be played in the UK during one season.

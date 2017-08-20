@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Charles Betts makes us envious with his glorious food escapade
 date: "2011-03-03 19:25:14 +0000"
-
-# Attributes from Felix Online V1
-id: "997"
-old_path: /food/997/savouring-the-tuscan-hills
+image: "http://felixonline.co.uk/img/upload/201103031922-nm1010-tuscanhi.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/997/savouring-the-tuscan-hills
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - cb403
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201103031922-nm1010-tuscanhi.jpg"
-image_caption: ""
 ---
 
 Quite often, when planning my next holiday, I get all too carried away with the prospect of exciting adventures and wonderful discoveries. I’ve plodded along on a camel in the Sahara, watched an interesting game of ping-pong in Bangkok, and even catapulted myself out of a plane somewhere in Texas. Rather thrilling, you might think. But no, they were all massively disappointing. It seems that the more exotic the holiday, the more vile the cooking. Travelling isn’t pleasant when the cooking is bad, especially when you spend more time on the loo than off it.

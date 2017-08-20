@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Nathaniel Gallop thinks respect for beliefs must be given to be received
 date: "2015-02-09 19:52:19 +0000"
-
-# Attributes from Felix Online V1
-id: "5230"
-old_path: /comment/5230/religion-should-be-a-private-matter
+image: "http://felixonline.co.uk/img/upload/201502091952-ps3110-more-god.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/5230/religion-should-be-a-private-matter
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - ps3110
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502091952-ps3110-more-god.jpg"
-image_caption: ""
 ---
 
 I was seven years old when I first self-identified as an atheist.

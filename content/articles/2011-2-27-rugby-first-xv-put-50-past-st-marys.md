@@ -4,18 +4,15 @@ title: >
 subtitle: >
   IC 1st 53-7 St. Mary’s 2nd. By David Wilson
 date: "2011-02-27 20:01:40 +0000"
-
-# Attributes from Felix Online V1
-id: "926"
-old_path: /sport/926/rugby-first-xv-put-50-past-st-marys
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/926/rugby-first-xv-put-50-past-st-marys
-imported: true
 comments:
  - value: >
      Youre so cool! I dont suppose Ive learn sneothimg like this before. So good to search out someone with some original thoughts on this subject. realy thanks for starting this up. this website is sneothimg that is wanted on the internet, somebody with a bit originality. useful job for bringing sneothimg new to the internet!,Dear Susan,Many thanks for this <a href="http://ddonmbjg.com">reeivw</a> of my novel. I'm glad you took a chance on it and enjoyed it as much as you did. The sequel will be out shortly, and if you'd like a copy, I'd be happy to send it to you. Cheers,Jay Ridler, been limited those quote propecia without prescription hormonal drugs insurance deals auto
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Following the fifteen’s crushing victory over Portsmouth the previous week, Imperial again showed impressive away from, turning over St Mary’s seconds by a massive score.

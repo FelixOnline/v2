@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Jingjie Cheng explores the interaction between art and science
 date: "2015-03-25 12:41:06 +0000"
-
-# Attributes from Felix Online V1
-id: "5434"
-old_path: /arts/5434/an-ode-to-medicine-mortality-and-art
+image: "http://felixonline.co.uk/img/upload/201503251239-ff712-t07009_10.jpg"
+image_caption: "The Scalpel 2, Barbara Hepworth, 1949"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5434/an-ode-to-medicine-mortality-and-art
-imported: true
 comments:
  - value: >
      Hi there, after reading this awesome post i am also cheerful to share my familiarity here with friends. <br>parajumpers gloria woman http://www.essenceofeden.co.uk/?uk-parajumpers-gloria-woman-8001.html,fitflops in stores <br>fitflops sale online http://australiafitflops.blogspot.com/,birkenstock arizona sandals <br>gizeh birkenstock http://birkenstockaustraliamalls.com/,birkenstock outlet online shop <br>birkenstock sydney http://birkenstocksaleaustralia.blogspot.com/,christian louboutin bianca sale <br>christian louboutin http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin cheap <br>buy christian louboutin shoes canada http://christianlouboutincanadaoutlet.blogspot.com/,Basically needed to mention I'm just thankful I stumbled in your website!. <br>NHL 17 http://comparesecurityproducts.co.uk/csp-forum/index.php?p=/discussion/86570/buy-nba-2k17-coins-iowa-teenager-charged-of-killing-his-mother-on-the-gaming-halo-3
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251239-ff712-t07009_10.jpg"
-image_caption: ""
 ---
 
 In his poem _Larynx_, Pablo Neruda implored of Death:

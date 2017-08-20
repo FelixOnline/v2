@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Rebekah Judge tries to convince you to confront your own mortality and become an organ donor
 date: "2013-05-09 22:03:21 +0100"
-
-# Attributes from Felix Online V1
-id: "3563"
-old_path: /news/3563/organ-donor-drive-at-imperial
+image: "http://felixonline.co.uk/img/upload/201305092302-tna08-donor-card-001.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3563/organ-donor-drive-at-imperial
-imported: true
 comments:
  - value: >
      Don't be fooled into this people, this is all a scam! This video isn't for the faint of heart: <br>http://www.youtube.com/watch?v=aclS1pGHp8o
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305092302-tna08-donor-card-001.jpg"
-image_caption: ""
 ---
 
 Organ donation can be a taboo topic, as thinking about it requires us to confront our own mortality; something most of us would prefer not to do. This taboo needs to be tackled, as the mismatch between the number of people needing a transplant, and those willing to donate their organs, is vast. More than 10,000 people in the UK are currently in need of a transplant, and of these, 1000 die needlessly each year whilst on the waiting list. That’s three people a day dying because they do not receive an organ in time.

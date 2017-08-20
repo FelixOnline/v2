@@ -4,18 +4,16 @@ title: >
 subtitle: >
   They don't reward the player enough to sustain his/her attention
 date: "2011-02-27 12:36:02 +0000"
-
-# Attributes from Felix Online V1
-id: "901"
-old_path: /comment/901/video-games-just-arent-as-good-as-they-used-to-be
+image: "http://felixonline.co.uk/img/upload/201102271233-ks607-jigglypu.jpg"
+image_caption: "Oh Jigglypuff, so many memories..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/901/video-games-just-arent-as-good-as-they-used-to-be
-imported: true
 comments:
  - value: >
      Why i agree with the title, i do not agree with your explanation. The audience has considerably widened. The people that would try that same level over and over still exists, but due to the rise of casual gaming there now is a majority of players that do not have the eagerness to do so. In fact current games are over-rewarding, not under-rewarding, compared to older games. You get a crown just for buying the game so to say. You don't have to be good, you get you gold anyway. This is so the majority of gamers feel they accomplished something. To oldskool gamers the challenges involved may seem ridiculously low, but it's just a new audience nowadays. the casual gamer does NOT want to wait or retry or work hard for his rewards. the industry just caters to that need. its like hollywood vs artfilm, there are good movies, more then ever in fact - the problem is just that most films are made for most people, not for the enthusiast-cinema-freak. people want it, people get it.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +26,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102271233-ks607-jigglypu.jpg"
-image_caption: ""
 ---
 
 I have a younger sibling. He's quite the games enthusiast. Whenever I visit home, I notice some new console videogame being played on the TV and I'm often greeted with an explanation of the gameplay. I can't help but notice, however, that commitment to single games has weakened over the years, and it appears that stopping halfway through a level to play something entirely different has become acceptable behaviour.

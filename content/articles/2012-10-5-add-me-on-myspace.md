@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Justin Timberlake announced the "new Myspace" which is set to launch soon, but will it be second time lucky for the former social networking powerhouse.
 date: "2012-10-05 11:53:54 +0100"
-
-# Attributes from Felix Online V1
-id: "2605"
-old_path: /tech/2605/add-me-on-myspace
+image: "http://felixonline.co.uk/img/upload/201210051246-nn1209-myspace-new-cnyk.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tech/2605/add-me-on-myspace
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tech
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jp1409
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210051246-nn1209-myspace-new-cnyk.jpg"
-image_caption: ""
 ---
 
 After launching in 2003, MySpace was guilty of taking many of our social networking virginities by taking advantage of us being embarrassing teenagers while we posed, pouting in front of mirrors with a 1MP camera phone.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Calum Skene reviews some great indie games (yes, again)!
 date: "2013-11-24 16:37:22 +0000"
-
-# Attributes from Felix Online V1
-id: "4130"
-old_path: /games/4130/indied-games-that-you-will-surely-love
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4130/indied-games-that-you-will-surely-love
-imported: true
 comments:
  - value: >
      Comment's author: 子青08/18/07 12:58:00 AM這樣啊,學長<br>下次我陪你去旅行,健行好了<br><br>我不知道你曉不曉得<br>我剛到台灣讀書的時候,第一學期<br>覺得自己快要收拾行李打道回府的時候<br>是你一次又一次, 一句又一句的鼓勵,讓我振作起來<br>你一直是我的模範,榜樣<br><br>如果,你認為一個處處真心待人,給予學弟學妹最真誠的建議,鼓勵<br>成為很多人的模範<br>引令別人走上研究道路的男人不帥的話,我可無話可說啊<br><br>還有,如果手腦不協調還能以果繩為博士研究課題<br>那肯定可以出一本非常勵志感人的自傳了<br><br>學長,沒有正妹,那又怎樣<br><br><br>
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -27,12 +24,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Recently I have picked up a few games through steam sales which I have loved for their originality. These were cheap games in which I have already racked up an impressive (or unimpressive depending on your viewpoint) number of hours in. So if you’re looking for a great game to add to your steam libraries read on.

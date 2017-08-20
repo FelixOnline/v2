@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Kamil McClelland reviews Peter Sellars’ contemporary take on a classic
 date: "2015-03-25 13:12:51 +0000"
-
-# Attributes from Felix Online V1
-id: "5446"
-old_path: /arts/5446/the-indian-queen--purcells-final-flourish
+image: "http://felixonline.co.uk/img/upload/201503251312-ff712-eno-the-indian-queen-maritxell-carrero-and-julia-bullock-1-(c)richard-hubert-smitha.jpg"
+image_caption: "Maritxell Carrero and Julia Bullock in The Indian Queen. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5446/the-indian-queen--purcells-final-flourish
-imported: true
 comments:
  - value: >
      Good day, tidy websites you possess going here.| <br>cs go skins battle scarred http://isnitro.com/forum/topic/1842-the-reduced-down-on-nba-2k16-mt-points-exposed/
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503251312-ff712-eno-the-indian-queen-maritxell-carrero-and-julia-bullock-1-(c)richard-hubert-smitha.jpg"
-image_caption: ""
 ---
 
 To call this production of _The Indian Queen_ at the __ENO__ Purcell’s opera might be seen as unfaithful to the extent to which Peter Sellars has reinvented the work. First performed in 1695 only a short walk away at __Theatre Royal__ in Drury Lane, _The Indian Queen_ was Henry Purcell’s final work, for he was to pass away tragically prematurely later that year. Based on a libretto of the same name written thirty years previously by John Dryden, Purcell was unable to finish the work, and hence it has been largely left abandoned from the contemporary repertoires of the world’s great opera houses. Yet, as brilliantly illustrated in this interpretation of the piece, Purcell’s music still carries all of the weight and majesty of his original vision, proving to any listeners that he was a true master of Baroque opera.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   How we can explain China’s gender ratios from an evolutionary standpoint and what they mean to imbalances in the rest of the world
 date: "2011-11-17 20:29:06 +0000"
-
-# Attributes from Felix Online V1
-id: "1760"
-old_path: /science/1760/china-is-living-proof-of-fishers-principle
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1760/china-is-living-proof-of-fishers-principle
-imported: true
 comments:
  - value: >
      I agree with this article, but because China has such a great ratio between males and females, doesn't this seem to increase their military power? If so, could China soon become the dominant country of the world by surpassing the United States? China may not only surpass the United States in warfare but they may also surpass the United States in economics, politics, and culture. We must take this into consideration to which such thing may happen whether it be 0.1% of it happening. The occurance of an "Asian Century" may lie close ahead of us. <br>This is just my opinion. Thanks!
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Fisher’s principle is an evolutionary argument that explains why most sexual species tend to have a stable gender ratio that approximates 1:1. The principle is that, as one gender increases in abundance, the marginal value of having offspring of the other gender increases. So any genetic predisposition to have more of one gender than the other gets balanced out. Most species exhibit this property, and historically the gender ratio of Humans at birth has been ~105:100. Males having a slight historical surplus due to our greater tendency than females to get ourselves killed; fighting wars, hunting bears, or similar. The stability innate in Fisher’s principle is elegant, and easily understood, and this is why it is celebrated as one of the greatest arguments in evolutionary theory.

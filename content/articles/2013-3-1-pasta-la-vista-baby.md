@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Elizabeth Crow on jazzing up Mondays and THE de-facto student dish
 date: "2013-03-01 00:03:13 +0000"
-
-# Attributes from Felix Online V1
-id: "3398"
-old_path: /food/3398/pasta-la-vista-baby
+image: "http://felixonline.co.uk/img/upload/201303010003-tna08-2011-05-16-spaghetti.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/3398/pasta-la-vista-baby
-imported: true
 comments:
  - value: >
      Amazing, thanks Liz!!
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303010003-tna08-2011-05-16-spaghetti.jpg"
-image_caption: ""
 ---
 
 The idea for pasta Mondays came about as a way for my boyfriend to try to get me and my flatmate to eat more carbs. Before this we tended to succumb to ‘no-carb-days’ (better known as ‘no-fun-days’) and other such health kick fads! We appreciated being cooked for and the opportunity to eat together, but his pasta Mondays generally consisted of overwhelming ‘rower-sized’ portions of pasta often accompanied with some sort of pesto, occasionally some chicken, and perhaps a concession of tomatoes for us girls.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   All this plus a parking space, presumably
 date: "2016-06-03 09:06:56 +0100"
-
-# Attributes from Felix Online V1
-id: "6232"
-old_path: /features/6232/how-much-does-the-rector-get-paid
+image: "http://felixonline.co.uk/img/upload/201606031105-felix-MATTIN.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6232/how-much-does-the-rector-get-paid
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -25,12 +22,6 @@ authors:
  - ygr12
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606031105-felix-MATTIN.jpg"
-image_caption: ""
 ---
 
 The college’s Rector does a very important job. They go on Radio 4 for us, they sign open letters in newspapers, and if you’re lucky and they’re not having a round off, they shake your hand at graduation. The amount these members of staff get paid is always a point of contention.

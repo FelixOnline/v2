@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Elizaveta Tchebaniouk is enchanted by the photographer’s dark inner visions
 date: "2014-12-04 20:01:06 +0000"
-
-# Attributes from Felix Online V1
-id: "5007"
-old_path: /arts/5007/guy-bourdins-glamour-sinister-surreal--sexual
+image: "http://felixonline.co.uk/img/upload/201412042001-cj914-charles_jourdan__spring_1979____guy_bourdin.jpg"
+image_caption: "Charles Jourdan, Spring 1979 - an example of Bourdin's surreal and sexually sinister style"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5007/guy-bourdins-glamour-sinister-surreal--sexual
-imported: true
 comments:
  - value: >
      mont blanc fountain pen mozart, mont blanc pens, montblanc virginia woolf limited edition ballpoint pen, michael kors sneakers women, cheap ugg shoes sale, childrens ugg boots on sale uk, nordstrom mens ugg boots, boots michael kors, michael kors jackets women, michael kors runway, michael kors stock price, mont blanc pens bristol, montblanc ballpoint refills, repairing a mont blanc pen, mont blanc pen history, montblanc stores jakarta, michael kors purple bag, thigh high boots cheap sale, all michael kors bags, mont blanc starwalker ballpoint pen <br>childrens pink ugg boots uk http://www.fty.be/script/id=childrens-pink-ugg-boots-uk-d4717.php,harga jam tangan montblanc meisterstuck, mont blanc pens starwalker, montblanc platinum classique ballpoint pen, michael kors suede handbag, buy ugg boots cheap online, how to get a discount on uggs, pug slippers uk, uggs outlet locations, michael kors camo purse, michael kors red handbags, perfume michael kors, mont blanc fountain pen ink bottle, montblanc fountain pen 48
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +26,6 @@ authors:
  - et1214
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201412042001-cj914-charles_jourdan__spring_1979____guy_bourdin.jpg"
-image_caption: ""
 ---
 
 __S____omerset House__ unveiled the UK’s largest ever exhibition of Guy Bourdin’s work, which spans the 40 year career of the French photographer, and features not only his most iconic photographs, but also never before seen material including Polaroid test shots, double-page spread layouts, contact sheets, as well as Bourdin’s paintings, poetry, Super-8 films, and sketches. In content and title – _Guy Bourdin: Imagine-Maker_ – the exhibition shows Bourdin as not simply a fashion photographer, but also an artist, and portrays his unique craftsmanship and perfectionist approach.

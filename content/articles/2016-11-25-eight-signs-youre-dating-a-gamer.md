@@ -4,16 +4,13 @@ title: >
 subtitle: >
   They’ve probably spent more time on their PC than they have on you
 date: "2016-11-25 14:33:28 +0000"
-
-# Attributes from Felix Online V1
-id: "6512"
-old_path: /games/6512/eight-signs-youre-dating-a-gamer
+image: "http://felixonline.co.uk/img/upload/201611251430-felix-2061329074_226f714dd6_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/6512/eight-signs-youre-dating-a-gamer
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - sa8713
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611251430-felix-2061329074_226f714dd6_o.jpg"
-image_caption: ""
 ---
 
 Your SO (significant other) is simply the greatest, they seem to be perfect in all aspects. You think you’ve scored the jackpot and can’t do any better. But, you have a nagging suspicion about them: you think they might be a gamer. You don’t want to believe it, but you can’t deny certain features about them seem a little unusual. I’m going to explain certain tell-tale signs which would prove, without a doubt, that they are indeed a gamer.

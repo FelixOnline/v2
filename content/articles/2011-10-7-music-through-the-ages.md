@@ -4,16 +4,14 @@ title: >
 subtitle: >
   C. I. Franke would like a word with your parents about their shockingly bad taste in music
 date: "2011-10-07 12:32:37 +0100"
-
-# Attributes from Felix Online V1
-id: "1492"
-old_path: /music/1492/music-through-the-ages
+image: "http://felixonline.co.uk/img/upload/201110071332-felix-recordcollection.jpg"
+image_caption: "Your parents' record collection: nothing but a catalogue of embarassing purchases"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1492/music-through-the-ages
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - cif110
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110071332-felix-recordcollection.jpg"
-image_caption: ""
 ---
 
 Is there a more appealing time warp than an old record player? Not only does the standard matte black metal and peeling wood-look veneer sum up a bygone era, but the sound quality still surpasses anything that digitised files can muster. I’m sure that most of us have, at some point in our adolescence, played some of our parents' ageing record collection out of curiosity and I’m sure that most of us were quite disappointed; for me, the artists were so disappointing that I didn’t even take the records out of their covers.

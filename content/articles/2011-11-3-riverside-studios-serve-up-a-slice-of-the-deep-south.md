@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Tennessee Williams (and Horton Foote) come to Hammersmith
 date: "2011-11-03 22:01:05 +0000"
-
-# Attributes from Felix Online V1
-id: "1696"
-old_path: /arts/1696/riverside-studios-serve-up-a-slice-of-the-deep-south
+image: "http://felixonline.co.uk/img/upload/201111032156-felix-cilla.jpg"
+image_caption: "Not the Blind Date you might be thinking of"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/1696/riverside-studios-serve-up-a-slice-of-the-deep-south
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +22,6 @@ authors:
  - felix
  - wsp10
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111032156-felix-cilla.jpg"
-image_caption: ""
 ---
 
 In the absence of any culinary skills, I’ve found that eating one’s dinner whilst watching MasterChef, can often make the experience a little more palatable. Through years of pretending that my toast was a main of spider crab thermidor accompanied with mussels, foraged sea vegetables and a side of chips, [Gregg Wallace has hammered into me](http://www.youtube.com/watch?v=IfeyUGZt8nk) an appreciation of the infamous notion of ‘flavour combinations.’

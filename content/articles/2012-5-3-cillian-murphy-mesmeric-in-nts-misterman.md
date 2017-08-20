@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A surreal and messy depiction of reality where the sublime is twisted up with the violent and a young person lives in squalor and his own inner world
 date: "2012-05-03 17:38:48 +0100"
-
-# Attributes from Felix Online V1
-id: "2404"
-old_path: /arts/2404/cillian-murphy-mesmeric-in-nts-misterman
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2404/cillian-murphy-mesmeric-in-nts-misterman
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - ck806
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 God, redemption, religion, the forces of good and evil. It is hard to tackle these none too light topics in a manner which doesn’t become cumbersome. Peter Cadwell did it in The Fighter’s Ballad, but confronts the bull head-on – the film is no laughing matter. Enda Walsh’s Misterman deals with similar ideas of Right and Wrong, albeit couched in the very Irish and Catholic setting of Innisfree – a small isle lagooned in the Emerald Isle.

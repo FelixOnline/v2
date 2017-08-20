@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Previously on Once Upon a Time; characters from the most beloved fairytale stories were brainwashed, ripped away from their home the Enchanted Forest, and forced into a modern-day hellish locked down town called Storybrooke run by the evil witch queen and self-appointed mayor Regina...
 date: "2013-10-12 19:24:42 +0100"
-
-# Attributes from Felix Online V1
-id: "3853"
-old_path: /tv/3853/once-upon-a-time-season-2
+image: "http://felixonline.co.uk/img/upload/201310122024-jal08-tv-2-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/3853/once-upon-a-time-season-2
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310122024-jal08-tv-2-copy.jpg"
-image_caption: ""
 ---
 
 Previously on Once Upon a Time; characters from the most beloved fairytale stories were brainwashed, ripped away from their home the Enchanted Forest, and forced into a modern-day hellish locked down town called Storybrooke run by the evil witch queen and self-appointed mayor Regina (Lana Parrilla, still looking as dark and controlling as ever) who wished to punish everyone for lifelong feuds she had with various people. As more of the characters’ complex, intertwined past was revealed, the more enriched everyone’s background story became. With enough flashback sequences to explain and unmask various people’s true intentions, Season 2 was setting up as though the residents of Storybrooke were finally ready to move on with their lives.

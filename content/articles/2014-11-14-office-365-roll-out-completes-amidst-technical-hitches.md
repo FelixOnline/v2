@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Thomas Lim on the email move that's been causing a few headaches, but bigger and better mailboxes are now in the hands of the masses.
 date: "2014-11-14 19:58:01 +0000"
-
-# Attributes from Felix Online V1
-id: "4861"
-old_path: /news/4861/office-365-roll-out-completes-amidst-technical-hitches
+image: "http://felixonline.co.uk/img/upload/201411141957-ps3110-o-stressed-out-facebook.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4861/office-365-roll-out-completes-amidst-technical-hitches
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +22,6 @@ authors:
  - txl11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411141957-ps3110-o-stressed-out-facebook.jpg"
-image_caption: ""
 ---
 
 A scheme which will move all undergraduate email accounts from the College’s data centre to Microsoft Office 365 will conclude today. On completion, every Undergraduate’s mailbox will be hosted in a Microsoft data centre, as part of their Office 365 product. The move promises a range of benefits, including a mailbox fifty times larger than what is currently offered, as well near unlimited file storage and much improved collaboration of Office documents.

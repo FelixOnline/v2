@@ -4,18 +4,15 @@ title: >
 subtitle: >
   The Government’s Spending Review looms ever closer, and UK science research is in peril
 date: "2010-10-07 22:31:58 +0100"
-
-# Attributes from Felix Online V1
-id: "178"
-old_path: /news/178/scientists-rally-to-fight-funding-cuts
+image: "http://felixonline.co.uk/img/upload/201104181235-felix-4973119165_b97d1b7550_o.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/178/scientists-rally-to-fight-funding-cuts
-imported: true
 comments:
  - value: >
      Join the Union FB group and march with your fellow scientists, engineers and medics! http://www.facebook.com/profile.php?id=625110439#!/event.php?eid=107207499342836,<a href="http://bigserver.pp.ua/c.php?img=1&amp;q=auto+insurance"><img>http://bigserver.pp.ua/img_search.php?q=auto+insurance&amp;new=1&amp;img_tpl=04&amp;img_n=1</a> <br> <br><a href="http://bigserver.pp.ua/c.php?img=2&amp;q=auto+insurance"><img>http://bigserver.pp.ua/img_search.php?q=auto+insurance&amp;new=1&amp;img_tpl=01&amp;img_n=2</a> <br> <br><a href="http://bigserver.pp.ua/c.php?img=3&amp;q=auto+insurance"><img>http://bigserver.pp.ua/img_search.php?q=auto+insurance&amp;new=1&amp;img_tpl=01&amp;img_n=3</a> <br> <br><a href="http://bigserver.pp.ua/c.php?img=4&amp;q=auto+insurance"><img>http://bigserver.pp.ua/img_search.php?q=auto+insurance&amp;new=1&amp;img_tpl=01&amp;img_n=4</a>
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104181235-felix-4973119165_b97d1b7550_o.jpg"
-image_caption: ""
 ---
 
 On Saturday the 9th of October, over 2,000 scientists and science supporters will rally at Westminster to protect the future of British science. Their aim is to make the government reconsider any spending cuts to be made in the fields of research and development, cuts that scientists fear could cause the country long-term damage.

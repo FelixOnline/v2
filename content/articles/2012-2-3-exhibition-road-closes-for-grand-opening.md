@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Boris Johnson takes to the streets to inaugurate new layout
 date: "2012-02-03 00:28:44 +0000"
-
-# Attributes from Felix Online V1
-id: "2121"
-old_path: /news/2121/exhibition-road-closes-for-grand-opening-
+image: "http://felixonline.co.uk/img/upload/201202030027-sjw209-dsc_6912.jpg"
+image_caption: "“Exquisite, my parents don’t let me use scissors at home!”"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2121/exhibition-road-closes-for-grand-opening-
-imported: true
 comments:
  - value: >
      The grand idea behind the road is that without markings or signs to follow, drivers will be more careful and more aware of drivers. <br>Somehow, I doubt that whoever came up with this idea has ever driven a car, or, for that matter, crossed a road.,The grand idea behind the road is that without markings or signs to follow, drivers will be more careful and more aware of drivers. <br>Somehow, I doubt that whoever came up with this idea has ever driven a car, or, for that matter, crossed a road.,Tuesday night's vote on ID cards. Labour rebels, solid opiosption from the Tories and Lib-dems. Labour majority reduced to 25.Oh what's this? 41 (41!, jezuz ferkin xmas!) Tories didn't vote including all 4 leadership candidates.What is the point Yet another opportunity to inflict a severe drubbing to Labour and the Tories are so self absorbed they didn't even notice.,Tuesday night's vote on ID cards. Labour rebels, solid opiosption from the Tories and Lib-dems. Labour majority reduced to 25.Oh what's this? 41 (41!, jezuz ferki
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202030027-sjw209-dsc_6912.jpg"
-image_caption: ""
 ---
 
 Following two years of construction, Exhibition Road closed last Wednesday for its grand opening led by the Mayor of London, Boris Johnson. ‘No parking’ signs were put up in advance and the event saw a day long closure marking the opening of the brand new signature road running through the “intellectual capital of London”, South Kensington, as described by Prince Albert.

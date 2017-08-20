@@ -4,16 +4,13 @@ title: >
 subtitle: >
   An original short story by Eoghan Totten
 date: "2013-11-24 16:14:04 +0000"
-
-# Attributes from Felix Online V1
-id: "4116"
-old_path: /books/4116/raw-words-part-one
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/4116/raw-words-part-one
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 “As you go through life Shane, remember one thing. There’s a price to pay for everything.”

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The upcoming young comedian takes on London’s top comedy venue in style
 date: "2015-10-23 11:38:52 +0100"
-
-# Attributes from Felix Online V1
-id: "5668"
-old_path: /arts/5668/the-hilarious-world-of-ahir-shah
+image: "http://felixonline.co.uk/img/upload/201510231238-ygr12-ahir-shah.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/5668/the-hilarious-world-of-ahir-shah
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -24,12 +21,6 @@ authors:
  - mff113
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510231238-ygr12-ahir-shah.jpg"
-image_caption: ""
 ---
 
 The sharpest, most politically charged comedy I have ever seen – period. Of course what I’ve seen is somewhat limited, but that changes little; Ahir Shah is exceptional. There are many great comedians who make you laugh, and some who make you cry, but few can make you think and feel like Shah. Distant isn’t just another set – everything is funny, but funny with a purpose.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   A successful and tense night for Chess Soc, reports John Sargent
 date: "2013-02-22 02:09:56 +0000"
-
-# Attributes from Felix Online V1
-id: "3373"
-old_path: /sport/3373/checkmate-at-chess-congress-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3373/checkmate-at-chess-congress-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -23,12 +20,6 @@ authors:
  - fsport
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 On a cool Friday February afternoon a rag-tag team of students (and alumni that can’t seem to get away) gathered in the shadow of the Royal Albert Hall to take a van-load of trestle tables into Imperial College’s Union Dining Hall in preparation for an event that has been a long time coming – the 2013 edition of the Imperial College Chess Congress.

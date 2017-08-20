@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Tarantino works his magic with this tale of revenge in the Deep South
 date: "2012-12-16 15:23:06 +0000"
-
-# Attributes from Felix Online V1
-id: "3075"
-old_path: /film/3075/review-django-unchained
+image: "http://felixonline.co.uk/img/upload/201212161521-mc4509-071712-celebs-django-unchained-jamie-foxx.jpg"
+image_caption: "Christoph Waltz as Schultz and Jamie Foxx as Django"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3075/review-django-unchained
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
  - mc4509
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212161521-mc4509-071712-celebs-django-unchained-jamie-foxx.jpg"
-image_caption: ""
 ---
 
 Smashing two concepts together is a curious business - about as curious as the length of time that it takes to travel between Knightsbridge and South Kensington on the Piccadilly Line. But who else to turn to than Quentin Tarantino? With his latest feature film [_Django Unchained_](http://unchainedmovie.com/), he has delivered a serious labour of love.

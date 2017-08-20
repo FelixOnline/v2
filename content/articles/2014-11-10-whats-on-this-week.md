@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Music events hitting London the week following October 31st
 date: "2014-11-10 21:53:55 +0000"
-
-# Attributes from Felix Online V1
-id: "4830"
-old_path: /music/4830/whats-on-this-week
+image: "http://felixonline.co.uk/img/upload/201411102153-ps3110-warondrugs.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4830/whats-on-this-week
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - ps3110
  - ygr12
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411102153-ps3110-warondrugs.jpg"
-image_caption: ""
 ---
 
 __Saturday, 1st November: MØ @ O2 Shepherd’s Bush Empire.__

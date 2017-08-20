@@ -4,18 +4,15 @@ title: >
 subtitle: >
   As it’s the food edition, we thought we’d focus on the fanciest, most elegant ingredient that most of us will ever have grace our plates: the potato. We present to you five excellent ways to prepare this sublime ingredient, as well as a comprehensive breakdown of why it is notably superior to all ot
 date: "2017-02-03 17:45:19 +0000"
-
-# Attributes from Felix Online V1
-id: "6735"
-old_path: /food/6735/all-hail-the-sublime-starch-the-chieftan-of-cuisine-the-triumphant-tuber--the-potato
+image: "http://felixonline.co.uk/img/upload/201702031744-felix-Screen Shot 2017-02-02 at 23.46.09.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6735/all-hail-the-sublime-starch-the-chieftan-of-cuisine-the-triumphant-tuber--the-potato
-imported: true
 comments:
  - value: >
      In Irland sind ganze WÃ¤lder mit Efeu berankt und die BÃ¤ume stehen trotzdem stark und fest mit eigener grÃ¼ner Krone da. Soooo schlimm kann das also nicht sein.Bei mir riecht es auch schon seit ein paar Tagen grÃ¼n. Das find ich schÃ¶n. Und wenn man raus kommt, scheint es warm zu sein (obwohl ja doch nur 5° - im Herbst eindeutig Ha¼rwchuhsetted).GrÃnÃŸe! N.,In Irland sind ganze WÃ¤lder mit Efeu berankt und die BÃ¤ume stehen trotzdem stark und fest mit eigener grÃ¼ner Krone da. Soooo schlimm kann das also nicht sein.Bei mir riecht es auch schon seit ein paar Tagen grÃ¼n. Das find ich schÃ¶n. Und wenn man raus kommt, scheint es warm zu sein (obwohl ja doch nur 5° - im Herbst eindeutig Ha¼rwchuhsetted).GrÃnÃŸe! N.,In Irland sind ganze WÃ¤lder mit Efeu berankt und die BÃ¤ume stehen trotzdem stark und fest mit eigener grÃ¼ner Krone da. Soooo schlimm kann das also nicht sein.Bei mir riecht es auch schon seit ein paar Tagen grÃ¼n. Das find ich schÃ¶n. Und wenn man rau
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201702031744-felix-Screen Shot 2017-02-02 at 23.46.09.png"
-image_caption: ""
 ---
 
 The humble spud. Where to start? How many foodstuffs can compare to the tuber that brought a whole nation to its knees – and I’m not talking about the Irish potato famine, but rather the introduction of potatoes to haute cuisine. People had been searching for a starch that was affordable yet amazing, could be roasted as easily as boiled, and in all preparations had the same delicious taste – the potato had it all.

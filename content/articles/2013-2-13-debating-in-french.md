@@ -4,16 +4,13 @@ title: >
 subtitle: >
   French Society want you for some light reparté
 date: "2013-02-13 15:40:11 +0000"
-
-# Attributes from Felix Online V1
-id: "3307"
-old_path: /news/3307/debating-in-french
+image: "http://felixonline.co.uk/img/upload/201302131541-tna08-french-revolution.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3307/debating-in-french
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302131541-tna08-french-revolution.jpg"
-image_caption: ""
 ---
 
 While English language debating is already well established as a student activity in British universities (such as Imperial) and indeed in many universities across the world, French language debating has, until now, been completely non-existent, even in proudly Francophone institutions.

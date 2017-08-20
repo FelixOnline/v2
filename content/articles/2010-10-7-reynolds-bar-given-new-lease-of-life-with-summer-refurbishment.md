@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Medics Union renovates bar
 date: "2010-10-07 22:22:09 +0100"
-
-# Attributes from Felix Online V1
-id: "176"
-old_path: /news/176/reynolds-bar-given-new-lease-of-life-with-summer-refurbishment
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/176/reynolds-bar-given-new-lease-of-life-with-summer-refurbishment
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - rjd08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 While a lot of attention has been focussed on the refurbishment of Metric and FiveSixEight - as they will soon be called - renovations have also been taking place in the Reynolds Bar, the spiritual home of ICSM in Charing Cross Hospital.

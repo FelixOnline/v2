@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Praveen Gnanasambanthan why sport and politics cannot be separated
 date: "2012-10-05 13:00:30 +0100"
-
-# Attributes from Felix Online V1
-id: "2620"
-old_path: /comment/2620/cricket-a-tool-for-reconciliation
+image: "http://felixonline.co.uk/img/upload/201210051359-felix-sri-lankan-army.jpeg"
+image_caption: "Caption in here please! What if this just stays in by accident. What if it’s not an accident/ Yeah, "
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2620/cricket-a-tool-for-reconciliation
-imported: true
 comments:
  - value: >
      How true, people who says otherwise are ignorant of the way despotic governments use sporting success to mask serious abuses. Tomorrow if Sri Lanka wins, the Government and the president will hijack the whole victory march and pretend all is well in the country.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201210051359-felix-sri-lankan-army.jpeg"
-image_caption: ""
 ---
 
 The summer of 2012 has been a stunning exhibition of top quality sports, as world-class athletes congregated in London for an unforgettable Olympics and arguably the best ever Paralympics. An intriguing Euro 2012 was showcased earlier in the summer in Eastern Europe, and this trio of gargantuan sporting festivals were bookended by the Wimbledon and US Open Grand Slams. Many would think that this is set to continue into September with the T20 World Cup held in Sri Lanka, but in reality the Tamils that inhabit the Northern and Eastern parts of the country and the Tamil diaspora have plenty of reason to think otherwise.

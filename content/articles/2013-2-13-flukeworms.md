@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rocío Molina on the tough process that it takes to produce great art
 date: "2013-02-13 16:43:32 +0000"
-
-# Attributes from Felix Online V1
-id: "3312"
-old_path: /arts/3312/flukeworms
+image: "http://felixonline.co.uk/img/upload/201302131643-tna08-la-foto.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3312/flukeworms
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302131643-tna08-la-foto.jpg"
-image_caption: ""
 ---
 
 [The Artsfest exhibition is an annual institution that has existed since I arrived at Imperial.](https://www.union.ic.ac.uk/arts/artsfest/2013/) It is an important event for those who are involved with the Arts on campus. The show, which is planned to coincide with Imperial College’s festival of art, music and dance, features collaboration between members of Leonardo Fine Arts Society and Photographic Society. Some reader might remember the maze of string last year or the flock of paper cranes the year before.

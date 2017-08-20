@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Gongs abound this year
 date: "2013-06-13 23:06:22 +0100"
-
-# Attributes from Felix Online V1
-id: "3688"
-old_path: /news/3688/union-awards-announced-2013
+image: "http://felixonline.co.uk/img/upload/201306140006-tna08-stephen-richardson.jpg"
+image_caption: "Stephen Richardson, Deputy Rector of Imperial College London"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3688/union-awards-announced-2013
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306140006-tna08-stephen-richardson.jpg"
-image_caption: ""
 ---
 
 The Imperial College Union Awards Ceremony was held yesterday (Thursday June 13). The Awards Committee chose the winners and Union Council unanimously upheld the decision.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Laurence Pope on how you can get a cancer drug renamed — after you
 date: "2013-01-10 22:15:50 +0000"
-
-# Attributes from Felix Online V1
-id: "3081"
-old_path: /science/3081/fund-cancer-research-gain-immortality-maybe
+image: "http://felixonline.co.uk/img/upload/201301102214-csw09-13-061011.jpg"
+image_caption: "Steve Jobs died following complications relating to a pancreatic neuroendocrine tumour. Apple have s"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3081/fund-cancer-research-gain-immortality-maybe
-imported: true
 comments:
  - value: >
      Hi Mary,The question on the leveas is interesting. In the case of Musa, as I understand it, although the lamina dies, the petiole persists to form part of the stem so the leaf (or part of it) remains for quite some time.But is their a role for the leaf skirt? I'd assume this is a natural state so there might not be any significance in it's persistance, but some beneficial roles might be1) Thermal insulation protecting the stem from too much sun or cold for that matter.2) Mulch around base to suppress competitionbut I'm just guessing This abstract seems to suggest that leaf persistance in Cordyline is linked to insulation from the cold. Here in Australia, Xanthorrhea (Grass trees) retain thier leveas and this helps insulates their stems from the heat of fires. [Ed.: link no longer viable. I've not been able to find this paper online anywhere else, either.]Working in a nursery about ten years ago I observed a rather interesting leaf skirt in Geranium maderense. It's usually biennual and the hypocotyl tend
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -26,12 +24,6 @@ authors:
  - lap08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102214-csw09-13-061011.jpg"
-image_caption: ""
 ---
 
 Ad5[CgA-E1A-miR122]PTD isn’t a catchy name. But, for just one million pounds, Ad5[CgA-E1A-miR122]PTD (Ad5 for short) could be renamed — after you.

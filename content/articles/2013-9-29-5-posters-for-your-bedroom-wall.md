@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Arianna Sorba turns your house into a home with posters that make you look cool, even if you aren't
 date: "2013-09-29 14:23:12 +0100"
-
-# Attributes from Felix Online V1
-id: "3772"
-old_path: /arts/3772/5-posters-for-your-bedroom-wall
+image: "http://felixonline.co.uk/img/upload/201309291522-tna08-chinesegirl.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/3772/5-posters-for-your-bedroom-wall
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309291522-tna08-chinesegirl.jpg"
-image_caption: ""
 ---
 
 ####  1. Chinese Girl

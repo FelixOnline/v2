@@ -4,16 +4,13 @@ title: >
 subtitle: >
   3 stars for Oz the Great and Powerful due to a lack of substance
 date: "2013-03-15 02:16:29 +0000"
-
-# Attributes from Felix Online V1
-id: "3487"
-old_path: /film/3487/which-witch-is-the-wicked-witch
+image: "http://felixonline.co.uk/img/upload/201303150215-tna08-rachel-mila-oz-the-great-and-powerful-33254299-1080-810-1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3487/which-witch-is-the-wicked-witch
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201303150215-tna08-rachel-mila-oz-the-great-and-powerful-33254299-1080-810-1.jpg"
-image_caption: ""
 ---
 
 The Wizard of Oz may be a great and powerful man but Sam Raimi’s modern origins story possesses neither of those two qualities. Instead of going for something grand and epic, Raimi opts for the easy way out, pouring all of his expensive budget into the scenic visual treat. There is very little focus on building any kind of coherent story, and much like Tim Burton’s highly disappointing Alice in Wonderland back in 2010, the film’s heart is in all the wrong places – which comes as yet another letdown.

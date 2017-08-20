@@ -4,18 +4,15 @@ title: >
 subtitle: >
   As the Felix centrefold teaches us, nudity is no laughing matter
 date: "2011-03-03 20:59:14 +0000"
-
-# Attributes from Felix Online V1
-id: "1019"
-old_path: /comment/1019/the-naked-truth
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1019/the-naked-truth
-imported: true
 comments:
  - value: >
      ,
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Ah, The Full Monty. No, I’m not talking about today’s centerfold (It seems so long since we had one!), but the movie, which was on TV on Monday night. Gritty Northern themes, like unemployment and Sheffield, spruced up with humour – this usually makes for a solid film.

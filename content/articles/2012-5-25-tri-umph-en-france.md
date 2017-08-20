@@ -4,18 +4,15 @@ title: >
 subtitle: >
   IC Synchronised Swimming take third place out of all French university teams, reports Delphine Rolando
 date: "2012-05-25 17:45:21 +0100"
-
-# Attributes from Felix Online V1
-id: "2495"
-old_path: /sport/2495/tri-umph-en-france
+image: "http://felixonline.co.uk/img/upload/201205251845-mc4509-img_0023.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/2495/tri-umph-en-france
-imported: true
 comments:
  - value: >
      I decided to get a brsaet reduction when I had constant back pain and problems. It was one of the best choices I have ever made. My body looks proportionate and I feel like I can go back to doing normal activities! I don't know what area you are from but I highly suggest Dr. Robert Heck from Ohio. Was this answer helpful?,dit :Tre8s bonne pre9sentation, merci e0 toi. Je suis vraiment de9e7u que l'application soit <a href="http://vmpbednmhe.com">denevu</a> payante Je vais surement l'acheter tout de meame car j'e9tais vraiment tre8s content de la pre9ce9dente version. Mais j'espe8re vraiment comme tu le dis que les mises e0 jour seront plus fre9quentes., automobile insurance mass seekers being formed auto insurance
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201205251845-mc4509-img_0023.jpg"
-image_caption: ""
 ---
 
 We already knew London was the sixth French city, now it also has a synchronized swimming team ranked third in the French University Championship (the French equivalent of BUCS). With its five keen members and two amazing coaches, it was no mean feat for Imperial College Synchronised Swimming team to just to participate to this competition. Being the only university team in the UK, they had no choice but to try to compete abroad.

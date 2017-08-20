@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Philippa Skett on the H5N1 moratorium and why caution isn’t bad
 date: "2013-01-31 23:31:49 +0000"
-
-# Attributes from Felix Online V1
-id: "3209"
-old_path: /science/3209/influenza-research-restart
+image: "http://felixonline.co.uk/img/upload/201302011233-tna08-h5n1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3209/influenza-research-restart
-imported: true
 comments:
  - value: >
      The past year's debate over restricting publication of the experimental details of the H5N1 research by Fouchier and Kawaoka has missed a larger point. Influenza viruses can and do develop more efficient transmissibility on their own; we've known this for decades. What's more important is to understand what we might do to reduce mortality when this happens. Immunomodulatory agents could probably be used to modify the host response to severe influenza and improve survival (Influenza Other Respi Virus 2009; 3: 129-42). Evidence that this happens was published one year ago. In a study of patients hospitalized with laboratory-confirmed influenza, statin treatment reduced mortality by 41% (J Infect Dis 2012; 205: 13-9). The reduction in mortality was in addition to any benefit that might have been due to previous influenza vaccination or antiviral treatment. Influenza scientists and the public health officials who listen to them have yet to understand the potential importance of these agents, yet if a highly virul
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302011233-tna08-h5n1.jpg"
-image_caption: ""
 ---
 
 "With great power comes great responsibility,” one wise man once said. Although he was unknowingly hinting at those with super powers to tread carefully, it too can be applied in the wider context to those that have the capacity to seriously affect people, either for good or bad. Right now, scientists are the super heroes of the real world (that includes you, so feel free to give yourself a pat on the back right now. Yes, even if you are alone in the Library Café), and with technology accelerating at metaphorical speeds to the point where we had to even redefine the greatest literal speed, great responsibility needs to come into play too.

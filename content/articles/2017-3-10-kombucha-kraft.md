@@ -4,16 +4,13 @@ title: >
 subtitle: >
   felix boldly uses the lab experience acquired at this noble institution to probe the depths of SCOBYs, tea and Kombucha. Is it the elixir we’ve all been looking for, or just a another fad? More importantly, will it be drinkable at the end of it all? Place your bets, and read on.
 date: "2017-03-10 14:07:21 +0000"
-
-# Attributes from Felix Online V1
-id: "6881"
-old_path: /food/6881/kombucha-kraft
+image: "http://felixonline.co.uk/img/upload/201703101406-felix-IMG_2349 2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6881/kombucha-kraft
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - yyl114
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703101406-felix-IMG_2349 2.jpg"
-image_caption: ""
 ---
 
 I try to be healthy. Sometimes. You see, when you have to sustain a food blog full of cakes and ice creams and burgers and doughnuts, you have to find a way to balance it out. And luckily for me, the healthy food world is not limited to chomping my way through an iceberg lettuce for dinner while balancing on a yoga mat (which recently transformed into a neglected, pink rolled-up piece of plastic gathering dust in the corner). So far, I’ve tried most of the #eatclean superfoods suggested by the lovely vegans on Instagram, including chia seed puddings, quinoa and kale.

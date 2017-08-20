@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ever since I was little I dreamed about becoming a teacher and taking care of kids within and beyond a classroom. I strongly believed that good teachers were the leaders of tomorrow and that they were a key element to a strong society...
 date: "2013-10-11 23:45:19 +0100"
-
-# Attributes from Felix Online V1
-id: "3831"
-old_path: /comment/3831/teach-first--investing-by-making-a-difference
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3831/teach-first--investing-by-making-a-difference
-imported: true
 comments:
  - value: >
      　( 2012.02.22 02:29 ) : In line with my research, after a ppreorty foreclosure home is bought at a bidding, it is common for that borrower in order to still have the remaining unpaid debt on the mortgage. There are many loan companies who seek to have all charges and liens paid back by the subsequent buyer. On the other hand, depending on selected programs, rules, and state laws and regulations there may be some loans that are not easily resolved through the transfer of loans. Therefore, the obligation still lies on the debtor that has obtained his or her ppreorty in foreclosure. Thank you sharing your thinking on this website.,　( 2012.02.21 19:09 ) : Good post. I learn something more <a href="http://tpzhedgn.com">cheaglnling</a> on totally different blogs everyday. It should at all times be stimulating to learn content from other writers and follow somewhat one thing from their store. I’d want to make use of some with the content material on my weblog whether or not you don’t mind. Natually I’l
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - mm6810
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Ever since I was little I dreamed about becoming a teacher and taking care of kids within and beyond a classroom. I strongly believed that good teachers were the leaders of tomorrow and that they were a key element to a strong society. Ask yourselves this question: Would you be here without the one inspirational teacher who believed in you and pushed you to the top? I know that I would not. My parents moved me around a lot when I was little and I was educated in French my whole life. When they decided to put me in an International school aged sixteen-where the main language was English-I started to give upon my big dreams of making it to a prestigious university in France. I was convinced that I would never have sufficient grades to apply where I wanted (as my English was really poor). My literature teacher believed in me from the start, pushing me to apply to even more prestigious universities; they were not the best in France. They belonged to the best in the world. He was an exceptional teacher, the kind of person that does not look at your academic record alone, seeing much more in you than a nondescript kid with ‘such and such’ grades.

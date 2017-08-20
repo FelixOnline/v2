@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Kunal Wagle goes back through the pages of Phil Hughes' tragically short career.
 date: "2014-11-28 00:56:14 +0000"
-
-# Attributes from Felix Online V1
-id: "4970"
-old_path: /sport/4970/phil-hughes-the-world-mourns-death-of-young-batsman
+image: "http://felixonline.co.uk/img/upload/201411280117-kmw13-199111.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/4970/phil-hughes-the-world-mourns-death-of-young-batsman
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - kmw13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411280117-kmw13-199111.jpg"
-image_caption: ""
 ---
 
 8th March 2009, Kingsmead, Durban. An Australian batsman is entertaining the crowd with a superb hundred. It was his second of the game, and meant that he, at the age of 20, became the youngest man to score two hundreds in a Test Match. It was just his second test match. This week, we mourn his passing.

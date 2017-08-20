@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Margot Pikovsky despairs at the College’s apathy
 date: "2012-11-09 11:54:12 +0000"
-
-# Attributes from Felix Online V1
-id: "2843"
-old_path: /comment/2843/a-call-to-remembrance
+image: "http://felixonline.co.uk/img/upload/201211091155-tna08-poppy3.jpeg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2843/a-call-to-remembrance
-imported: true
 comments:
  - value: >
      I remember last year when it fell on a weekday, our lecturer stopped the class at 11:11, stopped talking and said. <br> <br>"Guys, guess what? <br> <br>It's currently 11:11:11 on 11/11/11!" <br> <br>before continuing lecturing. Definitely not what I was expecting. I too am in despair of the apathy on our lecturers part,I remember one lecture where absolutely no mention was made (to be fair maybe the lecturer hadn't arrived yet). At an international uni like imperial I can see a lot of students and staff being completely unfamiliar with the custom, or maybe some are from countries where they don't think soldiers are to be respected in the way we do, but to offer no acknowledgement at all in lectures is a bit strange. Maybe the lecturer doesn't give a shit (and I don't object if they don't) but some consideration for those who do would be nice. London underground staff put in a good effort today to observe a 2 minutes silence across the network, and we know how useless they all are at doing things. <br> <br>I did notice the college ha
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211091155-tna08-poppy3.jpeg"
-image_caption: ""
 ---
 
 Anybody who has ever seen The History Boys, whether on stage or on screen, will remember the moment when Irwin, that world-wise and world-weary teacher, turns round to his pupils observing a monument to fallen soldiers and says: “All this mourning has veiled the truth. Because you should realise... there’s no better way of forgetting something than by commemorating it.” But whilst I’m a huge fan of Alan Bennett’s play otherwise, I couldn’t disagree more with this statement. Moreover, it saddens me that so many people choose neither to mourn, nor commemorate, on what I see as one of the most important dates in our calendar: Remembrance Day.

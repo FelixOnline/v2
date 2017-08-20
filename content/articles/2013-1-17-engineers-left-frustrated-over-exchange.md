@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Only two places for the whole of engineering this year, as fewer students come to Imperial from California
 date: "2013-01-17 23:49:06 +0000"
-
-# Attributes from Felix Online V1
-id: "3121"
-old_path: /news/3121/engineers-left-frustrated-over-exchange
+image: "http://felixonline.co.uk/img/upload/201301172348-tna08-south_hall--uc_berkeley--panoramic.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3121/engineers-left-frustrated-over-exchange
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - mtm10
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301172348-tna08-south_hall--uc_berkeley--panoramic.jpg"
-image_caption: ""
 ---
 
 A foreign exchange scheme that, in previous years, had often allowed a student from each department in the Faculty of Engineering to study for a year at the University of California has this year drastically reduced its places. As a result of a decrease in the number of students at the University of California who wish to participate in the project only two places were available this year for Imperial students.

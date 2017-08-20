@@ -4,18 +4,15 @@ title: >
 subtitle: >
   We surpassed Oxford and Cambridge
 date: "2015-05-08 00:13:11 +0100"
-
-# Attributes from Felix Online V1
-id: "5500"
-old_path: /news/5500/imperial-top-university-for-employment-prospects
+image: "http://felixonline.co.uk/img/upload/201505080112-ps3110-imperial_college_36479c.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5500/imperial-top-university-for-employment-prospects
-imported: true
 comments:
  - value: >
      Somehow this article neglects to mention that despite rapid employment the average earning of an Imperial student is quite far from those of Oxford and Cambridge landing accurately between Birmingham and Sheffield.,source <br>https://www.lovemoney.com/news/13851/the-university-that-leads-to-the-highest-salaries,That is a fair point, although in terms of fresh graduate earnings, Imperial students are the highest earners, however on a career length perspective we do not do as well as other universities.,The use of coupons is getting more and more popular these days. There are "coupon queens", Internet sites and television shows that all claim to have gotten things for free because of their couponing. They make it sound so easy but it does take a bit of effort and organization. The tips in this article can provide you with the secrets of couponing so you are able to secure your own savings. <br>UGG Outlet http://tiremaster.ca/ugg/
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - pnk14
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505080112-ps3110-imperial_college_36479c.jpg"
-image_caption: ""
 ---
 
 In the latest University ranking table study produced by The Complete University Guide, Imperial took the top spot, being declared the best University for postgraduate employment prospects.

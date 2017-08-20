@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Ex-journalist, Luke Blair, will be in charge of the college’s PR machine
 date: "2016-04-29 10:06:33 +0100"
-
-# Attributes from Felix Online V1
-id: "6090"
-old_path: /news/6090/imperial-appoints-new-vp-for-communications
+image: "http://felixonline.co.uk/img/upload/201604291106-felix-o-PETER-CAPALDI-facebook.jpg"
+image_caption: "Fictional head of communications, Malcolm Tucker."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6090/imperial-appoints-new-vp-for-communications
-imported: true
 comments:
  - value: >
      nhl shopping network cyber mⲟnday nba shuop coupon codes nnba shop black fгiday,mlb shop black fгiday coupon codes black friday nhl shop disfount code nba shop black ᖴriday deals,I organised the debate in Imperial that proposed 'this college represents a threat to liberal education and should be blown up'. With speakers including Trevor Philipps and Nina Temple, both ex-presidents of the NUT and Imperial Students Union, and the pro-rector... the audience voted to blow-up the college. This is what alumni H.G.Wells did in his short story 'Argonauts in the Air' written at the end of the 19th century. The threat of Imperial to education that humanises us has long been recognised, and expertly avoided by people like Blair. The conversion of the Humanities Department, originally created to address this problem, as recognised by Blackett and Linstead in a report for the British Association for the Advancement in Science, to part of the professional development of students for an international market... shows
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201604291106-felix-o-PETER-CAPALDI-facebook.jpg"
-image_caption: ""
 ---
 
 Many of us suspect that Imperial’s concerned more with its image than ever before, and now it has hired a ‘Vice President for Communications and public affairs’. From September the new post will join the highest managers at Imperial, including the VPs for Advancement and Innovation.

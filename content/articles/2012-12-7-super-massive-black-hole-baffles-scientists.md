@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Muse would approve
 date: "2012-12-07 01:36:28 +0000"
-
-# Attributes from Felix Online V1
-id: "3038"
-old_path: /science/3038/super-massive-black-hole-baffles-scientists
+image: "http://felixonline.co.uk/img/upload/201212070135-tna08-nature11592-f1.2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/3038/super-massive-black-hole-baffles-scientists
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -25,12 +22,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070135-tna08-nature11592-f1.2.jpg"
-image_caption: ""
 ---
 
 Astronomers analysing data from the Hobby-Eberly Telescope in Texas have [spotted an enormous black hole](http://www.nature.com/nature/journal/v491/n7426/full/nature11592.html) — but in a relatively miniscule galaxy.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   It was a utopian dream for the era of space races, civil rights marches, racism, and presidential assasinations. But how does Star Trek hold up today, and what is its cultural legacy?
 date: "2016-10-14 10:30:03 +0100"
-
-# Attributes from Felix Online V1
-id: "6334"
-old_path: /tv/6334/half-a-century-of-boldly-going
+image: "http://felixonline.co.uk/img/upload/201610141218-so515-TOS.png"
+image_caption: "In the future no one cares about your awkward grins."
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6334/half-a-century-of-boldly-going
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -25,12 +23,6 @@ authors:
  - so515
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610141218-so515-TOS.png"
-image_caption: ""
 ---
 
 Fifty years ago, as the spectre of the Cold War loomed over the world and the first battles of the civil rights movement were being fought, a corny, slightly overacted show with bold utopian and egalitarian aspirations made its way onto the prime-time lineup. _Trek_ wore its heart on its sleeve, unafraid to be topical and tackle societal issues across the board. Since those tumultuous times, Star Trek has become a cultural cornerstone; offering much to learn from for our tumultuous times.           The Original Series was the brainchild of many men and women, chiefly Gene Rodenberry, and did not have an easy time getting made. Its daring and often transparent confrontation of then-contemporary social injustices made studio executives and advertisers uncomfortable; its neck was only ever an inch from the guillotine.

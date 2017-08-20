@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Paolo Sorrentino’s touching tragicomedy deserves more praise than it has recieved
 date: "2016-02-05 12:25:17 +0000"
-
-# Attributes from Felix Online V1
-id: "5875"
-old_path: /film/5875/youth-is-a-masterful-reflection-of-old-age
+image: "http://felixonline.co.uk/img/upload/201602051221-felix-film-trailer-youth (1).jpg"
+image_caption: "The lovely Michael Caine as English composer Fred Ballinger, directing a herd of cows."
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/5875/youth-is-a-masterful-reflection-of-old-age
-imported: true
 comments:
  - value: >
      http://prednisone-order-20mg.com/ - 10 Mg Prednisone Cheapviagra.com http://cialis5mg-20mg.com/,http://prednisone-order-20mg.com/ - Prednisone 20 Mg Cost For Viagra Without Insurance 283 http://cialis5mg-20mg.com/,Lovely Site, Stick to the useful job. Thanks!. <br>nba 2k17 mt https://lynchclans.com/index.php?route=forum/forum/view&amp;post_id=517&amp;forum_id=19,Incredibly user pleasant website. Enormous information available on few clicks on <br>nhl 17 coins http://www.bravo.pl/blog/2k16mtcoins/10-videogame-protection-principles-for-parents/ids,343030/ida,1189572/,Wow cuz this is extremely goodexcellent work! Congrats and keep it up <br>pokemongo http://csgolearn.smartlog.dk/discount-fifa-17-points-overall-game-computers-or-making-it-post1547218
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -26,12 +24,6 @@ authors:
  - im1214
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201602051221-felix-film-trailer-youth (1).jpg"
-image_caption: ""
 ---
 
 L_a Grande Bellezza_ (_The Great Beauty_), was undoubtedly a masterpiece. Filled with art and symbolism, it left us in awe, as Italian director Paolo Sorrentino reflected upon life and death. This is partly why _Youth_ is so widely anticipated, and also why it has received merely good or average reviews. _Youth_, however, although contemplating similar themes, is different in the sense that it was never intended to be as extravagant. Instead, Sorrentino aims for a lighter, more straight-forward, simple film. And that’s what most have failed to realise. In the end, Sorrentino’s touching tragicomedy, accompanied by virtuoso acting, deserves more praise than it has thus far received.

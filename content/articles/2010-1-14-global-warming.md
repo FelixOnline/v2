@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Rhys Davies voives his opinions on Global Warming
 date: "2010-01-14 12:51:23 +0000"
-
-# Attributes from Felix Online V1
-id: "24"
-old_path: /comment/24/global-warming
+image: "http://felixonline.co.uk/img/upload/201001141249-rsp07-RhysDavi.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/24/global-warming
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - rsp07
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201001141249-rsp07-RhysDavi.jpg"
-image_caption: ""
 ---
 
 Firstly, welcome to 2010! Please wipe your feet.

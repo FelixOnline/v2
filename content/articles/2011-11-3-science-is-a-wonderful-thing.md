@@ -4,16 +4,13 @@ title: >
 subtitle: >
   ...if one does not have to earn one’s living at it”. Carys Cook discusses some of the difficulties facing early career scientists
 date: "2011-11-03 19:44:31 +0000"
-
-# Attributes from Felix Online V1
-id: "1654"
-old_path: /science/1654/science-is-a-wonderful-thing
+image: "http://felixonline.co.uk/img/upload/201111031944-pk1811-3245599.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1654/science-is-a-wonderful-thing
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111031944-pk1811-3245599.jpg"
-image_caption: ""
 ---
 
 Even Albert Einstein was versed in the difficulties facing those who want a career in academic research. Those brave fools that, even in the face of riches proffered by industry, love research so much they are willing to attempt to climb the precipitous and slippery ladder that is UK academic science career progression.

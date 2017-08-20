@@ -4,16 +4,13 @@ title: >
 subtitle: >
   You can criticise Israel without being anti-semitic
 date: "2016-05-06 09:50:08 +0100"
-
-# Attributes from Felix Online V1
-id: "6119"
-old_path: /comment/6119/we-need-to-talk-about-israel
+image: "http://felixonline.co.uk/img/upload/201605061049-felix-peace1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6119/we-need-to-talk-about-israel
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - jm5014
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061049-felix-peace1.jpg"
-image_caption: ""
 ---
 
 It’s like that old saying goes, ‘you wait for one anti-semitism scandal, and then three come along at once’. First was the election of Malia Bouattia as NUS president, whose labelling of Birmingham as a Zionist outpost was quite problematic, then came the four-year-old posts of MP Naz Shah saying that the people of Israel should be relocated to America (okay, more than a little more problematic). Finally, the nail in the coffin for the Labour party’s anti-semitism problem, the former Mayor of London compared the intentions of Israel to that of Hitler. Well. That is very problematic.

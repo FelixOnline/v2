@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Malia Bouattia is their first female black Muslim leader
 date: "2016-04-29 10:08:06 +0100"
-
-# Attributes from Felix Online V1
-id: "6091"
-old_path: /news/6091/nus-elects-controversial-new-president
+image: "http://felixonline.co.uk/img/upload/201604291107-felix-Screen Shot 2016-04-28 at 13.25.55.jpg"
+image_caption: "Let’s start our own NUS with blackjack and hookers! "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6091/nus-elects-controversial-new-president
-imported: true
 comments:
  - value: >
      She's not black, ethnically she's an Algerian Arab. You can't just say you're black and then suddenly you become black.<br>Much more worrying than her attempt to be 'transracial' is this fondness she has for ISIS. I'm glad Imperial isn't affiliated with the NUS any more, it's basically become a front for the extremist fringe of the left-wing.,She's not black, ethnically she's an Algerian Arab. You can't just say you're black and then suddenly you become black.<br>Much more worrying than her attempt to be 'transracial' is this fondness she has for ISIS. I'm glad Imperial isn't affiliated with the NUS any more, it's basically become a front for the extremist fringe of the left-wing.,I'm not sure being an Algerian Arab precludes you from from being black,I'm not sure being an Algerian Arab precludes you from from being black,Yeah but just look at her, she's not even slightly black. This is just like Rachel Dolezal and the NAACP.,Yeah but just look at her, she's not even slightly black. This is just like Rachel Dolez
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201604291107-felix-Screen Shot 2016-04-28 at 13.25.55.jpg"
-image_caption: ""
 ---
 
 At last week’s NUS conference, delegates from member universities around the UK elected Malia Bouattia as their new president.

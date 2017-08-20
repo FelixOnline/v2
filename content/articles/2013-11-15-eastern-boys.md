@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Eastern Boys, Robin Campillo’s sophomore effort, is a chameleon of a film, that flits from genre to genre; over its two hour running time, it skips from home invasion drama, to tender love story, before climaxing in a finale worthy of a Hollywood thriller.
 date: "2013-11-15 11:39:03 +0000"
-
-# Attributes from Felix Online V1
-id: "4085"
-old_path: /film/4085/eastern-boys
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/4085/eastern-boys
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - ff712
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Eastern Boys

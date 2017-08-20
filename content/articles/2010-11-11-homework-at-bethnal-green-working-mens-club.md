@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Homework is one of the less racy nights held at BGWMC, making for an ideal, gentle midweek night out
 date: "2010-11-11 20:12:07 +0000"
-
-# Attributes from Felix Online V1
-id: "331"
-old_path: /arts/331/homework-at-bethnal-green-working-mens-club
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/331/homework-at-bethnal-green-working-mens-club
-imported: true
 comments:
  - value: >
      We're actually still working mens club! The members bar is on the lower ground floor. <br>We exist specifically to preserve that history. Stick your head around their door next time you pop in - the members are always up for some good banter!
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -28,12 +25,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Before anyone builds up a mental image of cockney miners drinking pints of bitter, let me set out a few facts. Whilst [Bethnal Green Working Men’s Club](http://www.workersplaytime.net/) at one point probably lived up to its name, those in charge now clearly don’t care for preserving history. Men in overalls and bingo nights have been replaced by perverse shows and barmen transvestites.

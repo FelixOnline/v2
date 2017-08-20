@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Jonney Clowes on Imperial's victory
 date: "2012-11-29 23:20:16 +0000"
-
-# Attributes from Felix Online V1
-id: "3014"
-old_path: /sport/3014/ichc-mens-2s-crush-portsmouth
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/3014/ichc-mens-2s-crush-portsmouth
-imported: true
 comments:
  - value: >
      Still can't believe the cheek; you don't ask for walkovers! <br>Hope you smash them. <br>,We did smash them =]
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 A dark and windy November evening saw the men’s 2s head out to Harlington to take on a formidable Portsmouth 3s. With our captain Jimmy S, out injured due to a broken hand, coaching from the sidelines, ICHC got stuck in straight from the first whistle. To say the first half was a one sided affair would be harsh on Imperial: it was a master class.

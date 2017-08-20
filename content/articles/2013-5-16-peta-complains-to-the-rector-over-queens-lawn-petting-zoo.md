@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Union say College have been involved from the outset and that the company chosen had a good record of animal safety and welfare
 date: "2013-05-16 20:46:01 +0100"
-
-# Attributes from Felix Online V1
-id: "3592"
-old_path: /news/3592/peta-complains-to-the-rector-over-queens-lawn-petting-zoo
+image: "http://felixonline.co.uk/img/upload/201305162145-tna08-petting-zoo-shot.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3592/peta-complains-to-the-rector-over-queens-lawn-petting-zoo
-imported: true
 comments:
  - value: >
      I think a petting zoo is a lovely idea. If PETA has a problem with this concept then surely it should strive to ban them completely. Meanwhile, petting animal companies exist and in this person's opinion those animals should be petted. <br> <br>Also, I've heard of studies which suggest petting therapy is beneficial. It's not just children either- isn't there some maximum security prison where the inmates have pet cats and as a result they become 'nicer' people? <br> <br>I did a quick G-Scholar search and there seems to be a variety of research results relating to the anxiety relief effects of petting. Here's one that observed a possible link: http://bit.ly/10F0zfm and here's one that doesn't: bit.ly/10ZtikT <br> <br>I'm not sure how mainstream PETA is, but from a look of their website, it mentions veganism a lot. So overall I would conclude that PETA's letter is overkill and we should all go boost our exam grades by petting llamas! (And we're all smart enough to find the antibacterial soap.),There certainly is uncertainty abo
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201305162145-tna08-petting-zoo-shot.jpg"
-image_caption: ""
 ---
 
 PETA have written to the President & Rector of Imperial College London urging him to stop the Union’s plans for a petting zoo on Queen’s Lawn on Thursday 23 May. The letter calls the petting zoo “ill-conceived” and asks for Imperial to “make a formal to avoiding future events that promote the mistreatment of animals”.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   A round up of all the important stories. Now you can look all knowledgeable to all the fitties you meet.
 date: "2013-09-29 14:13:31 +0100"
-
-# Attributes from Felix Online V1
-id: "3771"
-old_path: /politics/3771/the-summer-in-politics
+image: "http://felixonline.co.uk/img/upload/201309291512-tna08-syrianflag.jpg"
+image_caption: "The Syrian crisis is raging on"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/3771/the-summer-in-politics
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309291512-tna08-syrianflag.jpg"
-image_caption: ""
 ---
 
 Well hello there all you freshers (and everybody else)! Here comes yet another year of Imperial. A small amount of us do tend to have an interest in politics surprisingly enough. So if you are one of those people who likes to learn about world affairs or likes to have a drunk rant, like I do, about how good or bad things are around the world, then read on. Now is the time to empower yourself with every bit of information needed to thwart those who don’t agree with you. How? By reading up on the most important issues of course.

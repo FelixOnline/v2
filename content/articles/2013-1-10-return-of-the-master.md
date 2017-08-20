@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Shiladitya Ghosh talks about Clive Cussler’s fantastic new novel
 date: "2013-01-10 22:40:51 +0000"
-
-# Attributes from Felix Online V1
-id: "3092"
-old_path: /books/3092/return-of-the-master
+image: "http://felixonline.co.uk/img/upload/201301102240-csw09-cussler2cmyk.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/3092/return-of-the-master
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -24,12 +21,6 @@ authors:
  - csw09
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102240-csw09-cussler2cmyk.jpg"
-image_caption: ""
 ---
 
 The 22nd novel in a series penned by “the guy I read” – Tom Clancy, Poseidon’s Arrow has it all – from explosions, chase scenes, and bare-armed combat, to snappy witticisms, spunky damsels in distress, and a (literally) earth-moving plot. Clive Cussler, respectfully and deservingly famed as the ‘Grandmaster of adventure’, together with his son, Dirk, yet again weaves science, technology, politics, history, and geography into a thrilling tapestry of action and adventure spanning the breadth of the globe.

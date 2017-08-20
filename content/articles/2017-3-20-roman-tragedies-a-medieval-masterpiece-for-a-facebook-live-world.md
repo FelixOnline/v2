@@ -4,18 +4,16 @@ title: >
 subtitle: >
   The Barbican's staging of Ivo van Hove's epic Shakespeare adaptation is bold and daring
 date: "2017-03-20 21:36:53 +0000"
-
-# Attributes from Felix Online V1
-id: "6920"
-old_path: /arts/6920/roman-tragedies-a-medieval-masterpiece-for-a-facebook-live-world
+image: "http://felixonline.co.uk/img/upload/201703202136-ff712-08.jpg"
+image_caption: "Toneelgroep Amsterdam, Roman Tragedies, Fred Goessen"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/6920/roman-tragedies-a-medieval-masterpiece-for-a-facebook-live-world
-imported: true
 comments:
  - value: >
      BgkTNt http://www.LnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gO.com,BgkTNt http://www.LnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gO.com
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -27,12 +25,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201703202136-ff712-08.jpg"
-image_caption: ""
 ---
 
 Enobarbus is a dying man. So overcome with grief at having betrayed his closest friend, Mark Antony, to Octavius Caesar, he can no longer bear to live. His cries and pleas for forgiveness are translated from Dutch to English courtesy of surtitles. A cameraman follows him as he stumbles across the stage; his lamenting projected above the set for the audience gawk at.

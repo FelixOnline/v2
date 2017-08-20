@@ -4,16 +4,14 @@ title: >
 subtitle: >
   This week's recipe
 date: "2016-05-13 09:34:59 +0100"
-
-# Attributes from Felix Online V1
-id: "6166"
-old_path: /food/6166/pavlovas-dog
+image: "http://felixonline.co.uk/img/upload/201605131134-felix-FullSizeRender.jpg"
+image_caption: "I mean, whoever thought this looked like a ballerina had clearly never actually seen one. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/6166/pavlovas-dog
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - sb6213
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605131134-felix-FullSizeRender.jpg"
-image_caption: ""
 ---
 
 Not as complex to make as a fine éclair, but with just as much flair and style, a pavlova is a delicious summer pudding. Hailing from New Zealand or Australia, depending on who you believe, it was named after the famed ballerina Anna Pavlova, whose ethereal frills it resembles. It’s a pretty classic dessert now – but for a very good reason. What could go wrong with a crispy, marshmallow-like cake with heaps of whipped cream and fresh fruit?

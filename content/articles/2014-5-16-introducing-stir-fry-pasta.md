@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Sharing the Cheah family recipe: Quick, tasty and different
 date: "2014-05-16 02:13:54 +0100"
-
-# Attributes from Felix Online V1
-id: "4605"
-old_path: /food/4605/introducing-stir-fry-pasta
+image: "http://felixonline.co.uk/img/upload/201405160314-jal08-food_carolfrypasta.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/4605/introducing-stir-fry-pasta
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -24,12 +21,6 @@ authors:
  - cac111
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201405160314-jal08-food_carolfrypasta.jpg"
-image_caption: ""
 ---
 
 Sharing the Cheah family recipe:

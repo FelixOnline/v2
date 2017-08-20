@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Felix’s deputy expert on the world’s favourite rockstar predicts the possible policies of the 2020 West Administration
 date: "2015-10-16 14:44:52 +0100"
-
-# Attributes from Felix Online V1
-id: "5659"
-old_path: /music/5659/one-nation-under-yeezus--a-guide-to-the-politics-of-kanye-west
+image: "http://felixonline.co.uk/img/upload/201510161544-ygr12-kanye.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/5659/one-nation-under-yeezus--a-guide-to-the-politics-of-kanye-west
-imported: true
 comments:
  - value: >
      Just simply wanted to say I am just relieved I stumbled on your web page!. <br>nhl 17 http://www.couponforum.org/threads/cheap-nba-2k17-mt-excellent-games-to-own-in-a-children-party.299671/,What's happening, nice websites you've gotten going here <br>fifa coins http://tosbs.tverlib.ru/four-ways-keep-your-cheap-fifa-17-coins-growing-without-burning-midnight-oil,Keep up the helpful work and delivering in the crowd! <br>buy fifa 17 coins http://yytyx.com/home.php?mod=space&amp;uid=13814&amp;do=profile&amp;from=space
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201510161544-ygr12-kanye.jpg"
-image_caption: ""
 ---
 
 Straight-talking Politics

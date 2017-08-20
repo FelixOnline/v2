@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Tonight the Imperial Devils face the UCL Yetis
 date: "2015-03-19 23:47:08 +0000"
-
-# Attributes from Felix Online V1
-id: "5410"
-old_path: /sport/5410/ice-hockey-gear-up-for-varsity
+image: "http://felixonline.co.uk/img/upload/201503192346-kmw13-image1.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/5410/ice-hockey-gear-up-for-varsity
-imported: true
 comments:
  - value: >
      Exceptionally individual pleasant website. Astounding info available on few clicks <br>madden 17 http://www.erodateworld.eu/index.php?m=member_blog&amp;p=view&amp;id=524&amp;sid=428
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - sjb113
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201503192346-kmw13-image1.jpg"
-image_caption: ""
 ---
 
 Tonight, the Imperial Devils Ice Hockey team take on the UCL Yetis in the 3rd annual “London Ice Varsity”. The Devils will be eager to retain their unbeaten record, having triumphed two years in a row so far.

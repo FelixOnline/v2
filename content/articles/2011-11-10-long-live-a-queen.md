@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Maintaining a misogynist monarchy
 date: "2011-11-10 20:18:00 +0000"
-
-# Attributes from Felix Online V1
-id: "1710"
-old_path: /politics/1710/long-live-a-queen
+image: "http://felixonline.co.uk/img/upload/201111102017-pk1811-2ndclassstamp---large.jpg"
+image_caption: "Not willing to say anything incriminatory – so here’s a picture of the Queen"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/1710/long-live-a-queen
-imported: true
 comments:
  - value: >
      Your overriding argument in this article seems to be that we shouldn't change the rules of succession, let alone contemplate switching to a republican system, or in fact make any changes to the British political system because this will apparently destabilise the country. This thinking doesn't stand up to scrutiny: there are many representative democracies in the world that don't have a monarch as head of state and survive without their societies descending into chaos. Why would changes to the executive branch of government, even the trivial one you are against, bring this about?
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -28,12 +26,6 @@ authors:
  - rj408
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102017-pk1811-2ndclassstamp---large.jpg"
-image_caption: ""
 ---
 
 A couple of weeks ago, at the Commonwealth summit in Perth, the sixteen leaders of countries where Elizabeth II is head of state unanimously agreed to change the succession laws to give women equal priority as men. This means should the Duke and Duchess of Cambridge (aka Wills and Kate) have a daughter before any sons, she will be eligible for the throne before her younger brothers. It will also allow any monarch, or anyone else in the succession line, to marry a Catholic without losing their right to the throne. A retroactive clause has been added to prevent hundreds of pretenders to the throne from emerging.

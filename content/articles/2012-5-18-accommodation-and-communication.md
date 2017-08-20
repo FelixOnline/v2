@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Those in the wardening system needs to be made aware of potential barriers to their way of life
 date: "2012-05-18 06:19:28 +0100"
-
-# Attributes from Felix Online V1
-id: "2459"
-old_path: /comment/2459/accommodation-and-communication
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2459/accommodation-and-communication
-imported: true
 comments:
  - value: >
      With my daughter currently going though the process of trying to find suitable accommodation for her second year I am amazed that there is no referral system available between IC students. Why aren't good flats and houses pased from 1 year to the next? There doesn't even seem to be any forum available to advertise for spare rooms/extra sharers - someone there is missing an opportunity.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 [Last week](http://felixonline.co.uk/comment/2440/league-table-woes-not-a-problem/) Felix commented that it could be worthwhile to focus on improving the 'student experience' from within rather than from focusing on comparison with other universities. If anything, [it has emerged](http://felixonline.co.uk/news/2454/hall-senior-prospects-in-doubt/) that focusing internally would indeed be beneficial regarding the current Wilson House hall senior situation.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Proposed timetable changes criticised by students and staff
 date: "2011-01-20 20:49:56 +0000"
-
-# Attributes from Felix Online V1
-id: "633"
-old_path: /news/633/feasibility-of-longer-day-called-into-question-
+image: "http://felixonline.co.uk/img/upload/201101202044-ks607-timetabl.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/633/feasibility-of-longer-day-called-into-question-
-imported: true
 comments:
  - value: >
      It's so typical that civ eng is supporting this. In first year, language students don't always get a lunch break (not even 1 hour)! A 2 hour break is a luxury. And it wouldn't surprise me if they wanted to start scheduling lectures until 7pm...,It's so typical that civ eng is supporting this. In first year, language students don't always get a lunch break (not even 1 hour)! A 2 hour break is a luxury. And it wouldn't surprise me if they wanted to start scheduling lectures until 7pm...,It's so typical that civ eng is supporting this. In first year, language students don't always get a lunch break (not even 1 hour)! A 2 hour break is a luxury. And it wouldn't surprise me if they wanted to start scheduling lectures until 7pm...,Just a piece of advice... Stop ciselling away at the humanities every single year! I know it may sound strange for some but a lot of my fellow students ended up choosing Imperial because of them at the end of the day. <br>,Just a piece of advice... Stop ciselling away at the humanities every
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -31,12 +28,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101202044-ks607-timetabl.jpg"
-image_caption: ""
 ---
 
 It came as a shock to many last week when [Felix reported](http://felixonline.co.uk/?article=594) that a College committee is investigating changes to the length of the College day. The proposals, which include extending the day to 8am until 7pm for undergraduates and until 8pm for postgraduates, on Mondays and Thursdays, are still under consideration but they have been treated with apprehension by students and members of staff alike, many of whom were not officially informed of the proposals. The first meeting of the committee on Monday 17th January was cancelled at short notice for unknown reasons.

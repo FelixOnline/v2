@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Joshua Renken covers the Government’s Agenda
 date: "2015-05-29 00:26:02 +0100"
-
-# Attributes from Felix Online V1
-id: "5571"
-old_path: /politics/5571/our-future-as-told-by-her-majesty
+image: "http://felixonline.co.uk/img/upload/201505290126-cj914-10.3787877f.jpg"
+image_caption: "Pomp and Ceremony: setting out the future for the UK"
+headline: true
+featured: true
+imported: true
 aliases:
  - /politics/5571/our-future-as-told-by-her-majesty
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - politics
 tags:
@@ -24,12 +22,6 @@ authors:
  - cj914
  - jr2514
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201505290126-cj914-10.3787877f.jpg"
-image_caption: ""
 ---
 
 On Wednesday the 27th May, 20 days after the general election, the Queen outlined the proposed legislation of the new government.

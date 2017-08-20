@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park reviews Big Miracle
 date: "2012-02-09 23:38:59 +0000"
-
-# Attributes from Felix Online V1
-id: "2177"
-old_path: /film/2177/a-film-about-freeing-three-free-willies
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/2177/a-film-about-freeing-three-free-willies
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - ams111
  - jgp09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 __Big Miracle__

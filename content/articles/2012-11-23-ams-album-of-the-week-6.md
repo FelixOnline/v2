@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Björk: bastards
 date: "2012-11-23 00:21:38 +0000"
-
-# Attributes from Felix Online V1
-id: "2971"
-old_path: /music/2971/ams-album-of-the-week-6
+image: "http://felixonline.co.uk/img/upload/201211230021-tna08-121008-bjork-bastards.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2971/ams-album-of-the-week-6
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - tna08
  - ym1210
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211230021-tna08-121008-bjork-bastards.jpg"
-image_caption: ""
 ---
 
 After returning to the limelight with the world’s first app album, Biophilia, Björk has continued her tradition of remix albums with the affectionately named bastards. It’s refreshing to see an artist so accomplished actually acknowledging the remix efforts of other musicians, as opposed to just using them as B-side filler.

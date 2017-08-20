@@ -4,18 +4,15 @@ title: >
 subtitle: >
   As the academic year draws to a close, Felix takes a look back at the biggest headlines of the past year
 date: "2015-06-19 13:26:15 +0100"
-
-# Attributes from Felix Online V1
-id: "5643"
-old_path: /news/5643/what-did-imperial-get-up-to-this-year
+image: "http://felixonline.co.uk/img/upload/201506191426-ps3110-screen-shot-2015-06-19-at-14.26.01.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5643/what-did-imperial-get-up-to-this-year
-imported: true
 comments:
  - value: >
      Has this article been edited at all? Or even had someone read through it before publishing? <br> <br>Numerous sentences grammatical mistakes eg 'within intent', incomplete sentences, not to mention simply poor writing. <br> <br>C'mon felix: Up. Your. Game. <br> <br>It might be the end of the year but there's no need to lower the standards.,Has this article been edited at all? Or even had someone read through it before publishing? <br> <br>Numerous sentences grammatical mistakes eg 'within intent', incomplete sentences, not to mention simply poor writing. <br> <br>C'mon felix: Up. Your. Game. <br> <br>It might be the end of the year but there's no need to lower the standards.,Has this article been edited at all? Or even had someone read through it before publishing? <br> <br>Numerous sentences grammatical mistakes eg 'within intent', incomplete sentences, not to mention simply poor writing. <br> <br>C'mon felix: Up. Your. Game. <br> <br>It might be the end of the year but there's no need to lower the standards.,youre really talented. <br>fifa ultimate team coins htt
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -31,12 +28,6 @@ highlights:
  - comment
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506191426-ps3110-screen-shot-2015-06-19-at-14.26.01.png"
-image_caption: ""
 ---
 
 This year, Felix has covered a plethora of stories from all corners of the campus, covering stories relevant to staff and students alike. We recap the stories we’ve brought to you this year, and what to watch out for next year.

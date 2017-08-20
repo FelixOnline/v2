@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Daniel Oppenheimer reports from sunny Croatia
 date: "2011-10-16 15:04:35 +0100"
-
-# Attributes from Felix Online V1
-id: "1549"
-old_path: /music/1549/outlook-festival-returns
+image: "http://felixonline.co.uk/img/upload/201110161600-felix-outlookfestival.jpg"
+image_caption: "Dude, where's the beach?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/1549/outlook-festival-returns
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +22,6 @@ authors:
  - dyo10
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110161600-felix-outlookfestival.jpg"
-image_caption: ""
 ---
 
 Accounts of the first instalment of [_Outlook Festival_](http://www.outlookfestival.com/) four years back (held in a Croatian night club with relatively low attendance and a lot of rain) sound like Phoenix Nights on the Adriatic. Since then the event has come a long way.

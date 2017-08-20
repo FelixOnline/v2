@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ski Trip spots Super Cow shredding up the slopes!
 date: "2011-01-20 20:50:29 +0000"
-
-# Attributes from Felix Online V1
-id: "634"
-old_path: /sport/634/he-must-be-friesian
+image: "http://felixonline.co.uk/img/upload/201101202047-nm1010-skiiiiii.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/634/he-must-be-friesian
-imported: true
 comments:
  - value: >
      All that it needs is for you to take your folks to a ski location in the Xmas hiladoys and experience the diverse winter sports pursuits like skiing, snow-boarding, sledding, and tubes. So does planning the best family ski holiday tough? While family ski hiladoys might be great Yuletide holiday ideas, the next thing to do after making a decision to take one is to make plans for it. Your concept behind a skiing holiday is to pack in skiing with having a great time with the remainder of the family too, and the resort you select should satisfy that target.
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -28,12 +25,6 @@ authors:
  - felix
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101202047-nm1010-skiiiiii.jpg"
-image_caption: ""
 ---
 
 On the last week of the holidays it was time for Imperial College students to hit the slopes in Val Thorens! Two busloads of students spent 22 hours travelling to the Alps on New Year’s Day, most still suffering from the revelries of the night before. However, duty free alcohol and a port to port challenge tempted people back over to the dark side with one bus having a bit too much fun – and as the trip’s Worried Mum, I was called in to clean up the mess!

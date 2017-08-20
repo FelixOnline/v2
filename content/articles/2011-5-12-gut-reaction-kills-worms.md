@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Research could aid global fight against parasitic infections. By Camilla Ruz
 date: "2011-05-12 16:27:20 +0100"
-
-# Attributes from Felix Online V1
-id: "1188"
-old_path: /science/1188/gut-reaction-kills-worms
+image: "http://felixonline.co.uk/img/upload/201105121728-felix-mken.jpg"
+image_caption: "These parasitic worms didn’t have the backbone to stand up to the toxic Muc5ac mucin"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1188/gut-reaction-kills-worms
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - felix
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201105121728-felix-mken.jpg"
-image_caption: ""
 ---
 
 Researchers have found a component of gut mucus that is toxic to parasitic worms. The discovery could help one billion people worldwide.

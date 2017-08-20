@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Looking at nativity from a whole other perspective
 date: "2010-12-09 21:23:25 +0000"
-
-# Attributes from Felix Online V1
-id: "532"
-old_path: /comment/532/the-nativity-from-a-ladies-point-of-view
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/532/the-nativity-from-a-ladies-point-of-view
-imported: true
 comments:
  - value: >
      What a joy to find somnoee else who thinks this way.,zj0Lb0 <a href="http://ymbykukoafcx.com/">ymbykukoafcx</a>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - ann09
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Male chauvinists have assured me that it is my job to care about domestics. But to show that I am not merely using this as an excuse to slack off work and am taking my responsibilities as a female seriously, I want to tell you about my role model, Baboushka (aka Babs in my book). One could think of her as a Russian version of St Nicholas. For those to whom St Nicholas is a vague figure of festive season relevance with a day in his name, I ought to add some explanations; it would make a useful piece of trivia wouldnít it? However I want to get off the beaten Christmas track and not bother looking it up for your benefit.

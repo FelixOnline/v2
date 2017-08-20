@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Caravan Palace hold their first UK concert
 date: "2012-12-07 03:37:59 +0000"
-
-# Attributes from Felix Online V1
-id: "3066"
-old_path: /music/3066/electro-swing-at-koko
+image: "http://felixonline.co.uk/img/upload/201212070337-tna08-caravan-palace.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/3066/electro-swing-at-koko
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - ss9011
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201212070337-tna08-caravan-palace.jpg"
-image_caption: ""
 ---
 
 November 21st, was an important day for British fans of the electro-swing band Caravan Palace. They held their first ever concert in the UK – which took place not too far from Imperial College, in the Camden KOKO venue.

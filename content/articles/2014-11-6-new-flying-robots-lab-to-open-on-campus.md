@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Construction on the £1.25m lab will start in 2016.
 date: "2014-11-06 14:27:21 +0000"
-
-# Attributes from Felix Online V1
-id: "4757"
-old_path: /news/4757/new-flying-robots-lab-to-open-on-campus
+image: "http://felixonline.co.uk/img/upload/201411061426-ps3110-flyingcar.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4757/new-flying-robots-lab-to-open-on-campus
-imported: true
 comments:
  - value: >
      Wonderful. <br>But seeing the little drones and how easy it seems to operate them and having heard they are practical enough that Amazon plans to use them for delivering goods, I can't help wondering why they don't cut to the chase and develop robotic people carrying drones to replace cars. <br>If they are able to lift goods and are economic enough for business use, they can't be far away from that. ,birkenstock outlet online <br>cheapest birkenstock sandals http://birkenstockaustralia.rochecap.org/,louboutin rolando canada <br>christian louboutin canada http://christianlouboutincanadaoutlet.blogspot.com/,Quite interesting, looking forwards to coming back again.| <br>nba 2k16 mt for sale xbox one http://blog.bizeso.com/BlogDetail.aspx?bid=6e1c2ee1-8d37-4cf6-b94e-54b920b8c0ea,Thanks, this website is really handy.| <br>csgo skins fast http://www.irakyat.my/blogs/1227/10960/2k16-vc-regular-season-earlier-than-besting-the-university,Love the site-- extremely individual friendly and lots to see! <br>fifa 17 http://jfame.com/blogs/156
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411061426-ps3110-flyingcar.jpg"
-image_caption: ""
 ---
 
 Imperial is opening a new lab to develop flying robots. The drone lab will be the most advanced in the UK, and will cost £1.25m to build. The testing lab is to be built on the South Kensington campus, as an investment into next generation robotics, and construction of the lab will begin in 2016.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Shiladitya Ghosh briefs you on College's ranking prowess...
 date: "2013-09-27 23:40:16 +0100"
-
-# Attributes from Felix Online V1
-id: "3765"
-old_path: /features/3765/university-rankings-and-what-to-not-make-of-them
+image: "http://felixonline.co.uk/img/upload/201309280038-jal08-rankingstable.png"
+image_caption: "Imperial College - A day at the rankings!"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/3765/university-rankings-and-what-to-not-make-of-them
-imported: true
 comments:
  - value: >
      Hey there, thanks for your comment. I freely admit that my article is pessimistic and thus exaggerates on several fronts. I do intend for it to challenge freshers and seniors alike, making them work to invalidate it. You know where to find me on FB :P,I like this article man but i disagree with it on quite a few fronts. So if we ever bump into each other, I would like to argue against this pessimistic viewpoint. <br>But really like this article though :) ,You would have to be mentally challenged not to leave with at least a back office job at canary wharf upon graduation.,In my opinion WordPress blogs are the best beuacse they are better optimized for the search engines. There are a number of ways to monetize a blog. Below are 2 articles that can help you.,hi my name is jasmine and i wsa <a href="http://shwsyvguv.com">inetstreed</a> in getting some photos take. Gandi referred me to you. I didnt see any pricing and i wanted to know how much it would eso i will probably just email you.
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201309280038-jal08-rankingstable.png"
-image_caption: ""
 ---
 
 No matter who you are or where you come from, you are, to some extent, proud of this esteemed institution’s very high rankings on various scales and from a variety of scorers around the world. It helps that the QS League Tables just got updated earlier this month to show Imperial rising to its greatest heights ever – hats off to Civ. Eng., how does it feel to be on top of the world? – just as we all start/resume our college adventure. (A selection of up-to-date rankings is shown in a table if you want to feel good about yourself while you still can.)

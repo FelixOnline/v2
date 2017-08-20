@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Taking a journey to the Heart of Islam
 date: "2012-02-03 10:46:10 +0000"
-
-# Attributes from Felix Online V1
-id: "2127"
-old_path: /arts/2127/go-hajj-or-go-home
+image: "http://felixonline.co.uk/img/upload/201202031047-sjw209-tumblr_l7nkdx3cmw1qcy0nqo1_500.jpg"
+image_caption: "Ahmed Mater’s Magnetism"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/2127/go-hajj-or-go-home
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -25,12 +23,6 @@ authors:
  - wsp10
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202031047-sjw209-tumblr_l7nkdx3cmw1qcy0nqo1_500.jpg"
-image_caption: ""
 ---
 
 I’d always thought writing opening paragraphs was hard. But no editorial challenge that faces us, here in the Felix office, comes anywhere close to the mammoth task taken on by the __British Museum__ (or, more truthfully, by curator Venetia Porter) in its latest exhibition, [_Hajj: Journey to the Heart of Islam_](http://www.britishmuseum.org/whats_on/exhibitions/hajj.aspx).

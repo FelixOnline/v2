@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Paul Beaumont proposes a new policy that allows yards and keeps the bar open later and
 date: "2012-12-07 00:23:06 +0000"
-
-# Attributes from Felix Online V1
-id: "3024"
-old_path: /news/3024/its-the-return-of-the-yard
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3024/its-the-return-of-the-yard
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Paul Beaumont, Union President, has proposed a new “Retailing of Alcohol” policy to the Executive Committee (Exec.), which will change the bar opening hours and yards.

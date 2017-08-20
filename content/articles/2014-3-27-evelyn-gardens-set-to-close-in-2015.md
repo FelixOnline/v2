@@ -4,18 +4,16 @@ title: >
 subtitle: >
   According to recent information the halls are set to close in 2015, either for refurbishment or permanently.
 date: "2014-03-27 11:49:49 +0000"
-
-# Attributes from Felix Online V1
-id: "4513"
-old_path: /news/4513/evelyn-gardens-set-to-close-in-2015
+image: "http://felixonline.co.uk/img/upload/201403271149-jal08-evelyn-gardens.jpg"
+image_caption: "Evelyn Gardens - One year to go?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4513/evelyn-gardens-set-to-close-in-2015
-imported: true
 comments:
  - value: >
      http://wwwf.imperial.ac.uk/imedia/content/view/376 (around 1 minute 20 seconds in) <br> <br>"If we're going to bring students from around the World to study at Imperial College then we've got to make sure that we can accommodate those students close to the university so they actually live on the campus. That is so important to us." - Sir Richard Sykes, RECTOR in 2005. <br> <br>So, dear College, what's changed?,THE HALLS WILL CLOSE ONCE THE STUDENTS WHO ONCE WENT THERE HAVE GONE. THE COLLEGE KNOWS THEY ARE THE ONLY PEOPLE WHO WILL CAMPAIGN AGAINST SUCH CLOSURES. <br> <br>COLLEGE DOES NOT GIVE A DAMN. <br> <br>THE POSTULATION OF REFURBISHMENT IS NONSENSE. AN EMPTY MEANINGLESS PROMISE. NO REFURBISHMENT WILL HALLE. CLOSURE ONCE THE STUDENTS WHO ONCE LEFT THERE IS WHAT WILL HAPPEN. CAPS ARE truth and stuff.,It is about time the standard of accommodation in Evelyn Gardens be brought in line with the rest of Imperial or to what most student would expect. <br> <br>It is important that the price be kept as low as possible to allow access to th
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +24,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201403271149-jal08-evelyn-gardens.jpg"
-image_caption: ""
 ---
 
 According to anonymous sources, the entire network of halls in Evelyn Gardens (providing accommodation for a total of 613 students), is set to close in 2015, with student accommodation spaces being transferred to the accommodation in Acton that is under current development.

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Union calls move “overblown” as Rector apologises
 date: "2011-02-24 19:37:14 +0000"
-
-# Attributes from Felix Online V1
-id: "863"
-old_path: /news/863/college-pulls-plug-on-union-server
+image: "http://felixonline.co.uk/img/upload/201102241932-ks607-pullplug.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/863/college-pulls-plug-on-union-server
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102241932-ks607-pullplug.jpg"
-image_caption: ""
 ---
 
 Senior Union figures were left at odds with College last week when the Union’s server was shut down by ICT security following a complaint made by a member of the public about an article posted on the Rugby Club’s website. The Union reacted angrily issuing a statement calling the shutdown “overblown and unnecessary” and accusing the College of failing to follow proper procedures.

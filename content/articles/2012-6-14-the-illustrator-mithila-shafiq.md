@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The Illustrator - Mithila Shafiq
 date: "2012-06-14 20:33:04 +0100"
-
-# Attributes from Felix Online V1
-id: "2567"
-old_path: /phoenix/2567/the-illustrator---mithila-shafiq
+image: "http://felixonline.co.uk/img/upload/201206142129-pk1811-mithi_b_01.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /phoenix/2567/the-illustrator---mithila-shafiq
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - phoenix
 tags:
@@ -25,12 +22,6 @@ authors:
  - jal08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201206142129-pk1811-mithi_b_01.jpg"
-image_caption: ""
 ---
 
 Mithili Shafiq was the archetypal scientist with a creative itch. By the end of her PhD she had decided that the itch needed to be scratched. Now she has retrained as an illustrator and is making a new life for herself in Bristol. I caught up with her over Skype after several abortive attempts to catch her between dance lessons and deadlines.

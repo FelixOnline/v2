@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Two wins, three losses and a draw: pre-season matches offer some insight into the teams ahead of a new season
 date: "2011-10-21 10:08:11 +0100"
-
-# Attributes from Felix Online V1
-id: "1584"
-old_path: /sport/1584/ic-hockey-friendlies-yield-mixed-results
+image: "http://felixonline.co.uk/img/upload/201110211107-ak6309-dsc_0301modified-copywebsite.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/1584/ic-hockey-friendlies-yield-mixed-results
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - jzy08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110211107-ak6309-dsc_0301modified-copywebsite.jpg"
-image_caption: ""
 ---
 
 Wednesday 12 October was a mixed day for ICHC, with the 6 teams recording 2 wins, 3 losses and a draw. The series of friendlies played against a combination of UCL and the RSM provided valuable experience for ICHC and an opportunity for the freshers to impress and show what they were capable of.

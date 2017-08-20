@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The Imperial Entrepeneurs tell us the story of a new kind of ‘gang warfare’ within the Social Media, and how it is bettering the work of young entrepreneurs
 date: "2011-12-08 20:32:43 +0000"
-
-# Attributes from Felix Online V1
-id: "1914"
-old_path: /biz/1914/are-you-a-gangster
+image: "http://felixonline.co.uk/img/upload/201112082017-cac111-butchcassidy.jpg"
+image_caption: "Butch Cassidy and the Sundance Kid gained notoriety holding-up banks...never young entrepreneurs"
+headline: true
+featured: true
+imported: true
 aliases:
  - /biz/1914/are-you-a-gangster
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - business
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201112082017-cac111-butchcassidy.jpg"
-image_caption: ""
 ---
 
 Walking up towards the exit from the SAF lecture theatre I saw two people approach me who asked that exact question. “Are you a gangster?” Unsurprisingly, it made a few other people turn their heads around in wonder, as they were also leaving the lecture hall after a presentation on social economy.

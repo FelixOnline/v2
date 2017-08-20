@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Imperial’s venture with Nanyang Technological University receives sizeable gift from the Lee Foundation
 date: "2011-01-13 21:53:11 +0000"
-
-# Attributes from Felix Online V1
-id: "598"
-old_path: /news/598/singapore-medical-school-receives-150-million-boost
+image: "http://felixonline.co.uk/img/upload/201101132151-ks607-singapor.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/598/singapore-medical-school-receives-150-million-boost
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - klb09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201101132151-ks607-singapor.jpg"
-image_caption: ""
 ---
 
 Imperial’s new Singaporean medical school; a partnership between Imperial and the Nanyang Technological University, has this month received a gift of $150 million from the Lee Foundation.

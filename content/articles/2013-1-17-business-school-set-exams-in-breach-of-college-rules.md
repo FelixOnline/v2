@@ -4,18 +4,15 @@ title: >
 subtitle: >
   One exam set late in the night followed by one in the morning
 date: "2013-01-17 23:40:57 +0000"
-
-# Attributes from Felix Online V1
-id: "3116"
-old_path: /news/3116/business-school-set-exams-in-breach-of-college-rules
+image: "http://felixonline.co.uk/img/upload/201301172340-tna08-business-school.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3116/business-school-set-exams-in-breach-of-college-rules
-imported: true
 comments:
  - value: >
      The comment from Laura McConnell is clearly a cop-out, if the exams managers in the BS did their job properly and followed up available space from other departments they would easily find an appropriate room on Campus. I also understand from my fellow students that at times the BS has conducted its exams off campus during the day which is allowed under College rules. This really shows the lack of professionalism the BS show for their own students and of those for other departments. Sad really considering the amount in fees us students pay. It's about time the School put more emphasis on the needs of it's students. ,The sad thing is that I have just gotten used to Imperial treating us like this that I didn't even bother protesting about it. We've been taught to suck it up &amp; take it lying down - this is Imperial. &amp; then we're surprised our NSS results suck...
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +25,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301172340-tna08-business-school.jpg"
-image_caption: ""
 ---
 
 Imperial College Business School has recently been conducting their examinations in a manner that has been deemed unfair by students and is potentially a violation of the College’s own policy. The breach of the regulations has been revealed by a student who wished to remain anonymous.

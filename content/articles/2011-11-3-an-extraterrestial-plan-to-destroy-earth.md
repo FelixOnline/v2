@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Silly anime gets the thumbs up from Maciej Matuszewski
 date: "2011-11-03 20:36:59 +0000"
-
-# Attributes from Felix Online V1
-id: "1670"
-old_path: /tv/1670/an-extraterrestial-plan-to-destroy-earth
+image: "http://felixonline.co.uk/img/upload/201111032036-pk1811-flcl-cartoon-image-character-31000.jpg"
+image_caption: "Do you brandish your sword at me old chap?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1670/an-extraterrestial-plan-to-destroy-earth
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -24,12 +22,6 @@ authors:
  - mtm10
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111032036-pk1811-flcl-cartoon-image-character-31000.jpg"
-image_caption: ""
 ---
 
 What can I say FLCL (pronounced fooly cooly or furi kuri)? Produced by anime powerhouses Gainax and I.G. Production, it’s certainly one the craziest pieces of fiction that I’ve ever seen.

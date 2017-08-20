@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A bizarre world where tube lines celebrate Christmas
 date: "2010-12-09 21:45:32 +0000"
-
-# Attributes from Felix Online V1
-id: "542"
-old_path: /comment/542/if-tube-lines-had-a-christmas-party
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/542/if-tube-lines-had-a-christmas-party
-imported: true
 comments:
  - value: >
      If you are searching for a BIG City venue, then there is only really one option. <a href="http://www.ukvenues.co.uk/">Conference Venues</a> | <a href="http://www.ukvenues.co.uk/region/b">birmingham conference centres</a>, size, location and flexibility make it the No 1 choice for large City parties in London,That's 2 cveler by half and 2x2 clever 4 me. Thanks!, <a href="http://www.unamedic.com/">apothecure and colchicine and</a> 8-] <a href="http://www.symprix.net/">online pharmacy without rx for valtrex</a> jmq <a href="http://www.lookformeds.net/">purchase cialis</a> watloy
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -25,12 +22,6 @@ authors:
  - va208
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 You know that friend of yours who's always busy on weekends when you ask her to come out? She recently left a relationship that was just going round and round. Welcome to the Circle Line.

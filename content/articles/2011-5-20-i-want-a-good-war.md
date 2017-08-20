@@ -4,18 +4,15 @@ title: >
 subtitle: >
   This 'War on Terror' nonsense just won't do
 date: "2011-05-20 05:54:21 +0100"
-
-# Attributes from Felix Online V1
-id: "1230"
-old_path: /comment/1230/i-want-a-good-war
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1230/i-want-a-good-war
-imported: true
 comments:
  - value: >
      Thats raelly shrewd! Good to see the logic set out so well.,K0fKHE <a href="http://owmcbzrzklga.com/">owmcbzrzklga</a>
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - sf305
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 There is nothing like the threat of being shot in the head, for reassurance. And whether or not the threat of that has befallen you, and I hope not, on the world’s stage there seems to be something of a trend of conflict resolution and a supremacy of liberal ideals. The conflict in northern Ireland seems at an end, there is continued progress of the democracy in South Africa, and the death of Osama Bin Laden signally a deep-if-not-fatal blow to the war on the faceless enemy of terrorism. Yes, terrorism and not ‘terror’. Only Lynn Truss can be said to wage war on a verb.

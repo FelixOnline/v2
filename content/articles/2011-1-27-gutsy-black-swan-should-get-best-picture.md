@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Oscar favorite for best motion picture.
 date: "2011-01-27 20:09:14 +0000"
-
-# Attributes from Felix Online V1
-id: "686"
-old_path: /film/686/gutsy-black-swan-should-get-best-picture
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/686/gutsy-black-swan-should-get-best-picture
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -23,12 +20,6 @@ authors:
  - egk08
  - nm1010
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It’s all too was easy to say that this year’s Oscars is going to be exciting but I do believe that the 51st Academy Awards are going to be a bit special. Whereas previous years have been dominated by a few strong contenders ( There Will be Blood and No Country For Old Men 2007) or a weak field (2006) or just ridiculous hysteria for one film (Slumdog Millionaire, 2009), this season’s Oscars have few clear favourites.

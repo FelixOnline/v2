@@ -4,16 +4,13 @@ title: >
 subtitle: >
   You haven’t come to uni to be ‘re-born’; just have fun
 date: "2010-10-01 22:34:25 +0100"
-
-# Attributes from Felix Online V1
-id: "164"
-old_path: /comment/164/change-is-overrated
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/164/change-is-overrated
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -23,12 +20,6 @@ authors:
  - felix
  - mrangry
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 You’re on the brink of it. You’ve spent the last few months being told that your exams were too easy, your future is jobless, your university fees higher than ever, your hair too long and your generation’s romantic comedies too full of Gerard Butler. Most of these things are not true. Gerard Butler does appear to be able to star in several movies simultaneously, however.

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Proposals could see care homes on Evelyn Gardens
 date: "2012-01-12 22:24:41 +0000"
-
-# Attributes from Felix Online V1
-id: "1983"
-old_path: /news/1983/permission-granted-for-fisher-hall-development
+image: "http://felixonline.co.uk/img/upload/201201122223-felix-dusk003.jpg"
+image_caption: "The proposals would see new care housing at Evelyn Gardens "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1983/permission-granted-for-fisher-hall-development
-imported: true
 comments:
  - value: >
      This is garbage for the sake of garbage. No offence.
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - ks607
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201201122223-felix-dusk003.jpg"
-image_caption: ""
 ---
 
 The topic of [Fisher Hall](http://www.union.ic.ac.uk/halls/fisher/)’s closure in Evelyn Gardens has been revived after a planning permission request from the college aiming to shift the building’s use from Halls of Residence to Care Housing was granted.

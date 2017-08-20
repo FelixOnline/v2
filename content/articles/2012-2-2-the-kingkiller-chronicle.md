@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Maciej Matuszewski reviews Patrick Rothfuss' bestselling fantasy epic
 date: "2012-02-02 20:59:01 +0000"
-
-# Attributes from Felix Online V1
-id: "2100"
-old_path: /books/2100/the-kingkiller-chronicle
+image: "http://felixonline.co.uk/img/upload/201202022054-ams111-kingkiller.jpg"
+image_caption: "Our protagonist Kvothe  – skilled magic user and swordsmaster"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/2100/the-kingkiller-chronicle
-imported: true
 comments:
  - value: >
      Great article, I love the book. And the mythic back-story is a great source of discussions among my friends on how the 3rd book should be like. <br> <br>The trilogy is definately better than Song of Ice and Fire.
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -28,12 +26,6 @@ authors:
  - pk1811
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202022054-ams111-kingkiller.jpg"
-image_caption: ""
 ---
 
 I don’t generally read all that much fantasy, at least compared to science fiction, but I was drawn to Patrick Rothfuss’ Kingkiller Chronicle by a pair of very positive reviews in Locus and the Magazine of Fantasy and Science Fiction. I bought the first book in the series, The Name of the Wind, but it was left neglected on my shelves for several months – the consequence of a huge backlog in my reading list.

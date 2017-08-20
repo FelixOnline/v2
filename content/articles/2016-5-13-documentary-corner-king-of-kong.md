@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-05-13 09:09:44 +0100"
-
-# Attributes from Felix Online V1
-id: "6159"
-old_path: /film/6159/documentary-corner-king-of-kong
+image: "http://felixonline.co.uk/img/upload/201605131109-felix-2007_the_king_of_kong_005.jpg"
+image_caption: "“Well maybe they’d like it if I’d lose. Maybe I should try losing sometime.” – Billy Mitchell. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6159/documentary-corner-king-of-kong
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - bsc14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605131109-felix-2007_the_king_of_kong_005.jpg"
-image_caption: ""
 ---
 
 As this will be my last Documentary Corner feature of the year, I thought it fitting to end on a high note, with my favourite documentary of all time – _King of Kong: A Fistful of Quarters_. It works in every way a documentary should, and then some. Director Seth Gordon was able to create a suspenseful, exciting, and completely engrossing film about one of the strangest and most niche topics imaginable – competitive Donkey Kong.

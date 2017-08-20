@@ -4,16 +4,13 @@ title: >
 subtitle: >
   John Park runs down the best of the 70s
 date: "2013-01-10 23:08:15 +0000"
-
-# Attributes from Felix Online V1
-id: "3105"
-old_path: /film/3105/the-best-films-from-the-1970s
+image: "http://felixonline.co.uk/img/upload/201301102305-tna08-godfather.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3105/the-best-films-from-the-1970s
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +21,6 @@ authors:
  - jgp09
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301102305-tna08-godfather.jpg"
-image_caption: ""
 ---
 
 Recently, the British Film Institute (BFI) released the results of their celebrated poll, “THE GREATEST FILMS OF ALL TIME”, in which they surveyed film critics and directors to list their ten favourite films. Now the Felix Film team, as much as we’d love to, doesn’t have that kind of time or resources. And so we decided to split the films up according to the decades in which they were released. So every week, we will present you with our top films of each decade.

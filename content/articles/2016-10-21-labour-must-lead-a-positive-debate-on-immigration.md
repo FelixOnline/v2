@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Giacomo Boscaini-Gilroy implores the Labour Party to change public perception of immigration
 date: "2016-10-21 12:28:51 +0100"
-
-# Attributes from Felix Online V1
-id: "6344"
-old_path: /comment/6344/labour-must-lead-a-positive-debate-on-immigration
+image: "http://felixonline.co.uk/img/upload/201610211428-ajp15-Screen Shot 2016-10-21 at 14.28.09.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/6344/labour-must-lead-a-positive-debate-on-immigration
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - ajp15
  - gib13
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201610211428-ajp15-Screen Shot 2016-10-21 at 14.28.09.png"
-image_caption: ""
 ---
 
 Imperial’s success depends on a culture of open-mindedness that has attracted academics and students to come from abroad, and means people from different cultures, but with similar interests, can exchange ideas. Immigration has allowed this university to thrive, so why is it that in Britain today it is so universally considered a burden on our society?

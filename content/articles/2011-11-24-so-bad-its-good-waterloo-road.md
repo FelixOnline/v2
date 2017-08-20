@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Far-fetched state-school drama tops National TV Awards
 date: "2011-11-24 21:20:54 +0000"
-
-# Attributes from Felix Online V1
-id: "1819"
-old_path: /tv/1819/so-bad-its-good--waterloo-road
+image: "http://felixonline.co.uk/img/upload/201111242120-pk1811-episode-112.jpg"
+image_caption: "The Ofsted inspection suddenly seemed to have become a little less orthodox than usual"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/1819/so-bad-its-good--waterloo-road
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -25,12 +23,6 @@ authors:
  - mtm10
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242120-pk1811-episode-112.jpg"
-image_caption: ""
 ---
 
 I don’t normally watch shows in the ‘so bad it’s good’ category – there are far too many genuinely good programmes which I can devote my time to. The one exception to this rule is [_Waterloo Road_](http://www.bbc.co.uk/programmes/b006t1p7)__.

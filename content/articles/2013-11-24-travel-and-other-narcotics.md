@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Pablo Cólon on Backpackers: stoned on a drug of complacency and compromise
 date: "2013-11-24 16:43:57 +0000"
-
-# Attributes from Felix Online V1
-id: "4133"
-old_path: /travel/4133/travel-and-other-narcotics
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/4133/travel-and-other-narcotics
-imported: true
 comments:
  - value: >
      It seems that any of rss feed is not working. <br>Eg. http://felixonline.co.uk/rss.php?cat=travel <br> <br>Would you fix it?,Hi Anon - thanks for pointing that out! We'll fix it soon. <br> <br>-- Felix webdev
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -27,12 +24,6 @@ authors:
  - jal08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Travel is, in so many ways, a powerful drug. This resemblance is one that I’ve always considered, and the analogy seems to hold true with respect to most of travel’s traits, except perhaps for the fact that you can’t physically sniff travel through a crisp fifty after crushing it with a credit card.

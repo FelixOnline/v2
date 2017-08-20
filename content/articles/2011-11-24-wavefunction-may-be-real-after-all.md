@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Theorem by Imperial scientists could change our understanding of the wavefunction
 date: "2011-11-24 20:37:03 +0000"
-
-# Attributes from Felix Online V1
-id: "1806"
-old_path: /science/1806/wavefunction-may-be-real-after-all
+image: "http://felixonline.co.uk/img/upload/201111242036-pk1811-cover_proposal_prevedel.jpg"
+image_caption: "The interpretation of the wavefunction has been static for 85 years"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1806/wavefunction-may-be-real-after-all
-imported: true
 comments:
  - value: >
      This has resurfaced again: <br> <br>http://www.nature.com/news/a-boost-for-quantum-reality-1.10602,StarOfSagittarius1 on September 3, 2012 Some very old questions are still aunrod. These questions concern human behavior, thoughts, and will. Can quantum mechanics shed some light on such questions as: Am﻿ I just a machine? How does my will act? What is God's will? Is there a God?,I'm also in this class and I like it as well. It's had a good focus on intuitive <a href="http://llttrujwb.com">unntdseandirg</a>. My primary motivation was to have a bit of <a href="http://llttrujwb.com">unntdseandirg</a> on the topic given it's relation to cryptography, but now I'm just plain interested int it., car insurance infections stress prescribed counterparts memic auto insurance
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -26,12 +24,6 @@ authors:
  - ak6309
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111242036-pk1811-cover_proposal_prevedel.jpg"
-image_caption: ""
 ---
 
 Scientists at Imperial College London have presented a theorem which suggests that the wavefunction is a physical object. The paper, which emphasises that the quantum state cannot be interpreted statistically, was submitted on November 14 and has potential to shake the foundations of quantum theory.

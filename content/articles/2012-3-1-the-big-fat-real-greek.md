@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Don't let Greece's politico-economic situation put you off its cuisine!
 date: "2012-03-01 21:52:06 +0000"
-
-# Attributes from Felix Online V1
-id: "2281"
-old_path: /food/2281/the-big-fat-real-greek
+image: "http://felixonline.co.uk/img/upload/201203012148-ams111-header.jpg"
+image_caption: "A glass of Ouzo and plenty of mezes make the crisis fade away"
+headline: true
+featured: true
+imported: true
 aliases:
  - /food/2281/the-big-fat-real-greek
-imported: true
 comments:
  - value: >
      Mammoth I should be able to post my prepepr and bug out bag guides this weekend. The list anon posted has some good sources.I like blacklistednews.com prepepr delighteconomicpolicyjournal.com gloomy stuffcheaperthandirt.com Nearly everything you needsportsmansguide.com lots of military stuff tooemergencyessentials.com food and moreefoods.com food and more foodcostco.com very low cost long term food stocksI use these all and then someMost of the prepepr guides cost a bit so I compiled some basic stuff to share with SD readers,Mammoth I should be able to post my prepepr and bug out bag guides this weekend. The list anon posted has some good sources.I like blacklistednews.com prepepr delighteconomicpolicyjournal.com gloomy stuffcheaperthandirt.com Nearly everything you needsportsmansguide.com lots of military stuff tooemergencyessentials.com food and moreefoods.com food and more foodcostco.com very low cost long term food stocksI use these all and then someMost of the prepepr guides cost a bit so I
-
-# Article Taxonomies
 categories:
  - food
 tags:
@@ -29,12 +27,6 @@ authors:
  - mk4410
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201203012148-ams111-header.jpg"
-image_caption: ""
 ---
 
 _Many of you may feel a bit unwilling to visit a Greek restaurant because of Greece’s absurd and unjustifiable dealing of its politico-economic crisis. Besides, it is a fact, especially for those studying economics, that a country so small as Greece and with such a small and limited economy, can easily drag down healthy(?) economies such as America’s, the UK’s and Europe’s. However, we suggest you try to forget for a moment that all our problems’ source is Greece and enjoy some delicious food!_

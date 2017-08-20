@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Spoilers, obviously
 date: "2016-05-27 09:04:26 +0100"
-
-# Attributes from Felix Online V1
-id: "6220"
-old_path: /tv/6220/this-week-on-game-of-thrones
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/6220/this-week-on-game-of-thrones
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - ad4013
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 It’s a fairly eventful week in the most recent, unfortunately weaker, episode of _Game of Thrones_. Right off the bat, we’re treated to perhaps one of the biggest reveals in the series; the origin of the White Walkers. The problems start here, because this scene sorely lacks the gravitas it requires and as a result has nowhere near the impact that it should. The fact that it just sort of happens, out of nowhere, doesn’t help.

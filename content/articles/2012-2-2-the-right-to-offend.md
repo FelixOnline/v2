@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Tagore Nakornchai thinks religious groups should face their critics head on
 date: "2012-02-02 23:32:44 +0000"
-
-# Attributes from Felix Online V1
-id: "2111"
-old_path: /comment/2111/the-right-to-offend
+image: "http://felixonline.co.uk/img/upload/201202022331-sjw209-ricky_gervais_1017585a.jpg"
+image_caption: "Yep, he may offend people, but consider this: without him, no Karl Pilkington"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/2111/the-right-to-offend
-imported: true
 comments:
  - value: >
      I will exercise my right to offend by calling this piece utter trash. <br> <br>Just kidding! It made for a very interesting read. Do you know why the Atheists and Agnostics Society shut down?,As a pastafarian I am constantly offended by what passes for al dente in the SCR,I have no idea why the previous society shut down. They weren't there at my first freshers' fair (I'm a 2nd year), and I can't find the SCC Minutes on the Union Website.,Great article. I'd also be interested in helping to start up an Atheist/Agnostic society. Could make a nice counterweight to all the vocal religious societies we've got around here.,Brilliant piece. Would be a great to finally give atheists &amp; agnostics a proper voice at Imperial.,You're article is interesting. I partly agree with it. Yet I see a few issues: <br>1) Criticising and insulting are two different things <br>2) Is freedom of speech really absolute? <br> <br>You cited economics, politics, music, .... ok, that's fine. But what about race or sex? Are you really free to insult another
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -29,12 +27,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201202022331-sjw209-ricky_gervais_1017585a.jpg"
-image_caption: ""
 ---
 
 In case you haven’t been following the news, here’s a quick summary: the UCL Atheist, Secular and Humanist Society’s president stepped down this week after massive pressure from the UCL Union. The Society had used a picture from the “Jesus and Mo” web comic to advertise an event, and were promptly served with a takedown notice from the UCL Union. When the society shot back with a petition, 4,000 people (including Richard Dawkins) signed it overnight, and the UCLU was forced to back down.

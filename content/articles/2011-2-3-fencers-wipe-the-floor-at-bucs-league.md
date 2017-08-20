@@ -4,16 +4,13 @@ title: >
 subtitle: >
   IC Fencing undefeated
 date: "2011-02-03 20:39:23 +0000"
-
-# Attributes from Felix Online V1
-id: "752"
-old_path: /sport/752/fencers-wipe-the-floor-at-bucs-league-
+image: "http://felixonline.co.uk/img/upload/201102032037-ks607-etretret.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /sport/752/fencers-wipe-the-floor-at-bucs-league-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - sport
 tags:
@@ -24,12 +21,6 @@ authors:
  - cl3510
  - ks607
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102032037-ks607-etretret.jpg"
-image_caption: ""
 ---
 
 The second and final weekend of Men’s and Women’s, BUCS Southern Premier League took at place at Ethos on the 28th-29th January. Going into the weekend both Imperial teams looked strong contenders for their respective titles, being undefeated in the first weekend. Expectations on further victories were high and winning the league was the goal everyone was aiming for.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Demand for science study steady in comparison
 date: "2011-10-27 19:58:39 +0100"
-
-# Attributes from Felix Online V1
-id: "1607"
-old_path: /news/1607/university-applications-fall-by-9
+image: "http://felixonline.co.uk/img/upload/201110272054-felix-img_6743-copy.jpg"
+image_caption: "Despite the decrease in the number of applications, science remains in demand"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1607/university-applications-fall-by-9
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -25,12 +23,6 @@ authors:
  - felix
  - skd09
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201110272054-felix-img_6743-copy.jpg"
-image_caption: ""
 ---
 
 After years of steady increases, university applications are currently 9% lower than last year’s level at this time with 7000 fewer applications so far. Although the deadline for most courses is January, [these figures from UCAS](http://www.ucas.com/about_us/media_enquiries/media_releases/2011/20111024) (University and College Admissions Service) are the first official application figures for students who will be paying higher tuition fees of up to £9000 per year.

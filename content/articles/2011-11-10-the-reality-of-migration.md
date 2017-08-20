@@ -4,16 +4,14 @@ title: >
 subtitle: >
   New research investigates the environmental links with migration
 date: "2011-11-10 20:58:26 +0000"
-
-# Attributes from Felix Online V1
-id: "1722"
-old_path: /science/1722/the-reality-of-migration
+image: "http://felixonline.co.uk/img/upload/201111102056-pk1811-drought_wetland.jpg"
+image_caption: "Environmental factors such as drought are influencing migration"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/1722/the-reality-of-migration
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +22,6 @@ authors:
  - kp2209
  - pk1811
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201111102056-pk1811-drought_wetland.jpg"
-image_caption: ""
 ---
 
 It is difficult to deny the existence of climate change when one points out the obvious effects it has already made on humanity. Coastal flooding, reduced rainfall in dry lands and water scarcity are common headlines in today’s news. Among the many effects that these phenomena may have, let us consider that of human migration.

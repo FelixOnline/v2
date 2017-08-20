@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Imperial sells off last shares of life sciences start-up
 date: "2016-06-03 08:35:32 +0100"
-
-# Attributes from Felix Online V1
-id: "6224"
-old_path: /news/6224/imperial-sells-off-last-shares-of-life-sciences-start-up
+image: "http://felixonline.co.uk/img/upload/201606031034-felix-bio.jpg"
+image_caption: "Let’s commercialise some research! "
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/6224/imperial-sells-off-last-shares-of-life-sciences-start-up
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -22,12 +20,6 @@ tags:
 authors:
  - mjj15
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606031034-felix-bio.jpg"
-image_caption: ""
 ---
 
 Imperial Innovations Group, the company which oversees the spin-off companies from technology developed at Imperial, has sold its remaining shares in Alkion Biopharma to chemical giant, Evonik Industries.

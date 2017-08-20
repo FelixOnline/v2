@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Pt. O caveat auditor
 date: "2012-10-05 11:33:46 +0100"
-
-# Attributes from Felix Online V1
-id: "2598"
-old_path: /music/2598/you-dont-have-to-call-it-music-0
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/2598/you-dont-have-to-call-it-music-0
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -21,12 +18,6 @@ tags:
 authors:
  - im808
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Music is wonderful, wouldn’t you agree? It stirs up a great deal in one’s being. It makes the foot tap, the heart beat slower and faster, and floods the mind with memories and emotions. Beyond a psychophysiological episode, it actually tells us a lot about ourselves and our humanity, when other means just aren’t enough.

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Ben Howitt reports after College removes tweet about “proper cool scientist”
 date: "2014-11-21 13:26:25 +0000"
-
-# Attributes from Felix Online V1
-id: "4931"
-old_path: /news/4931/imperial-deletes-tweet-after-shirtstorm-backlash
+image: "http://felixonline.co.uk/img/upload/201411211326-ps3110-10423977_10204309230744613_1502836449742714437_n.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4931/imperial-deletes-tweet-after-shirtstorm-backlash
-imported: true
 comments:
  - value: >
      Great looking internet site. Think you did a bunch of your very own html coding.| <br>cs go skins by color http://groomingtaxi.com/ads/item/13157,Wow cuz this is great work! Congrats and keep it up.| <br>cs go skins exterior http://www.greenartsnetwork.com/node/2526,Cool content you've got there <br>nhl 17 coins http://obvii.com/blogs/post/24502
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201411211326-ps3110-10423977_10204309230744613_1502836449742714437_n.jpg"
-image_caption: ""
 ---
 
 The clothing choice of an Imperial graduate has been extensively lambasted throughout the media in the wake of the Philae landing, the culmination of over a decade’s work. Such scrutiny was not limited to the actions of the social media team of Imperial, who removed a tweet celebrating the success of Matt Taylor once the online backlash began.

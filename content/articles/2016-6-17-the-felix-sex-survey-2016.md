@@ -4,16 +4,14 @@ title: >
 subtitle: >
   It's finally come. Have you?
 date: "2016-06-17 09:01:53 +0100"
-
-# Attributes from Felix Online V1
-id: "6275"
-old_path: /features/6275/the-felix-sex-survey-2016
+image: "http://felixonline.co.uk/img/upload/201606171058-felix-1nightstandinbold.jpg"
+image_caption: "Have you ever had a one night stand?"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/6275/the-felix-sex-survey-2016
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -26,12 +24,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201606171058-felix-1nightstandinbold.jpg"
-image_caption: ""
 ---
 
 Here it is, for the sixth year running, the infamous FELIX Sex Survey results. Thank you so much to everyone who trusted us with your deepest, darkest, and occasionally unrealistic and obviously made-up secrets (we deleted those responses from our data). Six hundred or so of you took the time to fill it out though, and we are very grateful. Your data was always anonymous, and now it will be deleted forever, but remains immortalised below in emoji-enhanced infographic form, for generations to come to enjoy. We’ve looked at how student sexuality has changed over the years, whether or not it really is harder to find a girl if you’re a guy at Imperial, and which departments are most into butt stuff – looking at you, mech eng. Enjoy!

@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Stephen Ball investigates as work starts on the Chelsea waterfront
 date: "2015-06-04 23:19:14 +0100"
-
-# Attributes from Felix Online V1
-id: "5598"
-old_path: /news/5598/lots-road-redevelopment-to-go-ahead
+image: "http://felixonline.co.uk/img/upload/201506050019-cj914-chelsea-waterfront-cropped.jpg"
+image_caption: "The project has an estimated completion date of 2019, but the first set of houses will go on sale in the next few weeks"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5598/lots-road-redevelopment-to-go-ahead
-imported: true
 comments:
  - value: >
      It's a really well known fact that getting into condition requires associated with money hard run. Seattle's dream 3-0-0 start to the season ended on April 11 when the Wizards won, 1-0, from the 10-man Sounders FC. <br>fifa 16 hack http://creditsfut.com/,Thanks with regard to providing like well put together subject matter. <br>csgo skins expensive http://arnold109.jblog.fr/billet-cs-go-skins-of-acquiring-cs-464218.html,I love the info on your internet site. Thanks a lot!. <br>NFL 17 coins http://www.peace-for-earth.org/barter/item/2377
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - snb11
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506050019-cj914-chelsea-waterfront-cropped.jpg"
-image_caption: ""
 ---
 
 Lots Road power station, on the Chelsea waterfront, is to join the likes of Battersea and Bankside as it undergoes redevelopment. The project will add 706 homes and two tower blocks to the site close to the Thames.

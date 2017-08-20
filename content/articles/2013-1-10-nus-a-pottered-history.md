@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Union President Paul Beaumont gives his opinion on the NUS
 date: "2013-01-10 22:35:10 +0000"
-
-# Attributes from Felix Online V1
-id: "3089"
-old_path: /comment/3089/nus-a-pottered-history
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3089/nus-a-pottered-history
-imported: true
 comments:
  - value: >
      Good God man, nobody at Imperial cares! <br> <br>Don't force a referendum on us just because you couldn't think of anything better to do with your time. ,This is pre-campaigning. <br> <br>In saying you're calling a referendum on this issue, you've immediately said you're not going to express your opinions, and then you do. <br> <br>And on admitting that you came across as a bellend at the conference, way to represent Imperial!,Why shouldn't the President have a view on NUS? <br> <br>Shame that the vote will distract from the Sabb elections. The NUS is a bloated organisation staffed by under occupied third sector types, some of whom will be dispatched to campaign at Imperial so their employer can trouser £60k of our money. I hope ICU makes sure they are prevented from doing so as there is no equivalent resource for the No campaign.
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - tna08
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Personally, I have a great deal of respect for Liam Burns. I should imagine he has an incredibly difficult job attempting to mire the two ends of the tertiary education system: Higher Education (Universities) and Further Education (more vocational courses). The two systems – in my opinion -have very different needs and objectives. And so how can one body, the NUS, ever hope to properly represent everyone? Well, I don’t think it can.

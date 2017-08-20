@@ -4,18 +4,15 @@ title: >
 subtitle: >
   A treatise on gaming and life
 date: "2010-12-02 20:22:38 +0000"
-
-# Attributes from Felix Online V1
-id: "469"
-old_path: /games/469/see-life-in-a-fresh-gamma-value
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/469/see-life-in-a-fresh-gamma-value
-imported: true
 comments:
  - value: >
      AKAIK you've got the asenwr in one!
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -27,12 +24,6 @@ authors:
  - oh106
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Power: I’m not used to it. My last laptop was not a gaming powerhouse; it struggled to run even modest stuff smoothly. Like Solitaire, say. Or Word.

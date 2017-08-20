@@ -4,16 +4,13 @@ title: >
 subtitle: >
   An always tense topic. Like discussing what Bond is the best. But not like that at all...
 date: "2012-11-01 22:18:49 +0000"
-
-# Attributes from Felix Online V1
-id: "2780"
-old_path: /news/2780/imperial-open-up-about-animal-research
+image: "http://felixonline.co.uk/img/upload/201211012218-tna08-white-micerbg.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/2780/imperial-open-up-about-animal-research
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - ar3310
  - mc4509
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201211012218-tna08-white-micerbg.jpg"
-image_caption: ""
 ---
 
 Animal testing has always been a very controversial topic amongst people. A lot of research is conducted at Imperial and sometimes this may involve the use of animals. The currently policy on the Use of Animals in Research states that “animals may only be used in research programmes where their use is shown to be

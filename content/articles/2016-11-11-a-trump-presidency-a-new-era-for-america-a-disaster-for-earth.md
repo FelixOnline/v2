@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Lara Bailey discusses how US politics will affect the future of our planet
 date: "2016-11-11 15:53:17 +0000"
-
-# Attributes from Felix Online V1
-id: "6427"
-old_path: /science/6427/a-trump-presidency--a-new-era-for-america-a-disaster-for-earth
+image: "http://felixonline.co.uk/img/upload/201611111552-felix-microscope-149816_1280.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/6427/a-trump-presidency--a-new-era-for-america-a-disaster-for-earth
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -22,12 +19,6 @@ tags:
 authors:
  - le14
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201611111552-felix-microscope-149816_1280.png"
-image_caption: ""
 ---
 
 A man who described climate change as “created by the Chinese” and “fictional” is now the leader of the free world.

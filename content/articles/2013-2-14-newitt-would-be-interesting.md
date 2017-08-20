@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Caroline Wood finally enjoys a lecture at Imperial
 date: "2013-02-14 01:18:38 +0000"
-
-# Attributes from Felix Online V1
-id: "3318"
-old_path: /news/3318/newitt-would-be-interesting
+image: "http://felixonline.co.uk/img/upload/201302142231-tna08-lect3.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3318/newitt-would-be-interesting
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - csw09
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302142231-tna08-lect3.jpg"
-image_caption: ""
 ---
 
 he annual Newitt Lecture, hosted by the Chemical Engineering department, was given by Edward Davey MP, Secretary of State for Energy and Climate Change on Wednesday evening. This was the first time that the lecture has been given by a politician – rather than a chemical engineer – a clear signal that the worlds of politics, science and engineering are becoming ever more entwined.

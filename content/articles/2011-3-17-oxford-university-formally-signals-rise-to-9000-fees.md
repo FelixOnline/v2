@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Oxford follows Cambridge and Imperial and announces rise in fees
 date: "2011-03-17 20:59:13 +0000"
-
-# Attributes from Felix Online V1
-id: "1098"
-old_path: /news/1098/oxford-university-formally-signals-rise-to-9000-fees
+image: "http://felixonline.co.uk/img/upload/201104212139-felix-bodleian-library---radcliffe-camera---oxford-university---oxford-weekend-city-break-travel-guide.jpeg"
+image_caption: "Oxford's Bodleian Library"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/1098/oxford-university-formally-signals-rise-to-9000-fees
-imported: true
 comments:
  - value: >
      Got it! Tkahns a lot again for helping me out!,FZvICX <a href="http://rvgxttoalkyj.com/">rvgxttoalkyj</a>, <a href="http://www.yourpillsonline.net/">levitra</a> &gt;:-P <a href="http://www.predmeds.com/">order prednisone</a> %(((
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -28,12 +26,6 @@ authors:
  - mc4509
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201104212139-felix-bodleian-library---radcliffe-camera---oxford-university---oxford-weekend-city-break-travel-guide.jpeg"
-image_caption: ""
 ---
 
 The University of Oxford has become the fourth institution in the country to officially announce a rise of tuition fees to the maximum figure of £9,000,

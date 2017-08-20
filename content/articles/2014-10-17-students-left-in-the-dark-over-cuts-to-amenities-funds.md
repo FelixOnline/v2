@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix investigates as to why the funds for halls have been slashed
 date: "2014-10-17 14:28:12 +0100"
-
-# Attributes from Felix Online V1
-id: "4728"
-old_path: /news/4728/students-left-in-the-dark-over-cuts-to-amenities-funds
+image: "http://felixonline.co.uk/img/upload/201410171717-pk1811-halls_by_tlim.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/4728/students-left-in-the-dark-over-cuts-to-amenities-funds
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -27,12 +24,6 @@ authors:
  - txl11
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201410171717-pk1811-halls_by_tlim.jpg"
-image_caption: ""
 ---
 
 College has slashed the Amenity funds for Halls of Residence by a quarter of a million– a move that has sparked fury amongst Hall Seniors and Wardens throughout the first few weeks of term.

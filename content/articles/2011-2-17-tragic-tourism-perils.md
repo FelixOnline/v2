@@ -4,18 +4,15 @@ title: >
 subtitle: >
   Priya Garg contemplates the naural beauty of Foz do Iguaçu, and its fragility at the hands of mass tourism.
 date: "2011-02-17 20:25:28 +0000"
-
-# Attributes from Felix Online V1
-id: "842"
-old_path: /travel/842/tragic-tourism-perils
+image: "http://felixonline.co.uk/img/upload/201102172023-nm1010-fallsfal.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /travel/842/tragic-tourism-perils
-imported: true
 comments:
  - value: >
      True dat
-
-# Article Taxonomies
 categories:
  - travel
 tags:
@@ -28,12 +25,6 @@ authors:
  - pg405
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102172023-nm1010-fallsfal.jpg"
-image_caption: ""
 ---
 
 After many buses and a short internal flight, we hauled ourselves and our somehow heavier backpacks to the small town of Foz do Iguaçu, the closest resting point in Brazil en route to the famous Iguaçu Falls of the dramatic ‘terra de cataratas’ (land of the waterfalls). The Iguaçu Falls are formed by several spectacular drops of the Iguaçu River culminating in an 82 metre plummet termed ‘Devil’s Throat’, a glorious junction uniting Brazil, Paraguay and Argentina. Hearsay declares that in awe of this thundering vision Eleanor Roosevelt apparently exclaimed “poor Niagra!”

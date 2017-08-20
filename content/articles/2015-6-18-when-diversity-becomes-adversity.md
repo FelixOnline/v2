@@ -4,18 +4,16 @@ title: >
 subtitle: >
   Pheerawat Ratnitisakul discusses about the lows of diversity in London’s Melting Pot
 date: "2015-06-18 19:31:26 +0100"
-
-# Attributes from Felix Online V1
-id: "5628"
-old_path: /welfare/5628/when-diversity-becomes-adversity
+image: "http://felixonline.co.uk/img/upload/201506182032-jyg11-20140208_brp001_0.jpg"
+image_caption: "Not everything about diversity is always inspiring and positive. It can be a scary and alienating experience."
+headline: true
+featured: true
+imported: true
 aliases:
  - /welfare/5628/when-diversity-becomes-adversity
-imported: true
 comments:
  - value: >
      I can really relate to the article, good read! ,Hey very nice blog! <br>canada goose dame trillium parka rosa sheinside http://www.metskinderschoenen.nl/?nl-canada-goose-dame-trillium-parka-rosa-sheinside-9680.html,fitflops sandal <br>fitflop online sales http://www.australiafitflops.com/,fitflops online australia <br>buy fitflops http://australiafitflops.iemiller.net/,birkenstock australia outlet <br>where to buy birkenstocks http://birkenstockaustralia.blogspot.com/,pigalle christian louboutin <br>christian louboutin shoes online http://christianlouboutincanadaoutlet.blogspot.com/,louboutin pumps <br>christian louboutin outlet canada http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin red bottoms <br>christian louboutin shoes canada http://christianlouboutincanadaoutlet.blogspot.com/
-
-# Article Taxonomies
 categories:
  - welfare
 tags:
@@ -28,12 +26,6 @@ authors:
  - pr1414
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201506182032-jyg11-20140208_brp001_0.jpg"
-image_caption: ""
 ---
 
 “London is a world-class international city with people coming from diverse cultures and backgrounds. This, I believe, will allow me to enhance my communicative skills and learn to adjust myself to different environments.”

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Stuart Masson & Forrest Seiwald report back on About Time festival
 date: "2013-11-24 16:21:26 +0000"
-
-# Attributes from Felix Online V1
-id: "4117"
-old_path: /music/4117/sixteen-fantastic-bands-and-its-about-time
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /music/4117/sixteen-fantastic-bands-and-its-about-time
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - music
 tags:
@@ -24,12 +21,6 @@ authors:
  - jal08
  - sm5810
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Last Saturday saw the Bussey Building in Peckham play host to About Time #2. A day festival chocked full of the best in UK emo, screamo and noise rock is tough to say no to, so we headed down to check out some bands. The two stages were staggered so you could see everything, and we did our best.

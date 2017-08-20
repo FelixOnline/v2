@@ -4,16 +4,13 @@ title: >
 subtitle: >
   British universities have long been under-funded, will Browne's proposals change this?
 date: "2010-10-14 19:21:52 +0100"
-
-# Attributes from Felix Online V1
-id: "204"
-old_path: /news/204/theres-a-desperate-need-for-extra-money-for-universities-
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/204/theres-a-desperate-need-for-extra-money-for-universities-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - nn1209
  - rj408
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 University funding reform has been a long time coming; the principle of free education for all, long a mainstay of British political thought, had to be abandoned in 1998 following a [review by Lord Dearing](http://en.wikipedia.org/wiki/Dearing_Report). Public funding had for many years failed to keep pace with increasing student numbers: between 1989 and this first introduction of fees, funding per student fell by 36%.

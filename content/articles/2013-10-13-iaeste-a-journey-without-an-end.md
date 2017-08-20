@@ -4,18 +4,15 @@ title: >
 subtitle: >
   IC Alumnus Enrico Fantoni talks about his experience as a second year Chemist on an IAESTE placement.
 date: "2013-10-13 00:09:28 +0100"
-
-# Attributes from Felix Online V1
-id: "3876"
-old_path: /features/3876/iaeste---a-journey-without-an-end
+image: "http://felixonline.co.uk/img/upload/201310130109-jal08-car_iaeste_pic1-copy.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /features/3876/iaeste---a-journey-without-an-end
-imported: true
 comments:
  - value: >
      قال:اسف للتدخل يا اخوانىمشكلةرودى يا اخ انسلما تعمل اظهار لصورة الموضوع فى الموقع تظهر هذه المشكلةGD Library Error: imagecreatetruecolor does not exist plseae contact your webhost and ask them to install the GD libraryQuery String : src=/wp-content/uploads/lalish.jpg&amp;w=276&amp;h=202&amp;zc=1&amp;q=100TimThumb version : 1.25لازم تكلم المستضيفو يعمل تسطيب لمكتبة GD libraryحبيت اساعد و بالتوفيق
-
-# Article Taxonomies
 categories:
  - features
 tags:
@@ -29,12 +26,6 @@ authors:
 highlights:
  - comment
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201310130109-jal08-car_iaeste_pic1-copy.jpg"
-image_caption: ""
 ---
 
 It was something as innocuous as an online search where I discovered the International Association for the Exchange of Students for Technical Experience - or IAESTE (eye∙ee∙es∙ta) –during my second year reading Chemistry at Imperial College London. I’d already considered a number of similar schemes, all offering undergrads the opportunity to work abroad for 6-12 weeks during the summer (sometimes a year) with full pay, but often only in business, language assistance, the tourism industry or with some other caveat or restriction.

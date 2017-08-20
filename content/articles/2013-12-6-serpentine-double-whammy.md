@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Visiting the Serpentine Gallery, situated in the middle of Hyde Park, usually constitutes a pleasant lunchtime distraction...
 date: "2013-12-06 04:16:02 +0000"
-
-# Attributes from Felix Online V1
-id: "4195"
-old_path: /arts/4195/serpentine-double-whammy
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /arts/4195/serpentine-double-whammy
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - arts
 tags:
@@ -23,12 +20,6 @@ authors:
  - cmt09
  - jal08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 What: Wael Shawky: al-Qurban & Jake and Dinos Chapman: Come and See

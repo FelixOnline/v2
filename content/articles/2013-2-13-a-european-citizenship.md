@@ -4,16 +4,13 @@ title: >
 subtitle: >
   In the first of two articles about our friends from across the Channel, Leonardo Ialongo lays out the case for European integration
 date: "2013-02-13 16:07:02 +0000"
-
-# Attributes from Felix Online V1
-id: "3309"
-old_path: /comment/3309/a-european-citizenship
+image: "http://felixonline.co.uk/img/upload/201302131854-tna08-eu-passport-web.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/3309/a-european-citizenship
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -24,12 +21,6 @@ authors:
  - lni12
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201302131854-tna08-eu-passport-web.jpg"
-image_caption: ""
 ---
 
 For an outsider to European politics, or indeed politics in general, it can often be difficult to understand the need for the European Union. Of course it helped maintain peace, but was war really possible after the atrocities of the Second World War? Although the common market was a good and necessary step, why do we need such a powerful body to regulate and limit our national sovereignty? Not to mention the incredible amount of money we have to ‘donate’ to other countries because they cannot manage their economy well. All reasonable objections, except they happen to be slightly false, or at least to say misguided.

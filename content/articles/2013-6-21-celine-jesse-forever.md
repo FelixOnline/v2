@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Before Midnight Review
 date: "2013-06-21 00:18:53 +0100"
-
-# Attributes from Felix Online V1
-id: "3730"
-old_path: /film/3730/celine--jesse-forever
+image: "http://felixonline.co.uk/img/upload/201306210119-tna08-before-midnight-ethan-hawke-julie-delpy.jpg"
+image_caption: "No. I ordered Coke. If I wanted a fucking Pepsi I would HAVE SAID"
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/3730/celine--jesse-forever
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -25,12 +23,6 @@ authors:
  - tna08
 highlights:
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201306210119-tna08-before-midnight-ethan-hawke-julie-delpy.jpg"
-image_caption: ""
 ---
 
 They first met in 1995. Jesse (Ethan Hawke) approached Celine (Julie Delpy) on a train from Budapest. They talked, they connected, and they parted, promising to meet each other six months later. They met again in 2004, with the hastily arranged meeting never having taken place. Once again they talked, they connected, and they prepared to part, only for the audience to figure out in 2013 that in fact, they didn’t part. Turns out Jesse missed the flight he was supposed to catch from Paris back to America, and they had been together since then.

@@ -4,16 +4,14 @@ title: >
 subtitle: >
   Applications have fallen for the first time in 16 years
 date: "2013-01-25 01:30:12 +0000"
-
-# Attributes from Felix Online V1
-id: "3179"
-old_path: /news/3179/international-pg-applications-down
+image: "http://felixonline.co.uk/img/upload/201301250130-tna08-heathrow-terminal-5.jpg"
+image_caption: "Arrivals gate as international students arrive. Oop, satire..."
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/3179/international-pg-applications-down
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +22,6 @@ authors:
  - ar3310
  - tna08
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201301250130-tna08-heathrow-terminal-5.jpg"
-image_caption: ""
 ---
 
 The number of Non-EU postgraduate applicants has fallen for the first time in 16 years. In previous years the numbers had risen annually by an average of more than 10%. Figures released by the Higher Education Statistical Agency (Hesa) shows a 1% drop fuelling ideas that the government’s immigration crackdown is deterring students continuing their education in the UK.

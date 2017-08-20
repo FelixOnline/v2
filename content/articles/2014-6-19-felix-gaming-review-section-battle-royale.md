@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Felix Games on how all other sections could be way better
 date: "2014-06-19 18:50:29 +0100"
-
-# Attributes from Felix Online V1
-id: "4697"
-old_path: /games/4697/felix-gaming-review--section-battle-royale
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /games/4697/felix-gaming-review--section-battle-royale
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - games
 tags:
@@ -22,12 +19,6 @@ authors:
  - me1711
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 #### Felix News

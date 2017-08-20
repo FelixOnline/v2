@@ -4,16 +4,14 @@ title: >
 subtitle: >
   The horror of the Holocaust is brought to life in László Nemes’ astonishing debut
 date: "2016-05-06 10:11:49 +0100"
-
-# Attributes from Felix Online V1
-id: "6129"
-old_path: /film/6129/son-of-saul-stares-into-the-abyss
+image: "http://felixonline.co.uk/img/upload/201605061111-felix-Brody-Son-of-Saul-1200.jpg"
+image_caption: "Géza Röhrig brings incredible intensity to Son of Saul, described by Shoah director Claude Lanzmann as the ‘anti-Schindler’s List’. "
+headline: true
+featured: true
+imported: true
 aliases:
  - /film/6129/son-of-saul-stares-into-the-abyss
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - film
 tags:
@@ -24,12 +22,6 @@ authors:
 highlights:
  - comment
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201605061111-felix-Brody-Son-of-Saul-1200.jpg"
-image_caption: ""
 ---
 
 Although admirable is an adjective too-often used to describe films whose artistic vision falls short of the final product, there is no word that I can think of more suited to describe Hungarian Holocaust drama _Son of Saul._ In most Holocaust dramas, the cinematic narrative is structured in order to create the most emotionally charged story possible – to give the impression of the gravity and sheer scale of the Holocaust and the victims created by the Nazi dictatorship. _The Boy in the Striped Pyjamas_ comes to mind, where everything – from the euphoric music, to the dialogue, right down to the nuanced acting – is engineered in order to profit from an emotional response from the audience, the cynical possibility of an Oscar hanging somewhere in the near future. In the end, these films seem to almost trivialise the topic of the Holocaust, and while their aims may be noble, this method lacks emotional subtlety and creates a work with the feeling of emotional artifice. You may have guessed that _Son of Saul_ is the complete antithesis of this. It is  a piece of art that will endure years to come, not just this past Oscar’s season.

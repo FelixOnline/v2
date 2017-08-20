@@ -4,18 +4,15 @@ title: >
 subtitle: >
   New party drug currently being developed by Nutt's team could stop binge drinking but still deliver a high
 date: "2015-01-16 13:03:56 +0000"
-
-# Attributes from Felix Online V1
-id: "5094"
-old_path: /news/5094/care-for-a-legal-high-thats-chaperon-ed-by-imperial
+image: "http://felixonline.co.uk/img/upload/201501161303-ps3110-nutt2.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/5094/care-for-a-legal-high-thats-chaperon-ed-by-imperial
-imported: true
 comments:
  - value: >
      More information on MEAI from its pubchem page: http://pubchem.ncbi.nlm.nih.gov/compound/12147687,Attractive element of content. I simply stumbled upon your blog and in accession capital to say that I acquire in fact loved account your weblog posts. Anyway I'll be subscribing on your feeds or even I fulfillment you get right of entry to persistently rapidly. <br>code authenticit茅 moncler http://www.assolowcost.it/?it-code-authenticit茅-moncler-9007.html,Hey there, You've performed a fantastic job. I will definitely digg it and in my view suggest to my friends. I am confident they will be benefited from this website. <br>canada goose roze doos http://skek.nl/?nl-canada-goose-roze-doos-6022.html,C облепихой соревнуясь title="C облепихой соревнуясь" http://www.7dach.ru/uploads/images/07/78/43/2015/03/26/631ef6.jpg]Войлочная вишня. Скороплодная, высокоурожайная. По количеству железа плоды вишни превос
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -26,12 +23,6 @@ authors:
  - ps3110
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201501161303-ps3110-nutt2.jpg"
-image_caption: ""
 ---
 
 Imperial Professor David Nutt has begun research on a legal high that mimics ecstasy but may also stop binge drinking. The drug, known as Chaperon, is still being developed but could one day be available as a cocktail in bars across the country.

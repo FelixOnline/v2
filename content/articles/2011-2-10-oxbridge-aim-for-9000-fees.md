@@ -4,16 +4,13 @@ title: >
 subtitle: >
   £3,000 reduction for poor students
 date: "2011-02-10 19:58:42 +0000"
-
-# Attributes from Felix Online V1
-id: "760"
-old_path: /news/760/oxbridge-aim-for-9000-fees-
+image: "http://felixonline.co.uk/img/upload/201102101950-ks607-cambridg.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/760/oxbridge-aim-for-9000-fees-
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - ua108
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201102101950-ks607-cambridg.jpg"
-image_caption: ""
 ---
 
 The University of Cambridge has become the country’s first university to [publicly acknowledge](http://www.guardian.co.uk/education/2011/feb/09/oxford-cambridge-9000-fees) plans to charge students the maximum fee level allowed, starting 2012.

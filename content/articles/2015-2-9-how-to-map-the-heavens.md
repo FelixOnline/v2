@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Astrophysicist Professor Alan Heavens talks to Ben Fernando about how we measure distances in the universe
 date: "2015-02-09 19:27:43 +0000"
-
-# Attributes from Felix Online V1
-id: "5221"
-old_path: /science/5221/how-to-map-the-heavens
+image: "http://felixonline.co.uk/img/upload/201502091928-ps3110-screen-shot-2015-02-09-at-19.28.28.png"
+headline: true
+featured: true
+imported: true
 aliases:
  - /science/5221/how-to-map-the-heavens
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - science
 tags:
@@ -24,12 +21,6 @@ authors:
  - baf12
  - ps3110
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201502091928-ps3110-screen-shot-2015-02-09-at-19.28.28.png"
-image_caption: ""
 ---
 
 __Ben Fernando: So why is it important to measure distances in cosmology?__

@@ -4,18 +4,15 @@ title: >
 subtitle: >
   We have a new generation of mourners
 date: "2011-11-18 00:32:21 +0000"
-
-# Attributes from Felix Online V1
-id: "1798"
-old_path: /comment/1798/i-want-an-armstice
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /comment/1798/i-want-an-armstice
-imported: true
 comments:
  - value: >
      Je suis de9finitivement fan de ton site ma che8re Ame9lie ! Je suis assez presse9e de pouvoir tetser toutes tes petites recettes ! J'aurai voulu savoir comment tu as appris e0 parler japonais ? en suivant des cours particuliers ? ou peut-eatre une fois sur place ? =) Ps: Je suis curieuse, est-ce que tu connais a quoi correspond le 27-07 ? =D Je te remercie en tout cas pour tout ton site, continue, vraiment, c'est tout simplement GENIAL ! hihiKisuuuu !,I lived in London during part of the Vietnam War and knew a <a href="http://rsfctf.com">coulpe</a> of guys who'd left the states because their work visas hadn't protected them from being drafted. I think even this country was more civilized during the world wars. I believe the soldiers who fought in those earlier wars were brave and patriotic but I've read enough about the causes and conditions that caused them to remain skeptical about government power plays in general. Once upon a time in Canada the warriors whose bravery was recognized on Armistice Day grew o
-
-# Article Taxonomies
 categories:
  - comment
 tags:
@@ -27,12 +24,6 @@ authors:
  - sjw209
 highlights:
  - comment
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 Last week, we marked the death of millions of soldiers. They had all died in action at some point in the last 93 years, since the start of the First World War. The eleventh day of the eleventh month has been marked in this way for years. In fact, only a handful of people currently alive today were also alive when it was not. You might think that as those who were there in WWI start to die, the seriousness would start to wane, that the idea would start to lose its punch. Even as children we were all acutely aware of the significance but also the distance from us. But have you noticed recently how the tone has changed?

@@ -4,16 +4,13 @@ title: >
 subtitle: >
   The second installment of Eoghan Totten’s short story
 date: "2013-12-02 22:11:55 +0000"
-
-# Attributes from Felix Online V1
-id: "4166"
-old_path: /books/4166/raw-words-part-two
+image: "http://felixonline.co.uk/"
+headline: true
+featured: true
+imported: true
 aliases:
  - /books/4166/raw-words-part-two
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - books
 tags:
@@ -25,12 +22,6 @@ authors:
 highlights:
  - longread
  - photos
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/"
-image_caption: ""
 ---
 
 The years continued to roll on, expanding until my childhood reverie waned.

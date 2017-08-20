@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Maciej Matuszewski reviews two highly-anticipated Christmas specials
 date: "2014-01-17 04:17:51 +0000"
-
-# Attributes from Felix Online V1
-id: "4254"
-old_path: /tv/4254/the-best-of-festive-tv
+image: "http://felixonline.co.uk/img/upload/201401170416-jal08-tv-sherlock.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /tv/4254/the-best-of-festive-tv
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - tv
 tags:
@@ -25,12 +22,6 @@ authors:
  - mtm10
 highlights:
  - longread
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201401170416-jal08-tv-sherlock.jpg"
-image_caption: ""
 ---
 
 SHERLOCK

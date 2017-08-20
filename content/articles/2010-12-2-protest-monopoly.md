@@ -4,16 +4,13 @@ title: >
 subtitle: >
   Protestors give police the runaround in London
 date: "2010-12-02 21:56:52 +0000"
-
-# Attributes from Felix Online V1
-id: "500"
-old_path: /news/500/protest-monopoly
+image: "http://felixonline.co.uk/img/upload/201012022153-nm1010-prrotest.jpg"
+headline: true
+featured: true
+imported: true
 aliases:
  - /news/500/protest-monopoly
-imported: true
 comments:
-
-# Article Taxonomies
 categories:
  - news
 tags:
@@ -24,12 +21,6 @@ authors:
  - felix
  - mr3209
 highlights:
-
-# Homepage control params
-headline: true
-featured: true
-image: "http://felixonline.co.uk/img/upload/201012022153-nm1010-prrotest.jpg"
-image_caption: ""
 ---
 
 Students hit the streets of London once again this week to rally against the proposed rise in University tuition fees. Traffic was brought to a standstill as thousands of sixth form and university protesters sped through Central London in separate marches, avoiding police attempts to block them for fear of being kettled again.
