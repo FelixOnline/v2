@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Zoltan Vargas
 date: "2011-06-09 18:49:04 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Poetry Café's Poetry Unplugged night is a nice idea, but ultimately a bit shit
 date: "2010-11-11 20:24:23 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

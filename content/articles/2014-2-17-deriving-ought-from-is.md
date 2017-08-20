@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I agree with Fredric Jameson that we have witnessed a disturbing ‘return of traditional philosophy … beginning with its hoariest subfields, such as ethics.’
 date: "2014-02-17 17:24:07 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Red Lion may or may not refer to the football club
 date: "2015-06-18 21:18:02 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Several leading institutions withdraw
 date: "2013-03-01 00:42:07 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

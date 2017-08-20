@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A surreal and messy depiction of reality where the sublime is twisted up with the violent and a young person lives in squalor and his own inner world
 date: "2012-05-03 17:38:48 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

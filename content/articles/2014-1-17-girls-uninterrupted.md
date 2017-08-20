@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emily Fulham celebrates the return of the most honest show on TV
 date: "2014-01-17 04:19:15 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

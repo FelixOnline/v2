@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ender’s Game Director: Gavin Hood Writers: Gavin Hood, Orson Scott Card (novel) Starring: Harrison Ford, Asa Butterfield, Hailee Steinfeld, Abigail Breslin, Viola Davis, Ben Kingsley Runtime: 114 minutes Certificate: 12A
 date: "2013-11-08 09:59:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

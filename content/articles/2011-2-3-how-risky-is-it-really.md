@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A review of David Ropeik's book on fear perception
 date: "2011-02-03 20:03:22 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

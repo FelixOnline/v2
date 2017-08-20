@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mainstream gaming
 date: "2012-10-18 21:38:35 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

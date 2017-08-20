@@ -4,7 +4,6 @@ title: >
 subtitle: >
    Dark ambient, glitch, dub and techno
 date: "2012-10-18 21:30:55 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

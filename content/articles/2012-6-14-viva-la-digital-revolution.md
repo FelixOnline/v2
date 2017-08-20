@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Rayner ponders the future of printed music and the dominance of downloads
 date: "2012-06-14 20:03:47 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

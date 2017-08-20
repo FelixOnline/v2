@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Grace Rahman asks whether a live debate was necessary
 date: "2014-02-26 12:58:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

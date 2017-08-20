@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Disclaimer: do not book tickets for this as a February blues pick-me-up. The poster’s colourful, the title’s promising, but the only comedy you’ll get it the bleakest of tragicomedy.
 date: "2014-02-21 03:17:49 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

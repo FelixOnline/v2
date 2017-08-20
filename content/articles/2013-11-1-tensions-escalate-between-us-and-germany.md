@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kartikeya Rana analyses the implications of US foreign policy
 date: "2013-11-01 09:29:06 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

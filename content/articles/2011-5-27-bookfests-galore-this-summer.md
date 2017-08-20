@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Your guide to the summer's literary festivals
 date: "2011-05-27 14:08:02 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

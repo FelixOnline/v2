@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Richard Clifton reviews Chase and Status’ show at the O2 Arena
 date: "2013-11-24 16:23:07 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

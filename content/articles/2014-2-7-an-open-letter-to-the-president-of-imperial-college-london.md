@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We are writing to you as staff, students and alumni of Imperial College London, as we are concerned that the university endowment fund is investing heavily in fossil fuels.
 date: "2014-02-07 05:11:05 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A red jacket-wearing visitor is escorted from Tizard Hall.
 date: "2013-10-24 23:31:51 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

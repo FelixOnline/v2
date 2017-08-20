@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonathan Peek takes in a night of comedy
 date: "2012-10-05 11:30:11 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

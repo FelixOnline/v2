@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Not voting is preferable in doing so purely for the sake of it
 date: "2012-03-15 21:44:10 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

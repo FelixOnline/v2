@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Dutton talks about The Fullbright Company's first release
 date: "2014-11-06 20:11:53 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

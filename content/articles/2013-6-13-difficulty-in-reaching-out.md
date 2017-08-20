@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on Outreach and opticians
 date: "2013-06-13 23:04:54 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

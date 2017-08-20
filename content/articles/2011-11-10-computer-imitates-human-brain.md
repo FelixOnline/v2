@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Artificial brains move one step closer to reality
 date: "2011-11-10 21:00:39 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

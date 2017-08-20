@@ -4,7 +4,6 @@ title: >
 subtitle: >
   No strategy has been approved by Executive Committee or Union Council
 date: "2011-06-16 20:38:52 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

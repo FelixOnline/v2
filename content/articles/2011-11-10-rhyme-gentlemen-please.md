@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix interviews the founder of South Kensington's first poetry night
 date: "2011-11-10 21:34:33 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

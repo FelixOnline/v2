@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Researchers conclude that coffee first thing in the morning might not be as effective as you thought
 date: "2013-11-15 11:41:45 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

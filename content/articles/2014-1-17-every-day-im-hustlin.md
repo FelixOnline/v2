@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “Thank god for me”, says Rosalyn Rosenfeld (Jennifer Lawrence), after setting fire to her brand new microwave, ignoring her husband’s advice to not put something metallic in there.
 date: "2014-01-17 04:08:09 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

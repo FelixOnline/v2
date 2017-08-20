@@ -4,7 +4,6 @@ title: >
 subtitle: >
   20 candidates for a new type of hypervelocity star have been announced by an international team of astronomers.
 date: "2014-01-17 03:32:11 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

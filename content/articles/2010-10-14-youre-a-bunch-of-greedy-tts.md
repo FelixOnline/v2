@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Come the Revolution, I’ll be using you as the wall against which I’ll shoot the people I dislike slightly less than you
 date: "2010-10-14 20:00:52 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

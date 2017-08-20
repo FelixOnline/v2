@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Katherine Fok gives her account
 date: "2014-03-26 15:11:50 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

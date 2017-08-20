@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The letter is full of the most exquisite wording, with all the subtlety of an elephant–based strip parlour
 date: "2011-01-20 21:06:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

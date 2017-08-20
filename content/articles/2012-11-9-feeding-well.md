@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial with all too many fee puns...
 date: "2012-11-09 00:28:51 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

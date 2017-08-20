@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ashley revelas all about the Imperial College Baseball Club's first trophy 4 years
 date: "2014-10-17 14:56:01 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What other situations could be covered with blockbuster film footage?
 date: "2011-02-10 21:12:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

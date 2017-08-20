@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A summary of the key issues from around the world
 date: "2013-10-11 23:32:48 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

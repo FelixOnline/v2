@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The long day on the slopes and tartiflette
 date: "2011-02-03 19:08:54 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

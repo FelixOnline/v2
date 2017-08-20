@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski recommends five books to take you through the Easter break (if you’re not revising, that is)
 date: "2013-03-15 01:38:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

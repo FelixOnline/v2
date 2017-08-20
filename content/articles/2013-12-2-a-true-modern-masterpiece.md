@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Satyagraha has been lauded as a masterpiece of modern opera since its premiere in 1980. After witnessing it for myself, I can’t help but agree.
 date: "2013-12-02 22:07:23 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nida Mahmud hopes two tragic incidents can bring about peace
 date: "2013-05-30 14:44:56 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

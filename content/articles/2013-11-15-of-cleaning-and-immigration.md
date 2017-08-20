@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Taking a look at the bis story of the week
 date: "2013-11-15 02:29:39 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

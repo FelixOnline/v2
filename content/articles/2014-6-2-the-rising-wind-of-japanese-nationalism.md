@@ -4,7 +4,6 @@ title: >
 subtitle: >
   or the limits of bourgeois pacifism
 date: "2014-06-02 12:45:23 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

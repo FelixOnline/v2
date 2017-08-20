@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The winning recipes are announced as Felix Food crowns its first Imperial MasterChef
 date: "2011-10-28 14:02:29 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

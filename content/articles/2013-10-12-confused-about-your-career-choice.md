@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Careers Service gives you tips on choosing your future career path.
 date: "2013-10-12 20:03:32 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

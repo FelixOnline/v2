@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists create nano ear which can pick up sounds
 date: "2012-01-26 22:06:10 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

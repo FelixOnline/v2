@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah and Caroline Wood spend loads of money selflessly eating out every night to bring you the best from the local area
 date: "2012-10-05 11:47:52 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oluwatosin Ajayi reviews DramSoc’s Earthquakes in London
 date: "2012-11-29 22:06:01 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

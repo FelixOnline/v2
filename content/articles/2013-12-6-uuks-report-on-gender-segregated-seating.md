@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Last week, Universities UUK, the UK’s universities representative organisation issued guidance on helping universities manage external speakers.
 date: "2013-12-06 03:43:24 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dr Frank Berkshires give a Friends of Imperial lecture on mathematics and gambling
 date: "2011-05-11 09:18:07 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

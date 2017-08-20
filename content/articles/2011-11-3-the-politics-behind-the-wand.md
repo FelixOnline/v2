@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joseph Letts welcomes you to the Ministry of Magic...
 date: "2011-11-03 20:04:02 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

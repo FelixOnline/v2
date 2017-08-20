@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tom Rivlin explores one of Charles Stross’ most popular novels.
 date: "2014-02-21 03:23:10 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

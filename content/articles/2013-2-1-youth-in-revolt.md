@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles on photography from the Middle East
 date: "2013-02-01 00:08:55 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   At the mere mention of the place certain thoughts spring to mind. Felix decided it would be the perfect Christmas revision getaway
 date: "2011-01-13 20:43:23 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

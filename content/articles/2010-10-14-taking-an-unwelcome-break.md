@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Motorway services have a captive audience – one that drove into their clutches voluntarily
 date: "2010-10-14 20:03:30 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

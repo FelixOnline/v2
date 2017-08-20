@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Long overdue works are set to be started
 date: "2016-12-02 13:48:30 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Grace Rahman takes us through the five best bangs in pop music
 date: "2015-03-25 12:32:15 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

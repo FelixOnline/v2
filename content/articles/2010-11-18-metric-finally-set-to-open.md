@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After almost two months of delays, the new club opens its doors to students
 date: "2010-11-18 21:44:54 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

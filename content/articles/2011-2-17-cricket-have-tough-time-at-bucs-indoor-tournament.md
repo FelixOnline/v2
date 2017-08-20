@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hopes of reaching BUCS Final dashed
 date: "2011-02-17 20:52:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

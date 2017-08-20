@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park reviews "Captain Phillips" and "All is Lost"
 date: "2013-10-20 13:00:22 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

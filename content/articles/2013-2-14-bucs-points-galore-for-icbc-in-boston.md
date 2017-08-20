@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Spencer-Jones runs in slow motion
 date: "2013-02-14 19:28:37 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

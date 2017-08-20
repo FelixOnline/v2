@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Graduation and Hackery, very hastily discussed at 1am...
 date: "2012-10-26 01:43:51 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

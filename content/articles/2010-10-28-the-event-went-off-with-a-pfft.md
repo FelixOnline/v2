@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This genre of television is so vague you dream up the missing narrative so the writers don’t have to
 date: "2010-10-28 19:49:32 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

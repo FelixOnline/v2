@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lets be real – none of us can afford GBK anyhow. Fortunately, buying burger patties and cooking them up doesn’t get your hands too messy, and the results are delicious, as felix finds out.
 date: "2016-12-02 15:23:09 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

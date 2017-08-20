@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pt. 2 a new ear for classical, or: what post-war Polish composition has to do with British breakcore
 date: "2012-10-18 21:35:32 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

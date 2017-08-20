@@ -4,7 +4,6 @@ title: >
 subtitle: >
   First, a disclaimer: for those with a strong aversion to musicals avoid this play at all costs. :)
 date: "2013-10-18 22:05:08 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

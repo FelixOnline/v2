@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Student makes gruesome discovery before prayers last Sunday
 date: "2015-12-11 15:22:25 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

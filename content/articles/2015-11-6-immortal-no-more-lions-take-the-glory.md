@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Immortals lacked fresh faces on the field and were unable to make big differences in the second quarter
 date: "2015-11-06 14:24:47 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

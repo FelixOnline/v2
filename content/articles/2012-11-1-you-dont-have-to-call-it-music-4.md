@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pt. 4 elektronische Musik
 date: "2012-11-01 23:17:43 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

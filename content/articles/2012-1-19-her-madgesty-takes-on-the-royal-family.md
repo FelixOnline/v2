@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Madonna has made a film, and it is called W.E.
 date: "2012-01-19 20:34:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

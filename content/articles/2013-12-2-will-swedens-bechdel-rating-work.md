@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The example above shows a script that is clearly not one which will stop denigration of women in films. It does however pass the Bechdel Test.
 date: "2013-12-02 22:23:12 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

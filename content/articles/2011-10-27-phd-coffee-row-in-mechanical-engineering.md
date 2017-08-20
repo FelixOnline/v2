@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Experiment between staff and PhD students breaks down
 date: "2011-10-27 20:22:53 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

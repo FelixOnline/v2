@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Three totally awesome albums
 date: "2012-10-05 11:37:53 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

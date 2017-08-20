@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael Barclay ponders the roles of women in gaming culture
 date: "2012-10-18 21:39:54 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

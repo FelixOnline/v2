@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It seems to be possibly slightly pointless, but it is still somehow enjoyable
 date: "2011-11-10 20:39:37 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

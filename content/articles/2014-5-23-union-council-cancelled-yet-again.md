@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This Tuesday Union Council was cancelled due to failing to achieve quoracy again. An email was sent around on Monday announcing the cancellation after an administrative member of staff received a large number of apologies of absence via email.
 date: "2014-05-23 14:26:19 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Whomever made the decision should have the decency to explain their reasoning
 date: "2011-06-09 21:47:41 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

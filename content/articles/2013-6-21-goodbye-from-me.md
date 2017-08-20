@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on this year. My last as Felix Editor!
 date: "2013-06-21 00:05:31 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

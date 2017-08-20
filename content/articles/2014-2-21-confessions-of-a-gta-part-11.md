@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Presenting as an undergraduate was always horrific. A lot of it had to do with that we (were all given the same project. Having to sit through at least 10 presentations on exactly the same thing, whilst noticing everything the other groups had done better, was not only boring but galling all at once
 date: "2014-02-21 03:27:31 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

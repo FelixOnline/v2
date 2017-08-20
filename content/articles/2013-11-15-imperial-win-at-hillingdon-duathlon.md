@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ed Hallett gives his account as Imperial take both first and third place.
 date: "2013-11-15 11:50:40 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rector talks the talk on feedback, but will we see any improvement?
 date: "2011-11-10 20:30:02 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

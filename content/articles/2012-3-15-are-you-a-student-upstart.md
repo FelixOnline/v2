@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Student focused company accelerator hits the mark
 date: "2012-03-15 19:52:27 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

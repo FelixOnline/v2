@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hillary's campaign isn't enough to save us from The Trump
 date: "2016-06-03 08:58:14 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

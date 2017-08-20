@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Clark Nevola is surprised by the heart of this new bio-drama
 date: "2015-05-29 12:44:22 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

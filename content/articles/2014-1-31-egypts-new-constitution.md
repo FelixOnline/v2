@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The metamorphosis of an Arab state from autocracy to anarchy
 date: "2014-01-31 17:56:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Layers of Tone
 date: "2012-06-14 20:57:28 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

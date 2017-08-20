@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Minister hints that foreign student visas could be restricted
 date: "2010-11-04 19:08:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

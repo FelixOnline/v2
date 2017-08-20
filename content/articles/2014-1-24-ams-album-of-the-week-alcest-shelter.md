@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alcest – Shelter
 date: "2014-01-24 10:09:11 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maximilian Eggl tries not to be a Grinch about GAME's new game
 date: "2014-12-11 20:48:11 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

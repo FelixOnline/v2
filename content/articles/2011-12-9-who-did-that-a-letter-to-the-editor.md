@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An anonymous letter about the smell in the Mech Eng lifts
 date: "2011-12-09 15:13:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

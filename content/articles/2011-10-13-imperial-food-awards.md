@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Who is going to be the next Imperial MasterChef?
 date: "2011-10-13 23:52:58 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

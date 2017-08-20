@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christopher Yates talks about the new drug touted as a female viagra
 date: "2014-02-17 17:13:55 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

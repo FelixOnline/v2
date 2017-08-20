@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The writing is on the wall when it comes to the benefits of vegetarianism
 date: "2015-11-06 13:58:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

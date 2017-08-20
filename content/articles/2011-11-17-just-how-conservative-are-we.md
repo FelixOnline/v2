@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rory Fenton on Imperial’s political viewpoint
 date: "2011-11-17 21:16:33 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

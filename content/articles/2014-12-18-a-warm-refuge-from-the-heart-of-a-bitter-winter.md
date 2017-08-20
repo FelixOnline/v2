@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles lauds the National Theatre's newest production of 3 Winters
 date: "2014-12-18 16:19:07 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The annual artistic extravaganza returns to draw the crowds to the Royal Academy for a mixed bag of works
 date: "2011-06-23 21:10:02 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

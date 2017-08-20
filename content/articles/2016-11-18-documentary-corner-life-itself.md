@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Assembling the definitive life story of the world’s most famous film critic is certainly not an easy task
 date: "2016-11-18 15:36:00 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

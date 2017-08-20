@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ...but dedication is compulsory for a career in science. We’re not here to be valued, we’re here to work shit out
 date: "2010-10-07 22:55:34 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

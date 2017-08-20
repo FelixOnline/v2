@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Demon Barber of Fleet Street takes a turn on Exhibition Road
 date: "2016-02-26 12:12:02 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

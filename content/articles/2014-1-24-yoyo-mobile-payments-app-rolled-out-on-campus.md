@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new app, Yoyo, for mobile payment has recently launched at Imperial.
 date: "2014-01-24 09:41:43 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

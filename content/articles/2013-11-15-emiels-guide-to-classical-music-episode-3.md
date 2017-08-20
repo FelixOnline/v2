@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Episode 3: The School at Notre Dame
 date: "2013-11-15 18:10:44 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

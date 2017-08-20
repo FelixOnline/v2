@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix takes a quick look at the newly released strategy document
 date: "2013-11-01 09:26:29 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

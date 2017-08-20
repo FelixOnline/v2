@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Savell looks at the early work of Peter F. Hamilton
 date: "2013-02-01 00:24:39 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

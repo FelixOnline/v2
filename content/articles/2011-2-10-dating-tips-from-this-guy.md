@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Try to express your sensitive side – or, if missing, fake one
 date: "2011-02-10 21:16:19 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College has published a new “Action plan for world class animal research”. This follows allegations made last April by the British Union for the Abolition of Vivisection (BUAV) that the College was involved in unethical animal research.
 date: "2014-02-07 05:01:40 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

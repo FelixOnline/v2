@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tru Thoughts Label Showcase – Koko (Saturday 19 November)
 date: "2011-11-10 20:39:32 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

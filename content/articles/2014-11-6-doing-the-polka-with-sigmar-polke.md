@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kieran Ryan wonders about intense dotted portraits
 date: "2014-11-06 21:40:35 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

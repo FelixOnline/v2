@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Buying fairtrade helps others, so you should really try it out
 date: "2012-02-23 20:44:01 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

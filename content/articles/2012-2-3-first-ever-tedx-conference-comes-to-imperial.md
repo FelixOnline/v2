@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Live lectures and online videos to explore science, design and innovation
 date: "2012-02-03 00:23:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

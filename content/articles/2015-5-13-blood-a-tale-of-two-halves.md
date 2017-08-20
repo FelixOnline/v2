@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Nevola Clark finds Soho Theatre’s play divisive
 date: "2015-05-13 14:12:19 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

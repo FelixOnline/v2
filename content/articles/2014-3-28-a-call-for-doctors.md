@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The number of doctors travelling abroad on ‘humanitarian’ missions in order to provide help for the millions of people suffering in less developed countries is nanoscopic.
 date: "2014-03-28 11:42:40 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

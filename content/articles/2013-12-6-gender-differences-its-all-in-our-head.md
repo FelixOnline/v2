@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New research has shown that the brains of females and males have different patterns of connectivity, possibly alluding as to why men may not behave the same as women. In this impressively large study published by PNAS...
 date: "2013-12-06 03:55:40 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

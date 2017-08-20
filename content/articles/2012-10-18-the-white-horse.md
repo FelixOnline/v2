@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Elizabeth Crow on "a very posh pub, darling"
 date: "2012-10-18 21:44:19 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In putting such an iconic, widely beloved figure to the screen, the pressure is most definitely on. The film shouldn’t offend, nor should it be an unbiasedly kind portrayal, as even the most celebrated people have flaws to speak of.
 date: "2014-01-24 10:15:30 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

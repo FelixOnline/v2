@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Information regarding changes to individual atoms in a lattice structure has been shown to propagate at roughly twice the speed of sound
 date: "2012-02-02 19:26:31 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

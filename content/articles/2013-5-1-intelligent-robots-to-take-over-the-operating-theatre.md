@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In ten years time a doctor may no longer be prodding around inside you
 date: "2013-05-01 19:16:37 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

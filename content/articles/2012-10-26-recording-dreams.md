@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sex dreams would totally be on repeat. AMMIRITE?
 date: "2012-10-26 02:31:35 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

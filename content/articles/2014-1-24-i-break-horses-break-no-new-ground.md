@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Swedish act I Break Horses released their debut album, Hearts, back in 2011.
 date: "2014-01-24 10:07:49 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

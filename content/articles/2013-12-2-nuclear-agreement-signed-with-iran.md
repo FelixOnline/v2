@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But will it really manage to make the world a safer place?
 date: "2013-12-02 21:57:41 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

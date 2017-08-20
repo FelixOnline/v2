@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There other issues that we should be more concerned about than fee increases, writes Stephen Smith
 date: "2012-01-26 22:58:23 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

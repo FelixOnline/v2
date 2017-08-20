@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cramming for exams can give you infectious habits
 date: "2011-05-20 05:49:56 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

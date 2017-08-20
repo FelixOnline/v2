@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland heads over to the IC Choir's Spring Concert
 date: "2015-03-25 13:21:15 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

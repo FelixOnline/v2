@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imagine a white hot day blazing around you, created by blinding and numbing sunlight, all colours scrubbed cleaner and brighter and the air too hot to breathe. As I read L’etranger – usually translated as either The Stranger or The Outsider – a similar atmosphere appeared to surround me...
 date: "2013-11-08 09:46:54 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

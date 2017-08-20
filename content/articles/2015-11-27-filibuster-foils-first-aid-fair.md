@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Children should not be denied the opportunity to learn first aid by an old man who has difficulties remembering his childhood
 date: "2015-11-27 14:22:06 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

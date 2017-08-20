@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Another step towards food security
 date: "2011-05-12 16:31:55 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

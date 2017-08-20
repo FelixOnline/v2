@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles visits The Photographers' Gallery to see what's trendy
 date: "2014-12-18 15:49:01 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

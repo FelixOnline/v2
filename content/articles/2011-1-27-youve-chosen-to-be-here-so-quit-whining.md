@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We should be more content that we're at Imperial
 date: "2011-01-27 19:52:34 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

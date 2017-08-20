@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Julian Iacoponi describes the action
 date: "2013-11-25 00:01:46 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

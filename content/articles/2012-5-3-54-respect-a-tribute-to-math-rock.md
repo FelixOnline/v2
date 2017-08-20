@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pt. 1 – Slint
 date: "2012-05-03 17:47:48 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The controversy behind this bureaucratic corrupt organisation.
 date: "2014-06-12 14:27:40 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

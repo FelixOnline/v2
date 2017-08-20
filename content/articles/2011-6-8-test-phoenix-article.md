@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Testing testing
 date: "2011-06-08 19:54:00 +0100"
-image: "http://felixonline.co.uk/"
 draft: true
 headline: true
 featured: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Election fever over. We all sweated it out.
 date: "2012-11-09 00:14:05 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

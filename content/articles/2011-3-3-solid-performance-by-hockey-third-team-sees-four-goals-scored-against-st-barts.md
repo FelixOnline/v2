@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Men’s Hockey: Imperial 3s 4 - 0 St. Barts
 date: "2011-03-03 21:34:39 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Moving onwards from our last issue
 date: "2012-02-16 22:06:03 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Wolverines head to Southampton to get hit with balls
 date: "2010-11-18 21:14:24 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

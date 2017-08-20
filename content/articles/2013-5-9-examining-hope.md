@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial about, what else, exams and halls.
 date: "2013-05-09 15:35:35 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

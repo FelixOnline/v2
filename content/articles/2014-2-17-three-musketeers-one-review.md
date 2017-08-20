@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emily Fulham takes a swash-buckling journey into Renaissance France
 date: "2014-02-17 18:35:22 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

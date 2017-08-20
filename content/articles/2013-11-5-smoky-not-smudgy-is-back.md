@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nida Mahmud on this Sunday’s ladies only event
 date: "2013-11-05 09:47:50 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

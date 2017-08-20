@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Would you do more to help than click a button?
 date: "2015-11-19 22:40:44 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

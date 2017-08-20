@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I learned this week that the Spanish government have recently been taking lessons from George Orwell.
 date: "2013-12-02 21:36:02 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

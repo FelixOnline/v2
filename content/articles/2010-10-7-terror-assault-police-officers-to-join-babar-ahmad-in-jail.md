@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Police Officers to face prosecution for Babar Ahmad attack
 date: "2010-10-07 22:03:12 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

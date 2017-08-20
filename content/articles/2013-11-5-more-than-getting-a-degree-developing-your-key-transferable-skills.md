@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As you settle back into the College academic year you are no doubt becoming aware of the myriad of events that the Careers Service arranges to help you come to a career decision and to set you on the pathway for a rewarding and fulfilling career.
 date: "2013-11-05 09:52:14 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

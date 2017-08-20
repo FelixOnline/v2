@@ -4,7 +4,6 @@ title: >
 subtitle: >
   So, I am the poor schmuck who has to try to sell Tuition fees to the people already most disenfranchised with them. It’s my job to tell you all why running up a debt of £9000 per year on tuition fees (alongside other costs) is the best idea out there…
 date: "2014-06-06 02:42:25 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

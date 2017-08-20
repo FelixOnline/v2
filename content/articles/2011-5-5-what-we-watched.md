@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Wrecking up the week’s TV
 date: "2011-05-05 23:00:00 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

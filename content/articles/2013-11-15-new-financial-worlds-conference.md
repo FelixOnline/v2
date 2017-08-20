@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICFS tell us about their exciting upcoming conference
 date: "2013-11-15 11:44:16 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

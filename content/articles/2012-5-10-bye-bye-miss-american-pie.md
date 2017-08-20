@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The gang get back together for another slice
 date: "2012-05-10 20:32:39 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

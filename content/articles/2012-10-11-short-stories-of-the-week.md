@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Missing Women, Synchronised Toilet Flush, Train Wreck
 date: "2012-10-11 20:53:46 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

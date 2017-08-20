@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Intimacy at Oval Space
 date: "2017-02-03 17:05:24 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

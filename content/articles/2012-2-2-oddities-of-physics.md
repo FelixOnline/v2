@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hosted by Friends of Imperial College, last week's 'The Oddities of Physics' talk by postgraduate students was a success.
 date: "2012-02-02 19:31:41 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

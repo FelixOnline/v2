@@ -4,7 +4,6 @@ title: >
 subtitle: >
   RCSU's Jezebel expected to be back on the road soon
 date: "2012-03-15 21:13:52 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

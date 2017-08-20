@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There is a reason why television critics can’t stop talking about Tatiana Maslany. The fact that her work on the first season of Orphan Black missed out on an Emmy nomination which damn well should have resulted in a win over Claire “I do the same boring crazy spy skit every episode” Danes...
 date: "2014-02-17 18:44:27 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

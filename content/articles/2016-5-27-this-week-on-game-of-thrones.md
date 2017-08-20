@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Spoilers, obviously
 date: "2016-05-27 09:04:26 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

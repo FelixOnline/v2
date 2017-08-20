@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Music interviews them, with Mo Mizra firing questions.
 date: "2012-11-29 23:04:31 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

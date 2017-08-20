@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Every 20 minutes, someone in the UK is told they have a blood cancer.
 date: "2014-01-17 04:34:47 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

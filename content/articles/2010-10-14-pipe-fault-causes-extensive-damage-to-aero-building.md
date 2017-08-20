@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A PhD student is rumoured to have bungled, resulting in damage to labs and lecture theatres
 date: "2010-10-14 19:04:55 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

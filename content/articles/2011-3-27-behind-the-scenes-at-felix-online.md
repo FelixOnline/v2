@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look at the technologies that helped create and run Felix Online
 date: "2011-03-27 11:21:00 +0100"
-image: "http://felixonline.co.uk/"
 draft: true
 headline: true
 featured: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   News Editor Nida bring you the news in short
 date: "2014-01-17 03:11:26 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

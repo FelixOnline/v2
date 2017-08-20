@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You spoke the Union listened
 date: "2017-02-03 15:04:11 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

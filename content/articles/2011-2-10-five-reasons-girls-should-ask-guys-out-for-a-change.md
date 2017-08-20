@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charlotte Ivison calls for girls to share the burden this Valentine's Day
 date: "2011-02-10 21:09:13 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

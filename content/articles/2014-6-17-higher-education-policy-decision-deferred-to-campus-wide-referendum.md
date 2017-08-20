@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Union’s Higher Education policy will go to a referendum later this year, after Union Council felt unable to make a decision without further consultation.
 date: "2014-06-17 14:21:34 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

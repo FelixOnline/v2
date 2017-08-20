@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Winters on undergrads, postgrads and union engagement
 date: "2014-06-12 16:38:45 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

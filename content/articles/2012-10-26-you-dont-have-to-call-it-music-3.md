@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pt. 3: musique concrète
 date: "2012-10-26 03:11:18 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

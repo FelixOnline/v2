@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Victoria Druce may start sticking electrodes in her head to give her the edge.
 date: "2013-05-23 22:07:38 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

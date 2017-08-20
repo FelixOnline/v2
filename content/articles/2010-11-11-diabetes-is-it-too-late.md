@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As World Diabetes Day approaches, what can be done?
 date: "2010-11-11 21:06:09 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

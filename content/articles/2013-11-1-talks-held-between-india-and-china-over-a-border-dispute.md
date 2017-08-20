@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jash Rughani looks into the escalating tensions between India and China
 date: "2013-11-01 09:33:33 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

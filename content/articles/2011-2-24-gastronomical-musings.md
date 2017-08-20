@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The classic cooking show : Master Chef
 date: "2011-02-24 19:42:12 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

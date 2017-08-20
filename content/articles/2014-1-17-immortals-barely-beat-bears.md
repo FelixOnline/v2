@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Immortals returned to Harlington to take on the Royal Holloway Bears in another tense game of American football.
 date: "2014-01-17 04:41:27 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

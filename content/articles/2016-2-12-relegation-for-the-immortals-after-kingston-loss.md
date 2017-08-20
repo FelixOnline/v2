@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The final score was 12-20 to the Cougars
 date: "2016-02-12 12:09:20 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

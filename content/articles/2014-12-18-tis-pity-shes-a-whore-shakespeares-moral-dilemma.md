@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jingjie Cheng raves about the Globe's new production of a classic
 date: "2014-12-18 15:51:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

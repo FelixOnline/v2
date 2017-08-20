@@ -4,7 +4,6 @@ title: >
 subtitle: >
   St Bart's are made short work of
 date: "2012-01-20 12:10:50 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

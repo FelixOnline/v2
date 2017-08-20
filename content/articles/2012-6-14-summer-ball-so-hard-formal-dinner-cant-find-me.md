@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A review of the Union
 date: "2012-06-14 19:43:49 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

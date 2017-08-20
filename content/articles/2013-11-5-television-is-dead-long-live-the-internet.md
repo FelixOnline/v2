@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With Orange is the New Black, Netflix shows TV execs how it’s done
 date: "2013-11-05 09:45:48 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

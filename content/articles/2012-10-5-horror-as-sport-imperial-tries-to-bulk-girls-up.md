@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sorcha Cotter retells two weeks of free/gruelling sessions
 date: "2012-10-05 13:32:18 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

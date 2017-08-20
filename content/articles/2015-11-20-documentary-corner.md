@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week it's The Cove
 date: "2015-11-20 09:21:19 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

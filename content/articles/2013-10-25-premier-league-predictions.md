@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James White's first column on football, bringing you predictions about this week's matches.
 date: "2013-10-25 01:22:36 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Highest awards for three academics
 date: "2012-01-12 22:06:29 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial pull back from an unpromising start
 date: "2011-02-27 20:00:45 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

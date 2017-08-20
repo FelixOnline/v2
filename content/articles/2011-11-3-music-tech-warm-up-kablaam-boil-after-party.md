@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Iñigo Martinez de Rituerto on the glorification of the vibe selector and Imperial’s musical exploits
 date: "2011-11-03 20:50:10 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

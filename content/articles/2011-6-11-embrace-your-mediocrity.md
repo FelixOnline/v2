@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I urge you, be lazy. Be satisfied with your simplicity. Be average. Be mediocre
 date: "2011-06-11 17:29:56 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

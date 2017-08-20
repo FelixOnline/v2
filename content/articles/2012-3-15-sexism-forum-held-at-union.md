@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Discussion follows rejection of feminist society by the New Clubs Committee
 date: "2012-03-15 21:36:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

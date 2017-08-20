@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An online exclusive on tackling inequality in the education system
 date: "2011-10-13 23:44:39 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kartikeya Rana looks at the situation in Iraq after the war
 date: "2013-11-08 09:43:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

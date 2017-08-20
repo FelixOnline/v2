@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I spent my time on the red carpet taking selfies
 date: "2015-10-30 14:45:46 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

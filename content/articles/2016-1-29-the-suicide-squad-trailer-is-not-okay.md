@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This fan-boy isn't happy
 date: "2016-01-29 09:13:59 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

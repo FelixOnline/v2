@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Science is the spark that aid needs in the world
 date: "2011-12-01 21:35:39 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

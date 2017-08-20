@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles reviews the latest effort from director Simon Godwin, the lively restoration comedy The Beaux' Stratagem
 date: "2015-05-27 17:44:04 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

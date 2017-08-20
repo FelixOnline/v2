@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sony has been releasing top notch consoles for almost 2 decades now, and therefore the PS4 has a lot riding on its shoulders.
 date: "2013-11-13 22:58:47 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

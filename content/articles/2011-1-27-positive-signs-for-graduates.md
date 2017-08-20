@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Report suggests that the graduate market is overcoming the impact of the recession”
 date: "2011-01-27 18:26:38 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

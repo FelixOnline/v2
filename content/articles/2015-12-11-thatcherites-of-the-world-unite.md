@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Political diversity is to be cherished, not shouted down as “problematic”
 date: "2015-12-11 15:31:13 +0000"
-image: "http://felixonline.co.uk/"
 draft: true
 headline: true
 featured: true

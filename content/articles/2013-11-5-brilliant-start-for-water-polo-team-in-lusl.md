@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our first fixture, last week, saw us pitted against UCL’s 2nd team, a team we were initially quietly confident we would beat with ease.
 date: "2013-11-05 09:56:20 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

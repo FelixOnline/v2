@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Arianna Sorba reviews the new scientifically slanted Radio 4 series
 date: "2011-10-28 00:22:44 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

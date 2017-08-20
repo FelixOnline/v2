@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Things were looking good for Starling City and its masked vigilante hero at the end of its highly successful first-season run.
 date: "2013-11-05 09:44:09 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

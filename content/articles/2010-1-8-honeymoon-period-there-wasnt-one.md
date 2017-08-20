@@ -4,7 +4,6 @@ title: >
 subtitle: >
   All I bloody hear is the clock ticking
 date: "2010-01-08 16:44:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

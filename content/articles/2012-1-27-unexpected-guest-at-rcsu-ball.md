@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cricketer commotion as students raise money for RAG
 date: "2012-01-27 00:27:57 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

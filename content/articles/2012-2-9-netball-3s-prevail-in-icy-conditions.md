@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Women's team comfortably defeat the University of West London
 date: "2012-02-09 23:09:12 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

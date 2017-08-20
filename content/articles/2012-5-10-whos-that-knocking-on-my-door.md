@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yep, pretty silent, except for all the screaming
 date: "2012-05-10 20:37:37 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

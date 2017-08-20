@@ -4,7 +4,6 @@ title: >
 subtitle: >
   British universities have long been under-funded, will Browne's proposals change this?
 date: "2010-10-14 19:21:52 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Looking at nativity from a whole other perspective
 date: "2010-12-09 21:23:25 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

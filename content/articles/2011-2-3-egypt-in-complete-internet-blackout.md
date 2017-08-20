@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Life without Internet: Egypt Diaries
 date: "2011-02-03 20:24:12 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

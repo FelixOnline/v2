@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Phil Kent reports
 date: "2014-10-17 15:17:34 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

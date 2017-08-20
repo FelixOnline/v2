@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Next Wednesday members of College staff and construction managers will meet in the Union Dining Hall to provide feedback on the progress of the construction of new halls of residence, in Acton.
 date: "2014-06-02 12:43:28 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

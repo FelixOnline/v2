@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emily Beech thinks Felix Music needs more Wham!
 date: "2011-11-24 21:32:15 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

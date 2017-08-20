@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What would your tech editors do, if they were crapping money
 date: "2014-01-15 16:20:50 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

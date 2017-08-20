@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Council passes policy demanding publishing companies reduce their costs
 date: "2011-06-23 19:19:42 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

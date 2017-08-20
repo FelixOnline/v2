@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jerzy Hoffman fails to prove himself with his latest release
 date: "2011-10-27 21:36:07 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

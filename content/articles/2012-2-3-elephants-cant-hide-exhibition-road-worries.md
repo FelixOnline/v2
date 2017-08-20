@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Road safety continues to be a concern around South Kensington
 date: "2012-02-03 12:01:28 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

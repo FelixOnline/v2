@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Victoria Charlton on a surprising discovery and a resisitor that remembers
 date: "2012-06-07 18:51:25 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

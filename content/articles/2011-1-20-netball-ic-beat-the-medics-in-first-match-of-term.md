@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The IC beat the medics at the start of the term
 date: "2011-01-20 19:36:36 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

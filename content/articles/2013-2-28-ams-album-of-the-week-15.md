@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eels: Wonderful, Glorious
 date: "2013-02-28 23:30:50 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

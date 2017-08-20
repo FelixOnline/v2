@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Comment Editor Tessa Davey gives tips on how to survive Commemoration Day!
 date: "2013-10-20 02:38:45 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It has recently been announced that the College has set up a consultation process to review the “residential experience” at Imperial, with the purpose of shaping the residential experience for students in College accommodation.
 date: "2014-01-31 17:54:16 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Unfortunately, men dominate the best roles in television. So, you’d think that they’d at least be represented with nuance, right? Well, that tends not to be the case.
 date: "2016-11-18 15:06:33 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

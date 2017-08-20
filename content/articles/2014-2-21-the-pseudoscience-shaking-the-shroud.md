@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alongside UFOs, homeopathy and all manners of conspiracy theories, the Shroud of Turin has long been known as a perennial source of pseudoscience.
 date: "2014-02-21 03:11:45 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

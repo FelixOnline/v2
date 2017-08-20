@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A modern hard SF classic
 date: "2012-05-03 18:42:08 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

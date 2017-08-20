@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix fanatic looking for like-minded lover to spend Wednesday afternoons in the west basement together. WLTM writer with GSOH, preferably who edits Hangman but could edit science, news or sport (just not fashion or travel). Message me and we can arrange a journalistic rendez-vous, and I reckon we
 date: "2014-02-03 15:41:36 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “It makes me want to throw up, it really does. It’s sick-making"
 date: "2012-11-29 23:08:12 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

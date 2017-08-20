@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In or out? You decide.
 date: "2013-01-10 22:23:10 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

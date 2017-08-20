@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Evolution leads to key behind a scared response
 date: "2011-11-03 19:49:27 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

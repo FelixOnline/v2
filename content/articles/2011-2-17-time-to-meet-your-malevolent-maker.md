@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If God exists he is a jerk. Once you take a minute to think about it, it explains everything so beautifully it brings a tear to my eye.
 date: "2011-02-17 20:18:27 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

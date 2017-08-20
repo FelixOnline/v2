@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Trouble at Metric launch forces security re-think at Union
 date: "2010-11-26 07:22:56 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

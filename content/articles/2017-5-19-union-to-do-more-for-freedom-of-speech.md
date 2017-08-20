@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Freeze peach
 date: "2017-05-19 15:00:10 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

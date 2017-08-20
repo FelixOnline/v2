@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An 11% rise in basic pay might not be enough
 date: "2015-11-06 13:29:38 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

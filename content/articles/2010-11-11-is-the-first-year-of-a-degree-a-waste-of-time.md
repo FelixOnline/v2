@@ -4,7 +4,6 @@ title: >
 subtitle: >
   My advice to anyone thinking of a one, two or even three year degree? Do what you think will suit you and just dive in
 date: "2010-11-11 21:52:05 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

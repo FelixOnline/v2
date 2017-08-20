@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A response from members of the Feminist Society...
 date: "2014-06-23 13:13:25 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

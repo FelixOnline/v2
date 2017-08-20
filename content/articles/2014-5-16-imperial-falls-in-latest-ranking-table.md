@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week the Complete University Guide (CUG) released their latest ranking table for Universities within the United Kingdom.
 date: "2014-05-16 01:38:19 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

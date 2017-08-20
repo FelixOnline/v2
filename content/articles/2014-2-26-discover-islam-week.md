@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Free dinner? Free cake? Islam? If you found yourself saying yes to one or more of the aforementioned, then carry on reading!
 date: "2014-02-26 12:52:09 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

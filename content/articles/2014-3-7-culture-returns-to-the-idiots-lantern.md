@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ryan Ehlers takes a ride in Stewart Lee’s Comedy Vehicle
 date: "2014-03-07 05:55:28 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

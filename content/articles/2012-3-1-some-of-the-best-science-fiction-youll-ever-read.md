@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look back at Ender’s Game – Orson Scott Card’s first great masterpiece
 date: "2012-03-01 21:40:02 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

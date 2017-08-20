@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Over the last few months Felix has broken two stories about Union Club, Society and Project election mismanagement.
 date: "2014-05-02 01:04:46 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

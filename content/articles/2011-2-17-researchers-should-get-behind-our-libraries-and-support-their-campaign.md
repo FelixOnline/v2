@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The zeitgeist has changed irrevocably. University libraries have understood this; it is essential that researchers and publishers do the same.
 date: "2011-02-17 20:15:50 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

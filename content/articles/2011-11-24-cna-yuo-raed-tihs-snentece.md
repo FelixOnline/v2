@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Thier sceince mya suprirse yuo!
 date: "2011-11-24 21:04:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

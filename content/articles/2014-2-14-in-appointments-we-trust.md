@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Interesting points raised at Council
 date: "2014-02-14 05:06:13 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

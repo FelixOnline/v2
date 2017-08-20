@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Next Murderer in our series: finding the ultimate Culprit
 date: "2013-11-13 22:53:26 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

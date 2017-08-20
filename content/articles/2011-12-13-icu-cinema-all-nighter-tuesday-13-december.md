@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The All-Nighter returns
 date: "2011-12-13 14:27:25 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

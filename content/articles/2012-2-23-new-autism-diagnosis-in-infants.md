@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A step forward in the fight against autism
 date: "2012-02-23 20:48:52 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

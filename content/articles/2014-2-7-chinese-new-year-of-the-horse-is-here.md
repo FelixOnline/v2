@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Don’t worry - no horse meat involved in the production of this issue...
 date: "2014-02-07 04:47:24 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

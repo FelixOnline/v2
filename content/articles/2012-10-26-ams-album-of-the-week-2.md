@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Egyptian Hip Hop: Good Don’t Sleep
 date: "2012-10-26 03:17:26 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

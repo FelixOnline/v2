@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Babbage brings in the hits
 date: "2012-05-04 00:52:54 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

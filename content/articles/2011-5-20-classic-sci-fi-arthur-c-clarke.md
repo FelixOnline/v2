@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A flawed piece from the science fiction master?
 date: "2011-05-20 05:35:24 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

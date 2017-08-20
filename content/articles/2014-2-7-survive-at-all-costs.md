@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Even those with an entirely understandable objection to Hollywood’s never-ending, contrived war films ramming American patriotism down everyone’s throats should check out Peter Berg’s latest modern day military drama.
 date: "2014-02-07 04:42:19 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

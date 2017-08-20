@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-05-06 10:13:29 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

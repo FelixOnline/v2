@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College already on board
 date: "2013-02-14 13:13:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

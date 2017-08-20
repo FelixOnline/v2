@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Baseball team put on impressive display, thankfully beating UCL
 date: "2013-05-08 13:29:15 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

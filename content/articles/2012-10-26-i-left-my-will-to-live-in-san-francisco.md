@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simulator time!
 date: "2012-10-26 02:43:09 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

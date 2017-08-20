@@ -4,7 +4,6 @@ title: >
 subtitle: >
   £1 million scholarship scheme to fund postgraduate design and engineering students at four universities, including Imperial
 date: "2011-06-16 19:10:21 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

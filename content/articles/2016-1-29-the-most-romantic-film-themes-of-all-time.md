@@ -4,7 +4,6 @@ title: >
 subtitle: >
   And none of them are from Love Actually
 date: "2016-01-29 09:17:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

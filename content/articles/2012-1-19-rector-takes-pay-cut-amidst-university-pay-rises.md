@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Average pay rise of £10,000 for university leaders
 date: "2012-01-19 23:03:29 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

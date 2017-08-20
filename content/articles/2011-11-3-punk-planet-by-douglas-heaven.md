@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week: Pairs
 date: "2011-11-03 20:45:30 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

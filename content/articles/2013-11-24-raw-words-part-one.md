@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An original short story by Eoghan Totten
 date: "2013-11-24 16:14:04 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

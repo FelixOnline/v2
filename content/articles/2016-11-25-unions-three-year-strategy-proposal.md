@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hopefully they’ve got 2020 vision
 date: "2016-11-25 13:20:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

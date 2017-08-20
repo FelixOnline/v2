@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephanie Walton puts herself in the firing line
 date: "2012-10-05 12:50:50 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

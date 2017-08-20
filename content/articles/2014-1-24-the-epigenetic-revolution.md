@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Keir Little on research that redefines our knowledge of inheritance
 date: "2014-01-24 09:57:27 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

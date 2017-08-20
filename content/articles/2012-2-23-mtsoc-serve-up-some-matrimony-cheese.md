@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Wedding Singer is an excellent watch for the end of the month
 date: "2012-02-23 19:42:06 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

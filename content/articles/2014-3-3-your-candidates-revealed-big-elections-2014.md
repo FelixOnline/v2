@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A complete list of all the candidates running in the Big Elections, both full time and part time
 date: "2014-03-03 14:14:24 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

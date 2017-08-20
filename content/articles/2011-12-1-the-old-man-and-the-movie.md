@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How Woody Allen's Midnight in Paris relates to desperate housewives in Brinkley's
 date: "2011-12-01 20:24:00 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

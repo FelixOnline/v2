@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Strapped for cash and greetings in the corridor
 date: "2014-02-17 17:23:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

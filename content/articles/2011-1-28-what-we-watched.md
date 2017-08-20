@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This Week, James Simpson sat down on his sofa and didn't brush his teeth
 date: "2011-01-28 14:16:43 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

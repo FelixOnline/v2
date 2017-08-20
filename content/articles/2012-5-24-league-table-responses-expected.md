@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yet more league table conundrums
 date: "2012-05-24 23:45:41 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

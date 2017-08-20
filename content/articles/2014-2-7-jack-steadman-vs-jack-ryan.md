@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The latest entry in the Jack Ryan franchise (a character who shares with James Bond and The Doctor the habit of being played by multiple different actors with varying degrees of respect for previous iterations) punches the big red ‘reboot’ button –
 date: "2014-02-07 04:40:50 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Greg Davies and friends perform at the Apollo to help UNHCR and Action Aid
 date: "2015-11-20 09:40:08 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

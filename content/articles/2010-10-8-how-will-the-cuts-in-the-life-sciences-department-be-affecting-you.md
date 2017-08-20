@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An Editorial on the Life-Sciences Restructure
 date: "2010-10-08 07:05:59 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

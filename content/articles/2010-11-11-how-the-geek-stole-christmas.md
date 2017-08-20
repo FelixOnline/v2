@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I don't mind all the early Christmas celebrations, it's just that I feel like someone's thrown a kettle of boiling water in my face...
 date: "2010-11-11 21:46:16 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

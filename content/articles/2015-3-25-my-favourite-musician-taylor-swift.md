@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tessa Davey takes us through the multitude of joys that is TayTay
 date: "2015-03-25 11:49:45 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

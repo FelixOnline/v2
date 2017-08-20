@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “You talkin’ to me? Then who the hell else are you talking... you talking to me? Well I’m the only one here.” “I think I learn more in a movie or in a story when I see what a person does wrong and what happens because of that.”
 date: "2014-01-24 10:11:38 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

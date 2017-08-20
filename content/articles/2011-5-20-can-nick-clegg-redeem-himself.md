@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A year after he joined the Conservatives in coalition, he has gone from national hero to possibly the most hated man in Britain
 date: "2011-05-20 05:51:58 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

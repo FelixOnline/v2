@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonney Clowes on Imperial's victory
 date: "2012-11-29 23:20:16 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

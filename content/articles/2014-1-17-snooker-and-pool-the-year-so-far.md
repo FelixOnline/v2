@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It was a term to remember for the Imperial mints, as membership rocketed and records tumbled, in what was a fantastic ending to a difficult year.
 date: "2014-01-17 04:37:10 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

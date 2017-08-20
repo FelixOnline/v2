@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But pretty bad for the rest of the world
 date: "2016-05-27 08:47:16 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

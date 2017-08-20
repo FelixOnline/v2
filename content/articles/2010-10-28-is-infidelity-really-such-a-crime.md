@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Can you imagine getting chucked out of university because of your personal life?
 date: "2010-10-28 19:48:21 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

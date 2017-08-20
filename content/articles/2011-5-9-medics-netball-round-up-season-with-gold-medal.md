@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Most successful season yet for Medics Netball
 date: "2011-05-09 09:58:07 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

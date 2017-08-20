@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Padraic Calpin on the UK keeping to the targets
 date: "2012-11-22 23:21:23 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The end is nigh!!!!!!
 date: "2014-06-19 18:44:01 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

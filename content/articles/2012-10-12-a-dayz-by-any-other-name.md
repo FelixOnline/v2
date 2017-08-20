@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Webster is looking for friendlies in Cherno
 date: "2012-10-12 10:57:10 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Here is a film of so many mixed emotions that it will make your head spin. With larger-than-life characters having a proper go at each other at a family gathering (where else?).
 date: "2014-01-24 10:14:34 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

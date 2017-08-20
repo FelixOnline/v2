@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The government's proposals are fair
 date: "2010-11-11 21:36:03 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

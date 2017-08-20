@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Get involved with Charity Week next week.
 date: "2013-10-25 01:08:23 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

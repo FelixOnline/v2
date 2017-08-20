@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Investigating groups that oppose democracy
 date: "2011-10-27 22:57:30 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

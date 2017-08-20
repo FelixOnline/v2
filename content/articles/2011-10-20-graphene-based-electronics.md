@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Following government funding, the unique material may be reaching its full potential
 date: "2011-10-20 21:13:03 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

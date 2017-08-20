@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I’ve always been in love with driving. In school, when I was learning to drive, my Physics teacher told me that he wished that we were in Saudi Arabia, where women are banned from driving, because then at least I’d shut up about it in his lessons.
 date: "2013-11-04 13:43:40 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week has seen the announcement of the departurew of the Science Museum library and the launch of Yoyo, a new mobile payments app rolled out at Imperial over the last week.
 date: "2014-01-24 09:55:39 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

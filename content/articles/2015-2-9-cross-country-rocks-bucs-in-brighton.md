@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cross Country members Matt Douthwaite, Liam Smith and Cloudy Carnegie report on the trip to Brighton
 date: "2015-02-09 19:12:22 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

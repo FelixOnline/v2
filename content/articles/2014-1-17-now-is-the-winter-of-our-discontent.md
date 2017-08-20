@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christy Kelly takes on the world
 date: "2014-01-17 03:34:39 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

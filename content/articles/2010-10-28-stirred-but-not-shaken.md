@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Professor Christopher Andrew, MI5’s official historian, speaks on science in the security service at the Vincent Briscoe Annual Security Lecture
 date: "2010-10-28 19:25:18 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

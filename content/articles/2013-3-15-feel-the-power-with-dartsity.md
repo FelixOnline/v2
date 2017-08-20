@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Onnnnneeee hundred and eiiiighttttyyyy. Wasn't uttered.
 date: "2013-03-15 01:53:42 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

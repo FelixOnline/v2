@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICU Debating Society discuss
 date: "2015-03-03 20:32:00 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

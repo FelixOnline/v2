@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An increase in demand means that more applicants than ever are missing out on university
 date: "2010-10-28 20:02:56 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

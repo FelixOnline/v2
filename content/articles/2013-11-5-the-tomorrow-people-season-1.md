@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The new species of “homo superiors” seem to have everything figured out. They possess the special powers of the three T’s: telekinesis, teleportation, and telepathy.
 date: "2013-11-05 09:44:41 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

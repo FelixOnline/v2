@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Plumbing the depths of society and swimming
 date: "2012-02-02 23:54:50 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

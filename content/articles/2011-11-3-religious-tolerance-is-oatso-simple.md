@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Using the analogy of cereals, you can see why we should all just live and let live
 date: "2011-11-03 21:27:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

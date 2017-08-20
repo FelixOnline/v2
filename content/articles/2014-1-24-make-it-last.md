@@ -4,7 +4,6 @@ title: >
 subtitle: >
   When an old friend finally announces that he is ready to settle down with a woman young enough to his granddaughter, his friends are nothing short of excitement as they get ready for the bachelor party of their lives.
 date: "2014-01-24 10:13:37 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

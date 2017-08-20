@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Are you thinking of buying property in South Kensington?
 date: "2013-12-02 21:48:16 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

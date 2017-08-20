@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pietro Aronica thinks persecution of memes is TOO DAMN HIGH
 date: "2013-02-22 01:49:24 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

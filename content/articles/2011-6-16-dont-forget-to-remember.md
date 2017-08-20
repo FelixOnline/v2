@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We are a thousand conversations. If we couldn’t remember them, who would we be?
 date: "2011-06-16 20:32:11 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

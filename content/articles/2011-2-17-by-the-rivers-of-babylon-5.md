@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Political corruption, giant cosmic evils and libraries
 date: "2011-02-17 20:39:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

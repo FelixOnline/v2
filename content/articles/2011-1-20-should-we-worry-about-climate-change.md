@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We are told that climate change is the most dangerous threat to the world today, but as measures to combat it stall, how much should we worry?
 date: "2011-01-20 21:22:20 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

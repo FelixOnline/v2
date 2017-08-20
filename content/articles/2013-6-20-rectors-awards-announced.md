@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Excellence in teaching awarded
 date: "2013-06-20 23:35:54 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   AuxIn and Gene Guard bring huge success to Imperial team
 date: "2011-11-10 22:08:13 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

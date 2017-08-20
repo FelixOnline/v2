@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This year the Union Election process has significantly changed; there is no longer a list of candidates standing for each position and instead the complete list will be announced once nominations are complete.
 date: "2014-02-17 17:25:19 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

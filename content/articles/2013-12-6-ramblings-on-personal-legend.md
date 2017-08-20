@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Paul Coelho’s best-selling novel, The Alchemist, reminds us to be true to ourselves and to seek out our ‘personal legend’. A king advises Santiago, the chief protagonist, that, “when you really want something to happen, the whole universe conspires so that your wish comes true.”
 date: "2013-12-06 04:03:34 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

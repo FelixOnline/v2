@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Professor Nigel Brandon and Professor Elisabeth Paice win OBEs
 date: "2011-06-16 18:52:47 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial about Sex. Well the Sex Survey. Sorry to get you excited
 date: "2013-05-23 22:35:06 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

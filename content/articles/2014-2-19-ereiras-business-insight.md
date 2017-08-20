@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tavistock Tutors was set up by Marcus Ereira and Luke Shelley when they were just 17 years old. A few years on, the business has grown tremendously and they have over 300 tutors on their books.
 date: "2014-02-19 17:27:02 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

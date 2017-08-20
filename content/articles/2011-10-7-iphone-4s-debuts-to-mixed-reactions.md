@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Cook delivers his first keynote speech
 date: "2011-10-07 10:42:00 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

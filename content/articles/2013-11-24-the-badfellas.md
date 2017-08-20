@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What starts off promisingly enough heads for a rapid decline in quality when director Luc Besson doesn’t quite know what to do with the impressive cast he has assembled.
 date: "2013-11-24 16:29:26 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

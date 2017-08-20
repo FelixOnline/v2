@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists propose hydrothermal vents on the ocean floor as possible locations for the beginning of life itself
 date: "2012-03-01 21:21:48 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

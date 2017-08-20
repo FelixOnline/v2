@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Oxford Union (OUSU) has declared last week’s vote on whether to continue to affiliate with the National Union Students void amid controversy over “ballot stuffing”.
 date: "2014-06-02 12:41:30 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

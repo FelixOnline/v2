@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Looking at Marcus du Sautoy and Victoria Gould's "X & Y"
 date: "2013-10-18 21:53:13 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Until there's a more equal balance of men and women in Science, let's stop pretending we live in a rational meritocracy
 date: "2011-01-20 21:25:07 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

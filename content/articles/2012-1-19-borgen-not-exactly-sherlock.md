@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Believe it or not, there were other things on tv!
 date: "2012-01-19 19:55:57 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The dramatic events in Ukraine in recent weeks have again brought the country into the headlines. The mainly student protests in Kiev are about reneged promises over further integration with the EU...
 date: "2013-12-06 04:08:16 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

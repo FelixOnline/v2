@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Incest. Rape. Murder. Witches. Voodoo. Resurrection. Zombies. Slavery. Blood. Goats. Snakes. Limbs. A severed tongue. Yes, Ryan Murphy is back doing what he does best – laying on the dark and twisted in the new season of his hit anthology, American Horror Story...
 date: "2013-11-24 16:30:57 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

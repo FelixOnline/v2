@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gaming at the Holland Club
 date: "2012-11-01 22:57:35 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

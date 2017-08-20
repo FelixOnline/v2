@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The College is preparing to host top SF and fantasy writers at its annual convention, Picocon. This year award winning authors Sarah Pinborough and Charles Stross wILL...
 date: "2014-02-14 05:05:39 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

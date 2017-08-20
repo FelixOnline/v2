@@ -4,7 +4,6 @@ title: >
 subtitle: >
   GH argues for, and Luke Sheldon argues against. Let battle commence...
 date: "2012-10-18 21:19:05 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

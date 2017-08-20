@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists, Medics and Engineers vote for next year's committees
 date: "2011-03-18 09:09:58 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

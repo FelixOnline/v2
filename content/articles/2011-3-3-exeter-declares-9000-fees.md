@@ -4,7 +4,6 @@ title: >
 subtitle: >
   First non-Russell Group university to aim for highest rate
 date: "2011-03-03 20:09:31 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

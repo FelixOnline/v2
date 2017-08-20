@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lucy Wiles reviews Project X
 date: "2012-03-08 22:00:25 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

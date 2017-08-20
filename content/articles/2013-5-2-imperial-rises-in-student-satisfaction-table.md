@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shooting up the table, but still only coming in at 41. Workload highlighted as major problem
 date: "2013-05-02 13:33:35 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

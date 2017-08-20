@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new and slightly more awkward year
 date: "2014-01-17 03:33:14 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

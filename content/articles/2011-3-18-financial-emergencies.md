@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How the College can help you if you’re facing financial trouble
 date: "2011-03-18 08:58:23 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

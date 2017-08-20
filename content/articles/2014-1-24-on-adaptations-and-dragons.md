@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Spoiler Alert: If you haven’t seem The Hobbit yet, stop reading
 date: "2014-01-24 09:54:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Departments calm as few declare intention to strike
 date: "2011-03-17 20:54:28 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

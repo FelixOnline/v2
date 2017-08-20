@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELIX interviews 29 year-old Anjeli Patel, who works at Ernst & Young, on being trans, being Indian and the equality in the workplace
 date: "2016-03-11 11:31:32 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

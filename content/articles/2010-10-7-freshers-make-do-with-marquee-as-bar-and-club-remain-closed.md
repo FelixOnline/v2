@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Unforeseen construction problems delay opening of Union venues until end of October
 date: "2010-10-07 21:59:43 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

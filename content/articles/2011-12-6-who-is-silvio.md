@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A poem by John Hilliard
 date: "2011-12-06 11:34:29 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

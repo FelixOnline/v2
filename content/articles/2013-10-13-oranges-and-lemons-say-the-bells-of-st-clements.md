@@ -4,7 +4,6 @@ title: >
 subtitle: >
   University of London Society of Change Ringers, ring a bell?
 date: "2013-10-13 00:05:50 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

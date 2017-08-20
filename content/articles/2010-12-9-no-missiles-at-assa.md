@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An all authentic Korean food experience
 date: "2010-12-09 19:55:56 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

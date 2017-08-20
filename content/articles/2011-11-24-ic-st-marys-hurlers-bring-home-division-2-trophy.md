@@ -4,7 +4,6 @@ title: >
 subtitle: >
   London squad take the advantage in second half
 date: "2011-11-24 23:47:36 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

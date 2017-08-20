@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles is let down by the humour at this Barbican production
 date: "2015-05-13 14:16:54 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

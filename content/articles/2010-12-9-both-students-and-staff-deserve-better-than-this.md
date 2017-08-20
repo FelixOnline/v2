@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Both students and staff deserve better than this
 date: "2010-12-09 21:17:09 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

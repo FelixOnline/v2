@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Discussing the Imperial College's carbon footprint!
 date: "2014-06-12 17:54:36 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

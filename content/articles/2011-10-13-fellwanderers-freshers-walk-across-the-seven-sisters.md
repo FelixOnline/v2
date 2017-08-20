@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New students head towards Eastbourne
 date: "2011-10-13 23:29:31 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

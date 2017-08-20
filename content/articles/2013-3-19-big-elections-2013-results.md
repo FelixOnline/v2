@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Just the results, and a link or two...
 date: "2013-03-19 13:17:19 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

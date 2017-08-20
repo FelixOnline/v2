@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Clark Nevola on the Marriage of Figaro at the Royal Opera House
 date: "2013-10-12 00:06:18 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

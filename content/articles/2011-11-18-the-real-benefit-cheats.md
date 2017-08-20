@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The new breed of too-rich-to-pay-tax freeloaders is hollowing out our tax base
 date: "2011-11-18 00:55:44 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

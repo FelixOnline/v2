@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Or, why it might not be such a great idea to make long-term wish lists
 date: "2011-10-14 00:22:21 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

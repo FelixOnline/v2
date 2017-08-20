@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi talks to Trevor de Brauw and Dallas Thomas
 date: "2014-01-24 10:08:26 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

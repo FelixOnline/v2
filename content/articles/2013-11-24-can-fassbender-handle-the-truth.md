@@ -4,7 +4,6 @@ title: >
 subtitle: >
   On paper, The Counsellor should be perfect. Cormac McCarthy’s first original screenplay (a few of his other books have been adapted into screenplays – notably No Country for Old Men and The Road), directed by Ridley Scott, the genius behind Alien and the man with such a passion for McCarthy’s...
 date: "2013-11-24 16:27:35 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

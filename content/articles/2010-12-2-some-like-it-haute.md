@@ -4,7 +4,6 @@ title: >
 subtitle: >
   French gourmet named UN heritage
 date: "2010-12-02 21:00:06 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

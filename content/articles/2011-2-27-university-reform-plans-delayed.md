@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Confusion as government believed it could legally prevent universities charging £9,000
 date: "2011-02-27 12:00:55 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

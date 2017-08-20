@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Death Grips – Government Plates
 date: "2013-12-02 22:14:22 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

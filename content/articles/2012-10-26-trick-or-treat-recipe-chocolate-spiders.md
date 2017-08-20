@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rosemary Peters hopes you like creepy crawlers
 date: "2012-10-26 02:52:24 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

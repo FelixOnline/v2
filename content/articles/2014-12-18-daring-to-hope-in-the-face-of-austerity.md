@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Clark Nevola reviews The Royal Court's new play
 date: "2014-12-18 16:17:57 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

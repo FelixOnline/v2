@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial 1s are smashing the competition
 date: "2017-03-03 16:18:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

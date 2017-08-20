@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hopefully it’ll go better than that time Mike Tyson returned
 date: "2012-11-01 22:52:36 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

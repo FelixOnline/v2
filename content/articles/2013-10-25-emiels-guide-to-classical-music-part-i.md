@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Episode 1: What is Art?
 date: "2013-10-25 00:40:43 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

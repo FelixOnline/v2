@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Football tackles Canterbury on less than ideal terrain, with mixed results...
 date: "2013-02-08 00:14:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

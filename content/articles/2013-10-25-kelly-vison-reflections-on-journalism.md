@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christy Kelly on journalism
 date: "2013-10-25 00:09:54 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

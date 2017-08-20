@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Brian Greene and the controversies surrounding string theory
 date: "2010-11-04 18:41:59 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

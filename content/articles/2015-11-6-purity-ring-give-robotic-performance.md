@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Canadian duo played the Roundhouse
 date: "2015-11-06 14:21:22 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

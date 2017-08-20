@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ice Hockey : Imperial B’s 2 - 10 Warwick B’s
 date: "2011-03-03 21:31:22 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

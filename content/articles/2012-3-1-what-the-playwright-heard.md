@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Morton takes to the Soho Theatre for their current offering
 date: "2012-03-01 22:19:03 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

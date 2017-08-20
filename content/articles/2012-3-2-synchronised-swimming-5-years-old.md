@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The synchronised swimming club blow the candles
 date: "2012-03-02 17:31:10 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

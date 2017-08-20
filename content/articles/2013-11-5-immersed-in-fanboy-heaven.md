@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi reviews Pelican’s long awaited return
 date: "2013-11-05 09:33:59 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

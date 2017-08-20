@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on Valentine's Day (not really)
 date: "2013-02-07 23:07:25 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

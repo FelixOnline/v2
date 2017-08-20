@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fragile Growth
 date: "2012-11-01 22:46:00 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

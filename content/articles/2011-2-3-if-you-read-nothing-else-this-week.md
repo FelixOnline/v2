@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Afonso Campos extoles the virtues of one of America’s finest pieces of modern literature, Midnight in the Garden of Good and Evil
 date: "2011-02-03 19:42:14 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski invites you to visit America’s most unusual town
 date: "2014-01-24 10:05:45 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

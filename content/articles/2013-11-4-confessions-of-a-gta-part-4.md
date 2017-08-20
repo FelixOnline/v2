@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “On a field trip a GTA is the best person to be”
 date: "2013-11-04 11:03:04 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

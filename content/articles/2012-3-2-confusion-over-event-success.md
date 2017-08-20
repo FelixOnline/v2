@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clarification sought over joint university venture
 date: "2012-03-02 01:03:55 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

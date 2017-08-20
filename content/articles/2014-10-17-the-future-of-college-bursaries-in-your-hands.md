@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union President Tom Wheeler explains...
 date: "2014-10-17 15:15:52 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

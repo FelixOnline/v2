@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look back at Le Petit Nicolas – Goscinny and Sempé’s nostalgic masterpiece
 date: "2012-02-16 21:07:56 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

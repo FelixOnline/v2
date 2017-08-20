@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union says issues are being resolved
 date: "2010-12-02 21:59:49 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

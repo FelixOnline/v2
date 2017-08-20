@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The overall winner of the competition was Emma Wills (also a contributor to Felix Science) who wrote an essay Pallab Ghosh’s 9 year old daughter, encouraging her to study Exoplanets when she reaches university.
 date: "2014-03-24 03:30:22 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In very, very brief.
 date: "2013-03-15 00:10:39 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

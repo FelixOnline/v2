@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hassan Joudi assesses the coalition’s new openness website
 date: "2010-11-25 21:18:15 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

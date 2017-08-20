@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Does science fiction stand in the way of progress?
 date: "2011-10-14 00:34:42 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

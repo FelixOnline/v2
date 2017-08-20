@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Everything else has been brought into the present, but the portrayal of women is stuck in the past
 date: "2015-11-06 13:42:20 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

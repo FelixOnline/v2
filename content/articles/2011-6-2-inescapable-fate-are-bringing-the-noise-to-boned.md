@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ...in a big way
 date: "2011-06-02 19:51:53 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

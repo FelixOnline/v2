@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dawkins, rather than being a profiteer, is savvy in providing monetary support for his foundation
 date: "2010-11-04 19:11:47 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

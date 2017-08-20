@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week's editorial...
 date: "2013-11-05 09:26:32 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

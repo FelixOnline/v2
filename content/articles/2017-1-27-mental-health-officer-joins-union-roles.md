@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Disabilities Officer role just doesn't cut it
 date: "2017-01-27 14:13:14 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

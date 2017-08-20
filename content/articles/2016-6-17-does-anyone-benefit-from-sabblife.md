@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The sabbs are a financial drain on college and an emotional drain on everyone around them
 date: "2016-06-17 08:56:34 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

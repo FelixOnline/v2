@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pavitar Devgon delves into the murky past of oxygen
 date: "2011-10-20 21:07:37 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

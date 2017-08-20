@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Changes will have consequences for teams, and will be discussed with captains.
 date: "2012-10-11 20:21:56 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

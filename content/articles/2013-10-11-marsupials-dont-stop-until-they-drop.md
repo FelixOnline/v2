@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Are you dying for sex? Philippa Skett tells us that if you compare yourself to male marsupial mice, you really arenʼt
 date: "2013-10-11 23:19:24 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

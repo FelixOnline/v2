@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Public services should be open to all people, regardless of their beliefs. That so simple a statement should need to be shouted is madness and yet this is exactly what is needed in the UK. The truth is that for all our advances in other areas of human rights, when it comes to religious and belief...
 date: "2013-10-11 23:37:54 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

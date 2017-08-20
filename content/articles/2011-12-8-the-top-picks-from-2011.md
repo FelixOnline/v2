@@ -4,7 +4,6 @@ title: >
 subtitle: >
   2012 is almost upon us, and one must ask themselves: what were the best games of 2011?
 date: "2011-12-08 21:22:14 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

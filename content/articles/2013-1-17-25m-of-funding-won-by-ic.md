@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Researches have all the benjamins, as Puff Daddy/Diddy/whatever he calls himself nowadays may say
 date: "2013-01-17 23:45:55 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

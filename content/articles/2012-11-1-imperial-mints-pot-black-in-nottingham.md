@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “Sharm-el shaken, not stirred”
 date: "2012-11-01 23:04:56 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

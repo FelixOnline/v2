@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Games on how all other sections could be way better
 date: "2014-06-19 18:50:29 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

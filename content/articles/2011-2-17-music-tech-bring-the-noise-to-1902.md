@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto on why he loves Music Tech Society
 date: "2011-02-17 19:58:37 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

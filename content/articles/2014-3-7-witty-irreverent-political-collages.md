@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In Heads of State (1920), two portly figures are pictured in their bathing suits before a feminine backdrop of butterflies, flowers and a woman with a parasol.
 date: "2014-03-07 05:42:22 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

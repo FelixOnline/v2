@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Key Stories from the Holiday Season
 date: "2013-01-10 22:21:55 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

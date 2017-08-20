@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anum Farooq is a little bit lost in nature, and recommends you should be too.
 date: "2011-11-10 20:43:51 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “The released communiqués read more like a political edition of Heat magazine”
 date: "2010-12-02 20:10:29 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

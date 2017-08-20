@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Overtime cup progression for the mighty Rugby 2s
 date: "2015-11-20 09:47:40 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Is science emotional? Clara Clark Nevola interviews theatre maker Tom Espiner about the play Going Dark to find out
 date: "2014-02-21 03:14:11 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

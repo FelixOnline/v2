@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken gives a brief overview of what you need to know about the SNP before heading to the polling station in May
 date: "2015-03-29 23:06:37 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

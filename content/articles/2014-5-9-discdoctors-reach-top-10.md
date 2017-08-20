@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ed Parker reports from Manchester
 date: "2014-05-09 15:53:46 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

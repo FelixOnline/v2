@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial 1st 2–6 Bath 1st.
 date: "2011-03-03 08:29:49 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

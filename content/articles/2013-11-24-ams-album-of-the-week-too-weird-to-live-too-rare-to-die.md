@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Panic! At the Disco – Too Weird to Live, Too Rare to Die!
 date: "2013-11-24 16:25:13 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

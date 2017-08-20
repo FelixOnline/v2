@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Foilists foiled by University of London team
 date: "2011-01-13 20:21:42 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Olisa Ufodiama laments a loss, but appreciates the high score
 date: "2012-11-23 00:13:56 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

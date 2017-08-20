@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But Union Court quashes decision due to unconstitutional voting procedure
 date: "2011-06-16 18:54:10 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

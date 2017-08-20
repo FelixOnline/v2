@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A pondering on a fair system
 date: "2013-03-07 23:41:41 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

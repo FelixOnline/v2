@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sage(!) advice on how to shop, cook and eat smart - fresher’s 15 begone!
 date: "2013-10-12 19:55:30 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

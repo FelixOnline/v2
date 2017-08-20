@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I love Justin Bieber. There, I said it, I outed myself as a Belieber.
 date: "2014-01-31 17:50:29 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

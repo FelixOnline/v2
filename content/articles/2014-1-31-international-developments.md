@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hugo Paquet explores international development
 date: "2014-01-31 17:49:54 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

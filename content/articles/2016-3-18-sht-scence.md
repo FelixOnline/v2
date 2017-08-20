@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists shocked to discover booze and pot make students horny
 date: "2016-03-18 11:49:50 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

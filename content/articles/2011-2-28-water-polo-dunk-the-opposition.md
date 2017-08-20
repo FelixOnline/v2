@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC Mixed 8 - 5 UCL Mixed
 date: "2011-02-28 21:43:20 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

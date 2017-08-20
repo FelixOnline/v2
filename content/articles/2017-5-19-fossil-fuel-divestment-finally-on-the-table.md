@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fossil fuel funding may soon be withdrawn
 date: "2017-05-19 14:57:36 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

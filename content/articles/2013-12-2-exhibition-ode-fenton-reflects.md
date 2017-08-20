@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "I’ll never again get to live in South Kensington. More precisely, I’ll never again get to live beside Exhibition Road. I’ll miss it."
 date: "2013-12-02 17:09:59 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

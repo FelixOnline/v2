@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The RCSU initiative is now in its 9th year
 date: "2015-12-11 15:23:47 +0000"
-image: "http://felixonline.co.uk/"
 draft: true
 headline: true
 featured: true

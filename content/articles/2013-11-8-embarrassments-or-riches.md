@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi examines a few new(ish) releases
 date: "2013-11-08 09:57:49 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

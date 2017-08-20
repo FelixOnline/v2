@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An anonymous student shares their story of the damage done by misconceptions about consent
 date: "2016-11-11 14:00:08 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Almost every memorable moment as a GTA is both wonderful and terrible. Some are so bad that they’re good in retrospect (though some are just bad), and sometimes being a GTA makes you so happy that you can’t help but love your job.
 date: "2014-06-23 14:42:32 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

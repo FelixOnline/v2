@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial is to host a new centre focussed on preventing cyber attacks against UK industry and infrastructure.
 date: "2014-01-17 03:03:14 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christy Kelly on the Nobel Prizes
 date: "2013-10-25 00:08:54 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

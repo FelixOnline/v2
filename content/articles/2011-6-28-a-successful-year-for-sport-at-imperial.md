@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look back at a year of sport
 date: "2011-06-28 12:10:11 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

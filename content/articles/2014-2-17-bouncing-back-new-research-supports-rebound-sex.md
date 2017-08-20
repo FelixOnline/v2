@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s official: the popular belief that people who have been dumped are more likely to have “rebound” sex is true, at least among students.
 date: "2014-02-17 17:15:04 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oscar favorite for best motion picture.
 date: "2011-01-27 20:09:14 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

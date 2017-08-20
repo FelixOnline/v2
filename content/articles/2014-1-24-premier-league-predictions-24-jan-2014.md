@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James White gives his midweek predictions
 date: "2014-01-24 10:04:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

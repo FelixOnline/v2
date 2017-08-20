@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After a week of controversy, Abigail Sawyer looks into the chemistry of cryogenics
 date: "2016-11-25 13:35:09 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

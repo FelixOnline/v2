@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Titus Andronicus: Local Business
 date: "2012-11-01 23:12:36 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Douglas Heaven investigates the latest hereditary discoveries surrounding the heart
 date: "2011-10-19 11:09:54 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

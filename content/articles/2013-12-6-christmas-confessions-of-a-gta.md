@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There will come a time when you don’t have to work at Christmas
 date: "2013-12-06 04:04:58 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

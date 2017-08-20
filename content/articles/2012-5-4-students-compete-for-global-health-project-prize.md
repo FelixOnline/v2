@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Prize of £2,000 goes towards student project
 date: "2012-05-04 00:26:40 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

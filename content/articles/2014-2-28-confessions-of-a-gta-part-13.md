@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week the GTA describes the doom of the non-believer
 date: "2014-02-28 07:14:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

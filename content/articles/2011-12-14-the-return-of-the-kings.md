@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Donmar reaches the end of a golden era with Shakespeare’s Richard II, and Michael Grandage as artistic director
 date: "2011-12-14 11:16:38 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

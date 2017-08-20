@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Staff and students continue to band behind staff bar
 date: "2012-02-03 00:37:52 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

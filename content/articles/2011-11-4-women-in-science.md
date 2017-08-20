@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Science Editor Kelly Oakes on why improvements must still be made to the science gender imbalance
 date: "2011-11-04 09:38:49 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

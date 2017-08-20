@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on the recent North Acton announcement. Unfortunately space meant some points had to be stressed rather than touching on all the issues. There are more problems than those mentioned here.
 date: "2013-02-21 23:15:39 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

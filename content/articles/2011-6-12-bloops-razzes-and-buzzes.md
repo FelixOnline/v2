@@ -4,7 +4,6 @@ title: >
 subtitle: >
   DJ Niceberg on his neo-rave madness
 date: "2011-06-12 16:06:04 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

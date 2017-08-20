@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Multimillion pound redevelopment “significantly worsened” student facilities
 date: "2015-12-04 15:07:37 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

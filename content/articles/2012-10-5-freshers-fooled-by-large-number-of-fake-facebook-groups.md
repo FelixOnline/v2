@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Every halls has a non-official group made
 date: "2012-10-05 16:04:09 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

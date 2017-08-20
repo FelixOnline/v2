@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Beneath the differences between Wittgenstein’s Tractatus-Logico Philosophicus and his Philosophical Investigations there is a more fundamental continuity between the texts. This article relies heavily on two books, Alain Badiou’s Wittgenstein’s Anti-Philosophy ...
 date: "2014-02-07 05:09:19 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

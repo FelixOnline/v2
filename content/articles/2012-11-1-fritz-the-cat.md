@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christian Franke talks way too deeply to a stranger about a classic
 date: "2012-11-01 23:01:20 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   (spoilers rife!)
 date: "2012-10-18 21:36:01 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

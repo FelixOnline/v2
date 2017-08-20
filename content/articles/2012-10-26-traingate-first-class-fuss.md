@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Adam Clancy asks if it’s fare to criticise the Chancellor
 date: "2012-10-26 02:37:18 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

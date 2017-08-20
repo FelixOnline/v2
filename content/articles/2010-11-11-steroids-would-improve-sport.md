@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We should relax the rules on performance enhancing drugs
 date: "2010-11-11 21:37:28 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

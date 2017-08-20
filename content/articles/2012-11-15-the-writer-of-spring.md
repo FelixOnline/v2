@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Medic playwright on the creative process
 date: "2012-11-15 21:24:12 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

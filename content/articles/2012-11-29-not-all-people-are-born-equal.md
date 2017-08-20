@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yasser Mahmoud on the recent conflict in Gaza
 date: "2012-11-29 23:12:12 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

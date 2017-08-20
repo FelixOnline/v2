@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Surviving the exam period with a tasty alternative to Subway
 date: "2011-06-12 16:14:21 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

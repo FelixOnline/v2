@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rachel Gregory describes the action
 date: "2014-01-17 04:44:31 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

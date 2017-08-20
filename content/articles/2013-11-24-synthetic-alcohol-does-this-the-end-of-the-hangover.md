@@ -4,7 +4,6 @@ title: >
 subtitle: >
   For those reading this hungover in bed after that “quick pint” on a Thursday evening turned into a free for all, we have good news. It seems that our very own Professor Nutt, previous government advisor and keen advocate of drug legalisation, has finally identified candidate molecules...
 date: "2013-11-24 16:05:01 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

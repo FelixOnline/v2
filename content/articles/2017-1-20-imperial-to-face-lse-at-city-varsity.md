@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A budding new rivalry?
 date: "2017-01-20 14:51:57 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

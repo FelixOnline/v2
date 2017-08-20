@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial about losing touch as you age.
 date: "2012-11-29 21:42:49 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

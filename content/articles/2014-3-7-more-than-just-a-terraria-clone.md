@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Calum Skene, chopping and mining for survival as he is bound for the stars
 date: "2014-03-07 06:00:14 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial’s girls put impressive score on rivals
 date: "2010-12-02 20:38:13 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

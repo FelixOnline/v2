@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We have a new generation of mourners
 date: "2011-11-18 00:32:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

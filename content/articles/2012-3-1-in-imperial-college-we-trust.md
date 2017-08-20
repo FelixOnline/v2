@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An anonymous contributor criticises the Union's choice to allocate funding away from the 'tours pot'
 date: "2012-03-01 22:55:42 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

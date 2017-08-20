@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Full changes to be circulated by Monday. Agreed to in principle by Council. Changes to structure of some Boards
 date: "2012-10-11 20:23:05 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

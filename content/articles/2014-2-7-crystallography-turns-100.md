@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Bezer on the triumphs of one of the most influential scientific techniques
 date: "2014-02-07 05:13:55 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

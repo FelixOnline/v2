@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hugh Mackenzie can't read a course map, but can run and cycle pretty well
 date: "2013-02-13 15:52:02 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Laurence Pope reviews DramSoc's most recent production
 date: "2012-03-08 20:29:34 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

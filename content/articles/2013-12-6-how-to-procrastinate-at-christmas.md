@@ -4,7 +4,6 @@ title: >
 subtitle: >
   And not feel (too) guilty about it
 date: "2013-12-06 04:06:16 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

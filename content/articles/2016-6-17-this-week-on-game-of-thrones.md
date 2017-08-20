@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s season six, episode eight!
 date: "2016-06-17 09:33:06 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

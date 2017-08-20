@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Imperial College Healthcare Trust, which runs five London hospitals including St Mary’s and Charing Cross. has announced the appointment of a new Chief Executive.
 date: "2014-02-28 07:11:35 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

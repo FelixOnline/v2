@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As the year comes to a close we hear from the Felix Editor and his successor.
 date: "2014-06-23 14:34:50 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

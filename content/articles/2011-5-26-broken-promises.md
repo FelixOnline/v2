@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College Council haven’t delivered on the teaching review
 date: "2011-05-26 19:27:05 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

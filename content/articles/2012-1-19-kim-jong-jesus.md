@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Exploring the idea of a be-all-end-all being
 date: "2012-01-19 20:49:24 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The path of least resistance is the worst path you can take
 date: "2011-10-07 01:48:37 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC 2s 1-1 Medicals 2s
 date: "2011-03-01 21:30:40 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

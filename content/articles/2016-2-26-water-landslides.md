@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Landslides aren't just dirt
 date: "2016-02-26 11:32:59 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at some of the best and worst dressed celebrities attending the prestigious event in Los Angeles
 date: "2015-02-12 23:50:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

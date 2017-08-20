@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Like, tweet, or comment on this page to help us beat the London Student newspaper on day eleven of our 30-day Song Challenge duel
 date: "2011-05-30 10:40:21 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

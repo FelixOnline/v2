@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Violence of previous protests avoided
 date: "2011-02-03 19:52:39 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

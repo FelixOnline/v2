@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Researchers discover gene that is linked to higher alcohol consumption
 date: "2011-05-06 08:13:33 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

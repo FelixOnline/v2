@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Google announced as main event sponsor
 date: "2012-02-09 22:44:23 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

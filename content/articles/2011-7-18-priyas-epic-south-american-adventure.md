@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Priya's Epic South American Adventure
 date: "2011-07-18 12:45:22 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

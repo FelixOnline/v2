@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Residential Experience review was announced by College at the start of the year. The aim of this review is to improve the residential experience students at Imperial have.
 date: "2014-02-21 03:03:08 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

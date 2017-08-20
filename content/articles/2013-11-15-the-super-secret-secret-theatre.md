@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Buy the ticket – take the ride
 date: "2013-11-15 02:30:38 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

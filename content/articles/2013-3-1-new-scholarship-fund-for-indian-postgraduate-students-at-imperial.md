@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alumni help to create funded degrees
 date: "2013-03-01 00:43:20 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sometimes, there are really busy weeks, and sometimes there are quiet weeks.
 date: "2014-05-09 02:11:59 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

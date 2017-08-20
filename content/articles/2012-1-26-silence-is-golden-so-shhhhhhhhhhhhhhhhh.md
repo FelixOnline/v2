@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lucy Wiles takes a look at this twelve-time BAFTA nominated French offering
 date: "2012-01-26 22:19:14 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

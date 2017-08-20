@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Douglas Heaven checks out Refused
 date: "2011-10-21 11:30:03 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

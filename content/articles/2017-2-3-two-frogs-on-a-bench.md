@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2017-02-03 16:36:58 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

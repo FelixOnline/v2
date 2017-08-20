@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Food tells you all about the crispy potatoes pieces
 date: "2014-02-21 03:34:47 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fiona Hartley explores how green a city will actually be. Can the hopes be true? Do we have a trendsetter(/badass) on our hands?
 date: "2012-11-22 23:20:34 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

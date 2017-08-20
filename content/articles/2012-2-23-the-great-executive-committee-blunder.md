@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Henry Abbot criticizes the Union's decision to cut Clubs and Societies' funding by 10% despite an underspend below 4%
 date: "2012-02-23 20:19:05 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

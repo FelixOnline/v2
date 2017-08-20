@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cafe Oto, Dalston Kingsland Wednesday 9, November
 date: "2011-11-03 20:43:14 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

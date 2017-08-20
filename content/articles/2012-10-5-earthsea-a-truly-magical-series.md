@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski takes a look at some fantasy
 date: "2012-10-05 11:27:17 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

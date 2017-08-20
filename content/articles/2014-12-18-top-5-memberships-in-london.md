@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Leese looks at the capital's best art memberships
 date: "2014-12-18 15:38:37 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Twilight may be annoying, but it does actually have decent music
 date: "2011-11-10 21:48:56 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

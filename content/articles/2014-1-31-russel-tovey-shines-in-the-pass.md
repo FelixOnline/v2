@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With the latest revelation from Thomas Hitzlsperger, and Tom Daley’s recent announcement that he is in a gay relationship, the topic of high profile sportsman and homosexuality is currently much discussed.
 date: "2014-01-31 18:05:23 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

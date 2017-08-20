@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why the Coalition Government should tread carefully
 date: "2014-01-24 09:51:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

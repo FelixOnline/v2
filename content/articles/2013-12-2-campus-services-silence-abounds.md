@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Do Campus Services truly care about their stakeholders?
 date: "2013-12-02 12:33:51 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

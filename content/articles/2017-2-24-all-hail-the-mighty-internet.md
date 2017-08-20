@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Do you remember the days when you had to actually chat to your friends or neighbours or call your mom to find out how to cook something new? Well, neither do I, because we’re all used to using the almighty godly internet instead.
 date: "2017-02-24 15:21:01 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

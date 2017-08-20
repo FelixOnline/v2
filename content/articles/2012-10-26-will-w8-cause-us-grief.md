@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yong Wen Chua tries to decide if Windows 8 is a good thing or not
 date: "2012-10-26 02:25:06 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

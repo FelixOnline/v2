@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A quick word on the GPA. All too quick, unfortunately.
 date: "2013-06-06 18:07:44 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

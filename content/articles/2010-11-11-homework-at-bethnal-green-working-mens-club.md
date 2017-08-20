@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Homework is one of the less racy nights held at BGWMC, making for an ideal, gentle midweek night out
 date: "2010-11-11 20:12:07 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

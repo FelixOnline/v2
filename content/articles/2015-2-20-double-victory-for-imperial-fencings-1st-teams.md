@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Men's and women's first team achieve wins in first round of BUCS Fencing Championship
 date: "2015-02-20 00:32:07 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

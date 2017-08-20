@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New Jeeves & Wooster play is laugh out loud funny, says George Shillam
 date: "2013-11-24 16:13:02 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

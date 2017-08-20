@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What are you saying by wearing a poppy?
 date: "2015-11-06 13:45:19 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

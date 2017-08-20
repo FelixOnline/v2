@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Clark Nevola checks out this Palestinian work
 date: "2015-05-29 12:39:55 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

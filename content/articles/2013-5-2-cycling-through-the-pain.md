@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Dixon listens to Reggae and 5 other unknown mixtapes
 date: "2013-05-02 12:14:48 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

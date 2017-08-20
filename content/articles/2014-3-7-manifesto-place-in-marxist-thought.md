@@ -4,7 +4,6 @@ title: >
 subtitle: >
   To round up my three weeks of commentary on the Manifesto, I shall try and place it in Marxist thought. I was originally going to write a short critique of Marxist thought but it quickly grew to an unreadable length and so I have settled for this slightly less ambitious task.
 date: "2014-03-07 04:54:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

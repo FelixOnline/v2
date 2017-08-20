@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Vicky Solli gives her account as Imperial run against “roadkill fox”
 date: "2013-11-05 09:53:51 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

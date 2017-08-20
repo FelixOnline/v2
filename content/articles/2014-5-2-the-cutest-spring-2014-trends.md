@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Spring is here and the sun has come out, so its time to update your wardrobe! These trends are sure to keep you cool in the sun
 date: "2014-05-02 01:35:39 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Battle of Ideas
 date: "2012-10-11 20:42:18 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

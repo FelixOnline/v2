@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students and staff can still fill it out
 date: "2013-02-14 13:15:46 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

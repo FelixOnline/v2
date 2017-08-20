@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Clark Nevola takes on the ENO's gospel interpretation
 date: "2014-12-18 16:07:12 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

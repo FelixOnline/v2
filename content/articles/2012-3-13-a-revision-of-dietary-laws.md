@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chewing over dietary restrictions
 date: "2012-03-13 14:19:41 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

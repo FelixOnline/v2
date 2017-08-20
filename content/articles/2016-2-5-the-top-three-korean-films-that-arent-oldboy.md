@@ -4,7 +4,6 @@ title: >
 subtitle: >
   No, the original.
 date: "2016-02-05 12:33:04 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

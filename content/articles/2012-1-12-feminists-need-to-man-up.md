@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Marie-Laure Hicks on the mis-portrayal of today's "feminists"
 date: "2012-01-12 21:44:16 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

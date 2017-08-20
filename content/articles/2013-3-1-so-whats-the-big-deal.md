@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A Food editorial on pasta, by Carol Ann Cheah
 date: "2013-03-01 00:05:13 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

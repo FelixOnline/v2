@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Silwood Park music festival hailed as a 'massive success' by organisers
 date: "2011-10-06 23:26:17 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

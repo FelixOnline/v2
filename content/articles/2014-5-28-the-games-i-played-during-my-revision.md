@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Studying is important, but so is taking a break. Here I take a break in style!
 date: "2014-05-28 21:37:52 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

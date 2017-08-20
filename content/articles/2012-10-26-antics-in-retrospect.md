@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Hooftman looks back at Interpol’s sophomore album
 date: "2012-10-26 03:16:07 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

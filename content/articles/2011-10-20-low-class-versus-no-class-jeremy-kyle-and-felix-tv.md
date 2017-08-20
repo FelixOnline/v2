@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Offended by last week's Felix? So was this guy.
 date: "2011-10-20 22:42:10 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

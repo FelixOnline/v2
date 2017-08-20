@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alleged animal cruelty during the filming of the Tolkien stories’ film franchise
 date: "2012-11-29 23:09:25 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

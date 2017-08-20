@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Few people could have escaped the popularity of the Netflix political drama series House of Cards. However, the US show is actually a remake of a 1990s British TV miniseries of the same name.
 date: "2014-03-07 05:56:23 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

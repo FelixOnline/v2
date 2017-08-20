@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The letter to College about the North Acton halls, Evelyn Gardens, and Garden Hall.
 date: "2013-02-22 00:12:14 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

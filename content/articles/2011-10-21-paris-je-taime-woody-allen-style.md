@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Midnight in Paris is effective, moving and humble
 date: "2011-10-21 09:53:46 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

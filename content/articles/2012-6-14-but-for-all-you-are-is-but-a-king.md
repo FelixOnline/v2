@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But for all you are is but a King
 date: "2012-06-14 20:55:31 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

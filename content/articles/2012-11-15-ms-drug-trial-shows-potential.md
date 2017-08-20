@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nick Kennedy on a potential cure to an awful disease
 date: "2012-11-15 21:03:20 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I was initially cautious, sticking to journeys through parks and laughing with unbridled joy as I left hapless pedestrians and the occasional horse in my wake. What chance did they stand? The bicycle was the vehicle of the future and I its shiny jacketed prophet.
 date: "2013-11-15 02:24:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

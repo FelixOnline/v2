@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There are questions to be answered about Justice Week
 date: "2010-11-25 21:41:45 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

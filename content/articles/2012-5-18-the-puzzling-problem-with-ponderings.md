@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Something to mull over
 date: "2012-05-18 06:36:39 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

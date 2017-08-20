@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How you can have a good business model with great marketing
 date: "2012-10-11 20:40:08 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

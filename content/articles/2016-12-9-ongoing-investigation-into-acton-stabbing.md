@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College offers support to any students feeling affected
 date: "2016-12-09 11:58:42 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

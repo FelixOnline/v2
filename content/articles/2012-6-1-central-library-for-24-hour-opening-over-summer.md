@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Work around the clock?
 date: "2012-06-01 12:04:02 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

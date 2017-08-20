@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Canada’s NDP has done what the Lib Dems couldn’t says Tagore Nakornchai
 date: "2011-05-12 19:24:55 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

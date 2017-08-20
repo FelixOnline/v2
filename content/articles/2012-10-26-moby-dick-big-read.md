@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A great way to hear Moby Dick
 date: "2012-10-26 02:45:35 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

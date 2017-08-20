@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Saying goodbye isn’t easy, no matter how often you do it
 date: "2011-06-23 20:44:32 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

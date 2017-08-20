@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Keir Little, Science Editor brings you up to date with discoveries happens over the summer
 date: "2013-09-29 14:48:34 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

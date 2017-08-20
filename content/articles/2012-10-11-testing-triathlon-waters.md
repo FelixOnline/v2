@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sarah Lewis tells you all you need to know about the Triathalon
 date: "2012-10-11 20:30:01 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

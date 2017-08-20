@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emma Donoghue’s Room – an exploration of the psychology of isolation and abduction
 date: "2012-05-18 16:22:48 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

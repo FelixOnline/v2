@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial seals the deal in the dying seconds
 date: "2011-02-24 20:11:27 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

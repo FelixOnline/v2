@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College Symphony Orchestra play Rachmaninov, Khachaturian and Beal…
 date: "2013-11-24 23:57:51 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

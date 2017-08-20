@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Having read Christy Kelly’s article last week asking “Does discrimination dominate in India?”, I couldn’t help but think of the simple answer: yes.
 date: "2014-06-23 13:11:28 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

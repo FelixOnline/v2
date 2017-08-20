@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Research from the 60s vindicated by new developments
 date: "2012-01-19 20:05:35 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

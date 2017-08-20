@@ -4,7 +4,6 @@ title: >
 subtitle: >
   LA Philharmonic's performance is a tour through favourites old and new.
 date: "2016-03-23 14:50:48 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

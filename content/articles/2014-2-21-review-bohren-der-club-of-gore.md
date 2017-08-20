@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi looks at the German band’s new effort - Piano Nights
 date: "2014-02-21 03:31:39 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

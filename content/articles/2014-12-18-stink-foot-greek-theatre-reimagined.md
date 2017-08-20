@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Peter Sarvari heads along to the Yard Theatre, where treacle meets tragedy
 date: "2014-12-18 16:09:34 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

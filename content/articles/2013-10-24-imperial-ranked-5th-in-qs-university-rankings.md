@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College above Oxford in QS World Rankings 2013-14
 date: "2013-10-24 23:32:57 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

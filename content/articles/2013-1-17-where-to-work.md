@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial written in the midst of a dilemma about what to do with the rest of my life.
 date: "2013-01-17 23:44:37 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett discusses the benefits of ecstasy, and the laws limiting science
 date: "2014-01-24 09:59:56 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

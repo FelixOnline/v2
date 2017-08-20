@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bohemian Like Them
 date: "2013-02-01 00:42:51 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

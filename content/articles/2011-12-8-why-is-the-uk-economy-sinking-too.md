@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If the Good Ship Eurozone goes down, we are going down with her, explains Albert Nickelby
 date: "2011-12-08 20:47:14 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

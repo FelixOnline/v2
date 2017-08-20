@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The evolution of blonde hair
 date: "2012-06-01 13:49:46 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

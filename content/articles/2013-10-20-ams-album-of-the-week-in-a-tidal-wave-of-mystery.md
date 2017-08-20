@@ -4,7 +4,6 @@ title: >
 subtitle: >
   George Spence-Jones reviews an album by Capital Cities
 date: "2013-10-20 01:53:18 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

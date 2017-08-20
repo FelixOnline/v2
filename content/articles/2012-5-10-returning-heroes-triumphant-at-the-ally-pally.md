@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bombay Bicycle Club command the stage
 date: "2012-05-10 20:06:06 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

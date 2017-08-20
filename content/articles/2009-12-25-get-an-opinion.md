@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Worrying about offending people makes celebrities bland
 date: "2009-12-25 00:49:48 +0000"
-image: "http://felixonline.co.uk/"
 draft: true
 headline: true
 featured: true

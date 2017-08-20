@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial surgeon Mr. Hutan Ashrafian has recently diagnosed a picture of Leonardo Da Vinci’s Vitruvian Man
 date: "2014-02-21 03:03:43 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

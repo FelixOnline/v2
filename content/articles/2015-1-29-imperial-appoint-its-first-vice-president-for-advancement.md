@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Role will look to address and improve alumni relations
 date: "2015-01-29 23:38:48 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

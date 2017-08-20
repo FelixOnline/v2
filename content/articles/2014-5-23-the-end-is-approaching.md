@@ -4,7 +4,6 @@ title: >
 subtitle: >
   So, you’re halfway through term time and you’re probably wondering what has happened, it’s almost the end of May and the end of term soon approaches.
 date: "2014-05-23 13:52:28 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

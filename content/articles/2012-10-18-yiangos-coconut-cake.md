@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Better than chocolate cake?
 date: "2012-10-18 21:49:31 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

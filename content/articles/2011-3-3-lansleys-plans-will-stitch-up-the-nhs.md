@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With cost the driving factor, quality of care will suffer
 date: "2011-03-03 21:06:46 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

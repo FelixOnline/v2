@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Latest adaptation of Dracula has yet to impress
 date: "2013-11-24 16:33:51 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

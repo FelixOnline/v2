@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A Holland based pun for an editorial suggesting a solution to the Holland Club issue
 date: "2012-11-23 12:22:45 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

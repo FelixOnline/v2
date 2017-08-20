@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Members of staff give their opinions on improving teaching and coursework feedback
 date: "2010-10-07 22:13:59 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

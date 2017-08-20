@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As the Felix centrefold teaches us, nudity is no laughing matter
 date: "2011-03-03 20:59:14 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

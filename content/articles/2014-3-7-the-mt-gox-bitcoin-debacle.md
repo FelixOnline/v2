@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yong Wen Chua, on the dangers of trusting an online currency
 date: "2014-03-07 06:03:25 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

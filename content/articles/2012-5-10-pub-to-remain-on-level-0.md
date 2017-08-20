@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Holland Club set to be saved in College U-Turn
 date: "2012-05-10 19:10:14 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

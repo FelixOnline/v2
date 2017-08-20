@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Make use of upcoming postgraduate panel
 date: "2012-02-09 23:17:20 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

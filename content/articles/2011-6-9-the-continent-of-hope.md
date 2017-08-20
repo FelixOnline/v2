@@ -4,7 +4,6 @@ title: >
 subtitle: >
   asfgadfasdfad
 date: "2011-06-09 20:21:43 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

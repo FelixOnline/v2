@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The most pant-wettingly scary Halloween ever
 date: "2010-10-28 19:17:23 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How the coalition plans to change higher education
 date: "2011-11-03 20:05:41 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

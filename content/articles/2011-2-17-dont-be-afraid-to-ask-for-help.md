@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Though it’s not weak to ask for help, people often perceive this to be the case
 date: "2011-02-17 20:05:07 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

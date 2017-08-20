@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Professor Ortwin Hess speaks to Keir Little about his research
 date: "2013-12-02 21:55:23 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

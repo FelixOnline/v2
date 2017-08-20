@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles gets a glimpse of the works of Warhol, Burroughs and Lynch
 date: "2014-01-24 09:48:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

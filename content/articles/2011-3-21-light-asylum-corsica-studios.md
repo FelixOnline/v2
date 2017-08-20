@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Luke Turner on the New York pair with enough-balls-to-bust-up-Schwarzenegger
 date: "2011-03-21 14:36:38 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

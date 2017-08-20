@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC 1st 53-7 St. Mary’s 2nd. By David Wilson
 date: "2011-02-27 20:01:40 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Belt-tightening continues with Outreach and Volunteer Centre the latest victims
 date: "2010-11-11 22:01:12 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

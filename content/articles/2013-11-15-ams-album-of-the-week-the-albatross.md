@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Foxing released an EP last year called Old Songs. I did not care for it.
 date: "2013-11-15 18:08:22 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

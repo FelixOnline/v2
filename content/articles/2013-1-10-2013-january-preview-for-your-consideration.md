@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What to look out for after exams
 date: "2013-01-10 23:14:29 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

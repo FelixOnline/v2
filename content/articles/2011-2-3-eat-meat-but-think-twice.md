@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The book that will make you a conscientious omnivore
 date: "2011-02-03 19:30:15 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

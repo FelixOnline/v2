@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles goes underground as part of the Waterloo Vaults Festival
 date: "2014-02-14 03:26:48 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

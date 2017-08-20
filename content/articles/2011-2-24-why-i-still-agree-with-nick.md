@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Liberal Democrats are doing the right thing argues Tagore Nakornchai
 date: "2011-02-24 20:06:25 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

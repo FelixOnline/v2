@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sam Furse on how the world needs to move on up
 date: "2012-01-19 20:32:59 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Just a standard horror film? Well, the star is a bit slow to grasp the plot
 date: "2012-10-11 21:09:10 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

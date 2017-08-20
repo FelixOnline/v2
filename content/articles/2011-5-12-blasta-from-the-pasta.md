@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Berlusconi’s disregard for democracy is reminiscent of another Italian strongman
 date: "2011-05-12 19:28:55 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

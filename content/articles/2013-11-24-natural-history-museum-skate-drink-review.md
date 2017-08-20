@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There’s currently a student skating offer on at the Natural History Museum’s ice rink. All day Mondays and Tuesdays until December 3, students can skate for £8.50 with a free drink at the Café Bar. If you present your student ID when booking tickets at the box office and then save your ticket...
 date: "2013-11-24 15:54:20 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

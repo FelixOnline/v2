@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Four years of Felix
 date: "2011-06-23 20:41:03 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

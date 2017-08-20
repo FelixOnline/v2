@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Paul Nugent gives the juicy details
 date: "2013-11-25 00:00:48 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

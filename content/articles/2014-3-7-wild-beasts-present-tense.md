@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Prior to writing this review, I stumbled upon a recent YouTube recording of Wild Beasts performing a mellow and slightly mocking rendition of Miley Cyrus’ Wrecking Ball.
 date: "2014-03-07 05:47:10 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

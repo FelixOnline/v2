@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Chemistry Department’s Royal College of Science building was closed for a short time last week as a result of a suspected gas leak.
 date: "2014-02-07 04:56:19 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

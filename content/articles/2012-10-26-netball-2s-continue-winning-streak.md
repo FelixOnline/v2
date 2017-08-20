@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Toni Semmence gently boasts about Netball 2s dominance
 date: "2012-10-26 03:04:10 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

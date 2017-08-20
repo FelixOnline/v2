@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kieran Ryan is inspired by the words of Neil Gaiman
 date: "2014-12-18 16:10:40 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

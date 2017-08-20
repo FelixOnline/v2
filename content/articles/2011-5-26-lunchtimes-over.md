@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But it's not all bad
 date: "2011-05-26 19:24:05 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

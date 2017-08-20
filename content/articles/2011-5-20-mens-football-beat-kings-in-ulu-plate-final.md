@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Football complete Plate and Cup double after overcoming spirited King’s
 date: "2011-05-20 02:49:11 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

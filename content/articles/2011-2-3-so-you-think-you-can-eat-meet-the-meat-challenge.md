@@ -4,7 +4,6 @@ title: >
 subtitle: >
    The sheer drama of waving around metal stakes is thrilling...
 date: "2011-02-03 18:52:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

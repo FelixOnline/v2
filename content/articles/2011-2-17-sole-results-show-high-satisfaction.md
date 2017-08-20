@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Results of the 2010 Autumn Student Online Evaluation (SOLE) survey released
 date: "2011-02-17 19:43:50 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

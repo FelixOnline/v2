@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Did the House of Lords overstep the mark in delaying proposed tax credit cuts?
 date: "2015-10-30 13:07:59 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

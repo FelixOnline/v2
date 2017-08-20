@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Catching up with the Indian film industry with Aamir Shamsi
 date: "2011-05-30 12:08:43 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

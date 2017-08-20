@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Secrets of early humans' journey to Australia unlocked
 date: "2011-10-07 09:54:14 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

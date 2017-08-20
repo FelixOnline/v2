@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Debating saw success at the World University Debating Championships.
 date: "2014-01-24 09:39:37 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on halls, the new campus, BUCS, elections, and a quick good luck for exams...
 date: "2013-03-14 23:57:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

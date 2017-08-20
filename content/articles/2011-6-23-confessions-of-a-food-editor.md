@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I hate reviewing if I haven't paid
 date: "2011-06-23 21:11:35 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

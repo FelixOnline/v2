@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lighter than the pile of revision notes an arts student makes. Take THAT arts students.
 date: "2013-05-22 14:30:34 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

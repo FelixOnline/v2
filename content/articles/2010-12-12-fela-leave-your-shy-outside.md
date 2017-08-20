@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELA! is a shocking window into 70s Nigeria
 date: "2010-12-12 17:10:45 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

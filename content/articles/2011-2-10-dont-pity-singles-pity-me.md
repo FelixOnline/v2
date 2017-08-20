@@ -4,7 +4,6 @@ title: >
 subtitle: >
   To alleviate the panic this year, I will be attempting to go abroad with Mrs Geek
 date: "2011-02-10 21:15:00 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

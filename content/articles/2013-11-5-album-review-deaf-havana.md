@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This show made me realise they’re not wrong (maybe grammatically, but, you know…). Surrounded by teenagers having the time of their young lives, I came to the startling realisation that I am no longer young.
 date: "2013-11-05 09:37:40 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

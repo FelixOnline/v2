@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dutch citizens to have restrictions placed on smoking activities
 date: "2011-11-24 22:18:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

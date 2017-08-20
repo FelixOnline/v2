@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jamie's 15 minute meals that actually take about 150 minites
 date: "2013-01-10 23:02:55 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

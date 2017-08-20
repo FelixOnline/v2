@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Remember how awful it is when an American actor tries to unsuccessfully imitate an English accent? Well here is the perfect example of where the opposite has gone completely wrong.
 date: "2013-11-24 16:31:36 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

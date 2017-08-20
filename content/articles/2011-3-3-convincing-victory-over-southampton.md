@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Second victory for Hockey Women's 1sts
 date: "2011-03-03 08:25:40 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

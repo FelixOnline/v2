@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Aemun Reza looks at The Times’ league tables to see our place
 date: "2012-10-18 21:53:40 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   International Council for Science recognise new guidelines for scientists
 date: "2011-10-07 09:47:09 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

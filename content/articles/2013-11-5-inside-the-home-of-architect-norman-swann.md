@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Scandinavian duo Elmgreen and Dragset’s Tomorrow exhibition is quite unlike anything else you would likely come across in the rest of the V&A. Everything is arranged to be touched, to be rummaged through. It places the viewer in the role of voyeur, passing uninvited through the house of Norman..
 date: "2013-11-05 09:29:02 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

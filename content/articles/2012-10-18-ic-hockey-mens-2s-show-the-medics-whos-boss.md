@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Bell reports
 date: "2012-10-18 21:10:50 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

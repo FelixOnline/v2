@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fiona Hartley tells us why scientists will soon be adding a new weapon to our arsenal against flu
 date: "2013-10-04 00:30:55 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

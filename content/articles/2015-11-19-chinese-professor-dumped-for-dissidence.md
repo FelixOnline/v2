@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After a colleague reported his social media updates, he found himself demoted from his management position
 date: "2015-11-19 22:28:24 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

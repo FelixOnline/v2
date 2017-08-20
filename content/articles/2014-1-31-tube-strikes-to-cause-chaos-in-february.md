@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Transport for London have announced that next week there will be disruption to underground travel.
 date: "2014-01-31 17:13:48 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

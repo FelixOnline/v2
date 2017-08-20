@@ -4,7 +4,6 @@ title: >
 subtitle: >
   40 unarmed people killed as tribal violence escalates
 date: "2011-05-12 19:31:52 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

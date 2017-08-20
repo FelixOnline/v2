@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Episode 2: In the beginning...
 date: "2013-11-05 09:38:50 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Visiting the Serpentine Gallery, situated in the middle of Hyde Park, usually constitutes a pleasant lunchtime distraction...
 date: "2013-12-06 04:16:02 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

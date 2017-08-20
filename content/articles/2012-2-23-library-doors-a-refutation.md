@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The new library doors are "a menace", says Ned Yoxall
 date: "2012-02-23 20:40:54 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

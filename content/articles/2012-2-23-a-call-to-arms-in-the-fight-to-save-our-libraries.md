@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You! Yes you there! Considering closing libraries down?
 date: "2012-02-23 20:34:54 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

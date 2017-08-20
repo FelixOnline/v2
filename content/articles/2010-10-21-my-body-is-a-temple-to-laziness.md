@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I suppose I’m just a traditionalist. Where the tradition is dying young and leaving a bloated corpse
 date: "2010-10-21 18:55:25 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

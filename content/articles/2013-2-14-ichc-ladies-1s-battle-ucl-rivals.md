@@ -4,7 +4,6 @@ title: >
 subtitle: >
   UCL, bitter rivals...
 date: "2013-02-14 19:30:44 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

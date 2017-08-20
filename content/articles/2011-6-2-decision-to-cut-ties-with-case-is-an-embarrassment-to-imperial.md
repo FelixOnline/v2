@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It should be reversed immediately
 date: "2011-06-02 19:25:12 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

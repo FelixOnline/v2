@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Calum Grant discusses a book about bankers
 date: "2013-11-05 09:33:22 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

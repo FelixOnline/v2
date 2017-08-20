@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It is easy to forget that you have the option to just… stop
 date: "2011-01-20 21:01:47 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

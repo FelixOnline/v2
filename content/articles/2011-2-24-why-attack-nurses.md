@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Do nurses deserve the brunt?
 date: "2011-02-24 20:31:46 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

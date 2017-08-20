@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Loughborough top the poll for the fifth year running
 date: "2011-02-28 21:16:53 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

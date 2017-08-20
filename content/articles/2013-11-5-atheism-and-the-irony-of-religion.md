@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Irony has always been, well, ironic. Take for example Aristophanes, great ancient Greek satirist of whom Nietzsche said ‘that transfiguring, complementary genius, for whose sake one pardons all of Hellenism for having existed’, and his play The Clouds.
 date: "2013-11-05 09:25:30 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

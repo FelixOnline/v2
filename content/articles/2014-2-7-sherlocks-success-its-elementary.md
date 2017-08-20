@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emily Fulham considers a competitor to Sherlock’s crown
 date: "2014-02-07 04:45:23 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

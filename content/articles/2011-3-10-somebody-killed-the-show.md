@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This version of Hitchcock’s classic 'Dial M for Murder' seemed to be more of a technical run through than an opening night
 date: "2011-03-10 20:16:55 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

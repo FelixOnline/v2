@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A less 'mainstream' view of Formula 1
 date: "2010-12-09 20:19:05 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

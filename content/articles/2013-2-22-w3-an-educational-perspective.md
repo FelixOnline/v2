@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The educational experience of future first-years will sufer as a result of being housed in North Acton, says Doug Hunt
 date: "2013-02-22 01:43:13 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

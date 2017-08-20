@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College Finance Society successfully hosts the Conference for its 5th year
 date: "2016-02-26 12:09:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

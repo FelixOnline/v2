@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The relationship between the print and web version of Felix
 date: "2011-05-12 19:14:30 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

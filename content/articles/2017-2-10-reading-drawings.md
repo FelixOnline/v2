@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Despite its efforts at making ancient scribbles interesting, Reading Drawings remains slightly too academic for the general public
 date: "2017-02-10 15:53:19 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s an unbelievably touching story of human survival, love, and forgiveness.
 date: "2014-01-17 04:09:33 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

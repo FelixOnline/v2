@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This is a time of great change for students and universities. So make sure your opinions are heard
 date: "2010-10-01 22:30:46 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

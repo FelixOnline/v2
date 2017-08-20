@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two tickets up to grab at the RCSU Science Challenge launch
 date: "2011-12-08 20:07:14 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

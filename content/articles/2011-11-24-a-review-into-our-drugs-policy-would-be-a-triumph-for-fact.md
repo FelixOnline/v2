@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix praises the work of Baroness Manningham-Buller
 date: "2011-11-24 22:40:22 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

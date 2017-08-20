@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ....a bit
 date: "2017-06-02 12:48:03 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

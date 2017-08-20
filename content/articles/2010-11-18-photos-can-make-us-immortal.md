@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What I’m saying is that photos should be our biographies. And unlike written ones, they’re easy to make
 date: "2010-11-18 22:13:43 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

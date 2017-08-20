@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maija-lisa Han reports on the 4th International Mediterranean Open
 date: "2011-02-17 20:56:15 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dwarves are useless and can’t do anything, whilst Wood Elves and their fluid, slick gymnastic movements are awesome and humans haven’t yet had the chance to shine: that’s the message to take away from Desolation of Smaug, the second entry to Peter Jackson’s overblown Hobbit trilogy.
 date: "2014-01-17 04:10:15 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

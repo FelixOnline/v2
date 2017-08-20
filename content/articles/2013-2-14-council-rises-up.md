@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on Council and letters
 date: "2013-02-14 21:16:55 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

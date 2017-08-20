@@ -4,7 +4,6 @@ title: >
 subtitle: >
   2-1 the final score and a thoroughly deserved win for the Men’s 3s who hope to extend this one match winning streak against the RSM next week.
 date: "2011-12-01 21:20:29 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

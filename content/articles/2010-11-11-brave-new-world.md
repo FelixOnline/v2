@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As the music industry bleeds itself to death a new breed of artists emerges online
 date: "2010-11-11 21:19:24 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

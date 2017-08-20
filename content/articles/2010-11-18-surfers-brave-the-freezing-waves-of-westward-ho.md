@@ -4,7 +4,6 @@ title: >
 subtitle: >
   SurfSoc's 'frivolous' weekend in Devon
 date: "2010-11-18 21:22:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

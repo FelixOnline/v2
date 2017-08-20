@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Geneticists have a run-in with the law
 date: "2012-05-25 18:44:21 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

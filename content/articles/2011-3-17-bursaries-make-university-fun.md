@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I think the bursary should continue to be given to students cash in hand
 date: "2011-03-17 21:44:04 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

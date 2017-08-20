@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The director tells us about their very unusual interpretation of a seasonal favourite
 date: "2010-10-14 19:20:17 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

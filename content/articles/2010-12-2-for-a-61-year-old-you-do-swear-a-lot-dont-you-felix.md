@@ -4,7 +4,6 @@ title: >
 subtitle: >
   For a 61-year-old, you do swear a lot, don’t you Felix?
 date: "2010-12-02 21:07:10 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

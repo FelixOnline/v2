@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Taking a closer look at metamaterials
 date: "2013-12-02 21:52:28 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Internationally chaired talks fail to deliver reform
 date: "2014-01-24 09:52:05 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

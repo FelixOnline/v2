@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caught something you wish you hadn’t? Aside from some Acyclovir, this is the next best thing. felix takes a look at the classic flu-buster: Chicken soup
 date: "2016-11-18 15:25:53 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

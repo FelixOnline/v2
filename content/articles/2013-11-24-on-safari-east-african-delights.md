@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cruising through Tanzania’s national parks in search of big cats
 date: "2013-11-24 16:41:36 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

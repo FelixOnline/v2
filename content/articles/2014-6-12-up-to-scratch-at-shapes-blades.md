@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Letting your hair down for a trim post exam!
 date: "2014-06-12 17:56:55 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

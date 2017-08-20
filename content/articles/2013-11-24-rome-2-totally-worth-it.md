@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Does this sequel to one of the best strategies games live up to the hype?
 date: "2013-11-24 16:35:36 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

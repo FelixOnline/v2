@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College London has a £3.9 million stake in the arms industry, according to a report in the London Student.
 date: "2014-02-07 05:08:19 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

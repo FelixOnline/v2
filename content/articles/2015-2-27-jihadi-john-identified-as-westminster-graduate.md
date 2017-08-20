@@ -4,7 +4,6 @@ title: >
 subtitle: >
   University of Westminster Students' Union postpone Islamic event over fears for security
 date: "2015-02-27 00:29:53 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

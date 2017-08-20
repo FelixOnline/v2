@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But College wins the day overall with the most wins
 date: "2014-03-17 17:31:39 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

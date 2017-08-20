@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christy Kelly talks about Equality in the Media
 date: "2014-11-06 18:26:59 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College have moved up four places to 5th in the latest Guardian University League Table.
 date: "2014-06-06 02:39:15 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

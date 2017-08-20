@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our regular column on classics in a genre you might've missed
 date: "2015-11-20 09:17:56 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

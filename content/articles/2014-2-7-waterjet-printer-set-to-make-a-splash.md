@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ‘Disappearing ink’ generally conjures up images of spies and secret messages. Until now, attempts to create a disappearing ink have been expensive (and sometimes toxic), with the results appearing rather faint on the page. But researchers from China have come up with a solution that uses nothing but
 date: "2014-02-07 05:16:31 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

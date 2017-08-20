@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What’s in a name? Probably some erotica, as the name is “The Vibrator Play”...
 date: "2013-12-06 04:12:44 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

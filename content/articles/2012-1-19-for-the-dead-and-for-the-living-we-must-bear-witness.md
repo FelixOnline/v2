@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Andrea Levy implores you to take up this opportunity to hear a first-hand testimony from Mrs Ruth Barnett, a Holocaust survivor, at Imperial College
 date: "2012-01-19 21:06:55 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

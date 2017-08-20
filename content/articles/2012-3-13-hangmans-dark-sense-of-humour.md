@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Steven Abnett courts controversy
 date: "2012-03-13 14:24:25 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Surprise, surprise, another TV show with an indefensible plot...
 date: "2011-01-27 19:10:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

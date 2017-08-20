@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our man on the pitch James White brings another week of footy predictions.
 date: "2013-11-05 10:03:01 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

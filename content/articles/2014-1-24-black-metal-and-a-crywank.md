@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Forrest Seiwald and Stuart Masson report back on a very mixed bill
 date: "2014-01-24 10:07:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Majid Al-Khalil recounts a book which is called the most influential Latin American text of all time
 date: "2011-02-17 18:57:41 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   [Tabloid Special Edition] Chris Toumazou, professor of Electrical and Electronic Engineering, has won the Inventor of the Year award for Research at the European Inventor Awards.
 date: "2014-06-23 10:35:35 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

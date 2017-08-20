@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's not been a great year for Sport Imperial
 date: "2017-01-20 14:55:10 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

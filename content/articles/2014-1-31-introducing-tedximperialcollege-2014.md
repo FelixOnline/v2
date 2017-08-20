@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Following the success of the first TEDxImperialCollege conference held at Imperial College two years ago, and TEDMEDLive last March, students from Imperial can now look forward to yet another thought-provoking, mind-engaging TEDx conference to be held on 29 March.
 date: "2014-01-31 18:02:20 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

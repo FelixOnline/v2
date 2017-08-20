@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Empower held its first mingle with a surprise VIP appearance from Imperial’s new President, Professor Alice Gast.
 date: "2014-10-24 13:02:01 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

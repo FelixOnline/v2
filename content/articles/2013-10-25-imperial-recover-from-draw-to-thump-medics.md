@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Omar Amjad gives his account as Imperial’s 1st XI show fine early season form.
 date: "2013-10-25 01:12:53 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

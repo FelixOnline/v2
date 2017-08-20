@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The legend himself allegedly shot hoops with Bugs Bunny
 date: "2015-01-23 01:11:07 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl tells the tale of Imperial Chess Heros’ campaign in the land of Freedom. Ah, ‘Murica
 date: "2013-10-12 23:57:26 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

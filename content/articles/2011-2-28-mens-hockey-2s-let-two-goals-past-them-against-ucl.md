@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Uncharacteristic result for Imperial but team put on a good show
 date: "2011-02-28 21:08:26 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

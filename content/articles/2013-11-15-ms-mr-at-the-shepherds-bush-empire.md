@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New York duo Ms Mr took to the stage of Shepherd’s Bush Empire before a crowd of excited fans before fulfilling all expectations and pleasing their audience.
 date: "2013-11-15 18:09:35 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

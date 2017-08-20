@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Esmerine are one of the more loosely-related Godspeed You! Black Emperor side projects.
 date: "2013-12-02 22:13:30 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

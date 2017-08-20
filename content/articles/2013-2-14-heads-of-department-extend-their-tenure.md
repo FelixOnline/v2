@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chemical Engineering and EEE to have same Heads for next couple of years
 date: "2013-02-14 13:14:15 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

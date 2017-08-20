@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The South African rugby team spends some time training at the Imperial gym
 date: "2010-12-02 20:47:52 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

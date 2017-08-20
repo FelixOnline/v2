@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emilie Beauchamp hops on an exercise bike in search of laughter
 date: "2012-11-01 22:51:20 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

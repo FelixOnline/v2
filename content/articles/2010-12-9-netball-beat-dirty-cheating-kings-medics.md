@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Netball trumps GKT. By Bernice Marie Cutler
 date: "2010-12-09 20:15:32 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

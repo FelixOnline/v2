@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anti-cuts street parties kick off
 date: "2012-05-18 06:27:28 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

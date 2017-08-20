@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Respect your elders” is a mantra that I always felt was redundant.
 date: "2014-02-07 05:07:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

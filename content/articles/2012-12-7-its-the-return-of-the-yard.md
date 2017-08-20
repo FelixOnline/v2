@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Paul Beaumont proposes a new policy that allows yards and keeps the bar open later and
 date: "2012-12-07 00:23:06 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Exploring a new city with the help of International Student Support
 date: "2014-11-06 21:21:15 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

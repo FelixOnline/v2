@@ -4,7 +4,6 @@ title: >
 subtitle: >
   [Tabloid Special] As a group of representatives of the Student’s Unions and Associations of the Russell Group, you would expect them to be doing, well something...
 date: "2014-06-23 10:59:34 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

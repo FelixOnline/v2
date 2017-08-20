@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Slightly dodgy surveying leads to yearly table
 date: "2012-11-15 20:54:49 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

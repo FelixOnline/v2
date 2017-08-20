@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "Banter" that is appropriate in the pub is less appropriate elsewhere
 date: "2011-02-03 20:24:43 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

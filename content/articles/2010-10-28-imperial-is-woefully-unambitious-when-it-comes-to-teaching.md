@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's time for Imperial to move into the 21st century
 date: "2010-10-28 19:45:29 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

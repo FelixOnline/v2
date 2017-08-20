@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lillan Agerup reports as IC Water Polo record their first ever victory in Germany
 date: "2013-11-24 23:59:44 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The boat club had their annual party there last month
 date: "2016-02-12 11:10:37 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

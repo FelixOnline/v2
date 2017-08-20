@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I am sat at a pew in Westminster Abbey, filled with a sense of awe and reverence. Unlike the elderly lady to my right, her hands clasped in silent petition, I am not here for prayer. I am, however, here on a pilgrimage of sorts in an attempt to understand the power and limits of science.
 date: "2014-02-21 03:28:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

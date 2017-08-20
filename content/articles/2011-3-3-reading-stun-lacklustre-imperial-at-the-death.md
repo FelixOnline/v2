@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC 1st 17 - 20 Reading 1st. Second half Reading fightback leaves Imperial in second place
 date: "2011-03-03 08:23:37 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

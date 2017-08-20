@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Lib Dems have gone back on their pledge on tuition fees
 date: "2010-10-21 19:36:54 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

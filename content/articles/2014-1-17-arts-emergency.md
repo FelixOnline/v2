@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How an educational charity is bringing art back to the masses
 date: "2014-01-17 03:47:52 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC Debating Society are always up for an argument. Unfortunately, this week, they got sidetracked for two hours debating the meaning of debates. Then they started arguing about if they were even really there or not. Luckily, they got round to debating Greece as well.
 date: "2011-12-01 21:37:50 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

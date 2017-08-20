@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students from Imperial and the Royal College of Art team up in daring collaboration. Meredith Thomas reports
 date: "2011-06-16 20:40:47 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

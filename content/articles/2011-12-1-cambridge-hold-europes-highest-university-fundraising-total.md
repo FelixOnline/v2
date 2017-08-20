@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two billion dollars raised over a ten year period
 date: "2011-12-01 22:29:58 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

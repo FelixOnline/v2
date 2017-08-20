@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Little opinion-laden buggers are everywhere
 date: "2010-11-18 22:11:25 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why break up the Union? Is it simply national pride or something more?
 date: "2011-05-20 05:55:48 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

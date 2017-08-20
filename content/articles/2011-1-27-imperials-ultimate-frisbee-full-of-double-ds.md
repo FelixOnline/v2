@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Women’s ultimate frisbee a fun place to be
 date: "2011-01-27 20:22:02 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The cheats behind a basic but beautiful curry
 date: "2014-11-10 22:23:30 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

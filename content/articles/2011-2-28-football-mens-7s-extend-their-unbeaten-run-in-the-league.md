@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC 7s 3 - 1 St Bart’s 4s
 date: "2011-02-28 21:41:52 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

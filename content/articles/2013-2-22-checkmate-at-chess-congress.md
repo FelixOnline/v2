@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A successful and tense night for Chess Soc, reports John Sargent
 date: "2013-02-22 02:09:56 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

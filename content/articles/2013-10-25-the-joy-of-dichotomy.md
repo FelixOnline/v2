@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Daniel Adams on the joy of dichotomy
 date: "2013-10-25 00:05:02 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

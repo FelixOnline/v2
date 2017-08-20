@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After a super successful Xbox 360, which most people claim won the last console generation wars, Microsoft is now releasing the next iteration into a less clear cut market.
 date: "2013-11-13 22:59:35 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

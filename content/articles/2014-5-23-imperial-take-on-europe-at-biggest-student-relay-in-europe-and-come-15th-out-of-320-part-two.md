@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After having been woken up by bright lights and house music at three o’clock in the morning, it’s safe to say that I was barely awake when me, Siân, Will and Sophie got into Sophie’s car at 05.45...
 date: "2014-05-23 14:19:06 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

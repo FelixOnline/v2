@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Science Studies Committee satisfied that department addressed their concerns
 date: "2011-05-26 18:17:29 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

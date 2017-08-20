@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Smash might be easy, but it won’t impress your housemates like this will
 date: "2015-11-06 14:04:00 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Yates on the potential of the technique that made cute custom monkeys
 date: "2014-02-07 05:15:40 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

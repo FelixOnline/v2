@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Richardson becomes first to hold position at Treasury
 date: "2011-06-16 19:11:40 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

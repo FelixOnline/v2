@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Microsoft unveil new OS
 date: "2011-06-12 15:48:31 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Paper goes against Congress, NASA, and Departments of State
 date: "2012-02-09 22:46:28 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on sleep (well, written on very little sleep), Garden Hall, and Elections
 date: "2013-03-07 23:33:34 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

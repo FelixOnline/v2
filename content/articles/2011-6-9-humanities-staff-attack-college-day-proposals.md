@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Criticisms made in letter hand-delivered to the Felix office
 date: "2011-06-09 21:14:21 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

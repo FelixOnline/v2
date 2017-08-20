@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IERS to apply this to resolve inaccuracies in timekeeping
 date: "2012-01-12 22:27:06 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

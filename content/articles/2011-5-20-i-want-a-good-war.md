@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This 'War on Terror' nonsense just won't do
 date: "2011-05-20 05:54:21 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

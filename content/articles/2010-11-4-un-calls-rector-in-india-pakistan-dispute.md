@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Article by James Lees
 date: "2010-11-04 18:51:43 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

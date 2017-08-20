@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Renos Karamanis enjoys a night alone with his laptop
 date: "2012-11-23 00:04:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

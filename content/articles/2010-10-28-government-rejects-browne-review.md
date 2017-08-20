@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Universities Minister David Willetts dismisses unlimited fees as neither sensible nor sustainable
 date: "2010-10-28 19:59:22 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

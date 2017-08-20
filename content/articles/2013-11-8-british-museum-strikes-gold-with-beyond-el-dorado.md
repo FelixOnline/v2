@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What: Beyond El Dorado: Power and Gold In Ancient Columbia Where: The British Museum, WC1 When: Until 23rd March 2014 Price: £7 students, £9 adults
 date: "2013-11-08 09:44:19 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

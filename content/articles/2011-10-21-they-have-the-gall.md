@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah welcomes you to Tally Hall...
 date: "2011-10-21 11:20:38 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

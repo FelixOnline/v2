@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Science funding must be protected over welfare
 date: "2010-10-21 19:14:24 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

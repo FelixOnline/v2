@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Thor: The Dark World Director: Alan Taylor Writers: Christopher Yost, Christopher Markus, Stephen McFeely Starring: Chris Hemsworth, Natalie Portman, Anthony Hopkins, Tom Hiddleston, Christopher Eccleston, Idris Elba, Jaimie Alexander, Ray Stevenson, Zachary Levi, Kat Dennings, Stellan Skarsgård, A
 date: "2013-11-08 10:01:26 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

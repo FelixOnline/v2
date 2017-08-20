@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sci-Fi soc tell us about their exciting events
 date: "2014-01-17 04:34:07 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

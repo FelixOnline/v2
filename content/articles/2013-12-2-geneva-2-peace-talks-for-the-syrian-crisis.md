@@ -4,7 +4,6 @@ title: >
 subtitle: >
   President Assad’s adversaries meet in the wake of ending the Syrian Crisis
 date: "2013-12-02 21:56:48 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

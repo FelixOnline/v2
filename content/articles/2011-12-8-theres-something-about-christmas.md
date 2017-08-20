@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If there's a reason for its existence, it's down to each and every one of us
 date: "2011-12-08 22:23:41 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

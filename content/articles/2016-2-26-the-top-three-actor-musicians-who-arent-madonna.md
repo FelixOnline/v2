@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-02-26 11:37:51 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

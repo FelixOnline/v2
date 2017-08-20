@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC 3s 2 - 0 Royal Vet’s – Hockey's season back on track
 date: "2011-02-28 21:38:42 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

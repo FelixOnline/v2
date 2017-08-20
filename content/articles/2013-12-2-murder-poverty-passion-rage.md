@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland witnesses Woyzeck’s descent into madness
 date: "2013-12-02 22:08:12 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

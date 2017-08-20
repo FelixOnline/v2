@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students vow to “keep the momentum going” as the Cops off Campus campaign call another demonstration on 22 January.
 date: "2014-01-17 03:07:11 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

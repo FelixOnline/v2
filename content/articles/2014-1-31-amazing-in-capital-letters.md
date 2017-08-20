@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As I sat down in my plush theatre seat, tucking my kiddy school bag under my legs, I suddenly felt very small.
 date: "2014-01-31 18:04:38 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

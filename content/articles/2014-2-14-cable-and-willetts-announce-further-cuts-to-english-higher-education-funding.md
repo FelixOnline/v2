@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The government has announced that it will be cutting £946 million from its annual grant to English Higher Education Institutions.
 date: "2014-02-14 05:04:47 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

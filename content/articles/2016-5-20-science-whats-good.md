@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our weekly science round-up
 date: "2016-05-20 09:04:21 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

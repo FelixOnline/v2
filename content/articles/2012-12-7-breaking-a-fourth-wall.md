@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emilie Beauchamp on an extraordinary experience in a theatre
 date: "2012-12-07 02:20:51 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Graduate unemployment at 8.9%
 date: "2010-11-04 19:12:19 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

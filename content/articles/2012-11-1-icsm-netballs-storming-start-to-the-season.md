@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This was an amazing start to the season, lets hope they can keep it going!
 date: "2012-11-01 23:13:37 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

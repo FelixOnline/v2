@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Carol Wood on her vegetarian experiences
 date: "2012-02-02 23:50:00 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

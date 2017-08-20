@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Science goes along to the launch of the Science Museum’s new exhibition
 date: "2013-11-15 02:18:41 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

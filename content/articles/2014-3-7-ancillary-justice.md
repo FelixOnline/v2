@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about the the groundbreaking debut science fiction novel by Ann Leckie
 date: "2014-03-07 05:51:57 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

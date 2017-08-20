@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This is a test
 date: "2013-10-29 13:52:10 +0000"
-image: "http://felixonline.co.uk/"
 draft: true
 headline: true
 featured: true

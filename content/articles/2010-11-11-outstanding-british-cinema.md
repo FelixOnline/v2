@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Another Year is one of the finest works of Mike Leigh's career
 date: "2010-11-11 20:58:19 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This is a clash between civilisation and barbarism – and civilisation must triumph
 date: "2015-11-27 14:19:37 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

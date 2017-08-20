@@ -4,7 +4,6 @@ title: >
 subtitle: >
   East Meets West in this delectable dessert. Makes x8 small/x4 large
 date: "2014-02-07 04:48:54 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

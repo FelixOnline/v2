@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Disused building to be the site of residential apartments
 date: "2011-10-27 20:19:14 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

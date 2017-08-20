@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What tau proteins can tell us
 date: "2012-02-23 20:58:40 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

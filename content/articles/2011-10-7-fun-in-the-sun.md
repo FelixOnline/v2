@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Reflections on an annual form of torture...
 date: "2011-10-07 01:43:47 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

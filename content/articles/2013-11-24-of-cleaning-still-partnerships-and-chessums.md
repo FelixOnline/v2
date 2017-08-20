@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The recent cleaning response from Campus Services (see front page) indicates that some progress is being made in the ‘cleaning situation’.
 date: "2013-11-24 16:10:04 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

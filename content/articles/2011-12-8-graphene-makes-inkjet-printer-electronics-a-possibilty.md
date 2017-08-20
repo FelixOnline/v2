@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Graphene based printers could print transistors
 date: "2011-12-08 20:44:47 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

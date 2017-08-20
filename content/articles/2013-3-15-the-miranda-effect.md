@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Miranda is a good show, no matter what the critics say
 date: "2013-03-15 01:21:34 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

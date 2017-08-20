@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A breakdown on the first Union Council session for the year.
 date: "2013-10-18 20:41:43 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

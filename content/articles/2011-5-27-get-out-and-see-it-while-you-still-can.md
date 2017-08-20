@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tourists are set to be banned from Nazareth in the Amazon
 date: "2011-05-27 15:29:18 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

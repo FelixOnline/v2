@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A reminder that the games, like the kids, are alright
 date: "2011-03-10 20:18:24 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

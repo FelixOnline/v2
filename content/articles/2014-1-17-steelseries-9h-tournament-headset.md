@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With a bewildering array of gaming accessories on the market, it can be difficult to find out which one is best to purchase for your particular needs and the Steelseries 9H is a good start
 date: "2014-01-17 04:21:15 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

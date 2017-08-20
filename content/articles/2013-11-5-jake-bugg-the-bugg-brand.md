@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simran Sansoy watches Jake Bugg’s sold out show at the O2
 date: "2013-11-05 09:35:00 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

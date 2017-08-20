@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Ellis’ reflections on an ultramarathon
 date: "2013-11-01 10:42:20 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

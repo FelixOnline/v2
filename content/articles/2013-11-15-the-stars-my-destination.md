@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski discusses an SF classic
 date: "2013-11-15 18:01:03 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

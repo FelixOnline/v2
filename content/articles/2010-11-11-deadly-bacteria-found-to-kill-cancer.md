@@ -4,7 +4,6 @@ title: >
 subtitle: >
   MRSA could be used to fight cancer
 date: "2010-11-11 21:02:54 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

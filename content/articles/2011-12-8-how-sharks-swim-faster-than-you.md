@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Non-symmetrical tails leads on to speedy swimming
 date: "2011-12-08 20:35:42 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bastions – Bedfellows Part 2: The Forgotten Daughter
 date: "2014-02-07 04:38:38 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

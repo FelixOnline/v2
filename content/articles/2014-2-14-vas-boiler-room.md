@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Friday Lates are, much as the name suggests, a series of exhibitions that take place on a Friday night, specifically the last Friday of each month.
 date: "2014-02-14 03:27:19 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alice Yang’s list of books bound to give you more than just a pick-me-up
 date: "2012-06-22 10:46:08 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

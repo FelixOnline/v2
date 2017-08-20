@@ -4,7 +4,6 @@ title: >
 subtitle: >
   William Hunter tells us how the honeybee is bringing the bumblebee down too
 date: "2014-02-28 07:18:59 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

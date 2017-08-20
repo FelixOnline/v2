@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An Analysis by Fred Fyles
 date: "2014-12-18 16:21:51 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

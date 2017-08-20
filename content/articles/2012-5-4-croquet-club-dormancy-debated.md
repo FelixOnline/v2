@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clubs and Societies Board decision leads to question of legitimacy
 date: "2012-05-04 00:47:06 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

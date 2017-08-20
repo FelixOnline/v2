@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Muni Wen ponders the revival of retro in modern cinema
 date: "2014-11-06 18:16:09 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The annual Centre for Doctoral Training (CDT) Festival of Science will be happening on Friday 13th June 2014 in the SAF lecture theatres.
 date: "2014-06-06 02:39:44 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

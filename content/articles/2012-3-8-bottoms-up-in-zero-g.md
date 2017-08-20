@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A device to allow drinking from a cup in the absence of gravity has been developed
 date: "2012-03-08 20:19:51 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

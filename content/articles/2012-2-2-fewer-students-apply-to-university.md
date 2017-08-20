@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial suffers 0.1% decrease from 2011 to 2012
 date: "2012-02-02 23:58:42 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The purpose of education isn’t to serve the country, it is to serve everyone
 date: "2011-05-20 05:55:00 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

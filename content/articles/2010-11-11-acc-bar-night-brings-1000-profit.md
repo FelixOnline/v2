@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FiveSixEight passes ACC Bar Night test
 date: "2010-11-11 22:10:59 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

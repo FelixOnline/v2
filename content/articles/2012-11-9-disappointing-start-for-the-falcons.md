@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They don't get their talons into the opposition
 date: "2012-11-09 14:33:30 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Range of medals for Imperial Judo in Sheffield
 date: "2011-05-12 18:19:39 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

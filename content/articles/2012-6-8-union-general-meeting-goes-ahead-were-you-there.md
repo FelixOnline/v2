@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Some interesting proposals were raised, after all
 date: "2012-06-08 08:41:39 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

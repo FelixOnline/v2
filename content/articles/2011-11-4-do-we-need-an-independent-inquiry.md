@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Summer Ball financial situation still requires closure
 date: "2011-11-04 12:06:52 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

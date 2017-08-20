@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Editorial on what matters, what could matter, what doesn't matter, and my glasses
 date: "2012-11-02 11:23:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

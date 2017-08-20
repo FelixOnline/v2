@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Since they move freely in time, one moment is as good as the next to them
 date: "2011-05-26 23:44:48 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

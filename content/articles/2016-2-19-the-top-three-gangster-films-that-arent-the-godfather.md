@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Not the third one though
 date: "2016-02-19 12:07:53 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

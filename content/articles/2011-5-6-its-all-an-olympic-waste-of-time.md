@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A revolting logo, a nauseating sponsorship deal, and a peculiar ticketing system all leave me with a feeling that it is not quite cricket
 date: "2011-05-06 08:49:24 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

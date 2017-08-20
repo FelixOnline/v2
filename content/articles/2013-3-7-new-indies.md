@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Julia Spindel introduces four great new talents
 date: "2013-03-07 22:02:20 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

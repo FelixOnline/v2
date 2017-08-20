@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chen Yann Qi: Bet you didn’t know your one idea can save the world! You will be surprised to find that in a typical week, the average UK household is throwing away what would have been six complete meals. Not shocking enough?
 date: "2013-12-02 21:29:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

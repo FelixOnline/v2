@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week's letters page
 date: "2016-05-20 08:52:32 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

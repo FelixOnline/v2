@@ -4,7 +4,6 @@ title: >
 subtitle: >
   LAX is an acronym, it doesn't mean that they aren't thorough. Imogen Simmonds and Gen Pugh report.
 date: "2012-10-26 03:02:37 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

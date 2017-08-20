@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lysergic acid diethylamide appears to support alcoholics' efforts to rewire their brain away from addiction
 date: "2012-03-15 19:45:10 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

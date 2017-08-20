@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Win against Bournemouth bags a ticket to finals, says Taniya Parhikh
 date: "2011-11-10 22:41:57 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

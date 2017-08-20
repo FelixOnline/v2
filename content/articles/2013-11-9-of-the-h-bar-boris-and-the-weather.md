@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Another editorial!
 date: "2013-11-09 12:47:51 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

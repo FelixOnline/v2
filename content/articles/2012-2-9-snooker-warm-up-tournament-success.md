@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Victory to be had in the Midlands
 date: "2012-02-09 23:13:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

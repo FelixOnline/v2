@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial about how everyone is secretly a bit terrible at their job. Including me. Definitely me. Mostly me.
 date: "2013-05-16 20:42:52 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

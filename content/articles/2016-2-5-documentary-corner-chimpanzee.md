@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Disney made a doc!
 date: "2016-02-05 12:34:43 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

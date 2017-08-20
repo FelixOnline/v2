@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Douglas Heaven investigates new inroads into tackling a hereditary problem
 date: "2011-10-21 10:13:25 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

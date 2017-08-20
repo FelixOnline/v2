@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cross-departmental timetabling could be introduced by October 2012
 date: "2011-06-23 19:10:37 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

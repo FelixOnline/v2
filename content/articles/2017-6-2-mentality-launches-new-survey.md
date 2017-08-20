@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Last survey was conducted two years ago
 date: "2017-06-02 12:46:00 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

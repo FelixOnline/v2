@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In this week's recipe corner is an exquisite berry pie
 date: "2012-10-05 13:19:15 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

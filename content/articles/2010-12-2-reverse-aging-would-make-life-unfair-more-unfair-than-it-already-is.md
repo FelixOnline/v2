@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I do not want to be competing against an 140 year old for jobs
 date: "2010-12-02 21:50:12 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Reduced funding means this year's Science Challenge is a distinctly sober affair
 date: "2011-05-05 23:35:59 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

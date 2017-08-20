@@ -4,7 +4,6 @@ title: >
 subtitle: >
   My position works bcause I don’t differentiate; I simply hate everyone
 date: "2011-02-17 19:56:13 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

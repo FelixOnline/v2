@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The best of alternative music, from AMS
 date: "2012-12-07 14:29:49 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

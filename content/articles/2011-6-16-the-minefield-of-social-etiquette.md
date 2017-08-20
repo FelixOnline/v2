@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why do I worry about what to say to someone when they apologise to me?
 date: "2011-06-16 20:29:54 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

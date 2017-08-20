@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An exciting virtual trading game for university students
 date: "2012-03-01 22:46:41 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

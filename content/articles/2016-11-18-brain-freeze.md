@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Everything happens for a reason
 date: "2016-11-18 14:49:42 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

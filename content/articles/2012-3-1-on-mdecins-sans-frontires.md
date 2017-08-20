@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The humanitarian organisation has a significant presence at Imperial – find out how to get involved
 date: "2012-03-01 21:44:01 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

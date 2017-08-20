@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I don't mind getting old, it's just the ageing and dying that annoys me
 date: "2010-12-02 21:48:36 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

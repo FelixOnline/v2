@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An anonymous writer thinks you should stop making this all about you
 date: "2017-06-09 14:57:36 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

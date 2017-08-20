@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s good to see more and more gorillas finding employment as club bouncers
 date: "2011-06-23 20:51:33 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

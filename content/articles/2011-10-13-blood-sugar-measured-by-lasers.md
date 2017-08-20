@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Search for a non-invasive technique progresses
 date: "2011-10-13 21:43:05 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

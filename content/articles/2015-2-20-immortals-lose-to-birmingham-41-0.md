@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A disappointing scoreline ahead of their final game of the season next Sunday 22nd February
 date: "2015-02-20 00:20:15 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

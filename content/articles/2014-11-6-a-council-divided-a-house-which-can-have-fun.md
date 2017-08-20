@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A consideration of the delights of being locked in a room with opinionated people for an indefinite amount of time
 date: "2014-11-06 18:09:41 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

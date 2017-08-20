@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski presents an electic list of some of his favourite authors for you to check out
 date: "2014-06-12 13:27:19 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

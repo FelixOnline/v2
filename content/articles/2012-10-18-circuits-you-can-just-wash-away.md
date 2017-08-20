@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "The structure successfully dissolves at both body and room temperature"
 date: "2012-10-18 21:19:06 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

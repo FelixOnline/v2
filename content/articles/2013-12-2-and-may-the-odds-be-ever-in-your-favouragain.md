@@ -4,7 +4,6 @@ title: >
 subtitle: >
   So it’s been about a year since the first Hunger Games film made its debut, however, the second one in the series catches up with the protagonists before a whole year has passed for them.
 date: "2013-12-02 22:20:42 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

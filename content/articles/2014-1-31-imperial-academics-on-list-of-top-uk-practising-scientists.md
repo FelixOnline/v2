@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two Imperial College researchers have been placed on list of 100 top practising scientists compiled by the Science Council.
 date: "2014-01-31 17:13:00 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

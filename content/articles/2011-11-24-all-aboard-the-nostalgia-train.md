@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There is magic to be experienced in Britain's train network
 date: "2011-11-24 22:47:42 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

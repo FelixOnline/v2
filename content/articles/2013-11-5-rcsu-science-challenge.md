@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Meet Professor Lord Robert Winston. Attend a grand final in a prestigious location. Win a slice of a prize pot of over £4000.
 date: "2013-11-05 09:48:27 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

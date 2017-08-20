@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The sleepy south coast plays host to avant-garde New York collective
 date: "2011-05-26 19:52:26 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Coen Brothers have been able to create such strong, individual voices for their characters for so long now it’s hard to imagine a small town life in America without thinking about it in terms of Coen Brothers movie.
 date: "2014-02-07 04:43:42 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

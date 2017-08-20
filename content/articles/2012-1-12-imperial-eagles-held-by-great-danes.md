@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Handball: Eagles 25-25 Danes
 date: "2012-01-12 20:50:07 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

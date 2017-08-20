@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A short guide to academic support at Imperial
 date: "2011-05-30 14:18:49 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

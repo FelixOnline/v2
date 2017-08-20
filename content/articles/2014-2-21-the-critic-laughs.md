@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Richard Hamilton. Father of pop art, experimenter of consumer design, right? If that is all you associate with this icon of twentieth century British art, this massive retrospective at the Tate will change your mind.
 date: "2014-02-21 03:17:02 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

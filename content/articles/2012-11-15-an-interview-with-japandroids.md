@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mark England chews the cud with Japandroids
 date: "2012-11-15 21:33:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

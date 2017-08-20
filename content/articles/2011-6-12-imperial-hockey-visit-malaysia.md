@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jessica Poore on the club’s Summer tour
 date: "2011-06-12 16:28:19 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

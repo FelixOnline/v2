@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kelly Osborne on why she feels the need to protest
 date: "2011-11-17 21:13:49 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

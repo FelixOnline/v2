@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Chemistry and Materials Departments have shown a marked improvement from the number of final year students who have completed the National Student Survey.
 date: "2014-02-21 03:02:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

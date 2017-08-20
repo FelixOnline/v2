@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben's second column on volunteering activities around Imperial
 date: "2013-10-12 20:05:24 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

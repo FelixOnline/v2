@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A certain fresher (who shall remain nameless) really showed how well he will fit in with the club!
 date: "2012-11-01 23:15:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

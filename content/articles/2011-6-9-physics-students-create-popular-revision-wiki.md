@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Website is “outstanding” says Deputy President (Education) Alex Dahinten
 date: "2011-06-09 20:57:06 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

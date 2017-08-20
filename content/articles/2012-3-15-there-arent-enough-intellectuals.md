@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Furse on the NHS reform bill
 date: "2012-03-15 21:45:46 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

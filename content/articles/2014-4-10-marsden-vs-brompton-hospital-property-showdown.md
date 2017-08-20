@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two College affiliated hospitals face-off in a tense debate of land use on Fulham Road.
 date: "2014-04-10 15:16:03 +0100"
-image: "http://felixonline.co.uk/"
 draft: true
 headline: true
 featured: true

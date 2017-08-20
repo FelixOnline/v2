@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our face is one of the main things that identifies us as an individual.
 date: "2012-01-19 20:13:08 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

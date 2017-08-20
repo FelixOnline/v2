@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Close shaves and the perils of the barber
 date: "2012-02-02 23:42:28 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

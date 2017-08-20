@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Have you ever wondered why the very job you are madly interested in you never see advertised?
 date: "2013-11-24 23:58:33 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial teams dominate the Luton Marathon Relays.
 date: "2012-11-29 23:12:42 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

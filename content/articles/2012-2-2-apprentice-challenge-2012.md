@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Team Tornado triumphs in Imperial's Apprentice Challenge 2012
 date: "2012-02-02 19:58:11 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

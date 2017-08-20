@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s been a big year for I.C. Wing Chun. We’ve joined the UK Wing Chun Kung Fu Association (UKWCKFA), a leading association for Wing Chun with links across the country and the world.
 date: "2014-02-07 04:53:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   90 keen dodgeballers, 15 teams, three balls, one winner
 date: "2010-12-09 20:06:11 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

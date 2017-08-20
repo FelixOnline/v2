@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Part two of Christy Kelly's history of the Communist Manifesto
 date: "2014-02-28 07:16:25 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

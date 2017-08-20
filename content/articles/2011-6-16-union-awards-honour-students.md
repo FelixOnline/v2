@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Full list of Union accolades
 date: "2011-06-16 18:49:45 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

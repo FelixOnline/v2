@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After the success of Untethered, Leosoc reveal a brand-new exhibition on Wednesday
 date: "2011-02-27 19:36:14 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

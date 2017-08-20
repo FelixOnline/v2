@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union President Paul Beaumont gives his opinion on the NUS
 date: "2013-01-10 22:35:10 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

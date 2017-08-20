@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The return of the All Nighter
 date: "2012-12-07 01:22:42 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

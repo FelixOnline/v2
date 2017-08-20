@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They came, they played, and everyone had a really good time. Can you really ask for more?
 date: "2010-11-04 18:32:26 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Bowers discusses how padding can make your passwords more secure and easier to remember
 date: "2012-02-16 21:00:13 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

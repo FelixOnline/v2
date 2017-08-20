@@ -4,7 +4,6 @@ title: >
 subtitle: >
   My name came up and in a matter of seconds I was holding the biggest heart-shaped card
 date: "2011-02-10 21:04:34 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

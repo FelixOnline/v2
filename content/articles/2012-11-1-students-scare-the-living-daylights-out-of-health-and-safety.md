@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bond pun in the title took a lot of work
 date: "2012-11-01 23:21:26 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

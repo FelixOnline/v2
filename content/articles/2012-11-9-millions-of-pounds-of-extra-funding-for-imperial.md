@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We gotz all your m0neyz
 date: "2012-11-09 00:12:09 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

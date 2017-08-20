@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pt. O caveat auditor
 date: "2012-10-05 11:33:46 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

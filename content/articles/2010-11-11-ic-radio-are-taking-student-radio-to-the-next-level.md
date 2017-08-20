@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial's student radio station is undergoing a revival says Dan Fowler
 date: "2010-11-11 21:22:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

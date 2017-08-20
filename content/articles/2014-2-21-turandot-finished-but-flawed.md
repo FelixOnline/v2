@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Puccini’s Turandot was “the end of the great tradition” of Italian opera. Ever popular, it is the grandest of them all, and yet it is deeply problematic. Set in a mythical China, at its simplest the tale concerns a Prince, Calaf, who wins the heart of the Princess of China, Turandot.
 date: "2014-02-21 03:18:27 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

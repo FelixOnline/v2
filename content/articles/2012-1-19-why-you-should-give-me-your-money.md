@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tackling Cystic Fibrosis through the ultimate endurance trust
 date: "2012-01-19 23:26:33 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

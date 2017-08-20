@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Legally Blonde isn't intersectional
 date: "2016-02-12 11:48:57 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

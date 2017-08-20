@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists end year long voluntary halt
 date: "2013-03-01 01:01:29 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

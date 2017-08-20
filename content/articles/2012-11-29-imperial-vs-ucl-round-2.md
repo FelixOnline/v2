@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Webster on UCL's cowardice
 date: "2012-11-29 22:54:46 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

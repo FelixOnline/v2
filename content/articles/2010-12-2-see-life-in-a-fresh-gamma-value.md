@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A treatise on gaming and life
 date: "2010-12-02 20:22:38 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Teacher claims union said ‘cultural appropriation’ meant the classes would be stopped
 date: "2015-11-27 11:50:11 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

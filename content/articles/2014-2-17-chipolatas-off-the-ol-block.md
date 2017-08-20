@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Food gives some bang(er)-on sausage love this week
 date: "2014-02-17 18:30:35 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

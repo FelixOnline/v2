@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nominate people for recognition
 date: "2013-05-02 13:40:11 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

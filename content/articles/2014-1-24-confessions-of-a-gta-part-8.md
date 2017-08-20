@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sometimes saying no doesn’t get you out of demonstrating
 date: "2014-01-24 09:54:55 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

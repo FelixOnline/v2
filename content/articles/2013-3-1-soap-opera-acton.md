@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on Acton, and a bit on the Translation Studies Unit – the line from College is rather vague at the moment
 date: "2013-03-01 00:58:00 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

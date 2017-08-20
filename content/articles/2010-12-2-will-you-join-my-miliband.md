@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Will you join my (Mili)band?
 date: "2010-12-02 20:54:28 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

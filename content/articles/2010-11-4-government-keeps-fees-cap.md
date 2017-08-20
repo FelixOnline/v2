@@ -4,7 +4,6 @@ title: >
 subtitle: >
   No unlimited tuition fees after all
 date: "2010-11-04 19:07:23 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There are many fewer reasons for Imperial students to complain than there were just a year ago
 date: "2010-11-18 22:14:51 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

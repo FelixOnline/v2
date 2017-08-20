@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An anonymous writer gives their opinion
 date: "2014-06-23 13:12:27 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

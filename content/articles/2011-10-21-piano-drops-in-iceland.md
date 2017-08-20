@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Hecker's Ravedeath
 date: "2011-10-21 11:27:07 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

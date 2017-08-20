@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christened the London Forum for Science and Policy (LFSP) and launching this year, Imperial’s first student think tank carefully sidesteps the university’s trap of a neocolonial-sounding name.
 date: "2014-01-17 03:09:14 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

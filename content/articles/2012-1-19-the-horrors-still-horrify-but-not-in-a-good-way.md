@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lily Le is left disappointed by their live "offering"
 date: "2012-01-19 21:08:10 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

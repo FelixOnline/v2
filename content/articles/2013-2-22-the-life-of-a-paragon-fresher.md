@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An anonymous fresher gives their experiences living in Paragon
 date: "2013-02-22 01:12:12 +0000"
-image: "http://felixonline.co.uk/"
 draft: true
 headline: true
 featured: true

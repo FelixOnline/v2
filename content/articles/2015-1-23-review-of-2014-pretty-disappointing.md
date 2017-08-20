@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maximillian Eggl takes you through what could've been the defining games of last year
 date: "2015-01-23 18:22:20 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

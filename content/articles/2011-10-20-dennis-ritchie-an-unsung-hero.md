@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Douglas Heaven on the passing of the mind behind C
 date: "2011-10-20 21:34:01 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

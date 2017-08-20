@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Photons pulled out of vacuum thanks to quantum mechanics
 date: "2011-11-24 20:51:09 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

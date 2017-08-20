@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Union’s response to the visa consultation in detail
 date: "2011-02-10 20:14:40 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

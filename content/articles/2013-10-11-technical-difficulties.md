@@ -4,7 +4,6 @@ title: >
 subtitle: >
   So, we had a some perfectly timed technical difficulties this week, much like when the printer breaks down just before you’re supposed to be handing in an assignment.
 date: "2013-10-11 22:51:44 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

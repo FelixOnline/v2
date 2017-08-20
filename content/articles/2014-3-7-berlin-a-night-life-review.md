@@ -4,7 +4,6 @@ title: >
 subtitle: >
   People are always on the hunt for a place to party, a place to have a blast, for it to be a hoot.
 date: "2014-03-07 04:53:10 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

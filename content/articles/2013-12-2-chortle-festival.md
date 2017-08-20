@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about London’s first comedy book festival
 date: "2013-12-02 22:10:54 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

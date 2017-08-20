@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rhys Davies reads a classic
 date: "2012-12-07 01:24:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

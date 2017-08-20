@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Theo Pavlakou on the enlightening covers of the lastest viral outfit
 date: "2012-01-19 20:55:10 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

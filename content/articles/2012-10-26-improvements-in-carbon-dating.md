@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nope. Take Me Out hasn't started shacking up elements. Yet...
 date: "2012-10-26 02:30:30 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

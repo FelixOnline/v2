@@ -4,7 +4,6 @@ title: >
 subtitle: >
   By Jula Humphries
 date: "2012-02-09 22:34:40 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

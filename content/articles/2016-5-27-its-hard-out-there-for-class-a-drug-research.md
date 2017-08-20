@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial psychiatrist talks to FELIX about the difficulties of psychedelic research
 date: "2016-05-27 08:49:56 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

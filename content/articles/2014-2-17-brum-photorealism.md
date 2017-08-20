@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You’d be forgiven for thinking that London is the place to be for everything arts related...
 date: "2014-02-17 19:36:24 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

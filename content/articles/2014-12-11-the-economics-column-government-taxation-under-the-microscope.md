@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Samuel Bodansky argues that the libertarian world view is neither realistic nor economically viable
 date: "2014-12-11 20:09:33 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

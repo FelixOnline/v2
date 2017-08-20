@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Marie-Laure Hicks keeps you up to speed with the elections from anywhere but the US
 date: "2012-11-15 22:11:01 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

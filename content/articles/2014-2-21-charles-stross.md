@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joseph Henderson talks about the popular Picocon 31 guest
 date: "2014-02-21 03:20:37 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pancreatic cancer has the lowest survival rate out of the common cancers; only three percent make it past five years, with the majority only making it to 4-6 months after diagnosis.
 date: "2014-03-28 11:47:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

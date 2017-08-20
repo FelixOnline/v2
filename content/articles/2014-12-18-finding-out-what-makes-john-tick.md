@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mario Lapore takes a look at the National Theatre's new, dynamic production
 date: "2014-12-18 15:53:48 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

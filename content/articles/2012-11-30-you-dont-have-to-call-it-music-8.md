@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pt. 8 free jazz
 date: "2012-11-30 13:31:13 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on running for a sabbatical position
 date: "2013-01-31 22:32:51 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

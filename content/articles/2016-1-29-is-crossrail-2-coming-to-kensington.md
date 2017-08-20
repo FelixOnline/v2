@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Local bosses publicly back plans to bring new rail link to the King’s Road
 date: "2016-01-29 08:44:56 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

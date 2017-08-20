@@ -4,7 +4,6 @@ title: >
 subtitle: >
   18 years after the famous Deep Field image, a series of photographs from the Hubble space telescope are giving us a new insight into extremely distant galaxies that formed soon after the big bang.
 date: "2014-01-24 09:59:11 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

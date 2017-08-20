@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As its title suggests, Walt Disney’s brand new animation film is all about the cold, which is just as well, given the appropriate period of its release date.
 date: "2014-01-24 10:12:44 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

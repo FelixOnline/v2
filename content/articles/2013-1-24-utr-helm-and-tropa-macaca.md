@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bethnal Green brings the beats
 date: "2013-01-24 22:05:27 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

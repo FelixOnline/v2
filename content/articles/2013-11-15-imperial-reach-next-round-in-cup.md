@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dom Wood reports as Imperial mercilessly stomp on RUMS
 date: "2013-11-15 11:53:34 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

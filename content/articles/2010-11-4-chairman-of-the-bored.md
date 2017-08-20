@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I thought I’d help the mice loosen up by dosing them with marijuana... (that I just happened to stumble upon)
 date: "2010-11-04 19:00:56 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

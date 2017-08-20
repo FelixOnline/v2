@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two weekends ago, Imperial College London’s chess club fielded three teams for the British University Chess Association championship (BUCA), coming away with two cases of silverware.
 date: "2014-03-07 04:33:04 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

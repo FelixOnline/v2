@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kate Bush's first album in six years
 date: "2011-05-20 05:39:19 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

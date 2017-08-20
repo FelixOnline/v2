@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It is now summer (for most of us at least!). If you have nothing lined up for you, and would like to learn something new or do something productive, why not consider learning how to program?
 date: "2014-06-11 21:37:11 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

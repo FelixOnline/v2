@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Cox reports from Harlington
 date: "2013-11-05 10:01:22 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

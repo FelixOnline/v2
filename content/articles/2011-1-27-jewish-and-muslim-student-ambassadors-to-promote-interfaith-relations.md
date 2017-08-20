@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Programme aims to "set a new tone of respectful debate on campus"
 date: "2011-01-27 18:36:51 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

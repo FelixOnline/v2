@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The political equivalent of the office Christmas party
 date: "2012-10-18 21:24:21 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

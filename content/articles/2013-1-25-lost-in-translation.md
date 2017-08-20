@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial about the proposal to close the Translation Unit
 date: "2013-01-25 00:52:37 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

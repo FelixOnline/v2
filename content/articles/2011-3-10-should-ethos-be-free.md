@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As the Halls survey launches, we shouldn't ignore the fact that free access to Ethos is also under scrutiny
 date: "2011-03-10 20:03:43 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Editor-Elect Philippa Skett ponders the relationship between student publications and free speech
 date: "2014-05-09 02:04:51 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

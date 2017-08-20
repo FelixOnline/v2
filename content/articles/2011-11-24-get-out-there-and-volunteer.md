@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Andy Yu tells you to get out there and help. Now.
 date: "2011-11-24 23:02:06 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

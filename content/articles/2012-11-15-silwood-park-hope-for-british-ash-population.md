@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sarah Byrne on Silwood Park tackling the headline issues
 date: "2012-11-15 21:02:27 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

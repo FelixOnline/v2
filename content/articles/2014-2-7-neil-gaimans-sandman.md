@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski explores one of the best and most influential graphic novels
 date: "2014-02-07 04:50:45 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

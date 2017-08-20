@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stuart Masson reviews the alt-country band’s Garage performance
 date: "2014-02-07 04:36:40 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

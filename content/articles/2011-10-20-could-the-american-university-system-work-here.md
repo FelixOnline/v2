@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two Alexs go head-to-head over new degree proposals
 date: "2011-10-20 22:59:18 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The social side of university must not be overlooked
 date: "2011-10-31 11:07:26 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

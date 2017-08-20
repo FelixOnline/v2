@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Initiations aren't all bad
 date: "2010-10-28 19:51:35 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why did he not object to these [NHS] plans at a much earlier stage?
 date: "2011-05-26 23:46:03 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

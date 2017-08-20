@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The new postgraduate halls in Clapham Junction are certainly not affordable
 date: "2011-01-13 21:03:47 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

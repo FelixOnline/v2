@@ -4,7 +4,6 @@ title: >
 subtitle: >
   University of Delaware finds a new non-porous silver catalyst
 date: "2014-02-07 05:14:43 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

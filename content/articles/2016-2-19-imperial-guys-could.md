@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rugby 1st XV were victorious against Medway in their last game of 2015
 date: "2016-02-19 12:30:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

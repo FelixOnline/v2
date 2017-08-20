@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This year's Summer Ball could go either way
 date: "2011-06-16 20:19:02 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

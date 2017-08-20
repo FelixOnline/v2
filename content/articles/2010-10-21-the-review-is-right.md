@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We should accept the Browne Review, it is only fair that students should pay for the benefits of their education
 date: "2010-10-21 18:53:49 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

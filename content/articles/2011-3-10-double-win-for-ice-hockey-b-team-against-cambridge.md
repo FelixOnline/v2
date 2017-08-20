@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial 5 – 3 & 6 – 1 Cambridge
 date: "2011-03-10 21:15:36 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

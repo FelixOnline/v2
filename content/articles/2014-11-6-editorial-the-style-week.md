@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Art Section Editors Introduce Style
 date: "2014-11-06 21:27:06 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

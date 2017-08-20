@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If things eventually go tits-up, people will invariably come to you for answers
 date: "2011-06-02 19:27:31 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

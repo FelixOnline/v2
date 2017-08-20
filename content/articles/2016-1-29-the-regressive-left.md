@@ -4,8 +4,6 @@ title: >
 subtitle: >
   Has political correctness become more important than free speech?
 date: "2016-01-29 08:56:22 +0000"
-image: "http://felixonline.co.uk/"
-image_caption: "Milo Yiannopoulos was banned from Manchester SU because his views could “incite hatred”."
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clemy Walker reports on the Welsh rockers
 date: "2013-12-02 22:12:45 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

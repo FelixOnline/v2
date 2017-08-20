@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caroline Wood and Pedro Silva Pereira on Imperial’s start-up scene
 date: "2013-05-01 21:02:48 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

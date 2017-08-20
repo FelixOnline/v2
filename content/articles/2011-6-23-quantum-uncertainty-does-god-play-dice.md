@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The latest Friends of Imperial lecture
 date: "2011-06-23 20:01:13 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

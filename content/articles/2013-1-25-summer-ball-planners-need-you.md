@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ents Working Group to be held on Friday 1 February
 date: "2013-01-25 01:19:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

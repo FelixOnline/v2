@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stuart Masson watches No Age at the Dome
 date: "2013-10-12 00:40:03 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

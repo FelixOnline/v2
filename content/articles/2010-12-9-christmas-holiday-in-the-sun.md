@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why not trade in the dreary snow and endless movie re-runs this Christmas for some tasty tropical islands and unforgettable adventures?
 date: "2010-12-09 20:14:54 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Indira Mallik asks: where do revolution and artistic expression collide?
 date: "2014-12-18 16:20:20 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

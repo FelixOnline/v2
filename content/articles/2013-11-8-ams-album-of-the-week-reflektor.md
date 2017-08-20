@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Despite it being over ten years since AF first burnt music onto a CD to hand out at a small local gig in their Montreal neighbourhood, they are still teenagers – full of fire, angst, beauty and surprising lyricism.
 date: "2013-11-08 09:56:13 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

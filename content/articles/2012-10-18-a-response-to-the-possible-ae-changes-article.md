@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chelsea and Westminster Hospital NHS Foundation Trust respond to a previous article in the paper
 date: "2012-10-18 21:46:45 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

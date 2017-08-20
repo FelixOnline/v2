@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's not all fun and games you know!
 date: "2013-01-10 23:05:14 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

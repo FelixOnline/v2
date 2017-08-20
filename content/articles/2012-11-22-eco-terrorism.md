@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Marie-Laure Hicks on the rise of a new threat
 date: "2012-11-22 23:22:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

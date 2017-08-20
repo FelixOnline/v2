@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In today’s world I would challenge any reader of this newspaper to nominate a sportsperson that they could truly say they have an emotional attachment to. Messi, Ronaldo, Federer, Nadal, Tiger Woods; these names roll off the tongue as behemoths of their respective sports.
 date: "2013-12-02 21:40:06 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

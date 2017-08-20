@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Straight to the point for the eight BUCS league match of the season
 date: "2012-02-16 23:43:38 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

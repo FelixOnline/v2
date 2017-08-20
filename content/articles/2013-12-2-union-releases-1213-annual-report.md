@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Read here to find out about the highest paid wage at the Union and other fun facts!
 date: "2013-12-02 13:05:19 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

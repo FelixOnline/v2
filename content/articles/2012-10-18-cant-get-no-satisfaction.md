@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An all too brief discussion of the NSS
 date: "2012-10-18 21:37:29 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

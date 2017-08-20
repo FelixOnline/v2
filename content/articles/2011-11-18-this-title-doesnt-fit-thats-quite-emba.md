@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Obviously, the headline joke is rendered inaccurate when faced with the limitless storage space of the Felix servers
 date: "2011-11-18 00:42:07 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

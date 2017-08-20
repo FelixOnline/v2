@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eoghan Totten explores a thoughtful and subtle masterpiece from the early 1900s
 date: "2014-02-14 03:29:51 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

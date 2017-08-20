@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “It is reminiscint of the Polish Solidarity movement”
 date: "2011-02-03 20:05:36 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

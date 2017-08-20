@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles reviews Sarah Lucas' recent offerings
 date: "2013-11-15 02:31:41 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

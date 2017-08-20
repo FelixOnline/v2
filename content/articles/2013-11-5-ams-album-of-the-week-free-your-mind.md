@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cut Copy's Free Your Mind
 date: "2013-11-05 09:38:04 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

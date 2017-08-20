@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Medics Union renovates bar
 date: "2010-10-07 22:22:09 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

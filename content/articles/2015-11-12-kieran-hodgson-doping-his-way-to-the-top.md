@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hodgson comes to London with a heartfelt and hilarious story of growing up, betrayal by professional athletes, and redemption.
 date: "2015-11-12 11:34:57 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

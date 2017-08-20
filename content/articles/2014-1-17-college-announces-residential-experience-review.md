@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College has set up a consultation process to review the “residential experience” at Imperial.
 date: "2014-01-17 03:01:02 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

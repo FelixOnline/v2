@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Improvements on previous nanotechnology research reach new levels
 date: "2012-05-10 20:39:45 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

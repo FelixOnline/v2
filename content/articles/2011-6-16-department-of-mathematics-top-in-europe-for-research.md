@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial ranked 13th in world, above any non–US institution overall
 date: "2011-06-16 19:43:32 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

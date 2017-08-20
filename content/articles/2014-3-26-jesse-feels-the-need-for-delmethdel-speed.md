@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Surely the overwhelming critical success of Breaking Bad could have set up Aaron Paul for a better cinematic role than this one. He has won two Primetime Emmys, and yet one of the first roles he manages to land is in a video game adaptation...
 date: "2014-03-26 13:43:53 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

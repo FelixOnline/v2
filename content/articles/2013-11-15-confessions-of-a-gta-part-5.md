@@ -4,7 +4,6 @@ title: >
 subtitle: >
   GTAs are helpful only when asked nicely
 date: "2013-11-15 02:28:20 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

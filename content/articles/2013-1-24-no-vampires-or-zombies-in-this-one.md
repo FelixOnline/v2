@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Spielberg takes on Lincoln in a battle for Oscar glory
 date: "2013-01-24 21:42:04 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

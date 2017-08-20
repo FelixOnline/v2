@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Medicine can become a routine of life stories, lectures and feet. But sometimes, a patient can surprise you
 date: "2011-03-01 20:57:56 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

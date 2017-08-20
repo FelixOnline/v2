@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rounding off a successful season for the ladies
 date: "2012-03-02 17:42:22 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

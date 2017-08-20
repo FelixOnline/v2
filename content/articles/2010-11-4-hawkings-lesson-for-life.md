@@ -4,7 +4,6 @@ title: >
 subtitle: >
   On Wednesday 20th October, a very rare public lecture was given by one of the most famous and respected physicists alive today, Stephen Hawking, at the Royal Albert Hall in South Kensington
 date: "2010-11-04 18:47:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

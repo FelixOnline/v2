@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You haven’t come to uni to be ‘re-born’; just have fun
 date: "2010-10-01 22:34:25 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

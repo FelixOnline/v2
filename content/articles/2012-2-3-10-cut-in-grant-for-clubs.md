@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Concerns raised over impact of financial reallocation
 date: "2012-02-03 00:18:48 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

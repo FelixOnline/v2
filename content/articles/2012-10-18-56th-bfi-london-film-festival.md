@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Three picks from the 56th BFI London Film Festival
 date: "2012-10-18 21:26:54 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

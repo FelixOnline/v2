@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett talks to the researcher who turned the boson data into the discovery
 date: "2013-11-15 02:19:59 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

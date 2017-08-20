@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There is no doubt that 47 Ronin was Universal Studio’s hope-child given its vast budget of $175-million. However, unlike The Last Samurai in whose footsteps this movie obviously attempted to follow, the difference between their respective results is stark; in fact, rather akin to that between a ...
 date: "2014-01-17 03:59:26 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

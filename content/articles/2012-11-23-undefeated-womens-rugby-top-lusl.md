@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Women's Rugby show everyone how it's done
 date: "2012-11-23 00:10:17 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

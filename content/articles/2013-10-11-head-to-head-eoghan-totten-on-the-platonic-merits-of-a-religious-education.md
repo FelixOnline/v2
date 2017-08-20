@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Immanuel Kant, perennial philosopher of the 18th century, once made two key distinctions. Firstly, objects act in accordance with fixed rules. The latter distinction clarified that rational agents (you and I) formulate actions with flippant regard to mere conceptions of those rules...
 date: "2013-10-11 23:40:58 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

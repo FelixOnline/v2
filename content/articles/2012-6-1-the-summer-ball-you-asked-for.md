@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new format, but where's the enthusiasm?
 date: "2012-06-01 12:31:20 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

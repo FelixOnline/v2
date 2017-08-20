@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Starbucks is more than just a coffee house
 date: "2012-06-07 19:53:00 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

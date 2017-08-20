@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Three comment pieces is enough for Padraic Calpin's seal of approval
 date: "2011-12-01 21:27:07 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

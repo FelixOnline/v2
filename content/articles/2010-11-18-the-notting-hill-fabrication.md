@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What do you do when your erotic obsession with your teenage son drives you to self-destruction? Let’s see
 date: "2010-11-18 19:54:31 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

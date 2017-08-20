@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Humility and fatigue; one is necessary, the other unavoidable
 date: "2011-02-10 21:00:51 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

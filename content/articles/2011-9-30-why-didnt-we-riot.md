@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The events of the summer highlight a split in the young generation
 date: "2011-09-30 10:28:11 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

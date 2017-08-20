@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our prestigious neighbour, the Royal College of Music, is a fortress tucked away behind our own Sherfield building. Until now its activities had been hidden from me; but I am so glad that that has finally changed.
 date: "2013-12-06 04:12:02 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

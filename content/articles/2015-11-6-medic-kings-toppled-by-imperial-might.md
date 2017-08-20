@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The team wept, but through their tears they could see victory on the horizon.
 date: "2015-11-06 14:26:15 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

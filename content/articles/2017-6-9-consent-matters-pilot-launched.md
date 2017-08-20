@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Consent training could become mandatory from October onwards
 date: "2017-06-09 14:49:21 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

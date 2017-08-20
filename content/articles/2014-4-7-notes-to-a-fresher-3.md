@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Creative Writing students present yet more Freshers short stories
 date: "2014-04-07 12:44:46 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

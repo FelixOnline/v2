@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There are a many strange things about trying to decide who is the ‘best actor’ because whatever performance they give is through the lens of a director and rewritten by the editor.
 date: "2014-01-17 04:11:00 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

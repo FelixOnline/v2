@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Graduate Students' Association to launch wider survey
 date: "2011-02-24 20:03:06 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Deputy President Education gives us his side
 date: "2017-01-20 14:51:01 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

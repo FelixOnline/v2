@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A quick review of five great new books
 date: "2012-10-11 20:35:37 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

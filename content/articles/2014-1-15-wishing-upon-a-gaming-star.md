@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Endless dosh, what would your Games Editors want?
 date: "2014-01-15 16:18:19 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   David Cameron is still feeling blue about events on the continent
 date: "2011-11-03 20:07:10 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

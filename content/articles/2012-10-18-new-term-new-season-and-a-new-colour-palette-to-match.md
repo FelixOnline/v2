@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This winter is not for shrinking away in shades of grey – whether those are of the sartorial or literary variety. Instead, brave the cold in a chic block of colour offered up on the runways this season. From rich vermilion to deep purple, there’s a shade to suit all tastes.
 date: "2012-10-18 21:21:37 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A brand new exhibition opened at Somerset house last week, documenting the life of the late Isabella Blow; a lady highly regarded within the fashion industry. Born into the privileged world of British aristocracy...
 date: "2013-12-02 22:05:57 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

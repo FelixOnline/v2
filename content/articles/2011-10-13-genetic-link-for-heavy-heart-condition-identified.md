@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Douglas Heaven reports on hereditary faulty genes
 date: "2011-10-13 21:48:57 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Investigation of suspect caught on CCTV
 date: "2011-03-17 20:46:34 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

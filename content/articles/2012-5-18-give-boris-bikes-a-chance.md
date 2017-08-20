@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In praise of the blue scheme
 date: "2012-05-18 06:29:14 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

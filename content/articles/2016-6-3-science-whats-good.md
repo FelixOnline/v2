@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-06-03 09:10:27 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

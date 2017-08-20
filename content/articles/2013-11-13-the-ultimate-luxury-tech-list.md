@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Informing you on what you HAVE to have!
 date: "2013-11-13 22:57:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

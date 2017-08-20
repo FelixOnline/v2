@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A far-fetched idea but new Union menu is a hit
 date: "2010-10-28 19:44:02 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

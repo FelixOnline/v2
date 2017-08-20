@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial see off Exeter, Warwick and the Welsh to make to the BUCS Final
 date: "2011-03-17 21:54:55 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

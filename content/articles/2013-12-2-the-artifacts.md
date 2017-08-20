@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Arts talks to MSc student and Artifact founder and Co-Chair Meredith Thomas
 date: "2013-12-02 22:04:28 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

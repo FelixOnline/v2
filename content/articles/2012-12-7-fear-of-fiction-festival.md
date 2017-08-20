@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lily Le heads west, clinging to the festival dream
 date: "2012-12-07 03:35:53 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

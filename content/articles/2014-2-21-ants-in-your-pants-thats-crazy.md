@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christopher Yates reveals Texas’s invasive venom-proof ‘crazy ants’
 date: "2014-02-21 03:11:11 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

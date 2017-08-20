@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hitesh Shewakramani compiles a list of movies to watch out for this year. Featuring a lineup including superheroes, James Bond, sparkly vampires, hobbits and other mythical creatures
 date: "2012-01-26 22:38:54 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Look out for the real thing on Friday!
 date: "2011-06-14 15:05:49 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sarah Greasley now holds the world record
 date: "2013-02-14 13:14:54 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

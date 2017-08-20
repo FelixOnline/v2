@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College must work to overcome an overwhelmingly negative perception of raised fees
 date: "2011-10-31 11:12:22 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

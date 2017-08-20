@@ -4,7 +4,6 @@ title: >
 subtitle: >
   On the independence of Felix
 date: "2012-03-09 13:06:03 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

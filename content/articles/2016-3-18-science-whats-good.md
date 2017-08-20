@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week's science news
 date: "2016-03-18 11:52:33 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This is a story of caution. A story of naivety, intense highs and bad judgement. Try to find value in it, if you can.
 date: "2014-02-17 17:24:41 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

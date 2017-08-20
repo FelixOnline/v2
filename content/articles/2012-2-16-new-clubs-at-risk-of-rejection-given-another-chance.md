@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Proposals to determine viability of new ventures include test events
 date: "2012-02-16 22:45:10 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Science Musuem Library is moving, change is coming to the 3rd Floor.
 date: "2014-01-24 09:40:27 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

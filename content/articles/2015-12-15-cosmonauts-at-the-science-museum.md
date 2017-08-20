@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Celebrating the birth of the space age
 date: "2015-12-15 13:11:24 +0000"
-image: "http://felixonline.co.uk/"
 draft: true
 headline: true
 featured: true

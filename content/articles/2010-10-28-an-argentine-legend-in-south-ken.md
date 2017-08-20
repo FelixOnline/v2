@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The world renowned Argentine steak at El Gauchoa
 date: "2010-10-28 19:41:36 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

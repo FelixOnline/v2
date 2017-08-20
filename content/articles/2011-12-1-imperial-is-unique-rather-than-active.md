@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Union's neutrality makes them different
 date: "2011-12-01 21:17:43 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

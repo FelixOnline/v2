@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The long-awaited Allen Jones Retrospective is panned by Fred Fyles
 date: "2014-12-18 16:05:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

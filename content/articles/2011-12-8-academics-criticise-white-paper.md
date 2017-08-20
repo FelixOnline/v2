@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial, Oxford, and Cambridge join forces against Government policy
 date: "2011-12-08 20:12:06 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

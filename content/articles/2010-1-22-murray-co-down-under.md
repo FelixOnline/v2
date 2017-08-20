@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sports Editor Indy Leclerq's thoughts on Andy Murray's chances in Oz
 date: "2010-01-22 13:21:11 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

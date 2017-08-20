@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial has made savings of over £70,000 in the past two years due to ceased subscriptions
 date: "2011-06-16 19:08:04 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Will Hunter discusses the new robots that can feel human emotions
 date: "2014-02-17 17:16:30 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

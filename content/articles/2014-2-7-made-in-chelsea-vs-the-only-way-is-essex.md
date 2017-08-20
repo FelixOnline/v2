@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After the initial blinding from the blonde hair and the fake tans, we collected as a team.
 date: "2014-02-07 04:52:36 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

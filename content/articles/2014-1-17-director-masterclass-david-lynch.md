@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lynch is the master of creating unsettling dreamlike visions and the surreal. He has written and directed cult classics such as Eraserhead (1977), Blue Velvet (1986) and Mulholland Drive (2001).
 date: "2014-01-17 04:04:20 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

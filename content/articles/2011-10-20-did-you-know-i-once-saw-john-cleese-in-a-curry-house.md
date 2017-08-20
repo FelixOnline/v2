@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Are celebrities a scourge on society?
 date: "2011-10-20 23:12:54 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

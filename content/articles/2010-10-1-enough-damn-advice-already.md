@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Freshers’ Flu is a real phenomenon. What I have found really makes Freshers sick, however, is advice
 date: "2010-10-01 22:40:15 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

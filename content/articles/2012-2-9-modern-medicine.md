@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The latest Friends of Imperial College talks takes a look into recent work from the Human Genome Project
 date: "2012-02-09 22:54:33 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

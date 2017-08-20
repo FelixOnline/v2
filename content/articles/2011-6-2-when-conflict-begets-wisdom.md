@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There are some who are strong enough to forgive
 date: "2011-06-02 19:33:19 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

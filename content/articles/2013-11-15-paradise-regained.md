@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Thomas Heaven catches Paradise Lost’s 25th anniversary show
 date: "2013-11-15 18:05:52 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

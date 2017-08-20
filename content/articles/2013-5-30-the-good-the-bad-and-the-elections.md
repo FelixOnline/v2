@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on the bad news, the good news, and the Election news
 date: "2013-05-30 16:05:41 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

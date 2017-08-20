@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Google announced a few weeks ago via a Google+ post that it has plans to create its very own smartwatch.
 date: "2014-05-02 01:48:20 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

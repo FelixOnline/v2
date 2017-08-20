@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new centre that collaborates with Dyson will be launching at Imperial in the Department of Computing, this will be the Dyson Robotics Laboratory.
 date: "2014-02-14 04:30:09 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The second installment of Eoghan Totten’s short story
 date: "2013-12-02 22:11:55 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

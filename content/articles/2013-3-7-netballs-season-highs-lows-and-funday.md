@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICUNC President Nancy Edge reflects on her season
 date: "2013-03-07 22:07:52 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

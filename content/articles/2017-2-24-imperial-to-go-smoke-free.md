@@ -4,7 +4,6 @@ title: >
 subtitle: >
   *Some exceptions apply
 date: "2017-02-24 13:44:42 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

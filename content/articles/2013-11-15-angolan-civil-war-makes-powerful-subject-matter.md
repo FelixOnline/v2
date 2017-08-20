@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Play at the new Park Theatre is breathtaking, says Blaise Verhasselt
 date: "2013-11-15 02:33:45 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

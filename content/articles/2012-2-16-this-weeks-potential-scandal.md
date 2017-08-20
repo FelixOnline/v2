@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Musings about last week's storm in a teacup
 date: "2012-02-16 22:18:23 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

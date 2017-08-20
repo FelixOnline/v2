@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I can only hope the Olympic organisers actually get people into the venue
 date: "2011-02-17 19:58:21 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We’ll do all the cool militant wing stuff like pixelate our faces when we go on the news, and claim responsibility for any errors found in exams, that sort of thing
 date: "2011-06-11 17:31:01 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

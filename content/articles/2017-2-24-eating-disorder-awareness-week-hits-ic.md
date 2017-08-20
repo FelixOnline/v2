@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This year's theme is early intervention
 date: "2017-02-24 13:45:55 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

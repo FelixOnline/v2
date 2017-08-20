@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Editor Joe Letts gives a hurried welcome while putting together the Freshers' issue...
 date: "2013-09-28 00:03:32 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

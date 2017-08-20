@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nashville: Season 2 In a battle for the top of the country charts, let the cat-fights commence between an older living legend who is struggling to keep up with the evolving music industry, and a younger, fresh-faced new star who is experiencing success as a crossover artist between country and...
 date: "2013-11-08 10:04:55 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

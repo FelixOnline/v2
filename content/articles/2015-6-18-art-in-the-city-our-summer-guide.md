@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Arts presents our cultural guide of what’s on this summer
 date: "2015-06-18 22:02:17 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

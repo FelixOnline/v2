@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A dream of liquid light
 date: "2012-06-14 21:00:28 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New pilot scheme aims to put degrees in a 'broader context'
 date: "2012-01-12 22:09:40 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

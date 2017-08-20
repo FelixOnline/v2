@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Trying to define this art movement is Indy Leclercq's greatest challenge yet
 date: "2011-10-20 22:27:23 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

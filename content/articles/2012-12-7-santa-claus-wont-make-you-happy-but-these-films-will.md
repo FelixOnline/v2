@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Christmas season is my favourite time of year, but if you're anything like me, all the grinchy people around can make it hard to get in the mood. We've come up with a film for every day of Advent – call it an early Christmas present...
 date: "2012-12-07 15:06:18 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

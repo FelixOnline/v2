@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial ease back into the Development League
 date: "2011-11-24 23:44:01 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

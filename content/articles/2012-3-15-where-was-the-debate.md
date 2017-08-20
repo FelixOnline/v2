@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philip Kent demands the right to publicly grill election candidates, else #voteicu gets it!
 date: "2012-03-15 22:28:27 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

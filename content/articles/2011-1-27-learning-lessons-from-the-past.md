@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I remember going back a year after the war ended
 date: "2011-01-27 19:38:24 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

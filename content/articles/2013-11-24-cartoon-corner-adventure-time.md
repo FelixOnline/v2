@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tom Rivlin brings us the very first Cartoon Corner!
 date: "2013-11-24 16:33:15 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

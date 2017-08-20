@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Miss Tianlin Wang a 2013-14 Management MSc student was found dead last week.
 date: "2014-02-27 16:50:15 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

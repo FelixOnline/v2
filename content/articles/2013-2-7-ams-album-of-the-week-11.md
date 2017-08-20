@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Unknown Mortal Orchestra: II
 date: "2013-02-07 22:52:16 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Facebook's Privacy?
 date: "2011-01-20 19:26:37 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It is time to acknowledge the existence of a rape culture
 date: "2012-03-15 21:49:05 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

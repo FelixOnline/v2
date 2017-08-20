@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles is impressed by the Barbican’s display of unseen collections
 date: "2015-02-17 16:39:50 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

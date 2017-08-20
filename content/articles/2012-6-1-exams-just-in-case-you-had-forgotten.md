@@ -4,7 +4,6 @@ title: >
 subtitle: >
   So I heard this 'revision' thing was all the rage right now
 date: "2012-06-01 12:48:42 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

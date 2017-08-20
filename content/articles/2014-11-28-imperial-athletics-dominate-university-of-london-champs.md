@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gareth Holden and Shiv Patel talk about their strong performance at the University of London Championships in Lee Valley.
 date: "2014-11-28 01:15:46 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

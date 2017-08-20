@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park on the latest Coen Brothers' Film: Inside Llweyn Lewis
 date: "2013-10-25 00:44:16 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

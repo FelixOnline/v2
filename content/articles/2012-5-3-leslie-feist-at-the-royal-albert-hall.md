@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Falling in love all over again with Canada’s finest
 date: "2012-05-03 17:56:43 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Aaronovitch's new work brings magic to the police
 date: "2011-10-07 10:25:46 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

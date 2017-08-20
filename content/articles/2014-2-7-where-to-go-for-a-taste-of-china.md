@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Okay, apart from your local Chinese takeaway and Chinatown...
 date: "2014-02-07 04:48:12 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

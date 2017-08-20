@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yo Yo, listen up! We got the Careers Service in to give you some hints and tips for essential networking practices you can use to land that new job or competitive internship. Remember who got you that Lambourghini... -Ed.
 date: "2013-10-13 00:10:54 +0100"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

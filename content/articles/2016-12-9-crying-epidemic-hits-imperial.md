@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students break down as term nears to an end
 date: "2016-12-09 11:54:36 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true

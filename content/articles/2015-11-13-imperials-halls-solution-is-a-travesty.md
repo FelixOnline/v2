@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The accomodation rent hikes are extortion, plain and simple
 date: "2015-11-13 14:31:30 +0000"
-image: "http://felixonline.co.uk/"
 headline: true
 featured: true
 imported: true
