@@ -17,13 +17,12 @@ comments:
 categories:
  - sport
 tags:
- - sport
  - imported
  - image
  - multi-author
 authors:
  - aib116
- - xinjin.ho15
+ - xinjinho15
 highlights:
 
 # Homepage control params

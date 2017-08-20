@@ -19,14 +19,13 @@ comments:
 categories:
  - arts
 tags:
- - arts
  - imported
  - image
  - imported_comments
  - multi-author
 authors:
  - jc7413
- - waleed el-geresy
+ - waleedelgeresy
  - wbe15
 highlights:
  - comment

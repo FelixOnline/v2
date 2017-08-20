@@ -19,13 +19,12 @@ comments:
 categories:
  - comment
 tags:
- - comment
  - imported
  - imported_comments
  - multi-author
 authors:
  - jal08
- - smpotter-1
+ - smpotter1
 highlights:
  - comment
 

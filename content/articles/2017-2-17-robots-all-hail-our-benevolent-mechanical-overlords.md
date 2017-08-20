@@ -19,12 +19,11 @@ comments:
 categories:
  - arts
 tags:
- - arts
  - imported
  - image
  - imported_comments
 authors:
- - agnese.abrusci16
+ - agneseabrusci16
 highlights:
  - comment
  - photos

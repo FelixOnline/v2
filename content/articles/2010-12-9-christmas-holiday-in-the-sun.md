@@ -17,7 +17,6 @@ comments:
 categories:
  - travel
 tags:
- - travel
  - imported
  - multi-author
 authors:

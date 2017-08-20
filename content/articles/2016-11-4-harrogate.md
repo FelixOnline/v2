@@ -17,12 +17,11 @@ comments:
 categories:
  - arts
 tags:
- - arts
  - imported
  - image
  - multi-author
 authors:
- - adam.gellatly14
+ - adamgellatly14
  - aib116
 highlights:
 

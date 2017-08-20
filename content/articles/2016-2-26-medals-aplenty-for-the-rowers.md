@@ -19,7 +19,6 @@ comments:
 categories:
  - sport
 tags:
- - sport
  - imported
  - image
  - imported_comments

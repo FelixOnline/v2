@@ -17,11 +17,10 @@ comments:
 categories:
  - sport
 tags:
- - sport
  - imported
  - image
 authors:
- - harry.allingham1
+ - harryallingham1
 highlights:
 
 # Homepage control params

@@ -21,7 +21,6 @@ comments:
 categories:
  - news
 tags:
- - news
  - imported
  - image
  - imported_comments

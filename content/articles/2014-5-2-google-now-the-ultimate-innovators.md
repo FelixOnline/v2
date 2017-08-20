@@ -19,7 +19,6 @@ comments:
 categories:
  - tech
 tags:
- - tech
  - imported
  - imported_comments
  - multi-author

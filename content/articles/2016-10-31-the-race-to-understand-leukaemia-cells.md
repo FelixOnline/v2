@@ -17,11 +17,10 @@ comments:
 categories:
  - science
 tags:
- - science
  - imported
  - image
 authors:
- - nefeli maria sko
+ - nefelimariasko
 highlights:
 
 # Homepage control params

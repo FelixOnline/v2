@@ -17,12 +17,11 @@ comments:
 categories:
  - fashion
 tags:
- - fashion
  - imported
  - image
  - multi-author
 authors:
- - AY310
+ - ay310
  - ay310
 highlights:
  - photos

@@ -19,13 +19,12 @@ comments:
 categories:
  - news
 tags:
- - news
  - imported
  - image
  - imported_comments
  - multi-author
 authors:
- - AR3310
+ - ar3310
  - ar3310
 highlights:
  - comment

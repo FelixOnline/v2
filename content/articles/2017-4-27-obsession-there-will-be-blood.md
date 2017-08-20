@@ -17,11 +17,10 @@ comments:
 categories:
  - arts
 tags:
- - arts
  - imported
  - image
 authors:
- - agnese.abrusci16
+ - agneseabrusci16
 highlights:
 
 # Homepage control params

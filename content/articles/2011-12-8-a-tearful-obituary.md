@@ -17,7 +17,6 @@ comments:
 categories:
  - music
 tags:
- - music
  - imported
  - image
  - multi-author

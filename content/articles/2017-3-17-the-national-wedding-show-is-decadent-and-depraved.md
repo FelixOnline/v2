@@ -19,12 +19,11 @@ comments:
 categories:
  - features
 tags:
- - features
  - imported
  - image
  - imported_comments
 authors:
- - theo.farah13
+ - theofarah13
 highlights:
  - comment
  - photos

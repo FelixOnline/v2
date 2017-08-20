@@ -17,11 +17,10 @@ comments:
 categories:
  - science
 tags:
- - science
  - imported
  - image
 authors:
- -  ipsita.herlekar
+ - ipsitaherlekar
 highlights:
 
 # Homepage control params

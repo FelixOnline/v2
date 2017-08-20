@@ -19,7 +19,6 @@ comments:
 categories:
  - food
 tags:
- - food
  - imported
  - image
  - imported_comments

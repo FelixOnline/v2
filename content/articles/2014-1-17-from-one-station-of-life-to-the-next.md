@@ -17,7 +17,6 @@ comments:
 categories:
  - film
 tags:
- - film
  - imported
 authors:
  - jgp09

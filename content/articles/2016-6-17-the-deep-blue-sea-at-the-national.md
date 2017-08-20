@@ -17,12 +17,11 @@ comments:
 categories:
  - arts
 tags:
- - arts
  - imported
  - image
  - multi-author
 authors:
- - waleed el-geresy
+ - waleedelgeresy
  - wbe15
 highlights:
 

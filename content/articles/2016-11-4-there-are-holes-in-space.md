@@ -17,11 +17,10 @@ comments:
 categories:
  - science
 tags:
- - science
  - imported
  - image
 authors:
- - danel.medelbekov
+ - danelmedelbekov
 highlights:
 
 # Homepage control params

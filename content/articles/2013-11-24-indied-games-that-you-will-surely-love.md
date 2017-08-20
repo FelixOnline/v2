@@ -19,7 +19,6 @@ comments:
 categories:
  - games
 tags:
- - games
  - imported
  - imported_comments
  - multi-author

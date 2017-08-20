@@ -17,11 +17,10 @@ comments:
 categories:
  - news
 tags:
- - news
  - imported
  - image
 authors:
- - theo.farah13
+ - theofarah13
 highlights:
 
 # Homepage control params

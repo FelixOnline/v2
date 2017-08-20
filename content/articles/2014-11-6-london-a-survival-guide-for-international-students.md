@@ -17,7 +17,6 @@ comments:
 categories:
  - welfare
 tags:
- - welfare
  - imported
  - multi-author
 authors:

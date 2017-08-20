@@ -19,7 +19,6 @@ comments:
 categories:
  - sex
 tags:
- - sex
  - imported
  - image
  - imported_comments

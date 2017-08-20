@@ -17,7 +17,6 @@ comments:
 categories:
  - comment
 tags:
- - comment
  - imported
 authors:
  - felix

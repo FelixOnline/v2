@@ -17,11 +17,10 @@ comments:
 categories:
  - millennials
 tags:
- - millennials
  - imported
  - image
 authors:
- - theo.farah13
+ - theofarah13
 highlights:
 
 # Homepage control params

@@ -17,13 +17,12 @@ comments:
 categories:
  - comment
 tags:
- - comment
  - imported
  - image
  - multi-author
 authors:
  - felix
- - michael.purdy14
+ - michaelpurdy14
 highlights:
  - photos
 

@@ -19,7 +19,6 @@ comments:
 categories:
  - all
 tags:
- - all
  - imported
  - image
  - imported_comments

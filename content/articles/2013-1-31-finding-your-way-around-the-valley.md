@@ -19,7 +19,6 @@ comments:
 categories:
  - business
 tags:
- - business
  - imported
  - image
  - imported_comments

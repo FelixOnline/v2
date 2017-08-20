@@ -19,13 +19,12 @@ comments:
 categories:
  - comment
 tags:
- - comment
  - imported
  - image
  - imported_comments
  - multi-author
 authors:
- - AR3310
+ - ar3310
  - fcomment
 highlights:
  - comment

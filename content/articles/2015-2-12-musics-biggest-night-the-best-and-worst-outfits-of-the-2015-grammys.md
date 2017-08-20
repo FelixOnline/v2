@@ -19,7 +19,6 @@ comments:
 categories:
  - fashion
 tags:
- - fashion
  - imported
  - imported_comments
  - multi-author

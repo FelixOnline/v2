@@ -17,7 +17,6 @@ comments:
 categories:
  - food
 tags:
- - food
  - imported
 authors:
  - aib116

@@ -17,7 +17,6 @@ comments:
 categories:
  - food
 tags:
- - food
  - imported
  - image
  - multi-author

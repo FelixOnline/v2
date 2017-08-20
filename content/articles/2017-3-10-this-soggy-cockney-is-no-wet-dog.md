@@ -17,11 +17,10 @@ comments:
 categories:
  - sport
 tags:
- - sport
  - imported
  - image
 authors:
- - pun.cheuk-nga-ja
+ - puncheukngaja
 highlights:
 
 # Homepage control params

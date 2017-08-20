@@ -17,11 +17,10 @@ comments:
 categories:
  - comment
 tags:
- - comment
  - imported
  - image
 authors:
- - sara.hamilton14
+ - sarahamilton14
 highlights:
 
 # Homepage control params

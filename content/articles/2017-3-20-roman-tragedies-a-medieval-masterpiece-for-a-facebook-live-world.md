@@ -19,12 +19,11 @@ comments:
 categories:
  - arts
 tags:
- - arts
  - imported
  - image
  - imported_comments
 authors:
- - adam.gellatly14
+ - adamgellatly14
 highlights:
  - comment
  - longread

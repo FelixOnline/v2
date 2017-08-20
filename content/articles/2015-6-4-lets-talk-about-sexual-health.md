@@ -19,7 +19,6 @@ comments:
 categories:
  - features
 tags:
- - features
  - imported
  - image
  - imported_comments

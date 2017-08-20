@@ -19,7 +19,6 @@ comments:
 categories:
  - comment
 tags:
- - comment
  - imported
  - imported_comments
  - multi-author

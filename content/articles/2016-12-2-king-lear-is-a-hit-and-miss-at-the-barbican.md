@@ -17,11 +17,10 @@ comments:
 categories:
  - arts
 tags:
- - arts
  - imported
  - image
 authors:
- - adam.gellatly14
+ - adamgellatly14
 highlights:
 
 # Homepage control params

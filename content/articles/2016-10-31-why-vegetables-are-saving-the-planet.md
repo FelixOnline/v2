@@ -17,13 +17,12 @@ comments:
 categories:
  - science
 tags:
- - science
  - imported
  - image
  - multi-author
 authors:
  - felix
- - sara.hamilton14
+ - sarahamilton14
 highlights:
 
 # Homepage control params

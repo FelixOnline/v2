@@ -17,10 +17,9 @@ comments:
 categories:
  - science
 tags:
- - science
  - imported
 authors:
- - aran.shaunak16
+ - aranshaunak16
 highlights:
 
 # Homepage control params

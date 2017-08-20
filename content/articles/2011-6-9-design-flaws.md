@@ -19,7 +19,6 @@ comments:
 categories:
  - phoenix
 tags:
- - phoenix
  - imported
  - image
  - imported_comments

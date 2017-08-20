@@ -19,7 +19,6 @@ comments:
 categories:
  - politics
 tags:
- - politics
  - imported
  - image
  - imported_comments

@@ -17,7 +17,6 @@ comments:
 categories:
  - sex
 tags:
- - sex
  - imported
  - image
  - multi-author

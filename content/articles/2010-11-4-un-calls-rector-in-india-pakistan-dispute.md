@@ -17,7 +17,6 @@ comments:
 categories:
  - politics
 tags:
- - politics
  - imported
 authors:
  - jl807

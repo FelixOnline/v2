@@ -19,7 +19,6 @@ comments:
 categories:
  - music
 tags:
- - music
  - imported
  - imported_comments
  - multi-author

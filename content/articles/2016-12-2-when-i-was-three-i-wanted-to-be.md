@@ -17,12 +17,11 @@ comments:
 categories:
  - science
 tags:
- - science
  - imported
  - image
  - multi-author
 authors:
- - aran.shaunak16
+ - aranshaunak16
  - felix
 highlights:
 

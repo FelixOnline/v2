@@ -17,11 +17,10 @@ comments:
 categories:
  - science
 tags:
- - science
  - imported
  - image
 authors:
- - amy.thomas16
+ - amythomas16
 highlights:
 
 # Homepage control params

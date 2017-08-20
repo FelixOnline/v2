@@ -17,11 +17,10 @@ comments:
 categories:
  - music
 tags:
- - music
  - imported
  - image
 authors:
- - adam.gellatly14
+ - adamgellatly14
 highlights:
  - longread
  - photos

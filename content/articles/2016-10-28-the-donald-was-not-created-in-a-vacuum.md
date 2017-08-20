@@ -17,13 +17,12 @@ comments:
 categories:
  - comment
 tags:
- - comment
  - imported
  - image
  - multi-author
 authors:
  - aib116
- - shaul.simmonds--
+ - shaulsimmonds
 highlights:
  - photos
 

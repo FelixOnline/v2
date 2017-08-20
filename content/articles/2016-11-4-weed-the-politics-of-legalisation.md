@@ -17,13 +17,12 @@ comments:
 categories:
  - millennials
 tags:
- - millennials
  - imported
  - image
  - multi-author
 authors:
- - agnese.abrusci16
- - christopher.haig
+ - agneseabrusci16
+ - christopherhaig
  - felix
  - felixteam
 highlights:

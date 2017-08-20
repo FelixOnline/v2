@@ -17,13 +17,12 @@ comments:
 categories:
  - arts
 tags:
- - arts
  - imported
  - image
  - multi-author
 authors:
  - aib116
- - ezra.kitson14
+ - ezrakitson14
 highlights:
 
 # Homepage control params

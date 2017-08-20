@@ -17,7 +17,6 @@ comments:
 categories:
  - books
 tags:
- - books
  - imported
  - multi-author
 authors:

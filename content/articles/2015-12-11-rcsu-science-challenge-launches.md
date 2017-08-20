@@ -17,7 +17,6 @@ comments:
 categories:
  - news
 tags:
- - news
  - imported
 authors:
  - aa15712

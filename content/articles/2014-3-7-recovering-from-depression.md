@@ -17,7 +17,6 @@ comments:
 categories:
  - features
 tags:
- - features
  - imported
  - multi-author
 authors:

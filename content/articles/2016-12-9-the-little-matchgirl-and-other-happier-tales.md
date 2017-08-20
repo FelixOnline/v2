@@ -17,11 +17,10 @@ comments:
 categories:
  - arts
 tags:
- - arts
  - imported
  - image
 authors:
- - ezra.kitson14
+ - ezrakitson14
 highlights:
 
 # Homepage control params

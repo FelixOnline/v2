@@ -19,7 +19,6 @@ comments:
 categories:
  - news
 tags:
- - news
  - imported
  - imported_comments
 authors:

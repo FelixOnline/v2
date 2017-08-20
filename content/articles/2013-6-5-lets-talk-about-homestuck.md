@@ -19,7 +19,6 @@ comments:
 categories:
  - books
 tags:
- - books
  - imported
  - image
  - imported_comments

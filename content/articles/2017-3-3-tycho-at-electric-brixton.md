@@ -17,11 +17,10 @@ comments:
 categories:
  - music
 tags:
- - music
  - imported
  - image
 authors:
- - theo.farah13
+ - theofarah13
 highlights:
 
 # Homepage control params

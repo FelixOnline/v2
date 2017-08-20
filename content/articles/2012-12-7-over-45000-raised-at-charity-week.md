@@ -17,12 +17,11 @@ comments:
 categories:
  - news
 tags:
- - news
  - imported
  - image
  - multi-author
 authors:
- - AR3310
+ - ar3310
  - he110
 highlights:
  - photos

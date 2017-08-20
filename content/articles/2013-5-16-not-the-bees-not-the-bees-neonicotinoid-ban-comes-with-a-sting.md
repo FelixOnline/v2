@@ -21,7 +21,6 @@ comments:
 categories:
  - science
 tags:
- - science
  - imported
  - image
  - imported_comments

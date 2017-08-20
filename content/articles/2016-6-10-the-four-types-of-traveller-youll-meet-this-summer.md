@@ -17,11 +17,10 @@ comments:
 categories:
  - comment
 tags:
- - comment
  - imported
  - image
 authors:
- - the angry grad
+ - theangrygrad
 highlights:
 
 # Homepage control params

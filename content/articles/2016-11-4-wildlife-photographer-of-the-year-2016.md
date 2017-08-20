@@ -17,12 +17,11 @@ comments:
 categories:
  - science
 tags:
- - science
  - imported
  - image
  - multi-author
 authors:
- - george.brooks14
+ - georgebrooks14
  - mw4414
 highlights:
  - longread

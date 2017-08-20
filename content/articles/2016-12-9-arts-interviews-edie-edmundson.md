@@ -17,12 +17,11 @@ comments:
 categories:
  - arts
 tags:
- - arts
  - imported
  - image
  - multi-author
 authors:
- - ezra.kitson14
+ - ezrakitson14
  - im1413
 highlights:
 

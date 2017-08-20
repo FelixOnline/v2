@@ -17,7 +17,6 @@ comments:
 categories:
  - culture
 tags:
- - culture
  - imported
  - image
  - multi-author

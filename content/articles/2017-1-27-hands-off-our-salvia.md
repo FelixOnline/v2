@@ -17,11 +17,10 @@ comments:
 categories:
  - millennials
 tags:
- - millennials
  - imported
  - image
 authors:
- - christopher.haig
+ - christopherhaig
 highlights:
 
 # Homepage control params

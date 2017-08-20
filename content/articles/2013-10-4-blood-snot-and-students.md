@@ -17,7 +17,6 @@ comments:
 categories:
  - science
 tags:
- - science
  - imported
 authors:
  - frh10

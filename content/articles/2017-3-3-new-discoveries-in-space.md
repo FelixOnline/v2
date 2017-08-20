@@ -19,12 +19,11 @@ comments:
 categories:
  - science
 tags:
- - science
  - imported
  - image
  - imported_comments
 authors:
- - sara.hamilton14
+ - sarahamilton14
 highlights:
  - comment
 

@@ -19,7 +19,6 @@ comments:
 categories:
  - arts
 tags:
- - arts
  - imported
  - imported_comments
  - multi-author

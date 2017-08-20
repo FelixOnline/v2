@@ -17,7 +17,6 @@ comments:
 categories:
  - millennials
 tags:
- - millennials
  - imported
  - image
  - multi-author

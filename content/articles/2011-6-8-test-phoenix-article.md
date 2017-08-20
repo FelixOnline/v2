@@ -17,7 +17,6 @@ comments:
 categories:
  - phoenix
 tags:
- - phoenix
  - imported
 authors:
  - jk708

@@ -19,7 +19,6 @@ comments:
 categories:
  - science
 tags:
- - science
  - imported
  - imported_comments
 authors:

@@ -17,13 +17,12 @@ comments:
 categories:
  - sport
 tags:
- - sport
  - imported
  - image
  - multi-author
 authors:
  - aib116
- - aleksandar.kiril
+ - aleksandarkiril
 highlights:
 
 # Homepage control params

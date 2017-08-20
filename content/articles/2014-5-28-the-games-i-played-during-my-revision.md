@@ -17,7 +17,6 @@ comments:
 categories:
  - games
 tags:
- - games
  - imported
 authors:
  - me1711

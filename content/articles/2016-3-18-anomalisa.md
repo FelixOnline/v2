@@ -19,7 +19,6 @@ comments:
 categories:
  - film
 tags:
- - film
  - imported
  - imported_comments
 authors:

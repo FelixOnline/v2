@@ -17,14 +17,13 @@ comments:
 categories:
  - film
 tags:
- - film
  - imported
  - image
  - multi-author
 authors:
  - aib116
  - el416
- - theo.farah13
+ - theofarah13
 highlights:
 
 # Homepage control params

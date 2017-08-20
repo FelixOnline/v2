@@ -17,13 +17,12 @@ comments:
 categories:
  - sport
 tags:
- - sport
  - imported
  - image
  - multi-author
 authors:
  - aib116
- - harry.allingham1
+ - harryallingham1
 highlights:
 
 # Homepage control params

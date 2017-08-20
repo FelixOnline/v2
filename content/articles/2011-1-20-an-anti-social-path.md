@@ -19,7 +19,6 @@ comments:
 categories:
  - tech
 tags:
- - tech
  - imported
  - image
  - imported_comments

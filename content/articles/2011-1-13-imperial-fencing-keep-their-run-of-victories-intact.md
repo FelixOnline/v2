@@ -17,7 +17,6 @@ comments:
 categories:
  - sport
 tags:
- - sport
  - imported
  - multi-author
 authors:

@@ -17,11 +17,10 @@ comments:
 categories:
  - science
 tags:
- - science
  - imported
  - image
 authors:
- - sara.hamilton14
+ - sarahamilton14
 highlights:
  - photos
 

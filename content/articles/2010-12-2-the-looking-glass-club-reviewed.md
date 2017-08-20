@@ -17,7 +17,6 @@ comments:
 categories:
  - arts
 tags:
- - arts
  - imported
 authors:
  - lm08

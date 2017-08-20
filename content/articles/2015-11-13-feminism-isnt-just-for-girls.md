@@ -19,13 +19,12 @@ comments:
 categories:
  - comment
 tags:
- - comment
  - imported
  - image
  - imported_comments
  - multi-author
 authors:
- - the angry grad
+ - theangrygrad
  - ygr12
 highlights:
  - comment

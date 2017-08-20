@@ -19,12 +19,11 @@ comments:
 categories:
  - arts
 tags:
- - arts
  - imported
  - image
  - imported_comments
 authors:
- - ezra.kitson14
+ - ezrakitson14
 highlights:
  - comment
 

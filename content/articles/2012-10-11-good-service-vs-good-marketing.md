@@ -17,7 +17,6 @@ comments:
 categories:
  - business
 tags:
- - business
  - imported
  - multi-author
 authors:

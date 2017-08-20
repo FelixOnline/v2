@@ -17,7 +17,6 @@ comments:
 categories:
  - tv
 tags:
- - tv
  - imported
  - multi-author
 authors:

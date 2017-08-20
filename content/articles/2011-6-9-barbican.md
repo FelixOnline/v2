@@ -17,7 +17,6 @@ comments:
 categories:
  - phoenix
 tags:
- - phoenix
  - imported
  - image
  - multi-author

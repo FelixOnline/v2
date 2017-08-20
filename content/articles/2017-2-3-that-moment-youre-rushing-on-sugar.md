@@ -19,7 +19,6 @@ comments:
 categories:
  - millennials
 tags:
- - millennials
  - imported
  - image
  - imported_comments

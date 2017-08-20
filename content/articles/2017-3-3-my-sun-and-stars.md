@@ -19,12 +19,11 @@ comments:
 categories:
  - science
 tags:
- - science
  - imported
  - image
  - imported_comments
 authors:
- - aran.shaunak16
+ - aranshaunak16
 highlights:
  - comment
 

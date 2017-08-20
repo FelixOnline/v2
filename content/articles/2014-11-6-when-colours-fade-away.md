@@ -19,7 +19,6 @@ comments:
 categories:
  - welfare
 tags:
- - welfare
  - imported
  - image
  - imported_comments
