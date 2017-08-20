@@ -32,8 +32,8 @@
       {{ range .Params.authors }}
         {{ $authorPage := ($.Site.GetPage "taxonomyTerm" "authors" .) }}
         <p><a href="{{ $.Site.BaseURL }}authors/{{ . }}">{{ $authorPage.Title }}</a></p>
-        {{ if (not (eq $authorPage.Params.image_path "")) }}
-          <img width="100" src="{{ $.Site.Params.imageProxy }}{{ replace $authorPage.Params.image_path "http://" "" }}&w=100"/>
+        {{ if (not (eq $authorPage.Params.image "")) }}
+          <img width="100" src="{{ $.Site.Params.imageProxy }}{{ replace $authorPage.Params.image "http://" "" }}&w=100"/>
         {{ end }}
       {{ end }}
     </div>
