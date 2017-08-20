@@ -39,8 +39,6 @@ SQL
 client.query(ALL_AUTHORS_QUERY).each_with_index do |r, i|
   r["id"] = format_username(r["id"])
 
-  # next if r["id"] == "felix"
-
   md = %w(---)
   md << "id: \"#{r["id"]}\""
   md << "title: #{r["name"]}"
@@ -74,8 +72,6 @@ select
 
   image.uri as image_path,
   article.img_caption as image_caption,
-  image.width as image_width,
-  image.height as image_height,
   image.attribution as image_attribution,
   image.attr_link as image_attribution_link,
 
@@ -141,8 +137,6 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "\n# Image metadata"
   md << "image_path: \"http://felixonline.co.uk/#{r["image_path"]}\""
   md << "image_caption: >\n  #{r["image_caption"]}"
-  md << "image_width: \"#{r["image_width"]}\""
-  md << "image_height: \"#{r["image_height"]}\""
   md << "image_attribution: \"#{(r["image_attribution"] || "").gsub(/\W*\\\W*/, " - ").gsub(/^\W+/, "")}\""
   md << "image_attribution_link: \"#{r["image_attribution_link"]}\""
   md << "video_url: \"#{r["article_video_url"]}\""
@@ -170,11 +164,9 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
     elsif section["type"] == "heading"
       md << "## #{section["data"]["text"].strip}"
     elsif section["type"] == "feliximage"
-      # TODO: these are felix images, perhaps build an index of them
-      md << "TODO: image from #{section["data"]["image"]["attributionLink"]}"
+      puts "Image section: #{section["data"]["image"]["attributionLink"]}"
     elsif section["type"] == "video"
-      # TODO: need to build a video embed
-      md << "TODO: video from #{section["data"]["remote_id"]}"
+      puts "Video " + section["data"]["remote_id"]
     else
       pp section
       raise
@@ -188,6 +180,5 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   contents.gsub!(/ +$/, "")
   contents.gsub!(/\\(\W)/, '\1')
 
-  # TODO: some articles are missing in the exported folder, investigate
   File.write("content/articles/#{filename}.md", contents)
 end
