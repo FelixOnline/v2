@@ -13,6 +13,7 @@ echo "Removing existing files"
 rm -rf public/*
 
 echo "Generating site"
+echo "!*" > public/.gitignore
 hugo
 touch public/.nojekyll
 
