@@ -7,5 +7,7 @@
 # Tools
 
 * [MS Word to Markdown](https://word-to-markdown.herokuapp.com/)
-* Prose
-* GitHub
+* [Prose](http://prose.io/#FelixOnline/felixonline.github.io)
+  * [New Article](http://prose.io/#FelixOnline/felixonline.github.io/new/master/content/articles)
+  * [Authors](http://prose.io/#charlieegan3/felixonline/tree/master/content/authors)
+* [GitHub](https://github.com/FelixOnline/felixonline.github.io/)
