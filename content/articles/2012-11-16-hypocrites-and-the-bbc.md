@@ -32,9 +32,13 @@ The [BBC](http://www.bbc.co.uk/) has been having an interesting few days. Or at 
 All of this was sufficiently terrible that, on Saturday night, the Director General, George Entwistle, resigned after just 54 days in the job, mostly since he was in charge of television when all the Savile stuff happened. I imagine his predecessor is sat cackling to himself somewhere. The highlight of the entire scandal was how the BBC did an investigation into itself when Panorama did a program exposing Newsnight’s flaws. It got better when[ Entwistle went on the Today Program](http://news.bbc.co.uk/today/hi/today/newsid_9768000/9768406.stm) to defend his actions, faced an unrelenting John Humphreys and was torn apart. The BBCs masochism is un-matched; would Rupert Murdoch be interrogated over phone hacking on Sky?
 
 It’s brilliant. The BBC doesn’t need any kind of external inquiry or panel of investigators, because it does such a good job bringing itself into disrepute. It’s the ultimate in transparent organisations. The boss has given a public interview lead by his own employee which leads to him resigning from his job. No other news agency would do anything like this.
+
 > The highlight of the entire scandal was how the BBC did an investigation into itself when Panorama did a program exposing Newsnight’s flaws
+
 And yet, other news agencies are finding it appropriate to criticise the BBC over its ethics. The Guardian, The Telegraph and Sky News were all running headlines on their websites this Sunday about Entwistle’s resignation. Must have been a slow news day, oh no wait, it was remembrance Sunday. Looking at the pages they seem to have been put together by somebody sat in a room surrounded by various ‘news 24’ channels and a Twitter feed for quotes. This isn’t news, it’s repetition.
 
 The media outlets of Britain hate the BBC. They despise it and curse its very existence. Why? Because
+
 > The BBC doesn’t need any kind of external inquiry or panel of investigators, because it does such a good job bringing itself into disrepute. It’s the ultimate in transparent organisations
+
 it’s better. For £150 a year customers get 4 TV channels with no adverts, 9 radio stations, an online demand service, impartial news and a useful web site. No one offers this good value and they don’t understand how the BBC does it and so when it slips up absolutely everybody turns on it. The BBC has no friends or allies, just us, the general public who in general, are very happy to pay £150 a year to get its offerings. If you don’t, well, don’t pay its fees then.

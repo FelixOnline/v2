@@ -37,7 +37,9 @@ Consequently, Caroline Lucas MP called for a full public inquiry into the CPS an
 Stephen Phillips MP said he was “horrified” by what Caroline Lucas revealed, adding that it was a “stain on justice in the UK” for Babar to have been imprisoned for over seven years without trial.
 
 Father of Babar Ahmad, Ashfaq Ahmad said: “The government continues to dodge the serious questions raised by Dr Caroline Lucas in relation to the CPS behaviour. The CPS has allowed Babar to languish in prison without trial for over seven years claiming there is “insufficient evidence” to prosecute him, evidence which they now admit they never even saw.”
+
 > Caroline Lucas MP has called for a public inquiry into the handling of evidence
+
 “We fully support Dr Lucas’s call for a full public inquiry into the CPS actions in this case and call on the Attorney General to direct the Director of Public Prosecutions to review all the evidence against Babar with a view to prosecuting him in the UK.”
 
 A motion was passed for the UK’s extradition laws to be urgently reformed in order to strengthen the protection of British citizens. Many MPs called for any potential changes in the law to apply to cases such as those of Babar Ahmad, Talha Ahsan, and Gary McKinnon.

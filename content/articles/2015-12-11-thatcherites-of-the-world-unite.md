@@ -21,7 +21,8 @@ authors:
 highlights:
 ---
 
-> > **Imperial, a rare oasis of sanity surrounded by hysterical student activism**
+> **Imperial, a rare oasis of sanity surrounded by hysterical student activism**
+
 Last week, Felix Music Editor, Cale Tilford, complained that our Union President, Lucinda Sandon-Allum, had expressed admiration for Margaret Thatcher. He went as far as to say that her comments were “problematic” and displayed “…a complete lack of empathy”.
 
 Thatcher is not some fringe character like Donald Trump or Stalin; the British people elected her three times in a row. It’s easy to forget how low Britain had sunk: reduced to working by candlelight and three-day weeks by cynical union leaders who held the British economy hostage. We were considered so weak that a third-rate military junta in Buenos Aires dared to invade sovereign British soil and subjugate British citizens. Thatcher defeated both through sheer force of will, and the world took notice; it was the Russians who christened her the “Iron Lady”.

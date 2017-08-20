@@ -34,7 +34,9 @@ They’re jizzing job offers or something – don’t read too much into this me
 I should have seen the warning signs when, during application, I found out that we’re no longer a member of the University of London nor are we in the NUS. We don’t even get the[ London Student ](http://www.london-student.net/)on campus. All of these lead to one thing: a university that has no connection to the country’s student body, or even to the rest of London.
 
 [Paul Beaumont’s recent commen](http://felixonline.co.uk/comment/3089/nus-a-pottered-history/)t, – “[the NUS] little reflects the needs and wants of the ‘top end’” just seem to scream like a little spoilt brat, “but we’re better than everyone else!” especially when all other unis at the top end are in the NUS. Our Union willingly and arrogantly puts us in a class above every other university, and like the spoilt brat, no one wants to play with us. I mean, our varsity game is against ourselves – that’s sad, Imperial. Really fucking sad.
+
 > The Imperial attitude is warped by our exclusionism
+
 This has some real implications, too: sure, our research and graduate employment might be top, but what about the student experience? There’s so many opportunities we’re missing out on and I’m sure this is just one of the many things contributing to our abysmal student satisfaction rating.
 
 The Imperial attitude is warped by our exclusionism, too. Look at the amount of hate the Feminist Society here has been getting (of which I’m not a member – though this may come as a shock to commenters on my previous article) just for daring to exist. Other universities have had feminist or women’s societies for years. They’re a normal thing, though most Imperial students would never believe that. I’ve even heard of a feminist magazine – Cuntry Life – at Oxford. Oxford! It’s a really worrying sign when we’re winning at conservatism against the country’s oldest university.

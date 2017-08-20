@@ -23,7 +23,9 @@ highlights:
 ---
 
 You may have noticed that this week, the centrefold is a bit different. There are uncensored female nipples in it, and one pair belongs to me. Before you skip ahead (if you haven’t already done so) take a moment to read why this centrefold should not be viewed differently to nipple-free centrefolds and why this is so important.
-> > We live in a society within which breasts are hypersexualised and their function is forgotten
+
+> We live in a society within which breasts are hypersexualised and their function is forgotten
+
 When I was asked if I would like to take part in a Free the Nipple centrefold, my first reaction was “Yes, it’ll be amazing.” I’ve always been taught to be comfortable with nudity, and I’ve never understood the stigma associated with breasts and the female nipple.
 
 Sadly, my excitement isn’t mirrored by society. We are taught that the female nipple is dirty, x-rated. That if we slip a bit of nip we are being provocative or disrespectful. But what is so provocative or disrespectful about something that has ensured the survival of the human race for aeons? Without the female nipple we would not be here today – historically, females born without nipples failed to nurse their offspring and so were unable to pass on their genes into the next generation. But we live in a society within which breasts are hypersexualised and their function is forgotten. We use breasts to sell everything from phones to diets, whilst breastfeeding in public is reproached. Why remind the world of the existence of your nipples when you could just use a bottle, eh?
@@ -31,7 +33,9 @@ Sadly, my excitement isn’t mirrored by society. We are taught that the female 
 This sexualisation of breasts detracts from their beauty, as we are taught that breasts should look a certain way or they are bad. However, in reality, breasts are not there to be perky, they are there to feed young and sustain life. Notwithstanding this, sexualisation is not always harmful – embracing and experiencing sexuality can be both empowering and liberating, but it’s important that women’s bodies aren’t sexualised without their consent. We’ve created a world where breasts are sexualised to the point that their simple exposure is seen as sexual, as opposed to natural and beautiful. Which is really what breasts, bodies and this centrefold are. Beautiful.
 
 The Free the Nipple campaign began four years ago, when Lina Esco created and featured in a film named Free the Nipple. Its aim was to raise awareness of everyday sexism that exists within our society by highlighting the absurdity of censoring female nipples not only within media but generally within society. In subsequent years the campaign has gained both support and momentum, with participation from famous figures including Miley Cyrus and Cara Delevingne.
-> > Exposure of the male nipple has not caused the world to burst into flames, so why are we so afraid that women’s nipples might?
+
+> Exposure of the male nipple has not caused the world to burst into flames, so why are we so afraid that women’s nipples might?
+
 The campaign, whilst focusing on nipples, is about so much more. It is about equality and respect for all people irrespective of gender. It is about mothers around the world who are forced to feed babies in toilet cubicles if they chose nipples over silicone teats. It is about every person having ownership of their own body and celebrating humans of all shapes, sizes, genders and races. It’s about quashing rape culture and the notion that breasts are simply there to look good or please others.
 
 And it is for these reasons I am so passionate about freeing the nipple – it represents true equality for women in our society. If women are able to vote, lead nations and go to space, why on earth must they hide their nipples? Exposure of the male nipple, which is the vestigial twin of the female nipple, has not caused the world to burst into flames, so why are we so afraid that women’s nipples might?

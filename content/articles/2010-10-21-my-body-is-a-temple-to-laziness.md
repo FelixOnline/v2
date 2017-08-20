@@ -27,7 +27,9 @@ A body like this doesn’t just happen by accident, you know. I’m gesturing at
 Bam. Where are you? Still gazing longingly at the impression of my sculpted physique on the bed? Too slow. I’m in the shower. Bit of shampoo. Bit of body wash. Then a little bit of manly screaming as I realise I’ve used the shower gel made with ‘over seven thousand real mint leaves’ and my body is collapsing in menthol-fresh agony. Rinse. More body wash, this time with soothing lavender.
 
 Boom. What’s that? You’re still rendered speechless by the sight of my unbelievably well-constructed neck muscles? I’m sorry, but if you’re looking for me I’ll be in the front room doing bench presses while drinking my muesli-based protein shake through a straw.
+
 > My morning routine consists of stomping around my flat clawing at the pre-emptive ghosts of all the television show hosts I intend on killing
+
 Alright no, I don’t do that. The truth is I’m a little bit overweight, and my morning routine consists of stomping around my flat clawing at the pre-emptive ghosts of all the television show hosts I intend on killing and trying to make tea out of porridge oats. That’s me.
 
 I know I could do a lot better than my wibbly torso, and as a student I should be using my Wednesday afternoons to enrich my life by taking part in all manner of sporting activity, but in reality, I either have too much work or just can’t be bothered. And when the best on offer is the prospect of chasing a small ball around a cuboid room with a bunch of other “blokes” while sweating profusely, well, I suppose I’m just a traditionalist. Where the tradition is dying young and leaving a bloated corpse.

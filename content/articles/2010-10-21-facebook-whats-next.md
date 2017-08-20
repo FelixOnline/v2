@@ -30,7 +30,9 @@ Today, more than 100 Googlers have defected to Facebook amidst extraordinary cou
 The mass migration of Googlers to Facebook indicates one thing: Facebook might just be the next big thing.
 
 And it may even be bigger than Google. Still a privately held company, analysts are predicting that Facebook’s IPO would be larger than Google’s when Google went public in 2004, reports The Financial Times. Part of the reason why those brilliant Silicon Valley luminaries at Google are flocking to the whelp of a company that is Facebook, is to own a small chunk of a company that might, as the whispers go, be valuated at $100 billion not too far in the future, reports Michael Arrington of Tech Crunch.
+
 > Analysts are predicting that Facebook’s IPO would be larger than Google’s
+
 The social network company is going to get bigger than the Facebook as we know it today, because it is just the beginning of something truly revolutionary. Not satisfied with permeating the fabric of our online social life, Facebook aims to extend its tentacles to the mobile platform (now it makes sense to steal Google’s Tseng and Papakipos). Joe Hewitt, one of Firefox’s founders, developed the immensely popular Facebook iPhone app. The new Places feature brings real-world interaction with Facebook to another level, by feeding your current location to Facebook via your mobile. Tech Crunch reports rumours that both Hewitt and Papakipos are in charge of a ‘top secret’ Facebook initiative, to create a Facebook phone to counter the competition from Apple’s iPhone and Google’s Android phones.
 
 Hitting the mobile market is the next sensible step, as there is only so much you can do with a website alone, unless you lug a laptop around with you everywhere you go. As Arrington points out, there is only so much Facebook could reach with an app on those platforms, unless it creates its own tight integration with a mobile operating system.

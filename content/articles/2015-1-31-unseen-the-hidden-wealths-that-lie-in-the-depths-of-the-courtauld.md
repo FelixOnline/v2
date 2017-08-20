@@ -36,7 +36,9 @@ In this first exhibition in the new gallery, _Unseen_ presents a small selection
 _Caricature of three Ecclesiastics_ by the high baroque painter Pier Francesco Mola (1612 - 1666) is one of the most captivating works I have very come across. In this highly stylised caricature, Mola depicts a fattened bishop begging from his comparatively malnourished cardinal. With the pope seated in the background, this profound satirical image not only feels like a work from the 20th century but could comfortably be shown in any satirical magazine today and not feel out of place. A sketch which couldn’t have taken the artist more than ten minutes, the image gives a remarkably deep insight into religious tensions throughout Mola’s career.
 
 Shown by Mola’s caricature and a number of other works, the exhibition is particularly successful in highlighting the artistic freedom drawing offers artists.
+
 > A remarkable opportunity to see a glimpse into the overlooked riches of the Courtauld Institute
+
 At a time where the majority of major works were produced for the aristocracy or the church, sketches could often touch on subjects that larger works couldn’t. This is why Mola’s incredibly modern caricature is so profound.
 
 Other pieces such as Valentin Klotz’ 1675 work _View of Grave_ graphically depicts the destruction following a siege against the heavily damaged church of St. Elizabeth in the background. With the foreground littered with a number of cubic houses, delineated with nervous pen, the work shows a fascinating combination of realism and impressionism. Like Mola’s caricature, the modernity of Klotz’ structures seem to be from another time, not reflecting what is typically expected from the late 17th century.

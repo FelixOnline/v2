@@ -35,7 +35,9 @@ When I talk to my friends – male or female – about being harassed, what I’
 Although I know that it’s not my fault when I get harassed, it’s important to me that my friends reinforce this, instead of somehow making me feel responsible; in this, most of my friends are great, indignant on my behalf and sympathising with how annoying, upsetting or scary it was.
 
 However, I’ve noticed a trend in some of my male friends’ responses when I come to them to vent about some random guy who felt the need to tell me how attractive (or not) I was: telling me I should have behaved differently.
-> > There is no one phrase which will instantly deter further attention
+
+> There is no one phrase which will instantly deter further attention
+
 I recently came home frustrated after having almost identical conversations with two men on the way home, both of whom took issue with my ignoring them when they “just wanted to give [me] a compliment”, wanting to have a bit of a rant and get on with my day.
 
 My friend, a man, was naturally on my side, but criticised my response, saying that I “shouldn’t get so confrontational”.

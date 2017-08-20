@@ -30,8 +30,6 @@ Ironically, in 2014 Imperial asked students to create a massive chalk mural alon
 
 Campaigners think Imperial’s investments don’t reflect its aims as an institution, namely the use of science to solve global challenges. “The fossil fuel industry’s continued exploration is incompatible with our future and undermines the research done here on low carbon technologies and climate change,” says Naomi Pratt, one of the campaigners.
 
-
-
 {{< figure src="http://felixonline.co.uk/img/upload/201705121859-felix-IMG_9032.jpg" title="Orange is the new black" caption="Orange is the new black" attr="Lef Apostolakis" >}}
 
 Though both actions were quickly suppressed and it’s unclear how many students noticed them, those who did felt divestment was an important issue to discuss. “I’m fairly on board with it”, said Laurence Copson, a Climate Change, Management and Finance student who happened to be at the Union with his cohort during the banner drop. “I’d just do it from a financial perspective. I’d just make an economic argument for why you’d choose energy efficiency and alternative energy over oil and gas”.

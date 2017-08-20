@@ -30,7 +30,9 @@ If you were to hear mention of Haiti in a conversation, what would your initial 
 As for me, Haiti is simply home. I am often approached about my origins, and I can say from personal experience that only after my mentioning the natural disaster are people able to place it on a map.
 
 On the 4th of October, Haiti was once again ravaged by mother nature, only this time, the culprit was the category four hurricane Matthew. The southwest region received the brunt of the blow. Crop fields were swept away along with most of the livestock and, in some areas, 90% of the infrastructure was destroyed. You may be surprised to learn that this is simply due to the fact that almost all the houses are essentially tin-roof shacks.
-> > Despite the well-intended nature of this gesture to the country, the long-lasting result was further destabilisation of an already fragile economy
+
+> Despite the well-intended nature of this gesture to the country, the long-lasting result was further destabilisation of an already fragile economy
+
 Despite global awareness of the earthquake and its aftermath, I was shocked to discover that most remain completely oblivious to the population’s current living conditions. They assume the vast influx of emergency aid, which I would like to note was so highly advertised in the media, would have repaired some, if not all, the damages. Nonetheless, over 80% of the rubble is unmoved and millions continue living as refugees in tent-cities outside the capital, Port-au-Prince.
 
 In fact, take a short drive through and you would be astonished at the seemingly post-apocalyptic landscape the city became, and still remains, since that fateful afternoon on the 12th of January 2010.
@@ -41,7 +43,8 @@ In Haiti’s case, external aid originating from NGOs to entire governments resu
 
 {{< figure src="http://felixonline.co.uk/img/upload/201610311308-felix-Screen Shot 2016-10-31 at 13.07.49.png" title="" caption="" attr="" >}}
 
-> > The inhabitants’ living conditions remain unchanged as they grew dependent on foreign donations
+> The inhabitants’ living conditions remain unchanged as they grew dependent on foreign donations
+
 In the early 1980s, Haiti was self-sufficient in rice production. Though, due to a growing population, the International Monetary Fund (IMF) proposed new trade liberalisation policies on rice imports, aimed at preventing famine. Once implemented, import tariffs were subsidised from 35% to a mere 3%. A wave of rice imports from the United States followed, commonly known as ‘Miami Rice’. Competition with domestic production increased and by the late 1990s, imports outpaced local production, and those employed in the sector were forced to abandon work and move elsewhere. This created a dependency on imported rice, and this pattern rippled across the agricultural sector, affecting mainly peanut, and sugar cane cultivation. Thus, despite the well-intended nature of this gesture to the country, the long-lasting result was further destabilisation of an already fragile economy.
 
 After the earthquake struck, millions of individuals donated to various charities providing immediate emergency aid. A whopping $10 billion were raised from these efforts and promised to the Haitian government. Yet, less than 1% reached its designated target. What, then, became of this huge sum of money?

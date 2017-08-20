@@ -33,8 +33,10 @@ This has come about in light of the government moving toward legalising gay marr
 The letter appeals to Archbishop Sentamu to reconsider his comments, questioning whether marriage today really is defined as being between a man and a woman. They combat his likening the government to dictators, replying, “no new measures are being imposed upon those heterosexual couples who are already married or are planning to marry in the future”.
 
 The LGBT Officer of Selwyn College, Lewis Bartlett, explained that the students were stirred because “[the Archbishop] is in some respects a representative of the college”. There was a widespread outcry amongst the majority of undergraduate students at the University, showing their dismay at an advocate of their institution “promoting discrimination”. Through engaging in the public discussion Selwyn College have shown that Archbishop Sentamu’s views are in the minority, the majority of which support complete marriage equality.
+
 > Gay marriage is long overdue and it’s not happening overnight
 > Alfredo Carpineti – IQ President
+
 Alfredo Carpineti, President of [IQ, Imperial’s LGBT Society](http://www.union.ic.ac.uk/scc/iq/), commented on the Archbishop’s interview, seeing him as “hiding behind the banner of preserving tradition and history”. Carpineti insists that following this view would have meant, “women wouldn’t be allowed to vote, the slave trade would still be legal and most of the advances in Science, Technology and Medicine wouldn’t exist”.
 
 He concludes that, “gay marriage is long overdue and it’s not happening overnight. I long for the day in which discrimination of gender identity and sexual orientation is no more. I cannot wait for IQ, the Imperial College social club that I represent to become redundant: until we are all equal nobody is really equal”.

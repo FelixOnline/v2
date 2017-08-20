@@ -30,7 +30,9 @@ highlights:
 Last week, the KPMG Data Observatory was launched as part of Imperial’s Data Science Institute. The purpose of the observatory is to enable the analysis and visualisation of data, particularly useful for large corporations that collect massive amounts of it.
 
 This new observatory, which is part of the £20m funding provided by the professional services company, will make it easier for businesses to spot new patterns and emerging trends with greater clarity. The observatory consists of a massive 130 million pixel screen, powered by 32 computers and 313 degrees of surround sound.
+
 > It’s powered by 32 computers and 313 degrees of surround sound
+
 Bringing scientists and business people together, this piece of kit is a big opportunity for college to further enhance its already strong ties with various corporations. It’s also a coup for the business school.
 
 Imperial scientists will use the observatory to visualise data about the solar system and climate change. Mark Kennedy, Director of Imperial Business Analytics, argues that the main function of the observatory is to “take advantage of years and years of evolution,” and make use of the fact that “humans are really good at recognising patterns visually”.

@@ -35,7 +35,9 @@ Four years. Graduated in 2006, and round about this time a year ago a friend put
 __How did you get into DJing?__
 
 I’d done DJing before I was even at Imperial. I’d been on local radio for a couple of years, and then IC Radio is a great place to get involved with. By the final year of my undergrad, I was spending pretty much equal time on [IC Radio](http://www.icradio.com/) and on my degree. I was doing like 5 shows a week, and I was head of programming for a bit, head of music for a bit, went all out with that. It was so much fun.
+
 > By the final year of my undergrad, I was spending pretty much equal time on IC Radio and on my degree
+
 At the end of my degree, I did a bit of work experience round and about, a fair bit of networking, meeting people generally at events with free wine, so people knew me and it payed off. I got a job at a production company who re-launched HMV’s instore radio, rolling it out in all 220 stores using a new software that hadn’t been used before over here but is really big in America. They knew that I’d be able to get my hands round any sort of new software, as an Imperial Physics graduate.
 
 Within nine months it was all running smoothly. And I was sort of doing some work on a really small radio station, just outside of London, in the south west, based in Tollworth, that played some quite bad music to be honest. I’d never come across Kajagoogoo before I worked there – “Too Shy Shy”, really cheesy sort of late 70s-80s record.
@@ -53,7 +55,9 @@ There were many times at IC Radio when I was convinced no one was listening, not
 __Do you have any tips for anybody who would like to get into DJing?__
 
 Keep at it. Listen to yourself all the time, critique yourself. Network, send your stuff out and try and get feedback. It’s a tough time maybe at the moment, a lot fewer jobs right now than there used to be, like 5 years ago. There are a lot fewer radio stations to be honest. Student radio and community radio are really where they’ll be taking the new talent from for years to come, so just do as much as you can really. But not to the detriment of your degree, you might need that to fall back on. If you can manage 50-50, probably a bit more on your degree, but don’t let your degree slide.
+
 > There are a lot fewer radio stations to be honest. Student radio and community radio are really where they’ll be taking the new talent from for years to come, so just do as much as you can really
+
 __What next for you then?__
 
 I’ve got a podcast that I do with a mate of mine, who was on the Science Media Production course at Imperial. We got together one evening and thought: “You know, there aren’t any podcasts that really tackle science from a younger angle.” Everyone seems to follow the format of Radio 4, who are very good at doing what they do, but don’t necessarily need to be copied. We thought: “Let’s do science in a Kiss way.” It’s called Droppin’ Science, packed full of post-production, really heavy beats in the background so if you’re listening to it on the train or the way to college or work, the people around you commuting won’t necessarily know that you’re a massive geek, because they’ll hear all the beats going on. It’s meant to be two young guys, in the pub, chatting some science. It’s a bit entertaining as well as being informative, scratching on the side of the cooler, weirder science topics. The more light-hearted the better. There are some serious aspects to it, but we try to cover them in weird ways. We started looking into the heart of the science behind Avatar, and got into some quite deep moral questions. But we’re tackling it from a cool perspective.
@@ -73,7 +77,9 @@ __Would you be interested in moving towards television?__
 Definitely. It’s part of doing the PhD really, to get back into the research community, and then to bring my two careers together, my media and my science. There’s only so much you can do on the radio in terms of science. TV’s great, so much more visual, and there’s so much visual stuff in Physics in certain areas to look at, especially Plasma Physics which I’m doing at the moment. I think Plasma’s some of the most beautiful things I’ve ever seen, absolutely stunning phenomena associated with them. And when you get a TV show you get to travel all around the world, I wouldn’t turn my nose up at that!
 
 __Are you doing any DJ sets soon?__
+
 > I actually do WiiJ sets as well. That’s DJing with the Nintendo Wii controller
+
 Haven’t got any booked but I do do them. I actually do WiiJ sets as well. That’s DJing with the Nintendo Wii controller, I wrote some software to interpret the signals and then control some DJ software with it, so it’s real gestural DJing, by waving my arms around. A lot of people don’t get it. They’re just like “What are you doing?” Then you muck about with some tunes, so much fun. It puts so much control into these two controllers that I just love doing it for myself to be honest.
 
 __Are you quite keen on new interfaces for DJing then?__

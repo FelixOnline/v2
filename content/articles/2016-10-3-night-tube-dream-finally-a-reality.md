@@ -37,7 +37,9 @@ Transport for London (TfL) have also set a start date for the Jubilee line of Oc
 The service will run at least every 20 minutes and every 10 minutes within central London and depending on where you’re going to and coming from and at what time, you might save a massive amount of time on getting home.
 
 So what actually is the Night Tube like? _felix_ sent me out to find out/I got drunk one night and Citymapper told me to use it. Long story short, it’s just like the normal tube but with a lot more police presence and slightly more rowdy people.
-> > _felix_ sent me out to find out/I got drunk one night and Citymapper told me to use it
+
+> _felix_ sent me out to find out/I got drunk one night and Citymapper told me to use it
+
 British Transport Police have promised uniformed officers patrolling every station and I also, between naps, saw them walking through the carriages. Word to the wise, make sure that those little naps don’t turn into one giant one that ends when you reach the end of the line in deep dark zone 6 unless you fancy riding the tube all night that is.
 
 The horrific prophecies of drunken brawls and projectile vomiting everywhere didn’t become a reality on that 2am-ish Victoria line train but I imagine at one time or another it’s bound to happen. TfL have already anticipated this though and have been running drills on cleaning up a “soiled train”. How reassuring.

@@ -27,7 +27,9 @@ Following on from his [comment article published on 2 March](http://felixonline.
 The General Meeting is an open forum that can be attended by any union member. With a usual attendance of 200 members, any person can add an item to the discussion agenda. The last General Meeting at Imperial was held five years ago.
 
 Scott Heath said that the purpose of the meeting was to discuss alterations to the constitution. This constitution will be passed formally in the Union Council on Monday 11 June. The main aims of the meeting involve preparing for the changing environment over the next five years at Imperial. Some of the points that will be discussed are the removal of universal lunch times, the development of the co-curriculum and the implementation of £9k tuition fees.
+
 > The main aims of the meeting involves preparing for the changing environment at Imperial
+
 Even though some of the changes that are to be discussed are minor, the Sabbatical team decided that there should be a separate location to talk about the rationale behind any decisions. As well as ask questions and debate the implementations of these changes.
 
 The Sabbatical team remits will be reviewed, where they were last changed since the split of the Education and Welfare roles. Also, the membership of the Trustee Board and other union committees will be assessed and how the union functions as a whole will be discussed.

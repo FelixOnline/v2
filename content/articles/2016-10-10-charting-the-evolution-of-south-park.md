@@ -30,7 +30,9 @@ Drawing on _The Simpsons_, the series also features an expansive setting and rec
 The release of _The South Park Movie_ in 1999 tmarked a shift towards satire and current affairs. Following the film, which itself satirised heavily issues of censorship and the series’ air of controversy, production moved to a weekly schedule; allowing the creators more freedom to astutely satirise the big events of the week. Since then, _South Park_ has never looked back; developing increasingly complex storylines and subtext, as well as an organically growing continuity.
 
 The increased reliance on serialised storylines has afforded the show an opportunity to explore events and their consequences in more detail; a stark contrast to the early days, where the reset button would be hit at the end of almost every episode. They haven’t even killed Kenny in the last fourteen years.     The satire itself has evolved extensively over the course the last two decades. Criticism has become deeper and oftentimes more subtle, while retaining, if not amplifying, its sharpness. Gone are Kyle’s half-joking, soapboxing “you know, I learned something today…” speeches that bookended early season episodes.
-> > In fact, this led some observers in the early 2000s to coin the term ‘South Park Republican’, much to the creators’ chagrin
+
+> In fact, this led some observers in the early 2000s to coin the term ‘South Park Republican’, much to the creators’ chagrin
+
 Additionally, while the show’s satire has become increasingly political, it manages to reasonably retain Trey and Matt’s original aspiration of being ‘equal opportunity offenders’.
 
 Despite v admitted libertarians themselves, the show targets perceived hypocrisy and extremism on both the liberal and conservative ends of the spectrum.
@@ -40,7 +42,9 @@ In fact, this led some observers in the early 2000s to coin the term ‘South Pa
 Interestingly, much of the show’s more hard-core Republican fanbase fell away aggressively in 2009, when Parker and Stone went after the Republican party.
 
 _South Park_ has continued straddling this line since, most recently criticising both Trump for his sheer insanity, and Hillary for her perception problems and seemingly manufactured nature. Even if I don’t always agree with the show’s viewpoint, I find the criticism cogent and well thought out and, of course, always funny.
-> > The show wears its ferocity and crassness as a badge of honour; ever vigilant for hypocrisy
+
+> The show wears its ferocity and crassness as a badge of honour; ever vigilant for hypocrisy
+
 e art style and production quality have also greatly improved over the series’ run. Aesthetically inspired by Terry Gilliam’s surreal animation sequences for Monty Python, the show was originally planned to be animated fully from paper cut-outs. The pilot was, in fact, made this away. Subsequently, software was employed to emulate this format. Consequently, as technology has improved, the crispness and detail of the animation has followed suit. Voice acting too has developed with the show’s increasing success. Originally featuring mainly the voices of Parker and Stone, the addition of more varied characters has necessitated the inclusion of more and more professional voice actors. The show’s even had George Clooney guest staring, as the iconic voice of Sparky the Dog.
 
 _South Park_ has a long and storied history of fearlessly and aggressively parodying and satirising all sorts of targets, from Scientology to the Pro-life movement. The show wears its ferocity and crassness as a badge of honour; ever vigilant for hypocrisy.

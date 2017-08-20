@@ -35,7 +35,9 @@ All of this is part of a greater cultural shift.
 Think about what defined people’s aspirations before our times. There was always some glue that made everyone, especially young people, connect, and gave them a sense of collective purpose. I can throw in some examples. Centuries ago we can talk about religion, or defending your country, as something that moulded this collective sense of purpose.
 
 At the start of the last century, we can think of socialists, anarchists and fascists around Europe. However you might feel about them, you can see that they had their own mutual purpose, and an ethos to look forward to (a world without government, a world without bourgeois oppression, a life solved by your charismatic, overlord dictator).
-> > **Here we are! It’s the final term!**
+
+> **Here we are! It’s the final term!**
+
 In the 40s in Britain, the defining issue of their time was to win the war against totalitarianism. In the 60s, the hippies dreamt of a more peaceful, less restrictive and more loving society.
 
 All of these examples have something in common. There was always a sense of direction. Whether it was fighting for your country, fighting for the workers, fighting for peace and love, young people had some ideal to look up to. A world to look forward to.

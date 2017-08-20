@@ -39,7 +39,9 @@ The President of the Medical School’s Union told students on Monday that scrub
 This comes after students on the medic boat club’s trip to Leuven were refused passage on a P&amp;O ferry after students were deemed “drunk and disorderly”. The ICSMSU has since banned alcohol consumption on coaches.
 
 This and other alcohol-related incidents over the years now threaten ICSM students union’s independence. In an email to the medical student body this week, the ICSMSU president said: “The history of events has now led to the heads of College questioning why the faculty of medicine should have its own Students’ Union”.
-> > **Scrubs may not be worn in the club afterwards**
+
+> **Scrubs may not be worn in the club afterwards**
+
 “The dialogue [with college] is such that there can be no more negatives surrounding alcohol without risking the SU and our separate clubs and societies”.
 
 In the eyes of the law, Imperial only has one student union, and ICSMSU is a constituent union of ICU. However, at the moment, ICSMSU does have some autonomy, with its own separate clubs, societies and sports teams and a sabbatical president paid for by the faculty.

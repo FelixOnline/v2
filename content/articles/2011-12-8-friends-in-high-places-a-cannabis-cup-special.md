@@ -41,7 +41,9 @@ A couple of drinks and a zoot of Hill Street’s finest later and we were probab
 Thankfully the good folks at High Times provided us with the perfect means of transport to get to and from the event. A far cry from the bog standard buses of London town, the ‘cannabus’ was kitted out with comfy chairs, strobe lights and – of course – ashtrays. We rumbled through to the misty outskirts of town as the reggae blared and conversations flowed, as the residents of Amsterdam gawked at the big metal box of lunatics that zoomed by.
 
 To be blunt (pun intended), the journey was tip-top-terrific. We aggressively worked our way through the rest of our spliff and spoke endless codshite to our fellow Cup-goers, at least until the fumes got the better of us and we were forced into a silent submission. Before the haze and glaze, we did manage to muster up some top quality investigative journalism.
+
 > ...it was Willy Wonka’s weed wet dream
+
 Among the humble critters we encountered was Dale, a sixty-something PhD (Doctor of Philosophy? Pretty huge dick? You decide.) hailing from – where else – Southern California. Dale has lived a pretty interesting life, setting up growers “for private use and on a commercial scale”. His clients include doctors and lawyers, and despite run-ins with the law and the burden of repeated heart attacks, Dale insists that he loves his work and loves his pot.
 
 As the bus pulls in to the foggy car park Dale tells us “everybody is programmed to be on a leash, our entire society. You don’t realise what’s important in life until you almost don’t have it, and I’m glad I’ve found it”. With a puff on his pipe and a tip of the hat, he wishes us a good Cup and enters the madness.

@@ -42,7 +42,9 @@ Add in the fact it’s directed by Nicholas Hytner, in his last show at the Nati
 At first glance, the set design does little to reward or spurn that anticipation. A collection of vertical bars, entangled in a mess of wires, loom over an empty stage. The first scene rapidly reveals how this is going to play out from a visual perspective, as a minimalist approach to set design evokes the settings rather than outright stating them.
 
 A bed and a desk comprise a bedroom, some chairs and a coffee table indicate a waiting room, and so on. Bar the occasional use of a backdrop, it’s left to a few items of furniture and the work of the actors to suggest the setting – and it’s to the credit of all involved that it works wonderfully. The design allows for the play to focus on Stoppard’s typically glorious dialogue, forcing the attention onto his words and the actors delivering them, rather than their surroundings.
+
 > We do brain science. There is only one Hard Problem
+
 The bars and wires hanging over the stage turn out to be a touch more exciting than just a mysterious sculpture, coming to life in the scene changes. As classical music plays over the darkness, the bars and wires pulse, flickering with the music. It’s clearly intended to evoke images of brain activity, but mostly it just comes across as a pretty light show.
 
 The rest of the play’s dealings with brain activity are somewhat more effective. The opening gambit is classic misdirection, as tutor Spike (Damien Molony) tells Hilary (Olivia Vinall) “you’re looking at two years. The jewellery was under the floorboards. The police have nothing to connect you to the scene of the robbery.”
@@ -58,7 +60,9 @@ The character’s interactions provide the show with momentum that isn’t neces
 Stoppard admitted in interviews that he adopted a tactic akin to “write and see where it goes” for (at least parts of) _The Hard Problem_, in contrast to the extensive mapping-out of previous plays. It makes for an interesting experience, as the play runs for a hundred uninterrupted minutes, providing a more streamlined and brisk Stoppard experience. The content and general style may not have changed, but the overall form has, and it’s no bad thing.
 
 Does _The Hard Problem_ match up to the expectations piled upon it by its very nature? Easily. There were a few design choices that felt slightly off – the scene change music in particular had a nasty habit of either starting late or running on for too long – but nothing that actually harmed the show.
+
 > I think the play’s been done really, really well
+
 Stoppard’s latest play is another gem, quite possibly his best since _Arcadia_ (it always comes back to that, doesn’t it?), and the director and cast that have been enlisted to bring it to life do an impeccable job. As Stoppard himself put it, “I think the play’s been done really, really well.”
 
 _The Hard Problem is on at the National Theatre’s Dorfman Theatre until 27th May. Tickets from £15. _

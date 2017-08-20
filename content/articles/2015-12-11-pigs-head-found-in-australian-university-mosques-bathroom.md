@@ -24,7 +24,6 @@ highlights:
  - photos
 ---
 
-
 {{< figure src="http://felixonline.co.uk/img/upload/201512111521-felix-pigs head.jpg" title="" caption="" attr="" >}}
 
 Last weekend, a student at the University of Western Australia discovered a decapitated pig’s head in the toilets adjacent the University’s Muslim prayer rooms.

@@ -28,7 +28,9 @@ The rugby players, who attended as ‘Smelves’ (the hybrid of a smurf and an e
 The mess didn’t go unnoticed by Union officials. As Rachel Blythe, Deputy Finance and Services, told felix, “we are aware that several groups of students were dressed up for the ACC event last night [sic], some of whom were wearing face and body paint. After the night ended, there was paint left in the sinks and on some of the tiling in the East Wing male toilets.”
 
 Following the night’s celebrations, men’s rugby offered to help clean up according to Blythe.
-> > One College source described the mess left in the restrooms resembling a battlefield only everyone was bleeding blue
+
+> One College source described the mess left in the restrooms resembling a battlefield only everyone was bleeding blue
+
 “The group of students responsible volunteered the following day to clean up the space without complaint. By the afternoon the toilets were clear.
 
 Overall, the ACC night was very successful, the Union having taken steps to reduce door and bar queuing times.”

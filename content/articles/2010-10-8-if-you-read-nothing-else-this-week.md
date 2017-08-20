@@ -32,7 +32,9 @@ What is a favourite book, anyway? What does it feel like when you read it? When 
 I'm afraid that once the spigot opens, the torrent of questions canít be stopped. What criteria do we use to classify a favourite book? Are we talking form or content? The unread first edition hardback that gives you a secret thrill of pleasure each time you see it on your shelf, or the masterpiece youíd still happily read in evanescent e-book form?
 
 So far, as I'm sure youll agree, there have been too many questions and too few answers. So let's stop flagellating around the shrubbery and get to the point: What is my favourite book?
+
 > In all of its impeccably chosen 50,000 or so words, it is as far removed as it is possible to imagine from the world of the adventure novel or the action thriller.
+
 The simple answer? I can't tell you. I'm not being coy or intentionally contrarian, I just genuinely don't know. What I can tell you, though, is which book I will round this piece off by recommending: the staggering De Profundis by Oscar Fingal O'Flahertie Wills Wilde. It's an odd choice, but that's only to be expected from an odd individual.
 
 In all of its impeccably chosen 50,000 or so words, it is as far removed as it is possible to imagine from the world of the adventure novel or the action thriller. That's probably owing to its nature as a letter written behind bars by the imprisoned Oscar Wilde to his former lover, Lord Alfred Douglas, better known as Bosie. Hardly the sort of stuff that Robert Downey Jr. blockbusters are made of.

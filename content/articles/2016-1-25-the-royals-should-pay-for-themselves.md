@@ -25,7 +25,9 @@ highlights:
 For a long time, the UK has been wading through an era of cuts, cuts and more cuts. The NHS is expected to shave off £20bn in costs by 2021, schools are preparing for 16% cuts over the next three years, and controversial plans to reduce working tax credits have been in the public eye recently. Despite there being some overly optimistic murmurs of an end to austerity, it’s looking unlikely that George Osborne is going to start splashing the cash any time soon. It’s a sticky situation that, supposedly, we’re all in together.
 
 But guess who’s still balling? That’s right, the old baked bean and co. are seemingly unaffected by UK’s financial state.
-> > **The royals will never have to make the same sacrifices as the rest of the population**
+
+> **The royals will never have to make the same sacrifices as the rest of the population**
+
 For at least two years, there will be no cuts to the royal budget. In fact the taxpayer funded income for the royals will actually rise to as much as £44 million (due to repairs needed for the palaces), before the royals will have to face reductions to funding. This is on top of the Queen’s private income from the inherited estates, land owned, and the crown estate.
 
 Although this money doesn’t hugely impact the taxpayer, with the cost per person coming to just 56p each – quite good value, considering we reap the vast benefits of the royal loving tourists – there is an issue. By not scrutinising the royal budget, and even allowing it to rise, they are sending out the message that the royals will never have to make the same sacrifices as the rest of the population. While we’re all feeling the effects, old Lizzy and Phil carry on livin’ it large.

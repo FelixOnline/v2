@@ -30,7 +30,9 @@ highlights:
 In an interview on IC Radio two weeks ago, our union president revealed a number of potentially problematic views. We all say things we later go on to regret; it’s symptomatic of the social media age. But, our union president chose to defend her contentious tweets, including one which some Imperial students might find offensive.
 
 In response to a question about a tweet where she said “Scots who voted ‘Yes’ shouldn’t be allowed into England,” the union president suggested that voting to “disband the entire of Great Britain” was “essentially” #treason.
+
 > Sometimes, I wish I had gone to UCL
+
 Hashtags are often used in jest, but by doubling down on a regrettable error of judgement our president trivially dismisses the serious political desires of a subset of Scottish students.
 
 In case you missed it, the union president also spoke about her views on national politics (this was not included in the transcript of the interview which you will find in this week’s FELIX). When asked about her support for Margaret Thatcher, “an inspirational lady who transformed the face of British politics,” in a tweet after her death, she stated that “there are a lot of families who were affected negatively by her, my family’s wasn’t one of them so I think it’s quite hard to relate to that.”

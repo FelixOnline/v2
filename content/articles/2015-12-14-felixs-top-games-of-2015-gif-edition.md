@@ -22,14 +22,10 @@ highlights:
  - photos
 ---
 
-
 {{< figure src="http://felixonline.co.uk/img/upload/201512121615-cet13-undertalegif4.gif" title="" caption="" attr="Tumblr" >}}
-
 
 {{< figure src="http://felixonline.co.uk/img/upload/201512141615-cet13-splatoongif.gif" title="" caption="" attr="" >}}
 
-
 {{< figure src="http://felixonline.co.uk/img/upload/201512121600-cet13-metalgeargif.gif" title="" caption="" attr="Tumblr" >}}
-
 
 {{< figure src="http://felixonline.co.uk/img/upload/201512121548-cet13-rocketleague.gif" title="" caption="" attr="Tumblr" >}}

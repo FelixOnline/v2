@@ -43,13 +43,17 @@ __Ma: Is there anybody in particular you have taken inspiration from for your mu
 Mi: My holy trinity, if you will, of musicians is __Tom Waits__, __Nick Cave__ and __Leonard Cohen__, though Tom Waits is the main reason I wanted to start writing my own songs. It literally blew my mind when I first heard ‘Rain Dogs’.
 
 As far as acting inspiration goes, I’ve had the pleasure of working with a wealth of incredible actors, directors and mentors over the
+
 > "I was the singer – although I was screaming most of the time."
+
 years and it’s fair to say that they have all influenced me in different ways. I feel like I learn from everyone I work with, whether I know it or not...
 
 __Ma: What's the experience been like on the set of The Vampire Diaries?__
 
 Mi: It’s a charming and passionate group of people who all look out for each other. It’s a beautiful thing when you get to work with that sense of camaraderie and it allows you to relax into the work with abandon. We film in Atlanta, Georgia as well (our home away from home) and
+
 > "When the spark isn’t there I don’t force it. I have to be in a certain mood."
+
 I’ve come to really love the vibe down there.
 
 __Ma: What influenced the decision to change to music from acting?__

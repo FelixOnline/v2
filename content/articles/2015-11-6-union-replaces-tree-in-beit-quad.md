@@ -29,7 +29,9 @@ highlights:
 One of the two large, established cherry trees dominating Beit quad has been completely removed, and replaced with a younger model. Many readers will be familiar with the trees’ knobbly roots which have lifted the paving around the union’s seating area, forming a trip hazard.
 
 The combination of drunk students and un-level paving led the union to ask the council whether the trees could be removed. Westminster council’s tree officer recently granted permission for this, having visited the site and reporting that both trees were diseased.
+
 > Workers planting it expressed concern as to whether the tree would survive its first sports night. It did.
+
 Beit and the union building are situated in Westminster council’s Knightsbridge conservation area, which means although it is privately owned land belonging to the college, the trees are protected by Westminster council, and requests to have them removed are subject to approval by the council.
 
 Westminster’s arboricultural officer, Rosie Dobson, inspected them and found decay fungus and cankers in the main branches of both trees. Ms Dobson told FELIX these defects had left the trees’ life expectancies reduced and so she had no objection to them being removed and exchanged for an “attractive and hardy” new species.

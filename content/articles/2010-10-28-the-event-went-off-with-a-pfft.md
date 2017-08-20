@@ -25,7 +25,9 @@ highlights:
 I decided I’d sit down and watch Channel 4’s latest purchase, “[The Event](http://www.channel4.com/programmes/the-event)”, last week. Partly because the advertising campaign had caught my eye, but mostly because it didn’t look anything like Lost. This turned out to be wrong on a level so fundamentally obvious it was only matched by the crushing inevitability of the show’s own plotline. The Event is a pile of turgid poo-poo.
 
 Let me summarise for you. A computer games programmer has…NO. WAKE UP. You see? You were beginning to drift off already, weren’t you? This is what this entire genre of television relies on - being so vague you just start dreaming up the missing sixty percent of the narrative so the writers don’t have to bother.
+
 > The first episode was a horrific mishmash of plotlines which were presumably supposed to be excitingly open-ended
+
 The first episode was a horrific mishmash of plotlines which were presumably supposed to be excitingly open-ended - why is a plane being crashed into the President’s summer home? Who are these crow-faced aliens with strange abilities to distort the laws of physics? Why is the saucepan-faced actor playing the protagonist incapable of expressing emotion through facial expressions? You’re supposed to ‘ooh’ and ‘aah’ at these, and then immediately mash the ‘Record Series’ button on your remote before the first ad break.
 
 Except, as we all know, most of these shows are written in episode order, with little or no idea how half of the plot strands should end up. Lost’s laughable attempt at ‘closure’ in its final series turned out to be a hasty patching of plot holes and then a shrug of the shoulders in the direction of anything they couldn’t explain sufficiently with a flashback. The Event will be no different.

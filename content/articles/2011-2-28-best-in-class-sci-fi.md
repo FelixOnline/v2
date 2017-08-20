@@ -34,7 +34,9 @@ Finally some might find my omission of any of the ‘Star Trek’ shows glaring.
 Enough with all this complaining, let’s move on to the list proper. One of the most common means of eliminating technobabble is to shift the focus of the story from the science and to make it serve as backdrop to the plot. This was probably best achieved by Babylon 5 and the new Battlestar Galactica. These use a futuristic setting to add new vigour to age old themes of political corruption, tyranny and oppression.
 
 Another strength of these shows is their well-developed characters. Unlike the cardboard cut-out epitomes of good and evil seen in shows like Star Trek the characters here are realistic, fallible and flawed human beings and, in some cases, aliens. Take for example ‘Babylon 5’ where Sheridan, the hero, chooses to sacrifice innocent telepaths to disable President Clarke’s forces.
+
 > Television has shown that it can do grand space opera very well, I just wish it could give something new a chance
+
 This is not to say that these shows are without their problems. In its last few seasons ‘Battlestar Galactica’ seemed to me to start to lose focus. While ‘Babylon 5’ ended strongly, it’s first two seasons had a very slow pace and far too many filler episodes. This is a common problem with trying to stretch a good story over several seasons and why I much prefer mini-series as a television format.
 
 Mini-series are the perfect middle ground between films and full blown series. They can contain far more character and plot development than the former without having to resort to put in pointless scenes as latter often have to. That is why the best science fiction television shows that I have ever seen are Torchwood: Children of Earth and the mini-series which started off the new ‘Battlestar Galactica’.

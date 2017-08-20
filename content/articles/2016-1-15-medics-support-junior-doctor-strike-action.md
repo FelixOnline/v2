@@ -33,7 +33,9 @@ On Tuesday, junior doctors went on strike  for 24 hours, in protest against the 
 Peaceful picket lines were set up from 8:30am outside Chelsea and Westminster, Charing Cross, Hammersmith and St. Mary’s hospitals, as well as others throughout the country. Striking doctors wrapped up at around 4pm.
 
 Junior doctors also gathered outside South Kensington, Paddington and Hammersmith stations, joined by students, who handed out flyers, stickers and spoke to members of the public on the issue.
-> > **Junior doctors aren’t necessarily fresh from medical school**
+
+> **Junior doctors aren’t necessarily fresh from medical school**
+
 The picketers themselves wore armbands and fluorescent jackets, issued to them by the BMA. Medical students were not allowed to join the official picket lines, but did aid doctors in spreading the word.
 
 Up to one in ten operations were cancelled, although 10,000 of the estimated 26,000 went into work on Tuesday, according to the BBC, partly because doctors on emergency care were not striking.

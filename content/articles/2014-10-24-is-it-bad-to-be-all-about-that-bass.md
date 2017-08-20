@@ -38,7 +38,9 @@ __I’m all about that bass
 __‘Bout that bass, no treble”,_
 
 is completely ridiculous, given that the song in fact, is not entirely bass based. But petty niggles aside, the song can have an entirely different interpretation, depending how pragmatic or fastidious you choose to be.
+
 > It's incredibly rare to see music aimed at the acceptance of curvier women [...], so why not let us bigger girls have this one?
+
 Trainor, who claims not to consider herself a feminist, puts it simply: “we wanted to write a fun song for the world, and we thought, why not do a song about loving yourself and loving your body, because I don’t think girls really love themselves as much as they should”.
 
 _“I see the magazine workin’ that Photoshop

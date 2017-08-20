@@ -31,7 +31,9 @@ Oh yes, I will. Just one more, with no mistakes. We want to go out with a bang!
 But, why ‘Panto’? It rolls off the tongue more easily than ‘our-top-secret-show-with-a-top-secret-surprise’, and once made us feel like cool and edgy artistes; subverting this light-hearted entertainment staple for something so cool. And edgy. Anyone who came expecting ex-soap stars in drag and saucy innuendos were disappointed.
 
 All we have, and all we’ve ever had since Panto 1, is an idea for a show that could surprise a media-savvy bunch of students who had seen it all before, and had the YouTube favourites to prove it.
+
 > I ignored the fact that we’d only planned half a show. I even ignored the fact that my guys had not paid fees to miss a whole day’s lectures (yes, I went there)
+
 So ambitious! So mysterious! So “embarrassing” was how my trusted friend described our run-through the day before the show. I pretended that it was all part of The Plan™. I ignored the fact that we’d only planned half a show. I even ignored the fact that my guys had not paid fees to miss a whole day’s lectures (yes, I went there) to prepare a show that was borderline retarded.
 
 I was tactically avoiding publicising the event. The fewer people that saw the show, the fewer people who’d have nightmares about me, the crazed, perverted abuser of solidly entertaining evenings.

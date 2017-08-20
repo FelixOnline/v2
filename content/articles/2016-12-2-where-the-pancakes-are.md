@@ -35,8 +35,6 @@ While waiting for the moment of birth, I spotted the owner, Patricia’s stylish
 
 Patricia lives a life surrounded by all sorts of pancakes. The large, steaming Dutch pancakes in the local pancake house during her childhood in Holland. Living off crepes on the streets of Paris as a poor student. The fluffy American pancakes during her eight years in California as a film producer, striving in the then-booming independent film industry of the 90’s. Now her own inventions in her first brick-and-mortar restaurant. All after a gentle nudge of courage, experimentation and her days serving thousands of pancakes at various festivals, which she humorously described as her “military training”.
 
-
-
 {{< figure src="http://felixonline.co.uk/img/upload/201612021519-felix-IMG_0415.jpg" title="" caption="" attr="Christy Lam" >}}
 
 Her strong, determined, gaze from her light blue eyes was softened by a motherly affection as she continued to describe her dreams of creating a nutritious, wholesome dining experience which this ancient, universally loved dish fuses with modern food trends. In this room, pancakes are not reserved for breakfast, but also for lunch, dinner, a full meal or a decadent snack.

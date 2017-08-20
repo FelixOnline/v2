@@ -33,7 +33,9 @@ While my usual pieces have a satirical take on pop culture, this week, I thought
 I’ve had countless conversations with my friends about feminism, and I’ve been struck by some serious misunderstandings of what feminism is. And I want to clarify this: it wasn’t just my male friends who seemed misinformed.
 
 I’m fully aware that I’m not an expert on the issue, and I’m far from what one would call an ideal advocate for gender equality. Yet, it’s an issue that, I believe, needs more publicity, more support, and most importantly, clarification on what it stands for.
+
 > Every movement that exists has barbaric fanatics
+
 First things first. I am a feminist, and I am proud to say so. This however, does not mean I host head-shaving parties in my garden, complete with a burning bin in the centre, which myself and other feminists gallop around, flailing our bras like lassos, chanting man-hating Sanskrit mantras and engaging in voodoo on Ken dolls. Since when has being a feminist also meant that you’re a radical?
 
 Some women would rather have daily bikini waxes than associate themselves with feminism, not because they are non-believers in gender equality, but rather they’re afraid of the connotations associated with the title.

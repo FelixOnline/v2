@@ -24,7 +24,9 @@ highlights:
 Last Tuesday at council, Clubs and Societies Deputy President, James Cox, presented his report in which he addressed the issue of  Clubs, Societies and Projects (CSP) underfunding. An investigation looking at figures from 2009 onwards showed a marked increase in student led activity and its associated cost. This increase in cost was not paired with a proportional increase in direct financial support.
 
 These results come at an interesting point in time for Imperial, historically struggling to maintain high levels of student satisfaction which hit an all time low this year.  In fact, the National Student Survey (NSS) report for 2016 revealed a drop in student satisfaction across all categories, which include Teaching, Assessment and Feedback, and Academic Support. Satisfaction with the Union in particular, saw a seven point decrease from 2015, placing ICU on 56th place in the Higher Education rankings.
-> > If many clubs and societies are to maintain the breadth of activities they offer at student friendly rates, they need more money
+
+> If many clubs and societies are to maintain the breadth of activities they offer at student friendly rates, they need more money
+
 In his report, Cox said that the “CSP Grant had been maintained in approximate value from 2012, not accounting for inflation,” which is problematic considering the constant expansion of CSP.  “As costs have increased without increased financial support from the union, significant costs are being pushed onto membership income and other profit making activities,” he continued.
 
 At the same time the Union has been encouraging the expansion of student-led activities with the creation of an Activities Development Fund. However the funding is only partial and after one year, clubs are expected to include any new activities into their annual budgeting, funding for which rarely increases.

@@ -36,7 +36,9 @@ But I can deal with them. What I can’t deal with is [the 20% discount Nandos g
 Under this kind of pressure it’s almost easier to crack and just rip Nandos apart. I could be the cool, counterculture hipster who is, like, so not mainstream in his culinary taste. Or the broadsheet food critic who judges restaurants against strange, metaphysical standards against which the actual food is too crass to consider.
 
 Instead I ate at Nandos as just my normal awesome self. Being a thorough professional, I went three days in a row, and consulted with Nasif Mahmood and Ali Kirresh, the famed Nandos Gurus. I visited both the Bayswater and Shepherd’s Bush branches, and consumed in total about two whole chickens, a loaf’s worth of garlic bread, a truckload of chips and enough per-peri powder to be locked up for substance abuse. And you know what? You can definitely have too much of a good thing.
+
 > You can definitely have too much of a good thing. Or so I’ve heard
+
 Or so I’ve heard. Personally I’d go again right now if I could because Nandos. Is. Delicious.
 
 Like, crazy tasty. I hardly need to whip out the ol’ palette of adjectives, as few reading this will need any description of the succulent, flame-grilled taste that Nandos has down pat. I might as well describe the colour red. Less well-known are the accessories to a meal that are available; the spicy ‘perinaise’, the creamy mashed potato, the veggie pita mains and the choc-a-lot cake dessert (‘lovely’ according to my sauce-injecting flatmate). Personally, I favour the frozen yoghurt machine due to my chronic, debilitating dairy addiction (don’t forget to play the who-can-bite-into-a-spoonful-of-frozen-yoghurt-for-the-longest game!).
@@ -44,7 +46,9 @@ Like, crazy tasty. I hardly need to whip out the ol’ palette of adjectives, as
 But the chicken is the thing, and that distinctive flavour has its own legacy.
 
 For a start the peri-peri powder and sauce is actually made from the African Bird’s Eye Chilli of Mozambique. This was a fiery revelation to the Portuguese community that settled there, who later headed to South Africa during the 20th Century gold rush, their spicy-chicken recipes in tow. Still serving said recipes in 1987 was a place called Chickenland in Johannesburg, which was bought by two impressed businessmen and renamed Nandos after one of their names (FerNANDO LOLZ!). Oh and apparently ‘peri-peri’, as legend has it, was a Portuguese boy’s mispronunciation of the much loved chilli called ‘pili-pili’ in Swahili. Good man.
+
 > Frankly, if it was found out that Nandos chicken was flame-grilled in the fires of hell by the devil himself, people would still go
+
 I can confirm none of this. But frankly, if it was found out that Nandos chicken was flame-grilled in the fires of hell by the devil himself, people would still go. They’d feel bad and all, they’d ‘Like’ the Facebook groups made to argue against the insensitivity of using Satan as a spokesman and all that, but guiltily they’d still go and choose Nandos chicken and Nandos comfort.
 
 Because that comfortable atmosphere is something to be reckoned with.

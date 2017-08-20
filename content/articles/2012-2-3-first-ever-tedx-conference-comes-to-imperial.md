@@ -30,8 +30,10 @@ The first ever TEDx conference to be held at Imperial is coming this March. Orga
  The event on March 24 is titled The Great Exhibition and will “explore the connection between science, design and innovation, and their impact on the human experience”. TEDxImperialCollege license holder Gilead Amit said “TEDx is all about giving local voices the chance to be heard – and where could you find more exciting local voices than in London’s cultural heartland?”
 
 [TEDx](http://www.ted.com/tedx) is an offshoot of [TED](http://www.ted.com) (Technology, Entertainment, Design), the conference famous for spreading innovative and inspirational ideas. TEDx events are independently-hosted, local conferences featuring videos and live lectures in the TED format, licensed and promoted by the organisation in spirit of their mission and tagline – “Ideas Worth Spreading.”
+
 > Where could you find more exciting local voices than in London’s cultural heartland?
 > Gilead Amit – TEDxImperialCollege license holder
+
 TEDxImperialCollege is inspired by the [Great Exhibition of 1851](http://en.wikipedia.org/wiki/The_Great_Exhibition); a world fair held in the since destroyed Crystal Palace in Hyde Park, showcasing Victorian British culture, ingenuity, industry and science. Attracting six million visitors, the Exhibition made a profit of £186,000, more than £16m at modern value, which went towards the founding of South Kensington’s many museums and institutes, making Imperial College, at the heart of many of these foundations, an ideal place to relive its values.
 
 The organisers are staying tight-lipped about the speakers, saying that the full list will be revealed over the coming weeks, but have confirmed one of the speakers to be John Graham-Cumming, a computer scientist dedicated to completing the Analytical Engine – the world’s first mechanical computer, designed in 1837 by Charles Babbage and which so far has never been built in full

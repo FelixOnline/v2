@@ -30,7 +30,9 @@ highlights:
 In a speech last Friday at Imperial, shadow chancellor John McDonnell outlined his ideas on a new form of socialism where “technology liberates rather than traps.” With full automation in the not-too-distant-future almost inevitable, it’s now time we start thinking about how Britain will adapt to a post-work society. McDonnell’s speech recognised many of the problems automation might introduce, but offered few solutions. As a party firmly rooted in the trade union movement, Labour seem woefully unprepared for a world with a workforce without work.
 
 It’s likely that Imperial students and researchers will help bring about the automation revolution, whether through robotics or artificial intelligence. It will also be Imperial alumni who profit from the resulting mass unemployment (over the next decade 15 million jobs are at risk of automation). We might drive “future innovation in our economy”, but we could also be responsible for the largest shift of wealth in history.
+
 > Socialism, but socialism with an iPad
+
 In the recent past, our university has proven that it is not benevolent. With the College’s insatiable desire for funding, can it be trusted with the future of our society?
 
 Those who own the robots and own the artificial intelligence will have the whole nation under their control; Imperial is likely to be complicit in all of this. From my experience, there is an alarming lack of discussion about the ethics of our actions. This would be okay if our politicians contemplated the consequences of automation, but few have the foresight. Unfortunately, left unregulated, the technologies we help create could cause social upheaval and society’s ultimate collapse.

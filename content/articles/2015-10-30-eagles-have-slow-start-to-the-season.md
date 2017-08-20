@@ -24,7 +24,9 @@ highlights:
 ---
 
 Imperial College’s handball club, Imperial Eagles, kicked off the season taking part in a one-day tournament which had a field including University College London, Kings College London, Brunel and Middlesex. For the participating teams the tournament serves as preparation for the upcoming league games and the UK University Championships. After winning the London universities league (LUSL) in 2013 and finishing second last season, the Eagles were also the defending champions of this tournament, having beaten UCL in a tough final last year.
+
 > It was always going to be difficult this time round after the team lost many of its key experienced players, who have finished their studies at Imperial
+
 However, it was always going to be difficult this time round after the team lost many of its key experienced players, who have finished their studies at Imperial. With the team in a transitional phase and many new players signing up to take on the sport, priority was given to beginners and first-time players to build up some game experience.
 
 The tournament, which took place at the Score Centre in Leyton, was played in a round-robin format where all five teams played against one another in a series of 15-minute matches. No time-outs were allowed and the two-minute suspension penalties were reduced to one minute. The teams that finished first and second in the table then contested the final. In the women’s competition only two teams participated playing a full-length one-hour match.

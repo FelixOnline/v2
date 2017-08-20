@@ -32,7 +32,9 @@ __What have you enjoyed least?__
 
 __How far have you delivered on your manifesto points?__
  I had seven objectives. I would say the introduction of a GUM clinic at the Health Centre isn’t possible, however I’ve been in contact with charities to see if they’ll provide screenings on campus, which is looking hopeful. As for the rest of them, I’ve done them. Revamping volunteering is really exciting; we’ve engaged a staff volunteer who is going to create a brokerage service to help students achieve their goals. For campaign weeks we have a new system – any student can campaign on anything they want. They just have to fill in an application form; they don’t have to be a special officer to do that. Apart from that I’ve come up with a billion new objectives. We’re soon going to have poster boards around college with welfare information on them in the toilets. We ran the welfare survey. We’re having Imperial’s first ever blood drive – that’s coming up in the next few weeks, and we are about to regain our fair-trade status which we lost two or three years ago.
+
 > I’ve also been inspired meeting senior people who have similar values
+
 __Is there such a thing as an average day?__
  There is no average day! For example, yesterday I was on the interview panel for a new disabilities tutor from 10am to 5:30pm, after which i had to catch up with 80 new emails in my inbox. The day before that i had 5 hours of meetings and emails in-between! However, in an average week I have two or three big college committee meetings, five or six meetings with senior college staff about issues such as security, accommodation, counselling, and the Health Centre. Then I have several meetings with students, the welfare officers and sometimes students come to me with campaigns they want to run or other personal issues.
 

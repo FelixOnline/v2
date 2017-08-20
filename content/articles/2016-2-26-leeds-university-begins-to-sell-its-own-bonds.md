@@ -37,7 +37,9 @@ The bonds are worth £250 million in total, will return 3.125% and are due in 34
 University bonds are a steady bet while interest rates remain low.
 
 Several other universities including Cardiff and Cambridge have launched bonds in the last few years that have proved popular, with £1.25 billion’s worth being issued. The constant stream of tuition fee income and the promise of government backing if anything were to go spectacularly wrong make investment in higher education facilities in the UK look like a pretty safe bet for pension funds and insurance firms.
-> > University bonds are a steady bet while interest rates remain low
+
+> University bonds are a steady bet while interest rates remain low
+
 However, the Financial Times warns investors to keep an eye out on the government’s immigration rules if they’re planning on buying. The loans are being used to fund investment in student accommodation, teaching and new infrastructure, all in an attempt to attract international students who pay fees between £15,000 and £31,000 per year over home and EU students’ measly £9000. Visa changes could mean that international student numbers could fall again as they did last year by 3% across the UK. At Imperial, the number of overseas (non-EU) students was actually up 9.4% in the 2014/15 academic year.
 
 As the government mulls over responses to its Green Paper on higher education, which proposed a series of radical changes to university funding, facilities are looking at all options to keep their income steady in the face of reform.

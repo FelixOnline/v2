@@ -44,7 +44,9 @@ You gulp hard. Your partner. Your friends. You will never see them again. You tu
 “What? Why? Why me? Why my worst enemy?” your mind floods with questions and the dam of your mouth cannot hold them back. You did not even know you had a worst enemy but that thought remains unvoiced.
 
 “We like to personalise eternity, to provide custom-fit endlessness the discerning consciousness.” John explains. You see now the group manager pin on his collar and the precise architect's creases around his eyes and forehead. “As for your worst enemy, they died recently as well and we can't think of anyone who knows what they deserve.”
+
 > "The most blinding orgasm on earth will be like a faint tickle in this Heaven"
+
 “What do I have to do?” you ask, rapidly acclimatising to the rather bizarre next chapter of your existence. The revelation that there is an afterlife is eclipsed by the revelation that your long-forgotten GCSE in Design and Materials will actually be of some use at last.
 
 “We will provide you with pens and paper.” John the manager explains as he lays down rolls of blue schematic paper on your desk. You did not see them when he came in but your mind seems very at ease with spatial abnormalities at the moment. “Take as long as you want. Call me when you're finished or if you have any questions.”
@@ -64,7 +66,9 @@ You are not certain who your worst enemy is but there is no way he deserves bett
 But that is not fair, you realise. Clearly, your worst enemy is a bit of a prick – otherwise, he would not be your enemy. Is it Bartridge from the office who had never liked you since your first day? That guy at the pub who always resents your help on the quiz machines? The playground bully who probably lived the rest of his life in nameless frustration? It could be any one of them and none of them deserve a good day, let alone a lifetime of them if they are just going to be mean and ornery to everyone they meet. Another potential hereafter scrapped.
 
 You are a good person, or so you believe, so your worst enemy must be bad. So, if they did not receive any justice for their crimes on Earth, you will make sure they get it now. You grin malevolently as thunder rolls and lightning strikes over jagged mountain-scapes. Sulphurous fumes billow into the black air from raging fires that will never die. These will be bonfires, funeral pyres for everyone and everything your enemy has ever loved. Even his memories will burn. His family will burn last, just after the last of his favourite books has turned to ash (you hope he can appreciate the horror of book-burning – to you, it is an abomination). But that is only the start; mental, emotional, physical – he will be tortured without limit. Flesh stripped from bone, haunted by monsters grotesque and barbarous, every feeling he ever felt twisted and betrayed – he will suffer without end, you declare with no small amount of glee. And here is the best part, you note down, when he is finished, completely spent, dried up to the husk with pain and anguish, it will start all over again, repeating until time itself dies.
+
 > "If Heaven grants people true freedom and they use that freedom to do bad things, is that really Heaven?"
+
 You sit back with a feeling of satisfaction. It is cruel, yes, maleficent, definitely, but you convince yourself that this is what your worst enemy deserves. Though their nature and identity still remain a mystery to you, he must be your enemy for a reason. Confident that this is the final draft, you rise and search for John.
 
 He is standing by a door – a fire escape? – in the corner of the room. It is filled with a myriad of cubicles much like your own, unending, with people beavering away at a thousand different versions of Elysium and Gehenna. As he sees you, John checks his watch.

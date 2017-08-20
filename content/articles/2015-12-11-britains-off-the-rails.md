@@ -22,7 +22,8 @@ authors:
 highlights:
 ---
 
-> > Apparently operating a series of lights defies engineers’ best efforts
+> Apparently operating a series of lights defies engineers’ best efforts
+
 In 1910, E.M. Forster described trains as “our gates to the glorious and the unknown. Through them we pass out into adventure and sunshine, to them, alas! we return.”
 
 He makes our railways seem so romantic. There’s palpable excitement in his words for getting on a train and having a wonderful adventure. Over a hundred years have passed and our trains aren’t going anywhere.

@@ -34,7 +34,9 @@ With the introduction of the Investigatory Powers Bill, Theresa May aspires to b
 The extent to which we have submitted ourselves to the internet has left us exposed. If this bill succeeds, security forces will be given new powers to examine our digital footprint from the last twelve months. It will enshrine in law the bulk collection of personal metadata, the hacking into and bugging of computers, and will force companies to assist in bypassing encryption.
 
 Any curiosity or “extremist” intrigue could be used against us without our knowledge and a simple spelling mistake when entering a URL could now make you look suspect. By only keeping your history up to the first forward slash of each website address, security forces lose the context of why someone is visiting a specific site. It could be entirely innocent.
+
 > As well as the far right, it’s often the “extreme” left that are most vulnerable to surveillance.
+
 The people of Britain seem all too eager to sacrifice their right to privacy in order to protect themselves from the supposed threat of terrorism. Andrew Parker, the chief of MI5, has been vocal in the need for more powers to assist in fight against those who oppose our “great” nation, claiming that we are now facing the most serious threat of a terrorist attack since 9/11. Mention ISIS and al-Qaeda enough times and you can make the public believe anything. For the establishment, fear has always been their most powerful tool.
 
 It would be naive to believe that these powers would be only used against those who wish us harm. Our government’s definition of a threat extends to anyone opposing British values: democracy, the rule of law, individual liberty, and mutual respect and tolerance of those with different faiths and beliefs. It’s a definition so loose that you could probably get a warrant for the Queen’s browsing history.

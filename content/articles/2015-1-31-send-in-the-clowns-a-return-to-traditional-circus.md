@@ -30,7 +30,9 @@ We arrived at the __Royal Albert Hall__ for the Friday matinee performance of __
 _Kooza _last played at the RAH in 2013, as part of its continuing world tour. It is the 20th show that Cirque has produced, and is described by Guy Laliberté, one of the company’s founders, as “the return ... to the roots of Cirque du Soleil”. David Shiner, the director, describes it as “a show ... devoted to the ‘spirit’ of the clown”.
 
 As such, the show contains all of the circus staples: high wire, swinging trapeze, unicycles and people standing on other people (standing on a third person). It also features no less than three clowns, and a full body puppet dog that caused no end of laughter from the various school groups in attendance.
+
 > It is rare to find such a talented dancer in the circus community
+
 The storyline follows a central character, Innocent, as he discovers the mysterious world of Kooza. Played by Stéphan Landry, he is led into a mysterious world of acrobats and wonder, controlled by the mysterious Trickster. In the second act, entrusted with the power to control the world, he discovers a more sinister and unsettling world altogether. But there is beauty here too, and during the second act, he is appointed King of the realm by one of the clowns.
 
 Landry gives an excellent performance, and acts as the audience’s perspective on the show. His status as a clear Mary Sue is a device also used in Cirque’s feature length retrospective, _Worlds Away_, but it is not tired here.
@@ -46,7 +48,9 @@ _Kooza,_ quite sensibly, uses the tradition of making sure that the ‘most stup
 To end the first half, we are treated to a circus staple – the high wire act, in this case involving 4 acrobats. Starting fairly lightly, with some fake fencing, runs and skipping(!) on the high wire, the act culminates in one acrobat, standing on a chair, on a pole, on two more acrobats riding bikes. On a high wire. It was unfortunate that the apparatus took so long to set up, though, and the use of a confetti cannon on various sections of the stalls didn’t do much to pass the time.
 
 The Wheel of Death, the first acrobatics of Act 2, also disappointed me slightly. Having seen what is possible on the apparatus in the recording of _Worlds Away_ – it’s on the US Netflix, I highly recommend having a look – it was a shame not to see any somersaults outside of the wheels. The performance, by its very nature, also lacked a strong character, and unfortunately it felt rather too much like an exhibition and not enough like a masterclass.
+
 > The range of acts is huge, and there is something for everyone
+
 Other weaker performances were the contortion, unicycle and hoop acts. I am increasingly convinced that all hoop artists look almost exactly the same, and despite the circus adage of “those in the first few rows, may get wet”, I do feel that many within the auditorium might have wanted to see the sweat – or at least the performer’s faces.
 
 I did, though, highly enjoy the swinging trapeze and hand-on-hand acts – and not just because they’re styles I love to watch in any forum. The acts were seamless, and the emotional love story in the hand-on-hand was truly excellent.

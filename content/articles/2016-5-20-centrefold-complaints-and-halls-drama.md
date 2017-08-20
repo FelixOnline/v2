@@ -28,7 +28,9 @@ Dear Felix
 I attended the Imperial College Festival last weekend.  I was inspired and captivated by the enormous range of research and innovation that I was able to discuss in detail with students, researchers and professors who were all passionate about what they were doing and keen to share their thinking.  What a privilege!
 
 Whilst there I picked up Felix (Issue 1633); the centre-fold made me gasp in horror and then brought me close to tears.  I was a student in Electrical Engineering from 1977-80.  At that time there were 5% women across Imperial College, with fewer in engineering.  As Hon Sec and then President of C&amp;G Union, I worked in every way possible to help retain current female students and attract new female students.  In this context, C&amp;GU actively challenged all sexist representation of women and activities and “traditions” that degraded women.  IC Union also made its voice heard on many issues of national policy and practice that discriminated against women.
-> > I presume the IC netball team chose to attract teams for their tournament in this way but I ask them why they would want to present their bodies rather than their netballing skills. And why would Felix want to encourage them in this?
+
+> I presume the IC netball team chose to attract teams for their tournament in this way but I ask them why they would want to present their bodies rather than their netballing skills. And why would Felix want to encourage them in this?
+
 I presume the IC netball team chose to attract teams for their tournament in this way but I ask them why they would want to present their bodies rather than their netballing skills. And why would Felix want to encourage them in this? I ask you all to think about the message you are giving to female peers who doubtless rebuff unwanted sexual comment and harassment daily; the message you are giving to male peers who are again being invited to look at women as objects for their gratification; the contribution you are making to the pressures on young women to compete through their looks rather than their achievements.
 
 It was noticeable that, amongst all the wonderful IC people I spoke to, women were extremely under-represented. It was also noticeable that visitors were predominantly men and boys. Imagine a young girl, wondering about a future in science or engineering, opening your newspaper at the centre spread. Will it invite her into the exciting world you have chosen? You can - and should - do better than this.
@@ -42,7 +44,9 @@ _(via email)_
 **Also, male students are often in the centrefold, both in sports teams and mixed groups.**
 
 **The idea that we as women can’t be naked in centrefolds and also be free to rebuff unwanted sexual advances is terribly worrying and frankly, sad. If men see women in the centrefold and think they’re easy ‘objects’ available for harassment, then the fault lies with those men.**
-> > **I have never published a sexual centrefold.**
+
+> **I have never published a sexual centrefold.**
+
 **This attitude of policing women’s bodies, deciding what is liberating or appropriate for them to show or hide for their own ‘good’ is bullshit. FemSoc’s centrefold (Issue 1631) is particularly hard-hitting, and raises the issues of sexism, rape and gender. There are plenty of ways for clubs to promote themselves in FELIX – the Clubs &amp; Societies pages, sport – and the centrefold is just one of those. Many clubs, with both male, female and non-binary members, would release naked calendars anyway, even if FELIX didn’t have a centrefold. These are usually fun, and always for charity.**
 
 **Our newspaper does not exist to engage young girls wandering round the Imperial festival. It is made by students, for students, and forever may it remain.**

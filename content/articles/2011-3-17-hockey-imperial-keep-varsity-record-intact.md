@@ -28,7 +28,9 @@ After watching Imperial register two wins and a draw against the Medics, there w
 Imperial started in the best possible manner, winning an early short corner. Sam injected and Jaideep Desai set himself up for a huge hit that resembled a golf swing more than a hockey shot. This hit popped up in the air, and JD reacted first to the loose ball, playing in captain Ewan Quince for him to put Imperial 1-0 up.
 
 Imperial continued their dominance and good midfield work from veteran Nick Jones led to Ewan setting up Koch for a golden chance, which sadly went straight at the keeper. The Medics soon won a short corner, which would have gone in, but for Matty J’s interception. Sadly, from the resulting short corner, the Medics converted to enter the half time at 1-1.
+
 > It was anyone's game, and an inspirational team talk was necessary
+
 At this stage, it was anyone's game, and an inspirational team talk from Ewan was necessary. Imperial took this to heart and early in the second half, Jones, the Finesmaster for the team, broke with outrageous pace to set up a chance that Koch put just wide.
 
 Imperial kept knocking at the door. Another piece of beautiful play from Jones saw a cross go agonisingly past JD’s stick. All this good work was undone in one swift move as a Medic counter attack saw them win another short. Despite the best efforts of Lars, a great routine saw the Medics bury a shot into the bottom corner, just past Vish’s dive.

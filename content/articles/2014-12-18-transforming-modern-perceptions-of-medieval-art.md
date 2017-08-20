@@ -24,8 +24,10 @@ highlights:
 ---
 
 Earlier this month, the author Saladin Ahmed wrote on Twitter “the fantasy vision of a medieval Europe devoid of people of colour isn’t realism. It’s a different word that starts with ‘r’ and ends with ‘ism’.”
+
 > The fantasy vision of a medieval Europe devoid of people of colour isn't realism. It's a different word that starts with 'r' and ends with 'ism'
 > Saladin Ahmed on Twitter
+
 I’ve always been interested in art, and in all of those years of admiring Renaissance and Medieval artworks, the thought that I was not seeing the whole picture never occurred to me. The absence of art depicting people of Asian and African descent in European art history seemed to me more an artefact of the lack of globalisation rather than the erasure of existing artworks because they don’t fit in with our preconceived ideas of Medieval and Renaissance society. But even my most rudimentary of research has shown me that people of colour have been depicted throughout European art history, often as any other citizen would have been, at all strata of society; yes, as slaves, but also as courtiers, nobility and men and women of wealth and power.
 
 These artworks are not even as obscure as one might imagine, often the true story lies in looking closer at familiar works of art and recognising what is already there. The Garden of Earthly Delights – the triptych painting by the Dutch master Hieronymous Bosch dates from the late 15th century; three oak panels, it depicts a scene from Genesis, showing amongst others things, the presentation of Eve to Adam by God. It has been heaped with praise and even inspired Joan Miro and Salvador Dali; but what art history books fail to mention is the incorporation of not one but at least 17 figures that are clearly of African descent in addition to many others of different skin tones. This highlights the power that erasure and miseducation holds; because we have been taught not to expect it, we often dismiss it altogether.

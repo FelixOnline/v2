@@ -30,7 +30,9 @@ highlights:
 Tucked just off Cable Street, a short walk from the hustle and bustle of Aldgate, __Wilton’s Music Hall__ is one of the hidden treasures of London’s East End. Positively steeped in history and tradition, it is one of the capital’s oldest music halls, and one of the very few surviving ones that retains its original features. With such an illustrious legacy, it is understandable that some musicians may feel nervous when they emerge onto the stage; however, last week saw the London debut of a performer who is no stranger to treading the boards, and commanded the audience with poise and grace.
 
 __Michael Malarkey__ may be best known for playing the role of Enzo, the handsome anti-hero of the American drama series _The Vampire Diaries_, but has actually been writing music for the best part of a decade. While this combination of music and drama may sound strange, Malarkey is part of a rich tradition of actor-musicians; after all, what would Kylie Minogue be without _Neighbours_, Drake without _Degrassi_? We had a quick chat with Michael, who made an appearance at Wilton’s last week, following the release of his EP _Feed The Flames_ late last year:
+
 > Last week saw the London debut of a performer who is no stranger to treading the boards
+
 Q: _When did you start making music?_
 
 A: I started off playing in punk and hardcore bands just after high school in Ohio. I didn’t play any instruments; I was the singer - although I was screaming most of the time. I began teaching myself how to play guitar around this time and have been writing my own songs ever since.
@@ -54,7 +56,9 @@ A: When the spark isn’t there I don’t force it. I have to be in a certain mo
 Q: _What made you take the decision to move to London from the states?_
 
 I had to relocate for _Vampire Diaries_. I’ll be back…
+
 > Making music isn't a crossroads, more a merging of lanes!
+
 Q: _Do you have any big plans for the future? Where can our readers find your work?_
 
 I am currently planning to get into the studio as soon as I can to record some more music and we are currently still filming Season 6 of _The Vampire Diaries_. My EP _Feed The Flames_ is out now and you can download it on all media outlets. You can catch _The Vampire Diaries_ here in the UK on itv2 on Tuesdays at 9pm. Follow me on Twitter/Facebook/Instagram @mkmalarkey for updates!

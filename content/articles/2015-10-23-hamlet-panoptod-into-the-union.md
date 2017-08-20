@@ -26,7 +26,9 @@ highlights:
 ---
 
 Everyone’s had that moment when you wake up and just cannot be bothered to get up, get dressed and make it to your 9am lecture. So instead you decide to stream it live from home via Panopto. When Imperial Cinema decided to take part in National Theatre Live and stream Benedict Cumberbatch’s Hamlet from the Barbican straight into the Union Concert Hall, it was all these students that thought ‘Score! I don’t have to travel across central London to watch this, I can just watch it from the union!’
+
 > See every heartbreaking emotion expressed
+
 First off it’s important to say that Panopto wasn’t responsible for the live stream of the show, which was apparent due to the ease of transmission and lack of buffering. National Theatre Live provided a smooth and intimate experience for the audience. It’s rare in theatre to zoom in on actor’s faces and see every heartbreaking emotion expressed. This also meant however, that when something happened on stage and it was not in shot, the cinemagoers became very confused, wondering what the actual audience were laughing at.
 
 Aside from these minor occurrences, the show was easy to follow, with superb sound and visual quality; the rumbling bass and sharp lighting effects made it feel like you were actually in the room. The level of detail was astounding, something you might not get sitting at the back of a theatre, from the intricate designs of the set to torn up photographs indicating that tragedy is imminent in this famous Shakespearean play.

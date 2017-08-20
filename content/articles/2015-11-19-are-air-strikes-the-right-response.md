@@ -28,7 +28,9 @@ highlights:
 ---
 
 In the wake of last Friday’s horrific attacks on Paris, it’s important that we remain calm and collected when dealing with our enemies. To defeat terrorism we need a well thought out and multilateral response. Instead, on Saturday, Francois Hollande responded with a futile act of revenge. By bombing ISIS and declaring war, we prove their world view, that the world is black and white, and play into the insidious narrative of us versus them.
+
 > We arbitrarily value certain lives over others
+
 Just two days after the death of 132 innocent civilians, the French military launched fresh strikes on the ISIS stronghold of Raqqa in Syria. There is no doubt that the militants killed in this attack were awful human beings, but it’s sad that so soon after a tragedy we are willing to respond with such destructive violence. It seems as if the violence of the west is far more palatable than those who oppose us. We should treat all murder with similar disgust.
 
 Moreover, we must question the effectiveness of airstrikes in combating ISIS in Iraq and Syria. The American and French bombing campaigns seem to have done little to stop the terror that ISIS create. In fact, they seem to have inspired more people to join the terrorist group. Airstrikes are merely a simple, public appeasing, and largely inadequate solution to a complex problem. So, it’s worrying that David Cameron now seeks to involve Britain in the same nationalistic display of military power.

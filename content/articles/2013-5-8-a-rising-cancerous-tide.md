@@ -30,7 +30,9 @@ When one thinks of lung cancer a variety of thoughts come to mind, the foremost 
 The surge is attributed towards the number of women who started smoking in the 1960’s and 1970’s say researchers from the University of Milan.
 
 The Europe-wide study by Professor C.L. Vecchia reports that despite an overall decline in cancer deaths, mortality rates from lung cancer among women continues to rise across the continent, up seven percent to around 82,000 since 2009.
+
 > Lung cancer will overtake breast cancer as the leading cause of female cancer death
+
 Professor F. Levi, from the Institute of Social and Preventive Medicine in Switzerland, has told Cancer Research UK: “The Key message for EU national governments is tobacco control, particularly among middle-aged men and women — the European generations most heavily exposed to smoking.
  “If more people could be helped and encouraged to give up smoking, or not to take it up in the first place, hundreds of thousands of deaths from cancer could be avoided each year in Europe.”
 

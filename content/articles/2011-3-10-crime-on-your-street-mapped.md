@@ -29,7 +29,9 @@ Two burglaries and a case of vehicle crime – not your an average night out in 
 The site is a coordinated effort by various government departments and has been hailed by ministers as a step towards greater transparency with regards to the working of your local police force. In addition to providing a localised crime map, it also offers local police force information and a list of events being held by the police in the area.
 
 The site throws up little in the way of surprises; the Imperial-infested and expensive south-west of London is remarkably safe. Albertopolis itself is devoid of any crime, with the worst you should be expected to endure is a case or two of the one-fits-all ‘anti-social behaviour’, something that you’re probably used to at Imperial in any case.
+
 > The site throws up little in the way of surprises; the Imperial-infested and expensive south-west of London is remarkably safe
+
 The site has been surprisingly divisive, however, with many people questioning the point in releasing crime data for individual streets. Beyond the voyeuristic pleasure of scouring some of London’s seedier neighbourhoods, there is little that the information offers that wasn’t publicly available a few months ago, and almost no functionality apart from it either. While it’s certainly healthy fuel for paranoia, there is also little you can do to get involved beyond staring at you screen; there is no way to provide feedback or suggestions to your local police force through the site.
 
 This lack of apparent purpose has led many to question whether the government really had to spend £300,000 on the project. Software architect Rob West took it upon himself to churn out [a virtually identical website](http://crimesearch.co.uk/) on the evening of the site’s launch, managing it in roughly 8 hours.

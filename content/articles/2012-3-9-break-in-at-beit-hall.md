@@ -31,7 +31,9 @@ highlights:
 Student residence Beit Hall was disrupted on Wednesday 29 February following a series of thefts that took place during a fire alarm. Following the alarm, which began at 1am and lasted for 45 minutes, students who left their doors open during the commotion returned to find items such as cash, jewellery and personal items missing. Concerns were soon raised as to whether the fire alarm was set off with the express intent of creating the opportunity to raid students’ rooms.
 
 Due to room doors in Beit requiring keys to be locked, many affected students were already used to leaving their doors open, which resulted in them being more vulnerable in a situation such as this. It is assumed that the thief travelled from room to room, checking for unlocked doors. The thief was later caught by security.
+
 > I didn’t think twice about locking my door [...] it was shocking
+
 A student, speaking to Felix anonymously, said: “it was 1am and I was so tired that I didn’t think twice about locking my door,” adding, “I got back to find my cash had gone, it was shocking”. Felix contacted Neil McIntyre, warden at Beit Hall, who said that the “thefts are being investigated by the police”.
 
 Halls in Prince’s Gardens such as Eastside and Southside and their constituent sub-halls have mechanisms to automatically lock doors when students leave their rooms. This, although resulting in an increased amount of people being locked out, helps to protect their assets. Most other halls require physical keys to open and lock doors.

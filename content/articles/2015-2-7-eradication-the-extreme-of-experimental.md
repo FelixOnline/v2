@@ -43,7 +43,9 @@ What appears to be the archetypal relationship between therapist and patient twi
 “My colleague and I worked on a training programme which almost eradicated Schizophrenia in…”
 
 “Western Lapland. I know, it’s the name of the play we are in.”
+
 > This incredibly powerful, thought provoking play is unlike anything I have seen before.
+
 Through the psychosis on show, the audience are suddenly and brutally aware of what has been happening. It is not an illness to display psychosis but rather the fear of outsiders who label the strange experiences of others. This we call schizophrenia, and throughout the first half the audience dissect every character’s actions, deciding who to label sane and who to label insane.
 
 So, it was in the context of this extraordinary first half that the interval arrived, and for the first time in my experience, no one moved. Bewildered and confused, even the house lights coming up saw no reaction from the audience. If any of the audience had ever wondered what it’s like to be really star struck, this was it. Only when the usher returned to the auditorium to remind us that we could get up did anyone start to take notice.
@@ -51,7 +53,9 @@ So, it was in the context of this extraordinary first half that the interval arr
 On comes the second half and the ushers instruct us to enter the other half of the auditorium. We are now seated in front of the mother in her kitchen and the patient’s brother.
 
 Throughout the first half, the mother had been painted as a madwoman. With the tone and volume of the actors perfected so that only very particular lines could be heard, the patient’s descriptions of his mother’s borderline personality disorder are only reinforced by the noises and silhouettes from beyond the partition.
+
 > If anyone had ever wondered what it's like to be really star struck, this was it.
+
 Now in the second half, the show restarts the dialogue where it had been twenty minutes into the first half. What seemed like madness when they could only be heard is now clarified through the details not visible to the other side. The image of the family comes across as deeply dysfunctional, but the mother still comes across as sane and loving where previously she appeared to be neither.
 
 It is here that we are reminded for the second time of the words of the patient: “The fictional realm helps you unearth your problems.” As the show progresses, the audience’s confusion and unease has left them desperately trying to solve what is going on in the characters’ heads. However, in doing so, assumptions have been made and stereotypes have been grasped at which leave the patient powerless. In the show’s final moments, the partition is opened and a moment of family unity reminds us of what is really important; the support and love of the people around you, and an acceptance of uncertainty when tackling Schizophrenia.

@@ -29,7 +29,9 @@ highlights:
 In the UK back in 2006 the majority of pubs served mostly identical lagers on keg; variety was achieved by a changing assortment of warm cask ales that often left younger drinkers wanting. In the US, the situation was similar; bars served a narrow range of indistinguishable beers: Bud Light, Coors Light, Budweiser and the like. Any variety found came in the form of expensive import beers like Guinness.
 
 By 2015 it might appear that nothing has changed: Bud Light is still the USA’s most drunk beer, beating its equally bland rival Miller Light by over $3 billion in sales. Yet the experience of going out for a beer has unquestionably changed. Drinkers are now met with a smorgasbord of choice thanks to the rise of craft beer.
+
 > It is difficult to realise efficiency gains when breweries are on different continents
+
 These are highly flavourful beers made by small, independent companies. From dedicated brewpubs like The Craft Beer Co. to curmudgeonly chains like Wetherspoons, almost every pub sells some amount of craft beer. This visible change in pubs and bars on both sides of the pond is reflected in the numbers: in the US, craft beer volumes were around 5 million barrels through the early noughties before rapidly growing to 22 million today. This double digit growth in production goes against the negligible change in beer consumption over that time: craft breweries are stealing market share from the big players.
 
 The biggest of all, AB InBev (producer of Bud Light and Brazilian favourite Skol) is responding to the encroachment of the craft brewers by buying its rival, second largest brewing conglomerate SABMiller (maker of Miller, Peroni and Grolsch). The acquisition, provisionally announced last week, will cost AB InBev some $104 billion and will produce a global superpower in brewing, responsible for around one in three pints consumed worldwide. Yet, even this industry titan might not be able to save big beer.

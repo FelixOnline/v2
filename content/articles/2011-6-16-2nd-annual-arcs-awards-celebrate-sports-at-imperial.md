@@ -38,11 +38,8 @@ An enjoyable night was had by all with the aforementioned alcohol continually se
 
 {{< figure src="http://felixonline.co.uk/img/upload/201106162221-felix-dsc_0038.jpg" title="Coach of the Year: Hellen Maufour" caption="Coach of the Year: Hellen Maufour" attr="Credit: Laura Harreman" >}}
 
-
 {{< figure src="http://felixonline.co.uk/img/upload/201106162220-felix-dsc_0158.jpg" title="Student Team of the Year: Table Tennis Men’s 1st team" caption="Student Team of the Year: Table Tennis Men’s 1st team" attr="Credit: Laura Harreman" >}}
 
-
 {{< figure src="http://felixonline.co.uk/img/upload/201106162216-felix-dsc_0145.jpg" title="Sports Writer of the Year: David Wilson" caption="Sports Writer of the Year: David Wilson" attr="Credit: Laura Harreman" >}}
-
 
 {{< figure src="http://felixonline.co.uk/img/upload/201106162215-felix-dsc_0002.jpg" title="England Rugby Union 7’s Head Coach Ben Ryan" caption="England Rugby Union 7’s Head Coach Ben Ryan" attr="Credit: Laura Harreman" >}}

@@ -31,7 +31,9 @@ Accompanied by the Chancellor of the Exchequer, George Osborne, and Imperial reg
 Xi held an umbrella as Professor Gast walked him across Dalby Court from the business school to the Hamlyn Centre. Some Chinese news agencies misreported that she was merely a “tour guide”, rather than a woman earning over £400,000 a year to lead Imperial.
 
 Xi’s wife, Peng Liyuan, a famous folk singer in her own right, also came along. She was given a cape by the Data Science Institute, whose scientists had analysed 700 photos of her to get accurate measurements and design ideas for the item. A UK based Chinese designer then made the piece. The _MailOnline_ reported that Peng “dissolved in laughter” at the gift, making this, we think, the first sidebar of shame click-bait article to come out of Imperial College.
+
 > The _MailOnline_ reported that Peng “dissolved in laughter” at the gift, making this, we think, the first sidebar of shame click-bait article to come out of Imperial College.
+
 On Thursday, the first lady returned to South Kensington to visit the Royal College of Music. She was seen emerging from the building with our very own Professor of Science and Society, the broadcaster Lord Robert Winston. While his extensive tax credit cuts were being discussed at Prime Minister’s Questions, George Osborne was waltzing about the business school foyer. At one point Alice Gast made a speech directly addressing the unpopular politician.
 
 “Chancellor, you have said that you aim to make the UK ‘China’s best partner in the west’. Imperial College London strives to be just that.”

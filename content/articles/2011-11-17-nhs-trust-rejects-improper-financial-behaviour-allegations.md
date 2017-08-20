@@ -42,7 +42,9 @@ The Trust has stated that the decision to commission Coalescence took place befo
 “Prior to his arrival at ICHT, Mark Davies resigned as a director of the company. On arrival he declared an interest in the company and he has not been involved in the decision-making regarding the continuation of any services. Taking all relevant factors into account, the Trust has thought it is still appropriate for the company to provide services to the Trust.
 
 “Imperial College Healthcare has made payments to Coalescence Consulting of £39,000 for this financial year. However, this figure does not relate to the commissioning of any equine courses and relates to leadership development training including coaching, facilitation, strategic planning sessions and team development.”
+
 > Taking all relevant factors into account, the Trust has thought it is still appropriate for the company to provide its services.
+
 Mark Davies is described as a “Senior Consultant and Executive Coach” on the Coalescence website. Karen Johnson is described as “Managing Director of Coalescence, Board Development and Executive Coach”.
 
 In response to the allegations, Mark Davies wrote an email to all Imperial Healthcare Staff on November 14 that is inline with the response from the spokesperson for Imperial College Healthcare NHS Trust. He concludes: “I hope this clears things up and reassures [the staff] that all the business carried out was completely above board and in line with Trust policies.”

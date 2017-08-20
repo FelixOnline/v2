@@ -38,7 +38,9 @@ The third differentiating factor is that a Hackathon kills procrastination. We a
 Hackathons and similar autonomous work time has proven to be a great innovation catalyst. It has produced a whole array of new products, most famously Google’s GMail, Google News and Facebook’s like button and timeline.
 
 Now back at Imperial, what will differentiate us from the rest of the world? What makes Imperial great? How can we make Imperial better? I believe Imperial will benefit from the same process as
+
 > If I don’t join/finish the Hackathon, I will need to do the same task but lose the prizes plus swags plus the job offer
+
 major tech firms have. Therefore, our best hackers are being gathered to build something that works and wows over one weekend.
 
 Last year, the Hackathon at Imperial produced some very interesting products. Heatnote, a new slideshow player, allows students to tag confusing parts of the slide live. Lecturer can thus see in real time which part of the slide requires further clarification. Another winning team created a system that automatically delivers relevant notes to your devices, based on your course and location. As you can see, our hackers have already implemented some great ideas.

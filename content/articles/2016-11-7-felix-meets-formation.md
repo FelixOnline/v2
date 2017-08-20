@@ -53,7 +53,9 @@ But what do Kai and Jonny think of the arrangement?
    Sash usually plays synths, but the band are one man down for this tour. This isn’t the only challenge facing a band new on the scene.
 
 “We had to carry our own gear [at Glastonbury] and the place is massive. It takes like 45 minutes to get across,” sighs Will.
-> > If people said Formation were a country-funk band, we’d be like ‘not really’
+
+> If people said Formation were a country-funk band, we’d be like ‘not really’
+
 “It takes 45 minutes without gear!” Kai chimes in. “The whole place was flooded, it was like a river.”
 
 They didn’t let this dampen their spirits.

@@ -25,7 +25,9 @@ highlights:
 ---
 
 Last week the [IPCC](http://www.ipcc.ch/) released the executive summary to their special report on extreme events and disasters that will be published in full in February next year. The review looked at extreme events in two ways, first considering how they have changed over the last 50 years and then looking at how models predict they will change in future climate change scenarios. The importance of this is to understand the human and economic damage that could be caused by climate change. The report was welcomed by Simon Brown, the Extremes Research Manager at the Met Office, who [told the Guardian](http://www.guardian.co.uk/environment/2011/nov/18/extreme-weather-climate-change-ipcc), “less emphasis has traditionally been given to these phenomena which are very likely to be the means by which ordinary people experience climate change.”
+
 > Heavy rainfall events are likely to occur nearly four times as frequently as they do now by the end of the century, increasing flooding and landslides
+
 By definition extreme events are rare, which makes identifying trends challenging, especially for certain types of events and regions for which records of past events are poor. With this in mind, however, the report had high confidence that the number of hot days had increased in the past 50 years and statistical trends in heavy precipitation were observed with confidence in a general global increase. This highlights how our extreme weather events have already been changing.
 
 Although the simulation of some future extreme events for different emissions over the next few decades did not exceed the natural variation of the climate some extreme events allowed the report to make strong statements. The IPCC are almost certain that both extremely warm and cold days will increase in both their severity and frequency on a global scale by the end of the 21st century if greenhouse emissions continue as normal.

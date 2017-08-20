@@ -35,10 +35,12 @@ The atmosphere was incredibly friendly, warm and encouraging. As well as having 
 The poems themselves ranged from introspective musings to a lighter, comic tone – like stand-up comedy, but with rhymes. The three set poets were all great. Chris Richardson (aka Felix’s Travel Editor) read stories of his various travels, including one written in fairly harsh conditions in a desert. Cas Nadel read quirky poems in her unique, semi-rap style. Dylan Lowe (a travel writer and former Felix Travel Editor) continued on a theme of travel at the end of the night.
 
 The organiser of the night, Kadhim Shubber, was, much like a curious man at a urinal, compering. As well as introducing the three set poets, he read some of his own material; my personal favourite was ‘The Politician’s Fingernails’, written about an image obsessed politician who is frantically worrying about whether or not his fingernails are too long.
+
 > Swirling smoke inhaled
 > Innocent gale it may seem
 > It fucks up your lungs
 > Dylan Lowe
+
 At some point in the night, Kadhim also introduced what became somewhat of an impromptu theme. A friend, who I shall not further embarrass by naming, was trying to give up smoking. People were encouraged to write a poem (see 'Untitled Haiku' to the right) for him to gently help him to persevere. They were mostly humorous in nature, with the exception of one slightly more harrowing offering. In fact, I even braved the spotlight and read out a (slightly unconventionally structured, read: poorly structured) poem to help convince him. Overall the evening was very enjoyable, and a great way to spend a relaxing Sunday night.
 
 Fluent on Paper_ at [__The Builders Arms__](http://www.thebuildersarmskensington.co.uk/) at monthly intervals – the next is on [Sunday 19 February](http://www.facebook.com/events/173620746075860/)_

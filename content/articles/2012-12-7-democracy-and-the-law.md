@@ -34,7 +34,9 @@ Surely, then, I should welcome the fact that, as of 21st December, ‘gender dis
 No, I don’t welcome it at all. In part because it would be very hypocritical for me to criticise the self-styled ‘equality’ movement when it tries to censor Felix, only to then keep quiet on the rare occasions it benefits me. But there’s a greater principle at stake here: democratic legitimacy.
 
 On a concept as controversial as this, you would think that Parliament would’ve spent months debating such a bill; ping-ponging its way between Commons and Lords until finally, after many late evenings, the enacting scrawl ‘Elizabeth R’ turns the bill into an Act. But no. On this issue, none of that has happened.
+
 > Personally I would be against such meddling regardless of who introduced it. But at least if it was our Government, I could use my vote to show them the error of their ways at the next election
+
 You see, this ban on ‘discrimination’ is not something our elected MPs have decided to introduce. In fact, the UK Government is firmly against it. It wasn’t even the European Parliament (who, in theory at least, is vaguely accountable) who nodded it through. Instead it was the European Court of Justice who in March 2011 decided to amend[ European Directive 2004/113/EC](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:373:0037:0043:EN:PDF) because its provisions specifically allowing gender-sensitive pricing was “incompatible with the principle of equal treatment in EU law”. That is despite the fact such a derogation was explicitly included in the original Directive!
 
 Now, last time I checked, the ECJ was not elected by anyone. Call me old-fashioned, but I always assumed that it was a judiciary’s job to uphold law; what the law actually says. Not what they think the law should say.

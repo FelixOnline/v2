@@ -26,7 +26,9 @@ highlights:
 ICURFC 1st XV turned up to a surprisingly calm Harlington, looking for their first victory of the season against the University of Surrey. With stand-in skipper Mike Wright choosing to go against the wind and the slope, IC started strongly with the new structure appearing to work successfully. The Front Row Union were heavily involved from the start with neat handling along with debutant Adam Dowkes, making some strong carries.
 
 The IC pressure eventually began to tell, closing in on what would have been a first score, despite a dubious knock-on decision. Strong carries from Jerome Hallet, Jack Dunning and Charles Price-Smith, an audacious between-the-legs pass from Henry ‘The Horse Master’ Allingham, and great calls from James ‘The Field Ratio’ Field edged IC closer to the line, leading to Oli Parker crossing following a grubber through from Field. However, he was unfortunately pulled back for being offside.
-> > An audacious between-the-legs pass from Henry ‘The Horse Master’   Allingham
+
+> An audacious between-the-legs pass from Henry ‘The Horse Master’   Allingham
+
 The pressure was          maintained with IC winning a penalty and the ball being sent into the corner. The lineout, which has been     dysfunctional at times this season (this, of course, has nothing to do with the hooker throws, I hasten to add), was won successfully and a maul set up with Lord Allingham galloping over for the first score. 5-0 at half time, a good start.
 
 The second half started with a similar theme of IC dominance. Constant pressure resulted in infringements and more IC lineouts. The score went to 10-0 when Wright scored from another lineout after peeling away from a maul and crashing over from five metres out.

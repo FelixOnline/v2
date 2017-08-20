@@ -42,8 +42,10 @@ However, Phillip was terribly meticulous and demanding. Each Council was thus re
 The amount of paperwork was so overwhelming he would devote to it most of his time. He woke up very early in the morning (around 5-6am), and almost inmediately start to review the first set of documents of the day, carefully reading them and replying by hand. Sometimes his answers would be brief: “Indeed”, “That is fine”, “This pleases me a lot”; but sometimes he would unburden himself in long and pointless paragraphs in which he would correct, and even tell off and complaint about whatever he thought was not right.
 
 For example, upon receiving a request from the University of Alcala to grant a degree to some “Maximilian of Austria, natural son of bishop Leopold of Austria, in turn natural son of emperor Maximilian I and one of his sisters-in-law, a daughter of the King of Portugal”, he promptly corrected the University by pointing out, in a long letter, that “that cannot be, for the wife of emperor Maximilian was not Portuguese but the only daughter of the Duke Charles of Burgundy, who was left in charge of some king of France who tried to take over her state. And look how good a tutor he was, that being the cause of so many of the wars that have happened since!”
+
 > If I had to wait for death, I wish it came from Spain, for then it would never arrive!
 > Viceroy of Naples, c. 1570
+
 Sometimes he would even complain about his own administrative system in those replies: “it is necessary for some things to wait, for I cannot take care of all of them at the same time. Today there came two men, whose affairs held me for two hours, and the amount of documents they left behind will take me more time than I have. I am exhausted.”
 
 His attention to detail was such that, on the comissioning and building of a palace, he wrote to his architects ordering them to place the kitchen assistant’s quarters far away from the service latrines, as the smell could be unbearable.

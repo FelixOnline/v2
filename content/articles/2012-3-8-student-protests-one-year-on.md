@@ -37,7 +37,9 @@ On one side remained those who believed change would happen by marching serenely
 
 This spectrum of action has always existed but the autumn of 2010 was unique in a generation for the sheer quantity that abandoned the establishment line. As the Newsnight reporter Paul Mason observed, overnight Liberal Democrat supporters had morphed into black-bloc anarchists.
  In both political views and actions the main dissenting voice shifted to a more radical ideology. A number of student unions, who were originally against the fees, ended up removing their opposition in an attempt to work with the government.
+
 > I sat in planning meetings with devout Tories
+
 Meanwhile those left on the streets became radicalised by the lack of concession from the state, and the severe police oppression that accompanied the protests. As the protests progressed the students were joined by school children and anti-cuts protestors (not all mutually exclusive). The scenes became more violent ending with the near death of Alfie Meadows from a police assault.
 
 The more radical groups of the student movement organised in occupations and formed bodies such as the Education Activist Network and the National Campaign Against Fees and Cuts. These students called for the NUS president of the time, Aaron Porter, to resign due to his lack of support for, and even condemnation of, the occupations and protests after Millbank.

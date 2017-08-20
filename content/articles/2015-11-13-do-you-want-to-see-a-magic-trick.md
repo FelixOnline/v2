@@ -33,7 +33,9 @@ What do you picture when you hear the word ‘magician’? If you think of ‘th
 Unfortunately, these common generalisations of magic are mostly true, but I’d like to attempt to show you a glimpse from deeper inside the rabbit hole. There aren’t any flying broomsticks, but hopefully there’s something you’ll find cool, perhaps even beautiful.
 
 I’ll attempt to show you some powerful magic, not by showing you the coolest trick, but by showing you the kind of wonderful experience a spectator can have. If you type “Derren Brown mystery box” into Youtube, then you’ll find a two part video of a routine from one of Derren’s brilliant stage shows. Pay special attention to the spectators’ reactions, and don’t read the Youtube comments unless you want a thousand incorrect theories about the trick’s method.
+
 > Hopefully there’s something you’ll find cool, perhaps even beautiful
+
 I’m almost certain that you won’t have bothered to actually go to Youtube to look up the video, so I’ll attempt to describe it in words. Derren invites a random member of the audience who has lost an older relative on stage. The spectator’s name is Emma, and the relative is her grandmother, Doris. Derren then tells a story in which his own grandfather kept an old wooden box on his shelf, and told Derren that he should never, under any circumstances, open the box. We always want what we can’t have, and obviously he wanted more than anything to know what was inside.
 
 After a couple of years, his grandfather passed away, and Derren was left with this box, and was finally able to see what was inside. To his surprise, the box contained a coin, made of solid silver, with 7 words engraved on it. The words were, “Derren I told you not to look”.

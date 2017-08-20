@@ -39,7 +39,9 @@ In 2008, Alain co-founded The School of Life – an organisation that is dedicat
 I got in touch with Alain to talk about the ideas running through his work.
 
 __Joshua Renken__: How did the School of Life come to fruition, and what are the problems it is trying to address?
+
 > "We believe in the attempt to transmit wisdom around some of what people find trickiest in life."
+
 __Alain de Botton__: The School of Life was started by me and some colleagues in 2008. The mission is to try to raise emotional intelligence, looking at key issues in emotional life through the prism of the humanities (philosophy, psychology, literature, history and so on). We believe in the attempt to transmit wisdom around some of what people find trickiest in life; knowing how to form relationships, living with others, facing death, finding a job that is satisfying and right for one’s talents etc.
 
 __JR__: What key lessons can atheists learn from organised religion?
@@ -47,7 +49,9 @@ __JR__: What key lessons can atheists learn from organised religion?
 __AB__: Religion was never simply about superstition and belief. It’s also been about an attempt to instil an ethical code, to bring comfort, to nourish a feeling of community, and to ritualise key moments of existence. Religion hasn’t always done well in these areas (I am an atheist myself), but I believe that atheists can learn about the emotional needs that once drove people to religion and should look for ways to satiate those needs outside a structure of ‘belief’.
 
 __JR__: Do you envision a large humanist movement in the future that employs the tools of communication used by religions, while the organised religions of today fizzle out? Is this Atheism 2.0?
+
 > “Religion will simply become implausible, but the needs that led humans to make up religion will go on.”
+
 __AB__: Yes, eventually religion will simply become implausible, but the needs that led humans to make up religion will go on. So the challenge for a secular society like ours is to come with replacements for many of the activities and attitudes once put forward by religions.
 
 __JR__: What do you think is more likely: a God or many Gods?
@@ -91,7 +95,9 @@ __JR__: How would you change the way degree courses in the humanities are taught
 __AB__: I would dissolve away these archaic subject categories and teach under new categories like: Death, Friendship, Love, Community, Forgiveness etc.
 
 Under such headings you’d find out a lot about history and philosophy, but not under those absurd academic headings like ‘The 19th century novel’ or ‘Neoclassicism’, titles dreamt up by, and only of interest to, scholars.
+
 > "I realised that academic life was always going to restrict me."
+
 __JR__: In your book _How To Think More About Sex_, you touch on the subject of pornography. Do you think society’s general disapproval of pornography is healthy, and are you in favour of legalising prostitution?
 
 __AB__: The point isn’t to ban pornography or approve of all of it, but rather to see whether we might get a better kind of porn, which really means a porn that’s more connected to values esteemed in other areas of life: dignity, respect, intelligence.
@@ -113,7 +119,9 @@ __JR__: Why did you decide to stop pursuing your PhD at Harvard?
 __AB__: I realised that academic life was always going to restrict me: I realised that my real vocation was to speak to other non-experts like me, not a narrow coterie of specialists.
 
 __JR__: Do you ever read the reviews that come out of your books, and if so, do you find it easy to ignore ‘the haters’ when presenting a new theory to the public?
+
 > “As a writer...the best advice is to think not of what people might be saying right now, but of how things [may] look a few years from now.”
+
 __AB__: I read all my reviews and have learnt a lot about life and myself in the process.
 
 As a writer, to keep calm, the best advice is to think not of what people might be saying right now, but of how things might settle down and look a few years from now.

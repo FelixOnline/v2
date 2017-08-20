@@ -30,7 +30,9 @@ highlights:
 Imperial College’s very own André Arroja Neves has won the New Horizons in Mathematics Award at the Breakthrough Prizes, which was held at the NASA Ames Research Centre in Silicon Valley on November 9th. The professor in the Department of Pure Mathematics won the prize, along with Codá Marques, for having solved the 50-year old Willmore Conjecture in 2012.
 
 The Breakthrough Awards, now in their third year, are sponsored by some of society’s modern powerhouse tech giants, who have all made significant breakthroughs of their own. This includes the co-founder and CEO of 23andMe, Anne Wojcicki, and her now ex-husband, the Google co-founder Sergey Chin – in addition to DST founder Yuri Milner and his wife Julia, Facebook CEO Mark Zuckerberg and his wife Priscilla Chan, and AliBaba founder Jack Ma and his wife Cathy Zhang.
+
 > The committee handed out $21.9 million in prizes for significant innovations in three categories
+
 The committee handed out $21.9 million in prizes for significant achievements and innovations in three categories: Fundamental Physics, Life Sciences, and Mathematics. Each category also has a sub-category called New Horizons, handed to junior researchers like Prof. Neves who are ahead of the game in producing important work in their field.
 
 The awards were hosted by Seth MacFarlane, the well-known creator of Family Guy. A star-studded Hollywood line-up gave away the prizes and performed, including Pharrell Williams, Russell Crowe, Hilary Swank, and Lily Collins. Winners ranged from a 1300 scientist-deep team studying neutrinos (including team leaders who won the Nobel Prize in Physics for this research), to an MIT professor who developed the field of optogenetics – using light signals to treat Parkinson’s and other neurological disorders.

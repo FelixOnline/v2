@@ -53,7 +53,9 @@ The computing department, who also use a scaling algorithm on exams, have not gi
 The Mathematics department, who have seen a steady climb from 62% to 82% over the five years, had a change in weighting before 2009, with the aim of better reflecting students’ success in the wider choice of modules in their final years. Before this, Maths were actually giving out fewer 2:1s than other departments.
 
 It’s unlikely that any courses are getting easier, and everyone we spoke to agreed that students are working harder, but some said there is variation year on year as to what key topics students have covered in school.
-> > **There is variation in ability between year groups**
+
+> **There is variation in ability between year groups**
+
 Could students simply be doing better nowadays? Taking Mechanical Engineering as an example, the ratio of applications to admissions for those who graduated in 2009 was the same as for those graduating in 2014, at 5:1. However, the average A Level tariff score on entry jumped from 356 to 557 in that time, probably partially down to the introduction of the A* in 2010. Perhaps it’s simply harder to get onto Imperial courses now.
 
 It’s also important to remember that there is distinct variation in ability between year groups. Any change to weighting or scaling takes a few cohorts before change can be seen and methods can be assessed. Therefore, there’s a limit to how much insight we can gain from a five year sample. Regardless of the good reasoning behind these changes, employers in 2014 could pick more Imperial Mech Eng grads with 2:1s and firsts than in 2009, and so we should still be interested.

@@ -25,7 +25,9 @@ highlights:
 ---
 
 It’s rare to see bands produce such consistently great music, and the few that do offer substantial evolution of their sound over time. Beach House, on the other hand, have released six albums that all sound very similar, each a slight refinement of the one before. Thank Your Lucky Stars is no different in this respect; it’s a continuation of their sound that presents the dream-poppers at their best.
+
 > The sort of stuff you’ll want to snuggle up to in winter
+
 Recorded at the same time as Depression Cherry (and only released a few months after), their latest album strips out many of the layers of sublime production that Beach House have become known for. Luckily, their music still sounds warm and fuzzy - the sort of stuff you’ll want to snuggle up to in winter.
 
 The festive jingle of bells and dream-like keys remain, but there’s now a aggressiveness exposed underneath. Although it’s name might suggest otherwise, Depression Cherry is certainly the less depressing album of the two; Thank Your Lucky Stars is the most melancholy they have ever been.

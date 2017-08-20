@@ -27,7 +27,9 @@ People's habits when they pick up a Felix every week can be quite telling. What 
 Are you more of the half-arsed-skim-through type, trying to escape a boring lecture? Do you flick straight to the centrefold to see if there are any girls in it this week? Maybe you're an incurable puzzle junkie, overjoyed by the thought of weird grids that need to be filled?
 
 You might even be one of those people who pick the paper up every Friday and turn it around. That's right, turn it around, read the back page and continue from there. This would have to mean that you're interested in sports.
+
 > Despite our unshakeable reputation for being nerds [...] there are probably way more sports fans here than you think
+
 Despite our unshakeable reputation for being nerds that goes hand in hand with the whole 'science' thing, there are probably way more sports fans here than you think.
 
 For starters, the sheer number and variety of clubs here is brilliant. You can do anything from golf to Gaelic sports, or even start your own club if you want to share your own (presumably obscure) sport with others. In case you doubt people's enthusiasm for it, I invite you to go to the absolute chaos known as ACC bar night to see for yourself.

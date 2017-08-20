@@ -34,8 +34,10 @@ However, Professor Gowers’ post deals with something a lot more fundamental �
 His first complaint is with Elsevier’s policy of making libraries subscribe to journal “bundles”. This forces them to subscribe to hundreds of journals, many of which being unwanted and of little interest, should just a few core titles be desired. Professor Gowers cited an example of the _Fractals_ journal being one that many libraries end up subscribing to out of necessity, even with its dubious integrity.
 
 This is in addition to his complaint of “extraordinary” high costs. Journal prices have increased yearly, squeezing already tightened library budgets. In 2011, [Felix reported](http://felixonline.co.uk/news/808/cash-strapped-libraries-threaten-to-end-journal-subscription-deals-over-rising-costs/) on how the Director of Library Services at Imperial College, Deborah Shorley, is leading a campaign by [Research Libraries UK](http://www.rluk.ac.uk/) to pressure publishers such as Elsevier and Wiley to reduce subscription costs. Imperial College Union subsequently passed a policy demanding that these publishers cut the prices on their products. These price increases occur regardless of massive increases in profits – in 2009, Elsevier made a turnover of £1.6bn; up from £1bn in 2005.
+
 > ...access to knowledge [...] should be granted to anyone
 > Dr Łukasz Grabowski – Department of Mathematics
+
 Professor Gowers went on to say that libraries can find their access to Elsevier journals cut off if they attempt to negotiate a better contract, something he calls “ruthless”.
 
 He is also concerned about Elsevier’s support of the Research Works Act, a piece of legislation in United States Congress which would remove free access to publicly funded research. This bill was unveiled at a similar time to 31 donations from Elsevier and connected persons to members of the US legislature. Elsevier were also prominent supporters of the SOPA and PIPA bills that were recently shelved.

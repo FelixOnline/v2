@@ -27,7 +27,9 @@ The Winter’s Tale is a true winter’s delight. It is performed at the Globe T
 On entering the theatre I heard murmuring that we were in for a 3 hour ordeal, however even if it was it definitely didn’t feel like it. The Winter’s Tale follows the (not too complicated) story of the jealous and suspicious King Leontes who accuses his wife, the serene Hermione, of adultery with his childhood friend, another king. The tale follows the consequences of his sudden jealousy and the tragedy and rather fortunate events that follow.
 
 The first half is a little slow and riddled more with the usual Shakespearean outpourings of emotions, speech and monologues, however it is not too hard to follow and you feel a certain sense of satisfaction for keeping up.
-> > The juxtaposition of tragedy and then comedy brings the play to life
+
+> The juxtaposition of tragedy and then comedy brings the play to life
+
 After a very sincere first half the second half picks up the pace, beginning with a jester style character who carries this comic feel through to the end. The morose atmosphere before is dissipated with declarations of love and a surprising amount of singing and dancing. This juxtaposition of tragedy and then comedy brings the play to life.
 
 The acting as expected was impressive. Not particularly exceptional, but good enough. They made good use of the stage, often walking through the audience and even at one point jumping into the crowd and squeezing themselves onto the seats. The seats were a slight inconvenience as they are cushioned benches, so unless you get a seat at the rear you have to support your own back, making it a little difficult to get comfortable. But any notion of discomfort is soon forgotten when you get lost in the play. The ending is slightly bizarre, but there are enough good times to make up for it.

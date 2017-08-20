@@ -40,7 +40,9 @@ __Previous Shadow Cabinet Posts:__
 __Controversies?__
  - Told fellow Conservatives in 2006 to pay less attention to the thinking of Winston Churchill
  - Accused of hypocrisy when developing policies on planning regulations
+
 > Mr Willetts is a tough act to follow.
+
 __Previous Jobs:__
  - Controller for BBC in Commercial Policy
  - Councillor on Westminster Council

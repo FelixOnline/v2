@@ -23,7 +23,8 @@ authors:
 highlights:
 ---
 
-> > Loud cries of protest could be heard from the next room
+> Loud cries of protest could be heard from the next room
+
 After some technical difficulties around kick off, ICTV and Imperial College London’s evening of candidate-grilling began.
 
 Ex-Union President, Paul Beaumont, played Jeremy Paxman on the night. Most would agree his style was kind, despite asking one candidate who’d claimed sabbs were “CV padders” whether this included the host. The Youtube comment stream yelped excitedly throughout the night, with current sabbs, students from UCL and notable BNOCS all  commenting.

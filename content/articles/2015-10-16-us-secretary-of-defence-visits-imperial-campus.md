@@ -30,7 +30,9 @@ highlights:
 United States Secretary of Defence Dr Ashton Carter paid a visit to Imperial College London this week to discuss research ties between the UK and US, including how Imperial researchers are taking on a variety of challenges faced by both countries in the field of defence.
 
 Also in attendance was his UK counterpart, the Secretary of State for Defence, Michael Fallon. The pair were welcomed to the College campus by Professor Alice Gast, the President of Imperial College, last Friday.
+
 > Imperial researchers are taking on a variety of challenges in the field of defence
+
 The sojourn kicked off with a tour of the Royal British Legion Centre for Blast Injury Studies, where Dr Carter and Mr Fallon learnt about Imperial’s research into the loss of limbs in conflict zones. Such injuries can often be fatal and are rarely seen in the civilian world.
 
 Professor Anthony Bull and Surgeon Rear Admiral Alasdair Walker explained how they work to improve protection, clinical treatment and rehabilitation for veterans of the armed forces. Dr Carter hailed the centre’s research as “amazing and important work”.

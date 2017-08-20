@@ -37,7 +37,9 @@ Libertarians, anarcho-capitalists and others from the extreme political right ar
 This is unsurprising. These groups often argue that poor people are to blame for their own poverty. So the values of democracy which say all people, rich or poor, are equal are abhorrent to them.
 
 The socialist Tony Benn summarises it as, “Before we had the vote, all the power was in the hands of rich people, if you had money you could get healthcare, education and look after yourself when you were old. What democracy did was to give the poor the vote and it moved power from the marketplace to the polling station, from the wallet to the ballot.”
+
 > ... the human race is not out of the woods yet
+
 The danger democracy poses has been expressed by the right-wing economist Milton Friedman when talking about the relations between political freedom of voting and economic freedom of the market. He writes: “while economic freedom facilitates political freedom, political freedom, once established, has a tendency to destroy economic freedom.”
 
 Unsurprisingly, people tend to vote for things that will benefit them i.e. not unfettered markets.

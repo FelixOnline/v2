@@ -23,17 +23,19 @@ highlights:
 Do you remember when you were five and after a few cold autumn days, you got so sick that you couldn’t get out of bed? But, miraculously, your mum knew exactly what to do so you would feel better. More often than not, it was *suspense* chicken soup, and in just an instant, you felt better! Now I don’t say that it was the soup or you really wanting to go out again, but you get my point.
 
 I know that soup is not the most common meal in college - I actually haven’t seen anyone eating soup here, but I must say that this is the food that reminds me of home, family and childhood. So, just in case you want to be hit by some nostalgia, I’ll show you my Soupe Recette.
-> > Ingredients:
-> > Olive Oil
-> > Chicken - either 2 breasts or       4 boneless thighs
-> > 2 large carrots
-> > 1 onion
-> > 200g Green beans
-> > 2 eggs
-> > Medium semolina
-> > Handful Parsley
-> > Other veggies, if you really love them
-> > Salt, pepper and other condiments you like
+
+> Ingredients:
+> Olive Oil
+> Chicken - either 2 breasts or       4 boneless thighs
+> 2 large carrots
+> 1 onion
+> 200g Green beans
+> 2 eggs
+> Medium semolina
+> Handful Parsley
+> Other veggies, if you really love them
+> Salt, pepper and other condiments you like
+
 First, you need a large pot. Add a bit of oil, and get it hot. Add the chicken and cook it on medium heat for about 5 minutes. Add water until half of your pot is full. Let it boil, while you handle the veggies.
 
 I prefer big pieces of carrots, so I just cut them into 4-5 chunks. But if you prefer small pieces, just chop them smaller. Peel and cut the onion in quarters. Add the beans, carrots and onion to the pot. Top up the pan with water if necessary.

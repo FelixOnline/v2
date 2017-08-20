@@ -26,7 +26,9 @@ highlights:
 ---
 
 As the academic year draws to a close, final projects are handed in, and the last few exams are sat, it’s only natural to reflect on the year gone by. Most of us have clocked up more library hours than we care to remember and spent too many nights in Metric that we wish we remembered more of. We’ve all made a new friend, learnt something new and had a new experience. As Imperial students, not only do we grapple with some of the most academically challenging university courses in the UK, but collectively, we also find time to run over 300 different clubs and societies ranging from IC Rugby Club to DramSoc to CheeseSoc. As if this point needs restating, but contrary to what your academic tutor might tell you, university is about much more than just getting your degree.
+
 > Are we overlooking an important aspect of university life?
+
 However, are we somewhat overlooking an important aspect of university life here at Imperial? Ask yourselves this simple question: have you done any volunteering or other socially beneficial activity over the past year? I know some students do an absolutely awesome job in terms of fund raising and volunteer work, but are enough of us doing our bit? I, for one, must hold my hands up and confess to not having directly been part of any socially beneficial activity over the past academic year.
 
 So this begs the question, why don’t more of us get involved in social activities? And more to the point, should we be getting more involved?

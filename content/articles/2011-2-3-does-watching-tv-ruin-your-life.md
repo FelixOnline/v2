@@ -36,7 +36,9 @@ I find going out on a Saturday night in London an odd thing. I’ve usually had 
 Indeed, I used to pooh-pooh the idea of spending an evening in Tramp, the supposedly trendy Mayfair club. If invited, I would decline by offering some pompous rhetoric about its awful clientele of pathetic, insecure males with more money than sense who would spend their nights buying the attentions of broads best labeled as gold digging whores. You either have to spend the evening inside the club, sitting next to some trust fund baby, or standing outside in the cold having a fag with one of the Harry Potter nitwits. Classy it isn’t.
 
 But one day I accepted the invite. And having brought along a couple of friends, I spent a very merry evening tossing down martinis. Each cocktail made the place lighter, less stuffy, and more fun. What started out as a cynic looking for something to moan about turned out to be the best bloody evening in ages. We roared with laughter, thumping the bar table and cracking lame jokes. The point being that wherever you go out, there’s always bound to be a story to tell – good or bad – and you will be richer for the experience.
+
 > It’s more fun to watch people spray cream on each others’ nipples in real life
+
 Yes, it was stupidly expensive, yes it was full of vulgar people, and yes I will probably never go back, but I am happy I went – what else would I have done? Watched some crap would-be singer be told his version of My Way was better than Frank-“The Voice”-Sinatra’s by a prick with man breasts and a silly haircut?
 
 Since that night I’ve been rationing my TV usage. TV, as the alternative option, is no more than a drowsy sedative. It’s less likely to get you excited than Valium. The whole thing is bollocks – Big Brother, Britain’s Got Talent (if you count Amanda Holden’s fake breasts that is), even the BBC 10 O’clock News.
@@ -44,7 +46,9 @@ Since that night I’ve been rationing my TV usage. TV, as the alternative optio
 Put simply, it’s much more fun to watch people spray cream on each other’s nipples in real life than it is on TV (just ask a Daily Mail journalist), in the same way it’s far more enjoyable to create the news than listen to it (even if Mr. Woollard of fire extinguisher fame would disagree).
 
 __Matt Allinson__
+
 > Not all TV is of the vapid variety. It is brilliant for facilitating conversation
+
 My right honourable friend, despite having a novel immune system that is somehow dependant on vitamin D instead of the usual vitamin C, convincingly raises the argument that watching television makes one a “sad-arse friendless weirdo”.
 
 I spend a colossal amount of time watching television; and if you were to ask any of my Twitter followers or Youtube subscribers, they would doubtless testify to my erudite wit and charm. Scathing, self-depreciating irony aside, while I’m not out snorting cocaine off the tits of “third Hufflepuff on the left” on a Saturday, watching television isn’t the death of my social life.

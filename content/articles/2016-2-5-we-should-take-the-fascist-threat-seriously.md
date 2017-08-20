@@ -32,7 +32,9 @@ Anti-fascism activists travelled to Dover to prevent the neo-Nazis from marching
 In light of the protests, Section 60 &amp; 60AA powers were in place in the Dover district on the Saturday of the demonstration, requiring people to remove their face masks and giving officers in uniform the power to stop any person and search them for weapons or harmful instruments.
 
 Throughout the day there was a lot of violent fighting, with the riot police failing to keep the two groups from clashing on several occasions. This resulted in several people getting hurt, a lot of them obtaining head injuries from items such as bricks being thrown. In the beginning, anti-fascist protesters succeeded in delaying the fascists’ march by containing them at the Dover Priory station (their starting point). Police eventually escorted the far-right demonstrators to their rallying point close to the docks. By this time only a fraction of the original fascist protesters remained to listen.
-> > Far-right groups descended on Dover to voice their “concern” about non-white immigration
+
+> Far-right groups descended on Dover to voice their “concern” about non-white immigration
+
 Violence had erupted before the demonstration. At a motorway service station in Maidstone on the M20 route from London to Dover, five buses organised by the Anti-Fascist Network (AFN) clashed with a bus of Chelsea Headhunters. These football hooligans are also vastly involved with Combat 18 (18 for AH = Adolf Hitler). A fight rapidly started, and escalated, with members of the two groups throwing bricks, wood, and bins back and forth, resulting in several injuries.
 
 The fascists then went on to attack a bus of Russian children, before they smashed in one of the anti-fascists coaches’ windshield and windows, and drew swastikas on two coaches with blood. One of the coach drivers was injured during the attacks.

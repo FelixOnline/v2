@@ -31,7 +31,9 @@ It fails to show how LSD works in alcoholics, but doctors who have seen the rese
 Once the dust settles, many people who take LSD say that their problems appear clearer and simpler, allowing them to make a strong resolution to stop drinking.
 
 LSD was introduced on to the market in 1947 as a psychiatric drug and was used by some doctors to treat alcoholics. Several trials conducted in the decades that followed the drugs release all showed positive benefits on alcoholics. But, taken individually, these trials were too small for researchers to draw any scientific conclusions from.
+
 > We’ve missed a trick here. This is probably as good as anything we’ve got
+
 So Teri Krebs and Pal-Orjan Johansen, researchers at the Norwegian University of Science and Technology, decided to pool together data from six clinical trials conducted in the late 1960s and early 1970s. They found that a single dose of LSD leads to a “decrease in alcohol misuse”.
 
 In the pooled analysis, there were a total of 536 participants, mainly men who had sought treatment for alcoholism and who were subsequently admitted for in-patient treatment.

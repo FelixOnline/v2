@@ -34,8 +34,10 @@ Gone are the times of mustering up courage to ask that pretty girl you met at th
 On founder [Mark Zuckerberg’s Facebook profile](http://www.facebook.com/zuck), he lists ‘openness’ as one of his interest. Openness is a core value of Facebook too, Kirkpatrick points out in his book. Besides connecting people, openness is also what made Facebook into the technology company valued at $33 billion, as reported in The Financial Times this August.
 
 With 500 million users willingly inputting their personal information on Facebook, it is a gold mine for advertisers.
+
 > Facebook “takes the dynamics of one-to-one persuasion and scales it up to millions”
 > Stanford Professor BJ Fogg
+
 However, Facebook is revolutionary in the world of marketing because you and I list our interests, activities and favourites on our profiles. It is able to target ads with a demographic specificity not found in other web services. I could easily create an ad on Facebook that targets the estimated 3,620 men in UK between 18 – 26 years old, attends university, likes Star Wars, is interested in women and is single. Stanford Professor [BJ Fogg points out in an interview with Fast Company](http://www.fastcompany.com/articles/2008/05/interview-bjfogg-on-facebook.html) that Facebook “takes the dynamics of one-to-one persuasion and scales it up to millions”.
 
 The scale of it has certainly manifested in Facebook’s revenue. Business Insider estimated that in 2009, Facebook’s revenue stood at $550 million – $475 million of it comes from advertising.

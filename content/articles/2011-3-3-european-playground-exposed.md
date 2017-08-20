@@ -39,7 +39,9 @@ _Cuisine_: Same as culture. Especially judging by its geographic disparity, what
 
 __Viva La Espana__
  It’s official: Spain is cool. Forget about Costa del Sol and Ibiza, lazing on beaches and gallons of sangria – a football world cup win later it seems like the world’s fascination for España has been revived. Flocks of culture-pilgrims now visit Spain in order to immerse themselves in its rich history, art, architecture and gastronomy; and although Spain’s regional diversity often threatens its national integrity, it may be interpreted as cultural variety for her visitors’ enjoyment.
+
 > It’s official: Spain is cool
+
 _Accommodation_: Choices are aplenty. Hostelling is an ideal budget option – often housed in magnificent historical buildings adjourned with Moorish and Hispanic influences – though increasingly rare the further away one goes from cities. A ‘hostal’ is in between a hotel and hostel - inexpensive guest houses often making a comfy lodging.
 
 _Food_: The French should be embarrassed when their prized Michelin Stars were snatched en masse by Spanish chefs – indeed, Ferran Adrià’s ‘El Bulli’ is considered as the best restaurant in the entire world. The tapas culture reigns supreme in Spain and sets to wow your palate with economical platters of sheer delight. Booze-wise, the Spanish know their quality control – be impressed by their artisan approach to wine, beer, sherry and cider.

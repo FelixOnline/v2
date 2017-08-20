@@ -42,8 +42,10 @@ Various sources have stated to Felix that this will be a major project with a bu
 In correspondence with Felix, Jane Neary, the head of Commercial Services at Imperial, commented that the food facilities on the South Kensington campus had reached saturation point and; despite being able to provide catering services to a footfall of 2.5m people last year; were unable to meet demand.
 
 Furthermore she stated that, “Student feedback has also highlighted that taught postgraduates would welcome more appropriate common room provision on campus,” in reference to the fact that the rules of the Senior Common Room state that taught postgraduates are not allowed to eat there.
+
 > Student feedback has also highlighted that taught postgraduates would welcome more appropriate common room provision on campus
 > Jane Neary, Head of Commerical Services
+
 This is a problem that the College readily acknowledged and has been working towards solving, as highlighted by [an interview with The Reporter](https://workspace.imperial.ac.uk/reporter/public/Reporter237web.pdf) (September 27 2011) in which Mrs Neary stated: “[Commercial Services] would like to create more space for the College community to interact socially, especially taught postgraduates … [who] don’t really have a place to call their own. We would like to change that, providing a catering and social space that could be open out-of-hours and at weekends.”
 
 In her correspondence with Felix, Mrs Neary went on to explain that the purpose of the feasibility study is to evaluate the space currently occupied by the Holland Club and determine which facilities would be required to best suit the needs of the College community; whether the new facilities should be open to everyone or just a select group (i.e. staff and postgraduates, both taught and research) and “How the ethos of the Holland Club might be maintained in any new facilities.”
@@ -61,7 +63,9 @@ The Holland Club itself is self-governed and not for profit, any money made from
 As it stands the coffee machine has been bought with a three-year service contract, and will be installed within the next few weeks, a point that particularly annoys Mr Young as it may now potentially be ripped out by Easter. This uncertainty about the future has affected the day-to-day running of the club, and also on the ability of the club to go about carrying out its own improvements. Plans to start serving light pub food have been shelved until the Holland Club can be sure the required equipment and staff are worth the investment.
 
 It is hoped that a compromise could be reached between the goals set out by the Feasibility study and the current Holland Club. The Feasibility study itself does plan to invite input from students and staff – including members of the Holland Club – on what facilities are desired and how the project should proceed. However Mr Young expressed regret that the Holland Club hadn’t been included in the process from the very start. The primary concerns that he wants addressed in the Feasibility study are that the new facilities will also be self–governed in the same style as the Holland Club, and that communal spaces and function rooms remain.
+
 > Mr Young expressed regret that the Holland Club hadn’t been included in the process from the very start
+
 [Imperial College Union](http://www.imperialcollegeunion.org/) responded to the ongoing issue with the following statement: “Until the feasibility study comes back it is impossible to comment on what potential plans there are for the space the Holland Club occupies.
 
 “It is important to note that the Holland Club was setup as, and still remains, a bar for non-academic staff of Imperial College London.

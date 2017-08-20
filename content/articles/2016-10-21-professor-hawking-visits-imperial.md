@@ -27,7 +27,9 @@ highlights:
 Esteemed theoretical physics boffin, Professor Stephen Hawking, gave a lecture on Monday evening, speaking on black holes, Hawking Radiation, and AI.
 
 Taking place in a packed Great Hall, Professor Hawking was introduced via a video from The Big Bang Theory’s Sheldon Cooper before launching into his speech which largely covered the area of physics that he has become synonymous with, black holes.
-> > Professor Hawking has warned that AI could end mankind
+
+> Professor Hawking has warned that AI could end mankind
+
 25,000 applications were received for tickets, but only a select few managed to gain entry to the hour long talk. 60,000 people have now watched the Facebook Live video of the Q&amp;A section that Hawking did after the main talk in which members of the audience had the opportunity to ask questions.
 
 One such question focussed on the rise of AI, a topic which Professor Hawking has warned could end mankind. In the talk he said that AI is likely to surpass humans in the next 100 years and hopes that “their goals are aligned with ours”.

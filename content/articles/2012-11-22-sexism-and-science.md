@@ -30,7 +30,9 @@ highlights:
 I am a white male, born in the UK, and therefore I know as much about being oppressed, excluded or prejudiced against as David Cameron knows about struggling to make rent. There are, though, some things I feel I can say about sexism at Imperial, particularly in light of some recent Felix Comment articles.
 
 The idea proposed last week by Ms. Skett that whining, complaining or being offended is weak and plays into the hands of a sexist culture, is problematic. Women are people. That’s the general idea here, right? And people, as we all know, are a mixed bunch. Some are fairly extroverted and self-confident, while other people are shy and find it hard to stand their ground. We come up with ideas like human rights, or equality acts, not simply because there are rotten cultures out there. It’s because they help defend the very large proportion of any population who aren’t good at defending themselves. Not everyone can stand and fight in the face of this sort of treatment. I know I couldn’t. The presence of a feminist society is encouraging, not least because it makes it clear that the problem exists and that there are people who perhaps can be sought out if students feel uncomfortable bringing their issues
+
 > Imperial has a very real undercurrent of sexism flowing through it
+
 anywhere else.
 
 Imperial has a very real undercurrent of sexism running through it. This operates both at the level of students, where male-dominated departments often ostracise female students, right through to the level of academics and administrators.

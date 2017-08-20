@@ -27,7 +27,9 @@ If you’re still in the midst of revision, holed up in the library, cramming eq
 The team trained a group of 25 test subjects in mental arithmetic whilst stimulating their brains using a technique called transcranial random noisestimulation (TRNS). In typical sci-fi style, TRNS involves applying DC current to the scalp with electrodes in saline-soaked sponges. The researchers trained the volunteers in arithmetic drills and calculation, involving shallow and deep level brainwork respectively. By stimulating the area of the brain used for tricky arithmetic functions, the researchers found the subjects processed unlearned material better and that 6 months after the TRNS brain-training they retained improvement in the deeper brain cognition.
 
 The scientists hope the research could be used to help people who suffer with neurodegenerative illness, strokes or learning difficulties not only inmaths but also in other brain functions. Lead researcher Roi Cohen Kadosh said, “Maths is a highly complex cognitive faculty that is based on a myriad of different abilities. If we can enhance mathematics, therefore, there is a good chance that we will be able to enhance simpler cognitive functions.”
+
 > Improvement in long-term cognitive ability
+
 TRNS could lead to a new type of learning and education, which Kadsoh says might help humankind reach their full potential. For now it is still in its testing stages but in the future maybe we’ll prime ourselves for revision with a bout of electrode stimulation to ease the revising of all those equations. Perhaps we’ll even reduce the number of hours we spend fortressed on the Library’s fifth floor…
 
 DOI : [10.1016/j.cub.2013.04.045](http://www.sciencedirect.com/science/article/pii/S0960982213004867)

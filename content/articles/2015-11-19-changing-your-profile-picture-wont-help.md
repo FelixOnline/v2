@@ -27,7 +27,9 @@ highlights:
 ---
 
 When ‘Le Tricolour’ was first adopted by the Nation of France in 1794, the three colours were meant to represent the Royalty (the white portion), with the red and blue representing the arms of the city. Their representations of the three colours then changed with the coming of the French revolution which caused the colours change meaning. They were now the three principal French ideals: liberty, equality, and fraternity; however it seems that as of Saturday morning Facebook has now appropriated these colours to signify self-indulgence, egotistic tendencies, and a disingenuous compassion for the tragedy of others.
+
 > Facebook has now appropriated these colours
+
 At the time of writing, 129 lives have been lost as a result of the three co-ordinated attacks on Friday night in Paris leading to the first national state of emergency in France since 2005. This is terrorism not occurring thousands of miles away, causing asylum seekers to flee their homes; this is on our European doorstep and Islamic extremism is a threat that must be countered with increased awareness and increased security. However, the one thing that we can do without, and one thing that will not aid this war is the option to temporarily change our profile pictures.
 
 Facebook, as a social media outlet, has increasingly been trying to humanise its interface by attempting to transmit empathy through a computer screen, however, the end result is as far away from human empathy as possible. The fact that it was only when tragedy struck a western nation that Facebook felt the need to remind us to show our support’ is in itself offensive. On the 12th of November there were multiple suicide bombings leading to estimated deaths of 43 people; however the overlay of Lebanon’s red and white with a tree in the middle was not offered to anyone.

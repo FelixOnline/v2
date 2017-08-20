@@ -33,7 +33,9 @@ We were quoted as one of three Student Organisations to input, the other two bei
 Furthermore I am very proud that we have made the brave move to work with other London Unions to create the London Student Manifesto. This is easily the first time since we left ULU we have worked so closely with other SUs in London.
 
 I can also say that our Freshers’ Week was very successful and great experience – even if I did give 18 talks in four days!
+
 > I feel confident in saying that I have achieved far more beneficial things for the students of Imperial College than my manifesto points would ever have done
+
 __F: What have you been most satisfied with during your time in the role?__
 __S__: The performance of the entire team; both the staff and Sabbaticals.
  We have done some amazing things in the year so far and it has only been possible with the support of everyone and the great team dynamic we have.
@@ -57,7 +59,9 @@ __S__: One of the first things you discover when you take office is that Manifes
 As for other pledges, if you go to the Quad you will now be able to withdraw cash; if you look at our finances you will see that we are balancing the budget and if you attend the General Meeting in Summer you will see me striving for greater efficiency.
 
 What I would say, though, is that I feel confident in saying that I have achieved far more beneficial things for the students of Imperial College than my manifesto points would ever have done, by doing the things I knew imagined I would do.
+
 > I have managed to increase the representative power of the Union
+
 __F: What’s an average day like in the office?__
 __S__: If there was an average day then I would really query the necessity of a Sabbatical for this role! Take today for instance, I went for my fortnightly breakfast with the ICSMSU President, had a meeting in College, worked on a survey for PG student engagement and analysed the results from the bursary survey. If I do this next week I would definitely think I was a cast member on the movie _Groundhog Day_.
 
@@ -78,7 +82,9 @@ __S__: It is my belief that we didn’t voice our disapproval enough about the c
  However I think it is fair to say a lot of our student body, especially the Student Council, has not been eager to take to the streets over these changes.
 
 What I will say is that we, as a Union, have never really considered whether we should use our voice to support national campaigns that don’t overly affect us. A prime example of this is the EMA cut.
+
 > The [Holland Club] situation is a complete PR disaster for the College
+
 __F: What is your stance on Clayponds?__
 __S__: I am still very disappointed with the College for their underhand approach to the Clayponds closure. This was another example of where the Management Board makes a decision and then realises the effects afterwards. For example, nobody has thought about the wardening structure that exists in Clayponds and whether this will move to Orient House; nobody has worked out the prices for this accommodation to ensure that we still have cheap accommodation options for our PG students and nobody consulted the Union until after the decision was made!
 

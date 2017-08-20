@@ -46,7 +46,9 @@ Though off to a seemingly good start, with measured reductions close to 3% for i
 Measuring and regulating this data would not have been easy; there was a lot of reliance on each committing party generating an annual emissions report and the registry system set up in Germany was directed to “track and record transactions”, meaning that parties could not go overboard trading credits and there would be an authority in place to control it.
 
 Nevertheless, not everyone has taken kindly to the policy. Some key players have pulled out of the agreement, such as the US in 2001, with the then President George Bush saying that making the
+
 > If we taxed the consumption of Carbon Dioxide, would we still be nearing the 400ppm mark, regarded as the tipping point?
+
 required changes and implementing the strategies required would damage the US economy. Canada have also pulled out; with their estimated costs at $13.6bn (£8.7bn), the government felt that this was unreasonable to pursue and was the result of “an incompetent Liberal government”. The Russian government supported this decision and pulled out shortly after.
 
 More recently, climate change has been a driving force in almost every economy, whether for or against. The Copenhagen Climate Conference in 2009 sought to bring countries together, on a larger scale than Kyoto, in order to address the issues and create an effective accordance. However, it was ill fated and many governments, including China’s, refused to ratify it, or simply walked out.

@@ -44,7 +44,9 @@ Having completed his degree in Chemistry at Durham University, Professor Rayment
 “Most of my career I’ve been an academic Chemist working at research facilities. After 25 years in Cambridge, things were going very well, but I really feared getting into a rut.
 
 One of the things you’ll find as you grow older is that the opportunities for change will get less and different, and if you simply want a change for the sake of a change, that’s actually not so easy.”
+
 > To be a successful academic you need a whole variety of skills
+
 For Professor Rayment, however, change did come several times. After holding the position as Chair at Birmingham University for three years, the position as Science Director came up at Diamond in 2008, for which he was asked to apply, and he has held the position ever since.
 
 When he arrived at Diamond, Phase 1 of its construction had already been completed with 7 beamlines already under full operation, and Phase 2, for the further construction of 15 beamlines, was underway.

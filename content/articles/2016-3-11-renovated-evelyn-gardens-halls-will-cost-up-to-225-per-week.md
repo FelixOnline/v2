@@ -33,7 +33,9 @@ The accommodation will also operate on a 51 week contract, whilst all other hall
 There will be no wardening facilities – a feature college has wanted to get rid of for a while, as the wardens and subwardens pay no rent, although arguably provide important welfare services. Hall seniors pay full rent, but their existence reduces the number of rooms available for freshers.
 
 The new halls will boast a 24 hour reception and “concierge service”. The accommodation website also mentions onsite “Resident Assistants”, the nature of which is unclear.
-> > **The new halls will boast a 24 hour reception and “concierge service”**
+
+> **The new halls will boast a 24 hour reception and “concierge service”**
+
 In terms of access, there will be two “accessible” rooms, but the buildings still have no lifts.
 
 In a dramatic U-turn on housing policy, at the end of last summer Imperial announced that Fisher hall would be reopened for the year as the college had let in too many undergraduates to fulfil its promise of providing accommodation to every first year.

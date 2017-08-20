@@ -29,7 +29,9 @@ highlights:
 Last week, along with half the country, I decided to brave the crowded cinemas to see the newest James Bond film, Spectre. Some have described Spectre as gratuitous, but I thought that it was fantastic, both in terms of the cinematography, and the primal enjoyment in watching people get beaten to a pulp. But despite enjoying it, I came out of the cinema with a slightly bitter taste in my mouth.
 
 The writers, directors, and producers of the modern, Daniel Craig incarnations of James Bond have obviously tried to make their films progressive, and to bring them in line with the modern world. And for the most part, they’ve succeeded. Moneypenny is now a young, hot, black woman with a life outside MI6, and Q is an Imperial-worthy geek who always ends up saving the day by hacking some computer system.
+
 > Does James Bond have some sort of sexually transmitted disease that only affects women?
+
 Within the genre of a renegade spy who somehow faces no consequences for disobeying orders and can make himself invisible to all intelligence agencies just by driving a highly conspicuous car across Europe, the film does a pretty decent job of re-styling it for the modern era. But where it fails is in its portrayal of women.
 
 Female characters appear, and often start off being presented as strong, well-rounded, independent women who don’t want or need any help from James Bond. But invariably, three scenes later, the sexual tension has built (or appears out of nowhere in a rather contrived way) and we see them tumble into bed, followed by some fight scene where he displays his apparently irresistible masculinity.

@@ -25,11 +25,7 @@ If it hadn't quite clicked already, this General Election is important; not just
 
 As much as you protest, your days as a student will come to an end. Finding yourself knee-deep in the mire that is the job market may come as a shock to the system, but at least this General Election will allow you to have some say in how painful or delightful this shock may be.
 
-
-
 Moving away from a generic comparison of the three main parties' manifesto pledges, _felix_ is looking into the policies and issues being discussed that will directly affect a fledgling workforce entering the industries of science (academic or otherwise) and City business._ felix_ will additionally inspect the policies that could change the way you live out your remaining years as a student.
-
-
 
 Click below to view the Felix General Election 2010 Special Edition:
 

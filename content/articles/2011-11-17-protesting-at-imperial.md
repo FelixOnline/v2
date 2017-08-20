@@ -51,4 +51,5 @@ I also think it has become unfashionable, other ways of expressing annoyance are
 __Do you think that Imperial should in fact be more active and whose responsibility is that?__
 
 I don’t think people should be forced to protest, I think people should care about the issues at hand and so use their initiative to go to protests, if they feel the issues would benefit from that sort of complaint. Maybe its society’s responsibility to shape future generations to be less indifferent? Although I’m not trying to say that not protesting makes you indifferent.
+
 > They have allowed people to express their genuine outrage at an elitist system that will harm the lower middle classes opportunities of higher education, which is important.

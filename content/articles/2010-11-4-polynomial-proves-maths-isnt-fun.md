@@ -30,7 +30,9 @@ The premise is simple: you select a certain music track, and the game will use i
 My first words when I loaded up were "bloody hell". The menu options at first appear quite complex for such a simple game, but when you fiddle about with them you realise that a lot of the controls simply modify the brightness and sound. I recommend adding your own music when you first load up the game; not because the stock tunes are bad, but I play music games to have fun and it’s much easier to do that when you’re listening to music you enjoy.
 
 The instructions make Polynomial seem more complicated than it really is. The first level has a huge floating set of instructions that tell you what everything does: orange monsters damage you, blue... things heal you and green circles offer power-ups. That’s all you really need to know. Point, shoot, fly about, simple as.
+
 > After half an hour you feel like you’re playing in an elaborate screensaver
+
 For a game that supposedly tailors itself to fit your music, I was hard-pressed to see how things changed when music tracks switched. I tried a switch from a hard, upbeat Pendulum track to a much calmer Rachmaninoff piece, and I didn’t see any changes to the game. I suppose this wouldn’t matter so much if the game was fun, but unfortunately Polynomial doesn’t have much else going for it.
 
 After half an hour you feel like you’re playing in an elaborate screensaver and repetitiveness starts to kick in. You fly about, shoot stuff, and listen to your music. The graphics are very pretty, and it does have a certain beauty to it, but it’s just not fun. There is an editing mode which I toyed about with for a bit, but unless tweaking about with a load of figures and seeing what they do appeals to you, I doubt it’ll keep you hooked.

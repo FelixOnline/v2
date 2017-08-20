@@ -27,7 +27,9 @@ highlights:
 Last weekend saw Imperial students along with over 50,000 people march through the streets of central London to campaign for action from governments against climate change.
 
 Organised by Imperial College Environmental Society, over 40 Imperial students joined the student bloc of the climate march to demand that global leaders take action to tackle the growing threat of global warming.
+
 > Over 40 Imperial students joined the student bloc
+
 Dressed in white lab coats and handing out climate change factsheets to members of the public, the Imperial cohort made their way from Park Lane down to the Houses of Parliament. With an audio speaker in the midst of our team, campaign-appropriate songs were blasted out as well as the occasional Imperial March theme.
 
 High profile figures such as Emma Thompson, Charlotte Church and Jeremy Corbyn, adressed the crowd.

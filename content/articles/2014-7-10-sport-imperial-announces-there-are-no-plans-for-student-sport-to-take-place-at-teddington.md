@@ -38,7 +38,9 @@ The rumours surrounding the suspension of the use of this land has caused contro
 One student, Alistair Brown, currently a fifth year medical student, has written on the petition page that “This apparently underhand move to dismantle the medical school exacerbates an us-and-them culture which is not healthy moving forward.”
 
 Teddington, the grounds used primarily by ICSM sports teams, was bought in 1935 and given to St Mary’s medical school, which later merged with other surrounding schools to make up today’s ICSM.
+
 > College provided a guide to travelling to all sports grounds from each hospital. ([View PDF](https://workspace.imperial.ac.uk/sports/Public/Distances%20and%20travel%20times%20between%20hospitals%20and%20sports%20sites.pdf))
+
 Students have expressed concerns that Heston, the proposed new site, is too far from Imperial campuses and hospital placements. Not only that, but many are saddened by the loss of a site steeped in tradition and history.
 
 ICSMSU President, Dariush Hassanzadeh-Baboli, said in an email sent to the medical school earlier this week: “The first time ICSMSU heard about the news was the same time as the rest of the students at Imperial College. Both the Faculty of Medicine and ICSMSU are unhappy and disappointed at the lack of warning, let alone consultation, with regards to moving ICSM Sports from their home ground of over 80 years.

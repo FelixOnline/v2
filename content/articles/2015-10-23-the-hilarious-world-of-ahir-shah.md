@@ -24,7 +24,9 @@ highlights:
 ---
 
 The sharpest, most politically charged comedy I have ever seen – period. Of course what I’ve seen is somewhat limited, but that changes little; Ahir Shah is exceptional. There are many great comedians who make you laugh, and some who make you cry, but few can make you think and feel like Shah. Distant isn’t just another set – everything is funny, but funny with a purpose.
+
 > This isn’t just comedy, this is a political lecture
+
 As a well-educated, British born comedian Shah could play on his Indian roots and build a clumsy set on cultural stereotypes, but he doesn’t force it. He has an amazing appreciation for his place in society, and he says so much more about his heritage than many others would. Shah knows he’s an idealist, but he also knows the hypocrisy of his western views. This isn’t just comedy, this is a political lecture about people like him and people like us.
 
 With a lightning fast delivery and material of mind-boggling detail, Shah’s set insists on your full focus, and it gets it. Jumping from smoking, to ISIS, to the environment, Shah covers immense ground, beautifully weaving his words from one topic to the other. You could just call him a comedian, but calling him a preacher might be more appropriate. This is high praise, but it’s justified. Shah is a poet with unparalleled vision, and he achieves this at no cost to his side splitting comedy. Many won’t get his jokes, and for some it’ll be too much to bear, but if you can stomach it, Shah’s work is a must see.

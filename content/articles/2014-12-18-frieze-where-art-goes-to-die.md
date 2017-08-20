@@ -26,7 +26,9 @@ highlights:
 When men die, they enter into history. When statues die, they enter into art. This botany of death is what we call culture. These powerful opening lines from the 1953 film ‘_Les Statues Meurent Aussi_’ (‘_Statues Also Die_’) - originally made as a critique of the West’s consumerist attitude towards African art – resonated with me as I went around London’s 12th annual __Frieze Art Fair__, where art exists only as a commodity, a soulless husk.
 
 I visited the fair last year and was quite upbeat; there was an air of youth and dynamism about it and you felt as if you might be seeing the ‘next big thing’. Of course, as with any fair, you were aware that the art on display was primarily there to be sold but you did occasionally forget this. It was a truly immersive art experience.
+
 > An environment more akin to a cattle market than an art gallery
+
 I wish I could be so positive this year, but it seems that the view of art as a mere asset has grown too strong, like some kind of parasitic mould. Frieze has lost its unpretentious spirit and is now just another of the many fairs around the world that exists only for the super rich elite, out of touch and irrelevant to everyone else. This should have been obvious enough by just looking at the ticket prices – £33 for adults and £24 for students – simply not worth the money!
 
 I am not saying that the art was of poor quality, as there was undeniably some excellent work on display that was simultaneously exciting and challenging – everything you might want. But it was not allowed to shine for the most part, crammed into the 162 galleries from 25 different countries vying for your attention.
@@ -36,7 +38,9 @@ Moreover, as you rounded gallery number 100, the inevitable art fatigue resultin
 But I can understand why the galleries act as they do. Here, they are in a highly competitive environment, and so they are naturally going to display their most famous and valuable pieces because that is where the money and reputation lies.
 
 However, with that, the essence of the art fair ceases to exist and becomes a façade, just like the immaculately dressed gallery owners who sit with their espressos, much too busy for anyone except the most serious buyers.
+
 > This year's Frieze Art fair had as much personality as a kitchen showroom
+
 There were certainly some standout galleries; __Hauser & Wirth __and the __Gagosian Gallery__ in particular had just the right mix of high quality art and interactivity to attract your attention and set them apart from the crowd. Elsewhere, Jesus Rafael Soto’s Op Art piece ‘_Carré olive et vibration_’ from the __Galerie Perrotin__ proved extremely captivating and quite unique in a fair overburdened with highly decorative works of synthetics and acrylics.
 
 In general, the works on display seemed to fall into three categories: the mediocre, big money pieces that galleries were putting all their hopes on, like Martin Creed’s (I still have no idea why he’s famous) or Tony Cragg’s; the less well known art that bulks out a gallery’s portfolio, providing the best and worst of what was on offer; and finally the pieces designed purely for the selfie – often mirrored, always provocative, perfect to show your social media contacts just how artsy you are!

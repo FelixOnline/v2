@@ -32,7 +32,9 @@ The group had spent hours organising the tournament, that involved multiple matc
 The students were told that they simply weren’t as much “of a commercial asset for us” as the birthday party that was already going on in the space at Ethos, on Prince’s Gardens.
 
 The Ethos receptionist also told them: “It is very simple. If I don’t give it to you I will be fine tomorrow. If I don’t give it to them, I will lose my job. So you don’t get the court.”
-> > **Their slot has been given away twice without any notice**
+
+> **Their slot has been given away twice without any notice**
+
 They were told that as their Easter tournament was a not a BUCS fixture, they didn’t have priority in the double booking.
 
 This is not the first time Ethos has double booked the team. Despite practicing at the same time every Saturday since the beginning of the academic year, their slot has been given away twice without any notice. On one occasion, a match with UCL had been scheduled. The rivals then had to be sent back, and the referees reimbursed from Basketball’s own funds, despite Sport Imperial’s error.

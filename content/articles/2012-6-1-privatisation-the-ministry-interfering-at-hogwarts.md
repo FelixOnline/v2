@@ -46,8 +46,10 @@ But in spite of (or, perhaps, because of) its management-speak, the EPSRC has do
 Mathematics, for instance. The Queen of the Sciences, according to mathematicians (the slave of the sciences according to everyone else), is currently a victim of the new “Delivery Plan”. Since July 2011, EPSRC fellowships in mathematics (the means by which postdoctoral researchers obtain funding for their projects) are available only to statisticians.
 
 That is to say, all of pure and applied mathematics will be excluded. Current and future PhD students in Algebra, Analysis, Geometry, Mathematical Physics, Logic, and all of non-statistical mathematics will have to find other ways to fund their research.
+
 > If EPSRC continues this policy, British mathematics will face mediocrity in a decade.
 > Burt Totaro
+
 “This will force many of the UK’s best PhD students to leave the country to get their first academic job, and will prevent us from attracting the best foreign postdoctoral researchers,” according to Cambridge mathematician Burt Totaro, “If EPSRC continues this policy, British mathematics will face mediocrity in a decade.”
 
 This is not a question of austerity and cuts. As I noted above, the EPSRC budget has fallen only 3.7% since 2007, but mathematics research grant funding fell by 54% over the same period. It is an attitude problem brought on by the perception that pure and applied mathematics don’t have sufficient economic “impact”. In other words, businesses aren’t interested.

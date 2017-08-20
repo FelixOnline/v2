@@ -23,7 +23,6 @@ highlights:
  - photos
 ---
 
-
 {{< figure src="http://felixonline.co.uk/img/upload/201201262230-cac111-thedarkknight.jpg" title="" caption="" attr="" >}}
 
 __The Dark Knight Rises: July 20__

@@ -38,7 +38,9 @@ There are currently nine counsellors working as part of the Imperial counselling
 Notorious for its long waiting times, last year the counselling service was given the budget to employ two extra members of staff.
 
 The service is free, confidential and for students only, although staff are welcome to speak to counsellors about concerns over their students, and personal tutors often refer students to it.
-> > In the 2014/15 academic year, 3.7% of the student population, including part-timers, sought help from college counselling
+
+> In the 2014/15 academic year, 3.7% of the student population, including part-timers, sought help from college counselling
+
 So why the increase? Mental health charity, Mind, told ITV News it believed the hike was down to the rise in tuition fees. College officials are likely to see this as a of result better advertising of the counselling and heightened awareness of what’s provided, due to campaigns like Mentality. However, the results of this only came out last May, and are unlikely to have spurred such an increase in demand. It also doesn’t explain the 15% jump in people seeking services from 2011 to 2012.
 
 Last year’s Mentality Survey report recommended that the counselling service at Imperial needed to improve provisions at “key times”, including the exam period, although mentioned that waiting times for the service had improved since the year before.
@@ -47,7 +49,9 @@ Last year, Mentality surveyed over 1000 students on their mental health and stre
 There are currently no provisions for counselling at the Charing Cross campus, despite recommendations from both Mentality and previous ICSM officers. The Deputy President (Welfare) reported to union council in October that the head of counselling had said “that if it is at all possible, the student counselling service will provide some form of service” at Charing Cross. There is some availability at Silwood.
 
 DPW, Jennie Watson, told FELIX: “Although it’s positive in some ways that students are seeking help, it is high time universities started addressing the causes of poor mental health among students. I can think of a hundred reasons why being a student is far more stressful than it was when I started university in 2010, however, there is still very little being done to demonstrably reduce these stresses.”
-> > **Edinburgh has seen a hike of 75%**
+
+> **Edinburgh has seen a hike of 75%**
+
 “Allowing students to fall into crisis rather than preventing them reaching that point in the first place is an abandonment of a university’s duty of care to its students.” She said.
 
 A college spokesperson cited a line in the college strategy for 2015-20 which is to “prioritise the mental well-being of the student body” and told FELIX: “There has been a nationwide increase in students using counselling services over recent years. At Imperial, following a review of student health and wellbeing services in 2014, the College has made a significant additional investment in student support services, with an increase of 6.5 FTE staff across Student Counselling and the Disability Advisory Service. This includes the appointment of a new full-time Student Mental Health Adviser.”

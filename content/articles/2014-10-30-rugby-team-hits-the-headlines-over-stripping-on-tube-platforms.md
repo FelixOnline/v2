@@ -52,8 +52,10 @@ Imperial College Union has suspended the team until an investigation takes place
 The team in question has already met with the Union to start the process, although it could be a while before the team plays again. The investigation will be lead by the Sabbatical team, although there is no definitive answer as to when the investigation will be completed.
 
 This follows from an incident last week, when an anonymous source revealed to _Felix _that the Medics 3rd Rugby Team were caught on camera running around naked, and urinating and vomiting at Heston.
+
 > It was purely people acting out independent of the rugby team.
 > James Cox, first XV Captain
+
 It is reported that the team are under a self-imposed ban to not drink at the venue for the next two months.
 
 Abi de Bruin, Deputy President (Clubs and Societies) said that the Union will be launching an investigation next week into the Heston incident too.

@@ -30,13 +30,17 @@ Every morning, students stream into Imperial College from Queen’s Gate, turnin
 Completed in 1889, 170 Queen’s Gate, as it is now known, was acquired by the college after the Second World War and subsequently scheduled as a ‘building of special architectural or historic interest’ in 1958.
 
 It was designed by the Victorian architect Richard Norman Shaw, arguably one of the most influential and prolific British architects whose other works include the Romanesque buildings of the old New Scotland Yard premises along Embankment and the old English houses of Bedford Park; upon closer inspection, one will notice beautiful carvings above the entrance, and a family crest on the front door.
+
 > I have never thought about the rich history behind the glitzy façade.
+
 While the upper floors are designated as Rector’s Lodging, the ground floor is mainly a venue for corporate events, receptions, seminars or weddings. I had the privilege of exploring its premises recently and what fascinated me was the substantial collection of college-owned art it housed.
 
 In what is known as the Solar Room (shafts of sunlight streamed gently into the room while I was visiting), there is an impressive collection of Russian paintings on display. From portraits, to snowy Russian landscapes, and even to costume designs, the paintings were originally loaned to the college by Professor Alexander Kennaway in 1989 and variously donated to and purchased by Imperial College in 2007. Now a permanent part of the College’s art collection, they add sophistication and style to the room, making it look almost like a small art gallery.
 
 In the adjacent drawing room, a painting by John Everett Millais caught my eye – a cofounder of the Pre-Raphaelite Brotherhood in 1848, Millais was involved in a movement that rejected the mechanistic style of artists such as Raphael and Michelangelo, instead advocating for a return to attentive detail, intense colours, and the influence of nature. This particular painting, _For the Squire_, is a painting on loan to the college by one of its professors and shows a girl holding a piece of paper in her hands, looking up expectantly. The natural colours and mundane subject matter is characteristic of Millais’ late style.
+
 > It seems ironic that these treasures are seen more by outsiders than the college's own students.
+
 In the largest room, the Council Room, the walls are adorned with portraits of rectors past and present. Portraits of past rectors are arranged chronologically along the walls, from the second rector Sir Alfred Keogh who is depicted in full military dress uniform (he was the Director General of army medical services prior to becoming Rector) up to Sir Keith O’Nions, shown before a montage of buildings for Imperial West development.
 
 There is also a painting of Prince Albert which was presented to Imperial College by the Queen in 1957 – besides being closely associated with the Royal College of Chemistry and the Royal School of Mines, Prince Albert was instrumental in the development of the South Kensington area as a site for education in science and the arts.

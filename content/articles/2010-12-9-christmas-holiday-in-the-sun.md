@@ -32,7 +32,9 @@ The camping trip kicked off with an optional thrill-seeking afternoon, starting 
 Next came the shark snorkelling, which is a lot less daunting than it sounds: the area is home to some harmless reef sharks as well as a plethora of corals and species of fish that’ll keep you well entertained for days. Following a light lunch we were all exhausted but so excited to stand in awe at one of the most beautiful spots in the world, Maya Bay.
 
 After a short swim to the island that involved huge waves slamming us into rocks and people losing shoes, we clambered our way through the jungle in haste. As my girlfriend had come out to join me I was set on this being a relaxed part of my trip, a break from the sweating and trekking, and we couldn’t have picked a better place. Perfect white sand, turquoise waters and sunny blue skies: paradise.
+
 > Perfect white sand, turquoise waters and sunny blue skies: paradise
+
 I’d strongly advise against visiting during the day, as to do so would do the place no justice whatsoever. As we showed up later in the afternoon, hundreds of tourists were being booted off – and I mean hundreds. Thankfully strict policies mean that said tourists didn’t leave any litter behind, and we had a flawless island for just a handful of us for an entire evening. It’d be upsetting to have to share it with the speedos and sexpats instead of just a few soon-to-be close friends.
 
 I think a lot of the time, the travelling experiences you recall with the greatest fondness are heavily dependent on the company kept. Hannah and I met some really great people that night, including someone from a familiar remote village back home. As always the circumstances lead to fast-paced friendship forming which made the evening so much more fun.

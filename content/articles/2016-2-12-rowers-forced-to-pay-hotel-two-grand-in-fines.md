@@ -31,7 +31,9 @@ The rowing club have been forced to pay £2050 in reparations to the Ambassadors
 The payment came straight from the club’s own account of Self Generated Income, which will include money the club have raised from sponsorship and membership costs. In other words, this is about a third of their income from this year’s member subscriptions.
 
 The club's social activities remain banned until further notice, however, they are still allowed to train and last week did so with a British Rowing coach. They are also set to compete this weekend.
-> > Payment came straight from the club’s own account
+
+> Payment came straight from the club’s own account
+
 Union officials met with boat club trainers and the hotel this week as part of their now completed investigation. The findings are not yet public, as they will have to approved by the Union's governance committee before any further action is taken.
 
 The £2050 fine was paid in full by the boat club last week, and will presumably go towards what the hotel claimed were substantial cleaning costs and a smashed toilet door.

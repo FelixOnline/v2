@@ -27,7 +27,9 @@ highlights:
 When I first touched down in New Delhi I have to say I was a tad deceived. Having skimmed my trusty Lonely Planet, I was expecting the Paharganj area to be a bustling Th Khao San à la Bangkok, but was greeted with something else entirely. I suppose I have my own ignorance to thank; I’d been told about what to expect, but brushed it off under the pretence that I am some sort of travel wizard.
 
 Day one was largely about acclimatisation; opting for Old Delhi as our quarters we headed out to live and breathe the fresh stenches of cow pat and spices. Now don’t get me wrong, Old Delhi is fantastic, if a little daunting for your first India destination. It’s got some fantastic eateries serving vast amounts of sweet and savoury fare, and is the cheapest option when it comes to racking up gifts. As always, just beware the commission touts!
+
 > The food is fantastic and the sights are simply spectacular
+
 While still getting used to malaria pills and the thick monsoon air we headed for Old Delhi’s Red Fort area, to get our first taste of incredible India. This was the first of many forts we’d encounter on our adventure: they make great landmarks for tuk-tuk drivers and offer a glimpse into the shimmering past with their dusty construction and plethora of artefacts. We ticked off the Old Delhi to-do list, rounding off in Jama Masjid, India’s largest mosque. If you visit, be sure to climb the tower for spectacular views of the city: the contrast of Old to New Delhi is quite a sight.
 
 At this point in the day the torrential downpour began: a Hindu festival was underway, so rather than cowering forever we waded through flooded streets, up to our knees in the water. Sounds like fun, right? It would be so were it not for the unidentified floating objects swishing by our ankles. Cars chugged by, barely missing our feet, and the street was lit up and excitable. We finally escaped the madness and decided to kick back with a thali.

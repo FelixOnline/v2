@@ -42,8 +42,10 @@ We both really love __Faithless__ and we actually have a song on our album that 
 I’d love to see Noel Gallagher up on stage playing guitar with us, which would be pretty mental, just because we have that mix of styles within what we do and we both have different influences so it’s a mix of dance music with pop music. There’s also a lot of influences from people like __Kasabian__ and __Oasis__.
 
 __Seeing as you have a foot in both camps, one being dance music and the other a more indie style, where would you prefer playing, in a large arena/rave or a tight knit indie venue?__
+
 > I think our music is for people who want to go out and have a really good time and just jump up and down and go mad
 > Diagram of the Heart
+
 For us it’s not so much the venue but the people. I think our music is for people who want to go out and have a really good time and just jump up and down and go mad; we’re about escaping and letting go and thowing your hands in the air. That can work anywhere whether it’s a little bar or a big festival.
 
 __What’s your favourite type of biscuit?__

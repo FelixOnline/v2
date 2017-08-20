@@ -30,8 +30,10 @@ The peaceful protest, which was marred by violence at Conservative Headquarters,
 NUS President Aaron Porter said, “this government is abdicating its responsibility to fund the education and skills provision we desperately need just as every other country is investing in its future. We cannot and will not accept that miserable vision for our future”.
 
 The government is planning to cut almost entirely the teaching grant for Arts and Humanities courses, while protecting Science, Technology, Engineering and Medical courses like those taught at Imperial.
+
 > I did not attend the NUS demonstration… because I do not agree with its motive
 > Alex Kendall, Union President
+
 Almost all London universities were represented at the march, with Imperial being a notable exception. Union President Alex Kendall told Felix, “I did not attend the NUS demonstration… because I do not agree with its motive.” He added that “Students need to take more responsibility for their choice in going to university and realise that if we are the benefit to society that we want to be, we should take an active approach to helping to bring the deficit down.”
 
 There was violence at the Millbank Building, home to Conservative HQ, caused by a minority of protestors. Around 200 protestors smashed windows and started fires outside the building. The violence has been condemned by student leaders including Aaron Porter and Alex Kendall, as well as the Prime Minister David Cameron who said that there would be no turning back on tuition fees.

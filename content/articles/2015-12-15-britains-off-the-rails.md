@@ -30,7 +30,9 @@ In 1910, E.M. Forster described trains as “our gates to the glorious and the u
 He makes our railways seem so romantic. There’s palpable excitement in his words for getting on a train and having a wonderful adventure. Over a hundred years have passed and our trains aren’t going anywhere.
 
 I’m writing this from just outside East Croydon, stuck at a red signal, while the conductor apologises for the signal failure holding us up. I live in Horsham, West Sussex. It’s an hour south of London, and I take the train to Victoria and the Tube to South Kensington.
-> > Apparently operating a series of lights defies engineers’ best efforts
+
+> Apparently operating a series of lights defies engineers’ best efforts
+
 Studying for an MSc is an expensive investment and financial support is limited to career development loans and non-existent scholarships. Since I have neither, I’m self-financing my MSc from savings, part-time jobs, and inheritance money. The only way I’m able to make this work is by living with my parents – I’d much rather live in London.
 
 Around half the trains I catch to London with Southern Rail are late or cancelled. According to _Which?_ surveys, Southern scored worst for customer satisfaction and 39% of passengers reported being late on their most recent journey. It’s worth mentioning that official statistics only record ‘late’ as 10 minutes or more.

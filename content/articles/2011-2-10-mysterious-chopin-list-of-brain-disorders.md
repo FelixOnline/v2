@@ -29,7 +29,9 @@ A new hypothesis about the lifelong hallucinations of romantic composer Frederic
 Chopin was known to have ill health throughout his life, such as fever, nasal blockage and recurrent coughing of blood. However, his hallucinations were commonly attributed to his sensitive nature as a creative genius rather than any neurological or psychiatric disorder.
 
 The researchers, led by Manuel Vasquez Caruncho of Xeral-Calde Hospital in Lugo Spain, compiled data from letters, memoirs, and accounts that revealed some common characteristics of Chopin’s hallucinations. They most commonly occurred in the evening and were sometimes the accompaniment of acute infections and fever. Chopin was able to recall them in great detail but he would often become detached from reality during an episode. He suffered from complex visual hallucinations, in particular Lilliputian hallucinations, where the people and images appear smaller than they are in reality.
+
 > He suffered from complex visual hallucinations where the people and images appear smaller than they are in reality
+
 Chopin himself recounts an occasion where these Lilliputian images forced him to leave the room while playing his Sonata in B flat minor: “Suddenly, I saw emerging from the half-open case of my piano those cursed creatures.” Death was a recurrent theme of his hallucinations.
 
 Hallucinations are a common symptom of psychiatric conditions such as bipolar disorder, major depression and schizophrenia. However, hallucinations as a result of these are mostly auditory in nature and so could be ruled out of the researchers’ diagnosis.

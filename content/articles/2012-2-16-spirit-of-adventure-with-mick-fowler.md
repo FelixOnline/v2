@@ -32,7 +32,9 @@ Mick Fowler is a British mountaineer but not your ordinary mountaineer. He, as v
 I arrived at the talk to find a near-full Physics Lecture Theatre (LT1) and Mick standing at the front waiting to start. Mick began by informing the audience that he works for HM Revenue and Customs and enjoys exploratory climbing in his spare time. If you think we have already climbed all there is to climb, you couldn’t be more wrong. You just need to look around and see what is interesting.
 
 During the talk, Mick relayed many stories of previous climbs and the experiences that surrounded them. In the 70s, when flares were in, Mick and two climbing partners pioneered the ascent of the White Cliffs of Dover by using ice climbing gear. This adventure was met by a small audience upon completion and was reported in the local media.
+
 > A 65ft ice stack at St Pancras station
+
 My favourite tale involved Mick ascending the finest ice climb in London. You wouldn’t think London was great for its ice features, but on this occasion there was a 65 ft ice stack on the outside of St Pancras station. While “belayed to a handy parking meter” he ascended to find the ice stack had formed from a leaking toilet outflow. This landed Mick some attention by the media and police service. The ice flow was then axed by the fire service to prevent Mick damaging the building. Ironically, the fire service caused more damage than Mick had when climbing it.
 
 Apart from the unusual, Mick has also obtained many first ascents of Himalayan Mountains. His last ascent was the Kajaqiao in China with Chris Watts. His previous ascent, of Siguniang in China with Paul Ramsden, won Mick the prestigious Piolet d’Or (France) and Golden Piton (USA) awards for his route. To date, Mick has achieved the first ascents of five conventional rock climbs, five sea cliffs, nine sea stacks, six ice climbs and eleven mountains. If you want to know more about Mick’s adventures, he has published four books.

@@ -35,7 +35,9 @@ In an email seen by FELIX sent from the venue’s management after the event, th
 The party was held at the swanky Ambassador’s Hotel in Bloomsbury. In the email, the management told the boat club that they were now banned from any future events at the hotel.
 
 Early in the evening, managers warned students that if their behaviour did not improve they would be ejected from the venue. The hotel accuses students of damaging equipment, bringing alcohol and consuming it in the hotel which is not allowed, and leaving bar bills unpaid. At 10pm, two hours earlier than planned, the hotel management turned on the lights and threw the students out.
-> > **One student was accused of “vomiting all over [the] manager”**
+
+> **One student was accused of “vomiting all over [the] manager”**
+
 The students are also accused of smashing the glass wall of a toilet cubicle in the hotel, which it is now seeking compensation for, as well as extra cleaning costs.
 
 The club were also told in the subsequent email that the hotel’s “business relationship” with Imperial College may now be in danger, and that college would be informed of the matter “to make them aware of the behaviour of their students”.

@@ -27,7 +27,9 @@ As news breaks at 7am about a man fighting the Russian airforce in the Indian Oc
 It sounds bizarre, but in China it has actually happened. Not to that extent perhaps, but the use of scenes from Top Gun in a report about missile tests is a comical deception. To use archive footage would be one thing, but to use footage from an eighties film is something else. It's taking a long walk off a short plank; one step too far.
 
 What made them use it anyway? You would expect a grainy amateur video camera recording from a bloke in a control tower, not Tom Cruise pulling the same face every three seconds in the vain hope of pulling his teacher. It's the kind of mistake a schoolboy who's left his homework to the last minute might make.
+
 > There is a bit at the start of Inception where there is a riot in an Arabian town. This could be used as coverage of the ongoing tensions in North Africa
+
 This made me think about what other situations could be covered with blockbuster film footage. There is a bit at the start of Inception where there is a riot in an Arabian town. This could be used as coverage of the ongoing tensions in North Africa (and increasingly the Middle East) about social liberty. Obviously, the bit where it cuts to Ken Watanabe and Leonardo DiCaprio would be removed, leaving about ten seconds of useable footage, but I'm sure if Kate Silverton tries her hardest she could rattle through the brief encounter whilst acting as if it were real.
 
 Pearl Harbour could be used as 'brand new footage' of the historical event. Obviously, those astute members of society may notice the fact it's in colour, it's all CGI, and Ben Affleck is an awful actor. The colour would probably swing it towards being improbable, because it'd be like sending Russell Howard to the court of Henry VIII; painfully funny now, painfully disemboweled, emasculated and beheaded then.

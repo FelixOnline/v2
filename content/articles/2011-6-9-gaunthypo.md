@@ -25,5 +25,4 @@ highlights:
  - photos
 ---
 
-
 {{< figure src="http://felixonline.co.uk/img/upload/201106092125-felix-hypo.jpg" title="Hypo" caption="Hypo" attr="Credit: Luke Tomlin" >}}

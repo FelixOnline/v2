@@ -40,7 +40,9 @@ As well as treatable STIs, there are some that become life-long conditions, such
 And if you do find yourself in the position of having an unplanned pregnancy, the NHS also offers support for all of your available options, whether or not that means ending the pregnancy. Either way, your GP or a GUM clinic can refer you to the right people, and again, it’s better to know sooner rather than later.
 
 Sex is one of the most fun ways to pass the time between lectures, and I encourage all who want to do it, to do it as much as they like, as long as it’s safe and consensual. Have fun!
-> > The trusty condom, or ‘Venus shirt’, as they say in Portugal
+
+> The trusty condom, or ‘Venus shirt’, as they say in Portugal
+
 **Condoms**
 
 The trusty condom, or ‘Venus shirt’, as they say in Portugal, is probably the most popular form of contraception. I’ve always found them to be a reliable friend. They’re cheap – often free (can stock up by the wheelbarrow-load from any good student union), easy, and effective  – both in terms of not having babies (they’ve done me proud so far) and in avoiding nasty diseases, something not found so much in other contraceptive methods.

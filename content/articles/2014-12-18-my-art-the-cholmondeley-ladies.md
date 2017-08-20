@@ -28,13 +28,17 @@ highlights:
 ---
 
 In the Tate Britain, among the historical portraits and seascapes, the Van Dyke's and Van Eyck's, there is one picture that never fails to catch my eye. Entering the 1540 room, marking the beginning of British fine art, four pairs of eyes glare out at you from a single panel. An oil painting on wood, _The Cholmondeley Ladies_ depicts two women, dressed in bleached-white finery, and resembling pieces of bone china, who each carry an infant swaddled in a blood red christening gown.
+
 > We have no idea who these ladies were, and no other historical record exists of them
+
 An inscription in gold provides some context, telling us they these two women "were born the same day, Married the same day, and brought to Bed the same day."
 
 It is a _Daily Mail_ story, captured in oils; a Ripley's Believe It or Not for the 1600s.
 
 I don't know why I love the painting so much. Perhaps it is formal rigidity of the painting style. These two ghostly apparitions and their crimson bounties are starkly flat. No attempt at depth has been made, which, as well as giving the painting an otherworldly feel, confers a sense of modernism about it. Painted some three centuries before Picasso's _Les Demoiselles d'Avignon_, it seems to predict the radical geometry that would become so popular during the 20th Century.
+
 > "A Daily Mail story, captured in oils; a Ripley's Believe it or Not for the 1600s"
+
 There is a beautiful symmetry about the painting too, as if painted by a forerunner of Wes Anderson, which would suggest that the two women were twins, and yet there are subtle differences between the two: their clothing differs, and their eye colours don't match - clearly they are not identical twins.
 
 And perhaps this is why I like it. The air of mystery that envelops the painting so tightly has a great attraction to me. We have no idea who these ladies were, and no other historical record exists of them. The rigid poses of the women, who cradle their babies indifferently, is not found in any other work of the same period, apart from tomb sculpture, so perhaps this is a tribute to women who have died?

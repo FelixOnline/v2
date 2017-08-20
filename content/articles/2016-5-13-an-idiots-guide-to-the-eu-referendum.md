@@ -53,7 +53,9 @@ From there just a simple majority is needed by one side, with no minimum turnout
 The debate has captured the full support of some political parties and has divided others, with the wider public split too. The SNP and Lib Dems have all their MPs supporting the Remain campaign as well as almost all Labour MPs, whereas around 130 of the 330 Conservative MPs are backing the Leave campaign, despite David Cameron throwing all his weight behind staying in the EU.
 
 Notable dissension within the Conservative ranks has come from Boris Johnson (former Mayor of London) and Michael Gove (the current Justice Secretary). Jeremy Corbyn, once a staunch EU critic has now come out in favour of remaining, although the jury is still out as to how sincere this was. Obama also voiced his anti-Brexit stance when he was in Britain last month, while Donald Trump is unsurprisingly anti-EU. Joey Essex has yet to cast his opinion on the issue, although he is currently filming a TV show which tackles the referendum, so keep your eyes peeled for that...
-> > **Joey Essex has yet to cast his opinion on the issue**
+
+> **Joey Essex has yet to cast his opinion on the issue**
+
 **So, the debate**
 
 Both sides have been flinging statistics and counter-statistics at each other, with a huge amount of confusion ensuing. In essence, as with many things in life, there are few certainties and there is a risk in both staying in the EU, as well as leaving it. This is compounded by the lack of a definitive post-EU plan from any of the main political parties/leaders, chiefly because they’re all voting to remain. What this means is that for better or for worse, there’s very little evidence to base decisions on. There are, however, opinions and studies aplenty with which you can use to form your opinion, but nothing should taken to be a hard and fast rule.
@@ -71,7 +73,9 @@ Furthermore, the Leave campaign say that should the UK leave the EU, trade with 
 Some non-EU members are instead part of the European Economic Area (EEA) such as Norway, Iceland and Switzerland (kinda) and are not subject to all the membership fees and all the regulations of the EU. This leads to slightly more freedom but no seat at the EU table deciding the laws that they nevertheless have to follow. In some cases this has worked for them, but we are a much bigger economy and one which relies on sectors other than fishing, the Northern Lights and Roger Federer, meaning it might not work out for us or it might work out even better still.
 
 The issue surrounding security is one that is often screamed about, with both sides arguing that we would simultaneously be safer in and out of the EU. The sharing of information within the EU has been made easier by cooperation between nations, but the former head of MI6 feels that security would increase should the UK leave. This is based on allowing us to drop the European Convention on Human Rights (to allow us to deport criminals such as Abu Hamza), share information more freely with non-EU countries, as well as strengthen our borders from movement of terrorists that reside within the EU. The Convention on Human Rights is usually seen as a good thing on the whole though, and this would be unlikely to be dropped (I mean Britain did draft the original rights in the first place).
-> > **We rely on sectors other than fishing, the Northern Lights and Roger Federer**
+
+> **We rely on sectors other than fishing, the Northern Lights and Roger Federer**
+
 The counterargument on our borders does have a bit of a twist too, with the 20 miles of English Channel making the UK different from full Schengen (free movement) members. This extends into a treaty with France known as “Le Touquet”, in which the British border is (kinda) in France, something that may or may not disappear if we left the EU. This leads to a situation in which refugees could claim asylum in Britain as currently they have to actually step foot on the mainland to do so. Whether we should be allowing more refugees in is a whole other kettle of fish.
 
 Other more pressing issues are present too, as the UK is likely to be pretty disliked at Eurovision should we leave, although we can’t really slip down the rankings much further anyway.

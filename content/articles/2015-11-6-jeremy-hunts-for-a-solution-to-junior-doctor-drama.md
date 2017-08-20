@@ -29,7 +29,9 @@ highlights:
 Health Secretary Jeremy Hunt has offered junior doctors an 11% basic pay rise, having cut the hours classified as 'unsociable' meaning that some will actually get a pay cut of as much as 15%. In an attempt to convince junior doctors not to take strike action, he’s conveying the message via a letter to be sent to all 50,000 junior doctors in England via their medical schools.
 
 The letter has also been published in full online, and contains what Hunt describes as “assurances for junior doctors about our approach to a new contract.”
+
 > The BMA is balloting its members on whether they wish to strike
+
 In the letter, he insists that the proposed contract changes are “not a cost cutting exercise”, with changes in the pay for junior doctors being designed as “cost neutral, rather than cost saving.”
 
 He also reiterates that he perceives these changes as being required to deliver “a seven day NHS”, and that they will help “underpin… the NHS [as] the safest health care system in the world [by] reducing, not increasing, the number of hours junior doctors work each week.”

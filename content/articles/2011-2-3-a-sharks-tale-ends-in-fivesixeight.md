@@ -30,7 +30,9 @@ I wanted to double check if it really was shark fillet, so I e-mailed the commer
 Blue Shark (Prionace glauca), [is listed in the 2010 IUCN Red List assessment](http://www.iucnredlist.org/apps/redlist/details/39381/0) as near threatened and the continued sale of shark fillets contributes to the decline of shark populations globally. Blue Sharks are among the most heavily fished sharks in the world.
 
 Sharks have been on the planet for around 400 million years, and as top predators they play an important role in marine ecosystems. Sharks are slow-growing, late to mature, and do not reproduce often – this means that shark populations are particularly vulnerable to overfishing and recover slowly, if at all.
+
 > I think it would send out a very positive message if we refuse to serve shark on our menus
+
 This university is one of the world’s best higher education institutions and we have a large international student and staff population. I think it would send out a very positive message if we refuse to serve shark on our menus.
 
 I tried to be really positive and engage openly with the authorities as I think this is probably the best way to try and negotiate change. I have had a response to my e-mail and it’s actually very interesting although not very satisfying.

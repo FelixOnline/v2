@@ -32,7 +32,9 @@ On May 5th I'll be voting yes to introducing the Alternative Vote system for Uni
 First Past the Post (FPTP) is an ideal method for finding the fastest person to run 100m - first one across the line wins - or selecting your dessert at a restaurant - you select the one you want the most. But an MP doesn't represent YOU, he or she represents everyone in your constituency. I don't want the 'best' politician to win - the one with the most money to spend on leaflets, or the smoothest operator. I want an MP who can represent the views of a broad cross-section of the constituency, including mine, rather than 30% of people who subscribe to his party's ideas.
 
 Choosing an MP is more akin to choosing a pizza to share with friends. You know what toppings you'd like the most, as well as a selection you'd accept to find a pizza everyone is happy with. As anyone who's ordered a pizza with friends will know, you might not end up with your favorite topping. But, you'll usually get one you're happy to eat, rather than being left hungry.
+
 > [Currently], rather than expressing their preference for a particular particular view, people are forced to reject the one they really can't stand winning
+
 Alternative Vote (AV) provides this for electing MPs – you list your favourite, then the others you're happy with (and/or willing to tolerate in order). If you really don't want any of the remaining ones, you're free to leave it blank.
 
 The current FPTP system encourages tactical voting, where people feel the need to vote just for the parties who could win under FPTP. Rather than expressing their preference for a particular particular view, people are forced to reject the one they really can't stand winning. It should not be this way. AV allows voters the freedom to vote positively according to their views first, while still expressing a negative preference by putting the party they really don't want elected last, or not putting a number by them at all.

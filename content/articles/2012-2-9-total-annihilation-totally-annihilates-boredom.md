@@ -32,7 +32,9 @@ Oh, so you were expecting a review on a new game? What new game? January and Feb
 _Total Annihilation_ was a standout game for many reasons, and whilst over 14 years have passed since it was originally released in 1997 it has secured a comfortable place in the hall of video gaming honours. The story is explained in an introductory scene few can forget, the final sentences clearly laying out your aim — “This is a fight to the death. For each side, the only acceptable outcome is the complete elimination of the other.” Very few games since have captured such badassery in less than 35 seconds.
 
 Despite this basic goal and the game’s brutish title _T.A._ required more than just grouping a bunch of units and slinging them across the map. Unlike other RTS games at the time _T.A._ utilized a multitude of different environments, requiring you to plan out your strategies beforehand and scouting ahead to see what fortifications lay ahead. Some planets were large open waterworlds, others filled with lava lakes and meteor storms.
+
 > Despite the game's brutish title Total Annihilation requires more than just slinging your units across the map
+
 The goals too changed level to level. Whilst some did require you to hunt down everything in sight others required more tactical planning, be it capturing an important target, stopping and enemy rush or in one case simply sending a defenseless target through a well-defended passage.
 
 _T.A._ featured a 2D environment but utilized a 3D height variation, meaning artillery fire was blocked in certain cases, whilst units on higher ground had an advantage over those stuck below. Gravity values too changed depending on the planet you were situated on, which in turn affected how far projectiles flew and whether or not you could fly aircraft.

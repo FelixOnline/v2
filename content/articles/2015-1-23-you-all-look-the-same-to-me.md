@@ -34,13 +34,17 @@ The first and most obvious point is the theme of these films. All feature a male
 Which is pretty similar to what you find in _The Theory of Everything_. Stephen Hawking’s search for the eponymous theory is portrayed as not only wanting to find it for science, but as way to be remembered too.
 
 It’s a well known fact in the film world that pretty much every film is the same. This was first made famous by Blake Snyder, who wrote a beat sheet in his book _Save the Cat_ (if you’ve got a free moment, take a look. You will never look at films the same way). It’s a plot template that break films up into a nice three act structure. And it can be applied to almost every film, often down the page number on the script.
+
 > "Pretty much every film is the same."
+
 The thing that surprised me about the three films is the not only how similar they are in reaching their climactic moments, but how similar they are too. You could literally switch the two scenes from _Foxcatcher_ and _Birdman_ over and the films would still make sense.
 
 One of the big issues that plagues all three is the lack of strong females characters. It becomes harder and harder to make an acceptable film that doesn’t really feature any women. Look at the _Hobbit _trilogy. Yes, there were a lot of complaints about the addition of Tauriel, but there would have been even more complains about the lack of females.
 
 Some of the Oscar nominees are fine, look at Felicity Jones in _The Theory of Everything_ for example, or Keira Knightly in_ The Imitation Game_. Both played strong female characters, and both received a Best Actress nomination for their efforts.
+
 > "They are well made, interesting and enjoyable"
+
 I was less than impressed by the three I saw. Emma Stone in _Birdman_ is wonderful as an actress (and a Best Supporting Acctress nomination to boot), but is not particularly well characterised. As for every other female, they barely exist other than for convenience.
 
 In _Whiplash_ there is one female character, and I still haven’t worked what she added to the film, if anything. The only thing worse than a bland character is a pointless one.

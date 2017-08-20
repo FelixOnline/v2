@@ -37,8 +37,10 @@ This news follows [official confirmation](http://www.offa.org.uk/press-releases/
 Staff and students were informed of the College’s bursary plans earlier today by emails from Rector Sir Keith O’Nions and Imperial College Union President Alex Kendall respectively.
 
 Under the new scheme, students applying to Imperial from households with an annual income of £25,000 or less will receive the College’s maximum financial support. This maximum will stand at a figure of £6,000 per year. Students will have the decision to either place £3,500 of this directly in their bank account or use it to contribute towards accommodation costs. The remaining £2,500 will act as a fee waiver.
+
 > "What’s on offer will in the future ease the challenges for those who would struggle with the finances if awarded a place at Imperial"
 > Alex Kendall, Union President
+
 The financial threshold for households to recieve support is also set to increase from the current limit of £50,000. Following from proposals considered [earlier this year](http://felixonline.co.uk/news/1089/details-of-new-bursary-scheme-emerge/), the new scheme will aim to help a ‘wide range’ of students, with those from households earning up to and including £60,000 being eligible for some form of support on a sliding scale. The smallest cash bursary of £900 will be provided for households in the income bracket of £55,001 – £60,000, with no fee waiver.
 
 In his email message, Kendall said that he was “confident” with the new package, assuring students that “what’s on offer will in the future ease the challenges for those who would struggle with the finances if awarded a place at Imperial.”

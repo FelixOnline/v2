@@ -32,7 +32,9 @@ Until recently, I was thinking the very same thing. Then, on the last day of ter
 Now a significant number of people will respond to this saying: a) Their Faculty does not do anything even if complaints are registered; b) Their Faculty has a laissez-faire ‘We don’t care’ attitude towards students (or c) Their faculty actually has done something good after receiving a complaint, but we’ll get onto that later).
 
 Our apathy seems to be inherent in many areas. Turnout for Student Union Elections for Postgrads and Undergrads, were 19% and 58% respectively this year (we were the best in the country!). That’s still a huge number of people abstaining from their right to influence their quality of education. Considering that our degrees are our ticket into working life, I find this ‘lack of interest’ shocking.
+
 > There is very little academic help for those who may be struggling with the rigours of the course
+
 I have to ask: why is there such a ‘lack of interest’ in our own education? Being a medic, I feel best placed to talk about some of the problems that we have been having. The overriding feeling is that we feel completely and utterly uncared for by the Faculty, as highlighted by Imperial’s recent problems with Student Satisfaction. There just does not appear to be any help or support readily available from the Faculty, contributing to the sense of apathy felt by students.
 
 There is very little academic help forthcoming to students who may be struggling with the rigours of the course. There is no help offered to international students, for things such as accommodation, in the event that they have a resit. There is no help for the travel costs between the various campuses and hospitals that we are required to be at, which is inherently unfair on poorer students.

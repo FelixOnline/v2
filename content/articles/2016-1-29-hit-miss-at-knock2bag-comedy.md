@@ -25,7 +25,9 @@ highlights:
 Fresh outta West Basement, this comedy virgin headed out to meet Knock2Bag. Hailed by _Time Out_ as some of the best comedy in the East End at brilliant value, it had a lot to live up to.
 
 On the menu this month – a four course slap up of sexuality, served up light with a little Irish on the side. Each set follows a strict fifteen-minute limit, so this is more a tease than a full on strip, but as a means of getting newer comics involved, it works.
-> > **Fifteen minutes can be a thousand heartbeats too long**
+
+> **Fifteen minutes can be a thousand heartbeats too long**
+
 That said, fifteen minutes can be a thousand heartbeats too long. The headline performance by Sam Simmons, was undeniably dire - surprising coming from the winner of this year’s Foster’s Comedy award. Watching him on stage is like seeing a walrus in headlights. You can smell the fat frying.
 
 Worse – and maybe, maybe, it’s just that moustache (and the suspenders) but there’s something downright creepy about his act. It’s more than a hint of voyeuristic shopkeeper – stacking up cans of cheap lines without the courage to do anything more than grope at his audience.

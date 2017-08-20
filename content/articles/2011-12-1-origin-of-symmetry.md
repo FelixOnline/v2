@@ -34,7 +34,9 @@ Back in 2001; the year iTunes was born, [__J-Lo__](http://www.jenniferlopezonlin
 To celebrate this momentous occasion the band played the album in full at this year’s [Reading and Leeds Festival](http://www.readingfestival.com). The stage was decked out with colossal forks as seen on the album artwork, with Matt Bellamy’s glass piano taking pride of place.
 
 Their set was the best, hands down, all weekend; the opening song ‘New Born’ being accompanied by flying saucers hurtling across the screen, launching huge inflatable eyeballs into the crowd that burst to release confetti, and shooting fireworks that exploded high above the stage… oh and not to mention the songs were pretty spectacular too.
+
 > Each song has such feeling and emotion woven into it
+
 What makes Origin of Symmetry so different, timeless even, is that it appeals to every music listener. Even my Dad, who loves his classical and jazz, likes listening to Muse rocking it out. The strong bass chords allow the guitar to expand and explore, but still remain restrained enough so as not to scare away the not-so-die-hard rock fans.
 
 Matt’s voice somehow manages to infiltrate every cell of the body, being familiar and warming, but at the same time sending a tingle down the spine that leaves us wanting more. His voice makes him the David Attenborough of music.
@@ -50,7 +52,9 @@ However, do not be deceived; this is not all they do. The album takes off on a j
 {{< figure src="http://felixonline.co.uk/img/upload/201112012053-pk1811-muse-reading-2011-fg1.jpg" title="Thousands of fans forking out at the monolothic cutlery at Reading and Leeds Festival" caption="Thousands of fans forking out at the monolothic cutlery at Reading and Leeds Festival" attr="" >}}
 
 When I listen to the album I am taken on a rollercoaster ride of different emotions. ‘Bliss’ fills me with such warmth, it makes me smile; ‘Space Dementia’ and ‘Plug In Baby’ bring up deep feelings – sadness, passion, joy. These songs make me want to sing my heart out. They are able to spell out my emotions when I have no words to explain them.
+
 > They still have the same punch of emotion
+
 Some critics consider the songs ‘Dark Shines’ and ‘Screenager’ to be downsides of the album, perhaps reflections of the early stage in Muse’s career. However, as a die-hard Muse fan I could tell them to sod off. But I’ll show some restraint and argue that these tracks still reflect the complexities in their repertoire. Although really quite different from earlier songs in the album, they still have the same punch of emotion and musical brilliance: the trademark of Muse.
 
 This is what makes not only the album but the band themselves an essential for any music lover’s collection. I mean, this is what they were producing when they first started out – imagine how amazing they are now.

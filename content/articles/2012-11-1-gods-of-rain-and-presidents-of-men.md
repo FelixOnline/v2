@@ -33,7 +33,9 @@ Minus the werewolves and the superstitious business of it being Halloween and al
 Enter [election.](http://elections.nytimes.com/2012/electoral-map)
 
 As circumstantial as it seems, Sandy will make some difference to the election. For starters, it is largely effecting the northeast of the good old US of A. Making landfall in New Jersey, the storm is expected to
+
 > Fortunately for Obama, Romney is not helping himself out. While the incumbent is seen as spending his time organizing disaster relief, Romney is criticizing the Federal Emergency Management Agency
+
 spread to the north, filling up the periphery with several feet of snow and centimeters of showers. That being said, it’s important to note that the northeast votes predominately Democrat. So will Obama stand to lose some support?
 
 Short answer, no. Though there might be lower turnout at the polls, as one could expect in weather as apocalyptic as Sandy, http://www.bbc.co.uk/news/world-us-canada-20175579<http://www.bbc.co.uk/news/world-us-canada-20175579>.
@@ -41,7 +43,9 @@ Short answer, no. Though there might be lower turnout at the polls, as one could
 Also, as the incumbent, Obama stands to profit from this hellish storm system. That is, if he plays his cards right: a well-managed and quickly fixed disaster could give him an extra boost. Cool brow, yet warm and comfortable rhetoric, Obama could make himself seem as the modest savior/rebuilder of the northeast.
 
 This resonates much wider than just this region. One only needs to think of 2005, when hurricane Katrina ran amok not only on the levees of New Orleans, bringing on flooding not seen since Noah, but
+
 > Though there might be lower turnout at the polls, as one could expect in weather as apocalyptic as Sandy, Obama still touts at least a ten-point lead in most northeastern states
+
 also on Bush’s popularity ratings. His perceived ineffective response and lackadaisical approach to the whole crisis defined his second term in office. Obama shouldn’t and, if he wants to win the election, can’t let this brewing crisis go unnoticed.
 
 Fortunately for Obama, Romney is not helping himself out. While the incumbent is seen as spending his time organizing disaster relief, Romney is criticizing the Federal Emergency Management Agency, FEMA, the federal institution providing help to those states that do not have the means to fix the mess that Sandy has left behind. This doesn’t bode well for his chances in the northeast and diminishes his chances in the bad-weather magnets in the south.

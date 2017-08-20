@@ -35,7 +35,9 @@ Oneohtrix Point Never records have always managed to sound like expertly arrange
 From the grungy depths of ‘Sdfk’ to the anthemic heights of ‘I Bit Through It,’ Garden of Delete takes us on a journey through an otherwordly landscape that few musicians are capable of constructing.
 
 I’ve spent the last week almost exclusively listened to the record; each listen allows me, for short moment, to escape the reality of everyday life. It has guided me through the streets at night as a walk through dark, isolated pathways and kept me awake on late, lonely bus rides home. But it is far more than a companion. From the beeping of tube doors closing to midnight conversations in McDonalds, the album perfectly blends in with the sounds of travel and the bustle of the inner city.
+
 > A journey through an otherwordly landscape
+
 It is cinematic on a personal level, making every moment feel like the prelude to an ominous threat.
 
 While it is by far Lopatin’s most welcoming collection of songs, there is still a lot of experimentation across the twelve tracks that make up the record.
@@ -51,7 +53,9 @@ Sometimes you can hear words among these warped growls, and amusingly Lopatin ha
 As always, Lopatin creates an electric range of synthesiser sounds. Some are grainy and uncomfortable to listen to and there are the usual hard hitting crashes.
 
 These are matched by the dulcet tones of strings, which at times sound like weird imitations of Arca.
+
 > Listen to it in the darkest corner of the darkest alleyway in the worst part of town
+
 There’s one synth on the album shimmering; if we could hear the sun shining this would what it would sound like.
 
 ‘Mutant Standard’, an eight minute epic, stands out as the most cinematic on the record. It starts of like a thumping, violent heartbeat and evolves into a richly layered anthem. It’s music to get you hyped.

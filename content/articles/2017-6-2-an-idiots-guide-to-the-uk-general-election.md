@@ -61,8 +61,6 @@ The Green Party represent the opposite end of politics to UKIP, being the party 
 
 The ‘main’ party manifestos are covered in the following pages but make sure to do a little bit of research into your local party candidates too. This is because at the end of the day you are voting for a local representative, albeit one who’ll be somewhat tied to a national agenda, and they may have particular policies or beliefs that either align or clash with your own views.
 
-
-
 {{< figure src="http://felixonline.co.uk/img/upload/201706021557-felix-1081px-2015UKElectionMap.svg copy.png" title="The 2015 election results " caption="The 2015 election results " attr="Brythones" >}}
 
 **And what’s the likely outcome?**

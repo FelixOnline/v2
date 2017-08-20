@@ -35,7 +35,9 @@ A problem sheet is worthless and one mark is 0.017 times that. The aim of your f
 Students are the best teachers so talk to your peers. You don’t get any marks for deriving the whole of physics by yourself. For me, half the time I was stuck it was just a mistake in the lecture notes.
 
 If you’re looking for people to work with, ignore the front row. They’re not clever, they just need people to think they are. The clever kid is sitting on their own, quietly confident and definitely not
+
 > Don’t get me wrong, the mid-morning panic before an assessed problem sheet deadline is quite amusing, but it won’t make a difference to your grade.
+
 stopping the lecture every five minutes to ask yet another inane question.
 
 Stand up for yourself, particularly with demonstrators. These are generally young PhD students with little marking experience a.k.a easy pickings. After each lab report you will have a feedback session where they point out the reasons you’ve been marked down. Your job is to listen very carefully and wait for them to slip up. Perhaps they said you left something out or that you made an error in your maths. Are they right? If not you should very politely point it out.
@@ -51,7 +53,9 @@ __Courses__
 Choice of courses is paramount, get it right and it can easily earn you a grade. First and foremost choose courses based on who’s lecturing. Get a duff lecturer with bad notes and you’ll be up a popular creek without a paddle. There are some lecturers who require students to think during exams – these sadists should be avoided at all costs. Fortunately there are others that perennially set easy papers. Find out who these wonderful people are and make your life a bit easier.
 
 It is of course deeply unfair that the (in)competence of the lecturer should have a greater impact on your grade than your own (in)competence. You might naively expect that some central system would
+
 > Work when you mean to work and play when you mean to play
+
 sort this out. And it’s true such a system does exist, however, in practice, I’ve never seen it work, and the same lecturers give high marks year after year.
 
 After second year there are no compulsory courses (in Physics), so this is the point where assumed knowledge stops. Yet lots of courses require the same background, which must be taught in each course. This means there’s room for the astute student to economise their learning by maximising the overlap between subjects.

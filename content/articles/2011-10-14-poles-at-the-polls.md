@@ -26,7 +26,9 @@ highlights:
 ---
 
 A radical libertarian party could hold the key to power in Poland after Sunday, when the EU’s sixth largest economy and only country to not contract in 2009 held parliamentary elections. Unsurprisingly, the incumbent centrist PM came out on top; Donald Tusk’s Civic Platform won 39.2% – a slight decline from the 41.5% gained in 2007. The main opposition, the right wing Law and Justice, gained 29.9% – also a small reduction from 32.1% in 2007. However, the newly formed breakaway from Tusk’s party, Palikot’s Movement, gained support from 10.2% of Poland (including myself), making it the third most popular party.
+
 > The Catholic Church, until very recently, had a great deal of influence in Poland
+
 The party is now one of the most radical liberal parliamentary parties in the EU – supporting full separation of church and state, legalisation of abortion and marijuana, and removal of the Senate (upper house). The result is a surprise; particularly in strongly Catholic Poland. And with no majority party, Janusz Palikot may now have the influence of a kingmaker.
 
 With the economy doing well compared with other EU countries and a sense of progress in Poland, voters did not make this decision as an act of rebellion against an unpopular administration. I was also surprised to find their main voter base was not just students. Exit polls showed 18.6 % were students, while 37.5% were over 40. The bias towards the young, urban and educated is not as great as one might imagine.

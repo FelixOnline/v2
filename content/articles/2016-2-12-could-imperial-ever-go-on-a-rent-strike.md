@@ -33,7 +33,9 @@ If you think people don’t care, check out the ICTV’s ‘Imperial Questions L
 Perhaps the most interesting thing to come of UCL’s previous rent strike is that it actually worked. Last year, students withheld rent and held protests at several halls and were eventually reimbursed for one term’s rent. UCL had initially warned the students that they could face academic sanctions if they didn’t pay, but these threats were swiftly removed after legal warnings from the government. Consumer rights bodies also reminded UCL and its students that you cannot be academically penalised for outstanding non-tuition fee debts.
 
 Even without the threat of no graduation, is such a display of financial dissidence realistic here at Imperial? Students often complain about the high rents in first year, but after that, we tend to disappear into the private housing system. If first year students were effectively mobilised as they were at UCL, it would be possible.
-> > You cannot be academically penalised for outstanding non-tuition fee debts
+
+> You cannot be academically penalised for outstanding non-tuition fee debts
+
 Organisers of UCL’s Cut the Rent campaign told FELIX that the rent strike had been organised by simply knocking door to door in the halls concerned. At the suggestion that some campuses are more up for direct action than others, the representative told us something along the lines of: if you can do it here, you can do it anywhere.
 
 Cut the Rent told us that a critical mass of students involved was needed, not only for the plan to work, but for other students to join in and the campaign to snowball. Their successful rent strike had between a third and half of the residents striking.

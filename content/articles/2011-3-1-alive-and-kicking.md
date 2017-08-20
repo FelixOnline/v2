@@ -35,7 +35,9 @@ We were on a particularly long ward round on a hot, uncomfortable Monday afterno
 That was when the patient let out the most pitiful and heart-wrenching cry I have ever heard. She was in a pain beyond words. I once ripped a plaster off my arm really fast for a dare, taking a good rectangle of hair with it. That hurt but I can’t even begin to comprehend the pain this lady was in. As distressing as it was for the patient and for us, the consultant continued her work until the sore in question was exposed.
 
 It was horrific. It probed right down to the bone of the big toe, with pus, gangrene and necrotic tissue all the way down. With a high temperature and a low BP, she had gone into septic shock from this wound. This was despite being treated with metronidazole, vancomycin and teicoplanin, three of the strongest drugs in our arsenal for foot ulcers.
+
 > I was shocked. In my mind, people died of strokes or heart attacks or road traffic accidents, not of something so simple as a “bad blister”
+
 Afterwards, when we discussed the ward round, it was agreed that this lady was not going to live long and since our antibiotics were neither prolonging her life or treating her disease (clearly), we would switch to supportive management. I was shocked. In my mind, people died of strokes or heart attacks or road traffic accidents, not of something so simple as a “bad blister”.
 
 And so it was. We withdrew antibiotics and prescribed morphine as required, warning the nurse that this patient would not be able to ask for pain relief. We tried to make her as comfortable as possible. After that, we sat back and waited for the inevitable. Even our consultant, who is notoriously optimistic and determined when it comes to foot ulcers, admitted that she probably wouldn’t last the night.

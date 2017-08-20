@@ -27,7 +27,9 @@ When Palmer Luckey kickstarted the virtual reality revolution in 2012 I doubt he
 Porn sites have been quick to react to the rise of virtual reality headsets, with PornHub introducing a virtual reality section on their website earlier this year. Once an inaccessible oddity, VR porn is now available to everyone for free. So, I guess I had to try it.
 
 To transport yourself to another world, first you have to leave your own reality. Unfortunately, head mounted displays completely separate you from your surroundings, so if you’ve ever been worried about someone bursting in and catching you in the act, VR porn probably isn’t for you. Not only will you look like some sort of futuristic sex-addicted spaceman, but you probably won’t even be aware when someone does enter the room (and that could be a little embarrassing). Ignoring all the potential awkward situations that might occur, virtual reality porn is pretty rad.
-> > You look like some sort of futuristic sex-addicted spaceman
+
+> You look like some sort of futuristic sex-addicted spaceman
+
 It succeeds for a number of reasons. Remember those gimmicky in-your-face bits in 3D films? VR porn directors have taken note, and this new genre of adult film consists entirely of scenes where you have dicks and tits dangled in front of your face. Probably more interesting is how enclosing your face in a headset makes everything feel far more intimate than, say, watching the same video on your phone or computer. There’s no interactivity (yet), so, it’s unlikely to replace sex anytime soon. In the meantime, it opens up a whole new range of experiences and experiments to us.
 
 Virtual reality, from the beginning, has been advertised as the ability to experience something as if it were reality or from someone else’s perspective. In the past, I’d never been curious enough to watch porn aimed at the opposite sex. However, there’s something incredibly powerful about experiencing sex, and presence, when the roles are reversed. If there was ever a reason to try VR porn this would be it.

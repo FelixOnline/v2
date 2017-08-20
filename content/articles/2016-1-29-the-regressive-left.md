@@ -25,7 +25,9 @@ highlights:
 You would be forgiven for expecting a guy like me, raised by a mother whose list of accolades includes filing suits against a nursery nurse for telling 3-year-old me to remove my nail varnish because “that’s what girls wear” and a post office for not allowing more than two  school children in at a time (ageism, obviously), to have been well and truly smothered in leftie PC rhetoric to the point of opting to punch myself in the face rather than mistakenly refer to a transgender person using a cisgender personal pronoun.
 
 However, I think it’s time those of us at Imperial and elsewhere who define ourselves as part of the hard left join me in taking a look at the extent to which this rapidly changing political movement truly represents us.
-> > There are dozens of situations where free speech was smothered by political correctness
+
+> There are dozens of situations where free speech was smothered by political correctness
+
 The values those on the hard-left like to claim as their own can be well described as Robin Hood-esque. They consider capitalism a game of chance: those born into riches generally prosper while those born into poverty generally stay there. They want to level out the playing field so fewer people have to suffer. They’re sound principles, but do the more specific political beliefs and actions of members of this movement really embody them?
 
 It is quite clear that a significant proportion of the hard-left has, in the past five years, become so obsessed with political correctness that they are actively stifling free speech.

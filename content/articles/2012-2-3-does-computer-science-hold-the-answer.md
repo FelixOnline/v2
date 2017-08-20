@@ -39,7 +39,9 @@ The [Riemann Hypothesis](http://www.claymath.org/millennium/Riemann_Hypothesis/)
 {{< figure src="http://felixonline.co.uk/img/upload/201202050722-ak6309-2.png" title="A plot of values 0 to 35" caption="A plot of values 0 to 35" attr="Credit: Wolfram MathWorld, Derbyshire (2004)" >}}
 
 While an underlying pattern appears plausible, this Hilbert Problem remains unproven. The unpredictable nature of the prime numbers has been put to use in the [RSA](http://mathworld.wolfram.com/RSAEncryption.html) (_Rivest, Shamir and Adleman, MIT, 1978_) cryptographic algorithm. This system, considered currently unbreakable due to technical infeasibility, provides digital security with primes. Banks, websites and governments worldwide have adopted RSA and it is a common means of distributing an encryption key. A [brute force search](http://mathworld.wolfram.com/ExhaustiveSearch.html) would need to test possible primes to break this, but since there is no reliable way of determining the next prime, computers may take years to perform this operation, rendering this method impractical. A proof of the Riemann Hypothesis, however, may provide a means of determining a pattern and breaking RSA.
+
 > Every mathematical theory... will sooner or later find an application
+
 Brute force guessing of standard passwords is also impractical. We are all currently encouraged to create case-sensitive alphanumeric passwords. The problem with checking every possibility lies not with verification; a computer can easily identify whether two pieces of text are equal. It lies with first obtaining the solution to compare. Some techniques search through dictionary entries, allowing quicker identification of common passwords.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201202050725-ak6309-3.png" title="A case sensitive password with alphanumeric characters" caption="A case sensitive password with alphanumeric characters" attr="" >}}

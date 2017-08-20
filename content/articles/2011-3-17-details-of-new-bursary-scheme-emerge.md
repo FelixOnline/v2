@@ -33,8 +33,10 @@ A College committee is working on proposals to increase Imperial’s bursary pro
 The results of the survey highlighted a clear discrepancy between government efforts to force universities to offer tuition fee waivers and the demands of Imperial students.
 
 A majority – 60% of the 460 students that responded to the survey – said that they preferred cash bursaries to either lower accommodation costs or tuition fee waivers. The survey was only targeted at the 1261 students who receive financial aid.
+
 > It is the upfront cost of living that deters poorer students from higher education, not tuition fees
 > Alex Kendall, Union President
+
 One survey respondant said that tuition fee reductions “would be a complete waste”, adding “It is the upfront cost of living that deters poorer students from higher education, not tuition fees.” Union President Alex Kendall said that whilst he “understood” the government’s point of view, it was clear that the best way to help poorer students was through cash bursaries.
 
 At present, Imperial College offers many forms of financial aid to its undergraduates and postgraduates. It spends £4.5 million annually on bursaries for students from households with an income lower than £50,000. £4 million of this comes from Home/EU tuition fee income (equating to 17.5%), whilst the other £500,000 comes from the College Endowment Fund.
@@ -44,7 +46,9 @@ The [Student Financial Support](http://www3.imperial.ac.uk/registry/studentfinan
 With the increase in tuition fees to £9,000, the College’s bursary system is being reviewed, with Union President Alex Kendall calling the new bursary system “much more generous”. Plans include raising the threshold for bursaries to households with incomes of up to £60,000 instead of the current £50,000, as well as some tuition fee reductions for poorer students.
 
 Alex Kendall confirmed that there would be some reduction in tuition fees, not only because of pressure from the government, but also to show the university’s willingness to address the problem of debt deterrence. He said that the amount paid to students would not decrease. However, the results of the survey also suggest that the College still has work to do to ensure that prospective students are aware of the financial aid that they are eligible to receive.
+
 > One student highlighted that they didn’t “feel enough information was given to students about the bursary during the application process"
+
 It found that almost 25% of those surveyed had no knowledge of the bursary system before applying. 10% only found out about the bursary system after arriving at Imperial. One student highlighted that they didn’t “feel enough information was given to students about the bursary during the application process. Whilst I still applied, I suspect Imperial’s reputation as an expensive university might put off potential applicants who were unaware of the bursary.” Clearly, Imperial will have to raise the awareness of prospective students about the bursary scheme to ensure that it continues to attract the diverse range of students it currently enjoys. Gerry Greyling, Student Finance Support Officer, agreed that Imperial must do more to inform prospective students: “As fees increase students will be looking at their university choice not only in terms of the quality of course but also at what funding the university can offer. So there’s a real incentive to collate all the information about scholarships and funding in one place.” He recognised that Departmental Scholarships are very decentralised, highlighting the lack of a central place where students can find information about all of them.
 
 Student Finance Support is currently working on the creation of a portal on the central bursaries website, where they can collate all of the available sources of funding and advertise them to students.

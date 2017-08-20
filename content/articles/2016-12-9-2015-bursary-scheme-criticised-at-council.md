@@ -32,7 +32,9 @@ Currently,  financial support is awarded annually to Home undergraduate students
 Depending on the year of enrolment at Imperial, students are put on different bursary schemes. Over the last three years, bursary changes between different schemes have been negative, with no extra funds being provided to any income bracket, and higher income brackets (from £35k to £60k) seeing a sharp drop in funding.
 
 Rhidian looked and the total amount of funding received by students from each income bracket eligible for the IC bursary (loans and grants from SLC, as well as IC bursary) and also estimated the total annual living costs at Imperial (at £11,522).
-> > There are roughly 200-400 students at imperial who are receiving an inadequate bursary solely as a result of their year of enrolment
+
+> There are roughly 200-400 students at imperial who are receiving an inadequate bursary solely as a result of their year of enrolment
+
 His investigation concluded that under the 2015 system, students from lower income brackets received more than the annual living costs, while students from higher income brackets who still qualified for the bursary would be receiving substantially (£2-4k) less than the living costs.
 
 The discrepancy between the funding received by lower versus higher income bracket students is limited to 2015 as the following year, Imperial College changed the bursary scheme yet again increasing the bursaries of higher income bracket students and decreasing those of lower income bracket students.

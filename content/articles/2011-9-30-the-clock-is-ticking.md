@@ -38,7 +38,9 @@ I do feel like I’ve been mugged, or at least short-changed. I left school four
 But when I think of all I’ve seen and done and accomplished in that time, maybe I haven’t been cheated. I’ve made friends (more than I’ve lost) and I’ve learned things (more than I’ve forgotten). If I had really made that kind of progress in mere seconds, it would be nothing short of miraculous. _Tempus fugit_, truly*.
 
 If my time is filled with the kind of adventures that I’ve had and hope to have more of, I don’t mind if they seem to pass with the speed and cunning of a leopard with a grudge. My real problem is when I stop and think how fast time has flown. It makes me feel old. That makes me feel uncomfortable – I feel I should start being sensible and buy a Ford Mondeo. Being sensible is worse than being dead.
+
 > Join a club, learn to unicycle, punch a bear in the face
+
 It doesn’t help that all around me my friends are growing up. Most have graduated now – those that went to university. One friend is a teacher now when just a short while ago she was but a student. Another one of my friends has come to London to practice law. He also has a beard, another hallmark of maturity. Meanwhile, here I am, cocooning myself in academia as a bubble against the outside world. Each new wave of freshers is the universe’s way to dragging me from my shell and shoving my face in grim reality. But my cocoon can take a few more waves yet.
 
 Freshers make me feel old as well but I handle them. They add new breath to Imperial, infuse it with a fresh _joie de vivre_. Freshers are the antidote to living sensibly. So then, welcome Freshers, welcome! I hope you enjoy your time here and that you thoroughly make the most of it. Imperial has given you three years of _carte blanche_. Join a club, learn to unicycle, punch a bear in the face. You may be here for years but don’t squander them.

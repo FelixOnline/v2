@@ -31,7 +31,9 @@ I recently joined the twenty-first century and got a new phone.
 Actually, that’s not quite accurate. As well as servicing my telecommunicative needs, it also has a whole array of shiny doodads and gizmos. It has a camera with the resolution to individually identify the hairs in Karl Marx’s beard from across a crowded dinner party. Its GPS is so precise it even knows when I’m standing on one leg in the middle of the Sahara (sadly though, not in Fulham for some reason). It is capable of posting to Facebook and Twitter so I don’t have to be near a computer to be vain or inane anymore. On top of this, it has a veritable host of apps, each more pointless than the last. I can even phone people with it... though I haven’t quite worked out how yet.
 
 I am amazed that what would have been a supercomputer thirty years ago can now nestle down in my trousers. Although it makes for a rather dubious chat-up line, I had resisted the electromagnetic pull of new technology up until this point. Admittedly, this new device throws off enough energy to give me leg cancer even when it’s in my other trousers, but my main reason to coyly refuse previous techno-advances was my belief that a phone should be a phone and just that.
+
 > Egyptian constellations were the ancient equivalent of a Flickr album
+
 This fear of the future, of change, of the unfamiliar, is only so cliché because it is so ancient. Scrape away all the gadgets and pretty colours and the scene hasn’t changed much since pre-history, when a prognathic ancestor of Steve Jobs brought tablets back to the cave. His friends must have looked at him as if he’d been at the red berries.
 
 “Look, friends! The age of the tablet has arrived.”

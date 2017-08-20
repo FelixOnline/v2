@@ -33,7 +33,9 @@ It was a full house, and I wasn’t sure what to expect at first. When the hosts
 It wasn’t long before we were introduced to the police cast after a murder scene. With Clayton Qwah playing hairy – erm – Harry Kok, a hopeless romantic with a few screws loose, Carol Ann Cheah playing Dominique, an eager overachiever and Pak Tung Foong playing Sarge, their tough commander, the antics just kept coming.
 
 The cast’s acting was very natural, with a variety of jokes peppered with stereotypes for additional effect. Undertones of the hopeless romantic chase we all know about too well were also present, giving the audience a chance to empathise with the characters’ bold antics. The Heartbreaker villain’s introduction brought a chilling parallel to the overall mood, giving the production a power to move the audience from an uproar of raucous laughter to a sorrowful mourning in seconds.
+
 > "a power to move the audience from an uproar of raucous laughter to a sorrowful mourning in seconds"
+
 There were moments I felt compelled to sympathise with the masked Heartbreaker character/metaphor, whose gruff voice and pain-filled backstory shared similarities with Rorschach from _Watchmen_. The fourth wall was also cleverly broken, with an unfortunate friend of mine sitting in the front row feeling the brunt of this shadowy character’s voice after he stepped down from the stage and bellowed “you think I’m a heartless killer, don’t you?” whilst wielding a very convincing dagger.
 
 Transitions between scenes frequently featured various dances, melding the play with a systematic and welcome exposure to culture, including a performance of Dikir Barat, a traditional Malay musical form, hip-hop and Stomp-like performances. Their choreography was top notch, and they managed to wedge some hefty humour in there with a troupe performing Cee-Lo Green’s “Forget You” using cleverly reworked lyrics which lightly bashed other universities.

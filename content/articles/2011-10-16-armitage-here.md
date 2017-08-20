@@ -37,7 +37,9 @@ __Karole Armitage__: I have. I actually I started dancing when I was four. I was
 __MT__: Was that an idea that came to you immediately?
 
 __KA__: It just came. These two kinds of dance were enemies. They were absolute enemies and even to this day there is still a lot of animosity... when I say those two kinds of dance I mean ballet and modern... let alone punk. Ballet and Modern had different philosophies and they did not like each other. But I liked both and I put them together to create a new language of dance and then added in this kind of rock... the raw rock emotional side and that launched my career as a chorographer. Then I worked for people like Madonna and Michael Jackson and I choreographed Hair. But my heart really lies in innovative stage dance.
+
 > Armitage’s choreography subverts classical ballet through modern and street influences
+
 __MT__: I got the feeling form the second half of the performance that you were someone who had been to a lot of punk gigs and knew how tiring and energetic that was.
 
 __KA__: I did in the late 70s. I was living in New York though I was in London quite frequently at that time. Micheal Clarke was a great friend; actually he was in Drastic-Classicism. We met, we hit it off... he became my partner and we performed together. I was in London a lot and so I went to a lot of Punk gigs here. In New York I went almost every night, although I was dancing all day. I didn’t need sleep I don’t know how really but the energy was just so exciting. I wasn’t trying to imitate punk I was just using it as spice... a flavour.

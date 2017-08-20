@@ -28,7 +28,9 @@ highlights:
 The first Council meeting of the year took place last Tuesday and Nas Andriopoulos, Union President failed to present a written report, in violation of his constitutional obligations. Council is the representative voice of the student body and part of this includes holding the sabbatical officers to account. As such, Council requires they produce reports on what they’ve been up to.
 
 After apologising and reassuring council of his commitment to prevent this from happening again in the future, he presented verbally. “It’s regrettable that I was unable to present a written report at the Council meeting this week,” he later told _felix_.  “Rest assured this is a one-off occurrence and I will guarantee that a full written report will be presented at the next meeting in two weeks’ time.”
-> > No one really cares what happens there. Just let the students be angry somewhere
+
+> No one really cares what happens there. Just let the students be angry somewhere
+
 The absence of a written report didn’t go unnoticed amongst the other members either, with one anonymous Council member saying “the whole concept of a council report is that you are elected as a student and throughout your time as an elected official you are accountable to them. Part of that is telling them what you’re doing. If you’re not writing a report you have closed all channels of communication and you might as well be a member of staff. That’s the whole point of having elected sabbatical officers. If you need to cut corners, that’s just not the one to cut”.
 
 This hasn’t been the only hiccup Council faced so far, indeed Council has had a turbulent start. Many of the officers expected to produce a report (including yours truly) were unaware of their obligations, which included presenting a report of their progress, until Thursday last week. There were also complications with the room booking, and there was no confirmation of whether there’d be a Union staff member to take minutes until the very last minute.

@@ -47,7 +47,9 @@ _1–29 February, Free_
 With 19 global embassies and national cultural institutes opening its doors to press, buyers and the public alike, the International Fashion Showcase promises to give an insight onto the global fashion scene like never before.
 
 The first event of its kind in the first ever collaboration between the British Council and British Fashion Council, this exhibition was created to “honour its values of international respect, excellence, equality and friendship”, whilst celebrating the Olympic year that will bring to our capital the widest range of cultures and ethnicities yet to land on our humbled soils. From Australia to China, Italy, Korea, Japan, the US, Nigeria and Romania, to name just a few, each country is exhibiting the talented emerging designers they feel best encapsulate their country’s future of fashion on our doorsteps.
+
 > The International Fashion Showcase has it all
+
 Dotted around various parts of central London, the handy downloadable ‘passport’ maps out a trail to follow for fashionistas and cultural-lovers alike, with the added childish element of stamp collecting at each venue and a prize of £250 to spend at next year’s LFWeekend for the savviest explorer.
 
 So if you feel that following the various fashion weeks online like the rest of us is just a bit too mainstream, or perhaps you just feel like you should put more of an effort to become culturally educated before the Olympics kick off this summer, the International Fashion Showcase has it all – air miles unnecessary.

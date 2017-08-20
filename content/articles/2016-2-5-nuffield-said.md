@@ -30,7 +30,9 @@ Monday evening saw the first outing of the new term for the seemingly unstoppabl
 The challenging side from Nuffield College, Oxford was comprised of two Americans, a Norwegian and a South African who were studying a mix of Economics, Politics, and International Relations. A combination which was far too “artsy” for their Imperial foes, a collection of three physicists and a mathematician.
 
 The excitement within the spectator arena (FiveSixEight) was palpable from the offset, with all available tables being taken well before kickoff. It was standing room only for the audience as they watched the intellectual gladiators do battle in the arena, with only Jeremy Paxman to mediate the fierce competition that was to ensue.
-> > The crowd erupted in a frenzy unseen since the last ACC sports night
+
+> The crowd erupted in a frenzy unseen since the last ACC sports night
+
 A poor start plagued the Imperial squad, with captain Bezer handicapping the team on the very first question, buzzing in before the end of the question with the incorrect answer of “Hippocrates”. Minus five points. No need to panic though, plenty of time left yet.
 
 The crowd were anxious to see a return to form, and the answer of “Hamster” from Fernando did just that. Woops and cheers rang through the union building with the follow up category on Mathematicians yielding “Hilbert”, “Godel” and “Riemann” in quick succession to bring the score back to a level playing field of 20-20.
@@ -50,7 +52,9 @@ The old adage tells that it’s ‘a game of two halves’ and it certainly was.
 The music round came and went with no points scored by anyone, indeed with a loss of five for Imperial after another “Premature Bezer Buzzer” (which I am reliably informed is a serious medical condition).
 
 A Feynman quote for Fernando was counteracted by “Sudan”, and a smattering of extra point conversions from Nuffield brought the scores back to a level 85-85. Could it be any closer? No.
-> > But then Imperial decided to stop toying with them
+
+> But then Imperial decided to stop toying with them
+
 But then Imperial decided to stop toying with them.
 
 A picture round with female political leaders, questions surrounding dyes, and a rare flourish from Teymur with “Slide Rule” meant the quartet were as on fire as Ben Fernando’s hot pink hoodie.

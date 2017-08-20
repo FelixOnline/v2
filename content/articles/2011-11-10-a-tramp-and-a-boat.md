@@ -29,7 +29,9 @@ This was a strange experience for me, not only because [it was on a boat](http:/
 First on was [Tangled Hair](http://tangledhair.bandcamp.com/). Usually a three-piece, this time frontman Alan Welsh dropped his band-mates for a solo performance.
 
 Despite complaining of a sore throat, he did an amazing job delivering his unique style of light-hearted rhythmic indie math-pop with soft melodic vocals as brilliant as ever. Initially apprehensive of whether the music would work acoustically after being so mesmerised by the full band, I was pleasantly surprised at how well Welsh conveyed the songs with just an old guitar and his vocal chords.
+
 > The tramp began to serenade us, but not in the usual tramp style.
+
 Welsh finished up and put down the guitar. A tramp then strolled through the crowd and approached the microphone. The tramp began to serenade us but not in the usual tramp style (substituting a guitar for an old, smashed-in piece of wood). This was an actual, real-life, not-mentally-disturbing tramp.
 
 Something wasn’t right – there’s no such thing as an undisturbing tramp serenade. Then, through the mass of facial hair, I realised this was no vagrant, it was of course Tobias Hayes of [Shoes And Socks Off](http://www.myspace.com/search/Music?q=Shoes%20And%20Socks%20Off).

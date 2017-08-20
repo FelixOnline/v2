@@ -30,7 +30,9 @@ The RCSU president, Lloyd James, has stepped forward to question Imperial Colleg
 The challenge was first made at the first council meeting of this academic year, which took place last week and saw sabbatical officers presenting their reports. During the presentation of the Deputy President’s report by Emily Jane Cramphorn, James brought up the consent training course, suggesting that the funds spent on the licensing could have been spent better elsewhere. Cramphorn defended the program by saying that the funding, having come directly from College and not the Union, meant that the consent training would not drain resources from Clubs and Societies.
 
 However this doesn’t seem to have appeased James. In a comment piece submitted to _felix_, about the importance of Council for holding staff and sabs to account, he illustrates his point with “a particularly wasteful Union expenditure as an example”, referring to the consent training program.
-> > Since the start of the academic year, there have been two sexual harassment testimonials published in _felix_
+
+> Since the start of the academic year, there have been two sexual harassment testimonials published in _felix_
+
 In his comment piece, James says that the concept of consent is sufficiently explained through the infamous ‘Tea and Consent’ animation which was released by the British Police in 2015. He writes that “anyone who thinks that potential rapists exist on campus simply because they were never presented with a cartoon telling them that ‘you shouldn’t have sex with unconscious people’ is utterly delusional.” He concludes that “this purchase will contribute nothing to the student experience on campus,” and refers to the funds that went into the consent training program as “£5,000 completely and utterly wasted”.
 
 Additionally, the RCSU General Committee voted unanimously to condemn the expenditure. The specific wording of the motion passed was as follows. “The Royal College of Science Union condemns the spending by College on the Consent Matters software which we believe to be a wasteful and ineffective method of informing students on the important issue of consent.”

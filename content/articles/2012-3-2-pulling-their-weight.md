@@ -23,7 +23,6 @@ highlights:
  - photos
 ---
 
-
 {{< figure src="http://felixonline.co.uk/img/upload/201203021722-ial08-bucshead2012.jpg" title="Working hard to bring home the medals" caption="Working hard to bring home the medals" attr="" >}}
 
 [Credit: Tim Richards](http://)

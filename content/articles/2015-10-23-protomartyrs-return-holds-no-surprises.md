@@ -29,7 +29,9 @@ Golly gee, am I an angsty emo. The only clothing I own is black. Black like my s
 And what is an angsty emo without angsty emo music? This week, to free my inner 14-year-old who nobody understands, I listened to The Agent Intellect, the third album from the Detroit-based post-punk project Protomartyr.
 
 At first, these guys ticked all the boxes on the ‘forgettable and generic’ checklist: weird name, faux-intellectual album title, and cover art “with an, um, grim aesthetic that… uh, like totally reminds us of the cyclicality of history or something, man,” their producer reminds them while sucking down the third doob this hour (seriously, how does he afford all that weed? Broke students want budgeting advice).
+
 > Casey is positively overflowing with existential torment
+
 Then I sat down and listened to it. And again. And again. Oh, shit, it’s good.
 
 Greg Ahee spins slow guitar lines, favouring single notes over chords. The normally-thin sound is overdriven and smeared out by a cranked-up reverb pedal. The result is an ominous wall of swirling sound that fits in elegantly over the drum and bass.

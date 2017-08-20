@@ -24,7 +24,9 @@ highlights:
 ---
 
 Animal testing has always been a very controversial topic amongst people. A lot of research is conducted at Imperial and sometimes this may involve the use of animals. The currently policy on the Use of Animals in Research states that “animals may only be used in research programmes where their use is shown to be
+
 > In the Government commissioned Ipsos Mori poll, it was revealed that there was a ten-percentage point decrease in public support for scientific research involving animals since 2010
+
 essential”. This means that every possible method that does not use animals is considered and only if there are no other options, animals will be used. Even when animals are used, this is kept to the smallest number of purpose-bred animals.
 
 Work involving animals can only start once Imperial College’s Ethical Review Process and the Home Office has approved it. The policy adds that “animals will never be used for trivial purposes and their health and well-being are given the highest priority”.

@@ -40,7 +40,9 @@ There’s a lot more at stake here than Lucinda’s blushes.
 This ‘ban’ is yet another example of college and the union interfering with the right of students and staff to comment and criticise. Freedom of expression isn’t without restrictions. But I doubt that anyone who reads _Private Eye_ (never mind Hangman) would be in the least surprised at the style of RAG’s publication.
 
 In fact, it seems much more likely that the Union’s treatment of RAG broke its own policy in its treatment of RAG than in anything RAG wrote about the union.
-> > I doubt that anyone who reads _Private Eye_ would be in the least surprised at the style of RAG’s publication
+
+> I doubt that anyone who reads _Private Eye_ would be in the least surprised at the style of RAG’s publication
+
 For the body charged with safeguarding and protecting us as students, this is shameful. For starters, there’s the legal gobbledygook coming out of Beit. To quote their own policy: “Harassment is always linked to anti discrimination legislation, and thus will focus on sex, gender reassignment, marriage”.
 
 These are known as protected characteristics. Unless the union can prove that the President was specifically targeted for abuse due to one of these, the accusation of harassment is completely baseless. i.e. apparently the union thinks the RAG article sexist. Was it? Having read said article, and given the treatment handed out to a ‘Fen Bernando’, this claim is utter trash.
@@ -64,7 +66,9 @@ By apple pie and eagles, it staggers me that anyone can be paid £421,000 a year
 This isn’t a luxury. Protecting this right of expression is a legal obligation on the college and it’s leaders (have a read of the Education Reform Act 1988 or Education Act No. 2, 1986).
 
 Professor, since when has it been ‘strong’ to be so blasé about academic freedom?
-> > Protecting this right of expression is a legal obligation
+
+> Protecting this right of expression is a legal obligation
+
 The problem with constitutions is that they are only as good as their defenders. Take the Malaysian example. Article 10 of the constitution begins: “Every citizen has the right to freedom of speech and expression”. Despite this, PM Razak has used the Sedition Act over 91 times this year. This is a 1948 act, designed with the express purpose of preventing revolt against British rule. Article 3a) reads: “It is an offence to bring into hatred or contempt or to excite disaffection against any Ruler or against any Government”.
 
 Is it seditious of me to wonder exactly what the difference is between our dear old Imperial Union’s position and the colonialists of yesteryear?

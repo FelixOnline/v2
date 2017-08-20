@@ -30,7 +30,9 @@ highlights:
 As any good Imperial student knows antibiotic resistant bacteria are a growing threat to human health. The threat has been heightened once again by a recent report produced by the government’s chief medical officer, calling the problem a “ticking timebomb”.
 
 Professor Dame Sally Davies published the second volume of her report earlier this week, urging the government to bring up the issue at the upcoming G8 summit, which the UK holds presidency over this year. She also called for antibiotic resistance to be placed on the government’s National Risk Register of Civil Emergencies, which currently covers such disasters as flooding and terrorist attacks.
+
 > No new antibiotics have been introduced into the public domain since 1987
+
 Dame Sally also claimed that pharmaceutical companies need to be encouraged to develop new antibiotics: right now there’s no incentive for pharmaceutical companies to develop them: “antibiotics will only be used for a week or two when they’re needed, and then they have a limited life span because of resistance developing anyway.”
 
 No new antibiotics have been introduced into the public domain since 1987, whilst bacteria have been getting on and developing resistance in the intervening 25 or so years.

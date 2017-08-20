@@ -41,7 +41,9 @@ __C__:Well the answer to that is, no, you can’t. Literally, no, but figurative
 
 __T: After university, did you go straight into comedy?__
 __C__: I went into comedy about a year after I graduated. What they don’t tell you, what nobody ever tells you and what you’re not particularly going to thank me for telling you (although it’s probably best that I do) is that the year after university is one of the worst years of your life. Unless you’re on a vocational course like medicine where things sort of meld into your career, the year after university is bleak and difficult because it’s a big, big, big jolt. You’ve had 14 or 15 years of formal education, you’ve been in the place where all your friends are, you’ve had roughly the same hours. If you want to do stuff at the union, there are a billion things you can do there with like-minded people. But the minute you throw your mortarboard up into the air it’s over. It’s over. The door is locked and bolted behind you and there’s no way back in.
+
 > The minute you throw your mortarboard up in the air it’s over
+
 It’s extremely depressing, and in that year I became really bleakly depressed. I had done a lot of drama and so on – not acting – but directing a lot of plays as that was the thing I wanted to go on and do and it’s really easy at university. If you’re doing a student production it’s a cheaper licence but if you’re trying to do it out in the real world it’s fucking hard. You need to earn money while doing it, you need to find people who want to do it; it’s a really, really hard thing to do. In the end I needed some kind of creative outlet and stand-up is the easiest one. If you have no other skills, if you’re not musical particularly or you can’t draw or you know all of those sort of things… stand-up. It’s dead easy. You just pitch up, somebody else sorts the lights, the room and the advertising. You just need to come up with some words – that’s all you have to do. So that’s why I tried it really. I’d never planned it. I certainly didn’t do anything like it at university – I wasn’t in a revue or anything.
 
 __T: I can imagine what my parents’ reaction would be if I told them I wanted to be a stand-up comic. It would be something along the lines of, “yeah, no, that’s really funny but can you actually do a real job at some point?” Were your parents OK with it?__
@@ -55,7 +57,9 @@ __T: Like being an everyman character…
 
 __T: And you famously play a special adviser...__
 __C__: …so I must get asked about politics, yeah!
+
 > Occasionally you have real ‘you are here’ moments in life
+
 __T: I really should ask about your stand-up because you are a stand-up comedian and I’ve been very careful to make sure that you know that I know that you’re not an actor – you’re a stand-up comedian and an actor. So your stand-up show, this year it hasn’t got a theme has it.__
 __C__: No, that was deliberately chosen because I used to write shows that were very heavily themed and that was deliberate. Well, obviously it’s very hard to accidentally write something and say it has a theme – but it was deliberate in that I would take it up to Edinburgh. There are a gazillion comics in Edinburgh and you need to do something to stand out. That’s why I did those shows and when I came back to stand-up after a few years of enforced absence I wanted to have a show that was just straight stand-up really and very talky because I just wanted to get back to the roots of it. I thoroughly enjoyed it, so for the last two shows I’ve avoided doing a theme.
 

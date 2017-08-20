@@ -34,7 +34,9 @@ highlights:
 The Felix survey conﬁrms that there were indeed many reasons for the lack of attendance, a frequent complaint being the price of the ticket and what students perceived they would be getting for it:
 
 “Waste of money for something that didn’t seem value for money”, “I didn’t see the Summer Ball as value for money, £40-45 for the festival set-up where food wasn’t even provided? No chance.” These were both anonymous comments posted by Imperial students in the survey.
+
 > The Union has “not made any decisions regarding the 2012 Summer Ball yet”
+
 A lot of complaints were directed towards the festival format, a change from previous years, which angered many students, in particular those in their ﬁnal year. “...It sounds like it wasn’t much of a ball, just standing in a crowd in the rain wearing normal clothes?! To celebrate the end of our time at Imperial, we don’t really want big-name bands. We can go to a music festival for that. The summer ball should be about having a special evening with our friends, celebrating and dancing” suggesting that the Union “should just get a DJ, make the tickets more like £20-25 (or otherwise include dinner) and ask people to wear formal clothes.”
 
 Other complaints included that the event was “too spread out”, the “music catered to a minority of people” and the timing, with some undergraduates still working towards exams when the Ball took place. Expressed in true Imperial style, this student maintained, “Revision must take priority”.

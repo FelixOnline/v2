@@ -33,7 +33,9 @@ This year, ten members of IC Skate Soc are undertaking one of the world’s most
 This is where Adrian Wordsworth comes in. Adrian has been skating since he was a toddler and has gone on to win 21 British speed skating titles. He has been a fixture on the UK skating scene for decades.
 
 Our captain and Chair last year, Jenny Lenz, met Adrian last year at Le Mans and Adrian has generously offered to train our team this year. His company, Troup Bywaters + Anders, will also sponsor us for some real shirts this year! Thanks to this generosity we plan to steal back the Cup of Glory from our rivals at other Universities worldwide.
+
 > "We plan to steal the Cup of Glory from our rivals"
+
 This Wednesday was our first training session. Though bitterly cold, the sun was shining and we headed down to Serpentine road in Hyde Park. Setting out a small circuit, we began with the basics and learned the stance preferred by speed skaters… getting really, really low! After two minutes skating in this position, our thighs were on fire and our lower backs were starting to complain.
 
 The paceline (a technique where a long line of skaters all skate in perfect unison, so that wind resistance is reduced for everyone except the poor leader) was equally difficult, with everyone bumping into each other and falling behind in turns. How on Earth were we going to take on this mammoth race?!

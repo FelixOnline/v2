@@ -29,7 +29,9 @@ highlights:
 A world leader in petroleum additives, [Infineum](http://www.infineum.com/Pages/miltonhill.aspx) is a 50/50 joint venture between Shell and ExxonMobil creating products used in 1/3 of the world’s vehicles. I interview Dr Martin Dare-Edwards; the company’s UK Country Manager with nearly 30 years experience in the industry after graduating and completing a PhD in Chemistry at Oxford University.
 
 Tucked into the green suburbs of Oxfordshire lies a small cluster of buildings, home to one of the most successful petroleum additives companies across the globe. Dr Martin Dare-Edwards himself greets me apologising for the modesty of the site explaining that at Infineum "we prefer to impress with our technology, not our buildings".
+
 > If you want to have a varied career, go into industry
+
 The interview is conducted in the James Watt Building, which Dr Dare-Edwards refers to as his own, having led its construction of £20m. The building is split into mirroring quarters. "It’s open plan and also egalitarian, which means that everyone is equal, except for this glass front" signalling to the glass planes separating (yet giving a full view into) the connecting laboratories.
 
 "At Infineum, what we’re doing is to try and reduce the environmental effect of transportation now with the internal combustion engine, rather than waiting 30 years for the technology of electric vehicles and fuel cells to finally kick in."
@@ -49,7 +51,9 @@ Realising that chemistry is not strong subject for me, Dr Dare-Edwards suggests 
 {{< figure src="http://felixonline.co.uk/img/upload/201110071418-felix-man.png" title="Dr Martin Dare-Edwards " caption="Dr Martin Dare-Edwards " attr="" >}}
 
 Having graduated with a First Class Honours in Chemistry from the University of Oxford, yet now being in such a managerial role, I wonder if he ever misses the safety glasses and white coats. "I did miss it to start with. One of the main reasons why I took up to do a scientific degree in the first place is that I am a curious person, I want to understand why and beyond that, I wonder if it can be made better than it is currently. If I worked in a finance house, just managing money, I wouldn’t gain the same pleasure as I do now. However I’ve been very fortunate to still gain some of the excitement from discovering things, but I don’t actually have to get my hands dirty so to say. The closest thing I do to practical chemistry is cooking at home."
+
 > State the obvious and question the given truth
+
 Upon the subject of his PhD, which he also took at Oxford, I ask why it was he chose to do one as opposed to entering the industry directly. "I didn’t know what industrial research was like; I was never introduced to it at university. I think the largest problem is people just don’t know what’s out there. I went to do a PhD because at that particular time I might have imagined I wanted to become a university professor."
 
 On applying for fellowships, Dr Dare-Edwards came across Shell and describes to me how this proved to be life changing. "If you stay in academic research you typically have to stick with the subject you already started working on whether you like it or not, or else you can’t get funding. In the industrial, world people will harness you on the basis that you have a track record of being able to learn something quickly, get it right, do some research and get an outcome. They tend to take a calculated gamble in putting someone in a role they can’t do yet. The academic world would never do that. In the academic world, the chicken has got to come before the egg."

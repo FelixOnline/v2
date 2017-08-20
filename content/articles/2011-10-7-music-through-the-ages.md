@@ -33,7 +33,9 @@ Oddly, she has good (well, acceptable) taste in music; she’s into __Bob Dylan_
 How was this even possible? Was my mother the victim of a record swap that went horribly wrong? Or was it that her tastes matured for the better as she grew up? I have never got round to asking her about this thorny topic, but I don’t think I’m alone: my experience is common amongst people of my generation.
 
 Most of our parents come from an age that produced some fantastic music, and yet it seems to be an insurmountable challenge to find anyone who actually liked any of the bands and singers who have gone down in history for the right reasons. Some of my friends’ parents describe themselves as fans of __David Bowie__ and __Led Zeppelin__, and yet none got around to buying their albums, what was going on in their minds?
+
 > One in four parents in Britain have lied to their children about what music they listened to
+
 There is a rather depressing answer: a recent survey by Twentieth Century Fox (probably not the best source of cast iron evidence) has revealed that about one in four parents in Britain have lied to their children about what music they listened to and which concerts they went to - a vain attempt to impress the younger generation.
 
 Of course, for there to be good music, there must be bad music, and history shows us that commercial success does not equate to artistic brilliance (consider, for example, that __Westlife__ and __Cliff Richard__ both have 14 number ones). But this also leads us to consider how easy it is to tell, from when they’re at their peak, who is going to be remembered fondly in the future. Frankly, I’m not sure who’s going to be seen as great in the years to come from this generation’s music scene. I would have said __Muse__, but they’ve been heading downhill since _Absolution_. Amy Winehouse is a safe bet, and, as morbid as it is to suggest as much, dying young has certainly helped her on that front.

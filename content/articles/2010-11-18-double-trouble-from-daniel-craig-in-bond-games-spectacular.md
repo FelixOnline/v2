@@ -56,34 +56,18 @@ __GoldenEye 007__
 
 When it was originally released on the N64, Rareware’s GoldenEye 007 was hailed as one of the most influential first person shooter games of all time and went on to sell eight million copies. Unlike traditional movie cash-ins it was released a leisurely two years after the film on which it was based and as a result featured a painstakingly crafted single player mode and the perfectly balanced multi-player. Every video game fan and almost everyone else remembers a tense GoldenEye multiplayer battle far more vividly than Diana’s death or New Labour’s election. It was immensely popular and every subsequent 3D console shooter takes inspiration from it in some way. However, after 13 years of evolution in FPSs, is Eurocom’s updated version for the Wii still worthy of such praise? The short answer is; “of course it isn’t!” But the real questions are: is it still fun? Does it work on the Wii?
 
-
-
 One of the most recurrent problems with the game becomes apparent before you even get a chance to don a tuxedo. The text in the menu and in-game is a real struggle to read. On the menu, the text is light blue and, over the white selector icon, impossible to make out. During the training mission in single player mode instructional text flashes up at the top of the screen but, by the time you have discerned a few of the tiny words, your time is up and the next instruction replaces it. As student reviewers our TV isn’t huge, and it’s surprising so little attention to detail was paid in this respect whilst production values are high elsewhere.
-
-
 
 However, once you have found your way to the single player game you will be greeted by a Call of Duty style briefing from Judi Dench as ‘M’, on the payroll to create an authentic Bond experience. It’s clear after the first thirty seconds of gameplay that Eurocom have taken the decision to create their own take on the 007 experience, rather than simply replicate the award winning formula Rareware crafted back in ’97. This new game is a remake of the classic, starring Daniel Craig as his James Bond, and has been updated for the 21st century.
 
-
-
 In keeping with Craig’s films, GoldenEye 007 opens with a far more gritty and brooding atmosphere. The campaign kicks off atop the iconic Arkhangelsk dam which should be familiar to all players of the original. What isn’t familiar is the darker, understated music, the torrential rain, the action packed vehicle sequence and the presence -f Agent 006 to provide you with some backup and some motivating chat over the radio. New additions also include a regenerating health system and a melee system for punching enemies in the face with a flick of the nunchuck, to really make you feel like Daniel Craig. It’s clear from all of these features, which are staples of console shooters such as Halo and Call of Duty, that Eurocom’s GoldenEye is out to emulate current games rather than influence them as the original did. Nostalgic as the game may feel at times, especially during classic moments like dropping on a Russian guard having a cheeky number two, it soon becomes apparent what the single player campaign is all about. It isn’t a duplicate of or even a tribute to the original game. Instead it’s a highly polished, slick and modern Bond game in its own right, designed to slot in right next to the popular shooters of today rather revive those of the 90s. It feels more like some of the better Bond games of recent years, like Everything or Nothing.
-
-
 
 After finishing the training mission and a few single player levels, it was time to try out the biggest addition to the game: the online multiplayer. This would also give us the chance to put the different control systems through their paces. The two main options are to play with the Wiimote or the Gamecube controller. You can also purchase a plastic holder in the shape of a gun (the ‘Wii Blaster’) to put your Wiimote in for a more realistic experience, or play with the Wii classic controller.
 
-
-
 As widely touted as the Wii controls are for GoldenEye, we didn’t get on well with them. In the fast paced world of online FPS, trying to turn 360 degrees and shoot your enemy in the head is painfully slow as you have to hold the Wii cursor at the side of the screen and wait. Naturally, after thirty minutes of gameplay things weren’t going too well. I was awarded the “Quantum of Solace” award for fewest eliminations. It was, however, a lot of fun trying to sneak up on up to 7 strangers across the generally well designed multiplayer maps. Switching to the Gamecube controller naturally makes things far more accurate – the game handles like a conventional FPS with the familiar dual-analogue controls that everyone is used to. Throughout our session there were some issues with lag, and there is no support for WiiSpeak, but otherwise the mode compares favorably with its competitors. It would also have been nice to have seen a larger influence from the franchise – you can choose to play as a generic grunt but not as any of the Bond series’ many recognisable faces. ‘Golden Gun Mode’ is the only thing that really differentiates the multiplayer.
-
-
 
 Take the multiplayer offline and the action slows right down. With only two people, the maps are far too large and multiplayer quickly becomes a bit dull in the regular mode. As there is no option for adding AI players, the multiplayer game reduces to just wandering around the map on the off chance of bumping into one of your friends doing the same. The N64 may not have been capable of providing some competent bots but the Wii is more than up to the task. Surely it wouldn’t have been too difficult to add in the option to have AI characters?
 
-
-
 Although the offline multiplayer perhaps isn’t high octane enough for modern players, the finely crafted single player game is a delight. The levels are varied, the shoot out and stealth gameplay are deep and the graphics are fine for the Wii. The online multiplayer is a lot more fun than offline but doesn’t draw heavily enough on Bond’s rich history to stand out against others FPSs. The reason it’s worth playing is for the excellent production values, the all-star cast, the excellent Nicole Scherzinger cover of the theme tune and the chance to experience what a Brosnan classic would feel like if it were given a more anti-heroic Daniel Craig makeover. Whether you are doey-eyed with nostalgia for 1997 or not, Eurocom’s GoldenEye update provides one of the best FPS experiences on the Wii and gives another great example of how movie tie-ins can work well.
-
-
 
 __GoldenEye 007 is available now for Wii and DS, retailing at £34.99 RRP.__

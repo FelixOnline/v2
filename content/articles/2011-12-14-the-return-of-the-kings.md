@@ -29,7 +29,9 @@ It is the end of the 1390s and King Richard is called on to settle the beef betw
 Andrew Buchan plays the role of usurper to the throne, Henry Bolingbroke and makes for a wonderful contrast (fire and water are used throughout as metaphors for the two men) – in body and speech – to the poetic and impulsive nature of Richard, played by Eddie Redmayne. Much of the text is written in rhyming couplets and it is thanks to the seamless delivery by the whole cast that we are able to savour them.
 
 Eddie Redmayne is already making headway as an actor. It is easy, upon first glance, to label him as another pretty face. He has a refined Mick Jagger quality of sex appeal (full lips, narrow hips) mixed with some of the androgynous beauty that makes him perfect for a Burberry campaign.
+
 > Grandage knows a thing or two about how to stage a solid production of Shakespeare
+
 Historically, Richard II was tall, beautiful and young. He took to the throne aged 10 and reigned until he was deposed at thirty-two. Redmayne – an acquired taste despite obvious talent – personifies the erratic and impulsive boy-king perfectly, face twitching and bursts of manic grinning thrown in between wild tempers. His face has a fantastic range that transforms with ease from gently beautiful to contorted.
 
 Redmayne and Pippa Bennett-Warner’s (his Queen Isabel), chemistry suggests a relationship of equality and respect. While the two enact the relationship well enough, a lot is left mysterious. Bennett-Warner’s stage presence and performance are strong enough to leave one intrigued about this French queen and what is in store for her as an actress in future.

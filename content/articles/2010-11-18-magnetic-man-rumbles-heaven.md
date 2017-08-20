@@ -32,10 +32,6 @@ Calling themselves the world’s first dubstep supergroup, this talented trio ha
 
 Magnetic Man towered over the crowd from a suspended cage plastered with screens sporting images that had even the teetotallers tripping balls beyond belief. An impressive light show always goes down a treat with this sort of thing and theirs was certainly flawless: they even hopped on the festive bandwagon producing Halloween imagery, which I hesitate to admit was pretty scary at times. They banged out all of the greats from the album in perfect sequence in addition to some new mixes, a real Halloween treat.
 
-
-
 A personal highlight was the live adaptation of ‘I Need Air’ which is by far the best live dance tune I’ve boogied on down to for a while, if not ever, even in spite of the rushing, gurning mess of a guy stood next to me who insisted on covering me in sweat through gritted teeth. People, eh? The set was a sequence of carefully interwoven melodies that quickly turned dirty and by contrast made the drops seem much more dramatic.
-
-
 
 If you enjoy adrenaline-fuelled noise coupled with temporary blindness and a total inability to hear whatever your lecturers happen to be talking about the subsequent morning (assuming you’re alive) these are definitely ones to watch. Get in there fast because no doubt the tickets won’t be £15 for subsequent tours as they make a name for themselves as one of the filthiest (apparently words denoting dirt are synonymous with ‘good’ in this genre) groups on the scene.

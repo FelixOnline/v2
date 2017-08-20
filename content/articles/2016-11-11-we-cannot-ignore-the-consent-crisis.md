@@ -30,7 +30,9 @@ Consent is a pretty hot topic at the moment. It’s been in this newspaper a lot
 According to the Met Police crime figures, rape crimes have increased 10.8% in the last year to 5939 and Other Sexual Crime has increased by 10.7% in the last year to 11209 crimes just over the last 12 months. That’s nearly 50 reported sex-related crimes a day in London alone. If we consider the statistic, as reported by Rape Crisis, that only 15% of those who experience sexual violence choose to report to the police, we’re looking at a figure of 114320 incidents. That’s 13 an hour.
 
 We can’t just close our eyes and say it’s not happening to me so it must be fine. This is an issue that hits about as close to home as it can get. The number of rapes in Kensington and Chelsea increased 26.3% this year and the number of other sexual crimes increased 21.5% this year in Hammersmith and Fulham. So, in a time where sexual violence is increasing this much in a single year, can we really afford to take a stance against any action that may work towards decreasing these figures?
-> > Can we afford to take a stance against any action that may work towards decreasing these figures?
+
+> Can we afford to take a stance against any action that may work towards decreasing these figures?
+
 I can understand the reluctance to engage on issues relating to consent. Without careful consideration of the discussion it can feel a little similar to one of those awful sex ed lessons from school that always ended up more awkward than informative. That doesn’t mean it’s not important or worth tackling though. Society needs to be talking about consent to start tackling this huge sexual assault issue and we need to be doing it now.
 
 The £5000 consent training bought by the Union with College funding has received such a bashing lately, but I have to express my support for it.

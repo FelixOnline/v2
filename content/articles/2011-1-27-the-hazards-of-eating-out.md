@@ -32,7 +32,9 @@ The SCR food, with its leather-tough beef, dry chicken, and liquefied peas – i
 But whilst the SCR is at a push tolerable, is it fair to also let the best restaurants in our capital city get away with murder? The top London eateries seem to be becoming increasingly unpleasant and inconsiderate, in the same way that having pliers gripped to one’s testicles isn’t very nice.
 
 If I want to go out for an enjoyable meal with friends, and take the precaution of booking a few days in advance, I do not want to be told that I can have a table for four at 8pm but that I have to be done eating by 10pm for the next sitting of diners. Where’s the sense of occasion? I hate deadlines when they’re for coursework, let alone recreational purposes. The thing is that once you have to time a meal, it no longer feels like a treat – just an inconvenience to the restaurant.
+
 > The restaurant is effectively telling you they don’t give a damn, but they would quite like your cash and if you could leave promptly that would be very jolly indeed
+
 What is most depressing about these fixed seating times is that you come to the realization that your life is pretty insignificant. The restaurant is effectively telling you they don’t give a damn, but they would quite like your cash and if you could leave promptly that would be very jolly indeed.
 
 But not only can I not choose how long I stay; I also have to be forcefully generous for the privilege by coughing up a minimal 12.5% “discretionary” surcharge. It is discretionary if the service charge is not mentioned on the menu but appears on the bill – sounds like a bit of ruse to me. I have to bear with phone companies, the council, and British Gas ripping me off, but I didn’t expect this sort of behaviour from a restaurant. Soon I’ll be feeling quite unhappy as they gorge my eyes out for loose change, and I’ll be wishing I had gone to McDonalds.

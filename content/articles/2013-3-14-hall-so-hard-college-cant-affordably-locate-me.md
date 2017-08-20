@@ -39,7 +39,9 @@ __BUCS, Elections, and exams__
 [A quick word on BUCS](http://felixonline.co.uk/news/3456/medics-to-stage-protest-over-bucs-decision/): it isn’t broke, why are they fixing it?
 
 [The elections are coming to a close](http://felixonline.co.uk/news/3461/big-elections-voting-shuts-at-midday-on-friday/). Results will hopefully be announced on Friday. If you haven’t voted yet, and, statistically the majority of students haven’t, [then vote](https://www.union.ic.ac.uk/elections/). Really think about it, and make an informed decision. You can always RON and abstain if you really have no clue where to place your vote. Remember Uncle Ben’s words: “with great power comes great responsibility”. Good luck to all of the candidates that are running. It’s the end of term and I will be in Metric watching it all unfold, or attempting to read my phone doing that ‘one eye closed’ thing you do when wasted (it all depends on when I finish all the deliveries and choose to clock off).
+
 > Remember Uncle Ben’s words: “with great power comes great responsibility”
+
 Two terms in and one more to go for me, and elections has made me remember this time last year. There are some things I still really want to do with Felix, and I am now, in public, pledging to give it my all for just one last term, in the hope of making Felix all I wanted it to be. Have a great holiday everyone and good luck if you have exams!
 
 _The petition for Garden Hall is [here](http://www.change.org/en-GB/petitions/imperial-college-save-garden-hall), sign it._

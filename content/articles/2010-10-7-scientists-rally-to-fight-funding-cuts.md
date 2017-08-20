@@ -41,8 +41,10 @@ If the load were to be divided equally among all 16 governmental departments, th
 This means that the reduction in spending expected from departments such as Vince Cable’s will rise to nearly 25% over a four-year period. And as Cable’s department bears responsibility for science as well as for business, scientists have been anxiously scrutinising his priorities in an attempt to predict what lies in store for them.
 
 They got a glimpse of the answer when he stepped up to speak at the Queen Mary BioEnterprises Innovation Centre. In a speech more memorable for the questions it left unanswered than for any definite proposals it contained, Vince Cable succeeded in sending shockwaves through the scientific establishment.
+
 > There is no justification for taxpayers’ money being used to support research which is neither commercially useful nor theoretically outstanding
 > Vince Cable, Business Secretary
+
 Perhaps the most memorable phrase (one of several leaked to the BBC and the Guardian on the previous night) came with his assertion that he supports “top class ‘blue skies’ research, but there is no justification for taxpayers’ money being used to support research which is neither commercially useful nor theoretically outstanding.”
 
 Science supporters across the board have come out against this comment, which they feel is indicative of a worryingly ‘short-termist’ view of the benefits of scientific research. [According to a 2008 report](http://www.brunel.ac.uk/385/other/TAP825EconomicBenefitsReportFULLWeb.pdf) by by Brunel University, every pound invested into medical research yields an annual return of 30p in perpetuity. This is a message echoed by the 2010 OECD report on innovation in times of austerity, which stressed that “[cutting innovation provides short-term relief but damages long-term growth](http://www.oecd.org/dataoecd/3/14/45302349.pdf).”
@@ -58,7 +60,9 @@ The nightmare situation would see Britain undergoing a ‘brain drain’, in whi
 If the £3.5 billion science budget were to drop by nearly a billion pounds, then the UK would also need to reconsider its commitments to expensive, large-scale research projects. The Diamond Light Source and Isis, two Oxfordshire-based projects that respectively cost £28m and £35m a year to run, would almost certainly need to be put on hold. Professor Brian Cox, one of the UK’s better-known science broadcasters, has compared the mothballing of either of these projects to acts of "vandalism", which “would irreparably damage physics in the UK at all levels”.
 
 In an attempt to protest against any such drastic measures, a group of concerned scientists and science supporters have spent the last month setting up the ‘[Science is Vital](http://scienceisvital.org.uk/)’ campaign. Led and supported by a range of individuals from former Imperial rector Sir Roy Anderson to renowned astronomer Sir Patrick Moore, the group hopes to open the government’s eyes to the benefits associated with investment in the sciences.
+
 > France, for instance, will be investing €35 billion in research while at the same time cutting defence spending by nearly €5 billion
+
 They cite the unprecedented funding being awarded to research and development by the governments of India, China, France and Germany, many of whom are doing so at times of national stringency in other fields. France, for instance, will be investing €35 billion in research while at the same time cutting defence spending by nearly €5 billion.
 
 All this raises the legitimate question as to whether or not the government has set the country on the right course to emerge from these difficult economic times. To take an example from recent history, both Finland and South Korea used science investment as a powerful engine to take them out of the perilous waters of recession they had sailed into in the 1990s.

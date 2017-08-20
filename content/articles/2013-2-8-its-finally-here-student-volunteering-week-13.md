@@ -30,7 +30,9 @@ Students – other than being the drunken, lazy, selfish creatures we’re perce
 Next week is [Student Volunteering Week](http://www.volunteering.org.uk/policy-and-campaigns/student-volunteering-week); a national week brought to you by NUS and your very own Imperial Hub aimed at celebrating the enormous contribution that student volunteers make to their communities across the country, and inspiring the next generation of student volunteers.
 
 I can hear what’s going through your head already – I don’t have time for this. And I’m not pretending that everyone has limitless free time to spend volunteering. I know that Imperial’s timetable is pretty horrendous. Some of us effectively have full time jobs with 9am to 5pm days, as well as social lives, maybe we play sport, there’s so much good TV at the moment…and we enjoy sleep – so where does volunteering fit in? For most of us, it doesn’t. This article will hopefully convince you that it really, really should.
+
 > I can hear what’s going through your head already – I don’t have time for this
+
 For those of you that have already pondered this topic, have decided that it’s not for you, and are thinking about flipping straight to the centrefold...Please visit this website: www.sparked.com to find out about micro-volunteering. Here, 20minutes or an hour of your time can truly make a difference. The “Sparked” platform involves matching a “request” from a charity or individual to a pool of potential “solvers” – the micro-volunteers.
 
 For everyone else, read on to find out why I think we should all volunteer.
@@ -74,7 +76,9 @@ __Talk to me London__
 As part of Student Volunteering Week, LSE, UCL and Imperial are launching a collaborative project – “Talk to me London”. Thisstudent-led campaign aims to tackle the issue of social isolation by getting Londoners to talk to each other – on campus, on the tube… everywhere! Badges saying “Talk to me London” along with cards with conversation starters have been designed and will be distributed throughout the week – get yours at the JCR on Wednesday 13th, or come along to the Talk to me London pub quiz on Thursday! This project will hopefully embolden students to engage with their local community, and also create a great platform to discuss the power and impact of student volunteering.
 
 I truly believe that the value of volunteering, and the attitude that surrounds it – one of respect, generosity and open-mindedness – cannot be underestimated. The point is: if you are volunteering your time for a cause or organisation that you feel genuinely passionate about, you don’t begrudge this time spent: you want to be there!
+
 > I truly believe that the value of volunteering, and the attitude that surrounds it – one of respect, generosity and open-mindedness – cannot be underestimated
+
 We are students at an incredibly academically intense university – but also one that values innovation and interdisciplinary, creative research. It is important for us to get out of our comfort zone every now and again, to reassess our priorities and perspectives. To stay creative! Get out there and make a genuine difference. Learn something about yourself. Learn something about people. Become a better person. Spend your time IMPROVING A SITUATION. Imagine how well you’re going to sleep at night… and all this – for free.
 
 Student Volunteering Week is the perfect opportunity to get involved. To see the diversity of opportunities there are out there, and to understand why the volunteering should play a more central role in all of our lives. And if you’re too busy next week, drop us an email or come in for a chat at the Imperial Hub. You never know… you might end up feeling just as passionate about student volunteering, and about the capacity of student volunteers to make things happen, as we do.

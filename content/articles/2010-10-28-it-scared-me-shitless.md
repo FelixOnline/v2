@@ -45,7 +45,9 @@ And, whilst I may bemoan about how squeamish the modern-day tourist has become, 
 But then, the whole point of danger-lusting is that it’s not entirely safe – one may even take risks for granted.
 
 Urban legend has it that, while the jet boat he was on was speeding through a crevice, a Japanese tourist disregarded instructions to remain seated and – rather predictably – stood up to take a shot at photographic perfection. Horror ensued when the remaining passengers were splattered with crimson and found a decapitated body in their midst.
+
 > Horror ensued when the remaining passengers were splattered with crimson and found a decapitated body in their midst
+
 Another equally as far-fetched, yet frighteningly practical, story depicts a female bungy-jumper slipping out of her harness mid-freefall and tumbled, concluding her near-death experience with a few excruciating breakages.
 
 And I’ve recently been told that doctors have a way of identifying bungy jumpers by looking at an X-ray of their spine – the recoil could leave behind a signature dislocation that is diminutive, yet distinguishable.

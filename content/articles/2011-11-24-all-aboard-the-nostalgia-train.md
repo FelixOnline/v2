@@ -27,7 +27,9 @@ There are many ways to travel and I like to think that I’ve experienced most o
 Little boys and train sets go hand in hand. Little boxes with wheels on the bottom are suddenly transformed by the magic of the imagination into the Flying Scotsman. Most boys out-grow this tryst, moving on to Action Man or football or girls, or whatever, but I never did. In the most impressionable corner of my mind, trains will always be associated with magic and wonder. Basically, I think they’re pretty cool.
 
 Now that I’m (for want of a better word) grown-up, the games have changed but the love affair goes on. I remember first coming to London and arriving at Paddington Station. My jaw dropped as I took in the cathedral of steel and steam, built by its prophet Brunel. The trains were modern models by First Great Western but it was not too hard to paint over the grubby diesel engines with shining brass pistons. I wept.
+
 > Even when the trains are gone, the magic lingers
+
 I have travelled from Paddington many times since, and from other grand stations, but the journey is never dull. The best form of cardio, I have found, is pelting down the platform, trying to catch the train before it leaves. Once, when I had a suitcase full of library books in tow, it was just as good for weight training as well.
 
 And once aboard the train, I am submerged in a most divine melting pot. Surrounded by strangers from all walks of life, I must sit and interact with people I would not normally mix with. No man is an island, said John Donne. I can only assume he coined this on the 9:17 from Euston. The train is for everyone and it is where we all meet. Apart from those bastards in first class.

@@ -27,7 +27,6 @@ highlights:
  - photos
 ---
 
-
 {{< figure src="http://felixonline.co.uk/img/upload/201203021741-ial08-dalmations.jpg" title="Cruella de Vil had better watch out – they’re armed and dangerous (with sticks)" caption="Cruella de Vil had better watch out – they’re armed and dangerous (with sticks)" attr="" >}}
 
 We arrived at Harlington knowing that a win would secure promotion, so we were ready to f*** s*** up, despite our chunderous captain being MIA. The game started off slowly with half of our team away with the fairies and severely hungover from the previous weekend – we know, it’s an issue.

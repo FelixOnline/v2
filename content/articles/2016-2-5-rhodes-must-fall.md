@@ -29,7 +29,9 @@ Last week Oriel College, Oxford confirmed that a monument commemorating Cecil Rh
 Our universities and society are in dire need of decolonisation. And I don’t think Oriel College’s decision to keep the statue of Rhodes in place while adding what it calls “clear historical context to explain why it is there” goes far enough.
 
 Cecil Rhodes was a tyrant and a racist, exploiting the people of southern Africa through the operations of the British South Africa Company. Those immortalised in stone are usually the heroes or innovators of our past. In hindsight, Rhodes represents the worst of the British empire and by removing the statue we can begin to reconcile ourselves with our country’s dark past.
-> > Maybe Imperial could start by changing it’s name
+
+> Maybe Imperial could start by changing it’s name
+
 Some have argued that as a historical artefact, removing his likeness is an attempt to “cleanse history.” What it will actually do is “recontextualise iconography celebrating grave injustice,” moving and presenting it in a way which fully condemns Rhodes’ actions.
 
 We should be remembering the millions of victims of the British empire – those who our ancestors killed and enslaved around the word – not the man who subjugated them. And we can do that by erecting a statue of those he exploited as a replacement.

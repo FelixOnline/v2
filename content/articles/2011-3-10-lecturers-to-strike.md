@@ -31,7 +31,9 @@ highlights:
 The University and College Union (UCU) has [scheduled strikes](http://www.ucu.org.uk/index.cfm?articleid=5371) over changes to pension schemes of university staff, with English universities due to be affected on the 22nd and 24th of March. Falling in the last week of term, the strikes could have a damaging effect on lecture courses across many departments, if employers and unions don’t come to an agreement.
 
 The [changes](http://www.employerspensionsforum.co.uk/en/pension-schemes/uss-review.cfm) include an increase in employee contributions, an increase in the pension age and reduced pensions for staff who are made redundant.
+
 > Undergraduate students could suffer significantly from strike action
+
 With no time to reschedule lectures, and many exams falling straight after the Easter break, undergraduate students could suffer significantly from strike action. The UCU represents thousands of Imperial staff for collective bargaining purposes, but according to the College, of the 520 UCU members at Imperial, only around 290 are academics and lecturers. The President of the UCU at Imperial, Dr Michael McGarvey, declined to confirm or deny these figures. However, it is unclear as to how many members of staff would walk out; although Dr McGarvey says that the expectation is that UCU members will strike, he said that they do not “dictate” to members and that it will be up to individuals to decide whether to participate in the strike. Imperial College UCU members were balloted on Wednesday the 3rd of March about strike action: [84 of the 132 that returned ballots](http://www.ucu.org.uk/media/pdf/j/2/ussballot_imperial_mar11.pdf) voted in favour of the strike.
 
 Although preparations are being made for the strike action, the UCU has yet to give formal notice, which legally must be given at least seven days in advance of any action. An Imperial College spokesman said that once notice has been given, they will “ask any staff intending to participate in industrial action to declare this.” Following this they will assess the possible disruption to teaching and “take steps to minimise the impact”
@@ -39,7 +41,9 @@ Although preparations are being made for the strike action, the UCU has yet to g
 Postgraduates such as taught masters students are thought to be less vulnerable to possible strike action, since there is more flexibility in rescheduling their classes. However, the Divisional Administrator for Biology and Cell and Molecular Biology, Pat Evans, said that rescheduling undergraduate classes would be “more tricky.”
 
 Dr McGarvey said that any disruption to students’ courses would be “unfortunate”. He argued that it was not the union’s intention to negatively affect their studies and claimed that the strike was necessary to protect university education in the long-term.
+
 > Dr McGarvey said that any disruption to students’ courses would be “unfortunate”
+
 UCU General Secretary Sally Hunt has called on employers to return to the negotiating table but the Employers’ Pension Forum (EPF), who are representing universities in the dispute, have rejected calls for further talks, saying “we are not persuaded that it is appropriate to re-open formal negotiations”. Sally Hunt accused the EPF of engaging in “a macho stand-off” and said that although striking was a “last resort”, UCU members “feel they have been left with no [other] choice”.
 
 Criticising the UCU’s decision to strike, Brian Cantor, chair of the EPF, said: “We do not believe that industrial action is an appropriate step for UCU to take. We do not agree that students and their parents will share your view that there is ‘no choice’ but to strike.”

@@ -30,7 +30,9 @@ Adapted by Jeremy Dyson, member of comedy group The League of Gentlemen and self
 Set in the 1950s, the play takes the form of a story read by a child, about a train of stoic commuters whose lives are affected by an enigmatic stranger who delights in entering day after day and imparting a range of tales, all of which unfold before our eyes.
 
 The decision to present separate stories may have perhaps worked better had the tone of them been more consistent. Although all five tales provide a showcase of human cruelty, the stories themselves vary dramatically from humorous to darkly sinister. Indeed with Dahl’s penchant for dark humour, I was hoping that this would be more akin to Dyson’s recent all-out scarefest Ghost Stories, which he co-wrote and directed.
+
 > When it reaches the right balance of unsettling terror and humour towards the end, it’s thrilling
+
 That isn’t to say that the play isn’t frightening, indeed, when it reaches the right balance of unsettling terror and humour towards the end, it’s thrilling. One Jamaican set tale details a wager between a brash young American and a sinister Spaniard involving a lighter, a cleaver and a little finger. The audience gasped collectively throughout. Spine chilling stuff – I loved it.
 
 The set design does an excellent job of dealing with the ever changing narrative, with a revolving stage ushering in new environments and characters quickly and ensuring that the pace is kept high. At 80 minutes, it definitely doesn’t overstay its welcome, especially with some terrific payoff towards the climax.

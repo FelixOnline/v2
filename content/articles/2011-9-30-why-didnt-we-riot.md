@@ -25,7 +25,9 @@ highlights:
 I’m young. I’m a student. I’ve grown up with today’s British Culture and I am a part of ‘Today’s Generation’. So why didn’t you see me running around London setting fire to furniture stores and stealing carpets? Oh that’s right, because I’m not a complete and utter idiot.
 
 [What started out as a protest turned into a catastrophe only two months back](http://www.guardian.co.uk/uk/london-riots). Windows were smashed, shops were looted and hoodies were worn. So why weren’t we (the Imperial student body) a part of this? I mean hey, free stuff – who doesn’t want that?
+
 > Perhaps you shouldn't wear your Currys uniform when you're about to go and loot... Currys
+
 Firstly, let’s be honest: every single one of us did consider it for that tiny second. You took a lingering look at your old hoody and thought, “A new Macbook sounds nice, let’s head down to my local Currys and see what I can come back with.” At least we’re sensible enough to realise that perhaps you shouldn’t wear your Currys uniform when you’re about to go and loot… Currys.
 
 But after the brief moment of temptation, your logic kicks in. We are civilised individuals and well, frankly, we have a bit more than an ounce of self-respect for ourselves. We know the difference between right and wrong and the difference between breaking windows and breaking the law.

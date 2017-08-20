@@ -25,7 +25,6 @@ highlights:
  - photos
 ---
 
-
 {{< figure src="http://felixonline.co.uk/img/upload/201701271433-felix-16357521_1104229429685624_1755347463_o.jpg" title="" caption="" attr="Indira Mallik" >}}
 
 ## Ana Villanueva | _felix_ reader

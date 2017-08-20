@@ -28,7 +28,9 @@ highlights:
 This week it came to light that the union has spent something in the region of £20,000 on the refurbishment of its own office spaces, £5100 of which was spent on a new light-up reception desk. Other monumental costs included £1266 on the removal and disposal of the old reception desk, £4180 on the new glass separating the SAC from staff desks, and the new stickers adorning the area between Metric and FiveSixEight, which cost £1640 to create and install. It is unclear whether this last cost included the price of the perspex added to the wall to protect the adornments.
 
 The stickers appeared at the start of this term, and offer a mind-boggling viewing experience to those queueing for the cloak room or trying to get into Metric. Passers-by have called the display, “disorienting and gaudy”, “patronising” with one simply saying, “vile”.
+
 > Passers-by have called the display “disorienting and gaudy”
+
 This comes as I, Science, a Guardian student media award-nominated Imperial publication, had its £3000 budget slashed to zero by the union at the end of last year. As the periodical was mostly run by Science Communication students, that department now covers the costs.
 
 The union president told FELIX: “The Union is proud to invest millions of pounds each year in enhancing the student experience of our members. Investing £4000 a year for the next five years in making our building more welcoming, and the Officer Trustees and staff more accessible is just one small part of that investment.”

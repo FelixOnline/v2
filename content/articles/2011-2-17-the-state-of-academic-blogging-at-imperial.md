@@ -30,8 +30,10 @@ A blog may seem like an attractive option. You get to share some of your interes
 As a student, blogging can be a good way to make sure you've really learnt the material. As an academic, it can be a way to make new connections and explore areas of science outside your almost certainly narrow specialism. But there are some pitfalls, and you need to make sure you don't fall into them.
 
 __Professor Henry Rzepa__, of the Chemistry Department at Imperial, started his [blog](http://www.ch.ic.ac.uk/rzepa/blog/) three years ago and treats it as a "research notebook". Some of his blog posts have even turned into research projects, which in turn have been published in high profile peer review journals.
+
 > Funding agencies want to have their cake and eat it too; the ideal is for [blogging] to be a high quality hobby
 > Professor Andrew Jaffe
+
 Rzepa sees his blog as part of his 'brand' as a scientist, although stresses that he tries to keep it quite light-hearted and entertaining, writing in a style that is very different to a traditional scientific paper. It's also given him a chance to "hop across subject bounds" into areas he wouldn't have otherwise considered.
 
 However, Rzepa was already an established name within the research community when he started blogging. For a younger scientist, forever chasing positions and funding, he admits that the story might be a little different.

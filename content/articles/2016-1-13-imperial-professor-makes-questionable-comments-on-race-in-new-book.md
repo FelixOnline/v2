@@ -32,7 +32,9 @@ highlights:
 One of Imperial’s Emeritus professors has published a book on human diversity, in which he claims that London has “‘no-go’ areas at night for white people”.
 
 He also wrote that having “one race” would “help a nation minimise internal and external conflicts”. Both comments are uncited, and appear in the book’s introduction, which is [available online](http://www.amazon.co.uk/Human-Diversity-Bernard-Charles-Lamb-ebook/dp/B016LSZI74/ref=tmm\_kin\_swatch\_0?\_encoding=UTF8&amp;qid=&amp;sr=).
-> > He also wrote that having “one race” would “help a nation minimise internal and external conflicts”.
+
+> He also wrote that having “one race” would “help a nation minimise internal and external conflicts”.
+
 “People of mixed race can be extremely attractive, especially Asian/European combinations,” he continues, in a later subsection entitled “Racial mixing”. The author then lists some examples of people he calls “pretty Negroid/Caucasoid hybrid[s]”.
 
 “Some combinations of characteristics from different races seem harmonious but others look unnatural. For example, ginger hair and blue eyes look odd on people with mainly Negroid or Oriental features”.

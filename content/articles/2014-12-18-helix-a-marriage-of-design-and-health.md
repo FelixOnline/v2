@@ -29,7 +29,9 @@ This week, I had the opportunity to visit __The HELIX Centre for Design in Healt
 __Kamil: So can you tell me a little bit about what you do at HELIX?__
 
 Maja: HELIX stands for Healthcare Innovation Exchange so it is all about the sharing of ideas and know-how between doctors, researchers and designers to create products that have a real impact on healthcare and disease management. We’re really privileged to be based here in St. Mary’s Hospital because we can very easily test our prototypes in a clinical setting and see what could be improved. Also, being at the top trauma centre in London means that we have access to expertise that wouldn’t be available elsewhere. It’s a great place to be!
+
 > We have access to expertise that wouldn't be available anywhere else
+
 __K: And so, how is an idea usually thought of? Are you approached by people working in the healthcare environment or do you yourselves spend time on the wards or in clinics looking for things that could be improved on?__
 
 M: It’s a bit of a mixture of both. Because we’re quite young as a centre, we have only quite recently started offering consultations to outside people. Otherwise, it’s mostly either spending time in healthcare environments or just looking at disease statistics to see what the big problems are and working from there. For example, back in 2009 as part of the RCA’s __Helen Hamlyn Centre for Design__, my colleague Gianpaolo Fusari spent time with paramedics to look into problems with the current design of ambulances. This helped him learn about issues such as the poor layout of storage spaces and the difficulty cleaning the back of the vehicle and led to an award-winning redesign of UK ambulances. Another example is our Asthma Project where I started with the statistics that 75% of asthma hospital admissions and 90%of deaths are preventable. As you can see, these are pretty shocking numbers so I did some research into that and came up with a simple app for children to help with compliance and monitoring of the disease.
@@ -49,7 +51,9 @@ M:Not yet, but it’s certainly an area that we want to expand in the future. At
 This means we think a lot about how to make our ideas implementable and we also work closely with business people to advance our designs into viable creations.
 
 It’s probably best to think of us as a collection of healthcare design startups with the unique benefit of being closely linked to a hospital.
+
 > Most people at the RCA actually have a background in engineering
+
 __K: And how has it been working on healthcare design as someone who trained at RCA? Does it have some unique challenges that you weren't expecting?__
 
 M: First of all, a common misconception about the RCA is that it is all fine art. Around 80% is design and in fact everyone here has some kind of background in engineering or industrial design. In terms of working in healthcare, I’ve been working in the field for the past ten years but it certainly does have its own problems. There’s a lot of bureaucracy and regulation and this makes progress difficult. Being embedded in the hospital does help on this front as this streamlines the process somewhat. This is one of the reasons we don’t deal with surgical instruments.

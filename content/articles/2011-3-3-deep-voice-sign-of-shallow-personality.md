@@ -29,7 +29,9 @@ Men with deep and manly voices are more likely to be judged as unfaithful by wom
 The research, [published in the journal Evolutionary Psychology](http://www.epjournal.net/filestore/EP09064078.pdf), also found that women viewed the deeper voices as more sexually attractive. The voices of 49 males were digitally altered to create masculine and feminine versions, which were then rated by female volunteers.
 
 Previous studies have linked testosterone, the male sex hormone, with attractiveness; high levels produce “sexy” features such as a strong chin and brow and larger muscle mass. It is also associated with voice pitch – more testosterone equals a more sonorous tone.
+
 > These individuals are more sexually attractive, and so more likely to be playing the field
+
 The researchers believe that a deep voice is seen as unfaithful, because these individuals are more sexually attractive, and so more likely to be playing the field.
 
 The study also showed that males are not totally to blame – men viewed woman’s voices that were altered to appear more feminine as likely to belong to an unfaithful individual. Oestrogen, like testosterone, is positively associated with attractiveness, and affects the pitch of the voice. In this case, higher oestrogen levels raise the pitch of a voice.

@@ -31,7 +31,9 @@ __Hi Chilly, first things first; when are we going to see a release of Ivory Tow
 There’s of course going to be a DVD release coming in September so right now it’s being distributed to certain countries and we’re keeping our fingers crossed for an actual theatrical release, but it’s pretty tough out there for a little movie with a lot of heart. But it’s done great in festivals and everyone who’s seen it seems to really like it so we’re pretty pleased.
 
 __For those who haven’t heard of the film, describe it to us in a couple of sentences.__
+
 > We’re calling it an existentialist sports comedy
+
 Well we’re calling it an existentialist sports comedy. It’s a story about two chess playing brothers, but they’re Canadian chess players and nobody really knows what that world is like, so we decided to sort of invent it. It’s pretty much modelled after classic sports movies like Dodgeball and Blades of Glory, and it’s got a great comedic performance by Tiga and a great dramatic performance by Peaches.
 
 __How did you find writing and producing the film?__
@@ -45,7 +47,9 @@ Well I don’t know if I have that many stories left, that story I told in Ivory
 __So as a musician, what’s next? You’ve done so many varied pieces of work, is there something entirely different that you’re going to do or can you see yourself going back and doing another piano album, say? __
 
 Well right now I’m putting the finishing touches on a new album that’ll come out this summer, which is an orchestral rap album that is slated for the end of June, and that was a way to [get down] all the verbal stuff I’ve been doing. [There are] a couple of songs that are what I would call ‘piano rap’ that you hear in the Ivory Tower album. It kind of takes that a little bit further to its logical conclusion and once I do that, I’ll pick up the next move.
+
 > It’s very powerful stuff, definitely my most supervillainous album yet
+
 So I’m generally looking ahead not much more than that because I like to see how people react. And this is based on really applying myself and travelling a lot in England, the British Isles, America, Canada; doing as much as I can in English, in my language. That really awakened me back into wanting to do a rap album, but a rap album that fits my station, [which] pretty much means a 60-piece orchestra at this point. You know it wouldn’t really work for me to have a bunch of dusty beats and rap on them you know because I’m not that kind of rapper and so the orchestra was the next solution. It’s very powerful stuff, definitely my most supervillainous album yet.
 
 __Haha, I’m sure that’ll be used as some sort of caption. Logistically, how do you work with and compose for a 60-piece orchestra?__

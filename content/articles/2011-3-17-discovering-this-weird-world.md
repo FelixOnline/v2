@@ -29,7 +29,9 @@ The other day I saw something strange and wonderful. I was walking along the str
 I am not ashamed to admit that I fell to my knees and wept with awe at the sight. There may be some of you wondering how some trickery of design could evoke such a reaction. To these people, I suggest to go away, find the FedEx logo and when you see it, I’ll be here with tea and biscuits and we can all share our experiences.
 
 The odd thing is that I’ve seen the FedEx logo hundreds of times before and I’ve never seen that arrow before. Maybe it was the lighting, or the angle of the lorry or...whatever! For some reason, it suddenly decided to click. This is indicative of something wider, something greater. I get the feeling we are simply drifting aimlessly across the millpond surface of a much stranger reality.
+
 > I get the feeling we are simply drifting aimlessly across the millpond surface of a much stranger reality
+
 For example, we like to think that the Oracle of Delphi, who famously messed with people’s minds, was just another tale confined to antiquity. We were wrong. She just relocated, to Reading of all places! My favourite sign along the M4 corridor reads “For the Oracle, turn off at Junction 11.” I would go and visit her but I’m afraid I might end up doing something I didn’t mean to, like killing my father or poking a badger in the eye or something equally tragic.
 
 Sometimes, we are accustomed to the strangeness only when it’s presented as fiction. If I were to describe a magical blue box from a faraway land that is bigger on the inside than the out, most of you would instantly jump to TARDIS. Not many of you, I reckon, would immediately think of Ikea, but that is exactly what it is! I’m sure at its heart is a flat–pack forest, from which they make all the furniture – not that I’ll ever find out of course.

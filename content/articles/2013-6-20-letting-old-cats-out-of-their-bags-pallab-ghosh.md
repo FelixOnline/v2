@@ -82,7 +82,9 @@ PG: Exactly. It seems bizarre. One of the students campaigned against it. So tha
 __TA: Did you do that with the rest of the paper? Make sure it’s entertaining so there’s always something fun for people to read.__
 
 PG: Yeah there’s always something fun for people to read and it looked good. You know, whether there was good news or not. But news is the thing that people care most about.
+
 > You have a sense for what people care about and you talk to them about it and you report it.
+
 __TA: Were people ever upset by what was in the paper? Did you ever get any complaints?__
 
 PG: Oh I got loads of letters of complaints, which I published (laughs). Some of them were written in the right spirit – a bit of banter back – but I got complaints, and I published them. It made for a lively letters section.

@@ -42,7 +42,9 @@ Because it’s set in the present day, we wanted [Everyman] to be a recognisable
 __JS: Do you feel the design worked in the end? __
 
 IM: Well, one does these things, and one does them as best one can and tries to be clear without words, meaning that audience don’t hear you talk about it, they come and look at it. A design’s a thing that has to speak without words: not speak, convey atmosphere, make you feel things and be an environment that things can take place in. So, successful or not, I feel alright about it.
+
 > "A design is a thing that has to speak without words, to convey an atmosphere."
+
 __JS: I thought it was fantastic, I really enjoyed seeing it in action. With regards to the process for _Everyman_ – were you involved with Rufus Norris [the director] & Carol Ann from the start? __
 
 IM: I’ve known Rufus for a very long time, we’ve done quite a few shows together. It was [originally] a different play, which didn’t get delivered, it missed the deadline, so then he chose to do this. He made the decision, and then we were in a meeting ten days later.
@@ -52,13 +54,17 @@ For Carol Ann, he gave her this whole thing to do without a particular set of in
 Then there were two weeks of workshop, separated by a month or so, with actors, where ideas were tested.By the first workshop, we had an idea of the design, which was a bit different from how it now is. For the second workshop, I think we had this design. So I sat in the workshops and watched them choreograph, really, and test some text. And that’s quite fun, because you’re all working at the same time. There’s not a lot one can do oneself, but being there, part of the atmosphere, seeing the choreography and the language of it – I can’t say how it helped, but it does, the more you are feeling like you’re all trying to do the same piece, the better. That’s the danger of these things, you’re all trying to do a different piece.
 
 There were quite a few meetings of just me, Rufus and Nicky [Gillibrand], the costume designer. She was at all our meetings. There’re times when only costumes are telling you what’s going on, and scenery is not, and [it] takes a lot of trust on everybody’s part to decide amongst you who has responsibility at any given moment. It’s quite a job, and I really enjoy that bit, because it involves a lot of trust, not just people going off on their own and producing an outcome, but you’re all together. You can decide what you think about it, but how you manifest it, how you make it understandable to an audience is a lot of work. It’s quite vulnerable work, so to have colleagues that you care about and respect and that you can be vulnerable in front of is great.
+
 > "It’s quite a job, and it involves a lot of trust... you’re all in it together"
+
 __JS: So Everyman was at the National, how does that compare to other theatres, other shows, even other countries that you’ve worked in? __
 
 IM: I try and work in theatres that are supportive of the kind of things I just described. I work quite hard to be welcomed in those places, where you don’t have to know everything immediately, you don’t have to bluff and pretend you know all the answers in one hit. Like rehearsals, what might feel right today doesn’t necessarily right tomorrow; it’s kind of evolving – you have to try and work in places where you have the right to change your mind – without driving people mad, obviously! They have deadlines.
 
 So, mostly those are the kind of places I work, and I consider that my job – to find those places and make myself work within them – because that’s the kind of work I want to do. For that reason I’ve pretty much given up on doing opera, because opera needs to have all its information at a certain time which is long before you start rehearsal. I can do it, I have done it, and I’ve had some great times, but essentially what excites me most at the moment is doing new work where you sort of don’t know what it is. You work on it, and then there’s an audience, and the audience sort of tells you what it is and then you have a week to make it better.
+
 > "What excites me is doing new work where you sort of don't know what it is"
+
 It’s exciting to be working with your colleagues not knowing, and to have one of those people be the writer sitting alongside you in the spirit of not knowing. At the moment that’s my favourite thing. Carol Ann is very much an open person, and I think she enjoyed being with other people. I imagine that writing can be quite isolated – designing can be quite isolated too – so sharing your problems with your colleagues was delightful.
 
 __JS: Definitely. Are you working on anything new at the moment? __
@@ -74,7 +80,9 @@ __JS: Have you had a most challenging show to work on? __
 IM: I did _Billy Elliot_, and that’s a big success, but when you’re doing it, it certainly doesn’t feel like that. New musicals, even with an experienced story, which that is, are a hell of a job. I’d not done a musical before, even though I quite liked them, and I was with a lot of people who had also not done a musical before.
 
 New musicals are difficult, they’re extraordinarily difficult, and you’re trying to make a machine that delivers pleasure to an audience. Moment to moment, that’s very, very precarious. The thing that is assured – that you’re trying to create something that gives an audience emotional reassurance – just feels confident as a piece of theatre. That’s an extraordinarily hard thing to do, the components can run away from you so easily. The pitfalls of naff are monumental, the terrain is just loaded with minefields.
+
 > "The pitfalls of naff are monumental, the terrain is just loaded with minefields"
+
 It’s a big hit now, and it’s done ten years, and I’m proud of my part in that; but when you’re doing it for nigh-on two years, which we were, it sure as hell doesn’t feel like it. It’s more like a battle. With yourself, with the material, with each other, there’s nothing like it. That would be the most challenging, I think, that I’ve ever done.
 
 __JS: It’s a fantastic show, I love it. I’ve got one more question – any recent shows that you’ve seen, that you’ve particularly enjoyed? __

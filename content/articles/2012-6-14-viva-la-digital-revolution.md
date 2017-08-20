@@ -37,7 +37,9 @@ Now I’m not going to trail through the history of the internet and illegal dow
 Programs such as Spotify offer you the chance to listen to anything you want completely free, any artist’s whole back catalogue at your finger tips without having to search anywhere other than Apple’s Spotlight and move nothing other than your eyes.
 
 Top companies such as Apple offer better exclusives for choosing to download an album from iTunes as opposed to physically buying the CD.
+
 > Do we really favour a filled hard drive to a stacked shelf?
+
 So how has this affected us? How has the landscape changed?
 
 This year is set to be the year CDs will die out, with many major labels backing the idea that albums will only be available through download and streaming, leaving CDs to only be created and available in limited edition forms and only for the next four to five years, Amazon has supposedly won a deal to be the prime retailer of these limited edition runs of physical albums.
@@ -49,7 +51,9 @@ For all of the major labels and companies behind the music industry, sure this s
 Firstly, album artwork would take a hit, (in my opinion) leaving everything to be covered with that cursed bland grey square and black music note for everything (thank you iTunes). However, on a bigger scale, this would ruin a lot of shops on the High Street, from big retailers such as HMV who already have trouble paying the bills, to smaller more pure record stores who won’t be able to win a fight with Amazon for the right to stock limited edition albums.
 
 As an old fashioned kind of guy (I’m still only 22 in body, just maybe not in mind) I despair at this leaving behind of CDs; how can you not love that feeling of buying a new album, flicking through its finely printed book with art spilled from someones mind and poured all over it, before placing the disc into your player or computer to hear what’s new?
+
 > With downloads are we really getting a better deal?
+
 With downloads are we really getting a better deal? Fair enough its quicker to access, but once the CD is erased from memory, whats to stop the big companies pushing up the price and charging the same for a download as they would a physical disc?
 
 We’ve been at the edge of this battle before, of course. When the CD first came out it threatened to destroy the vinyl, luckily the vinyl survived through purists keeping the demand high.

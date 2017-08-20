@@ -36,8 +36,10 @@ Management accounts from Imperial College Union show that this year’s Summer B
 These losses are the largest for a Summer Ball in recent memory and an internal investigation into the Summer Ball finances is currently underway. A Union spokesperson was frank about the situation, calling this year’s loss “wholly unacceptable” and saying that “lessons must be learnt”. The spokesperson further said that the Union sometimes had to take risks to continue to innovate in providing services to students, but accepted that the financial outcome of this year's Ball could not be repeated.
 
 The [original budget](https://spreadsheets.google.com/spreadsheet/pub?hl=en_US&key=0AvHopcTYF7SbdEFIRVVudW14MGdnVjJkQ0RYaXJjTEE&hl=en_US&gid=1) for this year’s Summer Ball listed a projected attendance of 3,850. The number of tickets sold for the event approximately totalled 1,500. The Union admitted that the projected figures were “incorrect and insufficient”, making reference to a disappointing turnout from the other participating universities, King’s College London and Goldsmiths. However, the Union also claimed that there were “many unforeseen circumstances that contributed to the lower than expected income”.
+
 > The future and form of the Summer Ball is, as it always has been, in the hands of our members and Student Officers.
 > Imperial College Union
+
 Deputy President (Finance & Services) Ravi Pall, who is ultimately responsible for the event, conceded that the loss was substantial but said that it would not have a significant impact on the Union's activities.
 
 However, he also pointed out that the Executive Committee approved the Summer Ball budget at a meeting on the 18th of April. The committee had not seen a financial risk assessment of the budget before it was passed. Pall said that he had not seen the final budget, which had been drawn up by a senior member of staff, before it was approved as he was on leave.

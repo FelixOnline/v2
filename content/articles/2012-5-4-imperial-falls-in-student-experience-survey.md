@@ -41,8 +41,10 @@ Scott Heath, ICU President, said, “What we have to remember is that lots of su
 He added that, “The union has been working with the College to help improve the community feel. This will be realised in investments in common rooms, the changes to the Holland Club and a greater Union focus on activities like buddying.
 
 “Workload has also been a personal campaign point. I felt during my degree that I was doing work for the sake of doing work, that I was over-assessed and often asked to do something that didn’t test or practice a new skill. We have been encouraging departments to use a flow-chart which originated in Engineering to ‘test’ whether assessments are necessary and see whether you can get people to develop their skills with less time-consuming activities.”
+
 > I think Imperial has scored highly in most places that we’d expect
 > Richard Bennett – ISE
+
 Richard Bennett, an ISE student, said, “I think Imperial has scored highly in most places that we’d expect such as industry connections and facilities which, in my humble opinion, are some of the most important factors for academic success. However, the one point that worries me is the low score in the category ‘I would recommend my university to a friend’, which shows most of all that Imperial students are possibly not enjoying their university experience.”
 
 Third year biologist, Joe Herbert, commented that, “Imperial can never achieve the same standard of social life as universities which demand less work but people come to Imperial knowing they will have to work hard for a worthwhile degree.”

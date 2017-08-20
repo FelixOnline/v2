@@ -28,8 +28,10 @@ New Imperial research shows newly born babies have highly developed “daydreami
 Whether our brains are focused, resting or asleep, default networks of neurones in the brain are constantly activated. When we are not focused a network called the resting state network is switched on, but we are hardly aware of its activity. The resting state network allows us to day dream and branches across the brain between the visual areas, motor areas and areas involved in abstract thought.
 
 The Imperial study scanned the brain activity of 70 healthy infants. A 4-dimensional brain atlas was drawn up by the Computing department and mapped activity to the known location of the resting state network in adults. It was shown that the resting state network develops in the last 10 weeks of pregnancy and at birth looks much like an adult’s, prompting the question: are babies day dreaming in the womb?
+
 > Being a foetus is a lot more fun than any of us can remember
 > Professor David Edwards
+
 When we daydream the resting state network allows introspection; triggering autobiographical memories and envisioning the future. Professor David Edwards, the lead author of the study, suggests that “being a foetus is a lot more fun than any of us can remember – lying there happily introspecting and thinking about the future”.
 
 The study shows that babies’ brains are more fully formed than previously thought. In general, it seems that our brains are constantly engaged in complex activities, which begin early in development.

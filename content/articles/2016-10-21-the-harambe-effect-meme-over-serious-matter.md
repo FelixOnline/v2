@@ -24,7 +24,9 @@ highlights:
 The story about Harambe gained global attention this summer. Then the Cincinnati Zoo wrote “We are not amused by the memes, petitions and signs about Harambe.” And that broke the internet. The number of memes created skyrocketed. Songs were composed, signs were made, petitions were signed. God it was hilarious. But it seems like nobody really cared about the gorilla.
 
 “Dicks Out For Harambe,” isn’t empathetic. It’s a joke. The mythical creature of Harambe the Silverback gorilla, has grown beyond just a tragic incident. Don’t get me wrong, I still think Harambe memes are hilarious, but the joke is very different once one isn’t ignorant about the sequence of events. Watch the footage and make up your own mind if the mom should be shot instead of Harambe?
-> > What were they expecting? A politely worded apology from all the h8ers and a gift basket? This is probably why old people shouldn’t use the internet
+
+> What were they expecting? A politely worded apology from all the h8ers and a gift basket? This is probably why old people shouldn’t use the internet
+
 If there is something that this taught Cincinnati Zoo though, is that you do not mess with the internet. What were they expecting? A politely worded apology letter from all the h8ers and a gift basket? This is probably why old people shouldn’t use the internet.
 
 I’m not mad about the Cincinnati Zoo deleting their twitter account (just like they deleted Harambe) but maybe we should reflect more on our own ignorance regarding trends such as Trump, Pepe or even Harambe.

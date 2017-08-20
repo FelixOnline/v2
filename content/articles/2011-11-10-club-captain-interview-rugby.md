@@ -36,7 +36,9 @@ His thoughts on the afternoon’s match? “It’s going to be a close one, the 
 I ask him how the start of the season has gone for the first XV. “We’ve played four matches so far, and won three of those. We were disappointed to lose a tight match to St Bart’s (as mentioned above – Ed.) but followed that up with a great win against St Mary’s. We all hate St Mary’s, none more so than our coach Birkett.” Any particular reason for the animosity? “They’re just really gobby – they think they’re the dog’s bollocks. Also, we’ve had some good, physical games against them in the past.” Ah, nothing like a good rivalry to spice things up a bit (although Charlie tells me Portsmouth aren’t very high up his list of friends either).
 
 While the firsts are evidently doing well, having now won four out of five, I ask about the fortunes of the other IC Rugby teams.
+
 > Obviously this season we want to go up... we want to make every session count
+
 “The 2nd XV have had a decent start, and sit second in their league (South Eastern 3B – Ed.). They’re pushing to go back up after relegation last season. The 3rd XV have started slowly, but will push on from here.”
 
 As he mentioned that the 2nd team are aiming for re-promotion, I ask what the team’s objectives are for this season. They have finished second in their division for the past two years, and Charlie seems determined to get it this year: “Obviously this season we want to go up. We’re trying to make every session count by making sure everyone is there and organising things to target specific areas of our gameplay.”

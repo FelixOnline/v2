@@ -37,7 +37,9 @@ There have been accusations from the mainstream media, students, including Jewis
 Members of Imperial College Union’s own Jewish Society signed a letter addressed to Bouattia before her win, asking her to clarify why she saw a large Jewish population “as a problem”.
 
 In attempt to prove the critics wrong, as soon as she was elected she held a meeting with the Union of Jewish students, and has said she will continue to work to show she is not anti-semitic.
-> > **ICU has left the NUS a whopping six times**
+
+> **ICU has left the NUS a whopping six times**
+
 Many have pointed to the media uproar concerning her election as an example of Islamophobia.
 
 Imperial is not currently a member of the NUS, and has a tempestuous history with the nationwide students’ union.

@@ -35,7 +35,9 @@ I’ve received a lot of criticism for this decision. Basically, “A vote for a
 But here are my two options: a candidate who certainly has the experience, but has also partaken in a lot of suspicious activity throughout her political career. The other option is a man who apparently thinks talking about sexually assaulting women is just “locker room talk” and then claims that “no one has more respect for women” than him.
 
 While it’s difficult to like either any of the mainstream candidates, the most damning observation I’ve made while witnessing this election is the amount of people on both sides who have disregarded logical arguments for the sake for supporting their preferred candidate.
-> > People on both sides have disregarded logical arguments for the sake of supporting their preferred candidate
+
+> People on both sides have disregarded logical arguments for the sake of supporting their preferred candidate
+
 It’s the type of loyalty you see in sports fans supporting their teams on and off the field. The problem is we’re not talking about games here. We’re talking about real issues in one of the most powerful countries in the world, and how we should try and solve them.
 
 Let’s rewind to the candidate I chose: Jill Stein. I actually witnessed Stein at the DNC when I covered it for the Philadelphia Inquirer and Daily News back in June.
@@ -53,7 +55,9 @@ They also believe in prison reform and police brutality as severe issues, at a t
 It’s been very interesting to witness this election season from over 3000 miles away, and I’ve been pleasantly surprised at how informed British people are about it. But as my professor here has told us, the United States impacts Europe severely, especially economically.
 
 I’ve tried to make sense of how so many of my people in my country could gravitate towards two of the most disliked presidential candidates in the United States’ history. On the one hand, Trump is certainly not a politician, and he definitely fits the anti-establishment bill well. Clinton has more than three decades of experience in the political field, and has accomplished several objectives while in her numerous positions.
-> > I’ve tried to make sense of how so many people in my country could gravitate towards two of the most disliked presidential candidates in the United States’ history
+
+> I’ve tried to make sense of how so many people in my country could gravitate towards two of the most disliked presidential candidates in the United States’ history
+
 But here’s the issue: Trump has committed a laundry list of actions during his campaign that make him look like not only an idiot, but also a man who should not have the responsibility of being one of the most powerful politicians in the world. With Clinton, there’s so much secrecy and suspicious activity during her time as a politician – most recently in this email scandal that has just reappeared in the news – that electing her would essentially just be a vote for a ‘big political machine’, for lack of a better term.
 
 I’m not a smart guy. We established that in the first three words of this piece. But I am smart enough to think for myself. Perhaps more importantly, I am willing to debate my opinions with other people who disagree, without taking the attacks against my ideas so personally.

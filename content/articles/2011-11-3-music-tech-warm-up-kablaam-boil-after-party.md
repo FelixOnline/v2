@@ -23,7 +23,9 @@ highlights:
 ---
 
 When I first encountered Music Tech, I thought I had seen the light. Finally some people were playing (and making) good music to go out to. No longer had I excuses to swallow inane “party party” muzak, when such an alternative was close at hand. My first evening with the lot was driven by a hazy concoction of deep bass music and liberal liquefaction of my mind and body, to the extent of internal heamorraghing. I hope next Saturday’s apperance at KABLAAM will prove equally enthralling and ear opening for some as it did for me.
+
 > ...between psychoacoustic stimulus and sensual disembodiement.
+
 The usual glorification of the vibe selector, aka, the DJs, will run throughout, setting up an ad hoc sauna operated by the sweaty vibes of the finest cuts of Imperial’s sweetest jockeys. First up, Imperial graduate and PhD candidate in the Dept. of EEE, SMB will light up the floor with a luscious fusion of deep house and nouveau disco, throwing low-swung beats into old school grooves to get your body moving and put your mind in the right place. Beyond caressing the turntables, he also serves up a regular podcast titled In At The Deep End which can be enjoyed at blog.djsmb.co.uk.
 
 Taking inspiration from his academic pursuits, he seeks to incorporate elements of AI into his deep house grooves.

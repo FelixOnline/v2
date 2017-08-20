@@ -29,7 +29,9 @@ The talk began with a brief and concise introduction to some of the background p
 Perhaps I should give a brief overview of what string theory is although most of it lies in a realm completely beyond my understanding. The idea is that all matter is made up of tiny vibrating strings; every particle has a particular frequency associated with it and, just as different vibrations on a guitar string match up to different notes, each string’s frequency corresponds to a different particle. This gives us a single constituent of all matter which is a tantalising prospect.
 
 Grayling was engaging in his role as interviewer and seemed to know quite a lot about the subject himself, which enabled him to talk about some of the criticisms of string theory. Further on in the interview Grayling steered the discussion to the debate surrounding String theory research and the amount of funding being funnelled into it. Greene seemed baffled by the concern, especially as he perceived it as a definite non-issue.
+
 > Greene’s explanations of some physics phenomenon were excellent, proving his credentials as a great communicator of science
+
 He pointed out that string theorists want nothing more than the truth, and if string theory was closest to revealing it then of course money should be spent on it. He added that if it was disproved then something else would take over and, whether correct or not, every effort should be made to find out.
 
 Greene’s explanations of some physics phenomenon were excellent, proving his credentials as a great communicator of science although his bestselling book is a far greater testament to that.

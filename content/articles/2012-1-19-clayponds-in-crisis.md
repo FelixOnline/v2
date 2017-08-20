@@ -38,8 +38,10 @@ The wardening team was made aware of the College's intention to close Clayponds 
  Mr Craig's email placed emphasis on the affordability of Clayponds, claiming that new postgraduate accommodation such as Clapham's [Griffon Studios](http://www.gradpaduk.com/properties/griffon-studios) or [Imperial West](http://www3.imperial.ac.uk/newcampus/whatis) appeals to "a completely different demographic" in terms of accommodation costs.
 
  "If Clayponds is closed, replacing it will be impossible," he continued. "Finding a self contained site with 136 properties of flats and houses in zone 3 with good transport links via the Piccadilly Line straight into college is unrealistic. Converting those properties into student accommodation, including common room facilities and offices for hall supervisors would also be expensive. Clayponds provides for some of your poorer postgraduate students the accommodation they need, just as it has been doing for around 20 years."
+
 > Finding a self contained site with 136 properties of flats and houses in zone 3 with good transport links via the Piccadilly Line straight into college is unrealistic.
 > Craig Court – Clayponds Subwarden
+
 The Rector's response aimed to provide some background to the College's decisions, beginning with a reassurance that "we care very much that safe and affordable accommodation is provided for students whilst they study at College."
 
  The response details that a focus group was held in February 2011, "which returned a clear message that students wanted the College to provide accommodation in areas within 30 minutes travel time to the South Kensington campus and close to public transport for increased security, particularly in the evenings."

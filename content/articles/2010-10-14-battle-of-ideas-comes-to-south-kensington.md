@@ -44,7 +44,9 @@ __The timetable shows a huge range of subjects covered: from the relationship be
 There are some themes, but we’re not trying to pretend all the sessions link in. One of the big themes is the climate of distrust, whether or not it’s corrosive and creating a cynical and misanthropic atmosphere in society. But examining that issue – possibly the lack of trust is because we’re less deferential, which is possibly a good thing.
 
 I’d say that the climate of mistrust has gone too far, and that we’ve internalised a lack of trust towards each other. We’re frightened to let the next-door neighbour look after our kids, we’re told that we can’t be trusted to go near alcohol or we’ll end up as alcoholics. We’re being treated as children by those in authority.
+
 > We’re being treated as children by those in authority
+
 Another theme is evidence-based policy – whether there’s a move to hide behind the evidence instead of making moral or political decisions, and the danger of this for science, let alone for democracy. So we’ve got a strand of debates on scientific evidence, looking at controversies around peer review, and whether we’re dealing with policy-based evidence, or evidence-based policy.
 
 One of our big themes every year is ‘a free society’ and the growing climate of illiberalism, that there are things we’re not allowed to talk about. That’s why the slogan of the festival is ‘Free Speech Allowed’.
@@ -54,7 +56,9 @@ __Why the name ‘battle’? What’s the conflict about, and who’s it against
 We wanted to imply that this was not an anodyne set of discussions. We weren’t trying to reach consensus – there are ideas worth fighting over. That’s not to say we do school-level debating stuff. It was to imply that sometimes people avoid having arguments over things that matter. Sometimes we’re told not to question, whereas we wanted to encourage a more questioning atmosphere, particularly around orthodoxies. People should argue passionately over what they believe in, and that will sometimes mean they argue against each other.
 
 __One of the quotations picked up from the booklet was that “morality has been sidelined by facts and statistics”. In what sort of areas do you think there’s an intrusion from science?__
+
 > The argument is that the first 18 months of a child’s life is the key time, and so parents can’t be trusted to get it right and the state needs to intervene
+
 In a lot of social policy areas, such as child-rearing, the government emphasises the need for the state to have policies of early intervention – to intervene in family life ever earlier. The argument is that the first 18 months of a child’s life is the key time, and so parents can’t be trusted to get it right and the state needs to intervene. People in these arguments always say that ‘the neuroscience shows this.’ I feel this is the use of evidence in a very dangerous way. What happens is that it becomes part of a campaigning political agenda you can’t oppose because no one knows how to challenge the evidence.
 
 There’s a real possible prostitution of science for the needs of policy. A lot of scientists want to feel relevant, and justify the work they’ve put into the research.
@@ -66,7 +70,9 @@ Our concern is that scientists rarely admit that reality is more complicated tha
 You can’t clamp down on the debate, but you have to be able to use your evidence to win the argument. But even when you’ve proved that, say, the MMR jab doesn’t cause autism, you can’t force people to take it. People should have the freedom to make their own choices.
 
 Science shouldn’t intervene with your own decision-making. In the field of public health, scientists have become too involved in the nanny state system and really quite draconian anti-liberal policies.
+
 > There’s a tendency to scientism, which is science being overstretched, suggesting that it can explain every human interaction
+
 There’s a tendency to scientism, which is science being overstretched, suggesting that it can explain every human interaction. I feel science is one of the most important human inventions, but it should’t make claims it can’t support.
 
 __The first thing that came to my mind when I heard about your conferences was the similarity to TED. If their motto is ‘[Ideas Worth Spreading](http://www.ted.com/)’, would yours be ‘Free Speech Allowed?__

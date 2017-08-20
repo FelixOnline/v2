@@ -29,7 +29,9 @@ The novel focuses on Andrew ‘Ender’ Wiggin, the result of a selective breedi
 It follows his training at the orbital Battle School as he is trained to lead Earth’s International Fleet against invasion from the insectoid Formics, which have attempted to attack the planet twice before.
 
 The universe of the novel is richly detailed and believable. While the main focus of the book is on Ender, the political situation on Earth, explored through both the actions of Ender’s equally intelligent siblings, Peter and Valentine, and the interactions of his superior at the Battle School, Colonel Graff, with his colleagues, forms a fascinating backdrop that is vital in understanding why Ender is put through the trials that he is.
+
 > Ender's Game is, in many ways, close to perfect
+
 While it may be a small point, I particularly liked the Greek titles of Hegemon, used for the leader of the unified Earth, and Strategos and Polemarch, used for the leaders of the International Fleet. While this doesn’t really affect the story it does give the book an interesting and unusual flavour and does somewhat help it to stand out.
 
 The real achievement of _Ender’s Game_, however, are its characters. Every one of the main players in the book is very well developed. It’s saying something that I’m hard pressed to call anybody in the book, even the initially sinister Graff, a villain. In the end the novel comes off as an exploration of the tragic consequences that can result from a lack of communication. I’d like to say more, but I’m afraid that it would spoil the fantastic ending.

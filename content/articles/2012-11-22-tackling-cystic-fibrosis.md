@@ -37,11 +37,15 @@ Dr Jane Davies: It’s a bit of a random story! I went to medical school in Dund
 __NY: Could you give me a brief dummy’s overview of what CF does to the body?__
 
 JD: CF is a genetically inherited disease, so if a patient has two copies of the abnormal gene then the cells lining the organs of their body don’t handle salt well. The mishandling of the salt leads to dehydration of the surface secretions – particularly in the lungs – so they become dry and sticky. They then act as a very attractive place for bugs and viruses entering the body. This triggers an inflammatory response, but the infection is never properly cleared, so you enter a vicious cycle of chronic infection and inflammation which leads to tissue damage and other difficulties.
+
 > Our approach uses synthetic liposome-based vectors to deliver DNA
+
 __NY: So what’s it like to live with CF?__
 
 JD: Well I don’t know that first hand, so no matter how well I know my patients I can never pretend to know exactly how they feel. It is certainly very difficult both practically and psychologically though. Practically, a huge amount has to be done every day to manage the disease – up to an hour a day of physiotherapy to clear mucous from the lungs, as well as nebuliser treatments and between ten and twenty different pills to be taken. That’s when things are going well, and almost all patients go through episodes where they need to be in hospital for several weeks at a time. Psychologically, it’s completely relentless and it’s something that you know will be with you for the rest of your life and you know that your life will be considerably shortened – life expectancy is in the late thirties at the moment.
+
 > CF is physically exhausting; psychologically it’s completely relentless
+
 __NY: What is the Gene Therapy Consortium, and what’s it trying to do?__
 
 JD: It’s an amalgamation of three individual groups – Imperial, Oxford and Edinburgh – which had previously been working in competition, but were brought together by the Cystic Fibrosis Trust to work in collaboration. The aim was to bring a step change in gene therapy trials where success would be measured by how patients actually felt or performed after treatment rather than by molecular markers in the lab.

@@ -25,7 +25,9 @@ highlights:
 This week’s union council meeting was rocked by the tabling of a paper to prevent the union from lobbying its own members.
 
 A difficult read in itself, the paper proposes to ban the union from lobbying its members in either direction for general or by-elections, or in national referenda, such as the upcoming EU membership referendum.
+
 > The paper proposes to ban the union from lobbying its members
+
 Despite proposing a constiutional change that could massively impact the role of the union in students’ lives, only members of union council will be able to vote on the matter. This includes officer trustees, constituent union reps, management group chairs and ordinary members, amongst others.
 
 Despite being tabled at a union council meeting last week the paper was neither voted on or discussed in particular detail, since quorum wasn’t reached.

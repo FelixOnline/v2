@@ -35,7 +35,9 @@ An exhibition celebrating women has been up in the Business School entrance all 
 At an exclusive invite-only  Women@Imperial reception to start off the week, the college’s movers and shakers were invited to hobnob around the exhibition on International Women’s Day on Tuesday. There will be an outreach event today to encourage young women to enter STEM.
 
 Last week, the education secretary, Nicky Morgan, presented a new report into female leadership. ‘WomenCount: Leaders in Higher Education 2016’, profiles women who have been appointed to high positions in universities, including our very own President, Alice Gast, and Vice Provost (Education) Debra Humphris, who recently left Imperial for Brighton.
-> > **Education secretary Nicky Morgan, presented a new report into female leadership**
+
+> **Education secretary Nicky Morgan, presented a new report into female leadership**
+
 Nicky Morgan, who a month ago refused to make sex and relationship education compulsory in schools, said that “female leaders in our universities and colleges act as powerful role models”. She also pointed out that Imperial had a “great example” of a female leader in the form of Alice Gast, who is the first female President in Imperial’s history.
 
 Alice Gast said she had been “especially inspired by Imperial’s women”. Aw, thanks Alice.

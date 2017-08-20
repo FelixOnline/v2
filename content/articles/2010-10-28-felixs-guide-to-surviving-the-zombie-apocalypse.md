@@ -29,7 +29,9 @@ So we all know the zombie apocalypse is coming at some point, most likely arisin
 __1. Keep taking the pills__
 
 So someone’s infected, and you both know it. Maybe it’s you – maybe you were careless and got scratched or bitten. Maybe you can feel that growing headache or that sick feeling in your stomach. Either way, you know it’s the end of the line for someone. There’s no shame in putting someone out of their misery, and if you’re the unfortunate one... well, I’d always advise you keep one bullet with you at all times. Maybe Chuck can spread his words of wisdom on this very dark subject...
+
 > There’s no shame in putting someone out of their misery
+
 _CHUCK GREENE’S INFECTION INFO_:
 
 “I recommend ZombrexTM, the revolutionary over-the-counter drug available at all good pharmacies. Bitten? Scratched? Knowing the end is near? Never fear, ZombrexTM will forestall your zombification in handy, easy to use epipen-delivered doses. It truly is the ‘gift of life’. See your local pharmacy for more information... sponsorship? What gives you that impression?”

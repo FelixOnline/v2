@@ -34,7 +34,9 @@ The biggest news to date: Hedi Slimane has replaced Stefano Pilati as the creati
 Late last week, after numerous mumblings, the French luxury house confirmed that Stefano Pilati would not be renewing his contract after this season. Although the house claimed in a statement that Pilati had been “instrumental in rebuilding and repositioning” the label, guiding it to become “a contemporary reference in high fashion”, Pilati’s tenure at YSL has not been without its bumps. In fact, it was widely speculated a couple of seasons back that Pilati would be replaced at the house since it emerged he had lost favour with the label’s chief executives, owing to the line’s accessories selling better than its clothes.
 
 Yet having followed on from Tom Ford, Pilati’s 8 years at the house have been an overall success. Greatly concentrated on precision tailoring and luxurious fabrics, Pilati’s designs were sensual and seductive, with a heavy hint to the Parisian elegance Saint-Laurent himself had strived for, but which were somewhat lost amongst Ford’s sexually provocative pieces.
+
 > Hedi Slimane has replaced Stefano Pilati as the creative director at Yves Saint Laurent
+
 In fact, Pilati’s last collection on Monday seemed almost prophetical. Elegant bare-backs, glittering chain mail dresses and leather wasp-waisted jackets; Pilati’s finale infused darkened sincerity with a sparkle of floral romance, as if hinting that he would emerge from the thicket of changeovers as a bloom of freshness.
 
 But alas, before Pilati has managed to reveal his own future plans, the heads of YSL validated strong rumours by naming Hedi Slimane as the house’s new creative director.

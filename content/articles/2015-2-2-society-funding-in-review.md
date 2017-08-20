@@ -23,7 +23,9 @@ highlights:
 ---
 
 The Union has, according to the 2014 Impact Report, a turnover of just over £4.4 million. When you take out the bar and retail outlets, as well as staffing, overheads etc, that leaves approximately £1.4 million running through the clubs’ coffers on a yearly basis – as reported last year at budgeting. With all of that cashflow, spread over 350 societies, you might reasonably ask where all of the money comes from.
+
 > "The Union has, according to the 2014 Impact Report, a turnover of just over £4.4 million."
+
 __Imperial’s Grant__
 
 Each year, we are given around £330,000 by the Union to give out to clubs. The majority of this gets allocated during the Spring Term, once everyone’s had a chance to settle into their roles. Each club Chair is expected to write a budget for the coming year, factoring in cost and any other income sources (including members’ own contributions).
@@ -51,7 +53,9 @@ There are some fairly specific rules on the allocation for tours; for instance, 
 Funding is also given out by ICTrust to assist students in attending conferences to present their research. This is more useful to the Graduate Students’ Union, and to individual students, but Departmental Societies get a look in too.
 
 Perhaps more tantalising is the Exploration Board, which takes as its mission statement “to support projects that reach a balance between straightforward scientific research and an adventurous holiday.” More specifically, it funds expeditions with scientific merit, with recent destinations including Mongolia, Peru and Svalbard. The board has recognised 98 expeditions since its creation in 1955. Over a third of these took place in 2001-2010, after a quiet few decades starting in the 1970s.
+
 > "a balance between straightforward scientific research and an adventurous holiday."
+
 __Sport/Arts Imperial __
 
 Many clubs, particularly those in the ACC, compete in BUCS tournaments, for which extensive funding is awarded by Sport Imperial. Funding is also allocated in a second round to non-BUCS sports with benefit to the College.

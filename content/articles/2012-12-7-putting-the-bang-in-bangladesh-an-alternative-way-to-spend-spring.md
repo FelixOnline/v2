@@ -34,7 +34,9 @@ Tor many, life has been normal so far; most have attended school, the lucky prog
 On 22 January 2013 I will begin a 3-month volunteering placement in Bangladesh. I will be living as the locals do, collaborating with other overseas volunteers, local communities and organisations to address problems faced by severely impoverished communities in Bangladesh. The focus is on groups who are otherwise excluded from social and economic growth and who are less resilient to economic and environmental shocks. (See end for more details.)
 
 Statistics surrounding poverty are inaccessible and emotions can easily be rationalised with our busy schedules and daily commitments. But poverty should never have become an acceptable thing to live with.
+
 > keep your nostrils dilated for the scent of a bake sale next week on campus and buy some delicious cakes
+
 While I’m aware many of us already volunteer in this country and donate to charity when we can, many of us think we’re unable to reach those in distant countries, because we lack the capital and the time. However, with the help of donations and government grants, VSO empowers 18-25 year olds, such as us fresh graduate meat, to lend our hands and brains for good in some of the most impoverished destinations on Earth.
 
 Bangladesh, for example, suffers from widespread childhood malnutrition, and has one of the highest rates of maternal mortality in the world. There is also a high incidence of preventable diseases, due to the lack of access to and information about sanitation, hygiene, nutrition and sexual health.

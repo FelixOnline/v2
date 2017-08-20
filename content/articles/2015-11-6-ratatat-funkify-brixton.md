@@ -29,7 +29,9 @@ As those of you who speak to me on a regular basis know, I went to see Ratatat l
 Ratatat is serious business. Their sense of groove is among the best in the industry. Since I base my writing on tired aphorisms, I’ll save the best for last, for I have a few words about the DJ who opened that night.
 
 The lack of stage presence left me floored. I initially thought to myself, “Oh, they’ve turned up the house music a bit”, before looking up and realizing there was actually someone on stage, spinning a feeble attempt at dream-step-night-core-whatever-the-hell-the-kids-are-into-these-days. I spent the next hour and a half cursing my punctuality, bland noise killing my eardrums.
+
 > Laser light carved through the smoke in undulating sheets, and it was super neat-o
+
 Okay, it wasn’t all bad – up on the mezzanine, I could watch the crowd. White people approximating the act of dancing is always sort of entertaining, in the same schadenfreude way that watching Russian dash-cam videos on YouTube is oddly satisfying.
 
 I should mention that I have no idea who this DJ is; he managed not to say an entire word during his 90-minute set. What a champ. At least he eventually got off the stage. I refuse to print his name here because he’s not worthy of even that.

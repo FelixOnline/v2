@@ -37,7 +37,9 @@ This pseudo-debate is like listening to two people debating over an orange: one 
 I will not waste many valuable words explaining what is wrong with the conservative side of the ‘debate’. There can be few people in Britain today who don’t think the right-wing press is the two-faced mistress of the upper classes, a Conservative propaganda machine with a thinly-veiled sprinkling of islamophobia.
 
 The left-wing press is usually slightly more subtle and discerning in its opinions, but with Occupy it comes across as a schoolboy with a crush: the Occupy movement can do no wrong. Photos of Guy Fawkes masks accompany the anticipation of an approaching revolution. The Government must listen to the voice of its people! We are the 99%!
+
 > Occupy is absolutely right in its motives, but completely wrong in its methods
+
 Leaving aside the dubious statistical nature of “the 99%”, what I really want to address is the idea of revolution. To young idealists like myself and the members of Occupy, revolution can seem exciting and liberating: who hasn’t imagined themselves as a British Che Guevara, motorcycling down the streets of a burnt-out London, cigarette in mouth, awaiting the symbolic, V-for-Vendetta-style explosion of Big Ben?
  But has it really come to this? Do we really need a masked vaudevillian veteran or an angry Venezuelan medical student to save us from our authoritarian overlords? Of course not. The fact that I can write here that ‘David Cameron feasts daily on the bloodied corpses of children’ without getting arrested is proof of that (though if I mysteriously stop writing articles after this, you’ll know that Britain has in fact slipped into a North Korean nightmare).
 

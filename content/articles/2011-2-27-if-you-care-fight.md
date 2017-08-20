@@ -28,7 +28,9 @@ For such a tiny island this seems a little disproportionate, but one has to admi
 Now consider how quickly that might change when the government cuts funding for all humanities and arts subjects. I hear you, Imperial isn’t going to be affected, but Imperial is the only one of the top four that doesn’t do arts and humanities.
 
 Spending cuts are necessary; the economy is in a poor state and something must be done. But for a country so very dependent on academia, on skilled labour and industry, cutting funding to education is like a fisherman selling his net. England cannot maintain a brilliant standard of education when the government expects institutions built over hundreds of years to recover from such devastating blows.
+
 > How stretching universities to the brink of financial ruin is meant to improve our experience I have no idea
+
 And then of course there is the issue of tuition fees. The government claims that they will improve the student experience, make it fairer for the disadvantaged, but Oxford has said that it needs to increase fees to £8,000 just to make up for the cuts to its funding and the mandatory bursaries for poorer students will increase this to £9,000. How stretching universities to the brink of financial ruin is meant to improve our experience I have no idea.
 
 Imperial has made itself heard on the issue of cuts and tuition fees, and I for one have made myself heard at the recent student demonstrations. The latest protest that I attended was the calmest of the lot with not a single kettle in sight and brilliant fun. I marched with thousands of other students, there were people with drums, a guy with speakers on his bike, and we owned the streets of London for an afternoon.

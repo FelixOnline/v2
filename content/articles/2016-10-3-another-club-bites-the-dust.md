@@ -32,7 +32,9 @@ The iconic Islington Club, Fabric, shut it’s doors for possibly the last time 
 Two deaths earlier in the year prompted a review of the club which concluded that its security and searches were “inadequate and in breach of the licence”.
 
 Visitors and other figures were vocal about the closure and rallied to stop the decision, with a change .org petition surpassing 150,000 supporters and London Mayor Sadiq Khan coming out against the decision.
-> > Two drug related deaths earlier in the year prompted a review of the club
+
+> Two drug related deaths earlier in the year prompted a review of the club
+
 After the decision made by the local council Khan said he was “disappointed that Fabric, Islington Council and the Metropolitan Police were unable to reach agreement on how to address concerns about public safety” but insisted that there was nothing in his capacity as Mayor that he could do to intervene.
 
 Khan promised to tackle closures in London like this in his manifesto after 50% of venues in the city have closed their doors in the last decade alone. Rising operating costs and increased regulations, as well as a shift in people visiting larger festivals over regular clubbing, have been touted as the causes of the diminishing nightlife in London.

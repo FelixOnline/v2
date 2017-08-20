@@ -43,5 +43,7 @@ Reddit’s administrators appear to be unsure of how to deal with the situation.
 The face of the controversy, Michael Brutsch, seems to be taking things well. Other than allegedly losing his job, he has turned to CNN to apologise for his actions whilst defending himself by saying that “[he] was playing to an audience of college kids”. He admitted getting “a thrill” when posting content on reddit. The user drama on reddit is no less exciting. Brutsch has since deleted his account, and in doing so, dragged a number of other less known, though no less prominent, users into some sort of a drama. This drama is documented fully by a user on reddit no less!
 
 Free speech is problematic. Does one have an unlimited right to say his mind? If so, does he have to face the consequences of his right to say anything? Should we curtail free speech to prevent any form of racism, harass, abuse, or sexism?
+
 > Should we curtail free speech to prevent any form of racism, harass, abuse, or sexism?
+
 The United Kingdom is struggling with this issue over the various “Twitter arrests” whilst internet communities like reddit are also struggling with this issue over questionable content. Commonly, the issue of free speech in this digital age arises from a single source: the web. The web has empowered us all with a voice, but how should we wield that voice?

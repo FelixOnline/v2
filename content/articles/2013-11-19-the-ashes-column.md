@@ -31,7 +31,9 @@ If there is one thing that almost seems certain, it is that England face a much 
 However, England would have been very strongly encouraged by their top-order’s batting performance. Michael Carberry has shown that he is the ideal partner to Alistair Cook, which would also allow Joe Root to remain in the lower order where he has had more success.
 
 Mitchell Johnson has been added to the bowling attack for Australia and has been looking dangerous – especially during the one-day series against India. James Faulkner, the Australian all-rounder, will also be expected to play in the test after showing his explosive credentials against India. In the five games against India Faulkner scored 65 and 116 – both at strike rates of higher than 150.
+
 > England should have more than enough firepower to take the series comfortably.
+
 However, despite this, his bowling was below par, and he will be looking to correct that in this series. The key to Australia’s challenge will be Michael Clarke and Ryan Harris, both of whom are injury prone. The Australian backroom staff will have to work overtime to make sure both last the series.
 
 Writing the day before the Brisbane test begins, it is clear that whilst England will be tested more than they were this summer, they should have more than enough firepower to take the series comfortably. Pessimists, however, will point out that, whilst England won 3-0, they were probably saved in two tests by a combination of rain and contentious decisions. If those decisions had gone Australia’s way, the series may have ended differently. They have to be wary of that this time round.

@@ -37,7 +37,9 @@ The FEHD were helpless against large groups of protesters, and the police were c
 The night left the city in shock. As politicians awoke, parties began to swiftly condemn the violence. Government officials stated that the riots had nothing to do with localist movements, the government’s approval rating, or hawker regulations. Supporters of the protest condemned the police force’s actions with others coming to the support of the police force, saying that the police were, in fact, too restrained.
 
 Supporters of the protest zero in on the fact that fishballs led to bullets and police brutality, while those against looked at the injuries sustained by the force and the helplessness of some under-equipped officers.
-> > Violent clashes broke out and the city descended into darkness
+
+> Violent clashes broke out and the city descended into darkness
+
 Pulling the camera back, we see that the clashes escalated step-by-step and the violence from both sides was irrational and unreasonable. But more importantly, the fishballs were just the final straw for the protestors, pushing them towards violence. We are looking at a city that has slowly but surely fallen from its place as the number one international financial centre in Asia to a political mess with a steadily worsening economic issues. Sure, this may be the result of the rapidly growing Chinese economy and changes in the socio-political environment, but the government is not without fault.
 
 The executive branch of Hong Kong has no accountability to the general public, because it is appointed by a small group of electors. The Legislative Council is controlled by the pro-establishment parties,  with 30 out of 70 of the seats being functional constituencies, allowing small groups to have immense voting power. Time after time, the Hong Kong government has continued to push unwanted policies, heedless of public outcry.

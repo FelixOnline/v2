@@ -34,7 +34,8 @@ Realistically only the Democrat and Republican nominees have any chance of winni
 **Donald Trump**
 
 The man needs almost no introduction and has been at the forefront of the news over the past few months, at times even superseding the fallout of Brexit. The businessman, former Apprentice host, and hair spray enthusiast has pitched himself as an outsider, someone to challenge the current way of doing politics. This is factually true as Trump has never held elected office, been a federal government official or held a high ranking military post (all other presidents have).
-> > It’s been a campaign that even Malcolm Tucker would find hard to spin (Nigel Farage did give it a shot though)
+
+> It’s been a campaign that even Malcolm Tucker would find hard to spin (Nigel Farage did give it a shot though)
 
 {{< figure src="http://felixonline.co.uk/img/upload/201611032313-felix-5440991648_fdc9db5b18_b.jpg" title="" caption="" attr="Gage Skidmore" >}}
 
@@ -71,7 +72,9 @@ Because these lines are only redrawn every ten years and the number of people of
 But wait, 435 + (2 x 50) = 535 electoral college votes, not 538. In addition there’s Washington DC which does not actually lie in a state but instead is it’s own district, the District of Columbia (not to be confused the University of Columbia or indeed the country of Colombia). This district gets 3 votes, taking the total to 538.
 
 Each state then goes to the polls on the first Tuesday in November (postponed a week if it’s November 1st like this year) and the winner of each state wins all the electoral college votes for that state. As with everything in the US election there’s always exceptions, this time it’s Maine and Nebraska. These award their two senate votes to the overall winner in the state and then the winner of each district gets that district’s vote. What the whole system also means is that a candidate could win the most number of actual votes in the US and still lose the majority of electoral college votes and hence the overall race. This happened famously in 2000 (after a recount in Florida meant less than 600 votes decided the president) as well as in 1876 and 1888.
-> > Handy if you’re a convict, Richard Nixon or a turkey
+
+> Handy if you’re a convict, Richard Nixon or a turkey
+
 With the winner takes all system, the most populous states of (California, Texas etc) are heavily targeted in the race and the smaller states are often forgotten about. Swing states, in which the race is tight, are prioritised too as capturing voters here is far more important than losing by a bit less in the states you’re almost guaranteed to lose.
 
 Long story short, barring any massive surge from third parties, it’ll become a two horse race to win 270 electoral college votes and sweep the presidency. In the unlikely (but ever increasing) chance that they tie,  then the House of Representatives will choose the next US president out of the top 3 candidates with electoral college votes (this is a third party’s only chance of being president). Currently the Republicans hold the House but all those seats are up for grabs on the same day and may swing back to the Democrats.

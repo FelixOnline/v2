@@ -27,13 +27,17 @@ highlights:
 The Imperial Volunteering Centre (IVC) is to be almost entirely scrapped due to funding difficulties caused by a cut by the Higher Education Funding Council for England (HEFCE) and also a large reduction in the Outreach department budget. Heather Jones, Deputy President (Clubs & Societies) and Minna Ruohonen, Head of the Volunteering Centre, expressed their concern about the effect on volunteering activities of the cut, which the College blames on HEFCE.
 
 The Volunteer Centre was founded in 2002, as part of the Imperial Outreach unit, by Minna Ruohonen in order to provide opportunities for college members to volunteer in the wider community. Rather than directly organising volunteer projects, it acted as a ‘brokering agency’: advertising and matching up volunteers to appropriate projects. Up until now, the mission of the Volunteer Centre had been “to utilise Imperial College’s expertise and resources to provide voluntary activities which offer valuable development opportunities both to the College and the wider community”.
+
 > [The closure is a] sad reflection of what the College values
 > Heather Jones, Deputy President (Clubs & Societies)
+
 Deputy President Heather Jones expressed her sadness at the cut, saying it was a “sad reflection of what the College values.” She believed that “they [College] didn’t need to fully pass [the government] cut onto the volunteer centre”. The Outreach Centre however, made it clear that while they thought the Volunteer Centre was ‘very important’, the combination of government cuts and reduced College funding to the Outreach department meant that they were unable to save it.
 
 Professor Julia Buckingham, Pro Rector, Education and Academic Services, who is responsible for the Outreach Department said, “It is vital that students with ability feel there are no barriers to them coming to university... While these are difficult times, there is no question of this ethos losing its place as a College priority.”
+
 > While these are difficult times, there is no question of [Outreach] losing its place as a College priority
 > Julia Buckingham, Pro-Rector
+
 Throughout its history, the Volunteer Centre has received various sources of government funding. Most recently the centre was funded by the Teaching Enhancement and Student Success scheme, TESS, offered by the HEFCE, Higher Education Funding Council for England, which has seen it’s budget cut this year. Imperial Outreach was first made aware of problems with the funding nine months ago, but was only made aware of the scale of the impact of the withdrawal of TESS funding, two weeks ago.
 
 Melanie Thody, Head of the Outreach Department, told Felix that she had hoped that she would be able to save the the Volunteer but the reduced funding to her department, compounded by the direct withdrawal of government funding to the Volunteer Centre made it too difficult. The Outreach department is currently ‘under review’ by the College senior management. Melanie Thody said “like all departments, we have to tighten our belts. It’s going to be tough, but other departments are suffering too.” This term already has seen the [restructure of the Plant Sciences research group](http://felixonline.co.uk/news/171/planned-restructure-of--debt-laden-department-angers-students-at-icu/) and the Institute of Mathematical Sciences (IMS), [which was evicted from its premises at 53 Prince’s Gardens](http://www.felixonline.co.uk/?article=289). The future of the IMS is still uncertain as concrete plans for its continuation are yet to be released.

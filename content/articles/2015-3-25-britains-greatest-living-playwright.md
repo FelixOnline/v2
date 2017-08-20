@@ -44,7 +44,9 @@ That blend of eloquence and emotion, warmth and wit is a continuing trend throug
 The balance varies from play to play – early play _Jumpers_ (another Old Vic production in 1972) is designed as a farce, and bears the comedy to match, but also wields philosophical discussions over morality (“what’s so good about Good?”).
 
 _Travesties_, which followed two years later courtesy of the RSC, tells the tale of a production of _The Importance of Being Earnest_ in Zurich during the First World War, featuring an eclectic cast of characters that includes James Joyce, Lenin and Dada founder Tristan Tzara. With roots in realities, _Travesties_ ends up being an examination of art and war, albeit one riddled with puns and ingenious nods to the events of _Earnest_.
+
 > Quarks, quasars, big bangs, black holes - who gives a shit?
+
 Stoppard’s trend of producing a play every year or two continued from 1966 through to _Hapgood_ in 1988, the first play that really felt like it failed to strike that balance between science and emotion. Ostensibly a piece of spy fiction, _Hapgood_ deals in quantum mechanics (not least the uncertainty principle), and doesn’t quite succeed in striking the classical Stoppard notes. Critics (and audiences) reacted negatively, and the play never really took off.
 
 A five-year theatrical silence followed. Then along came _Arcadia_.
@@ -60,7 +62,9 @@ _Arcadia_ still stands as what is, most likely, Stoppard’s greatest work, but 
 2002 saw a trilogy of plays, _The Coast of Utopia_, split into _Voyage, Shipwreck,_ and _Salvage_, and dealing with events in late 19th century Russia. Running nine hours in total, the three plays opened in quick succession in the National Theatre, winning a Tony Award after their Broadway debut four years later.
 
 At the same time as _The Coast of Utopia_ was earning its Tony, Stoppard’s next play was opening at the Royal Court. _Rock ‘n’ Roll_ was one of Stoppard’s more political plays, dealing with the socialist movement in Czechoslovakia under the Soviet Union, and rock and roll’s part in that movement.
+
 > No-one out there manages quite the same trick
+
 The idea of dissidence through art, specifically against the Communist Party of Czechoslovakia, was one Stoppard dipped into from time to time, although _Rock ‘n’ Roll _is arguably his largest work to tackle it.
 
 It’s here worth noting that Stoppard is Czech by birth, although his parents fled the country when he was two during the Nazi invasion.

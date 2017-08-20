@@ -31,7 +31,9 @@ The goalkeeper crouches at the ready, his legs crossed for fear of letting the s
 The striker weaves in and out; she knows she needs to make this count. She looks up once more, almost 8 yards out... She moves her left leg forward, bends down towards the ball with her stick, almost as if to scoop it up, and whacks the ball with all her might.
 
 The keeper barely has time to react, as he leaps to stop the blur that has become the ball. Alas, he has failed as screams of joy come from the opposing team.
+
 > "This is Floorball: a game of intense action and agility"
+
 This is Floorball: a game of intense action and agility. A Swedish invention, it draws a lot of inspiration from field and ice hockey, but is played on indoor courts.
 
 The Imperial College Floorball Club is committed to training its members, no matter their skill level, to be the very best, but amongst a very relaxed atmosphere. We provide all the necessary equipment for training and charge a modest subscription fee.
@@ -41,4 +43,5 @@ As one of the United Kingdom’s best Floorball teams, we have regularly placed 
 Our team demographic is very mixed both in terms of gender and nationality with a substantial number of our players from Scandinavia, Singapore, England and the Czech Republic.
 
 If you’re looking to have a lot of fun and a great workout, get in touch with us through email or join our Facebook group. We hope to see you soon!
+
 > "The Floorball Club is committed to training its members"

@@ -28,8 +28,10 @@ A new study from Imperial College London has suggested that, in our race to batt
 The Anopheles gambiae is responsible for about half of the 500 million malarial cases in sub-Saharan Africa. It has been found that two physically identical strains of mosquito are becoming separate species, known as ‘M’ and ‘S’.
 
 There have been recent developments in combating mosquitoes and the diseases they carry. From new insecticides to genetic technology, much hope and money has been invested in new control tactics. However, this new discovery is potentially problematic for researchers.
+
 > Strategies that might work against one strain of mosquito might not be effective against another
 > Dr Mara Lawniczak
+
 “From our new studies, we can see that mosquitoes are evolving more quickly than we thought and that unfortunately, strategies that might work against one strain of mosquito might not be effective against another. It’s important to identify and monitor these hidden genetic changes in mosquitoes if we are to succeed in bringing malaria under control by targeting mosquitoes,” said Dr Mara Lawniczak, a lead researcher from the Imperial College London Division of Cell and Molecular Biology.
 
 Previous research had indicated that there was a genetic difference between the two strains localised to specific parts of the mosquito chromosomes. However, in this, the most extensive analysis of both strains’ genomes, it has been revealed that the genetic differences are more numerous and widely dispersed in the genome than previously thought.

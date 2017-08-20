@@ -35,7 +35,9 @@ Rick and Morty is no exception with the show either parodying several sci-fi tro
 The series features Rick, an old, outlandish and alcoholic scientist, and his gullible grandson Morty, who go on various crazy and dangerous adventures across alternate universes and different sectors of space.
 
 The major crux of the show is the interplay between Rick and Morty, which never gets old. Rick is depicted as a genius scientist, full of witty one-liners, preferring to live free and party hard, always considering himself superior to others. Morty, in contrast, is good-natured but easily distressed and is frequently shown to be reluctant and disapproving of his grandfather’s methods resulting in several causes of friction and drama between the two.
-> > **Amidst these mad hijinks, the show has some dark moments**
+
+> **Amidst these mad hijinks, the show has some dark moments**
+
 The characters may seem a little one-dimensional at first, but as the series progresses, we gain more insight into the development and layers of our protagonists. For example, behind Rick’s brash, arrogant and lively exterior, there’s a lonely, troubled, haunted past. The viewer is also exposed to a less nuanced part of his personality – a real and deep concern for his family. Meanwhile, we see Morty grow and evolve, becoming more confident, taking initiative and standing up to Rick now and again.
 
 Besides these two, other characters with their own traits feature, each bringing something new to the table. The most prominent of them is the rest of Rick and Morty’s dysfunctional family. These include his parents Beth, Morty’s assertive, level-headed and dissatisfied mother, and Jerry, his insecure father who severely disapproves of Rick.

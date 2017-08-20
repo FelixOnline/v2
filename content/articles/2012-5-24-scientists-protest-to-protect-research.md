@@ -30,8 +30,10 @@ The protest marked the start of the Science for the Future campaign which is fig
 The unpopular policies include a decision to stop funding PhD studentships on research grants, limiting fellowships to specific subjects and a ban on the resubmission of most rejected grant proposals. A new funding scheme also means that more money is being allocated by EPSRC staff rather than through a peer-review process. The council’s “National importance” criterion, for which scientists must explain how their research might meet “national strategic needs” over 10-50 years, has also drawn much criticism.
 
 Professor Tony Barrett, a synthetic-organic chemist at Imperial, is the chief organiser of the campaign, and has called for the chief executive of the EPSRC, David Delpy, to take action or step down. He described the moves by the council as a “Stalinist collectivization of science.”
+
 > I just don’t want taxpayers’ money to be spent on a top-down diktat programme emblematic of what went on in East Germany.
 > Professor Tony Barrett
+
 Prof. Barrett said, “I don’t want more money for science. I just don’t want taxpayers’ money to be spent on a top-down diktat programme emblematic of what went on in East Germany.”
 
 The turnout of the protest was low with only 80 out of 8000 researchers funded by the EPSRC attending.

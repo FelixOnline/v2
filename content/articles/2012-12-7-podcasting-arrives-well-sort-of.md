@@ -70,7 +70,9 @@ The reason I campaigned for podcasting is because I believe it can significantly
 Students can’t always grasp concepts or all content during a lecture, either they have momentary lapses in concentration or can’t quite pick things up as fast as some. Through re-watching, these students can pick up what they missed out on, as well as reinforce previous understanding, this aiding their understanding on the whole.
 
 There were really just two main qualms I’ve come across that have hindered a significantly large scale rollout of podcasting, although we successfully achieved a small scale rollout that I believe has gone successfully. The first was attendance and the second, a more significant reason, was cost.
+
 > ... until there’s a bigger budget to be spend on the student experience we’ll have to be happy with smaller scale podcasting projects within some departments
+
 The first problem I came across were claims, or worries, that attendance would fall. However, I saw no evidence what-so-ever for this being true, to the contrary, I was actually told of evidence that it had no effect at all by lecturers who had piloted it and also from the business school who have had lecture captures for several years now.
 
 Interestingly, the statistics from the Business School showed large spikes in re-watches of lectures during revision, as students re-watched specific parts of lectures to refine their understanding or lectures they had in fact attended. Some students also do use the system to re-watch missed lectures, often as they are unable to make it due to other commitments (e.g. job interviews), not because they’re lazy. All-in-all if students are going to miss lectures, they are going to miss lectures, regardless of whether the lectures are recorded or not.

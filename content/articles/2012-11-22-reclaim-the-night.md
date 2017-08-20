@@ -31,7 +31,9 @@ This is not a wholly surprising state of affairs when adverts everywhere remind 
 The NUS (National Union of Students) performed a study of students and their experiences of sexual assault and violence – 7% of students experienced serious sexual assault at university, and more than 25% had been sexually assaulted at university.
 
 It was perhaps the other findings of the survey that were more shocking, the vast majority of perpetrators of violence against women were known to their victim, and the acts of violence happened in their own homes.
+
 > Overwhelmingly (though not exclusively) the victims of sexual violence are women
+
 Only 10% of the serious sexual assaults were reported to the police, which is the same reporting rate from any sector of society, and this doesn’t even begin to take into account how many of these reports become convictions. 43% of the victims of serious sexual assault in the NUS study had never told anyone about their experience.
 
 The lack of reporting is attributed to a feeling of shame, and fear of being told that it is their fault. To be clear – rape is the fault of the rapist, not the victim.
@@ -42,7 +44,9 @@ Whatever the victim was wearing, or their sexual history, the blame should never
 Nearly 70% of their respondents reported that they had received unwanted sexual attention at university from catcalling and inappropriate questions about sexuality and relationships, to more serious sexual violence.
 
 Overwhelmingly (though not exclusively) the victims of sexual violence are women, and the
+
 > Only 10% of the serious sexual assaults were reported to the police, which is the same reporting rate from any sector of society, and this doesn’t even begin to take into account how many of these reports become convictions
+
 perpetrators are men. It is often easy to say that women should take care to avoid being raped, because women get raped. It is perhaps more pertinent to tell men that some men rape, and that they should take action to stop this happening.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201211222218-tna08-reclaim-the-night.jpg" title="" caption="" attr="" >}}

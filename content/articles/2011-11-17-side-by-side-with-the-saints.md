@@ -35,7 +35,9 @@ Of course, Volition didn’t just copy the ingredients – they also improved th
 To start, you’re given the standard controls: left and right shoulder buttons for punches, one button pulls out your gun menu, and an every button which ranges from grabbing people to use as human shields, to commandeering cars by diving through their windows.
 
 There is already a lot of havoc that can be wrecked on foot. Running up to people and pressing punch pulls off a variety of wince-worthy violence. The standard bare-fisted attack is a punch or a kick to the groin. It gets worse (or should that be better?) from there. Giant fists that make punched people explode into a fine red mist, farts in a jar used as gas grenades, and most infamously of all, the Penetrator: a giant, purple, rubber phallus stuck over a baseball bat that swings about limply, are all available to be picked up. Other ridiculous methods of bringing death to your enemies include calling in airstrikes and launching them from manapults. There’s even a rocket launcher that makes enemies dance like Michael Jackson before they spontaneously combust.
+
 > Farts in a jar used as gas grenades
+
 Naturally, the designs are just as ludicrous when it comes to vehicles. Fighter jets with heat seeking missiles are casually parked in allotments and, at some point, you can drive a moon buggy through the streets. However, my favourite has to be the Specter: flashy, high-speed hover bikes with machine guns that can barrel roll, a Godsend in such a large setting. The vehicles are also much sturdier than their GTA counterparts, encouraging a more aggressive driving style. Whilst there are occasional traction issues the overall handling is tight and easy to pick up.
 
 The insane amount of character customisation is also on show. Enter a plastic surgery parlour and its possible to change every part of your body and clothing, with the character models good enough to make this exercise worthwhile. In addition, choosing to wear outlandish costumes can earn you Respect, the game’s XP equivalent.
@@ -49,7 +51,9 @@ The setting this time is Steelport, a fictional city based on Chicago and Detroi
 We also meet our primary antagonists, The Syndicate, a multinational conglomerate of gangs, when the Saints inadvertently raid a Syndicate bank in mission one. Cue the first insane set piece. You're throw out of the back of the plane, and, whilst falling, fighting off skydiving gangsters and dodging debris and the plane, you also rescue your girlfriend. If that doesn't make you want to play the game I don't know what will.
 
 The GPS system, which directs you along the shortest route on your mini map, makes a successful return, as does the ability to restart failed missions immediately after failing. The Notoriety system is also much more forgiving than GTA's Wanted system, exchanging realism for the freedom to do what you want.
+
 > Saints Row: The Third exchanges realism for the freedom to do what you want
+
 Nevertheless, it’s not all good news. There are some minor criticisms of the game, one of which is the dialogue. Voice acting can be occasionally flat and the humour can at times come across as immature or a little forced. The enemies are also not particularly smart, forgoing cover and embracing rush tactics. These are the only foibles I've come across in the short time I've been playing, but they don’t detract from my recommendation.
 
 Multiplayer modes from earlier games have also been dropped in favour of a more polished single player, but the co-op mode remains: a friend can drop into any point in your story to help you out.

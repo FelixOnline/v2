@@ -32,7 +32,9 @@ Next, Imperial alumnus and author Simon Singh shed some light on the importance 
 Much to everyone’s amusement, Singh recalled being told to “go and fuck yourself” when raising some queries about a rather dubious programme on global warming. Singh then went on to scrutinise the wonderful world of alternative medicine, showing footage from a BBC show where a patient undergoes open heart surgery with no general anaesthetic, but via the magic of acupuncture.
 
 Of course the show failed to mention the incredible doses of powerful sedatives surging through the patient’s body – I guess modern medicine isn’t so bad after all.
+
 > Head of BBC Science Andrew Cohen asked instead ‘has science failed the media?’
+
 Head of BBC Science, Andrew Cohen was the first panel member to flip the question on its head, asking instead "has science failed the media?" Indeed, scientists could be held accountable for some major media scandals in recent years, such as the alleged links between autism and the MMR vaccine. His general point was that at times both sides have failed to live up to standards for whatever reason, but more recently we’ve seen progression to a better relationship between the science and media communities.
 
 Gareth Mitchell, a convenor of Imperial’s Science Communication MSc, also focussed on modern progression, but this time with reference to social media elements like tweeting and podcasting. Campaigns such as Science is Vital, spearheaded by Imperial’s Stephen Curry and others, probably wouldn’t be so successful were it not for such tools.

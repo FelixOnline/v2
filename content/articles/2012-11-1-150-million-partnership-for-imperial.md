@@ -28,7 +28,9 @@ David Willetts, Minister for Universities and Science, [revealed the £150 milli
 Following a bidding process that took place over the summer, the [Higher Education Funding Council](http://www.hefce.ac.uk/) for England has awarded £35 million to contribute towards the development of the new campus’ centrepiece Research and Translation Hub.
 
 In addition, a partnership between Imperial and Voreda will result in an additional £90 million contribution from the investor. The remainder will be funded by the College.
+
 > the Research and Translation Hub “will serve the needs of London’s enterprise community, expanding support for innovation drawn from Imperial and other leading universities”
+
 This project is one of the two biggest capital projects supported by the government’s [Research Partnership Investment Fund](http://www.hefce.ac.uk/whatwedo/rsrch/howfundr/ukresearchpartnershipinvestmentfund20122015/). David Willetts said of the research partnerships:
 
 “It is fantastic that our top businesses and top charities are queuing up to collaborate with our world-class universities. They want to work together to deliver innovation, commercialisation and growth, which will help make sure the UK competes and thrives in the global race.”

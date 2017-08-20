@@ -30,7 +30,9 @@ highlights:
 In the most exciting development in High Street Kensington since the Odeon was shut down, this week it was announced that the Labour headquarters would be uprooting from its current offices in Westminster and relocating to within walking distance of Imperial College London.
 
 This comes as a consequence, not of Jeremy Corbyn having a hankering for wasabi flavoured crisps from Whole Foods, but since the Labour party failed to find an affordable HQ near Westminster before Christmas.
+
 > They’ll be metres from Corbyn’s objectors, the Daily Mail
+
 The difficulty has arisen from the reluctance of landlords to rent offices to political parties since to the attack on the Conservative Headquarters in 2010 during the student protests over the increase in tuition fees.
 
 The move is set to occur before Christmas, meaning the party’s members will be forced to travel three miles in order to reach Whitehall and the Houses of Parliament, instead of their current location in Brewer’s Green in Westminster, which is walking distance away. As well as now being metres away from Corbyn’s most outspoken objectors, the Daily Mail, the Labour headquarters will be extremely near the residences of several Conservative peers, the Duke and Duchess of Cambridge, and of course, Metric.

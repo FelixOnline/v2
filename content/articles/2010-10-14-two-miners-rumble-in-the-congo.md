@@ -33,7 +33,9 @@ ENRC is one of Kazakhstan’s largest companies, but is listed on the London Sto
 Complaints against Sir Richard were first raised by Standard Life, which owns 0.4 per cent of ENRC. They claimed that the former Imperial College Rector had shown bad judgement in buying the rights, given that the mine is still subject to a dispute between the Congolese government and First Quantum.
 
 Sir Richard, who also serves in a number of philanthropic and business roles outside of ENRC, defended his actions last month, [telling the Telegraph](http://www.telegraph.co.uk/finance/newsbysector/industry/8012436/Sir-Richard-Sykes-hits-back-over-Congo-mining-rights-dispute.html) that: “It is an issue between First Quantum and the DRC government. First Quantum were given every opportunity to renegotiate their contract with the DRC. They didn’t and it was taken off them.” Sir Richard added that his company went to considerable effort to ensure there were “no dodgy dealings.”
+
 > First Quantum is now accusing the company of buying stolen property that belongs to it and has sued ENRC in the International Court of Arbitration
+
 First Quantum is now accusing the company of buying stolen property that belongs to it and has sued ENRC in the International Court of Arbitration. Congo has already promised to respect the court’s decision. The lawsuit demands US$2.5bn, which Newall said was the “calculated market damage done to First Quantum and against our peer group.”
 
 In response to the Congolese government’s claims of unspecified misconduct by First Quantum, Newall said that “they are making weightless and scurrilous accusations against the management. We would be delighted to have an independent review. It’s extraordinary that ENRC’s non-executives would put their names to this.”

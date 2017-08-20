@@ -30,7 +30,9 @@ Several hundred people gathered at the foot of Queen’s Tower on Monday for a m
 Students paused at 11am, and after a minute of reflection returned to their daily activities. In Paris, crowds converged at the Louvre, Eiffel Tower as well as beneath the make-shift memorial at the Place de la République. The French President, Francois Hollande, observed the minute’s silence amongst students at Paris-Sorbonne university, where three victims of the attack were studying.
 
 Imperial had an intake of around 370 French students last year, making them the second biggest group from abroad, after the community of Chinese students.
+
 > Imperial had an intake of around 370 French students last year
+
 One French student told FELIX, “the only way we can stop this is by winning the war. I wish countries will [sic] send more help and soldiers, showing french flags is unfortunately not enough.”
 
 An LSE graduate, Valentin Ribet, perished in the attacks. He was working for a law firm in Paris, having earnt his business law degree in 2014.

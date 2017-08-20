@@ -37,8 +37,10 @@ Fusion originally came into being seven years ago at the University of York and 
 And so with a spark in her eye, a little determination and a desire to give something back to the charity that sponsors her own doctoral studies, Angela conceived Fusion@London. Whilst related to its Northern cousin, Angela promises something leaner, meaner and more metropolitan. “London Fusion fuses three different universities, that’s the one major difference, whereas York was just York. London’s a lot bigger. We’re looking to book headline acts, celebrity artists and comperes.”
 
 Coinciding with [London Fashion Week 2012](http://www.londonfashionweek.co.uk/event.aspx?y=2012), Fusion intends to serve a little slice of the catwalk in its own unique serving style, “In York they showcase mostly High Street fashion stores, like Hugo Boss, Mango, River Island, places like that. We’re still focused on showcasing student talent; most of our designers come from London College of Fashion, Central Saint Martin’s so in that sense we’ve also involved those two universities.”
+
 > The unique structure of Fusion gives a more enriching experience than university societies could provide on their own, stretching beyond the boundaries of their own institution
 > Angela Udemba
+
 The grand scale of Fusion gives the performers the opportunity to work with world-class artists and designers, something that filters down to create a world-class show for the rest of us. “The unique structure of Fusion gives a more enriching experience than university societies could provide on their own, stretching beyond the boundaries of their own institution,” Fusion committee member and UCL student Charlotte told Felix. “It’s a great opportunity to expand your horizons.”
 
 With hip hop, belly, ballet, contemporary, lyrical dance, burlesque and much more, Fusion hopes to choreograph a spectacle that leads the audience with it, keeping them in its thrall at every turn. Angela hopes that Fusion can have a unity and continuity that has been lacking in similar events, where individual clubs and societies tended to contribute scenes in a piecemeal, disjointed manner.

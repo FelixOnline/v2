@@ -29,7 +29,9 @@ A PhD student is rumoured to have incorrectly attached a water pipe to a laser c
 Badly affected areas include offices 148A and 148B on the mezzanine floor of the department, the L50 area on the ground floor, the Donald Campbell wind tunnel and rooms 148A and B on the first floor, and the second floor corridor and LTs.
 
 The lecture theatres in the Roderic Hill building were closed on Monday, Tuesday and Wednesday, with students re-directed to other rooms. All affected areas have been cordoned off.
+
 > The full financial cost of the damaged equipment is currently unknown
+
 Delays to research work will inevitably ensue, with staff and postgraduates required to wait until a full assessment of the damage is conducted – not least for insurance purposes. The Head of Department Prof Ferri Aliabadi was unable to comment on the specifics at this present time due to the delicate nature of the insurance claims, though did confirm that the leak originated from the cooling water supply in one of the labs and may have been due to a faulty connection. The full financial cost of the damaged equipment is currently unknown.
 
 Wilson Rios, the Assistant Building Manager, assured Felix that all was being done to get the lecture theatres and labs up and running. Prof Ferri Aliabadi stated that the main concern for the lecture theatres was ensuring that the ceilings were structurally sound – though the lecture theatres should by now be reopened. The labs are expected to take longer to reopen due to the nature of the damaged equipment.

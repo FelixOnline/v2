@@ -30,7 +30,9 @@ Anti-discrimination laws protect people from hate speech. These laws limit freed
 We also have regulators. Ofcom and IPSO regulate what mass media can say in order to maintain a degree of journalistic integrity and legality, and prevent discrimination.
 
 Last year_The Sun_ spoke of “1 in 5 Brit Muslims’ sympathy for jihadis”, based on a survey which actually asked if said Muslims had “sympathy with young Muslims who leave the UK to join fighters in Syria”. The question failed to define which meaning of ‘sympathy’ was meant, and didn’t specify who these fighters may fight for (with no mention of the term ‘jihadi’).
-> > Political correctness and freedom of speech are not necessarily opposed
+
+> Political correctness and freedom of speech are not necessarily opposed
+
 This misuse of data was so blatant that the company carrying out the poll, Survation, publicly separated themselves from _The Sun’s_ claim. IPSO received over 2000 complaints about the article, printed on the 23rd November 2014, but are yet to give a ruling.
 
 _The Sun_ also found itself in hot water when it printed Katie Hopkin’s infamous article including the line “Rescue boats? I’d use gunships to stop migrants”, which could be seen as discriminatory or encouraging violence. It resulted in over 400 complaints to IPSO. This time the organisation responded with a firm rejection of the complaints in the Greer vs The Sun case.

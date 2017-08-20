@@ -49,7 +49,6 @@ Cook the carrots until tender (enough to be easily cut with a fork) in water wit
 ## Peas
 Cut the lettuce as finely as possible. Put the chicken stock into a pot and add the mint leaves and the flour and whisk for a little while. When it boils, add the chopped lettuce and the peas. Season with salt, pepper and some lemon juice to taste. Let it slowly cook for 10-15 minutes (when the peas are soft enough).
 
-
 The final conclusion: no, we were not capable of cooking the food in just 30 minutes and we ended up having a really late dinner, but the instructions were easy to follow so everything ended up being nice and simple and, more importantly, FUN. Yes, cooking is fun when done with friends, so what about you stop reading about it and go for it!
 
 P.S. You might want someone else to clean the pots and dishes afterwards!

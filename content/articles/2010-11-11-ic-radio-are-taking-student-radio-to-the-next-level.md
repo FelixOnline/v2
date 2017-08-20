@@ -27,7 +27,9 @@ Just over two years ago we took a look around the recording studio at [IC Radio]
 It’s quite satisfying to see some of the bands that we have recorded in previous years become more and more well-known – Ou Est Le Swimming Pool, Master Shortie, Das Pop and South Central have all graced the IC Radio corridors, and this year I’d say that the quality of sessions has been even higher!
 
 Take last Thursday for example; we had a band that recently supported Bloc Party at Scala in for a session, [Redtrack](http://icradiorecordings.bandcamp.com/album/redtrack). Really nice guys, both incredibly talented and also very down to earth. After nailing down an exquisite series of acoustic versions of their punky, indie, catchy tunes, they then had a couple of pints with us in the Union afterwards.
+
 > It is a great chance to get to know the rock stars of tomorrow while they’re still “normal”!
+
 I think that is the main reason we do these sessions, because it is a great chance to get to know the rock stars of tomorrow while they’re still “normal”! We don’t get many pre-Madonnas, just people that want to come and show off the thing that they love and work hard for.
 
 The most recent session that we have done was with an Icelandic singer called [Hafdis Huld](http://icradiorecordings.bandcamp.com/album/hafdis-huld), who has been played very frequently on 6Music and BBC Radio 2. She’s a beautiful singer with an amazing personality and someone that is destined to become big news. What is it about Iceland and music?!

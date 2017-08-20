@@ -29,7 +29,9 @@ It turns out, the UK’s air has been so dirty for so long that the EU is consid
 Around July last year, King’s College London published a report stating around 9,500 people die prematurely, every year, from Nitrous Dioxide emissions in London alone and 29,000 in the UK (that VW scandal didn’t help things much). With this being the case, and British air pollution being amongst the worst in the EU, it’s no wonder the government can find substantial money, during a period of such austerity, to combat the issue. It looks like Newton’s First Law applies to policy too.
 
 The UK has just set aside £600 million, awarding £40 million of it a few weeks ago, from now until 2020 to scrub clean our British breath. The £40 million had been awarded in the name of the Go Ultra Low fund: City councils around the UK proposed plans to increase the uptake of electric cars in their cities by residents, those with the best ideas were awarded funds to push ahead with plans.
-> > **The UK has just set aside £600 million to scrub clean our British breath**
+
+> **The UK has just set aside £600 million to scrub clean our British breath**
+
 The output of the competition was a selection of four winning cities: Bristol, Milton Keynes, London and Nottingham. Here are some of the nifty ideas as well as the changes you Londoners can come to expect.
 
 First off, the creation of ‘traffic priority’ schemes for Electric Vehicles (EVs) which allows EVs to use bus lanes 24/7 like normal traffic lanes, not a bad bypass. Milton Keynes, receiving £9 million has gone gung-ho, offering all 20,000 parking spaces, city-wide, for free to EV users. Bristol, given £9 million, has also opened three carpool lanes to EV users and is building 80 free-to-use rapid charging stations citywide. Also, it offers a four week lease of EVs to introduce potential buyers to their cars. Nottinghamshire and Derbyshire offer 13 miles of crucial bus lane, 230 charge-stations and a business ‘try before you buy scheme’.

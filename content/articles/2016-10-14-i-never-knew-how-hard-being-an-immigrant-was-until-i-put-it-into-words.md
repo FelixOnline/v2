@@ -27,7 +27,9 @@ Being an immigrant was never fun but damn, it really sucks right now. Since the 
 For my family, migration is like a weird tradition. My grandparents left their home, as did my parents, as have I. We’re a family of foreigners and to an extent, my family’s second-hand experiences had prepared me for it.
 
 On my mum’s side, my grandparents left Greece for Australia in the 50s, for a life that was more than what rural, agricultural Greece had to offer. They both worked as factory workers for most of their lives in Australia. They had three children, mum included.
-> > Every week I feel less welcome, less worthy, less secure
+
+> Every week I feel less welcome, less worthy, less secure
+
 Greece in the 80s. They were no longer immigrants. My mother on the other hand has been, or rather has felt like, an immigrant one way or another ever since.  My dad spent his late teens and early twenties here, in the UK. He migrated here to study, stayed for work, and eventually returned to do his mandatory military service. He considered returning to the UK for work but decided to stay (fortunately for me). All this happened before the EU, before freedom of movement. When you couldn’t send money abroad easily. When the world was not as multicultural, as tolerant, as global.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201610141208-felix-Screen Shot 2016-10-14 at 12.06.26.png" title="" caption="" attr="" >}}
@@ -39,7 +41,9 @@ Fast forward five years and I’ve completed two degrees, worked a number of odd
 I’ve also been made fun of, threatened, asked to pay for strangers’ drinks cause “We bailed out your country so you owe us”, I’ve been called a “foreign cunt” and almost run over by a car. For five years I’ve been a foreigner.
 
 So it’s fair to say living in the UK has had its ups and downs. I miss the things I love and I even miss the things I hate about home. I’ve had to make “a family” up from scratch here, people that could be my emergency contacts, my guarantors, my support system. I’ve had to tolerate the weather and the food, learn to love it even. I’ve had to make the UK my home. Maybe not my permanent home (the Mediterranean will always be calling), but a home nonetheless.
-> > He said he didn’t want to be an immigrant – I didn’t quite understand him then – I do now
+
+> He said he didn’t want to be an immigrant – I didn’t quite understand him then – I do now
+
 So it feels pretty awful to witness week after week your world being torn apart. Your plans, your security, the fruits of your labour dissolving, one by one. Your life forcefully relocated. I once asked my dad why he had decided to stay in Greece. Why not return to the UK, where he’d started his career, where he’d spent his best years. He said he didn’t want to be an immigrant. I didn’t quite I understand him then. I do now.
 
 When the referendum was first announced by Cameron in 2015, no one really took it seriously. It would be mentioned every once in a while as something in the not-so-near future, another pre-electoral promise, hastily made, that would remain unfulfilled. But then last February a date was set and the referendum edged ever closer. Soon talks about it took on a sense of alarm, at least amongst us immigrants. But even then, even right before the referendum, the whole affair had this comedic air about it.

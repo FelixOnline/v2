@@ -34,7 +34,9 @@ Upon first hearing ‘REALiTi’ (the original version), I felt confident that B
 This confidence soon began to fade with the release of new singles ‘Flesh without Blood’ and ‘Life in the Vivid Dream’, the first we would hear from the record. I was ready to let my own expectations inhibit my ability to form a fair opinion of Art Angels. But after seeing how they fit into her new work, it’s obvious that Grimes hasn’t completely left her old sound behind. Her music is now more guitar driven and borders on bubblegum pop. And somehow it works.
 
 Art Angels is full of bangers (and I say that un-ironically).
+
 > The songs stand on their own: catchy, uplifting, and accessible
+
 On ‘California’, a hate track aimed at Pitchfork, a thumping kick drum and sampled clap accompany Boucher as you exclaims: “The things they see in me, I cannot see myself / When you get bored of me, I’ll be back on the shelf.” She complains about the disparity between her own image and the one that the media presents. Don’t worry, here at FELIX we’ll always love you. The drawn out “California” in the chorus turns the song into one of the year’s biggest anthems.
 
 Grimes crushes it on the unhinged ‘Kill V. Maim’, a song “written from the perspective of Al Pacino in The Godfather Pt 2. Except he’s a vampire who can switch gender and travel through space.” It’s one of the many songs from the album that forces your body to wiggle and jerk in ways Drake would be proud of.

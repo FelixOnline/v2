@@ -33,7 +33,9 @@ Nominations for positions open on Wednesday the 3rd of February and close on the
 Turnout last year was 42% (60% undergraduates, 22% post grads).
 
 Since rules changed before the elections last year, every club with more than 150 members has to have its election online within the union’s eVoting system, rather than in person at an AGM.
-> > **They get paid a tasty £19 grand a year plus free accommodation**
+
+> **They get paid a tasty £19 grand a year plus free accommodation**
+
 Constituent unions will vote for their presidents, clubs with more than 150 members will vote in their committees and everyone will vote in the various volunteer roles within the union, including the representation officers (Disabilities, Campaigns, Gender Equality etc).
 
 Several sabbatical officers, who will take a year out of real life to debate student issues, will also be elected. These positions are open to any current student, regardless of experience, and offer the chance to sit on the trustee board, making real decisions for the future of Imperial’s student union. They get paid a tasty £19 grand a year plus free accommodation in their choice of halls.

@@ -31,7 +31,9 @@ For a gaming device to truly succeed it needs a great launch title. Land’s End
 Set over five short chapters and distinct environments, players must help awaken an ancient civilisation. Those who have played Thatgamecompany’s (yes, that’s actually their name) Journey will notice the obvious visual and thematic similarities. The game’s title has many obvious meanings, but one of it’s most literal is the way it frequently places you at the edge of a cliff, allowing you to peer down into the sea (or abyss) below.
 
 To move around the environment, the game uses head tracking. You look at a place on the screen and the camera moves. Ustwo have got right what many other developers have got wrong – physical controllers really break the immersion of virtual reality, so why not do away with them? The device’s head tracking ability also gives you the ability to look at objects and move them with your mind; you’ll have to do this often to help you solve environmental, and more traditional, puzzles. For an hour or so I really felt like I had the power of telekinesis.
-> > **Physical controllers really break the immersion of VR**
+
+> **Physical controllers really break the immersion of VR**
+
 The game also plays with perspective as part of the puzzle solving gameplay. Unfortunately, this isn’t used enough which feels like an oversight for a game that makes the most of VR.
 
 Land’s End might look simple in comparison to VR titles on Oculus Rift and the HTC Vive (which is mainly a technical limitation), but it’s stylised, cell-shaded graphics are one of its best features. Dreamy colour palettes and spectacular lighting illuminate environments ranging from small cave interiors to massive collections of islands.

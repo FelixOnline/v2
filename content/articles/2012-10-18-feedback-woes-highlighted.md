@@ -42,7 +42,9 @@ Medics seem to epitomise this discontent at the lack of feedback. While 85% were
  One particularly disgruntled medic, asked by Felix to explain why they were so dissatisfied with her course, replied: “Because our personal tutors don’t know who we are, our lecturers don’t care who we are and we basically just teach ourselves.”
 
 Insufficient feedback has been a recognised issue for a number of years, and the College has taken
+
 > Only 55% of students said they were happy with the feedback they had received – the second lowest score in the country
+
 some steps to address it, including imposing deadlines on departments for the returning of marked work. This seems to have beenreflected in this year’s results; 55% compared with 51% last year. Though still not great, this is certainly an improvement.
 
 The teaching scores, too, were far from spectacular – especially when compared with other similarly prestigious institutions. Amongst the elite Russell Group Universities, only students at LSE were more dissatisfied with teaching (while Oxford and Cambridge topped the table in both teaching and feedback scores).
@@ -50,7 +52,9 @@ The teaching scores, too, were far from spectacular – especially when compared
 So where does all this dissatisfaction come from? Various causes have been proposed: the usual suspects of a heavy workload and moribund social life inevitably crop up. But when results are compared across different departments, a more nuanced story emerges.
 
 Students in Geology, for instance, did not share their colleague’s general discontent: a whooping 92% were satisfied with the level of feedback, while 98% were satisfied with the overall course: far
+
 > Medics: 85% satisfied with the overall quality of the course, only 32% satisfied with feedback
+
 and away the highest score in College. Felix talked to some Geologists to find out what their department was doing right:
 
 “As far as I know we’re the only department to have an ‘Academic Tutor’ who oversees all aspects of the undergraduate degree. It’s effectively the same as a Director of Undergraduate Studies – however, from what I’ve heard, ours is a lot more dedicated to their job than others. She knows everyone’s names from interview day, and will still keep in touch after graduation.
@@ -60,7 +64,9 @@ and away the highest score in College. Felix talked to some Geologists to find o
 Another student summed up this co-operative atmosphere: “We get a lot of support from Lorraine (the Academic Tutor), everyone gets jobs in oil companies, we have field trips, teachers all get on well with the students and there is a general feeling of camaraderie.”
 
 In contrast, only 42% of Chemistry students found the feedback they received helpful (though 87%
+
 > Amongst the elite Russell Group Universities, only students at LSE were more dissatisfied with teaching (while Oxford and Cambridge topped the table in both teaching and feedback scores
+
 thought their teachers were good at explaining things). Felix spoke to a chemistry student, who told us:
 
 “The main problem our year found with feedback was that the quality of the feedback you received depended significantly on which person was marking your script and which lab you were doing at the time.”

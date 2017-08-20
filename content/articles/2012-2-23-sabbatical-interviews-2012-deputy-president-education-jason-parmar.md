@@ -39,7 +39,9 @@ __How far have you delivered on your manifesto points?__
 
 This year we made sure our voice was still heard by the government by writing our response to the Government’s White Paper. Interestingly, the government actually listened to us and have scrapped penalties for early repayment. I’d like to think that it wasn’t just coincidence and we helped the government make the decision. Soon, we’ll introduce Notebox, which is a site for shared learning for all Imperial students. It has notes, past papers and forums for every module in every department.
  Regarding e-learning in general, it’s been fantastic to see the idea of podcasting being resonated around the university (mostly with students) in line with my manifesto 11 months ago. We might still be years behind places like MIT but we’ve approved Panopto as the method for video podcasting after an extended pilot scheme where some 200 lectures were trialled. I ideally hope for an rollout before the end of the year, but most likely I’d be pleased if it can be fully rolled out by the start of next year.
+
 > One question that’s in the back of my mind is ‘is an hour too long or short for a lecture?’
+
 __Is there such a thing as an average day?__
  Just like I’m sure every other sabbatical in the country says, “there is no such thing as an average week”. But it’s true, our remits mean we cover so many different areas that we’re always doing something different each week, it’s what makes the job so interesting. usually there are one or two of the many large committees I sit on that are usually two-three hours long, along with meeting with senior College figures. The rest of the time is spent with the huge amount of emails/tasks and some of my own projects. Finally, for a break I’ll play some squash and get out some of that excess stress.
 

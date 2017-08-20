@@ -29,7 +29,9 @@ Voting opens today for the Leadership Elections, which have seen a record number
 The current DPFS, Chris Kaye, commented on Twitter that this was  because you “can’t improve on perfection”. He was Deputy President of Welfare last year. Students can only take two sabbatical years.
 
 Our cover this week features the wannabes who turned up to Meet the Candidates who were going for the big hitter positions, including President, FELIX Editor, and DPs of Welfare, Clubs &amp; Societies, and Education.
-> > Some candidates have already been warned over campaign rule infractions
+
+> Some candidates have already been warned over campaign rule infractions
+
 Although campaigning can be notoriously stressful, one ex-sabb told FELIX they “had a great time because I just wandered round chatting with my friends, and persuaded their friends to vote for me”.
 
 For others, it’s not so easy. An anonymous candidate told FELIX that they had only had three hours of sleep on the night of Meet the Candidates, after attempting to nab some extra votes at the post Varsity ACC.

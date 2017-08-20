@@ -33,7 +33,9 @@ Instead, I want to talk to you about the rat-race that is scientific progress, a
 As a result, my lawyer keeps calling me, saying that I shouldn’t be slowly filling their lab with water, but what does he know — he even says I shouldn’t be admitting this to you. He’s not like you and me. He’s not a scientist.
 
 What good are all the letters at the end of your name if you can’t even escape from a room slowly filling with water? This is survival of the brightest in action, and we’ll have more subjects for testing this way. If they didn’t say no, it’s implied consent.
+
 > Don’t you have a right to a better life if these tests prove that a concentrated solution of kitten tears is able to repair dead cells?
+
 Now don’t get me wrong — I couldn’t get to where I am today without the boys in the lab, and they could not have a more satisfying job. Where else can the outcome of testing the theory behind Schrodinger’s cat result in a horde of un-killable kittens (which was coincidentally the start of our reanimation tests)? Certainly not Black Mesa, I can tell you! My contacts tell me that Black Mesa is like kindergarten — lots of crayons and people who steal your ideas. Seriously now, don’t go there. Please.
 
 To contribute to science, you don’t have to sign your life away, or even the rights to your body parts. Even if you just participate in some tests with us at Aperture, someone somewhere will thank you for your contribution to science. But not me — I only thank those who are married to science. Don’t you want to be able to say that you helped dissect the science behind cuteness, or developed the cure to stupidity?

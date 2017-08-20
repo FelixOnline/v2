@@ -27,7 +27,9 @@ Beauty does not bring true happiness. Marius von Mayenburg’s 'The Ugly One', p
 Lette is a man who finds out that he is incredibly ugly and reacts by having his face surgically remodelled. We watch his ascent to attractiveness and power before the surgeon’s actions become his undoing.
 
 A cast of only four actors play the eight characters and the scenes are made to shift seamlessly into one another. At times, the actors transform from character to character with barely a moment’s pause. The flawlessness of these complicated scene changes was a credit to the direction; the constant shifts kept my attention continually on the action.
+
 > Ajayi’s nuanced performance gave each character a true and distinct personality
+
 Luke Daley, Shamini Bundell and Phil Raymond were good in their respective parts, with Raymond providing some excellent comic relief as the gay son of a very sexually active seventy-year-old woman. However, Tosin Ajayi, who played the very similar characters of Lette’s surgeon and boss, outshone the rest of the cast. Ajayi’s nuanced performance gave each character a true and distinct personality even though both characters were not only fundamentally the same persona, but also followed similar storylines.
 
 I attended a rehearsal of 'The Ugly One' with no lighting effects, performed in the middle of a simple meeting room. Although the extra effects in performance will undoubtedly improve the fluidity of the scene changes, I enjoyed watching the raw talent of the actors.

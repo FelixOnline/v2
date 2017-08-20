@@ -30,7 +30,9 @@ highlights:
 Figures released by UCAS (Universities and Colleges Admissions Service) over the summer show that almost 44,000 less home students applied to study at UK universities for 2012 entry than did for 2011 entry, representing a drop of 8.7%. UCAS analysis suggests that, accounting for changes in population size and long term application patterns, 15,000 less individuals have applied than had been expected to.
 
 Science subjects do seem to have suffered the least compared to the arts. Physics, for example, actually saw an increase of 8.3% from last year. Other, smaller, subjects, such as Biotechnology, even saw an increase of about 20%. However, as less people do the subject, it takes a smaller number of people to increase to make a large looking fluctuation. Mechanical Engineering and Biology were the other
+
 > Physics, for example, actually saw an increase of 8.3% from last year. Other, smaller, subjects, such as Biotechnology, even saw an increase of about 20%
+
 science subjects to see a rise in demand. All other scientific disciplines had a dip in applications. Civil engineering was the worst hit, with a decrease of 12.1%. This comes at a time when the Royal Academy of Engineering reported that there is a danger of there being a shortfall in the number of engineering graduates. The report stated that 100,000 engineering graduates a year were needed to maintain the status quo, with Professor Matthew Harrison of the Royal Academy of Engineering saying that “Engineering firms are crying out for engineers”.
 
 At about 42,000 less students applying than in 2011, most of the decrease is accounted for by those resident in England. From 2012 they may be charged up to £9,000 a year to study at any UK university.
@@ -42,5 +44,7 @@ Research by the Guardian, however, found that most young people are still planni
 In a statement Will Hutton — the Commission and principle of Hertford College, Oxford — warned that it is “very early days” to be able to understand the full impact of the tuition fee increase. He believes that some of those who did not apply this year might well “come back next year” — particularly given the poor state of the jobs market. Universities minister David Willets added: “We do accept that after a peak last year, applications are down from 31.6% of people applying to university to 30.6%. That is actually still the second highest rate of applications on record. We still have very strong demand for university.”
 
 Others reactions to the figures has been more critical. Shadow universities minister Shabana Mahmood said that “It is clear that the drastic increase in fees and the increased debt burden is
+
 > David Willets: "We still have [a] very strong demand for university [places]"
+
 putting people of all ages off going to university and investing in their future. Most students will be paying off their debts most of their working lives.” Even Hutton admitted that: “We’re asking our young men and women to assume more debt than any other country in the world – it’s higher than the average debt in the US. It’s not clear whether those lost this year will return to the fold next year, or [if] it’s a storm warning of a worrying trend.”

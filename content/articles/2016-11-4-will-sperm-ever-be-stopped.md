@@ -22,7 +22,9 @@ highlights:
 ---
 
 Talking about Imperial Girl’s Can, isn’t it about time for a bit of equality when it comes to birth control? Men currently only have 3 options: condoms, vasectomies and withdrawal (not recommended), compared to the multiple women can choose from. Unfortunately, side effects are common alongside hormonal contraception methods resulting in mood swings, depression, weight gain, acne, or heavy periods. Having a male equivalent is a more balanced compromise, but would also allow men to take control of their fertility, making it more of a two-way street. A report showed that over half of women forgot to take at least one Pill during their last cycle. Yikes.
-> > 20 out of the 320 participants had to drop out due to adverse side effects
+
+> 20 out of the 320 participants had to drop out due to adverse side effects
+
 A recent study has been published that has found hormone injections in males to be 96% efficient in stopping unwanted pregnancies However, 20 out of the 320 participants had to drop out due to “adverse side effects”. These included depression, pain at the injection site, increased libido and acne. Despite these few, the majority of other participants only suffered mild effects, and 75% said that they wouldn’t mind continuing this method of contraception at the end of the trial.
 
 You may have seen reports that this avenue of contraception has been dismissed due to side effects that sound pretty similar to those already experienced by women on hormonal contraception. Quite rightly, this annoyed a lot of people who claimed that this is a bit unfair, but it seems this isn’t the only reason. The method itself needs time to reduce side effects and increase efficiency from 96% up to the female equivalent of 99.9%. It’s also quite annoying, with the men having to return to the clinic for injections every few weeks.

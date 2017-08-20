@@ -30,7 +30,9 @@ highlights:
 ---
 
 Yes – Stuart Haylock
+
 > Hate crimes started getting reported when people realised that others would listen
+
 Although homosexuality was legalised in England in 1967, the views of the people in the UK hardly changed at all. Those who came out as gay, acted gay, or were even remotely ‘metrosexual’ were still discriminated against for many years. Over time, the work of groups such as ‘Stonewall’ and School’s Out managed to promote anti–discriminatory laws and regulations, and the lives of gay people in the UK improved dramatically.
 
 Schools however were a completely different story; being gay was synonymous with bullying and schools and the police mostly ignored it. For many years children were teased, bullied and even driven to suicide, and the police and teachers stood by and let it happen. Anti–homophobia campaigns in schools and the teaching of the past taboo subject of gay people have changed that, and schools have become much less tolerant of any form of bullying, giving children the chance to explore their own personalities, rather than the personalities that other people demanded of them.
@@ -44,7 +46,9 @@ Many gay people in the media also claim that young kids use the term ‘gay’ a
 In summary, homophobia is not increasing amongst young people, only the media sees it that way and forces children to believe it. As soon as people realise that it’s the media that sets these things off in the first place then maybe we’ll see a better society overall.
 
 No – Chris Socha
+
 > One in five gay people have been a victim of homophobic hate crimes in the last three years
+
 Twelve years ago, [a nail bomb exploded in a gay pub in central London](http://news.bbc.co.uk/1/hi/uk/332743.stm), killing two and injuring 70 more; nowadays the pub is regarded as an iconic landmark of the last in a series of attacks on the capital’s minority groups.
 
 Despite recent advances in LGBT (Lesbian, Gay, Bisexual & Transgender) rights in UK law, recent statistics on homophobic hate crime can be interpreted to show an increase in crimes against LGBT people. One in five lesbian and gay people in Britain have been a victim of one or more homophobic hate crimes in the last three years. Three in four of these did not report them to the police. These incidents ranged from regular insults on the street to serious physical and sexual assaults. While some argue that this is because the police have become more ‘gay friendly’ and approachable, campaigner Peter Thachell suggests “As more people come out they become more visible and more easily identifiable. I remember there was a similar backlash in the US in the 60s, a big rise in racist attacks in the wake of the civil rights movement.”

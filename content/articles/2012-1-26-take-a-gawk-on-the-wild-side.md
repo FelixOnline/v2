@@ -28,7 +28,9 @@ highlights:
 If labs and essay deadlines have so far prevented you from paying a visit to the __Natural History Museum__ and you’re looking for an excuse to get out of the library: forget the dinosaurs, forget the massive blue whale and forget the Kobe earthquake room, because if there’s one exhibition that you actually have to make it to between now and March 11th this is it: _Wildlife Photographer of the Year_.
 
 The NHM and BBC Wildlife have been organising and collaborating on the competition every year since 1964, when a humble 600 submissions were received for just 3 categories. This year’s panel of judges were faced with more than 40,000 entries from all round the world; proof of just how prestigious the competition has become over the last half century.
+
 > Anyone coming to this exhibition expecting cutesy animal snaps is converted
+
 Anyone coming to this exhibition expecting cutesy animal snaps is soon converted: the ensemble is such a vibrant celebration of the fusion of man’s creativity and the glory of nature, technical prowess, and artistic flair that it’s hard not to lose yourself and let go of the outside world for several hours.
 
 The exhibition is more than a collection of pretty pictures though: some photos will leave you bewildered, others shocked, impressed or dumb-struck. The overwhelming feeling by the end however is a deep respect for the photographers and a profound inspiration to go home and create something magical of your own. At the very least, the exhibition reminds us of how to marvel at the beauty of nature: the intricate detail in a tern’s wings as it prepares to land on water, the staggering Milky Way stretching nonchalantly over the horizon at night or the sheer audacity of a mountain goat, several thousand feet in the air committing a death-defying feat just to reach a mineral lick (one of my personal favourites – ‘Balancing Act’).

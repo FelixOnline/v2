@@ -27,7 +27,9 @@ I’m beginning to like Facebook. Fact-fans out there will know that the first A
 Earlier this month, some angry people burnt some red paper poppies and got onto the news. “Oh dear me,” I thought, as I sipped my pureed copy of that day’s Sun newspaper prepared for me by Mrs. Geek, “It appears that some angry people have done something inflammatory on these darling, Christian shores.” In a world without Facebook, a magical world where farming is still a job, that is the end of the matter. At any time, I could bump into someone and discover their opinion on that news story. The little opinion-laden buggers are everywhere, lying in wait with their reckonings and thoughts.
 
 Despicable, isn’t it? So I’m thankful that Facebook is here. I simply put down my mug, saunter over to the computer, and begin taking notes on people’s responses. Linda thinks they should “fuk bak off to their own country”. Thanks for sharing, Linda. I’ll make sure I take your nut allergy into account when choosing your Christmas present, then. Chris has liked Linda’s post. Nice to know, Chris. That mouse click really carried a lot of gravitas. You’ve earned yourself a one-way ticket to the Card And A Smile list, departing from Small Gift And A Man Hug list immediately.
+
 > Chris has liked Linda’s post. Nice to know, Chris. That mouse click really carried a lot of gravitas. You’ve earned yourself a one-way ticket to the Card And A Smile list, departing from Small Gift And A Man Hug list immediately
+
 See? It’s easy. You just get a pen and paper, scroll through your Facebook home page, and make two lists. Twat-y and Nice. Would and Would Not Piss On If On Fire. And it’s not being vindictive, it’s genuinely helpful. You’re picking people you like based on the opinions they’re willing to express online.
 
 Alright, it’s a bit vindictive.

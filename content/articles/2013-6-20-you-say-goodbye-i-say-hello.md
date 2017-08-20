@@ -25,7 +25,9 @@ highlights:
 ---
 
 So, it has come to the end of an era, well a year-long era. Goodbye Tim and hello… me. I’m sure the Supreme Editor himself is feeling bittersweet; it’s the end of a very tiring year, but also the end of a year of fun and boundless creativity.
+
 > I’ve already had a few ideas for next year’s Felix, so watch out, this cat’s on fire!
+
 As next year’s editor I’m already feeling nervous, after all, only next year’s incoming students will be free of expectations, while the rest of you will judge me by the standard of my forebears, a worrying thought. I’ve already had a few ideas for next year’s Felix, so watch out, this cat’s on fire! I’ll endeavour to uphold the high level of Union scrutiny and clubs & society involvement that Tim has propagated over the last year, as well as debate on key student issues such as the new halls in Acton, the closure of the Holland Club, the closure of Garden Hall and the changes to the Union’s constitution.
 
 Next year I plan to bring in new sections to showcase local events (on and off campuses) and provide careers information. I’ll hopefully be welcoming some fresh blood on the editorial team and pushing for more people to contribute. Felix will be looking for copy editors, section editors, online editors, music reviewers, regular comment writers and more. It could be you…! Felix is also happy to start new sections, so if you think there’s a certain missing element to the paper, email me or drop down to the Felix Office in the Beit Quad West Basement.

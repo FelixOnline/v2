@@ -29,7 +29,9 @@ The Finborough Theatre occupies a small room above a Kensington pub (The Finboro
 The only thing that unsuspended my disbelief if you will, was the large, sweaty bloke who decided to sit next to me and provide an unpleasant olfactory reminder of our proximity. A combination of enveloping myself in the drama and breathing through my mouth allowed me to enjoy the night regardless.
 
 The play is set with a touring musical company performing a show, also rather confusingly called “Me and Juliet”. The characters consist of the chorus girl and her brutish stagehand boyfriend, the Assistant Stage Manager who quietly swoons and several other colourful theatre types, including the massive luvvy lead actor, all with hilarious ‘New Yoik” accents. The girl goes for the quiet, sensitive stage manager and the nasty crew-member swears to kill him. But of course!
+
 > The girl goes for the quiet, sensitive stage manager and the nasty crew-member swears to kill him. But of course!
+
 The play within the play is a brilliant take-off of the tailcoats and canes, tophats and charleston musicals of the 30s and 40s. If you’d seen any such musicals, then you could not help but laugh out loud at the ridiculous grins and over the top ah-ah-ah-ing The company really pulled the laughs out of these chorus numbers considering they were written with 47 cast members in mind and they were only 11.
 
 The company as a whole was excellent though there were one or two personal performances that brought it down. The stagehand boyfriend wasn’t nearly enough of a psycho dickwad to convince me that he would actually do harm to the loved-up stage manager. To be honest I’ve heard 12 year old children say “I’ll kill you!” more convincingly than he did. So he was a bit wooden and one other character’s accent seemed to sway between New Yorker and Scottish but apart from that it was an all-round fun and clever show, brought to life in a challenging venue.

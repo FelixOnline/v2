@@ -30,7 +30,9 @@ highlights:
 As a French national, the events of the 13th of November in Paris were a dagger through my heart. It capped off a tragic year for our country. The Charlie Hebdo January attacks came as a shock, but the stabbing of three soldiers in February followed by the attacks of last Friday have exposed the serious political crisis within our nation.
 
 With the rise of Islamist radicals in the world, it pains me to say that these catastrophes on our soil were inevitable. The middle-eastern wars since the beginning of this century have fed extremism, but I believe the specific threat to France stems from the accumulation of our political frailties. I will explain myself.
+
 > Some do not feel welcome in our country
+
 In the 19th and 20th century, France was a colonialist power, notably ‘possessing’ territories in North Africa. The end of the violent Algerian War of Independence in 1962 marked the end of this era, leading to mass immigration (notably Muslims) to France. It brought diversity and new talent to the country, but it also enhanced inequalities in major cities. Gradually, a ‘stereotypical’ picture was being drawn as some of the immigrants from ex-colonies were being segregated into poorer districts (it is very important to clarify that many immigrants integrated very well and succeeded). As a consequence, as years have gone by, the economic alienation of some of these populations, blended with the discriminatory mind-set towards them instilled since the colonial period, have swirled France into an unwanted cultural segregation.
 
 This has posed modern-day issues regarding the integration of some of the Muslims from these tougher areas, who are born in our country, and descend from immigrant families. How can they be patriotic when they are sometimes discriminated against, and have the feeling that the government is not helping them escape their impoverished circumstances?

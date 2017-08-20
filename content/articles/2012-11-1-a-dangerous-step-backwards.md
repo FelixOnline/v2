@@ -24,7 +24,9 @@ highlights:
 ---
 
 In 1615, Galileo was tried and convicted by the Italian inquisition for his unorthodox views on the heliocentrism of our solar system. His denial to comply and bend over before the established power threw him into house arrest until the end of his life. However, it also sparked a scientific revolution, an attempt to distance knowledge from established sayings, dogmas and stories, whilst giving birth to one of the brightest periods of humanity. For the first time, knowledge and the logical search for truth was put ahead of fairy tales and excuses to sit on gold thrones under marble cupules.
+
 > what amazes me is how easily authorities punish a scientist for wrongly predicting something, but let any CEO walk away freely after their wrong 'predictions' collapse entire economies
+
 Now, it seems, Italy has decided that science’s nice and fruitful run has reached its end, and decided to return to its old methods of castration of the intellect and witch hunting.
 
 I understand that the press is probably not reporting the case in the right way; that there was probably avoidance and trampling of established emergency protocols under seismological alerts; that if the scientists did not mess up the ‘advice’ they gave on whether the whole town was going to disappear off the face of the Earth or not, plenty of lives might have been saved.

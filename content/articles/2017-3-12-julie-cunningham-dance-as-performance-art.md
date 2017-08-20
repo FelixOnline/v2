@@ -36,8 +36,8 @@ Personally, I find the nebulous-ness of contemporary dance a bit confusing. It w
 
 Gender fluidity and identity is the theme of the evening. The first piece, _Returning_, is set to an eclectic soundtrack of Anohni, Björk, and Ravel. Dressed in deliberately androgynous costumes, the four dancers group and ungroup in fluid movements. The Barbican Centre’s Pit, a tiny 200-seat theatre, is so small that we hear every squeak of their bare feet on the floor; it feels curiously intimate. The dancers’ motions are informed not only by the rhythm of the music but also by spoken words that overlie the soundtrack; we hear a monologue that muses on the pull of the moon, menstruation, and the gendered nature of monotheistic gods.
 
+> Cunningham’s classical training is evident in her meticulous choreography. While it retains the formalism and structure of classical ballet, it uses it in a highly explorative, experimental way
 
-> > Cunningham’s classical training is evident in her meticulous choreography. While it retains the formalism and structure of classical ballet, it uses it in a highly explorative, experimental way
 _To Be Me_ is set to the turbulent voice of Kate Tempest reciting five poems from her collection _Hold Your Own_. The poems are based loosely on Tiresias, the gender-changing prophet of Greek legend. Tempest is known for her spoken-word poetry that draws from rap and hip-hop influences, and her wild voice provides a perfect backdrop for the starker, more forceful choreography of _To Be Me_. Compared to the shifting fluidity of _Returning_, this second piece is moodier, darker, with themes of internal conflict and external struggle.
 
 Cunningham’s classical training is evident in her meticulous choreography. While it retains the formalism and structure of classical ballet, it uses it in a highly explorative, experimental way. The four dancers fill the performance space and the choreography is never boring or monotonous to watch.

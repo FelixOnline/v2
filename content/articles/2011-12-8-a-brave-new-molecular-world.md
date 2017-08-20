@@ -34,7 +34,9 @@ A great deal of the work done by the RSC centres on highlighting the key challen
 Regrettably however these same solvents make up 35% of global emissions of volatile organic compounds (VOCs) that give rise to smog and greenhouse gases.
 
 There were a few bewildered faces amongst the group of visiting secondary school students as Phillips cited the case of Viagra production as an example of the improved consumption habits and efficient use of solvents. Having required 1300 litres of ‘red’, harmful solvents to produce a kilogram of Viagra in 1990, today we need only 6.3 litres of less dangerous ‘amber’ solvents, with the hope being that we might need an even smaller amount of the ideal ‘green’ solvents in the near future.
+
 > support for the sciences in the UK would sow the seeds of future prosperity
+
 An explanation of Viagra’s applications and an anecdote involving Prince Phillip later, the look of confusion on the faces of school students quickly changed to one of horror, probably as a result of mental images that the wizened prince and a sex-drug together might evoke.
 
 Whilst some of the more virile among us might question whether the efficient production of Viagra represents a key global challenge, the importance of securing a safe, environmentally friendly food supply is undoubtable.

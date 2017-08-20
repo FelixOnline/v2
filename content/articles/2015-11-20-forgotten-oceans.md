@@ -33,7 +33,9 @@ Did anyone else have one of those plastic Helix rulers that said ‘shatterproof
 You could bend those rulers a surprising distance, nearly a hairpin, and they’d spring back into their original shape. Go just a little far though, and they’d snap clean.
 
 Our planet’s oceans, like a shatterproof ruler, can take a surprising amount of abuse. Since the Industrial Revolution, humans have been pumping out carbon dioxide into the atmosphere at ever-increasing rates. However, not all of that carbon dioxide remains in the atmosphere. Roughly 28 percent is taken up by plants during photosynthesis and a further 26 percent is absorbed by the oceans. 2010 data estimates that 33.4 billion tonnes was released from burning fossil fuels and cement manufacture; a further 3.3 billion tonnes was released due to land use change, such as deforestation. Nine billion tonnes of that ends up in the ocean.
+
 > Our planet’s oceans, like a shatterproof ruler, can take a surprising amount of abuse
+
 Carbon dioxide dissolves in water forming weak carbonic acid. For 300 million years our oceans have maintained a pH of 8.2 making them slightly basic. Since the 1800s, that pH has dropped to an average of 8.1 – it’s not an especially dramatic change in 200 years. That’s because the ocean functions as a giant chemical buffer.
 
 Chemical buffers are able to resist pH changes. Add a bit of acid or base to a buffer solution and it will be neutralised. In the ocean, various carbonate compounds help to neutralise the carbonic acid formed by dissolving carbon dioxide. Ocean chemistry is complex and not fully understood, but what is clear is that this buffer system is looking strained.

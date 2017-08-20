@@ -25,7 +25,9 @@ highlights:
 ---
 
 If ever there was a play that led you in on false pretences it’s [The Woman in Black](http://www.thewomaninblack.com/). This production in the small and pokey [Fortune Theatre](http://fortune-theatre.co.uk/) is ideal to set the scene. Consisting of only two actors and a very limited set, you really wonder how this play will send a chill down your spine. Michael Mears and Orlando Wells play, respectively, Mr Kipps and The Actor. The two perform a play of Mr Kipps’ experience as a young solicitor after the death of a client name Mrs Drablow. The old lady used to live in an old and expansive country house in the remote reaches of England. The actor plays a young Mr Kipps and the other acts out the characters that he meets. The house sits beyond some quicksand and that in turn lies by a tidal body of water that prevents visitors from reaching the property for most of the day. Add to this a frequent and thick fog and the viewer starts to picture that typical haunted house so often depicted in horror films.
+
 > The show's success lies in its simplicity
+
 Don’t let this deter you from experiencing a first rate show though, the play is far from an imitation of anything you would likely have seen before. The show's success lies in its simplicity; for most, a dark room and torch conjure up images of campfire amateur dramatics but hell this scene will turn even the most hardened of people into insomniacs.
 
 The Fortune is a claustrophobic theatre, the seats pact tightly together and the upper levels near head height. This lends a hand in drawing the audience together; a creepy nervousness resonates through the rows as everyone anticipates that next fright. The simple ingredients of a small cast, humble set design and few sound effects really lay the foundations for what is a superb ghost story.

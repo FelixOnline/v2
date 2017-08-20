@@ -44,7 +44,6 @@ This tiny café offers a spark of individuality on King’s Road serving good co
 
 {{< figure src="http://felixonline.co.uk/img/upload/201702241526-felix-5 - Cereal Killer Cafe 1.jpg" title="" caption="" attr="Christy Lam" >}}
 
-
 {{< figure src="http://felixonline.co.uk/img/upload/201702241526-felix-6 - Cereal Killer Cafe 2.JPG" title="" caption="" attr="Christy Lam" >}}
 
 ## 5 &amp; 6 | Cereal Killer Café

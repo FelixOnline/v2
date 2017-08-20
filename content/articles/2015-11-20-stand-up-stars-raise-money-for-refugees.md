@@ -29,7 +29,9 @@ highlights:
 Last Wednesday, a constellation of comedy stars performed at the Eventim Apollo’s one off Stand Up in Action benefit to raise money for Action-Aid and the UN Refugee Agency (UNHCR), the charities providing aid in response to the global refugee crisis.
 
 The night included routines by Jo Brand (Getting On, GBBO An Extra Slice) , Jack Whitehall (Fresh Meat, Bad Education), Russell Howard (Russell Howard’s Good News), Reginald D Hunter (Reginald D Hunter’s Songs of the South), and Dara O’Briain (Mock the Week) amongst others.
+
 > Russell Howard stole the show with political anger and stories about his mum
+
 It’s a testament to the importance of the issue that the organisers were able to put together such a famous line up.
 
 Greg Davies (Man Down, The Inbetweeners) acted as host, regaling the audience with short anecdotes, previously included in his Edinburgh Festival show ‘Firing Cheeseballs at a Dog’audience favourites included ‘The S&M Dog’ and the various tales of ‘Rachel the Slag’ in between acts.

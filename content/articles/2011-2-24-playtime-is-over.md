@@ -36,7 +36,9 @@ Why impossible? It’s a matter of risk. Without a central fund to draw from, ev
 The issue of Hall rents, and measures to bring them down, has cropped up recently, and there’s a review to scrutinise of the funding in the works.
 
 Union president Alex Kendall mentioned in [a recent Felix interview](http://felixonline.co.uk/news/812/interview-with-president-alex-kendall/) that he believes “it is a fundamental principle is that no alcohol should be funded from the amenities fund... the fact that some students are subsidising others to drink alcohol is, I think, quite immoral.”
+
 > It’s ridiculous to say that central funds can’t be spent on something if a small number of people choose not to take advantage
+
 Immoral? Really? The choice not to drink is up to an individual; for my own reasons, I didn’t drink until I turned twenty. However, it’s ridiculous to say that central funds can’t be spent on something if a small number of people choose not to take advantage.
 
 Sure, with clubs and societies, grant money should be spent on the specific activity of the club, not booze. However, the specific purpose of an amenities fund is to pay for social amenity in the form of facilities and events, and many people in halls enjoy a drink when they socialise. Should we also make it a fundamental principle that we can’t have karaoke at halls events, in case there are people who don’t sing?

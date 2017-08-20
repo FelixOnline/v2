@@ -33,7 +33,9 @@ Is it selfish for a band to take the initiative to move in a direction where the
 I mean, here we are, possibly leaving our childhood dreams behind and modeling our lives around getting enough money to actually support a family one day or buying a Porsche 911. Is it really any wonder that some of these artists actually want the same thing? And that they may have to sacrifice a little bit of their taste by actually “selling out” a little to make a bit of extra cash?
 
 Is it really our position to judge whether a band has done the wrong thing, as we sit back and do the same in our lives with our career paths? I know people, including many friends, who complain endlessly about this and then go onto their computers, with their libraries of hundreds of gigabytes of music (most of which exist just to add to the collection and rot), stacked up nicely into lines of folders. All of which was downloaded illegally!
+
 > Is it really our position to judge whether a band has done the wrong thing, as we sit back and do the same in our lives with our career paths?
+
 I’m sorry, but if you are going to do that, then you can’t complain. It’s the equivalent of going into your favourite restaurant, which serves some luxury food you love, eating there and making a run for it without paying. Then the next time you go, the owner knows what you intend to do, but for some reason he still gives you some food, because cooking is what he loves to do (I know, not quite the same, but you get the point), which may not be as nice; and you still don’t pay. Then you go home and have a fit about it to your friends.
 
 Being in a band for over 5 years now, and pursuing the dream of being signed by some indie record label that also has bands that we listened to daily – such as __This Will Destroy You __or __Moving Mountains__ (no, not [the song by __Usher__](http://www.youtube.com/watch?v=nQr-HmfXZ-Q)) – has made me realise how tough it really is.

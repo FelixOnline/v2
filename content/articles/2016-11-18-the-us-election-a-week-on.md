@@ -36,7 +36,9 @@ One idea many devastated Americans have had is to move to Canada because of Trum
 “To be honest, I see all these people moving to Canada, but it’s such a different country than the United States,” said Boutin, a 23 year-old Canadian studying finance and accounting.
 It also isn’t as easy as Americans think to just move north. The Washington Post, an American newspaper based in the nation’s capital, reported that Americans will still need a permanent resident’s visa in order to move past the Canadian border. In other words: No visa, no entry.
 Despite some students’ lack of interest in the election, others have been following more closely, including Ethan Butler, 27-year-old PH.D. student in Chemical Engineering who is originally from Connecticut. Butler said that just like during the election, it’s unclear what will happen during the next couple of months.
-> > I don’t follow politics at all. I’ve just never really been interested. I really like reading, specifically the fiction genre
+
+> I don’t follow politics at all. I’ve just never really been interested. I really like reading, specifically the fiction genre
+
 “One of the things about this [election] specifically is that with all these reporters reporting on this, nobody knows,” he said.
 O’Reilly added that although he didn’t follow the election, he was surprised that Trump won.
 “I didn’t think he would get that far,” he said. “I guess it just reminds me of this quote, ‘Don’t underestimate the power of stupid people in large groups.’”

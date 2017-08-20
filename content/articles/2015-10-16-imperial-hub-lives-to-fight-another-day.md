@@ -28,7 +28,9 @@ highlights:
 Imperial hub, the volunteering charity whose relationship with the union went sour over the summer, remains in action. In a statement released after Freshers Fair, the Hub gang said they were still committed to projects they had planned before the split, including the London Climate Forum, and Social Innovation Programme.
 
 The group have launched a change.org petition, protesting against the union’s decision to ditch them. At the time of printing, the petition had 184 of the 200 signatures it was aiming for. Organisers told FELIX they plan to take the petition to the college.
+
 > One mourned that “petty arguments about grant allocation” had lead to the separation
+
 Signatories were invited to leave comments after signing. One mourned that “petty arguments about grant allocation” had led to the separation, with another saying they couldn’t “believe that anyone with the best interests of Imperial’s student body at heart would have condoned this decision”.
 
 Unsurprisingly, Hubs had stern comments on the union’s decision to hire new staff members in its Student Development department, instead of investing in Hubs. “It will mean starting from scratch, will cost more and will deliver less”.

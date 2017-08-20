@@ -48,8 +48,10 @@ When I joined, the motor racing was a lot smaller, it was more basic, it was onl
 __What was your career path?__
 
 Mine was rather tortuous and probably not a typical one. While I was at Imperial I was the research assistant for the [Honda team](http://www.hondaf1.com/)’s tunnel and got a lot of contacts in Formula 1 and motor racing. I’m originally South African, I left South Africa because of the Apartheid. At the end of Apartheid I went back to South Africa, spent a while there and eventually decided I’d had enough there and wanted to get back into motor racing. I joined a team in America where I had some contacts. [Swift Engineering](http://www.swiftengineering.com/) – they did Indy racing.
+
 > It’s essentially a war between us and the other teams.
 > Dirk DeBeer
+
 Then there was a fall out between the car manufacturer and the team running the car. The manufacturer (who was head of aero while I was there) left and I ended up being the Head of Aerodynamics. So I was thrown in at the deep end really, and it was an unusual situation to be in.
  I stayed there until Swift decided to pull out of Indy racing and make Formula Atlantic cars, which I wasn’t really into. I was approached by [Sauber](http://www.sauberf1team.com/en/home.cfm) in Switzerland who were busy building a new wind tunnel. They asked if I was prepared to come over and oversee the wind tunnel project, so I became the principal aerodynamicist at Sauber. I did that, but then BMW took over and I didn’t really like that so I decided to see what other possibilities there were. I moved to Renault in 2008, but not as Head as Aero, I become Head after the then Head got very ill.
 
@@ -77,8 +79,10 @@ No, not really – all Formula 1 teams are competitive but that’s just the nat
 __Is there any internal competitiveness to get positions?__
 
 There is a bit of that. I think that anywhere you go in motor racing there is competition. Ultimately the people you are working with are driven; if they weren’t driven they wouldn’t be there. The reality is people are competitive.
+
 > The reality is, people are competitive.
 > Dirk DeBeer
+
 __What is the best and worst part of the job?__
 
 I think the best part of the job is that it’s incredibly creative and you have the opportunity very quickly to see your creativity on the race track.

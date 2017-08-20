@@ -29,7 +29,9 @@ highlights:
 The Poetry Café is a sweet little place with a rather unattractive poetry night, [Poetry Unplugged](http://www.poetrysociety.org.uk/content/cafe/events/), on Tuesday evenings. Poetry Unplugged gives anyone the opportunity to read poetry in public. Amateur poets can read their poetry in public to an accepting audience. Unfortunately, the mix of amateur poets and nice audience members make for some truly terrible poetry. Any mildly good verse was quickly outshone by a host of overly emotional, unoriginal or simply crazy sonnets.
 
 A poetry venue should at least be shabby in the chicest sense of the word, if only to get everyone present into an inspiring state of mind. The basement of The Poetry Café is as uninspiring as venues go. Poets stand in front of a white sheet with bright white light shining on their faces. The audience sits on red plastic chairs with drinks carried down from the bar. This makes it impossible to put your drink down lest someone should accidentally spill it all over your feet.
+
 > The whole atmosphere reminds one of bad stand-up comedy
+
 The whole atmosphere reminds one of bad stand-up comedy and the host tells an array of farmyard animal jokes that simply do not improve the mood. To all the above, add an eccentric old lady with bright red hair who sings in loud Polish and reads poems about Nelson that sound more like gibberish than poetry. While unconventionality and madness can be quite entertaining for five minutes, poetry is supposed to be the theme of the evening.
 
 Having said all this, Poetry Unplugged is probably not a bad place to go if you have never shown your poetry to anyone before. I urge students to present their work at nights such as Poetry Unplugged because they are anxiety free. The audience is not going to laugh at anyone’s writing as long as it is not utterly ridiculous and it is likely that someone in the room will have the ability to give useful feedback.

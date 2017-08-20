@@ -30,7 +30,9 @@ highlights:
 Imperial College London’s University Challenge team has made another strong appearance on the BBC quiz show, winning their second round match against Sidney Sussex College Cambridge with a final score of 305 to 75.
 
 Three physics students are on this year’s team; captain James Bezer (a previous FELIX Science Editor) is joined by Ben Fernando and Ashwin Braude, alongside Mathematical Statistics PhD student Onur Teymur.
+
 > James and Ben were spotted attending the viewing party in FiveSixEight
+
 James and Ben were spotted by FELIX reporters attending the viewing party in FiveSixEight, where hundreds of students packed into the bar to cheer and boo along with the show – and of course see how many questions they were able to answer themselves.
 
 This was the 17th episode of the overall 2015/16 series and the first of the second round of the knockout tournament to air. The Imperial team were previously featured in episode ten, where they thrashed a team from the University of Reading.

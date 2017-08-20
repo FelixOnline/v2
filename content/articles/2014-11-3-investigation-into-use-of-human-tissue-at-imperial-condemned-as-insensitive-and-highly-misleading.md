@@ -30,8 +30,10 @@ An “investigation” into the use of human tissues at Imperial by the [Mail on
 The investigation, outlined in an article posted by the Mail on Sunday, detailed how “Human remains are being used in secretive weapons tests funded by the sale of Remembrance Sunday poppies,” at the Royal British Legion Centre for Blast Injury Studies (CBIS), located on the South Kensington campus.
 
 The article went on to describe how “legs, feet and possibly other body parts,” are being imported from America, and then “destroyed in gruesome experiments.” The article described how limbs are regularly transported to the test centre, but highlighted that the College were not answering the Mail on Sunday’s questions as to whether or not the limbs are donated specifically for military tests.
+
 > “For the Mail on Sunday to term this as a "macabre trade in human legs and feet" is sensational, false, and deeply offensive.”
 > Royal British Legion
+
 The college [released a press statement](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_2-11-2014-14-29-20) this morning, hitting back at the article. The College said that, “All human tissue used in the course of research at the Centre – whether from the UK or overseas - has been donated to medical science, with full informed consent, by either the donor or their relatives.”
 
 College also addressed the accusations made by the article about refusing to answer questions, saying that “The College has not refused to name tissue suppliers.

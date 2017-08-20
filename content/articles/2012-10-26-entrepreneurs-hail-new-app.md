@@ -32,7 +32,9 @@ The app was envisioned by three London taxi drivers, Russell, Terry and Gary as 
 Having initially been introduced in London, the app has now made its way to Dublin, Toronto and most recently Boston with plans to expand stateside in Chicago and New York. The app is tailored to a certain city based on its regulations and people in order to enjoy the most success. In London itself, 20 per cent of the black cab drivers are registered with Hailo, a figure that is likely to grow.
 
 The key to this success has been the fact that they place the same amount of care and emphasis on their drivers as they do on their customers. They have a great communication system to help drivers
+
 > The app was envisioned by three London taxi drivers, Russell, Terry and Gary as well as three Internet entrepreneurs
+
 understand and use the app and also listen to their feedback to constantly adapt, change and solve problems that may arise. Taxi drivers are drawn to Hailo because of the great driver experience that they find to be more sociable and profitable.
 
 Besides this, the app has also been designed and developed by leading designers formerly working at companies such as Google. It even has a feature that allows passengers to rate their drivers ensuring the best service is always provided.

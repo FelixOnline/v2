@@ -35,8 +35,10 @@ The ‘[Science is Vital](http://scienceisvital.org.uk/)’ campaign is supporte
 The campaign has also received much support from [CaSE](http://sciencecampaign.org.uk/) (The Campaign for Science and Engineering in the UK), whose director, former Imperial Student Imran Khan, says the rally will “finally force politicians to take scientists seriously”.
 
 Mr Khan stressed that the cuts “will not just have a detrimental economic effect, but a political one too”.
+
 > [Politicians] must not be allowed to compromise our future by making cuts to the science research budget
 > Imran Khan, Director of the Campaign for Science and Engineering
+
 In a powerful speech, he claimed “the UK already does science on a shoe-string” and that politicians “must not be allowed to compromise our future by making cuts to the science research budget”.
 
 Other speakers at the event included science writers Ben Goldacre and Simon Singh, who highlighted that UK science currently “punches seriously above its weight” and warned that “we face taking a severe backward step”, should the proposed cuts occur.
@@ -48,7 +50,9 @@ Other speakers at the rally warned of a potential “brain drain”, reminiscent
 The fear is that, in stark contrast to the current situation, where three Nobel prizes have recently been awarded to researchers working in the UK (two of whom are in fact of Russian origin), the cuts will mean that we will cease to be able to attract the best scientists from around the world.
 
 Yet perhaps even more worryingly, should the cuts be as severe as many analysts predict, there is a danger that our top scientists will start to leave the UK for greener pastures: pastures where science research receives the funding it so fully deserves.
+
 > Other countries are pumping money into science as a way to boost their economic recovery
+
 This danger is accentuated by the fact that, at a time when the UK is considering cutting its science research budget, other countries are pumping money into science as a way to boost their economic recovery.
 
 Barack Obama for one has made his feelings about the necessity of well-funded research quite clear: “At such a difficult moment, there are those who say we cannot afford to invest in science, that support for research is somehow a luxury at moments defined by necessities. I fundamentally disagree. Science is more essential for our prosperity, our security, our health, our environment, and our quality of life than it has ever been before.”
@@ -68,7 +72,9 @@ Within a matter of just two weeks, the ‘Science is Vital’ campaign managed t
 By the time this goes to press, the group will also have lobbied parliament.
 
 However, the scientists’ pleas may still prove to have fallen on deaf ears when George Osborne‘s Governmental Spending Review is published next Thursday.
+
 > UK scientists can no longer be accused of taking refuge in their ‘ivory towers’ and refusing to engage in public debate
+
 Yet, at least one thing is for sure; UK scientists can no longer be accused of taking refuge in their ‘ivory towers’ and refusing to engage in public debate.
 
 Perhaps the most important point to come out of the rally is that UK scientists have taken their first major step in engaging and communicating their work to the public at large.

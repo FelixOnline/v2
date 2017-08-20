@@ -29,7 +29,9 @@ The tabloids and I, we’ve had a chequered past to say the least. I grew up on 
 Yet still I read on. But now, I wasn’t furthering my knowledge about the latest figures on immigration, nay, not even the cancer risks from writing weighty comment pieces on Word 2003. It was about my criticism of journalistic attitudes, the lack of cited sources, the opinionated letters with bad attitudes. Subsequently I grew up and stopped, settling down with the infinitely more friendly local news. Finally, I had got out of the game.
 
 Then everything changed. The Daily Mail’s exposure of Imperial’s wild ways in combination with the sudden trend of comedians taking potshots at Mail readers peaked my curiosity in the standards of tabloids today. It was time to lay my demons to rest once and for all. It was time to return to the newsagents.
+
 > Outwardly, [The Daily Mail] is a morally upstanding citizen, yet inside it’s filthy minded
+
 The front page of the Mail. A sizeable photo of Pete Doherty and his latest misdemeanours dominate proceedings. Then I find it, in the miniscule column to the bottom left, “Bloodbath on streets of Cairo”. Flicking through the pages, I get the feeling that a great deal of meanness remains. Physical imperfections of female celebrities are pored over, grisly fox attacks packaged with gory images in full technicolour. Outwardly, the paper’s a morally upstanding citizen, yet inside it’s filthy minded. Ah, here we are, “CAMEL WARRIORS IN BATTLE OF CAIRO”.
 
 Seriously, what’s next? Shootout at the Great Pyramid? Aquatic pursuit on the Nile? The potential to form a tenuous link with Egypt for the benefit of readers is endless! My venture back to the Mail left me disappointed. I was no more critical of it than I had been. I had to go deeper. Beyond DiCaprio, if you like. I needed The Sun.

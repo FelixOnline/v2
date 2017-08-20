@@ -33,13 +33,17 @@ With the Government severing quite a few ties with the EU, Imperial must continu
 In essence, immigration involving students and staff is valuable to the college and despite it being “Clear that there are going to be restrictions on the free movement of people” the College is planning to do all it can to nudge the government to keep the borders open as much as possible for academics.
 
 Gast proposes that this is largely going to be achieved through the increase of visas to the relevant people, visas she suggests could be fast tracked by giving top universities accreditation. This presumably gives College a bit more autonomy as to who they could hire.
-> > Gast almost urges readers to focus on things other than Brexit, things which are more important
+
+> Gast almost urges readers to focus on things other than Brexit, things which are more important
+
 “If we are unable to negotiate a political solution to Brexit that allows us to fully participate in European Union funding, we need to evaluate what elements of funding and collaboration are the most important to us.” Read this as “We might lose a lot of funding, we need to find ways to not go broke” (You and me both, Alice). Again visas come into this as without people to collaborate with, there are no collaborations.
 
 Corporate partnerships were also brought up in the letter and Imperial are again planning to try and do as much as possible to sway government into policies and actions that help companies to thrive. Thriving companies are in the interest of pretty much most people so this seems a great idea, how much sway Imperial will actually have in consultations (if there even are any) remains to be see
 
 The letter then takes a more personal note as Gast almost urges readers to focus on things other than Brexit, things which are more important. “One of the things that most worries me about the outcome of the EU Referendum is the amount of intellectual energy that everyone is expending on this topic at the cost of other more forward-looking and positive things”.
-> > Imperial’s performance in the National Student Survey (NSS) was also mentioned, with a five percent drop in overall satisfaction attributed to some students feeling “unseen and unheard”.
+
+> Imperial’s performance in the National Student Survey (NSS) was also mentioned, with a five percent drop in overall satisfaction attributed to some students feeling “unseen and unheard”.
+
 Whilst the referendum has taken up a decent chunk of airtime in the past few months, it has the potential to be a pivotal moment for both future careers and research. These will affect students and academics alike and a dialogue still needs to be had.
 
 Imperial’s performance in the National Student Survey (NSS) was also mentioned, with a five percent drop in overall satisfaction attributed to some students feeling “unseen and unheard”. Plans to combat this were vague but will be “novel, evidence-based ways of teaching, fit for a leading STEM-institution such as ours that can truly inspire students and staff”. If teaching methods are the only way Imperial are planning on making students feel more included I wouldn’t bet on our NSS ranking improving greatly.

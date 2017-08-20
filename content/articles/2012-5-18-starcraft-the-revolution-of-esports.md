@@ -32,7 +32,9 @@ The lights of the metropolis shine brightly on the clear summer night. Down on t
 _Starcraft _was released in March 1998, closely followed by several expansions with the third and final release in November 1998. Together, they would become an all-time best-selling game for the PC, with 11 million copies sold worldwide. The game is a sci-fi real-time strategy game, with three distinct races that can be played. It is said to have revolutionized the standards for RTS games, perhaps due to the insane skills required to compete at the top level. It triggered the creation of the world’s first major eSports (electronic-sports) tournaments starting in 2002 in South Korea, and spreading throughout the world today.
 
 _Starcraft II: Wings of Liberty_ is the long-awaited sequel, released on July 10th 2010. It follows the same lore as its predecessor, seeing major changes in only the outdated graphics and speed. Certain units were removed, added, or altered drastically, but the mechanics of the game remain untouched.
+
 > There are over 30 tournaments a year; the largest ones offer a prize pot of up to $120,000
+
 There are several elements of the game to master; conceptually simple, but extraordinarily difficult to do all at once. Like most RTS games, players build armies and fight to kill their opponent – but the resources the players are required to gather are spread about the map, and you can’t see what your opponent is doing unless you scout them out.
 
 Economic balance is vital. You need enough workers to maintain a high income, and the gathered resources must all be intelligently spent. Decision-making is the most crucial part of the game –choose what buildings to invest in to produce the right army composition to engage at the best time in the most advantageous way.

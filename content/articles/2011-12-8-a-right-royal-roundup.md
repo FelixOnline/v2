@@ -47,9 +47,13 @@ Fans of war games were also not disappointed in 2011, thanks to the release of b
 {{< figure src="http://felixonline.co.uk/img/upload/201112082131-pk1811-duke-nukem-forever-steamplay.jpg" title="The one time betting on Duke is a less than stellar idea" caption="The one time betting on Duke is a less than stellar idea" attr="" >}}
 
 _Duke Nukem_, on the other hand, was a bit of a disaster. It may have taken 14 years to be released (an event which many may still find shocking), though this didn’t lead to quality – Metacritic scores gave it a verdict of being merely average. And the bad news didn’t end there – reviews slammed the game for its immaturity; the _Official Xbox Magazine UK_ even said "isn't so much offensive or misogynistic as just suffering from an adolescent fixation with boobs and crowbarred-in innuendo."
+
 > The _Humble Indie Bundle_ ‘pay what you want’ model raised over $2m
+
 For those who preferred something a little bit lighter, the third [_Humble Indie Bundle_](http://www.humblebundle.com/) was released in the summer, with many excellent titles such as [_VVVVVV_](http://thelettervsixtim.es/), [_Clash of the Titans_](http://www.clashofthetitansgame.com/) and [_And Yet It Moves_](http://www.andyetitmoves.net/). The ‘pay what you want’ model raised over $2m, of which part went to charity. This was followed by additional [_Frozen Synapse_](http://www.frozensynapse.com/) and [_Introversion_](http://www.introversion.co.uk/) bundles.
+
 > Steam showed 230,000 concurrent players on the day of _Skyrim_’s release
+
 And, of course, no wrap up of the year’s big releases is complete without [_Skyrim_](http://www.elderscrolls.com/skyrim/), one of a few games to receive universal acclaim. Steam showed 230,000 concurrent players on the day of release, and approximately $450m in sales over just five days, making it the second best selling game this year, beaten only by _Modern Warfare 3_.
 
 __Consoles on the way__

@@ -41,7 +41,9 @@ Confused, the team were told to leave the plane and to bring their IDs. Just out
 Their passports were examined, with one student’s passport causing particular upset due to the presence of a police stamp necessary for a visa. The three students were then separated and questioned by police for forty minutes. Once it became clear that they weren’t a threat to anyone, the group were free to go but were not allowed to board the flight to Turkey, and were now down several hours and a few hundred pounds.
 
 The team let the RAG committee know about the situation via Facebook, and this message was quickly passed to Imperial College via campus security. There was some miscommunication involved, and college were told the group were arrested, which they were not. However, the students were not contacted by anyone at college during this time (or since) regarding their safety.
-> > The group were told their removal was a direct instruction from the pilot
+
+> The group were told their removal was a direct instruction from the pilot
+
 Despite the ordeal, the team hitchhiked to Gatwick the next day and flew to Berlin, before hitchhiking to Radzymin in Poland, which amounted to 907 miles in 36 hours. This meant they had raised £724, not including the amount they had paid for the unused flights.
 
 The group were told their removal was a direct instruction from the pilot but suspected it was because they had asked a flight attendant if they could make an announcement about the charities to the passengers over the plane’s intercom. The attendant said she would ask to the pilot and it was soon after this that they were removed.

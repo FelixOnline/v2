@@ -52,7 +52,9 @@ _I had almost expected the effect to be instantaneous. I licked my finger and th
 _Nothing._
 
 _The Mathematician hypothesized the sample may have become inert._
-> > Is my head heavier, my neck unable to cope, my heart beating faster, are my fingers bananas?!
+
+> Is my head heavier, my neck unable to cope, my heart beating faster, are my fingers bananas?!
+
 Drugs have proliferated pop culture. While historically focussing on drug barons, stoners, and meth heads, modern literature and television is starting to tell a more varied story of drug use. This new narrative doesn’t fit the outdated stereotypes that we associate with our government-funded horror stories. Pop culture and the ever helpful internet are increasingly becoming the new educators, while the government still uses the same failed method it used for sex and rock n’ roll: abstinence.
 
 Policy in the UK is not in tune with reality and with that comes danger. It would be of more use to educate us with the steps to take when a friend overdoses instead of screaming at us that we will all become addicts.

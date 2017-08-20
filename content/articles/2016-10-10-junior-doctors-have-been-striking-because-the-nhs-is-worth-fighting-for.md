@@ -25,7 +25,9 @@ highlights:
 ---
 
 Not only is the economic forecast of the country already in uncertainty post-Brexit, bringing with it the threatened loss of some of the biggest financial companies’ headquarters, but we are also on the verge of setting off along a trajectory of losing one of our most prized possessions – the NHS.
-> > This is one thing our health secretary will not let go of, no matter how little insight he has
+
+> This is one thing our health secretary will not let go of, no matter how little insight he has
+
 Before digging into the economics of negotiation and the philosophy behind striking, here’s a quick dummy’s guide to what’s actually been going on. Bear in mind that junior doctors are not only those in their first two years of foundation training, but actually anyone who isn’t a consultant – in other words, the backbone of the NHS, making up over a third of the medical workforce.
 
 So here’s the deal: the government promised a 7 day NHS in their election manifesto. Whilst they haven’t delivered on other promises such as support for working families and affordable housing, this is one thing our health secretary will not let go of, no matter how little insight he has into the real problems faced by front line clinicians on a daily basis. Instead of recognising that delivering on this promise will take some years and extra funding, and will involve recruiting and training more doctors, Hunt has decided to drag out the already long shifts that current junior doctor are on in the hope that he can entice them by what may initially appear to be an increase in pay. Tired doctors make unsafe doctors. You know the drill.

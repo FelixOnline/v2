@@ -67,7 +67,6 @@ For a team that was only established this year, winning against one of Ireland�
 
 The Ladies’ 18-strong team is largely inexperienced in the game of football, with most of them taking up the sport as an entirely new experience. The next few months would concentrate on developing their game in time for February’s national championships held in Manchester; no doubt that the match in Dublin has taught them more than a term’s worth of training sessions could have.
 
-
  BOYS IN BLUE
 
  As for the men’s match, it was a much more even affair and resulted in a closely fought game either side could’ve won. The game started with an intense period of pressure from Trinity, with the Imperial defence and keeper being tested, but equal to almost every challenge. Jamie Sanders and Padhraic Comerford acquitted themselves well in this period and were responsible for many clearances down the left and right wings respectively. Nevertheless Trinity managed to nab themselves a goal and three points to the good in this prolonged period of possession.

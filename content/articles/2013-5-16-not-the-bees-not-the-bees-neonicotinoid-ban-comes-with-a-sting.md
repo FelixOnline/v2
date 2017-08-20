@@ -36,7 +36,9 @@ Neonicotinoids were developed to effectively kill unwanted insects on crops whil
 This is vitally important as bees do so much more than make honey – they are estimated to pollinate a third of the food we eat. A much quoted remark states that: "If the bee disappeared off the surface of the globe, man would only have four years of life left. No more bees, no more pollination, no more plants, no more animals, no more man." Though there is a lack of consensus over who actually said this, let alone how accurate a prediction it is, its foreboding vision indicates just how instrumental bees are to life as we know it.
 
 In Hanyuan County, China, where bees have already been wiped out by the use of pesticides, farmers have resorted to employing people to hand pollinate pear trees with feather dusters and paint brushes. Friends of the Earth have estimated that to do this for crops in the UK would cost £1.8bn a year, a sum which would no doubt be reflected in the price of food.
+
 > No more bees, no more pollination, no more plants, no more animals, no more man
+
 With a 53% fall in managed British bee colonies since 1985 mirroring similar drops worldwide, declining pollinator populations have been identified as a serious risk to global food production – the last thing we need with an ever-growing human population to feed. Therefore falling bee numbers represent not only a conservation issue, but also a serious economic and social issue.
 
 But how far will the ban on neonicotinoids go to reversing this alarming trend? The short answer is, we do not know. There is no general agreement on the cause of the worldwide collapse in honey bee colonies. Instead, the phenomenon (termed colony collapse disorder in the USA), has also been attributed to a range of other factors which include habitat loss, increasing numbers of parasites and levels of air pollution.

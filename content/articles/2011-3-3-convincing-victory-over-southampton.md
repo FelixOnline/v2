@@ -27,7 +27,9 @@ Having pounded Chichester at the last meet the ladies went into this match full 
 Our opposition put us back in place however, coming out strong and holding us back within the opening exchanges of the match. Ten minutes in skipper Teddy Middlebrook finally broke deadlock putting a carefully placed shot past Chichester’s keeper with a sharp strike following a neat short corner.
 
 The frustration set back in though as we continuously pressured their defence with strikes from all angles pounding through the D. Unfortunately of the efforts which Imperial produced were all wide of the target.
+
 > Flawless defence from Jess Poore and Celia Hayes kept play in the attacking half
+
 Flawless defence from Jess Poore and Celia Hayes kept play in the attacking half but eventually. the halftime whistle blew on this somewhat disappointing scoreline.
 
 An arousing team talk later and we were determined to push straight for it in the second half, which quickly paid off as good teamwork allowed Kirstin Hay to knock it past the keeper scoring Imperial’s second soon after the restart.

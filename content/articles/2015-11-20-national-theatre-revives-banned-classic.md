@@ -26,7 +26,9 @@ highlights:
 Waste is true to the name, a play about dashed hopes and broken dreams. It’s a damnably English affair.
 
 Banned in 1906, it has, in parts, relaxed gently into middle age. The back story – a political scheme to cut the British church and state apart – would struggle to move many outside the back end of Belfast. But focusing on the setting and the antics of our anti–hero, career politician and cold–blooded atheist, Henry Trebell (Charles Edwards), would be a mistake.
+
 > Waste is one great shout against that system, and the petty class tribalism that accompanies it
+
 The doomed relationship between Trebell and the wily, married Amy O’Conell (a sparkling Olivia Williams) is a summary of the plot – and a side note. His first and last, it barely makes it beyond a one night stand.
 
 However, things roll along smoothly enough from here – and we follow the consequences of this illicit affair, until Trebell is left a purposeless, broken man.

@@ -31,7 +31,9 @@ _Felix_ has learnt that at least four Hall Seniors, who had been selected for pl
 As the Freshers received their offers of accommodation early last week, Hall Seniors expected to hear from the Halls that had confirmed their places way back in March.
 
 No prior warning was given to the handful of Hall Seniors, who were greeted with an invoice for rooms at Bernard Sunley or Fisher. An accompanying letter from the Student Hub repeated the previous statement that an “unprecedented rate of exam success among prospective students” has meant that a number of Halls in Evelyn Gardens were being re-opened. No explanation or apology was given, and the students were asked to confirm their place within four days.
+
 > No explanation or apology was given, and the students were asked to confirm their place within four days.
+
 This news comes after the surprise announcement that [Evelyn Gardens would reopen](../news/5649/college-u-turn-on-evelyn-gardens/), despite concerns about the condition and lease status of the halls.
 
 The decision was not approved by the Wardens of the Halls that these students had been plucked from. When approached by the affected individuals, the Accommodation Office told the Hall Seniors there was nothing they could do.

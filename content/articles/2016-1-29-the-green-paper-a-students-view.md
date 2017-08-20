@@ -35,7 +35,9 @@ The proposal is partly based around the notion that not all universities assign 
 Despite favouring this seemingly great reward system, we must scrutinise the implications of this proposal. The framework will act as a substantial measure of an institution’s educational potential. It will likely be used as a basis for deciding league table positions. From the 2017/18 academic year, it will even be used as a mechanism for granting higher-ranked institutions the ability to increase fees for new students.
 
 Mr Johnson claimed that whilst many academic institutions go above and beyond, there are many that opt for a “disengagement contract”.
-> > **Like any market fuelled by competition, there are winners and losers**
+
+> **Like any market fuelled by competition, there are winners and losers**
+
 On the one hand, it is likely that the presence of stronger incentives for excellent teaching will drive universities to optimise their own teaching potential. On the other hand, we must ask ourselves if the additional fee income will exacerbate the gap between the competences of higher and lower ranked universities.
 
 Will this fuel the creation of an elitist educational hierarchy comprised of divided teaching-based and research-based institutions?

@@ -45,7 +45,9 @@ _George Howard_
 So it would appear that yet another student march has passed with little incident. Aside from mild scuffles at Westminster, yet another ill timed NUS effort to exercise mass havoc upon the streets of London has failed.
 
 Championing the mantra of socialism yet again, it seems to be an awful case of déjà vu. It seems that
+
 > Championing the mantra of socialism yet again, it seems to be an awful case of déjà vu
+
 the organisers simply didn’t have the time to bother thinking up any original points to mention. It was just the standard regurgitation of the fact that Nick Clegg lied, there are no jobs, and apparently universities are more expensive than they used to be.
 
 Rather than marching to Parliament Square to hear Prime Minister’s Questions, I’d much prefer to enjoy them from the comfort of my personal abode. Notwithstanding this, I really don’t believe that such a march will achieve anything. The national media have drastically reduced coverage of such barbaric events (quite rightly) and the reason for this is simple: no one really cares. Its about time the likes of Liam Burns (NUS Tsar) growup and stop engaging in such childish pursuits.
@@ -59,7 +61,9 @@ _Luke Sheldon_
 The commodification of education that the introduction of £9000 fees accelerated drains learning of true enjoyment. Instead of expanding our thoughts and horizons, being lost in our interests, we are merely studying for employment. No longer do we study for pleasure, but to obtain a piece of paper that by increasingly slimmer chances allows us to sit in an office for the rest of our lives.
 
 Although the name of the demo demanded ‘Educate. Employ. Empower’, I was instead marching for a truly free education. Not only one that we do not pay for (both fees and living) but also where the
+
 > I was... marching for a truly free education... where the learning is liberated and critical
+
 learning is liberating and critical in both content and practice. Not only is our education system exclusionary in terms of money and elitism but it also in this process of wrapping itself in its ivory tower excludes important ideas and it fails to look at society in a critical way.
 
 And funding is intertwined with this lack of freedom in what we learn. If we do not fund education properly it increasingly becomes influenced and driven by industry. Education becomes about maximising profit for multinationals with no thought for the consequences instead of working towards a better society – which education has the potential to do.

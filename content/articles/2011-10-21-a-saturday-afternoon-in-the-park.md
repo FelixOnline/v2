@@ -33,7 +33,9 @@ I have slowly been discovering the world of contemporary art over the past coupl
 Why is it a big deal?
 
 For starters, it’s pretty big. Walking in, you get an impression of bustle, and a sort of unfocused purpose – everyone is walking around, observing the artworks (and each other), emitting an opinion, taking pictures. In fact, to the layman, that is what sets it apart from any old museum exhibition at first glance: people are snapping away at the things they like, and the interest in some pieces is tangible.
+
 > I’m still not sure I ‘get’ contemporary art - but Frieze has made me eager to see more
+
 The sheer size of the place gets to you after a while. Picking up a map at the entrance, it doesn’t seem that big; when you realize that in an hour you’ve only seen 5 galleries out of the 173 presenting work, the fact that it’s set over four days makes sense. The fair is laid out as a series of stands (which cover about 20 square meters on average), all numbered and set up in neat rows. Despite the orderliness, it’s all a bit daunting to the neophyte. Armed with recommendations from your ever-dependable arts editors, I began wandering around.
 
 Describing what I saw would take a catalogue, or rather more simply, a camera. There was so much on display, spanning so many artistic influences, sub-genres and mediums of expression, that it would be impossible to sum it up.

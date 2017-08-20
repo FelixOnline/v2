@@ -36,7 +36,9 @@ No so with games such as [_Doom 3_](http://www.youtube.com/watch?v=JQ7HscCerT8) 
 __Monsters__
 
 Monsters are right at home in horror – but not all monsters are effective. A good horror should use them sparingly. The human imagination is a wild and vivid thing, and letting people imagine what lies in a darkened room filled with heavy, laboured breathing is far more effective than showing them. What is deemed visually scary by one person may not to someone else, and vice versa. What sounds scary tends to be more common – think mewling kittens versus snarling, disembodied gurgling. Some of the scariest moments in _Doom 3_ simply involved noises in air vents and corpses being dragged away by an unseen entity.
+
 > Letting people imagine what lies in a darkened room filled with heavy, laboured breathing is far more effective than showing them
+
 When a monster is seen, it obviously has to look scary. Now this, as I’ve said, is a very subjective point. However, one concept in 3D design tends to be well accepted, that of the uncanny valley, a hypothesis in 3D computer animation that states that as a human replica becomes more and more human it will reach a point at which it looks and acts almost human. This is the point revulsion kicks in. Monsters that look human or, even better, ones that look like they could have been humans work well, such as the nurses and [Pyramid Head from _Silent Hill_](http://www.youtube.com/watch?v=vprETGvyShM) (pictured). On an unconscious level the brain creeps out, but you can’t quite work out why. This is at least a redeeming factor in _Dead Space_ – whilst the monsters may jump out at you all the time, you can clearly see they’re horrifically mutated humans, and that ‘creep’ factor worms its way into your brain. Talking of jumping out all the time...
 
 __Pacing and Tension__

@@ -29,7 +29,9 @@ Two weeks have passed since then and Imperial College Union Council will formall
 Firstly, the policy put forward recognises the need for a shake-up in the way universities are funded. Since 1992, average spending per student has dropped due to the massive increase in the number of young people going to university. This lack of funding has been felt by universities across the country; Middlesex University has had to close its Philosophy department while Kings College London has had to shut down its Engineering department to name but two. The reshuffling of the Life Sciences department at Imperial is another way universities have been trying to deal with this shortfall.
 
 [The Union is largely supportive of Lord Browne’s recommendations](http://www.imperialcollegeunion.org/news/initial-response-to-browne-review,412,ICUNS.html). It believes that raising the threshold for repayment to £21,000 means that most PhD students will not have to repay their loan while working towards their PhD.
+
 > The Union is largely supportive of Lord Browne’s recommendations
+
 It backs the raising of maintenance loans and grants, resolving to increase bursary and scholarship provision, and to promote opportunities for these more readily. It will also try to encourage businesses to provide their own bursaries for students. Together, these will hopefully reduce the amount of loans that all but the richest students will have to repay.
 
 On this subject, the Rector has formed a new committee to look at how the university provides bursaries, with the view to increase them. The Union has been invited to take an active role in this committee. If an improved endowment scheme is drawn up, the Council will consider whether commercial revenue from the Union (from FiveSixEight and ICU Shop, for example) should be fed into such a scheme.

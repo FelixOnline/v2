@@ -24,7 +24,6 @@ highlights:
 
 As Brand New prepare for another stretch on the trans-global road they have become well-accustomed to in recent years, felix catches up with drummer Brian Lane at home in Long Island, New York. Home is clearly where the heart is for Brand New, but their first stop is London, a city they’ve found themselves in countless times. This weekend will be a little different though as they perform at Wembley Arena, the biggest venue they’ve played in the UK since starting out ten years ago.
 
-
  Dan- How are you feeling about the reception that Daisy has received so far?
 
  Brian- I mean it’s been pretty good. We’ve basically been on tour since it’s been out and we’ve been off for about a month and things have kind of cooled down because of holiday season and stuff. We’re kind of all just enjoying life here, hanging out at home for a month or two. We haven’t been to England since it’s been out have we?

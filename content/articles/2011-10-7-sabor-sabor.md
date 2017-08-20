@@ -27,7 +27,9 @@ highlights:
 One roof, three party rooms, four teachers, five DJs and hundreds of guest make for one of London’s most interesting dance events. It takes place every first Friday of the month at [Firefly Bars & Restaurants](http://www.fireflybar.co.uk/) across London, and for those that prefer to have a warm-up before the event, dance classes are held beforehand at a small extra cost.
 
 One of the main organizers, Ozy Shyne, confessed that “we share our experience and music in the most friendly way to make people happy. We work hard to keep up to date and be good DJs. The love we receive from the people is what makes us get better every time.”
+
 > We share our experience and music in the most friendly way to make people happy
+
 Ozy has been a choreographer since 1996 and for several years he has worked with some of the biggest artists from all over the world through his experiences as a professional dancer. Trained in contemporary dance, and former World Hip-Hop Dance Champion, he has given a new dimension to salsa classes since his arrival in London in 2008.
 
 Ozy’s colleague and organizer at Sabor, Dani K, an innovator in the salsa scene, promises to show you another way to appreciate salsa dancing. His main quality as a dancer is interpreting the music appropriately, whilst making his partner feel comfortable and relaxed.

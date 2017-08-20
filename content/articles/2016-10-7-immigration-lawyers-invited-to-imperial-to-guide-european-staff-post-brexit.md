@@ -29,7 +29,9 @@ The first out of ten scheduled presentations saw anxious staff members rapidly f
 
 Mehta, according to Farrer &amp; Co, “is an expert in UK Immigration and Nationality law, having practised in the area for over 20 years. In that time, she has helped senior executives, wealthy individuals, investment banks and multinational companies successfully move to the UK”
 She covered what little guidelines the Home Office had released so far (hint: not much) and took the audience members through the procedure of applying for permanent residence and British citizenship, along with the eligibility requirements, necessary documents and general advice.
-> > Indications are that it will take at least two years for the UK to negotiate an exit strategy with the EU
+
+> Indications are that it will take at least two years for the UK to negotiate an exit strategy with the EU
+
 For example, permanent residency and citizenship are only awarded to applicants who have been in the UK for at least five years, but that excludes anyone who has been away for over six months at a time, 450 days in total over the five year period, or 90 days in the last year
 
 At the same time, if applicants have at any point not been in full employment during that five year period, they need to have been covered by comprehensive health insurance i.e. insurance that provides both inpatient and outpatient treatment in full, where outpatient treatment is defined as any treatment where a stay in hospital is not required such as tests, scans or consultations.

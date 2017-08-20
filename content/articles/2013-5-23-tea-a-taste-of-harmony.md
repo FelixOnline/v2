@@ -41,7 +41,9 @@ Tea is a way of life. No joke. In some cultures, drinking tea is the most wonder
 {{< figure src="http://felixonline.co.uk/img/upload/201305232315-tna08-tea-bags-cutout.jpg" title="" caption="" attr="" >}}
 
 So how does this link to meditation? The way of the tea is the link. The art of making it and mastering the mintiness, honey and tea (for example not ever adding cold water). When you focus on the cup and tea, emptying your mind. Feeling numb. You’ll pretty much be reaching Nirvana. Soon.
+
 > Tea is a way of life. No joke. In some cultures, drinking tea is the most wonderful way to relax
+
 To say it was a bit of a surprise to discover that there was Echinacea tea, lemongrass to even lavender tea, would be an understatement. My narrow world had been shown some light. After mixing many teas, and actually feeling unwell prior to this, I stumbled upon the right mix of mint leaves, cardamoms, lemongrass and ginger tea. Surprisingly, it was curing. Nowadays I have an obsession with teas, I think, which would totally contradict that with trees. This is because of incorrect meditative practice. The point of meditation isn’t to focus on a object (or a flickering candle), but actually feel at peace.
 
 Tea makes you strong and healthy, without any of the artificialities or fickle synthesis. Just the way mother nature intended. From leaf to clay. In harmony.

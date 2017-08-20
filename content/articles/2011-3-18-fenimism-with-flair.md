@@ -35,7 +35,9 @@ Despite this unportentious start, Fen far exceeded my expectations. I have never
 The play is set in the 1980s in the English Fens. The people have little money and fewer choices. Churchill is unashamedly socialist and feminist in her views and her characters make an excellent case for her principles. The women’s monotonous work out on the cold, dark earth speaks for their cold, grim lives. They have no money, no avenue of escape and so they attempt to lose themselves in religion or forbidden love, but solace always evades them.
 
 The damned-ness of Val, a young mother whose only three choices are to leave her children, to tear them away from their father or to live without love highlights the particular way in which women become trapped by early choices and forever held in place by a web of interdependencies and the fixed mindsets of their community.
+
 > I certainly left feeling grateful to live in a liberated society and to be allowed to be young and female but still free
+
 Several of the female characters in this play are not much older than I am (Val’s mother remarks that she was a grandmother at 36) and yet I largely felt that the themes explored were too mature for me to be able to properly empathise. I certainly left feeling grateful to live in a liberated society and to be allowed to be young and female but still free.
 
 Just as impressive as the writing is the ability of the six actors, five female and one male, to inhabit the vast range of roles: from Japanese business man to petulant six year old. I was especially impressed by the mostly flawless Norfolk accents. On the other hand, I felt having only one male actor was a weakness, as he found it hard to make the adjustment between the male romantic lead and the curmudgeonly old farm owner role.

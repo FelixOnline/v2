@@ -29,7 +29,9 @@ highlights:
 The Lib Dems have been criticized by everyone and their dog since they joined the coalition last May – the turnaround on tuition fees, their complicity in the public sector cuts, allowing the Tories in to Number 10. We’ve all heard it before: the Lib Dems are doomed, we’ll never vote for them again, yadda, yadda, yadda.
 
 But really, the Lib Dems have achieved way more than most people give them credit for. Yes, they have broken a manifesto commitment against raising tuition fees, yes, they have gone into coalition with the hated Tories but really, was there an alternative?
+
 > The Lib Dems have achieved way more than most people give them credit for
+
 The election delivered a hung parliament, and with a hurricane of debt threatening to engulf Greece, the scarily large deficit seemed to put Britain at risk of having a debt crisis as well. Sure, in hindsight, we weren’t likely to get caught up by the same tidal wave as Greece but we had no way to be sure at the time. A stable government, able to take the drastic measures needed, was necessary.
 
 So that ruled out the Tories going it alone, or a Lib-Lab Coalition (the numbers just didn’t add up). This left two options – either an unwieldy Grand Coalition of the Center-left, comprised of every party except the Conservatives and UKIP, or a Con-Lib coalition. With Gordon Brown less popular than a pile of dog turd, and the prospect of a 5+-party coalition with a whisker-thin majority in the Commons, we chose the latter.

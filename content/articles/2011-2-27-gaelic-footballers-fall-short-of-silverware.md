@@ -27,7 +27,9 @@ highlights:
 The consistent Mick McGarvey was put on their playmaker, as noted from spectating; this was a success, as McGarvey did not give his man an inch on the pitch. Though it was the greater depth of the Teeside team that prevailed, opening the scoring from long distance after a break around the midfield line.
 
 Fitzpatrick, resting a hamstring problem, soon came on for Toby Davies who, acrobatically attempted to recreate the ankle break of fellow club mate and lover Stephen Gallagher. There was nothing between the two teams, with both defenses cancelling each others offensive movements. On the brink of half time O'Hare plucked one from the sky beating three men with tremendous strength and shot successfully from 40 yards, leaving the teams level with one point a piece.
+
 > On the brink of half time O'Hare plucked one from the sky beating three men with tremendous strength and shot successfully from 40 yards
+
 It seemed to be going Imperial's way in the second half, winning the throw-in and moving up the field with tremendous purpose, Donal Connelly was set up for a goal chance only for the last defender to beat him to the ball with a kick of desperation. From this, a counter attack transpired, IC were caught on the break and Teeside got what seemed to be an easy score.
 
 Trailing by a point Imperial seemed to be playing hazardous football until O'Hara was callously caught in the nuts deep in oppositions half, this gave the Blues time to reinvent themselves and for O'Hara to develop a vengeance (he later punched the same helpless in the face). A hopeful set piece from Fitz around the 50 yard mark didn't have the legs but ran into the arms of the centre back who was then disposed by McCann who certified a point on the board for IC putting them back inline with Teeside.

@@ -37,7 +37,9 @@ The second force is the viscous friction between the particles and the solvent. 
 The team trapped a colloid in liquid suspension held in a laser trap to observe the effect of Brownian motion. The sphere of solution was of the order of nanometres in size and when held by the laser, can be modelled as a harmonic oscillator. It was previously considered that the viscous force over-dampens the system and the fluctuating motions are uncorrelated and constant at small frequencies. However, when you bring in the idea of self-interaction, the fluctuations should change and correlate with time.
 
 In order to make the principle of self-interaction apparent, Franosch and his colleagues tune the harmonic oscillator to its relaxation time. In a colloid, the immersed particles will eventually settle and the time it takes to reach this equilibrium position is the relaxation time. As a laser was used to hold the trap, by varying the power of the laser, they could alter the stiffness of the trap and effectively ‘tune’ the relaxation time.
+
 > “Evidence has been found to support the theory of self interaction on these scales”
+
 Additionally, using the particle’s diameter and fluid’s viscosity as parameters, the diffusion time (the time to diffuse over the diameter) could be tuned also. Franosch and his colleagues found that the optimum results were obtained from a melamine resin colloid, 3 micrometres in diameter, when immersed in acetone.
 
 The result was a correlation between the fluctuations due to self-interaction and times. It soon became apparent of a hydrodynamic ‘resonance’ occurring close to the relaxation frequency. The power spectral density increased and the ‘white’ noise became ‘coloured’ as the peaks were not constant for all frequencies.

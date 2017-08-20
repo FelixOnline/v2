@@ -28,7 +28,9 @@ highlights:
 Having been on the road for a while at this point in time, I’d lost all sense of a sleeping pattern: probably for the best when facing a 4:30 start. After overcoming that bitter morning sensation we peered from our hostel window to see what appeared to be a hot-rod straight out of Kill Bill: we hopped in and it roared through the dark, dusty streets of Jaipur and took us to our take-off point.
 
 Thanks to travelling during monsoon we had a spot of drama as the team decided whether or not a flight was even possible. We were well catered for and sat with milky, sugary chai and soft biscuits as we cursed the black clouds overhead. Thankfully the winds subsided and the rains decided to be fashionably late, and the balloon was inflated and set to go.
+
 > the usually arid shrubland was lit up as a spectacular sea of green
+
 After being put at ease by an excellent English-speaking team and a mandatory safety briefing, we let the winds carry us over the villages surrounding Jaipur. Ballooning is much more graceful than I’d anticipated, so I was able to toss aside the concerns of a Delhi-belly and really enjoy the views.
 
 And what views they were! It’s not often I get to say “I’m so glad we came for the monsoon!” but this was one of those rare gems: the usually arid shrubland was lit up as a spectacular sea of green, made all-the-plusher by the plentiful monsoon rains. A calm breeze cooled us as we gazed over rocky hills in the distance and vibrant Jaipur city with its quaint Amber Fort closer by.

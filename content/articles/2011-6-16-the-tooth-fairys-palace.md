@@ -34,8 +34,10 @@ Children are encouraged to send in their teeth when they fall out and are ‘com
 One of the objectives of the project is to remind the public that the term stem cells doesn’t only refer to embryonic stem cells, but also to adult stem cells that are found in bone marrow, teeth, and even fat. “This is about moving the debate on and increasing people’s understanding. The term ‘stem cells’ get bandied around a lot because people don’t know that there are different stem cells,” says Professor Rankin.
 
 Currently, we discard certain ‘waste’ body parts, like teeth, fat from liposuction operations and umbilical cords, when they’re actually a rich source of adult stem cells. The research that Professor Rankin is currently focused on, which involves trying to activate adult stem cells within the body instead for regenerative purposes, could see these ‘waste’ body parts becoming extremely valuable.
+
 > "This is using art, not to illustrate science, but also to catch people’s interest and to get them to ask the questions"
 > Professor Rankin
+
 But this is not only about making a scientific point. ‘Palaces’ has a much broader and loftier goal of encouraging interest in science. “This is using art, not to illustrate science, but also to catch people’s interest and to get them to ask the questions,” says Rankin. Outreach is a large part of her academic life. She remembers how visiting an outreach laboratory in Bristol as a teenager transformed her life and made her realise she wanted a career in science. “I had no idea that research was an option until that visit. That’s why I think it’s really important to give that opportunity to as many people as possible.”
 
 As a PhD student she used to grab up some equipment from her lab and head over to schools where her friends were teaching and do demonstrations for the kids. As well as the general benefits of getting kids interested in science, she says, it was good for them to see a female scientist. “When you ask kids to draw a scientist, it’s always an Einstein-esque man.”

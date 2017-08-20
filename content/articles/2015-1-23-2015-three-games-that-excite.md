@@ -32,7 +32,9 @@ __Star Wars Battlefront__
 My first ever shooter was _Star Wars Battlefront 2 _for the ps2. Trust me when I tell you that I wasted an extraordinary amount of my school years playing this game. It was a pretty epic game. However, it was released back in 2005, ten years ago. Therefore the announcements that the next _Battlefront_ is coming this year have filled me with excitement as well as trepidation. Excitement, because obviously I get to see a new version of a game I hold dearly and trepidation because this new version is going to be produced by EA.
 
 The teaser trailer really did a lot to hype the game, and I just hope that this won’t be a re-skin of_ Battlefield 4_. This game is expected on all platforms and will be released with the new _Star Wars_ film in late 2015.
+
 > "I just hope that [Battlefront] won't be a re-skin of Battlefield 4"
+
 __Just Cause 3__
 
 The grappling hook, parachute and crazy physics have all entered gaming culture. Now it seems we will get to use them once again in the newest _Just Cause,_ in addition to a wingsuit. While the game mechanics will remain mostly the same, the location and story are completely new. The new map is on par in terms of size with that of _JC2_, but you now have the ability to explore subterranean caves. Furthermore, its located in the Mediterranean and you return as Rico to battle against the dictator General Di Ravello.

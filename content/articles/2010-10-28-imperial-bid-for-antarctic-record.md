@@ -27,8 +27,10 @@ Imagine skimming across the icy wastelands of the South Pole. You’re sitting i
 In a collaborative project involving the [Moon Regan Transantarctic Expedition](http://www.transantarcticexpedition.com/) and Imperial College London, two science support vehicles and the Winston Wong Bio-Inspired Ice Vehicle will travel 3,600 miles across Antarctica carrying a range of hi-tech monitoring equipment developed at Imperial. The team will be monitoring the emissions of the vehicles, detecting trace metals in the snow to help understand the distribution of pollutants in the southern hemisphere and measuring fine-scale turbulence in the air. The team themselves will be continuously monitoring their health and the effect of the cold environment on the human body
 
 David Pierson, a PhD student in the Aeronautics Department who is going on the expedition, said, “It’s going to be an amazing experience, it’s difficult to put into words how exciting this whole expedition is and all the different elements of it coming together.”
+
 > It’s an amazing opportunity to get the sorts of scientific data that you can’t get any other way"
 > Dr Robin North, Lecturer in Transport and Environment Planning
+
 Dr Robin North, Lecturer in Transport and Environmental Planning in Civ Eng and the Science Lead on the expedition, said, “It’s an amazing opportunity to get the sorts of scientific data that you can’t get any other way. We don’t ever get the opportunity to do a surface level transect of Antarctica. We have a unique opportunity to monitor the impact of our expeditions.”
 
 Chris Toumazou, Director of the [Institute of Bio-Inspired Technology](http://www3.imperial.ac.uk/bioinspiredtechnology) that is behind much of the technology, was confident about beating the record saying, “We’ll do it. So it’ll be double win, we’ll beat the record and get all this science done as well.”

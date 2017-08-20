@@ -29,7 +29,9 @@ highlights:
 Last Friday, a group of Conservative MPs killed a bill intended to make first aid training compulsory in state-run secondary schools by “talking it to death.”
 
 The thrillingly-named Compulsory Emergency First Aid Education (State-funded Secondary Schools) Bill – which tells you everything you need to know about the bill in one snappy title – would have effectively added first aid training to the national curriculum, especially CPR and the use of defibrillators.
+
 > It’s beyond time for the filibuster to be reformed
+
 Because it was a Private Member’s Bill, put forth by Labour MP Teresa Pearce, there was only a limited amount of time available for debate, which was apparently invitation for a collection of miserable, common-sense-hating MPs to spend the entire debate spouting absolute nonsense.
 
 A bill backed by St John’s Ambulance, the British Red Cross, and the British Heart Foundation – by far the three biggest charities responsible for promoting first aid to the masses – was killed by Conservative MPs using childish, antiquated tactics that have no place in our parliamentary system.

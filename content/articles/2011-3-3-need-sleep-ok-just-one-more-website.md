@@ -41,7 +41,9 @@ Click.
 A bunch of guys cook, and then eat, a bird inside a bird inside a bird inside a pig.
 
 Click. Click. Click. Click...Click.
+
 > You see, I'm an addict. My drug of choice? StumbleUpon
+
 As the pixels holding my eyelids up finally give way, I curse myself. It seems like I'm going to miss a couple of lectures tomorrow. You see, I'm an addict. My drug of choice? [StumbleUpon](http://www.stumbleupon.com/).
 
 If you haven't heard of this nifty little toolbar yet, you probably use the internet for healthy things, such as keeping in touch with friends or ordering your groceries. When you download the add-on (available for most popular browsers), it'll ask you to specify your fields of interest amongst a very complete list of possibilities.

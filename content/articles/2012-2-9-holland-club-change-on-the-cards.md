@@ -39,8 +39,10 @@ Imperial College Union President Scott Heath emphasised that he was open to disc
 “I see lots of advantages with the proposed changes. One is disability access, and the second is huge flexibility with the room. In addition there is a potential for food service, which frees up the Queen’s Tower Rooms, which in turn frees them up for club activity. The new space would fit one and a half times the Holland Club in its current layout.”
 
 Heath stated his hope that any new space would provide a “common room space for taught postgraduates, who are excluded from the Senior Common Room and may feel uncomfortable in the Holland Club.”
+
 > There’s no benefit to getting rid of a social facility and replacing it with nothing
 > Scott Heath – Imperial College Union President
+
 “It’s to everyone’s benefit that we get [any change to the Holland Club] right. There’s no benefit to getting rid of a social facility and replacing it with nothing.”
 
 The Graduate Students’ Assocation will be holding [an open panel next Thursday](http://www.facebook.com/events/247716935307061/) (February 16) at 6pm for a discussion on the future of both the Holland Club and Clayponds, where the Union President will be in attendance along with Mr Young. The proposed floor plans will be made available at the meeting, and Heath hopes to launch a survey to determine what students would like to space to become should changes come into action, including such choices as a café bar or a “common room space”.

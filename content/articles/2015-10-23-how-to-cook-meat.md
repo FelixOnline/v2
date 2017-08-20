@@ -27,13 +27,17 @@ highlights:
 ---
 
 The next time you get the family come to London and take you out for a meal, pause for a second before you order the steak. I mean, fine, it’s not your credit card, and it’s typically the most expensive item on the menu, so surely you’re getting your money’s worth? You certainly wouldn’t pay that much when you go out on a cheeky date to Nando’s, but that’s different; this is a time to treat yourself. It’s not like you’re missing out on anything else on the menu – who really knows what half of it is anyhow? Foams, airs, deconstructions: all are meaningless when you know exactly how juicy, meaty and delicious that steak will be. It’s a safe choice. But, ask yourself - what am I really getting that I can’t do myself?
+
 > Just like at the wine tasting your friend at Durham took you to
+
 Is it the meat? Well, maybe. Kitchens have access to some better quality meat than you might pick up from many of the lower end shelves (and sorry, but Tesco’s Finest doesn’t really cut it), but lots of the meat counters at many a supermarket now stock some very good meat: dry aged, well marbled, and cut properly. And free range, higher welfare chicken is now standard, along with Welsh lamb and heritage pork. Fine, it’s not the cheapest by far, but I’m rooting for quality over quantity.
 
 Is it the accompaniments? Perhaps the lack of sauce Béarnaise is what’s held you back last year, so it’s only fair to treat yourself to that, the triple cooked chips, and a token rocket salad.
 
 Or is it actually the skill – the fact that you just get to sit there, idly swirling your Chianti (just like at the wine tasting your friend at Durham took you to) and chatting about the latest batch of freshers, whilst pointedly avoiding all conversation about your own degree, before a steak appears, cooked just the way you like it. Of course, that’s medium rare; you have to show yourself off as a real connoisseur in front of your parents, so they see how well you’re maturing at uni. Besides, it’s how he orders it on Man vs Food, so it must be the best way, right?
+
 > It’s how he orders it on Man vs Food, so it must be the best way, right?
+
 Let’s cut to the chase: you’re ordering it because you hate cooking expensive cuts of meat at home. I used to. Spending £10 on a nice steak, only to have a crisis moment when it comes to actually cooking the beast. But let’s break it down, and dispel a few myths along the way. This isn’t my own investigation – far from it, it comes from the chefs I’ve worked with, as well as some of the excellent literature available online that explores the world of scientific cooking.
 
 How do you take it?

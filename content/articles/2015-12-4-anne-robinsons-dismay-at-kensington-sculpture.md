@@ -25,7 +25,9 @@ highlights:
 This week, plans to install a new sculpture on the roundabout just off Gloucester Road were damned by ex-presenter of The Weakest Link and Watchdog, Anne Robinson.
 
 Robinson, whose infamous glare made her a TV staple in the noughties, said the £100,000 price tag was too much, considering the UK is enduring “times of austerity”. Pointing out that the public art was tucked away on the traffic island, which was only really overlooked by the Michelin starred Launceston Place restaurant, she said, “It’s ludicrous to think that school-run mums and white van men will stop to admire a sculpture at that junction”.
+
 > She said the £100,000 price tag was too much
+
 The roundabout is just beyond the Gloucester Arms, and is currently covered by well-maintained shrubs. The sharp-tongued presenter maintained that Kensington and Chelsea were using the new statue as an excuse to “not to have to weed and plant” in the small patch.
 
 She said she’d rather the money were spent on less frivolous ventures, such as “my day care in years to come”.

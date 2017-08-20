@@ -32,7 +32,9 @@ Auschwitz, “has become a symbol of the Holocaust, representing man’s inhuman
 Holocaust Memorial Day is a day of remembrance held annually on the anniversary of the liberation of Auschwitz, by Soviet soldiers. Mr Yisrael Abelesz was interned as a teenager in Auschwitz-Birkenau and after the war, he came to England to work and bring up his family. His grandson is a current student at Imperial College.
 
 Over six decades after the end of World War II, two generations have passed and the generation that lived through the Holocaust is dwindling in numbers. Why must we listen to them and tell our children about the atrocities they faced? By listening to a personal account, behind mere figures, we can be led to empathy and therefore to action, in a world that is too often infected by epidemic apathy. Indeed, as Lithuanian researcher Vladimir Orlov, involved with investigations into the Nazi killing camps in his country recently pointed out, it is “insane” that historians remember the names of the murderers, allowing them to live on in history, while the victims remain anonymous.
+
 > By listening to a personal account, behind mere figures, we can be led to empathy
+
 Hearing an account first-hand is not the same as reading history that has been watered down. As Professor Dinur, famously said “If we wish to live and bequeath life to our offspring, if we believe that we are to pave the way to the future, then we must first of all not forget”. He suggests that witnesses that survived ensure a certain moral strength and we cannot allow their decreasing numbers to create a moral, cultural and educational vacuum, particularly when genocidal ideologies and Holocaust denial persist.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201301180002-tna08-1280px-auschwitzexecutionwall2006.jpg" title="Execution wall in Auschwitz I" caption="Execution wall in Auschwitz I" attr="" >}}

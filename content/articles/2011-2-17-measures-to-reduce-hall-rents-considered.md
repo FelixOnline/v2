@@ -36,8 +36,10 @@ Scrapping the “amenities fund” that each hall spends on social events throug
 It could be argued that this is a fairer option as the number of places on hall trips and the amount of food and alcohol available are often limited, and so some students can end up subsidising others whilst reaping no benefits themselves.
 
 Alex Kendall believes it “is a fundamental principle that no alcohol should be funded from the amenities fund. I’m very interested to hear what students who don’t drink alcohol, because of their religious beliefs, think about this since they’re effectively subsidising other other people to do so.”
+
 > [I believe that it] is a fundamental principle that no alcohol should be funded from the amenities fund
 > Alex Kendall, Union President
+
 However, Dan Read, Warden of Falmouth and Keogh Halls, argues that “removing the subsidy from events in halls would be very damaging to the communities that live there. Hall events throughout the year and particularly in the welcome weeks are extremely popular and help residents to make friends and enjoy shared experiences.” He also suggested that cutting this funding would make minimal difference to rent prices anyway as “amenity contributions only amount to about 1% of rents.”
 
 Ben Cook, a second year Biologist who lived in Wilkinson hall last year, also commented that he “would not have gone to most events if they had not been subsidised”. Other options such as a £10 common room charge for each term have also been suggested.

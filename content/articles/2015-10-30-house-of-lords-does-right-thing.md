@@ -27,7 +27,9 @@ highlights:
 George Osbourne’s new favourite line to describe the Conservatives is “the party of working people”. Over the last three years, since he was booed at the London Olympics opening ceremony, Osbourne has undergone a transformation, reinventing himself as a person and a politician.
 
 He’s lost two stone to try to improve his public image, widened his political vocabulary to include all kinds of clever political spiel and tried to re-brand the Conservatives as a party in the centre of the spectrum in an effort to close the political gap between them and Labour.
+
 > The House of Lords hasn’t done this in 100 years and some senior Conservatives are up in arms that an unelected body of peers can overturn their proposals.
+
 But however hard he tries to make us believe it, the Conservatives can’t be the party of working people if they take away money from working people.
 
 Before the 2015 election, David Cameron appeared on TV and stated that if his party won, they would not cut tax credits, a scheme introduced by Labour to boost the salaries of low paid workers and families. Now they are in power, they are trying to introduce a cut to tax credits that will affect two million working families with children and low household incomes, something that directly contradicts another of Osbourne’s buzzphrases – that he wants to “make work pay”. £4.4bn pounds worth of cuts are planned, with an expected average loss to families (with children) of £1000 each in the year 2020.

@@ -31,7 +31,9 @@ Google, undeniably one of the “bigs”, was the first to jump the gun with its
 {{< figure src="http://felixonline.co.uk/img/upload/201302220124-tna08-apple-iwatch.jpg" title="" caption="" attr="" >}}
 
 The internet is awash with rumours that Apple, another big boy on the tech company block, is now also about to jump onto the wearable gadget ship with its iWatch. The conspiracy theorists are having a field day with this one, wondering if Apple themselves may be responsible for the ‘leaks’. The iWatch has been rumour since 2007 its been a constant fallback for tech journalists when news on Apple was rare. However, now a days, the iWatch may actually become reality. An accessory to other iDevices more than an actual gadget on its own, its income is supposed to replace the falling income of the iPod line. There are many purported features of the iWatch ranging from unlocking your phone, to beeping if you leave your connected iDevice behind when you leave the house. While a very interesting addition to the Apple product line, I am wondering if, apart from dedicated fans, anyone will actually buy this.
+
 > ... the technology giants are attempting to claim this new area of the market
+
 What Apple can do, Samsung can do, according to android lovers, better. Samsung also apparently will be releasing a smartwatch, the Altius. Rumours of this productare scarce and it is hard to find any concrete facts on what this gadget will do. Not even the OS is assured, as Samsung could opt for Android or even a self created OS. However rumours quote that its functions are said to be quite similar to that of the iWatch.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201302220124-tna08-samsung-galaxy-altius-smartwatchnew.jpg" title="" caption="" attr="" >}}

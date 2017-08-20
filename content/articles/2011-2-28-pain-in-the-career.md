@@ -32,7 +32,9 @@ The world’s a pretty scary place at the moment, not least because of the abund
 All day, every day, the questions fire back and forth across the lecture theatre; individuals discussing the merits of Morgan Stanley or the perils of embarking into academic research. Interview techniques, stocks and shares, online tests. It’s a nuclear minefield.
 
 As others run to and fro, exchanging hints and tips on the best way to introduce yourself to prospective employers (fist bump, anyone?), I’m sitting back, pipe in hand, slippers on feet, considering whether I should be worrying more about my future.
+
 > As others exchange tips on the best way to introduce yourself to prospective employers (fist bump, anyone?), I’m sitting back, pipe in hand
+
 And I really should. It should come as no surprise that graduate employment is much lower than in recent years.
 
 But sometimes, like when that douche-bag walks into the library with his booming voice, mid-sentence, yelling out to his friends, “YAH mate, so I applied to this lush bank. The Times Top 100 says that it’s got water coolers and everything. I’m totally having my phone interview right here in 15 minutes so that everywaaan can listen…”

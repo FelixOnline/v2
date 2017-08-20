@@ -25,7 +25,9 @@ highlights:
 On Sunday the Imperial girls’ water polo team deservedly qualified for the BUCS trophy final after playing incredibly well throughout the season. They played a gruelling three consecutive matches and impressed in all of them. Initially the girls were down a couple of goals in their first match, and their second, but their determination and team-work brought them back to win their matches 9-5 against UWIC, 8-3 against Warwick and 13-4 against Exeter. By the end of the day it was clear that IC girls were a formidable force!
 
 By winning their matches on Sunday the girls’ team have won the southern second division trophy league and so in the final will go up against the winners of the northern division.
+
 > They played a gruelling three consecutive matches and impressed in all of them
+
 On Sunday the top goal scorer was captain; Sarah Bennett. However, the season’s top goal scorer has been tightly contested between Sarah, Vera Gielen and Hannah Collins, leaving the final as a decider as to who claims the title. Special mention has to go to our goalie on Sunday, Anna Joy Drury, who played despite being very ill. She made some amazing saves and appeared to be completely on the ball despite her illness. The only thing she failed to realise was they had actually won the first two matches, rather than lost them, like she thought!
 
 The team consists of girls from all disciplines, from Chemists to Medics, and they all came together as an incredible team to achieve their well-deserved success.

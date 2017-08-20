@@ -43,8 +43,10 @@ A further flaw in the NSS system was exposed in the article, showing that regard
 If you’ve not completed it and you don’t receive a phone call, it is possible you have been impersonated. If a program can use a database to do it, don’t hesitate to think your friends can’t. Yes, I’m looking at those of you who’ve posted pictures of your ID cards online on Facebook or Twitter, exposing your CID numbers on potentially the same page your date of birth resides. Don’t help usher in an era of NSS trolling.
 
 So even if we get around all this, there’s one more obstacle. Not everything in the survey is multiple choice, there are some boxes which require text input. Unless we define unique responses for each student, there’s a fair chance the NSS engine will detect patterns and be alerted to suspicious activity. For a malicious programmer with enough motivation, it’s not too infeasible, however.
+
 > This discovery completely undermines the NSS as a reliable and trustworthy source
 > Tom Wilshere, Computing Dep Rep
+
 I contacted the Deputy President (Education) Jason Parmar, who told me that even so, it’s “widely accepted as the “current” measure for student satisfaction”, and that “this may change in the next decade”. Tom Wilshere, Computing Department Representative, believes “this discovery completely undermines the NSS as a reliable and trustworthy source of information for ranking satisfaction in universities”, and that “it seems ridiculous that students (or indeed universities) could easily spam the system to improve the results for their departments”.
 
 With the commonplace nature of automated spam e-mailing systems with intelligent text generators that can pass the Turing test and deceive humans into thinking they are human too, it’s not farfetched to wonder whether students at this university or elsewhere have taken advantage of the exploits defined above. If executed right, they’d potentially go undetected and possibly get away scot-free…

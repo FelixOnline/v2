@@ -41,7 +41,9 @@ After obtaining a degree in Mechanical Engineering from North Staffordshire Poly
 “It was a huge company with exciting changes taking place so there was real opportunity for young engineers to be involved. At the time, the IC 125, which was the fastest diesel train in the world at the time and still runs now, was being brought in meaning that we had to build new depots as well as recruit and retrain 300-odd people. Through the whole 12 years, my job was about bringing change and modernising the way we do things, which was really exciting.”
 
 Mr Shooter recalls his first direct contact with British Rail passengers in Harpenden following 2 years of constant disruptions to the railway system due to track and station upgrades: “The commuters were pretty cross as the whole journey had been thinned out and lots of replacement buses had been used. When I went to give a speech at their village hall, packed with over 300 people, they were baying for blood.
+
 > We tend to recruit people for attitude and then train them for skills.
+
 “To start off with, it was a big shouting match, but then some people in the audience turned on the people who were shouting and said ‘Hey look, give the bloke a chance.’ We were just about to bring in new trains and a new service, so I told them that if it doesn’t improve over the next couple of months, then they’d be entitled to be after my blood. In the end, it was really good because a few of them then took me down the pub for a drink and we delivered what we said we would – improving our punctuality to the best in the country – meaning that these commuters were fully satisfied with the service.
 
 “I really enjoyed that because it’s really important that engineers realise they can make changes. To be interfacing directly with customers – the people who are going to put their hands in their pockets to pay for what you’re doing – doesn’t half concentrate your mind.”
@@ -61,7 +63,9 @@ After formally winning the franchise in 1996, Mr Shooter and his team devised a 
 “We’ve grown the business faster than any of the other companies. We’ve done that because railways, like many other businesses, survive on their customers. You’ve got to find out what customers want and, importantly, what they’re prepared to pay for.”
 
 Mr Shooter rounds up his story by explaining “success in business is all about the people. It’s about making sure you have the right people in the right teams with a very clear objective about what you’re trying to achieve. If you look at something that’s gone wrong, one of the first questions you might want to ask is ‘was there a clear objective?’ Secondly ‘did all the people who were involved in that understand the objective?’ And thirdly, ‘did they buy into it?’”
+
 > The advice I would give is about honing your people skills.
+
 Regarding hiring people to make up such a team, Mr Shooter looks for “people who are enthusiastic and are committed to working as a team. We tend to recruit people for attitude and then train them for skills. I want people who are going to come here and look as if they are enthusiastic and interested and want to get on and do stuff, but tempered with whatever are the appropriate qualifications for whatever the job may be.”
 
 Added to this, Mr Shooter’s passion for the rail industry is reflected in his ownership of a Darjeeling Himalayan Steam Locomotive, along with 600 yards of railway track in the back yard of his Bicester home. “I’ve always quite liked two-foot gauge railways and when I became aware that this would be for sale I knew it would be the only Darjeeling Himalayan Steam Locomotive ever likely to come out of India, so I brought it to the UK, had it overhauled and got some replica coaches that go with it.”

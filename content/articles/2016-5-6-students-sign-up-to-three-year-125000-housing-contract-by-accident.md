@@ -32,7 +32,9 @@ This week, college is coming to the aid of three Imperial students who accidenta
 The house, which has three bedrooms, was advertised at £800 per week in total, which amounts to a hefty £267 per student per week in its current state.
 
 Their intention was to sublet the place to a couple of other students, to take the rent down. Unfortunately, they signed the contract before finding anyone else and have already paid a hefty deposit, believed to be in the region of three grand. After reading back through the contract, they realise they are not allowed to sublet, and so are trying to get out of the deal.
-> > **To add insult to injury, the flat is unfurnished**
+
+> **To add insult to injury, the flat is unfurnished**
+
 The landlord, who lives in New York, has already charged them the first month’s rent upfront, which amounts to around £3500.
 
 The students found the house, which has two bedrooms and one large reception room, via Foxtons estate agents.

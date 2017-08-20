@@ -42,7 +42,9 @@ AH: Job ads are fragmented and too complicated to navigate. Users want to search
 {{< figure src="http://felixonline.co.uk/img/upload/201303150057-tna08-adzuna.jpg" title="" caption="" attr="" >}}
 
 Adzuna Connect is a social tool that allows jobseekers to see hundreds of job vacancies they are connected to via their first and second degree social connections in LinkedIn and Facebook. The average jobseeker has no idea they’re connected to over 300 relevant, open job vacancies through their social networks. Also, over 90% of companies, large and small, are now using social media to find staff. We also provide users with rich, insightful charts and data on every search, helping jobseekers make informed decisions and setting us apart from the competition.
+
 > Keep focused. Make your mother proud. And all employees must wear flip flops if the temperature is above 20oC
+
 __PP: So who do you see as your competitors?__
 
 AH: There are a number of other vertical search engines that aggregate content in a similar way, but we’re taking the market to the next level by bringing innovations in social and big data to bear. Some sites are very US focused, solely job driven, or simply out-dated.
@@ -50,7 +52,9 @@ AH: There are a number of other vertical search engines that aggregate content i
 __PP: How do you make money?__
 
 AH: We make money by referring traffic to certain jobs sites that we list, and from contextual advertising. Ads are listed for free in the organic index, with companies and portals having the option to buy premium listings. At this stage we are purely focussed on building an excellent job search experience that people want to use.
+
 > Job ads are fragmented and too complicated to navigate. Users want to search all the ads in one place
+
 __PP: What has been the most challenging time for the company?__
 
 AH: Since neither Doug (the other founder) nor myself are ‘tekkies’, and building a search engine is a massive technical challenge, putting together a crack squad of engineers to get Adzuna off the ground on a shoestring budget was tough. It took us a while to find the right “founding developer” for Adzuna and we were starting to stress that we might have to settle for expensive (and not brilliant) contractors and freelancers.
@@ -66,7 +70,9 @@ AH: We think it’s essential to build a great user experience. Keep focused. Ma
 __PP: Do you have any advice for our entrepreneur students when dealing with potential investors?__
 
 AH: Be honest, open and make sure you can deliver a clear elevator pitch (what you are doing, why it’s interesting and how you’regoing to make money) in less than 30 seconds. If you are fortunate enough to be able to choose investors, make sure you go with people you trust, your interests are aligned and you trust each other, as you’re likely to be working with these people for a number of years through good times and bad.
+
 > If you want to build something massive ... get something small and cool out there that people can use and play around with as soon as possible
+
 __PP: What is the best piece of advice anyone has ever given you?__
 
 AH: If you want to build something massive and amazing, get something small and cool out there that people can use and play around with as soon as possible. Don’t be precious about version 1, it’s not going to be perfect. Getting early feedback (from real people, not your mum) is absolutely critical.

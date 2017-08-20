@@ -39,7 +39,9 @@ But the American colonists, understanding where liberty lies, would have none of
 I see people using Kindles and Sony Readers instead of bound books and I worry they’re giving away their birthright. Digital books require a lot of technical expertise to understand which is currently in the hands of very few people. The books you buy for most e-book readers are encrypted with a secret key that only a particular device can understand.
 
 You might think that’s okay because, hey, Amazon and Apple need to make money too, but consider what happens when they go out of business, or the power goes out and all those books are lost, inaccessible inside technological prisons.
+
 > In the past, authorities wanting to remove books from society would have to physically force their way into everybody’s homes
+
 In the past, authorities wanting to remove books from society would have to physically force their way into everybody’s homes, examine all their shelves and make a massive bonfire to burn all the contraband.
 
 With e–book readers and an ethereal wireless internet that task is made so much easier. In 2009 Amazon recalled two e–books that customers had purchased without warning. Just to make this clear, a clerk sat in an office and pushed a button. It resulted in thousands of copies of books being deleted remotely from all Kindles worldwide. Ironically, those books were Nineteen–Eighty Four and Animal Farm by George Orwell.

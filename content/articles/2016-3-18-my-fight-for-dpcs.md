@@ -38,7 +38,9 @@ So with the knowledge that anyone who got the job would struggle no matter how m
 I’ll be honest, and admit that half of my motive at this point was to use the campaign to get some publicity for Magic Society, and the other half was that I didn’t feel like getting a real job at the end of the year.
 
 We prepared our campaign, and I think we did a pretty good job. I finally used up some of the printer credits that the College has been chucking at us for four years, and pasted my face all around campus in the hope that people might possibly notice.
-> > Before these elections, I was a lurker
+
+> Before these elections, I was a lurker
+
 When the polls opened, however, something strange happened. As I walked around, brandishing a giant picture of myself on the end of a hockey stick, giving sweets to strangers and performing magic tricks in an attempt to get them to listen to my pitch, I started hearing real stories from the students who ran into problems running their clubs. Be it room bookings or budgets, it was clear that the world of clubs and socs at Imperial had fixable issues, and I started to actually want the job. I realised that it’s a position where you can make a difference to a lot of people, and that it would be a great opportunity to meet and help out some genuinely cool people.
 
 So I campaigned a lot harder than I thought I would. I fought through the many straight rejections from students that were completely uninterested, talked to a tonne of people, and honestly enjoyed the experience of seeing what people thought of the uni we all study at.

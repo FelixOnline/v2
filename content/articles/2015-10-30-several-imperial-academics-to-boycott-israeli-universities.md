@@ -28,7 +28,9 @@ On Tuesday, a letter pledging an ‘academic boycott’ of Israeli universities 
 The full page spread was entitled ‘A Commitment by UK Scholars to the rights of Palestinians’ and featured the names and institutions of each signatory.
 
 The three Imperial academics featured are Professor Sir Thomas Kibble, a theoretical physics Emeritus professor, Professor Dot Griffiths, former Dean of the Business school and currently the Provost’s Envoy for Gender Equality, and Dr Bucker Dangor, a senior research investigator from Physics.
+
 > “Given the history of the Jewish people, Israel’s continuing violation of Palestinian human rights is bewildering, saddening and, to me, unjustified.”
+
 Although only signing the letter in a personal capacity, the professors on the list vow not to work with or visit Israeli universities, or attend events sponsored or organised by them. The academics say the boycott is down to Israeli institutions being “deeply complicit” in the nation’s “violations of international law”. However, there is an assurance that ties shouldn’t be cut with individual Israeli colleagues.
 
 Professor Dot told FELIX she’d signed the letter because of the Israeli shelling of a UN school in July 2014, in Gaza, which killed 15.

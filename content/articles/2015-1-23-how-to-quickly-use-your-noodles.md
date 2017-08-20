@@ -50,7 +50,9 @@ Most of the time, I tend to amplify the bouillon base with other sauces and past
 __Your meat and (two) veg__
 
 One advantage you’re going to have here is that you can add lots more unprocessed colour and flavour. It’s important however that you NEVER use raw meat; it’s not going to properly cook when you
+
 > "One advantage you’re going to have here is that you can add lots more unprocessed colour and flavour."
+
 add water. Meat plucked from a supermarket roast chicken (or from leftover Sunday roast) works well, though you can get amazing results with beef biltong/jerky.
 
 For the veggie component, small diced frozen veg is great for this. I’ve used everything from grated carrot and julienned bell peppers to raw sliced mushrooms.

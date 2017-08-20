@@ -30,7 +30,9 @@ After seeing him perform a hypnotic and enveloping set I set about getting my ha
 Forsyth performs live with a band, but in the studio the experience is quite different. The drums are completely absent. This makes Forsyth’s music a much more distant relative of traditional rock and in a way that’s why his music is so interesting. Guitar is an instrument commonly synonymous with rock, yet it is the sole guide through Chris Forsyth’s musical studies. The very instrument that gave rise to the musical decadence of shred, to the indulgence of simple cock-rock riffs here sheds its baggage; becoming instead a source of ambient, minimal soundscapes that hark back to the past of guitar, its roots in blues and folk with a nod to today’s more experimental ideas of music.
 
 On ‘Kenzo Deluxe,’ this is in full swing. Opener ‘The First Ten Minutes of Cocksucker Blues’ syncs up with the infamous documentary of The Rolling Stones’ tour to support Exile on Main Street. Its bluesy
+
 > Guitar is an instrument commonly synonymous with rock, yet it is the sole guide through Chris Forsyth’s musical studies
+
 sound frames the musical context of such work, while surpassing it in terms of thought and much like this one, every track is as much a study in guitar, what it can do and its cultural landscape as it is a great track on a chillout album.
 
 This is an album where guitar truly reigns supreme. In tracks such as the opener, he shows how to be rhythmically astute without a drummer, as a catchy riff repeats under melodies and solos with a bluesy tone and occasionally a bluegrass style twang to them. This song is similar to a later track ‘East Kensington Run Down,’ not in its sound but in its structure. Both develop a groove using a simple riff that remains unchanged, modulating only slightly as the sonic environment around it evolves, acting as the vehicle for the musical journey of the melodies. Until, that is, the songs break down in to a much less rigid form.

@@ -30,7 +30,9 @@ highlights:
 Now, you’re all going to think I’m crazy - telling you how to cook steak one week, and then mash the next? Madness – this bloke must think we can’t cook for toffee! Well, I’ve taken all the feedback from the few of you who did read it and not think it was a complete pile of garbage, and am going to focus on what you liked – the scientific part of it. Plus, I’ve had recipe requests, so I’ll slip one in this time – as well as nattering on less, if I can. If you feel like i’m insulting your cooking genius, apologies – I’m just trying to change the way you might look at food and why you do the things you do in cooking.
 
 Mash, champ, pommes mousseline – they all focus on that staple ingredient, the humble spud. It’s so versatile – and I will go on to write about the many other things you can do with it – but mash happens to be my favourite way of using them. Simply done, with a little bit of dripping from a roast – nothing can compare for me.
+
 > Straight away, a clear enemy was found, starch
+
 However, I’ve always struggled with lumps. And no, I don’t need to see a doctor – these are of the improperly cooked potato variety. And my mother’s mash would sometime be a teensy bit gloopy – don’t get me wrong, we’ve both made great mash before, but just not consistently. Somehow, the variations we did – ever so subtle, like the types of potatoes, the length of boiling or how well we let them steam dry – really screwed things up. I thought it was time I mastered one of the simpler dishes out there, so I had a look into it.
 
 And straight away, a clear enemy was found – starch. Or rather, what happens when starch and water mix. As granules of amylose and amylopectin interact with water, starch swells and then bursts, forming a gel matrix over time – it is, in fact, a non-newtonian fluid. This product is responsible for the least desirable feature – gummy mash. So clearly regulating the exposure of the potatoes to water is a problem.

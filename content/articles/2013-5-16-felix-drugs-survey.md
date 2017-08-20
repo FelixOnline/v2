@@ -51,9 +51,13 @@ For an academically demanding university, there didn’t seem to be widespread u
 {{< figure src="http://felixonline.co.uk/img/upload/201305162128-tna08-drugs-survey-3.jpg" title="The percentage of each year that admitted to trying illegal drugs." caption="The percentage of each year that admitted to trying illegal drugs." attr="" >}}
 
 It may be that Imperial is not as bad an influence on incoming students as people may think. With 76% of students who have tried drugs having done so before university, it may be that a certain element of the drug culture is derived from students’ past experiences outside of College.
+
 > “Drugs are bad mmmkay”
+
 That said, are these people having an influence on students who may not have tried anything before? It was found that 95% of students who now sell drugs did indulge in the highs before UCAS was sent off, showing that longevity is the key to dealing success.
+
 > “Not all illegal drugs, but the less harmful ones such as cannabis should be legalised.”
+
 Some naïve Freshers may be remaining naïve throughout their years, but some students are, as expected, experimenting as the years go on. Based on year of intake, more and more people have taken drugs the longer they have been at university. A difference of only around 14% however between this year’s spread of students does hint that there still isn’t much of a drug influence within the student body.
 ## Druggy Departments
 
@@ -68,7 +72,9 @@ So is there a drug community at Imperial? This seems to be dependant on who you 
 So, the question on the lips on the academically inclined Imperial students may be: does drug taking effect your degree? For those who take drugs, all in all, 86% people stated that their drug use has not influenced their degree at all. This does differ between Departments however: 17% of those in Bioengineering seem to think that drugs have somewhat disrupted their studies, whereas in other departments this percentage seems to be significantly less.
 ## Legalisation
 When asked about legalisation in general, 42% said drugs should be legalised. 32% said no, and 21% said don't know. For future surveys, asking people what specific drugs should be made legal would be better. A lot of people had long, eloquent responses to this one. Many said some (soft) drugs, not all, should be legal. Mostly, people said cannabis should be legalised.
+
 > “Cannabis should be legalised and maybe MDMA. They’re the only ones I’ve seen with scientific studies saying they are less damaging than alcohol.”
+
 Of the people that said that they wanted drugs to be legalised, just under 75% of them had taken drugs before, which is no surprise. What was a bit weird was that of the people that took drugs 57% said it should be legalised, meaning 43% want it to be illegal, but still want to do it – presumably so they can feel like massive badasses whenever they do a line. “I’m dangerous baby, I do things that are illegal, and rightly so”.
 
 Men favoured legalisation a lot more (oi oi banter with the lads etc?) than women: 48% of men say that it should be legalised, while only 31% of women thought it should be legalised. 31% of women said no to legalisation. So, in general, men are keener on legalisation and women are keener on not legalising. When comparing departments, Physics were most for it (53% say yes, presumably to make staring out to space more interesting and trippy), and Earth Science & Engineering seemed not keen on the idea with 25% wanting legalisation. Who needs drugs when you’re staring at rocks all day! Unsurprisingly, people who said that they either took drugs regularly, or used to take drugs regularly, very heavily favoured legalisation.
@@ -78,13 +84,17 @@ So what sort of dependency are students experiencing with drugs? With cannabis b
 It seems that, reflective of the free-thinking student body that we are, many put down drug trialling whilst at Imperial down to curiosity and fun, which may correlate to the locations of drug trial being most often in bars or clubs. The Union apparently appears more bearable than previously considered, with only 6 students admitting to having to resort to more than alcohol to have a good time.
 
 However, it does depend on when you started experimenting – many who started taking drugs before university, have said they have also pressured someone in their past: 11% have admitted to persuading their friends into taking a toke at some point too.
+
 > “I used to agree with legalisation until I worked with psych patients and saw the long term effects of cannabis on some people - I think legalizing would mean people relax about taking it and therefore more people are at risk of mental health problems so I am against it.”
+
 Students who have taken up the habit since starting seem to be more relaxed, with only 7% having an influence on others. All in all though, peer pressure seems very lax at Imperial, possibly indicative as to why seemingly few people pick up the habit after coming to South Kensington.
 ## Drugs vs Booze
 Despite the vagueness within this open question, 60% of those that take drugs consider alcohol to be just as, if not more so harmful. This increases to 64% of those sampled who were using drugs before starting university
 ## Compared to others
 A university wide drugs study ran by Student Beans in 2012, answered by 1,903 people, found that actually 54% of students would have taken drugs in there time at university.
+
 > “I think there are little groups of people who are known for taking MDMA on nights out, or smoking weed at parties, but they integrate very well within social groups who merely drink on nights out.”
+
 However, nationally, 79% of students who have taken drugs did so before university, showing that we seem to have attracted the less adventurous sixth formers.
 
 But how do we compare to the world outside of university? Latest figures from the Home Office show that two thirds of adults have taken drugs at least once, meaning that for those not brave enough to get experimental on campus, there is still hope for after graduation. However, with the national average of first time drug use being between the ages of 16 and 18, this explains why so many students who take drugs at Imperial already did so before arriving in October.

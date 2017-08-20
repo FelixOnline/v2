@@ -33,7 +33,9 @@ Straight-talking Politics
 The race for the 2016 Republican presidential nomination has highlighted the power of “straight-talking” politics and its ability to engage the otherwise apolitical masses. In each debate and interview we’ve watched as candidates attempt to trump each other with ever more outlandish and offensive statements.
 
 The two current front-runners, Donald Trump and Ben Carson, have shown that a sizable proportion of right-wing Americans have grown disillusioned with conventional politics and career politicians. In this political climate, it wasn’t massively surprising when Kanye West announced he would run for President in 2020, at this year’s VMAs.
+
 > Kanye is certainly to the left of some of the current Democratic candidates
+
 Whilst Trump and Carson’s celebrity appeal seems to have played a part in their success, it’s the “honest” politics that they’ve both been promoting that Kanye will hope to emulate the most. Whether he has the ability to connect with Americans in the same way that others have done is questionable, but he does have a certain confidence in himself (particularly in his impressive body of work) that few of his future contemporaries could ever aim to reproduce.
 
 The tweets he comes out with aren’t far from the nonsensical and often contentious words that are unflaggingly excreted from the hole in Donald Trump’s leathered face – so it would be unfair to dismiss his candidacy completely. Kanye has endorsed the Democratic party a number of times in the past, so one might assumption that he would run on some sort of progressive platform, although (confusingly) in recent weeks he has praised Ben Carson, a politician whose views are somehow even more shameless and idiotic than Trump’s, saying: “This is the most brilliant guy.” Oh, Kanye.

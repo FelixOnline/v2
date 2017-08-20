@@ -34,7 +34,9 @@ The paper, entitled ‘Solving Council’s Quorum Crisis’, proposed to discoun
 The meeting, which was quorate, voted in favour of the measures, in a majority of 54%. However, changes to the bye-laws or constitution of the union need a so-called ‘super-majority’ of 66%, so it did not pass.
 
 Had it passed, the bye-law-changing paper would have had to be okayed by the union’s trustee board (where voting is by ‘consensus’ rather than actual voting and includes union management as well as officer trustees). It would then have to be sanctioned by the Imperial College Council to become ‘union law’.
-> > **Arguably the main big decisions are made by union employees at trustee board level**
+
+> **Arguably the main big decisions are made by union employees at trustee board level**
+
 Although the paper did not pass, the majority of those present did agree with the sentiment, so a working group will be set up to work towards improving the situation.
 
 Council is the first port of call for anyone who thinks the union should take a stand on a particular subject, whether that be pro-Junior Doctors or anti-Prevent. Technically it is where the union’s policies are decided by students, but arguably the main big decisions are made by union employees at the trustee board level.

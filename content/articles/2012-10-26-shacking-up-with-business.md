@@ -48,7 +48,9 @@ Our business model operates on a series of different revenue streams, such as st
 _Would you advise students to start a business whilst still studying or wait until they have more experience/financial security?_
 
 I believe that if you have a good enough idea and it is realistic then why wait? If you have a fantastic
+
 > I believe a great strength is to know your weaknesses, and once you know them you can build your team around that
+
 idea bottled up until you have more experience, then another company could come in and get the market before you – that wouldn’t be good!
 
 _Young entrepreneurs often tend to run before they can walk. What would you say are the best first steps to take with an exciting new business idea?_

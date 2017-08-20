@@ -27,7 +27,9 @@ First you find out you’re not actually eating beef, nay, horses. Then you find
 It has been in the news that the WHO have produced a report telling us that meat causes cancer. Or rather, they have classified certain types of meat as a Group 1 carcinogen.
 
 Headlines such as, “Meat as big a cause of cancer as cigarettes” and “Meat as bad as tobacco”, however, are the media getting up to its clever, sensationalist, attention-grabbing tricks. The headlines stem from the fact that processed meats have been put into the same carcinogen category as tobacco. But whereas tobacco raises the relative risk of cancer by about 250%, eating two slices of bacon a day only raises your relative risk by 18%. So it isn’t quite as bad as the papers would have us believe.
+
 > You’d think that anything that significantly raises cancer risk would be a concern
+
 But what still baffles me is people’s attitude toward the study. Instead of concern, people seem to scoff at it, as if the idea that meat is that bad for their health is ridiculous. Why is that? You’d think that anything that significantly raises cancer risk would be a concern, but there seems to be a prejudice against anything that challenges eating meat in the general population.
 
 It might be that people’s attitudes towards vegetarianism and meat are rooted in old ways of thinking, where finishing a steak was the mark of a man. Personally, there have been many times that people have made a remark that I’m less manly for not eating meat. I’ve also heard that I “just graze in a field” when I’m hungry.

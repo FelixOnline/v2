@@ -30,7 +30,9 @@ Conveniently for me, we live in the 21st century where everything is digital, in
 Well the pattern they found, I like to call the_I’m not racist, but_ pattern, includes people feverently denying being racist but ending up falling into patterns that definitely exhibit racial bias.
 
 To explain what I mean: OkCupid saw that a very small percentage (approx 10%) of users openly objected to interracial marriage, which is almost as blatantly racist as forming a white hood wearing mob and prowling the streets with your mates. But actually, more than twice as many (approx 20%) said they would date someone with a vocal racial bias and over four times that number said they prefer dating individuals of their own race. Now remember. The sample size is 25 million. So we’re talking big numbers here.
-> > If you deny that it’s an integral part of our society, you’re either an alien or white
+
+> If you deny that it’s an integral part of our society, you’re either an alien or white
+
 Looking more closely at their data, they saw that overall white males got the most replies when they initiated the conversation while they tended to ignore messages from black women. Similarly, white women tended to almost exclusively reply to white men. The same preference was not only also exhibited in Hispanic and Asian women, it was actually more pronounced.
 
 What do these numbers mean? Well, we still maintain a fair amount of racial bias. Whiteness is desireable. And how can it not be when it’s the prevalent standard of beauty in the fashion industry? When it’s associated with power in politics, or with brains in academia. When a pairing of colour with crime, immigration, and extremism is constructed on a daily basis?
@@ -38,7 +40,9 @@ What do these numbers mean? Well, we still maintain a fair amount of racial bias
 Some of the clearest illustrations of the desirability of whiteness can probably come from Grindr, a popular gay hookup app, though I often think of it as a meat market. Your profile includes stats such as height, weight, body type and race. There is no swiping, on the contrary you are presented with a grid of users in order of proximity. You are able to do advanced searches and filter through potential mates, based on the above characteristics. And of course there is the option for total anonymity. All these features combined allow for a good deal of racism.
 
 From the fetishisation of certain races “Black to the front” to the blatant discrimination against others “No fems, no fats, no asians”– Yes, this staple text from real profiles and far more common than it should be. Just as I was writing this piece, I opened the app and within a 500m radius found two profiles cashing in on the fetishisation of gay black men (with the inspired names “Blackguy” and “Blacktop”), one profile fetishising black men (“more attracted into darker skin guys”) and one profile who wasn’t into Asians “unless muscular”.
-> > The realistic view is that black guys are fetishised and criminalised at the same time
+
+> The realistic view is that black guys are fetishised and criminalised at the same time
+
 “Racial bias is nothing new to me whether it’s in the job market or a dating app,” says a black user who wishes to remain anonymous. “The realistic view is that black guys are fetishised and criminalised at the same time. We are not playing at the same field [sic]”. Indeed racial fetishisation is just a different side of the same coin. It is a result of racial stereotyping, with objectification as an added bonus. Homi Bhabha, a very important figure in postcolonial studies, argues that racial fetishism stems from colonial discourse, i.e. a discourse that recognises yet denies racial differences at the same time, allowing the construction of the ‘other’ and its demonisation and simultaneous idolisation.
 
 Tinder, due to the swiping mechanism is harder to investigate. Again you construct a profile, but you’re randomly pitted against other profiles, which you then have to swipe left or right on, depending on whether you like them or not. If you both swipe right there’s a match and a platform for conversation is unlocked. This allows racial bias to remain relatively conspicuous. Yet racism always finds a way.

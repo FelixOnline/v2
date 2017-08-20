@@ -34,7 +34,9 @@ People with camping chairs and sleeping bags began to appear on Saturday, when t
 The huge Bond fans said they had watched all 23 Bond movies in the build-up for tonight, until they “went blind”.
 
 When asked why they had returned for _Spectre_, the couple said they had come very close to a selfie with Daniel Craig last time and that they would attempt it again on this occasion. Another person joked that he knows the films so well he’s starting to think he is Bond, although this FELIX reporter would comment that his physique was not a conventional one for the part.
+
 > The campers repeatedly called High Street Kensington’s 24-hour McDonald’s a “life saver”
+
 The campers repeatedly called High Street Kensington’s 24-hour McDonald’s a “life saver”. The harsh sleeping conditions of an uncovered London road in the cold was ridiculed by one camper, who claimed he was “hardcore” enough to survive Saturday’s rain and 2°C night temperature, although he did complain that his sleep was disturbed by rowdy Imperial students leaving the Oktoberfest celebrations at the union on Saturday night.
 
 The uber fans boasted of having seen Bond’s Aston Martin DB10, star of the trailer’s car chase in Rome, get delivered to the Royal Albert Hall this weekend. One commented that there seems to be more action in this instalment of the franchise .

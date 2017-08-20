@@ -31,7 +31,9 @@ highlights:
 Space happy hour is now a thing, and astronomy just got a whole lot more student friendly. While all the Halloween based excitement was focused on the “skull comet” TB145’s flyby, scientists discovered another asteroid that’s leaving a trail of alcohol almost as large as the one left by the average ACC.
 
 At the peak of activity, the appropriately named comet ‘Lovejoy’ was found to be releasing the alcoholic equivalent of 500 bottles of wine every second. Although ethyl alcohol has been detected in space clouds before, this is the first time ethanol, like the kind in alcoholic drinks, has been detected.
+
 > ‘Lovejoy’ was releasing the equivalent of 500 bottles of wine every second
+
 Scientists were able to identify the ethanol gas being emitted as the sun’s energy causes the molecules in the comet’s atmosphere to glow at microwave frequencies. Telescopes were then used to distinguish the compounds by their signature frequencies. The equipment is so advanced that the team was able to determine the concentration and composition of multiple compounds simultaneously.
 
 The research group also identified 20 other compounds including simple sugars like glycoaldehydes, meaning the cocktail comet’s atmosphere is a sugar rush as well as an intoxicator. Comet Lovejoy made equally as cool headlines back in 2011 when it survived flying through the atmosphere of the sun, something many thought was impossible.

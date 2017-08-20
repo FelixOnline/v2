@@ -30,7 +30,9 @@ The series follows the story of Steven Avery, a resident of Manitowoc County, Wi
 What follows is an incredibly harrowing look into police and judicial corruption and misconduct.There is evidence presented of the police department, planting evidence, coercing witnesses and improperly handling the legal proceedings of the case, among other equally disturbing acts.
 
 What is interesting about this documentary is the depth to which it investigates and presents the story. Where one might usually expect such a documentary to cover this in around two hours, this series has ten hours to provide lengthy explanations for the evidence that Avery’s defence presents, as well as the prosecution’s explanations (or lack thereof). However, as this features events spanning from 1985 to 2014, focussing on a case that itself had over 200 hours worth of evidence presented, there are, of course, omissions that one could take issue with.
-> > **The series does suffer slightly in that it undoubtedly has bias in Steven Avery’s favour**
+
+> **The series does suffer slightly in that it undoubtedly has bias in Steven Avery’s favour**
+
 The series does suffer slightly in that it undoubtedly has bias in Steven Avery’s favour. This manifests mainly in downplaying some of the darker parts of Avery’s past, most egregiously dismissing Avery’s criminal activity prior to his false conviction for rape as simple adolescent antics, the reality of which is much more disturbing. He was arrested and jailed three times prior to his false accusation, for burglary of a local store, assault of his cousin and, most shockingly, for dousing his cat in gasoline and setting it on fire. Omissions such as these serve only to undermine the purpose of the documentary which should not be to paint Avery as a saint, but to display the mishandling and sabotaging of the case by the Manitowoc Country Sheriff Department.
 
 I would, despite this, unreservedly recommend watching the series, if for no other reason than to join in the cultural phenomenon it has become.

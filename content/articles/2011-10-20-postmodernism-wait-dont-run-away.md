@@ -25,7 +25,9 @@ highlights:
 I don’t know if you’ve heard, but there’s [an exhibition on](http://www.vam.ac.uk/content/exhibitions/postmodernism/) at the V&A at the moment. You know, that nice building on the other side of Exhibition Road – the one that has “art” and “design” in it. If you’re a fresher, and you haven’t paid it a visit yet, that’s fair enough. I do suggest you go at some point in your next three (or four) years – it’s just across the street, and you’d be surprised at how refreshing a bit of “something that isn’t science” can be. If you’re not a fresher, and you haven’t been yet, go – if only to ogle at/try and chat up one of the fit art students taking notes at the latest exhibition (also it’s a refreshing change from Imperial).
 
 I was at the V&A at the weekend – not for the above reasons – for their new exhibition on postmodernism. Before you stop reading this in disgust, let me just say two things: this is not a review of the exhibition, because I know next to nothing about art, and what the fuck is postmodernism? Your guess is as good as mine, mate.
+
 > Everything that modernism stands for, postmodernism wants to subvert, destroy, and turn on its head.
+
 Maybe the exhibition could provide an answer? The main thing I got out of wandering through weirdly lit, high-ceilinged rooms for an hour and a half was this: No-one effing knows what postmodernism is.
 
 Apparently, you can ask fifty different people who are knowledgeable about this kind of thing and you’ll get fifty different answers. Fifty different “valid” answers. It makes my physicist brain start twitching nervously; which is, apparently, the whole point. So, there’s a word describing something that everyone (read: art boffins) can relate to but that no-one can really define. Honestly, as far as intellectual abstraction and weird concepts go, quantum mechanics has nothing on postmodernism.

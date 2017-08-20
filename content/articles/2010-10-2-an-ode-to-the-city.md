@@ -36,7 +36,9 @@ I’m afraid that I’m leaving the research and dog work up to you. This is not
 Some cities sleep when the sun heads beyond the horizon, but some cities awaken. Fuck the small suburban town you call home, because while Watford, Thurrock and Wrington (wherever you might come from) doze off into a quiet evening, a bright-eyed London is most definitely awake.
 
 You can discover London twice. Once during the day and once again come 10pm. Furthermore, discovery requires trial and error, and that’s another reason why I’m happy to keep tight-lipped on the recommendation front. Follow the crowds during Welcome Week and you may just find yourself in a shitty club that everyone except you seems to enjoy. Follow another crowd and you may end up snorting ketamine off the floor of a squat party in Hackney.
+
 > You’ll slowly build a black list of clubs and areas of London you vow to never return to
+
 Whatever you consider a shit night out, you will inevitably have one. You’ll slowly build a black list of clubs and areas of London you vow to never return to. At the same time your taste in venues to get trashed in will start to refine and before you know it you’ll be the world authority on London nightlife. Maybe.
 
 There are alcoholic wonders closer to home too; they are on your doorsteps in South Kensington. There’s a certain je ne sais quoi about home turf which turns even the most refined of your peers into bona fide waste gashes. You’ll witness the pissed of the very pissed in the Union and Eastside Bar. Hangovers the next morning should be as memorable as the actual night before, but that’s the charm of student life: lectures are effectively optional.

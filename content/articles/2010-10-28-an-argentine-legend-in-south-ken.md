@@ -27,7 +27,9 @@ Situated underground, just a stone’s throw from the station, lies South Kensin
 This is not your standard clinical bistro seen on the main streets of pseudo-upscale areas. Instead, [El Gaucho](http://www.elgaucho.co.uk/) is an intimate restaurant that radiates warmth and character – from the friendly attentiveness of the service, to the cosy décor. But I was here for their steak. I’m not referring to the sort offered by the typical Aberdeen Angus Steakhouse chain littered around most tourist hotspots. Nor am I alluding to the wholly unsatisfying, thin-cut variety served slathered avec une sauce-we-cannot-pronounce. I’m talking about the no-nonsense, unadulterated steak - and the Argentines are the experts.
 
 So, does the product live up to its reputation? Absolutely.
+
 > El Gaucho’s selling point is flavour backed by authenticity
+
 El Gaucho’s selling point is flavour backed by authenticity. On tasting a selection of their most popular cuts, neither was compromised. Rib-eye, Sirloin, Rump and Fillet are all on the menu, and the staff are more than happy to explain the differences between them with regard to flavour, fat and texture to those of us who are not yet aficionados on such epicurean subtleties.
 
 Bife Angosto A Caballo (£16.90), twelve ounces of prime Argentine sirloin, arrives on a sizzling hot-plate, served the authentic way – topped with two fried eggs. Without even cutting into it, you know this steak is going to be plump and juicy. Smoky, charred and slightly caramelised all around, with a good amount of give when the all-important fingertip test was carried out. The taste did not disappoint – perfectly seasoned on the outside, allowing the natural flavour of the succulent pink meat to follow through. This is a steak that speaks for itself. No need for sauces, no elaborate garnishes, just a cut of Argentina’s finest export, served in the traditional manner.

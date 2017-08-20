@@ -29,8 +29,6 @@ Barrafina!
 
 Barrafina is a mini-chain of tapas bars serving modern, authentic, Spanish tapas. Landing its first site in Soho in 2007, it has gained a cult following of hungry customers, reflected by the hour-long queues every day outside its doors, pages of heated reviews and a Michelin star. With the opening of its second branch on Adelaide Street in 2014 and its third brand on Drury Lane in 2015, its growth has been unstoppable, even under its no-reservation policy all through the years. If people are still queuing up after ten-odd years, you have to admit this place must be good.
 
-
-
 {{< figure src="http://felixonline.co.uk/img/upload/201701201539-felix-IMG_7079.jpg" title="" caption="" attr="Christy Lam" >}}
 
 Under our anxiety issues and shared hatred of queues, we dragged ourselves out of bed bright and early on a Sunday morning, making it to the door of their Adelaide Street branch a quarter-hour before the lunch session started. We were among the first to queue – perhaps the wintry winds and the January drizzle were off-putting to some.
@@ -40,8 +38,6 @@ After 15 minutes of waiting in anticipation, we entered (or happily skipped) thr
 Following the hours of research in the form of scrolling through Instagram, I chanted out our order to the waiter behind the bar like a sorcerer, watching him key in the names after a slight nod. Our dishes were made into a list, thoughtfully sectioned so they would be served in 2’s to a maximum of 3 at a time.
 
 At Barrafina, all the waiters and chefs work behind the bar. We could see everything in action. I was amazed at how they worked in such an efficient, flawless, almost-relaxed manner despite the small space and during the busy lunch hour: waiters taking orders, serving food, chefs working at their respective stations.
-
-
 
 {{< figure src="http://felixonline.co.uk/img/upload/201701201539-felix-IMG_7090.jpg" title="" caption="" attr="Christy Lam" >}}
 

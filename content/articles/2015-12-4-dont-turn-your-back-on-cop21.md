@@ -30,7 +30,9 @@ highlights:
 On Monday, 25,000 official delegates from 150 countries descended on Paris for the COP21 Climate Talks. Of all the talks we have seen to date, they are the best organised international talks, with the most potential. The biggest progress is that they are focussed around the climate action targets that countries have agreed meet by 2020, called Intended Nationally Determined Contributions or INDCs. They are also set to acknowledge at least some of the great potential of local and grassroots action on climate change by emphasising the role of individual cities, like London, in setting their own targets and actions.
 
 It would be a lie, however, to herald them as a solution, even a temporary one, to our climate change woes. The INDCs mentioned will allow for more coherent discussion and will hopefully push countries to be more ambitious, but taken as they are, they still steer us on a course for at least 3°C of warming. This means catastrophic sea level rise of at least half a metre by 2100, massive weather disasters, floods, droughts, and mass homelessness. This will largely affect those in the global south who haven’t contributed to climate change in the first place.
+
 > We need a massive international people’s movement
+
 Look a little closer and it’s clear that even this is optimistic. Huge business groups like Business Europe have taken the stance that climate action is directly opposed to economic growth and governments are nodding along with them.
 
 Reluctant to set real regulation, and scared that they’ll lose out on industry, they have promised huge tax funded pay-outs to companies, should they set any. Business Europe are right: economic growth and true sustainability are fundamentally incompatible and until governments can prioritise people before profits, economic growth will always take precedence and climate action will not make headway.

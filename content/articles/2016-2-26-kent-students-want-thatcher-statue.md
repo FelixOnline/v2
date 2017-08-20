@@ -34,4 +34,5 @@ The Conservative Society’s chair says although it started off as a way to high
 This is not the first time Kent University’s Conservative Society has campaigned for a statue of Thatcher.  Two years ago, just after her death, a committee member called for a marble statue of her likeness to be built by the union. Unsupringly, he was downvoted to oblivion.
 
 Thatcher, who was the first female Prime Minister and in office throughout the entirity of the 1980s,  was a fierce campaigner against unions, once calling unionised striking miners, “the enemy within”.
-> > It started off as a way to highlight flaws in the union’s petitioning system
+
+> It started off as a way to highlight flaws in the union’s petitioning system

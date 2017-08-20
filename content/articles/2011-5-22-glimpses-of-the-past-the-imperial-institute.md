@@ -45,14 +45,10 @@ Work on the tower’s structural foundations began on the 14th of March 1966. Th
 
 {{< figure src="http://felixonline.co.uk/img/upload/201105221327-felix-imperial-institute-8.jpg" title="The Imperial Institute, as seen from what is now known as Imperial College Road (then known as Imperial Institute Road)" caption="The Imperial Institute, as seen from what is now known as Imperial College Road (then known as Imperial Institute Road)" attr="Credit: Courtesy of the Imperial College London Archives" >}}
 
-
 {{< figure src="http://felixonline.co.uk/img/upload/201105221328-felix-colcutt-jokes-feb-14-1958-copy-2-(dragged).jpg" title="A cartoon printed in Felix on February 14th, 1958 (four months after the Sputnik I launch) imagining the ‘Colcutt Tower’ as a Soviet space rocket" caption="A cartoon printed in Felix on February 14th, 1958 (four months after the Sputnik I launch) imagining the ‘Colcutt Tower’ as a Soviet space rocket" attr="Credit: Felix archive" >}}
-
 
 {{< figure src="http://felixonline.co.uk/img/upload/201105221333-felix-west-tower-january-1963-taken-by-r.-henson.jpg" title="The West tower of the Imperial Institute during the demolition, as seen from the Queen’s Tower. Note the old Aeronautical museum behind it, where the Central Library is now situated – January 1963 taken by R. Henson" caption="The West tower of the Imperial Institute during the demolition, as seen from the Queen’s Tower. Note the old Aeronautical museum behind it, where the Central Library is now situated – January 1963 taken by R. Henson" attr="Credit: Courtesy of the Imperial College London Archives" >}}
 
-
 {{< figure src="http://felixonline.co.uk/img/upload/201105221335-felix-crown-journal-issue-142-march-april-1966.jpg" title="Only the Queen’s Tower remains of the original building. A significant amount of structural engineering was needed to ensure that the tower could stand alone as the final bits of the Institute were pulled away from it – March 1966" caption="Only the Queen’s Tower remains of the original building. A significant amount of structural engineering was needed to ensure that the tower could stand alone as the final bits of the Institute were pulled away from it – March 1966" attr="Credit: Courtesy of the Imperial College London Archives" >}}
-
 
 {{< figure src="http://felixonline.co.uk/img/upload/201105221339-felix-library-building-photo-036797-by-sydney-newbery.jpg" title="The Queen’s Lawn area, much as it is today, on completion in 1969" caption="The Queen’s Lawn area, much as it is today, on completion in 1969" attr="Credit: Courtesy of the Imperial College London Archives" >}}

@@ -32,7 +32,9 @@ Someone once told me that dogs can’t look up. After the serendipitous, albeit 
 Well, of course, they can – the mechanical basis is there. I’ve spent many an hour manhandling anatomy skeletons into a variety of ungodly shapes and looking up is but one permutation. But out on the streets, it’s hard to find any in vivo confirmation.
 
 In fact, on the underground, it’s practically unheard of. Commuters have gone several stops past their destination to save the public humiliation of having to look up as the station names, emblazoned upon the platform walls, flash by. I think it might a defence mechanism, a throw-back to that stage of evolution when the human race was particular vulnerable to having its throat ripped out. In looking up, we expose a very fleshy, very vital piece of anatomy, practically welcoming a good garrotting.
+
 > It may have started as a means of survival, but keeping our heads down nowadays is beginning to work against us
+
 So resisting the urge to look up is a survival strategy, part of the “head down and carry on” mentality of the collective. Still, I think it’s sad that a young woman under attack is more likely to receive help from passers-by if she shouts “fire!” than if she cries “rape!” It may have started as a means of survival, but keeping our heads down nowadays is beginning to work against us.
 
 This is such a shame because I think people are missing out on something incredible, something you can only see when you look up. To make sure you get a really good gander at it, you need to go somewhere high, or open. Preferably both.

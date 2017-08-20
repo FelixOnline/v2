@@ -31,7 +31,9 @@ The local radio show host shows an equally narrow-minded attitude, hollering “
 Fortunately, the US social inclination to avoid embarrassment at all costs soon kicks in and the community gradually responds to Jamie’s pleas. He obtains tens of thousands of dollars from the local hospital boss to keep the scheme going, the school food supplier pledges a year’s free produce, and a thousand people partake in his cookathon – including the Governor – discovering in the process how easy good, healthy food can be to make and prepare.
 
 The show does of course suffer from all the usual reality TV drivel, X-factor style (but with far fewer lights and dramatic music), though this does make it exceptionally watchable. Crucially, the sight of seeing Jamie blubbing five times an episode like some sort of leaking tap does not detract from the key objective of highlighting how entrenched in society shoddy eating has become not only for children, but adults too. Whilst the X-factor places tears, Simon Cowell’s teeth, and Wagner before music, Jamie’s food revolution manages to consistently keep good, honest food as its central heroine.
+
 > The chances of the revolution having any lasting impact on Huntington’s eating habits are as faint as Nick Clegg’s spine
+
 Jamie has spent the last few years changing the way we perceive food. Back in 2005 he ran the kitchen meals for a UK school for a year, beginning a campaign to improve the standard of Britain’s school meals. He’s now sowed the seeds for a similar reform in the US, although one gets the impression that the chances of the revolution having any lasting impact on Huntington’s eating habits are as faint as Nick Clegg’s spine. But for anyone who genuinely cares about their health and the joys of eating, this show is a real eye-opener.
 
 Amazingly, at the local high school the kids queue up for Jamie’s spaghetti sauce, and ditch the chips.

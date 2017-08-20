@@ -31,9 +31,11 @@ The plot centres on Cavaradossi, a painter who aids his friend Angelotti to esca
 It takes a strong cast, then, to live up to the intensity of such an opera. Returning for the third time in the role of Cavaradossi, Gwyn Hughes Jones dominates the stage in this second reprise of Catherine Malfitano’s Tosca. Jones’ magnificent tenor voice was breathtaking, and I felt a thrill of excitement every time he appeared on stage to sing. His solo “E lucevan de stelle” in the final act, as Cavaradossi faces his impending execution in despair, was an absolute treat to listen to.
 
 Starring opposite him is Keri Alkema, an American soprano making her debut on the ENO stage. Unfortunately, she does not quite match up to Jones’ strong heroic voice, particularly in the love duets. Alkema makes a far better tragic heroine than tender lover, with her voice and stage presence really shining in the dramatic scenes of Act II. As Scarpia (played by the delightfully malevolent Craig Colclough) brutally tortures Cavaradossi to press Tosca into submission, Alkema puts forth a memorable portrayal of desperation and defiance. “Vissi d’arte”, in which Tosca laments how harshly heaven has repaid her piety, was especially touching.
-> > Tosca, filled with emotion and
-> > suspense, is an opera calculated to have the audience on the edge of their
-> > seats
+
+> Tosca, filled with emotion and
+> suspense, is an opera calculated to have the audience on the edge of their
+> seats
+
 Visually, the lush set was an excellent backdrop to the drama unfolding on stage. Scarpia’s dimly lit, spacious apartment in which Act II takes place radiates an air of oppressive gloom, further enhanced by the black-clad henchmen stationed at every corner. As Cavaradossi is dragged out to be tortured, bright light spilling from the torture chamber throws the entire stage into stark relief.
 
 In contrast to the fairly traditional scenery of the first two acts, the set for Act III puts a more abstract spin on the final events of _Tosca_. The battlements of the Castel Sant’Angelo are replaced by a dramatic parabola, while the “Roman dawn”, bringing false hope for the doomed lovers, is represented by a bright blue depiction of gaseous stars. Truth be told, I found the abrupt shift to modernity a little disconcerting. It did make for a visually striking finale, though, with Tosca’s fatal plunge off the curved edge into nothingness.

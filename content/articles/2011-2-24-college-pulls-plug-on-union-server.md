@@ -28,8 +28,10 @@ Senior Union figures were left at odds with College last week when the Union’s
 The main Clubs & Societies server had a ban placed on its primary IP at 13:30 on Thursday 17th February by ICT Security for just under an hour. This resulted in all Clubs & Societies websites becoming inaccessible, along with the room booking system and the eVoting site currently accepting nominations for [Sabbatical elections](http://www.union.ic.ac.uk/marketing/elections/). The shutdown is like to have caused significant disruption to students attempting to participate in the elections or book rooms for their Clubs & Societies; as a comparison, in the hour before the shutdown, the server received 14,429 page requests.
 
 The [offending article](http://www.union.ic.ac.uk/acc/rugby/2011/02/titans-unleash-their-wrath-on-kiwis/#more-171) in question was a match report of Imperial Rugby Club Old Boys recent victory against London New Zealand II’s in the Middlesex Merit League 1 competition. It contained the use of the word “fuck” on two occasions and made indirect reference to a member of the public.
+
 > There was nothing offensive, and certainly nothing illegal about [the article]
 > Alex Kendall, Union President
+
 Upon reading the article, Deputy President (Clubs & Societies) Heather Jones and President Alex Kendall concluded “that there was nothing offensive, and certainly nothing illegal about [the article.]” However, the member of public complained that the article was libellous.
 
 Before shutting down the server, emails were sent to the Union President’s personal Imperial account. According to the Union, no other attempts were made to contact other members of the Union, including the Union System Administrator who manages the server. In an email to senior members of the College, including the Rector Sir Keith O’Nions, Heather Jones called the lack of communication “utterly indefensible”.

@@ -29,7 +29,9 @@ highlights:
 After an email from a college administrator, telling them to “look away” if they were offended by racially insensitive Halloween costumes, Yale students have been protesting this week.
 
 Shortly before Halloween, an initial email was sent to the whole student body from Yale’s ‘intercultural affairs committee’ which included representatives from the chaplaincy, athletics and various ethnic groups. After telling students that Yale “values free expression as well as inclusivity,” it went on to remind students to be aware that their costumes could be interpreted as offensive to marginalised groups.
+
 > A thousand Yale students took part in a ‘March of Resilience’
+
 Four potentially problematic types of costume were named; ‘funny’, ‘historical’, ‘religious’ and ‘cultural’, with each followed by questions potential party-goers should ask themselves. Under the cultural banner, the administrative staff asked, “If this costume is meant to be historical, does it further misinformation or historical and cultural inaccuracies?”
 
 While classic examples of distasteful and downright offensive costumes, like feathered headdresses and blackface, were named, the email generally advised students to consider whether their costume could potentially cause offense before they wore it.

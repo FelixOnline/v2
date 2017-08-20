@@ -26,20 +26,14 @@ We went to the US embassy protest that took place on Wednesday. A picture is a t
 
 {{< figure src="http://felixonline.co.uk/img/upload/201611111324-felix-15016243_1290084387697767_4337509995333081650_o.jpg" title="" caption="" attr="Izzat Haziq" >}}
 
-
 {{< figure src="http://felixonline.co.uk/img/upload/201611111325-felix-15025260_1290084771031062_2115837847455644796_o.jpg" title="" caption="" attr="Izzat Haziq" >}}
-
 
 {{< figure src="http://felixonline.co.uk/img/upload/201611111325-felix-15025634_1290084461031093_4989395643095175218_o.jpg" title="" caption="" attr="Izzat Haziq" >}}
 
-
 {{< figure src="http://felixonline.co.uk/img/upload/201611111326-felix-14976366_155763098225363_4976756627274923729_o.jpg" title="" caption="" attr="Liheng Yao" >}}
-
 
 {{< figure src="http://felixonline.co.uk/img/upload/201611111326-felix-15003424_1290084657697740_7262546687246668236_o.jpg" title="" caption="" attr="Izzat Haziq" >}}
 
-
 {{< figure src="http://felixonline.co.uk/img/upload/201611111329-felix-15039723_1290084794364393_733183608525949024_o.jpg" title="" caption="" attr="Izzat Haziq" >}}
-
 
 {{< figure src="http://felixonline.co.uk/img/upload/201611111329-felix-15000611_155763318225341_3165470947750830112_o.jpg" title="" caption="" attr="Liheng Yao" >}}

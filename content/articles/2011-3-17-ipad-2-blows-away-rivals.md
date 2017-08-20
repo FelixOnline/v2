@@ -28,7 +28,9 @@ If preliminary reactions are anything to go by, it appears that [Apple might hav
 With many reviewers having stripped the tablet down to its innards, it’s been found to pack a 900 Mhz dual-core ARM chip and another dual-core processor in the form of Imagination Technologies’ GPU. The integrated performance of both chips has managed to blow away standard benchmarks used for judging graphics performance, both when compared to the original iPad and to other similar competition.
 
 Reviewers are so far reporting that the latest incarnation of the slate manages anywhere between 50–65 frames/second under the GLBenchmark for graphical performance. This is in comparison to the original iPad’s performance of between 15-20 frames/second and the Motorola Xoom’s 25-30 frames. Admittedly, the Xoom is running on a slightly higher resolution than the iPad 2, but the figures indicate a performance gap that can’t be explained by the fewer pixels on screen.
+
 > The latest reviews will be worrying for Apple’s competitors
+
 The latest reviews will be worrying for Apple’s competitors. Unlike the mobile market, where Android handsets have proved more than able to match and improve upon Apple’s iPhone, there has been little to indicate that they have anything new to offer in the tablet market, despite having a year to plan a response.
 
 For much of 2010, the iPad was the only viable option for those looking for a quality tablet. While many Windows tablets were announced at trade fairs, there were none to be seen on sale; Android tablets proved relatively numerous but also relatively poor, seeming largely like outsized Android handsets (to a much greater extent than the iPad).

@@ -25,7 +25,9 @@ highlights:
 It's almost the end of the academic year, meaning many of you will be in that final frenzy of wrapping up your final year projects. From frantic pipetting to manic coding, it's all very stressful – I've been there. But for those of you, much like myself a year ago, the end of uni does not equal a cry from relief. It means facing your boggart which, let’s be honest, is far more soul wrenching than Harry's dementor – the dreaded prospect of unemployment.
 
 When you finally managed to smash that Goldman interview (it only took you 566 attempts not to fuck up, but who's counting, right?), you've got a few months before you become a real person in September, when that dollar blinding grad scheme starts, and there's only one thing to do – that generic gap yah thing and book an open ticket to a generic gap yah destination, much like me. I'm currently cotching in South East Asia, and as a (self-proclaimed) seasoned traveller, I'm going to enlighten you with the six types of backpackers you'll meet, to mentally prepare you for your own shenanigans.
-> > **Clingier than gum on a tube seat, this dude will not leave you alone**
+
+> **Clingier than gum on a tube seat, this dude will not leave you alone**
+
 **1) The Enthused Yank**
 
 Much like a puppy on crack, this breed of backpacker has far too much love for life and energy than should be legally allowed. Along with speaking at unsafely high decibel levels, rivalling that filthy bass at Ministry, the enthused yank is also brimming with bullshit. He'll recount his travelling tales with such dramatics, you'll wonder how this kid is still alive. Cyclones and lightning storms will feature, sunrises penetrating his spirit will be routine, and inevitably, there will be a mention of a divine intervention or two. Two days spent with this freak may drive you over the edge, so make sure you get out of that awkward hangout before he mentions that time when he casually parted the Red Sea.

@@ -29,7 +29,9 @@ highlights:
 The salaries and job descriptions for these staff members used to be found online on the Union’s website. However, [it has since been removed as the positions are being filled](https://www.imperialcollegeunion.org/about-us/work-for-us).
 
 The Union has already hired some new staff and is currently interviewing for others. The positions that will ultimately be filled at the Union will be: a Representation Coordinator, Student Development Manager, Outreach Coordinator and a Marketing Manager. These roles are new positions created by the Union, except for the Representations Coordinator which is an existing position that has become vacant. The role of Web Developer is the highest paid of the new roles, and will have a salary of £28,200 - £32,100 per year. The other salaries are shown in the table at the end of this article.
+
 > The Union hopes that the new staff members will improve the student experience in a number of ways
+
 The exact definition and job descriptions are not precisely given, although many were described as “challenging roles”.
 
 The Union’s budget is decided by the [Executive Committee](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/12-13/Exec_Committee), who submit it to the [Trustee Board](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/12-13/Trustee_Board) for approval, on a yearly basis. The budget proposed last year allowed for the hiring of new members. This hiring is financed by an increase in subvention for the College for these specific roles. The aim of these hires is “improving the student experience”, which is a joint endeavour by both the College and the Union; particularly after Imperial’s nine place drop in the[ Times Higher Education](http://www.timeshighereducation.co.uk/story.asp?storycode=419771) (THE) Experience survey earlier this year, taking Imperial to 71st place.

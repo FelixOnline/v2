@@ -30,7 +30,9 @@ highlights:
 ---
 
 You’ve arrived at your new university and you’re already stressed out. You’ve got to cope with Welcome Week events, meeting new people and the challenge of moving into your new halls, and what you really need is a quick game of Modern Halo Call Of Warfare 2 Strike Deluxe to take the edge off! But, disaster! You can’t even connect to the lobby! How are you ever going to survive the year? Never fear Imperial noobs, for with our step-by-tiny-step guide you will have your console of choice online and ready to rock in no time.
+
 > Imperial internet is some of the fastest around, but in order to use it your device must be registered in the College systems
+
 The first step is to understand the hoops you need to jump through in order to get yourself connected. Imperial internet is some of the fastest around, but in order to use it your device must be registered in the College systems. Registration is based on the MAC address of your device, which is a unique code that identifies your console or computer from all the others. The registration process ties this number to your College username, so College can provide and log access. So, all you need to do to get online is to register your MAC address. Easy!
 
 Well, nearly. Registration happens when you first try and browse to a web page, and is done through your browser. So for consoles with a web browser function the easiest way to perform registration is with the console itself. However, this is a problem for consoles and other devices lacking a web browser function as the registration page will never be reached.

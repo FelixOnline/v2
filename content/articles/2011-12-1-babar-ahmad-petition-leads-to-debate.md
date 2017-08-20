@@ -36,7 +36,9 @@ Instead of the case being raised in Westminster Hall as an individual discussion
 Green Party MP [Caroline Lucas](http://www.carolinelucas.com/cl.html) specifically mentioned the case during the debate. She acknowledged that the case was unique and the amount of support behind it was substantial enough for its own discussion. She said: “the family and the 140,000 plus people who signed the e-petition now deserve a full Commons debate on a voteable motion.”
 
 She also mentioned that Babar Ahmad’s solicitors and the Crown Prosecution Service (CPS) had admitted to never analysing the evidence in relation to his case in a letter dated November 22. This comes as news, as they had previously stated that there was insufficient evidence to prosecute him in the UK, hence his extradition to the US.
+
 > The family and people who signed the e-petition now deserve a Commons debate
+
 Babar Ahmad’s father, Ashfaq Ahmad commented on this revelation saying that “It is quite shocking to learn that the CPS made no effort to examine the evidence seized from Babar’s home but instead simply outsourced our criminal justice system to the US. Had it examined the evidence then it could have prosecuted Babar in the UK.”
 
 On December 5 there will be a full votable parliamentary debate on extradition. The [Free Babar Ahmad Campaign](http://www.freebabarahmad.com/) hopes that this discussion will have a positive impact on Babar Ahmad’s case. They are confident that, even though the case is not mentioned in the final text of the motion, it will be the milestone they need.

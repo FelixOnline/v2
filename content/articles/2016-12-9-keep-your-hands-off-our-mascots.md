@@ -29,7 +29,9 @@ The paper presented by Council Ordinary Member (Undergraduate Faculty of Enginee
 Some of the more stealable mascots include Bolt (a 68lb wheel nut), its sibling Spanner (a 64lb brass spanner manufactured to perfectly fit the bolts on London Bridge), Davy (a three-foot high, 132lb (60kg) brass and aluminium mining lamp) and Theta (a seven-foot long steel thermometer – imagine sticking that up your butt). Yes, Imperial is a fun place.
 
 If you weren’t aware of them you’re probably not alone, as the mascots are rarely wheeled out due to fear of inter-constituent union theft.
-> > Who doesn’t love a seven-foot long rectal thermometer?
+
+> Who doesn’t love a seven-foot long rectal thermometer?
+
 The presentation stirred a lively discussion, with many Council Members protesting the ban on the year-long tradition of mascot stealing.
 
 Constituent Union members found responsible for allowing their mascot to be stolen would in the past be penalised by downing a yard or writing an apology article in _felix (_which we would like to point out is not a right but a privilege_)_. But Olson argued that “these traditions do not represent the current image and student body of the Constituent Unions of Imperial College.”

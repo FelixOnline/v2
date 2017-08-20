@@ -53,7 +53,9 @@ This passing comment didn’t bother me much at the time, and I’m sure many of
 Some mates of mine have gone as far as to say that members of their year probably got into Imperial because of their boobs, not their brains. This cynicism is pretty disgusting, and if anything, transparently shows the insecurity of my peers who feel threatened. While yes, all of these remarks have come from men, women shouldn’t be so blasé and simply accept them. The idea “bat your eyelashes and you’ll get your way”  implies we have it easy, in whatever we endeavour to do, which couldn’t be any more opposite of our reality.
 
 Remember the suffragette movement, kids? Hardly glamorous was it. So, what I’m trying to say here is it’s not the attitude of just men that needs to change. Rather, it’s society’s attitude towards women. Sounds obvious I know, but it’s the subtle things that make all the difference, like these niggly comments here and there. Our achievements should be celebrated, men and women and alike, and shouldn’t be scrutinised because of gender differences.
-> > **When I have been called a lad before, I’ve taken it as a compliment**
+
+> **When I have been called a lad before, I’ve taken it as a compliment**
+
 **FELIX**: How did the gender ratio affect you, if at all?
 
 **AG**: Not at all to be honest. My course was a bit of a fanny fest, so I never really experienced isolation as a female, which Imperial is notorious for.
@@ -63,7 +65,9 @@ Remember the suffragette movement, kids? Hardly glamorous was it. So, what I’m
 **AG**: I’ve never been a “girly girl,” which is a description that is sexist in itself, but alas the stereotype fits the point I’m trying to make (#doublestandards).
 
 In short, whilst I never have felt like one of the lads, the comment has been passed numerous times. Am I offended by it? It’s a difficult one. If it implies that I’m not a Regina George, then no. But if it also means that I am not feminine, then 100% yes. Being feminine in my opinion, has become synonymous for being quiet and soft. Yes, I’m boisterous, bossy and some people have even called me intimidating. But it upsets me that these take away from my femininity, and are more associated with a male stereotype. The worst thing is, when I have been called a lad before, I’ve taken it as a compliment; people are saying that I’m not a gossiping, make-up obsessed, shallow girl. But the fact that I myself have leapt on first thought to such conclusions, is pretty worrying. I consider myself a feminist after all, and if I myself associate femininity with such values, how do I expect others not to?
-> > **I’m not trying to be entertaining and my opinions are not a joke. Is it time to shut up?**
+
+> **I’m not trying to be entertaining and my opinions are not a joke. Is it time to shut up?**
+
 Angry Grad felt conflicted between proudly wearing her badge of being ‘one of the lads’ to her own discount of femininity as a weakness.
 
 Should you call out your mates when they’re problematic and run the risk of pissing them off? Simran, a fresher from the RSM, had this to say.
@@ -79,7 +83,9 @@ Should you call out your mates when they’re problematic and run the risk of pi
 **FELIX**: Is having female lecturers important to you?
 
 **Simran**: In the materials department, there are quite a few female lecturers. I love seeing them, partly because it helps me see a place for myself in academia. I think they’re criticised more, and in a different way to their male counterparts. “Why doesn’t she panopto? What a hoe,” “She’s in a bad mood cos she’s put on even more weight over the weekend” or “maybe she’s on her period” .
-> > **People** **don’t like to be criticised, often I am accused of attacking their freedom of speech**
+
+> **People** **don’t like to be criticised, often I am accused of attacking their freedom of speech**
+
 **FELIX:** What impact do ‘small’ comments have on your experience as a woman?
 
 **S**: It’s difficult. Mostly I find them frustrating – I don’t know what the best way to react to them is. For the most part, I don’t think sexism is thought about before they are made. I don’t think people are immediately aware of their biases and why they want to use slut as an insult when they refer to a woman. Instances like this are so common that I start to feel like a broken record.
@@ -92,7 +98,8 @@ People don’t like to be criticised, often I am accused of attacking their free
 
 {{< figure src="http://felixonline.co.uk/img/upload/201603111134-felix-20160310_143314.jpg" title="Beccy Land was the first female Editor of FELIX. " caption="Beccy Land was the first female Editor of FELIX. " attr="FELIX" >}}
 
-> > **There are more men at Imperial, however, I think that being a man is by no means the default**
+> **There are more men at Imperial, however, I think that being a man is by no means the default**
+
 Celeste van den Bosch is a PhD in materials, and is the postgraduate representative for the Athena Swan committee for the department.
 
 **FELIX:** Are there any challenges you face in the department that your male counterparts do not?

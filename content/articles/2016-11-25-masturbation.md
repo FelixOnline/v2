@@ -22,7 +22,6 @@ highlights:
  - photos
 ---
 
-
 {{< figure src="http://felixonline.co.uk/img/upload/201611251444-felix-Screen Shot 2016-11-25 at 14.44.33.png" title="" caption="" attr="" >}}
 
 Yes, masturbation. We all do it, and those who say they don’t are probably lying. Right? Well, actually, maybe not. The felix Sex Survey reveals that year on year, about 10% of us never indulge in a little self-pleasure, with that number skewed by around a quarter of the women who never polish the pearl. So maybe we’re not all choking the chicken, but the question really is, should we be?

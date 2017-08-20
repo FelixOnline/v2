@@ -43,7 +43,9 @@ This is initially the focal point of most of the audience’s attentions, with a
 Eventually, a harsh rumbling fills the room, the sound of subwoofers being pushed to their limits, and the lights start to flicker.
 
 It’s starting to sound like the building is crashing down around our ears, and the lights suddenly snap off. A nicely dramatic opening.
+
 > "_We Want You to Watch_ very quickly squanders its dramatic potential."
+
 Unfortunately, _We Want You to Watch_ very quickly squanders this dramatic potential.
 
 It opens on an interrogation, two detectives quizzing a milkman with a fondness for violent porn.
@@ -53,7 +55,9 @@ No explanation is given, the audience are expected to piece the scene together o
 It soon becomes clear that the detectives believe the man’s porn addictions lead to his murdering a young dental student, using methods identical to those in the videos he can’t stop watching.
 
 It’s all a bit weird, but at least the message is fairly clear. This can’t be said for much of the following theatre.
+
 > "Serious points are lost beneath absurd scenarios."
+
 The first scene soon begins to outstay its welcome, with the attempts at comedy mostly falling flat.
 
 Most of the humour comes from the absurd lines, with the rest being supplied by the synchronicity of the detectives’ movements. Helen Goalen and Abbi Greenland (the artistic directors of RashDash, and the stars here) have clearly rehearsed this to perfection, which is to their credit if nothing else.

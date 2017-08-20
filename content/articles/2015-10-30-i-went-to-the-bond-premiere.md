@@ -31,7 +31,9 @@ By some spectacular stroke of luck I managed to get my paws on a ticket to the S
 You’d have to be living under a rock to have missed the build up to the premiere. Two days of rigging, road closures all along Prince Consort Road and a handful of die hard Bond fans camping out to be in the crowd. As a jammy cow with an office right above the action and a ticket to the main event I was asked to tell you all the mad things that happened.
 
 Let’s start with the cars and a shout out a particular crane operator. This guy craned a Jaguar CX57 and 007’s DB10 through the gap between the Albert Hall and those posh flats to place them in front of a massive expensive looking screen. The guy deserves a medal, a clean set of underwear and a stiff drink.
+
 > The guy deserves a medal, a clean set of underwear and a stiff drink.
+
 Security was pretty tight on the night. En route back to office on Monday afternoon I had to fight through a massive queue of fans waiting to get their bags thoroughly searched before having to show my ID card to what felt like a gazillion security guards. Unlike with Union bar staff, I couldn’t use ‘my face is on the screens’ to get through.
 
 Union staff found themselves having to clear meeting rooms in Beit of randoms all afternoon. This includes one lady who apparently would not quit and kept returning to her vantage point. Ironically, while I was on the red carpet half the Union was hanging out of the same windows.

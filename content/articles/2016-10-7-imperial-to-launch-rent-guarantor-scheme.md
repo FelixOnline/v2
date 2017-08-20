@@ -27,7 +27,9 @@ Imperial has finally joined the ranks of UK universities offering a rent guarant
 The scheme which was developed and proposed to College by last year’s Welfare Deputy President Jenny Watson, has been long awaited and was a key manifesto point of this year’s Union President, Nas Andriopoulos, who is expected to complete negotiations with College.
 
 Imperial is quite late to the show, as other London universities, have been offering the service to their students for years, with UCL for example having launched its rent guarantor scheme back in 2001.
-> > College has reassured us that Brexit will not affect European student eligibility for the scheme
+
+> College has reassured us that Brexit will not affect European student eligibility for the scheme
+
 With plans for article 50 to be activated later this academic year, it might be a little too late for many European students. Although College has reassured us that Brexit will not affect European student eligibility for the scheme, how many European students will be around in the coming years to enjoy the right to paying one’s rent when it’s due remains a valid question.
 
 At the end of the day, this is definitely a great move for the student body, especially in comparison to other such schemes across London. In the case of SOAS for example, which is also launching a pilot scheme, the program is only available to the first 60 successful applicants. Goldsmith’s on the other hand has a rent cap of 600 pcm, significantly lower than the 200pw cap ours has (but hey, prices are lower in New Cross than they are in South Ken). Finally, King’s offer’s a scheme in partnership with a private guarantor company, YourGuarantor, and charges 3.5% of the value of the tenancy.

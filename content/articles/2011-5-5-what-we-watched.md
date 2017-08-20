@@ -32,7 +32,9 @@ And in case you need any more reason to watch it – Henry Cavill, the British a
 The BBC's This World programme follows the US Immigration and Customs Enforcement service ('The Paedophile Hunters') whilst they track down American citizens fiddling with kids abroad. The narrator's attempt to intone a serious nasal dirge into the script, which includes phrases such as "found with a large collection of dildos" perhaps makes light of a rather disturbing subject matter.
 
 Waterloo Road (a.k.a. The Amanda Burton Show) returned this week for its sixth series. For viewers of a public-school disposition it should form a fantastic insight into the edification (or not) of the lower classes. For myself, having attended a state comprehensive in that area generally known as "The North"; it brings back fond memories of school! (Yes that's right... we used to watch it in lessons...).
+
 > A few new characters have been introduced to keep things fresh but the plot is still as blatantly obvious as an erection in a pair of Speedos
+
 A few new characters have been introduced to keep things fresh but the plot is still as blatantly obvious as an erection in a pair of Speedos. If you're one of those people who takes TV a little too seriously you'll feel the need to slap 'Kyle Stack' or 'Finn Sharkey' (what names...) most of the time, particularly if they remind you of that twat that used to sit at the back of the classroom shouting 'cabbages' at random intervals.
 
 Karen Fisher's long-lost daughter returns and makes false allegations of sexual assault which are investigated by deputy Mr Mead - who, incidentally, had it off with her sister last term (...banter!). This somehow turns into an epic situation involving a bull mastiff and some sickly student-teacher flirting, which I presume is designed to push even the most cringe-immune of people over the edge.

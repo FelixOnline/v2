@@ -24,7 +24,9 @@ highlights:
 ---
 
 It’s always a joy when one film doesn’t clean up all the statuettes at The Oscars and this year was one of the most balanced distribution of gongs in recent years. However amongst the most predictable wins there were a few obvious surprises, notably The King’s Speech. Honestly I did not anticipate the historical drama snatching Best Film and Director from David Fincher’s The Social Network but I am happy about the home win (Yay Britain!).
+
 > The King's Speech doesn’t have that special essence to deserve the title of best film of the year
+
 In my eyes The King’s Speech relied on the terrific performances of it’s actors (a very deserved Best Leading Actor award for Colin Firth) but as a piece of cinema, it doesn’t have that special essence to deserve the title of best film of the year. The story is very simple and linear: our hero has a problem, a maverick helps him overcome that problem, overcoming various setbacks until our hero overcomes his problem just in the nick of time. There’s even a lazy montage sequence to move the plot forward.
 
 David Fincher will be down in the dumps about the lack of a statue in his cabinet but the three awards The Social Network took home pretty much sum up what made the film so great. Firstly Aaron Sorkin’s snappy intelligent script combined with cool quick editing and Trent Reznor’s brilliant score. Essentially computer hacking is a boring prank done by geeky losers when they’re not masturbating over pictures of teenage girls on 4chan but just add some Techno and it suddenly becomes the most exciting activity in the world, Techno music makes everything awesome. Black Swan received only one nod for Best Leading Actress and a heavily pregnant Natalie Portman still looked stunning as she graciously accepted her award.

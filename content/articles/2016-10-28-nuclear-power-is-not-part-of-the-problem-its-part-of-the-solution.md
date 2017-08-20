@@ -25,7 +25,9 @@ highlights:
 I’m currently in Switzerland, which is about to have its twelfth referendum this year (and you thought Brexit was bad). Having rejected a minimum living wage, the Swiss will be asked to vote on an initiative proposed by the Greens on whether to speed up the closing of nuclear power plants. Unlike with Brexit, the Swiss government is unlikely to follow through with this proposal no matter the result of the referendum, and I’m tempted to agree with them.
 
 This referendum is actually asking when Switzerland should shut down its nuclear power plants as opposed to whether or not it should. However, it serves to highlight a trend in Europe towards phasing out nuclear power.
-> > The problem is that coal consumption in Germany has stayed constant thanks to its decision to phase out nuclear
+
+> The problem is that coal consumption in Germany has stayed constant thanks to its decision to phase out nuclear
+
 Switzerland decided to phase out nuclear after Fukushima while Germany, Sweden and Belgium have been doing so (or at least attempting to) since Chernobyl, and Italy became nuclear free in 1990. In all these countries, the decision to opt out was driven by the fear factor associated with nuclear power and also by legitimate concerns on how to dispose of nuclear waste. In the case of Germany, Belgium and Switzerland, the choice to eliminate nuclear was also due to pressure from green parties.
 
 This is all well and good if it leads to more use in renewables, and in the case of Germany at least, it has. (Best not mention Belgium’s track record.)
@@ -44,7 +46,9 @@ In short, going carbon free with only renewables is not possible. This is due pr
 
 Sweden also claims to have 100% carbon free electricity production by 2040, which is simply not possible solely with renewables
 A report by Zero Carbon Britain in 2007 predicted that while total wind resources amount to 3,212, TWh/year, only around 14% of this could realistically be tapped. The UK’s energy consumption was 2,249 TWh in 2014, so even with other renewables sources, meeting this demand is impossible without converting vast swathes of the countryside into wind farms.
-> > Nuclear is a necessary part of the energy mix, at least until we are able to reduce demand to the point that we can meet it with only renewables
+
+> Nuclear is a necessary part of the energy mix, at least until we are able to reduce demand to the point that we can meet it with only renewables
+
 Then there are the problems with intermittency.
 
 Germany actually causes blackouts in Poland and the Czech Republic due to the inconsistency of its wind power. This is not an insurmountable problem, but given that storage solutions are costly (and come with their own significant carbon footprint), it’s likely that the solution will come in the form of some form of fossil fuel.

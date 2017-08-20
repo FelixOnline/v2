@@ -26,7 +26,9 @@ highlights:
 Quite often, when planning my next holiday, I get all too carried away with the prospect of exciting adventures and wonderful discoveries. I’ve plodded along on a camel in the Sahara, watched an interesting game of ping-pong in Bangkok, and even catapulted myself out of a plane somewhere in Texas. Rather thrilling, you might think. But no, they were all massively disappointing. It seems that the more exotic the holiday, the more vile the cooking. Travelling isn’t pleasant when the cooking is bad, especially when you spend more time on the loo than off it.
 
 So for my most recent trip, my planning focused on food. I’ve just got back from Tuscany, and it’s all been terribly bourgeois. Winter is the best time to visit as there are no bus-loads of arse-scratching sweaty tourists, no sweltering temperatures, and no air-conditioning; just stunning vistas of green hills, vineyards and olive groves, with no annoyances, no incessant clicking of cameras, and no shouting and glacial shrieks of “Parlare English?”
+
 > Winter is the best time to visit as there are no bus-loads of arse-scratching sweaty tourists
+
 It was in the lovely town of Volterra that I stumbled across a restaurant that offers everything Tuscan cuisine should be. Where tourist traps are countless, Del Duca offers a welcome respite with perfectly al dente papardelle, scrumptious wild boar ham, and best of all, heaven of heavens, fillet with black truffles.
 
 The staff are charming. You don’t get the feeling that you’re being robbed, or being charged £100 for a plate of pasta. Del Duca strikes a fine balance between genuine, simple Italian home cooking and the rip-off, pretentiously crap restaurants that relish devouring the afore-mentioned arse-scratching tourists.

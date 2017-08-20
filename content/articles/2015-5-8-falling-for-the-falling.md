@@ -41,7 +41,9 @@ Talented newcomer, Florence Pugh, is Lydia’s charismatic and precocious best-f
 Whether for a modest skirt length or meticulous punctuality to lessons, rules at the girls’ school are tyrannically enforced.
 
 This is not an environment tolerant of mass hysteria. Most of the scenes are quiet and intense, hinting at repressed emotions that could surface at any time. Lydia clearly adores Abbie and there is a suggestion of lesbianism to their relationship.
+
 > "This is not an environment tolerant of mass hysteria"
+
 However, it’s not just the students with hidden depths: one of Morley’s many strengths is that she writes her minor characters with the same care that she would give her protagonists.
 
 Greta Scacchi gives a confident performance as Lydia and Abbie’s snarling form tutor; and the wonderful Maxine Peake plays Lydia’s affectionless mother.
@@ -51,7 +53,9 @@ The spooky and downbeat film score is composed by Tracey Thorn, of __Everything 
 The instrumentation is sparse, mainly relying on acoustic guitar, a low, clear singing voice, and the kind of instruments you might find in a school music lesson.
 
 The result is a soundtrack that doesn’t intrude on the drama, signposting what will happen next; it is a part of the atmosphere itself, heightening the action at times, but not afraid to lapse into silence.
+
 > "It’s odd and disturbing, exploring themes of repression [and] sexual curiousity."
+
 _The Falling_ is a great accomplishment by Morley. It’s odd and disturbing, exploring themes of repression, sexual curiosity and the grey areas between what is and is not real.
 
 The performances are engaging, particularly from Pugh and Williams; and the scenery is beautifully shot, the country landscapes looking like paintings.

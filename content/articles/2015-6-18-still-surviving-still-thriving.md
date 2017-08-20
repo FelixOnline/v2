@@ -48,7 +48,9 @@ Until now, their audience has sat in two camps – those who have read the books
 For those already in the know for events coming up, the joy was in the adaptation itself, in finally seeing the books come to life (and, increasingly, seeing how the showrunners chose to alter the original plot lines, often for the better).
 
 There was also a perverse glee in watching the damage wrought by the show’s twists and turns on the unsuspecting fresh TV audience, with the likes of the Red Wedding, the Purple Wedding (lots of capitalised weddings in this show) and the demise of the Red Viper all provoking a highly entertaining response from the non-book reading viewers.
+
 > "It’s been all about politics up to now. Mostly, anyway."
+
 The show has been impossibly successful at straddling that tightrope between audiences, with this series marking the point where the team behind it all had to make some tough decisions about how much of the future (which is already known to the pair) to reveal before Martin has the chance.
 
 The answer, as it turns out, was far more than most people were expecting, with the eighth episode ‘Hardhome’ marking a watershed for the show on that front.
@@ -60,7 +62,9 @@ It’s been all about politics up to now. Mostly, anyway.
 All about the titular game of thrones where, as Aiden Gillen’s Littlefinger so memorably puts it: “You win or you die.”
 
 Choosing the title of the first book in the series, rather than its actual name, as the title for the TV adaptation now feels very, very deliberate.
+
 > "The stakes are raised. The war is truly underway."
+
 Calling it _A Song of Ice and Fire_ might occasionally remind viewers of the larger game taking place in Westeros.
 
 Full credit to Benioff and Weiss for burying that one.

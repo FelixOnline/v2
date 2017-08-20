@@ -21,7 +21,6 @@ highlights:
  - photos
 ---
 
-
 {{< figure src="http://felixonline.co.uk/img/upload/201611181628-felix-11300393144_3ddf8021cb_o.jpg" title="" caption="" attr="Marianne O'Leary" >}}
 
 Television has, historically speaking, been a fairly progressive medium. Whether it was Star Trek in the 60s pushing for minority rights, or shows like Will &amp; Grace and Ellen normalising and publicising LGBT rights in the 90s, TV has frequently been willing and capable to push the envelope.  One of the areas it has perhaps lagged behind, however, is in its handling of the male protagonist.

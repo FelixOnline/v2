@@ -37,7 +37,9 @@ _He clasps the crag with crooked hands;
  And like a thunderbolt he falls._
 
 As a fifteen year old studying this poem, I was captivated, so much so that I began dreaming. Dreaming of exploring nature and being lost in the wonderland, and through travel I have attempted to fulfill this dream. Really though, what I was searching for was always around me, right from the day I was born.
+
 > Just spend a minute looking and you will notice something you have never seen before
+
 Try this: stop. Right now. What do you see? Zoom out. Look at the big picture, at the patterns that emerge. Zoom in, and see if they are still present. Now, take a moment and look outside, outside of yourself, outside a window. Just spend a minute looking and you will notice something you have never seen before or thought about. See life unraveling before you.
 
 In the mad rush that is our lives, time is a luxury. Paradoxically, the more we have to get done, the more efficient we become, and a good dose of adrenaline helps pump us through the day.

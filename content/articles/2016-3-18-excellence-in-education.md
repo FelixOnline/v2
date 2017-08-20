@@ -31,7 +31,9 @@ So, what do we mean when we talk about excellence in education? I think we mean 
 We know that we value a highly rigorous research-led curriculum that enables students to engage actively with research in their disciplines and across disciplinary boundaries. To be immersed in one of the world’s top research universities gaining knowledge and experiences from the leaders in their fields is one of the hallmarks of Imperial’s educational experience.
 
 We also value opportunities for students to delve into the unknown, experience the discovery of research, and be creative and entrepreneurial. We have made providing these opportunities an important part of our college strategy.
-> > Excellent education is far more than getting a degree certificate
+
+> Excellent education is far more than getting a degree certificate
+
 We strive to continually enhance our teaching and we aspire to move to the forefront in developing new ways of teaching and learning that combine our use of technology and our time together to optimise the knowledge, experience and relationships gained.
 
 We know that there are aspects of our student experience that are not excellent and we need to improve. The mental well-being of students is of paramount importance to their lives and success, and we are enhancing our portfolio of student support services.  We are also focused on providing timely and useful assessment and feedback and excellent research supervision and mentoring.

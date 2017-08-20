@@ -39,7 +39,9 @@ But official Green Party policy on the matter is entirely in favour of the exper
 Jenny Jones, on the other hand, is a fool. Genetic modification of crops is, along with the worldwide emancipation of women, the only solution to famine and constant poverty in the developing world. Opposing it amounts to a kind of pre-emptive murder, a bourgeois luxury that only those with no chance of starvation could endorse.
 
 That said, the protesters do have something that vaguely resembles a point. The research is publicly funded, but the resulting strain will be sold to an agro-chemicals company, and few things are worse for social justice than large, powerful companies. There are, after all, no profits in helping penniless East Africans.
+
 > Yes, they’re not perfect, but of four evils the Green Party is the least by a long, long way
+
 It follows that protesting against growing the crops is ridiculous, and instead the group should campaign to prevent the sale of the crop to a corporation. Of course, this is a very difficult thing to protest against, but such is life; destroying research is a cardinal sin, and for scientists like myself (the Green Party’s natural voter base) it is a huge turn-off.
 
 I have even heard a large number of scientists and students claim that they will never vote Green again, which, though understandable, is actually quite a curious position. I suspect that had Ken Livingstone attended the event, we wouldn’t hear the same people thoroughly denounce the entire Labour party.

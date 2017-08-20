@@ -34,7 +34,9 @@ I’m sure most of you are aware of the theory behind organ transplantation, how
 Organ transplantation has the potential to save and transform the lives of individuals and their families, a number of whom have suffered for many years with a poor quality of life. Unfortunately, due to the shortage of organ donors, the full potential of organ donation to change lives is not being fulfilled. Whilst almost all of us would take an organ if we needed one, only 30% of us are registered organ donors.
 
 As students at a renowned scientific institution, we are being equipped with skills which have the potential to improve the lives of people around the world. But have you considered the simple act of signing up to the organ donation register; something that if we each do individually, collectively has the potential to put an end to the unnecessary suffering and deaths of thousands of people?
+
 > Organ transplantation has the potential to save and transform the lives of individuals and their families
+
 So why not take action? Think about organ donation, consider signing up, and become part of a lifesaving movement. Because you never know, you yourself may one day rely on the organ of a total stranger.
 
 This article is on behalf of The Organ Donor Drive by Imperial Hub. We want to increase understanding and awareness of organ donation and also encourage students to register on the NHS organ donor list. We will be holding lectures, discussions and running stalls from the 13th -20th of May- please get involved and find out more.

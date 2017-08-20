@@ -27,7 +27,9 @@ highlights:
 In 1853, the architect Georges-Eugène Haussmann was tasked with the renovation of Paris, a city crippled by overcrowding and disease. Part of his work involved creating large, straight boulevards that critics at the time said were to allow the army to manoeuvre more easily and to suppress armed uprisings. Whether that really was the motivation behind them, today we are regrettably seeing soldiers lining these boulevards.
 
 The response to the attacks in Paris has been substantial to say the least. The day after the attacks, France mobilised 115,000 soldiers across the country, while 1,000 extra soldiers have been stationed in Paris itself. Closer to home, we have seen David Cameron pledge £3 billion for anti-terrorism units, the first increase in military spending in decades.
+
 > These attacks capture our attention so much because they are freak events
+
 I was relatively unaffected by all this until recently, when my hometown of Brussels was locked down due to an “imminent threat”. I had been told how surreal the situation was, but it didn’t quite hit home until I saw pictures of the desolate city centre, thoroughly empty apart from a handful of soldiers patrolling here and there.
 
 The fear that all this has caused is hard to exaggerate, and it’s understandable. Terrorist attacks are frightening because they are so unpredictable, and have little care for who their victims are. They fill us with a sense of powerlessness as we think to ourselves, “that could have been me”.

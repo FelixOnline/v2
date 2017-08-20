@@ -31,11 +31,15 @@ Zelda has always been a passion for me, even within my geeky realm of video game
 Uh, no. Not really.
 
 It’s by no means a bad game, but it just doesn’t hit the high notes I’ve come to expect.
+
 > One of Zelda's greatest strengths is the expansive, filled-in worlds. Not in this game.
+
 In the confusing, timey-wimey in-game history of Zelda, this slots in right at the beginning. Link quests to prove himself the hero spoken of in legend and to power up the Master Sword, as it is to become. That second point is remarkably similar to the second half of _The Wind Waker _so already it isn’t winning on originality. The Big Bad in this game is Demise, a demon so powerful that the Goddess Hylia lifted humanity into the skies and sealed his ass in the ground. However, in the game, after three attempts to leave his seal as The Imprisoned, he is finally revived by his follower, Ghirahim. Ghirahim has much more presence as the bad guy but even he only shows up a few times. As a villain, he’s quite fun, mincing camply across the stage, but for the majority of the game, there’s no palpable threat. After the time-skip in _Ocarina of Time_, Ganondorf’s presence as the evil master of Hyrule is absolute (feeding Gorons to Volvagia, freezing Lake Hylia, putting Ingo in charge of Lon Lon Ranch, etc.) That darkness visible just isn’t present in _Skyward Sword_.
 
 Graphically, it’s quite pretty. Cel-shading makes a return from _The Wind Waker _but with a more realistic feel. The forests feel luscious, the volcano is sweltering, the sky is so expansive. Nintendo’s hallmark is to continue experimenting with their franchises and here it pays off.
+
 > A rewarding retrospective for experienced Zelda aficionados and highly accessible for anyone picking it up for the first time
+
 But it feels small. This is the cardinal sin of _Skyward Sword_. One of Zelda’s greatest’s strengths is the expansive, filled-in worlds. You always feel like there is something going on and everywhere is connected. Not in this game. On the surface, there are three designated areas (Forest, Volcano and Desert) which you have to visit at least three times within the main plot. Sometimes, different parts become accessible or sometimes, the way to handle the area changes (at one point, the forest floods) but there are still just these areas, which can only be reached from the sky above. And the sky! Fairly big, sure, but with no point. There are hundreds of little islands dotted about but apart from Skyloft, where everybody lives, and the one with the pub on it, there is nothing to do anywhere. Compare with _The Wind Waker_ which had 49 squares of massive ocean and in each one, there was an island with something to do on it (and I’d be lying if all the adventure happened on the islands).
 
 The characters, true to Zelda form, are quite personable and full of charm. If only there were more of them. My favourite game in the series to date is _Majora’s Mask_ for the sheer amount of characters, each with their own unfolding and intercrossing dramas. With such a small cast, there is only so much you can do here.

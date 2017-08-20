@@ -40,7 +40,9 @@ And all of this means you can pay your staff less. I’ve done this myself. I’
 __When you set up FIG in 2009, how did you think the ongoing recession would affect the business?__
 
 When the recession started, I thought people’s wages were going to drop and it would be a more exciting time to start a business.
+
 > Most big banks are useless. The staff who work there say, “Why should I trust you with my money?” I want to grab them and say, “Why should I trust you with my tax money?”
+
 __Have wages not gone down at all?__
 
 Nowhere near enough to reflect changes in house prices, which I think is partly why house prices have gone back up.

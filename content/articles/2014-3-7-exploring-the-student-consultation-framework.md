@@ -55,8 +55,6 @@ Refernces:
 · http://www3.imperial.ac.uk/registry/proceduresandregulations/committees
 · http://www3.imperial.ac.uk/secretariat/collegegovernance/governancestructure
 
-
-
 __Questions I would like you to consider:__
 I’m looking to get feedback or suggestions on any part of the mechanism and its implementation. I have though included some ideas for specific feedback that would be particularly useful for me:
 1. Do you agree with the impact level each example has been placed against? (pg. 6 + 7)

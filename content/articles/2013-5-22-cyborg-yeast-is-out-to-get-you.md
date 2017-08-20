@@ -35,7 +35,9 @@ Phytochrome, a molecule that detects light, has active and inactive forms in red
 The level of gene expression can then be measured through the amount of fluorescence a reporter molecule emits in the presence of the desired protein.
 
 The computer, with its algorithmic wizardry, analyses the fluorescence. Once a threshold level of protein expression has been reached, deep red light is fired back to the yeast, the phytochromes are turned into their biologically inactive forms and the circuit is turned off.
+
 > It is an important process already utilised by biochemical pathways in cells
+
 Feedback control allows for precise regulation of these artificial circuits; it is an important process already utilised by biochemical pathways in cells, famously in the krebs cycle and in engineering. However, in silico feedback control is the first time science has managed to transcend the communication barrier between computer and cell.
 
 The implications of synthetic circuitry are wide; in silico feedback could be used to create biosensors to regulate the level of by-products generated from manipulated metabolic pathways. It could be utilised within biofuel and small molecule drug production to allow for tight control of yield production.

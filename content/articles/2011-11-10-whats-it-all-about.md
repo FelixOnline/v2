@@ -28,7 +28,9 @@ highlights:
 "Chaplaincy is really about conversation,” is the way a student once put it. Chaplaincy is a faith based welfare service for students. We seek to provide hospitality, support, reflection and dialogue around belief, religion, faith and spirituality. What that actually means is different types of ‘conversations’.
 
 Some conversations are quite straightforward. These are responses to clear religious needs – ‘I have just moved flat where is my nearest mosque/temple/church?’ or ‘I would like to find out more about my religion – can I meet with the Faith Advisor?’ or ‘Are there prayer rooms I can use?’
+
 > In a community like Imperial there is a massive range of beliefs about the ‘big questions of life
+
 To reflect the diversity of religious views held by members of Imperial, the Chaplaincy has a team of Chaplains and Faith Advisors for a variety of world faiths: Jewish, Christian, Muslim, Hindu and Buddhist. The Chaplaincy Centre has space for meetings and worship. We have quiet places in Beit Quad and Princes Gardens for meditation or prayer.
 
 For those who want to explore a particular faith practice, Chaplaincy provides opportunities for meditation from Christian, Buddhist, and Hindu traditions.

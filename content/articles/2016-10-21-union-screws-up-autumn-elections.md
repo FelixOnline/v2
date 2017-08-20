@@ -32,7 +32,9 @@ The announcement was made on Tuesday afternoon, when Andrew Keenan, head of the 
 The error means that another round of elections will have to take place next week.
 
 Protesting the delay, a letter was sent out by Abhijay Sood, Physics Dep Rep, requesting that voting for these 73 positions resumes ASAP and closes on Friday as it would normally. Sky Yarlett, Representation and Campaigns Coordinator, reportedly said that wouldn’t be possible, however, for a number of reasons including the election by-laws which state that appropriate notice is given (namely “5 clear College days in advance of nominations opening”).
-> > In our department the first student staff committee had to be pushed back a week, but similarly departments across campus are having to deal with this
+
+> In our department the first student staff committee had to be pushed back a week, but similarly departments across campus are having to deal with this
+
 To allow as many students to vote as possible, the Union keeps refreshing registration details till the very last minute. However, whereas the last refresh usually occurs before the elections begin, this year the final refresh overran 40 minutes, allowing students who voted during those first 40 minutes to get a second vote after the refresh.
 
 An inside source told _felix_ that the only reason the union even became aware of the technical error was that union officials were contacted by surprised (and we imagine mildly amused) students who had managed to vote twice.

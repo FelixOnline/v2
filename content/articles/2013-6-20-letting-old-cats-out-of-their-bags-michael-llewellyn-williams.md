@@ -42,7 +42,9 @@ __TA: Looking through it I think it looks quite nice!__
 MLW: Thanks. Understand that in my year it was a big change. Previously the Editor got all his copy together, did a rough layout, then sent it all to a printer in Dursley in Gloucestershire. They fitted the copy to the space that was there. Then the stuff got delivered. It really was just writing and editing in those days, not production.
 
 Then in 1974 suddenly the Editor had to not only do the writing and the editing and put it all together, but he had to physically lay out, print, fold, collate and distribute the whole affair as well. That was a huge change. I don’t know if you saw the year before mine. It was a much bigger format and it was professionally printed. Mine was the first year where we were printing it ourselves. We had a professional printer guy called Kyrle Gillespie. He ran the machine and we had a lady called Gill who did the typesetting. But even the typesetting was mechanical, so she had to type everything twice: once to get the measure of the column width; and then type it again so it became justified – fitting evenly to the column width. So it was very time consuming and the problems we had with just the printer were a nightmare. We had to just get on and make the best of it.
+
 > I’m pretty sure I wouldn’t be where I am now if it hadn’t been the time I’d spent at Felix.
+
 __TA: Yeah I saw you said how it was the first time you changed to in-house production. Now we’ve switched back. We do the design and send it off to printers up in Cambridge.__
 
 MLW: Well I can say I’m very envious.

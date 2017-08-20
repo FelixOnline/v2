@@ -38,7 +38,9 @@ Patrick proudly admits that “last season saw our best performance in the last 
 I ask him to elaborate further; what are the main objectives for this season?
 
 “The most prestigious events for us are the Eight’s Head races in March, then Henley Royal Regatta and Henley Women’s Regatta in the summer. Building the fastest possible crews to compete and win at these regattas is our focus.” What about BUCS points? “BUCS is good fun,” he says, “and we’ll put in a strong performance to do our bit for the uni, but it’s not our ultimate goal.” Sport Imperial do have some lofty objectives for this season, but I feel that Patrick and the boat club will deliver – his hunger for winning is unmistakeable.
+
 > The current squad is in great shape and looks set to build on last year’s achievements
+
 Moving on to something slightly different, I ask about an association that a lot of people make in their minds: the one between rowing and the Olympics. It’s a very exciting time for any sportsman-or-woman to be in London; will any Imperial rowers be involved in the Games?
 
 “Mel Wilson from Imperial is in the Women’s Quadruple Sculls and Adam Freeman-Pask, an alumnus who still rows with us, is also in the frame for a seat. Both Mel and Adam competed at the World Championships this year.” After my noises of wonder and excitement subside, Patrick continues: “A few club members are volunteering at Dorney Lake and for the rest of us, or those lucky enough to get tickets, we’ll be cheering for GB from the bank.” Personally, I’ll be cheering on any Imperial athlete who makes it to the games – in any sport.

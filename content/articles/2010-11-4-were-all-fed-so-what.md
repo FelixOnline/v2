@@ -30,7 +30,9 @@ The column, headed with the whorish grandmother of all rhetorical questions, "Is
 That some members of Imperial are direly in need of a Filofax to organise their romantic engagements doesn’t mean that it’s an understandable human condition. We’re such a fickle bunch of wangs in this day and age. If we can’t repress knowledge of our own faults then the next best thing is to make it acceptable. Smoking. Drink. Donations to ‘Save The Dolphin’ charities. Why is it that when we do stupid things our instinct is to pretend it’s normal?
 
 It wouldn’t be so bad if the [Black Sheep](http://www.felixonline.co.uk/?user=blacksheep) had maintained the moral high ground for the duration, but by the end they’re pouring scorn on Wayne Rooney for "repeatedly" lying to someone. What? Really? John Terry slept with his friend’s ex-girlfriend behind his wife’s back. We’re not in the business of drawing straight lines on a graph here, you only need one data point - the guy’s a tosser.
+
 > Humans are flawed. I’m currently eating pear drops in quantities that will give me glaucoma by the time I’m thirty. Is that acceptable? No it’s fucking not
+
 Humans are flawed. I’m currently eating pear drops in quantities that will give me glaucoma by the time I’m thirty. Is that acceptable? No it’s fucking not. Are they uniformly delicious and am I stuffing three into my mouth as I write this? You damn well bet I am. Will my girlfriend try to hide them when she reads this article? Yes indeed. Will it be too late by that point? Most likely.
 
 Orgasm-inducing boiled sweets aside, let’s reiterate that ‘humans-are-flawed’ point. If you’re disloyal, cheat, pay women to do things to you that no sane person would do in a full biohazard suit, then you are less of a human being. If you resist the temptation to stuff any and all rhubarb and custards you see into your mouth, then you are more of a human being than I.

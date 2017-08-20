@@ -49,7 +49,9 @@ Did somebody say “unnecessary reboot”? I mean, I definitely did, but just in
 The _Terminator _franchise lumbers back to life following two attempted murders via film – the so-so third entry (_Rise of the Machines_) and the downright dire _Terminator Salvation_. Despite director McG’s best efforts, the series survives. And it’s bringing back the original Terminator, for real this time.
 
 It’s also completely changing the game, ending up in a sort of parallel universe where the original Terminator brought up an orphaned Sarah Connor (now played by Emilia Clarke). So there’s that. Trailers for the film have done their best to spoil all of the major plot twists, but hopefully there’s still something up the sleeve of director Alan Taylor, fresh off the likes of _Game of Thrones _and _Thor: The Dark World_. Clearly not a dictionary, however.
+
 > "Trailers for the film have done their best to spoil all of the major plot twists."
+
 ### _Ted 2 _(10th July)
 
 Seth MacFarlane’s foul-mouthed teddy bear makes his second appearance in the inevitable sequel to the hit comedy. The likes of Liam Neeson and Amanda Seyfried join the cast, with the latter playing a lawyer whose name bears an uncanny resemblance to another popular film star. Mark Wahlberg returns as Ted’s “thunder buddy for life” John, although Mila Kunis opts not to reappear as his girlfriend. Fair enough. The film is set to centre around Ted’s attempts to have a baby with his (human) girlfriend, and his need to prove he is a person in the eyes of the law before this is allowed Whether you enjoy it or not is likely to depend on your opinions of the first film, of _Family Guy,_ and of Seth MacFarlane’s work in general.
@@ -57,7 +59,9 @@ Seth MacFarlane’s foul-mouthed teddy bear makes his second appearance in the i
 ### _Ant-Man _(17th July)
 
 Admit it, you forgot this was coming out, didn’t you? Originally the work of Edgar Wright, the latest Marvel film (and the first of Phase 3) is now under the command of Peyton Reed, the man behind _Yes Man_. Not the most promising of CVs, but the latest trailer suggests there’s much to be hopeful for.
+
 > "A new IP from some of cinema’s greatest minds should be exciting enough."
+
 Paul Rudd’s Scott Lang is a criminal, but one given a chance at redemption by scientist Dr Hank Pym. Armed with a suit that allows him to shrink (but increase his strength in the process), he’s tasked with carrying out a heist like no other. _Ant-Man_ looks to be one of the Marvel films that leans more heavily towards the comedy side of things, if Thomas the Tank Engine’s appearance in the trailer is anything to go by, and there’s still plenty to be hopeful for. Marvel haven’t put a foot wrong yet.
 
 ![Minions.jpg](../inc/timthumb.php?src=/img/upload/201506182126-jyg11-minions.jpg&w=460px&zc=1&a=t)

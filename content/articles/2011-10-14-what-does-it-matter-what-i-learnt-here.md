@@ -32,7 +32,9 @@ It’s my 6th year here and my brain has been permanently disfigured, forever tr
 It’ll also be my last year in post-kid-pre-man limbo, before I can finally show the world just how much I’ve learnt. LOADS, obviously – emotional growth and all that. My emotions are so big now. Along the way I’ve even learnt some medicine and, in a year, will be a doctor. But I’ve been wondering, what if I just ditched this science lark and did something else? Like banking, as seems to be the craze.
 
 After just a few years of being a wolf in a sheepish-scientist’s clothing, should I cash in my degree for a fabled Graduate Career? Would all that science-y learning have been a waste? No chance – not when it’s left such a mark. All that thinking has been too tricky to leave my mind unscarred. Like I said, my brain has been permanently transformed by all the concepts I’ve had to curl it around.
+
 > Just when I feel like a genius, new lectures will add a new consideration, requiring a new kink in the ol’ cortex.
+
 Heck, even the everyday tools I’ve learnt to use in medicine have blown my mind. Like a Cannula; a needle in a plastic tube, which you ease into a patient’s vein before, listen to this, you REMOVE THE NEEDLE AND LEAVE JUST THE PLASTIC TUBE INSIDE. Mind. Blown. I mean literally blown by a BREEZE OF AWESOME. And with ECGs, balloon catheters and stethoscopes as my toys, it just keeps on getting better.
 
 I’ve felt spoilt. Spoilt to be using so casually these tools, which are probably thousands of years of human know-how distilled into practical instruments. I’ve often thought: “I couldn’t think this stuff up if I tried!” I can’t actually try now, though, because I already know. But I’m pretty sure I couldn’t.

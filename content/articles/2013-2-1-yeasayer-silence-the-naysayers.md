@@ -30,7 +30,9 @@ The crowd roared as the band took to their space station, which was designed to 
 The enthusiastic performance given by Chris Keating, Anand Wilder’s bold vocals and Ira Wolf Tuton’s slippery bass groans, and not to mention the lively drums brought in by Cale Parks really came together well. They let each other’s music ease in and it never felt as if they were stretching it. Yeasayer really sounded like four guys playing music.
 
 Too cool for cliché, they distorted the first few notes of their psychedelicious songs just to leave the crowd guessing. ‘2080’ from their first album, All Hour Cymbals made the cut with its harmonised chorus and their acclaimed single ‘Longevity’ was a tasty addition with Keating’s breathy squeals and chirps adding another layer of life to the song.
+
 > Exhilarating both visually and sonically
+
 The ending of ‘Longevity’ transitioned into an improvised intro to ‘O.N.E.’ which in my opinion was one of the most entertaining tracks, recreated with bursting tempo and manifesting a pretty bold and beautiful performance from Wilder who accentuated the lyrics with his strong vocals. I am such a fan.
 
 You could nod your head along to ‘Madder Red’s very catchy yet psychedelic tune which morphed into ‘Demon Road’ after which ‘Wait for Summer’ flew over and around the crowd lifted by the rich warm synths and exotic guitars. ‘Ambling Amp’ was a delightfully bright and uplifting song well placed as the last of the main set.

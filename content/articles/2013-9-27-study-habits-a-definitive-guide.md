@@ -51,7 +51,9 @@ The average student boasts about how many all-nighters s/he’s pulled. The bett
  Eventually you will find your timetable to be scattered throughout the day, with lectures and tutorials at any random time between 9am-5pm, and then clubs/societies meetings/trainings anytime thereafter – in which case, you may not even get opportunities to have powernaps after staying up late. And any peer I’ve seen who’s taken the gamble of powernapping at 11pm (to wake up at 2am and continue working) has failed hilariously.
  Some of you might fancy yourselves to be night owls, which is great for you, but unfortunately you do tend to have lectures, tutorials, and exams in the morning more often than not -> having sleep deprivation wouldn’t be a good start to the day.
  Furthermore, deliverables (that’s what projects and submissions that are ‘counted’ tend to be called) are generally due in the evenings, so you may well find yourself struggling to be productive on a sleepy Friday afternoon, rushing to complete and turn in an assignment after all your inefficient late nights… unless you’re adept at being productive while the sun is out. Get some work done during the day, folks.
+
 > Felix shall attempt to disillusion you and clear up any misconceptions you might have about the art of studying at Imperial before it’s too late
+
 __#3 Studying Gadgetry__
 
 Firstly, regarding laptops: it really doesn’t matter if you use Windows or Mac. Whatever you’re personally more comfortable using, is the best bet. Period.

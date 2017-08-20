@@ -35,7 +35,9 @@ However, through the play’s five acts, Lulu takes on a darker tone. Fluid set 
 For me, Countess Geschwitz (played by Bessie Carter) was the highlight of the show; her performance is heart-breaking. While Rodrigo (Nicholas Richardson) adds a playful element, and Schigolch (Paul Gorostidi) is impossible to take your eyes off with his energetic (perhaps over-acted) performance, Geschwitz suffers. She is bullied, but remains loyal, and is one of the few characters who possesses a genuine love rather than lust.
 
 It’s a complex play that could be interpreted in many different ways. Some may see it as horrendously misogynistic, while others will praise the strength of Lulu’s individual personality.
+
 > Lulu is hard-hitting and bordering on melodramatic.
+
 Generally, the story is coherent, but I felt that more foreshadowing of future events and characters was in order. Lulu lacks a quest – what does she actually want? What are any of the characters attempting to achieve? It’s unclear, and an out-of-the-blue climax left me craving some sense of epilogue or resolution.
 
 There isn’t any, and perhaps that’s the intention. Lulu finishes on a profoundly unsettling note – a note that doesn’t finish but fades into infinity. Wedekind himself was a man with a prodigious sex life, frequenting prostitutes and eventually contracting syphilis. He sends vivid messages about the dangers of narcissism, lust and sex. In fact, it’s so starkly portrayed in Lulu that the programme includes a double-page spread on sexual compulsivity, including contact details for Victim Support and Sexual Compulsives Anonymous.

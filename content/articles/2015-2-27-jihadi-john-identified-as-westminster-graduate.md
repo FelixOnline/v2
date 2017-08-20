@@ -38,8 +38,6 @@ Mr Emwazi, from West London, completed studies in computer programming at the Un
 
 The University has released a statement expressing their shock at the revelation of the identity. They also highlighted that they “are working to implement the Government’s Prevent strategy to tackle extremism”.
 
-
-
 Imperial College Union has condemned Prevent as it discourages the free expression and analysis of ideas and impinges on a basic function of universities: introducing students to a variety of opinions and encouraging them to analyse and debate them.
 
 Mr Emwazi has been a person of interest to the British Security Services for some time: his name appears in a list of individuals connected to an extremist network in UK Court Proceedings from 2010, and was detained by counter- terrorism officials in 2010 when he visited London.

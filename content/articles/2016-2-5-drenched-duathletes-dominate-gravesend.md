@@ -37,7 +37,9 @@ However, the total running distance was unchanged and Matt Douthwaite was saliva
 As the rain started to fall, the race got underway and the field quickly spread out with Imperial Triathlon’s Milan Misak leading the way closely followed by Matt. Katie Slater took the lead of the women’s race. Lily Battershill, Anna Lawson and Nicola Mason clustered together to form a pursuing pack.
 
 Disaster struck for Milan at the start of the bike leg as he struggled to slip his right foot into a particularly troublesome cycling shoe that refused to stop spinning. Matt’s euphoria of taking the lead was short lived though as the fully clipped-in power of Milan’s legs was able to retake the lead within a few seconds.
-> > **By now the constant drizzle had made the smooth tarmac of the circuit even slicker**
+
+> **By now the constant drizzle had made the smooth tarmac of the circuit even slicker**
+
 By now the constant drizzle had made the smooth tarmac of the circuit even slicker. This posed a greater challenge to the competitors on a course that could already be described as ‘quite technical’ with plenty of bends and sharp corners. Surprisingly, there were no major incidences, although Katie did admit to misjudging a corner and veering onto the grass for a brief moment. She kept her composure, and more importantly her lead. The pursuing pack had dispersed and she now had Nicola hot on her heels.
 
 Nearing the end of the bike leg, Matt’s “runner’s legs” were unable to hold onto second place and he was overtaken by a triathlete from Tunbridge Wells Triathlon Club. However, Matt’s sneaky tactic of simply not changing his shoes between bike and run during transition enabled him to quickly regain his position.

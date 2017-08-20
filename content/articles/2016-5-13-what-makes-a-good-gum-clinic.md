@@ -33,7 +33,9 @@ On arrival, you're asked whether you're experiencing any symptoms, need emergenc
 I've never seen anyone at this clinic, doctor or nurse, who wasn't kind, friendly, and non-judgemental, and who I didn't feel completely comfortable with. You can tell that the staff are genuinely passionate about sexual health and disease prevention, and that they want to provide the best patient care.
 
 They'll quiz you in detail on your partners within the last three months, and ask you some general questions about longer term risk factors. Regardless of your designated risk level (I was placed in the same risk group as men who have sex with men for money, which is almost an achievement), they're incredibly thorough, and usually offer a full barrage of tests even if you've only had protected sex with one person one time.
-> > If you ask nicely, they'll give you some higher quality condoms
+
+> If you ask nicely, they'll give you some higher quality condoms
+
 Alongside the usual tests and treatments for chlamydia and gonorrhoea, the Jefferiss Wing lets you opt in for on the spot hepatitis B vaccinations (as well as hepatitis A, if you've been rimming gay men, which I would recommend). There's something incredibly reassuring about being immune to an incurable disease, so if given the option, you should definitely opt in.
 
 As well as taking blood for more thorough testing, anyone worried can also get immediate fingerprick HIV testing, which is a fairly unusual offer, but very helpful if, like me, you become convinced that you have every transmittable infection the moment you enter the clinic. Of course, this only tells you your status up to three months ago, so it's important to get this done regularly if you're worried. Luckily, they have a system where you can skip the queues and pop to another clinic upstairs for a quick pinprick test if that's all you need.

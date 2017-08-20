@@ -35,8 +35,10 @@ In one case, a student who was required by the department to invigilate during a
 Speaking to Felix, Head of Department Professor Peter Cheung was keen to right the “mistaken” views that he believes some hold, rigorously denying that there has been any foul play within the department.
 
 He firstly described the “three kinds of funding for postgraduate study: EPSRC, a department bursary or personal funding.” He then went on to clarify that the confusion surrounding payment is most likely due to the nature of a department bursary, which he claims already includes payment for any work expected to be carried out by a PhD student.
+
 > Paying someone who is funded by a department bursary for work is more or less like paying them for it twice
 > Professor Peter Cheung
+
 “Paying someone who is funded by a department bursary for work is more or less like paying them for it twice,” he explained.
 
 Professor Cheung also described how those funded by the other two options should fully expect to be paid for any work carried out, “I don’t like people volunteering for work, it would be like they’re doing a favour for us and I don’t want that.”

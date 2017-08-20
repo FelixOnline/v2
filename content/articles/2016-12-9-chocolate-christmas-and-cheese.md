@@ -26,7 +26,9 @@ highlights:
 If rolling in cash and taking baths in champagne in a mansion in Saint-Jean-Cap-Ferrat is your lifetime goal, may I suggest a better alternative: earning an OBE for “services to chocolate”.
 
 Why did I suddenly draw light to this matter? All after an inspiring evening of chocolate with Chantal Coady OBE, the creative director and founder of Rococo Chocolates, a proudly British, London based chocolate company.
-> >  The story began with a vivid excerpt of her childhood dreams: running around valleys of chocolate, collecting chocolates and sweets in her skirt, then hiding. She would then wake up and be disappointed by the absence
+
+>  The story began with a vivid excerpt of her childhood dreams: running around valleys of chocolate, collecting chocolates and sweets in her skirt, then hiding. She would then wake up and be disappointed by the absence
+
 It started off with a perfectly unexciting Wednesday in college, struggling to keep my eyes open in front of a handful of lecture recordings. After an additional few hours of messy doodling (which was supposed to be an engineering drawing of a pressure vessel), I wrapped up, marched past the glittering Harrods, a few shiny cars and an array of luxury brands on Sloane Street, and around the corner to the quiet Motcombe Street where the doors of Rococo Chocolates stood.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201612091141-aib116-IMG_6174.jpg" title="" caption="" attr="" >}}
@@ -48,7 +50,9 @@ The story began with a vivid excerpt of her childhood dreams: running around val
 The story quickly jumped to her days as a squatting Fine Arts student in the late 70’s, when she was offered a Saturday job selling Mars bars at Harrods (and yes, Mars bars were a luxury back in the day). She later graduated to the luxury chocolates section, wrapping up boxes of creamy Leonidas to the wealthy, and on one occasion, Sir Michael Caine.
 
 After being let go from Harrods for coming to work with emerald-coloured hair and spending a few months of boredom at an office job, she set her mind to create her own magical paradise of chocolate. Armed with her strong passion, business skills from Margaret Thatcher’s Youth Training Scheme, and a hefty bank loan (with the family house as the collateral), she opened the doors of her first shop on King’s Road in 1983. Her shop, complete with a sugar chandelier, fitted into the then rebellious vibe of Kings Road, fulfilling the imagination of chocolate lovers who had come on pilgrimages to escape the stale, suffocating, stuffy, department stores.
-> > By bringing the chocolate to the right working temperature, the cocoa butter forms a stable crystalline structure in the chocolate, resulting in hardness and gloss in the final product
+
+> By bringing the chocolate to the right working temperature, the cocoa butter forms a stable crystalline structure in the chocolate, resulting in hardness and gloss in the final product
+
 The first ten years wasn’t easy. They had their ups and downs, picked themselves up and continued on their journey. Their first products were chocolates produced by small Belgian and French companies, until when she came across Valrhona (a French specialist chocolate manufacturer) which influenced her to start producing her own chocolates in 1990. She got more and more involved in the chocolate industry, pushing to remove hydrogenated vegetable fats, artificial vanilla and excess sugar, and also founded the Chocolate Society in 1991, determined to inject real chocolate into the market.
 
 A major event in her 25 years in industry was the bond between Rococo and Grenada Chocolate Company. Recognising how special their chocolate were, Rococo began importing small quantities to sell in their shops in London. When two hurricanes hit the island of Grenada in 2004 and 2005, destroying the majority of cocoa and nutmeg, Rococo reached out to GCC, providing support, funding new solar driers and building new bridges. In 2007, they finally purchasing a small, nine-acre cocoa farm, naming it Grococo, where it harvested fine flavoured, organic cocoa beans.

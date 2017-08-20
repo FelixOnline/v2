@@ -47,7 +47,9 @@ From my experience, there are always three common problems from living in a dive
 From where I’m from, bargaining the price is very common and we do it all the time. But once, I tried this in another country and the shop seller pointed the finger at me and threw me out of the shop straight away. Stunned for five seconds, I learnt later that it was considered rude to bargain the price there.
 
 This is what I mean by culture shock and it has happened to me in London. Cultural difference is a very common thing. Even you and your siblings might prefer different kinds of music. It is normal that people from different backgrounds or origins will have different norms, and these can sometimes contradict one another quite spectacularly.
+
 > "Being a part of a diverse community can also cause a lot of pressure."
+
 What I do to avoid this problem is to assume that people will not always approach things in the same way I do. You can be surprised but don’t be shocked. Once you do not have expectations based on your own culture, you will not be shaken or disappointed. Instead, everything you see will be a new discovery for you!
 
 ### Discrimination
@@ -57,7 +59,9 @@ Racism, unfair treatment or insult, don’t let that get the best of you! In a d
 Sometimes, the prejudice is not even malicious, but still painful to be misunderstood. It can be just an offhand comment that makes you wonder if you’re a walking stereotype.
 
 Never ever let it discourage you! Remember, you did nothing wrong and have no reason to feel bad about yourself. Prove to yourself that you are not what they think you are. But if they are still ignorant of this, who cares! They’re not the only people in the world and there’re no good reasons for you to pay attention to these people for any longer.
+
 > "Sometimes I feel lost among people and feel that no one will understand me."
+
 ### Loneliness
 
 Ironically, I find that living in a place where there is a lot of diversity can often be a lonely experience. Sometimes, I feel lost among people and feel that no-one will understand me. But don’t worry! You feel that way because you’re out of your comfort zone with the people similar to you.

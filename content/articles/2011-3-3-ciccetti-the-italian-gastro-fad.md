@@ -34,7 +34,9 @@ Say hello to Polpo, Polpetto, Bocca di Lupo and soon (more precisely on March 14
 Gone are the days where you sit with your fork twirling through stodgy spaghetti and yearn the moment you can be finished with the bland tomato sauce that reminds you of the Tesco value 'Spag Bol' you thought was already a distant memory.
 
 Resembling a more authentic Italian experience, the concept of ciccetti allows for ordering of more dishes, and a whole lot of sharing. Boy would Joey Tribbiani disapprove.
+
 > The concept of ciccetti allows for ordering of more dishes, and a whole lot of sharing. Boy would Joey Tribbiani disapprove
+
 When faced with a menu like that at Bocca di Lupo, the meal is what you make it. Fancy a shaved radish, celeriac and pecorino salad with pomegranates and truffle oil? Yes please. A dish of fried prawns, baby squid, blood orange and white polenta? A large portion would do me fine. That’s the beauty of it all. You can opt for a larger portion when something really takes your fancy, or a small if you’ve never heard what polenta is but you’re willing to take the first step in this beautiful relationship.
 
 If you’re one to eat, dream and breathe pasta, the papardelle at Bocca di Lupo is quite simply heaven on earth. Rarely can you find fresh pasta as silky as this, that is, unless you take the advice of Charles Betts and hop aboard a plane to the land of the Pope. The option of taking a small-sized dish also means that pasta doesn’t have to formulate the main dish of your evening.

@@ -34,8 +34,10 @@ New Zealand. For a land-of-the-long-white-cloud the size of United Kingdom, whic
 Edmund Hilary, whose ascent would later earn him a knighthood, honed his mountaineering skills in the Southern Alps of New Zealand’s South Island. A J Hackett, better known as the ‘father of bungy jumping’, performed his first jump from Greenhithe Bridge, Auckland, and commercialised his ‘insanity’ on Kawarau Bridge, Queenstown. Meanwhile, James Livingston and his mates sailed a pub and gallons of Speights – brand of a New Zealand beer with proud heritage – from Dunedin to London to quench the thirst of their homesick compatriots.
 
 Even having lived amongst the extraordinaires, with their ambitious yet seemingly ludicrous (depending on perspective, clearly) schemes still strikes me with much fascination. So when two Imperial graduates approached me with their grand plan I could only admire and utter an obligatory “sweet as”.
+
 > I’d rather work my ass of for a summer and pay for six months of trekking in New Zealand, than going straight into a high paying corporate job and never seeing outside your office window
 > Landey Patton
+
 Alexander ‘Anders’ Ford and Landey Patton, who have completed a degree in material science and geology respectively, will attempt to traverse the [Te Araroa Trail](http://www.teararoa.org.nz/index.cfm), a 3030km track that will take them from the northernmost point of New Zealand, Cape Reinga, to Bluff, its southernmost tip. Along with Anders’ brother Damienmarc, they intend to set off in mid-November, aiming to complete the trek by the following March.
 
 I asked them where the inspiration to trek across New Zealand had sprung from. It turns out, according to Anders, to be a modern adventurer.
@@ -51,7 +53,9 @@ But how prepared are they?
 Anders has adopted a confident attitude and minimal planning. Landey, however, has mixed feelings.
 
 “Excited, confident and a little nervous; not necessarily about getting lost or anything, as we are giving ourselves leeway to take it slow at the beginning and time to chill if we need to. I’m a little nervous that walking everyday will get dull or monotonous but provided one of us doesn’t break a leg or get savagely sick or something well definitely do it.”
+
 > The landscape in New Zealand may be majestic but the challenges the terrain poses simply cannot be underestimated
+
 The landscape in New Zealand may be majestic but the challenges the terrain poses simply cannot be underestimated. Having previously travelled in New Zealand, is there a particular section of the trek Anders is dreading of walking through?
 
 “I’m slightly fearing Ninety Mile Beach – it is the first track, a three-day walk along the same stretch of beach. We will probably still be getting used to the packs, our bodies’ capabilities and the routine of living on the trail. Also walking on sand is a bitch and there’s relatively little water.”

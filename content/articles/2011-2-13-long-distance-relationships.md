@@ -36,7 +36,9 @@ At the beginning of the year, my situation was almost something of an embarrassm
 Why, then, would I put myself through such an ordeal of discipline and self-restraint? Surrounded by plenty of…friendly people (you know what I mean) open to all sorts of …new experiences (all right, I’ll stop now), what attraction could near-chastity and countless girl -pause- friends hold?
 
 Indeed, the curious organism that is the long-distance relationship is not easy to tame. It feeds off endless Skype conversations (thank god for webcams), the odd letter and the occasional, planned-months-in-advance trip. And it needs a lot of patience, effort and level-headedness to keep it alive and healthy. Not for everyone, then.
-> > It needs a lot of patience, effort and level-headedness to keep it alive and healthy. Not for everyone, then
+
+> It needs a lot of patience, effort and level-headedness to keep it alive and healthy. Not for everyone, then
+
 In fact, I think it’s something that has to be judged in the long run. Is the relationship worth suffering for? When you have the other person in your arms after two months of absence, does the proverb really hold? Or would you have enjoyed yourself more if you’d gotten with the Swedish chick from the party two weeks ago? I can’t answer those questions for you. But they are the kind of questions you have to ask yourself if you want things to work out with That Special Person.
 
 Having said all that, Valentine’s day is around the corner, and if the missus wasn’t all anti-pink-flowery-bullshit (which I’m incredibly grateful for) I would have to be getting her a present round about now. All is well so far, though, and we have told the three month rule to stuff it. Obviously something, somewhere went right. So, what is worth the effort?

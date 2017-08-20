@@ -25,7 +25,8 @@ highlights:
  - comment
 ---
 
-> > Heads were banged, and knees were scraped
+> Heads were banged, and knees were scraped
+
 _This article was published as part of FELIX's Sex Survey launch. Do the survey [here](http://felixonline.co.uk/go/sexsurvey)._
 
 It was a bright, sunny day in the summer of 2014. The renovation of the West Basement of Beit was well underway, and amidst the flurry of activity, I discovered some stairs hidden deep in the archives, which lead down to a dusty crawlspace, leading to the tunnels.

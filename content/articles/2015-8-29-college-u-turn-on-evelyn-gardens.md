@@ -31,7 +31,9 @@ In a statement released online yesterday, the college said that instead of closi
 This is contrary to [a statement received by Felix](../news/4513/evelyn-gardens-set-to-close-in-2015/) in March of last year, where a college spokesperson said the halls would be “closed for a period while refurbishment takes place, or the property will be removed from Imperial’s accommodation portfolio”.
 
 Whilst Imperial maintains the reopening of the halls was down to an “unprecedented rate of exam success among prospective students this year”, the [UK’s A-level grades have only increased marginally](http://www.bbc.co.uk/news/education-33886031). University places are up only 3% on last year’s figures, with A*s up only 0.1%. The director of the Qualifications organisation, JCQ, said the numbers showed “stability”.
+
 > The news will come as a relief to many freshers, as the rent (£132 per week) will be amongst the lowest available so close to campus
+
 New students will be allocated their halls places within the next few weeks, and although Evelyn Gardens will not have appeared on their accommodation applications, the news will come as a relief to many freshers, as the rent (£132 per week) will be amongst the lowest available so close to campus.
 
 Accomodation remains a contentious subject for Imperial students, after the surprise [closure of Weeks hall](../news/5474/weeks-to-remain-closed-despite-student-protests-/), and the [shortlisting of new Woodward halls in North Acton for an 'ugliest building' prize](http://www.getwestlondon.co.uk/news/west-london-news/north-acton-monstrosity-building-nominated-9765208).

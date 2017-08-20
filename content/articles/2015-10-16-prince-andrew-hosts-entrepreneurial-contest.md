@@ -27,7 +27,9 @@ Wednesday saw the Duke of York come to Imperial, to host his Pitch@Palace entrep
 The royal, who is the Queen’s third child, stood down as the UK trade envoy after being criticised over his friendships with controversial figures, such as Azerbaijan’s president and Jeffrey Epstein. In an effort to support inventors and investors, the competition allows groups to pitch their ideas to professionals who will help them hone their presentation skills, and potentially invest.
 
 42 teams pitched to a panel of judges in a marquee on Queen’s Lawn, which will house graduates at Monday’s Commemoration Day.
+
 > 42 teams pitched to a panel of judges in a marquee on Queen’s Lawn
+
 Two teams from Imperial got through the Bootcamp stage this week, and will go on to pitch their ideas at St James’ Palace. They were KNYTTAN, a company digitalising knitwear production, and LifeBox, a lowcost incubator for use in developing countries.
 
 The Duke prepared competitors for the final round in his closing remarks of the day. Taking the stage just after the winners were announced, he quipped, “I bet you’re all glad that’s over”, before giving the winners some advice.

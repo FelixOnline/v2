@@ -43,8 +43,10 @@ The Intergovernmental Panel for Climate Change (IPCC) released merely one part o
 * The atmospheric concentrations of carbon dioxide (CO2), methane, and nitrous oxide have increased to levels unprecedented in at least the last 800,000 years. CO2 concentrations have increased by 40% since pre-industrial times, primarily from fossil fuel emissions and secondarily from net land use change emissions. The ocean has absorbed about 30% of the emitted anthropogenic carbon dioxide, causing ocean acidification.
 
 * Global surface temperature change for the end of the 21st century is likely to exceed 1.5°C relative to 1850 to 1900. Warming will continue beyond 2100. Warming will continue to exhibit interannual-to-decadal variability and will not be regionally uniform.
+
 > “There’s no happy ending where we prevent climate change any more. Now the question is, is it going to be a miserable century or an impossible one, and what comes after that.”
 > Bill McKibben, The New York Times, Dec. 5, 2010
+
 Such dire forecasts backed by mathematical certainty come as a respite for climate change believers who in recent years had been challenged to explain why global warming rates had been gradually declining in the last decade. Now, their response is to say that “due to natural variability, trends based on short term records are very sensitive to the beginning and end dates and do not, in general, reflect long term trends.” This, backed up by the above facts, could well be indicative of a very real warning regarding our impacts on the Earth’s climate.
 
 So the science has been made clear, but what’s stopping people or even governments from taking combative action? One major factor is the reluctance to take a personal, conscious stake in moulding the climate at the cost of short- and long-term personal comforts, or even at the cost of a political party losing popularity. Another common sentiment is that any human efforts to reverse the anthropogenic impacts would be futile, so there’s no point expending resources to even try to do so.

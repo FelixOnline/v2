@@ -32,7 +32,9 @@ The fact that he can educate me on the human genome, and equally as well strike 
 Highlighting the uncertainties that many science journalists face when embarking on their career path, Dr. Murcott begins his life story with more than just a hint of humour in his voice.
 
 “Like so many people in this industry it wasn’t a straightfoward story. I did a PhD in Biochemistry at Bristol University and then I moved onto a Postdoc which is when I began to realise that I was not the greatest research scientist – I quite enjoyed it but not as much as I was hoping to.
+
 > ...I began to talk more about science rather than do it.
+
 At the same time, without really knowing it, I began to be a lot more involved in talking about science rather than doing it.”
 
 Thanks to his long love of speech radio, Dr. Murcott kicked off science journalism career in the medium, spending his days working on his postdoc and his evenings building up his radio CV.
@@ -46,7 +48,9 @@ Currently also a lecturer in Science Journalism at the City University London, D
 “What a masters [in science journalism] does is it condenses and puts into one place the various elements you need which are: practice, criticism and work experience. It’s not essential, but it is one way of doing it. A good course is very valuable.
 
 “I don’t think that any journalist needs to be an expert on any subject other than journalism. But, the things a science journalist needs is to know is what questions to ask; to have an understanding of the process of the work they’re reporting on, as well as how science works so they’re able to rigorously examine the science that is laid out in front of them.”
+
 > A science journalist needs to know what questions to ask
+
 On the topic of science journalism, I wonder what Dr. Murcott’s views on ‘good’ and ‘bad’ science journalism are.
 
 “You have to ask ‘What is the purpose of journalism?’ Now there are a lot of things a journalist would say – to hold people who have public money to account and to comment on all sorts of things. But actually, the point of journalism is to sell and get an audience, because unless you do that, you have no money to do the reporting or research you want to do.
@@ -58,7 +62,9 @@ On the topic of science journalism, I wonder what Dr. Murcott’s views on ‘go
 “There’s a very good analogy of science: if you imagine all our knowledge is a sphere, then the edge of the sphere is where our knowledge of the known leads the unknown. As you increase the amount we know, that sphere gets bigger and so of course its surface area gets bigger – the more we know and the more we uncover, the more we realise we don’t know.”
 
 As for what particularly interests him currently in the world of science, Dr. Murcott answers fluently “firstly, anything to do with the genome and genomics. It won’t be that long until we can sequence an entire human genome in a matter of hours, and the things that can be done with genetics is just mind-boggling.
+
 > ...take a moment and think ‘What do I really like doing?’
+
 “I think the other thing is particle and high-energy physics. We’ve got a standard model that was developed in the 1920s which has stood up reasonably well but is starting to show signs of weakness at the edge; and while hunches are never reliable, I wouldn’t be surprised if there was a major revision of the standard model of physics in the relatively near future.
 
 “I also think another area that is very interesting is the increasing computing power as it has allowed people to make much more complicated and elaborate mathematical models which have allowed us to test our understanding of what we know. We can test anything from climate science through to chemical equations, it can help us understand environmental issues and improve our knowledge in reducing energy consumption. Powerful computers are allowing us to do amazing things.”

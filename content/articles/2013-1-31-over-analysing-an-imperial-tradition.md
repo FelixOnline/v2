@@ -30,7 +30,9 @@ Murphy always seemed to be in the picture, and I would worry non-stop about what
 I’ll just pause here for a second. What about you? Just think of everything that has gone wrong in your life. On second thoughts, don’t. Think about everything in your life that has been a lesson. It’s strange right.
 
 How do you feel with a saying from an Eastern Sage, who said “Why do you complain of the rub, that polishes you, my friend?’ Could it be that Mr Murphy is just a theoretical concept is inadvertently helping us become better people, in a transient life.
+
 > ...believe that yesterday, today and tomorrow are simply the best days
+
 I don’t know how it happened, or the moment when the weight from my shoulders was lifted and it felt like I could see clearly in the mist of reality. Occam’s razor (from my limited understanding) is the concept that in essence does not seek a complicated explanation, but gets rid of the unnecessary, and holds true to the most straightforward way of explaining things.
 
 Don’t you see? Most people push away happiness but subconsciously hold onto it. What we don’t realize that happiness is here. Happiness is past, present and future, towards a tranquil horizon. A butterfly that comes and quietly sits by the shoulder, when we become too large for worry, too loyal for fickleness, too humble for arrogance, too funny for anger, too selfless for avarice, too brave to be to be influenced and too kind for jealousy.

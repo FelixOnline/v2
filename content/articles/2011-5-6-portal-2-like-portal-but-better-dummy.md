@@ -30,7 +30,9 @@ highlights:
 Hello Felix readers, Cave Johnson here, founder and CEO of [Aperture Science](http://half-life.wikia.com/wiki/Aperture_Science). Now I’m sure you’re all wondering, “Cave, why are you writing about _Portal 2_? Why are you breaking the fourth wall?” I’ll tell you why, it’s because I’m Cave Johnson and I don’t let silly little things like rules and regulations get in MY way. I’ll do whatever I damn well please and damn the consequences.
 
 Here at Aperture we believe in striving for the best. We took the original _Portal_ and thought, ‘What would make this bigger? Better? BOLDER?’ And let me tell you, THAT was a hefty challenge. Multi-award-winning product, seamless design, revolutionary gameplay, it had our best eggheads scratching their shining bald domes for hours. They came back and said, “Cave, we can’t make this game better. Please don’t fire us.” Did it anyway, no room for failures here. Got some smarter guys in, cranked out _Portal 2_.
+
 > I don’t pay my lab boys $100,000 a year just to sit on their thumbs and suck up coffee.
+
 Science has proven that short games are bad, no two ways about it, so we made _Portal 2_ even longer than _Portal_. Twice as long in fact. If you’re dim witted it might even take you three times as long, maybe more, we don’t know. We at Aperture only test with the best of the best, no dunces allowed.
 
 “What about story Cave? Have you skimped on that?” Who do you think we are, Black Mesa? Of course we haven’t skimped on story. _Portal 2_ has at least 65% more story than _Portal_, and you can go ahead and quote me on that (Disclaimer from the suits in PR: quoting me on that WILL result in a court injunction). It’s got thrills, twists and turns and so much action it’ll make the sappier amongst you soil your diapers. No, seriously, our story writers have told me those of you with weak hearts need to stay away from this game. We really can’t afford another lawsuit.

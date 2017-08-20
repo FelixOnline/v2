@@ -51,7 +51,9 @@ Our sex survey results in 2011 reported that 83% of those surveyed identified as
 Woah! 19% of you said you’d cheated on a partner. But you’re a damaged lot, because 19% also suspected they’d been cheated on.
 
 When we asked you if you were in love, a surprisingly high number of you were. 77% of those in exclusive relationships said they were, with 46% of those asked overall admitting to being in love. On the other hand, 15% of you chose the response ‘what is love’? Fair.
-> > “Please add a diagram of where the cliterous [sic] is. Please FELIX, please.”
+
+> “Please add a diagram of where the cliterous [sic] is. Please FELIX, please.”
+
 **Sexting**
 
 It’s 2016, and you don’t have time to have actual sex. A whopping 44% of you say you like sexting, and half of those of you in monogamous relationships say you do it on the regular, whereas a mighty 75% of you who are seeing multiple people are fans of this particular method of sexytimes. As for your methods, the overwhelming winner is Snapchat. Of those of you who said you were into sending dirty pics, 56% used Snapchat. The next most popular medium was Whatsapp, with the good old-fashioned text coming in third. Presumably the inherent risk of accidentally publishing a picture of your dick out meant that only 17% of those asked said they used Facebook messenger to send their tasteful nudes.
@@ -65,7 +67,9 @@ This year, we put a particular focus on your contraception habits. Folks who sai
 An eye-watering 44% of you said you’d never had an STI test, but only 4% of all respondents admitted to having had an STI. 21% of you said you got tested every time you switched partners, and 19% said they only bothered if they were worried about the sexual health of a new partner. Those seeing multiple people were the best at getting semi-regular STI tests – 70% had had one in the last year.
 
 69% (giggle) of those relying on the pill to stop them becoming mums and dads were in monogamous relationships, and unsurprisingly, condoms were the contraception options of choice. After these two, pulling out was the most popular ‘method’ of contraception respondents said they relied upon. You know this doesn’t work, right? Perhaps most worryingly, the 20% of the medics who responded said they had used pulling out to prevent pregnancy. Two little words for you, baby doctors. Pre. Cum.
-> > “Sex is healthy, do it nerds.”
+
+> “Sex is healthy, do it nerds.”
+
 **Relationshits**
 
 Is it easier for a girl to get a partner at Imperial? Possibly. 42% of self-identified lads were single, as opposed to just 28% of the ladies. Just over half of everyone was in a ‘you’re-not-allowed-to-shag-anyone-else’ arrangement. 12% of those asked were in a seeing multiple people or one person non-exclusively.
@@ -73,7 +77,9 @@ Is it easier for a girl to get a partner at Imperial? Possibly. 42% of self-iden
 **What are you into?**
 
 A huge 48% of you said you didn’t even want to try receiving anal, whilst the departments where butt stuff is most popular were ESE and Mechanical Engineering, where 20% said they liked it. On the whole, people seemed more up for the idea of giving anal, with 15% saying they would try it.
-> > “After having sex in the Great Hall, we stood naked on stage and took a bow.”
+
+> “After having sex in the Great Hall, we stood naked on stage and took a bow.”
+
 46% of you want to try having a threesome, with 18% of Chemical Engineering saying they knew they liked it already. This was far more popular with male respondents. 38% of women, in comparison to just 11% of men said they didn’t want to try it. Similarly, the idea of orgies was much more appealing to men, of which 36% wanted to try it, compared to just 14% of women.
 
 Pretty much everyone is into, or at least into the idea of restraints – with both making up two thirds of the voters. 22% of you didn’t want to try public sex with a pretty even split on gender. After sexting, sex toys were the most mainstream thing you liked, with 35% of people saying they liked it, and 30% saying they wanted to try it.
@@ -81,7 +87,9 @@ Pretty much everyone is into, or at least into the idea of restraints – with b
 **Sex on campus**
 
 19% of you reported having had sex on campus, with particular spikes in Blackett Laboratory, SAF and the Huxley Building. However, the most popular on campus spot for a cheeky shag was the union building, including the union offices, with a whopping 27% of those who said they’d had sex on campus reported to have boned there.
-> > “Shout out to anyone who bones in Bone, gives a rogering in Roderick Hill or gets down to business in the Business School.”
+
+> “Shout out to anyone who bones in Bone, gives a rogering in Roderick Hill or gets down to business in the Business School.”
+
 In terms of contentedness with your sex lives, the vast majority of you were happy or very happy, with the happiest of you in Civil Engineering (who are also the ones having the most one night stands – just saying). Those in EEE and Computing were the least happy, with 33% of each course saying they were either unhappy or very unhappy with their sex lives.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201606171105-felix-1 nite.jpg" title="Have you ever had a one night stand?" caption="Have you ever had a one night stand?" attr="" >}}

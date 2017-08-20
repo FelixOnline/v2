@@ -32,7 +32,9 @@ I was knocked to the floor in the doorway by people pushing me from behind. I wa
 I ran a couple of flights of stairs, and then came to a stationary group of people on the 3rd floor, one flight from the top. People continued to flood up behind me, and for a moment there was some horrible crushing in the very narrow stairwell. With no fire exit at the top of the stairs, my heart sank. Suddenly, there was a really loud explosion from below which literally shook the building, and some smoke appeared from below. I could not see any way out at this point and was accepting that we may all die.
 
 There was, however, a skylight window in the ceiling of the stairwell that we managed to get the bars off, and started filling out up through the window onto the roof. It took some time, but everyone was incredibly calm, and waited their turn.
-> > I could not see any way out at this point, and was accepting that we may all die
+
+> I could not see any way out at this point, and was accepting that we may all die
+
 I let a couple of women go in front of me, and helped another person who was struggling to get up. Shooting continued from below.
 
 Once on the roof, there was a man pulling survivors through a window of his apartment on the 3rd floor. Around 70 of us stayed there in his living room, trapped and hidden in near complete darkness.

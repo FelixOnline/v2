@@ -35,7 +35,9 @@ The expansive open world, unlike in _Super Mario Galaxy_, is flat (in the sense 
 The game isn’t just a platformer; it incorporates many role-playing elements. You can upgrade your powers, do optional side quests, and unlock extra costumes. These don’t detract from the core gameplay in anyway, but they often feel like unnecessary extras. Personally, I would have preferred a pure action-platformer. _Super Mario Galaxy_, like many other Nintendo games, gets it right in the way that your character’s abilities don’t get better over time, but expand through new power-ups and level mechanics.
 
 _Gravity Rush_ is very obviously a game by Japanese developers for a Japanese audience. It’s story begins with the tired trope of amnesia. You play as a girl called Kat, who meets a cat, Dusty, with gravitational powers. You’re thrown into a world where gravitational storms and creatures known as Nevi are ravaging the local populace. And it’s your job to save the day. At first, the plot does feel uninspired, but it soon grows into one of fantastical intrigue which even manages to incorporate themes of class and corruption.
-> > _Gravity_ _Rush_ looks and performs marvellously
+
+> _Gravity_ _Rush_ looks and performs marvellously
+
 Comic style cutscenes playfully add character, and motive, to the world’s inhabitants. If you enjoy the themes and styles often found in anime, this might be the game for you.
 
 For a game that has been ported from the Vita to the PS4, _Gravity Rush Remastered_ looks and performs marvellously. It’s a great remaster. With the extra power of the PS4, the gritty, almost steam-punk, environments are given the respect they deserve. To exaggerate the changing environment, and districts of town, the sky changes colour as you move between each: the orange of Auldnoir, the purple of Pleajeune, the yellow of Endestria, and the iconic green of Vendecentre. Each reflects certain characteristics of these areas, making them feel distinct.

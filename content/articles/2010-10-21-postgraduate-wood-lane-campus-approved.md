@@ -33,8 +33,10 @@ The College aims to complete the first stage of the development by September 201
 The move is likely to appease some prospective postgraduate students who wish to seek an alternative to private accommodation. Currently, Imperial admits that it has a "very limited" amount of accommodation available for postgraduate students, with Imperial-managed Clayponds Village in South Ealing housing 325 students and postgraduate campus Silwood Park home to just 126.
 
 In a [statement released by the BBC](http://www.bbc.co.uk/blogs/spacesandplaces/2009/09/woodlands_sale.shtml), Chris Kane, Head of BBC Workplace, praises the deal, stating that, “We are delighted to have achieved a sale which offers good value for our licence fee payers. The new occupier shares the BBC’s values [and] reinforces the innovative and creative culture of the area”.
+
 > This purchase is an investment in Imperial’s future growth and development
 > Dr Martin Knight, Chief Operating Officer, Imperial College London
+
 Dr Martin Knight, Chief Operating Officer of Imperial College London, said, “This purchase is an investment in Imperial’s future growth and development. It will also allow us to extend provision of quality affordable student accommodation, particularly for postgraduates.” He then cryptically added, “We look very much forward to collaborating with the BBC on research and other projects.”
 
 The scheme was not approved without some controversy however, with CABE (Commission for Architecture and the Built Environment) slamming the project. They have stated that the sustainability targets for the project “do not reflect Imperial College’s reputation for excellence and innovation.”

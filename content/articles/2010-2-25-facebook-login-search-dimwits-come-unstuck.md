@@ -34,10 +34,12 @@ Of course there's nothing wrong with searching for something you go to regularly
 ReadWriteWeb is a site dedicated to web apps and technologies behind the internet. They wrote up an interesting article about how Facebook might end up being your universal login for everything you might do on the web, spurred on by the recent AOL-Facebook partnership. Of course a web-savvy site like RWW has pretty good SEO, meaning that their post about a universal Facebook login hit all the right keywords to propel it up the search rankings for anyone searching Google for 'Facebook login'. Unbeknownst to them this put the post squarely in the firing line of all those Bookface geniuses that search for 'Facebook login' each time, sending thousands of confused Facebookers to RWW producing hilarity and utter stupidity along the way.
 
 Pretty soon the blog comments started pouring in with frustrated users complaining that Facebook had 'changed'. Here's a few choice ones:
+
 > 'The new facebook sucks> NOW LET ME IN.'
 > 'I WANT THE OLD FAFEBOOK BACK THIS SHIT IS WACK!!!!!'
 > 'I was just learning,why would you mess it up?'
 > 'Why couldn't you just leave well enough alone!!!'
+
 Of course this state of affairs prompted RWW to stick a large block text sign in the middle of the post telling the confused Facebookers that 'This site is not Facebook', but even that didn't seem to stem the flow of cretins.
 
 Soon the tech community got wind of this phenomenon prompting it to spread across Digg, Reddit, Twitter and blogs like wild-fire causing another deluge of visitors and commenters, this time ripping the absolute piss out of the now irate Facebook numpties. At that point it was clear, this was the birth of a new internet meme, completely by accident, but absolutely hilarious nonetheless.

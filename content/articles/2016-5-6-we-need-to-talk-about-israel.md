@@ -32,7 +32,9 @@ It should also be acknowledged that the idea that Jewish spiritual, cultural, an
 My issue comes with the fact that these anti-semitic allegations may soon become shorthand for any accusations towards the state of Israel, thus denouncing any constructive discussion on foreign policy. Ken Livingstone’s statement comparing Israel’s motivations to those of Hitler was the headline-grabbing statement; however, the rest of his statement was this: “The simple fact in all of this is that Naz made these comments at a time when there was another brutal Israeli attack on the Palestinians”.
 
 It is my personal opinion, and that posed by the three figures mentioned in the first paragraph, that the State of Israel continues to get away with human rights violations that it commits in the name of self-defence in the 21st century.
-> > Politicians must be able to voice valid criticisms of Israel
+
+> Politicians must be able to voice valid criticisms of Israel
+
 Here is a quick rundown of those committed in the last 12 months, according to Human Rights Watch or Amnesty International: In a report published in April 2016, it was found that the number of Palestinian children arrested and detained along the West Bank had doubled since October, defying international laws that dictate a parent or guardian must be present, and this came along with reports of child abuse by the Israeli security service towards these children.
 
 In March 2016, it emerged that Abd al-Fatah al-Sharif, who was alleged to have stabbed an Israeli soldier, was executed with an assault rifle after being wounded. This has been re-ordered and a legal case to prosecute the soldier in question for war crimes continues; however, the Israeli forces rarely prosecute any of their soldiers accused of war crimes.

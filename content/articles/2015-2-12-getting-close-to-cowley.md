@@ -38,7 +38,9 @@ Steven Cowley: I’m the CEO of the United Kingdom Energy Authority, and the Hea
 __XC: You have three fellowships (Royal Society, Royal Academy of Engineering, and Institute of Physics), and a Glazebrook medal for leadership in physics. Have I missed anything out?__
 
 SC: No. Awards are very important, and it’s lovely to receive them. I’m chuffed to receive awards, but more than anything else I want to see fusion happen in my lifetime. It is that important that we solve this problem.
+
 > "There is nothing I like better than to sit with a problem in front of me which isn’t solved."
+
 At the end of the day there is nothing I like better than to sit with a problem in front of me which isn’t solved. And I have less and less time to do that. You don’t choose a career in physics to become a celebrity. I do what I do because I want to see fusion solved in my lifetime, and fusion has immense challenges ahead of it.
 
 One of the scientists I’ve been reading up on lately is Enrico Fermi, someone very influential in the first nuclear experiments. My thesis advisor had lectures from Fermi. Fermi was a godlike figure, but a very humble man, who liked nothing better than to solve equations, and to work with students.
@@ -54,7 +56,9 @@ If we want to solve this inequality, and bring billions of people up to the stan
 How we’re going to supply that energy without completely messing up the atmosphere, I don’t know, except if we can crack these hard scientific puzzles. In the long term, we have to think about solar, advanced fission reactions in breeder reactor, and fusion, the only ones which have enough capacity to sustain us.
 
 Fusion is a very attractive energy source; it’s clean, and sustainable (at least for the next 30 million years), but is very hard to actually do. As a scientist, that’s what’s also makes it so attractive; if it were easy, it wouldn’t be as much fun!
+
 > "I was a lazy, good-for-nothing student who didn’t work very much."
+
 There are, throughout history, human quests where we try to conquer something, like flying. For hundreds of years people tried to fly and when the breakthrough happened, the whole world suddenly changed forever.
 
 I think fusion is like that and for me, that was one of the great attractions; to be really involved with something that is really difficult that would really change the world. I saw that it would be helpful; I saw that it would be something that really has to be pursued, but also something I just thought that it would be fun. And it has been fun!
@@ -80,11 +84,15 @@ He taught me to appreciate the satisfaction of solving puzzles, and the privileg
 __XC: You also sit on the Prime Minister’s Council for Science and Technology. How influential are scientists in policy making?__
 
 SC: It is very interesting to see how politicians interact with scientists. The Prime Minister is a very serious man. He takes notes at every meeting, and is interested in getting the best out of British science. Everybody recognises and is proud of our science and technology base. They definitely hold scientists in very high regard.
+
 > "It is very interesting to see how politicians interact with scientists."
+
 __XC: Despite all this, you still have to teach the undergraduate course in Electromagnetism, as required by a professor. How important is teaching to you?__
 
 SC: I like teaching, because even though what I teach is not at the very frontier of what we know, it puts me in contact with students. Famously, Richard Feynman turned down a position at the Institute of Advanced Study at Princeton because it had no teaching. He proclaimed that teaching is what keeps you in contact with young people and young people are the ones who are going to solve the next problems. As you get older as a scientist, you realise that you’re not going to crack certain problems, but it would be really nice to see a young person crack this problem. When you’re
+
 > "Don’t kid yourself you understand something if you don’t.”
+
 teaching, you’re meeting people like yourself from the next generation. Some people, in my class, I’d like to think are the ones producing the next breakthroughs. I probably don’t get as much time as I’d like for interacting with students.
 
 __XC: Gentleman’s Quarterly (GQ) ranks you in the top 100 influential men in the country, ahead of Alexander Lebedev, Richard Branson, Danny Alexander, and Brian Cox. I also understand that you have two sons – as an influential man, how do you hope to influence them in their futures?__

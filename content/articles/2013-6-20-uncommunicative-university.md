@@ -51,9 +51,13 @@ We, the student body, were not consulted on Acton. I’m not suggesting, as one 
 This response was more than all those vociferous campaigns against the Life Sciences cuts got. An actual response from senior management seems to have acknowledged that this was a mistake. Although they will never admit this in those words, they are at least trying to put it as right as they can at this late stage by conducting a review. I love reviews. A detailed review of Evelyn Gardens and Garden Hall to actually see what condition they are in? Perfect. But why were decisions made before this detailed information was known?
 
 The Union website also states that negotiations over Evelyn Gardens’ lease are also ‘too commercially sensitive’ to be widely consulted on – surely this is the perfect time to listen to our representatives, and avoid a repeat of the Acton fiasco.
+
 > Number Crunching: £364,770 = Total subvention to all the clubs, societies and projects from the Union.
+
 Commercial priorities seem to take precedence over many aspects of College life. They are obviously an important part of any business; especially one as large as Imperial. The College had an income of £765 million last year, with a surplus (read: profit) of £63 million; a surplus to turnover ratio of 8.3% (the percentage of the money made that is profit). This number is high compared to other institutions – though not as high as the year before when it was 13%. A brief search of other similar organisations yielded some interesting results (shown in the bar chart over the page); the going rate seems to be about 2-4% with no-one else coming close to our margin. So if we’re outperforming our competitors by making more money than they are, what are we doing with this extra cash? It’s certainly not going to the Union, which received a lowly £1.4 million last year, nor is it used to give extra time to ailing Departments while they sort their financials out. (See Life Sciences who reportedly had a deficit of 1.5 million.) So where is this money going?
+
 > Number Crunching: £364,000 = Sir Keith O’Nions’ (President & Rector of Imperial College London) salary
+
 Maybe we’re short of money and don’t hold enough reserves? If we paid off all of our outstanding debt tomorrow, College would still be sitting on a cool £96 million.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201306210054-tna08-uccimage3.jpg" title="" caption="" attr="" >}}
@@ -68,11 +72,17 @@ __But is the Union any better?__
 {{< figure src="http://felixonline.co.uk/img/upload/201306210053-tna08-uccimage2.jpg" title="" caption="" attr="" >}}
 
 Our one link is the Sabbs; the Union President sits on the highest board in College, the College Council. This is quite a rare privilege, and one that has been revoked previously, but we do have a voice here. A voice that could be used by everyone; those who want a moan or to make things better. But how can the average student get his view across? Supposedly the Union Council; anybody can go to one of their meetings and have their say. You won’t get a vote, and you won’t know what they are discussing until you go along. The files are online and available but this is not the same as advertising the agendas. Only one paper this year was submitted by a non Council member while 93% were submitted by the Sabbs. Is this representation?
+
 > Key Numbers: £765m = College Income 2011/12. £63m = Surplus 2011/12
+
 So what happens during a meeting? The Union Council vote on papers covering a wide range of topics including recommendations to College. These papers then allow the Sabbs to take the “Official View” of the students to their other meetings throughout College and lobby the people with real power to make changes. College can and do ignore our recommendations; particularly on some of the more contentious issues, as is their right. Generally however they do listen and want to make changes as they want us to be happy. It’s in their best interests both financially and academically. The “You Said We Did” campaign ran by the Union this year is trying to highlight the steps that we are making and trying to make Union Council seem more than just a lobbying group.
+
 > 40% of students believe ICU is run for profit
+
 It is slightly more than this. We do have the power to make changes to things that directly affect the Union. Consider this example: I present a paper to Council resolving to never have another Summer Ball. If this passed then the Union would never have another Summer Ball. (It would have to pass the Imperial College Union Trustee Board first but assume theyrubber stamp it.) To reiterate: anyone can present a paper and everyone on Council gets a vote. This suddenly gives more weight to every position that comes with a seat on the Council.
+
 > 45% of students don’t think ICU is the voice for students
+
 Or does it? Are we all that apathetic? I can’t believe this. We do care; highest election turnouts in the country do not scream apathy. I think we just need to feel that we can actually make a difference. I think that it is that people feel powerless against ‘The Union’ or ‘The College.’ We don’t get a lot of power but we could use what we have a lot more effectively.
 
 Without trying to sound too hacky or desperate, I implore you to get involved. Stop moaning and make some changes. If only by writing a moany article in Felix, make the administrators sit up and listen. They control your time at College but they need us to be on side. Call their bluff occasionally, make them think – this is the only way to improve the ‘Student Experience’ here – they’ve shown they can’t do it by themselves.

@@ -37,7 +37,9 @@ I spoke to Ruben Ӧstlund about his directorial choices and future work:
 __Where do you draw your inspiration?__
 
 The concept is a thematic film about group behaviour. I think this is something very fundamental about being a human being, that we are herd animals. I made my first feature, Gitarrmongot [literally: The Guitar Mongoloid] about being individuals that don’t pay attention to the group, and while I was making it I got very interested in the complete opposite, about how the group influences the way you behave. All the five situations in Involuntary come from situations from my life or other people in my life.
+
 > The concept is a thematic film about group behaviour. I think this is something very fundamental about being a human being, that we are herd animals
+
 __You seem to have a very unique directing style through using long takes from a stationary camera, is there a reason for this style?__
 
 From the beginning I needed limitations from which I could draw creative energy and one limitation is to have a fixed camera. With this, the scene could take place in front of the camera or not, so I have to make decisions that allow the scene to work. In the beginning, I used the fixed camera as a method by which I could make the scene’s focus 100% in front of the camera, instead of taking ten different angles in the same scene. When you are on set, it takes so much time and effort to move the cameras around that you can’t fully focus on what is actually going on in the scene.

@@ -36,8 +36,10 @@ However, I wasn’t here to learn any maths (phew!) Instead, I am here to see ho
 Excitingly only 5 minutes into the lecture I have the opportunity to link my iPhone up to the interactive webpage set up for the class in order to test out my maths skills. Professor Thomas writes out a rather complicated looking question for the students, which means nothing to me but looks impressive. The students seem to know what it means though, which is good! These examples are not prepared in advance; Professor Thomas just writes down questions “on a whim” and gives multiple choice answers.
 
 On the screen in front of me I am given a list of different options. Each member of the class then chooses which option they think is correct and ‘vote’ by ‘pressing’ the button next to their option. I decline from voting and let the person sitting next to me vote in my place. After a short delay a simple bar graph depicting the lecture hall’s answers pops up in front of me of the screen. It’s very basic but effective. When I ask Professor Thomas about this straightforward process he says that something “as simple as possible meant that [he] can use it at the same time as writing on board or visualise without disrupting the lesson.”
+
 > It “disrupts the 'copy down lecture notes' mentality and has [the students] think hard for a minute about something.”
 > Professor Richard Thomas
+
 Professor Thomas believes that the use of this technology wakes up the students in the room. It “disrupts the 'copy down lecture notes' mentality and has [the students] think hard for a minute about something.” I can see from the undergraduates sitting around me that this method provokes discussion and also induces a competitiveness to get the answer right. But for the shyer members of the class, it allows them to contribute without having all eyes on them.
 
 Professor Thomas explained, “[I] can use one example to illustrate a whole piece of theory, and be sure [the students] really thought about it because they answered a question on it.”
@@ -47,7 +49,9 @@ This interactivity is not new; the class had previously used physical ‘clicker
 Although I am no expert in education practices and theories, the ability to actually experiment and test ideas just learnt in reality surely must provide each student with immediate feedback about how well they have picked up what is being taught. Interaction may be beneficial but when there are over 200 students in a lecture, it turns into a challenge.
 
 In the maths department, Professor Thomas is the only lecturer to be currently using the online technology and I believe it is no coincidence that he is one of the younger members of Imperial’s faculty. Professor Thomas assures me that his efforts are being closely watched. Some others may soon follow but others remaining dead against it. He explains that there is the occasional playful joke by other members of the faculty, teasing him about the technology use, but most of the faculty are very supportive.
+
 > There is the occasional playful joke by other members of the faculty, teasing him about the technology use, but most of the faculty are very supportive
+
 Technology now invades every single place in our lives and has revolutionised society. Although thus far technology in education has lagged behind the rest of society, surely it is only a matter of time before it fully invades? The fact that the internet is now portable gives us the ability to access our digital world and integrate it with our physical one. It seems prudent for Imperial, as one of the UK’s leading universities, to start integrating it now and lead the way.
 
 “It’s basically one big experiment at the moment,” Professor Thomas said. What is the future for Imperial? It’s a tricky one. Although the influx of technology into teaching seems both inevitable and positive, have a one size fits all approach may actually be detrimental. Each lecturer is unique in the methods they employ and style of teaching. The ultimate question therefore is what method should Imperial adopt to being greater technology integration into the classroom?

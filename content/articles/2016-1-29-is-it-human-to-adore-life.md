@@ -29,7 +29,9 @@ highlights:
 A_dore Life_ is an album about the good and the bad parts of love. The title should really be a question because Jenny Beth and her band are conflicted: “Is it human to adore life?”
 
 **Savages** stream of post-punk is extremely accessible and flirts with all sorts of sounds. The quartet come together brilliantly; Gemma Thompson on guitar provides grizzly riffs, Ayse Hassan on bass controls the tempo of each song and Faye Milton’s drums help induce intense climaxes. And then there’s Jehnny Beth, with a voice that wanders and wanes.
-> > **An assured and defiant collection of songs**
+
+> **An assured and defiant collection of songs**
+
 ‘The Answer’ starts the album with melodic guitars and the statement that “Love is the answer.” On ‘Sad Person’ Beth delivers one of Adore Life’s best lyrics, “I’m not gonna hurt you / Cause I’m flirting with you.” ‘Adore’ starts slow with fuzzy guitars and then the drums kick in and trick the listener into believing the song has reached it’s peak. Eventually, it comes to a halt; there’s a brief moment of silence which is broken by Beth when she asserts: “I adore life.” The song grows into thrashing guitars and percussion and we hear a rare twinkling synth. Then it suddenly ends. It’s undoubtedly the best song Savages have ever written.
 
 Beth demonstrates the power and range of her voice on ‘I Need Something New,’ delivering the first few lines completely unaccompanied before the sound of a guitar screeches against a high note. ‘T.I.W.Y.G.’ starts off heavy with pummelling guitars which act as an instrumental response to “That’s what you get when you mess with love.”

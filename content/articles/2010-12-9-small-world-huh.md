@@ -28,7 +28,9 @@ Nestled on the stool, the silhouette was none other than what obstructed me as I
 I had run into none other than [Luke Turner](http://www.felixonline.co.uk/?user=lht09), Felix’s very own music editor, in the middle of New Zealand.
 
 Just as the exhilaration settled and dampened, it was then the mysterious fabrication of fate that struck us hard. Sure enough, it was no serendipitous, random encounter that dumbfounded us both – the friend I had come visit was undertaking a ski instructor course, and one of her fellow attendees happened to be a friend of Luke’s.
+
 > Thus be the phrase ‘sheer coincidence’ condemned to becoming an eternal understatement
+
 Thus be the phrase ‘sheer coincidence’ condemned to becoming an eternal understatement.
 
 Ever since bitten by the travel bug such ‘coincidences’ have tiptoed into my rucksack, sprouted exponentially and now parasitically attach itself to my traveller’s lifestyle – no more evident than the sighting of uncanny, seemingly-unconnected Facebook mutual friends.

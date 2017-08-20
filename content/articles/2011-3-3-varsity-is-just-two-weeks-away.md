@@ -31,15 +31,19 @@ The biggest day in the Sport Imperial calendar is nearly here, yes that’s righ
 Imperial College Rugby Men’s 1st are currently in fierce competition with University of Reading 1sts for the top spot in the BUCS South Eastern 1A League with, with not many fixtures left to play. Can they steal that top spot with a chance of being promoted to the Premier League next season, let’s hope so! They have won 6 out of their last 7 matches only losing to Chichester 12-11.
 
 With many players including Joe Harris, Ben Adubi, Jamie Aldridge, Max Joachim, Ed Labinski, Caolan Cotter (c), Jack Newton, Louie Barnett and David Wilson (Imperial College Rugby) and Angus Hamilton, Andrew Mowat, Dan Neville, Ovuefe Efeotor and Elliot Rees (Imperial Medicals) playing in their last Varsity fixture this year it is shaping up to be quite an occasion for both teams and their supporters.
+
 > It will be a tough, physical encounter
 > Joe Harris, Imperial Captain
+
 Imperial Rugby Club Captain Joe Harris believes, “...the squad is going from strength to strength each week which I know we can carry forward into the match. It will be a tough, physical encounter as it is each year but the challenge of the medicals will bring out the best in us, so it should be a great game!”
 
 Imperial Medicals Rugby Men’s 1st are in the South Eastern Premier League at the moment and again with not many matches left to play are sitting in an uneasy position towards the end of the leader board and Oxford Brookes and St. Mary’s stand in their way to ensure they stay in the top flight of University Rugby Union. However, they have made the Final of the UH Cup (University Hospitals) after a fantastic performance against RUMS. The final will take place on 11th March, can they win two massive matches in 6 days?
 
 This recent string of matches will however have no effect on their confidence, as they will without a doubt be in a different gear on the night. With such fierce rivalry between the teams, the atmosphere and stature of the venue and occasion will all add to every player contributing 110 percent to Varsity 2011.
+
 > The pressure is on us to retain the title
 > Jamie Rutter, Medicals Captain
+
 After speaking to the Medicals about the match, Club Captain Jamie Rutter said “we are expecting a challenge and one that we are very much looking forward to... Having never lost the cup in previous years the pressure is on us to retain the title.”
 
 When looking at the current BUCS league positions of both Imperial College and Imperial Medicals and recent performances this should be a fairly even contest making it a really exciting spectacle! Caolan Cotter (Captain Imperial College Rugby 1st) is looking forward to the atmosphere the event will bring this year along with the excellent rugby and excitement in the air as they aim to deliver some “Champagne Rugby”!

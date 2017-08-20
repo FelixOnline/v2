@@ -37,7 +37,9 @@ The argument commonly goes, “If people didn’t like this or that media they w
 You may notice that the price you pay for each newspaper is minuscule. The cost of [_The Sun_](http://www.thesun.co.uk/sol/homepage/) newspaper is 20 pence. This doesn’t even cover the ink! Same holds for television and radio where there is zero income from the consumer. Newspapers and other media actually get their money from corporate advertisers.
 
 The media generally cannot run stories that offendcorporations because sponsors will threaten to pull their advertising money. In 1980, the liberal staff at the [_Mother Jones_](http://motherjones.com/) magazine debated over whether or not to publish a series of articles linking cigarettes to cancer. The editors knew that the tobacco industry would punish them by canceling their lucrative advertising contracts, which the young, struggling magazine desperately needed. Mother Jones stuck to its principles and printed the articles anyway; and, just as expected, the tobacco companies angrily pulled their ads.
+
 > The public has very little say in what the press offers them
+
 A few months ago we saw anti-tax evading protests in Britain and America. [The US Uncut group](http://usuncut.org/), for example, protested against the American company General Electric which hasn’t paid a single cent in taxes to the US government since 2006, despite making over $26 billion in profits. The same General Electric that also owns MSNBC, usually a center-left channel that would oppose corporate welfare, yet on this instance they were critical of US Uncut.
 
 Advertisers also want their adverts to be viewed by people who havemoney to spend buying their products. This automatically discriminates against any media with a predominantly working class readership.

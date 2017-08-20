@@ -31,13 +31,17 @@ The competition was open to students studying for a BSc, MSc, MEng, MBA, MPH or 
 The winner was John Chetwood, a fifth year medical student, who undertook work on cholangiocarcinoma (CCA), or bile duct cancer, in Thailand for his BSc in Gastroenterology and Hepatology.
 
 The incidence of CCA is increasing worldwide and is particularly prevalent in areas of South East Asia. A major risk factor for the disease is infection with a parasitic liver fluke, Opisthorchis viverrini. The cancer is invariably fatal.
+
 > The incidence of CCA is increasing worldwide
+
 John spoke about how this cancer is often detected too late due to a lack of accurate diagnostic biomarkers. His project, which he worked on for three months, aimed to explore whether metabolic differences between urine samples of healthy controls and cancer patients could provide the basis for a novel detection method.
 
 Indeed, he found that healthy controls and cancer patients had distinct urinary metabolic profiles with significant differences between levels of citrate, hippurate and glycine.
 
 John said, “I’m extremely pleased to win the first Institute of Global Health Innovation student challenges competition, particularly as I had to rush back from playing hockey at Varsity to compete for the prize. It was very exciting to present my project to such high-profile judges, and such an award validates the emerging role global health is playing in international research.”
+
 > Such a cheap and easy method has the potential to save many lives
+
 He plans to use the £2000 to further validate the findings in a larger study. Another goal is to create a urine dipstick which can detect the presence of the cancer early and accurately. He said, “Such as cheap and easy method has the potential to save many lives.”
 
 Also highly commended was another medical student, Yu-Jeat Chong, for his project which used satellite technology to monitor salinity in drinking water.

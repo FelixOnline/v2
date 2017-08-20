@@ -31,7 +31,9 @@ By the conclusion of the competition, Ed Middleton, an Imperial 5th year medic, 
 Each competing team, made up of two people, takes part in a gruelling nine individual rounds of different debates over a five day period. Each debate is against a room of teams made up of the best student debaters in the world. The event is the largest debating tournament in the world, with over 1000 speakers, judges and organisers in attendance.
 
 The Berlin competition was eventually won by a team from Monash University (Australia); a university that has now won the WUDC three timesin a row.
+
 > For next year’s competition in Chennai (India) the Debating Society will again hold open trials for anyone to compete for an opportunity to represent Imperial
+
 The Imperial team and judges were selected in internal trials within the College, which were adjudicated by external judges. The victorious team was chosen to compete and two runners up representing Imperial as judges.
 
 For next year’s competition in Chennai (India) the Debating Society will again hold open trials for anyone to compete for an opportunity to represent Imperial and they say they are encourage new people to “have a go” at debating.

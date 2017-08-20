@@ -32,7 +32,9 @@ Spring fever is fast approaching. And as Mark Twain puts it, “when you’ve go
 What you don’t want is to be sitting in the library studying. Setting exams at the heart of spring has always been one of life’s immense injustices, the greatest annual manifestation of academic schadenfreude there is. The stupidity of it all ranks up there with anyone that has woken up one day and thought “Wouldn’t my life be more complete with an iPad?”
 
 Indeed, science has never drummed up quite as effective a tranquilizing agent as a sunny spring day. Thought that maths module on Fourier transforms was dull in mid-December? Try focusing on it when everywhere there’s suddenly more colour, more flesh, more daylight. You’d much rather be outside having fun, ogling and cavorting with that girl sitting opposite you in the quiet study area. Without any sort of respite, your revision focus will slowly dwindle.
+
 > There are a few sandwich outlets on campus, but frankly they don’t sufficiently appease the frustrated, overworked, irritable student
+
 Which brings me to lunch – the perfect excuse to grab a well-earned rest from a morning’s hard studying and a stroll with your favourite Biologist. You won’t be welcome in the SCR, where they now check swipe cards to prevent any UGs from tasting their attempts at food – as if exclusivity would somehow make the place more desirable. There are a few sandwich outlets on campus, but frankly they don’t sufficiently appease the frustrated, overworked, irritable student. What will do the trick, however, is a sunny 15 minute walk to Daphne’s restaurant.
 
 I’m not going to claim it’s the best restaurant in London. I haven’t eaten at enough places, my range of London dining falling shamefully short of anyone else pretending to know something about food. But in my desperation at the state of the SCR, I have tried most of South Kensington’s eateries. And none offers as enjoyable a lunch as Daphne’s.

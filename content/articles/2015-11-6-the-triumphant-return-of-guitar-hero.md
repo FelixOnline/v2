@@ -33,7 +33,9 @@ Until recently, the click-clack of plastic peripherals felt like a distant memor
 To observers, this came as no surprise. A saturated market and consumers’ increasing negativity toward expensive plastic instruments made the downfall of the genre all but inevitable.
 
 From its beginnings in 2005, Guitar Hero grew from a guitar based rhythm game to a full band experience. During this time Rock Band proved a formidable rival, offering a vast online catalogue of songs and a large variety of instruments.
+
 > It perfectly emulates the ability of the public to suddenly turn on you
+
 Harmonix hoped to survive the downturn with the release of Rock Band 3. Advertised as a platform to purchase music, they promised to continue supporting the title with new content long into the future, but, by 2013 the release of regular DLC was discontinued.
 
 One of Activision’s last attempts to revitalise the franchise, in the release of DJ Hero, saw critical acclaim and also introduced the world to FreeStyleGames who would later go on to develop Guitar Hero Live. Offering a wide selection of musical genres and interesting gameplay mechanics, it proved that there was space left in rhythm gaming to innovate.

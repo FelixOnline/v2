@@ -45,7 +45,9 @@ Last week a group of scientists agreed that the Holocene-Anthropocene boundary s
 Triggered after World War II, the Green Revolution pushed to intensify agriculture and converted pristine habitats to crop and pasture land in order to crank up food production. The global transformation of land for agricultural use has been forecast to take up over half the world’s land surface by 2050.
 
 To increase efficiency and yields a myriad of fertilisers, insecticides and pesticides began to be mass-produced and extensively used with disastrous consequences for native wildlife.
+
 > "The start of the Anthropocene was at the start of the Industrial Revolution."
+
 The imprint of these agro-chemicals can still be seen today; recently corn farming in the USA has taken over the landscape to meet the demand for biofuel production.
 
 This in turn has caused fertiliser run-off into the Mississippi River and the mass deaths of marine life in the Gulf of Mexico due to nutrient enrichment. Furthermore, a rise in commerce and international transport has relocated non-native species into new habitats, such as the infamous Cane toad in Australia which has since dominated and destroyed native communities.
@@ -61,7 +63,9 @@ In contrast, the ‘big five’ mass extinction events are times in Earth’s hi
 Normally extinction rates are actually much lower than this, with an average 1 extinction/million species/year. However, estimates of current extinction rates range from 100-1000 times this background rate and are projected to reach the same magnitude as the ‘big five’ mass extinctions within three centuries.
 
 So the future is not looking so bright, and the rapid expansion of mankind’s populations and our exploitation of Earth’s resources has continued mostly unchecked, bringing us all into a new era of global destruction.
+
 > "Current extinction rates are projected to reach the same magnitude as the 'big five' mass extinctions."
+
 __Sunrise and sustainability__
 
 But it’s not all doom and gloom, I hasten to add – and you probably knew most of this already, or at least had a hunch. The introduction of government environmental policies and monitoring is reducing the impact of some of mankind’s damage to the planet, for instance in the case of agro-chemical regulation.

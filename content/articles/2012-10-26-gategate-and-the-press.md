@@ -27,7 +27,9 @@ On Friday Andrew Mitchell - the Government’s chief whip - resigned after a con
 
 The best defence I heard of the policeman was from Edith Hall, professor of classics at King’s College London who said that ‘pleb’ was “just not the sort of thing a policeman would invent”. Not sure if I would take that as a complement or not. Is knowledge of classical insults something to brag about?
  What amused me throughout the saga was the multitude of headlines you could get out of such a simple case of idiocy. Search the BBC’s website for “pleb” and you’ll find a huge list of relevant headlines.
+
 > My computer crashed due to an ignorance overload.
+
 Examples of the most inciteful include: “Is Pleb an insult?”, “ Who says ‘pleb’ nowadays?”, “Andrew Mitchell is ‘toast’ says Miliband” and “Alex Salmond condemns UK government’s ‘Lord Snootys’”. I counted around 30 articles on the BBC alone written over the course of a month: a rate of one a day. All about something that - no matter your point of view - is largely irrelevant to everyone. What is there to say? What could the 24th article possibly have said that wasn’t covered in the preceding 23? Why did these people take it upon themselves to say exactly the same as someone else the day before? And that’s just the BBC. I tried to search the Daily Mail’s website but my computer crashed due to an ignorance overload.
 
 Don’t get me wrong; no one in politics has a nice word to say about Andrew Mitchell. It sounds like he’s offensive and arrogant, but the attention he has been given is bizarrely overwhelming.

@@ -30,8 +30,10 @@ Ah, summer. That brief and fleeting moment of respite between the end of one exa
 So, we’re out. What now, eh? What came to pass from the EU referendum was, whichever way you cut it, historic. No full country, this deep in the union, has left it before and now we’ve got to deal with the fallout for better or for worse.
 
 This sent the entire country into a bit of a meltdown, one which caused political figures to leave left, right and centre and now we’ve a new Prime Minister (more on that later). 51.9% of voters decided that they wanted to leave the EU and that wish has now to be enacted via triggering “Article 50”. This would then put the Leave vote into law and starts two years (longer if all 28 members agree to extend this) of negotiation as to the terms of our split.
-> > \ May just keeps barking “BREXIT MEANS BREXIT” like a crap
-> > dictionary \
+
+> \ May just keeps barking “BREXIT MEANS BREXIT” like a crap
+> dictionary \
+
 When this will all happen is a mystery to all of us and maybe even to the Government itself, Theresa May just keeps barking “BREXIT MEANS BREXIT” like a crap dictionary, and the rest of her Brexit negotiation team (David Davis, Liam Fox, BoJo etc) are following suit.
 
 It’s all a bit cloak and daggers at the moment, apparently so that the other EU nations don’t get the upper hand in negotiations but probably because nobody has a clue. As for what is going to happen with the EU land border in Northern Ireland, the situation with Gibraltar and whether Scotland decide to hold another referendum, your guess is as good as mine.
@@ -68,7 +70,9 @@ Russia weren’t allowed their full team to compete either, after the World Anti
 The diving pool turned a strange green colour, the Sailing and Windsurfing venue had heavy pollution in the water and the Zika virus was touted as being a massive threat to all who attended but was it all really that bad? Not for Britain, we came away with 27 golds and beat China into 2nd in the medal table so I mean it’s pretty equal in our eyes.
 
 Ryan Lochte came away with slightly less than that though, losing his credibility and pretty much all of his sponsorships after he lied about being robbed at a petrol station. Shame on you Ryan. Shame on you.
-> > \ Andy Murray also won Wimbledon again (and then cried again) \
+
+> \ Andy Murray also won Wimbledon again (and then cried again) \
+
 Other sports had varying degrees of success. England football manager, Roy Hodgson, had to resign after a crippling loss to Iceland put them out of Euro 2016. His successor, Sam Allardyce,  then lasted just 67 days, after a scandal over circumventing FA rules for cash. The undercover footage released by The Telegraph also shows ‘Big Sam’ drinking wine from a pint glass #TopLad. Andy Murray  also won Wimbledon again and then cried again.
 ## London life
 Joy for party-goers as the Night Tube finally started, albeit only on the Central and Victoria lines so far. The Jubilee, Northern and Piccadilly lines are all touted to be coming “this autumn” but we were also promised the service back in the summer of 2015 so don’t hold your breath.
@@ -82,7 +86,9 @@ Also there’s a shiny new five pound note you can spend on your various nights 
 As of going to press the exchange rate fluctuations mean could be worth enough to buy most of Andorra or could be worth literally nothing.
 ## The Zeitgeist
 In slightly worse (_read as utterly devastating_) news, The Great British Bakeoff has been bought by Channel 4 and will be moving from the BBC after this series.
-> > \ Everyday people bake in a tent and are then critiqued by a pensioner and a sex icon (you decide who is who) \
+
+> \ Everyday people bake in a tent and are then critiqued by a pensioner and a sex icon (you decide who is who) \
+
 For those of you not yet initiated into British pop culture, essentially we as a nation adore a TV show in which everyday people bake in a tent and are then critiqued by a pensioner and a sex icon (you decide who is who). Don’t judge us alright.
 
 Hosts, Mel and Sue, became martyrs to the cause when they announced they wouldn’t be going with the show and Mary Berry soon followed suit. Paul Hollywood was the Judas of the group though, with the allure of Channel 4’s dough (pun intended) being all too much.

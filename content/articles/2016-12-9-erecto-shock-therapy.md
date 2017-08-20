@@ -29,7 +29,9 @@ Transcranial magnetic stimulation (TMS) is a technique currently used in the tre
 A new study directly looking at libido suggests that this may be the case. The area of the brain involved in pleasure was stimulated in 20 people for 20 minutes. This involved strapping a vibrator to either the penis or clitoris of the volunteer, and monitoring the strength of alpha brain waves via electrodes attached to the individual’s head. Alpha waves are generally weaker during sexual arousal. This group was split into two: one received excitatory TMS, and the other inhibitory. In other words, the excitatory group had the pleasure region of their brain stimulated while the other did not.
 
 The researchers then monitored the effects of sexual arousal on the level of sexual desire. Each volunteer was left alone in a room, with a vibrator that they could control themselves. They had to press the button as quickly as possible when a shape appeared on a screen. Depending on their speed of response, they would be stimulated after a pause.
-> > Transcranial magnetic stimulation is currently used to treat migraines and depression. This study linked an increase of libido directly to this treatment
+
+> Transcranial magnetic stimulation is currently used to treat migraines and depression. This study linked an increase of libido directly to this treatment
+
 The strength of the alpha waves during this waiting period were the most important find. Individuals that were part of the excitatory group had weaker alpha waves than those that were not. They were more sexually aroused with the expectation of stimulation. Therefore, the brain waves can be seen as an analogue to sexual desire, and so the sex drive of the excitatory group was increased.
 
 However, it is not known whether there were any changes in the sex lives of the volunteers after the study. Their sexual responsiveness, however, did increase. The number of orgasms experienced rose over the next few days.
