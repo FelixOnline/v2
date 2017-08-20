@@ -1,5 +1,3 @@
-{{ $baseURL := .Site.BaseURL }}
-
 {{ partial "header.html" . }}
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
@@ -16,7 +14,7 @@
       Tagged with:
       <ul>
         {{ range .Params.tags }}
-          <li><a href="{{ $baseURL }}tags/{{ . }}">{{ . }}</a> </li>
+          <li><a href="{{ $.Site.BaseURL }}tags/{{ . }}">{{ . }}</a> </li>
         {{ end }}
       </ul>
     {{ end }}

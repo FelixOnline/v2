@@ -42,7 +42,7 @@
   {{ range $name, $pages := .Site.Taxonomies.categories }}
     <div class="section">
       <h1>
-        <a href="/section/{{ $name }}.html">{{ $name }}</a>
+        <a href="{{ $.Site.BaseURL }}categories/{{ $name }}">{{ $name }}</a>
       </h1>
 
       <div class="post-block-container">

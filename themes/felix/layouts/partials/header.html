@@ -1,4 +1,3 @@
-{{ $baseURL := .Site.BaseURL }}
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode | default "en-us" }}">
 <head>
@@ -8,21 +7,21 @@
   <title>{{ .Title }}</title>
   {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
   {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
-  <link rel="stylesheet" href="{{ $baseURL }}css/style.css">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
   {{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
 </head>
 <body>
 
   <header class="site-header" role="banner">
     <div class="wrapper">
-      <a class="site-title" href="{{ $baseURL }}">{{ .Site.Title }}</a>
+      <a class="site-title" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
     </div>
 
     <div class="site-nav">
       {{ range $name, $pages := .Site.Taxonomies.categories }}
         <span class="page-link">
-          <object class="icon" type="image/svg+xml" data="{{ $baseURL }}icons/{{ $name }}1.svg"></object>
-          <a href="{{ $baseURL}}/categories/{{ $name }}">{{ $name }}</a>
+          <object class="icon" type="image/svg+xml" data="{{ $.Site.BaseURL }}icons/{{ $name }}1.svg"></object>
+          <a href="{{ $.Site.BaseURL }}/categories/{{ $name }}">{{ $name }}</a>
         </span>
       {{ end }}
     </div>
