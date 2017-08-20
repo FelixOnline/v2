@@ -38,21 +38,18 @@ select
   image.attribution as image_attribution,
   image.attr_link as image_attribution_link,
 
-  user.user as author_id,
-  user.name as author_name,
-  user.twitter as author_twitter,
-  user.facebook as author_facebook,
-  user.websitename as author_website_title,
-  user.websiteurl as author_website_url,
-  user_images.uri as author_image_path
+  GROUP_CONCAT(article_author.author) as authors,
+
+  user.user as text_author
 
 from article
-  left join category   on category.id=article.category
-  left join image      on image.id=article.img1
-  left join text_story on text_story.id=article.text1
-  left join comment    on comment.article=article.id
-  left join user       on user.user=text_story.user
+  left join category             on category.id=article.category
+  left join image                on image.id=article.img1
+  left join text_story           on text_story.id=article.text1
+  left join comment              on comment.article=article.id
+  left join user                 on user.user=text_story.user
   left join image as user_images on user.image=user_images.id
+  left join article_author       on article_author.article=article.id
 
 group by article.id
 
@@ -61,13 +58,11 @@ SQL
 count = 0
 client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   r["comments"] ||= ""
-  r["author_id"] = (r["author_id"] || "felix").downcase
 
   md = %w(---)
   md << "title: >\n  #{r["article_title"].gsub(/\s+/, " ")}"
   md << "subtitle: >\n  #{r["article_teaser"].gsub(/\s+/, " ")}"
   md << "date: \"#{r["article_date"]}\""
-  md << "author_id: \"#{r["author_id"]}\""
 
   md << "\n# Attributes from Felix Online V1"
   md << "id: \"#{r["article_id"]}\""
@@ -89,7 +84,9 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << " - image" if r["image_path"] && r["image_path"].length > 0
   md << " - imported_comments" if r["comments"].length > 0
   md << "authors:"
-  md << " - #{r["author_id"]}"
+  (r["authors"].downcase.split(",") + [r["text_author"]]).uniq.compact.sort.each do |author|
+    md << " - #{author}"
+  end
   md << "highlights:"
   md << " - comment" if r["comments"].length > 0
   md << " - longread" if r["content"].to_s.split(" ").length > 1000
@@ -152,7 +149,7 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   # TODO: some articles are missing in the exported folder, investigate
   File.write("content/articles/#{filename}.md", contents)
 
-  next if r["author_id"] == "felix"
+  next #if r["author_id"] == "felix"
   if r["author_id"]
     md = %w(---)
     md << "id: \"#{r["author_id"]}\""

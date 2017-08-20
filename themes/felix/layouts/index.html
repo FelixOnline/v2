@@ -23,7 +23,7 @@
         </div>
          <div class="title">
           <a href="{{ .Permalink }}">{{ truncate $titleLength "..." .Title }}</a>
-          {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" .Params.author_id) }}
+          {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0) }}
           <span class="author">{{ $authorPage.Title }}</span>
         </div>
       </div>
@@ -53,7 +53,7 @@
                   {{ truncate $subtitleLength "..." .Params.subtitle }}
                 </div>
                 <div class="byline">
-                  {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" .Params.author_id) }}
+                  {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
                   <span class="author">{{ $authorPage.Title }}</span>
                   <span class="date">{{ .Date.Format "Monday Jan 2" }}</span>
                 </div>
